@@ -1,0 +1,872 @@
+{
+  "nomeUniversidade": "Universidade de São Paulo",
+  "siglaUniversidade": "USP",
+  "nomeProva": "FUVEST 2022 - 1ª Fase",
+  "ano": 2022,
+  "qtdeQuestoes": 90,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "A deficiência na enzima G6PD é uma condição recessiva ligada ao cromossomo X, que pode ser diagnosticada no teste do pezinho expandido. Pessoas com deficiência nesta enzima são suscetíveis à anemia hemolítica ao serem expostas à cloroquina ou primaquina, drogas amplamente prescritas por médicos no tratamento da malária. No Brasil, a prevalência de deficiência em G6PD na população geral varia de acordo com as áreas mostradas no mapa:\n\nDombrowski, J G et al. (2017), Malar J, 16:253, doi:10.1186/s12936-017-1889-6 e Monteiro, W M et al. (2014), Mem Inst Oswaldo Cruz, 109:5, 553-568, doi:10.1590/0074-0276140123. Adaptados.\n\nIndique a afirmação correta sobre a segurança da prescrição de cloroquina nesse contexto.\n\nNote e adote:\nPopulação de três regiões brasileiras: Norte = 18 milhões; Nordeste = 58 milhões; Centro-Oeste = 17 milhões.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Não é necessário fazer o teste do pezinho expandido em filhos de casais da região Nordeste do Brasil que apresentem deficiência da G6PD, já que menos de 3% dos testes serão positivos."
+        },
+        {
+          "letra": "B",
+          "texto": "Aproximadamente 8,5 milhões de pessoas da região Centro-Oeste do Brasil têm somente um alelo recessivo para a deficiência em G6PD, sendo assintomáticas."
+        },
+        {
+          "letra": "C",
+          "texto": "Cerca de 900 mil pessoas da região Norte do Brasil podem desenvolver anemia hemolítica devido ao tratamento com cloroquina, sendo a maioria do sexo masculino."
+        },
+        {
+          "letra": "D",
+          "texto": "Descendentes de casais que não apresentam deficiência em G6PD têm mais de 25% de chance de possuírem o alelo recessivo e podem ser tratados com cloroquina em áreas onde a malária não seja endêmica."
+        },
+        {
+          "letra": "E",
+          "texto": "Os pacientes do sexo masculino devem ser investigados quanto à presença de anemia hemolítica na família paterna caso vivam em regiões onde a malária é endêmica."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Genética e Hereditariedade",
+        "Geografia – Demografia e Saúde Pública"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Por mais bem informado que você possa ser, não dá para baixar a guarda. Mas por que as notícias falsas mesmo aquelas mais improváveis - parecem tão convincentes para tantas pessoas? Van Bavel, professor de psicologia e ciência neural da Universidade de Nova York, se especializou em entender como as crenças políticas e identidades de grupo influenciam a mente, e descobriu que a identificação com posições políticas pode interferir em como o cérebro processa as informações.\nTendemos a rejeitar fatos que ameaçam nosso senso de identidade e sempre buscar informações que confirmem nossas próprias crenças, seja por meio de memórias seletivas, leituras de fontes que estão do nosso lado ou mesmo interpretando os fatos de determinada maneira. Isso tudo está relacionado a não querermos ter nossas ideias, gostos, identidade questionados, e por isso temos dificuldade em aceitar o que contradiz aquilo em que acreditamos.\n\nAna Prado. “A ciência explica por que caímos em fake news\". Superinteressante. 15/06/2018. Adaptado.\n\nDe acordo com o texto,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as pessoas bem informadas estão protegidas de polêmicas, uma vez que o modo como processam os fatos tornam suas opiniões mais convincentes."
+        },
+        {
+          "letra": "B",
+          "texto": "o posicionamento político garante a disseminação de notícias verdadeiras e resulta de crenças já estabelecidas socialmente."
+        },
+        {
+          "letra": "C",
+          "texto": "a rejeição a questionamentos impede que se admitam pontos de vista antagônicos, em razão da tendência de se confirmar crenças pessoais."
+        },
+        {
+          "letra": "D",
+          "texto": "as memórias seletivas auxiliam na rejeição de fatos contrários à realidade, já que conduzem à interpretação das reportagens de modo imparcial."
+        },
+        {
+          "letra": "E",
+          "texto": "os fatos hostis normalmente são preteridos por grande parte da sociedade, embora sejam utilizados como identificador cultural."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Sociologia – Indústria Cultural e Meios de Comunicação"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Nas histórias em quadrinhos, o Pantera Negra ganha habilidades físicas e mentais sobre-humanas ao ingerir ou aplicar sobre seu corpo uma solução da erva em formato de coração, cujos efeitos perduram durante a vida do herói, mas não são transmitidos aos descendentes. Essa planta cresce em Wakanda, região da África equatorial oriental, onde um meteorito contendo um metal chamado Vibranium caiu há 10 mil anos e provocou mutações na planta. Uma explicação coerente com o conhecimento científico para o que ocorreu nessa situação ficcional é que a erva",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "sofreu mutações em células somáticas pela ação do Vibranium na época em que o meteorito atingiu Wakanda."
+        },
+        {
+          "letra": "B",
+          "texto": "promoveu mutações no RNA das células do Pantera Negra."
+        },
+        {
+          "letra": "C",
+          "texto": "provocou mutações dominantes relacionadas aos super-poderes nas células germinativas do Pantera Negra."
+        },
+        {
+          "letra": "D",
+          "texto": "é uma planta característica de ambientes de tundra."
+        },
+        {
+          "letra": "E",
+          "texto": "estava em estação de floração quando o meteorito caiu, causando mutações em suas células germinativas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Genética e Mutações"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Milhões de brasileiros enfrentam péssimas condições de transporte todos os dias.\n\nE alguns ainda dizem...\n\n...que este é o país da impunidade.\n\nDisponível em http://www.malvados.com.br/.\n\nConsiderando a ironia da tirinha, é possível inferir que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o serviço de transporte público é gerido pelo Estado."
+        },
+        {
+          "letra": "B",
+          "texto": "a qualidade do transporte é uma forma de punição."
+        },
+        {
+          "letra": "C",
+          "texto": "os responsáveis pelo transporte são punidos no Brasil."
+        },
+        {
+          "letra": "D",
+          "texto": "o brasileiro é um povo que tolera a criminalidade."
+        },
+        {
+          "letra": "E",
+          "texto": "o transporte público é responsável pela mobilidade urbana."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto e Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "O gráfico mostra dados coletados na cidade do Rio de Janeiro, entre fevereiro e abril de 2020, período que inclui o início das medidas de restrição de circulação na cidade por causa da pandemia de COVID-19. Para cada dia, representado por um símbolo no gráfico, foram coletadas duas grandezas: uma média da energia de vibração sísmica durante o dia (na abscissa) e o índice F (na ordenada), que é a fração de pessoas que saiu de casa alguma vez naquele dia. A energia sísmica média foi medida em $(nm/s)^2$ na faixa de frequências que tem causas humanas. Os triângulos representam domingos e feriados; os quadrados referem-se aos sábados; e os círculos correspondem aos dias úteis da semana. Para cada um desses subconjuntos de dados, uma reta média foi obtida, expressando a relação aproximada entre as duas grandezas medidas.\n\nDias, F L et al. (2020), Geophysical Research Letters, 47:16, doi:10.1029/2020GL088748. Adaptado.\n\nSobre o estudo descrito, o que é possível inferir a partir dos dados apresentados?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Em nenhum sábado, a energia sísmica média registrada superou 380 $(nm/s)^2$."
+        },
+        {
+          "letra": "B",
+          "texto": "Em todos os dias úteis da semana, pelo menos 20% das pessoas permaneceram o tempo todo em casa."
+        },
+        {
+          "letra": "C",
+          "texto": "Em alguns dos dias de domingo ou feriado, a energia sísmica média foi maior do que 600 $(nm/s)^2$."
+        },
+        {
+          "letra": "D",
+          "texto": "Em dias úteis da semana, a energia sísmica média foi maior ou igual do que em sábados, domingos e feriados, para o mesmo número de pessoas que saiu de casa em um dia."
+        },
+        {
+          "letra": "E",
+          "texto": "Aos sábados, uma medição de energia sísmica média de 190 $(nm/s)^2$ indica que mais de 60% das pessoas saíram de casa nesse dia."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Análise de Gráficos e Dados Experimentais"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Os mapas mostram uma parte do município de São Paulo. O mapa I refere-se à população vacinada contra Sars-Cov-2; o mapa II refere-se à taxa de mortalidade por COVID-19; e o mapa III refere-se ao Índice de Desenvolvimento Humano. Tons mais claros indicam valores menores e tons mais escuros, valores maiores.\n\nDisponível em https://www.labcidade.fau.usp.br/. Maio/2021. Adaptado.\n\nA partir desses dados, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a efetividade da campanha de vacinação coincide com as áreas de maior IDH."
+        },
+        {
+          "letra": "B",
+          "texto": "a virulência das variantes de Sars-Cov-2 é menor em áreas de menor IDH."
+        },
+        {
+          "letra": "C",
+          "texto": "as vacinas em áreas de menor IDH demandam maior tempo para a resposta imunológica do indivíduo."
+        },
+        {
+          "letra": "D",
+          "texto": "a taxa de mortalidade varia porque a população no centro do município é maior e mais agregada."
+        },
+        {
+          "letra": "E",
+          "texto": "a prevalência das variantes de Sars-Cov-2 é maior em áreas de maior IDH."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Análise de Mapas e Saúde Pública"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Um aumento no consumo de água e produtos agrícolas por parte da população brasileira geralmente vem atrelado a um aumento na pressão exercida sobre o meio ambiente. Selecione a alternativa que apresenta duas soluções sustentáveis, de amplo alcance nacional e economicamente viáveis, para diminuir a expansão dos cultivos sobre a vegetação nativa e para garantir recursos hídricos de qualidade para as gerações futuras.",
+      "alternativas": null,
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Agropecuária e Meio Ambiente"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Os gráficos mostram três trajetórias distintas com relação ao número de espécies animais e vegetais, após desmatamento de áreas da floresta Amazônica:\n\nApós os desmatamentos, os gráficos I, II e III correspondem, respectivamente, a uma área que foi",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "usada para pastagem e depois para cultivo de soja; usada para cultivo de soja nos primeiros 20 anos e depois abandonada; abandonada logo após o desmatamento."
+        },
+        {
+          "letra": "B",
+          "texto": "abandonada logo após o desmatamento; usada como pastagem nos primeiros 20 anos e depois abandonada; usada para pastagem e depois para cultivo de soja."
+        },
+        {
+          "letra": "C",
+          "texto": "usada como pastagem nos primeiros 20 anos e depois abandonada; abandonada logo após o desmatamento; usada para pastagem e depois para cultivo de soja."
+        },
+        {
+          "letra": "D",
+          "texto": "usada como pastagem nos primeiros 20 anos e depois abandonada; usada para pastagem e depois para cultivo de soja; abandonada logo após o desmatamento."
+        },
+        {
+          "letra": "E",
+          "texto": "usada para pastagem e depois para cultivo de soja; abandonada logo após o desmatamento; usada para cultivo de soja nos primeiros 20 anos e depois abandonada."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Ecologia e Sucessão Ecológica"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "O gráfico representa o volume celular de um protozoário ciliado em um gradiente de salinidade:\n\nA partir desses dados, é correto afirmar que o protozoário ciliado é\n\nNote e adote:\nO volume celular do ciliado em seu habitat natural é o referencial 1.\n0% corresponde a água doce pura.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "de água salobra e seu equilíbrio osmótico ocorre por difusão passiva em ambientes hiposmóticos."
+        },
+        {
+          "letra": "B",
+          "texto": "de água doce e possui mecanismos de controle osmótico em ambientes hiperosmóticos."
+        },
+        {
+          "letra": "C",
+          "texto": "marinho e possui mecanismos de controle osmótico em ambientes hiperosmóticos."
+        },
+        {
+          "letra": "D",
+          "texto": "de água doce e não possui mecanismos de controle osmótico em ambientes hiposmóticos."
+        },
+        {
+          "letra": "E",
+          "texto": "marinho e não possui mecanismos de controle osmótico em ambientes hiposmóticos."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Fisiologia Celular e Osmose"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "O gráfico mostra linhas de tendência de cinco parâmetros da água (eixo y), medidos por pesquisadores, durante os estágios iniciais do processo de eutrofização de uma lagoa, a partir do momento em que começou a haver aporte de esgoto não tratado e antes de haver a estabilização do sistema. Entretanto, os técnicos da companhia de saneamento notaram que nem todas as tendências mostradas no gráfico estão corretas.\n\nSão corretas apenas as linhas de tendência representadas em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1, 2 e 3."
+        },
+        {
+          "letra": "B",
+          "texto": "1, 2 e 4."
+        },
+        {
+          "letra": "C",
+          "texto": "2, 3 e 5."
+        },
+        {
+          "letra": "D",
+          "texto": "2, 4 e 5."
+        },
+        {
+          "letra": "E",
+          "texto": "3, 4 e 5."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Ecologia e Eutrofização"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "O gráfico representa a proporção de células em diferentes fases do ciclo celular de dois tecidos humanos (1 e 2), bem como o efeito do tratamento do tecido 2 com uma substância que afeta a divisão celular:\n\nOs tecidos 1 e 2 e uma aplicação médica do efeito do tratamento são, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "muscular, tumoral e quimioterapia."
+        },
+        {
+          "letra": "B",
+          "texto": "ósseo, ovariano e fertilização in vitro."
+        },
+        {
+          "letra": "C",
+          "texto": "nervoso, tumoral e transplante."
+        },
+        {
+          "letra": "D",
+          "texto": "epitelial, ósseo e transfusão sanguínea."
+        },
+        {
+          "letra": "E",
+          "texto": "tumoral, nervoso e radioterapia."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Citologia e Ciclo Celular"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Analise o esquema e as estruturas (X, Y e Z) da planta para completar a frase a seguir.\n\nÀs 14h de um dia ensolarado, em condições hídricas ótimas, a estrutura identificada por __I__ encontra-se __II__, possibilitando a absorção de água do solo e entrada de CO2, que é utilizado pela estrutura representada por __III__ para realização da fotossíntese.\n\nAs lacunas I, II e III podem ser preenchidas corretamente por:",
+      "alternativas": null,
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Botânica e Fisiologia Vegetal"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "O esquema a seguir representa o aparecimento de bactérias mutantes em uma colônia e o resultado de sua exposição a quatro diferentes condições de cultura:\n\nDisponível em https://edepot.wur.nl/376546/. Adaptado.\n\nAssinale a alternativa com a relação correta entre as mutações e as condições de cultura.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A mutação X inativa os transportadores de glicose, e a condição I tem esse açúcar como fonte exclusiva de carbono."
+        },
+        {
+          "letra": "B",
+          "texto": "A mutação X promove melhor eficiência do equilíbrio osmótico, e a condição III tem alta salinidade."
+        },
+        {
+          "letra": "C",
+          "texto": "A mutação Y confere resistência ao antibiótico penicilina, e o meio de cultura da condição II contém esse antibiótico."
+        },
+        {
+          "letra": "D",
+          "texto": "As mutações X e Y conferem vantagem adaptativa às bactérias na condição IV."
+        },
+        {
+          "letra": "E",
+          "texto": "A frequência de novas mutações será maior na condição IV."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Evolução e Seleção Natural",
+        "Biologia – Microbiologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "O quadrinho a seguir mostra uma paródia entre situações cotidianas e descobertas científicas.\n\nQuais feitos científicos de Mendeleev, de Watson e Crick e de Thomson estão relacionados com o quadrinho?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Proposição de um modelo atômico, descoberta da estrutura dos polímeros, descoberta da radioatividade."
+        },
+        {
+          "letra": "B",
+          "texto": "Organização dos elementos químicos em uma Tabela Periódica, descoberta da estrutura do DNA, proposição de um modelo atômico."
+        },
+        {
+          "letra": "C",
+          "texto": "Compreensão da reatividade dos elementos químicos, representação simbólica dos elementos, descoberta das interações moleculares."
+        },
+        {
+          "letra": "D",
+          "texto": "Definição de entalpia, representação simbólica dos elementos, caracterização e propriedades dos coloides."
+        },
+        {
+          "letra": "E",
+          "texto": "Balanceamento de equações químicas, descoberta da pilha, organização dos elementos químicos em uma Tabela Periódica."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História da Ciência",
+        "Química – Modelos Atômicos e Tabela Periódica"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "No texto do filósofo francês Maurice Merleau-Ponty é estabelecida uma conexão entre as relações sociais e a racionalidade dos indivíduos:\n\nA sociedade humana não é uma comunidade de espíritos racionais, só se pode compreendê-la assim nos países favorecidos, em que o equilíbrio vital e econômico foi obtido localmente e por certo tempo.\n\nMaurice Merleau-Ponty, Fenomenologia da percepção, p.89.\n\nQual sentença, se tomada como verdadeira, reforça a posição exprimida pelo filósofo no trecho?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A racionalidade é uma potência espiritual que se impõe sobre as circunstâncias históricas."
+        },
+        {
+          "letra": "B",
+          "texto": "O equilíbrio vital e econômico é uma força irracional que se contrapõe aos espíritos racionais."
+        },
+        {
+          "letra": "C",
+          "texto": "Nos países favorecidos, as pessoas são naturalmente mais racionais."
+        },
+        {
+          "letra": "D",
+          "texto": "A racionalidade das relações sociais depende da estabilidade de circunstâncias históricas."
+        },
+        {
+          "letra": "E",
+          "texto": "Os espíritos racionais são responsáveis pelo equilíbrio vital e econômico dos países favorecidos."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Filosofia – Fenomenologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "A figura sintetiza, de forma simplificada, a variação da pressão sanguínea (mmHg), da velocidade de circulação sanguínea (cm/s) e da área total (cm²) em relação aos diversos tipos de vasos do sistema sanguíneo humano (artérias, arteríolas, capilares, vênulas e veias):\n\nCom base na figura, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a velocidade aumenta nas vênulas, o que permite às hemoglobinas descarregarem o O2."
+        },
+        {
+          "letra": "B",
+          "texto": "a pressão sanguínea cai nos capilares, vênulas e veias pela presença de válvulas nesses vasos."
+        },
+        {
+          "letra": "C",
+          "texto": "a pressão diminui a partir dos capilares, o que evita acidentes vasculares em vasos menores."
+        },
+        {
+          "letra": "D",
+          "texto": "a área aumenta na região dos capilares, o que permite maior eficiência nas trocas gasosas."
+        },
+        {
+          "letra": "E",
+          "texto": "a velocidade é inversamente proporcional à área por conta do batimento sistólico do coração."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Fisiologia Humana e Sistema Cardiovascular"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "TEXTO PARA AS QUESTÕES 17 E 18\n\nNo modelo hegemônico, quase todo o treinamento é reservado para o desenvolvimento muscular, sobrando muito pouco tempo para a mobilidade, a flexibilidade, o treino restaurativo, o relaxamento e o treinamento cardiovascular. Na teoria, seria algo em torno de 70% para o fortalecimento, 20% para o cárdio e 10% para a flexibilidade e outros. Na prática, muitos alunos direcionam 100% do tempo para o fortalecimento.\n\nComo a prática cardiovascular é infinitamente mais significativa e determinante para a nossa saúde orgânica como um todo, podendo ser considerada o “coração” de um treinamento consciente e saudável, essa ordem deveria ser revista.\n\nNuno Cobra Jr. \"Fitness não é saúde\". Uol. 06/05/2021. Adaptado.\n\nSem alteração de sentido, o segundo parágrafo do texto poderia ser reescrito da seguinte maneira:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ainda que a prática cardiovascular seja infinitamente mais significativa e determinante para a nossa saúde orgânica como um todo, essa ordem deveria ser revista, podendo ser considerada o \"coração\" de um treinamento consciente e saudável."
+        },
+        {
+          "letra": "B",
+          "texto": "Para evitar que a prática cardiovascular se torne infinitamente mais significativa e determinante para a nossa saúde orgânica como um todo, podendo ser considerada o \"coração” de um treinamento consciente e saudável, essa ordem deveria ser revista."
+        },
+        {
+          "letra": "C",
+          "texto": "Quando a prática cardiovascular for infinitamente mais significativa e determinante para a nossa saúde orgânica como um todo, essa ordem deveria ser revista, podendo ser considerada o \"coração\" de um treinamento consciente e saudável."
+        },
+        {
+          "letra": "D",
+          "texto": "Quanto mais a prática cardiovascular é infinitamente mais significativa e determinante para a nossa saúde orgânica como um todo, podendo ser considerada o \"coração” de um treinamento consciente e saudável, essa ordem deveria ser revista."
+        },
+        {
+          "letra": "E",
+          "texto": "Essa ordem deveria ser revista: a prática cardiovascular é infinitamente mais significativa e determinante para a nossa saúde orgânica como um todo, podendo ser considerada o \"coração” de um treinamento consciente e saudável."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Reescrita e Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "TEXTO PARA AS QUESTÕES 17 E 18\n\nNo modelo hegemônico, quase todo o treinamento é reservado para o desenvolvimento muscular, sobrando muito pouco tempo para a mobilidade, a flexibilidade, o treino restaurativo, o relaxamento e o treinamento cardiovascular. Na teoria, seria algo em torno de 70% para o fortalecimento, 20% para o cárdio e 10% para a flexibilidade e outros. Na prática, muitos alunos direcionam 100% do tempo para o fortalecimento.\n\nComo a prática cardiovascular é infinitamente mais significativa e determinante para a nossa saúde orgânica como um todo, podendo ser considerada o “coração” de um treinamento consciente e saudável, essa ordem deveria ser revista.\n\nNuno Cobra Jr. \"Fitness não é saúde\". Uol. 06/05/2021. Adaptado.\n\nDentre as expressões destacadas, a que exerce a mesma função sintática do termo sublinhado em \"o treino restaurativo, o relaxamento e o treinamento cardiovascular\" é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "um atleta de seleção precisa de treinamento intenso."
+        },
+        {
+          "letra": "B",
+          "texto": "o amor ao esporte é fundamental para o atleta."
+        },
+        {
+          "letra": "C",
+          "texto": "a população incorpora radicalmente atitudes saudáveis."
+        },
+        {
+          "letra": "D",
+          "texto": "muitas pessoas se beneficiam de alimentos verdes."
+        },
+        {
+          "letra": "E",
+          "texto": "todo tipo de atividade física faz bem à saúde mental."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe e Funções Sintáticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Por narrativas paralelas entende-se um procedimento literário segundo o qual dois ou mais fios narrativos pertencentes a níveis distintos de realidade se desenrolam intercaladamente formando um todo. Considerando-se a sua estrutura, as duas narrativas que podem ser identificadas com base nessa definição são:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Quincas Borba e Nove noites"
+        },
+        {
+          "letra": "B",
+          "texto": "Campo geral e Terra sonâmbula"
+        },
+        {
+          "letra": "C",
+          "texto": "Angústia e Campo geral"
+        },
+        {
+          "letra": "D",
+          "texto": "Nove noites e Terra sonâmbula"
+        },
+        {
+          "letra": "E",
+          "texto": "Quincas Borba e Angústia"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "LEIA OS SEGUINTES TEXTOS DE MACHADO DE ASSIS PARA RESPONDER ÀS QUESTÕES DE 20 A 22:\n\nI.\nSuave mari magno*\nLembra-me que, em certo dia,\nNa rua, ao sol de verão,\nEnvenenado morria\nUm pobre cão.\nArfava, espumava e ria,\nDe um riso espúrio e bufão,\nVentre e pernas sacudia\nNa convulsão.\nNenhum, nenhum curioso\nPassava, sem se deter,\nSilencioso,\nJunto ao cão que ia morrer,\nComo se lhe desse gozo\nVer padecer.\nMachado de Assis. Ocidentais.\n\n*Expressão latina, retirada de Lucrécio (Da natureza das coisas), a qual aparece no seguinte trecho: Suave, mari magno, turbantibus aequora ventis/ E terra magnum alterius spectare laborem. (\"É agradável, enquanto no mar revoltoso os ventos levantam as águas, observar da terra os grandes esforços de um outro.\").\n\nII.\nTão certo é que a paisagem depende do ponto de vista, e que o melhor modo de apreciar o chicote é ter-lhe o cabo na mão.\nMachado de Assis. Quincas Borba, cap. XVIII.\n\nIII.\nSofia soltou um grito de horror e acordou. Tinha ao pé do leito o marido:\n— Que foi? perguntou ele.\n— Ah! respirou Sofia. Gritei, não gritei?\n(...)\n— Sonhei que estavam matando você.\nPalha ficou enternecido. Havê-la feito padecer por ele, ainda que em sonhos, encheu-o de piedade, mas de uma piedade gostosa, um sentimento particular, íntimo, profundo, - que o faria desejar outros pesadelos, para que o assassinassem aos olhos dela, e para que ela gritasse angustiada, convulsa, cheia de dor e de pavor.\nMachado de Assis. Quincas Borba, cap. CLXI.\n\nA visão do eu-lírico no texto I",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "volta-se nostálgica para as imagens de uma lembrança."
+        },
+        {
+          "letra": "B",
+          "texto": "centra-se com desprezo na figura do animal agonizante."
+        },
+        {
+          "letra": "C",
+          "texto": "apreende displicentemente o movimento dos transeuntes."
+        },
+        {
+          "letra": "D",
+          "texto": "ganha distância da cena para captar todos os seus aspectos."
+        },
+        {
+          "letra": "E",
+          "texto": "apresenta o espectador da crueldade como um ser incomum."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira e Análise de Poema"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "LEIA OS SEGUINTES TEXTOS DE MACHADO DE ASSIS PARA RESPONDER ÀS QUESTÕES DE 20 A 22:\n\nI.\nSuave mari magno*\nLembra-me que, em certo dia,\nNa rua, ao sol de verão,\nEnvenenado morria\nUm pobre cão.\nArfava, espumava e ria,\nDe um riso espúrio e bufão,\nVentre e pernas sacudia\nNa convulsão.\nNenhum, nenhum curioso\nPassava, sem se deter,\nSilencioso,\nJunto ao cão que ia morrer,\nComo se lhe desse gozo\nVer padecer.\nMachado de Assis. Ocidentais.\n\n*Expressão latina, retirada de Lucrécio (Da natureza das coisas), a qual aparece no seguinte trecho: Suave, mari magno, turbantibus aequora ventis/ E terra magnum alterius spectare laborem. (\"É agradável, enquanto no mar revoltoso os ventos levantam as águas, observar da terra os grandes esforços de um outro.\").\n\nII.\nTão certo é que a paisagem depende do ponto de vista, e que o melhor modo de apreciar o chicote é ter-lhe o cabo na mão.\nMachado de Assis. Quincas Borba, cap. XVIII.\n\nIII.\nSofia soltou um grito de horror e acordou. Tinha ao pé do leito o marido:\n— Que foi? perguntou ele.\n— Ah! respirou Sofia. Gritei, não gritei?\n(...)\n— Sonhei que estavam matando você.\nPalha ficou enternecido. Havê-la feito padecer por ele, ainda que em sonhos, encheu-o de piedade, mas de uma piedade gostosa, um sentimento particular, íntimo, profundo, - que o faria desejar outros pesadelos, para que o assassinassem aos olhos dela, e para que ela gritasse angustiada, convulsa, cheia de dor e de pavor.\nMachado de Assis. Quincas Borba, cap. CLXI.\n\nA analogia consiste em um recurso de expressão comumente utilizado para ilustrar um raciocínio por meio da semelhança que se observa entre dois fatos ou ideias. No texto II, a analogia construída a partir da imagem do chicote pretende sugerir que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o instrumento do castigo nem sempre cai em mãos justas."
+        },
+        {
+          "letra": "B",
+          "texto": "o apreço aos objetos independe do uso que se faz deles."
+        },
+        {
+          "letra": "C",
+          "texto": "o cabo é metáfora de mérito, e a ponta, metáfora de culpa."
+        },
+        {
+          "letra": "D",
+          "texto": "o mais fraco, por ser compassivo, é incapaz de desfrutar do poder."
+        },
+        {
+          "letra": "E",
+          "texto": "o prazer verdadeiro se experimenta no lado dos dominantes."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto e Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "LEIA OS SEGUINTES TEXTOS DE MACHADO DE ASSIS PARA RESPONDER ÀS QUESTÕES DE 20 A 22:\n\nI.\nSuave mari magno*\nLembra-me que, em certo dia,\nNa rua, ao sol de verão,\nEnvenenado morria\nUm pobre cão.\nArfava, espumava e ria,\nDe um riso espúrio e bufão,\nVentre e pernas sacudia\nNa convulsão.\nNenhum, nenhum curioso\nPassava, sem se deter,\nSilencioso,\nJunto ao cão que ia morrer,\nComo se lhe desse gozo\nVer padecer.\nMachado de Assis. Ocidentais.\n\n*Expressão latina, retirada de Lucrécio (Da natureza das coisas), a qual aparece no seguinte trecho: Suave, mari magno, turbantibus aequora ventis/ E terra magnum alterius spectare laborem. (\"É agradável, enquanto no mar revoltoso os ventos levantam as águas, observar da terra os grandes esforços de um outro.\").\n\nII.\nTão certo é que a paisagem depende do ponto de vista, e que o melhor modo de apreciar o chicote é ter-lhe o cabo na mão.\nMachado de Assis. Quincas Borba, cap. XVIII.\n\nIII.\nSofia soltou um grito de horror e acordou. Tinha ao pé do leito o marido:\n— Que foi? perguntou ele.\n— Ah! respirou Sofia. Gritei, não gritei?\n(...)\n— Sonhei que estavam matando você.\nPalha ficou enternecido. Havê-la feito padecer por ele, ainda que em sonhos, encheu-o de piedade, mas de uma piedade gostosa, um sentimento particular, íntimo, profundo, - que o faria desejar outros pesadelos, para que o assassinassem aos olhos dela, e para que ela gritasse angustiada, convulsa, cheia de dor e de pavor.\nMachado de Assis. Quincas Borba, cap. CLXI.\n\nNo texto III, ao analisar a interioridade de Palha, o narrador descobre, no pensamento oculto do negociante,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a ternura que lhe inspira a mulher, capaz de toda abnegação."
+        },
+        {
+          "letra": "B",
+          "texto": "a piedade que lhe causa a mulher, a quem só guarda desprezo."
+        },
+        {
+          "letra": "C",
+          "texto": "a vaidade que beira o sadismo, ao ver a mulher sofrer por ele."
+        },
+        {
+          "letra": "D",
+          "texto": "o gozo vingativo, visto que a mulher o trai com Carlos Maria."
+        },
+        {
+          "letra": "E",
+          "texto": "o remorso do infiel, pois ele trai a mulher com Maria Benedita."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira e Análise de Prosa"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Largo em sentir, em respirar sucinto,\nPeno, e calo, tão fino, e tão atento,\nQue fazendo disfarce do tormento\nMostro que o não padeço, e sei que o sinto.\n\nO mal, que fora encubro, ou que desminto,\nDentro no coração é que o sustento:\nCom que, para penar é sentimento,\nPara não se entender, é labirinto.\n\nNinguém sufoca a voz nos seus retiros;\nDa tempestade é o estrondo efeito:\nLá tem ecos a terra, o mar suspiros.\n\nMas oh do meu segredo alto conceito!\nPois não me chegam a vir à boca os tiros\nDos combates que vão dentro no peito.\n\nGregório de Matos e Guerra\n\nNo soneto, o eu lírico:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "expressa um conflito que confirma a imagem pública do poeta, conhecido pelo epíteto de \"o Boca do Inferno\"."
+        },
+        {
+          "letra": "B",
+          "texto": "opta por sufocar a própria voz como estratégia apaziguadora de suas perturbações de foro íntimo."
+        },
+        {
+          "letra": "C",
+          "texto": "explora a censura que o autor sofreu em sua época, ao ser impedido de dar expressão aos seus sentimentos."
+        },
+        {
+          "letra": "D",
+          "texto": "estabelece, nos tercetos, um contraponto semântico entre as metáforas da natureza e da guerra."
+        },
+        {
+          "letra": "E",
+          "texto": "revela-se como um ser atormentado, ao mesmo tempo que omite a natureza de seu sofrimento."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira e Análise de Poema"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Nun’Álvares Pereira\n\nQue auréola te cerca?\nÉ a espada que, volteando,\nFaz que o ar alto perca\nSeu azul negro e brando.\n\nMas que espada é que, erguida,\nFaz esse halo no céu?\nÉ Excalibur, a ungida,\nQue o Rei Artur te deu.\n\n‘Sperança consumada,\nS. Portugal em ser,\nErgue a luz da tua espada\nPara a estrada se ver!\n\nFernando Pessoa. In: \"A Coroa\", Parte I, Mensagem.\n\nA primeira parte de Mensagem, organizada como um correlativo poético do Brasão das Armas de Portugal, perfila uma série de figuras míticas e históricas que teriam sido responsáveis pela formação nacional portuguesa. A seleção de Nun’Álvares Pereira para ocupar o lugar da Coroa",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "sugere, pela imagem do halo de luz, que a verdadeira nobreza é de espírito."
+        },
+        {
+          "letra": "B",
+          "texto": "destaca, através da referência ao mito arturiano, o seu sangue bretão."
+        },
+        {
+          "letra": "C",
+          "texto": "distingue, por meio do substantivo \"'sperança\", um regente digno de seu posto."
+        },
+        {
+          "letra": "D",
+          "texto": "enaltece, pela repetição da palavra espada, a guerra como estrada para o futuro."
+        },
+        {
+          "letra": "E",
+          "texto": "indica, associada ao adjetivo \"consumada\", uma visão desenganada da história."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Portuguesa e Análise de Poema"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "TEXTO PARA AS QUESTÕES 25 E 26\n\nA taxação de livros tem um efeito cascata que acaba custando caro não apenas ao leitor, como também ao mercado editorial - que há anos não anda bem das pernas - e, em última instância, ao desenvolvimento econômico do país. A gente explica. Taxar um produto significa, quase sempre, um aumento no valor do produto final. Isso porque ao menos uma parte desse imposto será repassada ao consumidor, especialmente se considerarmos que as editoras e livrarias enfrentam há anos uma crise que agora está intensificada pela pandemia e não poderiam retirar o valor desse imposto de seu já apertado lucro. Livros mais caros também resultam em queda de vendas, que, por sua vez, enfraquece ainda mais editoras e as impede de investir em novas publicações - especialmente aquelas de menor apelo comercial, mas igualmente importantes para a pluralidade de ideias. Já deu para perceber a confusão, não é? Mas, além disso, qual seria o custo de uma sociedade com menos leitores e menos livros?\n\nTaís Ilhéu. \"Por que taxar os livros pode gerar retrocesso social e econômico no país\". Guia do Estudante. Setembro/2020. Adaptado.\n\nDe acordo com o texto, os eventos sequenciais aos quais alude a expressão \"efeito cascata\" são:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "livros mais caros, decréscimo de vendas, estímulo às editoras, supressão de investimento em novas publicações."
+        },
+        {
+          "letra": "B",
+          "texto": "aumento do valor do produto final, queda de vendas, encolhimento das editoras, aumento do investimento em novas obras."
+        },
+        {
+          "letra": "C",
+          "texto": "livros mais caros, instabilidade nas vendas, enfraquecimento das editoras, expansão das publicações."
+        },
+        {
+          "letra": "D",
+          "texto": "aumento do valor do produto final, contração nas vendas, esgotamento das editoras, falta de investimento em novas publicações."
+        },
+        {
+          "letra": "E",
+          "texto": "livros mais caros, equilíbrio nas vendas, diminuição das editoras, carência de investimento em novas publicações."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "TEXTO PARA AS QUESTÕES 25 E 26\n\nA taxação de livros tem um efeito cascata que acaba custando caro não apenas ao leitor, como também ao mercado editorial - que há anos não anda bem das pernas - e, em última instância, ao desenvolvimento econômico do país. A gente explica. Taxar um produto significa, quase sempre, um aumento no valor do produto final. Isso porque ao menos uma parte desse imposto será repassada ao consumidor, especialmente se considerarmos que as editoras e livrarias enfrentam há anos uma crise que agora está intensificada pela pandemia e não poderiam retirar o valor desse imposto de seu já apertado lucro. Livros mais caros também resultam em queda de vendas, que, por sua vez, enfraquece ainda mais editoras e as impede de investir em novas publicações - especialmente aquelas de menor apelo comercial, mas igualmente importantes para a pluralidade de ideias. Já deu para perceber a confusão, não é? Mas, além disso, qual seria o custo de uma sociedade com menos leitores e menos livros?\n\nTaís Ilhéu. \"Por que taxar os livros pode gerar retrocesso social e econômico no país\". Guia do Estudante. Setembro/2020. Adaptado.\n\nNo texto, os pronomes em negrito referem-se, respectivamente, a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "taxação de livros, mercado editorial, crise, queda de vendas."
+        },
+        {
+          "letra": "B",
+          "texto": "taxação de livros, leitor, crise, queda de vendas."
+        },
+        {
+          "letra": "C",
+          "texto": "efeito cascata, mercado editorial, crise, queda de vendas."
+        },
+        {
+          "letra": "D",
+          "texto": "efeito cascata, mercado editorial, livrarias, livros."
+        },
+        {
+          "letra": "E",
+          "texto": "efeito cascata, leitor, crise, livros."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Coesão e Referenciação"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Chega um momento em que a tensão eu/mundo se exprime mediante uma perspectiva crítica, imanente à escrita, o que torna o romance não mais uma variante literária da rotina social, mas o seu avesso; logo, o oposto do discurso ideológico do homem médio. O romancista “imitaria\" a vida, sim, mas qual vida? Aquela cujo sentido dramático escapa a homens e mulheres entorpecidos ou automatizados por seus hábitos cotidianos. A vida como objeto de busca e construção, e não a vida como encadeamento de tempos vazios e inertes. Caso essa pobre vida-morte deva ser tematizada, ela aparecerá como tal, degradada, sem a aura positiva com que as palavras “realismo” e “realidade\" são usadas nos discursos que fazem a apologia conformista da \"vida como ela é\"... A escrita da resistência, a narrativa atravessada pela tensão crítica, mostra, sem retórica nem alarde ideológico, que essa \"vida como ela é” é, quase sempre, o ramerrão de um mecanismo alienante, precisamente o contrário da vida plena e digna de ser vivida.\nÉ nesse sentido que se pode dizer que a narrativa descobre a vida verdadeira, e que esta abraça e transcende a vida real. A literatura, com ser ficção, resiste à mentira. É nesse horizonte que o espaço da literatura, considerado em geral como lugar da fantasia, pode ser o lugar da verdade mais exigente.\n\nAlfredo Bosi. \"Narrativa e resistência\". Adaptado.\n\nO conceito de resistência, expresso pela tensão do indivíduo perante o mundo, adquire perspectiva crítica na escrita do romance quando o autor",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "rompe a superfície enganosa da realidade."
+        },
+        {
+          "letra": "B",
+          "texto": "forja um realismo rente à vida mesquinha."
+        },
+        {
+          "letra": "C",
+          "texto": "é neutro ao figurar a vacuidade do presente."
+        },
+        {
+          "letra": "D",
+          "texto": "conserva o discurso positivo da ordem."
+        },
+        {
+          "letra": "E",
+          "texto": "consegue sobrepor a fantasia à verdade."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Teoria Literária"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "TEXTO PARA AS QUESTÕES 28 E 29\n\nA escrita faz de tal modo parte de nossa civilização que poderia servir de definição dela própria. A história da humanidade se divide em duas imensas eras: antes e a partir da escrita. Talvez venha o dia de uma terceira era — depois da escrita. Vivemos os séculos da civilização escrita. Todas as nossas sociedades baseiam-se no escrito. A lei escrita substitui a lei oral, o contrato escrito substitui a convenção verbal, a religião escrita se seguiu à tradição lendária. E sobretudo não existe história que não se funde sobre textos.\n\nCharles Higounet. A história da escrita. Adaptado.\n\nA escrita poderia servir de definição da nossa civilização, uma vez que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a terceira era está prestes a acontecer."
+        },
+        {
+          "letra": "B",
+          "texto": "o escrito respalda as atividades humanas."
+        },
+        {
+          "letra": "C",
+          "texto": "as convenções verbais substituíram o escrito."
+        },
+        {
+          "letra": "D",
+          "texto": "a oralidade deixou de ser usada em períodos remotos."
+        },
+        {
+          "letra": "E",
+          "texto": "os textos pararam de se modificar a partir da escrita."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "História – História da Escrita"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "TEXTO PARA AS QUESTÕES 28 E 29\n\nA escrita faz de tal modo parte de nossa civilização que poderia servir de definição dela própria. A história da humanidade se divide em duas imensas eras: antes e a partir da escrita. Talvez venha o dia de uma terceira era — depois da escrita. Vivemos os séculos da civilização escrita. Todas as nossas sociedades baseiam-se no escrito. A lei escrita substitui a lei oral, o contrato escrito substitui a convenção verbal, a religião escrita se seguiu à tradição lendária. E sobretudo não existe história que não se funde sobre textos.\n\nCharles Higounet. A história da escrita. Adaptado.\n\nA locução conjuntiva \"de tal modo...que\" e o advérbio \"sobretudo\", respectivamente, expressam noção de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "conformidade e dúvida."
+        },
+        {
+          "letra": "B",
+          "texto": "consequência e realce."
+        },
+        {
+          "letra": "C",
+          "texto": "condição e negação."
+        },
+        {
+          "letra": "D",
+          "texto": "consequência e negação."
+        },
+        {
+          "letra": "E",
+          "texto": "condição e realce."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Conjunções e Advérbios"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Atualmente, no Brasil, coexistem dois sistemas de placas de identificação de automóveis: o padrão Mercosul (o mais recente) e aquele que se iniciou em 1990 (o sistema anterior, usado ainda pela maioria dos carros em circulação). No sistema anterior, utilizavam-se 3 letras (em um alfabeto de 26 letras) seguidas de 4 algarismos (de 0 a 9). No padrão Mercosul adotado no Brasil para automóveis, são usadas 4 letras e 3 algarismos, com 3 letras nas primeiras 3 posições e a quarta letra na quinta posição, podendo haver repetições de letras ou de números. A figura ilustra os dois tipos de placas.\n\nDessa forma, o número de placas possíveis do padrão Mercosul brasileiro de automóveis é maior do que o do sistema anterior em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,5 vezes."
+        },
+        {
+          "letra": "B",
+          "texto": "2 vezes."
+        },
+        {
+          "letra": "C",
+          "texto": "2,6 vezes."
+        },
+        {
+          "letra": "D",
+          "texto": "2,8 vezes."
+        },
+        {
+          "letra": "E",
+          "texto": "3 vezes."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Análise Combinatória"
+      ]
+    }
+  ]
+}

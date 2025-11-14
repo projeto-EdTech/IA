@@ -1,0 +1,408 @@
+{
+  "nomeUniversidade": "Universidade de São Paulo",
+  "siglaUniversidade": "USP",
+  "nomeProva": "FUVEST - Prova de Conhecimentos Gerais",
+  "ano": 2023,
+  "qtdeQuestoes": 90,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "A figura representa três momentos sucessivos da população adulta de uma determinada espécie de peixe em uma região na qual há atividade pesqueira. O momento I representa a composição da população adulta antes da pesca. No momento II, observam-se os sobreviventes adultos logo após a pesca. O momento III representa os indivíduos adultos após alguns ciclos de reprodução.\n\nDisponível em https://blogs.ubc.ca/oceancons/. Adaptado.\n\nBaseado na figura, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o impacto causado pela atividade de pesca alterou a produtividade primária do local, o que resultou em uma população de peixes menores ao longo do tempo."
+        },
+        {
+          "letra": "B",
+          "texto": "a população não conseguiu recuperar sua abundância de indivíduos após a atividade de pesca, o que a levará ao colapso a médio e longo prazos."
+        },
+        {
+          "letra": "C",
+          "texto": "os indivíduos maiores não conseguem se reproduzir depois da pesca devido ao estresse fisiológico causado por essa atividade."
+        },
+        {
+          "letra": "D",
+          "texto": "essa atividade de pesca é sustentável a longo prazo e não causa impacto à população de peixes daquele local."
+        },
+        {
+          "letra": "E",
+          "texto": "a pesca priorizou os peixes maiores, causando uma seleção artificial que resultou em uma população de peixes menores ao longo do tempo."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Evolução",
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "\"O Equador alertou, em julho de 2020, sobre a presença de embarcações próximas às Ilhas Galápagos, principalmente com bandeira chinesa. As ilhas estão a 1.000 km do continente, e a área inclui uma reserva marinha de 133 mil km². Os navios pesqueiros se encontram em águas internacionais, mas sua proximidade do arquipélago, classificado como Patrimônio Natural da Humanidade, preocupa as autoridades equatorianas\".\n\nDisponível em https://www.dw.com/. Adaptado.\n\nO texto aborda a pesca em águas oceânicas internacionais, sobre a qual é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As Ilhas Galápagos e seu entorno apresentam pouca oferta de pescado por se situarem em região com águas superficiais frias."
+        },
+        {
+          "letra": "B",
+          "texto": "Há risco de poluição das águas pelos rejeitos produzidos pela frota pesqueira e risco de sobrepesca, que ameaça a reposição natural das espécies."
+        },
+        {
+          "letra": "C",
+          "texto": "As embarcações não adentram as áreas de preservação em função do rígido controle e, com isso, o risco de sobrepesca é baixo."
+        },
+        {
+          "letra": "D",
+          "texto": "Por estar a milhares de quilômetros distante da China, principal mercado consumidor de pescado, a pesca ilegal não se sustenta economicamente."
+        },
+        {
+          "letra": "E",
+          "texto": "O volume de pescado retirado dos oceanos é elevado, garantindo a reposição natural e a manutenção dos estoques das espécies."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Questões Ambientais",
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "O odor característico de peixes deve-se à base metilamina ($CH_3-NH_2$). Esse odor pode ser minimizado lavando-se o peixe, por exemplo, com suco de limão. Assinale a alternativa que apresenta a estrutura de um dos produtos dessa reação ácido-base.",
+      "alternativas": null,
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Reações Ácido-Base",
+        "Química – Química Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "A obra \"Rosa e Azul\", também conhecida como \"As Meninas Cahen d'Anvers\", é uma pintura a óleo de Pierre-Auguste Renoir.\n\nNuma aula de artes, solicitou-se aos alunos que fizessem uma releitura dessa obra utilizando uma \"tinta\" preparada com extrato de repolho roxo. Esse extrato fica rosa em valores de pH menores que 5 e azul em valores próximos a 8, conforme figura a seguir, que mostra a cor da solução em diferentes valores de pH.\n\nCom base no exposto, qual das alternativas apresenta compostos ou produtos que poderiam ser usados para preparar uma \"tinta\" rosa/vermelha e uma azul/verde empregando o extrato de repolho roxo?",
+      "alternativas": null,
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – pH e Indicadores",
+        "Arte – História da Arte"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Combustíveis fósseis, como o diesel, contém em sua composição uma fração de enxofre. Durante o processo de combustão, o enxofre é convertido em $SO_2$, tornando-se um poluente ambiental. Em postos de combustível, normalmente são comercializados dois tipos de diesel, o Diesel S10 e o Diesel S500. O primeiro contém 10 ppm de enxofre, e o segundo, 500 ppm de enxofre.\n\nConsidere que, na combustão do diesel, todo enxofre seja convertido em $SO_2$, conforme reação a seguir:\n$S(s) + O_2(g) \\rightarrow SO_2(g)$\n\nNesse caso, a diferença de massa de $SO_2$ emitido para a atmosfera por kg de diesel quando cada um dos dois tipos é queimado é de\n\nNote e adote:\nMassas molares (g/mol): O = 16; S = 32.\n1 ppm de enxofre equivale a 1 mg de enxofre por kg de diesel.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "245 mg/kg."
+        },
+        {
+          "letra": "B",
+          "texto": "490 mg/kg."
+        },
+        {
+          "letra": "C",
+          "texto": "980 mg/kg."
+        },
+        {
+          "letra": "D",
+          "texto": "1960 mg/kg."
+        },
+        {
+          "letra": "E",
+          "texto": "3920 mg/kg."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Estequiometria",
+        "Química – Química Ambiental"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "A tabela fornece informações sobre fatores ambientais relacionados a duas regiões de floresta, uma com alto grau de degradação (I) e outra com baixo grau de degradação (II).\n\nCom base nos dados da tabela, qual fenômeno pode causar maior grau de degradação das florestas da região I em comparação com aquelas da região II?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Chuva ácida."
+        },
+        {
+          "letra": "B",
+          "texto": "Aquecimento global."
+        },
+        {
+          "letra": "C",
+          "texto": "Congelamento."
+        },
+        {
+          "letra": "D",
+          "texto": "Déficit hídrico."
+        },
+        {
+          "letra": "E",
+          "texto": "Calor extremo no verão."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Questões Ambientais",
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "O gráfico mostra a variação no número de folhas de uma espécie de árvore ao longo do ano, bem como a variação da temperatura mínima e da pluviosidade no local em que há presença dessa planta.\n\nCom base na variação no número de folhas, essa planta é característica de clima I e tal variação está relacionada a II.\nAs lacunas I e II são corretamente preenchidas por",
+      "alternativas": null,
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Fisiologia Vegetal",
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "A figura a seguir ilustra o xiquexique, um cacto nativo da Caatinga.\n\nDisponível em Wikimedia Commons.\n\nDada sua alta capacidade de armazenamento de água, a planta é muito utilizada para alimentação de bovinos, de caprinos e, inclusive, de seres humanos, especialmente durante os períodos de seca, como aludido em Angústia:\n\n(...) \"Amaro vaqueiro alimentava-se, nas secas, com sementes de mucunã lavadas em sete águas, raiz de imbu, miolo de xiquexique, e de tempos a tempos furtava uma cabra no chiqueiro e atirava a culpa à suçuarana\".(...)\n\nGraciliano Ramos, Angústia.\n\nO acúmulo de água no xiquexique é possível pela",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "diminuição da perda de água devido às folhas modificadas em espinhos."
+        },
+        {
+          "letra": "B",
+          "texto": "menor taxa de fotossíntese, por apresentarem menor área de superfície foliar."
+        },
+        {
+          "letra": "C",
+          "texto": "presença de células especializadas no parênquima aquífero do caule da planta."
+        },
+        {
+          "letra": "D",
+          "texto": "raiz avantajada que capta melhor a água disponível na superfície do solo."
+        },
+        {
+          "letra": "E",
+          "texto": "adaptação das folhas que podem acumular água em seu interior."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Botânica",
+        "Biologia – Adaptações de Plantas"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Os lagartos do gênero Basiliscus têm a capacidade incomum de correr sobre a água. Essa espécie possui uma membrana entre os dedos que aumenta a área superficial de suas patas traseiras. Com uma combinação de forças verticais de suporte e forças horizontais propulsivas geradas pelo movimento de suas patas na água, o lagarto consegue obter impulso resultante para cima e para frente, conforme figura a seguir. Isso garante uma estabilidade dinâmica na superfície da água, em corridas que podem chegar a dezenas de metros, dependendo do peso e da idade do animal.\n\nDisponível em https://wonderopolis.org/.\n\nSobre esse movimento, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A componente vertical da reação à força gerada pelas patadas na água compensa o peso do animal, fazendo com que ele não afunde."
+        },
+        {
+          "letra": "B",
+          "texto": "O mecanismo de flutuação do lagarto advém de um equilíbrio hidrostático, que pode ser explicado pelo princípio de Arquimedes."
+        },
+        {
+          "letra": "C",
+          "texto": "Por ser um meio viscoso, a água possui um atrito desprezível, facilitando a flutuação."
+        },
+        {
+          "letra": "D",
+          "texto": "A alta salinidade da água é uma condição necessária para que ocorra um equilíbrio entre as forças envolvidas no movimento."
+        },
+        {
+          "letra": "E",
+          "texto": "A tensão superficial da água, por si só, é suficiente para impedir que o animal afunde."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Leis de Newton"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "O mapa mostra a variação do número de espécies de aves no território brasileiro, com as linhas indicando os limites dos biomas.\n\nJENKINS et al. 2015. \"Patterns of vertebrate diversity and protection in Brazil\". PLoS ONE 10(12): e0145064. Adaptado.\n\nCom base no mapa, a diversidade de aves mostra-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mais alta nas regiões onde predominam florestas e mais baixa nas regiões onde predomina vegetação mais aberta."
+        },
+        {
+          "letra": "B",
+          "texto": "igualmente alta nas regiões tropicais e mais baixa nas regiões subtropicais."
+        },
+        {
+          "letra": "C",
+          "texto": "igualmente baixa nas regiões mais orientais e mais alta nas regiões ocidentais."
+        },
+        {
+          "letra": "D",
+          "texto": "mais alta nas regiões mais quentes e mais baixa nas regiões mais frias."
+        },
+        {
+          "letra": "E",
+          "texto": "mais alta nas regiões que se situam mais próximas ao mar e mais baixa nas regiões mais interiores."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Biomas do Brasil",
+        "Biologia – Biodiversidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "O estado de São Paulo, por suas características climáticas, apresenta, no outono e no inverno, probabilidade de ocorrência de geada.\n\nMARTINELLI, Marcelo. Clima do Estado de São Paulo, Confins, 2010.\n\nCom base em seu conhecimento sobre o estado de São Paulo e os fatores que contribuem para a formação de geadas, é correto inferir que a maior ocorrência de geadas no estado de São Paulo está associada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "às maiores altitudes da Serra da Mantiqueira, que contribuem para reduzir a temperatura do ar."
+        },
+        {
+          "letra": "B",
+          "texto": "às baixas altitudes do Vale do rio Ribeira de Iguape, que contribuem para a entrada de ar frio."
+        },
+        {
+          "letra": "C",
+          "texto": "ao efeito da maritimidade, que injeta ar frio para o continente, diminuindo a temperatura do ar."
+        },
+        {
+          "letra": "D",
+          "texto": "às grandes extensões do Planalto Ocidental Paulista, que favorecem o acúmulo de ar frio."
+        },
+        {
+          "letra": "E",
+          "texto": "à ausência de cobertura vegetal em grande parte do território paulista, que potencializa o resfriamento noturno."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "A superfície terrestre muda conforme a frequência e a magnitude de processos naturais, sendo alguns mais contínuos e outros mais irregulares. Alguns eventos podem mudar rapidamente a superfície, enquanto outros a modificam lentamente.\n\nGOUDIE, Andrew S.; VILES, Heather A. Landscapes and Geomorphology: A Very Short Introduction. Oxford University Press, Oxford, 2010. Adaptado.\n\nCom base nos dados apresentados, é possível afirmar que os números 1, 2 e 3 correspondem, respectivamente, a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ação eólica, erupções vulcânicas e soerguimento de cadeias montanhosas."
+        },
+        {
+          "letra": "B",
+          "texto": "Depósitos minerais, abalos sísmicos e erupções vulcânicas."
+        },
+        {
+          "letra": "C",
+          "texto": "Formação de cavernas, ação eólica e soerguimento de cadeias montanhosas."
+        },
+        {
+          "letra": "D",
+          "texto": "Erupções vulcânicas, abalos sísmicos e depósitos minerais."
+        },
+        {
+          "letra": "E",
+          "texto": "Ação eólica, formação de cavernas e soerguimento de cadeias montanhosas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geomorfologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "CUNHA, Sandra B.; GUERRA, Antônio J. T. (Orgs.). Geomorfologia: exercícios, técnicas e aplicações. Rio de Janeiro: Ed. Bertrand Brasil, 1998. Adaptado.\n\nA partir da figura, pode-se afirmar que as áreas com as condições naturais mais favoráveis à ocupação humana são:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os topos mais aplainados dos morros ou a área de terraços fluviais, partes mais planas do relevo; no entanto, variações nas cheias dos rios podem atingir as áreas de terraços, e a ocupação dos topos pode comprometer as áreas de nascentes."
+        },
+        {
+          "letra": "B",
+          "texto": "Entre os morros e a planície, áreas de maior declividade sujeitas a desabamentos; também deve evitar os terraços fluviais por possuírem sedimentos consolidados, propensos à erosão."
+        },
+        {
+          "letra": "C",
+          "texto": "O sopé das encostas dos morros ou a área da planície fluvial, partes planas do relevo sem risco de deslizamentos de terra; além disso, a captação das águas para abastecimento público pode ser aproveitada pela proximidade do canal fluvial."
+        },
+        {
+          "letra": "D",
+          "texto": "As áreas de planície com sedimentos inconsolidados resultantes das rochas cristalinas friáveis; além disso, o desmatamento e acúmulo de lixo nas inundações podem soterrar o curso fluvial retilíneo."
+        },
+        {
+          "letra": "E",
+          "texto": "Os morros com encostas mais inclinadas, suscetíveis a deslizamentos e assoreamentos; estes acabam por prejudicar a conservação das áreas de nascentes que estão a jusante dos setores mais elevados."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geomorfologia",
+        "Geografia – Riscos Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Observe a imagem de satélite a seguir:\n\nGoogle Earth, 2022.\n\nParte dos topos do Chapadão Ocidental Baiano, divisor de águas das bacias hidrográficas dos rios Tocantins e São Francisco, é dominada por monocultura para exportação. Com base na imagem e em seus conhecimentos, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "tanto a bacia do rio Tocantins quanto a do São Francisco são ameaçadas por contaminação de agrotóxicos nas áreas do Chapadão, cujos divisores topográficos não impedem os fluxos subterrâneos das substâncias utilizadas nas monoculturas."
+        },
+        {
+          "letra": "B",
+          "texto": "a maior parte das áreas cultivadas localiza-se no estado do Tocantins, sendo erodidas pelos rios sem conexão com o topo do Chapadão Ocidental Baiano, o que dificulta a dispersão dos agrotóxicos."
+        },
+        {
+          "letra": "C",
+          "texto": "a bacia do rio São Francisco é ameaçada pelos agrotóxicos, pois os divisores de águas nas áreas do Chapadão tendem a fluir as substâncias nas drenagens somente para o estado da Bahia."
+        },
+        {
+          "letra": "D",
+          "texto": "tanto a bacia do rio Tocantins quanto do rio São Francisco se encontram distantes das áreas de topo do Chapadão Ocidental Baiano onde estão as monoculturas, dificultando a efluência dos agrotóxicos em ambos."
+        },
+        {
+          "letra": "E",
+          "texto": "a bacia do rio Tocantins é mais ameaçada do que a do São Francisco pela contaminação originada do uso de agrotóxicos, pois os divisores de águas convergem para o estado do Tocantins."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Hidrografia",
+        "Geografia – Questões Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Revista Fapesp, 2022. Adaptado.\n\nSegundo os dados apresentados e seus conhecimentos, é possível afirmar que, no Brasil,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a agropecuária é a atividade econômica com maior emissão na forma de gás metano, resultante do processo fermentativo da digestão celulósica nos ruminantes."
+        },
+        {
+          "letra": "B",
+          "texto": "os resíduos agrícolas têm pouca contribuição no total emitido à atmosfera na forma de cloretos e sulfetos originados de seu intemperismo, com baixos teores de carbono."
+        },
+        {
+          "letra": "C",
+          "texto": "os processos industriais contribuem com emissões significativas de GEE na forma de gás metano, resultante da atividade microbiana sobre os compostos nitrogenados."
+        },
+        {
+          "letra": "D",
+          "texto": "as mudanças no uso da terra, em que há a substituição de florestas por áreas cultivadas, respondem por cerca de metade da emissão de GEE a partir de bactérias e fungos."
+        },
+        {
+          "letra": "E",
+          "texto": "o setor de energia é um grande emissor de GEE na forma de óxido nítrico, metano e dióxido de carbono, resultantes de todos os processos de geração de energia."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Questões Ambientais",
+        "Biologia – Ecologia"
+      ]
+    }
+  ]
+}

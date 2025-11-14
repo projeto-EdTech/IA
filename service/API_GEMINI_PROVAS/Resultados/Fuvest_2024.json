@@ -1,0 +1,1520 @@
+{
+  "nomeUniversidade": "Universidade de São Paulo",
+  "siglaUniversidade": "USP",
+  "nomeProva": "FUVEST",
+  "ano": 2024,
+  "qtdeQuestoes": 90,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Em 2023, a imprensa mundial anunciou a criação da almôndega de carne de mamute. A ilustração a seguir resume a biotecnologia envolvida nesse processo.\n\nA almôndega de mamute possui células",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "com mitocôndrias de elefante."
+        },
+        {
+          "letra": "B",
+          "texto": "musculares recriadas de mamute."
+        },
+        {
+          "letra": "C",
+          "texto": "que produzem gordura de mamute."
+        },
+        {
+          "letra": "D",
+          "texto": "com mais genes de ovelha que de mamute."
+        },
+        {
+          "letra": "E",
+          "texto": "de diferentes tecidos do elefante."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Biotecnologia",
+        "Biologia – Genética"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Em Dois irmãos, de Milton Hatoum, os gêmeos Yaqub e Omar representam duas personalidades antagônicas que se enfrentam ao longo da narrativa. A rivalilidade entre eles tem como resultado:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A prosperidade econômica de ambos."
+        },
+        {
+          "letra": "B",
+          "texto": "A reconstrução dos laços entre eles."
+        },
+        {
+          "letra": "C",
+          "texto": "A ida de Nael a São Paulo para viver com Yaqub."
+        },
+        {
+          "letra": "D",
+          "texto": "A morte de Rânia, a irmã dos gêmeos."
+        },
+        {
+          "letra": "E",
+          "texto": "A desagregação e a ruína da família."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "A partir da leitura de Dois irmãos, com o foco na questão da paternidade de Nael, narrador do romance, pode-se afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Nenhum dos dois irmãos assumiu a paternidade de Nael, nem Nael os reconheceu como pais."
+        },
+        {
+          "letra": "B",
+          "texto": "Nael é filho de Rochiram, de quem ganha a casa no fundo do terreno para escrever suas memórias."
+        },
+        {
+          "letra": "C",
+          "texto": "Nael gostaria que Yaqub fosse seu pai, pelos projetos e visão de mundo que compartilhava com ele."
+        },
+        {
+          "letra": "D",
+          "texto": "A cena final do romance, na qual Omar e Nael se encontram, confirma a paternidade de Omar."
+        },
+        {
+          "letra": "E",
+          "texto": "Embora não quisesse ter tido filhos, Halim é o pai de Nael, Omar e Yaqub."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "\"O Quim disse-me também que as feridas do Cão Tinhoso eram por causa da guerra e da bomba atômica [...] O Quim disse-me isso de o Cão Tinhoso ser muito velho quando um dia o vimos a bocejar sem dentes na boca. Foi nesse dia que me contou a história da bomba atômica com os japoneses pequeninos a morrer todos que era uma beleza e o Cão Tinhoso a fugir depois de ela rebentar e a correr uma distância monstra para não morrer.\"\nLuís Bernardo Honwana. Nós matamos o Cão Tinhoso!.\n\nA radiação ionizante, resultante da explosão da bomba atômica, é capaz de provocar feridas na pele iguais às do Cão Tinhoso, que são consequências de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mutações no DNA das células epiteliais, o que pode alterar seu ciclo celular."
+        },
+        {
+          "letra": "B",
+          "texto": "alterações no DNA mitocondrial que levam à redução do metabolismo celular."
+        },
+        {
+          "letra": "C",
+          "texto": "ativação dos processos de reparo do DNA e bloqueio da diferenciação celular."
+        },
+        {
+          "letra": "D",
+          "texto": "aumento da divisão meiótica decorrente do processo de crossing-over."
+        },
+        {
+          "letra": "E",
+          "texto": "processos de evolução desencadeados por mutações aleatórias."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Genética",
+        "Biologia – Radioatividade"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Na série ficcional Wandinha, o poder da visão é transmitido entre as bruxas, conforme o modelo genealógico hipotético a seguir:\n\nConsiderando a genealogia apresentada, o poder da visão tem herança",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "autossômica dominante, porque se apresenta somente em mulheres."
+        },
+        {
+          "letra": "B",
+          "texto": "autossômica recessiva, sendo todos os homens homozigóticos dominantes."
+        },
+        {
+          "letra": "C",
+          "texto": "ligada ao X recessiva, e os filhos homens inativam esse cromossomo."
+        },
+        {
+          "letra": "D",
+          "texto": "ligada ao X recessiva, porque aparece em todas as gerações."
+        },
+        {
+          "letra": "E",
+          "texto": "ligada ao X dominante, sendo letal para fetos masculinos com o alelo dominante."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Genética"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "TEXTO PARA AS QUESTÕES 06 E 07\nVincent van Gogh. Salvador Dalí. Frida Kahlo. Casual perusers of ads everywhere would be forgiven for thinking that art galleries are enjoying some sort of golden age. The truth is less exciting, more expensive and certainly more depressing. For this is no ordinary art on offer; this art is \"immersive\", the latest lovechild of TikTok and enterprising warehouse landlords. The first problem with immersive art? It's not actually very immersive. A common trope of \"immersive\" retrospectives is to recreate original pieces using gimmicky tech. But merely aiming a projector at a blank canvas doesn't do much in the way of sensory stimulation. My favourite element of an \"immersive\" show I have been to was their faithful recreation of Van Gogh's bedroom. An ambitious feat, executed with some furniture and, of course, mutilated pastiches of his paintings. While projectors, surround sound and uncomfortably wacky seating are mainstays of immersive art, there are also the VR headsets. But many exhibitions don't even include these with the standard ticket, so my return to reality has twice been accompanied by an usher brandishing a credit card machine. Sometimes these installations are so banal and depthless, visitors have often walked through installations entirely oblivious to whatever is happening around them. Despite the fixation \"immersive experiences\" have with novelty, the products of their labours are remarkably similar: disappointing light shows punctuated by a few gamified set pieces.\n\nDe acordo com o texto, muitos visitantes das exposições de arte imersivas demonstram",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fascínio pelas novidades tecnológicas utilizadas pelos curadores."
+        },
+        {
+          "letra": "B",
+          "texto": "desconforto causado pelo excesso de estímulos sensoriais."
+        },
+        {
+          "letra": "C",
+          "texto": "curiosidade sobre a biografia dos pintores e os movimentos artísticos."
+        },
+        {
+          "letra": "D",
+          "texto": "apreciação pelas informações oferecidas por guias e educadores."
+        },
+        {
+          "letra": "E",
+          "texto": "indiferença diante das simulações das obras de arte."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "TEXTO PARA AS QUESTÕES 06 E 07\nVincent van Gogh. Salvador Dalí. Frida Kahlo. Casual perusers of ads everywhere would be forgiven for thinking that art galleries are enjoying some sort of golden age. The truth is less exciting, more expensive and certainly more depressing. For this is no ordinary art on offer; this art is \"immersive\", the latest lovechild of TikTok and enterprising warehouse landlords. The first problem with immersive art? It's not actually very immersive. A common trope of \"immersive\" retrospectives is to recreate original pieces using gimmicky tech. But merely aiming a projector at a blank canvas doesn't do much in the way of sensory stimulation. My favourite element of an \"immersive\" show I have been to was their faithful recreation of Van Gogh's bedroom. An ambitious feat, executed with some furniture and, of course, mutilated pastiches of his paintings. While projectors, surround sound and uncomfortably wacky seating are mainstays of immersive art, there are also the VR headsets. But many exhibitions don't even include these with the standard ticket, so my return to reality has twice been accompanied by an usher brandishing a credit card machine. Sometimes these installations are so banal and depthless, visitors have often walked through installations entirely oblivious to whatever is happening around them. Despite the fixation \"immersive experiences\" have with novelty, the products of their labours are remarkably similar: disappointing light shows punctuated by a few gamified set pieces.\n\nO texto apresenta uma crítica às exposições de arte imersivas que está relacionada com",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a manipulação digital das imagens exibidas pelos usuários do TikTok."
+        },
+        {
+          "letra": "B",
+          "texto": "o emprego das obras de arte para fins publicitários ilícitos."
+        },
+        {
+          "letra": "C",
+          "texto": "a cobrança pelo uso de equipamentos para simular a experiência de imersão nas obras."
+        },
+        {
+          "letra": "D",
+          "texto": "a falta de informação para o público leigo nos catálogos das exibições."
+        },
+        {
+          "letra": "E",
+          "texto": "o investimento necessário para a criação da tecnologia usada nas instalações."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto",
+        "Arte – Crítica de Arte"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Matrizes podem ser usadas para se obter informações sobre uma rede social. Para compreender como isso pode ser feito, consideremos como exemplo uma pequena rede social formada por 4 pessoas: $P_1, P_2, P_3, P_4$. A matriz associada a essa rede social é a matriz 4 x 4:\n$$M = \\begin{pmatrix} 0 & 1 & 0 & 1 \\\\ 0 & 0 & 1 & 0 \\\\ 1 & 1 & 0 & 1 \\\\ 1 & 0 & 1 & 0 \\end{pmatrix}$$\nO valor 1 (um) na posição $a_{32}$ (linha 3, coluna 2) da matriz significa que a pessoa $P_3$ segue a pessoa $P_2$, ao passo que o valor 0 (zero) na posição $a_{24}$ (linha 2, coluna 4) significa que a pessoa $P_2$ não segue a pessoa $P_4$. O valor 0 (zero) será atribuído às posições $a_{ii}$. O significado do valor da posição $b_{mn}$ da matriz produto $M \\times M = M^2$ é a quantidade de conexões da pessoa $P_m$ até a pessoa $P_n$ passando exatamente por uma pessoa, diferente delas duas, que chamaremos de conexão de grau 2.\nDessa forma, os valores das posições da matriz $M^2$ podem refletir o alcance da rede social, suas potencialidades e fraquezas, a influência de certos membros dela, dentre outros aspectos.\nCom relação à rede social apresentada, é correto afirmar que:\nNote e adote:\nA posição $b_{mn}$ da matriz produto $M \\times M = M^2$ é dada pela expressão $b_{mn} = a_{m1}a_{1n} + a_{m2}a_{2n} + a_{m3}a_{3n} + a_{m4}a_{4n}$",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Existem 5 pares de pessoas diferentes ($P_i \\neq P_j$) que não possuem conexões de grau 2."
+        },
+        {
+          "letra": "B",
+          "texto": "Existem 6 pares de pessoas diferentes ($P_i \\neq P_j$) que possuem apenas uma conexão de grau 2."
+        },
+        {
+          "letra": "C",
+          "texto": "Existem 3 pares de pessoas diferentes ($P_i \\neq P_j$) que possuem 2 conexões de grau 2 diferentes."
+        },
+        {
+          "letra": "D",
+          "texto": "Existem 3 pessoas que possuem conexões de grau 2 com todas as outras pessoas da rede social."
+        },
+        {
+          "letra": "E",
+          "texto": "Existe apenas 1 pessoa $P_i$ ($i \\neq 3$) tal que $P_i$ e $P_3$ seguem-se mutuamente."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Matrizes"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Uma empresa de alimentos utiliza embalagens, no formato de paralelepípedo reto-retângulo, de dimensões 2 cm x 3 cm x 11 cm, para armazenar biscoitos. Para o transporte desse produto, são utilizadas caixas para acondicionar essas embalagens, também no formato de paralelepípedo reto-retângulo, de dimensões 12 cm x 13 cm x 26 cm. A imagem a seguir ilustra um paralelepípedo reto-retângulo.\n\nDetermine o número máximo de embalagens que podem ser acondicionadas em cada caixa fechada para transporte, sem que o produto seja danificado.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "48"
+        },
+        {
+          "letra": "B",
+          "texto": "52"
+        },
+        {
+          "letra": "C",
+          "texto": "56"
+        },
+        {
+          "letra": "D",
+          "texto": "60"
+        },
+        {
+          "letra": "E",
+          "texto": "61"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "\"Industrializar é uma condição de vida, é uma absoluta e imperiosa necessidade, é mesmo um dever de que já não está ao nosso alcance declinar. Nem que o quiséssemos, não poderíamos sobreviver conservando-nos nação pastoril e agrícola, no velho estilo, exportando café e umas poucas matérias-primas [...] Industrializar um país não é uma obra mágica que possa ser feita sem preparo, ao simples sopro de uma aspiração. É necessário que exista uma mentalidade industrial, um estado de espírito propício ao desenvolvimento, é necessário que existam gerações preparadas para a ação.\"\nOLIVEIRA, Juscelino Kubitschek de. Industrialização: batalha pela própria sobrevivência da nacionalidade. São Paulo: Serviço de Publicações da Federação e Centro das Indústrias do Estado de S. Paulo, 1957. p.9-10.\n\nA \"mentalidade industrial\", proposta pelo então presidente Juscelino Kubitschek, concretiza-se em seu governo (1956-1961) sob a forma",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "de grandes investimentos na educação básica e na fundação de centros de pesquisa."
+        },
+        {
+          "letra": "B",
+          "texto": "de incentivos à diversificação e mecanização da produção agrícola."
+        },
+        {
+          "letra": "C",
+          "texto": "da implantação de formas racionais de organização do trabalho."
+        },
+        {
+          "letra": "D",
+          "texto": "da ação governamental embasada em concepção nacionalista e trabalhista."
+        },
+        {
+          "letra": "E",
+          "texto": "de um projeto desenvolvimentista amparado por incentivos e captação de recursos estrangeiros."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – História do Brasil Republicano"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Observe o mapa da expansão da cafeicultura nos estados de São Paulo e Rio de Janeiro nos séculos XIX e XX.\n\nSobre o papel da cafeicultura na dinâmica territorial dessas áreas, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Iniciada no Vale do Paraíba do Sul, entre São Paulo e Rio de Janeiro, na década de 1830, a cafeicultura teve pouco êxito nessa região pelas dificuldades de cultivo, em função do clima frio e da escassez de trabalho escravizado."
+        },
+        {
+          "letra": "B",
+          "texto": "A expansão da produção cafeeira no estado de São Paulo se deu em direção à zona oriental do estado, na década de 1850, em decorrência da infraestrutura de transporte existente na região e da presença de trabalho assalariado."
+        },
+        {
+          "letra": "C",
+          "texto": "O início da cafeicultura no estado de São Paulo se deu na região oeste, na década de 1930, em decorrência da expansão da produção no norte do Paraná, com expansão para o oeste paulista, aproveitando-se da qualidade do solo."
+        },
+        {
+          "letra": "D",
+          "texto": "A produção cafeeira, nos séculos XIX e XX, concentrava-se nos estados de Minas Gerais e Espírito Santo, com a introdução de novas variedades altamente produtivas e resistentes ao clima frio dessas regiões."
+        },
+        {
+          "letra": "E",
+          "texto": "Expandindo-se na direção oeste do território paulista, a produção cafeeira impulsionou, nos séculos XIX e XX, a estruturação econômica do estado de São Paulo, impactando o desenvolvimento da malha ferroviária e portuária."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Geografia Agrária",
+        "História – História do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Modais de transporte, em porcentagem do total, em diferentes países (2021)\n\nA partir dos dados e dos seus conhecimentos, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O modal aquaviário, com menor custo e maior capacidade de carga, predomina em mais da metade dos países representados no gráfico."
+        },
+        {
+          "letra": "B",
+          "texto": "Nos EUA, em decorrência da baixa necessidade de transporte de cargas, predomina o modal rodoviário, com menor custo no transporte de pessoas."
+        },
+        {
+          "letra": "C",
+          "texto": "Predominante no país, o modal aquaviário no Canadá tem alto custo, em decorrência das condições climáticas que mantêm os cursos d'água de todo o país congelados na maior parte do ano."
+        },
+        {
+          "letra": "D",
+          "texto": "Apesar de possuir maior custo, a matriz brasileira, alicerçada no modal rodoviário, é eficiente considerando a capacidade de transporte em grandes quantidades e longos percursos."
+        },
+        {
+          "letra": "E",
+          "texto": "A predominância do modal aquaviário na China faz parte da estratégia do país de aliar a diminuição dos custos de transporte à busca de modais menos poluentes."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Transportes"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "\"Em uma onda sem precedentes de medo, confusão e pânico, hoje quase 13 milhões de ações mudaram de mãos na bolsa de valores de Nova York. Corredores atordoados atravessaram um mar de papel segurando ordens de investidores assustados para vender a qualquer preço.\"\n“Black Thursday on Wall Street Cat\", The Guardian (Londres), 24/10/1929, p.1.\n\"O mercado esteve ontem numa situação de verdadeiro pânico. Em São Paulo pedem-se a moratória e a emissão de papel-moeda. O presidente da República receberá hoje uma comissão do comércio de Santos.\"\n“A crise do café\", Correio da Manhã (Rio de Janeiro), 29/10/1929, p.1.\nOs excertos, extraídos de matérias jornalísticas publicadas à época, relatam reações ante a Crise de 1929. Essa crise",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "atingiu as atividades agrícolas, incentivou a mecanização do processo produtivo e a absorção dos trabalhadores pelo setor industrial."
+        },
+        {
+          "letra": "B",
+          "texto": "afetou as bases do liberalismo econômico, obrigando a intervenção do Estado por meio de regulações e investimentos."
+        },
+        {
+          "letra": "C",
+          "texto": "impulsionou a indústria do entretenimento, responsável por forjar comportamentos que se opunham ao pessimismo."
+        },
+        {
+          "letra": "D",
+          "texto": "favoreceu a substituição do dólar pela libra esterlina enquanto moeda empregada no comércio internacional."
+        },
+        {
+          "letra": "E",
+          "texto": "contribuiu para o desenvolvimento industrial com a substituição das importações e a ampliação do crédito para investimentos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História Geral",
+        "História – História do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "\"As sociólogas, filósofas e ativistas feministas destacaram, com o conceito de 'reprodução social', algo que a teoria econômica ocultava: para que haja produção de bens e de serviços é necessário que as pessoas que os produzem sejam, por sua vez, produzidas. O trabalho da reprodução social, portanto, cria e repõe a condição primordial e necessária – a existência de pessoas que trabalham – para que a produção econômica possa continuar ocorrendo. Em grande medida, esse trabalho é relegado ao ambiente familiar e às mulheres: cuidado com os filhos, cuidado com doentes e idosos, preparação de alimentos, limpeza e arrumação da casa e outros. O trabalho de reprodução se opõe, socialmente, ao trabalho de produção; este está inserido numa economia organizada com base em empresas – nas fábricas, na agricultura, nos escritórios –, voltado para o mercado e é percebido como merecedor de contrapartida financeira: o salário. Assim, mesmo quando um trabalho da esfera da reprodução se realiza por meio de uma relação de emprego, se for realizado por mulheres, ele costuma ser mal pago e desfrutar de menor prestígio.\"\nARRUZZA, Cinzia; BATTACHARYA, Tithi; FRASER, Nancy. Feminismo para os 99%: um manifesto. São Paulo: Boitempo, 2019.\n\n\"A chamada 'economia do cuidado' é o conjunto de atividades não remuneradas, geralmente exercidas por mulheres, como a limpeza da casa, preparação de alimentos e os cuidados com crianças, idosos e doentes da família. Um pacote que vale 11% do PIB atual (...). Em valores, foram cerca de 634,3 bilhões de reais em 2015 [por exemplo]. (...) Contabilizar o valor dos afazeres domésticos no PIB do Brasil só se tornou possível a partir de 2001, quando o IBGE introduziu na Pesquisa Nacional por Amostra de Domicílios (PNAD) a pergunta referente ao número de horas despendido pela população para executar essas atividades.\"\nDisponível em https://www.cartacapital.com.br/.\n\nNos textos apresentados, encontram-se dois conceitos, o de \"reprodução social\" e o de \"economia do cuidado\". De acordo com as definições desses conceitos e com os dados indicados, qual das afirmações a seguir está correta?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os conceitos de reprodução social e de economia do cuidado são contraditórios porque o primeiro se refere a todo trabalho doméstico e o segundo apenas ao trabalho doméstico pago e que é possível contabilizar."
+        },
+        {
+          "letra": "B",
+          "texto": "Ambos os conceitos se referem a um tipo de trabalho cuja importância é socialmente reconhecida, fato que pode ser comprovado pela porcentagem expressiva que ele representava do PIB brasileiro no ano de 2015."
+        },
+        {
+          "letra": "C",
+          "texto": "As definições de reprodução social e de economia do cuidado excluem, necessariamente, a possibilidade de que o Estado seja responsável por parte das tarefas envolvidas na reprodução das pessoas."
+        },
+        {
+          "letra": "D",
+          "texto": "A contabilização no PIB dos valores dos afazeres domésticos no contexto da economia do cuidado abarca apenas uma parte da reprodução social, pois não inclui o trabalho doméstico remunerado e os trabalhos de reprodução executados fora do ambiente doméstico."
+        },
+        {
+          "letra": "E",
+          "texto": "Os dados estimados sobre a participação das atividades domésticas não remuneradas no PIB do Brasil mostram que a reprodução social acontece apenas quando não há uma relação salarial entre quem executa e quem se beneficia desse tipo de trabalho."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Sociologia – Gênero",
+        "Sociologia – Trabalho"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "A figura mostra dados do Fundo Monetário Internacional (FMI) sobre a série histórica (1992 e 2010) e uma projeção (2028) dos 10 países com o maior Produto Interno Bruto (PIB).\n\nSobre esses dados, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Entre 2010 e 2028, a Indonésia, que não figurava entre os dez maiores PIBs, aparecerá no ranking em razão da produção agrícola e do extrativismo mineral, enquanto que a Itália sofrerá queda na economia devido à instabilidade política do país."
+        },
+        {
+          "letra": "B",
+          "texto": "Entre 1992 e 2028, o Brasil apresentou elevação na sua produção e sofrerá declínio no ranking, assim como o Reino Unido, em razão desses países terem declinado de tratados econômicos globais."
+        },
+        {
+          "letra": "C",
+          "texto": "Entre 1992 e 2010, China e Índia apresentaram crescimento de suas economias em razão do aumento da capacidade produtiva, do potencial de consumo interno e da infraestrutura na produção industrial."
+        },
+        {
+          "letra": "D",
+          "texto": "Entre 1992 e 2010, Japão e Alemanha sofreram queda e estabilização no seu Produto Interno Bruto justificada pelo fato de ambos os países serem potências hegemônicas na produção de tecnologia."
+        },
+        {
+          "letra": "E",
+          "texto": "Entre 2010 e 2028, Rússia e França terão declínio nas suas economias por se encontrarem enfraquecidas por conflitos bélicos, dependência energética e redução populacional em seus países."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "Geografia – Economia"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "\"Por quê? Porque pensar em direitos humanos tem um pressuposto: reconhecer que aquilo que consideramos indispensável para nós é também indispensável para o próximo. (...).\nNesse ponto as pessoas são frequentemente vítimas de uma curiosa obnubilação. Elas afirmam que o próximo tem direito, sem dúvida, a certos bens fundamentais, como casa, comida, instrução, saúde, coisas que ninguém bem formado admite hoje em dia que sejam privilégio de minorias, como são no Brasil. Mas será que pensam que seu semelhante pobre teria direito a ler Dostoievski ou ouvir os quartetos de Beethoven? (...). Ora, o esforço para incluir o semelhante no mesmo elenco de bens que reivindicamos está na base da reflexão sobre os direitos humanos.\"\nCANDIDO, Antonio. Vários escritos. 3ª ed. revista e ampliada. São Paulo: Duas Cidades, 1995.\n\nCom base na leitura do texto, pode-se afirmar que Antonio Candido defende que o acesso a bens como a literatura e a música",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "é privilégio de minorias, pois são bens que exigem reflexão."
+        },
+        {
+          "letra": "B",
+          "texto": "deve ser reivindicado como um direito, e não como um privilégio."
+        },
+        {
+          "letra": "C",
+          "texto": "vitimiza as pessoas que não têm acesso a bens fundamentais para viver."
+        },
+        {
+          "letra": "D",
+          "texto": "humaniza as minorias privilegiadas, incentivando-as a compartilhar seu conhecimento."
+        },
+        {
+          "letra": "E",
+          "texto": "é indispensável para quem luta pelos direitos humanos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Sociologia – Direitos Humanos",
+        "Filosofia – Ética e Cidadania"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "A charge de Angelo Agostini foi publicada em 1880, em meio aos debates sobre a Lei dos Sexagenários no parlamento brasileiro.\n\nA charge",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "endossa a defesa, pelos setores políticos liberais, do emprego de trabalhadores brancos, representados nas laterais do monumento."
+        },
+        {
+          "letra": "B",
+          "texto": "critica a concepção de independência manifesta na estátua equestre de Pedro I e a defesa da extinção do tráfico de escravizados."
+        },
+        {
+          "letra": "C",
+          "texto": "expõe a contradição entre a liberdade expressa na estátua equestre de Pedro I e as mazelas enfrentadas pelos escravizados."
+        },
+        {
+          "letra": "D",
+          "texto": "defende a manutenção da escravidão, em oposição à exploração do trabalho compulsório de indígenas e de imigrantes europeus."
+        },
+        {
+          "letra": "E",
+          "texto": "expressa a indignação dos proprietários rurais, grupo social hegemônico, diante da redução gradual do trabalho escravo."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História do Brasil Império",
+        "Arte – Análise de Charge"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "\"O lugar do ensino superior agora tem as portas abertas. A (...) Constituição é que impõe essa situação por decreto. Mas (...) este não pode garantir que todos tenham a tal 'capacidade' que lhes vai permitir o aproveitamento dessa educação. Há rapazes — até agora são poucas as moças com a força de vontade que Jabu, ainda menina, tinha para dar e vender — que recebem bolsas ou auxílios de algum tipo (...). As 'aulas de reforço' (...): um band-aid. Steve sabe que isso não é uma solução para o abismo da educação ruim do fundo do qual os alunos tentam emergir.\nA Luta não terminou.\n(...) Eu tenho alunos de estudos africanos que não sabem escrever (...).\n— Então o que é que nós devíamos estar fazendo? (...) O professor Nielson ainda usa terno (...), embora o padrão da indumentária tenha relaxado a partir do exemplo dado pelas túnicas de Mandela. (...) – Você não está propondo que a gente baixe ainda mais os critérios de admissão à universidade. Então a universidade é pra avançar no conhecimento ou é pra andar pra trás?\nO que Steve está perguntando é se esse ensino adicional de faz de conta na esperança de elevar os alunos a um nível universitário pode compensar dez anos de educação primária e secundária de péssimo nível.\"\nGORDIMER, Nadine. O melhor tempo é o tempo presente. São Paulo: Companhia das Letras, 2014. p.82-83.\n\nNo excerto do romance da escritora sul-africana Nadine Gordimer, é possível identificar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o regime de apartheid em vigor na África do Sul na época em que o romance se passa, que mantinha alunos e professores negros fora da universidade."
+        },
+        {
+          "letra": "B",
+          "texto": "a segregação formal das mulheres no acesso à educação, conforme estabelecido pela Constituição promulgada no pós-apartheid."
+        },
+        {
+          "letra": "C",
+          "texto": "as eficazes estratégias de apoio aos estudantes pobres para assegurar a boa qualidade da educação básica e superior na época do apartheid."
+        },
+        {
+          "letra": "D",
+          "texto": "as incertezas sobre as estratégias adotadas para enfrentar desigualdades sociais e educacionais legadas pelo regime do apartheid na África do Sul."
+        },
+        {
+          "letra": "E",
+          "texto": "o reconhecimento consensual do sucesso do projeto de inclusão educacional no cenário sul-africano pós-apartheid."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Literatura",
+        "História – História da África",
+        "Sociologia – Desigualdade Social"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "TEXTO PARA AS QUESTÕES 19 E 20\n\nNo anúncio, o segmento \"won't bestow mega-buck prices\" indica",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a tentativa de angariar fundos para patrocinar artistas iniciantes."
+        },
+        {
+          "letra": "B",
+          "texto": "a falta de incentivo dos museus a pintores vanguardistas."
+        },
+        {
+          "letra": "C",
+          "texto": "a possibilidade de redução dos valores financeiros de obras de arte consagradas."
+        },
+        {
+          "letra": "D",
+          "texto": "a ausência de qualidade artística de quadros tradicionais."
+        },
+        {
+          "letra": "E",
+          "texto": "a crise financeira vivida por galerias de arte famosas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto",
+        "Arte – Mercado de Arte"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "TEXTO PARA AS QUESTÕES 19 E 20\n\nConsiderado o contexto, a expressão \"be worth\" tem sentido de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "prontidão."
+        },
+        {
+          "letra": "B",
+          "texto": "esperteza."
+        },
+        {
+          "letra": "C",
+          "texto": "valorização."
+        },
+        {
+          "letra": "D",
+          "texto": "apelo."
+        },
+        {
+          "letra": "E",
+          "texto": "experimento."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "\"Entre os anos de 2012 e 2022, o número de pessoas autodeclaradas pretas e pardas aumentou em uma taxa superior à do crescimento do total da população do país, segundo o resultado da Pesquisa Nacional por Amostra de Domicílios (PNAD) Contínua do IBGE. No caso dos negros, essa porcentagem variou de 7,4% em 2012 para 10,6% em 2022. '(...) uma das hipóteses para o crescimento da proporção é que a percepção racial tenha mudado dentro da população, nos últimos anos'.\"\nO Globo, 22/07/2022; CNN Brasil, 16/06/2023.\n\n\"Pois bem, é justamente a partir daí que aparece a necessidade de teorizar as 'raças' como o que elas são, ou seja, construtos sociais, formas de identidade baseadas numa ideia biológica errônea, mas eficaz, socialmente, para construir, manter e reproduzir diferenças e privilégios. Se as raças não existem num sentido estritamente realista de ciência, ou seja, se não são um fato do mundo físico, são, contudo, plenamente existentes no mundo social, produtos de formas de classificar e de identificar que orientam as ações dos seres humanos.\"\nGUIMARÃES, Antônio Sergio Alfredo. Raças e estudos de relações raciais no Brasil. Novos Estudos CEBRAP, n.54, 1999. p.153.\n\nRelacionando os dados trazidos pela PNAD/IBGE e o conceito de raça do sociólogo Antônio Sergio Alfredo Guimarães, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A hipótese de que a autopercepção racial de parte dos brasileiros mudou está em conflito com a tese de que raça é um construto social. Isso porque, como os traços fenotípicos da população brasileira mantiveram-se os mesmos de 2012 a 2022, não haveria motivos para o aumento dos autodeclarados pretos e pardos."
+        },
+        {
+          "letra": "B",
+          "texto": "A tese de que raças são construtos sociais ganha força diante das mudanças na autopercepção de parte dos brasileiros sobre sua condição racial. Alterações culturais e ideológicas da inserção social de negros e pardos teriam permitido o crescimento dos assim autodeclarados."
+        },
+        {
+          "letra": "C",
+          "texto": "As alterações na autopercepção racial captadas pelas pesquisas do IBGE não guardam relação com a ideia de que raça é um construto social. Na verdade, reafirmam que as raças são realidades biológicas e que mais indivíduos estariam se dando conta do seu verdadeiro pertencimento racial."
+        },
+        {
+          "letra": "D",
+          "texto": "Os dados colhidos pelo IBGE sobre o aumento da autodeclaração racial dos respondentes como pretos e pardos indicam que houve um aumento dessa população no Brasil, o que contraria a tese de que raça é um construto social, e não uma realidade biológica."
+        },
+        {
+          "letra": "E",
+          "texto": "A existência do racismo no Brasil indica que a tese de raça como construto social está errada. Se raça fosse um construto social, e não uma realidade biológica, os indivíduos prefeririam se declarar como brancos para evitar serem vítimas de racismo."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Sociologia – Relações Étnico-Raciais"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "\"Na coluna do ativo como na do passivo, seria difícil exagerar o papel do açúcar na história do Brasil colonial. Se ele foi o produto que proporcionou a base inicial solidamente econômica para o esforço do colonizador, foi também o que plasmou o regime de propriedade latifundiária, instalou a escravidão africana na América portuguesa e, no seu exclusivismo, inibiu o desenvolvimento da policultura (...), embora estimulando, em áreas apartadas, a pecuária e a lavoura de subsistência. (...) Ele desenvolveu um estilo de vida que marcou a existência de todas as camadas da população que integrou, reservando, contudo, seus privilégios a uns poucos.\"\nMELLO, Evaldo Cabral de. Um imenso Portugal: História e historiografia. São Paulo: Ed. 34, 2002. p.110.\n\nO texto indica que, no Nordeste açucareiro dos séculos XVI e XVII,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a mão de obra de escravizados de origem africana e indígena era empregada nos canaviais, na pecuária e na lavoura de subsistência."
+        },
+        {
+          "letra": "B",
+          "texto": "a distribuição de terras baseava-se na concessão, pela Coroa portuguesa, de privilégios e pequenos lotes a donatários."
+        },
+        {
+          "letra": "C",
+          "texto": "os privilégios concentravam-se nas mãos dos senhores de engenho, em detrimento da população escravizada ou livre e pobre."
+        },
+        {
+          "letra": "D",
+          "texto": "o desenvolvimento de relações socioeconômicas fundadas na horizontalidade recebia estímulos governamentais."
+        },
+        {
+          "letra": "E",
+          "texto": "o modo de produção feudal prevaleceu na exploração agrícola pela metrópole."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História do Brasil Colônia"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "A arte foi e ainda pode ser utilizada para criar, reforçar e disseminar ideias, valores e estereótipos, mas também pode colocá-los em discussão. A obra \"Sentem para jantar\", de Gê Viana, faz parte da série \"Atualizações traumáticas de Debret\", na qual o artista propõe uma revisão iconográfica da história do Brasil tendo como referência as obras de Jean-Baptiste Debret, especificamente aquelas presentes em \"Viagem Pitoresca e Histórica ao Brasil\" (1834-1839), publicação que pautou de maneira imagética o período colonial brasileiro. Em sua revisão, Gê Viana dá continuidade ao seu projeto de análise crítica de representações históricas, produzindo releituras de algumas dessas obras, dentre as quais, a obra \"Um jantar brasileiro\", do artista francês. A seguir, são reproduzidos os quadros desses dois artistas.\n\nCom base nas informações e imagens apresentadas, assinale a alternativa que corresponde à abordagem adotada por Gê Viana em sua obra \"Sentem para jantar\", ao utilizar como referência a obra \"Um jantar brasileiro\", de Jean-Baptiste Debret.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Gê Viana reproduz, em sua obra, as mesmas relações sociais representadas na obra de Debret."
+        },
+        {
+          "letra": "B",
+          "texto": "Gê Viana exalta, em sua obra, especialmente as características físicas das pessoas retratadas, enquanto Debret enfatiza as relações pessoais."
+        },
+        {
+          "letra": "C",
+          "texto": "Gê Viana emprega, em sua obra, as mesmas técnicas e os mesmos materiais utilizados na obra de Debret, o que lhes confere grande semelhança."
+        },
+        {
+          "letra": "D",
+          "texto": "Gê Viana ignora aspectos relacionados a questões étnico-raciais em sua releitura da obra de Debret, focando apenas na estética visual da obra."
+        },
+        {
+          "letra": "E",
+          "texto": "Gê Viana busca desconstruir, em sua obra, os estereótipos étnico-raciais presentes na obra original de Debret."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Arte – História da Arte",
+        "Sociologia – Relações Étnico-Raciais"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "TEXTO PARA AS QUESTÕES 24 E 25\n\nTempo de nos aquilombar\n\nÉ tempo de caminhar em fingido silêncio,\ne buscar o momento certo no grito,\naparentar fechar um olho evitando o cisco\ne abrir escancaradamente o outro.\n\nÉ tempo de fazer os ouvidos moucos\npara os vazios lero-leros,\ne cuidar dos passos assuntando as vias,\nir se vigiando atento, que o buraco é fundo.\n\nÉ tempo de ninguém se soltar de ninguém,\nmas olhar fundo na palma aberta\na alma de quem lhe oferece o gesto.\nO laçar de mãos não pode ser algemas,\ne sim acertada tática, necessário esquema.\n\nÉ tempo de formar novos quilombos,\nem qualquer lugar que estejamos\ne que venham dias futuros, salve 2020\nA mística quilombola persiste afirmando:\n\"a liberdade é uma luta constante\".\n\nConceição Evaristo. Jornal O Globo, 31/12/2019.\n\nConsiderando o enfoque do texto na denúncia social, o eu lírico revela, predominantemente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a crítica às reações da nossa sociedade frente aos problemas que ficaram no passado."
+        },
+        {
+          "letra": "B",
+          "texto": "as justificativas para a segregação social no mundo contemporâneo."
+        },
+        {
+          "letra": "C",
+          "texto": "as tensões sociais presentes há tempos, sob a luz dos embates do momento atual."
+        },
+        {
+          "letra": "D",
+          "texto": "a importância de contornar os problemas sociais do passado."
+        },
+        {
+          "letra": "E",
+          "texto": "as peculiaridades das diferentes classes sociais ao enfrentar os problemas sociais atuais."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Contemporânea",
+        "Língua Portuguesa – Interpretação de Poesia"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "TEXTO PARA AS QUESTÕES 24 E 25\n\nTempo de nos aquilombar\n\nÉ tempo de caminhar em fingido silêncio,\ne buscar o momento certo no grito,\naparentar fechar um olho evitando o cisco\ne abrir escancaradamente o outro.\n\nÉ tempo de fazer os ouvidos moucos\npara os vazios lero-leros,\ne cuidar dos passos assuntando as vias,\nir se vigiando atento, que o buraco é fundo.\n\nÉ tempo de ninguém se soltar de ninguém,\nmas olhar fundo na palma aberta\na alma de quem lhe oferece o gesto.\nO laçar de mãos não pode ser algemas,\ne sim acertada tática, necessário esquema.\n\nÉ tempo de formar novos quilombos,\nem qualquer lugar que estejamos\ne que venham dias futuros, salve 2020\nA mística quilombola persiste afirmando:\n\"a liberdade é uma luta constante\".\n\nConceição Evaristo. Jornal O Globo, 31/12/2019.\n\nO verso “É tempo de formar novos quilombos” é um exemplo de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "paradoxo, na medida em que propõe retomar o passado num contexto atual."
+        },
+        {
+          "letra": "B",
+          "texto": "metonímia, já que os quilombos fazem parte de um novo contexto cultural, sem relação com o passado."
+        },
+        {
+          "letra": "C",
+          "texto": "metáfora, representando uma união coletiva como forma de resistência social."
+        },
+        {
+          "letra": "D",
+          "texto": "antítese, ao relacionar a noção de tempo passado a uma nova configuração de futuro."
+        },
+        {
+          "letra": "E",
+          "texto": "hipérbole, apresentando o termo \"quilombos\" no plural para indicar o grau de difusão do movimento."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "TEXTOS PARA AS QUESTÕES 26 E 27\n\nTexto I\n\"Na confusão verde do fundo da machamba, Maria não viu o capataz imediatamente. Esbracejou com aflição, tentando libertar as pernas. O braço rodeou-lhe os ombros duramente. O bafo quente e ácido do homem aproximou-se da sua face. A capulana da Maria desprendeu-se durante a breve luta e a sensação fria de água tornou-se-lhe mais vívida. Um arrepio fê-la contrair-se. Sentiu nas coxas nuas a carícia morna e áspera dos dedos calosos do homem.\"\nLuis Bernardo Honwana. Dina, In: Nós Matamos o Cão Tinhoso!.\n\nTexto II\n\"- Mas choraste. A bofetada que te dei foi só uma disciplina para aprenderes a não fazer ciúmes. Gosto muito de ti, Sarnau. És a minha primeira mulher. É tua a honra deste território. Tu és a mãe de todas as mães da nossa terra. Tu és o meu mundo, minha flor, rebuçado [bala] do meu coração.\nDeixei cair duas gotas de fel bem amargas e salgadinhas. Meu marido acariciava-me à moda dos búfalos; dizia-me coisas no ouvido e o seu hálito fedia a álcool, enjoava-me, arrepiava-me, maltratando o meu corpinho frágil. Explodi furiosa e chorei de amargura.\n- Sarnau, pareces ser uma machamba difícil. Já faz tempo que semeio em ti e não vejo resultado. Com a outra foi tão diferente. Bastou uma sementeira e germinou logo.\n- Casámo-nos há pouco tempo, Nguila, muito pouco tempo.\n- Não tenho lá muita paciência. Não estou para lavrar sem colher.\"\nPaulina Chiziane. Balada de amor ao vento, p. 61-62.\n\nOs trechos transcritos foram retirados dos livros dos moçambicanos Luís Bernardo Honwana e Paulina Chiziane. Em ambos, observa-se a ocorrência da palavra \"machamba\". A respeito do uso desse termo, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "No texto I, machamba refere-se a um matagal, em sentido denotativo; no texto II, ao papel de esposa de Sarnau, em sentido conotativo."
+        },
+        {
+          "letra": "B",
+          "texto": "No texto I, machamba possui sentido literal, referindo-se às terras para cultivo; no texto II, o sentido é figurado, referindo-se ao útero de Sarnau."
+        },
+        {
+          "letra": "C",
+          "texto": "No texto I, machamba possui sentido figurado, referindo-se à colheita; no texto II, o sentido é literal, referindo-se a um problema."
+        },
+        {
+          "letra": "D",
+          "texto": "Em ambos os textos, machamba apresenta sentido literal e refere-se a um terreno agrícola de produção familiar."
+        },
+        {
+          "letra": "E",
+          "texto": "Em ambos os textos, machamba possui sentido figurado e refere-se às terras férteis ocupadas pelos portugueses."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Africana de Língua Portuguesa",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "TEXTOS PARA AS QUESTÕES 26 E 27\n\nTexto I\n\"Na confusão verde do fundo da machamba, Maria não viu o capataz imediatamente. Esbracejou com aflição, tentando libertar as pernas. O braço rodeou-lhe os ombros duramente. O bafo quente e ácido do homem aproximou-se da sua face. A capulana da Maria desprendeu-se durante a breve luta e a sensação fria de água tornou-se-lhe mais vívida. Um arrepio fê-la contrair-se. Sentiu nas coxas nuas a carícia morna e áspera dos dedos calosos do homem.\"\nLuis Bernardo Honwana. Dina, In: Nós Matamos o Cão Tinhoso!.\n\nTexto II\n\"- Mas choraste. A bofetada que te dei foi só uma disciplina para aprenderes a não fazer ciúmes. Gosto muito de ti, Sarnau. És a minha primeira mulher. É tua a honra deste território. Tu és a mãe de todas as mães da nossa terra. Tu és o meu mundo, minha flor, rebuçado [bala] do meu coração.\nDeixei cair duas gotas de fel bem amargas e salgadinhas. Meu marido acariciava-me à moda dos búfalos; dizia-me coisas no ouvido e o seu hálito fedia a álcool, enjoava-me, arrepiava-me, maltratando o meu corpinho frágil. Explodi furiosa e chorei de amargura.\n- Sarnau, pareces ser uma machamba difícil. Já faz tempo que semeio em ti e não vejo resultado. Com a outra foi tão diferente. Bastou uma sementeira e germinou logo.\n- Casámo-nos há pouco tempo, Nguila, muito pouco tempo.\n- Não tenho lá muita paciência. Não estou para lavrar sem colher.\"\nPaulina Chiziane. Balada de amor ao vento, p. 61-62.\n\nNos excertos, os escritores moçambicanos descrevem, cada um em seu contexto, cenas de violência. Sobre elas, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Luís Bernardo Honwana descreve uma cena de violência psicológica velada do capataz contra a mulher, sem que ela perceba a agressão sofrida."
+        },
+        {
+          "letra": "B",
+          "texto": "Luís Bernardo Honwana expõe a violência social de que a mulher é vítima ao relatar uma discussão acalorada que ela trava com o capataz."
+        },
+        {
+          "letra": "C",
+          "texto": "Luís Bernardo Honwana narra uma luta física entre o capataz e a mulher, a qual tenta resistir à agressão sofrida, mas acaba por consentir com a relação."
+        },
+        {
+          "letra": "D",
+          "texto": "Paulina Chiziane apresenta elementos narrativos que permitem identificar a agressão psicológica e física praticada, pelo marido, contra a mulher."
+        },
+        {
+          "letra": "E",
+          "texto": "Paulina Chiziane associa a violência contra a mulher a um processo educativo que visa zelar pela estabilidade da relação conjugal e pela felicidade do casal."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Africana de Língua Portuguesa",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "\"Colombo não reconhece a diversidade das línguas e, por isso, quando se vê diante de uma língua estrangeira, só há dois comportamentos possíveis, e complementares: reconhecer que é uma língua, e recusar-se a aceitar que seja diferente, ou então reconhecer a diferença e recusar-se a admitir que seja uma língua... Os índios que encontra logo no início, a 12 de outubro de 1492, provocam uma reação do segundo tipo; ao vê-los, promete: 'Se Deus assim o quiser, no momento da partida levarei seis deles a Vossas Altezas, para que aprendam a falar' (...).\"\nTODOROV, Tzvetán. A conquista da América: a questão do outro. São Paulo: Martins Fontes, 1993. p.29-30.\n\nAo tratar das reações iniciais de Colombo ao chegar à América, o excerto indica que o navegador",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reconheceu a necessidade de tradução mútua entre as línguas."
+        },
+        {
+          "letra": "B",
+          "texto": "considerou as línguas indígenas como expressão de outras culturas."
+        },
+        {
+          "letra": "C",
+          "texto": "interpretou as diferenças linguísticas como estratégia de resistência dos nativos."
+        },
+        {
+          "letra": "D",
+          "texto": "mostrou-se disposto a estudar e compreender as línguas dos indígenas."
+        },
+        {
+          "letra": "E",
+          "texto": "entendeu o ensino do castelhano aos indígenas como forma de civilização."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – História da América",
+        "Sociologia – Cultura e Sociedade"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "\"Para praticar a agricultura, os tupis derrubavam árvores e faziam a queimada – técnica que iria ser incorporada pelos colonizadores. Plantavam feijão, milho, abóbora e principalmente mandioca, cuja farinha se tornou também um alimento básico da Colônia. A economia era basicamente de subsistência e destinada ao consumo próprio. Cada aldeia produzia para satisfazer a suas necessidades, havendo poucas trocas de gêneros alimentícios com outras aldeias.\nMas existiam contatos entre elas para a troca de mulheres e de bens de luxo, como penas de tucano e pedras para se fazer botoque. Dos contatos resultavam alianças em que grupos de aldeias se posicionavam uns contra os outros. A guerra e a captura de inimigos – mortos em meio à celebração de um ritual canibalístico – eram elementos integrantes da sociedade tupi. Dessas atividades, reservadas aos homens, dependiam a obtenção de prestígio e a renovação das mulheres.\"\nFAUSTO, Boris. História do Brasil. São Paulo: Edusp, 2006. p.40.\n\nDe acordo com o texto, é correto afirmar que, no período colonial brasileiro, as sociedades pertencentes ao tronco linguístico Tupi",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "praticavam o canibalismo devido à escassez de alimentos nas regiões em que viviam."
+        },
+        {
+          "letra": "B",
+          "texto": "desenvolviam uma cultura agrícola de subsistência que não abolia a existência de sistemas de troca."
+        },
+        {
+          "letra": "C",
+          "texto": "cultivavam produtos agrícolas que deixaram de ser consumidos após a chegada dos colonizadores."
+        },
+        {
+          "letra": "D",
+          "texto": "organizavam-se em unidades políticas autônomas, que evitavam contatos comerciais entre si."
+        },
+        {
+          "letra": "E",
+          "texto": "realizavam rituais em que homens e mulheres desempenhavam funções idênticas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História do Brasil Colônia",
+        "Sociologia – Povos Indígenas"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "\"O preconceito linguístico é tanto mais poderoso porque, em grande medida, ele é 'invisível', no sentido de que quase ninguém fala dele, com exceção dos raros cientistas sociais que se dedicam a estudá-lo. Pouquíssimas pessoas reconhecem a existência do preconceito linguístico, quem dirá a sua gravidade como um sério problema social.\"\nBAGNO, Marcos. Preconceito linguístico: o que é, como se faz. Edições Loyola, São Paulo, 1999.\n\nCom base na leitura do texto, é possível depreender que o preconceito linguístico, apesar de nocivo para a sociedade, muitas vezes é despercebido. Nesse sentido, assinale a alternativa que apresenta um exemplo de preconceito linguístico.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A língua falada é um instrumento de sobrevivência em sociedade."
+        },
+        {
+          "letra": "B",
+          "texto": "A língua varia tão rapidamente quanto as mudanças que ocorrem na sociedade."
+        },
+        {
+          "letra": "C",
+          "texto": "Existem muitas maneiras de se expressar a mesma ideia."
+        },
+        {
+          "letra": "D",
+          "texto": "Os habitantes de uma cidade grande não possuem sotaque na língua falada."
+        },
+        {
+          "letra": "E",
+          "texto": "Todo falante nativo de uma língua a conhece plenamente."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Variação Linguística",
+        "Sociologia – Preconceito"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Texto I\n\"W. I. Thomas, decano dos sociólogos norte-americanos, formula um teorema básico para as ciências sociais: 'Se os indivíduos definem as situações como reais, elas são reais em suas consequências'. (...) A primeira parte do teorema constitui uma incessante lembrança de que os homens reagem não somente aos traços objetivos de uma situação, como também, e às vezes principalmente, ao sentido que a situação tem para eles. E, assim que atribuíram algum sentido à situação, sua conduta consequente, e algumas das consequências dessa conduta, são determinadas pelo sentido atribuído. (...) A profecia que se cumpre por si mesma é, inicialmente, uma definição falsa da situação que provoca uma nova conduta, a qual, por sua vez, converte em verdadeiro o conceito originalmente falso.\"\nMERTON, Robert. Sociologia: Teoria e Estrutura. São Paulo: Editora Mestre Jou, 1970. p.515-517.\n\nTexto II\n\"Depois de alguns anos inseridos nesta lógica de abuso e privações de distintos tipos, o detento é novamente colocado em liberdade. (...) Conseguir um trabalho não é tão fácil como parece, já que mesmo as atividades menos qualificadas e manuais (como as relacionadas a limpeza, serviços gerais, construção civil, dentre outras) demandam 'atestado de bons antecedentes e a marca da passagem pela cadeia pode significar um indesejável pertencimento ao mundo do crime' (Ramalho, 2018, p. 91). (...) O fator [condicionante da reincidência] mais citado, presente em 44% dos textos [sobre o tema], foi a baixa qualificação e as poucas oportunidades, sendo essa a explicação padrão de boa parte da literatura para a reincidência.\"\nRIBEIRO, Ludmila; OLIVEIRA, Valéria. Reincidência e reentrada na prisão no Brasil: o que os estudos dizem sobre os fatores que contribuem para essa trajetória. Artigo Estratégico 56. São Paulo: Instituto Igarapé, 2022. p.10-14.\n\nAplicando a noção proposta por Robert Merton, no texto I, ao cenário descrito no texto II, qual definição da situação das pessoas egressas do sistema prisional pelos possíveis empregadores no mercado de trabalho tornaria a reincidência criminal uma \"profecia que se cumpre por si mesma\"?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Pessoas egressas do sistema prisional têm dificuldade de conseguir emprego no mercado de trabalho porque são estigmatizadas."
+        },
+        {
+          "letra": "B",
+          "texto": "Pessoas egressas do sistema prisional têm a mesma chance de conseguir empregos que o restante da população, razão pela qual não devem ser privilegiadas pelos empregadores."
+        },
+        {
+          "letra": "C",
+          "texto": "Pessoas egressas do sistema prisional já foram condenadas e cumpriram pena pelo crime cometido e merecem a oportunidade de trabalhar para recomeçarem a vida."
+        },
+        {
+          "letra": "D",
+          "texto": "Pessoas egressas do sistema prisional voltarão a cometer crimes e, por isso, não devem ser contratadas para trabalhar."
+        },
+        {
+          "letra": "E",
+          "texto": "Pessoas egressas do sistema prisional conseguem somente trabalhos informais e de baixa remuneração por terem pouca qualificação e dificuldades para conseguir seus documentos."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Sociologia – Teoria Sociológica",
+        "Sociologia – Desvio e Crime"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "The main players in the Spanish-Aztec War (1519-21) are well known: Hernán Cortés and Montezuma. Lesser-known, though no less important, is a multilingual exiled Aztec woman who was enslaved, then served as a guide and interpreter, then became Cortés's mistress. She was known as Doña Marina, and as La Malinche.\nScholar and researcher Cordelia Candelaria writes: her paramount value to the Spaniards was not merely linguistic. She was an interpreter/liaison who served as a guide to the region, as an advisor on native customs and beliefs, and as a strategist.\nLa Malinche was the daughter of an Aztec cacique (chief). This gave her an unusual level of education, which she would later leverage as a guide and interpreter for the Spanish. Throughout Cortés's travels, she became indispensable as a translator, not only capable of functionally translating from one language to the other, but of speaking compellingly, strategizing, and forging political connections.\nIntegral as she was to Spain's success, La Malinche is a controversial figure. Candelaria quotes T. R. Fehrenbach as saying, \"If there is one villainess in Mexican history, she is La Malinche. She was to become the ethnic traitress supreme.\" But Candelaria argues that La Malinche's act of turning her back on her own people makes more psychological sense when we consider that, at a young age, she had been sold by her own mother into slavery. Candelaria asks, \"What else could this outcast from the Aztecs, 'her own people,' have done?\"\n\nSegundo o texto, em relação à imagem de La Malinche como traidora do povo Asteca, a pesquisadora Cordelia Candelaria argumenta que a intérprete",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "havia sido preterida no seio da própria família."
+        },
+        {
+          "letra": "B",
+          "texto": "fez uso de idiomas em proveito próprio."
+        },
+        {
+          "letra": "C",
+          "texto": "era invejada pelos privilégios alcançados."
+        },
+        {
+          "letra": "D",
+          "texto": "ignorou as vulnerabilidades do povo mexicano."
+        },
+        {
+          "letra": "E",
+          "texto": "tentou se sobrepor aos líderes da época."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto",
+        "História – História da América"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Números figurados são números que expressam o total de pontos em certas configurações geométricas. Um exemplo de números figurados são os triangulares, os quais são números naturais que podem ser representados geometricamente na forma de um triângulo. Os quatro primeiros números triangulares estão ilustrados na figura I. Apesar de o número 1 não representar um triângulo, ele é considerado um número triangular.\n\nOutro exemplo de número figurado é o número oblongo, o qual representa o total de pontos de um quadro retangular em que o número de colunas é uma unidade a mais do que o número de linhas. Os quatro primeiros números oblongos estão ilustrados na figura II. Apesar de o número 2 não representar um quadro retangular, ele é considerado um número oblongo.\n\nA respeito de números triangulares e números oblongos, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "162 é o 15º número triangular."
+        },
+        {
+          "letra": "B",
+          "texto": "O 13º número triangular é primo e o 30º número oblongo é ímpar."
+        },
+        {
+          "letra": "C",
+          "texto": "156 não é um número oblongo, nem triangular."
+        },
+        {
+          "letra": "D",
+          "texto": "210 é um número triangular e oblongo."
+        },
+        {
+          "letra": "E",
+          "texto": "A diferença entre dois números triangulares consecutivos são termos de uma progressão geométrica."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Progressões Aritméticas e Geométricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "O Atlas da Violência, publicado em 2019 e organizado pelo Instituto de Pesquisa Econômica Aplicada e Fórum Brasileiro de Segurança Pública, apresenta um estudo para melhor compreender a violência no país. Os dados que ali constam referem-se ao período de 2007 a 2017. Um dos capítulos desse documento trata, especificamente, da violência contra a mulher. O gráfico a seguir mostra a evolução da taxa de homicídios de mulheres (equivalente ao número de homicídios por 100 mil mulheres), de 2007 a 2017, no Brasil e nas três unidades federativas com as menores taxas em 2017.\n\nDe acordo com os dados apresentados, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Dentre as unidades federativas citadas, a que teve maior decréscimo na taxa de homicídios de mulheres no período entre 2014 e 2017 foi São Paulo."
+        },
+        {
+          "letra": "B",
+          "texto": "As três unidades federativas indicadas tiveram um decréscimo na taxa de homicídios de mulheres em 2017 quando comparada com a taxa de 2007."
+        },
+        {
+          "letra": "C",
+          "texto": "A taxa de homicídios de mulheres no Brasil em 2017 é maior que a soma das taxas das três unidades federativas apresentadas neste mesmo ano."
+        },
+        {
+          "letra": "D",
+          "texto": "Dentre as unidades federativas apontadas, a que apresentou a maior taxa de homicídios de mulheres em 2017 é Santa Catarina, superando a taxa registrada nos demais estados da região Sul."
+        },
+        {
+          "letra": "E",
+          "texto": "Dentre as unidades federativas mencionadas, a maior redução na taxa de homicídios de mulheres, entre 2016 e 2017, registrada na pesquisa ocorreu no Distrito Federal."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Interpretação de Gráficos",
+        "Sociologia – Violência"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "\"A China enviou ontem navios de guerra e dezenas de caças para Taiwan, em retaliação a uma reunião entre a presidente da ilha, Tsai Ing-Wen, e o presidente da Câmara dos Deputados do EUA, Kevin McCarty, na Califórnia\".\nO Estado de São Paulo, 08/04/2023. Adaptado.\n\nA reportagem faz alusão ao aumento das tensões geopolíticas entre China e Taiwan. Sobre esse tema, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As tensões iniciaram-se no final de década de 1970, em decorrência das mudanças políticas e econômicas perpetradas pelo então presidente chinês Deng Xiaoping, que resultaram na declaração de independência de Taiwan em relação à China."
+        },
+        {
+          "letra": "B",
+          "texto": "Iniciadas ainda na primeira metade do século XX, as tensões entre China e Taiwan aumentaram desde então em decorrência da presença militar dos EUA no território taiwanês, o que contraria os interesses geopolíticos chineses na região."
+        },
+        {
+          "letra": "C",
+          "texto": "As tensões decorreram do aumento da influência russa sobre o território taiwanês, com foco na exploração do potencial mercado consumidor, considerado estratégico para o aumento das exportações do gás natural russo."
+        },
+        {
+          "letra": "D",
+          "texto": "Com apoio soviético, Taiwan conseguiu independência do território chinês no final da década de 1960. Após o fim da Guerra Fria, tornou-se uma potência tecnológica, o que ampliou o interesse geopolítico chinês na retomada desse território."
+        },
+        {
+          "letra": "E",
+          "texto": "Taiwan é reconhecido como país independente pelos EUA e tem emergido na rota dos conflitos entre os governos estadunidense e chinês, o que pode ser interpretado como indício do deslocamento do eixo geopolítico do mundo para o sudeste asiático."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geopolítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Observe o mapa a seguir:\n\nSobre o conflito geopolítico em questão, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O Tratado de Lausanne estabeleceu as fronteiras da Turquia moderna, incluindo a existência de um Estado curdo após o fim do Império Turco Otomano, concedendo aos curdos o domínio do território entre as atuais Turquia e Síria."
+        },
+        {
+          "letra": "B",
+          "texto": "Os curdos formam uma população estimada em dezenas de milhões de pessoas e parte habita uma região montanhosa que se espalha pelos territórios fronteiriços de cinco países: Turquia, Iraque, Síria, Irã e Rússia."
+        },
+        {
+          "letra": "C",
+          "texto": "Falantes de várias línguas, dentre as quais árabe, curdo, turco e persa, e compostos por diferentes grupos étnicos e religiosos, os curdos são considerados a maior população apátrida do mundo."
+        },
+        {
+          "letra": "D",
+          "texto": "Entre os anos de 2013 e 2019, as forças curdas desempenharam um papel central no enfrentamento ao Estado Islâmico na região, o que levou ao reconhecimento do estado independente do Curdistão."
+        },
+        {
+          "letra": "E",
+          "texto": "Em 2022, foi aprovada uma resolução no Conselho de Segurança da ONU reconhecendo a independência do Curdistão e definindo suas fronteiras em territórios que pertenciam à Síria, Turquia e Iraque."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "História – História Contemporânea"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "\"O plano dos Estados Unidos de derrubarem a Revolução já estava esboçado na ocasião em que Mikoyan [vice-líder no governo soviético de Nikita Kruschev] visitou Havana, em fevereiro de 1960 (...). A CIA propunha a sabotagem das refinarias de açúcar de Cuba, a principal fonte de riqueza da ilha. (...)\nComo prometido, Fidel Castro reagiu contra os Estados Unidos (...). Ele anunciou a nacionalização de todas as propriedades norte-americanas importantes da ilha. (...) Numa frase sinistra (...), Castro salientou que a Cuba revolucionária tinha agora o apoio militar de fora do continente. Cuba 'aceitaria com gratidão', disse ele, 'a ajuda dos foguetes da União Soviética (...)'.\nNaquele mês, a lenha fora jogada na fogueira, quando Castro chegou a Nova York para falar na Assembleia Geral da ONU, instalando-se no Harlem. (...)\nCastro ficou no [hotel] Theresa, cercado por um grupo de admiradores (...) e numa tarde memorável foi visitado pelo líder soviético. (...) Kruschev escreveu nas suas memórias que 'indo a um hotel negro num bairro negro, nós estávamos fazendo uma dupla demonstração contra as políticas discriminatórias dos Estados Unidos em relação aos negros, assim como em relação a Cuba'\".\nGOTT, Richard. Cuba: uma nova história. Rio de Janeiro: Zahar, 2006. p.210-213. Adaptado.\n\nAs tensões políticas abordadas no texto referem-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à indecisão de Fidel Castro sobre o alinhamento político de Cuba na Guerra Fria e ao isolamento da ilha em relação a outros debates políticos da época."
+        },
+        {
+          "letra": "B",
+          "texto": "às garantias do governo revolucionário em Cuba aos capitais norte-americanos e à salvaguarda dos direitos civis da população negra na ilha."
+        },
+        {
+          "letra": "C",
+          "texto": "à aliança entre Cuba e URSS selada na origem da guerrilha em Sierra Maestra e à consequente oposição dos EUA ao movimento insurgente."
+        },
+        {
+          "letra": "D",
+          "texto": "ao gradual alinhamento entre Cuba e a URSS e ao aceno dos dois governantes de apoio ao movimento negro norte-americano."
+        },
+        {
+          "letra": "E",
+          "texto": "à articulação entre os governos da URSS e dos EUA para enfraquecer Fidel Castro e os movimentos sociais no Harlem."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Guerra Fria",
+        "História – Revolução Cubana"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "\"Desde os anos 20 governado pela dinastia Pahlevi, o Irã vinha sendo modernizado e ocidentalizado pelas sucessivas gerações de xás, que viam na observância estrita da religião um atraso a ser superado. País de numerosa população xiita, no entanto, o regime modernizante sempre precisou contar com uma grande dose de repressão, para conter a oposição dos grupos religiosos, que se fazia cada vez mais popular. Na década de 1970, este movimento conheceu um líder, que, refugiado na França, preparava-se para voltar ao país: era o aiatolá Khomeini, que apelava aos muçulmanos para que restaurassem a autoridade do islã na sociedade.\"\nGRINBERG, Keila. O mundo árabe e as guerras árabe-israelenses. In: REIS FILHO, Daniel Aarão; FERREIRA, Jorge; ZENHA, Celeste (orgs.). O século XX: o tempo das dúvidas. Rio de Janeiro: Civilização Brasileira, 2002. p.116.\n\nO texto descreve o contexto histórico que antecedeu",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "uma intervenção norte-americana em território iraniano."
+        },
+        {
+          "letra": "B",
+          "texto": "a integração do Irã aos países do bloco socialista soviético."
+        },
+        {
+          "letra": "C",
+          "texto": "a laicização integral do Estado iraniano."
+        },
+        {
+          "letra": "D",
+          "texto": "o estabelecimento de uma república teocrática no Irã."
+        },
+        {
+          "letra": "E",
+          "texto": "uma cooperação militar entre Irã e Iraque contra o Ocidente."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – História Contemporânea",
+        "Geografia – Geopolítica do Oriente Médio"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "O mapa a seguir retrata o Nordeste da África e a Península Arábica, no século IV.\n\nConsiderando as rotas comerciais representadas no mapa, pelas quais se transportavam, por exemplo, cereais, marfim e escravizados, e que envolviam sociedades antigas, em especial os reinos de Axum, Cuxe e Egito, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o comércio praticado no nordeste da África isolava a região de outras áreas do continente."
+        },
+        {
+          "letra": "B",
+          "texto": "os comerciantes do Egito participavam apenas de rotas comerciais marítimas."
+        },
+        {
+          "letra": "C",
+          "texto": "as atividades mercantis do Reino de Axum conectavam o Mediterrâneo ao Oceano Índico."
+        },
+        {
+          "letra": "D",
+          "texto": "as rotas terrestres e marítimas na África e na Península Arábica não se conectavam umas às outras."
+        },
+        {
+          "letra": "E",
+          "texto": "a cidade de Berenice se colocava como obstáculo ao comércio do Mediterrâneo com o interior da África."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História Antiga",
+        "Geografia – Rotas Comerciais"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Apesar de a África ser considerada o berço das civilizações e existirem indícios de conhecimentos elementares de Química no sul do continente cerca de 100.000 anos atrás, os conhecimentos químicos ensinados são eurocentristas. Entretanto, uma das grandes contribuições para o estudo de reatividade química é atribuída ao químico egípcio Ahmed Hassan Zewail, agraciado com o prêmio Nobel em 1999 por seus estudos de reações químicas usando uma técnica conhecida como espectroscopia de femtossegundos. Essa técnica possibilita identificar espécies com tempo de vida curto utilizando pulsos de laser com duração de $10^{-15}$ s.\nEssa contribuição é relevante para o estudo de reações químicas, pois",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "todos os processos químicos são extremamente rápidos e não podem ser estudados por técnicas que não sejam em femtossegundos."
+        },
+        {
+          "letra": "B",
+          "texto": "as reações químicas podem passar por espécies instáveis e com pouco tempo de vida."
+        },
+        {
+          "letra": "C",
+          "texto": "o tempo existente para analisar os produtos de uma reação depende apenas da quantidade de produtos formada."
+        },
+        {
+          "letra": "D",
+          "texto": "permite entender como reagentes específicos se comportam frente a processos reacionais que são extremamente lentos."
+        },
+        {
+          "letra": "E",
+          "texto": "apenas com uma técnica tão rápida é possível analisar o grau de pureza dos reagentes isolados."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Cinética Química"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "A partir do cladograma apresentado, que expressa algumas relações filogenéticas entre vertebrados, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a lampreia é o ancestral comum de todos os vertebrados incluídos no cladograma."
+        },
+        {
+          "letra": "B",
+          "texto": "o tubarão surgiu da lampreia e deu origem aos vertebrados tetrápodes."
+        },
+        {
+          "letra": "C",
+          "texto": "os peixes (lampreia e tubarão) possuem um ancestral compartilhado com os tetrápodes."
+        },
+        {
+          "letra": "D",
+          "texto": "o lagarto é mais proximamente relacionado ao tubarão que ao ser humano."
+        },
+        {
+          "letra": "E",
+          "texto": "o ser humano é o mais evoluído dentre todos os vertebrados incluídos no cladograma."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Evolução",
+        "Biologia – Zoologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "[...]\nUm sino de vidro claro,\numa ampola cristalina e contrátil,\nflutua calma no seu caminho.\n\"Peixinho, peixinho, deixe-a ir!\nPeixinho, peixinho, se apresse em fugir!\"\n\nAli atrás, longos fios transparentes se arrastam\ne os olhos do peixinho a um banquete convidam.\n\"Serão, por acaso, minhocas o que eu vejo de repente?\"\n\"Peixinho, peixinho, deixe-me alertar!\nPeixinho, peixinho, não se deixe enganar!\"\n\nPróximo demais o peixinho chegou:\n\"Ai, ai, ai, agora ela me pegou!\nFirme me amarrou e não consigo me soltar!\nFirme me envolve e arde de matar!\"\n[...]\nTradução e adaptação de Flavia Souza, Stefano Hagen e Luiz Fontes.\n\nO fragmento de poema apresentado foi escrito pelo naturalista Fritz Müller para suas filhas. O trecho do poema permite afirmar que a predação é realizada por um/uma",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "camarão."
+        },
+        {
+          "letra": "B",
+          "texto": "água-viva."
+        },
+        {
+          "letra": "C",
+          "texto": "tubarão."
+        },
+        {
+          "letra": "D",
+          "texto": "lula."
+        },
+        {
+          "letra": "E",
+          "texto": "plâncton."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Zoologia",
+        "Língua Portuguesa – Interpretação de Poesia"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Os domínios morfoclimáticos e fitogeográficos propostos pelo geógrafo Aziz Nacib Ab'Sáber nos anos 1960 continuam válidos na atualidade. Representam um mapeamento do território brasileiro, na escala zonal, onde foram identificados seis grandes domínios, além de uma faixa denominada de transição, que sintetizam os elementos do clima, da vegetação, do solo, do relevo e outros atributos presentes na paisagem. Observe as imagens:\n\nAs imagens representam aspectos paisagísticos dos tipos climáticos semiárido (1), tropical (2) e subtropical (3), presentes, respectivamente, nos seguintes domínios morfoclimáticos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Caatingas, Cerrado e Araucárias."
+        },
+        {
+          "letra": "B",
+          "texto": "Pradarias, Caatingas e Amazônico."
+        },
+        {
+          "letra": "C",
+          "texto": "Cerrado, Caatingas e Pradarias."
+        },
+        {
+          "letra": "D",
+          "texto": "Mares de Morros, Pradarias e Amazônico."
+        },
+        {
+          "letra": "E",
+          "texto": "Cerrado, Araucárias e Mares de Morros."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Domínios Morfoclimáticos"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Uma Árvore Pitagórica é uma figura plana que é construída por etapas. Na Etapa 1, ela começa com um quadrado de lado 1 cm. Na Etapa 2, constroem-se dois quadrados acima do quadrado da Etapa 1, de tal forma que a medida de seus lados seja igual à medida dos catetos do triângulo retângulo isósceles que possui hipotenusa igual ao lado do quadrado da Etapa 1. Na Etapa 3, aplica-se a Etapa 2 em cada um dos novos quadrados obtidos, e assim por diante. Ou seja, em cada nova etapa, aplica-se a etapa anterior em cada um dos novos quadrados obtidos. A figura a seguir exibe as quatro primeiras etapas da construção da Árvore Pitagórica.\n\nA partir de qual etapa da construção o lado de cada um dos novos quadrados obtidos fica, pela primeira vez, menor do que 1 décimo de milésimo do lado do quadrado da Etapa 1?\n\nNote e adote:\n$log_{10}2 \\approx 0,3$",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "26"
+        },
+        {
+          "letra": "B",
+          "texto": "27"
+        },
+        {
+          "letra": "C",
+          "texto": "28"
+        },
+        {
+          "letra": "D",
+          "texto": "29"
+        },
+        {
+          "letra": "E",
+          "texto": "30"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Logaritmos",
+        "Matemática – Progressão Geométrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Em fevereiro de 2023, ocorreu uma precipitação pluviométrica extrema no litoral norte de São Paulo, com volume que excedeu os 600 mm de chuva em menos de 24 horas. Foi um dos maiores índices pluviométricos já registrados no Brasil para um dia. Essa grande quantidade de chuva provocou muitos deslizamentos de terra, como o retratado na imagem.\n\nConsiderando o contexto socioambiental em que esse episódio ocorreu, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apesar das altas declividades nas encostas da Serra do Mar, eventos como esse são raros, uma vez que os solos profundos e a vegetação primária dificultam os deslizamentos de terra."
+        },
+        {
+          "letra": "B",
+          "texto": "No local do deslizamento de terra, ocorrerá um processo de sucessão primária e, após poucos anos, uma floresta madura estará estabelecida."
+        },
+        {
+          "letra": "C",
+          "texto": "A baixa umidade da região e a indisponibilidade de nutrientes no solo retardarão a instalação de organismos pioneiros, como os liquens, que iniciarão o processo de sucessão nesse local."
+        },
+        {
+          "letra": "D",
+          "texto": "Fenômenos desse tipo são causados por fatores naturais da região, relacionados ao clima, à geologia e ao relevo, mas são agravados pela ocupação desordenada das encostas."
+        },
+        {
+          "letra": "E",
+          "texto": "No local do deslizamento de terra, a biomassa vegetal aumentará ao longo da sucessão ecológica graças a um equilíbrio energético no sistema, em que as taxas de fotossíntese e respiração permanecerão equivalentes."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Riscos Ambientais",
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Observe as ilustrações.\n\nA imagem de satélite e a foto retratam fenômeno que aconteceu em Buriticupu, no oeste maranhense. Com base nas figuras e em seus conhecimentos, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O fenômeno é caracterizado pela formação de voçorocas, feições erosivas de grandes proporções que podem ser evitadas por meio do controle do fluxo das águas superficiais e subsuperficiais, plantio de vegetação e terraceamento."
+        },
+        {
+          "letra": "B",
+          "texto": "Trata-se de uma feição erosiva ocasionada pelas fortes chuvas que assolam a região, sendo um processo natural que não é afetado pela ação humana, pois é um fenômeno associado à origem de solos e às nascentes de rios."
+        },
+        {
+          "letra": "C",
+          "texto": "O fenômeno caracteriza a formação de voçorocas, feições erosivas profundas que têm sua origem na ascensão do lençol freático e no acúmulo de lixo. Podem ser evitadas por meio do saneamento básico e da confecção de aterros."
+        },
+        {
+          "letra": "D",
+          "texto": "Trata-se de um fenômeno associado a tremores de terra e fluxos subterrâneos de água que resultam na feição erosiva chamada de voçoroca, caracterizada por abrir grandes crateras no solo sem haver acúmulo de sedimentos."
+        },
+        {
+          "letra": "E",
+          "texto": "O fenômeno mostra a formação de fluxos de lama na direção da área urbana do município. Podem ser vistos o desmatamento do seu entorno e arruamento precário em estradas de terra vicinais que causaram o processo erosivo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geomorfologia",
+        "Geografia – Solos"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "\"Pesquisadores realizaram em 2022 uma expedição que promete fazer história. Destino: Serra do Imeri, um conjunto de montanhas no norte do Amazonas. O objetivo da missão foi a realização de um inventário de biodiversidade para saber que tipos de animais e plantas ocorrem na região e de que forma eles se relacionam, ou não, com as espécies que habitam as partes mais baixas do bioma. O Pico da Neblina, o mais alto do Brasil, com 2.995 m, faz parte da Serra do Imeri, mas integra maciço rochoso diferente, fisicamente separado da área da expedição. Do ponto de vista ecológico, são como dois arquipélagos distintos, separados por um grande mar de floresta verde.\"\n\nCom base nas informações fornecidas e em seus conhecimentos, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As barreiras naturais da Serra do Imeri tornam possível o desenvolvimento do endemismo, pois há potencialização da formação de novas espécies em função do grande isolamento geográfico."
+        },
+        {
+          "letra": "B",
+          "texto": "A área de estudo homogênea e contínua permitiu a comunicação e o desenvolvimento de riqueza ímpar quanto à biodiversidade, em especial por conter condições ambientais típicas do ecossistema amazônico."
+        },
+        {
+          "letra": "C",
+          "texto": "O isolamento da Serra do Imeri provoca a menor ocorrência de espécies endêmicas na região, cujos animais e plantas não possuem relação direta com o extenso bioma Amazônico."
+        },
+        {
+          "letra": "D",
+          "texto": "O conhecimento de espécies biológicas e seus ecossistemas, assim como a compreensão de seus habitats, acelera a extinção de plantas e outros seres vivos, diminuindo a biodiversidade."
+        },
+        {
+          "letra": "E",
+          "texto": "A Serra do Imeri representa comunidade ecológica ameaçada de extinção em razão dos problemas comuns ao bioma Amazônico, tais como expansão da agropecuária, instalação de garimpos e extração de madeira."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Ecologia",
+        "Geografia – Biogeografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Um experimento de demonstração sobre ondas estacionárias faz uso de uma canaleta disposta horizontalmente, contendo grãos de areia fina e seca. Abaixo da canaleta, posiciona-se um alto-falante que transmite um som, produzindo, na canaleta, uma vibração, associada a uma onda estacionária com um comprimento de onda bem definido. O diagrama representa uma imagem digitalizada dos grãos de areia depositados na base da canaleta em um certo instante. Utilize a régua da figura, graduada em centímetros, para assinalar a alternativa que apresenta a melhor aproximação para o valor do comprimento de onda da vibração em questão.\n\nNote e adote:\nOs grãos de areia tendem naturalmente a se acumular em torno dos pontos nos quais o deslocamento transversal da canaleta é nulo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,2 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "5,1 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "6,8 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "11,3 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "18,1 cm"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Ondulatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Para esfriar um copo contendo 250 mL de água fervente (100°C), é comum utilizar o seguinte método:\n\nPasso 1. Colocar esse copo dentro de uma vasilha em contato com 1 litro de água à temperatura ambiente (25°C), como mostrado na figura.\nPasso 2. Esperar que entrem em equilíbrio térmico.\nPasso 3. Tirar o copo e trocar a água da vasilha por outro litro de água à temperatura ambiente.\nPasso 4. Colocar o copo em contato com a água \"nova\" e esperar que entrem em equilíbrio térmico.\n\nApós o passo (4) desse método, a temperatura da água no copo será aproximadamente:\n\nNote e adote:\nConsidere apenas trocas de calor entre a água no copo e a água na vasilha. Despreze quaisquer trocas de calor do sistema com o ambiente.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "14°C"
+        },
+        {
+          "letra": "B",
+          "texto": "28°C"
+        },
+        {
+          "letra": "C",
+          "texto": "40°C"
+        },
+        {
+          "letra": "D",
+          "texto": "60°C"
+        },
+        {
+          "letra": "E",
+          "texto": "84°C"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Calorimetria"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Um protótipo de máquina térmica caseira baseia-se num motor de quatro etapas e pode ser construído com o auxílio de uma bomba de bicicleta, uma pequena câmara de pneu e um aquecedor térmico. Na primeira etapa, o gás da câmara de pneu é comprimido adiabaticamente. Na segunda etapa, o gás é aquecido isovolumetricamente. Na terceira etapa, o gás sofre uma expansão adiabática e, finalmente, na quarta etapa, um resfriamento isovolumétrico.\nAssinale a alternativa que melhor representa o diagrama correspondente a essa máquina térmica no plano pressão ($p$) x volume ($V$).\n\nNote e adote:\nDespreze efeitos de dilatação ou contração da câmara do pneu.",
+      "alternativas": null,
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Termodinâmica"
+      ]
+    }
+  ]
+}

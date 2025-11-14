@@ -1,0 +1,626 @@
+{
+  "nomeUniversidade": "Universidade de São Paulo",
+  "siglaUniversidade": "USP",
+  "nomeProva": "FUVEST",
+  "ano": 2025,
+  "qtdeQuestoes": 90,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Texto 1\n\"Afinal, depois de ver todas as coisas daquele museu, acabei me perguntando se os brancos já não teriam começado a adquirir também tantas de nossas coisas só porque nós, Yanomami, já estamos começando também a desaparecer. Por que ficam nos pedindo nossos cestos, nossos arcos e nossos adornos de penas, enquanto garimpeiros e fazendeiros invadem nossa terra?\"\nKOPENAWA, Davi; ALBERT, Bruce. Queda do céu: palavras de um xamã yanomami. São Paulo: Companhia das Letras, 2015. p.429.\n\nTexto 2\n\"Em seu trabalho, Glicéria debruça-se sobre a artesania do manto tupinambá, símbolo das tradições ancestrais de seu povo. A artista chama de cosmo-técnica a feitura do manto, e hoje busca compreender qual era sua função cultural e social em sua comunidade. Recentemente, a artista esteve na Europa e encontrou mantos datados do século XVII, que foram levados do Brasil ao longo da colonização, na Dinamarca. Segundo Glicéria, 'hoje, as pessoas entendem o manto como arte, arte contemporânea, mas eu vejo muito além. É um ancestral nosso'.\"\nInstituto Pipa. Ocupação dos artistas premiados do Pipa 2023: Glicéria Tupinambá. Disponível em: https://www.premiopipa.com/2023/10/ (Adaptado).\n\nA reflexão de Davi Kopenawa sobre a apropriação de objetos indígenas por museus e a pesquisa de Glicéria Tupinambá sobre o manto tupinambá em contextos europeus permitem explorar diversas dimensões da arte indígena.\nCom base nos textos e na imagem, assinale a alternativa que relaciona corretamente as reflexões apresentadas à importância da arte e dos artefatos culturais na discussão sobre questões indígenas no Brasil.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A arte indígena, ao ser exposta em museus europeus, perde seu significado original e se transforma apenas em objeto de decoração, desvinculando-se completamente de suas raízes culturais e simbólicas, de acordo com David Kopenawa."
+        },
+        {
+          "letra": "B",
+          "texto": "Glicéria Tupinambá, ao retomar elementos tradicionais em suas obras, busca uma representação autêntica que resiste à domesticação cultural imposta pelos colonizadores, valorizando o aspecto utilitário desses objetos."
+        },
+        {
+          "letra": "C",
+          "texto": "O trabalho de Glicéria Tupinambá, ao redescobrir os mantos tupinambá na Europa, revela como a arte indígena pode servir como uma ponte para o entendimento e a valorização das culturas indígenas por sociedades que historicamente as marginalizaram."
+        },
+        {
+          "letra": "D",
+          "texto": "Para David Kopenawa, a guarda de artefatos indígenas em museus da Europa é uma forma eficaz de preservação e valorização da cultura indígena, pois demonstra reconhecimento da sua importância e esforço, por parte da sociedade, para proteger os direitos territoriais desses povos."
+        },
+        {
+          "letra": "E",
+          "texto": "A arte, como mostrado por Glicéria Tupinambá, atua como um meio de resistência cultural, em que elementos tradicionais são recontextualizados para contestar narrativas coloniais e reafirmar identidades indígenas em face de processos de desapropriação e desaparecimento."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Arte – Arte Indígena Contemporânea",
+        "Sociologia – Questões Indígenas"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Analise, na figura a seguir, os dados referentes a áreas de garimpo ilegal localizadas em terras indígenas na Amazônia brasileira e sua distância em relação a corpos d'água.\n\nA partir dos dados apresentados e da realidade socioambiental da Amazônia, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os territórios indígenas encontram-se nas áreas mais desmatadas da Amazônia; como o garimpo ilegal produz forte impacto ambiental pelo intenso uso da água em seus processos, tal atividade colabora com a desertificação do bioma."
+        },
+        {
+          "letra": "B",
+          "texto": "O garimpo ilegal representa alto risco a populações humanas e animais em geral, pela contaminação das águas e dos alimentos por substâncias usadas na garimpagem e porque tal atividade ocorre em áreas ainda muito preservadas, aumentando o impacto ambiental."
+        },
+        {
+          "letra": "C",
+          "texto": "O garimpo ilegal na Amazônia não produz tanto impacto para os corpos d'água, uma vez que as atividades encontram-se distantes do rio Amazonas e de seus afluentes, os maiores rios da região; seu maior impacto ocorre devido ao desmatamento de extensas áreas de floresta nativa."
+        },
+        {
+          "letra": "D",
+          "texto": "A proximidade dos corpos d'água deve-se a questões estratégicas, e não ao garimpo ilegal propriamente, pois este é de baixo impacto; porém traz conflitos territoriais com as comunidades indígenas, e os rios constituem rotas de fuga rápidas e eficientes para os garimpeiros."
+        },
+        {
+          "letra": "E",
+          "texto": "A relação entre garimpos e corpos d'água ocorre de forma indireta, pois o garimpo amazônico não depende da água em seus processos; os garimpeiros buscam esses territórios porque as populações indígenas sabem onde existe ouro e se desenvolvem próximas a rios e lagos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Questões Ambientais",
+        "Geografia – Conflitos em Terras Indígenas"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Considerando a charge, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Há uma incoerência entre a imagem do segundo quadro e o enunciado verbal do primeiro quadro, uma vez que a posposição do adjunto adverbial \"na água\" anula qualquer ambiguidade."
+        },
+        {
+          "letra": "B",
+          "texto": "Ao antecipar o objeto direto “o mercúrio\" para o começo da oração, o chargista chama a atenção para esse elemento, estimulando o leitor a buscá-lo visualmente no segundo quadro."
+        },
+        {
+          "letra": "C",
+          "texto": "Por meio da escolha do verbo \"descartar\", mostra-se, de forma crítica, a necessidade da criação de um local correto para o depósito dos rejeitos provenientes do garimpo ilegal."
+        },
+        {
+          "letra": "D",
+          "texto": "O uso da forma pronominal informal \"a gente\", em detrimento do pronome \"nós\", empregado em situações mais formais e sérias, atenua o teor crítico, o que colabora para gerar efeito humorístico."
+        },
+        {
+          "letra": "E",
+          "texto": "O significado negativo do prefixo que aparece na palavra \"ilegal\" reforça a precariedade do atendimento à saúde nas comunidades indígenas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Linguagem Verbal e Não Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "\"E assim como o branco e os mamelucos se aproveitaram não raro das veredas dos índios, há motivo para pensar que estes, por sua vez, foram, em muitos casos, simples sucessores dos animais selvagens, do tapir especialmente, cujos carreiros ao longo dos rios e riachos, ou em direção a nascentes de águas, se adaptavam perfeitamente às necessidades e hábitos daquelas populações.\"\nHOLANDA, Sergio Buarque de. Caminhos e fronteiras. Rio de Janeiro: José Olympio, 1975. p.35.\n\nDe acordo com o excerto, a ocupação territorial da América portuguesa pelos colonizadores foi inicialmente marcada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pela construção de caminhos que os afastassem dos cursos dos rios."
+        },
+        {
+          "letra": "B",
+          "texto": "pela desconsideração das rotas de deslocamento abertas pelos animais."
+        },
+        {
+          "letra": "C",
+          "texto": "pela utilização de picadas abertas pelas comunidades indígenas."
+        },
+        {
+          "letra": "D",
+          "texto": "pelo emprego de tropas de muares, responsáveis por abrir trilhas nas matas."
+        },
+        {
+          "letra": "E",
+          "texto": "pela exploração do transporte fluvial e marítimo por meio de pirogas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Brasil Colônia",
+        "História – Ocupação Territorial"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Os quadrinhos a seguir são parte da obra Dois irmãos, de Fábio Moon e Gabriel Bá (2015), uma adaptação do romance Dois irmãos, de Milton Hatoum, para o universo das novelas gráficas (graphic novels).\n\nConsiderando as características visuais dos quadrinhos e os traços narrativos do romance Dois irmãos, de Milton Hatoum, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O uso dos contrastes claro x escuro na novela gráfica confere ênfase visual ao conflito entre diferentes formas de privilégio e marginalização presentes no romance de Hatoum, explicitadas pelo ponto de vista do narrador."
+        },
+        {
+          "letra": "B",
+          "texto": "Ao trabalhar com os contrastes claro x escuro em suas imagens, a novela gráfica enfatiza a diferença étnica e social que fundamenta a rivalidade fraterna entre Yaqub e Omar, um dos eixos estruturais do romance."
+        },
+        {
+          "letra": "C",
+          "texto": "Ao utilizar procedimentos como a aproximação (zoom-in) e a fragmentação das imagens, a novela gráfica recria o fluxo de consciência e a atmosfera onírica da narrativa de Hatoum."
+        },
+        {
+          "letra": "D",
+          "texto": "A novela gráfica demonstra, por meio de imagens, que o romance Dois irmãos reinventa a tradição da literatura regionalista do Brasil, retratando a opulência da cidade de Manaus ao longo do século XX."
+        },
+        {
+          "letra": "E",
+          "texto": "Por meio de recursos estéticos como a fragmentação das imagens, a novela gráfica recupera o ponto de vista fraturado do romance de Hatoum, composto por vários narradores ao longo da história."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Contemporânea",
+        "Arte – Linguagem de Quadrinhos"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Leia o texto e analise a charge a seguir.\n\n\"Se, compreendendo um outro ser humano, penetro profundamente no horizonte do que lhe é próprio, então logo me depararei com o fato de que, assim como o seu corpo se encontra no meu campo de percepção, também o meu corpo se encontra no dele, e que, em geral, ele me experiencia sem mais como um outro para ele, tal como eu o experiencio como outro para mim.\"\nHUSSERL, E. Meditações cartesianas. Rio de Janeiro: Forense Universitária, 2013.\n\nO filósofo Edmund Husserl propõe uma reflexão sobre como cada pessoa estabelece relações com as outras. Ocorre uma equiparação dos pontos de vista, de modo que cada uma aparecerá às demais não como uma consciência incomparável, mas justamente como uma outra pessoa. Essa ideia ajuda a entender a perspectiva crítica contida na charge: certas condições ou características que percebemos como depreciativas em outras pessoas também podem ser percebidas da mesma maneira pelos outros em nós.\nQual situação reproduz essa estrutura de equiparação exibida na charge?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Torcedores de diversos times de futebol se reúnem desanimados para assistir a um jogo da seleção."
+        },
+        {
+          "letra": "B",
+          "texto": "Religiosos conservadores sugerem banir livros eróticos doados por desconhecidos para a sua comunidade."
+        },
+        {
+          "letra": "C",
+          "texto": "Com medo da violência, um homem passa a andar armado na rua e assusta os transeuntes."
+        },
+        {
+          "letra": "D",
+          "texto": "Um homem acusa uma mulher de racismo e algumas testemunhas confirmam a versão dele para a polícia."
+        },
+        {
+          "letra": "E",
+          "texto": "Um trabalhador denuncia ao chefe um colega por assédio moral, mas esse último não é punido."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Filosofia – Fenomenologia",
+        "Filosofia – Ética"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Falácias são argumentos que podem até parecer à primeira vista bem construídos logicamente, mas são falhos, seja em termos do uso da linguagem, de pertinência temática ou de correção formal. Os primeiros estudos sistemáticos das falácias foram feitos pelo filósofo Aristóteles, que classificou alguns dos argumentos falaciosos mais comuns.\nNo terceiro quadrinho da história, uma personagem se serve de um argumento falacioso bastante conhecido a fim de persuadir o outro. Esse argumento pode ser classificado como um caso de qual tipo de falácia?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ataque à pessoa."
+        },
+        {
+          "letra": "B",
+          "texto": "Apelo à piedade."
+        },
+        {
+          "letra": "C",
+          "texto": "Apelo à força."
+        },
+        {
+          "letra": "D",
+          "texto": "Ambiguidade."
+        },
+        {
+          "letra": "E",
+          "texto": "Apelo à ignorância."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Filosofia – Lógica Informal",
+        "Filosofia – Falácias"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "\"Eu não venero a criação mais do que o Criador, mas venero a criatura criada como eu sou, adotando a criação de maneira livre e espontânea, de modo que Ele possa elevar nossa natureza e nos tornar partícipes de Sua natureza divina. Sendo assim, eu me atrevo a fazer uma imagem do Deus invisível não como invisível, mas como tendo se tornado visível por nossa causa, tornando-se carne e sangue. Eu não faço uma imagem da divindade imortal. Eu pinto a carne visível de Deus, pois é impossível representar o espírito e ainda mais Deus, que dá vida ao espírito.\"\nJohn Damascene. On holy images. Disponível em https://www.gutenberg.org/files/49917/ (Adaptado).\n\nNessa citação, João Damasceno (675-749), monge e teólogo cristão do período medieval, dirige-se contra o movimento iconoclasta ao",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "colocar a criatura no mesmo nível do Criador."
+        },
+        {
+          "letra": "B",
+          "texto": "reduzir a divindade a seus elementos materiais."
+        },
+        {
+          "letra": "C",
+          "texto": "identificar a imagem visível com a natureza divina."
+        },
+        {
+          "letra": "D",
+          "texto": "negar o dogma da divindade de Jesus Cristo."
+        },
+        {
+          "letra": "E",
+          "texto": "justificar a veneração de imagens sagradas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Idade Média",
+        "Filosofia – Filosofia Medieval"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "\"A mídia digital é uma mídia da presença. A sua temporalidade é o presente imediato. A comunicação digital se caracteriza pelo fato de que informações são produzidas, enviadas e recebidas sem mediação por meio de intermediários. Mediação e representação são interpretadas como não transparência e ineficiência, como congestionamento de tempo e de informação.\nUma mídia eletrônica de massa clássica como o rádio só permite uma comunicação unilateral. O destinatário da mensagem é condenado à passividade.\nHoje não somos mais destinatários e consumidores passivos de informação, mas sim remetentes e produtores ativos. Não nos contentamos mais em consumir informações passivamente, mas sim queremos produzi-las e comunicá-las ativamente nós mesmos. Somos simultaneamente consumidores e produtores.\"\nHAN, Byung-Chul. No enxame: Perspectivas do digital. São Paulo: Editora Vozes, 2018. p.35-36 (Adaptado).\n\nSegundo o texto, a mídia digital distingue-se da mídia de massa tradicional por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reforçar a separação entre consumidor e produtor, resultante da ampliação da comunicação unilateral na internet."
+        },
+        {
+          "letra": "B",
+          "texto": "apostar na passividade do público, que precisa de um mediador para poder comunicar informações ativamente."
+        },
+        {
+          "letra": "C",
+          "texto": "gerar excesso de informação, que consolida estrutura capaz de condenar todos os consumidores à passividade."
+        },
+        {
+          "letra": "D",
+          "texto": "provocar presentificação, decorrente da dissolução dos intermediários e da combinação dos papéis de consumidor e produtor."
+        },
+        {
+          "letra": "E",
+          "texto": "dissolver a distinção entre produtor e consumidor, causadora de congestionamento de tempo e de informação."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Sociologia – Mídia Digital",
+        "Filosofia – Filosofia da Tecnologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "TEXTO PARA AS QUESTÕES 10 E 11\n\"O que torna possível o surgimento de uma 'cultura do cancelamento' é um cenário em que os detentores de poder econômico e/ou político vislumbram a utilização de valores morais como valores de mercado, seja no campo da publicidade, seja no campo da responsabilidade social da empresa.\nO conjunto de valores defendidos pelos movimentos sociais que lutam por reconhecimento e respeito à diversidade tornam-se atributos exigidos por diversas empresas como elemento fundamental nas suas escolhas de investimento.\nSendo assim, a sanção específica realizada pelos agentes do 'cancelamento' procura atingir não a liberdade do sujeito que supostamente ofende valores morais relevantes, que seria o instrumento coercitivo tradicionalmente previsto no direito penal, ou mesmo buscar reparações indenizatórias, instrumento de resposta a atos ilícitos no direito civil, mas sim impedir, restringir ou infligir danos na trajetória econômica e/ou profissional do sujeito 'cancelado'.\nNesse contexto, a 'cultura do cancelamento' representa um mecanismo de eliminação do mercado, em casos considerados graves, ou, em outros casos, de mera diminuição relativa do capital, de sujeitos ineficientes em fator competitivo específico, como inadequação de valores morais ostentados, por atos e/ou palavras, em determinados ambientes sociais.\"\nMARTINS, Tamires de Assis Lima; CORDEIRO, Ana Paula. A cultura do cancelamento: contribuições de um olhar sociológico. Extraprensa, v.15, n. esp., p.39, mai.2022 (Adaptado).\n\nSegundo o texto, a cultura do \"cancelamento\"",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "busca punir transgressões a valores morais caros aos canceladores com danos à vida econômica do cancelado."
+        },
+        {
+          "letra": "B",
+          "texto": "aplica os instrumentos coercitivos do direito penal ao contexto da internet para impedir o crescimento profissional do cancelado."
+        },
+        {
+          "letra": "C",
+          "texto": "é uma resposta natural à emergência de movimentos sociais que lutam por respeito à diversidade e por mais poder econômico."
+        },
+        {
+          "letra": "D",
+          "texto": "elimina profissionais do mercado com o objetivo de desmoralizar as empresas contratantes, causando-lhes prejuízos."
+        },
+        {
+          "letra": "E",
+          "texto": "visa a aumentar a competição entre as empresas, que se valem do cancelamento para eliminar valores morais que consideram irresponsáveis."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Sociologia – Cultura Digital",
+        "Sociologia – Movimentos Sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "TEXTO PARA AS QUESTÕES 10 E 11\n\"O que torna possível o surgimento de uma 'cultura do cancelamento' é um cenário em que os detentores de poder econômico e/ou político vislumbram a utilização de valores morais como valores de mercado, seja no campo da publicidade, seja no campo da responsabilidade social da empresa.\nO conjunto de valores defendidos pelos movimentos sociais que lutam por reconhecimento e respeito à diversidade tornam-se atributos exigidos por diversas empresas como elemento fundamental nas suas escolhas de investimento.\nSendo assim, a sanção específica realizada pelos agentes do 'cancelamento' procura atingir não a liberdade do sujeito que supostamente ofende valores morais relevantes, que seria o instrumento coercitivo tradicionalmente previsto no direito penal, ou mesmo buscar reparações indenizatórias, instrumento de resposta a atos ilícitos no direito civil, mas sim impedir, restringir ou infligir danos na trajetória econômica e/ou profissional do sujeito 'cancelado'.\nNesse contexto, a 'cultura do cancelamento' representa um mecanismo de eliminação do mercado, em casos considerados graves, ou, em outros casos, de mera diminuição relativa do capital, de sujeitos ineficientes em fator competitivo específico, como inadequação de valores morais ostentados, por atos e/ou palavras, em determinados ambientes sociais.\"\nMARTINS, Tamires de Assis Lima; CORDEIRO, Ana Paula. A cultura do cancelamento: contribuições de um olhar sociológico. Extraprensa, v.15, n. esp., p.39, mai.2022 (Adaptado).\n\nEm relação aos conectivos sublinhados no texto, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "seja...seja evidencia a dúvida das autoras quanto aos campos afetados pelo cancelamento."
+        },
+        {
+          "letra": "B",
+          "texto": "que é utilizado para intensificar o valor dos movimentos sociais na luta pela diversidade."
+        },
+        {
+          "letra": "C",
+          "texto": "sendo assim indica adesão autoral diante das formas de sanção aplicadas pelos agentes do cancelamento."
+        },
+        {
+          "letra": "D",
+          "texto": "mas sim ressalta a diferença entre como se pune na cultura do cancelamento e no direito penal."
+        },
+        {
+          "letra": "E",
+          "texto": "como introduz uma comparação entre distintas ações passíveis de gerar cancelamento."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Coesão Textual",
+        "Língua Portuguesa – Conectivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Texto 1\n\"Em Big Tech: a ascensão dos dados e a morte da política, Morozov estabelece 'um paralelo com os setores extrativistas de recursos naturais, como o petróleo', colocando 'no centro da discussão o modo de produção dessa economia, que ele chama de 'extrativismo de dados'. Apesar de a frase 'os dados são o novo petróleo' ser um chavão fraco em termos conceituais, Morozov acha o modismo útil para debatermos a matriz extrativista desse modo de produção, em especial a forma como as grandes empresas de tecnologia 'continuam escavando a nossa psique tal como as empresas de petróleo escavam o solo'.\"\nZANATTA, Rafael. \"Extrativismo Digital\". Quatro Cinco Um, 01/04/2019. Disponível em: https://quatrocincoum.com.br/resenhas/ (Adaptado).\n\nTexto 2\n\"Colonialismo de dados é um modo de configurar o mundo inteiro, de tal forma que um recurso novo possa ser extraído – e esse recurso é a vida humana a partir da qual se pode extrair um valor econômico. Sustentamos que os modos nos quais este novo colonialismo opera, as escalas nas quais opera diferem do colonialismo histórico que tão bem entendemos. Mas a função, a finalidade subjacente, o núcleo deste novo colonialismo é exatamente o mesmo do colonialismo histórico. É o de despossuir, apropriar-se dos recursos do mundo para o bem de uns poucos, de uma parte do mundo.\"\nCOULDRY, Nick. Colonialismo de Dados e Esvaziamento da Vida Social Antes e Pós Pandemia de Covid-19. In: Homo Digitalis. A Escalada da Algoritmização da Vida em Tempos de Pandemia. Anais do XIX Simpósio Internacional Instituto Humanitas Unisinos (Adaptado).\n\nConsiderando os excertos apresentados, é correto afirmar que extrativismo de dados e colonialismo de dados são conceitos desenvolvidos por Morozov e Couldry para nomear e descrever fenômenos",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "baseados em mecanismos inéditos de acumulação de dados na história, de amplo alcance, complementares e centrais para diferenciar a atual fase do modo de produção capitalista."
+        },
+        {
+          "letra": "B",
+          "texto": "essencialmente diferentes, pois, enquanto o extrativismo trata de uma relação das empresas de tecnologia com a psique, o colonialismo trata de uma relação dessas empresas com a vida humana."
+        },
+        {
+          "letra": "C",
+          "texto": "cuja lógica de apropriação é diferente daquela verificada em relação ao petróleo, o que explica os limites da comparação entre os dados produzidos por usuários da internet e o petróleo."
+        },
+        {
+          "letra": "D",
+          "texto": "correspondentes a duas formas análogas de apreender transformações do capitalismo contemporâneo, referindo-se a práticas que surgiram no passado, colonização e extrativismo, e com os quais compartilham finalidades."
+        },
+        {
+          "letra": "E",
+          "texto": "que abrem possibilidades para que alguns países desprovidos de recursos naturais valiosos se apropriem de dados produzidos por usuários, sem autorização prévia destes, para extrair lucros."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Sociologia – Capitalismo Digital",
+        "Sociologia – Teoria Social Contemporânea"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "As formas de colonização ibérica e inglesa na América foram, durante muito tempo, consideradas processos isolados, estruturados em dois modelos opostos: as colônias de exploração e as de povoamento, respectively. No entanto, elas constituíram um emaranhado de experiências compartilhadas pelos impérios atlânticos. Os aspectos comuns a essas formas de colonização foram a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "partida dos colonizadores da metrópole, da qual saíram por fatores religiosos, e a adoção do trabalho livre como base da produção."
+        },
+        {
+          "letra": "B",
+          "texto": "dominação e a exploração dos povos originários e o emprego sistemático do trabalho forçado dessas populações."
+        },
+        {
+          "letra": "C",
+          "texto": "introdução de colonos sem interesse na ocupação demográfica e o objetivo exclusivo da extração de riquezas minerais."
+        },
+        {
+          "letra": "D",
+          "texto": "produção local organizada em pequenas propriedades e a utilização primordial da força de trabalho familiar."
+        },
+        {
+          "letra": "E",
+          "texto": "falta de interesse metropolitano pela exploração comercial e a inexistência de benefícios financeiros para a metrópole."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – América Colonial"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "\"Brasileiros! (...) está conhecida nossa ilusão ou engano em adotarmos um sistema de governo defeituoso em sua origem, e mais defeituoso em suas partes componentes. As constituições, as leis e todas as instituições humanas são feitas para os povos e não os povos para elas. Eia, pois, brasileiros, tratemos de constituirmos de um modo análogo às luzes do século em que vivemos; o sistema americano deve ser idêntico; desprezemos instituições oligárquicas, só cabidas na encanecida Europa.\"\nANDRADE, Manoel de Carvalho Paes de. Manifesto de proclamação da Confederação do Equador. Apud TORRES, João Camillo de Oliveira. A democracia coroada: Teoria política do Império do Brasil. Petrópolis: Vozes, 1964. p.522 (Adaptado).\n\nO excerto apresenta trecho do manifesto divulgado pelos rebeldes da Confederação do Equador (1824) e reage explicitamente",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à dissolução da Assembleia Constituinte e à outorga de uma constituição elaborada pelo Conselho de Estado."
+        },
+        {
+          "letra": "B",
+          "texto": "ao distanciamento do governo brasileiro em relação à Coroa Portuguesa e à política europeia do período."
+        },
+        {
+          "letra": "C",
+          "texto": "ao caráter descentralizador do regime monárquico e ao aumento da autonomia das províncias."
+        },
+        {
+          "letra": "D",
+          "texto": "ao poder exercido pelos produtores nordestinos de algodão e pelos cafeicultores paulistas."
+        },
+        {
+          "letra": "E",
+          "texto": "à adoção de regime republicano pela Constituição e ao fechamento do parlamento nacional."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Brasil Império",
+        "História – Confederação do Equador"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "\"justice, each getting what he or she is due. Formal justice is the impartial and consistent application of principles, whether or not the principles themselves are just. Substantive justice is closely associated with rights, i.e., with what individuals can legitimately demand of one another or what they can legitimately demand of their government (e.g., with respect to the protection of liberty or the promotion of equality).\nRetributive justice concerns when and why punishment is justified. Debate continues over whether punishment is justified as retribution for past wrongdoing or because it deters future wrongdoing. Those who stress retribution as the justification for punishment usually believe human beings have libertarian free will, while those who stress deterrence usually accept determinism.\nAt least since Aristotle, justice has commonly been identified both with obeying law and with treating everyone with fairness. But if law is, and justice is not, entirely a matter of convention, then justice cannot be identified with obeying law.\"\nThe Cambridge Dictionary of Philosophy. General Editor Robert Audi, Cambridge, U.K.: C.U.P., 1999. p.456.\n\nConforme o verbete, a justiça substantiva pode ser definida como a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aplicação imparcial e consistente de princípios éticos e morais."
+        },
+        {
+          "letra": "B",
+          "texto": "promoção de punições rigorosas para qualquer tipo de crime."
+        },
+        {
+          "letra": "C",
+          "texto": "distribuição de recursos econômicos de maneira equitativa, com ênfase no coletivo."
+        },
+        {
+          "letra": "D",
+          "texto": "garantia de que todos recebam o que lhes é devido, contemplando direitos individuais."
+        },
+        {
+          "letra": "E",
+          "texto": "proteção exclusiva dos direitos das minorias, aumentando sua visibilidade social."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto em Inglês"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "A construção de uma rampa que seja acessível a usuários de cadeira de rodas deve seguir a norma ABNT NBR 9050. Esse documento regulamenta a inclinação que a rampa deve ter a depender do desnível máximo de cada segmento de rampa, conforme o seguinte quadro:\n\nInclinação e desnível máximo de cada segmento de rampa\nDesnível h (em m) | Inclinação i admissível (em %)\n-- | --\n$1 < h \\le 1,5$ | 5\n$0,8 < h \\le 1$ | $5 < i \\le 6,25$\n$0 < h \\le 0,8$ | $6,25 < i \\le 8,33$\n\nAcessibilidade a edificações, mobiliário, espaços e equipamentos urbanos. Disponível em https://www.prefeitura.sp.gov.br/cidade/ (Adaptado).\n\nA inclinação i da rampa em porcentagem (%) é calculada dividindo a altura h do desnível do segmento da rampa, em metros, pelo comprimento da projeção horizontal c, em metros, e multiplicando o resultado por 100. A figura a seguir mostra uma rampa de dois segmentos.\n\nDeterminada rampa de dois segmentos foi construída da seguinte maneira:\n- o primeiro segmento possui projeção horizontal de 10 m e inclinação de 6%;\n- o segundo segmento possui projeção horizontal de 7 m e desnível de 0,5 m.\n\nCom base no que foi apresentado sobre a normativa, o que é correto afirmar sobre a adequação dessa rampa à norma de acessibilidade?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A rampa não está adequada, pois os dois segmentos não estão de acordo com a norma."
+        },
+        {
+          "letra": "B",
+          "texto": "A rampa está adequada, pois os dois segmentos estão de acordo com a norma."
+        },
+        {
+          "letra": "C",
+          "texto": "A rampa não está adequada, pois o primeiro segmento não está de acordo com a norma."
+        },
+        {
+          "letra": "D",
+          "texto": "A rampa não está adequada, pois o segundo segmento não está de acordo com a norma."
+        },
+        {
+          "letra": "E",
+          "texto": "A rampa está adequada, pois, apesar de o segundo segmento não estar de acordo com a norma, o primeiro está."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Porcentagem",
+        "Matemática – Razão e Proporção"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "A imagem a seguir mostra um cruzamento da Rua da Consolação, na região central da cidade de São Paulo, em que há faixas de pedestre em diferentes direções. Essas faixas agilizam a travessia das ruas. Uma pessoa parte do ponto O e deseja chegar ao ponto C. Para tanto, percorre o trajeto pela faixa que liga O a B e, em seguida, utiliza a faixa que liga B a C. Considere que as coordenadas dos pontos indicados na figura, em metros, são: O(0,0), B(13,-15) e C(29,-8).\n\nSeja d a distância, em metros, que essa pessoa deixaria de percorrer se tivesse optado por fazer a travessia pela faixa de pedestre que liga O a C. Nesse contexto, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$d < 2$"
+        },
+        {
+          "letra": "B",
+          "texto": "$2 \\le d < 5$"
+        },
+        {
+          "letra": "C",
+          "texto": "$5 \\le d \\le 8$"
+        },
+        {
+          "letra": "D",
+          "texto": "$8 < d \\le 11$"
+        },
+        {
+          "letra": "E",
+          "texto": "$11 < d$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Analítica",
+        "Matemática – Distância entre Pontos"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "No dia 26 de março de 2024, à 1h29min, aproximadamente, o navio cargueiro MV Dali colidiu com a ponte Francis Scott Key em Baltimore, EUA. O impacto causou o colapso da ponte, tornando-se um dos maiores acidentes marítimos da história norte-americana.\nA figura a seguir mostra os dados da velocidade do navio em função da hora local. A colisão ocorreu no intervalo de 38 segundos, marcado por linhas pontilhadas no gráfico.\n\nAssumindo que a massa do navio no momento do impacto seja de 100 mil toneladas e, tendo por base os dados do gráfico, a magnitude da força média atuando sobre o navio durante a colisão é de, aproximadamente,\n\nNote e adote:\nConsidere que a força atuando sobre o navio durante a colisão seja constante e igual à força média.\nUtilize 1 m.p.h. = 0,5 m/s.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$7 \\times 10^{-2} N$."
+        },
+        {
+          "letra": "B",
+          "texto": "$7 \\times 10^0 N$."
+        },
+        {
+          "letra": "C",
+          "texto": "$7 \\times 10^2 N$."
+        },
+        {
+          "letra": "D",
+          "texto": "$7 \\times 10^4 N$."
+        },
+        {
+          "letra": "E",
+          "texto": "$7 \\times 10^6 N$."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Mecânica",
+        "Física – Leis de Newton"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "O efeito Compton, descoberto na década de 1920, é hoje amplamente utilizado durante tratamentos radioterápicos. O efeito relaciona-se à mudança no comprimento de onda de fótons de raios X quando interagem com partículas como elétrons ou prótons, conforme ilustrado na figura a seguir.\n\nQuando um fóton com comprimento de onda $\\lambda_0$ incide sobre uma partícula, ele emerge dessa interação formando um ângulo $\\theta$ com sua direção inicial de movimento, e seu novo comprimento de onda $\\lambda'$ é dado pela relação\n$\\lambda' = \\lambda_0 + \\frac{\\alpha}{m}(1 - \\cos \\theta)$,\nem que $\\alpha$ é uma constante positiva e $m$ é a massa da partícula.\nCom base nessas informações e em seus conhecimentos sobre a propagação das ondas eletromagnéticas, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A maior variação no comprimento de onda do fóton ocorre quando o ângulo $\\theta$ é igual a 90°."
+        },
+        {
+          "letra": "B",
+          "texto": "Se o ângulo $\\theta$ é igual a 30°, o fóton emergente tem frequência menor do que a frequência inicial."
+        },
+        {
+          "letra": "C",
+          "texto": "Quando $\\theta = 0$, a velocidade do fóton emergente é menor do que a do fóton incidente, devido à conservação da quantidade de movimento."
+        },
+        {
+          "letra": "D",
+          "texto": "Se o ângulo $\\theta$ é igual a 60°, a variação no comprimento de onda do fóton é menor se a partícula for um elétron do que se a partícula for um próton."
+        },
+        {
+          "letra": "E",
+          "texto": "Um fóton que emergiu perpendicularmente à sua direção inicial não sofreu mudança em sua frequência."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Física Moderna",
+        "Física – Efeito Compton"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "A figura a seguir apresenta a evolução dos modelos atômicos, desde o primeiro, proposto por Dalton em 1803, até o de Bohr, proposto em 1913.\n\nSobre os quatro modelos atômicos apresentados, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Todos os modelos previram a presença de cargas positivas no núcleo atômico."
+        },
+        {
+          "letra": "B",
+          "texto": "O modelo proposto por Thomson, por prever a existência de nêutrons, não poderia explicar a radiação alfa ($\\alpha$)."
+        },
+        {
+          "letra": "C",
+          "texto": "Diferentemente do modelo de Dalton, o modelo de Rutherford não explica a estrutura de cátions e ânions."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas o modelo de Bohr, com o advento de balanças de precisão, considerou a diferença de massa entre os elementos."
+        },
+        {
+          "letra": "E",
+          "texto": "Elementos radioativos não poderiam ser explicados pelo modelo proposto por Dalton."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Modelos Atômicos"
+      ]
+    }
+  ]
+}

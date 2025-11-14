@@ -1,51 +1,668 @@
-ESPM
-espm 2025
-prova:
-gabarito:
-
-espm 2024
-prova:
-gabarito:
-
-espm 2023
-prova:
-gabarito:
-
-espm 2022
-prova:
-gabarito:
-
-espm 2021
-prova:
-gabarito:
-
-espm 2020
-prova:
-gabarito:
-
-espm 2019
-prova:
-gabarito:
-
-espm 2018
-prova:
-gabarito:
-
-espm 2017
-prova:
-gabarito:
-
-espm 2016
-prova:
-gabarito:
-
-espm 2015
+FUVEST
+fuvest 2026
 prova:
 gabarito:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
+UFPR
+ufpr 2026
+prova: https://servicos.nc.ufpr.br/documentos/ps2026/provas/provisorio/Geral.pdf
+gabarito: https://servicos.nc.ufpr.br/documentos/ps2026/provas/provisorio/Geral.pdf
+
+ufpr 2025
+prova: https://servicos.nc.ufpr.br/documentos/ps2025/provas/Geral.pdf
+gabarito: https://servicos.nc.ufpr.br/documentos/ps2025/provas/Geral.pdf
+
+ufpr 2024
+prova: https://sacod.ufpr.br/artes/wp-content/uploads/sites/8/2024/03/prova-de-conhecimentos-gerais-2024.pdf
+gabarito: https://sacod.ufpr.br/artes/wp-content/uploads/sites/8/2024/03/prova-de-conhecimentos-gerais-2024.pdf
+
+ufpr 2023
+prova: https://servicos.nc.ufpr.br/documentos/ps2023/provas/Geral.pdf
+gabarito: https://servicos.nc.ufpr.br/documentos/ps2023/provas/Geral.pdf
+
+ufpr 2022
+prova: https://servicos.nc.ufpr.br/documentos/PS2022/provas/Geral.pdf
+gabarito: https://servicos.nc.ufpr.br/documentos/PS2022/provas/Geral.pdf
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UFRGS
+ufrgs 2026 dia 1
+prova:
+gabarito:
+
+ufrgs 2026 dia 2
+prova:
+gabarito:
+
+ufrgs 2025 dia 1
+prova: https://www.ufrgs.br/coperse/wp-content/uploads/2024/12/Prova-1o-DIA.pdf
+gabarito:
+
+ufrgs 2025 dia 2
+prova: https://www.ufrgs.br/coperse/wp-content/uploads/2024/12/PROVA-INGLES.pdf
+gabarito:
+
+ufrgs 2024 dia 1
+prova: https://www.ufrgs.br/coperse/wp-content/uploads/2023/12/1o-DIA-PROVA-2024.pdf
+gabarito:
+
+ufrgs 2024 dia 2
+prova: https://www.ufrgs.br/coperse/wp-content/uploads/2023/12/2o-DIA-2024-INGLES.pdf
+gabarito:
+
+ufrgs 2023 dia 1
+prova: https://www.ufrgs.br/coperse/wp-content/uploads/2023/03/CV-23-CADERNO-1o-DIA.pdf
+gabarito:
+
+ufrgs 2023 dia 2
+prova: https://www.ufrgs.br/coperse/wp-content/uploads/2023/03/CV-23-CADERNO-2o-DIA-INGLES.pdf
+gabarito:
+
+ufrgs 2022 dia 1
+prova: https://www.ufrgs.br/coperse/wp-content/uploads/2022/03/PROVAS-1o-DIA.pdf
+gabarito:
+
+ufrgs 2022 dia 2
+prova: https://www.ufrgs.br/coperse/wp-content/uploads/2022/03/PROVAS-2o-DIA-INGLES.pdf
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UFRR
+ufrr 2026
+prova: https://editais.ufrr.br/editais/arquivo/1131/caderno-de-prova-vestibular-indigena-2026.pdf
+gabarito: https://editais.ufrr.br/editais/arquivo/1147/edital-n-71-25-gabarito-oficial-vestibular-indigena-2026.pdf
+
+ufrr 2025
+prova: https://editais.ufrr.br/editais/arquivo/527/caderno-de-prova-2025-e1.pdf
+gabarito: https://editais.ufrr.br/editais/arquivo/526/edital-n-96-24-gabarito-preliminar-vestibular-2025.pdf
+
+ufrr 2024
+prova:
+gabarito:
+
+ufrr 2023
+prova:
+gabarito:
+
+ufrr 2022
+prova:
+gabarito: https://souvetor.com/wp-content/uploads/2023/06/UFRR-Gabarito-–-2022-E1.pdf
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UFSC (Ver se vale a pena adicionar pois é modelo de soma do numero das alternativas)
+ufsc 2026
+prova: https://educacaodocampo2026.ufsc.br/files/2013/11/Educação-do-Campo.pdf
+gabarito: https://educacaodocampo2026.ufsc.br/files/2013/11/gabarito-definitivo-educação-do-campo.pdf
+
+ufsc 2025
+prova: https://dados.coperve.ufsc.br/vestibular2025/gabaritos/p1_amarela.pdf
+gabarito: https://dados.coperve.ufsc.br/vestibular2025/gabaritos/novo_gabarito_p1_amarela.pdf
+
+ufsc 2024
+prova: https://vestibular2024.paginas.ufsc.br/files/2023/12/p1_amarela.pdf
+gabarito: https://vestibular2024.paginas.ufsc.br/files/2023/12/novo_gabarito_p1_amarela.pdf
+
+ufsc 2023
+prova: https://dados.coperve.ufsc.br/vestibular2023/gabaritos/preliminar/p1_amarela.pdf
+gabarito: https://dados.coperve.ufsc.br/vestibular2023/gabaritos/preliminar/gabarito_p1_amarelaPreliminar.pdf
+
+ufsc 2022
+prova: https://dados.coperve.ufsc.br/vestibular2022/gabaritos/definitivos/prova1/p1-amarela.pdf
+gabarito: https://dados.coperve.ufsc.br/vestibular2022/gabaritos/definitivos/prova1/p1-amarela.html
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UFSM
+ufsm 2026
+prova:
+gabarito:
+
+ufsm 2025
+prova: https://www.ufsm.br/app/uploads/sites/342/2024/09/PROVA-1-PROCESSO-SELETIVO-VESTIBULAR-UFSM-2025.pdf
+gabarito: https://www.ufsm.br/app/uploads/sites/342/2024/09/GABARITO-PRELIMINAR-PROVA-1-PROCESSO-SELETIVO-VESTIBULAR-UFSM-2025.pdf
+
+ufsm 2024
+prova: https://www.ufsm.br/app/uploads/sites/342/2023/12/VESTIBULAR-PROVA-1-UFSM-2024.pdf
+gabarito: https://www.ufsm.br/app/uploads/sites/342/2023/12/GABARITO-PRELIMINAR-PROCESSO-SELETIVO-SERIADO-PROVA-1-UFSM-2024.pdf
+
+ufsm 2023
+prova: https://www.ufsm.br/app/uploads/sites/342/2023/05/PROVA-1-VESTIBULAR-EXTRAORDINARIO-2023-UFSM.pdf
+gabarito: https://www.ufsm.br/app/uploads/sites/342/2023/05/Edital_057_2023_Prograd_UFSM_GABARITOS_DEFINITIVOS_VESTIBULAR_EXTRAORDINARIO_2023_PROVAS_1_E_2.pdf
+
+ufsm 2022
+prova: 
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNESP
+unesp 2024
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2024/1fase/UNESP2024_1fase_prova.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2024/1fase/UNESP2024_1fase_gabarito.pdf
+
+unesp 2023
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_prova.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2023/1fase/UNESP2023_1fase_gabarito.pdf
+
+unesp 2022
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2022/1fase/2dia/UNESP2022_1fase_prova.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2022/1fase/2dia/UNESP2022_1fase_gabarito.pdf
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNICAMP
+unicamp 2026
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2026_1fase/unicamp2026_1fase_prova_QX.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2026_1fase/unicamp2026_1fase_gabarito_QX.pdf
+
+unicamp 2025
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2025_1fase/unicamp2025_1fase_prova_QZ.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2025_1fase/unicamp2025_1fase_gabarito_QZ.pdf
+
+unicamp 2024
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2024_1fase/unicamp2024_1fase_prova_QY.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2024_1fase/unicamp2024_1fase_gabarito_Q_Y.pdf
+
+unicamp 2023
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2023_1fase/unicamp2023_1fase_prova_QZ.pdf
+gabarito:
+
+unicamp 2022
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2022_1fase/unicamp2022_1fase_prova_QX.pdf
+gabarito: https://www.comvest.unicamp.br/wp-content/uploads/2021/11/gabarito_2022_DIVULGA.pdf
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UECE
+uece 2026
+prova: https://www.cev.uece.br/wp-content/uploads/2025/10/vtb20261f1g1.pdf
+gabarito:
+
+uece 2025
+prova: https://www.cev.uece.br/wp-content/uploads/2025/04/v20252f1g2.pdf
+gabarito: https://www.cev.uece.br/wp-content/uploads/2025/04/v2025v2f1gabpre.pdf
+
+uece 2024
+prova: https://www.cev.uece.br/wp-content/uploads/2024/04/vtb2024f1gab1.pdf
+gabarito: https://www.cev.uece.br/wp-content/uploads/2024/12/GABARITO-PRELIMINAR-EAD-2024.pdf
+
+uece 2023
+prova: https://www.cev.uece.br/wp-content/uploads/2023/04/vtb20232f1g2.pdf
+gabarito: https://www.cev.uece.br/wp-content/uploads/2022/11/vtb20231f1gabpre.pdf
+
+uece 2022
+prova: https://www.cev.uece.br/wp-content/uploads/2022/08/v20222f1g1.pdf
+gabarito: https://www.cev.uece.br/wp-content/uploads//2022/01/vtb20221f1gabofpre.pdf
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UEL
+uel 2026
+prova: https://www.cops.uel.br/v2/download.php?Acesso=NTc0NTQyMzZjZTU3Mzg2MDZkNzAwMjMyMmVmZjA2MjJiM2EzNjg5NDhlYTY1NGM5NGU3N2Q0NGNkYTM2NTUzZjRhMmU4OTdkNGM3MDc5MzExMGI2YjRlNzllNGM2YjY5MTZiZWU2M2Y3ODk1Y2ZiZmY4N2Y3NmY2NGJhYzZjNGI=
+gabarito: https://www.cops.uel.br/v2/download.php?Acesso=NTc0NTQyMzZjZTU3Mzg2MDZkNzAwMjMyMmVmZjA2MjJiM2EzNjg5NDhlYTY1NGM5NGU3N2Q0NGNkYTM2NTUzZjZmNDA3MWU0MTQ2ZTYzN2UxNGU2M2VhZjMwYTU0OTBmOGM4MDMxMTEzYmVmZTg4NTg4YzAyODE1MWNiOTIwZDI=
+
+uel 2025
+prova: https://www.cops.uel.br/v2/download.php?Acesso=NTc0NTQyMzZjZTU3Mzg2MDZkNzAwMjMyMmVmZjA2MjJiM2EzNjg5NDhlYTY1NGM5NGU3N2Q0NGNkYTM2NTUzZjE2MTkxNjNmNTk1OWJkMzBiNTk1ODU2OTcyYzM5ZTBkNTIwZDdhYjBjY2MxYjU2YTljYzcyYjgxOGI4ZGE1MTI=
+gabarito: https://www.cops.uel.br/v2/download.php?Acesso=NTc0NTQyMzZjZTU3Mzg2MDZkNzAwMjMyMmVmZjA2MjJiM2EzNjg5NDhlYTY1NGM5NGU3N2Q0NGNkYTM2NTUzZmQxZmEzNWU2YjZmYzkwOWE4NjBkM2YyMWJhOTJjZDVhZjdlMGY4MTUwNGVhMjhiN2ZiNDhhZTRlZTMzNzA4ODNkMGU1MTAxOTYwZThhNjBmN2I1MzE4NzI2ZDIxZDk4YQ==
+
+uel 2024
+prova: https://www.cops.uel.br/v2/download.php?Acesso=NTc0NTQyMzZjZTU3Mzg2MDZkNzAwMjMyMmVmZjA2MjJiM2EzNjg5NDhlYTY1NGM5NGU3N2Q0NGNkYTM2NTUzZmFhYzBlMGM5OTQzYzU1YzUwMmZiNDRmZDZmMTU0OTczYTM0ZTRjYzg3ODE4MjI1Y2E4MGM3YzVlZDUxZGRhZDNlOGM2MmQxNzA3Y2ExOGVjYmQ1MDc5ZjU0Yjc4ZTk0Zg==
+gabarito: https://www.cops.uel.br/v2/download.php?Acesso=NTc0NTQyMzZjZTU3Mzg2MDZkNzAwMjMyMmVmZjA2MjJiM2EzNjg5NDhlYTY1NGM5NGU3N2Q0NGNkYTM2NTUzZmJkYWI0Yzk3ODUyYjg1OGYzMmViOTQ1ZGU0MGVlNGM1YmJlNjRlYWRmODU0MGI2NWM1YmE1OTdkODY4ZTM1Nzk5YTk0Y2QzM2Q2ZGQ3YWUzNDc3NDhmNDg2NTIyODFiYQ==
+
+uel 2023
+prova: https://www.cops.uel.br/v2/download.php?Acesso=NTc0NTQyMzZjZTU3Mzg2MDZkNzAwMjMyMmVmZjA2MjJiM2EzNjg5NDhlYTY1NGM5NGU3N2Q0NGNkYTM2NTUzZmRhNDZjOTVjYTczNjk3NzE4NTY2OTEwNTZhNzY0NzVmNWQ0YjkyZTU2ZmNjZDk0MzNlOTdkZTk0MTE4ZTc5ZGM=
+gabarito: https://www.cops.uel.br/v2/download.php?Acesso=NTc0NTQyMzZjZTU3Mzg2MDZkNzAwMjMyMmVmZjA2MjJiM2EzNjg5NDhlYTY1NGM5NGU3N2Q0NGNkYTM2NTUzZjAzOTg0MWIxNzUxMDZhN2QyMjE4OTk2MTkwMjc0MmU2MWZiZTU5YjM0ZGY2MWUyZWMzZThmMjc3NGVkNGJlZDRkMGU1MTAxOTYwZThhNjBmN2I1MzE4NzI2ZDIxZDk4YQ==
+
+uel 2022
+prova: https://www.cops.uel.br/v2/download.php?Acesso=NTc0NTQyMzZjZTU3Mzg2MDZkNzAwMjMyMmVmZjA2MjJiM2EzNjg5NDhlYTY1NGM5NGU3N2Q0NGNkYTM2NTUzZjYwZDQyYmUwOTVhMTAyODhjZTUyYmMxYTFiODY5ZTI2OTc0Y2E1YmFiN2RlZDIyZGM4ZjNhN2Q4NjllNjY0MzBlOGM2MmQxNzA3Y2ExOGVjYmQ1MDc5ZjU0Yjc4ZTk0Zg==
+gabarito: https://www.cops.uel.br/v2/download.php?Acesso=NTc0NTQyMzZjZTU3Mzg2MDZkNzAwMjMyMmVmZjA2MjJiM2EzNjg5NDhlYTY1NGM5NGU3N2Q0NGNkYTM2NTUzZjY2OTA2OWQxMjMzYzE5YjM4ZmUyMmU3ODY0YWViZDVlMDliMzhjZDM3ODM5OWM4YTcyZmFhYzg5Y2U5OWFhMGY5YTk0Y2QzM2Q2ZGQ3YWUzNDc3NDhmNDg2NTIyODFiYQ==
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UEM (Ver se vale a pena adicionar pois é modelo de soma do numero das alternativas)
+uem 2026
+prova:
+gabarito:
+
+uem 2025
+prova: https://www.vestibular.uem.br/provas/in25/P1.pdf
+gabarito: https://www.vestibular.uem.br/provas/in25/gabdef.pdf
+
+uem 2024
+prova: https://www.vestibular.uem.br/provas/in24/P1.pdf
+gabarito: https://www.vestibular.uem.br/provas/in24/gabdef.pdf
+
+uem 2023
+prova: https://www.vestibular.uem.br/provas/in23/P1.pdf
+gabarito: https://www.vestibular.uem.br/provas/in23/gabdef.pdf
+
+uem 2022
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UEMG (instalar localmente)
+uemg 2026
+prova:
+gabarito:
+
+uemg 2025
+prova:
+gabarito:
+
+uemg 2024
+prova:
+gabarito:
+
+uemg 2023
+prova:
+gabarito:
+
+uemg 2022
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UEPG (Ver se vale a pena adicionar pois é modelo de soma do numero das alternativas)
+uepg 2025
+prova:
+gabarito:
+
+uepg 2024
+prova: https://cps.uepg.br/vestibular/documentos/2024/vestibular/provas/Conhecimentos_Gerais.pdf
+gabarito: https://cps.uepg.br/vestibular/documentos/2024/vestibular/provas/Edital_n_35-2024-Gabarito_Vestibular_2024_Apos_Recursos.pdf
+
+uepg 2023
+prova: https://cps.uepg.br/vestibular/documentos/2023/vestibular_2023/provas/Conhecimentos_Gerais.pdf
+gabarito: https://cps.uepg.br/vestibular/documentos/2023/vestibular_2023/provas/Edital_n_57-2023-Gabarito_Vestibular_2023_apos_recursos.pdf
+
+uepg 2022
+prova: https://cps.uepg.br/vestibular/documentos/2022/provas/Conhecimentos_Gerais.pdf
+gabarito: https://cps.uepg.br/vestibular/documentos/2022/provas/Edital_n_21-2022-Gabarito_Vestibular_2022_apos_recursos.pdf
+
+uepg 2021
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UERJ
+uerj 2026
+prova: https://www.revista.vestibular.uerj.br/arquivos/pdf/questao/53.pdf
+gabarito:
+
+uerj 2025
+prova: https://www.vestibular.uerj.br/anexos/251/01_Exame_Qualificacao.pdf
+gabarito: https://www.vestibular.uerj.br/anexos/251/Gabarito_VESTIBULAR.pdf
+
+uerj 2024
+prova: https://www.vestibular.uerj.br/anexos/242/2o_EQ_prova.pdf
+gabarito: https://www.vestibular.uerj.br/anexos/242/2o_EQ_gabarito_retificado.pdf
+
+uerj 2023
+prova: https://www.vestibular.uerj.br/anexos/233/prova_vetibular_2023.pdf
+gabarito: https://www.vestibular.uerj.br/anexos/233/gabarito_vestibular_2023_retificado.pdf
+
+uerj 2022
+prova: https://www.vestibular.uerj.br/anexos/223/prova_2022.pdf
+gabarito: https://www.vestibular.uerj.br/anexos/223/gabarito_2022.pdf
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UERR (instalar localmente)
+uerr 2026
+prova:
+gabarito:
+
+uerr 2025
+prova: https://souvetor.com/wp-content/uploads/2025/05/UFRR-PROVA-PSS-3-E-PI-Vestibular-2025.pdf
+gabarito: https://souvetor.com/wp-content/uploads/2025/05/UFRR-GABARITO-PSS-3-E-PI-Vestibular-2025.pdf
+
+uerr 2024
+prova: https://souvetor.com/wp-content/uploads/2025/05/UFRR-CADERNOS-DE-PROVA-Vestibular-2024-E3-PI.pdf
+gabarito: https://souvetor.com/wp-content/uploads/2025/05/UFRR-GABARITO-PSS-3-E-PI-Veestibular-2024.pdf
+
+uerr 2023
+prova: https://souvetor.com/wp-content/uploads/2023/06/UFRR-Prova-–-2022-E3-PI.pdf
+gabarito: https://souvetor.com/wp-content/uploads/2023/06/UFRR-Gabarito-–-2022-E3-PI.pdf
+
+uerr 2022
+prova: https://souvetor.com/wp-content/uploads/2023/06/UFRR-Prova-–-2021-E3-PI.pdf
+gabarito: https://souvetor.com/wp-content/uploads/2023/06/UFRR-Gabarito-–-2021-E3-PI.pdf
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UFAM
+ufam 2025
+prova: https://souvetor.com/wp-content/uploads/2025/06/Edital-01-de-2025-Prova-PSC1.pdf
+gabarito:
+
+ufam 2024
+prova: https://souvetor.com/wp-content/uploads/2024/06/PSC-2024-–-Etapa-I-–-Prova.pdf
+gabarito: https://souvetor.com/wp-content/uploads/2024/06/PSC-2024-–-Etapa-I-–-Gabarito.pdf
+
+ufam 2023
+prova: https://souvetor.com/wp-content/uploads/2024/06/PSC-2023-–-Etapa-I-–-Prova.pdf
+gabarito: https://souvetor.com/wp-content/uploads/2024/06/PSC-2023-–-Etapa-I-–-Gabarito.pdf
+
+ufam 2022
+prova: https://souvetor.com/wp-content/uploads/2023/01/PSC-2022-Etapa-I-Prova.pdf
+gabarito: https://souvetor.com/wp-content/uploads/2023/01/PSC-2022-Etapa-I-Gabarito.pdf
+
+ufam 2021
+prova: https://souvetor.com/wp-content/uploads/2023/01/PSC-2021-Etapa-I-Prova.pdf
+gabarito: https://souvetor.com/wp-content/uploads/2023/01/PSC-2021-Etapa-I-Gabarito.pdf
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+ALBERT EINSTEIN
+einstein 2026
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2026/alberteinstein2026_prova_I.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2026/alberteinstein2026_gabarito.pdf
+
+einstein 2025
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2025/alberteinstein2025_prova_I.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2025/alberteinstein2025_gabarito.pdf
+
+einstein 2024
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2024/alberteinstein2024_prova_I.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2024/alberteinstein2024_gabarito.pdf
+
+einstein 2023
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2023/alberteinstein2023_prova_I.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2023/alberteinstein2023_gabarito.pdf
+
+einstein 2022
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2022/alberteinstein2022_prova_I.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/alberteinstein/2022/alberteinstein2022_gabarito.pdf
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+FAMERP
+famerp 2026
+prova:
+gabarito:
+
+famerp 2025
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2025/1dia/famerp2025_1dia_prova.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2025/1dia/famerp2025_1dia_gabarito.pdf
+
+famerp 2024
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2024/1dia/famerp2024_1dia_prova.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2024/1dia/famerp2024_1dia_gabarito.pdf
+
+famerp 2023
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2023/1dia/famerp2023_1dia_prova.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2023/1dia/famerp2023_1dia_gabarito.pdf
+
+famerp 2022
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2022/1dia/famerp2022_1dia_prova.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2022/1dia/famerp2022_1dia_gabarito.pdf
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+FATEC
+fatec 2026
+prova:
+gabarito:
+
+fatec 2025
+prova: https://fatweb.s3.amazonaws.com/vestibularfatec/gabarito/202528719/Prova.pdf?v=2.1
+gabarito: https://fatweb.s3.amazonaws.com/vestibularfatec/gabarito/202528719/Gabarito.pdf?v=2.1
+
+fatec 2024
+prova: https://fatweb.s3.amazonaws.com/vestibularfatec/gabarito/202426517/Prova.pdf?v=2.1
+gabarito: https://fatweb.s3.amazonaws.com/vestibularfatec/gabarito/202426517/Gabarito_retificado.pdf?v=2.1
+
+fatec 2023
+prova: https://fatweb.s3.amazonaws.com/vestibularfatec/gabarito/202327519/Prova.pdf?v=2.1
+gabarito: https://fatweb.s3.amazonaws.com/vestibularfatec/gabarito/202327519/Gabarito.pdf?v=2.1
+
+fatec 2022
+prova: https://fatweb.s3.amazonaws.com/vestibularfatec/gabarito/202228712/Prova.pdf?v=2.1
+gabarito: https://fatweb.s3.amazonaws.com/vestibularfatec/gabarito/202228712/Gabarito.pdf?v=2.1
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+IME
+ime 2026
+prova: https://inscricoes.ime.eb.br/documentos/Prova_Objetiva.pdf
+gabarito: https://inscricoes.ime.eb.br/documentos/Gabarito_Final.pdf
+
+ime 2025
+prova: https://www.ime.eb.mil.br/images/arquivos/admissao/cfg/provas-anteriores/2024-2025/CFG_Objetiva_24_25.pdf
+gabarito: https://www.ime.eb.mil.br/images/arquivos/admissao/cfg/provas-anteriores/2024-2025/GabaritoFINAL20242025.pdf
+
+ime 2024
+prova: https://www.ime.eb.mil.br/images/arquivos/admissao/cfg/provas-anteriores/2023-2024/Prova_Objetiva_1_FASE.pdf
+gabarito: https://www.ime.eb.mil.br/images/arquivos/admissao/cfg/provas-anteriores/2023-2024/Gabarito_Prova_Objetiva_1_FASE.pdf
+
+ime 2023
+prova: https://www.ime.eb.mil.br/images/arquivos/admissao/cfg/provas-anteriores/2022-2023/provaobjetiva2022.pdf
+gabarito: https://www.ime.eb.mil.br/images/arquivos/admissao/cfg/provas-anteriores/2022-2023/gabaritooficialbjetiva20222023.pdf
+
+ime 2022
+prova: https://www.ime.eb.mil.br/images/arquivos/admissao/cfg/provas-anteriores/2021-2022/CFG1fase2021.pdf
+gabarito: https://www.ime.eb.mil.br/images/arquivos/admissao/cfg/provas-anteriores/2021-2022/GabaritoDEFINITIVO.pdf
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+ITA
+ita 2026
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2026/1fase/ita2026_1fase_prova.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2026/1fase/ita2026_1fase_gabarito.pdf
+
+ita 2025
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2025/1fase/ita2025_1fase_prova.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2025/1fase/ita2025_1fase_gabarito.pdf
+
+ita 2024
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2024/1fase/ita2024_1fase_prova.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2024/1fase/ita2024_1fase_gabarito.pdf
+
+ita 2023
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2023/1fase/ita2023_1fase_prova.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2023/1fase/ita2023_1fase_gabarito.pdf
+
+ita 2022
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2022/1fase/ita2022_1fase_prova.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2022/1fase/ita2022_1fase_gabarito.pdf
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+ENEM
+enem 2025 dia 1
+prova:
+gabarito:
+
+enem 2025 dia 2
+prova:
+gabarito:
+
+enem 2024 dia 1
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2024/1dia/enem2024_1dia_prova_amarelo.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2024/1dia/enem2024_1dia_gabarito_amarelo.pdf
+
+enem 2024 dia 2
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2024/2dia/enem2024_2dia_prova_amarelo.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2024/2dia/enem2024_2dia_gabarito_amarelo.pdf
+
+enem 2023 dia 1
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2023/1dia/enem2023_1dia_prova_amarelo.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2023/1dia/enem2023_1dia_gabarito_amarelo.pdf
+
+enem 2023 dia 2
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2023/2dia/enem2023_2dia_prova_amarelo.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2023/2dia/enem2023_2dia_gabarito_amarelo.pdf
+
+enem 2022 dia 1
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2022/1dia/enem2022_1dia_prova_amarelo.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2022/1dia/enem2022_1dia_gabarito_amarelo.pdf
+
+enem 2022 dia 2
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2022/2dia/enem2022_2dia_prova_amarelo.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2022/2dia/enem2022_2dia_gabarito_amarelo.pdf
+
+enem 2021 dia 1
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2021/1dia/enem2021_1dia_prova_amarelo.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2021/1dia/enem2021_1dia_gabarito_amarelo.pdf
+
+enem 2021 dia 2
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2021/2dia/enem2021_2dia_prova_amarelo.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2021/2dia/enem2021_2dia_gabarito_amarelo.pdf
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+MACKENZIE
+mackenzie 2026
+prova:
+gabarito:
+
+mackenzie 2025
+prova: https://www.mackenzie.br/fileadmin/user_upload/Prova_B_-_Higienópolis_-_2025_2__semestre_-_Vestibular_-_11.06.25.pdf
+gabarito: https://www.mackenzie.br/fileadmin/user_upload/Gabarito_-_Prova_B_-_Higienópolis_-_2025_2__semestre_-_Vestibular_-_11.06.25.pdf
+
+mackenzie 2024
+prova: https://www.curso-objetivo.br/vestibular/resolucao-comentada/mackenzie/2024/1dia/mackenzie2024_prova_1dia.pdf
+gabarito: https://www.curso-objetivo.br/vestibular/resolucao-comentada/mackenzie/2024/1dia/mackenzie2024_gabarito_1dia.pdf
+
+mackenzie 2023
+prova:
+gabarito:
+
+mackenzie 2022
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+São Leopoldo Mandic
+mandic 2026
+prova:
+gabarito:
+
+mandic 2025
+prova:
+gabarito:
+
+mandic 2024
+prova: https://slmandiclimeira.com.br/wp-content/uploads/2023/10/Prova-Objetiva-Vestibular-Unificado-2024.1.pdf
+gabarito: https://slmandiclimeira.com.br/wp-content/uploads/2023/10/Gabarito-Preliminar-Vestibular-Unificado-2024.1.pdf
+
+mandic 2023
+prova:
+gabarito:
+
+mandic 2022
+prova: https://drive.google.com/file/d/1PNQ9sXtHbLxqMRV5e3gXNW4rSj_avjr3/view
+gabarito: https://drive.google.com/file/d/1tg2DNpXHMmMPYT-Qqq2CrEsAp5Imv96N/view
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+PUC CAMPINAS
+puccamp 2026
+prova:
+gabarito:
+
+puccamp 2025
+prova: https://vestibular.puc-campinas.edu.br/wp-content/uploads/2024/11/LIVRETE-DE-QUESTÕES_PROVA_GERAL_DEMAIS-CURSOS_VESTIBULAR_2025.pdf
+gabarito: https://vestibular.puc-campinas.edu.br/wp-content/uploads/2024/11/GABARITO_DEMAIS-CURSOS_PROVA_GERAL_2025.pdf
+
+puccamp 2024
+prova: https://vestibular.puc-campinas.edu.br/wp-content/uploads/2024/09/PROVA_GERAL_DEMAIS_CURSOS_VESTIBULAR_2024_compressed.pdf
+gabarito: https://vestibular.puc-campinas.edu.br/wp-content/uploads/2024/09/GABARITO_PROVA_GERAL_DEMAIS_CURSOS_VESTIBULAR_2024.pdf
+
+puccamp 2023
+prova: https://vestibular.puc-campinas.edu.br/wp-content/uploads/2024/09/PROVA_GERAL_DEMAIS_CURSOS_VESTIBULAR_2023.pdf
+gabarito: https://vestibular.puc-campinas.edu.br/wp-content/uploads/2024/09/GABARITO_PROVA_GERAL_DEMAIS_CURSOS_VESTIBULAR_2023.pdf
+
+puccamp 2022
+prova: https://vestibular.puc-campinas.edu.br/wp-content/uploads/2024/09/PROVA_GERAL_DEMAIS_CURSOS_VESTIBULAR_2022.pdf
+gabarito: https://vestibular.puc-campinas.edu.br/wp-content/uploads/2024/09/GABARITO_PROVA_GERAL_DEMAIS_CURSOS_VESTIBULAR_2022.pdf
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+PUC SP
+pucsp 2026
+prova:
+gabarito:
+
+pucsp 2025
+prova: https://nucvest.com.br/downloads/pucsp/vestibular/2025/verao/gabarito-e-prova/PUC-SP-verao-2025-A4-DIREITO-AUTORAL.pdf
+gabarito: https://nucvest.com.br/downloads/pucsp/vestibular/2025/verao/gabarito-e-prova/PUC-Verao-2025-Gabarito-Republicado.pdf
+
+pucsp 2024
+prova: https://nucvest.com.br/downloads/pucsp/vestibular/2024/verao/PUC-SP-Verao-2024-A4-v1.pdf
+gabarito: https://nucvest.com.br/downloads/pucsp/vestibular/2024/verao/PUC-SP-Verao-2024-Gabarito.pdf
+
+pucsp 2023
+prova:
+gabarito:
+
+pucsp 2022
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UEA
+uea 2026
+prova:
+gabarito:
+
+uea 2025
+prova: https://souvetor.com/wp-content/uploads/2025/05/UEA-2024-Geral-Prova-ACESSO-2025.pdf
+gabarito: https://souvetor.com/wp-content/uploads/2025/05/UEA-2024-Geral-Gabarito-Acesso-2025.pdf
+
+uea 2024
+prova: https://souvetor.com/wp-content/uploads/2023/10/UEA-2023-Geral-Prova.pdf
+gabarito: https://souvetor.com/wp-content/uploads/2023/10/UEA-2023-Geral-Gabarito.pdf
+
+uea 2023
+prova: https://souvetor.com/wp-content/uploads/2023/01/Geral-2022-Prova.pdf
+gabarito: https://souvetor.com/wp-content/uploads/2023/01/Geral-2022-Gabarito.pdf
+
+uea 2022
+prova: https://souvetor.com/wp-content/uploads/2023/01/Geral-2021-Prova.pdf
+gabarito: https://souvetor.com/wp-content/uploads/2023/01/Geral-2021-Gabarito.pdf
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+ESPM
+espm 2026
+prova:
+gabarito:
+
+espm 2025
+prova: https://www.espm.br/wp-content/uploads/VERJ_212.pdf
+gabarito: https://www.espm.br/wp-content/uploads/Gabarito_VERJ_212.pdf
+
+espm 2024
+prova: https://www.espm.br/wp-content/uploads/Prova-2024-1-A.pdf
+gabarito: https://www.espm.br/wp-content/uploads/Gabarito-prova-2024-1-A.pdf
+
+espm 2023
+prova: https://www.espm.br/wp-content/uploads/2023-1-PROVA.pdf
+gabarito: https://www.espm.br/wp-content/uploads/VESP_2023_1_gabarito_.pdf
+
+espm 2022
+prova: https://www.espm.br/wp-content/uploads/2022-2-PROVA.pdf
+gabarito: https://www.espm.br/wp-content/uploads/2022-2-GABARITO.pdf
+
+------------------------------------------------------------------------------------------------------------------------------------
+
 ANHEMBI MORUMBI
+anhembi morumbi 2026
+prova:
+gabarito:
+
 anhembi morumbi 2025
 prova:
 gabarito:
@@ -59,87 +676,62 @@ prova:
 gabarito:
 
 anhembi morumbi 2022
-prova:
-gabarito:
-
-anhembi morumbi 2021
-prova:
-gabarito:
-
-anhembi morumbi 2020
-prova:
-gabarito:
-
-anhembi morumbi 2019
-prova:
-gabarito:
-
-anhembi morumbi 2018
-prova:
-gabarito:
-
-anhembi morumbi 2017
-prova:
-gabarito:
-
-anhembi morumbi 2016
-prova:
-gabarito:
-
-anhembi morumbi 2015
-prova:
+prova: https://vestibular.mundoeducacao.uol.com.br/downloads/universidade-anhembi-morumbi.htm (Donwload do pdf)
 gabarito:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 FEI
-fei 2025
+fei 2026
 prova:
 gabarito:
+
+fei 2025
+prova: https://fei.edu.br/sites/vestibular2025/prova-e-gabarito-eng-comp-seletivo-1-2025.pdf?_gl=1*amr1on*_gcl_au*MTQyODIzNDk4OC4xNzYyOTY3MjU3*_ga*MTUwMjk2NjExNi4xNzYyOTY3MjU4*_ga_9CWNLCJN1W*czE3NjI5NjcyNTckbzEkZzAkdDE3NjI5NjcyNTgkajYwJGwwJGgw
+gabarito: https://fei.edu.br/sites/vestibular2025/prova-e-gabarito-eng-comp-seletivo-1-2025.pdf?_gl=1*amr1on*_gcl_au*MTQyODIzNDk4OC4xNzYyOTY3MjU3*_ga*MTUwMjk2NjExNi4xNzYyOTY3MjU4*_ga_9CWNLCJN1W*czE3NjI5NjcyNTckbzEkZzAkdDE3NjI5NjcyNTgkajYwJGwwJGgw
 
 fei 2024
-prova:
-gabarito:
+prova: https://gerenciador.fei.edu.br/Content/Arquivos/prova-e-gabarito-engenharia-c-computação-e-c-de-dados-e-i-artificial-processo-seletivo-1-2024%5B26%5D.pdf?_gl=1*amr1on*_gcl_au*MTQyODIzNDk4OC4xNzYyOTY3MjU3*_ga*MTUwMjk2NjExNi4xNzYyOTY3MjU4*_ga_9CWNLCJN1W*czE3NjI5NjcyNTckbzEkZzAkdDE3NjI5NjcyNTgkajYwJGwwJGgw
+gabarito: https://gerenciador.fei.edu.br/Content/Arquivos/prova-e-gabarito-engenharia-c-computação-e-c-de-dados-e-i-artificial-processo-seletivo-1-2024%5B26%5D.pdf?_gl=1*amr1on*_gcl_au*MTQyODIzNDk4OC4xNzYyOTY3MjU3*_ga*MTUwMjk2NjExNi4xNzYyOTY3MjU4*_ga_9CWNLCJN1W*czE3NjI5NjcyNTckbzEkZzAkdDE3NjI5NjcyNTgkajYwJGwwJGgw
 
 fei 2023
-prova:
-gabarito:
+prova: https://fei.edu.br/vest2023/gabarito/gabaritocceng_22023.pdf
+gabarito: https://fei.edu.br/vest2023/gabarito/gabaritocceng_22023.pdf
 
 fei 2022
+prova: https://gerenciador.fei.edu.br/Content/Arquivos/prova-e-gabarito-12-06-2022-engenharia-e-ciência-da-computação-processo-seletivo-2-2022.pdf
+gabarito: https://gerenciador.fei.edu.br/Content/Arquivos/prova-e-gabarito-12-06-2022-engenharia-e-ciência-da-computação-processo-seletivo-2-2022.pdf
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNISANTOS (É feito online)
+UNISANTOS 2026
 prova:
 gabarito:
 
-fei 2021
+UNISANTOS 2025
 prova:
 gabarito:
 
-fei 2020
+UNISANTOS 2024
 prova:
 gabarito:
 
-fei 2019
+UNISANTOS 2023
 prova:
 gabarito:
 
-fei 2018
-prova:
-gabarito:
-
-fei 2017
-prova:
-gabarito:
-
-fei 2016
-prova:
-gabarito:
-
-fei 2015
+UNISANTOS 2022
 prova:
 gabarito:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-UNOESTE
+UNOESTE (Não Encontrado)
+unoeste 2026
+prova:
+gabarito:
+
 unoeste 2025
 prova:
 gabarito:
@@ -156,37 +748,13 @@ unoeste 2022
 prova:
 gabarito:
 
-unoeste 2021
-prova:
-gabarito:
-
-unoeste 2020
-prova:
-gabarito:
-
-unoeste 2019
-prova:
-gabarito:
-
-unoeste 2018
-prova:
-gabarito:
-
-unoeste 2017
-prova:
-gabarito:
-
-unoeste 2016
-prova:
-gabarito:
-
-unoeste 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
-FACAMP
+FACAMP (Realizado on-line)
+facamp 2026
+prova:
+gabarito:
+
 facamp 2025
 prova:
 gabarito:
@@ -203,37 +771,13 @@ facamp 2022
 prova:
 gabarito:
 
-facamp 2021
-prova:
-gabarito:
-
-facamp 2020
-prova:
-gabarito:
-
-facamp 2019
-prova:
-gabarito:
-
-facamp 2018
-prova:
-gabarito:
-
-facamp 2017
-prova:
-gabarito:
-
-facamp 2016
-prova:
-gabarito:
-
-facamp 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
-INSPER
+INSPER (Realizado on-line)
+insper 2026
+prova:
+gabarito:
+
 insper 2025
 prova:
 gabarito:
@@ -250,37 +794,13 @@ insper 2022
 prova:
 gabarito:
 
-insper 2021
-prova:
-gabarito:
-
-insper 2020
-prova:
-gabarito:
-
-insper 2019
-prova:
-gabarito:
-
-insper 2018
-prova:
-gabarito:
-
-insper 2017
-prova:
-gabarito:
-
-insper 2016
-prova:
-gabarito:
-
-insper 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
-FAAP
+FAAP (Realizado on-line e presencial. Não encontrado)
+faap 2026
+prova:
+gabarito:
+
 faap 2025
 prova:
 gabarito:
@@ -297,37 +817,36 @@ faap 2022
 prova:
 gabarito:
 
-faap 2021
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNIGRANRIO (Não encontrado)
+unigranrio 2026
 prova:
 gabarito:
 
-faap 2020
+unigranrio 2025
 prova:
 gabarito:
 
-faap 2019
+unigranrio 2024
 prova:
 gabarito:
 
-faap 2018
+unigranrio 2023
 prova:
 gabarito:
 
-faap 2017
-prova:
-gabarito:
-
-faap 2016
-prova:
-gabarito:
-
-faap 2015
+unigranrio 2022
 prova:
 gabarito:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-UNIMEP
+UNIMEP (Não encontrado)
+unimep 2026
+prova:
+gabarito:
+
 unimep 2025
 prova:
 gabarito:
@@ -344,37 +863,13 @@ unimep 2022
 prova:
 gabarito:
 
-unimep 2021
-prova:
-gabarito:
-
-unimep 2020
-prova:
-gabarito:
-
-unimep 2019
-prova:
-gabarito:
-
-unimep 2018
-prova:
-gabarito:
-
-unimep 2017
-prova:
-gabarito:
-
-unimep 2016
-prova:
-gabarito:
-
-unimep 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
-SENAC-SP
+SENAC-SP (Não encontrado)
+senac-sp 2026
+prova:
+gabarito:
+
 senac-sp 2025
 prova:
 gabarito:
@@ -391,178 +886,59 @@ senac-sp 2022
 prova:
 gabarito:
 
-senac-sp 2021
-prova:
-gabarito:
-
-senac-sp 2020
-prova:
-gabarito:
-
-senac-sp 2019
-prova:
-gabarito:
-
-senac-sp 2018
-prova:
-gabarito:
-
-senac-sp 2017
-prova:
-gabarito:
-
-senac-sp 2016
-prova:
-gabarito:
-
-senac-sp 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 MAUÁ
-mauá 2025
+mauá 2026
 prova:
 gabarito:
+
+mauá 2025
+prova: https://maua.br/img/upload/gabarito-vestibular-maua-verao-2025-presencial-1732218170.pdf
+gabarito: https://maua.br/img/upload/gabarito-vestibular-maua-verao-2025-presencial-1732218170.pdf
 
 mauá 2024
-prova:
-gabarito:
+prova: https://maua.br/img/upload/gabarito-vestibular-maua-verao-2024-vr-1706701365.pdf
+gabarito: https://maua.br/img/upload/gabarito-vestibular-maua-verao-2024-vr-1706701365.pdf
 
 mauá 2023
-prova:
-gabarito:
+prova: https://maua.br/img/upload/gabarito-vestibular-2023-prova-on-line-1669037263.pdf
+gabarito: https://maua.br/img/upload/gabarito-vestibular-2023-prova-on-line-1669037263.pdf
 
 mauá 2022
-prova:
-gabarito:
-
-mauá 2021
-prova:
-gabarito:
-
-mauá 2020
-prova:
-gabarito:
-
-mauá 2019
-prova:
-gabarito:
-
-mauá 2018
-prova:
-gabarito:
-
-mauá 2017
-prova:
-gabarito:
-
-mauá 2016
-prova:
-gabarito:
-
-mauá 2015
-prova:
-gabarito:
+prova: https://maua.br/files/122021/gabarito-prova-on-line-0512-061541.pdf
+gabarito: https://maua.br/files/122021/gabarito-prova-on-line-0512-061541.pdf
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 FECAP
-fecap 2025
+fecap 2026
 prova:
 gabarito:
+
+fecap 2025
+prova: https://www.fecap.br/files/docs/colegio-fecap/provas-gabaritos/Prova_Colegio_FECAP_2025.pdf
+gabarito: https://www.fecap.br/files/docs/colegio-fecap/provas-gabaritos/Gabarito_Colegio_FECAP_2025.pdf
 
 fecap 2024
-prova:
-gabarito:
+prova: https://www.fecap.br/files/docs/colegio-fecap/provas-gabaritos/Prova_Colegio_FECAP_2024.pdf
+gabarito: https://www.fecap.br/files/docs/colegio-fecap/provas-gabaritos/Gabarito_Colegio_FECAP_2024.pdf
 
 fecap 2023
-prova:
-gabarito:
+prova: https://www.fecap.br/files/docs/colegio-fecap/provas-gabaritos/Prova_Colegio_FECAP_2023.pdf
+gabarito: https://www.fecap.br/files/docs/colegio-fecap/provas-gabaritos/Gabarito_Colegio_FECAP_2023.pdf
 
 fecap 2022
-prova:
-gabarito:
-
-fecap 2021
-prova:
-gabarito:
-
-fecap 2020
-prova:
-gabarito:
-
-fecap 2019
-prova:
-gabarito:
-
-fecap 2018
-prova:
-gabarito:
-
-fecap 2017
-prova:
-gabarito:
-
-fecap 2016
-prova:
-gabarito:
-
-fecap 2015
-prova:
-gabarito:
+prova: https://www.fecap.br/files/docs/colegio-fecap/provas-gabaritos/Prova_Colegio_FECAP_2022.pdf
+gabarito: https://www.fecap.br/files/docs/colegio-fecap/provas-gabaritos/Gabarito_Colegio_FECAP_2022.pdf
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-METODISTA SP
-metodista sp 2025
+UNIVERSIDADE SÃO JUDAS TADEU (Não encontrado)
+usjt 2026
 prova:
 gabarito:
 
-metodista sp 2024
-prova:
-gabarito:
-
-metodista sp 2023
-prova:
-gabarito:
-
-metodista sp 2022
-prova:
-gabarito:
-
-metodista sp 2021
-prova:
-gabarito:
-
-metodista sp 2020
-prova:
-gabarito:
-
-metodista sp 2019
-prova:
-gabarito:
-
-metodista sp 2018
-prova:
-gabarito:
-
-metodista sp 2017
-prova:
-gabarito:
-
-metodista sp 2016
-prova:
-gabarito:
-
-metodista sp 2015
-prova:
-gabarito:
-
-------------------------------------------------------------------------------------------------------------------------------------
-
-UNIVERSIDADE SÃO JUDAS TADEU
 unisjt 2025
 prova:
 gabarito:
@@ -579,84 +955,36 @@ unisjt 2022
 prova:
 gabarito:
 
-unisjt 2021
-prova:
-gabarito:
-
-unisjt 2020
-prova:
-gabarito:
-
-unisjt 2019
-prova:
-gabarito:
-
-unisjt 2018
-prova:
-gabarito:
-
-unisjt 2017
-prova:
-gabarito:
-
-unisjt 2016
-prova:
-gabarito:
-
-unisjt 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 PUC MINAS
+pucmg 2026
+prova: https://www.pucminas.br/formas-ingresso/vestibular/Documents/2026/Caderno2026DemaisCursos.pdf
+gabarito: https://www.pucminas.br/formas-ingresso/vestibular/Documents/2026/GABARITOOFICIAL2026.pdf
+
 pucmg 2025
-prova:
-gabarito:
+prova: https://www.pucminas.br/formas-ingresso/vestibular/Documents/2025/demais-cursos_1_2025.pdf
+gabarito: https://www.pucminas.br/formas-ingresso/vestibular/Documents/2025/GABARITOmedicina-1_2025.pdf
 
 pucmg 2024
-prova:
-gabarito:
+prova: https://www.pucminas.br/formas-ingresso/vestibular/Documents/2024/Caderno2DireitoPsicologia_012024.pdf
+gabarito: https://www.pucminas.br/formas-ingresso/vestibular/Documents/2024/gabarito-medicina-01_2024.pdf
 
 pucmg 2023
-prova:
-gabarito:
+prova: https://www.pucminas.br/formas-ingresso/vestibular/Documents/2023/CadernoDemaisCursos1_2023_SEM%20GABARITO.pdf
+gabarito: https://www.pucminas.br/formas-ingresso/vestibular/Documents/2023/GABARITOOFICIAL12023-compilado.pdf
 
 pucmg 2022
-prova:
-gabarito:
-
-pucmg 2021
-prova:
-gabarito:
-
-pucmg 2020
-prova:
-gabarito:
-
-pucmg 2019
-prova:
-gabarito:
-
-pucmg 2018
-prova:
-gabarito:
-
-pucmg 2017
-prova:
-gabarito:
-
-pucmg 2016
-prova:
-gabarito:
-
-pucmg 2015
-prova:
-gabarito:
+prova: https://www.pucminas.br/formas-ingresso/vestibular/Documents/2022/CadernoMedicinaBETIM_POCOS2_2022.pdf
+gabarito: https://www.pucminas.br/formas-ingresso/vestibular/Documents/2022/GABARITO_OFICIAL_MEDICINA_BETIM_POCOS2_2022.pdf
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-UNIC
+UNIC (Não Encontrado)
+unic 2026
+prova:
+gabarito:
+
 unic 2025
 prova:
 gabarito:
@@ -673,37 +1001,13 @@ unic 2022
 prova:
 gabarito:
 
-unic 2021
-prova:
-gabarito:
-
-unic 2020
-prova:
-gabarito:
-
-unic 2019
-prova:
-gabarito:
-
-unic 2018
-prova:
-gabarito:
-
-unic 2017
-prova:
-gabarito:
-
-unic 2016
-prova:
-gabarito:
-
-unic 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
-UCDB
+UCDB (Não Encontrado)
+ucdb 2026
+prova:
+gabarito:
+
 ucdb 2025
 prova:
 gabarito:
@@ -720,84 +1024,36 @@ ucdb 2022
 prova:
 gabarito:
 
-ucdb 2021
-prova:
-gabarito:
-
-ucdb 2020
-prova:
-gabarito:
-
-ucdb 2019
-prova:
-gabarito:
-
-ucdb 2018
-prova:
-gabarito:
-
-ucdb 2017
-prova:
-gabarito:
-
-ucdb 2016
-prova:
-gabarito:
-
-ucdb 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 PUC-PR
-pucpr 2025
+pucpr 2026
 prova:
 gabarito:
 
+pucpr 2025
+prova: https://static.pucpr.br/pucpr/2025/11/dc-vestibular-de-verao-2025-dc_rev.pdf?_gl=1*183a71w*_gcl_au*MTMxODA3Njc1My4xNzYzMDQwMjk2*_ga*NzQ1MTEzNzYxLjE3NjMwNDAyOTc.*_ga_11M5C4PYGB*czE3NjMwNDAyOTYkbzEkZzAkdDE3NjMwNDAzMDUkajUxJGwwJGgxOTI0MjU0MzA.
+gabarito: https://static.pucpr.br/pucpr/2025/11/dc-vestibular-de-verao-2025-dc_rev.pdf?_gl=1*183a71w*_gcl_au*MTMxODA3Njc1My4xNzYzMDQwMjk2*_ga*NzQ1MTEzNzYxLjE3NjMwNDAyOTc.*_ga_11M5C4PYGB*czE3NjMwNDAyOTYkbzEkZzAkdDE3NjMwNDAzMDUkajUxJGwwJGgxOTI0MjU0MzA.
+
 pucpr 2024
-prova:
-gabarito:
+prova: https://cdn.blog.estrategiavestibulares.com.br/vestibulares/wp-content/uploads/2023/10/pucpr-2024-verao-prova-gabarito.pdf
+gabarito: https://cdn.blog.estrategiavestibulares.com.br/vestibulares/wp-content/uploads/2023/10/pucpr-2024-verao-prova-gabarito.pdf
 
 pucpr 2023
 prova:
 gabarito:
 
 pucpr 2022
-prova:
-gabarito:
-
-pucpr 2021
-prova:
-gabarito:
-
-pucpr 2020
-prova:
-gabarito:
-
-pucpr 2019
-prova:
-gabarito:
-
-pucpr 2018
-prova:
-gabarito:
-
-pucpr 2017
-prova:
-gabarito:
-
-pucpr 2016
-prova:
-gabarito:
-
-pucpr 2015
-prova:
-gabarito:
+prova: https://cdn.blog.estrategiavestibulares.com.br/vestibulares/wp-content/uploads/2022/05/17539240-gabarito-vestibular-de-inverno-2022-dc_revisado-cleuza-06-04-pdf-1.pdf
+gabarito: https://cdn.blog.estrategiavestibulares.com.br/vestibulares/wp-content/uploads/2022/05/17539240-gabarito-vestibular-de-inverno-2022-dc_revisado-cleuza-06-04-pdf-1.pdf
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-UNISUL
+UNISUL (Não Encontrado)
+unisul 2026
+prova:
+gabarito:
+
 unisul 2025
 prova:
 gabarito:
@@ -814,84 +1070,82 @@ unisul 2022
 prova:
 gabarito:
 
-unisul 2021
+------------------------------------------------------------------------------------------------------------------------------------
+
+PUC-RS
+pucrs 2026
 prova:
 gabarito:
 
-unisul 2020
+pucrs 2025
+prova: https://portal.pucrs.br/wp-content/uploads/2024/11/2024_11_25-vestibular_verao_2025-00-oc_01-medicina-prova_23_nov-prova.pdf
+gabarito: https://portal.pucrs.br/wp-content/uploads/2024/11/2024_11_25-vestibular_verao_2025-00-oc_01-medicina-prova_23_nov-gabarito-errata.pdf
+
+pucrs 2024
+prova: https://cdn.blog.estrategiavestibulares.com.br/vestibulares/wp-content/uploads/2023/11/prova-pucrs-2024-medicina.pdf
+gabarito: https://cdn.blog.estrategiavestibulares.com.br/vestibulares/wp-content/uploads/2023/11/gabarito-pucrs-2024-medicina.pdf
+
+pucrs 2023
+prova: https://portal.pucrs.br/wp-content/uploads/2024/05/2022_11_06-vestibular-vestibular_verao_2023-medicina-prova.pdf
+gabarito: https://portal.pucrs.br/wp-content/uploads/2024/05/2022_11_06-vestibular-vestibular_verao_2023-medicina-gabarito.pdf
+
+pucrs 2022
+prova: https://portal.pucrs.br/wp-content/uploads/2024/04/2021_12_13-vestibular-vestibular_de_verao_2022-medicina-prova.pdf
+gabarito: https://portal.pucrs.br/wp-content/uploads/2024/04/2021_12_13-vestibular-vestibular_de_verao_2022-medicina-gabarito.pdf
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+CELSO LISBOA (Não encontrado)
+celso-lisboa 2026
 prova:
 gabarito:
 
-unisul 2019
+celso-lisboa 2025
 prova:
 gabarito:
 
-unisul 2018
+celso-lisboa 2024
 prova:
 gabarito:
 
-unisul 2017
+celso-lisboa 2023
 prova:
 gabarito:
 
-unisul 2016
-prova:
-gabarito:
-
-unisul 2015
+celso-lisboa 2022
 prova:
 gabarito:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-PUC-RS
-pucrs 2025
+BAHIANA (Não encontrado)
+bahiana 2026
 prova:
 gabarito:
 
-pucrs 2024
+bahiana 2025
 prova:
 gabarito:
 
-pucrs 2023
+bahiana 2024
 prova:
 gabarito:
 
-pucrs 2022
+bahiana 2023
 prova:
 gabarito:
 
-pucrs 2021
-prova:
-gabarito:
-
-pucrs 2020
-prova:
-gabarito:
-
-pucrs 2019
-prova:
-gabarito:
-
-pucrs 2018
-prova:
-gabarito:
-
-pucrs 2017
-prova:
-gabarito:
-
-pucrs 2016
-prova:
-gabarito:
-
-pucrs 2015
+bahiana 2022
 prova:
 gabarito:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 CESUPA
+cesupa 2026
+prova: https://sistonline.cesupa.br/ProcSeletivo/vestibular/docs/2026/provaGabarito/Tradicional%20-%20Ingles.pdf
+gabarito: https://sistonline.cesupa.br/ProcSeletivo/vestibular/docs/2026/provaGabarito/GABARITO%20TRADICIONAL%202026_RETIFICADO.pdf
+
 cesupa 2025
 prova:
 gabarito:
@@ -904,41 +1158,17 @@ cesupa 2023
 prova:
 gabarito:
 
-cesupa 2022
-prova:
-gabarito:
-
-cesupa 2021
-prova:
-gabarito:
-
-cesupa 2020
-prova:
-gabarito:
-
-cesupa 2019
-prova:
-gabarito:
-
-cesupa 2018
-prova:
-gabarito:
-
-cesupa 2017
-prova:
-gabarito:
-
-cesupa 2016
-prova:
-gabarito:
-
-cesupa 2015
-prova:
-gabarito:
+cesupa 2022 (instalar localmente)
+prova: https://vestibular.mundoeducacao.uol.com.br/downloads/centro-universitario-do-estado-do-para.htm
+gabarito: https://vestibular.mundoeducacao.uol.com.br/downloads/centro-universitario-do-estado-do-para.htm
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-FMF
+FMF (Realizado On-line)
+fmf 2026
+prova:
+gabarito:
+
 fmf 2025
 prova:
 gabarito:
@@ -955,84 +1185,36 @@ fmf 2022
 prova:
 gabarito:
 
-fmf 2021
-prova:
-gabarito:
-
-fmf 2020
-prova:
-gabarito:
-
-fmf 2019
-prova:
-gabarito:
-
-fmf 2018
-prova:
-gabarito:
-
-fmf 2017
-prova:
-gabarito:
-
-fmf 2016
-prova:
-gabarito:
-
-fmf 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
-UNICAP
-unicap 2025
+UNICAP 
+unicap 2026
 prova:
 gabarito:
+
+unicap 2025
+prova: https://portal.unicap.br/documents/d/unicap/demais-cursos-2025-2-pdf
+gabarito: https://portal.unicap.br/documents/d/unicap/gabarito-definitivo-demais-cursos-2025-2
 
 unicap 2024
-prova:
-gabarito:
+prova: https://portal.unicap.br/documents/d/unicap/demais-cursos-vest-2024-2-pdf
+gabarito: https://portal.unicap.br/documents/d/unicap/demais-cursos-vest-2024-2-gabarito-oficial-29-05-24-pdf-1
 
 unicap 2023
-prova:
-gabarito:
+prova: https://portal.unicap.br/documents/475032/2881359/DEMAIS+CURSOS.pdf/0ef0ffd9-9597-47c0-1df4-cdfd6f90ae7a?t=1670864688840
+gabarito: https://portal.unicap.br/documents/475032/2881359/VEST+UNICAP+-+CURSOS+%28EXCETO+MEDICINA%29+2023+-+GABARITO+DEFINITIVO+-11.12.22.pdf/d0d5faec-366f-cf3b-5c15-3ef3d7d4a9f6?t=1671110270030
 
 unicap 2022
-prova:
-gabarito:
-
-unicap 2021
-prova:
-gabarito:
-
-unicap 2020
-prova:
-gabarito:
-
-unicap 2019
-prova:
-gabarito:
-
-unicap 2018
-prova:
-gabarito:
-
-unicap 2017
-prova:
-gabarito:
-
-unicap 2016
-prova:
-gabarito:
-
-unicap 2015
-prova:
-gabarito:
+prova: https://portal.unicap.br/documents/475032/868223/Caderno+de+prova+DEMAIS+CURSOS+09-07-22+atualizado+em+30-06+SEM+GABARITO.pdf/0fa09c33-88c1-ac22-23bb-ab229aa37c04?t=1657538387919
+gabarito: https://portal.unicap.br/documents/475032/868223/VESTIBULAR+2022.2+Gabarito+09-07-22.pdf/fcd11654-d4c1-0bd4-46d2-09684097df33?t=1657565335760
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-EBMSP
+EBMSP (Não Encontrado)
+ebmsp 2026
+prova:
+gabarito:
+
 ebmsp 2025
 prova:
 gabarito:
@@ -1049,40 +1231,39 @@ ebmsp 2022
 prova:
 gabarito:
 
-ebmsp 2021
+------------------------------------------------------------------------------------------------------------------------------------
+
+SÃO LUCAS (Não Encontrado)
+sao-lucas 2026
 prova:
 gabarito:
 
-ebmsp 2020
+sao-lucas 2025
 prova:
 gabarito:
 
-ebmsp 2019
+sao-lucas 2024
 prova:
 gabarito:
 
-ebmsp 2018
+sao-lucas 2023
 prova:
 gabarito:
 
-ebmsp 2017
-prova:
-gabarito:
-
-ebmsp 2016
-prova:
-gabarito:
-
-ebmsp 2015
+sao-lucas 2022
 prova:
 gabarito:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNINASSAU
+uninassau 2026 (Gabarito no final do documento)
+prova: https://vestibularmedicina.uninassau.edu.br/pdf/PROVA%20X%20GABARITO_MEDICINA_UNINASSAU%20RECIFE%202026.1.pdf
+gabarito: https://vestibularmedicina.uninassau.edu.br/pdf/PROVA%20X%20GABARITO_MEDICINA_UNINASSAU%20RECIFE%202026.1.pdf
+
 uninassau 2025
-prova:
-gabarito:
+prova: https://vestibularmedicina.uninassau.edu.br/pdf/PROVA_UNINASSAU%20VILHENA%202025.2_GABARITO.pdf
+gabarito: https://vestibularmedicina.uninassau.edu.br/pdf/PROVA_UNINASSAU%20VILHENA%202025.2_GABARITO.pdf
 
 uninassau 2024
 prova:
@@ -1096,84 +1277,36 @@ uninassau 2022
 prova:
 gabarito:
 
-uninassau 2021
-prova:
-gabarito:
-
-uninassau 2020
-prova:
-gabarito:
-
-uninassau 2019
-prova:
-gabarito:
-
-uninassau 2018
-prova:
-gabarito:
-
-uninassau 2017
-prova:
-gabarito:
-
-uninassau 2016
-prova:
-gabarito:
-
-uninassau 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNIFOR
+unifor 2026
+prova: https://unifor.br/documents/d/graduacao/vtb2026_1-demais-cursos
+gabarito: https://unifor.br/documents/d/graduacao/gabarito_demais_cursos_26_1
+
 unifor 2025
-prova:
-gabarito:
+prova: https://unifor.br/documents/d/graduacao/vtb2025_2_demais_cursos
+gabarito: https://unifor.br/documents/d/graduacao/gabarito_demais_cursos_25_2
 
 unifor 2024
-prova:
-gabarito:
+prova: https://www.unifor.br/documents/392160/710181/VTB-2024_1-Demais-cursos.pdf
+gabarito: https://www.unifor.br/documents/392160/710181/GABARITO_DEMAIS-CURSOS_24_1.pdf
 
 unifor 2023
 prova:
 gabarito:
 
 unifor 2022
-prova:
-gabarito:
-
-unifor 2021
-prova:
-gabarito:
-
-unifor 2020
-prova:
-gabarito:
-
-unifor 2019
-prova:
-gabarito:
-
-unifor 2018
-prova:
-gabarito:
-
-unifor 2017
-prova:
-gabarito:
-
-unifor 2016
-prova:
-gabarito:
-
-unifor 2015
-prova:
-gabarito:
+prova: https://www.unifor.br/documents/392160/407703/VTB2022_1+Medicina.pdf/92489d9e-f161-545a-0a95-91a407740b82?t=1635799526800
+gabarito: https://www.unifor.br/documents/392160/407703/GABARITO_MEDICINA_2022_1_VF.pdf/5a29013f-50e8-fc65-61d6-e203b0213e9f?t=1636139323275
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 PUC-GO
+pucgo 2026
+prova:
+gabarito:
+
 pucgo 2025
 prova:
 gabarito:
@@ -1190,37 +1323,13 @@ pucgo 2022
 prova:
 gabarito:
 
-pucgo 2021
-prova:
-gabarito:
-
-pucgo 2020
-prova:
-gabarito:
-
-pucgo 2019
-prova:
-gabarito:
-
-pucgo 2018
-prova:
-gabarito:
-
-pucgo 2017
-prova:
-gabarito:
-
-pucgo 2016
-prova:
-gabarito:
-
-pucgo 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
-UNIVERSO
+UNIVERSO Gioânia
+universo 2026
+prova:
+gabarito:
+
 universo 2025
 prova:
 gabarito:
@@ -1237,37 +1346,13 @@ universo 2022
 prova:
 gabarito:
 
-universo 2021
-prova:
-gabarito:
-
-universo 2020
-prova:
-gabarito:
-
-universo 2019
-prova:
-gabarito:
-
-universo 2018
-prova:
-gabarito:
-
-universo 2017
-prova:
-gabarito:
-
-universo 2016
-prova:
-gabarito:
-
-universo 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNIT-AL
+unital 2026
+prova:
+gabarito:
+
 unital 2025
 prova:
 gabarito:
@@ -1284,37 +1369,36 @@ unital 2022
 prova:
 gabarito:
 
-unital 2021
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNIT-SE
+unitse 2026
 prova:
 gabarito:
 
-unital 2020
+unitse 2025
 prova:
 gabarito:
 
-unital 2019
+unitse 2024
 prova:
 gabarito:
 
-unital 2018
+unitse 2023
 prova:
 gabarito:
 
-unital 2017
-prova:
-gabarito:
-
-unital 2016
-prova:
-gabarito:
-
-unital 2015
+unitse 2022
 prova:
 gabarito:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 FAL
+fal 2026
+prova:
+gabarito:
+
 fal 2025
 prova:
 gabarito:
@@ -1331,37 +1415,13 @@ fal 2022
 prova:
 gabarito:
 
-fal 2021
-prova:
-gabarito:
-
-fal 2020
-prova:
-gabarito:
-
-fal 2019
-prova:
-gabarito:
-
-fal 2018
-prova:
-gabarito:
-
-fal 2017
-prova:
-gabarito:
-
-fal 2016
-prova:
-gabarito:
-
-fal 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNIT
+unit 2026
+prova:
+gabarito:
+
 unit 2025
 prova:
 gabarito:
@@ -1378,37 +1438,13 @@ unit 2022
 prova:
 gabarito:
 
-unit 2021
-prova:
-gabarito:
-
-unit 2020
-prova:
-gabarito:
-
-unit 2019
-prova:
-gabarito:
-
-unit 2018
-prova:
-gabarito:
-
-unit 2017
-prova:
-gabarito:
-
-unit 2016
-prova:
-gabarito:
-
-unit 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNIPIO
+unipio 2026
+prova:
+gabarito:
+
 unipio 2025
 prova:
 gabarito:
@@ -1425,37 +1461,36 @@ unipio 2022
 prova:
 gabarito:
 
-unipio 2021
+------------------------------------------------------------------------------------------------------------------------------------
+
+PIO DÉCIMO
+piodecimo 2026
 prova:
 gabarito:
 
-unipio 2020
+piodecimo 2025
 prova:
 gabarito:
 
-unipio 2019
+piodecimo 2024
 prova:
 gabarito:
 
-unipio 2018
+piodecimo 2023
 prova:
 gabarito:
 
-unipio 2017
-prova:
-gabarito:
-
-unipio 2016
-prova:
-gabarito:
-
-unipio 2015
+piodecimo 2022
 prova:
 gabarito:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 FDV
+fdv 2026
+prova:
+gabarito:
+
 fdv 2025
 prova:
 gabarito:
@@ -1472,37 +1507,13 @@ fdv 2022
 prova:
 gabarito:
 
-fdv 2021
-prova:
-gabarito:
-
-fdv 2020
-prova:
-gabarito:
-
-fdv 2019
-prova:
-gabarito:
-
-fdv 2018
-prova:
-gabarito:
-
-fdv 2017
-prova:
-gabarito:
-
-fdv 2016
-prova:
-gabarito:
-
-fdv 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UVV
+uvv 2026
+prova:
+gabarito:
+
 uvv 2025
 prova:
 gabarito:
@@ -1519,37 +1530,13 @@ uvv 2022
 prova:
 gabarito:
 
-uvv 2021
-prova:
-gabarito:
-
-uvv 2020
-prova:
-gabarito:
-
-uvv 2019
-prova:
-gabarito:
-
-uvv 2018
-prova:
-gabarito:
-
-uvv 2017
-prova:
-gabarito:
-
-uvv 2016
-prova:
-gabarito:
-
-uvv 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 FAAO
+faao 2026
+prova:
+gabarito:
+
 faao 2025
 prova:
 gabarito:
@@ -1566,37 +1553,13 @@ faao 2022
 prova:
 gabarito:
 
-faao 2021
-prova:
-gabarito:
-
-faao 2020
-prova:
-gabarito:
-
-faao 2019
-prova:
-gabarito:
-
-faao 2018
-prova:
-gabarito:
-
-faao 2017
-prova:
-gabarito:
-
-faao 2016
-prova:
-gabarito:
-
-faao 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 FAMETA
+fameta 2026
+prova:
+gabarito:
+
 fameta 2025
 prova:
 gabarito:
@@ -1613,37 +1576,13 @@ fameta 2022
 prova:
 gabarito:
 
-fameta 2021
-prova:
-gabarito:
-
-fameta 2020
-prova:
-gabarito:
-
-fameta 2019
-prova:
-gabarito:
-
-fameta 2018
-prova:
-gabarito:
-
-fameta 2017
-prova:
-gabarito:
-
-fameta 2016
-prova:
-gabarito:
-
-fameta 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNINORTE-AC
+uninorte-ac 2026
+prova:
+gabarito:
+
 uninorte-ac 2025
 prova:
 gabarito:
@@ -1660,37 +1599,13 @@ uninorte-ac 2022
 prova:
 gabarito:
 
-uninorte-ac 2021
-prova:
-gabarito:
-
-uninorte-ac 2020
-prova:
-gabarito:
-
-uninorte-ac 2019
-prova:
-gabarito:
-
-uninorte-ac 2018
-prova:
-gabarito:
-
-uninorte-ac 2017
-prova:
-gabarito:
-
-uninorte-ac 2016
-prova:
-gabarito:
-
-uninorte-ac 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 FIMCA
+fimca 2026
+prova:
+gabarito:
+
 fimca 2025
 prova:
 gabarito:
@@ -1707,37 +1622,13 @@ fimca 2022
 prova:
 gabarito:
 
-fimca 2021
-prova:
-gabarito:
-
-fimca 2020
-prova:
-gabarito:
-
-fimca 2019
-prova:
-gabarito:
-
-fimca 2018
-prova:
-gabarito:
-
-fimca 2017
-prova:
-gabarito:
-
-fimca 2016
-prova:
-gabarito:
-
-fimca 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNIRON
+uniron 2026
+prova:
+gabarito:
+
 uniron 2025
 prova:
 gabarito:
@@ -1754,37 +1645,36 @@ uniron 2022
 prova:
 gabarito:
 
-uniron 2021
+------------------------------------------------------------------------------------------------------------------------------------
+
+CEULP ULBRA
+ceulp-ulbra 2026
 prova:
 gabarito:
 
-uniron 2020
+ceulp-ulbra 2025
 prova:
 gabarito:
 
-uniron 2019
+ceulp-ulbra 2024
 prova:
 gabarito:
 
-uniron 2018
+ceulp-ulbra 2023
 prova:
 gabarito:
 
-uniron 2017
-prova:
-gabarito:
-
-uniron 2016
-prova:
-gabarito:
-
-uniron 2015
+ceulp-ulbra 2022
 prova:
 gabarito:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNICEUMA
+uniceuma 2026
+prova:
+gabarito:
+
 uniceuma 2025
 prova:
 gabarito:
@@ -1801,37 +1691,13 @@ uniceuma 2022
 prova:
 gabarito:
 
-uniceuma 2021
-prova:
-gabarito:
-
-uniceuma 2020
-prova:
-gabarito:
-
-uniceuma 2019
-prova:
-gabarito:
-
-uniceuma 2018
-prova:
-gabarito:
-
-uniceuma 2017
-prova:
-gabarito:
-
-uniceuma 2016
-prova:
-gabarito:
-
-uniceuma 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNIFSA
+unifsa 2026
+prova:
+gabarito:
+
 unifsa 2025
 prova:
 gabarito:
@@ -1848,37 +1714,13 @@ unifsa 2022
 prova:
 gabarito:
 
-unifsa 2021
-prova:
-gabarito:
-
-unifsa 2020
-prova:
-gabarito:
-
-unifsa 2019
-prova:
-gabarito:
-
-unifsa 2018
-prova:
-gabarito:
-
-unifsa 2017
-prova:
-gabarito:
-
-unifsa 2016
-prova:
-gabarito:
-
-unifsa 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNINOVAFAPI
+uninovafapi 2026
+prova:
+gabarito:
+
 uninovafapi 2025
 prova:
 gabarito:
@@ -1895,37 +1737,13 @@ uninovafapi 2022
 prova:
 gabarito:
 
-uninovafapi 2021
-prova:
-gabarito:
-
-uninovafapi 2020
-prova:
-gabarito:
-
-uninovafapi 2019
-prova:
-gabarito:
-
-uninovafapi 2018
-prova:
-gabarito:
-
-uninovafapi 2017
-prova:
-gabarito:
-
-uninovafapi 2016
-prova:
-gabarito:
-
-uninovafapi 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNICEUB
+uniceub 2026
+prova:
+gabarito:
+
 uniceub 2025
 prova:
 gabarito:
@@ -1942,37 +1760,13 @@ uniceub 2022
 prova:
 gabarito:
 
-uniceub 2021
-prova:
-gabarito:
-
-uniceub 2020
-prova:
-gabarito:
-
-uniceub 2019
-prova:
-gabarito:
-
-uniceub 2018
-prova:
-gabarito:
-
-uniceub 2017
-prova:
-gabarito:
-
-uniceub 2016
-prova:
-gabarito:
-
-uniceub 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 ESCS
+escs 2026
+prova:
+gabarito:
+
 escs 2025
 prova:
 gabarito:
@@ -1989,37 +1783,13 @@ escs 2022
 prova:
 gabarito:
 
-escs 2021
-prova:
-gabarito:
-
-escs 2020
-prova:
-gabarito:
-
-escs 2019
-prova:
-gabarito:
-
-escs 2018
-prova:
-gabarito:
-
-escs 2017
-prova:
-gabarito:
-
-escs 2016
-prova:
-gabarito:
-
-escs 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 IESB
+iesb 2026
+prova:
+gabarito:
+
 iesb 2025
 prova:
 gabarito:
@@ -2036,37 +1806,13 @@ iesb 2022
 prova:
 gabarito:
 
-iesb 2021
-prova:
-gabarito:
-
-iesb 2020
-prova:
-gabarito:
-
-iesb 2019
-prova:
-gabarito:
-
-iesb 2018
-prova:
-gabarito:
-
-iesb 2017
-prova:
-gabarito:
-
-iesb 2016
-prova:
-gabarito:
-
-iesb 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNP
+unp 2026
+prova:
+gabarito:
+
 unp 2025
 prova:
 gabarito:
@@ -2083,37 +1829,13 @@ unp 2022
 prova:
 gabarito:
 
-unp 2021
-prova:
-gabarito:
-
-unp 2020
-prova:
-gabarito:
-
-unp 2019
-prova:
-gabarito:
-
-unp 2018
-prova:
-gabarito:
-
-unp 2017
-prova:
-gabarito:
-
-unp 2016
-prova:
-gabarito:
-
-unp 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 ULBRA
+ulbra 2026
+prova:
+gabarito:
+
 ulbra 2025
 prova:
 gabarito:
@@ -2130,37 +1852,36 @@ ulbra 2022
 prova:
 gabarito:
 
-ulbra 2021
+------------------------------------------------------------------------------------------------------------------------------------
+
+CATHEDRAL
+cathedral 2026
 prova:
 gabarito:
 
-ulbra 2020
+cathedral 2025
 prova:
 gabarito:
 
-ulbra 2019
+cathedral 2024
 prova:
 gabarito:
 
-ulbra 2018
+cathedral 2023
 prova:
 gabarito:
 
-ulbra 2017
-prova:
-gabarito:
-
-ulbra 2016
-prova:
-gabarito:
-
-ulbra 2015
+cathedral 2022
 prova:
 gabarito:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNICATÓLICA
+unicatólica 2026
+prova:
+gabarito:
+
 unicatólica 2025
 prova:
 gabarito:
@@ -2177,37 +1898,13 @@ unicatólica 2022
 prova:
 gabarito:
 
-unicatólica 2021
-prova:
-gabarito:
-
-unicatólica 2020
-prova:
-gabarito:
-
-unicatólica 2019
-prova:
-gabarito:
-
-unicatólica 2018
-prova:
-gabarito:
-
-unicatólica 2017
-prova:
-gabarito:
-
-unicatólica 2016
-prova:
-gabarito:
-
-unicatólica 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 FAMA
+fama 2026
+prova:
+gabarito:
+
 fama 2025
 prova:
 gabarito:
@@ -2224,37 +1921,13 @@ fama 2022
 prova:
 gabarito:
 
-fama 2021
-prova:
-gabarito:
-
-fama 2020
-prova:
-gabarito:
-
-fama 2019
-prova:
-gabarito:
-
-fama 2018
-prova:
-gabarito:
-
-fama 2017
-prova:
-gabarito:
-
-fama 2016
-prova:
-gabarito:
-
-fama 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 FARES
+fares 2026
+prova:
+gabarito:
+
 fares 2025
 prova:
 gabarito:
@@ -2271,37 +1944,13 @@ fares 2022
 prova:
 gabarito:
 
-fares 2021
-prova:
-gabarito:
-
-fares 2020
-prova:
-gabarito:
-
-fares 2019
-prova:
-gabarito:
-
-fares 2018
-prova:
-gabarito:
-
-fares 2017
-prova:
-gabarito:
-
-fares 2016
-prova:
-gabarito:
-
-fares 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 PUC-RIO
+pucrio 2026
+prova:
+gabarito:
+
 pucrio 2025
 prova:
 gabarito:
@@ -2318,272 +1967,36 @@ pucrio 2022
 prova:
 gabarito:
 
-pucrio 2021
-prova:
-gabarito:
-
-pucrio 2020
-prova:
-gabarito:
-
-pucrio 2019
-prova:
-gabarito:
-
-pucrio 2018
-prova:
-gabarito:
-
-pucrio 2017
-prova:
-gabarito:
-
-pucrio 2016
-prova:
-gabarito:
-
-pucrio 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
-UCP
-ucp 2025
+IBMEC
+ibmec 2026
 prova:
 gabarito:
 
-ucp 2024
+ibmec 2025
 prova:
 gabarito:
 
-ucp 2023
+ibmec 2024
 prova:
 gabarito:
 
-ucp 2022
+ibmec 2023
 prova:
 gabarito:
 
-ucp 2021
-prova:
-gabarito:
-
-ucp 2020
-prova:
-gabarito:
-
-ucp 2019
-prova:
-gabarito:
-
-ucp 2018
-prova:
-gabarito:
-
-ucp 2017
-prova:
-gabarito:
-
-ucp 2016
-prova:
-gabarito:
-
-ucp 2015
-prova:
-gabarito:
-
-------------------------------------------------------------------------------------------------------------------------------------
-
-UCB
-ucb 2025
-prova:
-gabarito:
-
-ucb 2024
-prova:
-gabarito:
-
-ucb 2023
-prova:
-gabarito:
-
-ucb 2022
-prova:
-gabarito:
-
-ucb 2021
-prova:
-gabarito:
-
-ucb 2020
-prova:
-gabarito:
-
-ucb 2019
-prova:
-gabarito:
-
-ucb 2018
-prova:
-gabarito:
-
-ucb 2017
-prova:
-gabarito:
-
-ucb 2016
-prova:
-gabarito:
-
-ucb 2015
-prova:
-gabarito:
-
-------------------------------------------------------------------------------------------------------------------------------------
-
-UNICARIOCA
-unicarioca 2025
-prova:
-gabarito:
-
-unicarioca 2024
-prova:
-gabarito:
-
-unicarioca 2023
-prova:
-gabarito:
-
-unicarioca 2022
-prova:
-gabarito:
-
-unicarioca 2021
-prova:
-gabarito:
-
-unicarioca 2020
-prova:
-gabarito:
-
-unicarioca 2019
-prova:
-gabarito:
-
-unicarioca 2018
-prova:
-gabarito:
-
-unicarioca 2017
-prova:
-gabarito:
-
-unicarioca 2016
-prova:
-gabarito:
-
-unicarioca 2015
-prova:
-gabarito:
-
-------------------------------------------------------------------------------------------------------------------------------------
-
-FACHA
-facha 2025
-prova:
-gabarito:
-
-facha 2024
-prova:
-gabarito:
-
-facha 2023
-prova:
-gabarito:
-
-facha 2022
-prova:
-gabarito:
-
-facha 2021
-prova:
-gabarito:
-
-facha 2020
-prova:
-gabarito:
-
-facha 2019
-prova:
-gabarito:
-
-facha 2018
-prova:
-gabarito:
-
-facha 2017
-prova:
-gabarito:
-
-facha 2016
-prova:
-gabarito:
-
-facha 2015
-prova:
-gabarito:
-
-------------------------------------------------------------------------------------------------------------------------------------
-
-IBMR
-ibmr 2025
-prova:
-gabarito:
-
-ibmr 2024
-prova:
-gabarito:
-
-ibmr 2023
-prova:
-gabarito:
-
-ibmr 2022
-prova:
-gabarito:
-
-ibmr 2021
-prova:
-gabarito:
-
-ibmr 2020
-prova:
-gabarito:
-
-ibmr 2019
-prova:
-gabarito:
-
-ibmr 2018
-prova:
-gabarito:
-
-ibmr 2017
-prova:
-gabarito:
-
-ibmr 2016
-prova:
-gabarito:
-
-ibmr 2015
+ibmec 2022
 prova:
 gabarito:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UVA
+uva 2026
+prova:
+gabarito:
+
 uva 2025
 prova:
 gabarito:
@@ -2600,37 +2013,151 @@ uva 2022
 prova:
 gabarito:
 
-uva 2021
+------------------------------------------------------------------------------------------------------------------------------------
+
+UCP
+ucp 2026
 prova:
 gabarito:
 
-uva 2020
+ucp 2025
 prova:
 gabarito:
 
-uva 2019
+ucp 2024
 prova:
 gabarito:
 
-uva 2018
+ucp 2023
 prova:
 gabarito:
 
-uva 2017
+ucp 2022
 prova:
 gabarito:
 
-uva 2016
+------------------------------------------------------------------------------------------------------------------------------------
+
+UCB
+ucb 2026
 prova:
 gabarito:
 
-uva 2015
+ucb 2025
+prova:
+gabarito:
+
+ucb 2024
+prova:
+gabarito:
+
+ucb 2023
+prova:
+gabarito:
+
+ucb 2022
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNICARIOCA
+unicarioca 2026
+prova:
+gabarito:
+
+unicarioca 2025
+prova:
+gabarito:
+
+unicarioca 2024
+prova:
+gabarito:
+
+unicarioca 2023
+prova:
+gabarito:
+
+unicarioca 2022
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+FACHA
+facha 2026
+prova:
+gabarito:
+
+facha 2025
+prova:
+gabarito:
+
+facha 2024
+prova:
+gabarito:
+
+facha 2023
+prova:
+gabarito:
+
+facha 2022
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+IBMR
+ibmr 2026
+prova:
+gabarito:
+
+ibmr 2025
+prova:
+gabarito:
+
+ibmr 2024
+prova:
+gabarito:
+
+ibmr 2023
+prova:
+gabarito:
+
+ibmr 2022
+prova:
+gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNISINOS
+unisinos 2026
+prova:
+gabarito:
+
+unisinos 2025
+prova:
+gabarito:
+
+unisinos 2024
+prova:
+gabarito:
+
+unisinos 2023
+prova:
+gabarito:
+
+unisinos 2022
 prova:
 gabarito:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNISUAM
+unisuam 2026
+prova:
+gabarito:
+
 unisuam 2025
 prova:
 gabarito:
@@ -2647,37 +2174,13 @@ unisuam 2022
 prova:
 gabarito:
 
-unisuam 2021
-prova:
-gabarito:
-
-unisuam 2020
-prova:
-gabarito:
-
-unisuam 2019
-prova:
-gabarito:
-
-unisuam 2018
-prova:
-gabarito:
-
-unisuam 2017
-prova:
-gabarito:
-
-unisuam 2016
-prova:
-gabarito:
-
-unisuam 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UCL
+ucl 2026
+prova:
+gabarito:
+
 ucl 2025
 prova:
 gabarito:
@@ -2694,37 +2197,13 @@ ucl 2022
 prova:
 gabarito:
 
-ucl 2021
-prova:
-gabarito:
-
-ucl 2020
-prova:
-gabarito:
-
-ucl 2019
-prova:
-gabarito:
-
-ucl 2018
-prova:
-gabarito:
-
-ucl 2017
-prova:
-gabarito:
-
-ucl 2016
-prova:
-gabarito:
-
-ucl 2015
-prova:
-gabarito:
-
 ------------------------------------------------------------------------------------------------------------------------------------
 
 FAFIMA
+fafima 2026
+prova:
+gabarito:
+
 fafima 2025
 prova:
 gabarito:
@@ -2741,37 +2220,36 @@ fafima 2022
 prova:
 gabarito:
 
-fafima 2021
+------------------------------------------------------------------------------------------------------------------------------------
+
+NILTON LINS
+nilton-lins 2026
 prova:
 gabarito:
 
-fafima 2020
+nilton-lins 2025
 prova:
 gabarito:
 
-fafima 2019
+nilton-lins 2024
 prova:
 gabarito:
 
-fafima 2018
+nilton-lins 2023
 prova:
 gabarito:
 
-fafima 2017
-prova:
-gabarito:
-
-fafima 2016
-prova:
-gabarito:
-
-fafima 2015
+nilton-lins 2022
 prova:
 gabarito:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNILASALLE
+unilasalle 2026
+prova:
+gabarito:
+
 unilasalle 2025
 prova:
 gabarito:
@@ -2788,30 +2266,48 @@ unilasalle 2022
 prova:
 gabarito:
 
-unilasalle 2021
+------------------------------------------------------------------------------------------------------------------------------------
+
+UBEC
+ubec 2026
 prova:
 gabarito:
 
-unilasalle 2020
+ubec 2025
 prova:
 gabarito:
 
-unilasalle 2019
+ubec 2024
 prova:
 gabarito:
 
-unilasalle 2018
+ubec 2023
 prova:
 gabarito:
 
-unilasalle 2017
+ubec 2022
 prova:
 gabarito:
 
-unilasalle 2016
+------------------------------------------------------------------------------------------------------------------------------------
+
+FRES
+fres 2026
 prova:
 gabarito:
 
-unilasalle 2015
+fres 2025
+prova:
+gabarito:
+
+fres 2024
+prova:
+gabarito:
+
+fres 2023
+prova:
+gabarito:
+
+fres 2022
 prova:
 gabarito:

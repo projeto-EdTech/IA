@@ -5,6 +5,8 @@ import { GoogleGenAI } from "@google/genai";
 
 const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 
+const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+
 async function uploadRemotePDF(url, displayName) {
   const pdfBuffer = await fetch(url).then((response) => response.arrayBuffer());
 
@@ -117,7 +119,7 @@ Sua tarefa é ler e interpretar cada questão da prova e extrair as seguintes in
     * Use $ ... $ (com os comandos internos devidamente escapados, ex: $\\theta$) para fórmulas que aparecem no meio de uma linha de texto (inline).
     * Use $$...$$ (com os comandos internos devidamente escapados, ex: $$\\frac{a}{b}$$) para fórmulas que devem ocupar sua própria linha e ser centralizadas (display/bloco).
 
-3.  **Ignorar Outros Elementos Visuais**: Imagens (fotos, desenhos), gráficos (de barras, de pizza, etc.) e tabelas genéricas que **não sejam** as alternativas da questão devem ser **completamente ignorados**. Não gere nenhuma descrição, menção ou placeholder (como `[imagem]` ou `[gráfico]`). Prossiga a análise como se esses elementos não existissem.
+3.  **Ignorar Outros Elementos Visuais**: Imagens (fotos, desenhos), gráficos (de barras, de pizza, etc.) e tabelas genéricas que **não sejam** as alternativas da questão devem ser **completamente ignorados**. Não gere nenhuma descrição, menção ou placeholder (como [imagem] ou [gráfico]). Prossiga a análise como se esses elementos não existissem.
 
 4.  **Alternativas em Formato de Tabela**: Se as alternativas de uma questão (A, B, C, D, E) forem apresentadas dentro de uma estrutura de tabela, o campo 'alternativas' para essa questão específica deve ser retornado como null. O resto dos dados da questão deve ser extraído normalmente.
 
@@ -130,11 +132,11 @@ Especificamente, garanta que:
 - Os campos iniciais do JSON devem ser 'nomeUniversidade', 'siglaUniversidade', 'nomeProva', 'ano' e 'qtdeQuestoes'.
 - O array de questões seja 'questoes'.
 - Cada objeto dentro do array 'questoes' tenha os campos:
-  - 'numeroEnunciado' (NÃO 'numeroQuestao').
-  - 'enunciado'.
-  - 'alternativas' seja um ARRAY de objetos (NÃO um objeto simples), onde cada objeto tem 'letra' e 'texto'.
-  - 'opcaoCorreta'.
-  - 'conteudo' (NÃO 'conteudoAbordado') seja um ARRAY de strings (NÃO uma string simples).
+- 'numeroEnunciado' (NÃO 'numeroQuestao').
+- 'enunciado'.
+- 'alternativas' seja um ARRAY de objetos (NÃO um objeto simples), onde cada objeto tem 'letra' e 'texto'.
+- 'opcaoCorreta'.
+- 'conteudo' (NÃO 'conteudoAbordado') seja um ARRAY de strings (NÃO uma string simples).
 
 Não crie ou modifique nenhum nome de campo. Respeite os tipos de dados e a estrutura de array/objeto conforme o JSON Schema da ferramenta.
 
@@ -143,11 +145,11 @@ Não crie ou modifique nenhum nome de campo. Respeite os tipos de dados e a estr
   console.log("Iniciando upload e processamento dos arquivos...");
 
     console.time("Processando Arquivo da Prova");
-    let file1 = await uploadRemotePDF("https://www.curso-objetivo.br/vestibular/resolucao-comentada/fuvest/2025_1fase/fuvest2025_1fase_prova_V1.pdf", "PDF Da Prova");
+    let file1 = await uploadRemotePDF("https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2025/1fase/UNESP2025_1fase_prova.pdf", "PDF Da Prova");
     console.timeEnd("Processando Arquivo da Prova"); // Termina o cronômetro do upload da prova
 
     console.time("Processando Arquivo do Gabarito");
-    let file2 = await uploadRemotePDF("https://www.fuvest.br/wp-content/uploads/fuvest2025_gabarito_primeira_fase.pdf", "PDF Do Gabarito");
+    let file2 = await uploadRemotePDF("https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2025/1fase/UNESP2025_1fase_gabarito.pdf", "PDF Do Gabarito");
     console.timeEnd("Processando Arquivo do Gabarito"); // Termina o cronômetro do upload do Gabarito
 
     console.log("Uploads e processamento dos PDF's concluídos.");
@@ -160,45 +162,109 @@ Não crie ou modifique nenhum nome de campo. Respeite os tipos de dados e a estr
       ]}
     ];
 
-    console.log("Enviando requisição para a IA...");
-    console.time("Processamento de Conteúdo Gemini");
-    const response = await ai.models.generateContent({
-        model: 'gemini-2.5-flash',
-        contents: contents,
-        generationConfig: {
-            temperature: 0.2,
-            maxOutputTokens: 8192,
-        },
-        tools: [{
-            functionDeclarations: [{
-                name: "extrair_dados_prova",
-                description: "Extrai os dados estruturados de uma prova e seu gabarito.",
-                parameters: jsonSchema,
-            }, ],
-        }, ],
+    let response;
+    const maxRetries = 2;
+    let attempt = 0;
+    let delay = 5000;
+    while (attempt < maxRetries) {
+      console.log(
+        `Enviando requisição para a IA... (Tentativa ${attempt + 1} de ${maxRetries})`
+      );
+      console.time("Processamento de Conteúdo Gemini");
 
-        safetySettings: [
-        {
-            category: 'HARM_CATEGORY_HARASSMENT',
-            threshold: 'BLOCK_NONE',
-        },
-        {
-            category: 'HARM_CATEGORY_HATE_SPEECH',
-            threshold: 'BLOCK_NONE',
-        },
-        {
-            category: 'HARM_CATEGORY_SEXUALLY_EXPLICIT',
-            threshold: 'BLOCK_NONE',
-        },
-        {
-            category: 'HARM_CATEGORY_DANGEROUS_CONTENT',
-            threshold: 'BLOCK_NONE',
-        },
-    ],
-    });
-    console.timeEnd("Processamento de Conteúdo Gemini");
+      try {
+        response = await ai.models.generateContent({
+          model: "gemini-2.5-pro",
+          contents: contents,
+          generationConfig: {
+            temperature: 0.2,
+            maxOutputTokens: 12000,
+          },
+          tools: [
+            {
+              functionDeclarations: [
+                {
+                  name: "extrair_dados_prova",
+                  description:
+                    "Extrai os dados estruturados de uma prova e seu gabarito.",
+                  parameters: jsonSchema,
+                },
+              ],
+            },
+          ],
+          safetySettings: [
+            {
+              category: 'HARM_CATEGORY_HARASSMENT',
+              threshold: 'BLOCK_NONE',
+            },
+            {
+              category: 'HARM_CATEGORY_HATE_SPEECH',
+              threshold: 'BLOCK_NONE',
+            },
+            {
+              category: 'HARM_CATEGORY_SEXUALLY_EXPLICIT',
+              threshold: 'BLOCK_NONE',
+            },
+            {
+              category: 'HARM_CATEGORY_DANGEROUS_CONTENT',
+              threshold: 'BLOCK_NONE',
+            },
+          ],
+        });
+        
+        console.timeEnd("Processamento de Conteúdo Gemini");
+        console.log("Sucesso! Resposta recebida."); // <-- NOVO
+        break;
+
+      } catch (error) {
+        console.timeEnd("Processamento de Conteúdo Gemini");
+        if (error.status === 503 && attempt < maxRetries - 1) {
+          console.warn(
+            `Erro 503: Modelo sobrecarregado. Tentando novamente em ${
+              delay / 1000
+            }s...`
+          );
+          await sleep(delay);
+          delay *= 2;
+          attempt++;
+        } else {
+          // Se for outro erro (400, 401...) ou se acabaram as tentativas
+          console.error(
+            "Erro fatal da API ou limite de tentativas excedido:",
+            error
+          );
+          throw error; // Lança o erro e para o script
+        }
+      }
+    }
+
+    if (!response) {
+      console.error(
+        `Não foi possível obter resposta da API após ${maxRetries} tentativas.`
+      );
+      return; // Encerra a função 'main'
+    }
+
     console.log("Resposta recebida. Processando JSON...");
-    const responseContentParts = response.candidates[0].content.parts; // Renomeado de 'responseText' para 'responseContentParts'
+    // 1. Acessar 'candidates' diretamente de 'response', pois 'response.response' é undefined.
+    const candidates = response.candidates;
+
+    // 2. Verificar se 'candidates' existe e não está vazio (previne o Erro 1)
+    if (!candidates || candidates.length === 0) {
+        console.error("Erro: A resposta da IA não contém 'candidates' ou a lista está vazia.");
+        console.log("Objeto 'response' completo recebido:", JSON.stringify(response, null, 2));
+        return; // Encerra a função main
+    }
+
+    // 3. Verificar se 'content' e 'parts' existem
+    if (!candidates[0].content || !candidates[0].content.parts) {
+        console.error("Erro: O 'candidate' recebido não contém 'content' ou 'parts'.");
+        console.log("Objeto 'response' completo recebido:", JSON.stringify(response, null, 2));
+        return; // Encerra a função main
+    }
+
+    // 4. Somente agora é seguro definir a variável
+    const responseContentParts = candidates[0].content.parts;
 
     let jsonData;
 
@@ -238,7 +304,7 @@ Não crie ou modifique nenhum nome de campo. Respeite os tipos de dados e a estr
             ---
 
             Resposta Bruta Recebida (que causou o erro):
-            ${JSON.stringify(response.candidates[0].content.parts, null, 2)}
+            ${JSON.stringify(responseContentParts, null, 2)}
             `;
 
             fs.writeFileSync(logFilePath, logContent, "utf-8");
