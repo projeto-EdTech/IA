@@ -1,0 +1,2494 @@
+{
+  "nomeUniversidade": "ESPM",
+  "siglaUniversidade": "ESPM",
+  "nomeProva": "VESTIBULAR",
+  "ano": 2025,
+  "qtdeQuestoes": 80,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Segundo o texto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o estoicismo orienta, de forma pragmáti- ca, como enfrentar um acidente ou uma doença grave, ou ainda como lidar com a perda de alguém."
+        },
+        {
+          "letra": "B",
+          "texto": "o fundador do estoicismo encontrou, nos maiores pensadores de sua época, uma identificação relacionada às próprias ad- versidades da vida."
+        },
+        {
+          "letra": "C",
+          "texto": "os estoicos são tachados, merecidamen- te, de serem indiferentes e nada emotivos, quando se trata de aspectos ameaçadores da vida."
+        },
+        {
+          "letra": "D",
+          "texto": "a resiliência e o controle das emoções, princípios básicos do estoicismo, podem ajudar no enfrentamento das intempéries do mundo moderno."
+        },
+        {
+          "letra": "E",
+          "texto": "a crítica feita aos postulados do estoicis- mo ocorre por haver inúteis tentativas de mudança no que há de ruim no mundo."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "No 4º parágrafo, lê-se:\n\"Para os estoicos, o segredo para viver bem era não se preocupar com elas.” O termo em negrito tem como referencial:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Reviravoltas\""
+        },
+        {
+          "letra": "B",
+          "texto": "\"saídas\""
+        },
+        {
+          "letra": "C",
+          "texto": "“coisas imprevisíveis’"
+        },
+        {
+          "letra": "D",
+          "texto": "\"as próprias reações”"
+        },
+        {
+          "letra": "E",
+          "texto": "\"as intempéries da vida\""
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Língua Portuguesa – Referência Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "No trecho: \"estamos falando de Zenão de Cí- tio (333-263 a.C.), o **fundador do estoicis- mo**.\", o termo em destaque possui a mesma função sintática que ocorre em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“Seu futuro, que parecia **claro e tranquilo**, desaparece.”"
+        },
+        {
+          "letra": "B",
+          "texto": "“Reviravoltas assim podem acontecer **qualquer dia**...”"
+        },
+        {
+          "letra": "C",
+          "texto": "“Reviravoltas assim podem acontecer **qualquer dia**...”"
+        },
+        {
+          "letra": "D",
+          "texto": "...ele perdeu **uma carga extremamente valiosa**..."
+        },
+        {
+          "letra": "E",
+          "texto": "E, ao mesmo tempo, tentar controlar outra coisa: **as próprias reações diante do inesperado**.”"
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe (Termos da Oração)",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "No texto estão presentes várias funções de linguagem. No entanto, a função de lingua- gem predominante é a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "emotiva, pois o autor deixa transparecer sua afetividade em relação ao tema."
+        },
+        {
+          "letra": "B",
+          "texto": "referencial, pois o autor busca discorrer objetivamente sobre um conceito."
+        },
+        {
+          "letra": "C",
+          "texto": "conativa, pois o autor se dirige várias ve- zes ao leitor/receptor do texto."
+        },
+        {
+          "letra": "D",
+          "texto": "metalinguística, pois o autor procura defi- nir um termo filosófico."
+        },
+        {
+          "letra": "E",
+          "texto": "fática, pois o autor tenta estabelecer uma comunicação eficaz com o leitor."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Língua Portuguesa – Funções da Linguagem",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "No enunciado: \"Medo da criminalidade afasta negócios e leva regiões do país à **desindus- trialização**.”, a palavra em destaque possui o prefixo “des”, com valor de negação.\nAssinale o item em que o par de prefixos grifados (latino e grego respectivamente) NÃO possua correspondência semântica:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "infravermelho - dislexia"
+        },
+        {
+          "letra": "B",
+          "texto": "infeliz - analfabeto"
+        },
+        {
+          "letra": "C",
+          "texto": "superfaturar - hipertensão"
+        },
+        {
+          "letra": "D",
+          "texto": "bicampeão - dissílabo"
+        },
+        {
+          "letra": "E",
+          "texto": "sublingual - hipotensão"
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Língua Portuguesa – Semântica (Prefixos)",
+        "Língua Portuguesa – Morfologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Uma das formas verbais empregadas revela um desvio em relação ao que estabelece a norma culta. Identifique-a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas em 10% das fraudes, a empresa reouve mais de 60% dos recursos perdi- dos."
+        },
+        {
+          "letra": "B",
+          "texto": "A OAB pedirá que o Supremo conceda li- minar para que a correção da tabela valha já para a próxima declaração."
+        },
+        {
+          "letra": "C",
+          "texto": "A forte alta da moeda fez com que o Ban- co Central interviesse no mercado ofere- cendo dólares."
+        },
+        {
+          "letra": "D",
+          "texto": "Quando o juiz rever o lance no VAR, verifi- cará a inexistência do pênalti."
+        },
+        {
+          "letra": "E",
+          "texto": "Só poderá abater os valores na declaração se satisfizer duas condições: ter a guarda judicial e ser dependente econômico."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Língua Portuguesa – Verbo (Conjugação Irregular)",
+        "Língua Portuguesa – Norma Culta"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "No enunciado: “Globo negocia retorno de sertanejos com quem **havia brigado** no passado”, o tempo composto destacado po- deria ser substituído, sem prejuízo semânti- co, por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "brigava"
+        },
+        {
+          "letra": "B",
+          "texto": "brigou"
+        },
+        {
+          "letra": "C",
+          "texto": "brigara"
+        },
+        {
+          "letra": "D",
+          "texto": "brigasse"
+        },
+        {
+          "letra": "E",
+          "texto": "brigaria"
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Língua Portuguesa – Verbo (Tempos e Modos Verbais)",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Enunciado sem contexto pode gerar am- biguidade. É o que acontece com uma das manchetes jornalísticas abaixo que permite dupla leitura. Identifique-a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Degelo na Antártida é dez vezes mais rá- pido que há 600 anos."
+        },
+        {
+          "letra": "B",
+          "texto": "Adolescente é suspeito de ferir mulher com canivete em shopping."
+        },
+        {
+          "letra": "C",
+          "texto": "Otimismo com carro elétrico cresce, e se- tor eleva projeções de venda."
+        },
+        {
+          "letra": "D",
+          "texto": "Impulsionada pela China, energia a car- vão ganhou novo impulso no ano passado."
+        },
+        {
+          "letra": "E",
+          "texto": "Pesquisas apontam para juros elevados e expansão medíocre da economia."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Língua Portuguesa – Semântica (Ambiguidade)",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Para o autor, a poesia só NÃO pode:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "auxiliar na implantação da justiça, porque o poeta representa a voz dos que não têm VOZ."
+        },
+        {
+          "letra": "B",
+          "texto": "conquistar todos os que aspiram à luta so- cial, porque assim também se faz a histó- ria."
+        },
+        {
+          "letra": "C",
+          "texto": "ser o porta-voz das pessoas e coisas que não possuem força de reivindicação, por- que são humildes e humilhadas."
+        },
+        {
+          "letra": "D",
+          "texto": "contribuir na construção da história hu- mana, porque esta se concretiza em todos os lugares e situações."
+        },
+        {
+          "letra": "E",
+          "texto": "atender também aos interesses dos de- tentores do poder, porque senão seria uma traição à vida."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Gêneros Textuais (Poesia)"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "No segmento: “e só é justo cantar se o nosso canto arrasta **consigo** as pessoas e as coisas que não têm voz.”, o pronome em negrito é reflexivo e se refere a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "justo"
+        },
+        {
+          "letra": "B",
+          "texto": "nosso canto"
+        },
+        {
+          "letra": "C",
+          "texto": "pessoas"
+        },
+        {
+          "letra": "D",
+          "texto": "coisas"
+        },
+        {
+          "letra": "E",
+          "texto": "voz"
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia (Pronomes)",
+        "Língua Portuguesa – Sintaxe (Concordância)",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Entre os elementos presentes no quadro de Poussin e nos versos de Luís de Camões, há em comum a seguinte reflexão:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A riqueza é a única saída para os sofri- mentos amorosos."
+        },
+        {
+          "letra": "B",
+          "texto": "A música é uma atividade que proporcio- na prazer no trabalho."
+        },
+        {
+          "letra": "C",
+          "texto": "A inocência das crianças está imune à passagem do tempo."
+        },
+        {
+          "letra": "D",
+          "texto": "O tempo é o condutor das ações humanas e de todas as coisas."
+        },
+        {
+          "letra": "E",
+          "texto": "O prazer e a riqueza não resistem ao fator destrutivo do tempo."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Arte – Análise de Obra de Arte",
+        "Língua Portuguesa – Gêneros Textuais (Poesia)"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Assinale a alternativa cuja figura de lingua- gem NÃO corresponde ao exemplo que a justifique:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Anáfora na repetição da expressão “О tempo”, que inicia vários versos."
+        },
+        {
+          "letra": "B",
+          "texto": "Antíteses nas passagens “o claro dia tor- na escuro”, “ledo prazer em choro triste”."
+        },
+        {
+          "letra": "C",
+          "texto": "Metonímia no verso “O tempo acaba o ano, o mês e a hora”."
+        },
+        {
+          "letra": "D",
+          "texto": "Prosopopeia no verso “O tempo o mesmo tempo de si chora.”"
+        },
+        {
+          "letra": "E",
+          "texto": "Metáfora na expressão “peito de dia- mante\"."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem",
+        "Língua Portuguesa – Gêneros Textuais (Poesia)"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Quanto à estrutura do poema, NÃO se pode afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O poema é um soneto clássico-renascen- tista da lírica camoniana."
+        },
+        {
+          "letra": "B",
+          "texto": "Os versos são decassílabos heroicos, re- correntes na obra de Camões."
+        },
+        {
+          "letra": "C",
+          "texto": "O esquema das rimas se apresenta dis- posto em: ABBA, ABBA, CDE, CDE."
+        },
+        {
+          "letra": "D",
+          "texto": "Trata-se de um soneto reflexivo dividido em dois quartetos e dois tercetos."
+        },
+        {
+          "letra": "E",
+          "texto": "A ausência de elementos mitológicos asse- gura o estilo maneirista desse poema."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Língua Portuguesa – Gêneros Textuais (Poesia)",
+        "Língua Portuguesa – Escolas Literárias (Classicismo)",
+        "Arte – Maneirismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Nos versos:\nMas de abrandar o tempo estou seguro/\nO peito de diamante, onde consiste/ A pena\ne o prazer desta esperança.\nNa ordem direta, esse último terceto deve ser reescrito da seguinte forma:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Mas estou seguro de o tempo abrandar o peito de diamante, onde consiste a pena e o prazer desta esperança."
+        },
+        {
+          "letra": "B",
+          "texto": "Mas estou seguro de o peito de diamante abrandar o tempo, onde consiste a pena e o prazer desta esperança."
+        },
+        {
+          "letra": "C",
+          "texto": "Mas de abrandar a pena e o prazer desta esperança estou seguro, onde consiste o tempo e o peito de diamante."
+        },
+        {
+          "letra": "D",
+          "texto": "Onde consiste a pena e o prazer desta es- perança, estou seguro de abrandar o tem- po, o peito de diamante."
+        },
+        {
+          "letra": "E",
+          "texto": "Estou seguro de o tempo abrandar a pena e o prazer desta esperança, onde consiste um peito de diamante."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe (Ordem Direta/Inversa)",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Analisando o foco narrativo e o tipo de dis- curso de cada fragmento, pode-se concluir que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O narrador do Texto I apresenta-se em 3ª pessoa, e as interrogações são marcas de um recurso denominado discurso indireto."
+        },
+        {
+          "letra": "B",
+          "texto": "O narrador do Texto II apresenta-se em 1ª pessoa, e as interrogações são marcas do discurso direto."
+        },
+        {
+          "letra": "C",
+          "texto": "Em ambos os textos, fica evidente que os narradores-personagens possuem onis- ciência, ou seja, o poder de investigar as camadas morais de seus personagens."
+        },
+        {
+          "letra": "D",
+          "texto": "Enquanto o narrador do Texto I utiliza-se do monólogo interior, em 1ª pessoa; no Texto II, o narrador, em 3ª pessoa onisciente, utili- za-se do discurso indireto livre."
+        },
+        {
+          "letra": "E",
+          "texto": "Os dois narradores podem ser classifica- dos como \"deuteragonistas”, ou seja, par- ticipam da história como personagens, porém não são protagonistas."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Língua Portuguesa – Tipologia Textual (Foco Narrativo)",
+        "Língua Portuguesa – Discurso Direto, Indireto e Indireto Livre"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "O Realismo é um período estético que surge na segunda metade do século XIX, enquanto o Naturalismo pode ser consi- derado um estilo que se manifesta como uma tendência científica do Realismo. Sa- bendo disso, analise as afirmações que se- guem:\nI) No Texto I, de Machado de Assis, no- ta-se o Realismo psicológico revelado por meio dos pensamentos do nar- rador que se descobre apaixonado quando experimenta o ciúme (\"denta- da do ciúme”).\nII) No Texto II, de Eça de Queirós, nota- -se o gosto naturalista por temas po- lêmicos, como o adultério (“ter um amante\") e as sugestões sexuais (\"de- sejo físico”, “saborzinho delicioso de comer a maçã proibida\")\nIII) Em ambos os textos, fica evidente o gosto naturalista revelado na forma como os amantes descrevem as perso- nagens amadas: ambas surgem ideali- zadas e envoltas em aura de mistério.\nIV) Não se pode afirmar que os Texto I e II receberam influências do Naturalis- mo, principalmente porque os autores não comparam personagens a animais (zoomorfismo), nem adotam uma pers- pectiva biológica da existência.\nSobre as afirmações anteriores, está COR- RETO o que se afirma em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II"
+        },
+        {
+          "letra": "B",
+          "texto": "I e III"
+        },
+        {
+          "letra": "C",
+          "texto": "II e IV"
+        },
+        {
+          "letra": "D",
+          "texto": "III e IV"
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as afirmativas."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Língua Portuguesa – Escolas Literárias (Realismo)",
+        "Língua Portuguesa – Escolas Literárias (Naturalismo)",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Sobre a leitura do poema, assinale a alterna- tiva CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O eu lírico ironiza a posição política de Portugal na Europa, encerrando o poema com um tom de desencanto."
+        },
+        {
+          "letra": "B",
+          "texto": "Nota-se o uso da personificação, recur- so empregado para ilustrar a posição de Portugal no mapa europeu, encerrando- -se com uma exaltação gloriosa."
+        },
+        {
+          "letra": "C",
+          "texto": "Percebe-se um jogo verbal com eviden- tes contradições entre Portugal (país pací- fico) e o resto da Europa (países bélicos), terminando com uma ideia paradoxal."
+        },
+        {
+          "letra": "D",
+          "texto": "Por meio de uma análise do particular para o geral, Portugal representa toda a Europa, apontada no final como um conti- nente explorador."
+        },
+        {
+          "letra": "E",
+          "texto": "Encontra-se uma descrição idealizada de Portugal, na qual o eu lírico revela o quan- to sua pátria foi injustiçada pela Itália e In- glaterra."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Gêneros Textuais (Poesia)",
+        "Língua Portuguesa – Figuras de Linguagem (Personificação)"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Considerando o título da obra de Fernando Pessoa (\"Mensagem”), a linguagem e o teor desse poema, pode-se afirmar que ele se aproxima de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Os Lusíadas”, de Luís de Camões."
+        },
+        {
+          "letra": "B",
+          "texto": "“Marília de Dirceu”, de Tomás Antônio Gonzaga."
+        },
+        {
+          "letra": "C",
+          "texto": "\"Vidas Secas”, de Graciliano Ramos."
+        },
+        {
+          "letra": "D",
+          "texto": "“Morte e Vida Severina”, de João Cabral de Melo Neto."
+        },
+        {
+          "letra": "E",
+          "texto": "“A Hora da Estrela”, de Clarice Lispector."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Língua Portuguesa – Escolas Literárias (Modernismo Português)",
+        "Língua Portuguesa – Intertextualidade",
+        "Língua Portuguesa – Gêneros Textuais (Poesia)"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Segundo o crítico literário Ivan Teixeira, in- fere-se que o poeta Olavo Bilac:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "é um poeta previsível construído pela re- tórica da pós-modernidade."
+        },
+        {
+          "letra": "B",
+          "texto": "precisa ser lido e apreciado como um ver- dadeiro autor clássico."
+        },
+        {
+          "letra": "C",
+          "texto": "é um escritor de senso-comum, cujo estilo se remete ao século XVIII."
+        },
+        {
+          "letra": "D",
+          "texto": "mostra-se mais romântico do que parna- siano, na estrutura poética."
+        },
+        {
+          "letra": "E",
+          "texto": "contraria a mentalidade aristotélica, pelo excesso de sensibilidade."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Língua Portuguesa – Escolas Literárias (Parnasianismo)",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Guimarães Rosa é um dos escritores brasileiros mais fabulosos e inventivos no plano da escrita. Nos fragmentos apresentados, anteriormente, essa afirmação fica comprovada quando se notam, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Cena espiritualizada (a imagem do sino) no Texto I; demonstração de fé (“marinhava céu acima\") no Texto II."
+        },
+        {
+          "letra": "B",
+          "texto": "Desvio fonético proposital (‘percisão”) no Texto I; neologismo (‘talqualzinho”) no Texto II."
+        },
+        {
+          "letra": "C",
+          "texto": "Denúncia social (‘eu sou pobre, pobre, pobre”) no Texto I; ironia ácida (“azul de água sem praias\") no Texto II."
+        },
+        {
+          "letra": "D",
+          "texto": "Reflexão filosófica (‘sapo não pula por boniteza”) no Texto I; crítica política (‘um desperdí- cio de verdes cá em baixo\") no Texto II."
+        },
+        {
+          "letra": "E",
+          "texto": "Imagem cubista (o cavaleiro) no Texto I; presença do Surrealismo (‘a manhã mais bonita que ele já pudera ver.”) no Texto II."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Língua Portuguesa – Escolas Literárias (Modernismo Brasileiro)",
+        "Língua Portuguesa – Neologismo",
+        "Língua Portuguesa – Variação Linguística"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "As raízes reais da equação\n$x^3 - 9x^2 - 9x + 81 = 0$,\nescritas em ordem crescente, formam:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "uma PG de razão 3"
+        },
+        {
+          "letra": "B",
+          "texto": "uma PA de razão 6"
+        },
+        {
+          "letra": "C",
+          "texto": "uma PA de razão 3"
+        },
+        {
+          "letra": "D",
+          "texto": "uma PA de razão 9"
+        },
+        {
+          "letra": "E",
+          "texto": "uma PG de razão 2"
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Matemática – Equações Polinomiais",
+        "Matemática – Progressão Aritmética (PA)",
+        "Matemática – Progressão Geométrica (PG)"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "A média aritmética das soluções inteiras da inequação $|3-2x|<5$ é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "0,5"
+        },
+        {
+          "letra": "C",
+          "texto": "2,5"
+        },
+        {
+          "letra": "D",
+          "texto": "1,5"
+        },
+        {
+          "letra": "E",
+          "texto": "2"
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Matemática – Inequações Modulares",
+        "Matemática – Média Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "O ponto da reta de equação $y = 5 - 2x$ que fica mais próximo da origem $(0, 0)$ é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$(3,-1)$"
+        },
+        {
+          "letra": "B",
+          "texto": "$(1,3)$"
+        },
+        {
+          "letra": "C",
+          "texto": "$(2,1)$"
+        },
+        {
+          "letra": "D",
+          "texto": "$(\\frac{5}{2}, 0)$"
+        },
+        {
+          "letra": "E",
+          "texto": "$(0, \\frac{5}{2})$"
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Matemática – Geometria Analítica (Reta)",
+        "Matemática – Distância entre Ponto e Reta"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Paulinho tem 2 cofrinhos. O cofrinho $A$ con- tém apenas moedas de 1 real, e o cofrinho $B$ contém apenas moedas de 50 centavos. Um dia ele retirou 70 moedas, sendo $x$ do cofri- nho $A$ e $y$ do cofrinho $B$. Se ele tivesse inverti- do os cofrinhos, teria pegado uma quantia de 15 reais a menos. A diferença $4y – x$ é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "35"
+        },
+        {
+          "letra": "B",
+          "texto": "30"
+        },
+        {
+          "letra": "C",
+          "texto": "25"
+        },
+        {
+          "letra": "D",
+          "texto": "40"
+        },
+        {
+          "letra": "E",
+          "texto": "45"
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Matemática – Sistemas de Equações Lineares",
+        "Matemática – Razão e Proporção"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "A soma de três números naturais distintos é igual a 77, sendo que o maior deles é o pro- duto dos outros dois. Podemos afirmar que o menor deles é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "primo"
+        },
+        {
+          "letra": "B",
+          "texto": "par"
+        },
+        {
+          "letra": "C",
+          "texto": "ímpar"
+        },
+        {
+          "letra": "D",
+          "texto": "quadrado perfeito"
+        },
+        {
+          "letra": "E",
+          "texto": "maior que 4"
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Matemática – Teoria dos Números (Números Primos)",
+        "Matemática – Sistemas de Equações Lineares"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "No carrossel de um parque de diversões, todos os cavalinhos estavam ocupados por crianças. Nesse momento uma das crianças (que era um gênio, por sinal) observou que um terço das crianças que estavam à sua frente mais três quartos das crianças que es- tavam atrás de si somavam o número exato de crianças que estavam no carrossel. Esse número é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "par"
+        },
+        {
+          "letra": "B",
+          "texto": "múltiplo de 5"
+        },
+        {
+          "letra": "C",
+          "texto": "primo"
+        },
+        {
+          "letra": "D",
+          "texto": "quadrado perfeito"
+        },
+        {
+          "letra": "E",
+          "texto": "múltiplo de 3"
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Matemática – Equações Algébricas",
+        "Matemática – Raciocínio Lógico",
+        "Matemática – Teoria dos Números"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "O valor da expressão $$\\frac{\\sqrt{2} + \\sqrt{50} + \\sqrt{108}}{\\sqrt{8} + \\sqrt{27} - \\sqrt{3}}$$ é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "1"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\sqrt{3}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$2\\sqrt{3}$"
+        },
+        {
+          "letra": "E",
+          "texto": "3"
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Matemática – Radicais (Operações com Radicais)",
+        "Matemática – Simplificação de Expressões"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "A figura abaixo é formada por um semicír- culo e três triângulos equiláteros, sendo $M$ o ponto médio de $AB$. A área do menor triân- gulo equilátero é $5\\ cm^2$.\nA medida da área do triângulo $ADE$ é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$15\\ cm^2$"
+        },
+        {
+          "letra": "B",
+          "texto": "$16\\ cm^2$"
+        },
+        {
+          "letra": "C",
+          "texto": "$18\\ cm^2$"
+        },
+        {
+          "letra": "D",
+          "texto": "$20\\ cm^2$"
+        },
+        {
+          "letra": "E",
+          "texto": "$25\\ cm^2$"
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Matemática – Geometria Plana (Área de Triângulos)",
+        "Matemática – Geometria Plana (Propriedades de Triângulos Equiláteros)"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "O horário exato indicado pelo relógio da fi- gura é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1:36:00"
+        },
+        {
+          "letra": "B",
+          "texto": "1:36:30"
+        },
+        {
+          "letra": "C",
+          "texto": "1:37:00"
+        },
+        {
+          "letra": "D",
+          "texto": "1:37:30"
+        },
+        {
+          "letra": "E",
+          "texto": "1:38:00"
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Matemática – Ângulos no Relógio",
+        "Matemática – Raciocínio Lógico"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Dadas as proposições abaixo, onde os loga- ritmos estão na base 10:\nI. (log 3, log 9, log 81) é uma PG de razão 2\nII. (log 3, log 6, log 12) é uma PA de razão log 2\nIII. (log 3, log 30, log 300) é uma PA de ra- zão 1\nPodemos afirmar que estão corretas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas I e II"
+        },
+        {
+          "letra": "B",
+          "texto": "apenas I e III"
+        },
+        {
+          "letra": "C",
+          "texto": "apenas II e III"
+        },
+        {
+          "letra": "D",
+          "texto": "todas"
+        },
+        {
+          "letra": "E",
+          "texto": "nenhuma"
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Matemática – Logaritmos",
+        "Matemática – Progressão Aritmética (PA)",
+        "Matemática – Progressão Geométrica (PG)"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "A proposição “Se $x = 7$ ou $y \\neq 3$, então $z = 5$\" é equivalente a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Se $z \\neq 5$, então $x \\neq 7$ ou $y = 3$"
+        },
+        {
+          "letra": "B",
+          "texto": "Se $x \\neq 7$ ou $y = 3$, então $z \\neq 5$"
+        },
+        {
+          "letra": "C",
+          "texto": "Se $x \\neq 7$ e $y = 3$, então $z \\neq 5$"
+        },
+        {
+          "letra": "D",
+          "texto": "Se $z \\neq 5$, então $x \\neq 7$ e $y = 3$"
+        },
+        {
+          "letra": "E",
+          "texto": "Se $x = 7$ e $y = 3$, então $z \\neq 5$"
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Matemática – Lógica Proposicional"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "A expressão $$\\frac{15! + 14!}{13! + 12!}$$ é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "195"
+        },
+        {
+          "letra": "B",
+          "texto": "156"
+        },
+        {
+          "letra": "C",
+          "texto": "168"
+        },
+        {
+          "letra": "D",
+          "texto": "91"
+        },
+        {
+          "letra": "E",
+          "texto": "182"
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Matemática – Análise Combinatória (Fatorial)",
+        "Matemática – Simplificação de Expressões"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Sabe-se que a média aritmética entre 2 nú- meros positivos é maior ou igual à média geométrica entre eles. Assim, podemos afirmar que o valor mínimo da expressão $x + \\frac{9}{x}$, para $x > 0$ é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "6"
+        },
+        {
+          "letra": "C",
+          "texto": "4,5"
+        },
+        {
+          "letra": "D",
+          "texto": "5,5"
+        },
+        {
+          "letra": "E",
+          "texto": "6,5"
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Matemática – Desigualdade das Médias (MA-MG)",
+        "Matemática – Otimização"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Os três triângulos retângulos sombreados, que estão no interior de um quadrado, pos- suem a mesma área.\nO valor da medida $x$ é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\sqrt{5}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$2 + \\sqrt{5}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\sqrt{5} + 1$"
+        },
+        {
+          "letra": "D",
+          "texto": "3"
+        },
+        {
+          "letra": "E",
+          "texto": "$2\\sqrt{5}$"
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Matemática – Geometria Plana (Área de Triângulos)",
+        "Matemática – Geometria Plana (Quadrados)",
+        "Matemática – Teorema de Pitágoras"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Três máquinas trabalhando 4 horas por dia produzem, em cinco dias, uma certa quan- tidade de peças. Em quantos dias cinco máquinas idênticas àquelas, trabalhando 3 horas por dia, dobrariam a produção de pe- ças? Assinale a resposta certa:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4"
+        },
+        {
+          "letra": "B",
+          "texto": "5"
+        },
+        {
+          "letra": "C",
+          "texto": "6"
+        },
+        {
+          "letra": "D",
+          "texto": "7"
+        },
+        {
+          "letra": "E",
+          "texto": "8"
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Matemática – Regra de Três Composta",
+        "Matemática – Proporcionalidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Um capital aplicado à taxa de juros simples de 5% ao mês terá seu valor quadruplicado em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "l ano"
+        },
+        {
+          "letra": "B",
+          "texto": "20 meses"
+        },
+        {
+          "letra": "C",
+          "texto": "3 anos"
+        },
+        {
+          "letra": "D",
+          "texto": "40 meses"
+        },
+        {
+          "letra": "E",
+          "texto": "5 anos"
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Matemática – Juros Simples"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Num experimento tem-se uma caixa con- tendo 6 bolas brancas e 4 pretas. Uma bola é retirada dessa caixa. Se ela for branca, o experimento termina. Se for preta, ela é re- colocada na caixa e depois uma bola é reti- rada dessa caixa e o experimento termina.\nAo fim do experimento, a probabilidade de a bola retirada ser branca é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "52%"
+        },
+        {
+          "letra": "B",
+          "texto": "64%"
+        },
+        {
+          "letra": "C",
+          "texto": "48%"
+        },
+        {
+          "letra": "D",
+          "texto": "84%"
+        },
+        {
+          "letra": "E",
+          "texto": "76%"
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Matemática – Probabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "As retas dadas pela equação\n$(x^2 - 4)(y^2 – 1) = 0$\ndeterminam, no plano cartesiano, um qua- drilátero. A área e o perímetro desse qua- drilátero são, respectivamente, iguais a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8 e 16"
+        },
+        {
+          "letra": "B",
+          "texto": "8 e 12"
+        },
+        {
+          "letra": "C",
+          "texto": "6 e 12"
+        },
+        {
+          "letra": "D",
+          "texto": "6 e 16"
+        },
+        {
+          "letra": "E",
+          "texto": "12 e 16"
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Matemática – Geometria Analítica (Retas)",
+        "Matemática – Geometria Plana (Área e Perímetro de Quadriláteros)"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Numa classe, 40% dos estudantes são me- ninas, e 20% dos meninos usam óculos. Se exatamente 6 meninas usam óculos e 38 es- tudantes não usam óculos, o número de alu- nos dessa classe é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "45"
+        },
+        {
+          "letra": "B",
+          "texto": "64"
+        },
+        {
+          "letra": "C",
+          "texto": "50"
+        },
+        {
+          "letra": "D",
+          "texto": "40"
+        },
+        {
+          "letra": "E",
+          "texto": "60"
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Matemática – Porcentagem",
+        "Matemática – Sistemas de Equações Lineares"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "A quantidade de múltiplos de 7 entre os nú- meros 1000 e 9000 é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1143"
+        },
+        {
+          "letra": "B",
+          "texto": "1231"
+        },
+        {
+          "letra": "C",
+          "texto": "1057"
+        },
+        {
+          "letra": "D",
+          "texto": "1342"
+        },
+        {
+          "letra": "E",
+          "texto": "1428"
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Matemática – Sequências Numéricas (Progressão Aritmética)",
+        "Matemática – Divisibilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "The article is primarily:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a denouncement of the overdose of caffeine present in energy drinks;"
+        },
+        {
+          "letra": "B",
+          "texto": "a public accusation of the notorious excess of caffeine on Panera's Charged Lemonade;"
+        },
+        {
+          "letra": "C",
+          "texto": "a warning about our lack of awareness regarding the amount of caffeine consume;"
+        },
+        {
+          "letra": "D",
+          "texto": "an explanation about the amounts of caffeine in types of coffee drinks and energy drinks;"
+        },
+        {
+          "letra": "E",
+          "texto": "a criticism over marketing campaigns which misinform rather than clarify consumers."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Inglês – Compreensão Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Yasmin Tayag's motivation to write this article seems to have come from:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a wish to better understand the effect of Panera's Charged Lemonade and other caffeinated drinks;"
+        },
+        {
+          "letra": "B",
+          "texto": "her social concerns about the increased offer of caffeinated drinks to the new generation;"
+        },
+        {
+          "letra": "C",
+          "texto": "her legal experience with wrongful-death lawsuits;"
+        },
+        {
+          "letra": "D",
+          "texto": "an academic research about safety of caffeine intake;"
+        },
+        {
+          "letra": "E",
+          "texto": "a need to explain the benefits to the new generation of consuming caffeinated drinks."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Inglês – Compreensão Textual",
+        "Inglês – Propósito do Autor"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Tayag quotes three scholars and one NGO when presenting factual information in the text. This is important because:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "it makes the text less boring;"
+        },
+        {
+          "letra": "B",
+          "texto": "it demonstrates that she has great knowledge of the matter;"
+        },
+        {
+          "letra": "C",
+          "texto": "it allows room for other people's opinions;"
+        },
+        {
+          "letra": "D",
+          "texto": "it gives her article more credibility;"
+        },
+        {
+          "letra": "E",
+          "texto": "it indicates that 'Caffeine's Dirty Little secret' is an academic article."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Inglês – Compreensão Textual",
+        "Inglês – Estratégias Argumentativas"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "According to Tayag, caffeine intake has become potentially dangerous. This is in part because:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "there have never been so many caffeinated products in the market as there is now, which makes their purchase often immeasurable;"
+        },
+        {
+          "letra": "B",
+          "texto": "the amount of caffeine varies in similar products of different brands, thus making it difficult to gauge the amount of caffeine taken;"
+        },
+        {
+          "letra": "C",
+          "texto": "caffeine has become as harmful as alcohol, and people find it hard to sense how much of the former can be handled;"
+        },
+        {
+          "letra": "D",
+          "texto": "after having struggled hard to fully understand how to use coffee effectively, coffee drinkers now believe they can master the talent."
+        },
+        {
+          "letra": "E",
+          "texto": "no one is really sure whether coffee poses as much of a threat to people's health as alcohol does."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Inglês – Compreensão Textual",
+        "Inglês – Detalhamento de Informação"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "In this sentence... “the lemonade gave an **otherwise** healthy 27-year-old lasting heart problems.”, boldfaced in the second paragraph, the word otherwise means:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "in other respects;"
+        },
+        {
+          "letra": "B",
+          "texto": "at the same time;"
+        },
+        {
+          "letra": "C",
+          "texto": "not to mention;"
+        },
+        {
+          "letra": "D",
+          "texto": "strangely enough;"
+        },
+        {
+          "letra": "E",
+          "texto": "wisely thought."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Inglês – Vocabulário",
+        "Inglês – Compreensão Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "In paragraph 7 the conjunction that best completes the blank in the sentence\n'______ I knew how much caffeine is in a Charged Lemonade, I had no idea how much of it I could drink before having the same reaction.' is:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "In spite of;"
+        },
+        {
+          "letra": "B",
+          "texto": "However;"
+        },
+        {
+          "letra": "C",
+          "texto": "But even though;"
+        },
+        {
+          "letra": "D",
+          "texto": "Moreover;"
+        },
+        {
+          "letra": "E",
+          "texto": "Besides."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Inglês – Gramática (Conjunções)",
+        "Inglês – Coesão e Coerência Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Consider the excerpt ‘Had the company more adequately warned customers of the drink's caffeine content, perhaps no one would have been hurt.' boldfaced in paragraph 7. This is an example of:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "second conditional, where one talks about situations that are unlikely or impossible in reality;"
+        },
+        {
+          "letra": "B",
+          "texto": "third conditional, where ‘if' was removed and the subject 'the company' was inverted with the auxiliary 'had';"
+        },
+        {
+          "letra": "C",
+          "texto": "second conditional, where there is no need to use the particle 'if';"
+        },
+        {
+          "letra": "D",
+          "texto": "third conditional, where there is an inversion of subject-verb because of the negative meaning;"
+        },
+        {
+          "letra": "E",
+          "texto": "third conditional, where the modal verb was omitted from the main clause."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Inglês – Gramática (Condicionais)",
+        "Inglês – Inversão"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "The phrasal verb ‘**swear by**' boldfaced in paragraph 10 can be replaced by all the words below, except for:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "endorse;"
+        },
+        {
+          "letra": "B",
+          "texto": "vouch for;"
+        },
+        {
+          "letra": "C",
+          "texto": "advocate;"
+        },
+        {
+          "letra": "D",
+          "texto": "praise;"
+        },
+        {
+          "letra": "E",
+          "texto": "deny."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Inglês – Vocabulário (Phrasal Verbs)",
+        "Inglês – Sinônimos e Antônimos"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "After reading the article by Yasmin Tayag, it is possible to infer that the meaning of the word 'underrated', in the post above, is:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "exaggerated;"
+        },
+        {
+          "letra": "B",
+          "texto": "necessary;"
+        },
+        {
+          "letra": "C",
+          "texto": "annoying;"
+        },
+        {
+          "letra": "D",
+          "texto": "downplayed;"
+        },
+        {
+          "letra": "E",
+          "texto": "understandable."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Inglês – Vocabulário",
+        "Inglês – Compreensão Textual (Inferência)"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "What produces the mockery in the cartoon above is:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "the fact that it ironically underestimates the effect of coffee in keeping people awake;"
+        },
+        {
+          "letra": "B",
+          "texto": "the character's way to say he would rather be asleep during presentations;"
+        },
+        {
+          "letra": "C",
+          "texto": "the fact that coffee is the character's best friend as he has to drink it in order to attend presentations;"
+        },
+        {
+          "letra": "D",
+          "texto": "the character's way to say he would rather be awake during presentations;"
+        },
+        {
+          "letra": "E",
+          "texto": "the fact that the person wearing the dotted tie is trying to convince the other to stop drinking coffee by telling an anecdote."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Inglês – Interpretação de Cartoon",
+        "Inglês – Humor e Ironia"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Em Roma, a Lei das Doze Tábuas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "foi concedida aos romanos por Rômulo, o primeiro rei de Roma."
+        },
+        {
+          "letra": "B",
+          "texto": "surgiu no tempo da Monarquia, durante o domínio etrusco."
+        },
+        {
+          "letra": "C",
+          "texto": "foi um código, elaborado no tempo da Re- pública, que marcou a transformação das leis orais numa legislação escrita."
+        },
+        {
+          "letra": "D",
+          "texto": "foi um código que incorporou as reformas sociais dos irmãos Tibério Graco e Caio Graco."
+        },
+        {
+          "letra": "E",
+          "texto": "foi criação do Império romano e incorpo- rou todas as reformas promovidas por Au- gusto, o primeiro imperador."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "História – Roma Antiga (Direito Romano)",
+        "História – Roma Antiga (República Romana)"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "A doutrina maometana acha-se contida no Alcorão, obra dividida em 114 capítulos e 6211 versículos. Quanto a essa doutrina, é correto assinalar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a religião muçulmana é politeísta."
+        },
+        {
+          "letra": "B",
+          "texto": "não admite a existência de algum paraíso."
+        },
+        {
+          "letra": "C",
+          "texto": "proibe a concessão de esmolas."
+        },
+        {
+          "letra": "D",
+          "texto": "propõe o jejum do Ramadã, o nono mês do calendário islâmico."
+        },
+        {
+          "letra": "E",
+          "texto": "eliminou a prática da peregrinação à cida- de de Meca e à Caaba."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "História – Idade Média (Civilização Árabe)",
+        "Filosofia – Islamismo (Doutrina)"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "A partir da leitura do texto e quanto ao tráfi- co de escravos é correto assinalar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A generalização do trabalho escravo afri- cano no Brasil só ocorreu no século XVIII com a mineração."
+        },
+        {
+          "letra": "B",
+          "texto": "Os africanos conduzidos ao Brasil como escravos apresentavam grande homoge- neidade étnica, pois provinham do mes- mo lugar da África."
+        },
+        {
+          "letra": "C",
+          "texto": "O transporte nos navios negreiros era efi- ciente e garantia a “mercadoria” não ha- vendo perda, pois a taxa de mortalidade era nula."
+        },
+        {
+          "letra": "D",
+          "texto": "Dos cerca de 25 milhões de escravos africanos deslocados compulsoriamente para a América, a menor parte veio para o Brasil."
+        },
+        {
+          "letra": "E",
+          "texto": "A maioria dos negros africanos trazida ao Brasil pertencia aos grupos étnicos dos bantos, sudaneses e maleses."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "História – Brasil Colonial (Escravidão e Tráfico Negreiro)",
+        "Geografia – Demografia (População Brasileira)"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Assinale a alternativa que apresenta, res- pectivamente, o nome do autor da escultura em questão e o movimento cultural ao qual pertence a obra:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Bernini – Barroco."
+        },
+        {
+          "letra": "B",
+          "texto": "Michelangelo – Renascentismo."
+        },
+        {
+          "letra": "C",
+          "texto": "Caravaggio – Barroco."
+        },
+        {
+          "letra": "D",
+          "texto": "Donatello – Renascentismo."
+        },
+        {
+          "letra": "E",
+          "texto": "Giovanni Pisano – Gótico."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Arte – História da Arte (Barroco)",
+        "Arte – Escultura"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "Em 1824 completam-se 200 anos da entrada em vigência da primeira carta constitucio- nal brasileira. Esta virá a ser a Constituição Outorgada de 1824. Quanto a ela, é correto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "separou a Igreja e o Estado."
+        },
+        {
+          "letra": "B",
+          "texto": "estabeleceu o voto censitário."
+        },
+        {
+          "letra": "C",
+          "texto": "instituiu a existência de três poderes: Exe- cutivo, Legislativo e Judiciário."
+        },
+        {
+          "letra": "D",
+          "texto": "criou o cargo de presidente do conselho de ministros, instituindo o parlamentarismo."
+        },
+        {
+          "letra": "E",
+          "texto": "aboliu o Direito do Padroado."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "História – Brasil Império (Primeiro Reinado)",
+        "História – Constituição de 1824"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "A Lei de Terras:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "foi criada para facilitar o acesso à proprie- dade da terra por imigrantes."
+        },
+        {
+          "letra": "B",
+          "texto": "reconheceu que as terras públicas pode- riam continuar sendo doadas como ses- marias."
+        },
+        {
+          "letra": "C",
+          "texto": "tinha por objetivo estimular os pequenos agricultores, ligados à subsistência, a tor- narem-se proprietários."
+        },
+        {
+          "letra": "D",
+          "texto": "foi uma forma de evitar o acesso à pro- priedade da terra por parte de futuros imigrantes."
+        },
+        {
+          "letra": "E",
+          "texto": "autorizou que estrangeiros, que tivessem passagens financiadas para vir ao Brasil, pu- dessem adquirir terras ao chegarem aqui."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "História – Brasil Império (Segundo Reinado)",
+        "História – Lei de Terras (1850)"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Em 2024, cumprem-se 100 anos da morte de Lenin, líder da Revolução Russa de 1917 e primeiro dirigente da União Soviética. Quanto a Lenin, é correto assinalar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Liderou a tendência menchevique do Par- tido Social Democrata Russo."
+        },
+        {
+          "letra": "B",
+          "texto": "Com a revolução de outubro de 1917 as- sumiu a presidência do Conselho dos Co- missários do Povo."
+        },
+        {
+          "letra": "C",
+          "texto": "Determinou a implantação dos primeiros planos quinquenais da União Soviética."
+        },
+        {
+          "letra": "D",
+          "texto": "Promoveu os chamados processos de Moscou para perseguir e eliminar seus oponentes no Partido Comunista."
+        },
+        {
+          "letra": "E",
+          "texto": "Defendia o pluripartidarismo e a democra- cia representativa de inspiração ocidental."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "História – História Contemporânea (Revolução Russa)",
+        "Sociologia – Socialismo e Comunismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "A respeito da Guerra Civil Espanhola é cor- reto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a Alemanha apoiou o governo republicano."
+        },
+        {
+          "letra": "B",
+          "texto": "a Itália forneceu apoio militar, de cerca de 120 mil soldados, ao governo republicano."
+        },
+        {
+          "letra": "C",
+          "texto": "as Brigadas Internacionais, cerca de 15 mil homens, apoiaram os falangistas."
+        },
+        {
+          "letra": "D",
+          "texto": "Estados Unidos, Grã-Bretanha e França apoiaram decididamente, com verbas e armas, o governo republicano."
+        },
+        {
+          "letra": "E",
+          "texto": "durante o conflito, aviões alemães (da Le- gião Condor) bombardearam Guernica, em ação de apoio aos falangistas."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "História – História Contemporânea (Guerra Civil Espanhola)",
+        "História – Fascismo e Nazismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "Nelson Rodrigues foi um escritor, jornalista, romancista, teatrólogo, contista e cronista de costumes e de futebol brasileiro. É conside- rado um dos mais importantes dramaturgos do Brasil.\nAssinale a alternativa que apresente três de suas peças teatrais:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Vestido de Noiva – A Falecida – Bonitinha, mas ordinária."
+        },
+        {
+          "letra": "B",
+          "texto": "Toda Nudez será castigada – Navalha na Carne – Abajur Lilás."
+        },
+        {
+          "letra": "C",
+          "texto": "Querô, uma reportagem maldita Dois Perdidos numa Noite Suja Senhora dos Afogados."
+        },
+        {
+          "letra": "D",
+          "texto": "Perdoa-me por me traíres – O Beijo no As- falto - Barrela."
+        },
+        {
+          "letra": "E",
+          "texto": "Navalha na Carne – Eles não usam Black- -tie - Marta Saré."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Nelson Rodrigues)",
+        "Arte – Teatro"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Aos trinta minutos da madrugada de 25 de abril de 1974, a rádio Renascença de Lisboa colocou no ar a canção “Grândola, vila mo- rena”, de Zeca Afonso. Era a senha para o desencadeamento do movimento que entrou para a história como a Revolução dos Cravos.\nSobre essa revolução é correto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "derrubou o governo socialista e deu início à ditadura de Salazar."
+        },
+        {
+          "letra": "B",
+          "texto": "derrubou o governo socialista e deu início à ditadura de Marcelo Caetano."
+        },
+        {
+          "letra": "C",
+          "texto": "o movimento derrubou o regime sala- zarista, então sob o governo de Marcelo Caetano."
+        },
+        {
+          "letra": "D",
+          "texto": "a Revolução dos Cravos foi planejada em estreita colaboração com o serviço secre- to dos Estados Unidos."
+        },
+        {
+          "letra": "E",
+          "texto": "um dos objetivos do comando da Revo- lução dos Cravos era manter, a qualquer custo, as colônias portuguesas na África."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "História – História Contemporânea (Revolução dos Cravos)",
+        "História – Ditaduras na Europa"
+      ]
+    },
+    {
+      "numeroEnunciado": 61,
+      "enunciado": "Observe o gráfico de crescimento da popu- lação brasileira. De acordo com os dados e seus conhecimentos, é correto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Houve uma diminuição da população bra- sileira em 2022 em relação ao penúltimo Censo realizado em 2010."
+        },
+        {
+          "letra": "B",
+          "texto": "O período de maior crescimento demo- gráfico da população brasileira ocorreu durante as décadas de 1940 e 1950 devi- do à forte queda da mortalidade."
+        },
+        {
+          "letra": "C",
+          "texto": "A diminuição da população absoluta bra- sileira, verificada a partir da década de 1970, deve-se à redução da taxa de natali- dade."
+        },
+        {
+          "letra": "D",
+          "texto": "O pico da expectativa de vida do brasilei- ro ocorreu nos anos 1960."
+        },
+        {
+          "letra": "E",
+          "texto": "Os últimos censos demográficos apre- sentaram aumento do crescimento vege- tativo."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Geografia – Demografia (População Brasileira)",
+        "Geografia – Demografia (Crescimento Populacional)"
+      ]
+    },
+    {
+      "numeroEnunciado": 62,
+      "enunciado": "As \"fases históricas bem definidas\" mencio- nadas no texto coincidiram com regiões que se alternavam na liderança da produção. Atualmente, o principal produtor brasileiro do gênero em questão é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "MG"
+        },
+        {
+          "letra": "B",
+          "texto": "SP"
+        },
+        {
+          "letra": "C",
+          "texto": "PR"
+        },
+        {
+          "letra": "D",
+          "texto": "ES"
+        },
+        {
+          "letra": "E",
+          "texto": "RJ"
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Geografia – Geografia Agrária (Cultura do Café)",
+        "História – Brasil Império (Economia Cafeeira)"
+      ]
+    },
+    {
+      "numeroEnunciado": 63,
+      "enunciado": "Observe o mapa a seguir:\nEle está cartografando:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Áreas de produção de soja."
+        },
+        {
+          "letra": "B",
+          "texto": "Principais áreas produtoras de laticínios."
+        },
+        {
+          "letra": "C",
+          "texto": "Produção cacaueira."
+        },
+        {
+          "letra": "D",
+          "texto": "Principais áreas petrolíferas."
+        },
+        {
+          "letra": "E",
+          "texto": "Indústria química."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Geografia – Geografia Industrial",
+        "Geografia – Cartografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 64,
+      "enunciado": "Observe o gráfico:\nConsiderando as grandes regiões brasilei- ras, é mais provável que ele esteja retratan- do a produção de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Cítricos."
+        },
+        {
+          "letra": "B",
+          "texto": "Gêneros básicos."
+        },
+        {
+          "letra": "C",
+          "texto": "Cacau."
+        },
+        {
+          "letra": "D",
+          "texto": "Cereais, leguminosas e oleaginosas."
+        },
+        {
+          "letra": "E",
+          "texto": "Café e cana-de-açúcar."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Geografia – Geografia Agrária (Produção Agrícola)",
+        "Geografia – Análise de Gráficos"
+      ]
+    },
+    {
+      "numeroEnunciado": 65,
+      "enunciado": "Das alternativas a seguir, aquela que aponta corretamente um problema ambiental rela- cionado ao tema é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A quantidade de plástico produzida no mundo atual está acima da capacidade de tolerância do planeta e a melhor forma de evitar a poluição do solo e da água é quei- mar os resíduos plásticos."
+        },
+        {
+          "letra": "B",
+          "texto": "O plástico tornou-se uma séria ameaça ambiental ao solo e à atmosfera, apesar de comprometer menos os oceanos do que o fazem os demais poluentes."
+        },
+        {
+          "letra": "C",
+          "texto": "O ideal para o controle da contaminação por plástico é convertê-lo em micro e na- noplástico, pois sua ingestão e entrada no organismo humano fica dificultada."
+        },
+        {
+          "letra": "D",
+          "texto": "O mais adequado para minimizar a polui- ção por excesso de plástico é descartá- -lo em lixões e aterros sanitários, pois são áreas isentas de maiores contaminações ao ser humano."
+        },
+        {
+          "letra": "E",
+          "texto": "A poluição por plástico causa diversos impactos socioambientais, afetando, por exemplo, a qualidade do ar e dos siste- mas de fornecimento de água, daí ser im- portante minimizar seu uso."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Geografia – Impactos Ambientais",
+        "Sociologia – Consumo e Meio Ambiente"
+      ]
+    },
+    {
+      "numeroEnunciado": 66,
+      "enunciado": "O fenômeno retratado na matéria foi observado no hemisfério norte no primeiro semestre de 2024. Trata-se do (da):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Aurora austral."
+        },
+        {
+          "letra": "B",
+          "texto": "Solstício de verão."
+        },
+        {
+          "letra": "C",
+          "texto": "Equinócio."
+        },
+        {
+          "letra": "D",
+          "texto": "Aurora boreal."
+        },
+        {
+          "letra": "E",
+          "texto": "Sol da meia noite."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Geografia – Fenômenos Naturais (Atmosfera)",
+        "Física – Fenômenos Luminosos (Aurora)"
+      ]
+    },
+    {
+      "numeroEnunciado": 67,
+      "enunciado": "Sobre a indústria do país, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O chamado Manufacturing Belt, localizado no nordeste do país, caracteriza-se por ser um centro inovador, recente e de alta demanda tecnológica."
+        },
+        {
+          "letra": "B",
+          "texto": "Na área do Sun Belt encontra-se o chamado Vale do Silício, conhecido por ser um dos mais avançados centros da tecnologia mundial."
+        },
+        {
+          "letra": "C",
+          "texto": "O chamado Rust Belt, localizado na Califórnia, ganhou esse codinome devido à presença de algumas indústrias já defasadas, mas que ainda guardam importante centro receptor da mão de obra não qualificada."
+        },
+        {
+          "letra": "D",
+          "texto": "O Dairy Belt localiza-se no sudeste do país e concentra importante área produtora de laticí- nios relacionada à presença da pecuária leiteira."
+        },
+        {
+          "letra": "E",
+          "texto": "Verifica-se atualmente uma forte migração interna da região do Silicon Valley para a região dos Grandes Lagos, devido ao declínio da primeira e à ascensão da segunda região que concentra alguns tecnopolos, como é o caso de Detroit."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Geografia – Geografia Industrial (Setores Industriais)",
+        "Geografia – Regionalização dos EUA"
+      ]
+    },
+    {
+      "numeroEnunciado": 68,
+      "enunciado": "Observe a imagem a seguir sobre o proces- so de produção do avião da Boeing 787 Dre- amliner e indique a alternativa que melhor se relaciona com o fenômeno envolvido.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "É um exemplo da interdependência en- tre os lugares e as economias nacionais, marcado por procedimentos de descen- tralização da produção com a rapidez ea intensidade do fluxo de pessoas, de infor- mação, de mercadorias e de capital."
+        },
+        {
+          "letra": "B",
+          "texto": "A imagem configura o momento interna- cional contemporâneo, caracterizado pela centralização da produção e parca inte- gração entre as economias."
+        },
+        {
+          "letra": "C",
+          "texto": "A centralização da produção e dos merca- dos é um fato marcante da globalização, processo que se caracteriza pelo isola- mento cada vez maior das economias na- cionais e pela restrição da informação."
+        },
+        {
+          "letra": "D",
+          "texto": "O exemplo da Boeing é um típico caso do uso da inteligência artificial na produção de aviões de grande porte, recurso que começou a ser utilizado desde o início da globalização utilizado na empresa cana- dense desde anos 1990."
+        },
+        {
+          "letra": "E",
+          "texto": "O processo de globalização é exclusiva- mente econômico e não interfere em de- cisões políticas, ambientais e econômicas, respeitando as individualidades das culturas e do processo produtivo, como é o caso da produção da Boeing que tem no Estado seu principal agente regulador da economia."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Geografia – Globalização (Cadeias Produtivas)",
+        "Geografia – Economia Global"
+      ]
+    },
+    {
+      "numeroEnunciado": 69,
+      "enunciado": "A região abaixo constitui um dos focos de tensão da geopolítica mundial porque:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A China considera Taiwan parte indivisí- vel de sua soberania e não aceita o desejo de independência da ilha que apresenta movimento emancipacionista."
+        },
+        {
+          "letra": "B",
+          "texto": "Taiwan declarou independência da China em 1949, após a Revolução Chinesa, mas a República Popular da China não reco- nhece essa independência."
+        },
+        {
+          "letra": "C",
+          "texto": "A maioria dos países do mundo reconhe- ce a independência de Taiwan, dentre eles Brasil e Estados Unidos, porém a Chi- na desconsidera tal condição."
+        },
+        {
+          "letra": "D",
+          "texto": "Ambos são países socialistas, porém, des- de 1978 a China abriu sua economia, en- quanto Taiwan manteve-se fechada."
+        },
+        {
+          "letra": "E",
+          "texto": "Ambos os países detêm arsenal atômico e são membros permanentes do Conselho de Segurança da ONU, o que agrava a situação."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Geografia – Geopolítica (Conflitos Internacionais)",
+        "Geografia – Ásia (China e Taiwan)"
+      ]
+    },
+    {
+      "numeroEnunciado": 70,
+      "enunciado": "O mapa acima está indicando os grandes produtores mundiais de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Petróleo."
+        },
+        {
+          "letra": "B",
+          "texto": "Minério de ferro."
+        },
+        {
+          "letra": "C",
+          "texto": "Soja."
+        },
+        {
+          "letra": "D",
+          "texto": "Automóveis."
+        },
+        {
+          "letra": "E",
+          "texto": "Tecnologia."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Geografia – Geografia Econômica (Recursos Minerais)",
+        "Geografia – Cartografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 71,
+      "enunciado": "Dentre as perspectivas trazidas pela maté- ria, chama a atenção àquela que enaltece a força do Legislativo, daí a importância de o cidadão conhecer melhor a estrutura parti- dária do país, dentre as quais ser sabedor que o partido que mais elegeu prefeituras em 2024 foi o:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "PL"
+        },
+        {
+          "letra": "B",
+          "texto": "PT"
+        },
+        {
+          "letra": "C",
+          "texto": "PMDB"
+        },
+        {
+          "letra": "D",
+          "texto": "PSD"
+        },
+        {
+          "letra": "E",
+          "texto": "PSB"
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Sociologia – Política (Partidos Políticos)",
+        "História – Brasil Contemporâneo (Eleições)"
+      ]
+    },
+    {
+      "numeroEnunciado": 72,
+      "enunciado": "Depois de seis anos, o assassinato de Ma- rielle Franco e seu motorista Anderson Go- mes, mortos a tiros em uma emboscada no Rio de Janeiro, parece ter sido elucidado graças à Operação Murder Inc., deflagrada a partir da delação de Ronnie Lessa, preso e assassino confesso.\nAssinale a alternativa que contenha, respec- tivamente, o órgão responsável pela defla- gração da Operação Murder Inc e o cargo que era exercido por Marielle Franco quan- do de sua morte:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Polícia Civil do Rio de Janeiro – Deputada Estadual"
+        },
+        {
+          "letra": "B",
+          "texto": "Polícia Militar do Rio de Janeiro – Deputa- da Federal"
+        },
+        {
+          "letra": "C",
+          "texto": "Procuradoria Geral da República – Sena- dora"
+        },
+        {
+          "letra": "D",
+          "texto": "Procuradoria do Estado do Rio de Janeiro – Secretária Municipal de Direitos Humanos"
+        },
+        {
+          "letra": "E",
+          "texto": "Polícia Federal – Vereadora"
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Sociologia – Cidadania e Direitos Humanos",
+        "História – Brasil Contemporâneo (Política)"
+      ]
+    },
+    {
+      "numeroEnunciado": 73,
+      "enunciado": "Considerando os índices apontados no grá- fico a seguir sobre projeção da economia brasileira, pode-se afirmar que ele está re- tratando:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Índices de inflação."
+        },
+        {
+          "letra": "B",
+          "texto": "A taxa de crescimento do PIB brasileiro."
+        },
+        {
+          "letra": "C",
+          "texto": "Valores absolutos do superávit comercial."
+        },
+        {
+          "letra": "D",
+          "texto": "A evolução da taxa Selic para os próximos anos."
+        },
+        {
+          "letra": "E",
+          "texto": "O aumento da dívida pública bruta em relação ao PIB."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Geografia – Economia Brasileira (PIB)",
+        "Geografia – Análise de Gráficos"
+      ]
+    },
+    {
+      "numeroEnunciado": 74,
+      "enunciado": "Os setores que mais contribuíram para esse crescimento foram:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "agricultura e pecuária."
+        },
+        {
+          "letra": "B",
+          "texto": "agronegócio e meio ambiente."
+        },
+        {
+          "letra": "C",
+          "texto": "indústria e serviços."
+        },
+        {
+          "letra": "D",
+          "texto": "mineração e agricultura."
+        },
+        {
+          "letra": "E",
+          "texto": "construção civil e agronegócio"
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Geografia – Economia Brasileira (Setores Econômicos)",
+        "Geografia – PIB"
+      ]
+    },
+    {
+      "numeroEnunciado": 75,
+      "enunciado": "A alternativa que completa o texto é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "concentrações de ogivas nucleares do mundo."
+        },
+        {
+          "letra": "B",
+          "texto": "forças militares convencionais e de solda- dos do mundo."
+        },
+        {
+          "letra": "C",
+          "texto": "plataformas petrolíferas."
+        },
+        {
+          "letra": "D",
+          "texto": "pautas de exportação em defesa do mundo."
+        },
+        {
+          "letra": "E",
+          "texto": "defesas aéreas do mundo."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Geografia – Geopolítica (Poder Militar)",
+        "Geografia – Relações Internacionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 76,
+      "enunciado": "Na divulgação dos dados do Relatório IDH 2023-2024, em março desse ano, o Brasil fi- cou na posição 89, acusando um índice de 0,760, atrás de outros países latino-ameri- canos como Cuba, Equador, Peru, México, dentre outros. O órgão da ONU responsável pelo monitoramento mundial da qualidade de vida e dos indicadores sociais do desen- volvimento humano que é citado, quando da divulgação do IDH anual, é o (a):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "PNUD – Programa das Nações Unidas Para o Desenvolvimento."
+        },
+        {
+          "letra": "B",
+          "texto": "UNCTAD – Conferência das Nações Uni- das sobre Comércio e Desenvolvimento."
+        },
+        {
+          "letra": "C",
+          "texto": "UNESCO – Organização das Nações uni- das para Educação, Ciência e Cultura."
+        },
+        {
+          "letra": "D",
+          "texto": "BIRD – Banco Internacional de Reconstru- ção e Desenvolvimento."
+        },
+        {
+          "letra": "E",
+          "texto": "FMI – Fundo Monetário Internacional"
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Sociologia – Organizações Internacionais (ONU)",
+        "Geografia – Indicadores Socioeconômicos (IDH)"
+      ]
+    },
+    {
+      "numeroEnunciado": 77,
+      "enunciado": "O grupo mencionado na matéria atua no sul do Líbano e está diretamente envolvido no atual conflito entre Israel e Líbano. Trata-se do (da):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Hamas"
+        },
+        {
+          "letra": "B",
+          "texto": "Hezbollah"
+        },
+        {
+          "letra": "C",
+          "texto": "Jihad Islâmica"
+        },
+        {
+          "letra": "D",
+          "texto": "Talebam"
+        },
+        {
+          "letra": "E",
+          "texto": "al Qaida"
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "História – Conflitos Contemporâneos (Oriente Médio)",
+        "Geografia – Geopolítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 78,
+      "enunciado": "Em 2024, Suíça, Noruega, Islândia, Dinamar- ca e Suécia tiveram algo em comum:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apresentaram as maiores taxas de cresci- mento econômico no mundo."
+        },
+        {
+          "letra": "B",
+          "texto": "Ingressaram na OTAN."
+        },
+        {
+          "letra": "C",
+          "texto": "Figuraram entre os melhores IDH do mundo."
+        },
+        {
+          "letra": "D",
+          "texto": "Permaneceram como membros da União Europeia."
+        },
+        {
+          "letra": "E",
+          "texto": "Assistiram a partidos da extrema direita ascenderem ao poder."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Geografia – Indicadores Socioeconômicos (IDH)",
+        "Geografia – Europa"
+      ]
+    },
+    {
+      "numeroEnunciado": 79,
+      "enunciado": "A Associação Europeia de Livre Comércio (EFTA) é composta por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "França, Dinamarca, Noruega, Suécia."
+        },
+        {
+          "letra": "B",
+          "texto": "França, Finlândia, Islândia, Luxemburgo."
+        },
+        {
+          "letra": "C",
+          "texto": "Grã-Bretanha, Irlanda, Finlândia, Dinamarca."
+        },
+        {
+          "letra": "D",
+          "texto": "Noruega, Suíça, Islândia, Liechtenstein."
+        },
+        {
+          "letra": "E",
+          "texto": "Noruega, Suíça, Áustria, Holanda."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Geografia – Blocos Econômicos (EFTA)",
+        "Geografia – Europa"
+      ]
+    },
+    {
+      "numeroEnunciado": 80,
+      "enunciado": "A banda mencionada na matéria e que se apresentou na histórica edição do festival foi:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Deep Purple"
+        },
+        {
+          "letra": "B",
+          "texto": "ACDC"
+        },
+        {
+          "letra": "C",
+          "texto": "Guns N' Roses"
+        },
+        {
+          "letra": "D",
+          "texto": "Pink Floyd"
+        },
+        {
+          "letra": "E",
+          "texto": "Rolling Stones"
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Arte – Música (Rock)",
+        "Arte – Cultura Contemporânea"
+      ]
+    }
+  ]
+}

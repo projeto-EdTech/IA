@@ -1,0 +1,1678 @@
+{
+  "nomeUniversidade": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE GOIÁS",
+  "siglaUniversidade": "PUC GOIÁS",
+  "nomeProva": "Processo Seletivo 2026/1 Vestibular de Medicina",
+  "ano": 2026,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Leia o texto a seguir sobre as reações de adição:\n\nAs células que revestem o estômago secretam três substâncias importantes: muco, ácido clorídrico e o precursor da pepsina (uma enzima que quebra as proteínas). Há um revestimento de muco nas células do revestimento do estômago para protegê-las de lesões por ácido e enzimas. Qualquer perturbação dessa camada da mucosa, como, por exemplo, a resultante de uma infecção pela bactéria Helicobacter pylori ou pelo uso de aspirina e outros anti-inflamatórios não esteroides (AINEs), pode dar origem a lesões que causam uma úlcera estomacal.\nO ácido clorídrico proporciona o ambiente altamente ácido necessário para a pepsina decompor as proteínas. A elevada acidez do estômago serve também como uma barreira contra infecções por matar a maioria das bactérias.\n(BARTEL, Michael. Estomago. Manual MSD, Rahway, não paginado, abr. 2025. Disponível em: https://www.msdmanuals.com/pt/casa/dist%C3%BArbios-digestivos/biologia-do-sistema-digestivo/est%C3%B4mago. Acesso em: 1 jun. 2025. Adaptado.).\n\nAntiácidos são substâncias químicas que neutralizam o ácido gástrico que já foi secretado, elevando, assim, o nível de pH no estômago (tornando-o menos ácido). Os exemplos mais simples são o leite de magnésia ($\\text{Mg(OH)}_2$) e os seguintes compostos: $\\text{Al(OH)}_3$, $\\text{NaHCO}_3$, $\\text{CaCO}_3$ etc.\n\nQual desses antiácidos irá produzir maior quantidade de água se uma mesma quantidade molar reagir com excesso de ácido clorídrico proveniente do estômago?\n\nAnalise as alternativas abaixo e marque a correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Al(OH)3."
+        },
+        {
+          "letra": "B",
+          "texto": "NaHCO3."
+        },
+        {
+          "letra": "C",
+          "texto": "CaCO3."
+        },
+        {
+          "letra": "D",
+          "texto": "Mg(OH)2."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Reações Químicas",
+        "Química – Funções Inorgânicas: Ácidos e Bases",
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "O epitélio germinativo, tecido que reveste os túbulos seminíferos do testículo, é composto principalmente por células germinativas em diferentes fases de desenvolvimento. Uma célula do epitélio germinativo desses túbulos que apresenta 23 cromossomos diferentes e 46 moléculas de DNA seria:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Uma espermatogônia."
+        },
+        {
+          "letra": "B",
+          "texto": "Um espermatócito secundário."
+        },
+        {
+          "letra": "C",
+          "texto": "Uma célula germinativa."
+        },
+        {
+          "letra": "D",
+          "texto": "Um espermatócito primário."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Citologia",
+        "Biologia – Reprodução Humana",
+        "Biologia – Meiose e Mitose"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Leia o poema \"Noturno Resumido\", de Murilo Mendes.\n\nA noite suspende na bruta mão\nque trabalhou no circo das idades anteriores\nas casas que o pessoal dorme comportadinho\natravessado na cama\ncomprada no turco a prestações.\n\nA lua e os manifestos de arte moderna\nbrigam no poema em branco.\n\nA vizinha sestrosa da janela em frente\ntem na vida um camarada\nque se atirou dum quinto andar.\nTodos têm a vidinha deles.\n\nAs namoradas não namoram mais\nporque nós agora somos civilizados,\nandamos no automóvel gostoso pensando no cubismo.\n\nA noite é uma soma de sambas\nque eu  ando ouvindo há muitos anos.\n\nO tinteiro caindo me suja os dedos\ne me aborrece tanto:\nnão posso escrever a obra-prima\nque todos esperam do meu talento.\n\n(MENDES, Murilo. Noturno resumido. In: Melhores Poemas de\nMurilo Mendes. Seleção e prefácio de Luciana Stegagno Picchio. 2.\ned. São Paulo: Global, 2012. p. 11.).\n\nAssinale a alternativa que corretamente interpreta o modo como o poema reflete o surrealismo europeu e sua adaptação à realidade brasileira:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O surrealismo no poema pode ser relacionado à presença de imagens estranhas ou excêntricas, que oferecem uma reflexão crítica sobre a vida remota, objetividade dos dias e inovação artística."
+        },
+        {
+          "letra": "B",
+          "texto": "A obra rompe com a lógica convencional e combina elementos do cotidiano e do imaginário de forma inesperada, utilizando humor e ironia para provocar reflexão sobre a realidade, o eu lírico e a arte, característica central do surrealismo."
+        },
+        {
+          "letra": "C",
+          "texto": "O poema \"Noturno resumido\" evita uma sequência linear de acontecimentos cotidianos, a fim de sugerir que as inovações formais das vanguardas se limitam à representação da vida moderna."
+        },
+        {
+          "letra": "D",
+          "texto": "Murilo Mendes adota técnicas de observação do real, com referências literárias europeias, tornando a objetividade a inspiração para o imaginário e para o fluxo de consciência."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira: Modernismo",
+        "Língua Portuguesa – Surrealismo",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "A escala cartográfica é o fator de redução das medidas de distâncias reais da superfície ao ser representada em um mapa. Considere um mapa político do Brasil em que a distância em linha reta entre a capital federal e capital do estado do Amapá, medida com o uso de uma régua, seja de 3,8 centímetros e que sua barra de escala gráfica indique que 3,2 centímetros equivalham a 1500 quilômetros.\n\nCom base nesses dados, marque a alternativa que indica a distância real aproximada, em linha reta, entre as duas cidades:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1781 quilômetros."
+        },
+        {
+          "letra": "B",
+          "texto": "1420 quilômetros."
+        },
+        {
+          "letra": "C",
+          "texto": "2482 quilômetros."
+        },
+        {
+          "letra": "D",
+          "texto": "750 quilômetros."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Cartografia",
+        "Matemática – Proporcionalidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Uma empresa, situada numa cidade A, faz entregas nas cidades B, C e D e depois volta para a cidade A, diariamente. As distâncias em quilômetros entre as cidades estão contidas no quadro abaixo.\n\nCidades | A | B | C | D\n---|---|---|---|---\nA | 0 | 27 | 45 | 47\nB | 27 | 0 | 18 | 32\nC | 45 | 18 | 0 | 23\nD | 47 | 32 | 23 | 0\n\nConsiderando a tabela dada, qual seria a distância percorrida na rota mais curta por um automóvel dessa empresa?\n\nMarque a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "127 quilômetros."
+        },
+        {
+          "letra": "B",
+          "texto": "115 quilômetros."
+        },
+        {
+          "letra": "C",
+          "texto": "110 quilômetros."
+        },
+        {
+          "letra": "D",
+          "texto": "132 quilômetros."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Otimização",
+        "Matemática – Teoria dos Grafos (Percurso Mínimo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Em 1865, há cento e sessenta anos, formou-se a aliança entre Argentina, Brasil e Uruguai para combater a República do Paraguai. No conflito, morreram cerca de 50 mil brasileiros, a maioria devido a doenças e ao clima inóspito, não aos combates. Assome-se os quase 5 mil soldados uruguaios e os 18 mil argentinos, dentre mortos e feridos.\n\n(DORATIOTO, Francisco. Maldita guerra.\nSão Paulo: Cia das Letras, 2002, p. 483).\n\nAcerca das consequências desse conflito para o Império Brasileiro, analise as afirmações abaixo:\n\nI - O contato com tropas de lugares onde não havia mais a escravização de pessoas, bem como a ida de alforriados para as forças militares, fortaleceram a campanha abolicionista.\nII - As organizações militares cresceram em prestígio perante a população, difundindo maior sentimento de pertença à pátria.\nIII - A vitória incontestável conseguida pelas forças brasileiras contribuiu para que a liderança política de Dom Pedro II se afirmasse perante os demais países latino-americanos.\n\nMarque a única alternativa que contém apenas as afirmações corretas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II e III, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "D",
+          "texto": "I e III, apenas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Brasil Império",
+        "História – Guerra do Paraguai"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Segundo dados do Banco de Queimadas, do Instituto Nacional de Pesquisas Espaciais (INPE), a Amazônia e o Cerrado são os biomas brasileiros com maior ocorrência de focos de queimadas. Usualmente empregadas para limpeza de pastos e preparo de áreas agrícolas, as queimadas têm sido bastante utilizadas no processo de desmatamento, causando uma série de impactos negativos. Todavia, o bioma Cerrado é considerado adaptado e, de certa maneira, dependente do fogo.\n\n(PIVELLO, V. R. et al. Understanding Brazil's catastrophic fires:\ncauses, consequences and policy needed to prevent future tragedies.\nPerspectives in Ecology and Conservation, [São Paulo], v. 19, p.\n233-255, 2021.).\n\nSobre este tema, marque a alternativa em que todos os aspectos refletem essa característica de adaptação do Cerrado ao fogo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Sementes bastante resistentes e raízes mais profundas."
+        },
+        {
+          "letra": "B",
+          "texto": "Limitado desenvolvimento radicular e adaptação à deficiência hídrica."
+        },
+        {
+          "letra": "C",
+          "texto": "Solos ácidos e pouco profundos, e ocorrência de espécies de fauna endêmica."
+        },
+        {
+          "letra": "D",
+          "texto": "Cascas de árvores finas e arbustos de médio e pequeno porte."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Ecologia",
+        "Biologia – Biomas Brasileiros",
+        "Geografia – Biogeografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Sobre a possibilidade de vida em outros planetas em líquidos iônicos, leia o texto a seguir:\n\n[...] experimentos científicos mostram que uma mistura de ácido sulfúrico e certos compostos orgânicos que contêm nitrogênio produz líquido iônico.\nEm planetas rochosos, o ácido sulfúrico pode ser um subproduto da atividade vulcânica, e compostos com nitrogênio foram detectados em vários asteroides e planetas do nosso sistema solar. Isso aponta que tais compostos podem estar presentes em outros sistemas planetários.\nLíquidos iônicos têm pressão de vapor extremamente baixa e não evaporam; eles podem se formar e persistir em temperaturas mais altas e pressões mais baixas do que a água líquida tolera. Os pesquisadores observam que o líquido iônico pode ser um ambiente propício para algumas biomoléculas, como certas proteínas que conseguem permanecer estáveis nesses fluidos.\nPor isso, os cientistas propõem que, mesmo em planetas muito quentes ou com atmosferas de pressão muito baixa para suportar água líquida, ainda pode haver bolsões de líquido iônico. E onde há líquido, pode haver potencial para vida – embora dificilmente essa configuração de ambiente seja propícia ao surgimento de seres tão complexos como aqueles encontrados nos ecossistemas aquáticos da Terra.\n(ALMEIDA, Arthur. Planetas que não têm água ainda podem\nproduzir outros líquidos, indica estudo. Galileu, São Paulo. Ano 34,\nnão paginado, 12 jul. 2025. Disponível em: https://revistagalileu.globo.\ncom/ciencia/espaco/noticia/2025/08/planetas-que-nao-tem-agua-\nainda-podem-produzir-outros-liquidos-indica-estudo.ghtml. Acesso\nem: 2 jul. 2025. Adaptado.).\n\nConsiderando as informações apresentadas, analise as proposições a seguir:\n\nI - Em um ambiente fechado, na mesma temperatura e com o mesmo número de mols total, uma amostra de água vai apresentar menos moléculas no estado gasoso que uma amostra de líquido iônico.\nII - O ácido sulfúrico pode ser formado em vulcões pela união do dióxido de enxofre (um óxido ácido) com a água. Essa é uma das reações que também podem formar chuvas ácidas.\nIII - Das funções orgânicas nitrogenadas, temos as aminas e amidas que apresentam, respectivamente, pelo menos um grupo alquila e um grupo acila substituindo um hidrogênio do composto $\\text{NH}_3$.\n\nMarque a única alternativa que corresponde a afirmações corretas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e III apenas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Funções Orgânicas Nitrogenadas",
+        "Química – Propriedades da Matéria",
+        "Química – Reações Químicas",
+        "Química – Química Ambiental"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Os filósofos pré-socráticos buscaram compreender a origem e a estrutura da realidade por meio da razão, inaugurando um novo modo de pensar, distinto das explicações míticas. Ao propor explicações racionais para a constituição do universo, eles estabeleceram as bases do pensamento filosófico ocidental.\n\nCom base nas ideias e contribuições dos filósofos pré-socráticos, analise as afirmativas a seguir:\n\nI - Anaxímenes considerava o ar como o princípio fundamental (arché), que, por processos de rarefação e condensação, dava origem a todos os seres.\nII - Heráclito defendia que tudo está em constante fluxo, simbolizado pela frase \"não se pode entrar duas vezes no mesmo rio\".\nIII - Parmênides defendia que o ser é múltiplo e está em constante transformação, e que a mudança é a essência da realidade.\nIV - Os pitagóricos consideravam que a harmonia do universo dependia exclusivamente dos elementos físicos, sem qualquer relação com proporções numéricas.\n\nMarque a alternativa que contém as afirmações corretas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "III e IV apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e III apenas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Filosofia – Filosofia Antiga",
+        "Filosofia – Pré-socráticos"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Ordem nº 666. Nesta data, tendo assumido propriamente os deveres executivos, eu declaro a fome nesta província estritamente abolida por mim. Desde já, todos os cidadãos estão ordenados a estarem saciados.\n\n(ZAMIÁTIN, E. 2019, p. 220 apud LIMA, C. A. O humor presente\nem escritos soviéticos nos contextos da revolução. Revista Fenix,\nUberlândia, a. 22, n. 1, jun. 2025, p. 129. Adaptado.).\n\nAs anedotas, a exemplo da citada acima, foram utilizadas pelos socialistas russos para criticar o sistema político pré-revolucionário e afirmar os novos valores que deveriam guiar a sociedade.\n\nMarque a alternativa que caracteriza corretamente o regime político-administrativo a ser superado pelos revolucionários:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Tratava-se de uma ditatura militar que, sabiamente, explorava a grande capacidade organizacional do Exército Vermelho, famoso pelas suas vitórias desde que derrotara Napoleão Bonaparte."
+        },
+        {
+          "letra": "B",
+          "texto": "Tratava-se de um sistema burocrático ineficiente, centralizado, autoritário e baseado na exploração intensa do trabalho camponês, o que intensificou as crises do início do século XX."
+        },
+        {
+          "letra": "C",
+          "texto": "Tratava-se de um sistema político que, apesar dos poderes do Czar, já apontava para o parlamentarismo democrático, o que possibilitou a disputa entre os Mencheviques e Bolcheviques pelo domínio da Rússia."
+        },
+        {
+          "letra": "D",
+          "texto": "Tratava-se de um regime político-econômico marcado pela influência democrática, ocidental e capitalista, o que gerou tanto a forte burguesia industrial quanto a organização sindical do proletariado."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Rússia Soviética",
+        "História – Revolução Russa",
+        "Sociologia – Sistemas Políticos e Econômicos"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Leia o fragmento de texto a seguir:\n\nIV\n\nEra um sonho dantesco... o tombadilho\nQue das luzernas avermelha o brilho.\nEm sangue a se banhar.\nTinir de ferros... estalar de açoite...\nLegiões de homens negros como a noite,\nHorrendos a dançar...\n\nNegras mulheres, suspendendo às tetas\nMagras crianças, cujas bocas pretas\nRega o sangue das mães:\nOutras moças, mas nuas e espantadas,\nNo turbilhão de espectros arrastadas,\nEm ânsia e mágoa vas!\n\nE ri-se a orquestra irônica, estridente...\nE da ronda fantástica a serpente\nFaz doudas espirais...\nSe o velho arqueja, se no chão resvala,\nOuvem-se gritos... o chicote estala.\nE voam mais e mais...\n[...]\n\n(ALVES, Castro. O Navio Negreiro. [S. 1.]: EX!, 2016.p. 16.).\n\nNo fragmento acima, de O Navio Negreiro, Castro Alves recorre a um estilo característico da poesia condoreira. Sobre a linguagem empregada pelo autor e seus contemporâneos condoreiros, assinale a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A escolha de termos complexos e a presença de recursos expressivos demonstram que os condoreiros buscavam uma poesia fortemente introspectiva, voltada à subjetividade individual."
+        },
+        {
+          "letra": "B",
+          "texto": "A poesia condoreira, ao privilegiar os sentimentos idealizados e a evasão para mundos fantásticos, aproxima-se das características típicas da terceira geração do romantismo no Brasil."
+        },
+        {
+          "letra": "C",
+          "texto": "A linguagem condoreira é descritiva, marcada pela objetividade e pelo uso de imagens sólidas, que buscam retratar o cotidiano de forma fiel e realista."
+        },
+        {
+          "letra": "D",
+          "texto": "O uso de recursos que distanciam a idealização romântica e a inserção de metáforas grandiosas aproximam o condoreirismo da retórica e da intenção de impactar o público leitor."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira: Romantismo",
+        "Língua Portuguesa – Condoreirismo",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Leia o texto \"De saudade com você”.\n\nEu estava numa viagem de trabalho quando recebi pelo celular uma mensagem de voz gravada pela minha filha Luísa, na época com 2 anos. Embora goste muito de falar, desta vez Luísa foi bem econômica com as palavras. Disse apenas:\n\"Papai estou de saudade com você”.\nPronto, sem mais.\nDe início só achei engraçado. Ela costumava fazer essas trocas. Às vezes eram apenas letras desencontradas. Noutras, uma palavra no lugar de outra dentro da frase, como me pareceu o caso. Fui fazer o meu trabalho e só à noite, no hotel, me dei conta da pérola que viajava escondida naquela bravíssima mensagem.\n[...]\n[...] Saudade é o que você sente quando o outro, tão querido, está ausente. É algo que parte sempre de você para o outro. Se também o outro sente a sua falta, vai lhe dizer: estou com saudade de você. O sentido se inverte, mas não deixa de ser unilateral.\nA grande novidade nos altos estudos sobre o tema vinha da frase da Luísa. Ali, a saudade é compartilhada. Não estou com saudade de você. Estou de saudade com você.\nEstar com saudade pode ser uma coisa boa. Quer dizer que você está vivo, que sente algo profundo por alguém. Agora, estar de saudade vai além disso, está no campo do divino, do maravilhoso. Significa que, em algum lugar, existe uma pessoa que também pensa em você (justamente a pessoa que você gostaria que estivesse ao seu lado).\nSignifica ainda que você tem consciência de que o sentimento é recíproco. No exato momento em que você sente a falta do outro, sabe que o outro também sente a sua. Por isso tome cuidado, é arriscado dizer que está de saudade com alguém. É preciso ter bala na agulha para dizer uma coisa dessas. Vai que é só você que sente e o outro não está nem aí.\nEntão, se você não tem certeza de que é correspondido, melhor ficar com a forma tradicional mesmo. Manda ver um estou com saudade e tudo bem.\nSe, no entanto, tiver certeza de que, do outro lado da linha, existe alguém que sente sua falta com a mesma intensidade com que você sente a dele, fique à vontade para usar a expressão criada pela Luísa (ela já me garantiu que não vai exigir direitos autorais). Encha o seu coração e diga, com firmeza: estou de saudade com você.\n(CARNEIRO, Flávio. De saudade com você. In: A força da palavra:\num olhar goiano refletido em 48 crônicas selecionadas (ebook).\nGoiânia: O popular, [2021]. p. 30. Adaptado. Disponível em: www.\nhttps://conteudo.opopular.com.br. Acesso em: 8 ago. 2025.).\n\nCom base na leitura do texto \"Estou de saudade com você”, analise as afirmações seguintes:\n\nI - Todas as interlocuções entre o autor e o leitor caracterizam-se como discurso indireto livre.\nII - Esta crônica tem caráter injuntivo, embora não predominem verbos no imperativo.\nIII - A temática do texto é a ênfase do sentido da linguagem em uso entre emissor e receptor.\nIV - Os verbos flexionados no pretérito perfeito do indicativo, são predominantes no texto.\n\nMarque a única alternativa que apresenta todas as afirmações corretas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "III e IV apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III apenas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Gêneros Textuais (Crônica)",
+        "Língua Portuguesa – Discurso Direto e Indireto"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Uma fonte sonora em movimento emite ondas que se propagam no ar com frequência de 680 Hz e comprimento de onda $\\lambda_1$. Essas ondas incidem sobre um meio de separação com um líquido e parte delas é refletida de volta ao ar, com metade da velocidade de propagação inicial. A outra parte é transmitida ao líquido, com velocidade 50% maior que no ar.\n\nConsidere que a frequência da onda transmitida é alterada devido ao efeito Doppler, causado pelo movimento relativo de aproximação entre os meios.\n\nDado: velocidade do som no ar = 340 m/s.\n\nA partir das informações fornecidas, marque a alternativa que apresenta o comprimento de onda da onda refletida ($\\lambda_{ref}$) e o comprimento de onda da onda transmitida ($\\lambda_{trans}$), respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\lambda_{ref} = 0,50 \\text{ m}$; $\\lambda_{trans} = 0,82 \\text{ m}$."
+        },
+        {
+          "letra": "B",
+          "texto": "$\\lambda_{ref} = 0,25 \\text{ m}$; $\\lambda_{trans} = 0,17 \\text{ m}$."
+        },
+        {
+          "letra": "C",
+          "texto": "$\\lambda_{ref} = 0,25 \\text{ m}$; $\\lambda_{trans} = 0,71 \\text{ m}$."
+        },
+        {
+          "letra": "D",
+          "texto": "$\\lambda_{ref} = 0,50 \\text{ m}$; $\\lambda_{trans} = 0,32 \\text{ m}$."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Ondas",
+        "Física – Acústica",
+        "Física – Efeito Doppler"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Entre os dias 10 e 21 de novembro de 2025, o Brasil sediará a 30ª Conferência das Partes (COP 30), na cidade de Belém, no Pará. O evento constitui um importante espaço para acompanhamento, negociação e tomada de decisões relacionadas a questões inerentes ao combate às mudanças climáticas globais.\n\nSobre esta e outras edições da COP, marque a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Podem participar chefes de Estado, ministros e diplomatas dos países, sem a possibilidade de participação de integrantes ou representantes da sociedade civil e de empresas privadas."
+        },
+        {
+          "letra": "B",
+          "texto": "A proposta da realização da COP teve origem durante a Conferência Mundial sobre o Clima, em 1979, e a primeira reunião ocorreu no contexto da ECO-92, no Rio de Janeiro."
+        },
+        {
+          "letra": "C",
+          "texto": "Podem participar representantes de qualquer país do mundo, mesmo não sendo signatário da Convenção-Quadro das Nações Unidas sobre Mudança do Clima."
+        },
+        {
+          "letra": "D",
+          "texto": "O evento ocorre a cada dois anos, em um país indicado dentre aqueles que registraram as maiores emissões de gases de efeito estufa nas últimas duas décadas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Meio Ambiente",
+        "Geografia – Mudanças Climáticas",
+        "Sociologia – Relações Internacionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "O \"Destino Manifesto\", ideal estadunidense ainda em vigor, surgiu no século XIX, com fortes conotações religiosas. O pastor Josiah Strong, com a obra Nosso País (1885), obteve “muito sucesso ao insistir que os Estados Unidos, com seu 'gênio anglo-saxão para a colonização', deviam espalhar as bênçãos do protestantismo e da democracia 'na direção do México, América Central e do Sul, para as ilhas do mar, para África e além”.\n\n(KARNAL, L. et al. História dos Estados Unidos: das origens ao\nséculo XXI. São Paulo: Contexto, 2007, p. 196).\n\nAcerca das consequências geopolíticas desse ideal na história latino-americana, assinale a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Resultou na intervenção militar a favor das lutas pela independência de Cuba contra a colonização espanhola, seguido do domínio econômico sobre a ilha."
+        },
+        {
+          "letra": "B",
+          "texto": "Resultou no aporte financeiro dado à luta dos haitianos contra o domínio napoleônico, o que contribuiu para a libertação dos escravos e sua conversão ao cristianismo."
+        },
+        {
+          "letra": "C",
+          "texto": "Resultou no apoio financeiro dado ao exército liderado por José de San Martín, que venceu o domínio da tirania espanhola na Argentina, no Uruguai e no Chile."
+        },
+        {
+          "letra": "D",
+          "texto": "Resultou na intervenção militar em apoio ao exército liderado por Simon Bolívar, que expulsou os agentes da monarquia espanhola da Venezuela, da Bolívia, do Paraguai e do Peru."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Expansão Territorial dos EUA",
+        "História – Imperialismo Americano",
+        "Geografia – Geopolítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Um pesquisador está tentando criar um método para a produção de um aminoácido em laboratório através da mistura de seus componentes básicos. Analise atentamente as proposições abaixo e marque aquela que contém os elementos básicos necessários para que o pesquisador possa produzir um aminoácido no laboratório, com base na fórmula geral de um aminoácido:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Carbono, hidrogênio, oxigênio e nitrogênio."
+        },
+        {
+          "letra": "B",
+          "texto": "Hidrogênio, carbono e enxofre."
+        },
+        {
+          "letra": "C",
+          "texto": "Carbono, hidrogênio e oxigênio."
+        },
+        {
+          "letra": "D",
+          "texto": "Hidrogênio, oxigênio, potássio e enxofre."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Química Orgânica",
+        "Química – Aminoácidos"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Read the sentence: \"Poucas vezes havia visto uma vista tão impressionante das montanhas\".\n\nMark the alternative which correctly translates its idea:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Never saw I such a breathtaking view of the mountains."
+        },
+        {
+          "letra": "B",
+          "texto": "Seldom I had seen such a breathtaking view of the mountains."
+        },
+        {
+          "letra": "C",
+          "texto": "Only a few times I've saw such a breathtaking view of the mountains."
+        },
+        {
+          "letra": "D",
+          "texto": "Rarely had I seen such a breathtaking view of the mountains."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Gramática",
+        "Inglês – Inversão Sujeito-Verbo",
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Leia o texto \"Amor à voz”.\n\nMinha amiga Mariana veio contar a novidade, eufórica.\n\"Estou apaixonada e namorando!\"\n\"Oh! Isso é extraordinário. Ainda se usa?\"\n“Claro, Eleanora. O amor ainda acontece o tempo todo, nas mais diferentes formas.\"\n\"E como ele é? Onde o conheceu?\"\n\"Tem uma voz linda, é educado. Eu o conheci no shopping.\"\n[...]\nFoi na cancela eletrônica.\"\n\"Na cancela?! Você entrava e ele saía?\"\n“Não. Ele estava lá, como se me esperasse a vida toda.\"\n\"Ele é um funcionário do shopping? Segurança do estacionamento? Ajuda na entrega ou recolhimento dos tickets? Distribui folhetos promocionais?”\n\"Nada disso. Ele é a voz.\"\n\"Como a voz?\"\n\"Sim. Todas as vezes que eu ia até o shopping, ele me dizia gentilmente: bem vinda, e subia, impávido, me permitindo chegar lá. E cada vez que eu saía: obrigada por me escolher.\"\n“Você está me dizendo que namora aquela voz da cancela eletrônica?\"\n\"Qual o problema? Ele me disse mais palavras gentis do que ouvi em toda a minha vida dos nativos. Os homens locais só emitem grunhidos ou emojis, padecem de afasia ou são lacônicos. Mal nos dizem boa noite. Raramente, um bom dia. E raramente demonstram gratidão pelo que lhes damos.\"\n\"Mas quando ele diz bem-vinda, na verdade, bem-vindo, ele dá as boas vindas, digo, as boas idas ao shopping, não a ele. O mesmo quando fala obrigado pela escolha. Refere-se ao shopping, não ao fato de você o ter escolhido. E repete para todas e todos.\"\n“O que tem? Você já não conheceu homens com repertório limitadíssimo, que só distribuem frases feitas para todas? Além do mais, exclusividade no amor é uma bobagem do século 20, aliás, 19.\"\n\"Mas ele é só uma gravação, uma voz e nem tem um corpo.\"\n[...]\n\"Pois tenho uma porção de amigos que construíram uniões estáveis com a gravação do cartão de crédito. Nem falo dos amores de verão com a voz do aeroporto.\"\n\"Mas não é um relacionamento baseado no interesse? Ele não te faz cobranças diárias?\"\n\"Que relacionamento não tem suas faturas? É bem verdade que venho gastando muito em compras. Mas o amor sempre foi perdulário. De resto é uma relação saudável. Mantemos nossa independência e privacidade. Eu entro. Ele fica lá no espaço dele. É como um desses casamentos modernos, em casas separadas.”\n[...]\n\n(FERNANDES, Cassia. Amor à voz. In: A força da palavra: um\nolhar goiano refletido em 48 crônicas selecionadas (ebook). Goiânia:\nO popular, [2021]. p. 11-12. Adaptado. Disponível em: https://www.\nconteudo.opopular.com.br. Acesso em: 8 ago. 2025.).\n\nCom base na leitura do texto, analise as assertivas a seguir:\n\nI - O texto apresenta uma ressignificação contemporânea do conceito de relacionamento amoroso.\nII - O texto reflete representações estereotipadas e superficiais dos relacionamentos amorosos comuns na atualidade.\nIII - O discurso entre Mariana e Eleanora desmistifica as relações amorosas tradicionais.\nIV - Quanto ao gênero textual, o texto é dialogal com a presença de um narrador em 3ª pessoa.\n\nMarque a única alternativa que apresenta todas as afirmações corretas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II, III e IV."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III apenas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Gêneros Textuais (Crônica)",
+        "Língua Portuguesa – Discurso Direto e Indireto"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Os blocos econômicos compreendem acordos estratégicos entre países para o fortalecimento de relações comerciais, fluxos de investimento, integração regional e apoio político. No contexto de um mundo globalizado, esses blocos constituem importante mecanismo de integração e trocas culturais e sociais que afetam tanto a economia e a política dos países-membros quanto o cotidiano de seus habitantes.\n\nCom relação aos blocos econômicos, marque a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A União Europeia (EU) adota o euro como moeda única e permite a livre circulação de pessoas, bens, serviços e capitais."
+        },
+        {
+          "letra": "B",
+          "texto": "O Tratado Norte-Americano de Livre Comércio (NAFTA) é constituído pelos Estados Unidos e o Canadá."
+        },
+        {
+          "letra": "C",
+          "texto": "O BRICS e o Grupo dos Vinte (G20) são blocos econômicos que, apesar não estarem oficialmente em vigência, promovem uma série de acordos entre seus países-membros."
+        },
+        {
+          "letra": "D",
+          "texto": "O Mercado Comum do Sul (MERCOSUL) tem como países-membros o Brasil, a Argentina, o Uruguai e o Paraguai, além de outros países sul-americanos associados."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Globalização",
+        "Geografia – Blocos Econômicos"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Considere todas as funções inversas de si mesmas localizadas no segundo e quarto quadrantes. Sobre essas funções é correto afirmar que:\nA () A única função do primeiro grau deste tipo é $f(x) = -x + 2$.\nB () Todas são funções ímpares.\nC () Todas são funções pares.\nD () A única função do segundo grau deste tipo é $f(x) = x^2$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A única função do primeiro grau deste tipo é $f(x) = -x + 2$."
+        },
+        {
+          "letra": "B",
+          "texto": "Todas são funções ímpares."
+        },
+        {
+          "letra": "C",
+          "texto": "Todas são funções pares."
+        },
+        {
+          "letra": "D",
+          "texto": "A única função do segundo grau deste tipo é $f(x) = x^2$."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Funções",
+        "Matemática – Funções Inversas",
+        "Matemática – Funções Pares e Ímpares"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Etienne de La Boétie foi um jovem pensador que escreveu, em meados do século XVI, o Discurso sobre a servidão voluntária. Essa obra ajuda a encontrar, diz Edson D. Toneti, “a sabedoria que permite decifrar as mistificações da tirania, ler sua engenharia e projetar suas estratégias, recobrando a liberdade esquecida, sinalizada quando o autor escreve que a tirania não permite acesso aos livros. Para além de um esforço de reeducação do povo, convém retomar uma outra perspectiva educacional e uma nova ética da amizade como meios para o exercício da liberdade e, além disso, da política\".\n\n(TONETI, E. D. Discurso da servidão voluntária: relações de\nforça e liberdade na obra de La Boétie. Revista de Filosofia Aurora,\nPUC-PR, a. 21, n. 28, jan.-jun. de 2009, p. 166-167. Adaptado.).\n\nMaque a alternativa que demonstra de modo correto o movimento histórico que incorpora os valores defendidos por La Boétie:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Trata-se do hermetismo moderno, com a glorificação da razão humana como principal habilidade para se decifrar os enigmas do universo."
+        },
+        {
+          "letra": "B",
+          "texto": "Trata-se do Iluminismo cientifico, com a consequente crítica do sistema monárquico, típico do Antigo Regime."
+        },
+        {
+          "letra": "C",
+          "texto": "Trata-se do humanismo renascentista, com o consequente enaltecimento do papel do indivíduo na sociedade."
+        },
+        {
+          "letra": "D",
+          "texto": "Trata-se do pensamento neoescolástico, com a consequente ênfase na liberdade como dom supremo dado por Deus."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Filosofia – Filosofia Moderna",
+        "Filosofia – Humanismo e Renascimento"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "O conhecimento sobre os genes alelos é importante porque a combinação dos alelos herdados dos pais pode afetar a expressão de traços fisionômicos ou a propensão a doenças, influenciando tanto características visíveis, como cor dos olhos e do cabelo quanto aspectos bioquímicos e funcionais do organismo. Além disso, o estudo dos alelos pode ajudar no entendimento dos mecanismos de herança e evolução genética.\n\nMarque a alternativa que indica onde os alelos para uma determinada característica serão encontrados:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "No mesmo locus dos cromossomos homólogos de uma população."
+        },
+        {
+          "letra": "B",
+          "texto": "Nos cromossomos não homólogos de uma população."
+        },
+        {
+          "letra": "C",
+          "texto": "Em diferentes locus nos cromossomos de uma população."
+        },
+        {
+          "letra": "D",
+          "texto": "Nas cromátides irmãs e em diferentes locus nos indivíduos de uma população."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Genética",
+        "Biologia – Hereditariedade",
+        "Biologia – Evolução"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Um grupo de estudantes montou, no laboratório de Física da escola, um circuito elétrico utilizando uma bateria de 12 V, um fusível que suporta até 4,0 A e um resistor de 2 $\\Omega$. Esses estudantes desejam adicionar um segundo resistor ao circuito, de forma que ele possa ser ligado sem queimar o fusível.\n\nMarque a alternativa que corretamente indica, a partir das informações fornecidas, o valor mínimo desse novo resistor e o tipo de ligação para que o fusível não se queime:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,0 $\\Omega$ em paralelo."
+        },
+        {
+          "letra": "B",
+          "texto": "0,25 $\\Omega$ em série."
+        },
+        {
+          "letra": "C",
+          "texto": "1,0 $\\Omega$ em série."
+        },
+        {
+          "letra": "D",
+          "texto": "0,25 $\\Omega$ em paralelo."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Eletricidade",
+        "Física – Circuitos Elétricos",
+        "Matemática – Leis de Ohm"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Leia o texto a seguir sobre moléculas orgânicas encontradas em asteroides:\n\nBennu é uma rocha espacial, rica em carbono, conhecida como asteroide de pilha de escombros. Cientistas acreditam que Bennu foi uma vez parte de um asteroide \"pai\" maior que perdeu algumas peças devido a um impacto. Então, essas peças despedaçadas se uniram, como uma pilha de escombros rochosos fracamente mantida junta pela gravidade.\n[...]\nDr. Daniel P. Glavin e sua equipe detectaram milhares de compostos moleculares orgânicos, incluindo 33 aminoácidos, nas amostras de Bennu que estudaram. Aminoácidos, ou moléculas que se combinam para formar proteínas, são alguns dos blocos fundamentais da vida. Os pesquisadores encontraram 14 dos 20 aminoácidos usados na biologia para construir proteínas e 19 aminoácidos não proteicos, muitos dos quais são raros ou inexistentes na biologia conhecida, disse Glavin.\nA equipe também detectou adenina, guanina, citosina, timina e uracila – todas as cinco nucleobases biológicas, ou componentes que formam o código genético no DNA e no RNA. “Essas moléculas orgânicas foram todas encontradas anteriormente em meteoritos, mas, em contraste com meteoritos, as amostras de Bennu são pristinas e foram protegidas do aquecimento durante a entrada atmosférica e exposição à contaminação terrestre\", disse Glavin.\n\n(STRICKLAND, Ashley. Asteroide indica que \"ingredientes\" para\nvida têm origem extraterrestre. CNN Brasil, [S. 1.], não paginado,\n30 jan. 2025. Disponível em: https://www.cnnbrasil.com.br/tecno-\nlogia/asteroide-indica-que-ingredientes-para-vida-tem-origem-\n-extraterrestre/. Acesso em: 31 jan. 2025. Adaptado.).\n\nConsiderando o texto sobre moléculas orgânicas encontradas em asteroides, analise as afirmações a seguir:\n\nI - Um aminoácido apresenta caráter anfótero, pois o radical carboxila e o amina na molécula apresentam acidez e basicidade, respectivamente.\nII - Para ser considerada um aminoácido, uma molécula orgânica precisa apresentar funções amida e ácido carboxílico.\nIII - As proteínas são macromoléculas formadas das ligações peptídicas entre os aminoácidos e liberam geralmente moléculas de água.\n\nMarque a única alternativa que corresponde a afirmações corretas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III apenas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Química Orgânica",
+        "Química – Aminoácidos e Proteínas",
+        "Biologia – Bioquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Read the text about the risk of dementia:\n\nIn the present systematic literature review, over 316\nof 2100 identified articles were reviewed evaluating the\nimpact of $\\ge 3$ months of anticholinergic use on cognitive\noutcomes. Out of those, 21 studies were qualitatively\nsynthesized and 6 met the a priori criteria for inclusion.\nWith considerable evidence of heterogeneity, the use\nof anticholinergic agents for $\\ge 3$ months was found to\nincrease the risk of dementia on average by 46% relative\nto the risk given with nonuse.\n\n(INCREASED risk of incident dementia following use of\nanticholinergic agents: A systematic literature review and meta-\nanalysis. PubMed Central. Available in: https://pmc.ncbi.nlm.nih.\ngov/articles/PMC7821204/. Access in: Aug. 6th, 2025.).\n\nBased on the text, which of the following statements is most accurate? Mark the right alternative:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Anticholinergic use for less than three months significantly increases dementia risk."
+        },
+        {
+          "letra": "B",
+          "texto": "The study recommends anticholinergic agents for long-term cognitive health."
+        },
+        {
+          "letra": "C",
+          "texto": "The meta-analysis found uniform results across all included studies."
+        },
+        {
+          "letra": "D",
+          "texto": "Only a small fraction of the initially identified studies met the inclusion criteria."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Leitura e Interpretação de Texto",
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Meissner, o efeito que explica a levitação de comboios asiáticos.\n\nComo é que os comboios se movem sem tocar nos carris, como é que se movem sem fazer contacto físico com eles? Parece impossível, mas é factual. E tudo graças ao efeito Meissner, que tornou possível a levitação magnética utilizada nos comboios Maglev no Japão, na China e na Coreia do Sul. Trata-se de um efeito descoberto em 1933 por Walther Meissner e Robert Ochsenfeld, que permite que certos materiais, quando arrefecidos abaixo de uma certa temperatura crítica, expulsem completamente os campos magnéticos no seu interior. Trata-se de uma capacidade que lhes permite anular completamente o seu campo interno, permitindo assim a condução elétrica sem resistência.\n\n(FREIRE, Noelia. Meissner, o efeito que explica a levitação\nde comboios asiáticos. National Geographic, Whashingoton\nD.C., não paginado, 11 abr. 2025. Disponível em: https://www.\nnationalgeographic.pt/ciencia/efeito-meissner-comboios-asia-\nlevitacao_5214. Acesso em: 7 jul 2025.).\n\nO efeito Meissner, discutido no fragmento de texto, refere-se a um fenômeno que ocorre quando certos materiais, chamados supercondutores, são resfriados abaixo de uma temperatura crítica e passam a expulsar completamente o campo magnético de seu interior, permitindo-lhes a levitação estável. Considere que, em um laboratório de Física, um pequeno trem experimental de 400 kg levita devido à repulsão magnética. Se o campo magnético gerado pelos trilhos exerce uma força de 5000 N para cima, marque a alternativa que apresenta a aceleração inicial desse trem no momento em que ele for liberado. Considere $g = 10 \\text{ m/s}^2$:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5,0 m/s² para baixo."
+        },
+        {
+          "letra": "B",
+          "texto": "0,5 m/s² para cima."
+        },
+        {
+          "letra": "C",
+          "texto": "1,5 m/s² para baixo."
+        },
+        {
+          "letra": "D",
+          "texto": "2,5 m/s² para cima."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Eletromagnetismo",
+        "Física – Leis de Newton",
+        "Física – Supercondutividade"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Ao visitar uma praia pela primeira vez, um turista diz ao seu amigo cientista que, a vista do mar, dá-lhe a impressão de que a superfície da Terra não tem curvatura. O amigo o interpela dizendo que devido à imensidão da Terra, não conseguimos perceber essa curvatura, pois o ponto a partir do qual ela seria perceptível, nosso cérebro reconhece como a linha do horizonte. Disse-lhe ainda que a curvatura da terra é dada pela fórmula $C = D^2/2R$, em que D é a distância dada para se calcular a curvatura, e R, o raio da Terra, que é de aproximadamente 6.350 quilômetros. Para mostrar ao amigo como perceber a curvatura da Terra, o cientista usa seu telescópio para observar um navio, cuja altura da parte flutuante é de dez metros – cinco de casco e cinco de mastro. O navio se afastava da praia naquele instante e desaparece lentamente no horizonte, como se afundasse: primeiro, o casco; depois, o mastro.\n\nFaça uso da fórmula apresentada pelo cientista e calcule a altura visível do navio quando ele estiver a uma distância de 10 quilômetros da praia.\n\nMarque a alternativa que apresenta, em números inteiros, a que mais se aproxima da resposta correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 m do mastro."
+        },
+        {
+          "letra": "B",
+          "texto": "6 m do navio."
+        },
+        {
+          "letra": "C",
+          "texto": "4 m do mastro."
+        },
+        {
+          "letra": "D",
+          "texto": "8 m do navio."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Cartografia",
+        "Matemática – Geometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Read the sentences about verbal tenses and time expressions:\n\nI - The simple past and the past perfect in \"By the time she arrived, the concert had started\" refer to two past actions, and emphasize that they were completed at the same time in the past.\nII - The sentence \"He is living in London since 2018\" uses the present continuous because it describes an action that began in the past and continues into the present.\nIII - The present perfect in “I have never seen such a beautiful sunset” does not express a specific action in the past, but rather a life experience.\nIV - The sentence \"They will have finished the project by next week\" uses the future perfect tense to express an action that will be completed before a specific point in the future.\n\nMark the alternative that presents the correct statements:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II and III only."
+        },
+        {
+          "letra": "B",
+          "texto": "I and II only."
+        },
+        {
+          "letra": "C",
+          "texto": "I and IV only."
+        },
+        {
+          "letra": "D",
+          "texto": "III and IV only."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Gramática",
+        "Inglês – Tempos Verbais"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Com ampla cobertura da mídia, o primeiro papa estadunidense da história da Igreja foi eleito em 8 de maio de 2025 e assumiu o nome de Leão XIV. Apesar do grande prestígio pontifical e dos monumentos eclesiásticos, nem sempre o bispo de Roma foi tido como o principal líder do catolicismo. Sobre esse tema, avalie as afirmações a seguir:\n\nI - O imperador romano Constantino foi o primeiro líder político a questionar as arbitrariedades das decisões do Sumo Pontífice, ao decretar o limite de seus poderes ao \"mundo espiritual\".\nII - O grande cisma entre as cristandades ocidental e oriental que ocorreu no século XI a partir de divergências sobre questões teológicas e litúrgicas, levou à excomunhão mútua de suas respectivas autoridades centrais.\nIII - O movimento da Reforma Protestante questionou os poderes papais nos níveis espiritual e terreno, e acarretou a relativa independência teológica e política dos novos grupos cristãos surgidos a partir do século XVI.\n\nMarque a única alternativa que contém apenas as afirmações corretas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e III, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "I e II, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III, apenas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História Geral",
+        "História – Idade Média",
+        "História – Reforma Protestante",
+        "Filosofia – Filosofia da Religião"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Leia o texto \"Pequeno poema didático”, de Mário Quintana:\n\nTexto I\n\nO tempo é indivisível. Dize,\nQual o sentido do calendário?\nTombam as folhas e fica a árvore,\nContra o vento incerto e vário.\n\nA vida é indivisível. Mesmo\nA que se julga mais dispersa\nE pertence a um eterno diálogo\nA mais inconsequente conversa.\n\nTodos os poemas são um mesmo poema,\nTodos os porres são o mesmo porre,\nNão é de uma vez que se morre...\nTodas as horas são horas extremas!\n\n(QUINTANA, Mário. Pequeno poema didático. In: Os melhores\npoemas de Mário Quintana. Seleção de Fausto Cunha. 12. ed. São\nPaulo: Global, 1998, p. 104).\n\nAvalie as asserções a seguir sobre o poema e a relação proposta entre elas:\n\nI - No poema, a filosofia da vida, da arte e da morte se mesclam\nporque\nII - O eu lírico define cada um desses aspectos que envolve o ser humano.\n\nAssinale a única alternativa correta sobre as asserções:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As afirmativas I e II são falsas. Mas a afirmativa II justifica a I."
+        },
+        {
+          "letra": "B",
+          "texto": "As afirmativas I e II são verdadeiras. A afirmativa II não justifica a I."
+        },
+        {
+          "letra": "C",
+          "texto": "As afirmativas I e II são verdadeiras. A afirmativa II justifica a I."
+        },
+        {
+          "letra": "D",
+          "texto": "A afirmativa I é verdadeira e a II é falsa. A afirmativa II não justifica a I."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Gêneros Textuais (Poesia)",
+        "Filosofia – Metafísica"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "O metabolismo é fundamental para a vida, pois engloba todas as reações químicas que ocorrem dentro dos organismos para converter alimentos em energia e materiais essenciais à manutenção, ao crescimento e à reparação celular.\n\nSobre o metabolismo, analise atentamente as afirmativas apresentadas a seguir e marque a única correta:\n\nA () As enzimas catalisam as reações químicas ao diminuir a energia de ativação e converter as moléculas de substrato em produtos.\nB () As células utilizam a reação endergônica da hidrólise de ATP para aproveitar a energia das ligações fosfato nas reações químicas.\nC () Uma via anabólica libera energia e decompõe moléculas, ao passo que uma via catabólica requer energia e constrói moléculas.\nD () A energia livre, chamada energia livre de Gibbs (G) é a energia armazenada, não utilizável, que, apesar de livre, não pode realizar trabalho.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As enzimas catalisam as reações químicas ao diminuir a energia de ativação e converter as moléculas de substrato em produtos."
+        },
+        {
+          "letra": "B",
+          "texto": "As células utilizam a reação endergônica da hidrólise de ATP para aproveitar a energia das ligações fosfato nas reações químicas."
+        },
+        {
+          "letra": "C",
+          "texto": "Uma via anabólica libera energia e decompõe moléculas, ao passo que uma via catabólica requer energia e constrói moléculas."
+        },
+        {
+          "letra": "D",
+          "texto": "A energia livre, chamada energia livre de Gibbs (G) é a energia armazenada, não utilizável, que, apesar de livre, não pode realizar trabalho."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Bioquímica",
+        "Biologia – Metabolismo Celular",
+        "Química – Termoquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Duas partículas se movem em um plano de acordo com as funções $f(x) = (x – 1)^2 + 1$ e $g(x) = -(x – 4)^2 – 2$. Uma vez determinadas as trajetórias dessas partículas, marque a alternativa que indica a menor distância entre suas trajetórias:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5,24."
+        },
+        {
+          "letra": "B",
+          "texto": "2."
+        },
+        {
+          "letra": "C",
+          "texto": "4,24."
+        },
+        {
+          "letra": "D",
+          "texto": "3."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Analítica",
+        "Matemática – Funções Quadráticas",
+        "Matemática – Cálculo Diferencial"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Leia a letra da música \"Amor amor\".\n\nQuando o mar\nquando o mar tem mais segredo\nnão é quando ele se agita\nnem é quando é tempestade\nnem é quando é ventania\nquando o mar tem mais segredo\né quando é calmaria\n\nquando o amor\nquando o amor tem mais perigo\nnão é quando ele se arrisca\nnem é quando ele se ausenta\nnem quando eu me desespero\nquando o amor tem mais perigo\né quando ele é sincero\n\n(CACASO; COSTA, Sueli. Amor, amor. Disponível em:\nhttps://www.letras.mus.br/cacaso/. Acesso em: 15 set. 2025.).\n\nAnalise as assertivas sobre o texto apresentadas a seguir:\n\nI - O tema central do texto é o amor e, especificamente, o perigo que o amor encerra, num contraponto com os perigos do mar.\nII - Observam-se dois diferentes estatutos gramaticais para o elemento “quando”, como advérbio e como conjunção.\nIII - O texto constitui-se quase totalmente de indicações de localização espacial que são orações iniciadas por \"quando\".\nIV - O poeta procura mostrar que é nas turbulências (agitações, tempestades e ventania) que o mar e o amor têm mais perigo.\n\nMarque a única alternativa que apresenta todas as afirmações corretas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "III e IV apenas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Morfologia",
+        "Língua Portuguesa – Conjunções e Advérbios"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Read the text about Prostate cancer:\n\nProstate cancer is the third most commonly\ndiagnosed cancer among Pakistani men. It is a\nmultifactorial disease involving genetics together with\nenvironmental factors. Countries where men have\ngreater dietary fat intake showed increased prostate\ncancer mortality rates. A population based case-control\nstudy was conducted to evaluate various prostate cancer\nrisk factors. Study subjects were 896 prostate cancer cases\n(2010-2015) and 900 age matched controls. Odds ratio\n(OR) and 95% CI were used to estimate the association\nbetween different risk factors and prostate cancer. P\nvalues for different factors were computed by t-test,\nchi-square test, and Fisher exact test. Results showed\nsignificant association of increased age (OR = 10.6; CI:\n7.92-14.31; P = 0.0001; Z = 15.7) and smoking (P = 0.05)\nwith risk of disease. Consistent evidence suggested that\nfruits (P = 0.0001), vegetables (P = 0.0007), and diabetes\nmellitus (OR = 0.84; CI: 0.72-0.97; P = 0.02; Z = 2.28)\nwere significantly associated with decreased prostate\ncancer risk.\n\n(MALIK, S. S. et al. Risk factors for prostate cancer: a multifactorial\ncase-control study. Current Problems in Cancer. 2018. Available in:\nhttps://pubmed.ncbi.nlm.nih.gov/29433825/. Accessed on: Aug. 7th,\n2025.).\n\nAccording to the study, which of the following factor is associated with an increased risk of prostate cancer? Mark the right alternative:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Smoking."
+        },
+        {
+          "letra": "B",
+          "texto": "Low fat diet."
+        },
+        {
+          "letra": "C",
+          "texto": "Consumption of fruits."
+        },
+        {
+          "letra": "D",
+          "texto": "Diabetes mellitus."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Leitura e Interpretação de Texto",
+        "Inglês – Vocabulário Técnico"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Um bloco de massa igual a 2 kg é abandonado sobre uma rampa a uma altura h de 5,0 m em relação ao solo. Ele desce sem atrito pela rampa até atingir o nível do solo e, em seguida, desliza horizontalmente sobre uma superfície, com atrito, até parar a uma distância d de 10 m da rampa. Considere $g = 10 \\text{ m/s}^2$ e despreze a resistência do ar.\n\nCom relação ao fenômeno descrito, analise atentamente as proposições a seguir:\n\nI - No deslocamento pela superfície da rampa, a velocidade do bloco ao chegar ao nível do solo é de 10 m/s.\nII - O trabalho realizado pela força de atrito durante o deslocamento horizontal é igual à energia mecânica do bloco quando foi abandonado.\nIII - Se a altura h fosse maior, mantidas as demais condições do fenômeno, a distância d percorrida pelo bloco seria proporcionalmente maior.\n\nEntre as alternativas apresentadas a seguir, marque a única que apresenta apenas a(s) afirmação(ões) correta(s):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "B",
+          "texto": "I, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e II, apenas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Cinemática",
+        "Física – Dinâmica",
+        "Física – Leis de Newton",
+        "Física – Energia e Trabalho"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Tudo no mundo começou com um sim. Uma molécula disse sim a outra molécula e nasceu a vida. Mas antes da pré-história havia a pré-história da pré-história e havia o nunca e havia o sim. Sempre houve. Não sei o quê, mas sei que o universo jamais começou.\n[...]\nEnquanto eu tiver perguntas e não houver resposta continuarei a escrever.\n[...]\nEscrevo neste instante com algum prévio pudor por vos estar invadindo com tal narrativa tão exterior e explícita.\n\n(LISPECTOR, Clarice. A hora da estrela.\nRio de Janeiro: Rocco, 1998. p. 15-16.).\n\nEsse trecho, retirado do início do romance A hora da Estrela, revela um narrador que problematiza o próprio ato de escrever, coloca sob tensão os limites entre criação literária e reflexão filosófica. No contexto da prosa pós-moderna brasileira, o que indica tal procedimento?\n\nMarque a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O predomínio de descrições empíricas, em que a linguagem é empregada de modo impessoal."
+        },
+        {
+          "letra": "B",
+          "texto": "Retomada da epopeia clássica, na qual o narrador assume o papel de questionador e conduz o leitor a sua própria verdade."
+        },
+        {
+          "letra": "C",
+          "texto": "A fragmentação do fluxo de consciência e a valorização da linearidade narrativa, em que a transcendência dá lugar ao pensamento criativo e à subjetividade."
+        },
+        {
+          "letra": "D",
+          "texto": "A ruptura com o modelo linear e tradicional de romance, ao introduzir a metalinguagem e a autorreflexividade como marcas da narrativa."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira: Pós-Modernismo",
+        "Língua Portuguesa – Clarice Lispector",
+        "Língua Portuguesa – Gêneros Narrativos",
+        "Língua Portuguesa – Metalinguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "O ano de 2026 marcará o centenário de nascimento do filósofo francês Michel Foucault. Reconhecido como um dos pensadores mais influentes do século XX, Foucault desenvolveu uma obra que abrange temas como poder, conhecimento, sexualidade, loucura e disciplina. Suas análises sobre as relações de poder e a forma como estas moldam a sociedade e o indivíduo permanecem atuais e amplamente estudadas. Seu trabalho é caracterizado por investigações históricas e críticas às instituições modernas, explorando conceitos fundamentais para se compreender a dinâmica do poder nas sociedades contemporâneas.\n\nCom base nessas informações, analise as assertivas a seguir:\n\nI - História da Sexualidade é uma obra, em vários volumes, na qual Foucault examina prioritariamente as relações de produção e o impacto da economia industrial na organização social.\nII - Em Vigiar e Punir, Foucault analisa a transição das punições corporais para formas disciplinares e sistemas de vigilância, evidenciando o papel das instituições na conformação dos indivíduos.\nIII - O conceito de biopoder refere-se ao modo como o poder se exerce sobre os corpos e sobre a vida das populações, regulando e administrando a existência biológica.\nIV - Para Foucault, o poder é um fenômeno exclusivamente hierárquico e centralizado, sem manifestações difusas ou possibilidades de resistência no âmbito das relações sociais.\n\nMarque a alternativa que contém as afirmações corretas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "III e IV apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e IV apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III apenas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Filosofia – Filosofia Contemporânea",
+        "Filosofia – Michel Foucault",
+        "Sociologia – Teoria Social"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Os hormônios humanos são substâncias químicas essenciais que atuam como mensageiros do corpo e regulam processos vitais, como o crescimento, o metabolismo, a reprodução, o equilíbrio emocional e o funcionamento dos órgãos.\n\nSobre os hormônios produzidos pelo organismo humano, analise atentamente as afirmativas abaixo:\n\nI - As gonadotrofinas são hormônios que regulam o funcionamento dos sistemas reprodutivos.\nII - A vasopressina é um hormônio que tem importância no momento do parto, por estimular a musculatura do útero.\nIII - A somatotrofina é um hormônio produzido pela hipófise, que estimula o crescimento de tecidos, como ossos e cartilagens.\n\nMarque a única alternativa que contém apenas as afirmações corretas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e III, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III, apenas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Fisiologia Humana",
+        "Biologia – Sistema Endócrino",
+        "Biologia – Hormônios"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Leia o fragmento do texto “Façanhas do Pensamento\".\n\nJá não me lembro bem quando escutei pela primeira vez o aviso do compositor Lupicínio Rodrigues de que \"o pensamento parece uma coisa à toa, mas como é que a gente voa quando começa a pensar”.\nVerdade. O pensamento possui desenvoltura especial. Além de se movimentar na interioridade do tempo, escarafunchando suas intimidades, às vezes reveste as lembranças de tamanha emoção, que as torna duradouras e insuperáveis. Creio ser essa a razão de eu já ter ouvido muita gente dizer que quanto mais o tempo passa, pior fica.\nQue o pensamento não aceita rédeas, é fato. Dono dos seus volteios, ele é independente, renitente, turrão mesmo. Basta surgir um pequeno motivo, som, cor, gesto, cheiro, que lá vem ele com as suas insinuações. E pobre de quem ousa dizer que não quer mais pensar em alguma coisa. Logo os pensamentos brotam, intrometendo, cutucando, atazanando.\n[...]\nE por falar em lembranças, confesso que tenho a ingrata mania de procurar motivos para entender alguns fatos passados.\n[...]\nO pensamento tem grande poder e esse seu poder guarda propriedades mágicas. Incontáveis vezes, transformam-se repentinamente e o que era lembrança alegre, entristece. Vira saudade.\n[...]\n\n(BORGES, Heloísa Helena de Campos. Façanhas\ndo pensamento. In: As fomes do mundo & outras crônicas.\nGoiânia: Kelps, 2018. p. 147-151. Adaptado.).\n\nCom base na leitura do texto, analise as afirmativas a seguir.\n\nI - A tipologia textual que dá suporte ao texto é a narração.\nII - A tipologia textual que dá suporte ao texto é a dissertação.\nIII - O titulo \"Façanhas do pensamento” sugere um feito heroico.\nIV - Predomina no texto, como recurso estrutural, a objetividade da linguagem.\n\nMarque a única alternativa que apresenta todas as afirmações corretas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II, III e IV apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e IV apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III apenas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Tipologia Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "O surrealismo, uma das principais vanguardas europeias do início do século XX, propunha libertar o inconsciente e explorar imagens oníricas por meio da escrita automática. No Brasil, essa influência pode ser observada na obra de Murilo Mendes, cujo poema \"Pré-história\", a seguir, apresenta imagens desconexas e surpreendentes:\n\nMamãe vestida de rendas\nTocava piano no caos.\nUma noite abriu as asas\nCansada de tanto som,\nEquilibrou-se no azul,\nDe tonta não mais olhou\nPara mim, para ninguém!\nCai no álbum de retratos.\n\n(MENDES, Murilo. Pré-história. In: Melhores poemas de Murilo\nMendes. Seleção e prefácio de Luciana Stegagno Picchio. 2. ed. São\nPaulo: Global, 2012. p. 29.).\n\nCom base nesse poema e nos princípios do surrealismo, é correto afirmar que Murilo Mendes:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Privilegia o simbólico e o fantástico, elementos que valorizam aspectos imaginativos e espirituais no poema."
+        },
+        {
+          "letra": "B",
+          "texto": "Adota uma linguagem descritiva, voltada para representar de forma objetiva a realidade cotidiana."
+        },
+        {
+          "letra": "C",
+          "texto": "Busca romper com a lógica tradicional ao aproximar sua poesia do universo dos sonhos e da imaginação inconsciente."
+        },
+        {
+          "letra": "D",
+          "texto": "Inspira-se no estilo psicológico e saudosista, reforçando a estética modernista europeia."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira: Modernismo",
+        "Língua Portuguesa – Surrealismo",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Leia o texto a seguir sobre um artefato de ouro com quase 2 mil anos:\n\nUma estudante de arqueologia da Universidade de Newcastle, na Inglaterra, achou um objeto de ouro do início da Idade Média durante escavações no forte romano de Birdoswald, localizado em Northumberland, no território inglês.\n[...]\nOs objetos encontrados (em 2021 e 2025) estavam próximo uma estrada romana chamada Dere Street, construída entre 71 e 81 d.C., que ligava York a Edimburgo. A rota continuou em uso mesmo após o fim do Império Romano e atualmente compõe a A68.\n\n(RODRIGUES, Tainá. Estudante encontra item de ouro do século\n9 em sua primeira escavação. Galileu, São Paulo. Ano 34, não\npaginado, 17 jul. 2025. Disponível em: https://revistagalileu.globo.\ncom/ciencia/arqueologia/noticia/2025/08/estudante-encontra-item-\nde-ouro-do-seculo-9-em-sua-primeira-escavacao.ghtml. Acesso em:\n14 ago. 2025. Adaptado.).\n\nConsidere o potencial padrão de redução: do ouro ($\\text{Au}^{3+} + 3\\text{e}^- \\rightarrow \\text{Au, E}^\\circ = +1,50 \\text{ V}$); do ferro ($\\text{Fe}^{2+} + 2\\text{e}^- \\rightarrow \\text{Fe, E}^\\circ = -0,44 \\text{ V}$); do chumbo ($\\text{Pb}^{2+} + 2\\text{e}^- \\rightarrow \\text{Pb, E}^\\circ = -0,13 \\text{ V}$), e do oxigênio ($\\text{O}_2 + 2\\text{H}_2\\text{O} + 4\\text{e}^- \\rightarrow 4\\text{OH}^-, \\text{E}^\\circ = 0,40 \\text{ V}$) e, após analisar as afirmações abaixo, marque a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O potencial padrão de redução do ouro contribui para explicar a durabilidade de peças do metal frente a um ambiente com umidade e oxigênio, se comparado com peças de ferro ou chumbo metálico."
+        },
+        {
+          "letra": "B",
+          "texto": "Em um ambiente fechado, sem oxigênio, com apenas uma placa metálica de ferro, em contato com uma solução aquosa de íons de chumbo com duas cargas positivas, iremos observar a redução do ferro."
+        },
+        {
+          "letra": "C",
+          "texto": "O potencial padrão de redução do íon de ouro com 3 cargas positivas indica que ele não é facilmente reduzido em comparação com o íon de ferro com duas cargas positivas."
+        },
+        {
+          "letra": "D",
+          "texto": "O potencial padrão de redução do íon de ouro com 3 cargas positivas indica que ele é um forte agente redutor, difícil de oxidar na presença do íon de chumbo com duas cargas positivas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Eletroquímica",
+        "Química – Potenciais de Redução",
+        "Química – Corrosão"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Read the propositions about passive voice and reported speech:\n\nI - \"The report was written by the manager.\" is a passive construction.\nII - \"He said he would arrive late.\" is an example of reported speech.\nIII - In the sentence \"They have been told to leave.”, the verb is in the active present perfect.\nIV - \"She asked: – Do you like the movie?\", in a reported speech becomes “She asked if I liked the movie.”\n\nMark the alternative that presents the correct statements:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I and IV only."
+        },
+        {
+          "letra": "B",
+          "texto": "II and III only."
+        },
+        {
+          "letra": "C",
+          "texto": "I, II and IV only."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II and III only."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Gramática",
+        "Inglês – Voz Passiva",
+        "Inglês – Discurso Direto e Indireto"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Leia o fragmento do poema \"Modernismo”.\n\nNo fundo, eu sou mesmo é um romântico inveterado.\nNo fundo, nada: eu sou romântico de todo jeito.\nEu sou romântico de corpo e alma,\nde dentro e de fora,\nde alto a baixo, de todo lado: do esquerdo e do direito.\nEu sou romântico de todo jeito.\n[...]\nVeja também minha linguagem\ncheia de mins, de meus e de comos.\nVejam, e me digam se eu não sou mesmo\num sujeito romântico que contraiu o mal do século\n[...]\n\n(TELES, Gilberto Mendonça. Modernismo. Disponível em: https//\nwww.pensador.com/frase/Mjc1NDkxMQ. Acesso em: 13 set. 2025.\nAdaptado.).\n\nConsidere a leitura do fragmento do poema \"Modernismo\" e marque a alternativa cujo verso apresenta a substantivação inesperada de vocábulos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cheia de mins, de meus e de comos."
+        },
+        {
+          "letra": "B",
+          "texto": "No fundo, eu sou mesmo um sujeito inveterado."
+        },
+        {
+          "letra": "C",
+          "texto": "um sujeito romântico que contraiu o mal do século."
+        },
+        {
+          "letra": "D",
+          "texto": "Veja também minha linguagem."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Morfologia",
+        "Língua Portuguesa – Poesia"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "A complexidade estrutural das plantas é evidenciada pela organização hierárquica de suas estruturas na formação de organismos completos, capazes de realizar funções vitais de forma integrada e coordenada.\n\nMarque a alternativa que representa a ordem de complexidade de forma crescente que ocorre em uma planta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Glicose, celulose, parede celular, folha, parênquima, planta."
+        },
+        {
+          "letra": "B",
+          "texto": "Glicose, celulose, parede celular, parênquima, folha, planta."
+        },
+        {
+          "letra": "C",
+          "texto": "Glicose, parede celular, parênquima, celulose, folha, planta."
+        },
+        {
+          "letra": "D",
+          "texto": "Glicose, parede celular, celulose, folha, parênquima, planta."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Botânica",
+        "Biologia – Organização dos Seres Vivos",
+        "Química – Biomoléculas"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Leia os fragmentos.\n\nTeleco tinha o dom de se transformar. Num instante era coelho, noutro se tornava cachorro, às vezes até um menino triste, perdido entre os homens. Sua metamorfose não era apenas física; parecia carregar o peso das expectativas e frustrações humanas. Vendo-o mudar de forma, eu me perguntava: o que, afinal, define nossa identidade num mundo tão incerto?\n\n(RUBIÃO, Murilo. Teleco, o coelhinho. In: Murilo Rubião obra\ncompleta. São Paulo: Cia das Letras, 2010. p. 51.).\n\nNão volto às letras, que doem como catástrofe.\nNão escrevo mais. Não milito mais. Estou no meio da\ncena, entre quem adoro e quem me adora.\n\n(CESAR, Ana Cristina. Meia noite, 16 de junho. In: A teus pés:\nprosa/poesia. São Paulo: Ática, 1999. p. 87.).\n\nA literatura brasileira contemporânea utiliza diferentes estratégias para questionar a realidade e provocar reflexão crítica. Com base nesse contexto, de que maneira o fantástico em \"Teleco, o coelhinho” e a prosa poética marginal de Ana Cristina César dialogam com as tendências da literatura contemporânea brasileira?\n\nMarque a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As duas vertentes têm como objetivo principal o escapismo, por oferecer ao público uma fuga do real e um refúgio no imaginário, por meio de crítica às sociedades capitalistas."
+        },
+        {
+          "letra": "B",
+          "texto": "As duas obras apostam no fantástico e na linguagem onírica como estratégia inovadora para abordar as transformações da sociedade contemporânea."
+        },
+        {
+          "letra": "C",
+          "texto": "A poesia marginal e o conto fantástico compartilham o mesmo no formato textual e público-alvo, ambos voltados a narrativas urbanas de humor e ironia."
+        },
+        {
+          "letra": "D",
+          "texto": "Ambos exploram a crítica social: Teleco provoca o estranhamento sobre a identidade e a condição humana, e a poesia marginal questiona a repressão e a massificação cultural."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira Contemporânea",
+        "Língua Portuguesa – Gêneros Literários",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Em 1988, o artista brasileiro Lobão gravou uma música em que cantava:\n\nEle é esperto e persistente/ Acha que nasceu pra\nser respeitado/ Ele é incerto e reticente/ Acha que nasceu\npra ser venerado/ O palácio é o refúgio mais que perfeito/\nPara os seus desejos mais que secretos/ Lá ele se imagina\no eleito/ Sem nenhuma eleição por perto/ Ele é o esperto,\nele é o perfeito/ Ele é o que dá certo, ele se acha o eleito.\n\n(O ELEITO. Intérprete: Lobão. Compositores: Bernardo Vilhena e\nLobão. In: Cuidado. CD, faixa 2 (3 min. e 38 seg.). Disponível em: O\nEleito - Lobão - LETRAS.MUS.BR,. Acesso em: 30 ago. 2025.).\n\nA canção refere-se ao último período de redemocratização do Brasil. Assinale a alternativa que descreve corretamente esse processo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Problemas estruturais como a fome, a desigualdade, a violência no campo e a corrupção estatal continuaram persistentes, pois a Nova República não criou soluções demandas pela sociedade."
+        },
+        {
+          "letra": "B",
+          "texto": "A vitoriosa campanha das “Diretas Já” garantiu a transição democrática e o retorno do voto direto para presidente da República em 1985. Porém, o eleito de fato, Tancredo Neves, logo faleceu e assumiu o cargo seu vice-presidente, José Sarney."
+        },
+        {
+          "letra": "C",
+          "texto": "A vitoriosa campanha contra a inflação, por meio do Plano Cruzado, gerou um sentimento de orgulho nacional e estabilidade política; porém, a desigualdade social não foi enfrentada e isso gerava a indignação manifesta na letra da música."
+        },
+        {
+          "letra": "D",
+          "texto": "A Assembleia Nacional Constituinte demonstrou que a estrutura social brasileira pouco havia mudado desde o período ditatorial. Os “eleitos\" continuaram a pertencer às classes privilegiadas, o que levou os negros e os pobres à perda de direitos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Brasil República",
+        "História – Redemocratização do Brasil",
+        "Sociologia – Movimentos Sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Leia o texto a seguir sobre as energias limpas:\n\nO consumo mundial de energia vai aumentar em aproximadamente 56% até 2041, segundo relatório da International Energy Agency. Hoje, a demanda energética mundial é suprida principalmente por combustíveis fósseis. Porém, o gás carbônico liberado na queima desses combustíveis causa um impacto negativo no meio ambiente. \"Para suprir o aumento de consumo de energia, alternativas precisam ser desenvolvidas”, defendeu Gustavo Paganini Canal, professor do Instituto de Física (IF) da Universidade de São Paulo (USP).\n\n(BUENO, Chris. Fusão nuclear pode produzir energia\nlimpa com baixo custo. Jornal da Ciência, [S. 1.], não paginado,\n27 jun. 2023. Disponível em: https://www.jornaldaciencia.org.br/\nfusao-nuclear-pode-produzir-energia-limpa-com-baixo-custo/.\nAcesso em: 27 jul. 2025. Adaptado.).\n\nConsiderando que o consumo mundial de energia em 2040 será 54% maior do que foi em 2022, calcule quanto de dióxido de carbono será produzido para suprir esse aumento somente com a queima de eucalipto:\n\nDados:\n• Poder calorífico da queima da madeira de eucalipto = cerca de 3.500 kcal/kg.\n• Consumo mundial de energia elétrica em 2022 = cerca de 30.000 TWh.\n• 1 kWh = 860 kcal\n• Queima de 1 kg de eucalipto libera aproximadamente 1,8 kg de dióxido de carbono.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7,2 x $10^{15}$ kg de dióxido de carbono."
+        },
+        {
+          "letra": "B",
+          "texto": "7,2 x $10^6$ kg de dióxido de carbono."
+        },
+        {
+          "letra": "C",
+          "texto": "7,2 x $10^9$ kg de dióxido de carbono."
+        },
+        {
+          "letra": "D",
+          "texto": "7,2 x $10^{12}$ kg de dióxido de carbono."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Energias Renováveis e Não Renováveis",
+        "Geografia – Impactos Ambientais",
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Um estudante mediu o tempo em que um carrossel em um parque infantil gastava para completar uma volta em movimento circular uniforme e encontrou 1 min. Sabendo que esse carrossel possui um raio de 3,5 m, o estudante calculou a velocidade tangencial de uma criança sentada em uma das extremidades do brinquedo.\n\nConsidere $\\pi = 3,14$ e marque a única alternativa que apresenta, aproximadamente, o valor encontrado para essa velocidade:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,62 m/s."
+        },
+        {
+          "letra": "B",
+          "texto": "1,8 m/s."
+        },
+        {
+          "letra": "C",
+          "texto": "2,1 m/s."
+        },
+        {
+          "letra": "D",
+          "texto": "0,35 m/s."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Cinemática",
+        "Física – Movimento Circular Uniforme"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "What does the sentence: \"If she had studied medicine, she would be working in a hospital now.\" implies?\n\nMark the correct affirmative:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "She didn't study medicine but still works in a hospital."
+        },
+        {
+          "letra": "B",
+          "texto": "She studied medicine and, nowadays, is working in a hospital."
+        },
+        {
+          "letra": "C",
+          "texto": "She didn't study medicine and is not working in a hospital."
+        },
+        {
+          "letra": "D",
+          "texto": "She studied medicine but doesn't work in a hospital."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Gramática",
+        "Inglês – Conditional Sentences"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Em 2024, o Instituto Brasileiro de Geografia e Estatística (IBGE) lançou um mapa-múndi com o Brasil no centro do mundo. Outro mapa notório foi a representação da América do Sul elaborada em 1943 pelo artista hispano-uruguaio Joaquín Torres-García, com o polo Sul disposto na parte superior, deixando a \"América invertida\". Essas representações provocam novas formas de olhar o mundo a partir de diferentes projeções cartográficas.\n\nA respeito das propriedades das projeções cartográficas e das distorções inerentes à tentativa de representar uma superfície esférica/geoidal (planeta) em um plano bidimensional (mapa), marque a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A projeção de Peters representa os países com formas mais esticadas, distorcendo-lhes a área e a forma, principalmente daqueles mais distantes do Equador."
+        },
+        {
+          "letra": "B",
+          "texto": "A projeção de Mercator preserva os ângulos e as distâncias, porém distorce as áreas dos países, aumentando desproporcionalmente as dimensões de países mais próximos ao Equador."
+        },
+        {
+          "letra": "C",
+          "texto": "A projeção de Peters é pouco usual em livros didáticos e representa com distorções tanto a forma quanto a área dos países."
+        },
+        {
+          "letra": "D",
+          "texto": "A projeção de Mercator é um exemplo bastante conhecido de projeção conforme e representa países com dimensões bastante superiores ao real, especialmente próximo ao Polo Norte."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Cartografia",
+        "Geografia – Projeções Cartográficas"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Um arquiteto deseja cobrir uma estrutura quadriculada linearmente. Para tanto, combinará dois tipos de cerâmica que cabem perfeitamente nos quadriculados dessa estrutura, como mostra a ilustração a seguir.\n\nAssim, se a estrutura tiver só um quadriculado, então temos a possibilidade de cobertura com apenas uma peça I. Se tiver dois quadriculados, temos duas possibilidades de cobertura: com duas peças I, ou com uma peça II. Se a estrutura tiver três quadriculados, então podemos cobri-la com três peças I, ou com uma peça I e uma peça II, ou com uma peça II e uma peça I, num total de três possibilidades.\n\nMarque a alternativa que corretamente indica a quantidade de possibilidades de cobertura de uma estrutura com onze quadriculados, podendo-se utilizar os dois tipos de peça:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "136 possibilidades."
+        },
+        {
+          "letra": "B",
+          "texto": "144 possibilidades."
+        },
+        {
+          "letra": "C",
+          "texto": "121 possibilidades."
+        },
+        {
+          "letra": "D",
+          "texto": "89 possibilidades."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Análise Combinatória",
+        "Matemática – Sequências Numéricas (Fibonacci)"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "No laboratório de Física de uma escola de Ensino Médio, dois estudantes realizaram um experimento para encontrar o calor específico de um material sólido desconhecido. Inicialmente, eles aqueceram 150 g desse material a 120°C e o colocaram dentro de um calorímetro com 250 g de água, inicialmente a 20°C. Considerando-se desprezível a capacidade térmica do calorímetro, verificou-se que o sistema entrou em equilíbrio térmico a 30°C.\n\nDado: calor específico da água = 1cal/g°C.\n\nCom relação ao experimento realizado, analise atentamente as proposições a seguir:\n\nI - O calor específico do sólido é de aproximadamente 0,28 cal/g°C.\nII - Se a massa de água utilizada fosse maior e fossem mantidos os demais parâmetros do experimento, a temperatura de equilíbrio seria menor que 30°C.\nIII - A quantidade de calor perdido pelo sólido é igual à quantidade de calor ganho pela água, pois o sistema é isolado termicamente.\n\nEntre as alternativas apresentadas a seguir, marque a que apresenta apenas as afirmações corretas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "B",
+          "texto": "II e III, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e II, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e III, apenas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Termodinâmica",
+        "Física – Calorimetria",
+        "Física – Equilíbrio Térmico"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "O bioma Cerrado é reconhecido internacionalmente como uma região fundamental para a conservação da biodiversidade mundial, devido à rica fauna e flora (KLINK & MACHADO, 2005). Além disso, o bioma compreende uma grande diversidade de formações vegetacionais que representam importante papel na regulação dos recursos hídricos e serviços ecossistêmicos do País.\n\n(KLINK, C. A.; MACHADO, R. B. A conservação do cerrado\nbrasileiro. Megadiversidade, São Paulo, v. 1, n. 1, p. 147-155, jul. 2005.).\n\nConforme os termos e as expressões utilizadas para retratar o bioma, marque a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A expressão “celeiro do Brasil\" tem origem na grande capacidade de sequestro de carbono pela vegetação e corpos hídricos."
+        },
+        {
+          "letra": "B",
+          "texto": "A expressão “berço das águas” é fruto da existência do maior aquífero brasileiro, responsável pelo fornecimento de água para toda a América Latina."
+        },
+        {
+          "letra": "C",
+          "texto": "A expressão “floresta invertida” advém do expressivo porte do caule dos arbustos e árvores, que podem ultrapassar 30 metros em áreas de veredas e próximas às formações rochosas."
+        },
+        {
+          "letra": "D",
+          "texto": "A expressão “caixa d'água” é reflexo da contribuição do bioma na recarga e armazenamento de águas subterrâneas do país."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Biomas Brasileiros",
+        "Geografia – Ecologia",
+        "Geografia – Recursos Hídricos"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Suponha a existência de dois compartimentos A e B separados por uma membrana semipermeável impermeável a solutos e permeável a água. No compartimento A, foi adicionada uma solução de sacarose cuja concentração é de 1 mol/L e no B, uma solução de sacarose a 0,5 mol/L. Um tempo após a adição das soluções, ocorrerá um fenômeno relacionado às características da membrana.\n\nAnalise as alternativas abaixo e marque a que descreve corretamente o fenômeno que ocorrerá:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A água passará de A para B, tendendo a igualar as concentrações."
+        },
+        {
+          "letra": "B",
+          "texto": "A água passará de A para B, tendendo a igualar as quantidades de água."
+        },
+        {
+          "letra": "C",
+          "texto": "A água passará de B para A, tendendo a igualar as quantidades de água."
+        },
+        {
+          "letra": "D",
+          "texto": "A água passará de B para A, tendendo a igualar as concentrações."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Citologia",
+        "Biologia – Transportes pela Membrana",
+        "Química – Soluções"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "Leia o texto a seguir sobre a estrutura atômica:\n\n[...] uma experiência realizada em meados de 1908, envolvendo o bombardeio de uma folha de ouro com partículas alfa, conduziu Rutherford a algumas observações. A maioria das partículas percorria a folha sem sofrer desvios. Diante das suas observações e por meio dos cálculos realizados, foi possível concluir que os átomos de ouro consistem basicamente em estruturas parcialmente vazias, e não esferas maciças como comumente se pensava. Contudo, em uma região específica do átomo, identificou-se um agrupamento da carga positiva que, por sua vez, acarretava o desvio de parte diminuta das partículas alfa.\n\n(KURZ, D. L.; BEDIN, E.; DAL-FARRA, R. A. (2023). The history\nof the evolution of atomic models from the perspective of the New\nHigh School. REnCiMa, São Paulo, a. 14, v. 2, p. 1-23. Disponível\nem: DOI: 10.26843/rencima.v14n2a15. Acesso em: 14 jul. 2025.\nAdaptado.).\n\nDe acordo com as teorias atômicas e as informações do texto, qual foi a conclusão principal de Rutherford sobre a estrutura do átomo?\n\nAnalise as alternativas abaixo e marque a correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os átomos consistem principalmente de estruturas vazias, com um núcleo denso e positivo no centro."
+        },
+        {
+          "letra": "B",
+          "texto": "Os átomos têm elétrons embutidos em uma massa positivamente carregada, como um \"pudim de passas\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Os átomos possuem elétrons que orbitam o núcleo em níveis de energia fixos e discretos."
+        },
+        {
+          "letra": "D",
+          "texto": "Os átomos são esferas sólidas e indivisíveis, sem estrutura interna."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Modelos Atômicos",
+        "Física – Estrutura da Matéria"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "Leia o fragmento de texto de O Cortiço, de Aluísio de Azevedo.\n\n[...]\nAmanhecera um domingo alegre no cortiço, um bom dia de abril. Muita luz e pouco calor.\nAs tinas estavam abandonadas; os coradouros despidos. Tabuleiros e tabuleiros de roupa engomada saíam das casinhas, carregados na maior parte pelos filhos das próprias lavadeiras que se mostravam agora quase todas de fato limpo; os casaquinhos brancos avultavam por cima das saias de chita de cor. Desprezaram-se os grandes chapéus de palha e os aventais de aniagem; agora as portuguesas tinham na cabeça um lenço novo de ramagens vistosas e as brasileiras haviam penteado o cabelo e pregado nos cachos negros um ramalhete de dois vinténs; aquelas trançavam no ombro xales de lã vermelha, e estas de crochê, de um amarelo desbotado. Viam-se homens de corpo nu, jogando a placa, com grande algazarra. Um grupo de italianos, assentado debaixo de uma árvore, conversava ruidosamente, fumando cachimbo. Mulheres ensaboavam os filhos pequenos debaixo da bica, muito zangadas, a darem-lhes murros, a praguejar, e as crianças berravam de olhos fechados, esperneando. A casa da Machona estava num rebuliço, porque a família ia sair a passeio; a velha gritava, gritava Neném, gritava o Agostinho. De muitas outras saíam cantos ou sons de instrumentos; ouviam-se harmônicas e ouviam-se guitarras, cuja discreta melodia era de vez em quando interrompida por um ronco forte de trombone.\n[...]\n\n(AZEVEDO, Aluísio. O Cortiço. São Paulo: FTD. 1993. p.\n63-64. Fragmento. Adaptado.).\n\nConsidere a leitura desse fragmento e analise as afirmações a seguir:\n\nI - O trecho apresenta uma longa e pormenorizada descrição de cena, entremeada a componentes narrativos, quase toda em pretérito imperfeito do indicativo.\nII - A longa sequência descritivo-narrativa abre-se por uma frase nominal e continua com uma série de orações declarativas em todo o restante do trecho.\nIII - O forte componente descritivo do texto, inserido no fragmento narrativo, não esgota a apreciação de sua força enunciativa.\n\nMarque a única alternativa que apresenta todas as afirmações corretas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III apenas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira: Naturalismo",
+        "Língua Portuguesa – Aluísio de Azevedo",
+        "Língua Portuguesa – Análise Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Nosso pai não voltou. Ele não tinha ido a nenhuma parte. Só executava a invenção de se permanecer naqueles espaços do rio, de meio a meio, sempre dentro da canoa, para dela não saltar, nunca mais.\n\n(ROSA, João Guimarães. A terceira margem do rio. In:\nPrimeiras estórias. Rio de Janeiro: José Olympio, 1962. p. 49.).\n\nNo conto, o gesto do pai que abandona a terra firme da margem para permanecer indefinidamente no rio cria uma situação enigmática e profundamente simbólica. A reflexão sobre esse recurso literário utilizado pelo autor, sob a ótica da prosa pós-moderna brasileira, possibilita afirmar que o enigma do pai:\n\nMarque a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Demonstra a intenção do autor de documentar fielmente os costumes ribeirinhos, ao descrever a canoa como parte do cotidiano local e das famílias que ali vivem."
+        },
+        {
+          "letra": "B",
+          "texto": "Representa a valorização de uma narrativa realista, em que o gesto do personagem explica objetivamente as tensões sociais do sertão."
+        },
+        {
+          "letra": "C",
+          "texto": "Traduz a recusa da literatura em oferecer respostas fechadas e converte o conto em uma parábola aberta, que pode ser interpretada como metáfora da busca por transcendência."
+        },
+        {
+          "letra": "D",
+          "texto": "Reflete a tentativa de resgatar tradições épicas, nas quais o herói, ao permanecer no rio, simboliza a vitória da coragem sertaneja diante das forças da natureza."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira: Pós-Modernismo",
+        "Língua Portuguesa – João Guimarães Rosa",
+        "Língua Portuguesa – Conto"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "Leia o texto \"História Comum\", de Machado de Assis:\n\n...Caí na copa do chapéu de um homem que passava... Perdoe-me este começo; é um modo de ser épico. Entro em plena ação. Já o leitor sabe que caí, e caí na copa do chapéu de um homem que passava; resta dizer donde caí e por que caí.\n[...]\n[...] Na véspera do dia em que se deu a minha aventura, ouvi falar de um baile no dia seguinte, em casa de um desembargador que fazia anos. [...] Bem quisera eu saber o que era um baile, e ir a ele; mas uma tal ambição podia nascer na cabeça de um alfinete, que não saía do lenço de uma triste mucama? [...].\n[...] Clarinha ficou arranjando uma rosa no peito, uma linda rosa; pregou-a e sorriu para a mucama.\n[...]\nClarinha, só se espera por você.\nPronta, mamãe!\nTinha prendido a rosa, às pressas, e saiu.\n[...] Clarinha calçava as luvas, a mãe dizia que era tarde; entraram; mas, ao entrar caiu a rosa do peito da moça. Consternação desta; teima da mãe que era tarde, que não valia a pena gastar tempo em pregar a rosa outra vez. Mas Clarinha pedia que se demorasse um instante, um instante só, e diria à mucama que fosse buscar um alfinete.\nNão é preciso, sinhá; aqui está um.\nUm era eu. [...] Lá me vou no peito de uma linda moça, prendendo uma bela rosa, com destino ao baile de um desembargador. [...]\nEstamos na terceira valsa. O par de Clarinha é o Dr. Florêncio [...]. Acabada a valsa, fomos passear os três [...]. Seguimos para a janela. O Dr. Florêncio declarou que era tempo de autorizá-lo a pedi-la.\nNão se vexe; não é preciso que me diga nada; basta que me aperte a mão.\nClarinha apertou-lhe a mão; ele levou-a à boca e beijou-a; ela olhou assustada para dentro.\n– Ninguém vê, continuou o Dr. Florêncio; amanhã mesmo escreverei a seu pai.\nConversaram ainda uns dez minutos, suspirando cousas deliciosas, com as mãos presas. O coração dela batia! Eu, que lhe ficava em cima, é que sentia as pancadas do pobre coração. Pudera! Noiva entre duas valsas. Afinal, como era mister voltar à sala, ele pediu-lhe um penhor, a rosa que trazia ao peito.\nTome ...\nE despregando a rosa, deu-a ao namorado, atirando-me, com a maior indiferença, à rua... Caí na copa do chapéu de um homem que passava e...\n\n(ASSIS, Machado de. História Comum. In: Outros Contos. Rio de\nJaneiro, Nova Aguilar, 1997. p. 929-931. (Obra Completa, volume II.\nAdaptado.)).\n\nTomando por base a construção do texto, analise as afirmações a seguir:\n\nI - O emprego de ambas as reticências do primeiro período do texto “...Caí na copa do chapéu de um homem que passava...” do ponto de vista gramatical é opcional.\nII - As reticências empregadas no final do texto têm o mesmo valor semântico das que encerram o primeiro período do texto.\nIII - O ponto e vírgula empregado em “– Não se vexe; não é preciso que me diga nada; basta que me aperte a mão.” separa orações coordenadas assindéticas.\n\nMarque a única alternativa que apresenta todas as afirmações corretas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e III apenas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira: Realismo",
+        "Língua Portuguesa – Machado de Assis",
+        "Língua Portuguesa – Pontuação",
+        "Língua Portuguesa – Análise Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "Ao visitar a lua de um planeta, uma equipe de astronautas deixou instalados refletores sobre o solo lunar. Um feixe de laser enviado do planeta atinge os refletores na lua e volta ao planeta num intervalo de tempo de 1,75 segundos.\n\nSabendo-se que a velocidade da luz é de aproximadamente 300 milhões de metros por segundo, marque a alternativa que corretamente indica a distância do planeta até a lua:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "285 000 km."
+        },
+        {
+          "letra": "B",
+          "texto": "525 000 km."
+        },
+        {
+          "letra": "C",
+          "texto": "262 500 km."
+        },
+        {
+          "letra": "D",
+          "texto": "570 500 km."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Cinemática",
+        "Física – Velocidade da Luz",
+        "Matemática – Proporcionalidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Leia o texto a seguir sobre a química de fertilizantes:\n\nFertilizantes hidrossolúveis completos foram originalmente desenvolvidos para incluir os principais nutrientes, como nitrogênio, fósforo e potássio, principal-mente devido à alta demanda que a planta tem desses elementos em relação a outros. Exemplos desses fertilizantes incluem fórmulas como 20-20-20, 25-10-10 e 25-0-25. Os números nessas fórmulas de fertilizantes representam, em ordem, a porcentagem em peso de N, P (como $\\text{P}_2\\text{O}_5$) e K (como $\\text{K}_2\\text{O}$) contidos no produto fertilizante.\nGraças ao desenvolvimento de novos e sofisticados sistemas de injeção de fertilizantes, hoje controlados por computadores, mais produtores estão preparando suas próprias formulações de fertirrigação usando sais de fertilizantes básicos como $\\text{KNO}_3$, $\\text{NH}_4\\text{NO}_3$, $(\\text{NH}_4)_2\\text{SO}_4$, $\\text{Ca(NO}_3)_2$, $\\text{K}_2\\text{HPO}_4$, $\\text{MgSO}_4$, $\\text{K}_2\\text{SO}_4$ e outros.\n\n(CABRERA, Raul I.; SOLIS-PEREZ, Alma R. Mineral nitrition and\nfertilization management. ScienceDirect, Bridgeton, p. 573-580, 2\nmar. 2017. Disponível em: https://www.sciencedirect.com/science/\narticle/abs/pii/B9780128096338050871. Acesso em: 14 jul. 2025.\nAdaptado.).\n\nCom base nesses dados, analise as alternativas abaixo e marque a que associa corretamente o composto com a respectiva função inorgânica:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\text{K}_2\\text{O}$ – óxido; $\\text{NH}_4\\text{NO}_3$ – sal; $\\text{MgSO}_4$ – sal."
+        },
+        {
+          "letra": "B",
+          "texto": "$\\text{P}_2\\text{O}_5$ – óxido; $\\text{KNO}_3$ – óxido; $\\text{K}_2\\text{SO}_4$ – sal."
+        },
+        {
+          "letra": "C",
+          "texto": "$\\text{Ca(NO}_3)_2$ – sal; $\\text{K}_2\\text{HPO}_4$ – óxido; $\\text{NH}_4\\text{NO}_3$ – sal."
+        },
+        {
+          "letra": "D",
+          "texto": "$(\\text{NH}_4)_2\\text{SO}_4$ – óxido; $\\text{Ca(NO}_3)_2$ – sal; $\\text{K}_2\\text{HPO}_4$ – sal."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Funções Inorgânicas",
+        "Química – Óxidos",
+        "Química – Sais",
+        "Biologia – Agronomia"
+      ]
+    }
+  ]
+}

@@ -142,11 +142,11 @@ Não crie ou modifique nenhum nome de campo. Respeite os tipos de dados e a estr
     `},
     { inlineData: {
         mimeType: 'application/pdf',
-        data: Buffer.from(fs.readFileSync("Provas_local/Prova_UFRGS_2018.pdf")).toString("base64")}
+        data: Buffer.from(fs.readFileSync("docs_a_processar/Puccamp/2026/Prova.pdf")).toString("base64")}
     },
     { inlineData: {
         mimeType: 'application/pdf',
-        data: Buffer.from(fs.readFileSync("Provas_local/Gabaritos_UFRGS_2018.pdf")).toString("base64")}
+        data: Buffer.from(fs.readFileSync("docs_a_processar/Puccamp/2026/Gabarito.pdf")).toString("base64")}
     }
     ];
 

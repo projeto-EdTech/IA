@@ -1,0 +1,1608 @@
+{
+  "nomeUniversidade": "Centro Universitário do Estado do Pará",
+  "siglaUniversidade": "CESUPA",
+  "nomeProva": "Processo Seletivo Tradicional",
+  "ano": 2026,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Para ilustrar sua visão pessimista em face das mudanças climáticas, Ailton Krenac utiliza como recurso a construção de um (uma)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "parábola."
+        },
+        {
+          "letra": "B",
+          "texto": "analogia."
+        },
+        {
+          "letra": "C",
+          "texto": "profecia."
+        },
+        {
+          "letra": "D",
+          "texto": "anátema"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "O cenário devastador desenhado pelo ambientalista permite inferir, em resumo, que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a humanidade será esmagada pela natureza."
+        },
+        {
+          "letra": "B",
+          "texto": "perde-se o Homo Sapiens, vítima das próprias escolhas."
+        },
+        {
+          "letra": "C",
+          "texto": "nada restará da Terra como a conhecemos."
+        },
+        {
+          "letra": "D",
+          "texto": "perde-se a civilização, mas afirma-se a natureza."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "O ChatGPT foi lançado em protótipo em 30 de novembro de 2022 e rapidamente chamou a atenção por suas respostas detalhadas e articuladas em muitos domínios de conhecimento. Sua precisão factual desigual foi identificada como um significativo inconveniente. (wikipedia) O texto contém dois módulos, duas informações, separadas pelo sinal gráfico do ponto. Uma leitura atenta denota, entre os módulos, a ausência de um conectivo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "explicativo."
+        },
+        {
+          "letra": "B",
+          "texto": "conclusivo."
+        },
+        {
+          "letra": "C",
+          "texto": "adversativo."
+        },
+        {
+          "letra": "D",
+          "texto": "aditivo."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Coesão e Coerência"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Naquele dia escutamos a voz de Donana se afastar no espaço do quintal, em meio ao cacarejo e aos cantos das aves. Era como se as rezas e sentenças que proferia, e que muitas vezes não faziam sentido para nós estivessem sendo carregadas para longe, carregadas pelo sopro de nossas respirações ansiosas pela transgressão que estávamos prestes a cometer. Belonísia se enfiou debaixo da cama e puxou a mala. O couro de Caititu que encobria as imperfeições do chão de terra se encolheu sob seu corpo. Abri a mala sozinha, sob nossos olhos luminosos. (Itamar Vieira, Torto Arado – fragmento) O ponto de vista a partir do qual o fragmento narrativo se desenvolve caracteriza o narrador",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "observador."
+        },
+        {
+          "letra": "B",
+          "texto": "onisciente intruso."
+        },
+        {
+          "letra": "C",
+          "texto": "personagem."
+        },
+        {
+          "letra": "D",
+          "texto": "onisciente neutro."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Tipologia Narrativa"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Naquele dia escutamos a voz de Donana se afastar no espaço do quintal, em meio ao cacarejo e aos cantos das aves. Era como se as rezas e sentenças que proferia, e que muitas vezes não faziam sentido para nós estivessem sendo carregadas para longe, carregadas pelo sopro de nossas respirações ansiosas pela transgressão que estávamos prestes a cometer. Belonísia se enfiou debaixo da cama e puxou a mala. O couro de Caititu que encobria as imperfeições do chão de terra se encolheu sob seu corpo. Abri a mala sozinha, sob nossos olhos luminosos. (Itamar Vieira, Torto Arado – fragmento) O pronome relativo que, como elemento coesivo, tem desempenho anafórico na estrutura textual. Na ordem em que aparece no texto, essa partícula retoma, respectivamente, as palavras ou expressões:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Donana; rezas e sentenças; transgressão; couro de caititu."
+        },
+        {
+          "letra": "B",
+          "texto": "rezas e sentenças; cacarejo e canto das aves; respirações ansiosas; couro de caititu."
+        },
+        {
+          "letra": "C",
+          "texto": "cacarejo e canto das aves; rezas e sentenças; transgressões; imperfeições do chão."
+        },
+        {
+          "letra": "D",
+          "texto": "Donana; cacarejo e canto das aves; respirações ansiosas; imperfeições do chão."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Coesão Referencial"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "—Não, paizinho, não! Quero ir com você. — Mas, meu bem, não posso levar você lá. O lugar não é próprio. Não vai demorar nada, só dez minutos. Seja boazinha, fique me esperando aqui. — Não, não! A garotinha soluçava. Agarrou-se à calça do pai como quem se agarra a uma prancha no mar. — Que bobagem, uma menina da sua idade fazendo um papelão desse. — Você não volta! — Volto, ora essa, juro que volto, meu amor. (Carlos Drummond de Andrade, A menina e o gerente- fragmento) Fora da ideia de tamanho, as formas aumentativas e diminutivas podem traduzir afetividade, ou alterar a base significativa do léxico, conforme ocorre no texto em: () paizinho () garotinha () boazinha () papelão 1-alteração do significado original 2- ideia de intensidade 3- ideia de pequenez associada à de carinho Relacione as colunas e marque a alternativa correta",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3, 2, 2, 1"
+        },
+        {
+          "letra": "B",
+          "texto": "3, 3, 1, 2"
+        },
+        {
+          "letra": "C",
+          "texto": "3, 3, 2, 1"
+        },
+        {
+          "letra": "D",
+          "texto": "3, 2, 3, 1"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Ele não tinha mais sapatos e seus pés, àquela altura, já eram outra coisa: um par de bichos disformes. Dois animais dentados e imundos. Duas bestas presas aos tornozelos, incansáveis, avante, conduzindo Samuel por dezesseis longos e dolorosos dias sob o sol. (Socorro Acioli, A cabeça do santo, p.180-trecho) O excerto registra a competência expressiva da autora para traduzir a exaustão do personagem. Assim, recorre a associações que remetem aos recursos linguísticos",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "metonímia e sinestesia."
+        },
+        {
+          "letra": "B",
+          "texto": "metonímia e metáfora."
+        },
+        {
+          "letra": "C",
+          "texto": "metáfora e sinestesia."
+        },
+        {
+          "letra": "D",
+          "texto": "sinestesia e personificação"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Sobre a tirinha de Quino na página anterior, a observação dos elementos visuais e linguísticos permite avaliar se são verdadeiras (V) ou falsas (F) as afirmativas: ( ) Há intencionalidade da personagem Mafalda para constranger o Chaveiro. () Mafalda desrespeita o Chaveiro, fazendo uma insinuação zombeteira de sua profissão. ( ) A personagem solicita ao Chaveiro uma competência que ele não possui. () Do confronto entre o concreto e o abstrato resulta a frustração do plano inicial de Mafalda.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "VFFV"
+        },
+        {
+          "letra": "B",
+          "texto": "FFVV"
+        },
+        {
+          "letra": "C",
+          "texto": "VVFV"
+        },
+        {
+          "letra": "D",
+          "texto": "VVVV"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Linguagem Verbal e Não Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Dispõe-se de 32 litros de vinho para encher garrafas cuja capacidade é 400ml. O número de garrafas de que se necessita para acondicionar todo o vinho é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "50"
+        },
+        {
+          "letra": "B",
+          "texto": "60"
+        },
+        {
+          "letra": "C",
+          "texto": "70"
+        },
+        {
+          "letra": "D",
+          "texto": "80"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Grandezas e Medidas",
+        "Matemática – Proporcionalidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Um enfeite, feito de arame, é formado por 4 quadrados concêntricos e igualmente espaçados, o interno com lado igual a 1 cm e o externo com lado igual a 3 cm. O comprimento total de arame usado neste enfeite é, em centímetros, igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "32"
+        },
+        {
+          "letra": "B",
+          "texto": "24"
+        },
+        {
+          "letra": "C",
+          "texto": "16"
+        },
+        {
+          "letra": "D",
+          "texto": "8"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "A quantia de R$150.000,00 foi colocada a juros simples de 10% ao mês durante três meses. Uma quantia igual foi colocada à mesma taxa, durante o mesmo tempo, com juros capitalizados mensalmente. A diferença entre os juros produzidos nas duas aplicações foi de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Zero reais"
+        },
+        {
+          "letra": "B",
+          "texto": "4.200 reais"
+        },
+        {
+          "letra": "C",
+          "texto": "440 reais"
+        },
+        {
+          "letra": "D",
+          "texto": "4.650 reais"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Matemática Financeira"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Dois amiguinhos compraram um cone de sorvete que foi completamente preenchido e ainda encimado por um hemisfério de sorvete. Uma das crianças comeu todo o hemisfério e o outro come o resto do sorvete, ou seja, o que estava no cone. Considerando que o diâmetro da base do cone é de 6cm e que as duas crianças comeram a mesma quantidade de sorvete, podemos concluir que a altura do cone é, em cm, igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "6"
+        },
+        {
+          "letra": "C",
+          "texto": "8"
+        },
+        {
+          "letra": "D",
+          "texto": "9"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "O pH de uma solução é definido por $pH = - \\log_{10} [H^+]$, onde H é a concentração de hidrogênio em íons-grama por litro de solução. Qual o pH de uma solução que tem $H^+ = 1,0 \\times 10^{-6}$ ?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "4"
+        },
+        {
+          "letra": "C",
+          "texto": "6"
+        },
+        {
+          "letra": "D",
+          "texto": "7"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Logaritmos",
+        "Química – Equilíbrio Iônico"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Uma senhora comprou uma caixa de bombons para seus dois filhos. Um deles tirou para si a terça parte dos bombons da caixa. Mais tarde, o outro menino tirou para si a metade dos bombons que encontrou na caixa, restando apenas 10 bombons na caixa, quantos bombons havia inicialmente na caixa?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "60"
+        },
+        {
+          "letra": "B",
+          "texto": "50"
+        },
+        {
+          "letra": "C",
+          "texto": "40"
+        },
+        {
+          "letra": "D",
+          "texto": "30"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Frações",
+        "Matemática – Problemas Aritméticos"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Caminhando em linha reta ao longo de uma praia, um banhista vai de um ponto A até um ponto B, cobrindo uma distancia $AB = 1.500$ metros. Quando está em A, ele avista um navio parado em N de tal maneira que o ângulo $NAB$ é de $60^\\circ$, e quando está em B, verifica que o ângulo $NBA$ é de $45^\\circ$. A distancia, na perpendicular, que se encontra o navio da praia é, em metros, igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "600"
+        },
+        {
+          "letra": "B",
+          "texto": "500"
+        },
+        {
+          "letra": "C",
+          "texto": "400"
+        },
+        {
+          "letra": "D",
+          "texto": "300"
+        }
+      ],
+      "opcaoCorreta": null,
+      "conteudo": [
+        "Matemática – Trigonometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Marcolino, em seus deslocamentos diários para a Escola, costuma realizar um percurso de três quilômetros e quinhentos metros ($3,5 \\text{ Km}$), em $40 \\text{ minutos}$. Nestas condições, considere as assertivas abaixo, relativas à velocidade média de Marcolino, nesse percurso I – Equivale a $87,5 \\text{ m/min}$ II – Equivale a $4,58 \\text{ m/s}$ III – É menor que $2 \\text{ m/s}$ São corretas as assertivas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II"
+        },
+        {
+          "letra": "B",
+          "texto": "II e III"
+        },
+        {
+          "letra": "C",
+          "texto": "I e III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Cinemática",
+        "Física – Unidades de Medida"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Marcolino, a caminho da Escola, percebe a aproximação de uma ambulância com a sirene ligada. Atento, ele percebe uma diferença no som emitido pela sirene, enquanto ela se aproxima, em relação à emissão percebida enquanto ela se afasta do local da observação. Das alternativas abaixo, aquela que melhor explica essa diferença, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Na aproximação da fonte sonora, a frequência do som percebido é maior."
+        },
+        {
+          "letra": "B",
+          "texto": "Quando a fonte sonora está se afastando, a frequência do som percebido é maior."
+        },
+        {
+          "letra": "C",
+          "texto": "Na aproximação da fonte sonora ocorre um aumento na rapidez da onda emitida pela fonte."
+        },
+        {
+          "letra": "D",
+          "texto": "Quando a fonte sonora está se afastando, ocorre uma diminuição na rapidez da onda emitida pela fonte."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Ondulatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Uma porção de água ferve em um recipiente colocado sobre a chama de um fogão. Um ovo, em temperatura ambiente, é acrescentado nesse recipiente mantido sobre a chama. Considere as assertivas a seguir, relativas ao momento em que o ovo é acrescentado no recipiente I. A temperatura da água irá aumentar. II. A água absorverá calor do ovo. III. O ovo absorverá calor da água. É(são) correta(s) a(s) assertiva(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I"
+        },
+        {
+          "letra": "B",
+          "texto": "I e II"
+        },
+        {
+          "letra": "C",
+          "texto": "II"
+        },
+        {
+          "letra": "D",
+          "texto": "III"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Termodinâmica",
+        "Física – Calorimetria"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Marcolino observa que, na parte superior de um prédio de 30 andares, fica localizado o recipiente que armazena a água que é distribuída para os diversos apartamentos do prédio. Ele toma como referência o piso do primeiro andar desse prédio para afirmar que, relativo ao conjunto recipiente mais água, na medida em que vai aumentando o volume de água, ao ser abastecido.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A energia cinética, associada ao conjunto, aumenta."
+        },
+        {
+          "letra": "B",
+          "texto": "A energia potencial gravitacional, associada ao conjunto, aumenta."
+        },
+        {
+          "letra": "C",
+          "texto": "A energia potencial gravitacional, associada ao conjunto, diminui."
+        },
+        {
+          "letra": "D",
+          "texto": "A energia potencial gravitacional, associada ao conjunto, se mantém constante."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Energia",
+        "Física – Potencial Gravitacional"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Marcolino observa a cidade, à noite, do vigésimo terceiro andar de um prédio. Ele percebe, então, uma profusão de cores das luzes visíveis emitidas pelos diversos equipamentos elétricos em funcionamento pela cidade. Dentre as alternativas a seguir, aquela que melhor explica a emissão das diferentes cores observadas está relacionada com",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a velocidade de propagação da luz."
+        },
+        {
+          "letra": "B",
+          "texto": "a intensidade da onda de luz."
+        },
+        {
+          "letra": "C",
+          "texto": "a natureza mecânica da luz."
+        },
+        {
+          "letra": "D",
+          "texto": "a frequência de emissão da luz."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Ondulatória",
+        "Física – Luz"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Marcolino foi em uma loja, com a mãe, comprar um liquidificador. Escolhida a marca, ela ficou em dúvida entre um aparelho de potência $1.200 \\text{ Watts}$ e outro de potência $1.400 \\text{ Watts}$. Relativo ao consumo de energia elétrica pelo aparelho, qual das alternativas abaixo, proposta por Marcolino, será a opção correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o aparelho de $1.400 \\text{ Watts}$ consome $0,7 \\text{ KWh}$ de energia elétrica em $30 \\text{ minutos}$ de funcionamento;"
+        },
+        {
+          "letra": "B",
+          "texto": "o aparelho de $1.200 \\text{ Watts}$ consome $3 \\text{ KWh}$ de energia elétrica em $90 \\text{ minutos}$ de funcionamento;"
+        },
+        {
+          "letra": "C",
+          "texto": "$6 \\text{ KWh}$ de energia elétrica são consumidos pelo aparelho de $1.400 \\text{ Watts}$ em $6 \\text{ horas}$ de funcionamento;"
+        },
+        {
+          "letra": "D",
+          "texto": "$10 \\text{ KWh}$ de energia elétrica são consumidos pelo aparelho de $1.200 \\text{ Watts}$ em $6 \\text{ horas}$ de funcionamento."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Eletrodinâmica",
+        "Física – Consumo de Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "A imagem apresentada, retirada da internet, representa um navio recebendo carga em um porto. Marcolino, observando a cena, propõe três hipóteses sobre a relação entre o peso do navio e a força de empuxo da água que atua sobre ele. I. antes de receber a carga, o peso do navio é igual à força de empuxo da água que atua sobre ele. II. à medida que vai recebendo carga, o peso do navio se torna maior do que a força de empuxo da água, que atua sobre ele. III. à medida que vai recebendo carga, a força de empuxo da água, que atua sobre ele, também aumenta, proporcionalmente à carga recebida. São corretas as hipóteses",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II"
+        },
+        {
+          "letra": "B",
+          "texto": "II e III"
+        },
+        {
+          "letra": "C",
+          "texto": "I e III"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Hidrostática",
+        "Física – Empuxo"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Os organismos de uma comunidade interagem exercendo influências recíprocas que se refletem nas populações envolvidas. Uma planta que se fixa sobre outra planta, da qual retira seiva elaborada por meio de finíssimas raízes adaptadas para este fim, é um exemplo de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Inquilinismo"
+        },
+        {
+          "letra": "B",
+          "texto": "Parasitismo"
+        },
+        {
+          "letra": "C",
+          "texto": "Epifitismo"
+        },
+        {
+          "letra": "D",
+          "texto": "Comensalismo"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Recentemente, foram divulgados oito casos de bebês que nasceram no Reino Unido, utilizando a técnica de material genético de três pessoas, para prevenir condições devastadoras e muitas vezes fatais para os filhos (BBC News Brasil, 17/07/2025). O método, desenvolvido por cientistas do país, combina o óvulo de uma mãe e o espermatozoide de um pai, com um segundo óvulo de uma mulher doadora. A técnica é legalizada no país há uma década, para que mães portadoras de mitocôndrias defeituosas possam ter a chance de gerar filhos livres de doenças incuráveis. A criança resultante é geneticamente relacionada aos pais, mas deve estar livre das graves doenças mitocondriais. Sabemos que as mitocôndrias são organelas presentes nos citoplasmas celulares que garantem a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Atividade metabólica das células, gerando energia por meio da degradação das moléculas orgânicas."
+        },
+        {
+          "letra": "B",
+          "texto": "Síntese de proteínas e armazenamento de substâncias diversas, responsáveis pela regulação osmótica."
+        },
+        {
+          "letra": "C",
+          "texto": "Circulação intracelular, permitindo o deslocamento de partículas de uma região para outra do citoplasma."
+        },
+        {
+          "letra": "D",
+          "texto": "Digestão de substâncias ingeridas e consequente absorção de substâncias aproveitáveis pela célula."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Citologia",
+        "Biologia – Genética"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Podemos distinguir nos seres vivos, em geral, dois tipos básicos de divisão celular: a mitose, cujas células filhas conterão o mesmo número de cromossomos existentes na célula mãe; e a meiose, cujas células filhas conterão a metade do número de cromossomos da célula mãe. Sobre as diferenças entre estes dois tipos de divisões celulares, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Na meiose ocorrem duas duplicações cromossômicas, e na mitose apenas uma duplicação cromossômica."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas na mitose ocorre o processo de duplicação cromossômica e formação de cromátides irmãs."
+        },
+        {
+          "letra": "C",
+          "texto": "Na mitose ocorre o processo de recombinação gênica ou crossing-over."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas na meiose ocorre o pareamento e separação dos cromossomos homólogos."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Citologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Quando os aminoácidos são utilizados como fonte de energia, formam-se, além de $CO_2$ e água, os produtos nitrogenados, que são resíduos metabólicos de origem celular. Isso porque o elemento químico nitrogênio compõe quimicamente os aminoácidos. Uma das funções básicas da excreção animal é remover e eliminar estes resíduos de origem celular. Os animais variam nos tipos predominantes de excretas nitrogenadas que eliminam. Sobre estes tipos de excretas e os animais que os excretam, relacione as colunas abaixo: 1- Uréia ( ) Insetos, répteis e aves 2- Amônia ( ) Invertebrados aquáticos e peixes ósseos 3- Ácido úrico ( ) Peixes cartilaginosos, anfíbios e os mamíferos. A sequência correta é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2, 3 e 1"
+        },
+        {
+          "letra": "B",
+          "texto": "1, 2 e 3"
+        },
+        {
+          "letra": "C",
+          "texto": "3, 2 e 1"
+        },
+        {
+          "letra": "D",
+          "texto": "3, 1 e 2"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Fisiologia Animal",
+        "Química – Bioquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "As proteínas representam entre 10% e 15% das substâncias que compõem a matéria viva e exercem papéis fundamentais entre os seres vivos, tanto no metabolismo quanto na composição deles. Sobre proteínas importantes para a espécie humana, indique quais das afirmativas abaixo estão corretas. I- A albumina, encontrada no plasma sanguíneo, participa do armazenamento do oxigênio nos músculos esqueléticos. II- O glucagon, sintetizado no pâncreas, participa da manutenção do nível de glicose no sangue. III- A insulina, sintetizada no pâncreas, participa da redução do nível de glicose no sangue. IV- A caseína, sintetizada pelo fígado, é responsável pelo processo de digestão de gorduras. V- O fibrinogênio, importante componente do plasma sanguíneo, participa dos processos de coagulação.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e III"
+        },
+        {
+          "letra": "B",
+          "texto": "I, III e IV"
+        },
+        {
+          "letra": "C",
+          "texto": "II, III e V"
+        },
+        {
+          "letra": "D",
+          "texto": "II, IV e V"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Bioquímica",
+        "Biologia – Fisiologia Humana"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Uma pessoa daltônica não distingue as cores verde e vermelha, podendo também apresentar outros problemas de distinções de cores. Sabendo que o daltonismo é uma anomalia condicionada por um gene recessivo ligado ao cromossomo X, uma mulher daltônica, casando-se com um homem normal, considerando o daltonismo, poderá ter:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "tanto filhos como filhas daltônicas"
+        },
+        {
+          "letra": "B",
+          "texto": "apenas os filhos daltônicos e as filhas normais"
+        },
+        {
+          "letra": "C",
+          "texto": "apenas as filhas daltônicas e os filhos normais"
+        },
+        {
+          "letra": "D",
+          "texto": "nem filhos e nem filhas daltônicas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Genética"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "A fotossíntese é o processo que sustenta boa parte de vida na Terra pois ela renova os estoques de gás oxigênio e diminui a concentração de gás carbônico. Os seres vivos que realizam a fotossíntese são essenciais e muito especiais porque conseguem:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "converter substâncias químicas simples, como o dióxido de carbono e água em carboidratos."
+        },
+        {
+          "letra": "B",
+          "texto": "extrair energia química acumulada nas moléculas de substâncias orgânicas diversas."
+        },
+        {
+          "letra": "C",
+          "texto": "utilizar a glicose como combustível para liberação de energia e oxigênio."
+        },
+        {
+          "letra": "D",
+          "texto": "degradar parcialmente a glicose, gerando oxigênio e substâncias orgânicas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Fisiologia Vegetal"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Analise as afirmativas apresentadas e assinale a única alternativa correta. A) Se duas soluções aquosas apresentam o mesmo abaixamento da temperatura de congelamento, podemos concluir que as duas soluções possuem a mesma concentração molar. B) Ao se dissolver $NaHCO_3$ em água, o meio se torna ácido. C) Uma solução aquosa de cloreto de sódio, ($NaCl$), é eletrolítica, pois os íons presentes na solução têm grande mobilidade, o que propicia a condução de corrente elétrica. D) A ligação química existente entre os átomos de magnésio em um cristal de magnésio é covalente.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Se duas soluções aquosas apresentam o mesmo abaixamento da temperatura de congelamento, podemos concluir que as duas soluções possuem a mesma concentração molar."
+        },
+        {
+          "letra": "B",
+          "texto": "Ao se dissolver $NaHCO_3$ em água, o meio se torna ácido."
+        },
+        {
+          "letra": "C",
+          "texto": "Uma solução aquosa de cloreto de sódio, ($NaCl$), é eletrolítica, pois os íons presentes na solução têm grande mobilidade, o que propicia a condução de corrente elétrica."
+        },
+        {
+          "letra": "D",
+          "texto": "A ligação química existente entre os átomos de magnésio em um cristal de magnésio é covalente."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Físico-Química",
+        "Química – Eletroquímica",
+        "Química – Ligações Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Considerando-se que o grau se dissociação do $PCl_5$, a $1,00 \\text{ atm}$ e $250^\\circ C$, seja igual a $80\\%$, teremos que o volume ocupado por $1,00 \\text{ g}$ de $PCl_5$, quando submetido às condições anteriores de pressão e temperatura, será de, aproximadamente, Dados: $$PCl_5 \\rightleftharpoons PCl_3 + Cl_2$$ $R = 0,082 \\text{ atm L mol}^{-1} \\text{ K}^{-1}$ Massas Molares (g $mol^{-1}$): $P = 31,0$; $Cl = 35,5$",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$43,0 \\text{ cm}^3$"
+        },
+        {
+          "letra": "B",
+          "texto": "$8,82 \\text{ cm}^3$"
+        },
+        {
+          "letra": "C",
+          "texto": "$1,80 \\text{ L}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$0,37 \\text{ L}$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Físico-Química",
+        "Química – Equilíbrio Químico",
+        "Química – Gases Ideais"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Com relação às propriedades dos óxidos, são feitas as afirmativas relacionadas abaixo. I) O $OF_2$ é um óxido ácido. II) O $BaO$ é um óxido básico e o $SO_2$ é um óxido ácido. III) Quando dissolvido em água, o $NO_2$ forma, como produto principal, $HNO_3$. IV) O $ZnO$ reage com bases fortes, produzindo sal e água. O número de afirmativas corretas é,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Química Inorgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Ao se reagir $6,80 \\text{ g}$ de fosfina ($PH_3$) com $6,40 \\text{ g}$ de oxigênio, forma-se $P_4O_{10}$ e água, de acordo com a equação química não balanceada, $$PH_3(g) + O_2(g) \\rightarrow P_4O_{10}(s) + H_2O(l)$$ Considerando-se as condições de reação apresentadas, pode-se concluir que o reagente limitante e a quantidade de $P_4O_{10}(s)$ formado são, respectivamente, Dados: Massas Molares (g $mol^{-1}$): $H = 1,00$; $O = 16,0$; $P = 31,0$",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$O_2$ e $7,10 \\text{ g}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$O_2$ e $12,80 \\text{ mg}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$PH_3$ e $3,40 \\text{ g}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$PH_3$ e $13,60 \\text{ mg}$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Estequiometria",
+        "Química – Reações Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "O produto [D] da reação 4, é um composto químico utilizado principalmente como intermediário na síntese de outros compostos, como, por exemplo, na produção de corantes, fármacos (incluindo o paracetamol) e pesticidas. Além disso, pode ser utilizado em produtos para borracha e como inibidor de corrosão na produção de gasolina, dentre outras aplicações. As quatro reações apresentadas representam, de forma simplificada, a rota de síntese desse composto. A reação 1 pode ser classificada como de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "adição nucleofílica."
+        },
+        {
+          "letra": "B",
+          "texto": "substituição eletrofílica aromática."
+        },
+        {
+          "letra": "C",
+          "texto": "substituição nucleofílica aromática."
+        },
+        {
+          "letra": "D",
+          "texto": "substituição por radical livre."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Química Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Na reação 2, a nomenclatura do produto formado, [B], e o tipo de reação são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "benzilamina e oxidação."
+        },
+        {
+          "letra": "B",
+          "texto": "benzilamina e redução."
+        },
+        {
+          "letra": "C",
+          "texto": "fenilamina e eliminação."
+        },
+        {
+          "letra": "D",
+          "texto": "fenilamina e redução."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Química Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "A função orgânica à qual pertence o produto principal da reação 3, [C], e a nomenclatura do produto [D] da reação 4, são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "amida primária e 3-metil-propanamida."
+        },
+        {
+          "letra": "B",
+          "texto": "amida secundária e p-nitroacetanilida."
+        },
+        {
+          "letra": "C",
+          "texto": "amida terciária e acetanilida."
+        },
+        {
+          "letra": "D",
+          "texto": "amina terciária e p-nitroanilina."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Química Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Os gráficos apresentados são baseados em dados da produção do ouro e da população de Minas Gerais ao longo do século XVIII. Pelos dados retirados dos dois gráficos, percebe-se a importância da mineração para a economia agroexportadora do Brasil para Portugal durante o século XVIII. São características e problemas desta produção:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "trabalho de negros e mestiços, em sua maior parte escravizados, o que gerou uma sociedade estratificada encabeçada por homens brancos e pardos, muito pautada numa economia mineradora em Minas Gerais, Goiás e Mato Grosso e em muitas revoltas escravas, sobretudo em Minas Gerais (Inconfidência Mineira)."
+        },
+        {
+          "letra": "B",
+          "texto": "mão de obra escravizada negra, a qual era a esmagadora maioria na sociedade mineira, o que gerou crises de abastecimento e convulsões sociais constantes, sendo a maior delas a Inconfidência Mineira, na qual Tiradentes representava essa liderança negra e mestiça."
+        },
+        {
+          "letra": "C",
+          "texto": "mão de obra escravizada negra e indígena, sustentada numa economia pouco desenvolvida tecnologicamente e altamente dependente da repressão para o seu funcionamento, o que gerou várias revoltas, a maior delas a Inconfidência Mineira de 1789."
+        },
+        {
+          "letra": "D",
+          "texto": "baseada no trabalho de negros escravizados e sustentada numa sociedade altamente hierarquizada, muito centrada na região mineira e que colapsou em 1798, desembocando na Inconfidência Mineira."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História do Brasil Colonial",
+        "História – Mineração no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Na charge apresentada, publicada na Revista D. Quixote, no ano de 1922, há uma referência irônica aos intelectuais de renome do cenário brasileiro, como Carlos Gomes, Coelho Neto, entre outros. Essa imagem reflete o momento da chamada Semana de Arte Moderna, ocorrida em fevereiro de 1922, em que um grupo de intelectuais propunha uma ruptura cultural com o chamado \"passadismo\". Os literatos Mario de Andrade, Oswald de Andrade, a pintora Anita Malfatti, entre outros, propunham uma",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ruptura com os parnasianos, que simbolizavam verdadeiro atraso cultural, por manterem os paradigmas europeus. Por outro lado, os modernistas eram considerados os bolchevistas da estética, com o propósito de acabar com a aristocracia paulistana e o mimetismo da cultura do Leste europeu."
+        },
+        {
+          "letra": "B",
+          "texto": "quebra do conservadorismo político-cultural, em que seria implementada uma aliança com as camadas populares que estavam nas fábricas. A Semana inaugurou a abertura de todas as artes aos que estavam fora do circuito endinheirado da cidade paulistana."
+        },
+        {
+          "letra": "C",
+          "texto": "nova estética da cultura brasileira, rompendo com a herança europeia justamente no mesmo ano em que se comemorava o Centenário da Independência do Brasil. Os novos paradigmas modernos se baseavam numa estética que valorizava a identidade brasileira em todas as suas expressões artísticas."
+        },
+        {
+          "letra": "D",
+          "texto": "revolta artística com saraus, exposições, peças teatrais, tendo como palco o Teatro Municipal de São Paulo num esforço de “branqueamento” da sociedade paulistana. Havia o perigo da consolidação da cultura afro-brasileira, o que poderia solapar os alicerces da República Oligárquica."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História do Brasil República",
+        "Arte – Modernismo Brasileiro"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Para o filósofo grego Aristóteles, o poder não deve ser exercido por todos, mas por aqueles que exibem as virtudes necessárias para tal atividade (Política, III, 1278 a1). Esse pensamento aristotélico também pode ser percebido na própria democracia ateniense e seus limites. Nesse sentido, os “melhores” cidadãos eram escolhidos em Atenas do período clássico entre os",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "nascidos na Ática e com domínio da retórica; isso funcionava como uma estratégia para manter a virtuosidade e a pureza da Assembleia dos Anciãos. Os estrangeiros que falassem o grego e residissem em Atenas poderiam ter participação limitada nas Assembleias."
+        },
+        {
+          "letra": "B",
+          "texto": "indivíduos do sexo masculino nascidos em Atenas, com pais atenienses, excluindo a participação de mulheres, escravizados e estrangeiros. O filósofo considerava a educação como fundamental para a participação do cidadão no governo e na vida pública."
+        },
+        {
+          "letra": "C",
+          "texto": "que sabiam argumentar e com poder de persuasão entre os seus interlocutores, habilidades fundamentais para o fortalecimento da democracia indireta. Na democracia ateniense, a participação dos cidadãos era ampla, desde que tivessem sido alunos de Platão."
+        },
+        {
+          "letra": "D",
+          "texto": "descendentes dos heróis gregos, como uma forma de manter os valores democráticos e impedir a tirania. A democracia ateniense é considerada o primeiro regime que lançou as bases da democracia moderna e de sistemas de governo que impedem a demagogia e a tirania."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Filosofia – Filosofia Antiga",
+        "História – História Antiga"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "A imagem apresentada é uma representação da Conferência de Berlim realizada entre 1884/1885, proposta pelo chanceler alemão Otto von Bismarck com o objetivo de dividir o continente africano Em seguida está a manchete do jornal O Globo estampada no dia 27 de junho de 2025. RUANDA E REPÚBLICA DEMOCRÁTICA DO CONGO ASSINAM ACORDÓ EM WASHINGTON PARA ENCERRAR CONFLITO A notícia do século XXI estampada no periódico O Globo destaca um ponto final no conflito de mais de 30 anos entre as vizinhas Ruanda e a República Democrática do Congo e que remonta a problemas do final do século XIX. Observando a imagem e a manchete do jornal, não podemos desconhecer que são acontecimentos conectados ao",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "colonialismo do século XIX, quando países europeus, em uma disputa por controle de territórios na África, se apossaram de terras como o Congo, vítima histórica da ganância das potências imperialistas. Na partilha da África, o território congolês foi escolhido pelo rei Leopoldo II da Bélgica, por estar isolado e rico em recursos minerais, terras férteis e enorme biodiversidade."
+        },
+        {
+          "letra": "B",
+          "texto": "imperialismo norte-americano, fortalecido no século XIX após o desenvolvimento do capitalismo decorrente do progresso das indústrias do aço. Ruanda, hoje vizinha do Congo, foi a mais disputada por ter uma enorme biodiversidade e rica em ferro, o que fez com que na RDC (Congo) fossem instaladas bases militares francesas."
+        },
+        {
+          "letra": "C",
+          "texto": "expansionismo dos países que fizeram parte da reunião de Berlim, como a França, Itália, Rússia, Estados Unidos, entre outros, que desejavam se apossar de territórios africanos e asiáticos ricos em petróleo e recursos minerais. Como a Alemanha era o país mais forte economicamente, comandou a partilha da África e entregou à Inglaterra o território angolano."
+        },
+        {
+          "letra": "D",
+          "texto": "colonialismo que se intensificou após a Segunda Guerra Mundial, quando os países mais fortes, como a Alemanha, se apropriaram de territórios africanos. A Inglaterra, a França, a Espanha e Portugal, países que tinham tradição imperialista, foram os mais beneficiados nessa partilha em que foi ignorada a população tradicional que habitava os territórios, transformando-os em colonos da Grande Europa."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História Contemporânea",
+        "Geografia – Geografia Política"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Veja a letra do samba de carnaval lançado em 1941 na voz do cantor Orlando Silva, e responda à questão que se segue. \"Eu Trabalhei\" Eu hoje tenho, Tudo, tudo que um homem quer, Tenho dinheiro, automóvel e uma mulher, Mas pra chegar, Até o ponto em que cheguei, Eu trabalhei, trabalhei, trabalhei. Eu hoje sou feliz, E posso aconselhar, Quem faz o que eu já fiz, Só pode melhorar, E quem diz que o trabalho, Não dá camisa a ninguém, Não tem razão, Não tem, não tem... (Letra de Roberto Roberti e Jorge Faraj. Disco Orlando Silva, RCA, 1941) A letra da canção valoriza o trabalho e isso ocorreu porque foi lançada num contexto político em que o Brasil vivia grandes mudanças expressas, no Varguismo, como um regime:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Democrático implementado pelo governo Vargas no qual a música cumpriu o seu papel como divulgadora de uma nova ideologia em que o trabalho era fundamental para a ascensão à classe burguesa. A hierarquia deveria ser observada e o cumprimento das normas dentro da fábrica contribuíam para o alcance do bem-estar social."
+        },
+        {
+          "letra": "B",
+          "texto": "Fascista de Getúlio Vargas que implementava leis controladoras da classe trabalhadora, impedindo as mobilizações das organizações sindicais. Contudo, a instituição da jornada de oito horas de trabalho nas fábricas era um meio de evitar a exploração pelos donos de fábrica, em sua maioria italianos."
+        },
+        {
+          "letra": "C",
+          "texto": "Autoritário de Vargas que, ao Consolidar as Leis Trabalhistas, fortaleceu a autonomia do movimento sindical, inclusive servindo de exemplo a países capitalistas como os Estados Unidos da América. Foi o período em que os trabalhadores se sentiram amparados por leis justas e ampla proteção social."
+        },
+        {
+          "letra": "D",
+          "texto": "Estadonovista, caracterizado por medidas trabalhistas com a promulgação de leis como a do salário-mínimo, entre outras, servindo como estratégia para disseminar a ideia de proteção e melhoria do proletariado. A exaltação ao trabalho por meio da música foi um método para manter a mão de obra nas indústrias em harmonia entre patrões e operários, com o propósito de manutenção do Estado Novo, sem grandes perturbações."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – História do Brasil República",
+        "Sociologia – Trabalho e Sociedade"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "A densa floresta e os rios que fluem silenciosos nos arredores do município de Autazes (AM), escondem fenômenos invisíveis. Um deles é o potássio, mineral que pode ser encontrado no subsolo. O recurso usado como base para a produção de fertilizantes simboliza a promessa para reduzir a dependência do Brasil de adubos importados em nosso agronegócio. Mas, para retirá-lo do solo, estima-se o acúmulo de pelo menos quase 80 milhões metros cúbicos só de resíduos. Anunciado no município há mais de dez anos, o projeto da Brazil Potash Corp. para construir uma mina de potássio já tem as obras iniciadas, mesmo contanto apenas com licenças estaduais parciais e sem licença do IBAMA. Também as comunidades mais impactadas pelas futuras instalações do projeto não foram plenamente ouvidas. Nos arredores das futuras instalações desse projeto, vive a comunidade de indígenas da etnia Mura, que aguarda, desde 2003, a demarcação oficial de seu território. Diante das críticas, a Potássio do Brasil e o governo federal defendem o projeto como estratégico para os interesses nacionais, inclusive para garantir a segurança alimentar no país e no exterior. Isso porque a guerra entre Rússia e Ucrânia afetou o fornecimento global do mineral, e o Brasil, que importa 96% do insumo - principalmente da Rússia, Canadá e Belarus. (Texto adaptado de Tainã Mansani. Extração de potássio na Amazônia acirra disputa entre agro e ambientalistas.) (Fonte: Deutsche Wellw. https://www.uol.com.br/ecoa/noticias/deutsche-welle/2025/07/28/amazonia-vive- incoerencia-entre-fertilizantes-e-preservacao.htm. Acessado em 28/07/2025) O texto analisa um exemplo de problema ambiental contemporâneo. Quase todos estes problemas se definem por um tripé cotidiano de diferentes tipos de interesses, cujos autores diretos são:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1)Conglomerados industriais internacionais e empresas nacionais que visam desenvolvimento econômico/ambiental; 2) Órgãos de preservação ambiental e de povos indígenas que buscam compensações por suas perdas; 3) Normas governamentais organizadas para fazer os interesses serem bem gerenciados."
+        },
+        {
+          "letra": "B",
+          "texto": "1) Capital internacional industrial aliado a capitalistas nacionais e regionais com interesses em lucros; 2) Grupos preservacionistas e ambientalistas, associados a instituições de preservação ambiental, patrimonial e sócio/cultural; 3) governos locais, estaduais e federais com complexas legislações e interesses contraditórios."
+        },
+        {
+          "letra": "C",
+          "texto": "1) Empresas privadas de exploração/agronegócios nacionais que esperam investir para gerar lucros e promover desenvolvimento; 2) Instituições não governamentais que vivem da exploração dos problemas ambientais com advogados/agentes que atrapalham o crescimento econômico; 3) Governos que complicam a legislação de licenciamentos."
+        },
+        {
+          "letra": "D",
+          "texto": "1) Grandes empresários do agronegócio brasileiro, financiadores de obras para o crescimento de áreas de extração de minerais; 2) Ambientalistas e povos indígenas com lideranças fortes tentando impedir o crescimento do agronegócio nacional; 3) Órgãos governamentais regionais, estaduais e federais com interesses próprios e uma legislação que leva à criação de esquemas de corrupção que atrapalham o crescimento do negócio."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geografia Econômica",
+        "Geografia – Geografia Política",
+        "Geografia – Geografia Ambiental"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "As duas tirinhas da Laerte expõem alguns problemas contemporâneos decorrentes das novas tecnologias de telecomunicação e, em especial, denunciam o uso abusivo e irrefletido das Inteligências Artificiais (I. As.). Nesse sentido, as imagens denunciam o fato de que as I. As. podem",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "modificar as relações de afetividade entre os seres humanos, mesmo que de maneira artificial e que alteram a realidade natural do mundo do trabalho, influenciando em diferentes tipos de abordagens e melhorando estas relações."
+        },
+        {
+          "letra": "B",
+          "texto": "tornar os seres humanos mais artificiais e menos naturais em suas relações afetivas, como fica claro na primeira tirinha, ou podem melhorar as relações sociais do mundo do trabalho moderno, como está claro na segunda tirinha."
+        },
+        {
+          "letra": "C",
+          "texto": "deixar de fornecer fontes para as suas respostas, não conseguem verificar a veracidade de suas respostas, e podem divulgar informações falsas, desatualizadas, distorcidas ou descontextualizadas, que podem contribuir para que os humanos pensem mais artificialmente e menos sobre suas realidades."
+        },
+        {
+          "letra": "D",
+          "texto": "transformar os relacionamentos humanos, já que são hoje capazes de conversar entre si, como se mostra na primeira tirinha e, ainda, que podem substituir os trabalhadores humanos, como está claro na segunda sequência de imagens representada na tirinha."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Sociologia – Tecnologia e Sociedade",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "A figura apresentada trata da Emergência Climática. Conferência das Nações Unidas sobre as Mudanças Climáticas, conhecida como COP (Conference of the Parties), é um evento anual que reúne representantes de países para discutir e negociar ações para combater as mudanças climáticas. COP30 será realizada em Belém, no Pará, Brasil, em novembro de 2025. Considerando o atual contexto da emergência climática e a repercussão das Conferências anteriores, o cenário projetado pela charge faz uma crítica ao (a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Modelo de transição energética que pouco valoriza o uso dos recursos naturais renováveis e não renováveis."
+        },
+        {
+          "letra": "B",
+          "texto": "Morosidade na implementação dos acordos firmados adicionada ao negacionismo climático, que se tornam obstáculos para ações de mitigação."
+        },
+        {
+          "letra": "C",
+          "texto": "Indicação das cidades sedes da realização do evento, o qual envolve a participação de chefes de Estado e sociedade civil organizada."
+        },
+        {
+          "letra": "D",
+          "texto": "Construção de projetos arquitetônicos não adaptáveis às novas condições do clima urbano."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geografia Ambiental",
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "A produção de imagens, do imaginário (entendido como universos de signos), do turismo, de alguns serviços, de entretenimento, dentre tantas outras produções, vem se organizando, progressivamente, como produção industrial e conforme sua lógica. Daí o uso corrente das expressões: indústria do turismo, indústria de serviços, indústria das comunicações, indústria criativa, indústria de eventos etc. Não se pode mais reduzir o entendimento da indústria de transformação como sendo uma produção organizada de mercadorias corpóreas, uma vez que uma desmaterialização se faz presente na produção. Por exemplo, numa publicidade da Coca-Cola temos a produção de valor tanto na produção da imagem da Coca-Cola, quanto na produção de litros do refrigerante. FONTE: LENCIONI, S. DESCORTINANDO O INVISÍVEL E AMPLIANDO O OLHAR SOBRE A INDÚSTRIAGeo UERJ, Rio de Janeiro, n. 46, e87277, 2024 | DOI: 10.12957/geouerj.2024.87277. O texto introduz o tema da produção industrial que, contextualizada, atualmente tende à:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Concentração dos estabelecimentos fabris em espaços urbanos circundados por bairros operários."
+        },
+        {
+          "letra": "B",
+          "texto": "Ampliação de instalações, equipamentos e da classe de trabalhadores envolvidos na produção fordista da matéria-prima."
+        },
+        {
+          "letra": "C",
+          "texto": "Inclusão de uma forma do trabalho imaterial e a produção do intangível, que é relacionado aos símbolos da produção e que ganham força na Era digital."
+        },
+        {
+          "letra": "D",
+          "texto": "Consolidação da hegemonia do capital industrial, fortalecendo o segundo setor da economia."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geografia Econômica",
+        "Sociologia – Trabalho e Tecnologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "A figura apresentada mostra uma rocha sedimentar. O estudo das rochas sedimentares é fundamental para entender a história da Terra e os impactos das mudanças ambientais ao longo do tempo. Na imagem, as camadas representam condições climáticas específicas de um determinado contexto geológico. Os estudos sobre as rochas sedimentares estão relacionados ao conceito de Antropoceno, entendido como:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Efeito significativo da atividade humana no planeta, que tem deixado marcas evidentes nas rochas como plásticos e resíduos de combustíveis fósseis."
+        },
+        {
+          "letra": "B",
+          "texto": "Período no qual houve impacto progressivo dos eventos extremos sobre a atividade dos povos ancestrais, revelado pelos fósseis encontrados."
+        },
+        {
+          "letra": "C",
+          "texto": "Momento da ausência de atividades humanas, caça, pesca e coleta comum ao homo sapiens."
+        },
+        {
+          "letra": "D",
+          "texto": "Marca simbólica da evolução da sociedade humana, na qual a inteligência artificial é capaz do controle sobre os eventos extremos da natureza."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geografia Física",
+        "Geografia – Geografia Ambiental"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Os mapas apresentados mostram a Anomalia de precipitação (chuva), em milímetros (mm), durante o trimestre (a) outubro-novembro-dezembro/2023 e (b) janeiro-fevereiro-março/2024. Uma anomalia climática ocorre quando os padrões climáticos esperados são alterados, chamados eventos extremos. Um exemplo dessas anomalias é El Niño, fenômeno climático natural, caracterizado pelo aquecimento anormal das águas superficiais do Oceano Pacífico Equatorial, especialmente na região próxima à costa oeste da América do Sul. Na análise dos mapas (a/b), onde os tons de cinza claro representam as áreas chuvosas, e no seu conhecimento da passagem deste fenômeno sobre o território brasileiro, quais efeitos podem ser observados?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Redução drástica das temperaturas na maior parte do Brasil, com reflexos sentidos, mesmo após o seu fim, nas cidades brasileiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Evolução da precipitação extrema, sobretudo em grande parte das regiões Sul e Sudeste, influenciando inundações e deslizamentos."
+        },
+        {
+          "letra": "C",
+          "texto": "Ampliação do inverno amazônico em toda a região, com sérios impactos nas atividades econômicas."
+        },
+        {
+          "letra": "D",
+          "texto": "Diminuição da friagem na região central do Brasil, dissipada pela ação dos rios voadores que circulam desde o Pacífico ao Sul do país."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Climatologia",
+        "Geografia – Geografia Ambiental"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Sabemos que a Amazônia foi um berço importante de geração de agrobiodiversidade. Quando começamos a olhar para a questão das plantas, depois da Amazônia central, percebemos que havia muitas plantas utilizadas em outros países. Por exemplo, a castanha-do-pará é consumida há pelo menos 11 mil anos. No entanto, a castanha é uma planta que nunca foi domesticada. Domesticação é um conceito-chave. (...) Essa separação entre domesticado e selvagem é uma imposição feita sobre o mundo a partir de uma visão que é particular, que é historicamente situada, que tem a ver com o pensamento europeu do iluminismo e do positivismo depois do século XIX. Do texto do referido arqueólogo, salientamos a questão do olhar externo do colonizador que contribuiu historicamente, para a formação de uma ideia sobre Amazônia, a qual influenciou para:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Valorizar a cultura dos povos com respeitos às crenças e ao folclore regional."
+        },
+        {
+          "letra": "B",
+          "texto": "Preservar a riqueza das florestas, a diversidade da fauna, do solo e subsolo."
+        },
+        {
+          "letra": "C",
+          "texto": "Absolver o conhecimento sobre formas de cultivar a terra e de construir suas habitações."
+        },
+        {
+          "letra": "D",
+          "texto": "Subalternizar o conhecimento e a influência ancestral na formação da região."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geografia Cultural",
+        "História – Colonialismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "A floresta ombrófila densa, representada neste mapa, em sua distribuição original, apresenta um dossel fechado, com árvores de diferentes alturas, suas folhas são perenifólias. Sobre isso, defende-se que a importância da conservação desta floresta está centrada na:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Exploração de madeira e outros recursos florestais que geram renda para muitas comunidades tradicionais, especialmente as que habitam as zonas costeiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Fornecimento de nutrientes para o solo, quando destinado à agricultura de grãos, dada a grande fertilidade desse ambiente."
+        },
+        {
+          "letra": "C",
+          "texto": "Regulação do clima, tanto em nível local quanto global, através da absorção de carbono e da liberação de vapor d'água."
+        },
+        {
+          "letra": "D",
+          "texto": "Adaptação aos incêndios e aos outros eventos extremos, alternados por períodos de seca e precipitação intensa."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Biogeografia",
+        "Geografia – Geografia Ambiental"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "No mapa da Amazônica Legal, observamos os elementos cartográficos que são componentes essenciais nas representações gráficas do espaço geográfico. Esses elementos são necessários para",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Comunicar informações geográficas, utilizando a escala para explicar os símbolos, cores e padrões usados nos diferentes elementos no mapa."
+        },
+        {
+          "letra": "B",
+          "texto": "Compreender as projeções geográficas que indicam a relação entre as distâncias no mapa e as distâncias reais na superfície terrestre."
+        },
+        {
+          "letra": "C",
+          "texto": "Localizar detalhes do espaço através da rosa-dos-ventos, que informa com exatidão os fenômenos geográficos."
+        },
+        {
+          "letra": "D",
+          "texto": "Definição precisa de pontos no mapa através de linhas imaginárias de latitude e longitude, que compõem as coordenadas geográficas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Cartografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Leia o texto abaixo: Os beija-flores, em festa, Com o sol, com a luz, com os rumores, Saem da verde-floresta, Como um punhado de flores. E abrindo as asas formosas, As asas aurifulgentes, Feitas de opalas ardentes Com coloridos de rosas, Os beija-flores, em bando, Boêmios enfeitiçados, Vão como beijos voando Por sobre os virentes prados; Sobem às altas colinas, Descem aos vales formosos, E espraiam-se após ruidosos Pela extensão das campinas. Depois, sussurrando a flux Dos cactos ensanguentados, Bailam nos prismas da luz, De solto pólen dourados. Ah! Como a orquídea estremece Ao ver que um deles, mais vivo, Até seu gérmen lascivo Mergulha, interna-se, desce... E não haver uma rosa De tantas, uma açucena, Uma violeta piedosa, Que quando a morte sem pena Um destes seres fulmina, Abra-se em férvido enleio, Como a alma de uma menina, Para guardá-lo no seio! Alberto de Oliveira Vocabulário: Aurifulgente: que reluz como ouro. Virente: que verdeja; verdejante, viçoso, viridente. Flux: em grande quantidade, em profusão. Lascivo: que ou o que se inclina aos prazeres do sexo, à sensualidade, à voluptuosidade; libidinoso, lúbrico. Enleio: qualquer coisa que ligue, atando; atilho, liame. Reconhecido como o primeiro parnasiano brasileiro, Alberto de Oliveira destaca-se pela preocupação constante com a forma perfeita e a descrição detalhada de imagens, como se colorisse uma tela. Observe as alternativas abaixo e assinale aquela que melhor contempla autor, obra e escola literária.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Subjetividade: o poema expressa sentimentos subjetivos de forma direta."
+        },
+        {
+          "letra": "B",
+          "texto": "Priorização de temas universais e descritivos como a natureza, como os beija-flores no poema, detalhados com interesse estético e detalhista."
+        },
+        {
+          "letra": "C",
+          "texto": "Caracteriza-se por ser plural, experimental e engajada, refletindo a complexidade e a diversidade do Brasil."
+        },
+        {
+          "letra": "D",
+          "texto": "Privilegia a forma rígida, ao construir um poema que exalta o sentimentalismo."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Literatura – Escolas Literárias",
+        "Literatura – Análise de Poema"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Sabe-se que a linguagem é composta por símbolos que formam um sistema para a comunicação e a transmissão de cultura e ideias. Em todas as alternativas abaixo há referência à simbologia que ‘beija-flores' assume no poema, exceto em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Simbolizar a efemeridade da beleza e das experiências da vida."
+        },
+        {
+          "letra": "B",
+          "texto": "Representar a passagem rápida e intensa da existência."
+        },
+        {
+          "letra": "C",
+          "texto": "Revelar uma jornada alegre da vida, feliz e totalmente equilibrada."
+        },
+        {
+          "letra": "D",
+          "texto": "Sugerir a intensidade da paixão e o ciclo da vida."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Literatura – Análise de Poema"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "O Romantismo brasileiro apresentou três gerações, cada uma com suas características e diferenças. A primeira delas é denominada nacionalista ou indianista. A segunda foi batizada de \"geração do mal do século\", ultrarromântica ou byroniana e a terceira é a \"geração condoreira\" ou \"geração hugoana\". Veja os exemplos a seguir: I- Meu canto de morte, Guerreiros, ouvi: Sou filho das selvas, Nas selvas cresci; Guerreiros, descendo Da tribo tupi. [...] (I Juca Pirama – Gonçalves Dias) II – Se eu morresse amanhã, viria ao menos Fechar meus olhos minha triste irmã; Minha mãe de saudades morreria Se eu morresse amanhã! [...] (Se eu morresse amanhã – Álvares de Azevedo) III - [...] Ó mãe do cativo! que fias à noite As roupas do filho na escolha da palha! Melhor tu farias se ao pobre pequeno Tecesses o pano da branca mortalha. (A mãe do cativo – Castro Alves) A partir dos seus conhecimentos e dos fatos citados, leia as alternativas a seguir e assinale aquela que de fato relaciona a geração romântica a sua respectiva descrição.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ultrarromântica, pois expressa um romantismo intensamente subjetivo, triste e marcado pela busca de refúgio em temas que refletem o dor existencial como a morte e o desencanto com a realidade."
+        },
+        {
+          "letra": "B",
+          "texto": "Nacionalista, porque apresenta uma poesia de fundo social e político, com ênfase na abolição da escravatura e no republicanismo."
+        },
+        {
+          "letra": "C",
+          "texto": "Condoreira, geração marcada pela valorização da identidade nacional brasileira, exaltando a natureza, o passado histórico do Brasil e principalmente a figura do índio como herói nacional."
+        },
+        {
+          "letra": "D",
+          "texto": "Indianista, uma vez que explora os sentimentos do índio como único e autêntico nativo do Brasil."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Literatura – Escolas Literárias",
+        "Literatura – Romantismo Brasileiro"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "O Quinhentismo apresentou duas importantes vertentes: a literatura de informação e a literatura catequética ou literatura de formação. A primeira, composta por relatos, cartas e crônicas produzidas principalmente por viajantes, cronistas e escritores portugueses, com o intuito de informar à Coroa Portuguesa sobre as características, paisagens, fauna, flora e povos indígenas do Brasil recém-descoberto. A segunda, textos produzidos pelos padres jesuítas, de caráter religioso, pedagógico e catequético, com forte expressão da Contrarreforma Católica, incluindo sermões, gramáticas das línguas indígenas, peças teatrais e poemas que buscavam a conversão dos indígenas ao cristianismo. Leia atentamente os excertos a seguir identificando-os como LI (literatura informativa) ou LF (literatura de formação). Em seguida, assinale a alternativa que apresenta as respostas em ordem correta. [ ] \"Todos andam rapados até por cima das orelhas; assim mesmo de sobrancelhas e pestanas. Trazem todos as testas, de fonte a fonte, tintas de tintura preta, que parece uma fita preta da largura de dois dedos.\" (Carta de Pero Vaz Caminha - Manuel da Nóbrega) [ ] “[...] Cordeirinha santa, de Jesus querida, vossa santa vinda o diabo espanta. [...]”(À Santa Inês – Padre José de Anchieta) [ ] \"Mostraram-lhes um papagaio pardo que o Capitão traz consigo; tomaram-no logo na mão e acenaram para a terra, como se os houvesse ali.” (Carta de Pero Vaz Caminha – Padre Manuel da Nóbrega) [ ] \"GUAIXARÁ : - Olha que vais te enganar! AIMBIRÊ: - Tem confiança, te rogo, Que horror Ihes vou inspirar. Quem como eu nas terras existe Que até Deus desafiou? GUAIXARÁ: - Por isso Deus te expulsou, E do inferno o fogo triste Para sempre te abrasou. \"(Auto de São Lourenço – Padre José de Anchieta)\"",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "LF, LI, LI, LF"
+        },
+        {
+          "letra": "B",
+          "texto": "LI, LF, LI, LF"
+        },
+        {
+          "letra": "C",
+          "texto": "LI, LI, LF, LF"
+        },
+        {
+          "letra": "D",
+          "texto": "LF, LF, LI, LI"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Literatura – Escolas Literárias",
+        "Literatura – Quinhentismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "Atualmente, muitos textos produzidos em seus diversos tipos e gêneros destacam que a crise climática amplifica outras crises sociais, como desigualdade e fome. Sabemos que a COP30 terá como pautas principais o enfrentamento e a busca por soluções. Entretanto, esses temas há muito estão presentes na vida de boa parte dos brasileiros. Como cidadão (ã) consciente e a partir dos conhecimentos adquiridos ao longo de seus estudos, assinale o período literário em que as crises sociais marcadas pelas desigualdades e pela fome também constituíram temáticas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Romantismo"
+        },
+        {
+          "letra": "B",
+          "texto": "Parnasianismo"
+        },
+        {
+          "letra": "C",
+          "texto": "Naturalismo"
+        },
+        {
+          "letra": "D",
+          "texto": "Arcadismo"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Literatura – Escolas Literárias",
+        "Sociologia – Questões Sociais na Literatura"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "With 100 days to go until COP30, Belém is undergoing a sweeping transformation. In preparation for the global climate conference, which will take place in November 2025, the federal government — working in partnership with the Government of Pará and the Belém City Hall — is leading a broad agenda of investments and construction projects. For Valter Correia, Special Secretary for COP30, hosting the United Nations Climate Conference (UNCC) in Belém is a historical milestone. \"This is the first Climate Conference to be held in the Amazon, and Brazil is mobilizing to deliver a global event that matches the urgency of the climate crisis,” says Correia. That symbolism is backed by more than BRL 4 billion (approximately USD 722 million) in structural investments that are directly benefiting the local population through long- awaited infrastructure projects. COP30 is also creating jobs and stimulating sectors, such as construction, hospitality, transportation, tourism, and food services. It is helping to elevate the Amazon as a global climate leader while attracting strategic investments and partnerships to the region. Funding for these initiatives includes resources from the federal budget, Itaipu Binacional, the National Bank for Economic and Social Development (BNDES), and matching contributions from state and municipal governments. The aim is to ensure that Belém is fully equipped — with safety, comfort, and high-quality infrastructure — to welcome more than 50,000 participants, including official delegations, civil society representatives, and the press. Adapted from: https://cop30.br/en/news-about-cop30/belem-under-construction-the-final-100-days-before- cop30 Glossary Sweeping: extensa Broad: ampla Hosting: sediando Milestone: evento Backed by: apoiado por Matching: similar According to Valter Correia, a historical milestone is the",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "sheer amount of money being invested in infrastructure."
+        },
+        {
+          "letra": "B",
+          "texto": "fact that it is the first UNCC to be held in the Amazon."
+        },
+        {
+          "letra": "C",
+          "texto": "record number of participants expected to attend."
+        },
+        {
+          "letra": "D",
+          "texto": "creation of new jobs in the hospitality sector."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Reading Comprehension"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "The symbolism of hosting the conference in the Amazon is backed by",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "the attraction of official delegations, excluding press and civil society."
+        },
+        {
+          "letra": "B",
+          "texto": "the promise of a reduction in carbon emissions after the conference."
+        },
+        {
+          "letra": "C",
+          "texto": "partnerships with several international corporations."
+        },
+        {
+          "letra": "D",
+          "texto": "a significant number of structural investments."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Reading Comprehension"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "Several key sectors are being stimulated by the COP30 preparations, with the exception of",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "software development."
+        },
+        {
+          "letra": "B",
+          "texto": "food services."
+        },
+        {
+          "letra": "C",
+          "texto": "construction."
+        },
+        {
+          "letra": "D",
+          "texto": "hospitality."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Reading Comprehension"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "Hosting COP30 is helping the Amazon region to",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "establish a new international research center for tropical diseases."
+        },
+        {
+          "letra": "B",
+          "texto": "provide direct financial aid to local communities for reforestation efforts."
+        },
+        {
+          "letra": "C",
+          "texto": "be seen as a worldwide climate reference and draw investments and alliances."
+        },
+        {
+          "letra": "D",
+          "texto": "launch a new satellite network to monitor deforestation and foster small-scale family farming."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Reading Comprehension"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "The financing for COP30 preparations includes resources from",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "the United Nations Climate Conference."
+        },
+        {
+          "letra": "B",
+          "texto": "state and municipal governments."
+        },
+        {
+          "letra": "C",
+          "texto": "developed countries."
+        },
+        {
+          "letra": "D",
+          "texto": "big tech companies."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Reading Comprehension"
+      ]
+    }
+  ]
+}

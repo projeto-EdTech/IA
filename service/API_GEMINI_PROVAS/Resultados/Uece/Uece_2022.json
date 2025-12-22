@@ -1,0 +1,327 @@
+{
+  "nomeUniversidade": "Universidade Estadual do Ceará",
+  "siglaUniversidade": "UECE",
+  "nomeProva": "Vestibular 2022.1 - 1ª Fase",
+  "ano": 2022,
+  "qtdeQuestoes": 80,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Texto 1\n\nO LEGADO FEMININO NAS OLIMPÍADAS DE TÓQUIO\n\nDefinitivamente, as mulheres deixaram sua marca nas Olimpíadas de Tóquio, que se encerram neste domingo. Elas se destacaram desde a abertura dos Jogos, com a escolha da japonesa Naomi Osaka, uma tenista negra, para acender a pira olímpica, em uma edição com participação recorde de atletas femininas: 48,8% do total.\nEssas atletas, das mais diferentes nacionalidades, não só encantaram o mundo com suas conquistas históricas e quebras de recordes, como também jogaram luz sobre as discriminações, preconceitos e o sexismo ao qual ainda hoje muitas delas são submetidas, seja no esporte ou em tantas outras áreas.\nGAROTAS DOURADAS\nAs atletas brasileiras, em especial, voltam para a casa podendo comemorar o maior número de pódios em uma única edição dos jogos, desde que a nadadora Maria Lenk entrou para a história nacional como a 1ª mulher brasileira a participar de uma Olimpíada em 1932.\nUma trajetória que começou com a dança da nossa 'Fadinha do Skate'? A maranhense Rayssa Leal, de apenas 13 anos de idade, a mais jovem atleta brasileira a subir no pódio olímpico até hoje. Garantiu a prata no 'skate street', uma das novas modalidades olímpicas que fizeram sua estreia em Tóquio.\nEm seguida, veio Rebeca Andrade, 1ª ginasta brasileira a ganhar uma medalha olímpica. Na verdade, ela fez história em dose dupla: com 1 medalha de ouro no salto e outra prata no individual geral. O que lhe garantiu o merecido convite para ser a porta-bandeira do Brasil no encerramento dos Jogos de Tóquio.\nComo ficar indiferente ao ouro olímpico de Ana Marcela Cunha na maratona aquática ou da dupla Martine Grael e Kahena Kunze, amigas de infância e, agora, bicampeãs olímpicas na classe 49er FX da vela?\nCabe ainda uma reverência à seleção feminina de vôlei, que conseguiu chegar à final, a despeito do baque sofrido com a perda de uma de suas principais jogadoras, flagrada em exame antidoping na reta final da disputa. Aplausos também à garra de Beatriz Ferreira na busca de um ouro inédito para o boxe feminino.\nMedalhistas essas que ajudaram o Brasil a ter, em Tóquio, o seu melhor desempenho em Olimpíadas, superando as 19 conquistadas no Rio de Janeiro em 2016. Das 21 medalhas trazidas na bagagem de volta para casa, 9 foram conquistadas por elas, refletindo o equilíbrio entre homens e mulheres na composição da delegação brasileira que desembarcou este ano no Japão.\nMUITO ALÉM DA PARIDADE\nMas a pauta levantada pelas atletas femininas desta edição olímpica foi muito além da bem-vinda paridade de gênero, que será adotada a partir dos Jogos de Paris em 2024.\nA ginasta norte-americana Simone Biles, por exemplo, chegou ao Japão em busca de um recorde de 6 medalhas de ouro, o que a tornaria a atleta olímpica mais bem-sucedida de todos os tempos. Acabou voltando para os Estados Unidos com uma prata e um bronze, o suficiente para se consagrar como a mulher negra mais vitoriosa da história olímpica da ginástica artística.\nFora da arena olímpica, Biles ainda deflagrou o debate mundial sobre a saúde mental de atletas de alto rendimento. Isso, após ela abandonar parte das provas que disputaria e expor publicamente que estava lidando com twisties, uma espécie de bloqueio mental que desorienta atletas em movimentos que desafiam a gravidade.\nPROTESTO CONTRA O SEXISMO\nJá a equipe de ginastas da Alemanha marcou posição com a opção das atletas de usar macacões até o tornozelo em vez dos tradicionais collants, em protesto contra a sexualização da ginástica artística feminina.\nUm posicionamento político que reforça a discussão aberta, durante o último campeonato europeu de handebol, sobre como o sexismo se reflete no controle dos uniformes de atletas. Na ocasião, a equipe feminina da Noruega foi multada em 1,5 mil euros ao trocar o biquíni pelo short, permitido apenas para homens, na modalidade de praia.\nMÃES OLÍMPICAS\nA meio-fundista queniana Faith Kipyegon foi outra a fazer história em Tóquio, ao vencer a prova dos 1.500 metros feminino e bater o recorde olímpico que resistia desde os Jogos de Seul, em 1988. E de quebra, ainda deu uma resposta dourada àqueles que ela se afastou por 1 ano das pistas, em 2017, para ser mãe.\nUm enredo parecido com o enfrentado por Allyson Felix, que conquistou sua 10ª medalha em Tóquio e se igualou a Carl Lewis como a maior medalhista olímpica do atletismo dos Estados Unidos. Ela já havia ultrapassado a marca do ex-velocista jamaicano Usain Bolt, em 2019, e se tornado a maior medalhista da história em Campeonatos Mundiais, apenas 10 meses após o nascimento da filha.\nAliás, quando engravidou da filha, Felix indignou-se quando seus patrocinadores propuseram a redução de 70% dos seus ganhos. Não só expôs publicamente a discriminação contra atletas grávidas e mães, como liderou uma campanha nos Estados Unidos, que aboliram contratos deste tipo no país. Fica assim a lição dessas maravilhosas mulheres olímpicas, que nos remetem a imagens incríveis como a protagonizada pela atleta holandesa Sifan Hassan, que caiu, se levantou e venceu uma eliminatória para a prova dos 1.500 m do atletismo feminino.\n\nVASCONCELOS, ADRIANA. O LEGADO FEMININO NAS OLIMPÍADAS DE TÓQUIO. Disponível em https://www.poder360.com.br/opiniao/olimpiada/o-legado- feminino-nas-olimpiadas-de-toquio-escreve-adriana- vasconcelos. Acesso em 16 de agosto de 2021. (Texto adaptado.)\n\nO texto 1 tem como propósito",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "discutir o comportamento feminino nas Olimpíadas de Tóquio."
+        },
+        {
+          "letra": "B",
+          "texto": "abordar o problema das drogas entre as atletas olímpicas."
+        },
+        {
+          "letra": "C",
+          "texto": "expressar o papel feminino na quebra de paradigmas também no esporte."
+        },
+        {
+          "letra": "D",
+          "texto": "elencar as histórias de vida das mulheres participantes dos jogos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Texto 1\n\nO LEGADO FEMININO NAS OLIMPÍADAS DE TÓQUIO\n\nDefinitivamente, as mulheres deixaram sua marca nas Olimpíadas de Tóquio, que se encerram neste domingo. Elas se destacaram desde a abertura dos Jogos, com a escolha da japonesa Naomi Osaka, uma tenista negra, para acender a pira olímpica, em uma edição com participação recorde de atletas femininas: 48,8% do total.\nEssas atletas, das mais diferentes nacionalidades, não só encantaram o mundo com suas conquistas históricas e quebras de recordes, como também jogaram luz sobre as discriminações, preconceitos e o sexismo ao qual ainda hoje muitas delas são submetidas, seja no esporte ou em tantas outras áreas.\nGAROTAS DOURADAS\nAs atletas brasileiras, em especial, voltam para a casa podendo comemorar o maior número de pódios em uma única edição dos jogos, desde que a nadadora Maria Lenk entrou para a história nacional como a 1ª mulher brasileira a participar de uma Olimpíada em 1932.\nUma trajetória que começou com a dança da nossa 'Fadinha do Skate'? A maranhense Rayssa Leal, de apenas 13 anos de idade, a mais jovem atleta brasileira a subir no pódio olímpico até hoje. Garantiu a prata no 'skate street', uma das novas modalidades olímpicas que fizeram sua estreia em Tóquio.\nEm seguida, veio Rebeca Andrade, 1ª ginasta brasileira a ganhar uma medalha olímpica. Na verdade, ela fez história em dose dupla: com 1 medalha de ouro no salto e outra prata no individual geral. O que lhe garantiu o merecido convite para ser a porta-bandeira do Brasil no encerramento dos Jogos de Tóquio.\nComo ficar indiferente ao ouro olímpico de Ana Marcela Cunha na maratona aquática ou da dupla Martine Grael e Kahena Kunze, amigas de infância e, agora, bicampeãs olímpicas na classe 49er FX da vela?\nCabe ainda uma reverência à seleção feminina de vôlei, que conseguiu chegar à final, a despeito do baque sofrido com a perda de uma de suas principais jogadoras, flagrada em exame antidoping na reta final da disputa. Aplausos também à garra de Beatriz Ferreira na busca de um ouro inédito para o boxe feminino.\nMedalhistas essas que ajudaram o Brasil a ter, em Tóquio, o seu melhor desempenho em Olimpíadas, superando as 19 conquistadas no Rio de Janeiro em 2016. Das 21 medalhas trazidas na bagagem de volta para casa, 9 foram conquistadas por elas, refletindo o equilíbrio entre homens e mulheres na composição da delegação brasileira que desembarcou este ano no Japão.\nMUITO ALÉM DA PARIDADE\nMas a pauta levantada pelas atletas femininas desta edição olímpica foi muito além da bem-vinda paridade de gênero, que será adotada a partir dos Jogos de Paris em 2024.\nA ginasta norte-americana Simone Biles, por exemplo, chegou ao Japão em busca de um recorde de 6 medalhas de ouro, o que a tornaria a atleta olímpica mais bem-sucedida de todos os tempos. Acabou voltando para os Estados Unidos com uma prata e um bronze, o suficiente para se consagrar como a mulher negra mais vitoriosa da história olímpica da ginástica artística.\nFora da arena olímpica, Biles ainda deflagrou o debate mundial sobre a saúde mental de atletas de alto rendimento. Isso, após ela abandonar parte das provas que disputaria e expor publicamente que estava lidando com twisties, uma espécie de bloqueio mental que desorienta atletas em movimentos que desafiam a gravidade.\nPROTESTO CONTRA O SEXISMO\nJá a equipe de ginastas da Alemanha marcou posição com a opção das atletas de usar macacões até o tornozelo em vez dos tradicionais collants, em protesto contra a sexualização da ginástica artística feminina.\nUm posicionamento político que reforça a discussão aberta, durante o último campeonato europeu de handebol, sobre como o sexismo se reflete no controle dos uniformes de atletas. Na ocasião, a equipe feminina da Noruega foi multada em 1,5 mil euros ao trocar o biquíni pelo short, permitido apenas para homens, na modalidade de praia.\nMÃES OLÍMPICAS\nA meio-fundista queniana Faith Kipyegon foi outra a fazer história em Tóquio, ao vencer a prova dos 1.500 metros feminino e bater o recorde olímpico que resistia desde os Jogos de Seul, em 1988. E de quebra, ainda deu uma resposta dourada àqueles que ela se afastou por 1 ano das pistas, em 2017, para ser mãe.\nUm enredo parecido com o enfrentado por Allyson Felix, que conquistou sua 10ª medalha em Tóquio e se igualou a Carl Lewis como a maior medalhista olímpica do atletismo dos Estados Unidos. Ela já havia ultrapassado a marca do ex-velocista jamaicano Usain Bolt, em 2019, e se tornado a maior medalhista da história em Campeonatos Mundiais, apenas 10 meses após o nascimento da filha.\nAliás, quando engravidou da filha, Felix indignou-se quando seus patrocinadores propuseram a redução de 70% dos seus ganhos. Não só expôs publicamente a discriminação contra atletas grávidas e mães, como liderou uma campanha nos Estados Unidos, que aboliram contratos deste tipo no país. Fica assim a lição dessas maravilhosas mulheres olímpicas, que nos remetem a imagens incríveis como a protagonizada pela atleta holandesa Sifan Hassan, que caiu, se levantou e venceu uma eliminatória para a prova dos 1.500 m do atletismo feminino.\n\nVASCONCELOS, ADRIANA. O LEGADO FEMININO NAS OLIMPÍADAS DE TÓQUIO. Disponível em https://www.poder360.com.br/opiniao/olimpiada/o-legado- feminino-nas-olimpiadas-de-toquio-escreve-adriana- vasconcelos. Acesso em 16 de agosto de 2021. (Texto adaptado.)\n\nO texto caracteriza-se como gênero textual",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "crônica, porque narra a história de mulheres nas Olimpíadas de Tóquio."
+        },
+        {
+          "letra": "B",
+          "texto": "artigo de opinião, porque apresenta dados e argumentos para convencer o leitor."
+        },
+        {
+          "letra": "C",
+          "texto": "editorial, porque expressa a opinião em nome de um coletivo."
+        },
+        {
+          "letra": "D",
+          "texto": "resenha, porque apresenta comentário a partir de uma obra."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Gêneros Textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Texto 1\n\nO LEGADO FEMININO NAS OLIMPÍADAS DE TÓQUIO\n\nDefinitivamente, as mulheres deixaram sua marca nas Olimpíadas de Tóquio, que se encerram neste domingo. Elas se destacaram desde a abertura dos Jogos, com a escolha da japonesa Naomi Osaka, uma tenista negra, para acender a pira olímpica, em uma edição com participação recorde de atletas femininas: 48,8% do total.\nEssas atletas, das mais diferentes nacionalidades, não só encantaram o mundo com suas conquistas históricas e quebras de recordes, como também jogaram luz sobre as discriminações, preconceitos e o sexismo ao qual ainda hoje muitas delas são submetidas, seja no esporte ou em tantas outras áreas.\nGAROTAS DOURADAS\nAs atletas brasileiras, em especial, voltam para a casa podendo comemorar o maior número de pódios em uma única edição dos jogos, desde que a nadadora Maria Lenk entrou para a história nacional como a 1ª mulher brasileira a participar de uma Olimpíada em 1932.\nUma trajetória que começou com a dança da nossa 'Fadinha do Skate'? A maranhense Rayssa Leal, de apenas 13 anos de idade, a mais jovem atleta brasileira a subir no pódio olímpico até hoje. Garantiu a prata no 'skate street', uma das novas modalidades olímpicas que fizeram sua estreia em Tóquio.\nEm seguida, veio Rebeca Andrade, 1ª ginasta brasileira a ganhar uma medalha olímpica. Na verdade, ela fez história em dose dupla: com 1 medalha de ouro no salto e outra prata no individual geral. O que lhe garantiu o merecido convite para ser a porta-bandeira do Brasil no encerramento dos Jogos de Tóquio.\nComo ficar indiferente ao ouro olímpico de Ana Marcela Cunha na maratona aquática ou da dupla Martine Grael e Kahena Kunze, amigas de infância e, agora, bicampeãs olímpicas na classe 49er FX da vela?\nCabe ainda uma reverência à seleção feminina de vôlei, que conseguiu chegar à final, a despeito do baque sofrido com a perda de uma de suas principais jogadoras, flagrada em exame antidoping na reta final da disputa. Aplausos também à garra de Beatriz Ferreira na busca de um ouro inédito para o boxe feminino.\nMedalhistas essas que ajudaram o Brasil a ter, em Tóquio, o seu melhor desempenho em Olimpíadas, superando as 19 conquistadas no Rio de Janeiro em 2016. Das 21 medalhas trazidas na bagagem de volta para casa, 9 foram conquistadas por elas, refletindo o equilíbrio entre homens e mulheres na composição da delegação brasileira que desembarcou este ano no Japão.\nMUITO ALÉM DA PARIDADE\nMas a pauta levantada pelas atletas femininas desta edição olímpica foi muito além da bem-vinda paridade de gênero, que será adotada a partir dos Jogos de Paris em 2024.\nA ginasta norte-americana Simone Biles, por exemplo, chegou ao Japão em busca de um recorde de 6 medalhas de ouro, o que a tornaria a atleta olímpica mais bem-sucedida de todos os tempos. Acabou voltando para os Estados Unidos com uma prata e um bronze, o suficiente para se consagrar como a mulher negra mais vitoriosa da história olímpica da ginástica artística.\nFora da arena olímpica, Biles ainda deflagrou o debate mundial sobre a saúde mental de atletas de alto rendimento. Isso, após ela abandonar parte das provas que disputaria e expor publicamente que estava lidando com twisties, uma espécie de bloqueio mental que desorienta atletas em movimentos que desafiam a gravidade.\nPROTESTO CONTRA O SEXISMO\nJá a equipe de ginastas da Alemanha marcou posição com a opção das atletas de usar macacões até o tornozelo em vez dos tradicionais collants, em protesto contra a sexualização da ginástica artística feminina.\nUm posicionamento político que reforça a discussão aberta, durante o último campeonato europeu de handebol, sobre como o sexismo se reflete no controle dos uniformes de atletas. Na ocasião, a equipe feminina da Noruega foi multada em 1,5 mil euros ao trocar o biquíni pelo short, permitido apenas para homens, na modalidade de praia.\nMÃES OLÍMPICAS\nA meio-fundista queniana Faith Kipyegon foi outra a fazer história em Tóquio, ao vencer a prova dos 1.500 metros feminino e bater o recorde olímpico que resistia desde os Jogos de Seul, em 1988. E de quebra, ainda deu uma resposta dourada àqueles que ela se afastou por 1 ano das pistas, em 2017, para ser mãe.\nUm enredo parecido com o enfrentado por Allyson Felix, que conquistou sua 10ª medalha em Tóquio e se igualou a Carl Lewis como a maior medalhista olímpica do atletismo dos Estados Unidos. Ela já havia ultrapassado a marca do ex-velocista jamaicano Usain Bolt, em 2019, e se tornado a maior medalhista da história em Campeonatos Mundiais, apenas 10 meses após o nascimento da filha.\nAliás, quando engravidou da filha, Felix indignou-se quando seus patrocinadores propuseram a redução de 70% dos seus ganhos. Não só expôs publicamente a discriminação contra atletas grávidas e mães, como liderou uma campanha nos Estados Unidos, que aboliram contratos deste tipo no país. Fica assim a lição dessas maravilhosas mulheres olímpicas, que nos remetem a imagens incríveis como a protagonizada pela atleta holandesa Sifan Hassan, que caiu, se levantou e venceu uma eliminatória para a prova dos 1.500 m do atletismo feminino.\n\nVASCONCELOS, ADRIANA. O LEGADO FEMININO NAS OLIMPÍADAS DE TÓQUIO. Disponível em https://www.poder360.com.br/opiniao/olimpiada/o-legado- feminino-nas-olimpiadas-de-toquio-escreve-adriana- vasconcelos. Acesso em 16 de agosto de 2021. (Texto adaptado.)\n\nOs termos destacados do trecho \"Essas atletas, das mais diferentes nacionalidades, não só encantaram o mundo com suas conquistas históricas e quebras de recordes, como também jogaram luz sobre as discriminações, preconceitos e o sexismo\" (linhas 09-13) expressam a ideia de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "adição."
+        },
+        {
+          "letra": "B",
+          "texto": "adversidade."
+        },
+        {
+          "letra": "C",
+          "texto": "alternância."
+        },
+        {
+          "letra": "D",
+          "texto": "explicação."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Conectivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Texto 1\n\nO LEGADO FEMININO NAS OLIMPÍADAS DE TÓQUIO\n\nDefinitivamente, as mulheres deixaram sua marca nas Olimpíadas de Tóquio, que se encerram neste domingo. Elas se destacaram desde a abertura dos Jogos, com a escolha da japonesa Naomi Osaka, uma tenista negra, para acender a pira olímpica, em uma edição com participação recorde de atletas femininas: 48,8% do total.\nEssas atletas, das mais diferentes nacionalidades, não só encantaram o mundo com suas conquistas históricas e quebras de recordes, como também jogaram luz sobre as discriminações, preconceitos e o sexismo ao qual ainda hoje muitas delas são submetidas, seja no esporte ou em tantas outras áreas.\nGAROTAS DOURADAS\nAs atletas brasileiras, em especial, voltam para a casa podendo comemorar o maior número de pódios em uma única edição dos jogos, desde que a nadadora Maria Lenk entrou para a história nacional como a 1ª mulher brasileira a participar de uma Olimpíada em 1932.\nUma trajetória que começou com a dança da nossa 'Fadinha do Skate'? A maranhense Rayssa Leal, de apenas 13 anos de idade, a mais jovem atleta brasileira a subir no pódio olímpico até hoje. Garantiu a prata no 'skate street', uma das novas modalidades olímpicas que fizeram sua estreia em Tóquio.\nEm seguida, veio Rebeca Andrade, 1ª ginasta brasileira a ganhar uma medalha olímpica. Na verdade, ela fez história em dose dupla: com 1 medalha de ouro no salto e outra prata no individual geral. O que lhe garantiu o merecido convite para ser a porta-bandeira do Brasil no encerramento dos Jogos de Tóquio.\nComo ficar indiferente ao ouro olímpico de Ana Marcela Cunha na maratona aquática ou da dupla Martine Grael e Kahena Kunze, amigas de infância e, agora, bicampeãs olímpicas na classe 49er FX da vela?\nCabe ainda uma reverência à seleção feminina de vôlei, que conseguiu chegar à final, a despeito do baque sofrido com a perda de uma de suas principais jogadoras, flagrada em exame antidoping na reta final da disputa. Aplausos também à garra de Beatriz Ferreira na busca de um ouro inédito para o boxe feminino.\nMedalhistas essas que ajudaram o Brasil a ter, em Tóquio, o seu melhor desempenho em Olimpíadas, superando as 19 conquistadas no Rio de Janeiro em 2016. Das 21 medalhas trazidas na bagagem de volta para casa, 9 foram conquistadas por elas, refletindo o equilíbrio entre homens e mulheres na composição da delegação brasileira que desembarcou este ano no Japão.\nMUITO ALÉM DA PARIDADE\nMas a pauta levantada pelas atletas femininas desta edição olímpica foi muito além da bem-vinda paridade de gênero, que será adotada a partir dos Jogos de Paris em 2024.\nA ginasta norte-americana Simone Biles, por exemplo, chegou ao Japão em busca de um recorde de 6 medalhas de ouro, o que a tornaria a atleta olímpica mais bem-sucedida de todos os tempos. Acabou voltando para os Estados Unidos com uma prata e um bronze, o suficiente para se consagrar como a mulher negra mais vitoriosa da história olímpica da ginástica artística.\nFora da arena olímpica, Biles ainda deflagrou o debate mundial sobre a saúde mental de atletas de alto rendimento. Isso, após ela abandonar parte das provas que disputaria e expor publicamente que estava lidando com twisties, uma espécie de bloqueio mental que desorienta atletas em movimentos que desafiam a gravidade.\nPROTESTO CONTRA O SEXISMO\nJá a equipe de ginastas da Alemanha marcou posição com a opção das atletas de usar macacões até o tornozelo em vez dos tradicionais collants, em protesto contra a sexualização da ginástica artística feminina.\nUm posicionamento político que reforça a discussão aberta, durante o último campeonato europeu de handebol, sobre como o sexismo se reflete no controle dos uniformes de atletas. Na ocasião, a equipe feminina da Noruega foi multada em 1,5 mil euros ao trocar o biquíni pelo short, permitido apenas para homens, na modalidade de praia.\nMÃES OLÍMPICAS\nA meio-fundista queniana Faith Kipyegon foi outra a fazer história em Tóquio, ao vencer a prova dos 1.500 metros feminino e bater o recorde olímpico que resistia desde os Jogos de Seul, em 1988. E de quebra, ainda deu uma resposta dourada àqueles que ela se afastou por 1 ano das pistas, em 2017, para ser mãe.\nUm enredo parecido com o enfrentado por Allyson Felix, que conquistou sua 10ª medalha em Tóquio e se igualou a Carl Lewis como a maior medalhista olímpica do atletismo dos Estados Unidos. Ela já havia ultrapassado a marca do ex-velocista jamaicano Usain Bolt, em 2019, e se tornado a maior medalhista da história em Campeonatos Mundiais, apenas 10 meses após o nascimento da filha.\nAliás, quando engravidou da filha, Felix indignou-se quando seus patrocinadores propuseram a redução de 70% dos seus ganhos. Não só expôs publicamente a discriminação contra atletas grávidas e mães, como liderou uma campanha nos Estados Unidos, que aboliram contratos deste tipo no país. Fica assim a lição dessas maravilhosas mulheres olímpicas, que nos remetem a imagens incríveis como a protagonizada pela atleta holandesa Sifan Hassan, que caiu, se levantou e venceu uma eliminatória para a prova dos 1.500 m do atletismo feminino.\n\nVASCONCELOS, ADRIANA. O LEGADO FEMININO NAS OLIMPÍADAS DE TÓQUIO. Disponível em https://www.poder360.com.br/opiniao/olimpiada/o-legado- feminino-nas-olimpiadas-de-toquio-escreve-adriana- vasconcelos. Acesso em 16 de agosto de 2021. (Texto adaptado.)\n\nNa expressão “GAROTAS DOURADAS” (linha 16), a palavra destacada é exemplo de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "hipérbole."
+        },
+        {
+          "letra": "B",
+          "texto": "catacrese."
+        },
+        {
+          "letra": "C",
+          "texto": "sinestesia."
+        },
+        {
+          "letra": "D",
+          "texto": "metáfora."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Texto 1\n\nO LEGADO FEMININO NAS OLIMPÍADAS DE TÓQUIO\n\nDefinitivamente, as mulheres deixaram sua marca nas Olimpíadas de Tóquio, que se encerram neste domingo. Elas se destacaram desde a abertura dos Jogos, com a escolha da japonesa Naomi Osaka, uma tenista negra, para acender a pira olímpica, em uma edição com participação recorde de atletas femininas: 48,8% do total.\nEssas atletas, das mais diferentes nacionalidades, não só encantaram o mundo com suas conquistas históricas e quebras de recordes, como também jogaram luz sobre as discriminações, preconceitos e o sexismo ao qual ainda hoje muitas delas são submetidas, seja no esporte ou em tantas outras áreas.\nGAROTAS DOURADAS\nAs atletas brasileiras, em especial, voltam para a casa podendo comemorar o maior número de pódios em uma única edição dos jogos, desde que a nadadora Maria Lenk entrou para a história nacional como a 1ª mulher brasileira a participar de uma Olimpíada em 1932.\nUma trajetória que começou com a dança da nossa 'Fadinha do Skate'? A maranhense Rayssa Leal, de apenas 13 anos de idade, a mais jovem atleta brasileira a subir no pódio olímpico até hoje. Garantiu a prata no 'skate street', uma das novas modalidades olímpicas que fizeram sua estreia em Tóquio.\nEm seguida, veio Rebeca Andrade, 1ª ginasta brasileira a ganhar uma medalha olímpica. Na verdade, ela fez história em dose dupla: com 1 medalha de ouro no salto e outra prata no individual geral. O que lhe garantiu o merecido convite para ser a porta-bandeira do Brasil no encerramento dos Jogos de Tóquio.\nComo ficar indiferente ao ouro olímpico de Ana Marcela Cunha na maratona aquática ou da dupla Martine Grael e Kahena Kunze, amigas de infância e, agora, bicampeãs olímpicas na classe 49er FX da vela?\nCabe ainda uma reverência à seleção feminina de vôlei, que conseguiu chegar à final, a despeito do baque sofrido com a perda de uma de suas principais jogadoras, flagrada em exame antidoping na reta final da disputa. Aplausos também à garra de Beatriz Ferreira na busca de um ouro inédito para o boxe feminino.\nMedalhistas essas que ajudaram o Brasil a ter, em Tóquio, o seu melhor desempenho em Olimpíadas, superando as 19 conquistadas no Rio de Janeiro em 2016. Das 21 medalhas trazidas na bagagem de volta para casa, 9 foram conquistadas por elas, refletindo o equilíbrio entre homens e mulheres na composição da delegação brasileira que desembarcou este ano no Japão.\nMUITO ALÉM DA PARIDADE\nMas a pauta levantada pelas atletas femininas desta edição olímpica foi muito além da bem-vinda paridade de gênero, que será adotada a partir dos Jogos de Paris em 2024.\nA ginasta norte-americana Simone Biles, por exemplo, chegou ao Japão em busca de um recorde de 6 medalhas de ouro, o que a tornaria a atleta olímpica mais bem-sucedida de todos os tempos. Acabou voltando para os Estados Unidos com uma prata e um bronze, o suficiente para se consagrar como a mulher negra mais vitoriosa da história olímpica da ginástica artística.\nFora da arena olímpica, Biles ainda deflagrou o debate mundial sobre a saúde mental de atletas de alto rendimento. Isso, após ela abandonar parte das provas que disputaria e expor publicamente que estava lidando com twisties, uma espécie de bloqueio mental que desorienta atletas em movimentos que desafiam a gravidade.\nPROTESTO CONTRA O SEXISMO\nJá a equipe de ginastas da Alemanha marcou posição com a opção das atletas de usar macacões até o tornozelo em vez dos tradicionais collants, em protesto contra a sexualização da ginástica artística feminina.\nUm posicionamento político que reforça a discussão aberta, durante o último campeonato europeu de handebol, sobre como o sexismo se reflete no controle dos uniformes de atletas. Na ocasião, a equipe feminina da Noruega foi multada em 1,5 mil euros ao trocar o biquíni pelo short, permitido apenas para homens, na modalidade de praia.\nMÃES OLÍMPICAS\nA meio-fundista queniana Faith Kipyegon foi outra a fazer história em Tóquio, ao vencer a prova dos 1.500 metros feminino e bater o recorde olímpico que resistia desde os Jogos de Seul, em 1988. E de quebra, ainda deu uma resposta dourada àqueles que ela se afastou por 1 ano das pistas, em 2017, para ser mãe.\nUm enredo parecido com o enfrentado por Allyson Felix, que conquistou sua 10ª medalha em Tóquio e se igualou a Carl Lewis como a maior medalhista olímpica do atletismo dos Estados Unidos. Ela já havia ultrapassado a marca do ex-velocista jamaicano Usain Bolt, em 2019, e se tornado a maior medalhista da história em Campeonatos Mundiais, apenas 10 meses após o nascimento da filha.\nAliás, quando engravidou da filha, Felix indignou-se quando seus patrocinadores propuseram a redução de 70% dos seus ganhos. Não só expôs publicamente a discriminação contra atletas grávidas e mães, como liderou uma campanha nos Estados Unidos, que aboliram contratos deste tipo no país. Fica assim a lição dessas maravilhosas mulheres olímpicas, que nos remetem a imagens incríveis como a protagonizada pela atleta holandesa Sifan Hassan, que caiu, se levantou e venceu uma eliminatória para a prova dos 1.500 m do atletismo feminino.\n\nVASCONCELOS, ADRIANA. O LEGADO FEMININO NAS OLIMPÍADAS DE TÓQUIO. Disponível em https://www.poder360.com.br/opiniao/olimpiada/o-legado- feminino-nas-olimpiadas-de-toquio-escreve-adriana- vasconcelos. Acesso em 16 de agosto de 2021. (Texto adaptado.)\n\nAtente para o que se diz sobre o trecho \"Medalhistas essas que ajudaram o Brasil a ter, em Tóquio, o seu melhor desempenho em Olimpíadas, superando as 19 conquistadas no Rio de Janeiro em 2016. Das 21 medalhas trazidas na bagagem de volta para casa, 9 foram conquistadas por elas\" (linhas 54-60):\n\nI. Há uma elipse, porque ocorre a supressão da palavra \"medalhas\" que deveria suceder o numeral 9.\nII. A palavra \"essas\" recupera a palavra \"Medalhistas\" disposta antes.\nIII. \"o seu\" refere-se a Tóquio, para localizar o lugar onde o Brasil conquistou medalhas.\n\nEstá correto o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Coesão e Coerência",
+        "Língua Portuguesa – Elipse"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Texto 1\n\nO LEGADO FEMININO NAS OLIMPÍADAS DE TÓQUIO\n\nDefinitivamente, as mulheres deixaram sua marca nas Olimpíadas de Tóquio, que se encerram neste domingo. Elas se destacaram desde a abertura dos Jogos, com a escolha da japonesa Naomi Osaka, uma tenista negra, para acender a pira olímpica, em uma edição com participação recorde de atletas femininas: 48,8% do total.\nEssas atletas, das mais diferentes nacionalidades, não só encantaram o mundo com suas conquistas históricas e quebras de recordes, como também jogaram luz sobre as discriminações, preconceitos e o sexismo ao qual ainda hoje muitas delas são submetidas, seja no esporte ou em tantas outras áreas.\nGAROTAS DOURADAS\nAs atletas brasileiras, em especial, voltam para a casa podendo comemorar o maior número de pódios em uma única edição dos jogos, desde que a nadadora Maria Lenk entrou para a história nacional como a 1ª mulher brasileira a participar de uma Olimpíada em 1932.\nUma trajetória que começou com a dança da nossa 'Fadinha do Skate'? A maranhense Rayssa Leal, de apenas 13 anos de idade, a mais jovem atleta brasileira a subir no pódio olímpico até hoje. Garantiu a prata no 'skate street', uma das novas modalidades olímpicas que fizeram sua estreia em Tóquio.\nEm seguida, veio Rebeca Andrade, 1ª ginasta brasileira a ganhar uma medalha olímpica. Na verdade, ela fez história em dose dupla: com 1 medalha de ouro no salto e outra prata no individual geral. O que lhe garantiu o merecido convite para ser a porta-bandeira do Brasil no encerramento dos Jogos de Tóquio.\nComo ficar indiferente ao ouro olímpico de Ana Marcela Cunha na maratona aquática ou da dupla Martine Grael e Kahena Kunze, amigas de infância e, agora, bicampeãs olímpicas na classe 49er FX da vela?\nCabe ainda uma reverência à seleção feminina de vôlei, que conseguiu chegar à final, a despeito do baque sofrido com a perda de uma de suas principais jogadoras, flagrada em exame antidoping na reta final da disputa. Aplausos também à garra de Beatriz Ferreira na busca de um ouro inédito para o boxe feminino.\nMedalhistas essas que ajudaram o Brasil a ter, em Tóquio, o seu melhor desempenho em Olimpíadas, superando as 19 conquistadas no Rio de Janeiro em 2016. Das 21 medalhas trazidas na bagagem de volta para casa, 9 foram conquistadas por elas, refletindo o equilíbrio entre homens e mulheres na composição da delegação brasileira que desembarcou este ano no Japão.\nMUITO ALÉM DA PARIDADE\nMas a pauta levantada pelas atletas femininas desta edição olímpica foi muito além da bem-vinda paridade de gênero, que será adotada a partir dos Jogos de Paris em 2024.\nA ginasta norte-americana Simone Biles, por exemplo, chegou ao Japão em busca de um recorde de 6 medalhas de ouro, o que a tornaria a atleta olímpica mais bem-sucedida de todos os tempos. Acabou voltando para os Estados Unidos com uma prata e um bronze, o suficiente para se consagrar como a mulher negra mais vitoriosa da história olímpica da ginástica artística.\nFora da arena olímpica, Biles ainda deflagrou o debate mundial sobre a saúde mental de atletas de alto rendimento. Isso, após ela abandonar parte das provas que disputaria e expor publicamente que estava lidando com twisties, uma espécie de bloqueio mental que desorienta atletas em movimentos que desafiam a gravidade.\nPROTESTO CONTRA O SEXISMO\nJá a equipe de ginastas da Alemanha marcou posição com a opção das atletas de usar macacões até o tornozelo em vez dos tradicionais collants, em protesto contra a sexualização da ginástica artística feminina.\nUm posicionamento político que reforça a discussão aberta, durante o último campeonato europeu de handebol, sobre como o sexismo se reflete no controle dos uniformes de atletas. Na ocasião, a equipe feminina da Noruega foi multada em 1,5 mil euros ao trocar o biquíni pelo short, permitido apenas para homens, na modalidade de praia.\nMÃES OLÍMPICAS\nA meio-fundista queniana Faith Kipyegon foi outra a fazer história em Tóquio, ao vencer a prova dos 1.500 metros feminino e bater o recorde olímpico que resistia desde os Jogos de Seul, em 1988. E de quebra, ainda deu uma resposta dourada àqueles que ela se afastou por 1 ano das pistas, em 2017, para ser mãe.\nUm enredo parecido com o enfrentado por Allyson Felix, que conquistou sua 10ª medalha em Tóquio e se igualou a Carl Lewis como a maior medalhista olímpica do atletismo dos Estados Unidos. Ela já havia ultrapassado a marca do ex-velocista jamaicano Usain Bolt, em 2019, e se tornado a maior medalhista da história em Campeonatos Mundiais, apenas 10 meses após o nascimento da filha.\nAliás, quando engravidou da filha, Felix indignou-se quando seus patrocinadores propuseram a redução de 70% dos seus ganhos. Não só expôs publicamente a discriminação contra atletas grávidas e mães, como liderou uma campanha nos Estados Unidos, que aboliram contratos deste tipo no país. Fica assim a lição dessas maravilhosas mulheres olímpicas, que nos remetem a imagens incríveis como a protagonizada pela atleta holandesa Sifan Hassan, que caiu, se levantou e venceu uma eliminatória para a prova dos 1.500 m do atletismo feminino.\n\nVASCONCELOS, ADRIANA. O LEGADO FEMININO NAS OLIMPÍADAS DE TÓQUIO. Disponível em https://www.poder360.com.br/opiniao/olimpiada/o-legado- feminino-nas-olimpiadas-de-toquio-escreve-adriana- vasconcelos. Acesso em 16 de agosto de 2021. (Texto adaptado.)\n\nConsiderando o trecho “Um posicionamento político que reforça a discussão aberta, durante o último campeonato europeu de handebol, sobre como o sexismo se reflete no controle dos uniformes de atletas\" (linhas 94-98), é correto dizer que a relação estabelecida entre política e esporte diz respeito",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à multa estabelecida pela quebra de regras."
+        },
+        {
+          "letra": "B",
+          "texto": "ao direito da atleta de não ter seu corpo sexualizado."
+        },
+        {
+          "letra": "C",
+          "texto": "ao fato de não haver padronização nas vestes oficiais."
+        },
+        {
+          "letra": "D",
+          "texto": "à necessidade de homens e mulheres vestirem-se igualmente."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "TEXTO 2\n\nA cobertura de gelo da Terra está encolhendo\n\nA camada de gelo que cobre a Terra diminuiu, em média, 87 mil quilômetros quadrados ($km^2$) por ano, de 1979 a 2016, possivelmente em decorrência das mudanças climáticas. A redução anual foi equivalente à da área do lago Superior, na fronteira entre o Canadá e os Estados Unidos. A estimativa resulta de análises da equipe do físico e geógrafo Xiaoqing Peng, da Universidade de Lanzhou, na China. O encolhimento ocorreu principalmente no Hemisfério Norte. A cobertura de gelo na região registrou uma perda anual média de 102 mil $km^2$. Essa diminuição foi ligeiramente compensada pelo aumento de 14 mil $km^2$ por ano na camada de gelo do Hemisfério Sul no mesmo período (Earth's Future, 16 de maio). Essa expansão se deu principalmente no gelo marinho no mar de Ross, ao redor da Antártica, devido a alterações no padrão de vento e correntes oceânicas. A cobertura de gelo da Terra é importante porque reflete a luz do Sol, ajudando a resfriar o planeta.\n\nREVISTA PESQUISA FAPESP - AGOSTO DE 2021 | ANO 22, N. 306. Captado de https://revistapesquisa.fapesp.br/a-cobertura-de-gelo-da-terra-esta-encolhendo. Acesso em 16 de agosto de 2021. (Texto adaptado.)\n\nO gênero textual “notícia”, pertencente à esfera jornalística, tem como objetivo divulgar temas da atualidade. Na notícia acima, retirada de uma revista de cunho científico, a linguagem utilizada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "promove a comunicação do conhecimento para o maior número de leitores a partir de fontes comprovadas."
+        },
+        {
+          "letra": "B",
+          "texto": "emprega termos avaliativos para ampliar a dimensão informativa do gênero notícia buscando a adesão do leitor."
+        },
+        {
+          "letra": "C",
+          "texto": "utiliza verbos dicendi para isentar o enunciador de revelar o seu ponto de vista, embora apresente parcialidade."
+        },
+        {
+          "letra": "D",
+          "texto": "apresenta um relato em terceira pessoa para sustentar a credibilidade da informação."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Gêneros Textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "TEXTO 2\n\nA cobertura de gelo da Terra está encolhendo\n\nA camada de gelo que cobre a Terra diminuiu, em média, 87 mil quilômetros quadrados ($km^2$) por ano, de 1979 a 2016, possivelmente em decorrência das mudanças climáticas. A redução anual foi equivalente à da área do lago Superior, na fronteira entre o Canadá e os Estados Unidos. A estimativa resulta de análises da equipe do físico e geógrafo Xiaoqing Peng, da Universidade de Lanzhou, na China. O encolhimento ocorreu principalmente no Hemisfério Norte. A cobertura de gelo na região registrou uma perda anual média de 102 mil $km^2$. Essa diminuição foi ligeiramente compensada pelo aumento de 14 mil $km^2$ por ano na camada de gelo do Hemisfério Sul no mesmo período (Earth's Future, 16 de maio). Essa expansão se deu principalmente no gelo marinho no mar de Ross, ao redor da Antártica, devido a alterações no padrão de vento e correntes oceânicas. A cobertura de gelo da Terra é importante porque reflete a luz do Sol, ajudando a resfriar o planeta.\n\nREVISTA PESQUISA FAPESP - AGOSTO DE 2021 | ANO 22, N. 306. Captado de https://revistapesquisa.fapesp.br/a-cobertura-de-gelo-da-terra-esta-encolhendo. Acesso em 16 de agosto de 2021. (Texto adaptado.)\n\nAtente para a relação dos termos em destaque, nos trechos a seguir, com a classificação apresentada:\n\nI. \"A camada de gelo que cobre a Terra diminuiu, em média, 87 mil quilômetros quadrados ($km^2$) por ano de 1979 a 2016\" (linhas 135-137) – VERBO TRANSITIVO INDIRETO\nII. \"A estimativa resulta de análises da equipe do físico e geógrafo Xiaoqing Peng\" (linhas 141-143) — VERBO INTRANSITIVO\nIII. \"Essa diminuição foi ligeiramente compensada pelo aumento de 14 mil $km^2$ por ano na camada de gelo do Hemisfério Sul no mesmo período\" (linhas 147-150) — VERBO DE LIGAÇÃO\nIV. \"A cobertura de gelo da Terra é importante porque reflete a luz do Sol\" (linhas 155-156) — VERBO DE LIGAÇÃO\n\nEstá correto o que consta nos itens",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II, III e IV apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "III e IV apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II, III e IV."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Transitividade Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "TEXTO 2\n\nA cobertura de gelo da Terra está encolhendo\n\nA camada de gelo que cobre a Terra diminuiu, em média, 87 mil quilômetros quadrados ($km^2$) por ano, de 1979 a 2016, possivelmente em decorrência das mudanças climáticas. A redução anual foi equivalente à da área do lago Superior, na fronteira entre o Canadá e os Estados Unidos. A estimativa resulta de análises da equipe do físico e geógrafo Xiaoqing Peng, da Universidade de Lanzhou, na China. O encolhimento ocorreu principalmente no Hemisfério Norte. A cobertura de gelo na região registrou uma perda anual média de 102 mil $km^2$. Essa diminuição foi ligeiramente compensada pelo aumento de 14 mil $km^2$ por ano na camada de gelo do Hemisfério Sul no mesmo período (Earth's Future, 16 de maio). Essa expansão se deu principalmente no gelo marinho no mar de Ross, ao redor da Antártica, devido a alterações no padrão de vento e correntes oceânicas. A cobertura de gelo da Terra é importante porque reflete a luz do Sol, ajudando a resfriar o planeta.\n\nREVISTA PESQUISA FAPESP - AGOSTO DE 2021 | ANO 22, N. 306. Captado de https://revistapesquisa.fapesp.br/a-cobertura-de-gelo-da-terra-esta-encolhendo. Acesso em 16 de agosto de 2021. (Texto adaptado.)\n\nNo trecho “A cobertura de gelo da Terra é importante porque reflete a luz do Sol, ajudando a resfriar o planeta\" (linhas 155-157), a oração “porque reflete a luz do Sol\" é corretamente classificada como oração subordinada adverbial",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "causal."
+        },
+        {
+          "letra": "B",
+          "texto": "explicativa."
+        },
+        {
+          "letra": "C",
+          "texto": "temporal."
+        },
+        {
+          "letra": "D",
+          "texto": "concessiva."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Período Composto",
+        "Língua Portuguesa – Orações Subordinadas Adverbiais"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Texto 3\n\nMomento\n\nAdélia Prado\n\nEnquanto eu fiquei alegre,\npermaneceram um bule azul com um\ndescassado no bico,\numa garrafa de pimenta pelo meio,\num latido e um céu limpidíssimo\ncom recém-feitas estrelas.\nResistiram nos seus lugares, em seus ofícios,\nconstituindo o mundo pra mim, anteparo\npara o que foi um acometimento:\nsúbito é bom ter um corpo pra rir\ne sacudir a cabeça. A vida é mais tempo\nalegre do que triste. Melhor é ser.\n\nPRADO, Adélia. In: A Bagagem. Rio de Janeiro: Record, 2014 [1979], p.54.\n\nSobre o poema Momento, é INCORRETO afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "retrata o cotidiano com a felicidade e encanto."
+        },
+        {
+          "letra": "B",
+          "texto": "trata do tempo recuperado e recuperável."
+        },
+        {
+          "letra": "C",
+          "texto": "demonstra o tédio de uma mãe, esposa e dona de casa."
+        },
+        {
+          "letra": "D",
+          "texto": "apresenta o contraste para reorganizar o sentido da vida."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura",
+        "Língua Portuguesa – Interpretação de Poema"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Texto 3\n\nMomento\n\nAdélia Prado\n\nEnquanto eu fiquei alegre,\npermaneceram um bule azul com um\ndescassado no bico,\numa garrafa de pimenta pelo meio,\num latido e um céu limpidíssimo\ncom recém-feitas estrelas.\nResistiram nos seus lugares, em seus ofícios,\nconstituindo o mundo pra mim, anteparo\npara o que foi um acometimento:\nsúbito é bom ter um corpo pra rir\ne sacudir a cabeça. A vida é mais tempo\nalegre do que triste. Melhor é ser.\n\nPRADO, Adélia. In: A Bagagem. Rio de Janeiro: Record, 2014 [1979], p.54.\n\nNo texto de Adélia Prado, o eu lírico revela que o tempo é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o que se vive aqui e agora."
+        },
+        {
+          "letra": "B",
+          "texto": "o que já se viveu."
+        },
+        {
+          "letra": "C",
+          "texto": "algo inatingível."
+        },
+        {
+          "letra": "D",
+          "texto": "sempre um contraste."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura",
+        "Língua Portuguesa – Interpretação de Poema"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Texto 3\n\nMomento\n\nAdélia Prado\n\nEnquanto eu fiquei alegre,\npermaneceram um bule azul com um\ndescassado no bico,\numa garrafa de pimenta pelo meio,\num latido e um céu limpidíssimo\ncom recém-feitas estrelas.\nResistiram nos seus lugares, em seus ofícios,\nconstituindo o mundo pra mim, anteparo\npara o que foi um acometimento:\nsúbito é bom ter um corpo pra rir\ne sacudir a cabeça. A vida é mais tempo\nalegre do que triste. Melhor é ser.\n\nPRADO, Adélia. In: A Bagagem. Rio de Janeiro: Record, 2014 [1979], p.54.\n\nSobre a palavra “limpidíssimo” (linha 162), é correto afirmar que está escrita no grau superlativo absoluto",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "analítico do adjetivo límpido."
+        },
+        {
+          "letra": "B",
+          "texto": "sintético do adjetivo limpo."
+        },
+        {
+          "letra": "C",
+          "texto": "analítico do adjetivo limpo."
+        },
+        {
+          "letra": "D",
+          "texto": "sintético do adjetivo límpido."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia",
+        "Língua Portuguesa – Grau do Adjetivo"
+      ]
+    }
+  ]
+}

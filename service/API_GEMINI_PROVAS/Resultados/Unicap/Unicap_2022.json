@@ -1,0 +1,2435 @@
+{
+  "nomeUniversidade": "Universidade Católica de Pernambuco",
+  "siglaUniversidade": "UNICAP",
+  "nomeProva": "Vestibular Unicap 2022.2",
+  "ano": 2022,
+  "qtdeQuestoes": 80,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "TEXTO 1\nDESCARTE CONSCIENTE de Medicamentos\nVOCÊ TEM EM CASA MEDICAMENTOS QUE NÃO ESTÃO SENDO UTILIZADOS?\nSe tiver, faça o DESCARTE CORRETO desses medicamentos vencidos ou sobras domiciliares.\nLeve os medicamentos até a FARMÁCIA BÁSICA ou entregue no seu ESF que eles terão o destino correto após avaliação técnica.\n(www.bossoroca.rs.gov.br/site/noticias/saude/43385-descarte-consciente-de-medicamentos)\n\nTEXTO 2\nFarmácias vão ter que recolher medicamentos vencidos para que fabricantes façam o descarte correto (07/06/2020)\nMedicamentos são produtos químicos, que se forem descartados de forma errada, podem poluir o solo e a água e gerar outros danos ao meio ambiente e à saúde das pessoas. Por isso, uma nova regra publicada em decreto pelo Governo Federal estipulou que remédios vencidos ou que não têm mais utilidade são considerados “resíduos perigosos” e precisam ser descartados da forma certa. O procedimento é chamado de logística reversa, porque, para ser descartado, o produto vai passar pelos mesmos locais por onde foi distribuído. “O consumidor vai até uma farmácia e vai fazer o descarte do medicamento que ele tem na casa dele. A partir daí, a farmácia vai devolver o produto pro distribuidor, que vai devolver para a indústria e encaminhar o produto para destruição ou incineração em um local ambientalmente correto\", explica Valdomiro Rodrigues, consultor da Federação Brasileira de Farmácias (Febrafar).\n(https://brasil61.com/noticias/farmacias-vao-ter-que-recolher-medicamentos-vencidos-para-que-fabricantes-facam-o-descarte-correto-bras200407)\n\nSobre os sinais de pontuação, pode-se afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "no texto 1, em “Se tiver, faça o DESCARTE CORRETO\", e no texto 2, em “Medicamentos são produtos químicos, que se forem descartados de forma errada...\", o uso da vírgula se justifica pelo mesmo motivo: uma condição para que a ação se realize."
+        },
+        {
+          "letra": "B",
+          "texto": "no texto 1, o período “Leve os medicamentos até a farmácia básica ou entregue no seu ESF que eles terão o destino correto após avaliação técnica” exige o uso de uma vírgula antes do termo “que” por este iniciar uma explicação da informação anterior."
+        },
+        {
+          "letra": "C",
+          "texto": "o segmento textual “Leve os medicamentos até a farmácia básica ou entregue no seu ESF que eles terão o destino correto após avaliação técnica”, do texto 1, exige o uso de uma vírgula antes do termo \"ou\", já que existe uma alternância de ações."
+        },
+        {
+          "letra": "D",
+          "texto": "no período “O procedimento é chamado de logística reversa, porque, para ser descartado, o produto vai passar pelos mesmos locais por onde foi distribuído\", presente no texto 2, das três vírgulas que aparecem, apenas a última está adequada."
+        },
+        {
+          "letra": "E",
+          "texto": "no segmento textual “a farmácia vai devolver o produto pro distribuidor, que vai devolver\", do texto 2, o uso da vírgula está inadequado, já que existe uma ideia de restrição quanto à identificação do termo “distribuidor\"."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Pontuação"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "A partir das intencionalidades comunicativas, nos textos 1 e 2 predominam, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "provocar um questionamento e dar uma opinião sobre a responsabilidade do descarte de medicamentos."
+        },
+        {
+          "letra": "B",
+          "texto": "informar e fazer uma crítica quanto à responsabilidade do cidadão no que diz respeito ao descarte de medicamentos."
+        },
+        {
+          "letra": "C",
+          "texto": "criticar a conduta do cidadão e convencê-lo a não ser irresponsável no que diz respeito ao descarte de medicamentos."
+        },
+        {
+          "letra": "D",
+          "texto": "influenciar a conduta do cidadão e dar informações a ele quanto ao descarte responsável de medicamentos."
+        },
+        {
+          "letra": "E",
+          "texto": "democratizar opiniões e corroborar atitudes acerca do descarte de medicamentos com data de vencimento."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Gêneros Textuais",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "As informações e as ideias que um texto veicula se organizam estabelecendo relações que contribuem para a construção do sentido. A esse respeito, no texto 2, identifica-se que as expressões “Por isso” e “A partir daí”",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "introduzem, as duas, uma sequenciação de ideias."
+        },
+        {
+          "letra": "B",
+          "texto": "iniciam, respectivamente, uma conclusão e um contraste."
+        },
+        {
+          "letra": "C",
+          "texto": "exprimem, respectivamente, explicação e generalização."
+        },
+        {
+          "letra": "D",
+          "texto": "retomam, as duas, o tópico frasal, em busca da clareza do texto."
+        },
+        {
+          "letra": "E",
+          "texto": "garantem, coesivamente, a retomada da ação do consumidor."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Coesão e Coerência"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "TEXTO 4\n“Tarsila do Amaral nasceu no interior do estado de São Paulo, no município de Capivari, em 1º de setembro de 1886 em uma família tradicional da cidade. Com o passar dos tempos, seus pais decidiram levá-la para Barcelona para poder ter uma educação diferenciada, já que a menina tinha um \"dom\" para a arte. Durante toda a sua vida, Tarsila fez muitas viagens. Ficou um grande período em Barcelona e, quando voltou para São Paulo, se casou e teve uma filha.”.\n(Letícia Leal/Mariana Lima – Workshop de Geografia Cultural/UNIFAL-MG – Adaptado)\n\nTEXTO 5\nCanto de regresso à pátria\n(Oswald de Andrade)\n(...)\nOuro terra amor e rosas\nEu quero tudo de lá\nNão permita Deus que eu morra\nSem que volte para lá\nNão permita Deus que eu morra\nSem que volte pra São Paulo\nSem que veja a Rua 15\nE o progresso de São Paulo\n(Pau-brasil, 1925)\n\nNa busca de evitar a repetição do termo destacado no texto 4, as autoras poderiam ter optado por esta escrita:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“... a Barcelona para poder ter uma educação diferenciada, já que a menina tinha um “dom” à arte.” e “... quando voltou a São Paulo...”."
+        },
+        {
+          "letra": "B",
+          "texto": "“... a Barcelona em busca de ela poder ter uma educação diferenciada, já que a menina tinha um “dom” artístico.” e “... quando voltou para São Paulo...”."
+        },
+        {
+          "letra": "C",
+          "texto": "“... à Barcelona para poder ter uma educação diferenciada, já que a menina tinha um “dom” na arte.” e “... quando voltou em São Paulo...”."
+        },
+        {
+          "letra": "D",
+          "texto": "“... a Barcelona a fim de ela poder ter uma educação diferenciada, já que a menina tinha um “dom” artístico.” e “... quando voltou para São Paulo...”."
+        },
+        {
+          "letra": "E",
+          "texto": "“... para Barcelona com o objetivo de ela poder ter uma educação diferenciada, já que a menina tinha um \"dom\" à arte.” e “.. quando voltou em São Paulo...”."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Reescrita de Frases",
+        "Língua Portuguesa – Coesão Referencial"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Tomando como base o conteúdo, ao relacionar os textos 3 e 4, afirma-se que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os dois autores abordam a paisagem modificada pela transformação de uma cidade em uma metrópole."
+        },
+        {
+          "letra": "B",
+          "texto": "o quadro destaca a modernidade com os prédios e o bonde ao fundo, ao passo que o poema se mostra saudosista de uma cidade idealizada."
+        },
+        {
+          "letra": "C",
+          "texto": "os dois registram a opressão que os moradores de São Paulo sofreram no início do século XX, durante a Semana de Arte Moderna."
+        },
+        {
+          "letra": "D",
+          "texto": "o quadro distorce a imagem de uma metrópole, enquanto o poema faz um apelo religioso pela salvação da cidade de São Paulo."
+        },
+        {
+          "letra": "E",
+          "texto": "com conteúdo irônico, os dois autores desprezam explicitamente o resto do país ao destacar a supremacia da cidade de São Paulo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Intertextualidade",
+        "Arte – Modernismo Brasileiro"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "TEXTO 6\nMeninos Carvoeiros\n(Manuel Bandeira)\nOs meninos carvoeiros\nPassam a caminho da cidade.\n– Eh! carvoero!\nE vão tocando os animais com um relho enorme.\nOs burros são magrinhos e velhos.\nCada um leva seis sacos de carvão de lenha.\nA aniagem é toda remendada.\nOs carvões caem.\n(Pela boca da noite vem uma velhinha que os recolhe, dobrando-se com um gemido.)\n– Eh! carvoero!\nSó mesmo estas crianças raquíticas\nVão bem com estes burrinhos descadeirados.\nA madrugada ingênua parece feita para eles...\nPequenina, ingênua miséria!\nAdoráveis carvoeirinhos que trabalhais como se brincásseis!\n– Eh! carvoero!\nQuando voltam, vêm mordendo num pão encarvoado,\nEncarapitados nas alimárias,\nApostando corrida,\nDançando, bamboleando nas cangalhas como espantalhos desamparados!\n\n“Em qualquer movimento literário, seja na prosa ou na poesia, a Literatura não pode se isentar de cumprir sua função social, já que será objeto de estudo e de formação de opinião. Chico Anysio sempre defendeu que o humorista não era obrigado a resolver as mazelas sociais, mas a denunciá-las. Penso que o mesmo compromisso deve ter o escritor”.\n(Paulino Fernandes – Defensor Público do Estado de Pernambuco e professor, 22/01/2020)\n(www.diariodepernambuco.com.br - Adaptado)\n\nTomando como base as observações do professor e Defensor Público Paulino Fernandes, sobre o texto 6, pode-se dizer que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os versos confirmam a ideia de que Manuel Bandeira é um poeta imensamente lírico, ao abordar, de maneira subjetiva e acrítica, a vida de crianças desprotegidas."
+        },
+        {
+          "letra": "B",
+          "texto": "Manuel Bandeira não se furtou de discutir questões de cunho social, entretanto, como poeta lírico, produziu versos que lembram o Romantismo, por serem inverossímeis."
+        },
+        {
+          "letra": "C",
+          "texto": "ao usar reiteradamente o diminutivo, o eu lírico imprime um tom que distancia a abordagem de denúncia social e se aproxima de uma infantilização da figura da criança."
+        },
+        {
+          "letra": "D",
+          "texto": "a crítica no poema ocorre, por exemplo, pela associação dos meninos carvoeiros, sem consciência da miséria em que vivem, aos “espantalhos desamparados”."
+        },
+        {
+          "letra": "E",
+          "texto": "as mazelas sociais abordadas perdem força e credibilidade porque o eu lírico se preocupa mais com a criação de personagens do que com a abordagem de um problema."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Análise de Poema"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "TEXTO 7\nCapítulo XX\nBacharelo-me\nE foi assim que desembarquei em Lisboa e segui para Coimbra. A universidade esperava-me com as suas matérias árduas; estudei-as muito mediocremente, e nem por isso perdi o grau de bacharel; deram-mo com a solenidade do estilo, após os anos da lei; uma bela festa que me encheu de orgulho e de saudades, – principalmente de saudades. Tinha eu conquistado em Coimbra uma grande nomeada de folião; era um acadêmico estroina, superficial, tumultuário e petulante, dado às aventuras (...). No dia em que a universidade me atestou, em pergaminho, uma ciência que eu estava longe de trazer arraigada no cérebro, confesso que me achei de algum modo logrado...\"\n(Memórias póstumas de Brás Cubas, Machado de Assis, 1881)\n\nAinda levando em consideração as ideias do Defensor Público, no que diz respeito ao excerto de Memórias póstumas de Brás Cubas presente no texto 7 afirma-se que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o narrador desqualifica uma instituição jurídica, por tratar a legislatura como simples \"colocação social\"."
+        },
+        {
+          "letra": "B",
+          "texto": "a obra não desperta hoje nenhuma discussão acerca do ambiente jurídico, já que foi produzida no século XIX."
+        },
+        {
+          "letra": "C",
+          "texto": "a obra não apresenta qualquer denúncia social porque se trata de um texto literário que narra uma história ficcional."
+        },
+        {
+          "letra": "D",
+          "texto": "o narrador situa a obra em um contexto destituído de análise crítica, visto que o personagem não apresenta verossimilhança."
+        },
+        {
+          "letra": "E",
+          "texto": "pelo teor de galhofa e de ironia que há em toda a obra, a narrativa acaba por se isentar de qualquer crítica social."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Realismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "TEXTO 8\n[Sobre Rita Baiana]\nAinda assim não é má criatura... Tirante o defeito da vadiagem... - Bom coração tem ela até demais, que não guarda um vintém pro dia de amanhã. Parece que o dinheiro lhe faz comichão no corpo! – Depois é que são elas\" ... O João Romão já não lhe fia! Pois olhe que a Rita lhe tem enchido bem as mãos; quando ela tem dinheiro é porque gasta mesmo!\n(O cortiço, Aluízio Azevedo)\n\nAcerca do perfil da personagem Rita Baiana, como o texto comprova, pode-se dizer que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "há uma idealização de uma mulher forte e trabalhadora, como poucas naquele lugar em que predominava a vontade dos homens."
+        },
+        {
+          "letra": "B",
+          "texto": "se trata de uma mulher frágil, que entrega a João Romão todo o dinheiro que ganha, por ter medo da força masculina."
+        },
+        {
+          "letra": "C",
+          "texto": "uma pessoa boa, com um coração tão grande que abre mão de sua felicidade para que os vizinhos possam desfrutar da vida."
+        },
+        {
+          "letra": "D",
+          "texto": "nunca se entregou ao “espírito do capitalismo\", por assim dizer, pois jamais deixava de divertir-se para trabalhar."
+        },
+        {
+          "letra": "E",
+          "texto": "ela se caracteriza como uma pessoa equilibrada e racional, uma vez que analisa tudo na vida antes de tomar qualquer atitude."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Naturalismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "TEXTO 9\nMorte e vida Severina\n(João Cabral de Melo Neto)\nE se somos severinos\niguais em tudo na vida,\nmorremos de morte igual,\nmesma morte severina:\nque é a morte de que se morre\nde velhice antes dos trinta,\nde emboscada antes dos vinte\nde fome um pouco por dia.\n\nSegundo o pesquisador Thiago Rodrigues Costa, da UNESP, \"a Literatura, propriamente dita, é o ‘espelho do social' porque reflete questões retratadas no seu tempo, e mesmo que não tenha o rigor científico, essa expressão artística retrata os paradigmas, pensamentos e problemáticas”. Tomando como base esse pensamento, quanto ao conteúdo de Morte e vida severina, de João Cabral de Melo Neto, declara-se que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ao chegar à cidade, Severino percebe que a realidade é igual ou pior do que aquela que ele havia vivenciado no sertão."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas os sertanejos teriam uma vida marcada pela presença constante da morte, seja no sertão, seja no litoral."
+        },
+        {
+          "letra": "C",
+          "texto": "não é a fome que expulsa o homem do sertão, mas a falta de pagamento dos donos das fazendas aos trabalhadores mais pobres."
+        },
+        {
+          "letra": "D",
+          "texto": "a falta de assistência do Estado contribui com a morte dos sertanejos, situação contrária ao que acontece com os miseráveis do litoral."
+        },
+        {
+          "letra": "E",
+          "texto": "a reforma agrária é a principal temática da obra, que denuncia a invasão de terras que os severinos promovem no sertão."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Geração de 45"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "TEXTO 10\nUm dia o coronelzinho, que já sabia ler, ficou curioso para ver se negro aprendia os sinais, as letras de branco e começou a ensinar o pai de Ponciá. O menino respondeu logo ao ensinamento do distraído mestre. Em pouco tempo reconhecia todas as letras. Quando Sinhô-moço se certificou de que o negro aprendia, parou a brincadeira. Negro aprendia sim! Mas o que o negro ia fazer com o saber do branco?\n(Ponciá Vicêncio, Conceição Evaristo, 2003)\n\nO texto 10 denuncia um panorama ainda muito presente na sociedade brasileira, embora tenha havido avanços histórico-sociais. A narrativa Ponciá Vicêncio, da autora Conceição Evaristo, permite a conclusão de que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os brancos não queriam ensinar aos negros, por medo de serem imediatamente substituídos nos postos mais importantes da sociedade."
+        },
+        {
+          "letra": "B",
+          "texto": "os negros são aparentemente mais inteligentes que os brancos, o que explica tanto racismo e desvalorização à cultura afro-brasileira."
+        },
+        {
+          "letra": "C",
+          "texto": "em decorrência do racismo, a violência e a crueldade são praticadas como se nada houvesse de desumano nesse comportamento."
+        },
+        {
+          "letra": "D",
+          "texto": "os brancos não querem que os negros aprendam a ler e a escrever, para que estes não tenham condições de denunciar a discriminação racial."
+        },
+        {
+          "letra": "E",
+          "texto": "a indiferença dos negros se torna um grande desafio para a aceitação do conhecimento oferecido pelos brancos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Contemporânea",
+        "Sociologia – Relações Étnico-raciais"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Analyze the excerpt of 'Your Song' by Elton John.\n\nI know it's not much, but it's the best I can do\nMy gift is my song, and this one's for you\nAnd you can tell everybody this is your song\nIt may be quite simple, but now that it's done\nI hope you don't mind\nI hope you don't mind that I put down in words\nHow wonderful life is, now you're in the world\nI sat on the roof and kicked off the moss\nWell, a few of the verses, well, they've got me quite cross\nBut the sun's been quite kind while I wrote this song\nIt's for people like you that keep it turned on.\n(By Elton John)\n(https://www.letras.mus.br/one-republic/future-looks-good)\n\nThe modal verbs “may” and “can” express respectively",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "permission and polite request."
+        },
+        {
+          "letra": "B",
+          "texto": "ability and obligation."
+        },
+        {
+          "letra": "C",
+          "texto": "future possibility and present ability."
+        },
+        {
+          "letra": "D",
+          "texto": "advice and past ability."
+        },
+        {
+          "letra": "E",
+          "texto": "past ability and permission."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Modal Verbs"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Choose the alternative that presents the correct infinitive form of the underlined verbs.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "To see, to kick, to give, to write."
+        },
+        {
+          "letra": "B",
+          "texto": "To sail, To keep, to guide, to wait."
+        },
+        {
+          "letra": "C",
+          "texto": "To see, to know, to get, to walk."
+        },
+        {
+          "letra": "D",
+          "texto": "To seek, to know, to give, to wander."
+        },
+        {
+          "letra": "E",
+          "texto": "To sit, to kick, to get, to write."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Verb Tenses",
+        "Inglês – Irregular Verbs"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Nessa parte da canção, o autor fala sobre",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "presentear a pessoa amada com bens materiais de valor inestimável."
+        },
+        {
+          "letra": "B",
+          "texto": "sentir-se solitário por viver sozinho e longe de sua cidade natal."
+        },
+        {
+          "letra": "C",
+          "texto": "escrever canções sobre os problemas que enfrenta em sua família."
+        },
+        {
+          "letra": "D",
+          "texto": "não ter muito dinheiro ou recursos materiais, mas ter escrito uma canção para expressar o seu amor."
+        },
+        {
+          "letra": "E",
+          "texto": "estar desiludido pelo fim de seu último relacionamento amoroso."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Look at the shopping list and decide which items are countable.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Milk, bread and tea."
+        },
+        {
+          "letra": "B",
+          "texto": "Bread, sugar and apples."
+        },
+        {
+          "letra": "C",
+          "texto": "Apples, bananas and egg."
+        },
+        {
+          "letra": "D",
+          "texto": "Bananas, butter and wine."
+        },
+        {
+          "letra": "E",
+          "texto": "Egg, tea and wine."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Countable and Uncountable Nouns"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Read the extract and answer questions 15, 16, 17 and 18.\n\nDEPP AND HEARD TRIAL\nJurors are deliberating in the high-profile defamation case that has been fought for over a month between actors Johnny Depp and Amber Heard in the US state of Virginia.\nFor six weeks, the court heard the tawdry details of Mr Depp and Ms Heard's volatile relationship, and its ultimate, unhappy end.\nMr Depp sued his ex-wife for defamation over an opinion article she wrote for the Washington Post, alleging she was a domestic abuse victim, though it did not mention him by name. Ms Heard counter-sued.\n(https://www.bbc.com/news)\n\nThe word “though” could be replaced by",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "so."
+        },
+        {
+          "letra": "B",
+          "texto": "moreover."
+        },
+        {
+          "letra": "C",
+          "texto": "hence."
+        },
+        {
+          "letra": "D",
+          "texto": "therefore."
+        },
+        {
+          "letra": "E",
+          "texto": "however."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Conjunctions"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "O pronome \"its” no texto faz referência a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Mr Depp and Ms Heard."
+        },
+        {
+          "letra": "B",
+          "texto": "volatile relationship."
+        },
+        {
+          "letra": "C",
+          "texto": "the court."
+        },
+        {
+          "letra": "D",
+          "texto": "six weeks."
+        },
+        {
+          "letra": "E",
+          "texto": "unhappy end."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Pronouns",
+        "Inglês – Anaphoric Reference"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "The article extract talks about",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Johnny Depp successful career in Hollywood and how his wife supported him."
+        },
+        {
+          "letra": "B",
+          "texto": "Johnny Depp decision to retire from the cinema industry."
+        },
+        {
+          "letra": "C",
+          "texto": "Johnny Depp's problematic relationship with Amber Heard and an accusation of defamation."
+        },
+        {
+          "letra": "D",
+          "texto": "How Johnny Depp met his ex-wife and their love story."
+        },
+        {
+          "letra": "E",
+          "texto": "Johnny Depp's desire to build a family with Amber Heard."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "The verb \"deliberate\", first line of the text, is followed by the preposition “in”. Which other verbs are followed by the same preposition?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Believe and succeed."
+        },
+        {
+          "letra": "B",
+          "texto": "Suffer and apologize."
+        },
+        {
+          "letra": "C",
+          "texto": "Wait and base."
+        },
+        {
+          "letra": "D",
+          "texto": "Refer and look."
+        },
+        {
+          "letra": "E",
+          "texto": "Result and depend."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Prepositions",
+        "Inglês – Verb Collocations"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Which sentence is grammatically correct?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "She doesn't likes to be by herself at night."
+        },
+        {
+          "letra": "B",
+          "texto": "They studies the piano by ourselves."
+        },
+        {
+          "letra": "C",
+          "texto": "He drives himself to work every day."
+        },
+        {
+          "letra": "D",
+          "texto": "We learn Spanish by themselves."
+        },
+        {
+          "letra": "E",
+          "texto": "She is the one which taught yourself Spanish."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Reflexive Pronouns",
+        "Inglês – Verb Conjugation"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Read an extract from an article and answer the question.\n\nThere are no plans for a monkeypox lockdown\nWhile fears about the monkeypox outbreak are understandable, scientists say this virus will not be like Covid, and most experts think its spread will be limited.\nIt is much harder to pass on than Covid, we already have available vaccines and treatments, and people appear to be infectious only once symptoms appear – making it easier to spot and isolate.\n(https://www.bbc.com/news/health-61580089)\n\nOs verbos destacados no texto representam",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "future plans."
+        },
+        {
+          "letra": "B",
+          "texto": "arrangements."
+        },
+        {
+          "letra": "C",
+          "texto": "on spot decisions."
+        },
+        {
+          "letra": "D",
+          "texto": "promises."
+        },
+        {
+          "letra": "E",
+          "texto": "future predictions."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Future Tenses (Will)"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "A despeito da antiga frase atribuída a Heródoto que, supostamente, teria dito ser o Egito uma dádiva, um presente do Nilo, a que se pode atribuir realmente seu desenvolvimento?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O rio foi importante, mas de nada serviria sem a força de trabalho dos camponeses egípcios (os felás), organizados por um poder central durante o período faraônico. Trabalho e organização foram, pois, os ingredientes principais da civilização egípcia."
+        },
+        {
+          "letra": "B",
+          "texto": "A civilização egípcia é um dom da natureza, filha de determinações místicas e geográficas."
+        },
+        {
+          "letra": "C",
+          "texto": "Grandes faraós foram os únicos responsáveis pelo refinamento da civilização egípcia."
+        },
+        {
+          "letra": "D",
+          "texto": "Na realidade, o Egito nunca chegou a ser uma grande civilização. É um mito mercadológico criado pelos estúdios de Hollywood, servindo-se do exotismo de sua cultura e da monumentalidade de suas pirâmides e construções religiosas."
+        },
+        {
+          "letra": "E",
+          "texto": "Aos chefes militares que em momentos de guerra eram elevados à condição de faraó para liderarem os exércitos e conduzirem a batalha até sua completa vitória. Ainda hoje se pode ver nas tumbas de alguns deles pinturas e outras referências ao rito."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Egito Antigo"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "A sociedade feudal organizava-se e hierarquizava-se por meio de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pequenos grupos chamados mercenários."
+        },
+        {
+          "letra": "B",
+          "texto": "castas."
+        },
+        {
+          "letra": "C",
+          "texto": "classes sociais."
+        },
+        {
+          "letra": "D",
+          "texto": "tribos."
+        },
+        {
+          "letra": "E",
+          "texto": "estamentos."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Feudalismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "No século XVIII, surgiu outra ação condenável pela Inquisição: emitir opiniões inspiradas nas ideias iluministas. Quais autores a seguir supunham um perigo às concepções defendidas pelo Santo Ofício?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Maquiavel, Thomas More, Lord Byron."
+        },
+        {
+          "letra": "B",
+          "texto": "Rousseau, Voltaire, John Locke."
+        },
+        {
+          "letra": "C",
+          "texto": "Jean Bodin, Montesquieu, Marquês de Sade."
+        },
+        {
+          "letra": "D",
+          "texto": "Edmund Burke, Bossuet, Hume."
+        },
+        {
+          "letra": "E",
+          "texto": "Thomas Hobbes, Karl Marx, Ficthe."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Iluminismo",
+        "Filosofia – Iluminismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Que atividade comercial justificou a colonização das terras brasílicas entre o século XVI e XVII, dando formas às suas sociedades e tornando globalmente conhecido o seu principal produto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A produção de coirama."
+        },
+        {
+          "letra": "B",
+          "texto": "A produção de ouro."
+        },
+        {
+          "letra": "C",
+          "texto": "A produção de cacau."
+        },
+        {
+          "letra": "D",
+          "texto": "A produção de açúcar."
+        },
+        {
+          "letra": "E",
+          "texto": "A produção de algodão."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Brasil Colônia",
+        "História – Ciclo do Açúcar"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "O que representou a Independência do Brasil?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A manutenção de uma ordem antiga, posto que na verdade não houve mudanças políticas, econômicas e sociais de fato."
+        },
+        {
+          "letra": "B",
+          "texto": "Uma revolução, no sentido de uma ruptura política formal que instaurou um novo regime monárquico-constitucional e possibilitou o início da construção de uma identidade nacional brasileira."
+        },
+        {
+          "letra": "C",
+          "texto": "Em realidade pouca coisa além da ruptura política, uma vez que o país continuou dependente de Portugal, sob um regime absolutista instaurado por D. Pedro I."
+        },
+        {
+          "letra": "D",
+          "texto": "A abertura de uma nova etapa da história do Brasil, em que, graças ao governo de homens ilustrados e de D. João VI, logrou-se o reconhecimento de países como a Inglaterra e os Estados Unidos, antigos parceiros comerciais."
+        },
+        {
+          "letra": "E",
+          "texto": "O final de uma longa e desgastante queda de braço entre portugueses e brasileiros, visto que os primeiros desejavam, desde antes do regresso de D. João VI, a recolonização do país."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Independência do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "A Revolução Farroupilha, iniciada em 1835, foi uma grave ameaça para o Império e um desafio político para os regentes e, posteriormente, D. Pedro II, pois sua proposta republicana separatista punha em risco a integridade nacional. Em qual província ocorreu o conflito?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Pará"
+        },
+        {
+          "letra": "B",
+          "texto": "São Paulo"
+        },
+        {
+          "letra": "C",
+          "texto": "Paraná"
+        },
+        {
+          "letra": "D",
+          "texto": "Rio de Janeiro"
+        },
+        {
+          "letra": "E",
+          "texto": "Rio Grande do Sul"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Período Regencial",
+        "História – Revoltas Regenciais"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Se a lei de 1831 que transformou o tráfico de escravizados no Brasil em um comércio ilegal descontentou a uma parcela significativa de proprietários e gente poderosa com o governo, não deve supreender ninguém que muitos conservadores e apoiadores irrestritos da monarquia tenham passado para o bando republicano quando:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Aboliu-se a escravatura em 13 de maio de 1888."
+        },
+        {
+          "letra": "B",
+          "texto": "Assinou-se a lei do Ventre Livre em 1871."
+        },
+        {
+          "letra": "C",
+          "texto": "Promulgou-se a lei dos Sexagenários em 1885."
+        },
+        {
+          "letra": "D",
+          "texto": "O governo possibilitou a compra da alforria."
+        },
+        {
+          "letra": "E",
+          "texto": "Nenhuma das respostas anteriores são corretas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Segundo Reinado",
+        "História – Abolicionismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "\"Tal como ocorreu em outros países da América, a homogeneização das populações indígenas e afrodescendentes no Brasil e seu desaparecimento como protagonistas da história no século XIX deu-se apenas no nível das ideias. Vários grupos considerados extintos continuavam, de fato, presentes e politicamente atuantes, como demonstram as pesquisas recentes e os inúmeros movimentos de etnogênese dos séculos XX e XXI”\n(Almeida, Maria Regina Celestino de. História, São Paulo, v. 40, 2021, p. 15).\n\nA partir do exposto acima, podemos afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "devido à miscigenação e aculturação dos povos originários, não se pode pensar que ainda hoje possam existir etnias realmente indígenas."
+        },
+        {
+          "letra": "B",
+          "texto": "os indígenas foram completamente exterminados ao longo do processo colonizador."
+        },
+        {
+          "letra": "C",
+          "texto": "apesar do que se pode pensar, os povos indígenas não só não desapareceram em sua totalidade, como resistem de diferentes formas até os dias de hoje. Alguns grupos étnicos, inclusive, apresentaram nas últimas décadas um aumento populacional considerável."
+        },
+        {
+          "letra": "D",
+          "texto": "A etnogênese é um processo de desaparecimento de grupos humanos, mas que, por outra parte, serve de ferramenta para aferir o momento exato de fenecimento de determinadas etnias."
+        },
+        {
+          "letra": "E",
+          "texto": "Nenhuma das respostas anteriores são corretas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Povos Indígenas",
+        "Sociologia – Etnia e Cultura"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "\"Instituída em maio de 2012, a [Comissão Nacional da Verdade] marcou um importante acontecimento no espaço público brasileiro. Fazendo parte do processo mais amplo de formulação de uma política da memória no Brasil, sua repercussão e os debates que alimentou certamente conferem a ela um lugar importante na conjuntura atual, momento em que nossa sociedade resolveu, ainda que de forma excessivamente limitada, lidar com traumas ocasionados pelos acontecimentos” iniciados em 1964.\n(Bauer, Caroline Silveira. Como será o passado?: História, Historiadores e a Comissão Nacional da Verdade. Jundiaí: Paco, 2017, p. 8-9).\n\nA qual momento traumático da história recente brasileira se refere a passagem acima?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ditadura Civil-Militar"
+        },
+        {
+          "letra": "B",
+          "texto": "Revolução Comunista."
+        },
+        {
+          "letra": "C",
+          "texto": "Revolta dos Cravos."
+        },
+        {
+          "letra": "D",
+          "texto": "Diretas Já"
+        },
+        {
+          "letra": "E",
+          "texto": "Intentona Integralista."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Ditadura Militar no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Sobre a Guerra das Malvinas, marque a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Conflito entre a Argentina e a Inglaterra pelo controle das Ilhas Malvinas."
+        },
+        {
+          "letra": "B",
+          "texto": "Conflito entre a Argentina e os Estados Unidos pelo controle das Falkland."
+        },
+        {
+          "letra": "C",
+          "texto": "Conflito entre o Chile e a Argentina pelo controle das Ilhas Malvinas."
+        },
+        {
+          "letra": "D",
+          "texto": "Conflito entre o Chile e a Inglaterra pelo controle das Falkland."
+        },
+        {
+          "letra": "E",
+          "texto": "Conflito entre os Estados Unidos e o Chile pelo controle das Ilhas Malvinas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Guerra Fria",
+        "Geografia – Geopolítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "“A gênese da geografia é política. não é sem razão que Yves Lacoste (2006) afirmara no seu título manifesto que a Geografia 'serve, em primeiro lugar para fazer a guerra'. A Geopolítica, dessa forma não é uma caricatura e nem uma pseudogeografia. A Geopolítica é na realidade o âmago da Geografia, a sua verdade mais profunda e recôdita”.\n(FREITAS, Elisa Pinheiro. Além da guerra, para que serve a geopolítica? In: BRUMES, K.R; CHIMIN JUNIOR, A.B.(Orgs.)2020. Debates geográficos e a produção de contraespaço).\n\nCom base no texto e em seus conhecimentos sobre a ciência geográfica, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a Geografia é uma ciência neutra."
+        },
+        {
+          "letra": "B",
+          "texto": "o conhecimento geográfico foi amplamente utilizado para justificar o expansionismo Europeu."
+        },
+        {
+          "letra": "C",
+          "texto": "o conhecimento geográfico é ineficaz em contexto de Guerra."
+        },
+        {
+          "letra": "D",
+          "texto": "as estratégias geopolíticas são utilizadas exclusivamente na escala local."
+        },
+        {
+          "letra": "E",
+          "texto": "Geografia Política e Geopolítica são sinônimos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "Geografia – História do Pensamento Geográfico"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "\"As rochas que estão aflorando na crosta terrestre, sejam de que tipo for, sofrem constantemente desagregação e decomposição, seguidas de transporte dos fragmentos assim produzidos. Esses fragmentos, chamados sedimentos, são depositados em outros locais, onde, com a passar de muito tempo, poderão dar origem a novas rochas, do tipo sedimentar”.\n(BRANCO, Percio de Moraes. O intemperismo e a erosão, 2014).\n(http://cprm.gov.br/publique/SGB-Divulga/Canal-Escola/O-Intemperismo-e-a-Erosao-1313.html).\n\nO texto retrata como as rochas expostas no relevo continental passam por alterações do intemperismo a processos erosivos. Sobre essas alterações e esse processo é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "no semiárido brasileiro predomina o intemperismo químico."
+        },
+        {
+          "letra": "B",
+          "texto": "quanto mais íngreme o relevo, menor será o transporte de sedimentos."
+        },
+        {
+          "letra": "C",
+          "texto": "nas encostas íngremes, o intemperismo é mais intenso."
+        },
+        {
+          "letra": "D",
+          "texto": "as formações de bacias sedimentares ocorrem na fase de meteorização da rocha."
+        },
+        {
+          "letra": "E",
+          "texto": "quando a água que se infiltra nas fraturas da rocha congela, o intemperismo físico é maior."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Geomorfologia",
+        "Geografia – Intemperismo e Erosão"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "A intenção de adesão da Ucrânia à Organização do Tratado do Atlântico Norte (OTAN) colocou esse país em guerra com a Rússia. Sobre a OTAN e a geopolítica da Guerra da Rússia com a Ucrânia, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A Rússia busca controlar a expansão do poder dos Estados Unidos nos países que fazem parte do Pacto de Varsóvia."
+        },
+        {
+          "letra": "B",
+          "texto": "A OTAN é uma aliança militar criada no Pós-Segunda Guerra Mundial, com atuação irrestrita em todos os continentes."
+        },
+        {
+          "letra": "C",
+          "texto": "A geopolítica mundial do petróleo passa por modificações em função do conflito entre a Rússia e a Ucrânia."
+        },
+        {
+          "letra": "D",
+          "texto": "A OTAN age sempre com vista a atender aos interesses das minorias étnicas."
+        },
+        {
+          "letra": "E",
+          "texto": "Os Estados Unidos, criador da OTAN, vê sua hegemonia militar ameaçada."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geopolítica Contemporânea"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "“A imigração é uma força transformadora, que produz mudanças sociais profundas e imprevistas tanto nas sociedades de origem quanto nas de acolhimento, nas relações entre os diversos grupos dentro das sociedades de acolhimento e entre os próprios imigrantes e seus descendentes.\"\n(RUMBAUTE, G. Rubén. Imigração nos Estados Unidos: da grande inclusão à expulsão.2017)\n(https://brasil.elpais.com/brasil/2017/01/13/internacional/1484322393_809504.html)\n\nO fenômeno migratório faz parte da história mais remota da humanidade, podendo ser interna ou internacional. Com base no texto e em seus conhecimentos, é INCORRETO afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a emigração de mão de obra qualificada dos países menos desenvolvidos para os desenvolvidos afeta positivamente o desenvolvimento social e econômico dos países de origem."
+        },
+        {
+          "letra": "B",
+          "texto": "as redes sociais e a internet podem ampliar os destinos migratórios."
+        },
+        {
+          "letra": "C",
+          "texto": "a imigração ilegal alimenta redes internacionais de tráfico humano."
+        },
+        {
+          "letra": "D",
+          "texto": "os imigrantes contribuem para a diversificação cultural."
+        },
+        {
+          "letra": "E",
+          "texto": "é comum os imigrantes territorializarem áreas das cidades receptoras."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Migrações"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "\"A poluição tem de ser paga e pagá-la-emos ou como contribuintes ou como consumidores ou como vítimas. (...) O debate é como distribuir de forma justa entre os diversos países a descarbonização da economia mundial\".\n(SÓCRATES, José. Justiça climática. Carta Capital, 10 de novembro de 2021).\n\nSobre a emergência climática e os problemas ambientais, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os países desenvolvidos são os que menos emitem gases de efeito estufa."
+        },
+        {
+          "letra": "B",
+          "texto": "os custos ambientais são pagos proporcionalmente pelos países poluidores."
+        },
+        {
+          "letra": "C",
+          "texto": "as desigualdades sociais serão agravadas pela crise climática."
+        },
+        {
+          "letra": "D",
+          "texto": "os países desenvolvidos utilizam mais termoelétricas em suas indústrias reduzindo a emissão de CO2."
+        },
+        {
+          "letra": "E",
+          "texto": "a comercialização de créditos de carbono é a única solução para os problemas ambientais."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Questões Ambientais",
+        "Geografia – Mudanças Climáticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "\"Brás é o lugar de São Paulo que tem as calçadas mais congestionadas que as ruas. As lojas populares do bairro têm concorrência logo na porta. Camelôs esticam lonas junto ao meio-fio e oferecem todo tipo de quinquilharia pirateada. Também tem gente vendendo quentinha, produto que não é falsificado, mas com PF (prato feito) diferente do original: falta a carne\".\n(https://tab.uol.com.br/noticias/redacao/2022/04/29/em-tempos-de-vacas-magras-carne-bovina-some-dos-pfs-de-sao-paulo.htm)\n\nNo texto é possível identificar um paralelo entre a atividade econômica realizada no Brás, bairro paulista reconhecido pelo comércio de vestuário e a comercialização de refeições. Com base no texto e na situação atual da economia brasileira, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o comércio informal gera renda e segurança social para os ambulantes."
+        },
+        {
+          "letra": "B",
+          "texto": "todos os produtos comercializados no Brás são falsificados."
+        },
+        {
+          "letra": "C",
+          "texto": "a ausência de carne nas quentinhas demonstra a preocupação dos consumidores com a redução na emissão de CO2 na atmosfera, decorrente da pecuária."
+        },
+        {
+          "letra": "D",
+          "texto": "o aumento nos preços dos alimentos tem aumentado o custo das refeições e a redução do consumo de carne."
+        },
+        {
+          "letra": "E",
+          "texto": "a falta de carne nas quentinhas se deve à sazonalidade na produção pecuária no Brasil."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geografia Econômica",
+        "Geografia – Geografia Urbana"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "\"Os solos são mais do que apenas 'sujeira' - eles são um grande reservatório da biodiversidade global, apoiando a agricultura e a segurança alimentar, regulando as emissões de gases de efeito estufa e promovendo a saúde vegetal, animal e humana. Sem eles nosso mundo não seria o mesmo\".\n(FAO, 2020) (https://www.fao.org/brasil/noticias/detail-events/pt/c/1361870/).\n\nDada a importância do solo e necessidade de preservação, que ação pode melhorar a conservação dos solos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Adoção de técnicas agrícolas adequadas para o tipo de cultura e relevo."
+        },
+        {
+          "letra": "B",
+          "texto": "Redução da cobertura vegetal."
+        },
+        {
+          "letra": "C",
+          "texto": "Intensificação da pecuária extensiva."
+        },
+        {
+          "letra": "D",
+          "texto": "Mecanização do solo."
+        },
+        {
+          "letra": "E",
+          "texto": "Utilização de irrigação em regiões semiáridas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Pedologia (Solos)",
+        "Geografia – Agricultura"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "O ar é invisível, inodoro, incolor, mas pesa e ocupa espaço. Pode ser pesado como uma feijoada completa ou um pouco light. Tudo vai depender da região onde estamos.\n(COUTINHO, Maria Julia. Entrando no Clima. São Paulo: Planeta 2016).\n\nO clima é constituído a partir de um conjunto complexo de elementos e fatores climáticos. Sobre a pressão atmosférica é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a pressão atmosférica é um fator do clima."
+        },
+        {
+          "letra": "B",
+          "texto": "nas áreas de maior altitude, a pressão atmosférica é maior."
+        },
+        {
+          "letra": "C",
+          "texto": "a região próxima ao Equador é de alta pressão."
+        },
+        {
+          "letra": "D",
+          "texto": "a Zona Térmica Equatorial é uma área de baixa pressão atmosférica."
+        },
+        {
+          "letra": "E",
+          "texto": "o ar se desloca das áreas de baixa pressão para as áreas de alta pressão atmosférica."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Climatologia",
+        "Geografia – Pressão Atmosférica"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "O desenvolvimento das tecnologias da informação trouxe muitas mudanças para o cotidiano das empresas e individual. Essas mudanças acontecem com muita rapidez. É possível com um click no celular trocar mensagens, realizar compras, enviar dinheiro, entre tantos outros serviços possíveis de serem realizados por aplicativos. Uma consequência do uso de aplicativos no mundo trabalho é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "menor flexibilização das relações de trabalho."
+        },
+        {
+          "letra": "B",
+          "texto": "redução da jornada de trabalho."
+        },
+        {
+          "letra": "C",
+          "texto": "aumento do número de trabalhadores informais."
+        },
+        {
+          "letra": "D",
+          "texto": "menor produtividade do trabalhador."
+        },
+        {
+          "letra": "E",
+          "texto": "melhoria nas condições de vida do trabalhador."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Sociologia – Mundo do Trabalho",
+        "Geografia – Globalização"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "“(...) Entende-se por domínio morfoclimático e fitogeográfico um conjunto espacial de certa grandeza territorial - de centenas de milhares e milhões de quilômetros quadrados de área - onde haja um esquema coerente de feições de relevo, tipos de solo, formas vegetais e condições climático-hidrológicas\"\n(AB'SABER, Aziz. Os Domínios de Natureza no Brasil: potencialidades paisagísticas. São Paulo: Ateliê Editorial, 2003).\n\nSobre o domínio da Caatinga, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "predomina vegetação perenifólia."
+        },
+        {
+          "letra": "B",
+          "texto": "apresenta baixo índice de evapotranspiração."
+        },
+        {
+          "letra": "C",
+          "texto": "os rios são perenes."
+        },
+        {
+          "letra": "D",
+          "texto": "a laterização dos solos é um grave problema enfrentado neste domínio."
+        },
+        {
+          "letra": "E",
+          "texto": "a extração de vegetação nativa para ser utilizada como fonte de energia é um dos principais agentes de degradação do bioma."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Domínios Morfoclimáticos",
+        "Geografia – Biomas Brasileiros"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Oxigênio dissolvido é a concentração de oxigênio ($O_2$) presente na água, essencial para todas as formas de vida aquática. Os sistemas aquáticos produzem e consomem oxigênio, que é removido da atmosfera no contato água-ar. O oxigênio também é formado como resultado de atividades fotossintéticas em algas e plantas. A quantidade de oxigênio presente na água em condições normais é determinada pela temperatura, pelo número de peixes presentes e pela pressão atmosférica. A solubilidade dos gases aumenta à medida que a temperatura diminui à medida que a salinidade aumenta. Uma lagoa específica foi submetida a uma descarga única de efluente de uma pequena fábrica. O oxigênio dissolvido foi monitorado por dez dias e um gráfico foi criado a partir da coleta de água, imediatamente, após a descarga do efluente.\n\nCom base no gráfico apresentado, NÃO se pode afirmar que o efluente lançado",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "contém quantidades de sais elevadas."
+        },
+        {
+          "letra": "B",
+          "texto": "é de natureza não-biodegradável."
+        },
+        {
+          "letra": "C",
+          "texto": "está numa temperatura mais alta que a água da lagoa."
+        },
+        {
+          "letra": "D",
+          "texto": "há presença de material orgânico nesse lançamento."
+        },
+        {
+          "letra": "E",
+          "texto": "não há presença de material inorgânico nesse lançamento"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Química Ambiental",
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Os metais alcalinos são os elementos que compõem o grupo I da tabela periódica (família IA). Devido às suas propriedades químicas, podem reagir violentamente com uma substância incompatível, gerando hidróxidos. Essas reações exotérmicas podem produzir gases altamente inflamáveis, um dos quais é o hidrogênio. Neste caso, uma substância incompatível com alcaloides terrosos pode ser",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "querosene."
+        },
+        {
+          "letra": "B",
+          "texto": "gasolina."
+        },
+        {
+          "letra": "C",
+          "texto": "óleo mineral."
+        },
+        {
+          "letra": "D",
+          "texto": "água."
+        },
+        {
+          "letra": "E",
+          "texto": "carvão ativado."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Tabela Periódica",
+        "Química – Reações Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "O ácido acético é um ácido comum em laboratórios e mesmo em nossas casas. Calcule o pH e a porcentagem de desprotonação das moléculas de $CH_3COOH$ em uma solução 4 M de $CH_3COOH$ em água, sabendo que o $K_a$ do ácido acético é, hipoteticamente, igual a $1 \\times 10^{-2}$. (Dados $\\sqrt{0,04} = 2\\times10^{-1}$ e $\\log(2) = 0,3$).",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,82"
+        },
+        {
+          "letra": "B",
+          "texto": "0,69"
+        },
+        {
+          "letra": "C",
+          "texto": "0,53"
+        },
+        {
+          "letra": "D",
+          "texto": "0,76"
+        },
+        {
+          "letra": "E",
+          "texto": "0,12"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Equilíbrio Ácido-Base",
+        "Química – pH e pOH"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Um gás perfeito sofre transformação isotérmica, em uma quantidade de 1 mol, elevando seu volume de 5 L (estado inicial: 1) para 30 L. (estado final: 2). Neste procedimento, o gráfico que melhor representa a variação da entalpia (H) em função da pressão (P) é:",
+      "alternativas": null,
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Termoquímica",
+        "Física – Termodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Os Silicatos do tipo $Na_2SiO_3$, são compostos químicos que atuam como agentes ligantes na produção de refratários. Também podem ser utilizados na fabricação de condimentos antibacterianos, isolantes térmicos e impermeabilizantes para portas e janelas. O processo de produção envolve a calcinação de uma mistura de sílica ($SiO_2$) com carbonato de sódio ($Na_2CO_3$), produzindo silicato de sódio e gás carbônico. Esta técnica tem um retorno de 70% sobre o investimento. A massa de silicato de sódio, que pode ser obtida por essa técnica a partir de 3,0 kg de sílica, é:\nSi = 28; O = 16; Na = 23; C = 12; Massas molares em g.mol$^{-1}$",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3,71 kg"
+        },
+        {
+          "letra": "B",
+          "texto": "8,71 kg"
+        },
+        {
+          "letra": "C",
+          "texto": "6,10 kg"
+        },
+        {
+          "letra": "D",
+          "texto": "7,57 kg"
+        },
+        {
+          "letra": "E",
+          "texto": "4,27 kg."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Considere isso como uma diretriz.\nI. $NH_3+ H_2O \\rightleftharpoons NH_4^++ OH^-$\nII. $Cu^{2+}+ 4 NH_3 \\rightleftharpoons [Cu(NH_3)_4]^{2+}$\nIII. $2 Fe^{3+}+ Sn^{2+} \\rightleftharpoons 2 Fe^{2+}+ Sn^{4+}$\n\nApenas reações de oxirredução ocorrem na (s) solução(ões).",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I"
+        },
+        {
+          "letra": "B",
+          "texto": "II"
+        },
+        {
+          "letra": "C",
+          "texto": "III"
+        },
+        {
+          "letra": "D",
+          "texto": "I e II"
+        },
+        {
+          "letra": "E",
+          "texto": "II e III"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Oxirredução"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Em comparação com os demais gases presentes na mistura, o oxigênio compõe cerca de 20% (em volume) da atmosfera. Quando oxigênio e monóxido de carbono são encontrados juntos, ocorre a seguinte reação química:\n$$CO (g) + \\frac{1}{2} O_2(g) \\rightarrow CO_2(g)$$\nNesta situação, supondo que todos os gases estejam submetidos à mesma pressão e temperatura, o volume de ar necessário para uma combustão completa de 20 L de monóxido de carbono é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 L"
+        },
+        {
+          "letra": "B",
+          "texto": "0,0002 L"
+        },
+        {
+          "letra": "C",
+          "texto": "20 L"
+        },
+        {
+          "letra": "D",
+          "texto": "50 L"
+        },
+        {
+          "letra": "E",
+          "texto": "0,0005 L"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Estequiometria Gasosa"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Examine os diagramas de energia livre (G) para as reações orgânicas I, II e III, nas quais os reagentes A e B produzem um produto C.\n\nAssinale a alternativa INCORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Em uma reação envolvendo um mecanismo de substituição nucleofílica unimolecular, a velocidade da reação é proporcional à concentração de apenas um dos reagentes."
+        },
+        {
+          "letra": "B",
+          "texto": "Em I, a reação ocorre em duas etapas, com a formação de dois estados de transição e um intermediário químico entre os reagentes e o produto."
+        },
+        {
+          "letra": "C",
+          "texto": "Os mecanismos em II e III são condizentes com reações de substituição nucleofílica unimolecular."
+        },
+        {
+          "letra": "D",
+          "texto": "Em II e III, os reagentes A e B mudam ao longo da reação e passam por um estado de transição para gerar o produto C, sem a necessidade de intermediário químico."
+        },
+        {
+          "letra": "E",
+          "texto": "A diferença entre os mecanismos II e III pode ser explicada pelo uso de um catalisador químico no mecanismo II."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Cinética Química",
+        "Química – Reações Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "A IUPAC (International Union of Pure and Applied Chemistry, ou União Internacional de Química Pura e Aplicada) estabeleceu a lista oficial de compostos orgânicos que são aceitos mundialmente. Selecione a opção que exibe a nomenclatura IUPAC para compostos orgânicos I, II e III, respectivamente.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Etanoato de isopropila; 2-etoxi-propano; 2-butanona."
+        },
+        {
+          "letra": "B",
+          "texto": "Etanoato de isopropila; 2-etoxi-propano; Metil-etil-cetona."
+        },
+        {
+          "letra": "C",
+          "texto": "Acetato de isopropila; Éter etil-isopropílico; Metil-etil-cetona."
+        },
+        {
+          "letra": "D",
+          "texto": "Etanoato de isopropila; 1-isopropoxi-etano; 2-butanona."
+        },
+        {
+          "letra": "E",
+          "texto": "Acetato de isopropila; Éter etil-isopropílico; 2-butanona."
+        }
+      ],
+      "opcaoCorreta": "NULA",
+      "conteudo": [
+        "Química – Nomenclatura Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "A respeito da definição de ácidos e bases, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as bases de Arrhenius são substâncias que se dissociam em água e produzem íons $OH^-$, enquanto os ácidos de Arrhenius se dissociam e liberam íons $H^+$."
+        },
+        {
+          "letra": "B",
+          "texto": "as substâncias básicas são espécies químicas cujos potenciais hidrogeniônicos são medidos em uma escala que varia de 0 a 7."
+        },
+        {
+          "letra": "C",
+          "texto": "os compostos que são capazes de receber apenas dois pares de elétrons são definidos como base de Lewis."
+        },
+        {
+          "letra": "D",
+          "texto": "Lux-Flood definiram ácidos como óxidos capazes de ceder oxigênios e bases como óxidos capazes de receber oxigênio."
+        },
+        {
+          "letra": "E",
+          "texto": "segundo a Teoria de Brönsted-Lowry, ácidos são substâncias receptoras de prótons, e bases são doadoras de prótons."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Teorias Ácido-Base"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "A respeito da mecânica de Newton que maravilhou o mundo no século XVII são feitas as seguintes afirmações:\n\nI. Um objeto em movimento retilíneo que possui velocidade sempre igual a 10 m/s não pode estar acelerado.\nII. Se um corpo possui aceleração constante, a força resultante sobre ele é diferente de zero.\nIV. Uma pessoa, ao andar, empurra o chão para trás e recebe deste uma força para frente.\n\nPodemos afirmar que as afirmações corretas a respeito das leis de Newton são:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e IV"
+        },
+        {
+          "letra": "B",
+          "texto": "I, III e V"
+        },
+        {
+          "letra": "C",
+          "texto": "II, III e V"
+        },
+        {
+          "letra": "D",
+          "texto": "III, IV e V"
+        },
+        {
+          "letra": "E",
+          "texto": "Todas"
+        }
+      ],
+      "opcaoCorreta": "NULA",
+      "conteudo": [
+        "Física – Leis de Newton"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Num teste de salvamento, um helicóptero levantou verticalmente uma massa de 100 kg através de uma corda. Quando a aceleração atingiu $3,0 \\text{ m/s}^2$, a corda se rompeu. A aceleração máxima que esta corda suportará ao içar um homem de 70 kg será de aproximadamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$13 \\text{ m/s}^2$"
+        },
+        {
+          "letra": "B",
+          "texto": "$4,3 \\text{ m/s}^2$"
+        },
+        {
+          "letra": "C",
+          "texto": "$8,6 \\text{ m/s}^2$"
+        },
+        {
+          "letra": "D",
+          "texto": "$7,0 \\text{ m/s}^2$"
+        },
+        {
+          "letra": "E",
+          "texto": "$24 \\text{ m/s}^2$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Dinâmica",
+        "Física – Leis de Newton"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Um atleta consegue jogar verticalmente um corpo de 5 kg a uma altura máxima de 10 m. Se esse mesmo atleta jogasse obliquamente um corpo de 10 kg, qual seria o alcance máximo atingido pelo corpo? Adote a aceleração da gravidade como $10 \\text{ m/s}^2$ e despreze a resistência do ar.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 m"
+        },
+        {
+          "letra": "B",
+          "texto": "10 m"
+        },
+        {
+          "letra": "C",
+          "texto": "15 m"
+        },
+        {
+          "letra": "D",
+          "texto": "20 m"
+        },
+        {
+          "letra": "E",
+          "texto": "25 m"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Lançamento Oblíquo",
+        "Física – Conservação de Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Analise as afirmações a seguir e marque a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Sempre que um gás ideal sofrer uma compressão adiabática, ele necessariamente sofrerá uma queda de temperatura, isto é, estará mais frio ao final."
+        },
+        {
+          "letra": "B",
+          "texto": "Sempre que um gás ideal sofrer uma expansão adiabática, ele necessarily sofrerá uma queda de temperatura, isto é, estará mais frio ao final."
+        },
+        {
+          "letra": "C",
+          "texto": "É impossível aquecer um gás, sem fornecer calor ao mesmo."
+        },
+        {
+          "letra": "D",
+          "texto": "A variação de energia interna num ciclo de Carnot pode ser diferente de zero."
+        },
+        {
+          "letra": "E",
+          "texto": "De acordo com a segunda lei da termodinâmica, é possível transformar todo calor da fonte quente em trabalho."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Termodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "A mãe de Helena sempre recomenda que ela não esqueça sua garrafa cheia de água no congelador para que ela não estoure quando a água congelar. Esse fenômeno pode acontecer porque",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a água tem seu volume aumentado quando resfriada de $4 ^\\circ C$ a $0 ^\\circ C$."
+        },
+        {
+          "letra": "B",
+          "texto": "o volume da água diminui quando resfriada de $4 ^\\circ C$ a $0 ^\\circ C$."
+        },
+        {
+          "letra": "C",
+          "texto": "a água cede calor para o meio por irradiação."
+        },
+        {
+          "letra": "D",
+          "texto": "a densidade da água aumenta quando resfriada de $4 ^\\circ C$ a $0 ^\\circ C$."
+        },
+        {
+          "letra": "E",
+          "texto": "a água recebe calor do congelador por condução."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Dilatação Anômala da Água"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "No interior de um recipiente adiabático de capacidade térmica desprezível, colocamos 500 g de gelo (calor latente de fusão = $80 \\text{ cal/g}$) a $0 ^\\circ C$ e um corpo de ferro a $50 ^\\circ C$, como mostra a figura a seguir. Após 10 minutos, o sistema atinge o equilíbrio térmico e observa-se que 15 g de gelo foram fundidos. O fluxo de calor que passou nesse tempo pela seção S foi de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 cal/s"
+        },
+        {
+          "letra": "B",
+          "texto": "4 cal/s"
+        },
+        {
+          "letra": "C",
+          "texto": "5 cal/s"
+        },
+        {
+          "letra": "D",
+          "texto": "6 cal/s"
+        },
+        {
+          "letra": "E",
+          "texto": "7 cal/s"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Calorimetria"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Analise as seguintes afirmativas e marque a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os raios X, gama, infravermelho, ultravioleta e micro-ondas são ondas mecânicas."
+        },
+        {
+          "letra": "B",
+          "texto": "Uma onda mecânica pode se propagar no transversal."
+        },
+        {
+          "letra": "C",
+          "texto": "Quando uma onda se propaga de um lugar para outro, há transporte de energia e matéria."
+        },
+        {
+          "letra": "D",
+          "texto": "O som é uma onda mecânica."
+        },
+        {
+          "letra": "E",
+          "texto": "Tanto o som quanto a luz podem se propagar no vácuo."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Ondulatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "Um presbita, tentando ler um jornal e usando lentes de 2,0 di, só obtém nitidez com este jornal postado a 40 cm. Considerando que seja de 25 cm a distância em que isso deveria ocorrer, qual é a convergência da lente corretora de que ele necessita, em di?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "- 2,0"
+        },
+        {
+          "letra": "B",
+          "texto": "4,0"
+        },
+        {
+          "letra": "C",
+          "texto": "3,5"
+        },
+        {
+          "letra": "D",
+          "texto": "2,5"
+        },
+        {
+          "letra": "E",
+          "texto": "1,0"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Óptica da Visão"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "Considere o circuito mostrado na figura a seguir.\n\nAssinale a alternativa que contém, respectivamente, os valores da diferença de potencial entre os pontos a e b e da resistência R, sabendo que a potência dissipada no resistor de $5 \\Omega$ é igual a 45 W.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 V e 1 $\\Omega$"
+        },
+        {
+          "letra": "B",
+          "texto": "15 V e 5 $\\Omega$"
+        },
+        {
+          "letra": "C",
+          "texto": "15 V e 10 $\\Omega$"
+        },
+        {
+          "letra": "D",
+          "texto": "30 V e 10 $\\Omega$"
+        },
+        {
+          "letra": "E",
+          "texto": "45 V e 15 $\\Omega$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Circuitos Elétricos",
+        "Física – Leis de Ohm"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Uma espira quadrada de lados 0,10 m e resistência total $20 \\Omega$ está imersa em um campo magnético orientado perpendicularmente ao plano da espira, conforme figura abaixo.\nO fluxo magnético através da espira varia com o tempo de acordo com o seguinte gráfico.\nA partir dessas informações, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "se o campo magnético variar apenas com o tempo, o seu módulo no instante $t = 16 \\times 10^{-2}$ s será igual a 8 T."
+        },
+        {
+          "letra": "B",
+          "texto": "a força eletromotriz induzida entre os pontos A e B no instante $t = 0$ s é nula."
+        },
+        {
+          "letra": "C",
+          "texto": "de acordo com a Lei de Lenz, a corrente elétrica induzida na espira circulará de B para A."
+        },
+        {
+          "letra": "D",
+          "texto": "a corrente elétrica média induzida na espira entre os instantes $t = 0$ s e $t = 16 \\times 10^{-2}$ é igual a 25 mA."
+        },
+        {
+          "letra": "E",
+          "texto": "a força eletromotriz induzida é nula."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Eletromagnetismo",
+        "Física – Lei de Faraday-Lenz"
+      ]
+    },
+    {
+      "numeroEnunciado": 61,
+      "enunciado": "A figura a seguir representa um corte histológico de um tecido animal corado em hematoxilina e eosina (H.E).\n(Junqueira, L. C.; Carneiro, C. Histologia básica – texto e altas. 12. ed. Rio de Janeiro: Guanabara Koogan, 2013. (ilustração modificada)\n\nConsiderando a ilustração acima, bem como os conteúdos a que ele remete, foram feitas as seguintes afirmações:\nI - A forma das células (paralelepípedos) e de seus núcleos elípticos em (1) permite classificar esse tecido em epitélio simples prismáticos.\nII - Entre as células epiteliais (1) e o tecido conjuntivo subjacente (2) há uma delgada lâmina de moléculas chamada lâmina basal.\nIII – O (2) indica um tecido conjuntivo que está caracterizado pela riqueza de material intracelular produzido pelas suas células.\nIV - A lâmina basal é uma estrutura exclusiva das células epiteliais.\n\nEstão corretas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas I e III."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas II."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas III e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "Apenas I e IV."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Histologia Animal"
+      ]
+    },
+    {
+      "numeroEnunciado": 62,
+      "enunciado": "Marque a alternativa correta referente às infecções sexualmente transmissíveis (IST).",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A gonorreia, também conhecida por blenorragia, é causada por um protozoário e, se não tratada, pode levar a alterações no sistema nervoso, circulatório e urinário."
+        },
+        {
+          "letra": "B",
+          "texto": "A sífilis é causada por um vírus que pode ser tratado com antibióticos."
+        },
+        {
+          "letra": "C",
+          "texto": "A herpes é considerada uma infecção viral transmitida através do contato íntimo com as mucosas da boca ou da pele genital."
+        },
+        {
+          "letra": "D",
+          "texto": "O HPV é uma bactéria que infecta pele ou mucosas (oral, genital ou anal) das pessoas, provocando verrugas."
+        },
+        {
+          "letra": "E",
+          "texto": "O cancro mole, doença caracterizada por várias lesões na área genital, é causada por uma bactéria denominada Treponema pallidum."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Doenças Sexualmente Transmissíveis"
+      ]
+    },
+    {
+      "numeroEnunciado": 63,
+      "enunciado": "Dadas as seguintes afirmativas sobre a evolução das plantas terrestres:\n1- Nas briófitas, a fase gametofítica (2n) é sempre menos desenvolvida, do que a fase esporofítica (n).\n2- Nas pteridófitas, a fase esporofítica é a mais desenvolvida, além de ser independente da fase gametofítica, que é muito reduzida.\n3- O surgimento do xilema nas pteridófitas possibilitou o transporte rápido de água e sais minerais do solo até as folhas.\n4- Nas gimnospermas surgiu o aparecimento de sementes com frutos.\n\nVerifica-se que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas 1 e 2 estão corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas 2 e 3 estão corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas 2 e 4 estão corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Todas as afirmativas estão corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as afirmativas estão incorretas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Botânica",
+        "Biologia – Grupos Vegetais"
+      ]
+    },
+    {
+      "numeroEnunciado": 64,
+      "enunciado": "A digestão é um processo de transformação de moléculas de tamanho grande em unidades menores que podem ser absorvidas e utilizadas pelas células.\nMarque a alternativa INCORRETA relacionada ao processo digestivo dos animais.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os primeiros animais a apresentar cavidade digestória são os cnidários."
+        },
+        {
+          "letra": "B",
+          "texto": "Nos mamíferos ruminantes, o alimento ingerido entra primeiro no rúmen e depois no retículo onde ocorre a digestão da celulose pelas bactérias que ali vivem."
+        },
+        {
+          "letra": "C",
+          "texto": "As aves granívoras ingerem pequenas pedras que ficam acumuladas na moela e atuam como auxiliares no processo de trituração do alimento."
+        },
+        {
+          "letra": "D",
+          "texto": "Na minhoca, a faringe é ligada a feixes musculares, o que lhe dá grande capacidade de ingerir o alimento."
+        },
+        {
+          "letra": "E",
+          "texto": "Com exceção de cnidários e platelmintos, os demais invertebrados apresentam sistema digestório incompleto."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Fisiologia Animal Comparada",
+        "Biologia – Sistema Digestório"
+      ]
+    },
+    {
+      "numeroEnunciado": 65,
+      "enunciado": "A esquistossomose, popularmente conhecida como xistose, barriga d'água ou mal do caramujo, é uma doença infecciosa causada pelo parasita Schistosoma mansoni adquiridos transcutaneamente ao nadar ou entrar em contato com águas contaminadas.\n\nConsidere as alternativas a seguir relacionadas à esquistossomose:\n1. O homem é o hospedeiro definitivo e nele o parasita se reproduz de forma assexuada.\n2. O caramujo Planorbideo é o hospedeiro intermediário e nele o parasita se reproduz intensamente dando origem às cercárias.\n3. Na água o ovo dá origem à larva ciliada chamada miracídio que penetra na pele do homem.\n4. Nos vasos do mesentério humano, os parasitas adultos copulam, formando ovos, que passam para dentro do intestino.\n5. No momento da penetração, as cercárias perdem a cauda e transformam-se em esquistossômulos, que atingem a circulação sanguínea.\n\nDentre as alternativas, estão corretas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas 1, 2 e 5."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas 1, 2 e 3."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas 2, 4 e 5."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas 1, 3 e 5."
+        },
+        {
+          "letra": "E",
+          "texto": "Apenas 2, 3 e 4."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Parasitologia",
+        "Biologia – Esquistossomose"
+      ]
+    },
+    {
+      "numeroEnunciado": 66,
+      "enunciado": "Graças à vacinação, houve uma queda drástica na incidência de doenças que costumava matar milhares de pessoas todos os anos até a metade do século passado- como coqueluche, sarampo, poliomielite e rubéola.\n\nDadas as seguintes alternativas sobre as vacinas:\nI-A vacina é produzida a partir de um antígeno introduzido em um mamífero normalmente de grande porte como o cavalo. Esse antígeno reage e produz anticorpos que posteriormente serão envasados e inoculados no organismo para combater determinada doença.\nII- A vacina pode ser utilizada como antídoto quando uma pessoa é picada por uma serpente. Esse produto é formado por anticorpos e o seu principal objetivo é neutralizar o veneno.\nIII- Existem diferentes tipos de vacinas, e cada uma exige processos diferentes na elaboração. A chave para todos eles são a produção de um ou mais antígenos a partir do microrganismo que atua desencadeando uma resposta imune do hospedeiro.\nIV- A vacina é um tipo de imunidade passiva onde são introduzidos no organismo os anticorpos já prontos para o combate a um antígeno específico.\nV- Na vacina os antígenos empregados na produção correspondem a formas atenuadas de toxinas ou aos próprios microrganismos causadores das doenças, mas enfraquecidos ou mortos.\n\nVerifica-se:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente a alternativa I e III estão corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as alternativas II e IV estão corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as alternativas III e V estão corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente a alternativa I, II e V estão corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as alternativas estão corretas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Imunologia",
+        "Biologia – Vacinas e Soros"
+      ]
+    },
+    {
+      "numeroEnunciado": 67,
+      "enunciado": "Na cadeia alimentar, a pirâmide é construída levando-se em consideração a biomassa e energia acumulada por unidade de área ou volume, por unidade de tempo, em cada nível trófico.\n\nMarque a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Nos ecossistemas aquáticos, a pirâmide de biomassa pode apresentar-se invertida. Nesses casos, a biomassa dos produtores, fitoplâncton, tem produção muito mais alta do que o zooplâncton."
+        },
+        {
+          "letra": "B",
+          "texto": "A Produtividade Primária Bruta (PPB) corresponde a quantidade de energia armazenada na biomassa dos autótrofos de um ecossistema em determinado tempo."
+        },
+        {
+          "letra": "C",
+          "texto": "A quantidade de matéria orgânica armazenada pelos heterótrofos e que está disponível para o nível trófico seguinte constitui a Produtividade Primária Líquida (PPL)."
+        },
+        {
+          "letra": "D",
+          "texto": "A pirâmide de energia pode ser invertida, seguindo uma consequência natural das leis da termodinâmica, que são universais."
+        },
+        {
+          "letra": "E",
+          "texto": "A produtividade primária líquida de uma floresta é maior que nos ecossistemas marinhos porque grande parte da energia produzida na fotossíntese fica armazenada na madeira das árvores."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Ecologia",
+        "Biologia – Cadeias e Teias Alimentares"
+      ]
+    },
+    {
+      "numeroEnunciado": 68,
+      "enunciado": "O reino Animalia engloba uma grande variedade de organismos e estima-se um total de espécies oscilando entre 10 e 20 milhões. Estudos demonstram que, provavelmente, os animais derivam dos mesmos ancestrais protistas flagelados heterótrofos que deram origem aos fungos. Uma característica exclusiva e presente em todos os animais é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A formação de mórula e blástula nos estágios iniciais do desenvolvimento embrionário."
+        },
+        {
+          "letra": "B",
+          "texto": "A presença de células organizadas em tecido."
+        },
+        {
+          "letra": "C",
+          "texto": "A presença de tecidos nervosos e musculares que possibilitaram aos animais desenvolver maior diversidade de movimento."
+        },
+        {
+          "letra": "D",
+          "texto": "A presença de células eucarióticas, multicelulares e nutrição heterotrófica."
+        },
+        {
+          "letra": "E",
+          "texto": "A formação dos folhetos germinativos ou folhetos embrionários, que darão origem aos órgãos do indivíduo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Zoologia",
+        "Biologia – Embriologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 69,
+      "enunciado": "As relações ecológicas entre seres vivos de uma comunidade biológica são muito diversificadas podendo ser benéficas ou trazer malefícios a um dos envolvidos.\n\nDadas as seguintes alternativas sobre interações ecológicas:\nI- Mutualismo é o tipo de relação ecológica interespecífica em que ambas as espécies que interagem obtêm benefícios.\nII- Alguns fungos se associam a raízes de plantas, formando micorrizas. Os fungos se beneficiam da planta hospedeira, causando-lhe prejuízos por se alimentar à sua custa.\nIII-Comensalismo é o tipo de relação em que uma das espécies é beneficiada enquanto a outra causa-lhe prejuízos.\nIV-Uma pequena ave, conhecida como paliteiro, entra sem medo na boca do crocodilo, removendo sanguessugas e detritos das gengivas do réptil. A esse tipo de relação interespecífica recebe o nome de protocooperação.\nV- A interação de certas espécies de cupim e microrganismos (bactérias e protozoários) que habitam seu intestino é um exemplo de simbiose mutualística obrigatória.\n\nCom base nas afirmativas acima, verifica-se que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas as alternativas I, IV e V estão corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas as alternativas I, II, III e IV estão corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas as alternativas II, III e IV estão corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Todas as alternativas estão corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as alternativas estão incorretas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Ecologia",
+        "Biologia – Relações Ecológicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 70,
+      "enunciado": "No milho, os grãos podem ser coloridos devido ao alelo (B) e incolor devido ao alelo (b). Quanto à textura, os grãos podem ser de aspecto liso (R) e rugoso (r). Um pesquisador efetuou o cruzamento de um duplo-heterozigoto com um duplo-recessivo, obtendo as seguintes descendências:\n48,5% sementes coloridas e lisas\n48,5% sementes brancas e rugosas\n1,5% sementes coloridas e rugosas\n1,5% sementes brancas e lisas\n\nA partir desses resultados podemos concluir:\n( ) A produção de quatro fenótipos em diferentes proporções entre os descendentes desse cruzamento nos permite inferir que se trata de um caso de genes ligados em que não houve permutação entre os locos gênicos.\n( ) O arranjo dos alelos do duplo-heterozigoto está na posição Cis, assim representado BR/br.\n( ) Os gametas encontrados em menor porcentagem são os recombinantes, e os que ocorrem em maior percentagem, os parentais.\n( ) A frequência de permutação das classes recombinantes é de 3%.\n\nDe cima para baixo, a sequência correta é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V – V – F – V"
+        },
+        {
+          "letra": "B",
+          "texto": "F – V – F – V"
+        },
+        {
+          "letra": "C",
+          "texto": "V – F – V – F"
+        },
+        {
+          "letra": "D",
+          "texto": "F – V – V – V"
+        },
+        {
+          "letra": "E",
+          "texto": "V – F – F – V"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Genética",
+        "Biologia – Linkage e Permutação"
+      ]
+    },
+    {
+      "numeroEnunciado": 71,
+      "enunciado": "Uma bola de futebol é formada por 20 faces hexagonais e 12 pentagonais, todas com lados congruentes entre si. Para costurar essas faces lado a lado, formando superfície de um poliedro convexo, gastam-se 10 cm de linha em cada aresta do poliedro. Quantos metros de linha são necessários para costurar inteiramente uma bola?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9 m"
+        },
+        {
+          "letra": "B",
+          "texto": "10 m"
+        },
+        {
+          "letra": "C",
+          "texto": "11,5 m"
+        },
+        {
+          "letra": "D",
+          "texto": "12 m"
+        },
+        {
+          "letra": "E",
+          "texto": "13 m"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Espacial",
+        "Matemática – Poliedros"
+      ]
+    },
+    {
+      "numeroEnunciado": 72,
+      "enunciado": "O custo mensal do uso de um carro depende do número de quilômetros rodados. Olívia descobriu que em maio gastou R$ 380,00 para dirigir 880 km e em junho, R$ 460,00 para dirigir 1280 km. Presumindo que a relação linear proporciona um modelo adequado para o custo mensal em relação à quantidade de km rodados, o valor a ser pago por Olívia no custo do carro no mês de julho, sabendo que ela rodou 1500 km é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 490"
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 494"
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 495"
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 500"
+        },
+        {
+          "letra": "E",
+          "texto": "R$ 504"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Função do 1º Grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 73,
+      "enunciado": "Em um laboratório de matemática há n mesas triangulares com 3 cadeiras cada e m mesas hexagonais com 6 cadeiras cada. Todos os 50 alunos do primeiro período do curso de licenciatura em matemática reservaram sua vaga (cada um em uma cadeira), restando assim 10 cadeiras disponíveis. Sabendo que ao todo são 15 mesas, o número de mesas triangulares é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "8"
+        },
+        {
+          "letra": "C",
+          "texto": "10"
+        },
+        {
+          "letra": "D",
+          "texto": "12"
+        },
+        {
+          "letra": "E",
+          "texto": "15"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Sistemas de Equações Lineares"
+      ]
+    },
+    {
+      "numeroEnunciado": 74,
+      "enunciado": "Um estudante de arquitetura (localizado no ponto A) mora a alguns quarteirões da universidade (ponto B). Sabendo que o estudante só pode caminhar pelas arestas dos quadradinhos, se deslocando apenas para o norte ou leste, quantos caminhos diferentes A até B existem?\nA figura (b) ilustra uma possibilidade de caminho de A até B.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12"
+        },
+        {
+          "letra": "B",
+          "texto": "27"
+        },
+        {
+          "letra": "C",
+          "texto": "32"
+        },
+        {
+          "letra": "D",
+          "texto": "35"
+        },
+        {
+          "letra": "E",
+          "texto": "44"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 75,
+      "enunciado": "Um estudante decidiu que a remuneração a receber referente ao primeiro mês de estágio seria guardada em um cofre. No segundo mês, depositará 2/3 da remuneração recebida no mesmo cofre. No terceiro mês, apenas 4/9 da remuneração será destinada ao cofre. Já no quarto mês, somente 8/27 da remuneração será reservada ao cofre. Se o estudante recebe uma remuneração X fixa por mês e continua seguindo este processo infinitamente, o total de dinheiro guardado no cofre será de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2X"
+        },
+        {
+          "letra": "B",
+          "texto": "3X"
+        },
+        {
+          "letra": "C",
+          "texto": "2X/3"
+        },
+        {
+          "letra": "D",
+          "texto": "3X/2"
+        },
+        {
+          "letra": "E",
+          "texto": "X"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Progressão Geométrica",
+        "Matemática – Séries Convergentes"
+      ]
+    },
+    {
+      "numeroEnunciado": 76,
+      "enunciado": "O tangram é um quebra cabeça chinês composto por 7 peças (1 quadrado, 2 triângulos pequenos, 1 triângulo médio, 2 triângulos grandes e 1 paralelogramo).\n- A área de cada triângulo pequeno é equivalente à metade da área do quadrado.\n- A área do triângulo médio é igual à área do quadrado.\n- A área de cada triângulo grande vale o dobro da área do quadrado.\n- A área do paralelogramo é equivalente à área de dois triângulos pequenos.\nSupondo que área total do tangram é $32\\text{cm}^2$, determine a medida do lado do quadrado em metros.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4 m"
+        },
+        {
+          "letra": "B",
+          "texto": "0,2 m"
+        },
+        {
+          "letra": "C",
+          "texto": "0,04 m"
+        },
+        {
+          "letra": "D",
+          "texto": "0,02 m"
+        },
+        {
+          "letra": "E",
+          "texto": "2 m"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Áreas"
+      ]
+    },
+    {
+      "numeroEnunciado": 77,
+      "enunciado": "O professor de matemática da UNICAP possui um estojo com 10 pincéis para quadro branco. Sabendo que apenas 7 deles estão carregados com tinta, qual a probabilidade de retirar 2 pincéis (sem reposição) sem tinta desse estojo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1/15"
+        },
+        {
+          "letra": "B",
+          "texto": "2/15"
+        },
+        {
+          "letra": "C",
+          "texto": "1/5"
+        },
+        {
+          "letra": "D",
+          "texto": "7/10"
+        },
+        {
+          "letra": "E",
+          "texto": "3/10"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Probabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 78,
+      "enunciado": "Um copo com formato interno de um cone circular reto com 16 cm de altura e 8 cm de diâmetro da boca contém certa quantidade de água. Colocando-o sobre uma mesa de modo que o eixo do cone fique na posição vertical, constata-se que a água atinge 12 cm de altura, em relação ao vértice do cone, conforme mostra a figura. Calcule o volume de água contido no copo, em mililitro.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$16 \\pi$"
+        },
+        {
+          "letra": "B",
+          "texto": "$36 \\pi$"
+        },
+        {
+          "letra": "C",
+          "texto": "$32 \\pi$"
+        },
+        {
+          "letra": "D",
+          "texto": "$28 \\pi$"
+        },
+        {
+          "letra": "E",
+          "texto": "$20 \\pi$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Geometria Espacial",
+        "Matemática – Volume de Cone"
+      ]
+    },
+    {
+      "numeroEnunciado": 79,
+      "enunciado": "O custo de uma livraria com energia pode ser modelado pela função $f(x) = x \\cdot (3-x) + 4$, com $0 \\le x \\le 4$, em que x é o número de horas e y é o custo dado em mil reais.\n\nUm funcionário da livraria disse as seguintes proposições:\n(I) O horário de maior custo de energia é $x = 2$.\n(II) O custo máximo é de R$ 6.250,00.\n(III) O custo da energia cresce no intervalo $0 \\le x \\le 1,5$.\n\nA alternativa que contém apenas as proposições verdadeiras é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "Nenhuma."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Função Quadrática"
+      ]
+    },
+    {
+      "numeroEnunciado": 80,
+      "enunciado": "A tabela abaixo mostra as notas da disciplina de cálculo I de uma turma de engenharia.\nA moda e a mediana das notas de cálculo I desta turma, respectivamente, valem:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8 e 8"
+        },
+        {
+          "letra": "B",
+          "texto": "6 e 5"
+        },
+        {
+          "letra": "C",
+          "texto": "5 e 6"
+        },
+        {
+          "letra": "D",
+          "texto": "8 e 6"
+        },
+        {
+          "letra": "E",
+          "texto": "8 e 5"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Estatística"
+      ]
+    }
+  ]
+}

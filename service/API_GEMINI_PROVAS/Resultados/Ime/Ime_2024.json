@@ -1,0 +1,1256 @@
+{
+  "nomeUniversidade": "Instituto Militar de Engenharia",
+  "siglaUniversidade": "IME",
+  "nomeProva": "Vestibular",
+  "ano": "2023-2024",
+  "qtdeQuestoes": 40,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "A, B e C são conjuntos não vazios de inteiros positivos e $|X|$ representa a cardinalidade de um conjunto X. Sabe-se que: $\\bullet |A| = |B| = |C| \\bullet |A \\cap (B \\cup C)| = |\\overline{A} \\cap B \\cap C| \\bullet |A \\cap B| < |A \\cap C| < |B \\cap C|$ O menor valor possível para a soma dos elementos de $A \\cup B \\cup C$ é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "21"
+        },
+        {
+          "letra": "B",
+          "texto": "36"
+        },
+        {
+          "letra": "C",
+          "texto": "45"
+        },
+        {
+          "letra": "D",
+          "texto": "55"
+        },
+        {
+          "letra": "E",
+          "texto": "78"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Teoria dos Conjuntos"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "O número de soluções inteiras da inequação $$\\frac{(x+1)(x-1)(x^2-x+1)(x^2-10x+21)}{(x^6-1)(x^4+x^3+1)} < 0$$ é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "4"
+        },
+        {
+          "letra": "C",
+          "texto": "5"
+        },
+        {
+          "letra": "D",
+          "texto": "6"
+        },
+        {
+          "letra": "E",
+          "texto": "7"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Inequações Polinomiais",
+        "Matemática – Números Inteiros"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Seja $i$ tal que $i^2 = -1$. O valor do número real $\\alpha$ que satisfaz à equação $$\\operatorname{cis}(7\\pi/6) – 2\\operatorname{cis}(-7\\pi/6) = \\begin{vmatrix} -\\sqrt{3} & -i & 0 \\\\ \\sqrt{3}/2 & -\\sqrt{3} & \\alpha \\\\ i^2 & \\sqrt{3} & -i/2 \\end{vmatrix}$$ é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\sqrt{3}/2$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\sqrt{3}/4$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\sqrt{3}/8$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\sqrt{3}/16$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Números Complexos",
+        "Matemática – Determinantes"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Seja o polinômio $g(x) = x^6 + x^4 – 2x^3 + bx^2 + bx – 2b$. O valor do maior inteiro $k$ para o qual $g(x)$ é divisível por $(x + 2)^k$ para algum $b$ inteiro é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        },
+        {
+          "letra": "E",
+          "texto": "5"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Polinômios",
+        "Matemática – Divisibilidade de Polinômios"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Considere a função real $$f(x) = \\begin{cases} -2x+3, & \\text{se } x < 1 \\\\ 2, & \\text{se } x = 1 \\\\ \\frac{x^4 - x^3}{x-1}, & \\text{se } x > 1 \\end{cases}$$ O maior valor de $\\alpha$ real para o qual $0 < |x – 1| < \\alpha \\Rightarrow |f(x) – 1| < 1$ é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{\\sqrt{2}-1}{2}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{1}{2}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\sqrt{2}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$-1 + \\sqrt{2}$"
+        },
+        {
+          "letra": "E",
+          "texto": "1"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Funções",
+        "Matemática – Limites",
+        "Matemática – Continuidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Uma matriz quadrada $M$ é dita ortogonal se $M \\times M^T = I$, em que $I$ é a matriz identidade. O conjunto solução $S$ contendo os valores de $a, b$ e $c$ para que a matriz $$\\begin{pmatrix} 0 & 0 & 1 & 0 \\\\ \\frac{\\sqrt{3}}{2} & a & 0 & 0 \\\\ b & \\frac{1}{4} & 2b & 0 \\\\ \\frac{c}{2} & 0 & 0 & \\frac{\\sqrt{3}}{2} \\end{pmatrix}$$ seja ortogonal é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$S = \\{a = \\frac{1}{2}; b = -\\frac{\\sqrt{3}}{2}; c = 1\\}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$S = \\{a = \\frac{1}{2}; b = \\frac{\\sqrt{3}}{2}; c = 1\\}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$S = \\{a = \\frac{1}{2}; b = \\frac{\\sqrt{3}}{2}; c = -1\\}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$S = \\{a = -\\frac{1}{2}; b = \\frac{\\sqrt{3}}{2}; c = -1\\}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$S = \\emptyset$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Matrizes",
+        "Matemática – Matriz Ortogonal"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Seja uma matriz com 100 linhas e 100 colunas. O elemento da linha $i$ e coluna $j$ é denotado por $A_{i,j}$. Os elementos da matriz formam uma progressão aritmética (PA) de razão 5. O primeiro termo da progressão é o elemento $a_{1,1}$ e tem seu valor igual a 10. Para formar essa PA, percorrem-se os elementos de uma mesma linha e concluída uma linha, passa-se para a próxima. Se $n$ é o traço da matriz, a soma dos algarismos de $n$ é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10"
+        },
+        {
+          "letra": "B",
+          "texto": "19"
+        },
+        {
+          "letra": "C",
+          "texto": "23"
+        },
+        {
+          "letra": "D",
+          "texto": "28"
+        },
+        {
+          "letra": "E",
+          "texto": "32"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Matrizes",
+        "Matemática – Progressão Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "O intervalo que contém os valores de $x$ tais que $$0,09^{(4+x)} \\left[ \\left(\\frac{1}{\\sqrt{3}}\\right)^{x^2-2} \\right] < x^2 - (x+1)(x-1)$$ é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$(-\\infty, 4) \\cup (8,\\infty)$"
+        },
+        {
+          "letra": "B",
+          "texto": "$(-2,4)$"
+        },
+        {
+          "letra": "C",
+          "texto": "$(4,8)$"
+        },
+        {
+          "letra": "D",
+          "texto": "$(- \\infty, \\infty)$"
+        },
+        {
+          "letra": "E",
+          "texto": "$(- \\infty, -2) \\cup (4,\\infty)$"
+        }
+      ],
+      "opcaoCorreta": null,
+      "conteudo": [
+        "Matemática – Inequações Exponenciais",
+        "Matemática – Intervalos"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Seja $i$ tal que $i^2 = -1$. Seja $A$ dado pela equação: $$A = \\sum_{n=1}^{1000} (i)^{2n-2} \\ln \\left( \\frac{n+1}{n+2} \\right)^{(-1)^{n-1}}$$ O valor de $e^{-A}$ é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "250"
+        },
+        {
+          "letra": "B",
+          "texto": "500"
+        },
+        {
+          "letra": "C",
+          "texto": "501"
+        },
+        {
+          "letra": "D",
+          "texto": "1000"
+        },
+        {
+          "letra": "E",
+          "texto": "1001"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Números Complexos",
+        "Matemática – Séries",
+        "Matemática – Logaritmos"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Sejam dois dados cúbicos (com faces numeradas de 1 a 6) e um dado na forma de dodecaedro (com faces numeradas de 1 a 12). Em cada tipo de dado, todas as faces possuem mesma probabilidade de ocorrência. Com um único lançamento de cada dado, a probabilidade de se obter maior pontuação com o dodecaedro do que com os dois dados cúbicos somados é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2/3"
+        },
+        {
+          "letra": "B",
+          "texto": "1/6"
+        },
+        {
+          "letra": "C",
+          "texto": "7/36"
+        },
+        {
+          "letra": "D",
+          "texto": "5/12"
+        },
+        {
+          "letra": "E",
+          "texto": "3/16"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Probabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "O valor de $n \\in \\mathbb{N}$ tal que $$\\operatorname{arctg} \\left( \\frac{1}{3} \\right) + \\operatorname{arctg} \\left( \\frac{1}{4} \\right) + \\operatorname{arctg} \\left( \\frac{1}{5} \\right) + \\operatorname{arctg} \\left( \\frac{1}{n} \\right) = \\frac{\\pi}{4}$$ é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10"
+        },
+        {
+          "letra": "B",
+          "texto": "6"
+        },
+        {
+          "letra": "C",
+          "texto": "7"
+        },
+        {
+          "letra": "D",
+          "texto": "47"
+        },
+        {
+          "letra": "E",
+          "texto": "52"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Trigonometria",
+        "Matemática – Funções Trigonométricas Inversas"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Considere duas circunferências no plano cartesiano $Oxy$, uma de raio igual a 6 e centro no ponto $(6,6)$ e outra de centro na origem e tangente exteriormente à primeira. A equação da tangente interior comum às circunferências é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$y + 2x - 3(\\sqrt{2}-2) = 0$"
+        },
+        {
+          "letra": "B",
+          "texto": "$2y + x + 6 (\\sqrt{2}-2) = 0$"
+        },
+        {
+          "letra": "C",
+          "texto": "$y + x + 6 (\\sqrt{2}-2) = 0$"
+        },
+        {
+          "letra": "D",
+          "texto": "$y + x - 6 (\\sqrt{2}-2) = 0$"
+        },
+        {
+          "letra": "E",
+          "texto": "$2y + x - 6 (\\sqrt{2}-2) = 0$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Analítica",
+        "Matemática – Circunferências"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Considere uma barra $AB$ de comprimento $L$ fixada na posição vertical sobre um muro de altura $L/2$, que está assentado sobre um plano horizontal. Desprezando a altura do observador $O$, o ângulo máximo $AOB$ enquanto o observador $O$ caminha sobre o plano horizontal é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$30^\\circ$"
+        },
+        {
+          "letra": "B",
+          "texto": "$60^\\circ$"
+        },
+        {
+          "letra": "C",
+          "texto": "$75^\\circ$"
+        },
+        {
+          "letra": "D",
+          "texto": "$15^\\circ$"
+        },
+        {
+          "letra": "E",
+          "texto": "$45^\\circ$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Otimização"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Sejam $\\alpha$ e $\\beta$ dois planos não paralelos que se interceptam na reta $r$ e cujo ângulo diedro é $\\pi/6$ radianos. Tome pontos $A,B,C,D$ de $\\alpha$ e, por cada um destes pontos, trace retas ortogonais a $\\alpha$ que interceptam $\\beta$ nos pontos $A', B', C', D'$, respectivamente. Sabendo que o quadrilátero $ABCD$ é um trapézio cuja diagonal $AC$ é paralela a $r$, a razão entre as áreas de $ABCD$ e $A'B'C'D'$ é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "$3/2$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\sqrt{3}/2$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\sqrt{3}/3$"
+        },
+        {
+          "letra": "E",
+          "texto": "$1/3$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Espacial",
+        "Matemática – Planos",
+        "Matemática – Ângulo Diedro"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Em uma escada, uma bola lançada do $i$-ésimo degrau irá parar em qualquer degrau mais baixo com probabilidade $1/i$. Por exemplo, ao lançarmos uma bola do 3º degrau, a bola tem $1/3$ de chances de parar no 2º degrau, $1/3$ de chances de parar no 1º degrau e $1/3$ de chances de parar no degrau 0. Nessa escada lançamos uma bola preta do degrau $m, m > 0$, e uma bola branca do degrau $n, n > m$. A probabilidade de a bola branca parar em um degrau mais baixo do que a bola preta é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{m^2 - 2m + 1}{2n}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{m^2 - 1}{2n}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{m}{2n}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{m^2}{2n}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{m - 1}{2n}$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Probabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Um projétil de chumbo está a uma temperatura de $175 \\ ^\\circ C$ quando atinge uma parede e nela se aloja. Considere que 25% da energia cinética do projétil imediatamente antes da colisão permaneça nele como energia interna. Dados: $\\bullet$ calor específico do chumbo: $125 \\ J/(kg \\cdot ^\\circ C)$; $\\bullet$ temperatura de fusão do chumbo: $327 \\ ^\\circ C$; $\\bullet$ calor latente de fusão do chumbo: $26.000 \\ J/kg$. Se a energia interna que permanece após o projétil atingir a parede é justamente a mínima para que ocorra a fusão total do chumbo, a velocidade do projétil imediatamente antes da colisão, em m/s, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30"
+        },
+        {
+          "letra": "B",
+          "texto": "150"
+        },
+        {
+          "letra": "C",
+          "texto": "400"
+        },
+        {
+          "letra": "D",
+          "texto": "450"
+        },
+        {
+          "letra": "E",
+          "texto": "600"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Termodinâmica",
+        "Física – Calorimetria",
+        "Física – Conservação de Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Um recipiente vazio de formato cônico está parcialmente imerso na água e em equilíbrio, como geometria apresentada na figura. Insere-se no interior do recipiente uma partícula de massa $m = K\\rho \\pi h^3$, onde $K$ é uma constante, $\\rho$ é a massa específica da água e $h$ está indicado na figura. Após essa inserção, o recipiente sofre um pequeno deslocamento, afundando uma altura $\\Delta h$. Dado: $\\bullet$ aceleração da gravidade: $g$. Observações: $\\bullet$ a espessura do recipiente é muito pequena; $\\bullet \\Delta h \\ll h$; $\\bullet$ para $|a| \\ll 1, (1 + a)^n \\approx 1 + na$. A altura $\\Delta h$ que o recipiente irá afundar até o novo ponto de equilíbrio é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$Kh/3$"
+        },
+        {
+          "letra": "B",
+          "texto": "$Kh/6$"
+        },
+        {
+          "letra": "C",
+          "texto": "$Kh$"
+        },
+        {
+          "letra": "D",
+          "texto": "$3Kh$"
+        },
+        {
+          "letra": "E",
+          "texto": "$2Kh$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Hidrostática",
+        "Física – Empuxo",
+        "Física – Equilíbrio de Corpos Flutuantes"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "A figura mostra dois raios paralelos de luz que viajam em fase no vácuo até que um deles encontra uma película. Dados: $\\bullet$ espessura da película: $d$; $\\bullet$ índice de refração da película: $n$; $\\bullet$ frequência dos raios de luz: $f$; $\\bullet$ velocidade da luz no vácuo: $c$. Observação: $\\bullet$ a medida de diferença de fase entre os raios tem como referência um plano ortogonal a eles. A condição necessária e suficiente para que os raios continuem viajando em fase após o raio de baixo deixar a película é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{(n^2 - 1)df}{c}$ deve ser um número inteiro ímpar"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{(n^2 - 1)df}{c}$ deve ser um número inteiro par"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{(n-1)df}{c}$ deve ser um número inteiro"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{2(n - 1)df}{c}$ deve ser um número inteiro ímpar"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{2(n + 1)df}{c}$ deve ser um número inteiro par"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Óptica Ondulatória",
+        "Física – Interferência",
+        "Física – Refração da Luz"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "O sistema da figura é montado com o objetivo de determinar a resistência elétrica de uma espira condutora de área $A$. O centro dessa espira descreve uma trajetória circular de raio $R$ e período $t$, à velocidade angular constante, ao redor de um fio também condutor com uma corrente elétrica contínua $I$. A corrente elétrica na espira é medida e seu valor oscila harmonicamente entre $+i$ e $-i$. Dados: $\\bullet$ área da espira: $A = 1 \\ cm^2$; $\\bullet$ raio da trajetória do centro da espira: $R = 10 \\ cm$; $\\bullet$ período da trajetória circular do centro da espira: $t = 2 \\ s$; $\\bullet$ corrente elétrica contínua do fio condutor: $I = 50 \\ A$; $\\bullet$ amplitude da corrente elétrica induzida medida na espira: $i = 1 \\ mA$; $\\bullet$ permeabilidade magnética no vácuo: $\\mu= 4\\pi \\cdot 10^{-7} \\ T \\cdot m/A$. Observações: $\\bullet$ o sistema segue a orientação dos eixos $xyz$ desenhados na figura; $\\bullet$ o fio condutor é paralelo ao eixo $z$; $\\bullet$ o eixo da espira está sempre paralelo ao eixo $y$; $\\bullet$ o plano da espira é sempre paralelo ao plano $xz$; $\\bullet$ o plano da trajetória do centro da espira é paralelo ao plano $xy$; $\\bullet$ considere que as linhas de campo magnético que atravessam a espira estejam paralelas; $\\bullet$ para toda frequência $f'$, considere $\\frac{\\Delta \\sin(2\\pi f't)}{\\Delta t} = 2\\pi f' \\cos(2\\pi f't)$. A resistência da espira, em $\\mu\\Omega$, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$20\\pi$"
+        },
+        {
+          "letra": "B",
+          "texto": "$2,5\\pi$"
+        },
+        {
+          "letra": "C",
+          "texto": "$4\\pi$"
+        },
+        {
+          "letra": "D",
+          "texto": "$5\\pi$"
+        },
+        {
+          "letra": "E",
+          "texto": "$10\\pi$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Eletromagnetismo",
+        "Física – Indução Eletromagnética",
+        "Física – Lei de Faraday-Lenz"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Dois gases perfeitos, $G_1$ e $G_2$, estão contidos em recipientes rígidos, separados por um êmbolo que se move sem atrito por um tubo longo de área de seção transversal $S$, conforme a figura. Cada um dos gases possui volume inicial $V$, a uma temperatura de $27 \\ ^\\circ C$. Considere a seguinte transformação isobárica do conjunto: a temperatura de $G_1$ aumenta $100 \\ ^\\circ C$ e a de $G_2$ diminui $100 \\ ^\\circ C$. A expressão que representa o deslocamento $x$ do êmbolo até o novo ponto de equilíbrio é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2V/(3S)$"
+        },
+        {
+          "letra": "B",
+          "texto": "$3V/(2S)$"
+        },
+        {
+          "letra": "C",
+          "texto": "$V/(2S)$"
+        },
+        {
+          "letra": "D",
+          "texto": "$V/(3S)$"
+        },
+        {
+          "letra": "E",
+          "texto": "$V/(6S)$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Termodinâmica",
+        "Física – Gases Ideais",
+        "Física – Transformações Termodinâmicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Inicialmente, um poste, fabricado com material de coeficiente de dilatação volumétrica $\\gamma$, tem as dimensões indicadas na figura, estando o ponto $A$ fixo. Ao ser submetido a um aumento de temperatura $T$, o ponto $B$ é deslocado de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{\\sqrt{17}\\gamma TL}{4}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{5\\gamma TL}{12}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{\\sqrt{17}\\gamma TL}{21}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{\\sqrt{17}\\gamma TL}{12}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{\\gamma TL}{4}$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Termodinâmica",
+        "Física – Dilatação Térmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Um sistema de distribuição em corrente contínua contém um circuito com 2 cabos condutores rígidos idênticos ligados em paralelo, fixados por isoladores de borracha e posicionados conforme mostra a figura. Dados: $\\bullet$ distância entre os centros dos cabos: $5 \\ cm$; $\\bullet$ permeabilidade magnética do meio: $8\\pi \\cdot 10^{-7} \\ T \\cdot m/A$; $\\bullet$ força máxima admissível nos isoladores por unidade de área: $625 \\cdot 10^4 \\ N/m^2$; $\\bullet$ comprimento de cada cabo: $10 \\ m$; $\\bullet$ área da seção transversal dos isoladores: $10 \\ mm^2$. Observação: $\\bullet$ use a aproximação de fios infinitos para o cálculo dos campos magnéticos. A máxima corrente do circuito $I$, em $A$, que pode circular simultaneamente em cada um dos cabos, sem o rompimento dos isoladores, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$625/\\sqrt{2}$"
+        },
+        {
+          "letra": "B",
+          "texto": "625"
+        },
+        {
+          "letra": "C",
+          "texto": "$625\\sqrt{3}$"
+        },
+        {
+          "letra": "D",
+          "texto": "1250"
+        },
+        {
+          "letra": "E",
+          "texto": "2500"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Eletromagnetismo",
+        "Física – Força Magnética",
+        "Física – Campos Magnéticos"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "A figura apresenta uma estrutura formada pelas barras AB, BC e CA. Essa estrutura está apoiada na parede vertical nos pontos A e B. O apoio A permite reações apenas na direção do eixo x, enquanto o apoio B permite reações nas direções dos eixos x e y. Na extremidade C da estrutura está posicionada uma partícula de carga Q e massa M. A estrutura está em uma região do espaço submetida a um campo elétrico vertical de módulo E e sentido de cima para baixo. Dados: $\\bullet$ comprimento da barra BC: $4 \\ m$; $\\bullet$ comprimento da barra AB: $3 \\ m$; $\\bullet$ massa da barra BC: $2,5 \\ kg$; $\\bullet$ massa da partícula: $M = 0,3 \\ kg$; $\\bullet$ carga da partícula: $Q = -5 \\ C$; $\\bullet$ intensidade do campo elétrico: $4,6 \\ N/C$; $\\bullet$ aceleração da gravidade: $g = 10 \\ m/s^2$. Observações: $\\bullet$ os apoios não admitem torque; $\\bullet$ as massas das barras AB e AC são desprezíveis; $\\bullet$ a distribuição de massa da barra BC é uniforme. O módulo da reação no apoio A, em N, é aproximadamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10"
+        },
+        {
+          "letra": "B",
+          "texto": "17"
+        },
+        {
+          "letra": "C",
+          "texto": "19"
+        },
+        {
+          "letra": "D",
+          "texto": "21"
+        },
+        {
+          "letra": "E",
+          "texto": "23"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Estática",
+        "Física – Eletrostática",
+        "Física – Forças em Estruturas"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "No circuito da figura, os valores de resistência apresentados encontram-se em $\\Omega$. A potência, em W, fornecida pela fonte é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "18"
+        },
+        {
+          "letra": "B",
+          "texto": "36"
+        },
+        {
+          "letra": "C",
+          "texto": "54"
+        },
+        {
+          "letra": "D",
+          "texto": "72"
+        },
+        {
+          "letra": "E",
+          "texto": "96"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Eletrodinâmica",
+        "Física – Circuitos Elétricos",
+        "Física – Potência Elétrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Um satélite artificial move-se por uma órbita aproximadamente circular estável em torno de um planeta. Posteriormente, o satélite acelera até a velocidade de escape do campo gravitacional em que se encontra devido ao impulso recebido pela ejeção de gases. Dados: $\\bullet$ constante universal da gravitação: $G$; $\\bullet$ raio da órbita circular estável original do satélite: $r$; $\\bullet$ massa do planeta: $M$; $\\bullet \\sqrt{2} \\approx 1,41$. A diferença entre o módulo da velocidade de escape do satélite e o módulo da sua velocidade na órbita estável original é de aproximadamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$0,59\\sqrt{GM/r}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$1,41\\sqrt{GM/r}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$0,41\\sqrt{GM/r}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$2,41\\sqrt{GM/r}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$2,82\\sqrt{GM/r}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Gravitação",
+        "Física – Velocidade Orbital",
+        "Física – Velocidade de Escape"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Um objeto encontra-se sobre o eixo central de uma lente convergente delgada, em algum ponto à esquerda da lente. A imagem desse objeto produzida pela lente está indicada na figura como imagem “a”. Um espelho plano reflete a imagem ”a”, produzindo uma imagem “b”. Por sua vez, a imagem \"b\", ao passar de volta pela lente, produz a imagem “c”. Dado: $\\bullet$ distância focal da lente (em ambos os lados da lente): $4 \\ m$. A distância $d$, indicada na figura, entre o objeto e a imagem “c” final, em centímetros, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "80"
+        },
+        {
+          "letra": "B",
+          "texto": "120"
+        },
+        {
+          "letra": "C",
+          "texto": "180"
+        },
+        {
+          "letra": "D",
+          "texto": "480"
+        },
+        {
+          "letra": "E",
+          "texto": "600"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Óptica Geométrica",
+        "Física – Lentes Esféricas",
+        "Física – Espelhos Planos"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Um navio de guerra encontra-se parado com um marinheiro de vigia em um posto de observação $9 \\ m$ acima do nível do mar. Em um determinado instante, esse marinheiro avista um submarino aproximando-se na direção do eixo $x$, à velocidade constante e a $4 \\ m$ de profundidade, conforme ilustra a figura. No instante em que o submarino é avistado, uma carga de profundidade é liberada do navio e, depois de um certo tempo, o submarino é destruído ao ser atingido pela carga de profundidade. Dados: $\\bullet$ velocidade inicial da carga de profundidade: $0 \\ m/s$; $\\bullet$ aceleração da gravidade: $10 \\ m/s^2$; $\\bullet$ volume da carga de profundidade: $0,001 \\ m^3$; $\\bullet$ massa específica da água: $1000 \\ kg/m^3$; $\\bullet$ massa da carga de profundidade: $1,8 \\ kg$; $\\bullet$ índice de refração do ar: $1$; $\\bullet$ índice de refração da água: $4/3$. Observação: $\\bullet$ considere constante o empuxo sobre a carga de profundidade. Diante do exposto, a velocidade do submarino, em m/s, era de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$5\\sqrt{5}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$5\\sqrt{3}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$6\\sqrt{5}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$6\\sqrt{3}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$4\\sqrt{3}$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Cinemática",
+        "Física – Dinâmica",
+        "Física – Hidrostática",
+        "Física – Óptica Geométrica",
+        "Física – Leis de Snell-Descartes"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Na figura, uma partícula $S$ e os pontos extremos $A$ e $B$ de um espelho plano movem-se no plano $xy$ de acordo com as seguintes equações paramétricas para as coordenadas (em metros) em função do instante $t > 0$ (em segundos): $$\\begin{cases} x_A(t) = 5+t \\\\ y_A(t) = -5 - 2t \\end{cases} \\begin{cases} x_B(t) = 10 + t \\\\ y_B(t) = -5 - 2t \\end{cases} \\begin{cases} x_S(t) = \\sin(t) \\\\ y_S(t) = \\cos(t) \\end{cases}$$ Observação: $\\bullet$ o plano do espelho é ortogonal ao plano $xy$. A maior velocidade escalar atingida pela imagem da partícula no espelho, em m/s, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\sqrt{17}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$2(1 + \\sqrt{5})$"
+        },
+        {
+          "letra": "D",
+          "texto": "5"
+        },
+        {
+          "letra": "E",
+          "texto": "$2\\sqrt{5}$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Cinemática",
+        "Física – Óptica Geométrica",
+        "Física – Espelhos Planos",
+        "Matemática – Funções Paramétricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "O arranjo da figura é composto por uma casca esférica condutora oca de espessura $a$ com uma partícula de carga negativa fixada em seu centro. A casca possui um túnel muito estreito em torno do eixo $x$, por onde uma partícula de carga positiva, inicialmente em repouso, pode atravessá-la. Dados: $\\bullet$ massa da partícula de carga positiva: $m$; $\\bullet$ carga da partícula positiva: $+q$; $\\bullet$ carga da partícula negativa: $-Q$; $\\bullet$ constante eletrostática do meio não condutor (vácuo): $k$; $\\bullet$ raio interno da casca condutora: $a$; $\\bullet$ raio externo da casca condutora: $2a$; $\\bullet$ posição inicial da partícula positiva: $x = -3a$; $\\bullet$ posição da partícula negativa: fixa em $x = 0$. Observações: $\\bullet |q| \\ll |Q|$; $\\bullet$ a carga da partícula positiva é pequena o suficiente para não afetar o equilíbrio eletrostático na casca esférica condutora; $\\bullet$ despreze qualquer concentração de cargas nas paredes do túnel; $\\bullet$ o eixo $x$ passa pelo centro da casca; $\\bullet$ a casca condutora está fixa e com carga total nula. Ao ser liberada do repouso, a partícula positiva atinge a velocidade $v$ em $x = -a$. Pode-se afirmar que $v^2$ é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{kqQ}{2am}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{kqQ}{3am}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{4kqQ}{3am}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{3kqQ}{2am}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{kqQ}{am}$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Eletrostática",
+        "Física – Potencial Elétrico",
+        "Física – Energia Elétrica",
+        "Física – Condutores Esféricos"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "A espaçonave CEOS passa pelo corpo celeste Al-Quds com velocidade relativa de $0,6 \\ c$, onde $c$ é a velocidade da luz no vácuo. No instante em que CEOS e Al-Quds estão alinhados, os relógios do comandante da espaçonave (tCEOS) e de um observador situado em Al-Quds (tQUDS) são sincronizados e zerados. A espaçonave emite uma luz muito intensa no instante em que o comandante da espaçonave marca $\\text{tCEOS} = 4 \\ s$ após sua passagem por Al-Quds. Dado: $\\bullet c = 3 \\times 10^8 \\ m/s$. Observação: $\\bullet$ admita o corpo celeste Al-Quds como sendo um referencial inercial e que a espaçonave se movimente sempre em linha reta. Tomando como referencial o observador em Al-Quds, o instante $\\text{tQUDS}$ do início da emissão da luz pela CEOS e a distância percorrida pela CEOS desde a passagem por Al-Quds até esse instante são, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$3,2 \\ s \\ e \\ 7,2 \\times 10^8 \\ m$"
+        },
+        {
+          "letra": "B",
+          "texto": "$3,2 \\ s \\ e \\ 12,0 \\times 10^8 \\ m$"
+        },
+        {
+          "letra": "C",
+          "texto": "$5,0 \\ s \\ e \\ 11,25 \\times 10^8 \\ m$"
+        },
+        {
+          "letra": "D",
+          "texto": "$5,0 \\ s \\ e \\ 7,2 \\times 10^8 \\ m$"
+        },
+        {
+          "letra": "E",
+          "texto": "$5,0 \\ s \\ e \\ 9,0 \\times 10^8 \\ m$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Relatividade Restrita",
+        "Física – Dilatação do Tempo",
+        "Física – Contração do Comprimento"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Considere as reações na sequência abaixo: 1) Benzeno reage com cloreto de propanoíla ($CH_3CH_2COCl$) na presença de $AlCl_3$ para formar A. 2) A reage com $Cl_2$ para formar B. 3) 1-Butanol ($CH_3CH_2CH_2CH_2OH$) reage com $H_2SO_4$ para formar C. 4) C reage com $HBr$ na presença de $H_2O_2$ para formar D. Sabendo que A, B, C e D representam os compostos orgânicos formados majoritariamente em cada uma das reações, a alternativa que contém as nomenclaturas viáveis para cada um desses compostos, respectivamente, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1-fenilpropan-1-ona; 1-(3-clorofenil)propan-1-ona; but-1-eno; 1-bromo-butano"
+        },
+        {
+          "letra": "B",
+          "texto": "1-fenilpropan-2-ona; 1-(4-clorofenil)propan-2-ona; but-2-eno; 1-bromo-butano"
+        },
+        {
+          "letra": "C",
+          "texto": "1-fenilpropan-1-ona; 1-(3-clorofenil)propan-1-ona; but-1-eno; 2-bromo-butano"
+        },
+        {
+          "letra": "D",
+          "texto": "1-fenilpropan-2-ona; 1-(4-clorofenil)propan-2-ona; but-1-eno; 2-bromo-butano"
+        },
+        {
+          "letra": "E",
+          "texto": "1-fenilpropan-1-ona; 3-(3-clorofenil)propan-2-ona; but-2-eno; 2-bromo-butano"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Química Orgânica",
+        "Química – Reações Orgânicas",
+        "Química – Nomenclatura Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Considere o esboço parcial da Tabela Periódica representado abaixo. Sabe-se que um cátion trivalente apresenta o seguinte diagrama de preenchimento orbital: $[Ar] \\begin{matrix} \\uparrow\\downarrow & & \\\\ 4s & & \\end{matrix} \\begin{matrix} \\uparrow\\downarrow & \\uparrow\\downarrow & \\uparrow\\downarrow & \\uparrow & \\uparrow \\\\ 3d & & & & \\end{matrix} \\begin{matrix} & & & \\\\ 4p & & & \\end{matrix}$ O elemento químico correspondente a esse cátion é o:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Al"
+        },
+        {
+          "letra": "B",
+          "texto": "Cu"
+        },
+        {
+          "letra": "C",
+          "texto": "Ni"
+        },
+        {
+          "letra": "D",
+          "texto": "Ge"
+        },
+        {
+          "letra": "E",
+          "texto": "Se"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Tabela Periódica",
+        "Química – Configuração Eletrônica"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "“Amianto” é o nome genérico de muitos minerais fibrosos de silicatos. O amianto mais importante, o crisótilo, é um silicato de magnésio hidratado. O íon silicato do crisótilo é estruturado como linha dupla de tetraedros formados por átomos de Silício (círculos pretos) e de Oxigênio (círculos brancos) como representado na figura abaixo. Diante do exposto, a composição geral do íon silicato do crisótilo é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$(SiO_4)^{4-}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$(Si_2O_5)^{2n-}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$(Si_2O_6)^{n-}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$(Si_4O_{11})^{6-}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$(Si_4O_{13})^{10-}$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Química Inorgânica",
+        "Química – Estrutura de Compostos Iônicos"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Um drone submarino estava navegando a $90 \\ m$ de profundidade e a uma pressão de $10 \\ atm$, quando o casco sofreu uma avaria. Para trazê-lo à superfície, foi acionado um dispositivo de emergência, que produz hidrogênio por uma célula eletroquímica contendo $2 \\ L$ de solução aquosa de $H_2SO_4$ com concentração $2 \\ mol/L$. A eletrólise foi encerrada quando o drone atingiu a superfície. Nesse momento, o restante da solução aquosa de $H_2SO_4$ foi analisado nas CNTP, tendo sido verificado que sua concentração era de $8 \\ mol/L$. A única alternativa correta é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A uma pressão de $10 \\ atm$, o catodo passou a agir como anodo e o anodo como catodo."
+        },
+        {
+          "letra": "B",
+          "texto": "A estrutura interna do drone sofreu avarias, porque o $H_2SO_4$ decomposto no anodo gerou vapores corrosivos."
+        },
+        {
+          "letra": "C",
+          "texto": "O volume de $H_2O$ consumido foi de $1,5 \\ L$."
+        },
+        {
+          "letra": "D",
+          "texto": "A massa de $H_2SO_4$ restante foi de $49 \\ g$."
+        },
+        {
+          "letra": "E",
+          "texto": "O volume da solução aquosa de $H_2SO_4$ reduziu para 75% do seu valor inicial."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Eletroquímica",
+        "Química – Eletrólise",
+        "Química – Estequiometria",
+        "Química – Soluções"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Com relação aos compostos de interesse bioquímico abaixo, a alternativa INCORRETA é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Dentre os compostos timina, prolina, ácido aspártico e lisina, a timina é o único composto que não forma ligação peptídica."
+        },
+        {
+          "letra": "B",
+          "texto": "Os aminoácidos são anfóteros, podendo doar ou receber prótons ($H^+$) de acordo com o conceito ácido base de Brönsted-Lowry."
+        },
+        {
+          "letra": "C",
+          "texto": "O RNA tem em sua estrutura diferentes combinações dos nucleotídeos formados pelas bases nitrogenadas purínicas adenina e guanina e pelas bases nitrogenadas pirimidínicas uracila e citosina."
+        },
+        {
+          "letra": "D",
+          "texto": "Os aminoácidos sintetizados em quantidade suficiente pelo sistema metabólico de certos organismos vivos são denominados não essenciais."
+        },
+        {
+          "letra": "E",
+          "texto": "Os aminoácidos valina e glicina são constituintes das proteínas, opticamente ativos e formam ligações peptídicas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Bioquímica",
+        "Química – Aminoácidos",
+        "Química – Ácidos Nucleicos"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Considere cinco recipientes rígidos com o mesmo volume interno, nos quais são admitidas amostras de gases que são mantidas nas condições especificadas em cada opção abaixo. Levando em conta o comportamento de gases ideais, a alternativa que corresponde à maior pressão é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$16 \\ g$ de metano nas CNTP."
+        },
+        {
+          "letra": "B",
+          "texto": "$8 \\ g$ de oxigênio e $14,48 \\ g$ de ar atmosférico a $0 \\ ^\\circ C$."
+        },
+        {
+          "letra": "C",
+          "texto": "$7 \\ g$ de dióxido de carbono e $7 \\ g$ de nitrogênio a $20 \\ ^\\circ C$."
+        },
+        {
+          "letra": "D",
+          "texto": "$8 \\ g$ de oxigênio e $14 \\ g$ de nitrogênio a $20 \\ ^\\circ C$."
+        },
+        {
+          "letra": "E",
+          "texto": "$13,6 \\ g$ de amônia a $72 \\ ^\\circ C$."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Físico-Química",
+        "Química – Gases Ideais",
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Uma alíquota de $100 \\ mL$ de uma solução que contém íons de $Cr^{2+}$ e $Cr^{3+}$ foi titulada com $200 \\ mL$ de $KMnO_4$ com concentração $0,01 \\ mol/L$ (em ácido sulfúrico diluído), tendo sido todos os íons de $Cr^{2+}$ oxidados a íons $Cr^{3+}$. Em seguida, uma outra alíquota de $100 \\ mL$ da solução original foi tratada com $Fe$ metálico para converter todos os íons de $Cr^{3+}$ em íons de $Cr^{2+}$. A solução obtida consumiu $300 \\ mL$ da mesma solução de $KMnO_4$ para a oxidação de todos os íons a $Cr^{3+}$. A equação iônica simplificada é: $KMnO_4 + 5Cr^{2+} \\rightarrow Mn^{2+} + 5Cr^{3+} + 4H_2O + K^+$. As concentrações molares de $Cr^{2+}$ e de $Cr^{3+}$ na solução original são:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$[Cr^{2+}] = 0,05 \\ mol/L$ e $[Cr^{3+}] = 0,1 \\ mol/L$."
+        },
+        {
+          "letra": "B",
+          "texto": "$[Cr^{2+}] = 0,1 \\ mol/L$ e $[Cr^{3+}] = 0,05 \\ mol/L$."
+        },
+        {
+          "letra": "C",
+          "texto": "$[Cr^{2+}] = 0,004 \\ mol/L$ e $[Cr^{3+}] = 0,002 \\ mol/L$."
+        },
+        {
+          "letra": "D",
+          "texto": "$[Cr^{2+}] = 0,1 \\ mol/L$ e $[Cr^{3+}] = 0,15 \\ mol/L$."
+        },
+        {
+          "letra": "E",
+          "texto": "Não é possível calcular as concentrações sem conhecer a razão entre elas na solução original."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Físico-Química",
+        "Química – Eletroquímica",
+        "Química – Titulação Redox",
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "O cálcio metálico reage com hidrogênio gasoso para produzir hidreto metálico. A pressão de equilíbrio do hidrogênio gasoso em função do inverso da temperatura absoluta dessa reação segue o gráfico a seguir. (Gráfico mostrando $p \\ H_2 (atm)$ vs $1/T (K^{-1})$). Dados: $\\bullet R = 8,0 \\ J/(mol \\cdot K)$; $\\bullet \\ln(10) = 2,3$. O calor, em kJ, envolvido na produção de 1 mol desse hidreto, a pressão constante de 1 atm, considerando comportamento de gás ideal, é aproximadamente igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-37"
+        },
+        {
+          "letra": "B",
+          "texto": "-25"
+        },
+        {
+          "letra": "C",
+          "texto": "0"
+        },
+        {
+          "letra": "D",
+          "texto": "+25"
+        },
+        {
+          "letra": "E",
+          "texto": "+37"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Termoquímica",
+        "Química – Equilíbrio Químico",
+        "Química – Gases Ideais"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "O gás hélio, raro na Terra, origina-se notadamente do decaimento radioativo dos tipos $\\alpha$ e $\\beta$ dos elementos Urânio-238 e Tório-234, sendo encontrado em depósitos de gás natural. Sabe-se que o esquema de decaimentos até a ocorrência do isótopo Tório-230 é: $$^{238}U \\longrightarrow ^{234}Th \\longrightarrow ^{234}Pa \\longrightarrow ^{234}U \\longrightarrow ^{230}Th$$ Portanto, a partir de 1 mol de Urânio-238 e de 1 mol de Tório-234, até a ocorrência de Tório-230, obtém-se, no máximo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 mol de He."
+        },
+        {
+          "letra": "B",
+          "texto": "2 mols de He."
+        },
+        {
+          "letra": "C",
+          "texto": "3 mols de He."
+        },
+        {
+          "letra": "D",
+          "texto": "4 mols de He."
+        },
+        {
+          "letra": "E",
+          "texto": "nenhum mol de He."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Radioatividade",
+        "Química – Decaimento Nuclear",
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Na figura abaixo encontra-se ilustrada uma mistura em equilíbrio composta por $BaCO_3(s)$, $BaO(s)$ e $CO_2(g)$, em sistema fechado, resultante da decomposição endotérmica do carbonato de bário. (Imagem mostrando um sistema com $BaO$, $BaCO_3$ sólidos e $CO_2$ gás). Considere as seguintes situações, tendo por base as moléculas de $CO_2(g)$: i) o equilíbrio após uma adição de moléculas de $CO_2(g)$, de forma a triplicar a quantidade desse gás; e ii) a mistura em equilíbrio a uma temperatura mais elevada. A alternativa que melhor ilustra as situações i e ii, respectivamente, é:",
+      "alternativas": null,
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Físico-Química",
+        "Química – Equilíbrio Químico",
+        "Química – Princípio de Le Chatelier"
+      ]
+    }
+  ]
+}

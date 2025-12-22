@@ -1,0 +1,520 @@
+{
+  "nomeUniversidade": "Universidade Estadual de Campinas",
+  "siglaUniversidade": "UNICAMP",
+  "nomeProva": "Conhecimentos Gerais - 1ª Fase",
+  "ano": 2024,
+  "qtdeQuestoes": 72,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "O texto a seguir será usado para responder às questões 1 e 2.\n\n'Nevou' no Rio\n\nEm pleno verão, o fenômeno que vem chamando atenção nas ruas do Rio é conhecido como \"nevada carioca\", ou apenas \"nevou\". Trata-se da mania de descolorir, platinando os cabelos até os fios ficarem completamente brancos, que tomou conta das cabeças dos jovens de Norte a Sul e virou a febre do momento. A onda começou às vésperas do Natal, ganhou força no réveillon e entrou em janeiro lotando os salões. Nascida nas comunidades e nos subúrbios, a tendência ultrapassou fronteiras geográficas e sociais da cidade, principalmente depois de ganhar as redes e de ter conquistado artistas e atletas. Cabeleireiros e donos de salão apostam que o modismo resiste com força até os dias de folia.\n(Adaptado de: https://oglobo.globo.com/rio/noticia/2023/01/nevou-no-rio-mania-de--descolorir-o-cabelo-ate-ficar-quase-branco-vira-moda-entre-os-cariocas.ghtml. Acesso em 22/06/2023.)\n\nNo texto, o verbo nevar apresenta sentido",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "literal e é sinônimo de descolorir."
+        },
+        {
+          "letra": "B",
+          "texto": "figurado e quer dizer embranquecer."
+        },
+        {
+          "letra": "C",
+          "texto": "metafórico e é antônimo de escurecer."
+        },
+        {
+          "letra": "D",
+          "texto": "metonímico e significa cabelos brancos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "O texto a seguir será usado para responder às questões 1 e 2.\n\n'Nevou' no Rio\n\nEm pleno verão, o fenômeno que vem chamando atenção nas ruas do Rio é conhecido como \"nevada carioca\", ou apenas \"nevou\". Trata-se da mania de descolorir, platinando os cabelos até os fios ficarem completamente brancos, que tomou conta das cabeças dos jovens de Norte a Sul e virou a febre do momento. A onda começou às vésperas do Natal, ganhou força no réveillon e entrou em janeiro lotando os salões. Nascida nas comunidades e nos subúrbios, a tendência ultrapassou fronteiras geográficas e sociais da cidade, principalmente depois de ganhar as redes e de ter conquistado artistas e atletas. Cabeleireiros e donos de salão apostam que o modismo resiste com força até os dias de folia.\n(Adaptado de: https://oglobo.globo.com/rio/noticia/2023/01/nevou-no-rio-mania-de--descolorir-o-cabelo-ate-ficar-quase-branco-vira-moda-entre-os-cariocas.ghtml. Acesso em 22/06/2023.)\n\nAssinale a alternativa em que todas as palavras listadas têm um mesmo referente dentro do texto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fenômeno – onda – tendência – modismo"
+        },
+        {
+          "letra": "B",
+          "texto": "mania – onda – febre – força"
+        },
+        {
+          "letra": "C",
+          "texto": "fenômeno – momento – mania – febre"
+        },
+        {
+          "letra": "D",
+          "texto": "modismo – tendência – força – momento"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Coesão e Coerência",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Texto 1\n\nVivemos no limiar de uma transição, em que a automação ocupará cada vez mais espaços na sociedade. Neste novo cenário, há um componente atuando com desenvoltura entre nós. Suas ações e decisões, invisíveis e muitas vezes autônomas, estão cada vez mais presentes no dia a dia da vida contemporânea. Seu comportamento, no entanto, é opaco e pouco compreendido. Trata-se dos algoritmos. São eles que, muitas vezes, decidem se você é contratado ou demitido, se você vai ter acesso a um benefício social, se seu visto de imigração vai ser concedido ou negado, quais notícias você vai ver nas redes sociais, qual o melhor trajeto do trabalho para casa ou qual o parceiro mais apropriado para um relacionamento.\n(Adaptado de: MENDONÇA, R.F.; FIGUEIRAS, F.; ALMEIDA, V. Algoritmos controlam sociedade e tomam decisões de vida ou morte. Folha de S. Paulo, 7 abr. 2021.)\n\nTexto 2\n\n(Quadrinhos com o personagem laranja e amarelo, que representa um algoritmo, da série criada por André Dahmer. Disponível em: https://diplomatique.org.br/novas-tirinhas-de-andre-dahmer-transformam-algoritmo-em-personagem-intrometido/. Acesso em 28/07/2023.)\n\nA partir do texto 1, é possível afirmar que o texto 2 explora o fato de que os algoritmos",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "definem o que é melhor ou mais apropriado para cada pessoa."
+        },
+        {
+          "letra": "B",
+          "texto": "são opacos porque aleatoriamente expõem às pessoas produtos para compra."
+        },
+        {
+          "letra": "C",
+          "texto": "se servem dos nossos dados para nos oferecer continuamente produtos a serem consumidos."
+        },
+        {
+          "letra": "D",
+          "texto": "controlam a vida humana para aperfeiçoar as nossas tomadas de decisão."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Sociologia – Tecnologia e Sociedade"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "O anúncio (Texto 1) reproduzido a seguir foi postado nas redes sociais da Portela, escola de samba carioca, para divulgar uma festa literária. A escola, que traz a águia como símbolo em todos os seus desfiles (Texto 2), completou 100 anos em 2023.\n\nConsiderando a imagem no texto 2, podemos afirmar que o texto 1 promove uma",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fusão entre o símbolo da escola e o produto da expressão literária, que aparece materializado no desenho das asas da águia."
+        },
+        {
+          "letra": "B",
+          "texto": "relação entre a festa literária, mencionada em segundo plano, e o desenho do símbolo da escola, que passa a personificar a literatura."
+        },
+        {
+          "letra": "C",
+          "texto": "associação das asas da águia com o título atribuído à festa literária, que mostra o nome da escola antecedido pelo prefixo fli."
+        },
+        {
+          "letra": "D",
+          "texto": "ressignificação do símbolo da Portela, cujo desenho faz referência direta à arte literária, para destacar o centenário da escola como tema da festa."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Linguagem Verbal e Não Verbal",
+        "Arte – Semiótica"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "O texto a seguir é um trecho da canção Pantanal, que foi tema de abertura da novela com o mesmo nome, exibida originalmente pela TV Manchete em 1990 e regravada pela TV Globo em 2022.\n\nLendas de raças, cidades perdidas nas selvas do coração do Brasil.\nContam os índios de deuses que descem do espaço no coração do Brasil.\nRedescobrindo as Américas quinhentos anos depois,\nLutar com unhas e dentes pra termos direito a um depois.\nFim do milênio, resgate da vida, do sonho, do bem.\nA terra é tão verde e azul.\nOs filhos dos filhos dos filhos dos nossos filhos verão.\n(Pantanal, letra de Marcus Viana, gravada pelo grupo Sagrado Coração da Terra na coletânea em LP Sagrado - Farol da Liberdade, lançada em 1991 pelo selo Sonhos & Sons.)\n\nNesse trecho da canção, podemos identificar",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "repetição de advérbios que indicam as mesmas circunstâncias de tempo e de lugar, para produzir um efeito de redundância a respeito da luta pela terra."
+        },
+        {
+          "letra": "B",
+          "texto": "indeterminação de sujeito com verbo na terceira pessoa do plural, para produzir um efeito de incerteza quanto ao papel das futuras gerações."
+        },
+        {
+          "letra": "C",
+          "texto": "atribuição de características positivas por meio de substantivos que indicam cores, para produzir um efeito de otimismo na preservação da natureza."
+        },
+        {
+          "letra": "D",
+          "texto": "encadeamento sucessivo de termos ligados por preposição, para produzir um efeito de continuidade temporal quanto à condição do planeta."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Morfossintaxe",
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "je ne parle pas bien*\nje ne parle pas bien\nje ne parle pas bien\nje ne parle pas bien\n\neu tenho uma língua solta\nque não me deixa esquecer\nque cada palavra minha\né resquício da colonização\ncada verbo que aprendi conjugar\nfoi ensinado com a missão\nde me afastar de quem veio antes\nnossas escolas não nos ensinam\na dar voos\n[...]\nreinvenção\nnossa revolução surge e urge\ndas nossas bocas\ndas falas aprendidas\nque são ensinadas\ne muitas não compreendidas\nsalve, a cada gíria\nje ne parle pas bien\n[...]\no que era pra ser arma de colonizador\nestá virando revide de ex colonizado\nestamos aprendendo as suas línguas\ne descolonizando os pensamento\n\n* Je ne parle pas bien, do francês, significa “Eu não falo direito”.\n(Fragmentos do poema Je ne parle pas bien, de Luz Ribeiro, publicado na Revista Opiniães: Revista dos alunos de Literatura Brasileira, n. 10, 2017.)\n\nPodemos afirmar que o uso repetido do verso Je ne parle pas bien no poema slam de Luz Ribeiro",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "expressa a necessidade de repetir muitas vezes uma mesma sentença como forma de resistir ao esquecimento de uma língua."
+        },
+        {
+          "letra": "B",
+          "texto": "enfatiza a ideia de que a língua francesa do colonizador ainda não foi aprendida e precisa ser repetida várias vezes."
+        },
+        {
+          "letra": "C",
+          "texto": "é uma constatação de que, na posição de ex-colônia, não conseguimos aprender línguas estrangeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "indica um posicionamento de resistência por meio de uma crítica à aprendizagem forçada da língua do colonizador."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Contemporânea",
+        "História – Pós-colonialismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Texto 1\n\n“Que século, meus Deus! – exclamaram os ratos\nE começaram a roer o edifício”.\n(“Edifício Esplendor” (1955), de Carlos Drummond de Andrade, epígrafe do conto “Seminário dos Ratos”, de Lygia Fagundes Telles.)\n\nTexto 2\n\nEpígrafe é um paratexto (um texto que acompanha o texto principal), que pode justificar ou comentar um título ou texto; referenciar a relação entre o autor do texto e o da epígrafe; criar um efeito por meio do qual a presença da epígrafe já evoca a identificação do autor do texto com uma época ou movimento.\n(Adaptado de: GENETTE, G. Paratextos Editoriais. Tradução de Álvaro Faleiros. Cotia: Ateliê Editorial, 2009.)\n\nConsiderando os textos 1 e 2, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A epígrafe associa o conto de Lygia ao “sentimento do mundo” drummondiano."
+        },
+        {
+          "letra": "B",
+          "texto": "A epígrafe mostra que os versos de Drummond são imprescindíveis à escrita do conto."
+        },
+        {
+          "letra": "C",
+          "texto": "A epígrafe justifica o título do conto e comenta os possíveis sentidos críticos dele."
+        },
+        {
+          "letra": "D",
+          "texto": "A epígrafe identifica Lygia à geração de 30 do Modernismo, ao lado de Drummond."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Gêneros Textuais",
+        "Língua Portuguesa – Literatura Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Leia o trecho da reportagem:\n\n“Mulher espancada após boatos em rede social morre no Guarujá, SP\n(...)\nA dona de casa Fabiane Maria de Jesus, de 33 anos, morreu na manhã desta segunda-feira (5), dois dias após ter sido espancada por dezenas de moradores do Guarujá, no litoral de São Paulo. Segundo a família, ela foi agredida a partir de um boato gerado por uma página em uma rede social (...)”\n(G1, Santos, 05/05/2014. Disponível em: https://g1.globo.com/sp/santos-regiao/noticia/2014/05/mulher-espancada-apos-boatos-em-rede-social-morre-em-guaruja-sp.html. Acessado em 04/07/2023.)\n\nAssinale o trecho de um dos contos a seguir – extraídos de EVARISTO, Conceição. Olhos d'Água. Rio de Janeiro: Pallas; Fundação Biblioteca Nacional, 2016 –, trecho este que relaciona o acontecimento da reportagem ao texto de ficção:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“Os mais velhos, acumulados de tanto sofrimento, olhavam para trás e do passado nada reconheciam no presente. Suas lutas, seu fazer e saber, tudo parecia ter se perdido no tempo (...) Deram de clamar pela morte. E a todo instante eles partiam” (p. 112)."
+        },
+        {
+          "letra": "B",
+          "texto": "“Vi só lágrimas e lágrimas. Entretanto, ela sorria feliz. Mas eram tantas lágrimas, que eu me perguntei se minha mãe tinha olhos ou rios caudalosos sobre a face. E só então compreendi. Minha mãe trazia, serenamente em si, águas correntezas (...). Águas de Mamãe Oxum!” (p. 18-19)."
+        },
+        {
+          "letra": "C",
+          "texto": "“Os assaltantes desceram rápido. Maria olhou saudosa e desesperada para o primeiro. (...) Alguém gritou que aquela puta safada lá da frente conhecia os assaltantes (...). A primeira voz, a que acordou a coragem de todos, (...) levantou e se encaminhou em direção à Maria (...)” (p. 41-42)."
+        },
+        {
+          "letra": "D",
+          "texto": "“Nos últimos tempos na favela, os tiroteios aconteciam com frequência e a qualquer hora. Os componentes dos grupos rivais brigavam para garantir seus espaços e freguesias. Havia ainda o confronto constante com os policiais que invadiam a área” (p. 76)."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Contemporânea",
+        "Língua Portuguesa – Intertextualidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "No início da novela Casa Velha, de Machado de Assis, o cônego da Capela Imperial, um personagem da história, assumindo a voz narrativa dela, conta a seus interlocutores:\n\n“- Não desejo ao meu maior inimigo o que me aconteceu no mês de abril de 1839.”\n(MACHADO DE ASSIS. Casa Velha. Rio de Janeiro: Paz e Terra, 1986, p. 11.)\n\nDe acordo com o texto, o acontecimento desagradável que vitimou o religioso faz com que ele possa ser considerado, ao final da narrativa, como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "um boêmio que se sente entediado na presença dos convivas da Casa Velha: “Disseram-me que era amiga da família, e se chamava Mafalda. (...) Creio que disseram ainda outras coisas; mas não me interessando nada, nem a conversação, nem a hóspeda, (...) deixei-me estar comigo” (p. 29-30)."
+        },
+        {
+          "letra": "B",
+          "texto": "um antiescravista, obrigado a conviver, na mesma casa grande, com senhores, agregados e escravos: “Lalau (...) com as mãos no ombro do moleque, ora fitava os olhos na carapinha deste, ouvindo somente as palavras de Félix; ora erguia-os para o moço (...)” (p. 67)."
+        },
+        {
+          "letra": "C",
+          "texto": "um republicano que suporta um velho Coronel de posições conservadoras: “Reverendíssimo, (...) os farrapos invadiram Santa Catarina, entraram na Laguna, e os legais fugiram. Eu, se fosse o governo, mandava fuzilar a todos estes para escarmento...\" (p. 89)."
+        },
+        {
+          "letra": "D",
+          "texto": "um ingênuo que se deixa iludir em suas relações pessoais: “nem por sombras me acudiu que a revelação de Dona Antônia podia não ser verdadeira (...) Não adverti sequer na minha cumplicidade. Em verdade, eu é que proferira as palavras que ela trazia na mente (...)” (p. 89)."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Realismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "“Um deles viu umas contas brancas de rosário, acenou que lhas dessem e divertiu-se muito com elas. Enrolou-as ao pescoço, depois tirou-as e embrulhou-as no braço, e acenava para a terra e depois para as contas, e em seguida para o colar do capitão, dando a entender que eles dariam ouro por aquilo. Isto nós entendíamos assim porque queríamos. Mas se ele queria dizer que levaria as contas e mais o colar, isto nós não queríamos entender, porque não lho daríamos.”\n(CAMINHA, Pero Vaz de. Carta de Achamento do Brasil. Campinas: Editora da UNICAMP, p. 108, 2001.)\n\nEm seu relato de viagem, Pero Vaz de Caminha",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "descreve a natureza e as pessoas que os portugueses encontraram no Novo Mundo, inventariando os detalhes da viagem, com vistas à preservação da História Colonial."
+        },
+        {
+          "letra": "B",
+          "texto": "descreve e interpreta os fatos, mostrando que a compreensão dos portugueses sobre os povos originários era mediada pelos interesses do colonizador."
+        },
+        {
+          "letra": "C",
+          "texto": "descreve como os povos originários do Novo Mundo auxiliaram os colonizadores na prospecção por riquezas, antevendo a realização do projeto colonizador."
+        },
+        {
+          "letra": "D",
+          "texto": "descreve e interpreta os fatos, sugerindo que, na visão dos povos originários, era possível a convivência pacífica com o colonizador, já que compartilhavam os mesmos interesses."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "História – Brasil Colônia"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Em 1921, Mário de Andrade, escrevendo a série de artigos “Mestres do passado”, publicados no Jornal do Comércio (edição de São Paulo), observou:\n\n“Tarde [de Olavo Bilac] foi uma promessa de anos seguidos. Tais são, tão salientes os artifícios e tão repetidos que muito bem provam o esforço do poeta decaído da poesia e a sua parca inspiração (...).”\n(ANDRADE, M. Mestres do passado - Olavo Bilac. In: BRITO, M.S. História do modernismo brasileiro. Antecedentes da Semana de Arte Moderna. 5.ed. Rio de Janeiro: Civilização Brasileira, p. 288-289, 1978.)\n\nRelacione, ao poema a seguir, o trecho da crítica anterior, assinalando a alternativa que coincide com a ideia geral de Mário sobre a obra de Bilac.\n\nAs estrelas\nOlavo Bilac\n\nDesenrola-se a sombra no regaço\nDa morna tarde, no esmaiado anil;\nDorme, no ofego do calor febril,\nA natureza, mole de cansaço.\n\nVagarosas estrelas! passo a passo,\nO aprisco desertando, às mil e às mil,\nVindes do ignoto seio do redil\nNum compacto rebanho, e encheis o espaço...\n\nE, enquanto, lentas, sobre a paz terrena,\nVos tresmalhais tremulamente a flux,\n– Uma divina música serena\n\nDesce rolando pela vossa luz:\nCuida-se ouvir, ovelhas de ouro: a avena\nDo invisível pastor que vos conduz...\n(BILAC, Olavo. Tarde. Rio de Janeiro: Livraria Francisco Alves, p. 42-43, 1919.)\n\nEsmaiado: esmaecido, pálido\nAprisco: curral\nRedil: curral para o gado ovino ou caprino; rebanho de ovelhas\nTresmalhar: Afastar-se, perder-se do rebanho\nFlux: fluxo\nAvena: flauta pastoril",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O crítico lamenta o espaçamento da criação poética de Bilac, o que se expressa no poema pela imagem das estrelas que se afastam umas das outras."
+        },
+        {
+          "letra": "B",
+          "texto": "O crítico elogia os salientes artifícios da linguagem poética de Tarde, o que se pode perceber, por exemplo, pela variedade de sinônimos para a palavra “curral”."
+        },
+        {
+          "letra": "C",
+          "texto": "O crítico evoca, como resultado da pouca inspiração artística do poeta, a sobrecarga de investimento formal (os hipérbatos ou inversões, por exemplo)."
+        },
+        {
+          "letra": "D",
+          "texto": "O crítico associa a poesia de Bilac ao estilo decadentista, o que é reforçado pelas imagens de esgotamento, como se vê nas palavras “morna”, “esmaiado”, “ofego”, “mole”, “lentas”."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Parnasianismo",
+        "Língua Portuguesa – Crítica Literária"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Leia as duas citações a seguir, extraídas do início e do final de O Ateneu:\n\n“Lembramo-nos, entretanto, com saudade hipócrita, dos felizes tempos; como se a mesma incerteza de hoje, sob outro aspecto, não nos houvesse perseguido outrora e não viesse de longe a enfiada das decepções que nos ultrajam. Eufemismo, os felizes tempos, eufemismo apenas, igual aos outros que nos alimentam, a saudade dos dias que correram como melhores. Bem considerando, a atualidade é a mesma em todas as datas. Feita a compensação dos desejos que variam, das aspirações que se transformam, alentadas perpetuamente do mesmo ardor, sobre a mesma base fantástica de esperanças, a atualidade é uma (...)”.\n\n“Aqui suspendo a crônica das saudades. Saudades verdadeiramente? Puras recordações, saudades talvez, se ponderarmos que o tempo é a ocasião passageira dos fatos, mas sobretudo – o funeral para sempre das horas.”\n(POMPEIA, Raul. O Atheneu (Chronica de saudades). Rio de Janeiro: Tipografia de Gazeta de Notícias, p 3-4 e 368, 1888.)\n\nCom base nessas duas citações, é possível afirmar que, ao fim da narrativa de Sérgio sobre sua vida no colégio, o narrador",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "idealiza a felicidade experimentada na infância, suas aspirações, seu ardor e suas esperanças."
+        },
+        {
+          "letra": "B",
+          "texto": "considera que a felicidade passada não era maior que a do presente, pois os tempos são iguais."
+        },
+        {
+          "letra": "C",
+          "texto": "duvida da própria saudade, separando as lembranças relativas ao passado daquele sentimento associado a elas."
+        },
+        {
+          "letra": "D",
+          "texto": "denuncia a hipocrisia da saudade que sente, por saber que a passagem do tempo é incerta."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Realismo",
+        "Língua Portuguesa – Literatura Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Estudos, publicados na Nature Geoscience e na revista Science, apontam para a queda acentuada das temperaturas na Europa e na Ásia a partir do ano de 536, gerando a chamada “Pequena Idade do Gelo da Antiguidade Tardia”. As mudanças nas temperaturas podem ter sido causadas por erupções vulcânicas, cujos efeitos foram reforçados pelas correntes oceânicas, pela expansão do gelo e pela coincidência de um mínimo solar (século VI). A conjugação desses fatores teria gerado mudanças efetivas na história, já que a agricultura e a pastagem teriam sido diretamente atingidas. Exemplos dessas relações entre o clima e a história humana podem ser encontrados na Antiguidade, como a invasão da Europa por vários povos das estepes, a queda do segundo império persa, a entrada dos turcos na Anatólia, o início da expansão árabe, entre outros.\n(Adaptado de: CRIADO, M.I Á. “Uma pequena 'idade do gelo' pode ter mudado a história da Antiguidade (...)”. El País, fev, 2016.)\n\nCom base em seus conhecimentos sobre a Antiguidade e tendo em vista o excerto anterior, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a história do planeta Terra e a história humana são indissociáveis; eventos do século VI são bons exemplos disso: mudanças nos ecossistemas teriam gerado peste, fome e escassez, levando aos deslocamentos de povos."
+        },
+        {
+          "letra": "B",
+          "texto": "a “Pequena Idade do Gelo da Antiguidade Tardia”, assim como as mudanças climáticas dos séculos XX e XXI, foram provocadas, em especial, pela ação humana e também pelas mudanças nas paisagens dos campos."
+        },
+        {
+          "letra": "C",
+          "texto": "os efeitos das mudanças climáticas no passado eram locais; os eventos históricos citados se desconectavam das mudanças nos ecossistemas encontrados na Europa e na Ásia."
+        },
+        {
+          "letra": "D",
+          "texto": "os estudos sobre as mudanças nas temperaturas no século VI apresentam uma visão sobre o passado, destacando como grupamentos humanos controlavam as mudanças na natureza."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História Antiga",
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "“Dos pretos é tão própria e natural a união que a todos os que têm a mesma cor, chamam parentes; a todos os que servem na mesma casa, chamam parceiros; e a todos os que se embarcam no mesmo navio, chamam malungos.”\n(VIEIRA, Padre Antônio. Sermão XX. Parte II. Lisboa: Impressão Craesbeeckiana, p. 165, 1688.)\n\nSobre as comunidades de malungos no período da escravidão, é correto afirmar, de acordo com o texto, que são formadas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "nos laços entre africanos de múltiplas etnias, os quais haviam atravessado juntos o Atlântico."
+        },
+        {
+          "letra": "B",
+          "texto": "no encontro dos africanos nas senzalas, no exercício de ofícios e no trabalho da lavoura."
+        },
+        {
+          "letra": "C",
+          "texto": "no Novo Mundo por pessoas de uma mesma etnia que se reconheciam como iguais."
+        },
+        {
+          "letra": "D",
+          "texto": "nos quilombos rurais e urbanos, formados por escravizados fugidos de muitas etnias."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Brasil Colônia",
+        "História – Escravidão"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "No processo de Independência, várias tropas indígenas foram recrutadas para proteger o território contra uma possível invasão portuguesa no litoral cearense entre setembro e novembro de 1822. Já os índios da vila de Cimbres, em Pernambuco, se posicionaram em 1824 a favor de Dom João VI, opondo-se à Independência e à Constituição. No entanto, o que parecia ser mais comum era o engajamento dos índios no projeto de Brasil independente, identificando-se como “brasileiros”. Nas revoltas, buscavam muito menos se contrapor aos europeus e, assim, lutar por uma nova posição social que não mais os obrigasse ao trabalho forçado.\n(Adaptado de: COSTA, J. P. P. “Povos indígenas e a Independência”. Disponível em: https://bicentenario2022.com.br/textos/. Acesso em 21/05/2023.)\n\nTendo em vista seus conhecimentos sobre a participação dos povos indígenas no processo de Independência, e considerando o texto do blog citado, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As disputas dos ameríndios em torno do “ser brasileiro” visavam à manutenção da ordem social vigente."
+        },
+        {
+          "letra": "B",
+          "texto": "As populações indígenas participaram, com projetos políticos específicos, dos processos da Independência."
+        },
+        {
+          "letra": "C",
+          "texto": "A independência era entendida pelos indígenas como uma ameaça a Dom João VI, símbolo da nação brasileira."
+        },
+        {
+          "letra": "D",
+          "texto": "A diversidade da ação indígena se relacionava à distribuição de terras e títulos estabelecidos pela Corte portuguesa."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Independência do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Muitos fotógrafos no século XIX registraram obras de engenharia. O francês Édouard Baldus (1813–1889) atuou, primeiro como pintor e depois como fotógrafo, no inventário de monumentos arquitetônicos da Comissão dos Monumentos Históricos (1851) na França. Suas fotografias sobre esses monumentos renderam-lhe fama de fotógrafo de arquitetura. Sob encomenda, Baldus editou um álbum para a Companhia dos Caminhos Férreos do Norte (1855) e registrou estações, instalações ferroviárias, portos e cidades, ao longo desta via entre Paris e a cidade de Boulogne-sur-Mer. A rainha Vitória ganhou um exemplar dessa publicação.\n(Adaptado de: OLIVEIRA, E. R. Vistas fotográficas das ferrovias: a produção de registros de obra pública no Brasil do século XIX. Hist cienc saude-Manguinhos [Internet], 25(3), p. 695-723, 2018.)\n\nTendo em vista seus conhecimentos sobre mundo contemporâneo e considerando o texto, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Na Europa do século XIX, a difusão social das fotografias das obras públicas se dava por meio de jornais impressos com baixa circulação social e restrita aos estudiosos."
+        },
+        {
+          "letra": "B",
+          "texto": "No século XIX, a dissociação entre as fotografias de obras públicas e a vida política europeia expressa a desvalorização da técnica e do conhecimento científico positivista."
+        },
+        {
+          "letra": "C",
+          "texto": "A fotografia teve vários usos e funções no século XIX, entre eles, o de compor inventários arquitetônicos e retratar obras de engenharia."
+        },
+        {
+          "letra": "D",
+          "texto": "O álbum fotográfico dado à rainha Vitória era um gesto diplomático que mostrava o descontentamento francês com a política inglesa."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Século XIX",
+        "Arte – História da Fotografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Legenda: Imagens de “mulheres de conforto”**, em 1944, na Coreia do Sul.\n** Termo usado para designar coreanas, filipinas e chinesas, obrigadas a se prostituírem em bordéis usados por militares japoneses.\n(Foto, legenda e definição do termo disponíveis em: https://forbes.com.br/colunas/2017/07/imagens-raras-mostram-mulheres-de--conforto-da-2a-guerra-mundial/ Acesso em 25 de maio de 2023.)\n\nÉ correto afirmar que a fotografia anterior",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "foi produzida durante a Guerra Fria e documenta o sequestro, no sudeste asiático, da parte dos soldados norte-americanos, de mulheres. O estupro e a prostituição forçada são aceitos pelas cortes internacionais como estratégia de guerra, já que os crimes de guerra referem-se apenas às armas usadas nos campos."
+        },
+        {
+          "letra": "B",
+          "texto": "comprova a ação dos soldados norte-americanos, durante a Guerra do Vietnã, em relação às mulheres e às crianças fotografadas. A prostituição consensual era usada como estratégia de criação de novos laços sociais e o povoamento dos territórios conquistados."
+        },
+        {
+          "letra": "C",
+          "texto": "traz a imagem de mulheres enfileiradas, capturadas e obrigadas a se prostituírem durante a II Guerra Mundial. A violação sexual tem sido usada historicamente como arma para fragilizar os supostos inimigos, já que as vítimas da violência sexual trazem marcas da humilhação e da limpeza étnica e tem os laços sociais destruídos."
+        },
+        {
+          "letra": "D",
+          "texto": "registra mulheres que, durante a Guerra das Coreias, escolheram se casar e migrar com os soldados japoneses. A violação sexual é uma das marcas dos conflitos entre nações, atingindo em especial mulheres e crianças que, entendidas como vulneráveis, se tornam vítimas do domínio masculino."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Segunda Guerra Mundial"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Prisões e torturas igualmente triplicaram, principalmente as de jornalistas. Dentre elas, a mais emblemática foi a de Vladimir Herzog, diretor da TV Cultura, que, embora fosse militante do PCB, não desenvolvia atividade clandestina nem pertencia aos quadros do partido. Herzog foi assassinado dentro do DOI-CODI, sendo a versão oficial de sua morte falsamente atribuída a um enforcamento. Em sua Autobiografia, Rita Lee publicou o bilhete de Elis Regina que fazia menção a uma música feita para “Vlado” e que, obviamente, fora censurada.\n(Adaptado de: LIMA, N. Ditadura no Brasil e Censura nas Canções de Rita Lee. Curitiba: Appris, 2019, p. 17.)\n\nA partir da leitura do texto e de seus conhecimentos a respeito desse período da História do Brasil, é correto afirmar, sobre os eventos narrados, que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Rita Lee, Elis Regina, Caetano Veloso, Chico Buarque, entre outros artistas nacionais, tiveram suas músicas censuradas pela Ditadura Militar, apesar da manutenção da garantia constitucional da liberdade de expressão."
+        },
+        {
+          "letra": "B",
+          "texto": "A Ditadura Militar permitiu a continuidade do Partido Comunista Brasileiro e perseguia sua atuação revolucionária vinculada a Stalin e à União Soviética; por conta disso, prendia e torturava seus filiados."
+        },
+        {
+          "letra": "C",
+          "texto": "Centros de detenção da Ditadura Militar, como o DOI-CODI, operaram dentro da legalidade constitucional, sendo que os presos, políticos ou não, eram fichados e tinham direito à defesa garantido por lei."
+        },
+        {
+          "letra": "D",
+          "texto": "Vladimir Herzog e outros jornalistas foram vítimas de perseguição política, prisões, torturas e execuções realizadas por militares, com apoio de parte da sociedade civil, em nome da ideologia da segurança nacional."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Ditadura Militar no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "(Disponível em: https://www.uol.com.br/tilt/noticias/redacao/2023/03/26/foto-do-papa-usando-casaco-estiloso-foi-criada-por-inteligencia-artificial.htm?cmpid=copiaecola. Acesso em 04/05/2023.)\nImagem postada em março de 2023 no Reddit, uma comunidade de fóruns, na página específica do Midjourney. Essa página reúne criações feitas na ferramenta de Inteligência Artificial, ferramenta que permite criar imagens hiper-realistas a partir de uma descrição em texto. A imagem viralizou a partir do Twitter. O Papa nunca usou aquele casaco branco.\n\n(Biblioteca Nacional da França, sem data, RES 8-LB39-12153. Disponível em: https://gallica.bnf.fr/ark:/12148/btv1b6942376r.item. Acesso em 04/05/2023.)\nTradução da legenda: Eu apenas respiro por você. Um beijo, meu belo anjo!\nPanfleto anônimo produzido na França pré-revolucionária do final do século XVIII retratando a rainha Maria Antonieta em um romance com a sua amiga, a duquesa Yolande de Polignac.\n\nCom propósitos diferentes, ambas as imagens promovem a desinformação. Comparando historicamente os dois exemplos de desinformação, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as campanhas de desinformação podem ser encontradas em diferentes contextos, como visto no uso do panfleto da rainha pela coroa francesa – com o objetivo de defender a monarquia – e na imagem do Papa – que explora a contradição entre a riqueza do Vaticano e os excluídos defendidos por ele."
+        },
+        {
+          "letra": "B",
+          "texto": "no século XVIII e no século XXI, a produção e a circulação de fake news e desinformação são controladas pelos aparelhos de censura que revisam conteúdos orais e impressos, ainda que estruturados a partir de tecnologias diferenciadas."
+        },
+        {
+          "letra": "C",
+          "texto": "na era digital, a ruptura causada pelo uso de Inteligência Artificial e seu potencial na produção de desinformação está ao alcance do público, na instantaneidade e no realismo da imagem. No início da contemporaneidade, as manipulações em imagens e em notícias eram acessadas pelo público através de jornais e panfletos."
+        },
+        {
+          "letra": "D",
+          "texto": "os dispositivos de Inteligência Artificial representam uma ruptura no combate à desinformação ao possibilitar o rastreio e a eliminação instantânea de fake news. No século XVIII, o público era refém de notícias falsas pela ausência desta tecnologia."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Revolução Francesa",
+        "História – História Contemporânea",
+        "Sociologia – Mídia e Sociedade"
+      ]
+    }
+  ]
+}

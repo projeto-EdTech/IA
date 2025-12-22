@@ -1,0 +1,1530 @@
+{
+  "nomeUniversidade": "Faculdade Israelita de Ciências da Saúde Albert Einstein",
+  "siglaUniversidade": "Einstein",
+  "nomeProva": "Prova I",
+  "ano": 2025,
+  "qtdeQuestoes": 50,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Examine a tirinha, publicada pelo perfil \"The Jenkins\" no Instagram em 01.06.2023.\n\nPara obter seu efeito de humor, a tirinha explora o seguinte recurso expressivo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "hipérbole."
+        },
+        {
+          "letra": "B",
+          "texto": "pleonasmo."
+        },
+        {
+          "letra": "C",
+          "texto": "ambiguidade."
+        },
+        {
+          "letra": "D",
+          "texto": "paradoxo."
+        },
+        {
+          "letra": "E",
+          "texto": "eufemismo."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Para responder às questões de 02 a 05, leia a crônica \"Dever de casa\", de Otto Lara Resende, publicada originalmente em 13.09.1992.\n\nUm fiapo de gente e um feixe de problemas. Agora é uma perguntação que não tem mais fim. Papai, o plural de segunda-feira? Tira os óculos, para de ler a revista. Daqui a pouco é hora do telejornal. Dia cansativo, mas pai é pai. Segunda-feira, segunda-feira. Murmurinha, como se procurasse na memória algo que não sabe o que é. Segunda-feira, pai. Ah, sim. O plural dos nomes compostos. Ao menos isso não terá mudado.\nMudam tudo neste país. Depois querem ter jurisprudência. Ainda hoje andou lendo um acórdão. Ementa malfeita. Segunda-feira no plural. Não tem mais o que inventar. Segundas-feiras. Variam os dois elementos. Fácil, óbvio. Entendeu?\nNem tinha retomado a leitura e lá vem outra perguntinha. Quarta-feira é abstrato ou concreto? Essa, agora. Primeiro vamos saber se é mesmo substantivo. Nenhuma dúvida. É substantivo. Abstrato?\nConcreto. A professora disse que é concreto. Pai é pai. Põe tudo de lado e sai sem bater a porta. Concreto, está lá no Celso Cunha, é o substantivo que designa um ser propriamente dito. Nomes de pessoas, de lugares, de instituições. Etc. Quarta-feira. Vamos raciocinar. Nome de um dia. Abstrato designa noção, ação, estado e qualidade. Desde que considerados como seres. Quarta-feira é um ser? Se é um dia, é um ser. Mas concreto? Abstrato. Deve ser abstrato.\nUm dia de matar, o trânsito engarrafado. A dorzinha de cabeça já se instalou. Quarta-feira, papai. Afinal? Outro dia era o aliás. Até que teve sua graça. Que é aliás? Bom, como categoria gramatical, me parece que. Pausa. Mudaram a nomenclatura gramatical toda. [...] Aliás, advérbio não é. Ou melhor, é controvertido. Vem do latim. Quer dizer quer dizer, como disse o outro. Será advérbio?\nEsses meninos de hoje, francamente. Gramática ninguém estuda mais. A língua andrajosa, um monte de solecismos. Mas quarta-feira é substantivo abstrato? Concreto, disse a professora. Ora, pinoia. Está começando o telejornal. Mais um fantasma. Mandado de segurança. Mandado e não mandato. Preste atenção, meu filho. Aliás, só faltava essa. [...] Fantasma é concreto? Eta Brasil complicado! Aliás, hoje é quarta-feira. Abstrata? Uma vergonha!\n(Otto Lara Resende. Bom dia para nascer, 2011.)\n\nVerificam-se nos trechos \"Murmurinha, como se procurasse na memória algo que não sabe o que é.\" (1º parágrafo), “Não tem mais o que inventar.\" (2º parágrafo) e \"Essa, agora.\" (3º parágrafo) as vozes, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "do pai, do pai e do filho."
+        },
+        {
+          "letra": "B",
+          "texto": "do narrador, do pai e do pai."
+        },
+        {
+          "letra": "C",
+          "texto": "do narrador, do narrador e do filho."
+        },
+        {
+          "letra": "D",
+          "texto": "do pai, do narrador e do pai."
+        },
+        {
+          "letra": "E",
+          "texto": "do narrador, do pai e do filho."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Tipos de Discurso"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "No contexto em que se insere, a expressão \"feixe de problemas\" (1º parágrafo) faz referência",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aos inúmeros questionamentos trazidos pelo filho e que interrompem o que o pai está fazendo."
+        },
+        {
+          "letra": "B",
+          "texto": "às questões pessoais com as quais o pai precisa lidar enquanto também tem que cuidar do filho."
+        },
+        {
+          "letra": "C",
+          "texto": "aos fatos negativos a que o pai tem acesso pelos meios de comunicação enquanto está cuidando do filho."
+        },
+        {
+          "letra": "D",
+          "texto": "à dificuldade de conciliar a vida do trabalho com os cuidados que uma criança demanda."
+        },
+        {
+          "letra": "E",
+          "texto": "às frequentes mudanças nas regras gramaticais, que dificultam o ensino e o aprendizado do idioma."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "No contexto em que se insere, o trecho \"Desde que considerados como seres.\" (4º parágrafo) expressa ideia de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "comparação."
+        },
+        {
+          "letra": "B",
+          "texto": "consequência."
+        },
+        {
+          "letra": "C",
+          "texto": "concessão."
+        },
+        {
+          "letra": "D",
+          "texto": "causa."
+        },
+        {
+          "letra": "E",
+          "texto": "condição."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Morfossintaxe",
+        "Língua Portuguesa – Conjunções"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "O verbo em negrito deve sua flexão ao termo sublinhado no seguinte trecho:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Mudam tudo neste país.\" (2º parágrafo)"
+        },
+        {
+          "letra": "B",
+          "texto": "\"Até que teve sua graça.” (5º parágrafo)"
+        },
+        {
+          "letra": "C",
+          "texto": "\"Gramática ninguém estuda mais.\" (6º parágrafo)"
+        },
+        {
+          "letra": "D",
+          "texto": "\"Variam os dois elementos.\" (2º parágrafo)"
+        },
+        {
+          "letra": "E",
+          "texto": "\"Abstrato designa noção, ação, estado e qualidade.\" (4º parágrafo)"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Concordância Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Para responder às questões de 06 a 09, leia o poema \"Aproximação do terror\", de Murilo Mendes, escrito entre 1943 e 1945, mas publicado originalmente em 1947 no livro Poesia Liberdade.\n\n1\nDos braços do poeta\nPende a ópera do mundo\n(Tempo, cirurgião do mundo): —\n\nO abismo bate palmas,\nA noite aponta o revólver.\nOuço a multidão, o coro do universo,\nO trote das estrelas\nJá nos subúrbios da caneta:\nAs rosas perderam a fala.\nEntrega-se a morte a domicílio.\n\nDos braços...\nPende a ópera do mundo.\n\n2\nTenho que dar de comer ao poema.\nNovas perturbações me alimentam:\nNem tudo o que penso agora\nPosso dizer por papel e tinta.\nO poeta já nasce conscrito,\nAtento às fascinantes inclinações do erro,\nJá nasce com as cicatrizes da liberdade.\n\nO ouvido soprando sua trompa\nPercebe a galope\nA marcha do número 666.\n\nPalpo¹ a Quimera².\nO tremor\nE os jasmins da palavra \"jamais\".\n\n3\nDos telhados abstratos\nVejo os limites da pele,\nAssisto crescerem os cabelos dos minutos\nNo instante da eternidade.\nVejo ouvindo, ouço vendo.\n\nConsidero as tatuagens dos peixes,\nO astro monossecular.\nOs rochedos colocam-se máscaras contra\n[pássaros asfixiantes.\nA grande Babilônia ergue o corpo de dólares.\nRuído surdo, o tempo oco a tombar...\nA espiral das gerações cresce.\n(Murilo Mendes. Antologia poética, 2014.)\n\n¹ palpar: apalpar.\n² Quimera: monstro mitológico com cabeça de leão, corpo de cabra e cauda de serpente.\n\nAo explorar reiteradamente imagens insólitas e oníricas, o poema revela uma influência marcante da vanguarda",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cubista."
+        },
+        {
+          "letra": "B",
+          "texto": "futurista."
+        },
+        {
+          "letra": "C",
+          "texto": "surrealista."
+        },
+        {
+          "letra": "D",
+          "texto": "impressionista."
+        },
+        {
+          "letra": "E",
+          "texto": "expressionista."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura",
+        "Língua Portuguesa – Vanguardas Europeias"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Considerando a época de produção do poema (Estado Novo), remeteria de modo mais explícito ao contexto de censura o seguinte trecho:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Tenho que dar de comer ao poema.\" (4ª estrofe)"
+        },
+        {
+          "letra": "B",
+          "texto": "\"Assisto crescerem os cabelos dos minutos / No instante da eternidade.\" (7ª estrofe)"
+        },
+        {
+          "letra": "C",
+          "texto": "\"Os rochedos colocam-se máscaras contra pássaros asfixiantes.\" (8ª estrofe)"
+        },
+        {
+          "letra": "D",
+          "texto": "\"O abismo bate palmas, / A noite aponta o revólver.” (2ª estrofe)"
+        },
+        {
+          "letra": "E",
+          "texto": "\"Nem tudo o que penso agora / Posso dizer por papel e tinta.\" (4ª estrofe)"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Literatura",
+        "Língua Portuguesa – Interpretação de Texto",
+        "História – Era Vargas"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Em um ensaio sobre o poema de Murilo Mendes, o crítico Murilo Marcondes de Moura assinalou que, \"à sua maneira, 'Aproximação do terror' também é um poema em que se discutem o lugar do poeta e a função da poesia\" (In: Alfredo Bosi (org.). Leitura de poesia, 2007.).\n\nA se considerar esse ponto de vista do crítico, o poema assume também uma dimensão",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "metalinguística."
+        },
+        {
+          "letra": "B",
+          "texto": "contraditória."
+        },
+        {
+          "letra": "C",
+          "texto": "hermética."
+        },
+        {
+          "letra": "D",
+          "texto": "satírica."
+        },
+        {
+          "letra": "E",
+          "texto": "confessional."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura",
+        "Língua Portuguesa – Funções da Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Pode ser reescrito na voz passiva o seguinte trecho do poema:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"O poeta já nasce conscrito,\" (4ª estrofe)"
+        },
+        {
+          "letra": "B",
+          "texto": "\"A noite aponta o revólver.\" (2ª estrofe)"
+        },
+        {
+          "letra": "C",
+          "texto": "\"Pende a ópera do mundo\" (1ª estrofe)"
+        },
+        {
+          "letra": "D",
+          "texto": "\"Já nasce com as cicatrizes da liberdade.\" (4ª estrofe)"
+        },
+        {
+          "letra": "E",
+          "texto": "\"A espiral das gerações cresce.\" (8ª estrofe)"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Vozes Verbais"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Tais escritores pregavam e procuraram realizar a filosofia da objetividade: o que interessa é o objeto, o não eu. Para realizar seu objetivo, abandonaram as preocupações teológicas e metafísicas por considerá-las subjetivas, egocêntricas e aderiram à ciência. O dado positivo substitui o idealismo: só interessa o que pode ser observado, documentado, analisado, experimentado, inclusive a vida psíquica, porque sujeita às mesmas leis da vida fisiológica.\n(Massaud Moisés. Literatura portuguesa, 1992. Adaptado.)\n\nO texto refere-se aos escritores",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "românticos."
+        },
+        {
+          "letra": "B",
+          "texto": "modernistas."
+        },
+        {
+          "letra": "C",
+          "texto": "simbolistas."
+        },
+        {
+          "letra": "D",
+          "texto": "barrocos."
+        },
+        {
+          "letra": "E",
+          "texto": "realistas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Literatura",
+        "Língua Portuguesa – Escolas Literárias"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Read the text to answer questions from 11 to 14.\n\nWhen United States (US) Surgeon General Dr. Vivek Murthy pushed for a tobacco-style warning on social media, he called the mental health crisis in young people an emergency that demanded action without waiting for \"perfect information.\"\nEven among experts, questions remain about the exact role that social media plays in the mental health of children and teens. Authors of a comprehensive new review of research on the topic say there's still key information missing to know whether prevention programs and interventions will work.\nIn the study, published recently in the medical journal JAMA Pediatrics, researchers found an overall link between anxiety and depression in adolescents and the time spent on social media platforms, as well as a link between the types of activities and content they were interacting with. However, the level of impact varied enough to suggest that the findings shouldn't be generalized to the population as a whole. \"In a world increasingly saturated by digital technology, we cannot afford to design prevention programs, interventions, and regulations without knowing that they work for everyone, especially those who are most vulnerable,\" wrote the study authors.\nThe National Academies committee specifically recommend against a social media ban. Despite potential harms — such as unhealthy social comparisons and distracting from other important healthy behaviors such as sleep, exercise and studying — social media can also benefit young people by helping to foster connection with friends and family, and with online support communities.\n(Deidre McPhillips. https://edition.cnn.com, 24.06.2024. Adapted.)\n\nThe text mainly discusses the",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "contents of Dr. Vivek Murthy's warnings on social media use by younger generations."
+        },
+        {
+          "letra": "B",
+          "texto": "recent confirmation of the vulnerability of juveniles addicted to social media platforms."
+        },
+        {
+          "letra": "C",
+          "texto": "long-established connection between frequent digital technology use and increased mental problems."
+        },
+        {
+          "letra": "D",
+          "texto": "appropriacy of prevention and intervention programs directed to young social media users."
+        },
+        {
+          "letra": "E",
+          "texto": "origins and consequences of the present-day mental health crisis worldwide."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "The expression “perfect information”, from the first paragraph, refers to",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "the available facts at a certain point."
+        },
+        {
+          "letra": "B",
+          "texto": "consistent and reliable evidence about a fact."
+        },
+        {
+          "letra": "C",
+          "texto": "news not intended to mislead the reader."
+        },
+        {
+          "letra": "D",
+          "texto": "data impeccably analyzed and organized."
+        },
+        {
+          "letra": "E",
+          "texto": "impacting results of research."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Vocabulário",
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "The study described in the third paragraph",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "was inconclusive regarding the correlation between social media time and mental health issues of the population at large."
+        },
+        {
+          "letra": "B",
+          "texto": "found out that different social groups suffer the impacts of social media use in varying modes and at varying intensities."
+        },
+        {
+          "letra": "C",
+          "texto": "confirmed previous impressions about the ineffectiveness of prevention or intervention policies aimed at adolescents."
+        },
+        {
+          "letra": "D",
+          "texto": "contradicts results of the research carried out by Dr. Vivek Murthy as to the urgency in dealing with the youth mental health crisis."
+        },
+        {
+          "letra": "E",
+          "texto": "emphasizes the importance of technology in generating contents other than those used for interpersonal interactions."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "According to the fourth paragraph, social media use can, potentially,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "contribute to healthy behaviors such as studying."
+        },
+        {
+          "letra": "B",
+          "texto": "make people more distracted and indifferent."
+        },
+        {
+          "letra": "C",
+          "texto": "take up time people could be using to exercise."
+        },
+        {
+          "letra": "D",
+          "texto": "affect the privacy of those who use it."
+        },
+        {
+          "letra": "E",
+          "texto": "move youngsters away from real-life connections."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Read the following letter to the editor.\n\nTo the Editor:\nDefective airplanes, tobacco products, cars without seatbelts and social media posts: One of these things is not like the others.\nThe surgeon general Dr. Vivek Murthy proposes applying warning labels to social media platforms as if they are surely dangerous, like cigarettes and airplanes whose doors fall off during a flight. But there’s another way social media is different: It’s a tool we use to express ourselves. As such, its use is protected by the First Amendment¹.\nThis isn’t the first time the government has tried to regulate expression in the name of protecting kids. It tried to do so in the 1950s with comics, the 1980s with rock music and the 1990s with video games. We now look back on these efforts as misguided and unconstitutional.\n\nNico Perrino\nWashington\nThe writer is the executive vice president of FIRE, the Foundation for Individual Rights and Expression.\n(www.nytimes.com, 24.06.2024. Adapted.)\n\n¹First Amendment: an item in the American Constitution that guarantees the people freedom concerning religion and expression, among other rights.\n\nIt is the letter writer's explicit position on protection protocols:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "the regulation of expression never worked in the past, and will not work again now."
+        },
+        {
+          "letra": "B",
+          "texto": "imposing restrictions on what people think has always been an impossible task."
+        },
+        {
+          "letra": "C",
+          "texto": "protecting kids by controlling their freedom of expression is erroneous and illegal."
+        },
+        {
+          "letra": "D",
+          "texto": "the First Amendment has failed to adequately keep freedom of expression safe."
+        },
+        {
+          "letra": "E",
+          "texto": "warning labels is the best way to prevent undesirable events from happening."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "A sociedade medieval vive, morre e se diverte com uma grande brutalidade. Os camponeses preferem ver os cavaleiros partirem em cruzada ou matarem-se nos torneios a vê-los saquear as colheitas e espoliar os vilarejos. Pois a grande insegurança no ano 1000 é sustentada por esses bandos de cavaleiros [...].\n(Georges Duby. Ano 1000, ano 2000: na pista de nossos medos, 1998.)\n\nAo abordar a questão da violência na Idade Média, o excerto indica",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a origem social das constantes rebeliões de servos."
+        },
+        {
+          "letra": "B",
+          "texto": "a importância do aparato policial público de repressão ao crime."
+        },
+        {
+          "letra": "C",
+          "texto": "a convocação militar para a participação nas cruzadas religiosas."
+        },
+        {
+          "letra": "D",
+          "texto": "a frequência de guerras e combates entre os Estados nacionais europeus."
+        },
+        {
+          "letra": "E",
+          "texto": "a manifestação do poder social e militar de representantes da nobreza."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Idade Média",
+        "História – Feudalismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Analise a gravura de Frans Post, produzida na primeira metade do século XVII.\n\nEssa gravura retrata",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o beneficiamento do café, destinado prioritariamente à exportação, com utilização de mão de obra de imigrantes e de escravizados."
+        },
+        {
+          "letra": "B",
+          "texto": "a produção de algodão, voltada à exportação e ao fornecimento da nascente manufatura brasileira de tecidos."
+        },
+        {
+          "letra": "C",
+          "texto": "a divisão e a disciplina de trabalho características da organização da produção nas sociedades industriais."
+        },
+        {
+          "letra": "D",
+          "texto": "o funcionamento de um engenho de açúcar, organizado no sistema de plantation, com emprego de mão de obra de escravizados."
+        },
+        {
+          "letra": "E",
+          "texto": "a impossibilidade de aparecimento do trabalho urbano na organização econômica do Brasil colonial."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Brasil Colônia",
+        "Arte – Barroco no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Examine a tela pintada por Pedro Paulo Bruno em 1919 e intitulada A pátria.\n\nA tela simboliza",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a exploração do trabalho infantil e feminino nas décadas anteriores à promulgação das leis trabalhistas no Brasil."
+        },
+        {
+          "letra": "B",
+          "texto": "o esforço coletivo de construção da nação brasileira e o caráter protetor que esta nação exerce em relação a seus membros."
+        },
+        {
+          "letra": "C",
+          "texto": "a adesão do povo brasileiro aos ideais políticos da monarquia e aos esforços monárquicos de expandir militarmente o território nacional."
+        },
+        {
+          "letra": "D",
+          "texto": "o trabalho artesanal de produção de tecidos no período anterior à implantação da indústria têxtil no Brasil."
+        },
+        {
+          "letra": "E",
+          "texto": "a resistência da sociedade brasileira às ameaças estrangeiras e o caráter nacionalista que predominava nas décadas iniciais da República."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Brasil República",
+        "Arte – Modernismo no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Em linhas gerais, o pan-africanismo pode ser entendido como um movimento que buscava estabelecer uma união identitária e política entre os africanos e as populações afrodiaspóricas.\n(Kauê Lopes dos Santos. Africano: uma introdução ao continente, 2022.)\n\nO excerto define \"pan-africanismo\" como um esforço para",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "estabelecer vínculos entre os povos que viviam na África e os africanos e afrodescendentes forçados a viver em outras partes do mundo."
+        },
+        {
+          "letra": "B",
+          "texto": "criar mecanismos que permitissem o retorno dos descendentes de escravizados às suas terras de origem na África."
+        },
+        {
+          "letra": "C",
+          "texto": "resistir à colonização europeia e impulsionar formas de desenvolvimento econômico em todo o continente africano."
+        },
+        {
+          "letra": "D",
+          "texto": "encerrar as divergências e as guerras entre os países africanos e estimular a igualdade econômica entre Estados e populações africanas."
+        },
+        {
+          "letra": "E",
+          "texto": "impedir a continuação do tráfico de escravizados e valorizar a união dos governos nacionais e a união dos povos africanos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Descolonização Afro-Asiática",
+        "Sociologia – Movimentos Sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Escancarada, a ditadura firmou-se. A tortura foi o seu instrumento extremo de coerção e extermínio, o último recurso da repressão política que o Ato Institucional nº 5 libertou das amarras da legalidade.\n(Elio Gaspari. A ditadura escancarada, 2002.)\n\nO excerto, relativo ao período entre 1969 e 1974, caracteriza o governo militar brasileiro de então como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "um conjunto de dirigentes empenhados em agir dentro dos limites estabelecidos pela Constituição nacional."
+        },
+        {
+          "letra": "B",
+          "texto": "um projeto de reorganização nacional voltado à erradicação dos problemas sociais e da subversão política."
+        },
+        {
+          "letra": "C",
+          "texto": "um sistema político de exceção, que recorreu a formas de repressão baseadas em instrumentos legais e em práticas clandestinas."
+        },
+        {
+          "letra": "D",
+          "texto": "um regime autoritário, que se sustentava apenas com o apoio econômico e militar oferecido pelos Estados Unidos."
+        },
+        {
+          "letra": "E",
+          "texto": "um organismo institucional para pacificar o país, que enfrentava seguidas tentativas terroristas de desestabilização da ordem social e política."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Brasil República",
+        "História – Ditadura Militar no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Examine o mapa que mostra a região de influência da Grande Metrópole Nacional, São Paulo, no ano de 2018.\n\nContribui para a espacialização da rede e da hierarquia urbana demonstradas no mapa",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o desenvolvimento dos sistemas de transporte e de comunicação."
+        },
+        {
+          "letra": "B",
+          "texto": "a ausência de acidentes geográficos e de barreiras orográficas."
+        },
+        {
+          "letra": "C",
+          "texto": "o declínio das atividades locais nos setores primário e secundário da economia."
+        },
+        {
+          "letra": "D",
+          "texto": "a implantação de um modelo urbano pautado em megacidades e megalópoles."
+        },
+        {
+          "letra": "E",
+          "texto": "a desregulamentação político-administrativa dos estados e dos municípios."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Urbanização",
+        "Geografia – Redes e Hierarquia Urbana"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "\"Globalmente, o solo armazena mais carbono que as quantidades somadas da atmosfera, da vegetação e dos seres vivos, incluindo nós, humanos. Entre 70% e 80% desse carbono está armazenado na superfície do solo, nos primeiros 50 centímetros. Assim, quaisquer alterações nessa superfície impactam negativamente o armazenamento desse reservatório\", comenta o engenheiro agrônomo Marcos Siqueira-Neto, doutor e especialista em projetos de carbono na agropecuária.\n(https://g1.globo.com, 22.04.2024. Adaptado.)\n\nConquistado com a preservação dos solos, o sequestro de carbono possibilita",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o incremento de fenômenos geológicos."
+        },
+        {
+          "letra": "B",
+          "texto": "a mitigação de mudanças climáticas."
+        },
+        {
+          "letra": "C",
+          "texto": "o controle de processos erosivos."
+        },
+        {
+          "letra": "D",
+          "texto": "o afloramento de lençóis freáticos."
+        },
+        {
+          "letra": "E",
+          "texto": "a formação de hidrocarbonetos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Meio Ambiente",
+        "Biologia – Ciclos Biogeoquímicos"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "A pejotização ocorre quando a mão de obra é contratada com o empregado na posição de pessoa jurídica, ao invés de pessoa física. Tal modalidade é, certamente, do interesse do empregador, que deixa de ser onerado por custos tais como pagamento de benefício do Instituto Nacional do Seguro Social (INSS), Fundo de Garantia de Tempo de Serviço (FGTS) e seguro-desemprego. Do lado do empregado, flexibiliza-se a jornada de trabalho e reduz-se o Imposto de Renda. No entanto, internalizam-se individualmente diversos custos, como os do CNPJ, e perdem-se os direitos trabalhistas clássicos.\n(www.nexojornal.com.br. Adaptado.)\n\nA transformação na relação de trabalho apresentada no excerto é estimulada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pela diretriz da economia solidária."
+        },
+        {
+          "letra": "B",
+          "texto": "pelo sistema de gestão taylorista."
+        },
+        {
+          "letra": "C",
+          "texto": "pelo modelo de industrialização planificada."
+        },
+        {
+          "letra": "D",
+          "texto": "pela doutrina econômica neoliberal."
+        },
+        {
+          "letra": "E",
+          "texto": "pela teoria econômica keynesiana."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Sociologia – Trabalho",
+        "Sociologia – Neoliberalismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Examine a imagem que apresenta o funcionamento das monções.\n\nO climograma que representa as características das monções no Sul asiático é:",
+      "alternativas": null,
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Mapear é se reconhecer, identificar o lugar onde se vive e trabalha, lugar que guarda memórias, histórias e conflitos. Porém, os mapeamentos oficiais, em grande parte dos casos, têm invisibilizado os modos de vidas tradicionais. É nesse contexto que surgiu o projeto \"Mapeamento no Complexo Suape em Cabo de Santo Agostinho — Pernambuco, Brasil\", que buscou, por meio da cartografia social, reconstituir esse território, a partir da perspectiva das comunidades impactadas pela construção do Complexo Industrial Portuário de Suape, identificando áreas que foram desapropriadas, propondo as legendas necessárias para a compreensão dos processos sociais que ali se deram e destacando os lugares de pertencimento e conflitos.\n(https://actionaid.org.br, 01.07.2021.)\n\nDe acordo com o excerto, a cartografia social contribui para",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "gentrificar periferias e ampliar perspectivas de investimentos público-privados."
+        },
+        {
+          "letra": "B",
+          "texto": "definir limites e embasar decisões para a cobrança de impostos."
+        },
+        {
+          "letra": "C",
+          "texto": "identificar a ocupação e auxiliar na demarcação de territórios em disputa."
+        },
+        {
+          "letra": "D",
+          "texto": "analisar centralidades e restabelecer fronteiras em unidades da federação."
+        },
+        {
+          "letra": "E",
+          "texto": "reconsiderar a posse e redistribuir a terra entre imigrantes pioneiros no país."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Cartografia",
+        "Sociologia – Movimentos Sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Verme cabeça-de-martelo \"imortal\" surge no Brasil e preocupa os biólogos\n\nO espécime é considerado perigoso, pois libera uma substância tóxica. O verme, de formato achatado, chama a atenção devido à capacidade de se regenerar e se multiplicar ao ser dividido, dando origem a mais vermes. Para erradicá-lo, a recomendação é recolher o verme em um recipiente, utilizando luvas de proteção, e jogar sal e vinagre sobre o animal.\n\nO animal mencionado no excerto pertence ao filo ___________ e pode reproduzir-se de forma ___________ por regeneração. Ao entrar em contato com sal e vinagre, o animal morre porque ___________ por ___________.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "platelmintos – assexuada – perde água – osmose."
+        },
+        {
+          "letra": "B",
+          "texto": "nematelmintos – assexuada – perde água – osmose."
+        },
+        {
+          "letra": "C",
+          "texto": "nematelmintos – sexuada – ganha sais – transporte ativo."
+        },
+        {
+          "letra": "D",
+          "texto": "nematelmintos – assexuada – ganha água – osmose."
+        },
+        {
+          "letra": "E",
+          "texto": "platelmintos – sexuada – ganha sais – transporte ativo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Zoologia",
+        "Biologia – Fisiologia Animal"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "A irisina está entre os principais hormônios que são liberados na atividade física, especialmente pelos músculos, e que pode trazer ótimos benefícios para a saúde. Além de ter propriedades anti-inflamatórias, a irisina atua principalmente no tecido adiposo. Desse modo, pode ajudar no gasto energético por meio dos lipídios e contribuir no emagrecimento.\n(https://vidasaudavel.einstein.br. Adaptado.)\n\nA irisina é transportada pelo corpo por meio",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "dos linfonodos."
+        },
+        {
+          "letra": "B",
+          "texto": "do citoesqueleto."
+        },
+        {
+          "letra": "C",
+          "texto": "dos fibroblastos."
+        },
+        {
+          "letra": "D",
+          "texto": "das sinapses nervosas."
+        },
+        {
+          "letra": "E",
+          "texto": "da corrente sanguínea."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Fisiologia Humana",
+        "Biologia – Sistema Endócrino"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "A Síndrome de Berardinelli é uma doença genética autossômica recessiva rara que se caracteriza pela quase ausência de tecido adiposo no corpo. Em fevereiro de 2020, havia 38 casos de Síndrome de Berardinelli no Rio Grande do Norte. Esse número representava 69% do total de casos no país. Uma das explicações para a grande incidência da doença no estado está relacionada à consanguinidade. A prevalência de consanguinidade reconhecida em alguns municípios chegava a 33%. Um em cada três casamentos eram de pessoas que sabiam que eram parentes.\n(https://g1.globo.com, 29.02.2020. Adaptado.)\n\nA alta incidência da Síndrome de Berardinelli no estado do Rio Grande do Norte, relatada no excerto, deve-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "às reduzidas taxas de recombinações gênicas entre os alelos relacionados a essa doença."
+        },
+        {
+          "letra": "B",
+          "texto": "ao aumento da frequência de cruzamentos entre indivíduos heterozigóticos aparentados."
+        },
+        {
+          "letra": "C",
+          "texto": "ao acúmulo de mutações nos indivíduos da mesma família portadores do alelo recessivo."
+        },
+        {
+          "letra": "D",
+          "texto": "à alta probabilidade do encontro de gametas portadores do cromossomo X."
+        },
+        {
+          "letra": "E",
+          "texto": "ao cruzamento entre indivíduos que apresentam genótipo homozigótico dominante."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Genética",
+        "Biologia – Genética de Populações"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Em gatos, o padrão da cor da pelagem consiste em uma herança ligada ao sexo. Os machos de pelagem branca e preta apresentam o alelo P, e os machos de pelagem branca e amarela apresenta o alelo A. As fêmeas podem apresentar o mesmo padrão de cores dos machos, no entanto, há fêmeas que apresentam a pelagem branca, preta e amarela. Esse fenótipo de três cores em fêmeas ocorre porque",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "durante a embriogênese são formadas células com aneuploidias."
+        },
+        {
+          "letra": "B",
+          "texto": "durante a meiose há permutação entre os cromossomos X e Y."
+        },
+        {
+          "letra": "C",
+          "texto": "os alelos P e A estão localizados no cromossomo sexual Y."
+        },
+        {
+          "letra": "D",
+          "texto": "os alelos P e A estão ligados no mesmo cromossomo sexual."
+        },
+        {
+          "letra": "E",
+          "texto": "há inativação aleatória de um cromossomo X em células da pele."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Genética",
+        "Biologia – Herança Ligada ao Sexo"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "No início dos anos 1990, um cientista de Yale, universidade nos Estados Unidos, usara as células HeLa para descobrir que as células humanas cancerosas contêm uma enzima chamada telomerase, que reconstrói seus telômeros. A presença de telomerase permite às células regenerarem seus telômeros indefinidamente. Isso explicou a mecânica da imortalidade das células cancerosas HeLa.\n(Rebecca Skloot. A vida imortal de Henrietta Lacks, 2011. Adaptado.)\n\nO mecanismo descrito no excerto está relacionado ao fato de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os telômeros apresentarem genes para a regeneração dos cromossomos."
+        },
+        {
+          "letra": "B",
+          "texto": "a telomerase ser inibida em todas as células de um indivíduo saudável."
+        },
+        {
+          "letra": "C",
+          "texto": "a telomerase repor nucleotídeos nas extremidades dos cromossomos."
+        },
+        {
+          "letra": "D",
+          "texto": "os telômeros serem reduzidos a cada divisão meiótica."
+        },
+        {
+          "letra": "E",
+          "texto": "os telômeros comporem os cromossomos nucleares e mitocondriais."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Biologia Celular",
+        "Biologia – Genética Molecular"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "O radioisótopo $^{131}$Ba é empregado na composição de microesferas usadas no monitoramento de tubulações em instalações petrolíferas. A tabela apresenta a atividade desse radioisótopo ao longo do tempo.\n\nA quantidade de nêutrons do $^{131}$Ba e a meia-vida desse radioisótopo são, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "75 nêutrons e 12 dias."
+        },
+        {
+          "letra": "B",
+          "texto": "75 nêutrons e 52 dias."
+        },
+        {
+          "letra": "C",
+          "texto": "75 nêutrons e 36 dias."
+        },
+        {
+          "letra": "D",
+          "texto": "56 nêutrons e 36 dias."
+        },
+        {
+          "letra": "E",
+          "texto": "56 nêutrons e 12 dias."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Radioatividade",
+        "Química – Meia-vida"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ambos contêm um elemento metálico – ácido."
+        },
+        {
+          "letra": "B",
+          "texto": "ambos contêm um elemento metálico – neutro."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas um deles contém um elemento metálico – básico."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas um deles contém um elemento metálico – ácido."
+        },
+        {
+          "letra": "E",
+          "texto": "ambos contêm um elemento metálico – básico."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Reações Químicas",
+        "Química – Funções Inorgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "O gás natural veicular (GNV) é um combustível automotivo disponibilizado por postos de abastecimento credenciados. Os veículos automotores, originalmente fabricados para funcionarem apenas com combustíveis líquidos, são adaptados por um kit que permite o funcionamento também com o GNV. Uma das partes desse kit é o reservatório de gás, feito de material metálico não expansível, sendo normalmente instalado no compartimento traseiro do veículo. A figura ilustra o reservatório instalado em um veículo de passeio.\n\nUm reservatório de GNV com massa de gás ($m_1$) e pressão ($P_1$) igual a 40 atm é reabastecido com esse gás, em temperatura constante, até a pressão interna do compartimento atingir a massa de gás ($m_2$) e pressão ($P_2$) igual a 160 atm.\n\nConsiderando que a composição do GNV seja constante, a comparação das massas $m_1$ e $m_2$ é dada por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$m_2 = 8m_1$"
+        },
+        {
+          "letra": "B",
+          "texto": "$m_2 = 4m_1$"
+        },
+        {
+          "letra": "C",
+          "texto": "$m_2 = \\frac{1}{8}m_1$"
+        },
+        {
+          "letra": "D",
+          "texto": "$m_2 = \\frac{1}{4}m_1$"
+        },
+        {
+          "letra": "E",
+          "texto": "$m_2 = 2m_1$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Termodinâmica",
+        "Física – Gases Ideais"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Muitos atletas empregam em suas dietas um suplemento alimentar de proteína do soro do leite, denominado whey protein, comercializado na forma de pó, para ser misturado em água. Considere uma embalagem que contenha uma colher medidora e que apresente as seguintes instruções de preparo na forma do infográfico:\n\nNo preparo da bebida, são usadas 3 medidas de whey protein. Cada colher medidora contém 7,5 g de proteína.\n\nA concentração em massa de proteína na bebida preparada de acordo com as instruções da embalagem é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30,0 g/L."
+        },
+        {
+          "letra": "B",
+          "texto": "63,5 g/L."
+        },
+        {
+          "letra": "C",
+          "texto": "22,5 g/L."
+        },
+        {
+          "letra": "D",
+          "texto": "7,5 g/L."
+        },
+        {
+          "letra": "E",
+          "texto": "90,0 g/L."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Soluções",
+        "Química – Concentração de Soluções"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "O eugenol é uma substância extraída de certas plantas e apresenta o aroma característico da especiaria conhecida como cravo-da-Índia. O aroma do eugenol em solução pode desaparecer, pois, dependendo do pH da solução, a molécula de eugenol transforma-se em uma espécie iônica que não tem aroma. Essa transformação é representada pelo equilíbrio da equação:\n\n$OH + OH^- \\rightleftharpoons O^- + H_2O$\n\neugenol (aroma de cravo) <-> espécie iônica (sem aroma)\n\nA fórmula molecular do eugenol e a faixa de valor do pH que a sua solução exibirá aroma intenso são",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$C_{10}H_{12}O_2$ e pH > 7"
+        },
+        {
+          "letra": "B",
+          "texto": "$C_9H_{12}O_2$ e pH < 7"
+        },
+        {
+          "letra": "C",
+          "texto": "$C_{10}H_{12}O_2$ e pH < 7"
+        },
+        {
+          "letra": "D",
+          "texto": "$C_{10}H_{11}O_2$ e pH = 7"
+        },
+        {
+          "letra": "E",
+          "texto": "$C_9H_{11}O_2$ e pH = 7"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Equilíbrio Químico",
+        "Química – Química Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "O fenômeno da fadiga térmica pode ocorrer no sistema de freios de um veículo pesado, se o condutor utilizar os freios para controlar continuamente a velocidade desse veículo, em um longo trecho de declive. Ao final desse trecho, o atrito entre as pastilhas e os discos de freio pode não ser suficiente para frear o veículo porque o grande aquecimento provocado por esse atrito diminui o coeficiente de atrito entre os materiais do freio. O gráfico mostra como varia o coeficiente de atrito entre o aço do disco de freio e o material que recobre as pastilhas do freio de um caminhão, em função da temperatura.\n\nConsidere que, em uma frenagem contínua em um longo trecho de declive de uma rodovia, as forças de compressão entre as pastilhas e os discos de freio das rodas desse caminhão se mantenham constantes. Se, nessa frenagem, a temperatura do freio aumentar de 200 °C para 350 °C, as intensidades das forças de atrito entre as pastilhas e os discos de freio sofrerão uma redução de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "40%."
+        },
+        {
+          "letra": "B",
+          "texto": "20%."
+        },
+        {
+          "letra": "C",
+          "texto": "25%."
+        },
+        {
+          "letra": "D",
+          "texto": "10%."
+        },
+        {
+          "letra": "E",
+          "texto": "50%."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Dinâmica",
+        "Física – Força de Atrito"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "O diagrama pressão x volume representa um ciclo termodinâmico efetuado por um gás refrigerante de um sistema de ar condicionado utilizado no processo de resfriamento do interior de um veículo. Nesse processo, o gás absorve calor do interior do veículo ($Q_{int}$) e libera calor para o meio exterior ($Q_{ext}$).\n\nSabe-se que, nesse ciclo:\n• AB representa uma compressão adiabática;\n• BC representa uma compressão isobárica;\n• CD representa uma expansão adiabática;\n• DA representa uma expansão isobárica.\n\nConsiderando o gás ideal e a primeira lei da termodinâmica, o gás do sistema de ar condicionado sofreu aquecimento nas transformações",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "CD e DA."
+        },
+        {
+          "letra": "B",
+          "texto": "AB e DA."
+        },
+        {
+          "letra": "C",
+          "texto": "BC e CD."
+        },
+        {
+          "letra": "D",
+          "texto": "BC e DA."
+        },
+        {
+          "letra": "E",
+          "texto": "AB e CD."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Termodinâmica",
+        "Física – Leis da Termodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "O brilho de um diamante deve-se ao seu alto índice de refração em relação ao ar e à sua lapidação, ou seja, à forma como a pedra é cortada, com muitas faces em ângulos variados. O índice de refração de um diamante em relação ao ar é tal que o ângulo limite para refração dentro do diamante é de 24°. A figura 1 mostra a imagem de um diamante e a figura 2 mostra uma secção transversal desse diamante e três raios de luz monocromática, a, b e c, e suas trajetórias, após incidirem sobre faces desse diamante.\n\nConsiderando as informações apresentadas, tem-se que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\alpha > 24°$, $\\beta < 24°$ e $\\delta > 24°$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\alpha > 24°$, $\\beta < 24°$ e $\\delta = 24°$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\alpha > 24°$, $\\beta > 24°$ e $\\delta = 24°$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\alpha = 24°$, $\\beta < 24°$ e $\\delta > 24°$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\alpha < 24°$, $\\beta > 24°$ e $\\delta = 24°$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Óptica",
+        "Física – Reflexão Total"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "A figura mostra uma corda na qual se propaga uma onda transversal. As cristas e os vales dessa onda estão todos contidos no plano xy e a velocidade de propagação da onda tem a mesma direção e o mesmo sentido do eixo x.\n\nCom relação à direção de oscilação dos pontos dessa corda e à matéria transportada pela onda, tem-se que todos os pontos da corda, atingidos pela onda, oscilam",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "nas direções x e y e, enquanto se propaga, a onda não transporta matéria."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas na direção y e, enquanto se propaga, a onda transporta matéria."
+        },
+        {
+          "letra": "C",
+          "texto": "nas direções x e y e, enquanto se propaga, a onda transporta matéria."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas na direção x e, enquanto se propaga, a onda não transporta matéria."
+        },
+        {
+          "letra": "E",
+          "texto": "apenas na direção y e, enquanto se propaga, a onda não transporta matéria."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Ondulatória",
+        "Física – Classificação de Ondas"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Um circuito elétrico simples é formado por um gerador e um amperímetro ideais e um fio de cobre de resistência R. Nesse circuito, a indicação no amperímetro é $i_1$, conforme a figura 1. Os demais fios de ligação têm resistência desprezível.\n\nPara montar um segundo circuito, esse mesmo fio é cortado em três pedaços de mesmo comprimento e esses pedaços são ligados ao mesmo gerador, conforme a figura 2. Nessa situação, a indicação no amperímetro é $i_2$.\n\nComparando os valores de $i_1$ e de $i_2$, tem-se que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$i_2 = i_1$"
+        },
+        {
+          "letra": "B",
+          "texto": "$i_2 = 3i_1$"
+        },
+        {
+          "letra": "C",
+          "texto": "$i_2 = \\frac{i_1}{3}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$i_2 = 9i_1$"
+        },
+        {
+          "letra": "E",
+          "texto": "$i_2 = \\frac{i_1}{9}$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Eletrodinâmica",
+        "Física – Associação de Resistores"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Aldo, Beto e Caio fizeram, em conjunto, uma aposta em uma loteria, dividindo o valor do custo da aposta em partes diferentes. Aldo pagou R$ 28,00, Beto pagou R$ 21,00 e Caio pagou R$ 35,00. A aposta feita por eles foi premiada em R$ 150.000,00, valor que foi dividido em partes proporcionais a quanto cada um havia pago por ela. A parte do prêmio que coube a Caio foi",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 58.000,00."
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 62.500,00."
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 59.500,00."
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 61.000,00."
+        },
+        {
+          "letra": "E",
+          "texto": "R$ 64.000,00."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Razão e Proporção",
+        "Matemática – Divisão Proporcional"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Em determinada lanchonete, o custo de 2 sucos de laranja e 3 sanduíches de queijo é R$ 46,70 e o custo de 3 sucos de laranja e 4 sanduíches de queijo é R$ 64,10. Para comprar 1 suco de laranja e 1 sanduíche de queijo nessa lanchonete, gastam-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 17,80."
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 17,60."
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 17,40."
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 17,20."
+        },
+        {
+          "letra": "E",
+          "texto": "R$ 18,00."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Sistemas Lineares"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "No plano cartesiano, a reta r, de equação $y = -\\frac{5}{2}x + 12$, intersecta a reta s, de equação y = x + 5, no ponto P. A reta r intersecta o eixo x no ponto R, e a reta s intersecta o eixo y no ponto S, como na figura.\n\nA área do triângulo de vértices PRS é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{44}{5}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{47}{5}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{51}{5}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{54}{5}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{49}{5}$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "A figura mostra o projeto de um portal construído de modo que um arco de parábola seja posicionado sobre uma estrutura retangular.\n\nA estrutura retangular tem base medindo 8 m e altura de 6 m. O ponto mais alto do portal dista 12 m da base. Deseja-se adicionar uma coluna vertical, destacada em vermelho na figura, cuja base dista 2 m de uma das laterais da estrutura retangular. A altura da coluna será de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9,75 m."
+        },
+        {
+          "letra": "B",
+          "texto": "7,50 m."
+        },
+        {
+          "letra": "C",
+          "texto": "8,25 m."
+        },
+        {
+          "letra": "D",
+          "texto": "10,50 m."
+        },
+        {
+          "letra": "E",
+          "texto": "9,00 m."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Funções",
+        "Matemática – Função Quadrática"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Geraldo depositou R$ 1.000,00 em uma conta de investimento que rende p% por ano. Não tendo feito mais nenhum depósito nessa conta, após 30 anos, o saldo era de R$ 120.000,00. Usando $log_{10} 2 = 0,301$, $log_{10} 3 = 0,477$ e $10^{0,0231} = K$, o valor de p é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$100 (K^3 – 1)$"
+        },
+        {
+          "letra": "B",
+          "texto": "$100(1 - \\frac{1}{K^2})$"
+        },
+        {
+          "letra": "C",
+          "texto": "$100 (K^2 – 1)$"
+        },
+        {
+          "letra": "D",
+          "texto": "$100(1 - \\frac{1}{K})$"
+        },
+        {
+          "letra": "E",
+          "texto": "$100 (K – 1)$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Matemática Financeira",
+        "Matemática – Logaritmos"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "No plano, as retas r e s são perpendiculares e se cruzam no ponto P, que pertence à circunferência $\\delta$. A reta r passa pelo centro O de $\\delta$ e contém o ponto R de $\\delta$. A reta s forma um ângulo de medida $\\theta$ com o segmento PQ, em que Q é um ponto de $\\delta$, como na figura.\n\nSabendo que $\\cos \\theta = \\frac{5}{8}$ e que o raio de $\\delta$ mede 12 cm, a distância entre os pontos R e Q é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{50}{3}$ cm"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{95}{6}$ cm"
+        },
+        {
+          "letra": "D",
+          "texto": "16 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "18 cm"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Lei dos Cossenos"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "A figura mostra o quadrado PQRS sobre um ladrilhamento hexagonal regular do plano, em que os vértices P e Q coincidem com vértices de hexágonos do ladrilhamento.\n\nSabendo que cada um dos hexágonos do ladrilhamento tem 1 cm² de área, a área do quadrado PQRS é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{9\\sqrt{6}}{2} cm^2$"
+        },
+        {
+          "letra": "B",
+          "texto": "$6\\sqrt{3} cm^2$"
+        },
+        {
+          "letra": "C",
+          "texto": "11 cm²"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{22\\sqrt{2}}{3} cm^2$"
+        },
+        {
+          "letra": "E",
+          "texto": "10 cm²"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Áreas de Figuras Planas"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Na figura, estão representados o prisma retorretângulo ABCDEFGH e a pirâmide BCDL. O vértice L da pirâmide está na reta que contém a aresta CG do prisma. O prisma e a pirâmide BCDL têm o mesmo volume.\n\nO ponto J está na interseção dos segmentos BL e FG, e o ponto K está na interseção dos segmentos DL e GH. O volume da pirâmide GJKL, em relação ao volume do prisma, corresponde a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{125}{216}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{16}{25}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{3}{4}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{25}{36}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{64}{125}$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Espacial",
+        "Matemática – Semelhança de Sólidos"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Analise o gráfico que apresenta os números de livros impressos no período de 1475 a 1775 na França, no Reino Unido e na Alemanha.\n\nA análise do gráfico mostra que o total de livros impressos nos 3 países considerados em 1675 teve um acréscimo, em relação ao ano de 1625,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "superior a 200%."
+        },
+        {
+          "letra": "B",
+          "texto": "entre 120% e 200%."
+        },
+        {
+          "letra": "C",
+          "texto": "entre 12% e 25%."
+        },
+        {
+          "letra": "D",
+          "texto": "inferior a 12%."
+        },
+        {
+          "letra": "E",
+          "texto": "entre 25% e 120%."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Porcentagem",
+        "Matemática – Análise de Gráficos"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Dados dois inteiros positivos n e B, a representação de n na base B é denotada por $(a_k : a_{k-1} : ... : a_1 : a_0)_B$, em que $a_i \\in \\{0, 1, ..., B-1\\}$, se:\n\n$$n = a_k B^k + a_{k-1} B^{k-1} + ... + a_1 B^1 + a_0 B^0$$\n\nPor exemplo, a representação de 139 na base 8 é $(2:1:3)_8$ pois $139 = 2 \\cdot 8^2 + 1 \\cdot 8^1 + 3 \\cdot 8^0$. A representação na base 6 do inteiro positivo que tem representação $(1:0:2:6)_7$ na base 7 é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$(1:2:3:2)_6$"
+        },
+        {
+          "letra": "B",
+          "texto": "$(1:4:0:3)_6$"
+        },
+        {
+          "letra": "C",
+          "texto": "$(1:1:4:0)_6$"
+        },
+        {
+          "letra": "D",
+          "texto": "$(1:0:5:4)_6$"
+        },
+        {
+          "letra": "E",
+          "texto": "$(1:3:1:2)_6$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Sistemas de Numeração"
+      ]
+    }
+  ]
+}

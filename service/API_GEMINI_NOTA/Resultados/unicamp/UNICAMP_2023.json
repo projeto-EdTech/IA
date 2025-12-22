@@ -1,0 +1,4538 @@
+{
+  "nomeUniversidade": "UNIVERSIDADE ESTADUAL DE CAMPINAS",
+  "siglaUniversidade": "UNICAMP",
+  "nomeVestibular": "NOTAS DE CORTE",
+  "ano": 2023,
+  "cursos": [
+    {
+      "nome": "Administração",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nome": "Administração",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nome": "Administração",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 30
+    },
+    {
+      "nome": "Administração",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 28
+    },
+    {
+      "nome": "Administração",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 17
+    },
+    {
+      "nome": "Administração",
+      "modalidade": "Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 18
+    },
+    {
+      "nome": "Administração",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 22
+    },
+    {
+      "nome": "Administração",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 19
+    },
+    {
+      "nome": "Administração Pública",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 26
+    },
+    {
+      "nome": "Administração Pública",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nome": "Administração Pública",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 26
+    },
+    {
+      "nome": "Administração Pública",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 20
+    },
+    {
+      "nome": "Administração Pública",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 15
+    },
+    {
+      "nome": "Administração Pública",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38
+    },
+    {
+      "nome": "Administração Pública",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 22
+    },
+    {
+      "nome": "Arquitetura e Urbanismo",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 52
+    },
+    {
+      "nome": "Arquitetura e Urbanismo",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 50
+    },
+    {
+      "nome": "Arquitetura e Urbanismo",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 48
+    },
+    {
+      "nome": "Arquitetura e Urbanismo",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 45
+    },
+    {
+      "nome": "Arquitetura e Urbanismo",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 46
+    },
+    {
+      "nome": "Arquitetura e Urbanismo",
+      "modalidade": "Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 44
+    },
+    {
+      "nome": "Arquitetura e Urbanismo",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 43
+    },
+    {
+      "nome": "Arquitetura e Urbanismo",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "Artes Cênicas",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 41
+    },
+    {
+      "nome": "Artes Cênicas",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 39
+    },
+    {
+      "nome": "Artes Cênicas",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38
+    },
+    {
+      "nome": "Artes Cênicas",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nome": "Artes Cênicas",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "Artes Cênicas",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nome": "Artes Cênicas",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 33
+    },
+    {
+      "nome": "Artes Visuais",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 46
+    },
+    {
+      "nome": "Artes Visuais",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 46
+    },
+    {
+      "nome": "Artes Visuais",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nome": "Artes Visuais",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "Artes Visuais",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 43
+    },
+    {
+      "nome": "Artes Visuais",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37
+    },
+    {
+      "nome": "Artes Visuais",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 33
+    },
+    {
+      "nome": "Ciência da Computação",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 57
+    },
+    {
+      "nome": "Ciência da Computação",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 60
+    },
+    {
+      "nome": "Ciência da Computação",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 53
+    },
+    {
+      "nome": "Ciência da Computação",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 50
+    },
+    {
+      "nome": "Ciência da Computação",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 49
+    },
+    {
+      "nome": "Ciência da Computação",
+      "modalidade": "Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 49
+    },
+    {
+      "nome": "Ciência da Computação",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 45
+    },
+    {
+      "nome": "Ciência da Computação",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nome": "Ciências Biológicas",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 49
+    },
+    {
+      "nome": "Ciências Biológicas",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 45
+    },
+    {
+      "nome": "Ciências Biológicas",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 43
+    },
+    {
+      "nome": "Ciências Biológicas",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 45
+    },
+    {
+      "nome": "Ciências Biológicas",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 41
+    },
+    {
+      "nome": "Ciências Biológicas",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 39
+    },
+    {
+      "nome": "Ciências Biológicas - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37
+    },
+    {
+      "nome": "Ciências Biológicas - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nome": "Ciências Biológicas - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nome": "Ciências Biológicas - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 30
+    },
+    {
+      "nome": "Ciências Biológicas - Licenciatura",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 26
+    },
+    {
+      "nome": "Ciências Biológicas - Licenciatura",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 31
+    },
+    {
+      "nome": "Ciências Biológicas - Licenciatura",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 21
+    },
+    {
+      "nome": "Ciências do Esporte",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 26
+    },
+    {
+      "nome": "Ciências do Esporte",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37
+    },
+    {
+      "nome": "Ciências do Esporte",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 27
+    },
+    {
+      "nome": "Ciências do Esporte",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 20
+    },
+    {
+      "nome": "Ciências do Esporte",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 22
+    },
+    {
+      "nome": "Ciências do Esporte",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 28
+    },
+    {
+      "nome": "Ciências do Esporte",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 24
+    },
+    {
+      "nome": "Ciências Econômicas",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 50
+    },
+    {
+      "nome": "Ciências Econômicas",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 52
+    },
+    {
+      "nome": "Ciências Econômicas",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 46
+    },
+    {
+      "nome": "Ciências Econômicas",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 44
+    },
+    {
+      "nome": "Ciências Econômicas",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "Ciências Econômicas",
+      "modalidade": "Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38
+    },
+    {
+      "nome": "Ciências Econômicas",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37
+    },
+    {
+      "nome": "Ciências Econômicas",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nome": "Ciências Econômicas",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 46
+    },
+    {
+      "nome": "Ciências Econômicas",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 44
+    },
+    {
+      "nome": "Ciências Econômicas",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nome": "Ciências Econômicas",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "Ciências Econômicas",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 45
+    },
+    {
+      "nome": "Ciências Econômicas",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 39
+    },
+    {
+      "nome": "Ciências Econômicas",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37
+    },
+    {
+      "nome": "Ciências Sociais",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nome": "Ciências Sociais",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nome": "Ciências Sociais",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38
+    },
+    {
+      "nome": "Ciências Sociais",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 36
+    },
+    {
+      "nome": "Ciências Sociais",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37
+    },
+    {
+      "nome": "Ciências Sociais",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37
+    },
+    {
+      "nome": "Ciências Sociais",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 31
+    },
+    {
+      "nome": "Ciências Sociais",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38
+    },
+    {
+      "nome": "Ciências Sociais",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 41
+    },
+    {
+      "nome": "Ciências Sociais",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nome": "Ciências Sociais",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 31
+    },
+    {
+      "nome": "Ciências Sociais",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 39
+    },
+    {
+      "nome": "Ciências Sociais",
+      "modalidade": "Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 48
+    },
+    {
+      "nome": "Ciências Sociais",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 36
+    },
+    {
+      "nome": "Ciências Sociais",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 31
+    },
+    {
+      "nome": "Comunicação Social - Midialogia",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 49
+    },
+    {
+      "nome": "Comunicação Social - Midialogia",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 55
+    },
+    {
+      "nome": "Comunicação Social - Midialogia",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 45
+    },
+    {
+      "nome": "Comunicação Social - Midialogia",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 43
+    },
+    {
+      "nome": "Comunicação Social - Midialogia",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 44
+    },
+    {
+      "nome": "Comunicação Social - Midialogia",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "Comunicação Social - Midialogia",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37
+    },
+    {
+      "nome": "Engenharia Física",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 46
+    },
+    {
+      "nome": "Engenharia Física",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 48
+    },
+    {
+      "nome": "Engenharia Física",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nome": "Engenharia Física",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "Engenharia Física",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 22
+    },
+    {
+      "nome": "Engenharia Física",
+      "modalidade": "Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32
+    },
+    {
+      "nome": "Engenharia Física",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32
+    },
+    {
+      "nome": "Engenharia Física",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 22
+    },
+    {
+      "nome": "Física",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 46
+    },
+    {
+      "nome": "Física",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 48
+    },
+    {
+      "nome": "Física",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nome": "Física",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "Física",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 22
+    },
+    {
+      "nome": "Física",
+      "modalidade": "Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32
+    },
+    {
+      "nome": "Física",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32
+    },
+    {
+      "nome": "Física",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 22
+    },
+    {
+      "nome": "Física: Física Médica e Biomédica",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 46
+    },
+    {
+      "nome": "Física: Física Médica e Biomédica",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 48
+    },
+    {
+      "nome": "Física: Física Médica e Biomédica",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nome": "Física: Física Médica e Biomédica",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "Física: Física Médica e Biomédica",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 22
+    },
+    {
+      "nome": "Física: Física Médica e Biomédica",
+      "modalidade": "Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32
+    },
+    {
+      "nome": "Física: Física Médica e Biomédica",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32
+    },
+    {
+      "nome": "Física: Física Médica e Biomédica",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 22
+    },
+    {
+      "nome": "Matemática",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 46
+    },
+    {
+      "nome": "Matemática",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 48
+    },
+    {
+      "nome": "Matemática",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nome": "Matemática",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "Matemática",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 22
+    },
+    {
+      "nome": "Matemática",
+      "modalidade": "Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32
+    },
+    {
+      "nome": "Matemática",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32
+    },
+    {
+      "nome": "Matemática",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 22
+    },
+    {
+      "nome": "Matemática Aplicada e Computacional",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 46
+    },
+    {
+      "nome": "Matemática Aplicada e Computacional",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 48
+    },
+    {
+      "nome": "Matemática Aplicada e Computacional",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nome": "Matemática Aplicada e Computacional",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "Matemática Aplicada e Computacional",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 22
+    },
+    {
+      "nome": "Matemática Aplicada e Computacional",
+      "modalidade": "Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32
+    },
+    {
+      "nome": "Matemática Aplicada e Computacional",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32
+    },
+    {
+      "nome": "Matemática Aplicada e Computacional",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 22
+    },
+    {
+      "nome": "Dança",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nome": "Dança",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nome": "Dança",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 30
+    },
+    {
+      "nome": "Dança",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 29
+    },
+    {
+      "nome": "Dança",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 36
+    },
+    {
+      "nome": "Dança",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nome": "Dança",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 30
+    },
+    {
+      "nome": "Educação Física",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nome": "Educação Física",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32
+    },
+    {
+      "nome": "Educação Física",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 28
+    },
+    {
+      "nome": "Educação Física",
+      "modalidade": "Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 28
+    },
+    {
+      "nome": "Educação Física",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 24
+    },
+    {
+      "nome": "Educação Física",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 22
+    },
+    {
+      "nome": "Educação Física",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 36
+    },
+    {
+      "nome": "Educação Física",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37
+    },
+    {
+      "nome": "Educação Física",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32
+    },
+    {
+      "nome": "Educação Física",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 30
+    },
+    {
+      "nome": "Educação Física",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 36
+    },
+    {
+      "nome": "Educação Física",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nome": "Educação Física",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 29
+    },
+    {
+      "nome": "Enfermagem",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 44
+    },
+    {
+      "nome": "Enfermagem",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 50
+    },
+    {
+      "nome": "Enfermagem",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "Enfermagem",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37
+    },
+    {
+      "nome": "Enfermagem",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38
+    },
+    {
+      "nome": "Enfermagem",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nome": "Enfermagem",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 33
+    },
+    {
+      "nome": "Engenharia Agrícola",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32
+    },
+    {
+      "nome": "Engenharia Agrícola",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 49
+    },
+    {
+      "nome": "Engenharia Agrícola",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 28
+    },
+    {
+      "nome": "Engenharia Agrícola",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 27
+    },
+    {
+      "nome": "Engenharia Agrícola",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 27
+    },
+    {
+      "nome": "Engenharia Agrícola",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 26
+    },
+    {
+      "nome": "Engenharia Agrícola",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 25
+    },
+    {
+      "nome": "Engenharia Ambiental",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 28
+    },
+    {
+      "nome": "Engenharia Ambiental",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 28
+    },
+    {
+      "nome": "Engenharia Ambiental",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 21
+    },
+    {
+      "nome": "Engenharia Ambiental",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 24
+    },
+    {
+      "nome": "Engenharia Ambiental",
+      "modalidade": "Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nome": "Engenharia Ambiental",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 23
+    },
+    {
+      "nome": "Engenharia Ambiental",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 23
+    },
+    {
+      "nome": "Engenharia Civil",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 45
+    },
+    {
+      "nome": "Engenharia Civil",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 43
+    },
+    {
+      "nome": "Engenharia Civil",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 41
+    },
+    {
+      "nome": "Engenharia Civil",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 39
+    },
+    {
+      "nome": "Engenharia Civil",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nome": "Engenharia Civil",
+      "modalidade": "Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 33
+    },
+    {
+      "nome": "Engenharia Civil",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32
+    },
+    {
+      "nome": "Engenharia Civil",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 27
+    },
+    {
+      "nome": "Engenharia de Alimentos",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 17
+    },
+    {
+      "nome": "Engenharia de Alimentos",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 22
+    },
+    {
+      "nome": "Engenharia de Alimentos",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 21
+    },
+    {
+      "nome": "Engenharia de Alimentos",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 18
+    },
+    {
+      "nome": "Engenharia de Alimentos",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 22
+    },
+    {
+      "nome": "Engenharia de Alimentos",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 23
+    },
+    {
+      "nome": "Engenharia de Alimentos",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 25
+    },
+    {
+      "nome": "Engenharia de Alimentos",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 16
+    },
+    {
+      "nome": "Engenharia de Alimentos",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 19
+    },
+    {
+      "nome": "Engenharia de Alimentos",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 30
+    },
+    {
+      "nome": "Engenharia de Alimentos",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 20
+    },
+    {
+      "nome": "Engenharia de Alimentos",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 26
+    },
+    {
+      "nome": "Engenharia de Alimentos",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 21
+    },
+    {
+      "nome": "Engenharia de Alimentos",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 21
+    },
+    {
+      "nome": "Engenharia de Computação",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 58
+    },
+    {
+      "nome": "Engenharia de Computação",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 57
+    },
+    {
+      "nome": "Engenharia de Computação",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 54
+    },
+    {
+      "nome": "Engenharia de Computação",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 52
+    },
+    {
+      "nome": "Engenharia de Computação",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 45
+    },
+    {
+      "nome": "Engenharia de Computação",
+      "modalidade": "Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 59
+    },
+    {
+      "nome": "Engenharia de Computação",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "Engenharia de Computação",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38
+    },
+    {
+      "nome": "Engenharia de Controle e Automação",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 46
+    },
+    {
+      "nome": "Engenharia de Controle e Automação",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 56
+    },
+    {
+      "nome": "Engenharia de Controle e Automação",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nome": "Engenharia de Controle e Automação",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "Engenharia de Controle e Automação",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nome": "Engenharia de Controle e Automação",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nome": "Engenharia de Controle e Automação",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 27
+    },
+    {
+      "nome": "Engenharia de Manufatura",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 22
+    },
+    {
+      "nome": "Engenharia de Manufatura",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 21
+    },
+    {
+      "nome": "Engenharia de Manufatura",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 21
+    },
+    {
+      "nome": "Engenharia de Manufatura",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 23
+    },
+    {
+      "nome": "Engenharia de Manufatura",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 29
+    },
+    {
+      "nome": "Engenharia de Manufatura",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 24
+    },
+    {
+      "nome": "Engenharia de Manufatura",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 19
+    },
+    {
+      "nome": "Engenharia de Produção",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 47
+    },
+    {
+      "nome": "Engenharia de Produção",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 47
+    },
+    {
+      "nome": "Engenharia de Produção",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 43
+    },
+    {
+      "nome": "Engenharia de Produção",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 43
+    },
+    {
+      "nome": "Engenharia de Produção",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 25
+    },
+    {
+      "nome": "Engenharia de Produção",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 25
+    },
+    {
+      "nome": "Engenharia de Produção",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 24
+    },
+    {
+      "nome": "Engenharia de Telecomunicações",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 24
+    },
+    {
+      "nome": "Engenharia de Telecomunicações",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 25
+    },
+    {
+      "nome": "Engenharia de Telecomunicações",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 39
+    },
+    {
+      "nome": "Engenharia de Telecomunicações",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32
+    },
+    {
+      "nome": "Engenharia de Telecomunicações",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 24
+    },
+    {
+      "nome": "Engenharia de Telecomunicações",
+      "modalidade": "Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 45
+    },
+    {
+      "nome": "Engenharia de Telecomunicações",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32
+    },
+    {
+      "nome": "Engenharia de Transportes",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 18
+    },
+    {
+      "nome": "Engenharia de Transportes",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "Engenharia de Transportes",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 15
+    },
+    {
+      "nome": "Engenharia de Transportes",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 21
+    },
+    {
+      "nome": "Engenharia de Transportes",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 22
+    },
+    {
+      "nome": "Engenharia Elétrica",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 48
+    },
+    {
+      "nome": "Engenharia Elétrica",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 44
+    },
+    {
+      "nome": "Engenharia Elétrica",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nome": "Engenharia Elétrica",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 26
+    },
+    {
+      "nome": "Engenharia Elétrica",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 24
+    },
+    {
+      "nome": "Engenharia Elétrica",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 19
+    },
+    {
+      "nome": "Engenharia Elétrica",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nome": "Engenharia Elétrica",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 51
+    },
+    {
+      "nome": "Engenharia Elétrica",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37
+    },
+    {
+      "nome": "Engenharia Elétrica",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nome": "Engenharia Elétrica",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nome": "Engenharia Elétrica",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32
+    },
+    {
+      "nome": "Engenharia Elétrica",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 26
+    },
+    {
+      "nome": "Engenharia Mecânica",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 46
+    },
+    {
+      "nome": "Engenharia Mecânica",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 44
+    },
+    {
+      "nome": "Engenharia Mecânica",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nome": "Engenharia Mecânica",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "Engenharia Mecânica",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 19
+    },
+    {
+      "nome": "Engenharia Mecânica",
+      "modalidade": "Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 28
+    },
+    {
+      "nome": "Engenharia Mecânica",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 24
+    },
+    {
+      "nome": "Engenharia Mecânica",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 15
+    },
+    {
+      "nome": "Engenharia Química",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 50
+    },
+    {
+      "nome": "Engenharia Química",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 48
+    },
+    {
+      "nome": "Engenharia Química",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 46
+    },
+    {
+      "nome": "Engenharia Química",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 44
+    },
+    {
+      "nome": "Engenharia Química",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nome": "Engenharia Química",
+      "modalidade": "Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nome": "Engenharia Química",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nome": "Engenharia Química",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 30
+    },
+    {
+      "nome": "Engenharia Química",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 41
+    },
+    {
+      "nome": "Engenharia Química",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 60
+    },
+    {
+      "nome": "Engenharia Química",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38
+    },
+    {
+      "nome": "Engenharia Química",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 36
+    },
+    {
+      "nome": "Engenharia Química",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 36
+    },
+    {
+      "nome": "Engenharia Química",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37
+    },
+    {
+      "nome": "Engenharia Química",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 30
+    },
+    {
+      "nome": "Estatística",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 18
+    },
+    {
+      "nome": "Estatística",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "Estatística",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 29
+    },
+    {
+      "nome": "Estatística",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 22
+    },
+    {
+      "nome": "Estatística",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 16
+    },
+    {
+      "nome": "Estatística",
+      "modalidade": "Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 45
+    },
+    {
+      "nome": "Estatística",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 21
+    },
+    {
+      "nome": "Estudos Literários",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nome": "Estudos Literários",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 41
+    },
+    {
+      "nome": "Estudos Literários",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38
+    },
+    {
+      "nome": "Estudos Literários",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 41
+    },
+    {
+      "nome": "Estudos Literários",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 27
+    },
+    {
+      "nome": "Farmácia",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 48
+    },
+    {
+      "nome": "Farmácia",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 48
+    },
+    {
+      "nome": "Farmácia",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 44
+    },
+    {
+      "nome": "Farmácia",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nome": "Farmácia",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 48
+    },
+    {
+      "nome": "Farmácia",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "Farmácia",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 36
+    },
+    {
+      "nome": "Filosofia",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 39
+    },
+    {
+      "nome": "Filosofia",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nome": "Filosofia",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38
+    },
+    {
+      "nome": "Filosofia",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32
+    },
+    {
+      "nome": "Filosofia",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 31
+    },
+    {
+      "nome": "Filosofia",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37
+    },
+    {
+      "nome": "Filosofia",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 26
+    },
+    {
+      "nome": "Física - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 20
+    },
+    {
+      "nome": "Física - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 39
+    },
+    {
+      "nome": "Física - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 26
+    },
+    {
+      "nome": "Física - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 24
+    },
+    {
+      "nome": "Física - Licenciatura",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 28
+    },
+    {
+      "nome": "Física - Licenciatura",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32
+    },
+    {
+      "nome": "Física - Licenciatura",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 29
+    },
+    {
+      "nome": "Fonoaudiologia",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "Fonoaudiologia",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37
+    },
+    {
+      "nome": "Fonoaudiologia",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nome": "Fonoaudiologia",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nome": "Fonoaudiologia",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nome": "Fonoaudiologia",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 29
+    },
+    {
+      "nome": "Geografia",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "Geografia",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38
+    },
+    {
+      "nome": "Geografia",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 36
+    },
+    {
+      "nome": "Geografia",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nome": "Geografia",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 28
+    },
+    {
+      "nome": "Geografia",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 22
+    },
+    {
+      "nome": "Geografia",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 22
+    },
+    {
+      "nome": "Geografia",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 21
+    },
+    {
+      "nome": "Geografia",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 30
+    },
+    {
+      "nome": "Geografia",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 26
+    },
+    {
+      "nome": "Geografia",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 27
+    },
+    {
+      "nome": "Geografia",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 30
+    },
+    {
+      "nome": "Geografia",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38
+    },
+    {
+      "nome": "Geografia",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 19
+    },
+    {
+      "nome": "Geologia",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 22
+    },
+    {
+      "nome": "Geologia",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 29
+    },
+    {
+      "nome": "Geologia",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 16
+    },
+    {
+      "nome": "Geologia",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 21
+    },
+    {
+      "nome": "Geologia",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "Geologia",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 30
+    },
+    {
+      "nome": "História",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 47
+    },
+    {
+      "nome": "História",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 48
+    },
+    {
+      "nome": "História",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nome": "História",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "História",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 41
+    },
+    {
+      "nome": "História",
+      "modalidade": "Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 52
+    },
+    {
+      "nome": "História",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37
+    },
+    {
+      "nome": "História",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nome": "Letras - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 44
+    },
+    {
+      "nome": "Letras - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nome": "Letras - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "Letras - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38
+    },
+    {
+      "nome": "Letras - Licenciatura",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nome": "Letras - Licenciatura",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 27
+    },
+    {
+      "nome": "Letras - Licenciatura",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 24
+    },
+    {
+      "nome": "Letras - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nome": "Letras - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "Letras - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38
+    },
+    {
+      "nome": "Letras - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 36
+    },
+    {
+      "nome": "Letras - Licenciatura",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 43
+    },
+    {
+      "nome": "Letras - Licenciatura",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37
+    },
+    {
+      "nome": "Letras - Licenciatura",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nome": "Licenciatura Integrada Química/Física",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 21
+    },
+    {
+      "nome": "Licenciatura Integrada Química/Física",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 30
+    },
+    {
+      "nome": "Licenciatura Integrada Química/Física",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 16
+    },
+    {
+      "nome": "Licenciatura Integrada Química/Física",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 39
+    },
+    {
+      "nome": "Licenciatura Integrada Química/Física",
+      "modalidade": "Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "Linguística",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "Linguística",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nome": "Linguística",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 33
+    },
+    {
+      "nome": "Linguística",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 30
+    },
+    {
+      "nome": "Linguística",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 36
+    },
+    {
+      "nome": "Linguística",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nome": "Matemática - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 16
+    },
+    {
+      "nome": "Matemática - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 30
+    },
+    {
+      "nome": "Matemática - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 24
+    },
+    {
+      "nome": "Matemática - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 21
+    },
+    {
+      "nome": "Matemática - Licenciatura",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 23
+    },
+    {
+      "nome": "Matemática - Licenciatura",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 25
+    },
+    {
+      "nome": "Matemática - Licenciatura",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 20
+    },
+    {
+      "nome": "Medicina",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 64
+    },
+    {
+      "nome": "Medicina",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 62
+    },
+    {
+      "nome": "Medicina",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 60
+    },
+    {
+      "nome": "Medicina",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 58
+    },
+    {
+      "nome": "Medicina",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 59
+    },
+    {
+      "nome": "Medicina",
+      "modalidade": "Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 57
+    },
+    {
+      "nome": "Medicina",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 55
+    },
+    {
+      "nome": "Medicina",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 53
+    },
+    {
+      "nome": "Nutrição",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 43
+    },
+    {
+      "nome": "Nutrição",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 41
+    },
+    {
+      "nome": "Nutrição",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 39
+    },
+    {
+      "nome": "Nutrição",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37
+    },
+    {
+      "nome": "Nutrição",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38
+    },
+    {
+      "nome": "Nutrição",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nome": "Nutrição",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32
+    },
+    {
+      "nome": "Odontologia",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 44
+    },
+    {
+      "nome": "Odontologia",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 47
+    },
+    {
+      "nome": "Odontologia",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nome": "Odontologia",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38
+    },
+    {
+      "nome": "Odontologia",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38
+    },
+    {
+      "nome": "Odontologia",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 36
+    },
+    {
+      "nome": "Odontologia",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32
+    },
+    {
+      "nome": "Pedagogia - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 30
+    },
+    {
+      "nome": "Pedagogia - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 43
+    },
+    {
+      "nome": "Pedagogia - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 28
+    },
+    {
+      "nome": "Pedagogia - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 24
+    },
+    {
+      "nome": "Pedagogia - Licenciatura",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 17
+    },
+    {
+      "nome": "Pedagogia - Licenciatura",
+      "modalidade": "Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 24
+    },
+    {
+      "nome": "Pedagogia - Licenciatura",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 31
+    },
+    {
+      "nome": "Pedagogia - Licenciatura",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 21
+    },
+    {
+      "nome": "Pedagogia - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 33
+    },
+    {
+      "nome": "Pedagogia - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nome": "Pedagogia - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 29
+    },
+    {
+      "nome": "Pedagogia - Licenciatura",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 27
+    },
+    {
+      "nome": "Pedagogia - Licenciatura",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nome": "Pedagogia - Licenciatura",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 33
+    },
+    {
+      "nome": "Pedagogia - Licenciatura",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 29
+    },
+    {
+      "nome": "Química",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 41
+    },
+    {
+      "nome": "Química",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 49
+    },
+    {
+      "nome": "Química",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37
+    },
+    {
+      "nome": "Química",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nome": "Química",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 19
+    },
+    {
+      "nome": "Química",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 24
+    },
+    {
+      "nome": "Química",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 21
+    },
+    {
+      "nome": "Química Tecnológica",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 30
+    },
+    {
+      "nome": "Química Tecnológica",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 26
+    },
+    {
+      "nome": "Química Tecnológica",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 23
+    },
+    {
+      "nome": "Química Tecnológica",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nome": "Química Tecnológica",
+      "modalidade": "Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 33
+    },
+    {
+      "nome": "Química Tecnológica",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32
+    },
+    {
+      "nome": "Química Tecnológica",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 27
+    },
+    {
+      "nome": "Sistemas de Informação",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 45
+    },
+    {
+      "nome": "Sistemas de Informação",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 51
+    },
+    {
+      "nome": "Sistemas de Informação",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 41
+    },
+    {
+      "nome": "Sistemas de Informação",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 39
+    },
+    {
+      "nome": "Sistemas de Informação",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 33
+    },
+    {
+      "nome": "Sistemas de Informação",
+      "modalidade": "Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nome": "Sistemas de Informação",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 33
+    },
+    {
+      "nome": "Sistemas de Informação",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 25
+    },
+    {
+      "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+      "modalidade": "Não Cotistas - PAAIS 20",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38
+    },
+    {
+      "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 36
+    },
+    {
+      "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37
+    },
+    {
+      "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nome": "Tecnologia em Análise e Desenvolvimento de Sistemas",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 30
+    },
+    {
+      "nome": "Tecnologia em Saneamento Ambiental",
+      "modalidade": "Não Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 1
+    },
+    {
+      "nome": "Tecnologia em Saneamento Ambiental",
+      "modalidade": "Não Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 26
+    },
+    {
+      "nome": "Tecnologia em Saneamento Ambiental",
+      "modalidade": "Não Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 25
+    },
+    {
+      "nome": "Tecnologia em Saneamento Ambiental",
+      "modalidade": "Cotistas - PAAIS 0",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 43
+    },
+    {
+      "nome": "Tecnologia em Saneamento Ambiental",
+      "modalidade": "Cotistas - PAAIS 40",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 36
+    },
+    {
+      "nome": "Tecnologia em Saneamento Ambiental",
+      "modalidade": "Cotistas - PAAIS 60",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 18
+    }
+  ]
+}

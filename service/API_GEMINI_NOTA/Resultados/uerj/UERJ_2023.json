@@ -1,0 +1,2888 @@
+{
+  "nomeUniversidade": "UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO",
+  "siglaUniversidade": "UERJ",
+  "nomeVestibular": "VESTIBULAR ESTADUAL",
+  "ano": 2023,
+  "cursos": [
+    {
+      "nomeCurso": "Administração",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 56
+    },
+    {
+      "nomeCurso": "Administração",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Administração",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Administração",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Arqueologia",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 50
+    },
+    {
+      "nomeCurso": "Arqueologia",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 49.5
+    },
+    {
+      "nomeCurso": "Arqueologia",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Arqueologia",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Arquitetura e Urbanismo",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 57
+    },
+    {
+      "nomeCurso": "Arquitetura e Urbanismo",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Arquitetura e Urbanismo",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Arquitetura e Urbanismo",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 68.5
+    },
+    {
+      "nomeCurso": "Artes Visuais",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 60.5
+    },
+    {
+      "nomeCurso": "Artes Visuais",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Artes Visuais",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Artes Visuais",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 72
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 55.5
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 45.5
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 49.5
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44.5
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Ciências Atuariais",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 46.5
+    },
+    {
+      "nomeCurso": "Ciências Atuariais",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Ciências Atuariais",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Ciências Atuariais",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 60.5
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 48.5
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34.5
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Ciências Contábeis",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 50
+    },
+    {
+      "nomeCurso": "Ciências Contábeis",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Ciências Contábeis",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35.5
+    },
+    {
+      "nomeCurso": "Ciências Contábeis",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Ciências Econômicas",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 61
+    },
+    {
+      "nomeCurso": "Ciências Econômicas",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Ciências Econômicas",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37.5
+    },
+    {
+      "nomeCurso": "Ciências Econômicas",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 46.5
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35.5
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Design",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 68.5
+    },
+    {
+      "nomeCurso": "Design",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 48.5
+    },
+    {
+      "nomeCurso": "Design",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Design",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Direito",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 71
+    },
+    {
+      "nomeCurso": "Direito",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 47
+    },
+    {
+      "nomeCurso": "Direito",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41.5
+    },
+    {
+      "nomeCurso": "Direito",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37.5
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 54
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33.5
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 57.5
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 49.5
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44.5
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental e Sanitária",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40.5
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental e Sanitária",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental e Sanitária",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental e Sanitária",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Engenharia Cartográfica",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35.5
+    },
+    {
+      "nomeCurso": "Engenharia Cartográfica",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Engenharia Cartográfica",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Engenharia Cartográfica",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 49.5
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32.5
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Engenharia de Computação",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 55
+    },
+    {
+      "nomeCurso": "Engenharia de Computação",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Engenharia de Computação",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 39.5
+    },
+    {
+      "nomeCurso": "Engenharia de Computação",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Engenharia de Materiais",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42.5
+    },
+    {
+      "nomeCurso": "Engenharia de Materiais",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 48.5
+    },
+    {
+      "nomeCurso": "Engenharia de Materiais",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Engenharia de Materiais",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37.5
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41.5
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 62.5
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 43.5
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34.5
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34.5
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 43.5
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 39.5
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 56
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36.5
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Engenharia Metalúrgica",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Engenharia Metalúrgica",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Engenharia Metalúrgica",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Engenharia Metalúrgica",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35.5
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 64
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Estatística",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32.5
+    },
+    {
+      "nomeCurso": "Estatística",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Estatística",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Estatística",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 43.5
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Filosofia",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Filosofia",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Filosofia",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31.5
+    },
+    {
+      "nomeCurso": "Filosofia",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Física",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Física",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Física",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Física",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 45.5
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32.5
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33.5
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Geologia",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 45.5
+    },
+    {
+      "nomeCurso": "Geologia",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42.5
+    },
+    {
+      "nomeCurso": "Geologia",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38.5
+    },
+    {
+      "nomeCurso": "Geologia",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 61
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41.5
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32.5
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "História da Arte",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 51.5
+    },
+    {
+      "nomeCurso": "História da Arte",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 39.5
+    },
+    {
+      "nomeCurso": "História da Arte",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "História da Arte",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Jornalismo",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 68
+    },
+    {
+      "nomeCurso": "Jornalismo",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 50.5
+    },
+    {
+      "nomeCurso": "Jornalismo",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Jornalismo",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44.5
+    },
+    {
+      "nomeCurso": "Letras",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31.5
+    },
+    {
+      "nomeCurso": "Letras",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Letras",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37.5
+    },
+    {
+      "nomeCurso": "Letras",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Letras: Inglês/Literaturas",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 58.5
+    },
+    {
+      "nomeCurso": "Letras: Inglês/Literaturas",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Letras: Inglês/Literaturas",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Letras: Inglês/Literaturas",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 48.5
+    },
+    {
+      "nomeCurso": "Letras: Português/Alemão",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Letras: Português/Alemão",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36.5
+    },
+    {
+      "nomeCurso": "Letras: Português/Alemão",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Letras: Português/Alemão",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Letras: Português/Espanhol",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Letras: Português/Espanhol",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Letras: Português/Espanhol",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 47
+    },
+    {
+      "nomeCurso": "Letras: Português/Espanhol",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Letras: Português/Francês",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36.5
+    },
+    {
+      "nomeCurso": "Letras: Português/Francês",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Letras: Português/Francês",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 51
+    },
+    {
+      "nomeCurso": "Letras: Português/Francês",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Letras: Português/Grego",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Letras: Português/Grego",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 77
+    },
+    {
+      "nomeCurso": "Letras: Português/Grego",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Letras: Português/Grego",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Letras: Português/Italiano",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Letras: Português/Italiano",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Letras: Português/Italiano",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 52
+    },
+    {
+      "nomeCurso": "Letras: Português/Italiano",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Letras: Português/Japonês",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 50
+    },
+    {
+      "nomeCurso": "Letras: Português/Japonês",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 39.5
+    },
+    {
+      "nomeCurso": "Letras: Português/Japonês",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 49
+    },
+    {
+      "nomeCurso": "Letras: Português/Japonês",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Letras: Português/Latim",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Letras: Português/Latim",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Letras: Português/Latim",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36.5
+    },
+    {
+      "nomeCurso": "Letras: Português/Latim",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Letras: Português/Literatura",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 55.5
+    },
+    {
+      "nomeCurso": "Letras: Português/Literatura",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40.5
+    },
+    {
+      "nomeCurso": "Letras: Português/Literatura",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Letras: Português/Literatura",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36.5
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33.5
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42.5
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33.5
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 64
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41.5
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 92.5
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 81.5
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 76
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 78.5
+    },
+    {
+      "nomeCurso": "Nutrição",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 61
+    },
+    {
+      "nomeCurso": "Nutrição",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 46.5
+    },
+    {
+      "nomeCurso": "Nutrição",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41.5
+    },
+    {
+      "nomeCurso": "Nutrição",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 49
+    },
+    {
+      "nomeCurso": "Oceanografia",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 47
+    },
+    {
+      "nomeCurso": "Oceanografia",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36.5
+    },
+    {
+      "nomeCurso": "Oceanografia",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Oceanografia",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 69
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 51.5
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 46.5
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 45.5
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33.5
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32.5
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33.5
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 72
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 55.5
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 51.5
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 39.5
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36.5
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Relações Internacionais",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 71.5
+    },
+    {
+      "nomeCurso": "Relações Internacionais",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 56
+    },
+    {
+      "nomeCurso": "Relações Internacionais",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Relações Internacionais",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Relações Públicas",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 60.5
+    },
+    {
+      "nomeCurso": "Relações Públicas",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 46.5
+    },
+    {
+      "nomeCurso": "Relações Públicas",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 43.5
+    },
+    {
+      "nomeCurso": "Relações Públicas",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Serviço Social",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Serviço Social",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Serviço Social",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Serviço Social",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Tecnol. em Análise e Desenv. de Sistema",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Tecnol. em Análise e Desenv. de Sistema",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Tecnol. em Análise e Desenv. de Sistema",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 58.5
+    },
+    {
+      "nomeCurso": "Tecnol. em Análise e Desenv. de Sistema",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Tecnologia em Construção Naval",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Tecnologia em Construção Naval",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Tecnologia em Construção Naval",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Tecnologia em Construção Naval",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "Turismo",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Turismo",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35.5
+    },
+    {
+      "nomeCurso": "Turismo",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36.5
+    },
+    {
+      "nomeCurso": "Turismo",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS...",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": null
+    }
+  ]
+}

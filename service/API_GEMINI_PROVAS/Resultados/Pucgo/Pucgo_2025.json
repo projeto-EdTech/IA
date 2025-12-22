@@ -1,0 +1,792 @@
+{
+  "nomeUniversidade": "Pontifícia Universidade Católica de Goiás",
+  "siglaUniversidade": "PUC GOIÁS",
+  "nomeProva": "Vestibular de Medicina",
+  "ano": 2025,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Leia com atenção o fragmento do texto Prefácio interessantíssimo, de Mário de Andrade:\n\nA gramática apareceu depois de organizadas as línguas. Acontece que meu inconsciente não sabe da existência de gramáticas, nem de línguas organizadas. E como Dom Lirismo é contrabandista...\nVocê perceberá com facilidade que, se na minha poesia a gramática às vezes é desprezada, graves insultos não sofre neste prefácio interessantíssimo. Prefácio: rojão do meu eu superior. Versos: paisagem do meu eu profundo.\nPronomes? Escrevo brasileiro. Se uso ortografia portuguesa é porque, não alterando o resultado, dá-me uma ortografia.\nEscrever arte moderna não significa jamais para mim representar a vida atual no que tem de exterior: automóveis, cinema, asfalto. Se estas palavras frequentam-me o livro não é porque pense com elas escrever moderno, mas porque, sendo meu livro moderno, elas têm nele sua razão de ser.\n\n(ANDRADE, Mário. Paulicéia Desvairada, In: Poesias completas. São Paulo: Martins,1996, pp. 28-29, apud NEVES, Maria Helena de Moura. A gramática do português revelada em texto. São Paulo: Editora da Unesp, 2018, p. 514. Adaptado.)\n\nConsidere a leitura e a estruturação do texto apresentado e analise as informações a seguir:\n\nI - Predominam, no texto, as funções de linguagem, apelativa e metalinguística, pois o escritor fala de sua visão de gramática e de seu ofício de escrever.\nII - Nos trechos: “[...] rojão do meu eu superior.” e “[...] paisagem do meu eu profundo.”, o pronome pessoal “eu” está substantivado.\nIII - Na oração “Se estas palavras frequentam-me o livro [...].\", o pronome pessoal “me” foi empregado com valor de pronome possessivo.\nIV - No trecho \"Você perceberá [...] prefácio interessantíssimo.\" o escritor manifesta desprezo e rebeldia por seu prefácio e por seus versos.\n\nMarque a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II, III e IV apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e II apenas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Funções da Linguagem",
+        "Língua Portuguesa – Modernismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Veja um trecho da canção Tanto Mar, na qual Chico Buarque celebra a vitória da Revolução dos Cravos:\n\n\"Foi bonita a festa, pá / Fiquei contente / Ainda guardo renitente / Um velho cravo para mim / Já murcharam tua festa, pá / Mas certamente / Esqueceram uma semente / Nalgum canto de jardim.”\n\nMarque a alternativa que aponta corretamente as consequências do sucesso da Revolução dos Cravos para a história dos países africanos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Levou à implantação do socialismo nos países herdeiros da cultura francesa, a exemplo da Argélia e do Marrocos que, por causa da Guerra Fria, foram apoiados pela União Soviética em suas lutas."
+        },
+        {
+          "letra": "B",
+          "texto": "Resultou na negociação com os movimentos que buscavam a independência de Angola e de Moçambique, consolidando a derrocada do Império Colonial Português."
+        },
+        {
+          "letra": "C",
+          "texto": "Acarretou a eleição de Nelson Mandela, que havia ficado mais de 30 anos preso, na África do Sul, e também a consequente anulação do regime de Apartheid."
+        },
+        {
+          "letra": "D",
+          "texto": "Trouxe aos grupos oponentes da Guerra Fria a necessidade de regulamentar a navegação nos mares africanos, gerando os primeiros tratados que construíram a paz nos territórios marítimos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Descolonização da África"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "No período de 27 de abril a 29 de maio de 2024, o Rio Grande do Sul passou por situações de calamidade, quando enchentes e alagamentos atingiram cerca de 470 cidades, deixando vítimas, além de centenas de milhares de desabrigados.\n\nMarque a alternativa que apresenta fatores naturais que contribuíram para a configuração das situações catastróficas que assolaram o Rio Grande do Sul:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Atuação de frente fria, advinda da massa de ar Tropical Atlântica, associada ao efeito orográfico da região Sul do estado."
+        },
+        {
+          "letra": "B",
+          "texto": "Atuação de frente fria, advinda da massa de ar Polar Atlântica, associada ao baixo gradiente altimétrico do rio Guaíba."
+        },
+        {
+          "letra": "C",
+          "texto": "Atuação de correntes úmidas, advindas da massa de ar Tropical Atlântica, associada ao efeito orográfico na região Sul do estado."
+        },
+        {
+          "letra": "D",
+          "texto": "Atuação de correntes úmidas, advindas da massa de ar Equatorial Continental, associada ao relevo montanhoso da região de Porto Alegre."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Dois caminhos (r e s) retilíneos são reversos, e a distância entre eles é de 20 metros, dada pelo segmento MN, M em r e N em s. Sobre o caminho r, há um posto de atendimento (A) aos ciclistas, situado a 40 metros de M e, sobre o caminho s, há outro posto de atendimento (B) aos ciclistas, situado a 40 metros de N.\n\nNessas condições dadas, marque a alternativa que corretamente apresenta a distância entre os postos de atendimento A e B:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "80 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "60 metros."
+        },
+        {
+          "letra": "C",
+          "texto": "40 metros."
+        },
+        {
+          "letra": "D",
+          "texto": "20 metros."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Leia o texto a seguir sobre reações enzimáticas:\n\nO Robô Curiosity, da Nasa, protagonizou uma descoberta inédita \"sem querer” em Marte. Ele passou por cima de uma rocha brilhante que se partiu e, dentro dela, havia enxofre puro, mineral que nunca tinha sido encontrado no Planeta desta forma, segundo a agência espacial.\nA descoberta aconteceu no dia 30 de maio, mas a divulgação só aconteceu agora. Desde outubro, o robô tem explorado uma região rica em sulfatos – um tipo de sal que contém enxofre e se forma à medida que a água evapora. Mas, nessa versão, o enxofre está misturado com outros materiais, e não da forma como foi encontrado.\n\n(Disponível em: https://g1.globo.com/ciencia/noticia/2024/07/20/robo-da-nasa-atropela-rocha-em-marte-que-se-parte-e-revela-mineral-inedito-no-planeta.ghtml. Acesso em: 04 ago. 2024. Adaptado.)\n\nConsiderando as informações apresentadas, analise os itens a seguir:\n\nI - O enxofre na Terra pode ser encontrado como S8. Esses átomos estão ligados entre si por ligações metálicas, uma vez que o enxofre pertence à família dos metais na tabela periódica.\nII - Levando em consideração a pressão atmosférica, e que essa é menor em Marte que na Terra, pode-se dizer que, submetida à mesma temperatura, a água evapora mais facilmente no primeiro Planeta.\nIII - A atmosfera de Marte contém, principalmente, 95% de dióxido de carbono, 3% de nitrogênio e 1,6% de argônio. A massa molar do argônio é maior que a dos demais, dessa forma, a sua pressão parcial será maior.\n\nConsiderando os itens apresentados, assinale a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e II apenas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Propriedades da Matéria",
+        "Química – Tabela Periódica"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Leia as afirmações a seguir sobre o Arcadismo brasileiro:\n\nNo Brasil, o Arcadismo é contemporâneo da passagem do eixo político e econômico para o Sul. No Rio de Janeiro e nas cidades da Capitania das Minas Gerais, ocorre o movimento cultural e literário mais característico na segunda metade do século XVIII e começo do século XIX, já ligados à crise do estatuto colonial e às aspirações de independência em relação à Metrópole. Alguns poetas arcádicos serão processados, presos, desterrados, devido à sua posição crítica em relação ao Governo Português e a projetos mais ou menos vagos de separação.\n\n(CANDIDO, Antonio. Iniciação à literatura brasileira: resumo para principiantes/ Antonio Candido. 3. ed. São Paulo: Humanitas/ FFLCH/USP, 1999, p. 30. Adaptado.)\n\nMarque a única alternativa correta sobre a atuação dos poetas árcades brasileiros:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Faziam uso, em seus poemas, do Cultismo e do Conceptismo, como volta ao passado."
+        },
+        {
+          "letra": "B",
+          "texto": "Criticavam a simplicidade da linguagem, exaltando o culto da forma."
+        },
+        {
+          "letra": "C",
+          "texto": "Utilizavam as ideias iluministas na luta pela independência do país."
+        },
+        {
+          "letra": "D",
+          "texto": "Refutavam as ideias da escola anterior, o Romantismo."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Arcadismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Assim Frei Caneca descreveu o lugar para onde foram enviados os presos da Confederação do Equador: \"[...] mandou-nos para a cadeia incomunicáveis, em um calabouço que antes servia de armário de guardar as cabeças dos enforcados. Este infernal calabouço tem de comprimento 13 palmos e de largura é tão estreito que um dos companheiros, que era o mais alto de nós, estando deitado, tocava com a cabeça em uma parede, e com os pés na outra oposta.\"\n\n(FONSECA, Silvia Carla P. de Brito. História e Memória: os relatos da Confederação do Equador (1824-1924). Revista Maracanan, Rio de Janeiro, 3(3), pp. 31-56. 2005/2007.)\n\nMarque a alternativa que descreve de maneira correta a Confederação, na qual o frade combateu e teve ceifada sua vida:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A Confederação do Equador foi um movimento separatista que, resistindo à monarquia brasileira recém-implantada, visava proclamar uma república federalista, semelhante à república dos Estados Unidos da América."
+        },
+        {
+          "letra": "B",
+          "texto": "A Confederação do Equador foi um movimento diplomático de aproximação entre a ex-colônia lusitana e as ex-colônias espanholas, tornadas independentes sob a direção de Simon Bolívar, nos países ao Norte, e San Martin, nos países ao Sul."
+        },
+        {
+          "letra": "C",
+          "texto": "A Confederação do Equador foi um movimento político-religioso em que o clero se uniu aos povos indígenas e a alguns ex-escravizados, visando constituir uma federação de aldeias, independente dos controles do Estado brasileiro."
+        },
+        {
+          "letra": "D",
+          "texto": "A Confederação do Equador foi um movimento messiânico do nordeste brasileiro, em que, devido às profecias de Frei Caneca, esperava-se o retorno de um “rei mítico”, inspirado em Dom Sebastião, para restaurar a monarquia no país."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Período Regencial no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Um quadrado mágico é formado por n linhas e n colunas. Quando a soma dos elementos de uma coluna qualquer é constante, e a soma de uma linha qualquer é constante e igual à constante da coluna, a constante é denominada de mágica. As linhas e colunas do quadrado mágico são preenchidas pelos números 1, 2, 3, ..., n², sem repetição, ou seja, cada um é utilizado uma vez, de modo a atender o critério citado.\n\nConsiderando as informações lidas, assinale a alternativa que apresenta corretamente o valor da constante mágica do quadrado mágico:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$(1 + n).n²/2$."
+        },
+        {
+          "letra": "B",
+          "texto": "$(1 + n²).n/2$."
+        },
+        {
+          "letra": "C",
+          "texto": "$(1 + 2n).n/2$."
+        },
+        {
+          "letra": "D",
+          "texto": "$(1 + n).n/2$."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Sequências e Progressões"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Ao passar pelo povoado de Campinas no final do século XIX, o bispo Dom Eduardo Duarte Silva (1890-1907) registrou em seu diário que era um dos lugares mais aprazíveis de Goiás, ao possuir vasta “[...] planície, abundante e excelente a água, matas de primeira qualidade, de modo que presta-se [sic] para uma futurosa cidade, e talvez mesmo para a capital do Estado, tão mal situada.\" (Silva, 2007).\n\n(SILVA, Eduardo Duarte. Passagens: autobiografia de Dom Eduardo Silva, Bispo de Goyaz. Goiânia: Editora da UCG, 2007, p. 88.)\n\nA \"profecia\" de Dom Eduardo Duarte se cumpriria algumas décadas mais tarde, quando, em 1937, Goiânia se tornou a nova capital de Goiás.\n\nMarque a alternativa que corretamente apresenta os motivos apontados para que fosse feita a transferência da capital de Goiás:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A ausência de universidades, o clima demasiado seco, a grande dependência econômica da pecuária e o isolamento geográfico da Cidade de Goiás."
+        },
+        {
+          "letra": "B",
+          "texto": "A falta de indústrias na Cidade de Goiás, a dificuldade da chegada da estrada de ferro por causa da Serra Dourada, o clima demasiado quente e as ruas tortuosas."
+        },
+        {
+          "letra": "C",
+          "texto": "O problema crônico de abastecimento de água, a temperatura excessiva, as dificuldades para uma reforma urbanística e as condições sanitárias da antiga capital."
+        },
+        {
+          "letra": "D",
+          "texto": "O isolamento geográfico da Cidade de Goiás, o clima muito seco, a impossibilidade da chegada da estrada de ferro, por causa da Serra Dourada, e a falta de universidades."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Urbanização",
+        "História – História Regional de Goiás"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Leia o texto, a seguir, sobre o armazenamento de alimentos:\n\nOnde você armazena os ovos na geladeira? Na dica de química desta terça-feira (20) do Projeto Educação, que revisa conteúdos que caem no Exame Nacional do Ensino Médio (Enem), o professor Gilton Lyra explica como utilizar corretamente o refrigerador para retardar ao máximo o processo de oxidação dos alimentos.\nO professor explica que o apodrecimento é decorrente de uma série de reações químicas que podem ser retardadas para que a comida fique com mais valor nutritivo, durante um tempo maior. A estratégia mais utilizada no dia a dia é o resfriamento. “Quando a gente diminui a temperatura, a gente diminui a velocidade de qualquer reação química”, pontua Gilton Lyra.\n\n(Disponível em: https://g1.globo.com/pernambuco/educacao/noticia/2016/09/refrigeracao-dos-alimentos-retarda-o-processo-de-apodrecimento.html. Acesso em: 01 jul. 2024. Adaptado.)\n\nConsiderando as informações apresentadas, analise os itens a seguir:\n\nI - O aumento da temperatura leva a uma frequência maior de colisões entre as moléculas reagentes e aumenta também a energia com que elas se chocam.\nII - A diminuição da temperatura dificulta as moléculas dos reagentes a atingirem o estado ativado, no qual se forma o complexo ativado.\nIII - Quanto menor a energia de ativação, maior será a velocidade de reação.\n\nConsiderando os itens apresentados, assinale a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e II apenas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Cinética Química"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Leia o poema Reflexivo, de Affonso Romano de Sant'Anna:\n\nO que não escrevi, calou-me.\nO que não fiz, partiu-me.\nO que não senti, doeu-se.\nO que não vivi, morreu-se.\n\nO que adiei, adeus-se.\n\n(SANT'ANNA, Afonso Romano de. In: O Globo, 1991, apud PEREIRA, Gil Carlos. A palavra: expressão e criatividade. São Paulo: Moderna, 1997, p. 36.)\n\nCom base na leitura do poema, marque a alternativa que apresenta a intenção do eu lírico com a temática predominante no texto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Compartilhar suas desilusões amorosas."
+        },
+        {
+          "letra": "B",
+          "texto": "Revelar pressões externas que o impediram de agir."
+        },
+        {
+          "letra": "C",
+          "texto": "Manifestar a proibição à sua capacidade de comunicação."
+        },
+        {
+          "letra": "D",
+          "texto": "Externalizar o arrependimento por ações não praticadas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Poemas"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Leia o fragmento do artigo Presbiopia: fatores e tratamento, publicado pelo Hospital da Visão Santa Catarina:\n\nConhecida também como \"Vista Cansada\", a Presbiopia é um problema ocular que se caracteriza pela piora da visão, quando os olhos lentamente perdem a capacidade de focar objetos muito próximos, como na leitura de um jornal, por exemplo.\nCausas da Presbiopia – A Presbiopia acontece com o avanço da idade, pois é um processo natural de envelhecimento do corpo, em geral iniciando aos 40/45 anos de idade. Vale informar que todas as pessoas serão afetadas até os 50 anos. Como o cristalino é movido pelos músculos ciliares, esses músculos ao longo do tempo começam a funcionar não tão bem. Com isso, o cristalino, que se assemelha a uma lente, não consegue focalizar a imagem como antes. Dessa forma, a visão de perto fica prejudicada.\n\n(Disponível em: https://www.hospitalvisaosc.com.br/artigo/6/presbiopia-fatores-e-tratamento-. Acesso em: 25 jul. 2024. Adaptado.)\n\nSuponha que uma pessoa com 50 anos de idade e com sinais e presbiopia posicione seu jornal a 50 cm de distância de seu rosto para conseguir lê-lo nitidamente, enquanto uma pessoa com visão normal precisa posicioná-lo a 25 cm de distância.\n\nMarque a alternativa que corretamente indica as características da lente necessária para a correção desse problema:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Divergente e com –2 di de vergência."
+        },
+        {
+          "letra": "B",
+          "texto": "Divergente e com –4 di de vergência."
+        },
+        {
+          "letra": "C",
+          "texto": "Convergente e com 2 di de vergência."
+        },
+        {
+          "letra": "D",
+          "texto": "Convergente e com 4 di de vergência."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Óptica da Visão"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Os animais são organismos pluricelulares tipicamente diploides, podendo ser vertebrados ou invertebrados. Entre os invertebrados, existem animais com variações morfológicas que possibilitam a distinção entre grupos.\n\nAnalise atentamente as características de diferentes grupos de animais invertebrados, apresentadas nos itens que se seguem:\n\nI - Animais triblásticos, celomados, protostômios; simetria bilateral: apresentam metameria, sistema circulatório fechado e sistema respiratório cutâneo; sistema digestório completo.\nII - Animais triblásticos, pseudocelomados, protostômios; simetria bilateral: não apresentam metameria, não apresentam sistema circulatório e respiratório; sistema digestório completo.\nIII - Animais triblásticos, celomados, protostômios; simetria bilateral: apresentam metameria, sistema circulatório aberto e sistema respiratório traqueal; sistema digestório completo.\nIV - Animais triblásticos, acelomados, protostômios; simetria bilateral: não apresentam metameria, não apresentam sistema circulatório e respiratório; sistema digestório incompleto.\n\nMarque, entre as alternativas a seguir, aquela que apresenta a correta associação das características com os respectivos grupos de animais invertebrados:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I - Artrópodes; II - Nematódeos; III - Anelídeos; IV - Platelmintos."
+        },
+        {
+          "letra": "B",
+          "texto": "I - Artrópodes; II - Platelmintos; III - Anelídeos; IV - Nematódeos."
+        },
+        {
+          "letra": "C",
+          "texto": "I - Anelídeos; II - Platelmintos; III - Artrópodes; IV - Nematódeos."
+        },
+        {
+          "letra": "D",
+          "texto": "I - Anelídeos; II - Nematódeos; III - Artrópodes; IV - Platelmintos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Zoologia de Invertebrados"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Leia o fragmento do texto O Romantismo no Brasil, de Antonio Candido:\n\nEm relação aos temas, a novidade foi o toque social, que assumirá grande vulto no decênio de 1870, cultivado tanto por versejadores de toda a sorte, arrastados pelos movimentos sociais do período, quanto pelos poetas de boa qualidade [...].\n\n(CANDIDO, Antonio. O Romantismo no Brasil. São Paulo: Humanitas/FFLCH/SP, 2004, p. 65. Adaptado.)\n\nDado:\n*Versejador: [Pejorativo] Aquele cuja composição poética é péssima; poeta medíocre. Que compõe versos; que escreve poesia.\n\nMarque a alternativa correta a que as informações do fragmento lido se referem, levando-se em conta que o Romantismo brasileiro está dividido em três momentos específicos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Segunda Geração, postura de sentimentalismo e egocentrismo exagerados."
+        },
+        {
+          "letra": "B",
+          "texto": "Segunda Geração, visão melancólica e introspectiva da vida e dos dilemas existentes na sociedade."
+        },
+        {
+          "letra": "C",
+          "texto": "Terceira Geração, discussão de temas de cunho social e uma visão crítica da sociedade."
+        },
+        {
+          "letra": "D",
+          "texto": "Primeira Geração, construção de uma identidade nacional para o Brasil."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Romantismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "O sistema endócrino, formado por certas glândulas e alguns órgãos, é fundamental para o funcionamento adequado do organismo humano e é também responsável pela coordenação entre diversos órgãos e seus devidos processos fisiológicos.\n\nAnalise as afirmativas, apresentadas a seguir, que tratam de características de diferentes glândulas do sistema endócrino:\n\nI - Está localizada no cérebro, próxima ao hipotálamo e sua função é produzir e secretar o hormônio melatonina a partir do neurotransmissor serotonina. Está relacionada com a produção de hormônios que atuam sobre os ritmos biológicos, regulação do sono e diminuição do estresse, entre outras funções.\nII - Está localizada sobre a traqueia e secreta os hormônios tiroxina e triiodotironina que estão relacionados com a regulação do metabolismo celular.\nIII - Está localizada na base do encéfalo, apresenta dois tipos distintos de células endócrinas, produzindo, entre vários hormônios, a oxitocina, que estimula a contração das musculaturas do útero e das glândulas mamárias.\n\nApós a análise das afirmativas, marque aquela que corresponde à associação correta da característica apresentada e sua respectiva glândula no sistema endócrino:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I - Glândula pineal; II - Glândulas paratireoides; III - Glândulas suprarrenais."
+        },
+        {
+          "letra": "B",
+          "texto": "I - Hipófise; II - Glândulas tireoides; III - Timo."
+        },
+        {
+          "letra": "C",
+          "texto": "I - Glândula pineal; II - Glândulas tireoides; III - Hipófise."
+        },
+        {
+          "letra": "D",
+          "texto": "I-Timo; II - Glândulas paratireoides; III - Hipófise."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Sistema Endócrino"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Choose the option that conveys the same idea expressed in \"Actually, that topic is very sensitive”:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "That question is notably sympathetic."
+        },
+        {
+          "letra": "B",
+          "texto": "Indeed, that matter is quite delicate."
+        },
+        {
+          "letra": "C",
+          "texto": "Nowadays, that subject is sensible."
+        },
+        {
+          "letra": "D",
+          "texto": "Today, that is a very touchy theme."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Vocabulário e Sinonímia"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "A influência de Gramsci nas ideias de Zygmunt Bauman é significativa, especialmente no que diz respeito ao conceito de hegemonia cultural e à crítica da modernidade. Gramsci, com sua teoria da hegemonia, estudou e analisou como a classe dominante mantém o poder por meio do controle cultural e ideológico, e não apenas pela força. Bauman, por sua vez, aplicou essa perspectiva para analisar a modernidade líquida, caracterizada pela fluidez e pela incerteza nas estruturas sociais e nas identidades individuais.\n\nDe acordo com as influências e concepções dos autores citados, analise as afirmações a seguir e marque a alternativa que melhor descreve a relação entre as ideias de Gramsci e Bauman:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Bauman rejeitou completamente as ideias de Gramsci, afirmando que o controle cultural não desempenhava nenhum papel na sociedade moderna."
+        },
+        {
+          "letra": "B",
+          "texto": "Bauman utilizou a teoria de hegemonia cultural de Gramsci para entender as dinâmicas da modernidade líquida e a incerteza nas estruturas sociais."
+        },
+        {
+          "letra": "C",
+          "texto": "Gramsci e Bauman concordavam que a força militar era a principal forma de controle social na modernidade."
+        },
+        {
+          "letra": "D",
+          "texto": "Gramsci acreditava que a hegemonia cultural era irrelevante, enquanto Bauman enfatizava a importância do controle econômico."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Sociologia – Teoria Sociológica Contemporânea"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "O processo de regionalização geográfica envolve a avaliação de fatores ambientais e socioeconômicos e se mostra imprescindível para o conhecimento e o planejamento territorial, bem como para a formulação de políticas públicas.\n\nConsiderando o exposto, marque a alternativa que apresenta os critérios de regionalização, utilizados por Milton Santos e Maria Laura Silveira, na definição dos \"quatro brasis\":",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Distribuição espacial das informações e finanças pelo território brasileiro."
+        },
+        {
+          "letra": "B",
+          "texto": "Distribuição nacional dos setores primário, secundário e terciário da economia."
+        },
+        {
+          "letra": "C",
+          "texto": "Distribuição espaço-temporal dos processos de urbanização e industrialização."
+        },
+        {
+          "letra": "D",
+          "texto": "Distribuição espacial da população e instituições de ensino e pesquisa."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Regionalização do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Enquanto desfilava em carro aberto pelas ruas de Dallas, cidade do Texas, o presidente norte-americano, de 1961 a 1963, John F. Kennedy, foi atingido por dois tiros que o levaram à morte. Dentre as ações inovadoras de seu governo, estava a criação da Aliança para o Progresso, programa que modificou as relações políticas com os governos latino-americanos.\n\nMarque a alternativa que caracteriza corretamente tal programa institucional norte-americano:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A Aliança para o Progresso foi um programa de investimentos, especialmente no campo social e educacional, que visava o incremento da visão capitalista no continente latino-americano e o consequente combate ao que representava a vitória da Revolução Cubana."
+        },
+        {
+          "letra": "B",
+          "texto": "A Aliança para o Progresso foi um conjunto de ações voltadas para a abertura do livre comércio entre as Américas, o que resultou no rápido crescimento industrial durante a década de 1960, ainda que os regimes ditatoriais se espalhassem pelo continente."
+        },
+        {
+          "letra": "C",
+          "texto": "A Aliança para o Progresso foi um programa de formação intelectual que patrocinou a estada de cientistas e militares latino-americanos nas melhores instituições norte-americanas, formando as lideranças que ditaram as políticas governamentais nos anos seguintes."
+        },
+        {
+          "letra": "D",
+          "texto": "A Aliança para o Progresso foi a reunião das principais potências do continente, sob a direção dos Estados Unidos para criar uma organização governativa pan-americana, democrática e economicamente autônoma, de modo a enfrentar o avanço dos investimentos europeus."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Guerra Fria"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Leia o fragmento do texto, a seguir, sobre o consumo de vinagre:\n\nApesar dos benefícios do vinagre de maçã, é necessário ficar atento aos possíveis efeitos colaterais de sua ingestão no organismo.\nQuando ingerido em grandes quantidades, o vinagre pode causar algumas reações no corpo, como o aumento da acidez estomacal [...].\nAlém desse desconforto, o efeito do ácido no estômago também pode piorar lesões no órgão, como úlceras.\n\n(Disponível em: https://www.cnnbrasil.com.br/saude/clareia-os-dentes-e-emagrece-veja-beneficios-e-mitos-sobre-o-vinagre-de-maca/#:~:text=Quando%20ingerido%20em%20grandes%20quantidades,les%C3%B5es%20no%20%C3%B3rg%C3%A3o%2C%20como%20%C3%BAlceras. Acesso em: 10 jul. 2024. Adaptado.)\n\nConsidere uma solução contendo uma mistura de ácido forte com um ácido fraco. O ácido forte é o ácido clorídrico e o ácido fraco é o ácido acético. A concentração do ácido clorídrico na solução é de $0,01\\ mol \\cdot L^{-1}$, e a concentração do ácido acético é de $0,01\\ mol \\cdot L^{-1}$. O valor de Ka para o ácido acético é $1,8 \\times 10^{-5}$.\n\nAnalise as alternativas a seguir e marque a única correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O pH da solução recebe menos contribuições de íons $H^{+}$, provenientes do ácido acético, do que as provenientes do ácido clorídrico."
+        },
+        {
+          "letra": "B",
+          "texto": "O pH da solução pode ser calculado, usando a fórmula $pH = -\\log[K_a]$, após considerar o efeito combinado de ambos os ácidos."
+        },
+        {
+          "letra": "C",
+          "texto": "O pH da solução é determinado pela dissociação do ácido acético, uma vez que a contribuição do ácido clorídrico é insignificante."
+        },
+        {
+          "letra": "D",
+          "texto": "O pH da solução é igual ao pH da solução de ácido acético puro, pois este é o ácido mais fraco."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Equilíbrio Iônico e pH"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Teodora de Bizâncio (497 ou 500 a 548 d.C.) foi uma mulher de origem plebeia que atingiu a augusta posição de imperatriz. Ela muito contribuiu na carreira de seu marido, o Imperador Justiniano I. O casal governou durante um período de esplendor do Império Romano do Oriente, alcançando sucessos militares e crescimento econômico.\n\nMarque a alternativa que destaca corretamente uma das realizações desse governo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Realização do Concílio de Niceia, que sistematizou os primeiros dogmas cristãos, organizou os textos da Bíblia e estabeleceu leis para a disciplina eclesiástica, dividindo o clero em ordens femininas e masculinas."
+        },
+        {
+          "letra": "B",
+          "texto": "Fundação da cidade de Constantinopla que, além de homenagear o grande imperador romano que deu liberdade à Igreja Católica, transformou-se rapidamente em um importante centro econômico e cultural do mundo antigo."
+        },
+        {
+          "letra": "C",
+          "texto": "Edificação de diversos Arcos do Triunfo, comemorativos da glória romana, com os quais o casal imperial se impôs sobre os povos germânicos, conseguindo latinizar boa parte de seus costumes."
+        },
+        {
+          "letra": "D",
+          "texto": "Elaboração do Corpo de Direito Civil, que consolidou a teocracia bizantina e reorganizou o sistema jurídico, incluindo medidas que promoveram a condição social das mulheres."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Império Bizantino"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Complete the following sentences with the right form of the verb \"to go”:\n\nI - If the store is closed, we ___ to another one.\nII - If the store is closed today, we ___ to another one.\nIII - If the store was closed today, we ___ to another one.\nIV - If the store had been closed, we ___ to another one.\n\nChoose the option with the correct sequence:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "will go - go – have gone – had gone."
+        },
+        {
+          "letra": "B",
+          "texto": "go - go - went - had gone."
+        },
+        {
+          "letra": "C",
+          "texto": "go - will go – would go – would have gone."
+        },
+        {
+          "letra": "D",
+          "texto": "will go – will go - went – have gone."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Tempos Verbais e Orações Condicionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Leia o texto a seguir:\n\nPor que a torrada cai de ponta-cabeça\n\nParece perseguição do azar: quando escapa da mão, um pedaço de pão ou torrada sempre aterrissa com a manteiga voltada para baixo. Mas, segundo o físico Roberto Matthews, da Universidade de Aston, em Birmingham, na Inglaterra, o inevitável acidente não é obra do destino, mas resultado da ação da força de gravidade. Depois de passar dias criando e resolvendo complicadas equações, ele chegou à conclusão de que a manteiga sempre vai de encontro ao chão simplesmente porque a torrada não tem tempo, durante a queda, de se virar para cima. Quando escorrega de uma mesa de altura média (cerca de 80 centímetros), ela começa a girar no ar. Daí para a frente, o movimento segue o mesmo sentido, ao longo da queda. Para não cair de cabeça para baixo, a torrada teria de dar uma volta bem grande em torno de si mesma, ou seja, percorrer cerca de 270 graus, voltando a face amanteigada para cima. Mas, no final dos 80 centímetros da viagem, ela não tem tempo para isso. Matthews fez os cálculos e concluiu: se não quiser manchar o tapete, melhor comer sua torrada no alto de uma escada.\n\n(Superinteressante, ano 9, n.10, apud FARACO, Carlos Alberto; TEZZA, Cristovão. Oficina de texto. 10. ed. Petrópolis: Vozes, 2013, p. 18.)\n\nSobre o emprego das vírgulas no texto, analise as informações a seguir:\n\nI - As vírgulas presentes em: “[...] da Universidade de Aston, em Birmingham, na Inglaterra, [...]\" separam adjuntos adverbiais de lugar.\nII - No trecho \"[...] o inevitável acidente não é obra do destino, mas resultado da ação da força da gravidade.” a vírgula após a palavra “destino” separa a última oração que é coordenada adversativa.\nIII - No trecho \"[...] a torrada teria de dar uma volta bem grande em torno de si mesma, ou seja, percorrer cerca de 270 graus, [...]\" as vírgulas que intercalam a expressão “ou seja” são opcionais.\nIV - Nas frases \"Para não cair de cabeça para baixo, a torrada [...]\" e \"Quando escorrega de uma mesa de altura média (cerca de 80 centímetros), [...]\" as vírgulas foram empregadas para separar orações subordinadas deslocadas.\n\nMarque a alternativa que apresenta todos os itens corretos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, III e IV apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e IV apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e II apenas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Pontuação"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Leia o texto a seguir sobre a química do cabelo:\n\n\"Nossa água é calcária, o que faz com que haja maior depósito de cálcio nos cabelos, deixando-os mais ressecados e quebradiços”, afirma a médica da UFRJ, Violeta Tortelly, do Departamento de Cabelo e Unhas da Sociedade Brasileira de Dermatologia (SBD).\n[...]\nA dermato ainda ensina uma receita caseira para proteger os fios do excesso de cálcio: misture 200 ml de água mineral com 2 colheres de vinagre e a utilize como última água no enxágue. Filtros de cálcio no chuveiro também ajudam a mitigar esse efeito.\n\n(Disponível em: https://saude.abril.com.br/autoestima/excesso-de-calcio-prejudica-o-cabelo-saiba-como-evitar. Acesso em: 01 ago. 2024. Adaptado.)\n\nDados:\n*A concentração típica de cálcio no cabelo humano varia de 1000 a 2000 µg/g (microgramas por grama de cabelo).\n*O raio iônico do cálcio é de aproximadamente 100 pm (pico metro).\n\nTomando por base as informações apresentadas, analise os itens a seguir:\n\nI - O termo \"excesso de cálcio\" está relacionado ao elemento metálico que é retirado pela solubilização em ácido acético, por ser um ácido forte e concentrado quando no vinagre.\nII - Uma quantidade de 1,5 g de cabelo, solubilizado em 10 mL de solução ácida, apresentará de 0,15 a 0,30 g de cálcio por litro de solução.\nIII - Um papel filtro típico de laboratório químico possui uma porosidade que varia de 2,5 a 12 µm (micrometro) que é suficiente para reter os íons de cálcio.\n\nConsiderando os itens apresentados, assinale a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I apenas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Soluções e Unidades de Medida"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Maquiavel, Locke, Hobbes e Rousseau são figuras centrais na filosofia política. Maquiavel é conhecido por sua obra O Príncipe, em que aborda o poder e a política de maneira pragmática e realista. Locke, por sua vez, enfatizou os direitos naturais e o contrato social como base do governo legítimo. Hobbes descreveu a vida no estado de natureza como “solitária, pobre, desagradável, bruta e curta\", defendendo um governo forte para evitar o caos. Rousseau, contrastando com Hobbes, acreditava que o estado de natureza era pacífico, que a civilização corrompia o homem e propôs um contrato social que refletisse a vontade geral.\n\nCom base nas ideias desses filósofos, analise as assertivas a seguir:\n\nI - Maquiavel acredita que os governantes devem ser virtuosos e governar sempre de acordo com a moralidade estrita para manter a ordem e o poder.\nII - Locke defende que os direitos naturais à vida, à liberdade e à propriedade são fundamentais e devem ser protegidos por um governo com o consentimento dos governados.\nIII - Hobbes argumenta que, em seu estado natural, os seres humanos são motivados pela benevolência e pelo desejo de cooperação, necessitando de um governo minimalista.\nIV - Rousseau afirma que a liberdade e a igualdade podem ser alcançadas por meio do contrato social, no qual a vontade geral prevalece sobre os interesses individuais.\n\nMarque a alternativa que corresponde corretamente às ideias dos filósofos citados nas assertivas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II e IV apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e IV apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e II apenas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Filosofia – Filosofia Política Moderna"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Em um experimento escolar, dois estudantes associam quatro pilhas comuns ($\\epsilon = 1,5\\ V$) conectando-as a uma lâmpada de $10\\ \\Omega$. No circuito formado, os estudantes verificam que a lâmpada brilha sob tensão de 5,0 V.\n\nAnalisando os dados medidos durante o funcionamento do circuito, marque a alternativa que corretamente descreve a conclusão a que chegaram esses alunos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As pilhas foram ligadas em paralelo e apresentaram resistência interna de $1,5\\ \\Omega$."
+        },
+        {
+          "letra": "B",
+          "texto": "As pilhas foram ligadas em paralelo e apresentaram resistência interna de $1,0\\ \\Omega$."
+        },
+        {
+          "letra": "C",
+          "texto": "As pilhas foram ligadas em série e apresentaram resistência interna de $2,0\\ \\Omega$."
+        },
+        {
+          "letra": "D",
+          "texto": "As pilhas foram ligadas em série e apresentaram resistência interna de $0,5\\ \\Omega$."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Circuitos Elétricos"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "As proteínas são importantes biomoléculas orgânicas que apresentam uma variedade de formas e funcionalidades nos diferentes grupos de seres vivos.\n\nAnalise atentamente as afirmativas sobre as funções de diferentes proteínas, apresentadas a seguir:\n\nI - A ribonuclease é uma proteína que apresenta função catalítica.\nII - A ovoalbumina é uma proteína que apresenta função estrutural.\nIII - A insulina é uma proteína que apresenta função hormonal.\nIV - A hemoglobina é uma proteína que apresenta função de armazenamento.\n\nMarque a única alternativa que contém apenas as afirmativas corretas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "III e IV apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e II apenas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Bioquímica de Proteínas"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Uma floresta é protegida por uma equipe de agentes de um município. Para facilitar a fiscalização contra exploração indevida do meio ambiente e queimadas, foram construídas 2 estradas que circulam a floresta, interligando 2 pontos de apoio. As 2 estradas são interligadas por 10 estradas secundárias, situadas entre os pontos de apoio, sem intersecção, que propiciam uma vigília interna da floresta.\n\nMarque a alternativa que corretamente indica quantas possibilidades de caminhos tem uma guarda que sai de um dos pontos de apoio para chegar ao outro ponto de apoio:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2048."
+        },
+        {
+          "letra": "B",
+          "texto": "2047."
+        },
+        {
+          "letra": "C",
+          "texto": "2046."
+        },
+        {
+          "letra": "D",
+          "texto": "2045."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Leia o texto a seguir sobre as larvas que comem plástico:\n\nPesquisadores buscam entender como enzimas presentes na saliva de determinadas espécies de larvas são capazes de destruir moléculas do plástico. O potencial dos insetos poderia ser utilizado para criar novas formas de reciclagem do material?\n[...]\nPesquisa passou a analisar a saliva das larvas – Federica, especializada em biologia molecular, notou que as larvas produziam um líquido pela boca após o contato com o plástico. Ao analisar a saliva do inseto, o grupo de cientistas descobriu a presença das enzimas Ceres e Demetra, capazes de oxidar o polietileno do plástico, decompondo o material. Os pesquisadores descobriram ainda que as larvas digeriam o plástico da mesma forma como digeriam alimentos.\nOutras duas enzimas foram descobertas ao longo das pesquisas – As enzimas Cora e Cibeles também são capazes de introduzir oxigênio no plástico e destruí-lo. As quatro enzimas podem ser aplicadas em uma solução aquosa em temperatura ambiente. Em contato com materiais plásticos de baixa densidade, as enzimas provocam a formação de cetonas e outros compostos de degradação.\nOxidação feita pelas larvas parece ser a chave da descoberta – Por ser feito por longas cadeias de polímeros com ligações muito fortes, o plástico é mais resistente à decomposição, podendo levar centenas de anos para passar pelo processo. De acordo com os especialistas, ao se introduzirem moléculas de oxigênio no plástico, as larvas aceleram o processo de decomposição do material.\n\n(Disponível em: https://www.uol.com.br/ecoa/ultimas-noticias/2024/08/01/saliva-de-larva.htm?cmpid=copiaecola. Acesso em: 01 ago. 2024. Adaptado.)\n\nConsidere as informações apresentadas e analise os itens a seguir:\n\nI - Os termos \"oxidar o polietileno” e “introduzir oxigênio no plástico\" podem ser entendidos como sendo o mesmo processo.\nII - A baixa densidade dos materiais plásticos pode estar relacionada com o empacotamento (distanciamento) das cadeias poliméricas.\nIII - A formação de cetonas e outros compostos de degradação oxigenados na cadeia polimérica leva a uma diminuição da polaridade da macromolécula.\n\nConsiderando os itens apresentados, assinale a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e II apenas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Polímeros e Reações Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "O advento da cartografia digital vem permitindo que áreas geográficas possam ser mapeadas e visualizadas em diversas escalas de detalhamento.\n\nConsiderando que, em um dado momento, uma estrada que era representada por uma linha com 12 cm de extensão, agora aparece com 3 cm, marque a alternativa que corretamente indica o processo pelo qual passou a representação da estrada:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ampliação de 3 vezes."
+        },
+        {
+          "letra": "B",
+          "texto": "Redução de 4 vezes."
+        },
+        {
+          "letra": "C",
+          "texto": "Redução de 3 vezes."
+        },
+        {
+          "letra": "D",
+          "texto": "Ampliação de 4 vezes."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Cartografia e Escalas"
+      ]
+    }
+  ]
+}

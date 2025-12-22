@@ -1,0 +1,1261 @@
+{
+  "nomeUniversidade": "Instituto Militar de Engenharia",
+  "siglaUniversidade": "IME",
+  "nomeProva": "Concurso de Admissão",
+  "ano": "2024/2025",
+  "qtdeQuestoes": 40,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Números palíndromos na base $b$ são números cuja representação nesta base é simétrica, ou seja, se os seus algarismos forem lidos de trás para frente obtém-se o mesmo número. A quantidade de números naturais positivos menores ou iguais a $(377)_8$ que são palíndromos na base dois é\nObservação: Considere que todo número não nulo na base 2 começa por 1.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "16"
+        },
+        {
+          "letra": "B",
+          "texto": "26"
+        },
+        {
+          "letra": "C",
+          "texto": "30"
+        },
+        {
+          "letra": "D",
+          "texto": "31"
+        },
+        {
+          "letra": "E",
+          "texto": "32"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Sistemas de Numeração",
+        "Matemática – Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Seja $f : [3,\\infty) \\rightarrow B$ a função definida por\n$$f(x) = 1 + \\sum_{n=1}^{\\infty} \\left(\\frac{\\sqrt{x - 1} - \\sqrt{2}}{\\sqrt{x - 1} + \\sqrt{2}}\\right)^n$$\nonde $B = \\{f(a) \\mid a \\in [3, \\infty)\\}$.\nA soma das coordenadas do ponto pertencente ao gráfico da função inversa de $f(x)$ mais próximo do eixo das abscissas é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-1"
+        },
+        {
+          "letra": "B",
+          "texto": "0"
+        },
+        {
+          "letra": "C",
+          "texto": "1"
+        },
+        {
+          "letra": "D",
+          "texto": "3"
+        },
+        {
+          "letra": "E",
+          "texto": "4"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Séries Geométricas",
+        "Matemática – Funções (Inversa)"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Considere a sequência de números complexos $z_1 = (1 + i)$, $z_2 = (1 + i)^2$, \\ldots, $z_{20} = (1+i)^{20}$, onde $i^2 = -1$.\nA maior área possível do triângulo formado pelos afixos de três números consecutivos dessa sequência é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2^{16}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$2^{17}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$2^{18}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$2^{19}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$2^{20}$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Números Complexos",
+        "Matemática – Geometria Analítica (Área de Triângulo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Seja a equação $x^2 - px + q = 0$, na variável $x$, com raízes $a$ e $b$. Então o valor de $a^4 + b^4$ é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$p^4 + 4q^2 - 2p^2q$"
+        },
+        {
+          "letra": "B",
+          "texto": "$p^4 + 4q^2 - 4p^2q$"
+        },
+        {
+          "letra": "C",
+          "texto": "$p^4 + 2q^2 - 4p^2q$"
+        },
+        {
+          "letra": "D",
+          "texto": "$p^4 + 4q^2 - 4p^4q$"
+        },
+        {
+          "letra": "E",
+          "texto": "$p^4 + 2q^2 - 2p^2q$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Equações Polinomiais",
+        "Matemática – Relações de Girard"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Sejam $\\alpha$, $\\beta$ e $\\gamma$ as raízes da equação $x^3 + 6x^2 - 6x - 3 = 0$.\nO valor de $(\\alpha + \\beta)(\\beta + \\gamma)(\\gamma + \\alpha)$ é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12"
+        },
+        {
+          "letra": "B",
+          "texto": "18"
+        },
+        {
+          "letra": "C",
+          "texto": "27"
+        },
+        {
+          "letra": "D",
+          "texto": "33"
+        },
+        {
+          "letra": "E",
+          "texto": "42"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Equações Polinomiais",
+        "Matemática – Relações de Girard"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Considere a matriz quadrada $A = \\begin{pmatrix} 2 & 0 & 1 & 2 & 3 & \\ldots & 2022 \\\\ 2 & X & 1 & 2 & 3 & \\ldots & 2022 \\\\ 2 & 0 & X & 2 & 3 & \\ldots & 2022 \\\\ \\vdots & \\vdots & \\vdots & \\vdots & \\vdots & \\ddots & \\vdots \\\\ 2 & 0 & 1 & 2 & 3 & \\ldots & X \\end{pmatrix}$ de ordem 2024.\nA soma das raízes do polinômio dado por $p(x) = \\det(A)$, $x \\in \\mathbb{R}$, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2024 \\times 2023$"
+        },
+        {
+          "letra": "B",
+          "texto": "$2025^2$"
+        },
+        {
+          "letra": "C",
+          "texto": "$2024 \\times 2025$"
+        },
+        {
+          "letra": "D",
+          "texto": "$1012 \\times 2025$"
+        },
+        {
+          "letra": "E",
+          "texto": "$1011 \\times 2023$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Matrizes (Determinantes)",
+        "Matemática – Polinômios (Raízes)"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Seja $y = ab^{x-10}$, $a$ e $b$ reais, onde os valores de $x$ e $\\log(y)$ são relacionados pelo gráfico abaixo.\nlog(y)\n10\n0\n0,25\n0,5\nx\nEntão o valor da $a + b$ é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20"
+        },
+        {
+          "letra": "B",
+          "texto": "30"
+        },
+        {
+          "letra": "C",
+          "texto": "40"
+        },
+        {
+          "letra": "D",
+          "texto": "50"
+        },
+        {
+          "letra": "E",
+          "texto": "60"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Funções Exponenciais",
+        "Matemática – Logaritmos",
+        "Matemática – Geometria Analítica (Reta)"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "São dados os pontos $A$ e $B$ sobre uma circunferência de raio $r$, de forma que a corda $AB$ mede $r$. Escolhe-se ao acaso um ponto $C$ sobre o maior arco $AB$. A probabilidade da área do triângulo $ABC$ ser maior que $\\frac{r^2\\sqrt{3}}{4}$ é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{1}{5}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{2}{5}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{1}{2}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{3}{5}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{4}{5}$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Plana (Circunferência e Triângulos)",
+        "Matemática – Probabilidade Geométrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Considere a inequação\n$$(x^2 - 100)(x^2 - 150)(x^2 - 200) < 0$$\nA quantidade de números inteiros que a satisfazem é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "23"
+        },
+        {
+          "letra": "B",
+          "texto": "24"
+        },
+        {
+          "letra": "C",
+          "texto": "25"
+        },
+        {
+          "letra": "D",
+          "texto": "26"
+        },
+        {
+          "letra": "E",
+          "texto": "27"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Inequações Polinomiais"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Seja $r = \\sqrt{3-\\sqrt{3+\\sqrt{2+2\\sqrt{2}}}\\sqrt{3+\\sqrt{2+\\sqrt{2-\\sqrt{12+\\sqrt{18-\\sqrt{128}}}}}}}$. Sobre a inequação\n$\\sqrt{2025} + \\sqrt{t} + \\sqrt{2025 - \\sqrt{t}} \\leq \\sqrt{2025}r$ pode-se afirmar que a mesma",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "não possui solução real"
+        },
+        {
+          "letra": "B",
+          "texto": "possui uma única solução real"
+        },
+        {
+          "letra": "C",
+          "texto": "possui exatamente duas soluções reais"
+        },
+        {
+          "letra": "D",
+          "texto": "possui solução entre $0$ e $\\frac{2025^2}{6}$"
+        },
+        {
+          "letra": "E",
+          "texto": "possui solução entre $\\frac{2025^2}{3}$ e $\\frac{2025^2}{2}$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Expressões Algébricas",
+        "Matemática – Inequações"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "O número de soluções da equação $\\cos^3(x) + \\sin^3(x) + \\frac{1}{2}\\sin(2x) = 1$ no intervalo $[0,2\\pi)$ é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0"
+        },
+        {
+          "letra": "B",
+          "texto": "1"
+        },
+        {
+          "letra": "C",
+          "texto": "2"
+        },
+        {
+          "letra": "D",
+          "texto": "3"
+        },
+        {
+          "letra": "E",
+          "texto": "4"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Trigonometria (Equações Trigonométricas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Considere um triângulo com vértices em $A(1,2)$, $B(2,2)$ e $C(4,0)$.\nA equação da reta que é a bissetriz interna do triângulo referente ao vértice $A$ é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2x + (3 - \\sqrt{13})y + (2\\sqrt{13} – 8) = 0$"
+        },
+        {
+          "letra": "B",
+          "texto": "$2x + (3 + \\sqrt{13})y - (2\\sqrt{13} + 8) = 0$"
+        },
+        {
+          "letra": "C",
+          "texto": "$x + (4 + \\sqrt{13})y - (2\\sqrt{13} + 9) = 0$"
+        },
+        {
+          "letra": "D",
+          "texto": "$x + (4 – \\sqrt{13})y + (2\\sqrt{13} – 9) = 0$"
+        },
+        {
+          "letra": "E",
+          "texto": "$(3 + \\sqrt{13})x + 2y - (\\sqrt{13} + 7) = 0$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Geometria Analítica (Reta e Triângulo)",
+        "Matemática – Bissetriz"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Seja $I$ o incentro do triângulo $ABC$ e $L$ a interseção da semi-reta $\\overline{AI}$ com a circunferência circunscrita ao triângulo $ABC$, com $A$ e $L$ distintos.\nDado que $\\overline{AB} + \\overline{AC} = 2\\overline{BC}$, o valor de $\\frac{BL}{AL}$ é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{1}{2}$"
+        },
+        {
+          "letra": "B",
+          "texto": "1"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{3}{2}$"
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{5}{2}$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Plana (Triângulos e Círculos)",
+        "Matemática – Incentro"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "São dados $n$ círculos de mesmo raio $r$, cujos centros são os vértices de um polígono regular $P$ de $n$ lados, de forma que cada círculo tangencia externamente dois outros círculos. Seja $R$ o raio do círculo circunscrito a $P$.\nO valor de $n$ quando $R = 2r$ é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "4"
+        },
+        {
+          "letra": "C",
+          "texto": "5"
+        },
+        {
+          "letra": "D",
+          "texto": "6"
+        },
+        {
+          "letra": "E",
+          "texto": "8"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Plana (Círculos e Polígonos Regulares)"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "No cubo $ABCDEFGH$, a aresta mede $l$. Conforme a figura, o ponto $B_1$, sobre a aresta $AB$, é tal que $AB_1 = l/3$; o ponto $D_1$, sobre a aresta $AD$, é tal que $AD_1 = l/3$ e o ponto $H_1$, sobre a aresta $GH$, é tal que $GH_1 = l/3$.\nA área do triângulo $B_1D_1H_1$ é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{l^2}{9}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{l^2\\sqrt{3}}{18}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{5l^2\\sqrt{34}}{18}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{2l^2\\sqrt{2}}{9}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{l^2\\sqrt{34}}{18}$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Geometria Espacial (Cubo)",
+        "Matemática – Geometria Analítica (Triângulos no Espaço)"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Cinco discos A, B, C, D e E, de centros fixos, giram solidariamente conforme a geometria da figura. Duas partículas de massas $m$ e $2m$ enrolam ou desenrolam fios inextensíveis às mesmas velocidades escalares das bordas de seus respectivos discos.\nDados:\n\\bullet aceleração da gravidade: $g$;\nObservações:\n\\bullet os cinco discos estão inicialmente em repouso;\n\\bullet os cinco centros dos discos estão na mesma horizontal;\n\\bullet o disco A está engrenado ao disco B;\n\\bullet ao girar, o disco B faz o disco C girar à mesma velocidade angular, pois B e C são concêntricos;\n\\bullet o disco C está engrenado ao disco D;\n\\bullet ao girar, o disco D faz o disco E girar à mesma velocidade angular, pois D e E são concêntricos;\n\\bullet a partícula de menor massa está associada ao disco A e a de maior massa ao disco E;\n\\bullet despreze as massas dos discos e desconsidere quaisquer deslizamentos.\nPelo princípio da conservação da energia, a aceleração (módulo e sentido) da partícula de maior massa, após o início de seu movimento, é:\nTexto da Figura: \"g\", \"r\", \"r\", \"r\", \"2r\", \"3r\", \"A\", \"B\", \"C\", \"D\", \"E\", \"m\", \"2m\"",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2/19$ $g$, de baixo para cima (enrolando o fio)"
+        },
+        {
+          "letra": "B",
+          "texto": "$2/19$ $g$, de cima para baixo (desenrolando o fio)"
+        },
+        {
+          "letra": "C",
+          "texto": "$4/19$ $g$, de baixo para cima (enrolando o fio)"
+        },
+        {
+          "letra": "D",
+          "texto": "$4/11$ $g$, de cima para baixo (desenrolando o fio)"
+        },
+        {
+          "letra": "E",
+          "texto": "$4/11$ $g$, de baixo para cima (enrolando o fio)"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Dinâmica (Roldanas e Engrenagens)",
+        "Física – Conservação de Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Na figura, são mostradas três partículas fixadas e uma quarta partícula pendurada por um fio inextensível. As quatro partículas estão carregadas eletricamente e em equilíbrio nos vértices de um quadrado de lado $L$.\nDado:\n\\bullet constante elétrica do meio: $k$.\nObservação:\n\\bullet as cargas de cada partícula estão indicadas na figura.\nA tração no fio é:\nTexto da Figura: \"+q\", \"L\", \"+q\", \"L\", \"L\", \"L\", \"L\", \"-q\", \"+q\"",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2 \\frac{kq^2}{L^2}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{9}{4} \\frac{kq^2}{L^2}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{3}{2} \\frac{kq^2}{L^2}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{1}{4} \\frac{kq^2}{L^2} (4 + \\sqrt{2})$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{1}{4} \\frac{kq^2}{L^2} (2 + \\sqrt{2})$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Eletrostática (Força Elétrica)",
+        "Física – Equilíbrio de Forças"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Na Figura 1, é apresentado um manômetro de Hg, graduado em cm, que aprisiona uma certa massa de gás ideal em equilíbrio. Adiciona-se uma nova quantidade de Hg pela extremidade aberta do manômetro e, após o novo equilíbrio, obtém-se a configuração da Figura 2.\nSabendo que a temperatura ambiente se manteve constante, desprezando-se qualquer vazamento de gás e sendo $70 \\text{ cmHg}$ a pressão atmosférica, o valor da graduação $x$, em cm, é:\nTexto da Figura 1: \"50\", \"gás ideal\", \"5\", \"Hg\", \"Figura 1\"\nTexto da Figura 2: \"50\", \"gás ideal\", \"X\", \"10\", \"7\", \"Hg\", \"Figura 2\"",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30"
+        },
+        {
+          "letra": "B",
+          "texto": "15"
+        },
+        {
+          "letra": "C",
+          "texto": "42"
+        },
+        {
+          "letra": "D",
+          "texto": "21"
+        },
+        {
+          "letra": "E",
+          "texto": "10"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Termodinâmica (Gases Ideais)",
+        "Física – Estática de Fluidos (Pressão)"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Considere um sistema de carga de bateria hipotético, mostrada na Figura 1, no qual, os gráficos da corrente $I(t)$ e da tensão $V(t)$ são mostradas nas Figuras 2a e 2b. Ao longo do período de carga, que é de $5 \\text{ h}$, a energia fornecida pelo carregador, em kJ, é:\nTexto da Figura 1: \"I(t)\", \"V(t)\", \"carregador\", \"bateria\", \"Figura 1\"\nTexto da Figura 2a: \"I [A]\", \"2\", \"t [h]\", \"3\", \"5\", \"Figura 2a\"\nTexto da Figura 2b: \"V [V]\", \"6\", \"t [h]\", \"5\", \"Figura 2b\"",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "345,6"
+        },
+        {
+          "letra": "B",
+          "texto": "172,8"
+        },
+        {
+          "letra": "C",
+          "texto": "129,6"
+        },
+        {
+          "letra": "D",
+          "texto": "86,4"
+        },
+        {
+          "letra": "E",
+          "texto": "36,0"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Eletrodinâmica (Potência e Energia)",
+        "Física – Análise Gráfica"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Para simular o protótipo de um navio, um engenheiro constrói um prisma reto, com seção reta no formato de um triângulo equilátero, a partir de quatro chapas metálicas (duas triangulares de lado $L$, duas retangulares $6L \\times L$) e uma chapa retangular superior de massa desprezível e dimensões $6L \\times L$. A estrutura encontra-se bem vedada e contém ar em seu interior. Uma carga cúbica de aresta $0,5L$ é fixada simetricamente sobre o prisma e em conformidade com as figuras. Em seguida, a estrutura (prisma + carga) é colocada numa piscina, afundando $h$.\nDados:\n\\bullet massa específica superficial das chapas metálicas: $8 \\text{ kg/m}^2$;\n\\bullet massa específica volumétrica da carga cúbica: $240 \\text{ kg/m}^3$;\n\\bullet massa específica da água: $1000 \\text{ kg/m}^3$;\n\\bullet $L = 20 \\text{ cm}$;\n\\bullet $\\sqrt{3} \\approx 1,7$;\n\\bullet $\\frac{6}{5\\sqrt{3}} = \\frac{2\\sqrt{3}}{5} \\approx 0,68$.\nSupondo que a estrutura flutue de forma equilibrada, o valor de $h$, em centímetros, pode ser arredondado para:\nTexto da Figura: \"0,5L\", \"L\", \"6L\", \"h\", \"água\", \"Chapas metálicas\", \"Chapa superior de massa desprezível\"",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8"
+        },
+        {
+          "letra": "B",
+          "texto": "10"
+        },
+        {
+          "letra": "C",
+          "texto": "12"
+        },
+        {
+          "letra": "D",
+          "texto": "14"
+        },
+        {
+          "letra": "E",
+          "texto": "16"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Hidrostática (Empuxo)",
+        "Física – Equilíbrio de Corpos Rígidos",
+        "Física – Densidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Uma fonte sonora é lançada do ponto 1 indicado na figura e segue uma trajetória balística parabólica emitindo um tom de frequência constante $f_f$. Sejam $f_1$ a $f_5$ as frequências percebidas pelo observador \"o\" quando a fonte passa pelos pontos de 1 a 5, respectivamente, indicados na figura.\nObservações:\n\\bullet os pontos 1 e 5 estão no mesmo plano horizontal;\n\\bullet os pontos 2 e 4 estão na mesma altitude;\n\\bullet o ponto 3 é o de maior altitude na trajetória;\n\\bullet o ponto 1 é aquele imediatamente depois do lançamento;\n\\bullet o ponto 5 é aquele imediatamente antes do choque com o plano horizontal;\n\\bullet o observador “o\" está na mesma vertical do ponto 3;\n\\bullet a fonte emite em todas as direções;\n\\bullet considere a velocidade da fonte muito menor que a do som.\nDesta forma, podemos afirmar que:\nTexto da Figura: \"1\", \"2\", \"3\", \"4\", \"5\", \"o\"",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$f_1 \\geq f_2 \\geq f_3 = f_f \\geq f_4 \\geq f_5$"
+        },
+        {
+          "letra": "B",
+          "texto": "$f_1 = f_5 \\geq f_2 = f_4 \\geq f_3 = f_f$"
+        },
+        {
+          "letra": "C",
+          "texto": "$f_1 = f_5 \\leq f_2 = f_4 \\leq f_3 = f_f$"
+        },
+        {
+          "letra": "D",
+          "texto": "$f_1 \\geq f_2 \\geq f_3 \\geq f_4 \\geq f_5 \\geq f_f$"
+        },
+        {
+          "letra": "E",
+          "texto": "$f_1 = f_5 \\leq f_3 = f_f \\leq f_2 = f_4$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Ondas (Efeito Doppler)",
+        "Física – Cinemática (Lançamento Oblíquo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Na figura, é apresentado um canhão oscilando preso ao teto por duas molas e disparando continuamente elétrons numa região sujeita a um campo magnético constante.\nDados:\n\\bullet constante elástica de cada mola: $k$;\n\\bullet amplitude de oscilação do canhão / par de molas: $A$;\n\\bullet direção de oscilação do canhão / par de molas: $y$;\n\\bullet vetor campo magnético: $(\\vec{B},0,0)$;\n\\bullet velocidade relativa de disparo dos elétrons em relação ao canhão: $(\\vec{v},0,0)$;\n\\bullet massa do elétron: $m$;\n\\bullet massa do canhão: $M$;\n\\bullet carga do elétron: $-e$.\nObservações:\n\\bullet o canhão oscila no plano $xy$;\n\\bullet a velocidade inicial de um elétron disparado é obtida ao se somarem vetorialmente os efeitos da oscilação e do canhão parado;\n\\bullet despreze o efeito gravitacional no movimento dos elétrons;\n\\bullet $m << M$;\n\\bullet despreze as interações elétricas entre os elétrons.\nNas condições acima, a maior coordenada $z$ que algum elétron pode alcançar é:\nTexto da Figura: \"y\", \"x\", \"z\", \"k\", \"k\", \"B\", \"e-\", \"CANHÃO DE ELÉTRONS\"",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{mA}{eB} \\sqrt{2k\\frac{A^2}{M} + v^2}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{mA}{eB} \\sqrt{k\\frac{A^2}{M} + v^2}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{mA}{eB} \\sqrt{2\\frac{k}{M}}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{mA}{eB} \\sqrt{\\frac{k}{M}}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{2mA}{eB} \\sqrt{\\frac{k}{M}}$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Eletromagnetismo (Força Magnética)",
+        "Física – Oscilações (MHS)",
+        "Física – Cinemática Relativa"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "A figura mostra uma rampa inclinada, de massa desprezível, apoiada por dois suportes fixados nos pontos $A$ e $B$. O apoio em $A$ admite forças horizontais e verticais e o apoio em $B$ apenas forças verticais. Um objeto de dimensões desprezíveis é liberado do ponto $B$ a partir do repouso e se desloca sem atrito em direção a $A$.\nDados:\n\\bullet aceleração da gravidade: $g$;\n\\bullet massa do objeto: $m$;\n\\bullet ângulo da rampa com a horizontal: $\\alpha$;\n\\bullet comprimento horizontal da rampa: $L$.\nO módulo da reação de apoio em $A$ quando o objeto estiver passando pelo meio da rampa é igual a:\nTexto da Figura: \"\\alpha\", \"A\", \"L\", \"m\", \"B\"",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{1}{2}mg(\\cos\\alpha + \\sin\\alpha)$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{1}{2}mg$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{1}{2}mg\\cos\\alpha \\sqrt{\\cos^2\\alpha + \\frac{1}{2}\\sin^2\\alpha}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{1}{2}mg\\cos\\alpha \\sqrt{\\cos^2\\alpha + \\frac{1}{4}\\sin^2\\alpha}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{1}{2}mg\\cos\\alpha$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Dinâmica (Forças em planos Inclinados)",
+        "Física – Equilíbrio de Corpos Rígidos (Rampa)",
+        "Física – Conservação de Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Dois feixes de luz em fase se propagam no vácuo para a direita paralelamente ao eixo $x$ desenhado na figura. Um dos feixes atravessa um bloco com a forma de um paralelepípedo, em cujo meio o índice de refração é variável, provocando uma diminuição de velocidade e consequente atraso no tempo de viagem.\nDados:\n\\bullet comprimento de onda do feixe de luz no vácuo: $\\lambda$;\n\\bullet comprimento do paralelepípedo: $L$;\n\\bullet índice de refração no interior do paralelepípedo: $n(x) = \\sqrt{\\frac{2L}{L + x}}$ ; $0 \\leq x \\leq L$\nO menor valor de $L$, para que a interferência entre os feixes, em um anteparo à direita do bloco, seja destrutiva, é:\nTexto da Figura: \"0\", \"n(x)\", \"L\", \"x\"",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{\\lambda}{2(2+3\\sqrt{2})}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{\\lambda}{3(2\\sqrt{2}-2)}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{\\lambda}{3(2-\\sqrt{2})}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{\\lambda}{2(3 + 2\\sqrt{2})}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{\\lambda}{2(3 - 2\\sqrt{2})}$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Óptica Ondulatória (Interferência)",
+        "Física – Refração",
+        "Física – Cálculo (Integração)"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Na figura, é mostrada a transformação de Lorentz para diversas velocidades ($0,3\\text{ c}$ a $0,9\\text{ c}$) de um referencial em movimento em relação a um referencial inercial. Essa transformação é usada para calcular a velocidade relativa (eixo vertical) de um outro objeto se movimentando no mesmo sentido do referencial que está em alta velocidade ($0,3\\text{ c}$ a $0,9\\text{ c}$). Repare que o eixo horizontal exibe uma escala de velocidade em relação ao referencial inercial e o eixo vertical informa a velocidade relativa entre objeto e referencial em movimento.\nUma nave X viaja a $0,5\\text{ c}$ e atira um foguete Y, no mesmo sentido de seu movimento, a uma velocidade relativa a X de $0,3\\text{ c}$. Por sua vez, o foguete Y atira um projétil Z, também no mesmo sentido dos movimentos, a uma velocidade relativa a Y de $0,1\\text{ c}$.\nDado:\n\\bullet velocidade da luz: $c$.\nEm relação ao referencial inercial, a velocidade de Z é aproximadamente:\nTexto da Figura: \"velocidade relativa ao referencial em movimento (c)\", \"velocidade no referencial inercial (c)\", \"0,1 c\", \"0,2 c\", \"0,3 c\", \"0,4 c\", \"0,5 c\", \"0,6 c\", \"0,7 c\", \"0,8 c\", \"0,9 c\" (for both axes and lines)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$0,90\\text{ c}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$0,65\\text{ c}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$0,70\\text{ c}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$0,75\\text{ c}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$0,80\\text{ c}$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Relatividade Especial (Transformações de Lorentz)",
+        "Física – Cinemática Relativa"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Para simular a órbita $(x(t),y(t))$ do satélite de um planeta, no referencial do planeta, utilizou-se um modelo unidimensional com as seguintes equações:\n$$x(t) = A \\cos(\\omega t)$$\n$$y(t) = B \\sin(\\omega t)$$\nonde $A$, $B$ e $\\omega$ são constantes e $t$ é o instante de tempo.\nDados:\n\\bullet massa do planeta: $M$;\n\\bullet massa do satélite: $m$, onde $m << M$;\n\\bullet constante universal de gravitação: $G$;\n\\bullet $C = \\sqrt{A^2 – B^2}$;\n\\bullet localização do centro do planeta: $(C,0)$.\nA diferença entre a maior e a menor energia potencial gravitacional do satélite é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2AGmM/B^2$"
+        },
+        {
+          "letra": "B",
+          "texto": "$CGmM/B^2$"
+        },
+        {
+          "letra": "C",
+          "texto": "$2CGmM/A^2$"
+        },
+        {
+          "letra": "D",
+          "texto": "$2CGmM/B^2$"
+        },
+        {
+          "letra": "E",
+          "texto": "$AGmM/C^2$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Gravitação Universal",
+        "Física – Energia Potencial Gravitacional",
+        "Física – Cinemática (Órbitas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Um trapézio retângulo desloca-se para a direita à velocidade escalar constante $u$. No instante inicial, um de seus vértices está à distância $h$ do ponto $P$. Ainda nesse instante, um objeto parte do ponto $P$ à velocidade constante $v$, indicada na figura juntamente com outras grandezas. O valor mínimo de $v$ para que o objeto não seja atingido pelo trapézio, onde $0 < \\alpha < \\beta < \\frac{\\pi}{2}$, é:\nTexto da Figura: \"u\", \"L\", \"v\", \"\\beta\", \"\\alpha\", \"h\", \"P\"",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{u}{\\sin(\\beta – \\alpha)/\\sin\\beta + h\\sin\\alpha/L}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{u\\cos\\beta}{\\cos(\\alpha + \\beta) + h\\sin\\alpha/L}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{u\\sin\\beta}{\\sin\\beta + h\\sin\\alpha/L}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{u\\sin\\beta}{\\sin(\\beta + \\alpha) + h\\sin\\alpha/L}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{u}{\\cos\\alpha + h\\sin\\alpha\\cos\\beta/L}$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Cinemática Relativa",
+        "Física – Geometria (Trapézio e Movimento)",
+        "Física – Cálculo (Minimização)"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Uma lente convergente é construída usando um material de índice de refração $n$, podendo a sua distância focal $f$ ser calculada usando a equação dos fabricantes de lentes. Um objeto é posicionado no eixo da lente e muito distante da mesma.\nObservações:\n\\bullet $f$ é proporcional a $(n - 1)^{-1}$;\n\\bullet $n > 1$;\n\\bullet seja $x$ tal que $|x| << 1$, então $(1 – x)^{-1} \\approx 1 + x$.\nCaso haja uma ínfima variação na constituição do índice de refração do material ($n \\rightarrow n + \\Delta n$), a variação $\\Delta i$ na posição final da imagem do objeto ($i \\rightarrow i + \\Delta i$) é, aproximadamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$f\\Delta n/n$"
+        },
+        {
+          "letra": "B",
+          "texto": "$f\\Delta n/(n - 1)$"
+        },
+        {
+          "letra": "C",
+          "texto": "$-f\\Delta n/(n - 1)$"
+        },
+        {
+          "letra": "D",
+          "texto": "$-f\\Delta n/(n^2 – 1)$"
+        },
+        {
+          "letra": "E",
+          "texto": "$f\\Delta n/(n^2 – 1)$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Óptica Geométrica (Lentes)",
+        "Física – Aproximações Lineares (Cálculo Diferencial)"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Em uma prática de laboratório, a superfície externa de uma parede é integralmente recoberta com um material isolante térmico. Por sua vez, a superfície interna encontra-se exposta a uma chama.\nDados:\n\\bullet condutividade térmica da parede: $3 \\text{ W/(m}\\cdot\\text{°C)}$;\n\\bullet condutividade térmica do material isolante: $0,02 \\text{ W/(m}\\cdot\\text{°C)}$;\n\\bullet espessura da parede: $15 \\text{ cm}$;\n\\bullet espessura do material isolante: $4 \\text{ mm}$;\n\\bullet temperatura na superfície livre do isolante: $45 \\text{ °C}$;\n\\bullet temperatura na superfície da parede em contato com a chama: $295 \\text{ °C}$;\n\\bullet calor latente de fusão do gelo: $336 \\text{ J/g}$;\n\\bullet dimensões da parede e da camada isolante: $2 \\text{ m} \\times 0,84 \\text{ m}$.\nA massa de gelo máxima, em kg, que a energia incidente na parede é capaz de fundir em uma hora de experimento é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,5"
+        },
+        {
+          "letra": "B",
+          "texto": "1,8"
+        },
+        {
+          "letra": "C",
+          "texto": "15"
+        },
+        {
+          "letra": "D",
+          "texto": "18"
+        },
+        {
+          "letra": "E",
+          "texto": "20"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Termodinâmica (Condução de Calor)",
+        "Física – Calor Latente"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Em uma determinada região esférica do espaço, a distribuição volumétrica de cargas é tal que o campo elétrico em seu interior é o vetor $\\vec{E}(r) \\hat{u}_r$, onde $\\hat{u}_r$ é o vetor unitário na direção radial e $E(r)$, em V/m, é igual a:\n$$E(r) = \\begin{cases} A\\cos\\left(\\frac{3\\pi r}{2R}\\right) + \\frac{(2-r)^2}{R} - 1, & 0 \\leq r < R; \\\\ 0, & r > R. \\end{cases}$$\nem que $A$ é uma constante, $r$ é a distância até o centro da esfera e $R$ é o raio da esfera, em metros.\nObservação:\n\\bullet $R < 3 \\text{ m}$.\nCom as condições impostas acima, a constante $A$, em V/m, necessariamente é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-2"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "-3"
+        },
+        {
+          "letra": "D",
+          "texto": "3"
+        },
+        {
+          "letra": "E",
+          "texto": "0"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Eletrostática (Campo Elétrico)",
+        "Física – Lei de Gauss",
+        "Física – Eletrodinâmica (Cargas em Condutores)"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "A figura a seguir mostra esquematicamente um dispositivo eletroquímico composto pelas meias-células X e Y.\nDados: Potenciais-padrão de redução das espécies químicas envolvidas.\n$E_X^{\\circ} = -1,85 \\text{ V}$ $E_Y^{\\circ} = -2,93 \\text{ V}$\nCom base no esquema eletroquímico apresentado na figura e nos dados fornecidos, analise as proposições a seguir na condição do circuito fechado.\nI. A semirreação representada pela equação estequiométrica $X^0 \\longrightarrow X^{+2} + 2e^-$ é espontânea por ser de oxidação.\nII. O fluxo de elétrons ocorre no sentido horário, indo do anodo para catodo.\nIII. A corrente iônica circula pelos eletrodos e fios metálicos.\nIV. O eletrodo da meia-célula X é o catodo onde ocorre reação de redução.\nV. As reações eletroquímicas podem ser representadas pelas seguintes equações estequiométricas:\n$X^{+2} + 2e^- \\longrightarrow X^0$\n$2 Y^0 \\longrightarrow 2Y^+ + 2e^-$\nA opção que apresenta APENAS afirmativas verdadeiras é:\nTexto da Figura: \"d.d.p.\", \"Fio condutor\", \"Meia-célula X\", \"Xº\", \"Ponte salina\", \"Meia-célula Y\", \"Yº\", \"XSO4 1M\", \"Y2SO4 1M\"",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e III."
+        },
+        {
+          "letra": "B",
+          "texto": "II, III e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "I e V."
+        },
+        {
+          "letra": "D",
+          "texto": "IV e V."
+        },
+        {
+          "letra": "E",
+          "texto": "II e V."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Eletroquímica (Pilhas Galvânicas)",
+        "Química – Potenciais de Redução",
+        "Química – Oxidação e Redução"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Uma mistura de um monoácido orgânico e um monoálcool primário, em uma proporção molar $1:2$, foi tratada com uma quantidade catalítica de ácido sulfúrico concentrado sob condições de volume e temperatura constantes. Após um período de reação suficientemente longo, em um sistema fechado, foi observado que a reação apresentou uma conversão de $87,5\\%$ do monoácido.\nSe o mesmo tratamento for aplicado a uma mistura equimolar desses mesmos compostos, a conversão esperada do monoácido e o grupo funcional do produto principal serão:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$67,2\\%$; éster."
+        },
+        {
+          "letra": "B",
+          "texto": "$67,2\\%$; éter."
+        },
+        {
+          "letra": "C",
+          "texto": "$70,0\\%$; éster."
+        },
+        {
+          "letra": "D",
+          "texto": "$70,0\\%$; éter."
+        },
+        {
+          "letra": "E",
+          "texto": "$87,5\\%$; éster."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Química Orgânica (Esterificação)",
+        "Química – Equilíbrio Químico",
+        "Química – Rendimento de Reação"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Para uma solução aquosa contendo sacarose em $m \\text{ kg}$ de água, a diferença entre as temperaturas de ebulição e de congelamento, à pressão de $1 \\text{ atm}$, é de $\\Delta T$ em K. A massa molar da sacarose é $M \\text{ g.mol}^{-1}$ e as constantes ebulioscópica e crioscópica da água são, respectivamente, $K_e$ e $K_c$, expressas em $K.\\text{kg.mol}^{-1}$.\nA expressão que indica o valor da massa de sacarose em gramas, na solução, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$Mm(\\Delta T – 100)/(K_e + K_c)$"
+        },
+        {
+          "letra": "B",
+          "texto": "$2Mm\\Delta T/(K_e + K_c)$"
+        },
+        {
+          "letra": "C",
+          "texto": "$Mm\\Delta T/(K_e - K_c)$"
+        },
+        {
+          "letra": "D",
+          "texto": "$2Mm(\\Delta T – 100)/(K_e – K_c)$"
+        },
+        {
+          "letra": "E",
+          "texto": "$Mm(\\Delta T – 50)/(K_e + K_c)$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Físico-Química (Propriedades Coligativas)",
+        "Química – Crioscopia",
+        "Química – Ebulioscopia"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Uma solução foi preparada com $1800 \\text{ g}$ de ácido sulfúrico puro e $2000 \\text{ L}$ de água deionizada, sendo, em seguida, eletrolisada. Uma amostra de $100 \\text{ mL}$ da solução resultante foi titulada com solução-padrão $0,1 \\text{ M}$ de hidróxido de sódio, tendo sido necessários $20,4 \\text{ mL}$ dessa solução para neutralizar a amostra. Considere que a massa específica do ácido sulfúrico vale $1800 \\text{ g.L}^{-1}$ e que misturas desse ácido em água se comportam idealmente no que se refere ao volume de mistura.\nA alternativa que contém o volume aproximado de gás gerado na eletrólise, em $\\text{m}^3$, medido nas CNTP, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "187,5"
+        },
+        {
+          "letra": "B",
+          "texto": "250"
+        },
+        {
+          "letra": "C",
+          "texto": "375"
+        },
+        {
+          "letra": "D",
+          "texto": "500"
+        },
+        {
+          "letra": "E",
+          "texto": "Não é gerado gás algum e a solução apenas aquece pela passagem da corrente elétrica."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Eletroquímica (Eletrólise)",
+        "Química – Estequiometria",
+        "Química – Soluções (Titulação)"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Em todos os seres vivos, as proteínas são um importante grupo de substâncias. Sobre a estrutura das proteínas, analise as afirmativas abaixo.\nI. A estrutura primária de uma proteína é a sequência de alfa-aminoácidos, tais como glicina, alanina e citosina, ligados por ligações peptídicas.\nII. A estrutura secundária é mantida por ligações de hidrogênio entre os grupos $-NH$ e $C=O$, próximos entre si, na disposição espacial da proteína.\nIII. A estrutura terciária é estabilizada por interações hidrofóbicas, hidrofílicas, iônicas e ligações dissulfeto.\nIV. A estrutura quaternária refere-se ao arranjo de múltiplas subunidades polipeptídicas que podem, por ação de agentes químicos ou físicos, ser alteradas ou destruídas através do fenômeno conhecido como desnaturação proteica, perdendo sua atividade biológica.\nV. As proteínas apresentam estruturas geométricas de vários tipos e podem ser caracterizadas pela produção de colorações, como por exemplo, a reação da proteína da pele com ácido nítrico, formando uma coloração azulada.\nA opção que apresenta APENAS afirmativas verdadeiras é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e III."
+        },
+        {
+          "letra": "B",
+          "texto": "II, III e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "D",
+          "texto": "II, III e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "II e V."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Bioquímica (Proteínas)",
+        "Química – Química Orgânica (Aminoácidos e Ligações Peptídicas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Analise as afirmativas abaixo.\nI. A imersão de limalha de ferro em um béquer aberto contendo uma solução de ácido clorídrico provoca a liberação de bolhas de gás. Nesse processo, não há realização nem recebimento de trabalho.\nII. Uma solução de ácido iodídrico de concentração igual a $1,0 \\times 10^{-8} \\text{ mol.L}^{-1}$ tem pH igual a 8.\nIII. Se dois béqueres, um contendo água pura e o outro contendo uma solução insaturada de sacarose, forem submetidos ao aquecimento, a solução de sacarose ebulirá a uma temperatura constante e superior à temperatura de ebulição da água pura.\nIV. Para a reação de combustão completa do gás metano, gerando apenas produtos gasosos, as variações de entalpia e de energia interna têm o mesmo valor.\nA única alternativa CORRETA é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas a afirmativa I é verdadeira."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas a afirmativa II é verdadeira."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas a afirmativa III é verdadeira."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas a afirmativa IV é verdadeira."
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as afirmativas são falsas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Termoquímica (Entalpia e Energia Interna)",
+        "Química – Físico-Química (pH e Propriedades Coligativas)",
+        "Química – Reações Químicas (Gases)"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Uma mistura dos sais hidratados $\\text{Na}_2\\text{SO}_4 \\cdot 10 \\text{ H}_2\\text{O}$ e $\\text{Na}_2\\text{CO}_3 \\cdot 10 \\text{ H}_2\\text{O}$, com massa de $602 \\text{ kg}$, é aquecida até a temperatura suficiente para a remoção total da água de hidratação. A massa final da mistura de sais anidros é $242 \\text{ kg}$.\nDados:\n$\\text{M}_{\\text{H}_2\\text{O}} = 18,0 \\text{ kg.kmol}^{-1}$ $\\text{M}_{\\text{Na}_2\\text{SO}_4} = 142 \\text{ kg.kmol}^{-1}$ $\\text{M}_{\\text{Na}_2\\text{CO}_3} = 106 \\text{ kg.kmol}^{-1}$\nA razão molar $\\text{Na}_2\\text{SO}_4/\\text{Na}_2\\text{CO}_3$ entre os sais anidros é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,34"
+        },
+        {
+          "letra": "B",
+          "texto": "0,85"
+        },
+        {
+          "letra": "C",
+          "texto": "1,13"
+        },
+        {
+          "letra": "D",
+          "texto": "1,41"
+        },
+        {
+          "letra": "E",
+          "texto": "0,71"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Estequiometria",
+        "Química – Reações Inorgânicas (Sais Hidratados)"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Óxido de ferro II pode ser reduzido a ferro, tanto por carbono, como por monóxido de carbono, de acordo com o mostrado nas equações 1 e 2:\n1. $\\text{FeO(s)} + \\text{C(s)} \\longrightarrow \\text{Fe(s)} + \\text{CO(g)}$\n2. $\\text{FeO(s)} + \\text{CO(g)} \\longrightarrow \\text{Fe(s)} + \\text{CO}_2\\text{(g)}$\nOs valores de entalpia de formação e de entropia-padrão das substâncias envolvidas em ambas reações são apresentados na tabela:\nFeO(s) Fe(s) C(s) CO(g) CO2(g)\n$\\Delta H_f^{\\circ}$ (kJ.mol$^{-1}$) -271,9 0 0 -110,5 -393,5\n$S^{\\circ}$ (J.K$^{-1}$.mol$^{-1}$) 60,8 27,3 5,7 197,9 213,7\nConsidere um meio reacional fechado onde ocorrem as duas reações e que os valores acima permanecem constantes na faixa de $298$ a $650 \\text{ K}$.\nA ÚNICA alternativa correta é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A reação 1 é exotérmica e a reação 2 é endotérmica."
+        },
+        {
+          "letra": "B",
+          "texto": "À temperatura aproximada de $627 \\text{ K}$, a reação 2 atinge o equilíbrio dinâmico."
+        },
+        {
+          "letra": "C",
+          "texto": "À temperatura de $450 \\text{ K}$, a reação 1 é fonte de calor para sustentar a reação 2 na proporção molar aproximada de 15 para 1."
+        },
+        {
+          "letra": "D",
+          "texto": "À temperatura de $450 \\text{ K}$, ambas as reações são espontâneas."
+        },
+        {
+          "letra": "E",
+          "texto": "A reação 1 apresenta diminuição de entropia."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Termoquímica (Entalpia e Entropia)",
+        "Química – Equilíbrio Químico (Energia de Gibbs)",
+        "Química – Espontaneidade de Reações"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Considere as três propostas de reação a seguir.\nReação 1:\nCH3\nH3CH2C-C-C-H\n+\nHCN\nCH3 CN\nH3CH2C-C-C-H\nH OH\nProduto $\\alpha$\n+\nCH3 OH\nH3CH2C-C-C-H\nH CN\nProduto $\\beta$\nReação 2:\nPh\nCOOH\nPh\nCOOH\nC=0\nReação 3:\nH\nCOOH\nH\nBr2\nBr\nBr\n+\nBr\nBr\nHOOC\nCOOH\nH\nCOOH\nHOOC\nH\nProduto $\\gamma$\nProduto $\\delta$\nA ÚNICA alternativa correta é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Na reação 1, a partir de um reagente opticamente ativo, observa-se nos produtos $\\alpha$ e $\\beta$ a formação de um novo centro quiral, implicando produtos opticamente inativos por conterem um par quiral dextrogiro, levogiro."
+        },
+        {
+          "letra": "B",
+          "texto": "A reação 2 não ocorre."
+        },
+        {
+          "letra": "C",
+          "texto": "A reação 2 é uma reação de condensação intramolecular que produz anidrido."
+        },
+        {
+          "letra": "D",
+          "texto": "Na reação 3, os produtos $\\gamma$ e $\\delta$ são representações de um mesmo composto."
+        },
+        {
+          "letra": "E",
+          "texto": "Na reação 3 o ácido maleico, isômero geométrico do ácido fumárico, reage com bromo produzindo isômeros meso."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Química Orgânica (Reações Orgânicas)",
+        "Química – Isomeria Óptica",
+        "Química – Ácidos Carboxílicos e Derivados"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Com relação à série de decaimento radioativo do $_{92}\\text{U}^{238}$ até o $_{82}\\text{Pb}^{206}$, a única alternativa INCORRETA é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Na emissão de uma partícula $\\alpha$, o $_{92}\\text{U}^{238}$ decai para um elemento $_{90}\\text{X}^{234}$."
+        },
+        {
+          "letra": "B",
+          "texto": "Por não ser físsil, o $_{92}\\text{U}^{238}$ não é empregado isoladamente para a geração de energia em reatores nucleares."
+        },
+        {
+          "letra": "C",
+          "texto": "Uma partícula $\\alpha$ é emitida espontaneamente por certos núcleos de elementos radioativos, com número atômico maior que 82, como urânio, tório, polônio e rádio."
+        },
+        {
+          "letra": "D",
+          "texto": "Na emissão de uma partícula $\\alpha$ e de duas partículas $\\beta$, o $_{92}\\text{U}^{238}$ decai para o seu isótopo $_{92}\\text{U}^{234}$."
+        },
+        {
+          "letra": "E",
+          "texto": "A distribuição eletrônica do $_{82}\\text{Pb}^{206}$ ($1s^2 2s^2 2p^6 3s^2 3p^6 4s^2 3d^{10} 4p^6 5s^2 4d^{10} 5p^6 6s^2 4f^{14} 5d^{10} 6p^2$) garante sua estabilidade nuclear."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Química Nuclear (Radioatividade e Decaimento)",
+        "Química – Estrutura Atômica (Configuração Eletrônica)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1624 @@
+{
+  "nomeUniversidade": "Universidade Federal do Paraná",
+  "siglaUniversidade": "UFPR",
+  "nomeProva": "Processo Seletivo 2026",
+  "ano": 2026,
+  "qtdeQuestoes": 90,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "O preço de um livro está com 15% de desconto em uma promoção. Nessa promoção, esse livro custa R$ 51,00. Assinale a alternativa que corresponde ao valor desse livro sem o desconto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 70,00"
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 60,00"
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 67,00"
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 80,00"
+        },
+        {
+          "letra": "E",
+          "texto": "R$ 56,00"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Na figura ao lado, a área do quadrado ABEF é igual a 9 cm², e o comprimento do segmento DF é igual a 5 cm. Assinale a alternativa que corresponde à área, em cm², do retângulo ABCD.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12"
+        },
+        {
+          "letra": "B",
+          "texto": "15"
+        },
+        {
+          "letra": "C",
+          "texto": "22"
+        },
+        {
+          "letra": "D",
+          "texto": "24"
+        },
+        {
+          "letra": "E",
+          "texto": "45"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Teorema de Pitágoras"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "As retas paralelas $r_1$ e $r_2$ no plano xy são dadas pelas equações $y = (2m – 3)x + 4$ e $y = (5m + 1)x - 2$, respectivamente. Assinale a alternativa que corresponde ao valor de m.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-2/7"
+        },
+        {
+          "letra": "B",
+          "texto": "-1"
+        },
+        {
+          "letra": "C",
+          "texto": "-4/3"
+        },
+        {
+          "letra": "D",
+          "texto": "-2/3"
+        },
+        {
+          "letra": "E",
+          "texto": "-3/7"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "O pentágono da figura ao lado tem ângulos retos $\\hat{A}$, $\\hat{B}$ e $\\hat{C}$. Conhecendo as medidas dos lados $AE = 15$, $AB = 12$, $BC = 7$ e $CD = 5$, assinale a alternativa que corresponde ao valor da tangente do ângulo $\\theta = \\hat{E}$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4/5"
+        },
+        {
+          "letra": "B",
+          "texto": "5/4"
+        },
+        {
+          "letra": "C",
+          "texto": "5/8"
+        },
+        {
+          "letra": "D",
+          "texto": "8/7"
+        },
+        {
+          "letra": "E",
+          "texto": "7/8"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Trigonometria no Triângulo Retângulo"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Considere o paralelogramo ABCD ilustrado na figura ao lado. Sejam M o ponto médio do lado CD e N o ponto comum aos segmentos AC e BM. Sabendo que a medida do segmento AN é igual a $\\frac{4}{3}$, assinale a alternativa que corresponde à medida da diagonal AC.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "4"
+        },
+        {
+          "letra": "C",
+          "texto": "5/3"
+        },
+        {
+          "letra": "D",
+          "texto": "3"
+        },
+        {
+          "letra": "E",
+          "texto": "8/3"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Semelhança de Triângulos"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "A equipe técnica de um time de futebol analisou a possibilidade de a final do campeonato ir para a disputa por pênaltis. Caso isso ocorra, a equipe precisará escolher 5 jogadores diferentes, dentre os 11 que estarão em campo, e também a ordem entre eles para a cobrança dos 5 primeiros pênaltis. A decisão tomada foi a seguinte: o principal atacante do time começará as cobranças, e o goleiro deverá ser um dos 5 cobradores. Além disso, nenhum dos 3 zagueiros em campo participará dessas primeiras cobranças. A partir dessas informações, assinale a alternativa que apresenta corretamente o número de configurações possíveis para essa escolha.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "280"
+        },
+        {
+          "letra": "B",
+          "texto": "340"
+        },
+        {
+          "letra": "C",
+          "texto": "480"
+        },
+        {
+          "letra": "D",
+          "texto": "625"
+        },
+        {
+          "letra": "E",
+          "texto": "864"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "O caminho poligonal do ponto A ao ponto B, descrito na figura ao lado, tem medida igual a $\\frac{84}{5}$ unidades de comprimento. As medidas dos consecutivos segmentos desse caminho poligonal formam uma progressão aritmética. Assinale a alternativa que corresponde à soma das medidas dos segmentos PQ e QR.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{26}{5}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{24}{5}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{42}{5}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{28}{5}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{48}{5}$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Progressão Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "A função quadrática $f(x)$ satisfaz a igualdade $f(2x + 1) = 4x^2 + 10x + 9$, para todo $x \\in \\mathbb{R}$. Assinale a alternativa que corresponde ao vértice da parábola dada pelo gráfico de $f(x)$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$(\\frac{3}{4}, 2)$"
+        },
+        {
+          "letra": "B",
+          "texto": "$(\\frac{2}{3}, \\frac{11}{4})$"
+        },
+        {
+          "letra": "C",
+          "texto": "$(–\\frac{3}{4}, \\frac{11}{4})$"
+        },
+        {
+          "letra": "D",
+          "texto": "$(–\\frac{2}{3}, \\frac{11}{4})$"
+        },
+        {
+          "letra": "E",
+          "texto": "$(–\\frac{5}{4}, \\frac{11}{4})$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Funções do 2º grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Os números reais x e y satisfazem as equações:\n$\\log_3(3y-1) = 2 + \\log_3x$\n$2 \\log_2y = 2 + \\log_2x$\nAssinale a alternativa que corresponde ao valor da razão $\\frac{y}{x}$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3/4"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "5"
+        },
+        {
+          "letra": "E",
+          "texto": "6"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Logaritmos"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "O texto a seguir é referência para as questões 10 a 18.\nAs medições são feitas por um referencial inercial. O módulo da aceleração gravitacional é representado por g. Onde for necessário, use $g = 10 \\text{ m/s²}$ para o módulo da aceleração gravitacional.\nO texto a seguir é referência para as questões 10 a 12.\nDois objetos, A e B, movem-se sobre uma mesma linha reta. O gráfico a seguir apresenta as posições x dos dois objetos, medidas nessa reta, em função do tempo t. A curva para o objeto A é representada por uma linha tracejada, e, para o objeto B, a curva é uma linha cheia.\n\nO valor do deslocamento $\\Delta x$ efetuado pelo objeto A, entre os instantes $t_1 = 0 \\text{ s}$ e $t_2 = 35 \\text{ s}$, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\Delta x = 8,0 \\text{ cm}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\Delta x = 6,0 \\text{ cm}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\Delta x = 4,0 \\text{ cm}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\Delta x = 2,0 \\text{ cm}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\Delta x = 0,0 \\text{ cm}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "O valor da energia cinética $K_B$ do objeto B (de massa constante $m = 5,0 \\text{ g}$), no instante $t = 15 \\text{ s}$, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$K_B = 10 \\text{ nJ}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$K_B = 20 \\text{ nJ}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$K_B = 40 \\text{ nJ}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$K_B = 80 \\text{ nJ}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$K_B = 160 \\text{ nJ}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Cinemática",
+        "Física – Dinâmica",
+        "Física – Energia Cinética"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "O valor da distância d entre os dois objetos no instante $t = 30 \\text{ s}$ é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$d = 2,0 \\text{ cm}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$d = 4,0 \\text{ cm}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$d = 6,0 \\text{ cm}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$d = 8,0 \\text{ cm}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$d = 10,0 \\text{ cm}$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Num tubo sonoro aberto de comprimento L, a frequência do terceiro harmônico produzido por ele vale $f_3 = 5,1 \\text{ kHz}$. Sabe-se que a velocidade do som no local vale $v_s = 340 \\text{ m/s}$. O valor do comprimento L do tubo é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$L = 5,00 \\text{ cm}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$L = 10,0 \\text{ cm}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$L = 15,0 \\text{ cm}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$L = 20,0 \\text{ cm}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$L = 30,0 \\text{ cm}$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Ondulatória",
+        "Física – Acústica"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Dispõem-se de dois capacitores, de capacitâncias $C_1$ e $C_2$, respectivamente. O primeiro é submetido a uma tensão $\\Delta V_1$ e o segundo, a uma tensão $\\Delta V_2$. Sabendo que $C_1 = 3C_2$ e $\\Delta V_1 = 2\\Delta V_2$, determine a razão $U_2/U_1$ entre as energias $U_2$ e $U_1$ armazenadas por cada capacitor.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{U_2}{U_1} = \\frac{1}{2}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{U_2}{U_1} = \\frac{1}{3}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{U_2}{U_1} = \\frac{1}{4}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{U_2}{U_1} = \\frac{1}{6}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{U_2}{U_1} = \\frac{1}{12}$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Eletrostática",
+        "Física – Capacitores"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "A ordem de grandeza do número de dias de um ano é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$10^{-1}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$10^0$"
+        },
+        {
+          "letra": "C",
+          "texto": "$10^1$"
+        },
+        {
+          "letra": "D",
+          "texto": "$10^2$"
+        },
+        {
+          "letra": "E",
+          "texto": "$10^4$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Ordem de Grandeza"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "O módulo da força elétrica entre duas cargas pontuais estáticas q e $Q_1$, separadas por uma distância $d_1$, vale $F_1$. Substituindo $Q_1$ por uma carga pontual $Q_2 = 4Q_1$, e colocando-a a uma distância $d_2 = 2d_1$ de q, o módulo da força passa a valer $F_2$. O valor da razão $F_1/F_2$ é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{F_1}{F_2} = \\frac{1}{4}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{F_1}{F_2} = \\frac{1}{2}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{F_1}{F_2} = 1$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{F_1}{F_2} = 2$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{F_1}{F_2} = 4$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Eletrostática",
+        "Física – Lei de Coulomb"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Um resistor de resistência R dissipa uma potência P quando submetido a uma diferença de potencial $\\Delta V$. Assinale a alternativa que apresenta corretamente o valor da resistência R quando $P = 5,0 \\text{ W}$ e $\\Delta V = 10 \\text{ V}$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$R = 2,0 \\Omega$"
+        },
+        {
+          "letra": "B",
+          "texto": "$R = 5,0 \\Omega$"
+        },
+        {
+          "letra": "C",
+          "texto": "$R = 10 \\Omega$"
+        },
+        {
+          "letra": "D",
+          "texto": "$R = 20 \\Omega$"
+        },
+        {
+          "letra": "E",
+          "texto": "$R = 50 \\Omega$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Eletrodinâmica",
+        "Física – Potência Elétrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Uma certa quantidade de gás ideal executa um processo termodinâmico partindo de um estado em que a pressão vale $P_1$, a temperatura vale $T_1$ e o volume vale $V_1$, chegando a outro estado em que a pressão vale $P_2$, a temperatura vale $T_2$ e o volume vale $V_2$. Assinale a alternativa que apresenta corretamente o valor da razão $P_2/P_1$ quando $T_2 = \\frac{5T_1}{2}$ e $V_2 = 3V_1$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{P_2}{P_1} = \\frac{2}{15}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{P_2}{P_1} = \\frac{2}{5}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{P_2}{P_1} = \\frac{5}{6}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{P_2}{P_1} = \\frac{6}{5}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{P_2}{P_1} = \\frac{15}{2}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Termodinâmica",
+        "Física – Gases Ideais"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "O radioisótopo sintético iodo-131 é empregado no diagnóstico e tratamento de diversas enfermidades. Para a sua síntese, um isótopo natural de um determinado elemento, representado por A', é bombardeado por nêutrons em um reator nuclear. Quando o núcleo do átomo A' absorve um nêutron, é transformado no isótopo A'', conforme a seguinte equação:\n$A' + n \\rightarrow A''$\nNa sequência, A'' emite radiação $\\beta$ espontaneamente, produzindo o iodo-131, como mostrado na equação a seguir:\n$A'' \\rightarrow {}^{131}_{53}I + \\beta^-$\nA radiação $\\beta$ envolve a conversão de um nêutron do núcleo atômico para um próton, seguida da ejeção de um elétron altamente energético chamado de partícula $\\beta$.\nConsiderando as informações apresentadas, qual é o átomo representado por A'?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "${}^{130}_{52}\\text{Te}$"
+        },
+        {
+          "letra": "B",
+          "texto": "${}^{131}_{52}\\text{Te}$"
+        },
+        {
+          "letra": "C",
+          "texto": "${}^{131}_{54}\\text{Xe}$"
+        },
+        {
+          "letra": "D",
+          "texto": "${}^{134}_{54}\\text{Xe}$"
+        },
+        {
+          "letra": "E",
+          "texto": "${}^{132}_{54}\\text{Xe}$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Radioatividade"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Para a desinfeção da água destinada ao consumo doméstico, emprega-se o cloro ($Cl_2$), que elimina um amplo espectro de microrganismos nocivos. Entretanto, o cloro que persiste na água tratada pode prejudicar certas atividades, como a criação de peixes em aquário. O agente redutor tiossulfato ($S_2O_3^{2-}$) é utilizado quando se quer remover rapidamente o cloro, reduzindo-o a cloreto. As semirreações de redução envolvendo o cloro e o tiossulfato são, respectivamente:\n$Cl_2 + 2e^- \\rightarrow 2 Cl^-$\n$2 SO_4^{2-} + 5 H_2O + 8 e^- \\rightarrow S_2O_3^{2-} + 10 OH^-$\nCom base nas duas equações dadas, qual é a equação química que representa a reação de redução do cloro pelo tiossulfato?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$Cl_2 + 2 SO_4^{2-} + 5 H_2O \\rightarrow 2 Cl^- + S_2O_3^{2-} + 10 OH^-$"
+        },
+        {
+          "letra": "B",
+          "texto": "$4 Cl_2 + 2 SO_4^{2-} + 5 H_2O \\rightarrow 8 Cl^- + S_2O_3^{2-} + 10 OH^-$"
+        },
+        {
+          "letra": "C",
+          "texto": "$Cl_2 + S_2O_3^{2-} + 10 OH^- \\rightarrow 2 Cl^- + 2 SO_4^{2-} + 5 H_2O$"
+        },
+        {
+          "letra": "D",
+          "texto": "$Cl_2 + 2 S_2O_3^{2-} + 20 OH^- \\rightarrow 2 Cl^- + 4 SO_4^{2-} + 10 H_2O$"
+        },
+        {
+          "letra": "E",
+          "texto": "$4 Cl_2 + S_2O_3^{2-} + 10 OH^- \\rightarrow 8 Cl^- + 2 SO_4^{2-} + 5 H_2O$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Oxirredução"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "O funcionamento de uma lâmpada comum para iluminação pública antes do advento do LED era baseado em vapor de sódio. Os átomos de sódio, quando bombardeados por elétrons durante a operação da lâmpada, atingem o estado excitado em que o elétron de maior energia é promovido para o orbital atômico vazio de menor energia disponível. Quando os átomos decaem do estado excitado para o estado fundamental, um fóton é emitido, produzindo a cor amarela típica da lâmpada de sódio.\nSabendo que o número atômico do sódio é 11, qual é a configuração eletrônica do estado excitado do sódio responsável pela emissão de luz da lâmpada de vapor de sódio?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$1s^2 2s^1 2p^6 3s^2$"
+        },
+        {
+          "letra": "B",
+          "texto": "$1s^2 2s^2 2p^5 3s^2$"
+        },
+        {
+          "letra": "C",
+          "texto": "$1s^2 2s^2 2p^6 3p^1$"
+        },
+        {
+          "letra": "D",
+          "texto": "$1s^2 2s^2 2p^6 3d^1$"
+        },
+        {
+          "letra": "E",
+          "texto": "$1s^2 2s^2 2p^6 4s^1$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Distribuição Eletrônica"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "O texto a seguir é referência para as questões 22 a 25.\nNo início do mês de maio de 2025, os olhos do mundo estavam voltados para uma chaminé no alto da Capela Sistina, no Vaticano. Tratava-se do conclave que elegeu o novo líder da Igreja Católica, o Papa Leão XIV. Nas três primeiras votações, a chaminé expeliu uma fumaça preta, resultado da queima de perclorato de potássio e antraceno, dentre outras substâncias, anunciando que ainda não havia consenso entre os cardeais. Mas, após a quarta votação, o momento esperado chegou: uma fumaça branca, gerada principalmente pela queima de clorato de potássio, lactose e resina de pinho, subiu ao céu de Roma, trazendo a notícia tão aguardada - um novo líder espiritual havia sido escolhido.\nA seguir estão mostradas as estruturas químicas dos compostos orgânicos lactose e antraceno.\n\nA partir das estruturas mostradas, assinale a alternativa que apresenta as fórmulas moleculares da lactose e do antraceno, respectivamente.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$C_{10}H_{22}O_{11}$ e $C_{14}H_{10}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$C_{12}H_{22}O_{11}$ e $C_{14}H_{14}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$C_{12}H_{22}O_{11}$ e $C_{14}H_{10}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$C_{10}H_{12}O_{11}$ e $C_{14}H_{10}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$C_{12}H_{22}O_{11}$ e $C_{10}H_{10}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Fórmulas Moleculares"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Considerando as estruturas da lactose e do antraceno, como esses compostos orgânicos são classificados, respectivamente?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Carboidrato e fenol."
+        },
+        {
+          "letra": "B",
+          "texto": "Hidrocarboneto e fenol."
+        },
+        {
+          "letra": "C",
+          "texto": "Hidrocarboneto e carboidrato."
+        },
+        {
+          "letra": "D",
+          "texto": "Carboidrato e hidrocarboneto."
+        },
+        {
+          "letra": "E",
+          "texto": "Hidrocarboneto e hidrocarboneto."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Funções Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Um dos componentes da resina de pinho, usado na produção da fumaça branca, é o ácido abiético, de fórmula molecular $C_{20}H_{30}O_2$. Considere a combustão completa de 1 mol desse ácido, ou seja, a reação entre ele e o gás oxigênio ($O_2$), produzindo apenas gás carbônico ($CO_2$) e água ($H_2O$). Quantos mols de gás carbônico e água, respectivamente, são produzidos nessa combustão?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10 e 10"
+        },
+        {
+          "letra": "B",
+          "texto": "10 e 15"
+        },
+        {
+          "letra": "C",
+          "texto": "20 e 15"
+        },
+        {
+          "letra": "D",
+          "texto": "20 e 60"
+        },
+        {
+          "letra": "E",
+          "texto": "40 e 60"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Estequiometria",
+        "Química – Reações de Combustão"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Os sais clorato e perclorato de potássio são utilizados como agentes oxidantes nas reações de combustão. Quais são os estados de oxidação do átomo de cloro nos ânions perclorato ($ClO_4^−$) e clorato ($ClO_3^−$), respectivamente?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "−1 e −1"
+        },
+        {
+          "letra": "B",
+          "texto": "−7 e −5"
+        },
+        {
+          "letra": "C",
+          "texto": "+7 e −5"
+        },
+        {
+          "letra": "D",
+          "texto": "+7 e +5"
+        },
+        {
+          "letra": "E",
+          "texto": "+1 e +1"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Oxirredução",
+        "Química – Número de Oxidação (NOX)"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "O processo de deterioração de alimentos consiste em várias reações químicas, incluindo de oxidação. Diversas estratégias são utilizadas para aumentar a vida útil de um alimento embalado. Assinale a alternativa que apresenta uma ação que diminui a velocidade dessas reações de deterioração em alimentos.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Adicionar gás oxigênio dentro da embalagem."
+        },
+        {
+          "letra": "B",
+          "texto": "Armazenar o alimento em temperaturas elevadas."
+        },
+        {
+          "letra": "C",
+          "texto": "Embalar os alimentos a vácuo."
+        },
+        {
+          "letra": "D",
+          "texto": "Cortar o alimento em partes menores antes do armazenamento."
+        },
+        {
+          "letra": "E",
+          "texto": "Adicionar enzimas digestivas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Cinética Química"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Um dos materiais mais utilizados nas tecnologias de impressão 3D é o PLA, um polímero resistente e que pode ser obtido de fontes renováveis. A seguir é apresentada a equação química da reação de polimerização do ácido lático para formar o PLA.\n\nA reação química associada a essa transformação de grupos funcionais é uma:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "hidrólise."
+        },
+        {
+          "letra": "B",
+          "texto": "alcoólise."
+        },
+        {
+          "letra": "C",
+          "texto": "eliminação."
+        },
+        {
+          "letra": "D",
+          "texto": "acidificação."
+        },
+        {
+          "letra": "E",
+          "texto": "esterificação."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Reações Orgânicas",
+        "Química – Polímeros"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "A liberação de mosquitos com a bactéria Wolbachia no meio ambiente é uma técnica adotada por diversos países para impedir o desenvolvimento de certos vírus em insetos. Quando inserida artificialmente em ovos de Aedes aegypti, a capacidade do mosquito de transmitir o vírus fica reduzida. Em 2023, um grupo de pesquisadores de diversos países descreveu, em artigo publicado na revista Science, um fenômeno semelhante: mosquitos Anopheles contaminados pela bactéria Delftia tsuruhatensis são menos capazes de transmitir o protozoário Plasmodium. Em 2025, artigo publicado na revista Nature mostrou que esta mesma bactéria, Delftia, pode inibir a transmissão de parasitas em mosquitos Phlebotomus.\nA liberação de mosquitos Aedes aegypti com a Wolbachia e a de Anopheles e Phlebotomus com a Delftia podem ser estratégias para reduzir a transmissão, respectively, de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "zika, dengue e leishmaniose."
+        },
+        {
+          "letra": "B",
+          "texto": "malária, leishmaniose e zika."
+        },
+        {
+          "letra": "C",
+          "texto": "dengue, malária e leishmaniose."
+        },
+        {
+          "letra": "D",
+          "texto": "zika, malária e doença de Chagas."
+        },
+        {
+          "letra": "E",
+          "texto": "dengue, leishmaniose e doença de Chagas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Saúde e Doenças Parasitárias",
+        "Biologia – Zoologia de Invertebrados"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Vacinas utilizam diferentes estratégias para induzir imunidade contra uma determinada doença. No caso da COVID-19, diversas vacinas funcionam por meio da transferência de RNAm (RNA mensageiro) associado a proteínas virais.\nO RNAm transferido possibilitará imunidade contra a COVID-19 no indivíduo que recebeu a vacina, pois, em um primeiro momento, causará:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "redução da carga viral."
+        },
+        {
+          "letra": "B",
+          "texto": "aumento da síntese de RNA."
+        },
+        {
+          "letra": "C",
+          "texto": "produção de uma proteína viral."
+        },
+        {
+          "letra": "D",
+          "texto": "redução do número de leucócitos."
+        },
+        {
+          "letra": "E",
+          "texto": "produção de anticorpos contra o RNAm viral."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Imunologia",
+        "Biologia – Biologia Molecular"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Ao longo da evolução, a capacidade fotossintética das plantas esteve relacionada à condutância estomática – uma medida da eficiência com que os estômatos regulam a troca de gases entre a folha e o ambiente. Uma condutância elevada pode aumentar a taxa de fotossíntese, mas também expõe a planta a riscos, especialmente em ambientes secos, ao intensificar a perda de água. Um pesquisador avaliou a condutância estomática de uma planta em quatro situações:\nSituação 0 ou inicial: em ambiente seco;\nSituação 1: aumentou a disponibilidade de $CO_2$;\nSituação 2: reduziu a disponibilidade de $CO_2$;\nSituação 3: aumentou a umidade do ambiente mantendo a disponibilidade de $CO_2$ igual à inicial.\nEspera-se que a condutância dos estômatos nas situações 1, 2 e 3, quando comparadas à condição inicial, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "diminua, aumente, aumente."
+        },
+        {
+          "letra": "B",
+          "texto": "diminua, diminua, aumente."
+        },
+        {
+          "letra": "C",
+          "texto": "diminua, aumente, diminua."
+        },
+        {
+          "letra": "D",
+          "texto": "aumente, diminua, diminua."
+        },
+        {
+          "letra": "E",
+          "texto": "aumente, aumente, diminua."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Fisiologia Vegetal"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Medicamentos injetáveis que eram utilizados exclusivamente para o tratamento de diabetes tipo II passaram a ser usados para tratamento de obesidade e sobrepeso, sendo popularmente chamados de “canetas emagrecedoras”. Esses medicamentos retardam o esvaziamento gástrico e alteram a secreção de hormônios pancreáticos, resultando em uma redução da glicemia. A esse respeito, considere as figuras a seguir:\n\nA figura que melhor representa o efeito da aplicação desses medicamentos em relação à glicemia e às concentrações plasmáticas de glucagon e insulina é a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I"
+        },
+        {
+          "letra": "B",
+          "texto": "II"
+        },
+        {
+          "letra": "C",
+          "texto": "III"
+        },
+        {
+          "letra": "D",
+          "texto": "IV"
+        },
+        {
+          "letra": "E",
+          "texto": "V"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Fisiologia Humana",
+        "Biologia – Sistema Endócrino"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Ao longo dos últimos 10 anos, o peixe-leão – uma espécie originária dos oceanos Índico e Pacífico – tem sido registrado em diversas áreas do litoral brasileiro. Os primeiros avistamentos ocorreram no Rio de Janeiro, mas atualmente já há relatos em pelo menos nove estados do país. Para a tilápia e o panga, outras duas espécies exóticas, já há registros de escapes para rios e águas oceânicas. Na bacia do Alto Paraná, por exemplo, houve, em cinco anos, um aumento de 1.500% na captura de tilápias nos riachos da região. Esses são exemplos de espécies exóticas invasoras presentes em alguns ecossistemas brasileiros, que se somam ao javali, caramujo-africano e rã-touro-americana.\nCom base nos exemplos mencionados, a presença de espécies exóticas invasoras nos ecossistemas costuma causar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aumento da competição por recursos e da predação de espécies nativas."
+        },
+        {
+          "letra": "B",
+          "texto": "redução da incidência de doenças infecciosas e de parasitas nas espécies nativas."
+        },
+        {
+          "letra": "C",
+          "texto": "redução da pressão seletiva sobre as espécies nativas e aumento da biodiversidade a longo prazo."
+        },
+        {
+          "letra": "D",
+          "texto": "aumento da variabilidade genética das espécies nativas e redução do risco de extinção dessas espécies."
+        },
+        {
+          "letra": "E",
+          "texto": "ampliação do nicho ecológico das espécies nativas e estabelecimento de relações como mutualismo, comensalismo ou inquilinismo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Ecologia",
+        "Biologia – Relações Ecológicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "O tabagismo está associado a um quarto dos casos de câncer, além de doenças pulmonares e cardiovasculares. Uma sessão de narguilé pode equivaler ao consumo de 100 cigarros, e o cigarro eletrônico (vaper), embora não contenha tabaco, pode provocar lesões pulmonares graves. Um usuário de vaper apresenta falta de ar, febre, calafrios, tosse, dor de cabeça e tontura. Análises histopatológicas do pulmão revelaram lesões nos bronquíolos e alvéolos, com formação de tecido cicatricial e grande acúmulo de colágeno, além de:\n(1) presença de macrófagos espumosos, ou seja, com acúmulo de gordura no seu interior;\n(2) infiltração leucocitária, predominantemente por linfócitos e neutrófilos, sem evidência de infecção.\nDe acordo com a descrição acima, os itens 1 e 2 indicam, respectivamente, a presença de representantes dos tecidos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "epitelial e linfático."
+        },
+        {
+          "letra": "B",
+          "texto": "adiposo e epitelial."
+        },
+        {
+          "letra": "C",
+          "texto": "nervoso e conjuntivo."
+        },
+        {
+          "letra": "D",
+          "texto": "sanguíneo e nervoso."
+        },
+        {
+          "letra": "E",
+          "texto": "conjuntivo e sanguíneo."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Histologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Em 2022, foi realizado o primeiro transplante de um coração de porco geneticamente modificado para um humano vivo. Para isso, cientistas utilizaram a técnica de edição gênica CRISPR-Cas9, que permite modificar o DNA das células. Nesse processo, a enzima Cas9, guiada por um RNA específico, realiza um corte preciso, possibilitando a inserção de genes humanos. A produção das proteínas codificadas por esses genes e a inativação de algumas proteínas suínas pela mesma técnica reduzem a chance de rejeição do órgão transplantado. A figura a seguir ilustra o fluxo da informação genética na célula do porco, desde a edição do DNA até a produção da proteína humana.\n\nNa figura, os números de 1 a 4 representam, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 = Nucléolo 2 = Ribossomo 3 = Transcrição 4 = RNA ribossomal"
+        },
+        {
+          "letra": "B",
+          "texto": "1 = Citosol 2 = Complexo de Golgi 3 = Splicing 4 = RNA transportador"
+        },
+        {
+          "letra": "C",
+          "texto": "1 = Núcleo 2 = Complexo de Golgi 3 = Transcrição 4 = RNA mensageiro"
+        },
+        {
+          "letra": "D",
+          "texto": "1 = Núcleo 2 = Retículo endoplasmático 3 = Tradução 4 = RNA mensageiro"
+        },
+        {
+          "letra": "E",
+          "texto": "1 = Citosol 2 = Retículo endoplasmático 3 = Tradução 4 = RNA transportador"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Citologia",
+        "Biologia – Biologia Molecular"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Níveis elevados de LDL (lipoproteína de baixa densidade) no sangue aumentam o risco de doenças cardiovasculares, que estão entre as principais causas de morte no mundo. Esse aumento pode ser causado por maus hábitos alimentares ou por hipercolesterolemia familiar, uma condição genética caracterizada por níveis muito altos de LDL no sangue, independentemente da dieta. Estima-se que essa condição afete mais de 10 milhões de pessoas globalmente. A forma mais comum de hipercolesterolemia familiar envolve mutações no gene LDLR, que codifica o receptor de LDL, e está representada no heredograma a seguir, com indivíduos acompanhados de seus respectivos níveis de LDL. Consideram-se aceitáveis os níveis de LDL inferiores a 130 mg/dL.\n\nConsiderando os fenótipos e os níveis de LDL dos indivíduos representados no heredograma, é correto afirmar que o padrão de herança observado é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "autossômico recessivo."
+        },
+        {
+          "letra": "B",
+          "texto": "poligênico ou quantitativo."
+        },
+        {
+          "letra": "C",
+          "texto": "recessivo ligado ao cromossomo X."
+        },
+        {
+          "letra": "D",
+          "texto": "autossômico dominante, com dominância completa."
+        },
+        {
+          "letra": "E",
+          "texto": "autossômico dominante, com dominância incompleta ou codominância."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Genética"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Os anfíbios lideram o ranking de vertebrados em risco de extinção, com 41% das espécies ameaçadas. Em seguida, aparecem os tubarões e as raias (37%), os mamíferos (27%), os répteis (21%) e as aves (13%). Entre 1980 e 2004, as doenças fúngicas e a perda de hábitat foram os principais fatores de ameaça. A partir de 2004, no entanto, as mudanças climáticas tornaram-se o novo vilão, seguidas pela perda de hábitat e outras causas já anteriormente presentes.\nQual característica dos anfíbios ajuda a explicar por que esse grupo é proporcionalmente mais ameaçado de extinção?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Endotermia"
+        },
+        {
+          "letra": "B",
+          "texto": "Pele fina e úmida"
+        },
+        {
+          "letra": "C",
+          "texto": "Desenvolvimento direto"
+        },
+        {
+          "letra": "D",
+          "texto": "Ovos com casca e âmnio"
+        },
+        {
+          "letra": "E",
+          "texto": "Excreção renal de ácido úrico"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Zoologia",
+        "Biologia – Fisiologia Animal Comparada"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Considere a seguinte notícia, que relata um episódio ocorrido em 11 de janeiro de 2025:\nBombeiros salvam 10 pessoas ilhadas em rio de Antonina após cabeça d'água\nO Corpo de Bombeiros Militar do Paraná (CBMPR) resgatou, na noite de sábado (11), dez pessoas que ficaram ilhadas após uma cabeça d'água atingir o Rio do Nunes, em Antonina, no Litoral do Estado. [...] Segundo o comandante-geral do CBMPR, [...] a operação exemplifica a dedicação e o preparo da corporação para enfrentar situações extremas. [...] O comandante reforçou ainda a necessidade de precauções ao praticar atividades aquáticas, especialmente durante o verão.\nDisponível em: https://www.aen.pr.gov.br/Noticia/Bombeiros-salvam-10-pessoas-ilhadas-em-rio-de-Antonina-apos-cabeca-dagua.\nConsiderando essas informações, assinale a alternativa que apresenta a principal causa do fenômeno cabeça d'água e o motivo pelo qual seus efeitos podem surpreender as pessoas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Formação de uma coluna de ar em rotação associada a uma nuvem de tempestade, que surpreende por se originar sobre uma superfície de água, como o mar, lagos ou grandes rios."
+        },
+        {
+          "letra": "B",
+          "texto": "Ocorrência de chuvas intensas em áreas mais elevadas de uma bacia hidrográfica, que surpreende pelo aumento rápido e repentino do nível de um rio ou córrego, mesmo que não tenha chovido no local onde estão as pessoas."
+        },
+        {
+          "letra": "C",
+          "texto": "Avanço de frentes frias sobre uma determinada localidade, aumentando os riscos e a vulnerabilidade de uma determinada área, e surpreendendo por provocar ondas de frio em pleno verão."
+        },
+        {
+          "letra": "D",
+          "texto": "Ocorrência de chuvas fortes em grandes bacias hidrográficas, que surpreendem ao provocar os eventos extremos de granizo no continente e em nível regional."
+        },
+        {
+          "letra": "E",
+          "texto": "Registro de chuvas intensas e homogêneas em bacias hidrográficas de médio e grande porte, que surpreende por favorecer a ocorrência de erosão e deslizamentos de terra nos trechos costeiros de menor elevação."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Climatologia",
+        "Geografia – Hidrografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Considere o texto e o mapa a seguir:\nDeclaração Balfour, 2 de novembro de 1917.\nO governo de Sua Majestade encara favoravelmente o estabelecimento, na Palestina, de um Lar Nacional para o Povo Judeu, e empregará todos os seus esforços no sentido de facilitar a realização desse objetivo, entendendo-se claramente que nada será feito que possa atentar contra os direitos civis e religiosos das coletividades não judaicas existentes na Palestina, nem contra os direitos e o estatuto político de que gozam os judeus em qualquer outro país. Desde já, declaro-me extremamente grato a você pela gentileza de encaminhar esta declaração ao conhecimento da Federação Sionista.\nArthur James Balfour\nMinistro britânico de Relações Exteriores\nBrener, Jayme. As guerras entre Israel e os Árabes. São Paulo: Scipione, 1997, p. 13.\n\nEvolução da ocupação judaica na Palestina\nDisponível em: https://agenciabrasil.ebc.com.br/internacional/noticia/2023-10/israel-hamas-palestina-entenda-guerra-no-oriente-medio\nConsiderando as informações apresentadas, assinale a alternativa que relaciona corretamente a declaração Balfour à evolução da ocupação judaica na Palestina.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A declaração Balfour simboliza o nascimento do Estado judeu na Palestina em 1917, como um gesto de aliança do governo Britânico com a comunidade judaica, com objetivo de controlar a expansão árabe no Oriente Médio durante a Primeira Guerra Mundial, o que determinou a evolução da ocupação judaica na região."
+        },
+        {
+          "letra": "B",
+          "texto": "A expansão da ocupação israelense em território palestino, para além da área delimitada pela ONU em 1947, indica que os direitos das coletividades não judaicas existentes na Palestina não foram assegurados pelos organismos internacionais, conforme prometia a declaração Balfour emitida pelo Reino Britânico."
+        },
+        {
+          "letra": "C",
+          "texto": "A declaração Balfour representou apenas um gesto simbólico do Reino Britânico para angariar apoio dos judeus durante a Primeira Grande Guerra, já que a partilha da Palestina entre árabes e judeus se deu apenas em 1947, pela Resolução 181 da ONU, e a criação do Estado de Israel ocorreu oficialmente em 1948."
+        },
+        {
+          "letra": "D",
+          "texto": "Diante da promessa não cumprida pela declaração Balfour, a ONU confiscou os poderes britânicos sobre a Palestina e realizou sua partilha entre árabes e judeus de modo desproporcional, em 1947, o que tem levado Israel a justificar sua expansão sobre o território palestino com base nas promessas britânicas."
+        },
+        {
+          "letra": "E",
+          "texto": "A declaração Balfour registra o início do movimento sionista, como uma política de ocupação da Palestina promovida pelo Império Britânico para frear o Império Turco Otomano e a ocupação árabe na região, com um programa de expansão territorial gradual do Estado israelense."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "História – Conflitos Árabe-Israelenses"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Subsidência e colapso são processos comuns e naturais em áreas de relevo cárstico. Feições típicas do carste podem se formar de maneira bastante lenta ou surgir em poucos dias, originando depressões na superfície do terreno. Considerando as informações apresentadas, são exemplos de formas típicas de relevo cárstico:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "leques aluviais, dunas e chapadas."
+        },
+        {
+          "letra": "B",
+          "texto": "cascatas, morros testemunhos e rochas periglaciais."
+        },
+        {
+          "letra": "C",
+          "texto": "ravinas, voçorocas e derrames basálticos."
+        },
+        {
+          "letra": "D",
+          "texto": "planícies, planaltos e rios de superfície extensos."
+        },
+        {
+          "letra": "E",
+          "texto": "dolinas, sumidouros e cavernas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Geomorfologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Analise os dois fragmentos de texto a seguir:\nQuatro dos cinco estados com maior perda de vegetação nativa em 2024 ficam no Matopiba, a principal fronteira de desmatamento. [...] Os quatro estados do Matopiba estão entre as cinco unidades federativas que mais desmataram em 2024.\nDisponível em: https://brasil.mapbiomas.org/2025/05/15/mapbiomas-desmatamento-caiu-em-todos-os-biomas-brasileiros-em-2024/.\nA região do Matopiba é uma área de grande crescimento no cultivo de grãos, que se desenvolveu de modo mais intenso a partir da década de 1980 e que requer maior atenção das autoridades e especialistas. O nome refere-se à combinação das siglas dos estados que possuem municípios na região: Maranhão, Tocantins, Piauí e Bahia. Os municípios abrangidos pela região do Matopiba estão listados na Portaria nº 244, de 12 de novembro de 2015, do Ministério da Agricultura, Pecuária e Abastecimento.\nDisponível em: https://www.ibge.gov.br/geociencias/organizacao-do-territorio/estrutura-territorial/34329-matopiba.html?=&t=o-que-e.\nNos dois últimos anos, 2023 e 2024, a Amazônia deixou de ser a formação vegetal mais desmatada do país. Em 2024, a região do Matopiba concentrou aproximadamente 75% do desmatamento de um determinado bioma e 42% de toda a perda de vegetação nativa no Brasil. Predominante em cerca de 91% da área do Matopiba, o bioma em questão é chamado de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pantanal."
+        },
+        {
+          "letra": "B",
+          "texto": "pampa."
+        },
+        {
+          "letra": "C",
+          "texto": "cerrado."
+        },
+        {
+          "letra": "D",
+          "texto": "mata atlântica."
+        },
+        {
+          "letra": "E",
+          "texto": "zonas costeiras."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Biomas do Brasil",
+        "Geografia – Questões Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Considere o texto e o quadro a seguir:\nQuase 68% dos imigrantes não estão inseridos no mercado de trabalho, diz pesquisa.\nSe, por um lado, os especialistas apontam um mercado de trabalho aquecido no Brasil, com taxas de desemprego baixas e uma rotatividade maior de empregos, por outro, essa realidade não é a mesma encontrada por imigrantes que chegam ao país [...]. Anceliany Arbelay, 38, é venezuelana e sentiu esse processo na pele ao imigrar para o Brasil em 2022. \"Eu trabalhava 8 horas e 12 horas aos finais de semana, se eu falasse que não queria eles queriam descontar do meu salário porque eu não tinha os documentos, eu não tinha os direito[s] da carteira, contratada pela CLT\", relatou. A venezuelana, que por muito tempo ocupou a informalidade, conseguiu sua identidade no Brasil, o Registro Nacional Migratório (RNM), apenas 6 meses depois de chegar ao país. E mesmo assim, ainda não conseguiu regularizar sua documentação escolar. Por isso, tem dificuldade para trabalhar na sua área de formação, de administradora financeira.\nDisponível em: https://www.cnnbrasil.com.br/economia/macroeconomia/quase-68-dos-imigrantes-nao-estao-inseridos-no-mercado-de-trabalho-diz-pesquisa/.\n\nConsiderando as informações apresentadas e os conhecimentos dos fluxos migratórios contemporâneos, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Em decorrência do acirramento das políticas anti-imigratórias de países do norte global, pós-crise de 2008, observa-se uma queda da imigração brasileira para o exterior simultaneamente ao aumento de fluxos migratórios para o Brasil, sobrecarregando o mercado de trabalho do país."
+        },
+        {
+          "letra": "B",
+          "texto": "A deflagração da Operação Acolhida pelo Exército brasileiro, em 2018, colaborou para o aumento da entrada de imigrantes venezuelanos pelas cidades fronteiriças de Boa Vista (RR) e Pacaraima (RR), contribuindo para a saturação do mercado de trabalho e a geração de situações de informalidade."
+        },
+        {
+          "letra": "C",
+          "texto": "A liderança do Brasil na Missão das Nações Unidas para a Estabilização do Haiti, a partir de 2004, inaugurou o protagonismo geopolítico do país na América Latina e estimulou as migrações regionais, com destaque para Venezuela, Haiti e Bolívia."
+        },
+        {
+          "letra": "D",
+          "texto": "As políticas anti-imigratórias do Norte Global têm contribuído para o estabelecimento de fluxos latino-americanos no sentido Sul-Sul, reproduzindo a lógica de exploração do trabalho imigrante e transformando os fluxos migratórios para o Brasil, que outrora possuía predomínio de imigrações Norte-Sul."
+        },
+        {
+          "letra": "E",
+          "texto": "As situações de trabalho precarizado às quais os imigrantes venezuelanos têm sido submetidos no Brasil são consequência do sobrefluxo de pessoas que chegam ao país, associado a políticas de interiorização que encaminham esses imigrantes principalmente para as regiões Sudeste e Sul do país."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Demografia",
+        "Geografia – Migrações"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Considere o seguinte texto:\nMárcio Pochmann: IBGE planeja reconquistar “soberania de dados” contra as big techs\nPara o professor da Unicamp, a questão dos dados é um novo dilema da soberania. No século 19, a questão era a soberania política. No século 20, o Brasil debateu a soberania econômica e o subdesenvolvimento. Agora, é a hora de o país ingressar no debate sobre a soberania de informações. \"Na era digital, nós praticamente estamos submetidos a um censo por dia. Todas as suas decisões de ouvir música, de direção, para se deslocar para algum lugar, de pagamento, de compra, enfim, todas as suas decisões são dados brutos que viram uma forma de extrativismo pelas big techs, empresas estrangeiras que coletam essas informações, que trabalham, dilapidam essas informações e depois as transformam num grande negócio\", explica o professor. \"Isso nos aprofunda no subdesenvolvimento. Nós estamos permitindo que o extrativismo digital possibilite que essas empresas tenham alta lucratividade, não paguem impostos, não gerem emprego; o país não tem essa tecnologia para poder operar nacionalmente como outros países\", afirma Pochmann.\nDisponível em: https://revistaforum.com.br/ciencia-e-tecnologia/2024/7/19/marcio-pochmann-ibge-planeja-reconquistar-soberania-de-dados-contra-as-big-techs-162389.html. Adaptado.\nConsiderando o contexto apontado pelo fragmento de reportagem acima, é correto afirmar sobre as relações entre soberania e meio técnico-científico-informacional:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os desafios impostos pelo meio técnico-científico-informacional reforçam a importância da soberania de dados para o desenvolvimento do país, compreendendo que a exploração econômica dessas informações deve se dar em território nacional, como garantia de desenvolvimento econômico de empresas brasileiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Diante dos impactos do extrativismo de dados assinalados pela matéria, compreende-se que o desenvolvimento do país nas atuais circunstâncias do meio técnico-científico-informacional requer a erradicação de plataformas e serviços digitais de empresas estrangeiras para a garantia da soberania digital."
+        },
+        {
+          "letra": "C",
+          "texto": "No contexto do meio técnico-científico-informacional, a soberania digital passa pelo desenvolvimento de estratégias de guerra informacional, com investidas do governo contra as big techs para resgatar os dados dos brasileiros que são enviados para o exterior para serem explorados economicamente."
+        },
+        {
+          "letra": "D",
+          "texto": "O meio técnico-científico-informacional requer uma política nacional de enfrentamento às big techs que impacta a liberdade de expressão da população brasileira, em benefício do fortalecimento da segurança nacional e do desenvolvimento econômico e social."
+        },
+        {
+          "letra": "E",
+          "texto": "No meio técnico-científico-informacional, a soberania passa pelo controle de um país sobre os dados de sua população, condição que se vê ameaçada no Brasil pela extração e exploração informacional por parte de empresas estrangeiras, incluindo o envio desses dados para o exterior."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Globalização",
+        "Geografia – Geopolítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Mapas são representações simplificadas e imperfeitas da realidade. A esse respeito, observe os mapas a seguir.\n\nConsiderando que as escolhas técnicas podem modificar tais representações, quais elementos cartográficos dos mapas B, C e D foram transformados em relação ao mapa A?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Mapa B\nCoordenadas geográficas\nMapa C\nEscala\nMapa D\nProjeção cartográfica"
+        },
+        {
+          "letra": "B",
+          "texto": "Mapa B\nOrientação\nMapa C\nCoordenadas geográficas\nMapa D\nEscala"
+        },
+        {
+          "letra": "C",
+          "texto": "Mapa B\nProjeção cartográfica\nMapa C\nCoordenadas geográficas\nMapa D\nOrientação"
+        },
+        {
+          "letra": "D",
+          "texto": "Mapa B\nOrientação\nMapa C\nEscala\nMapa D\nProjeção cartográfica"
+        },
+        {
+          "letra": "E",
+          "texto": "Mapa B\nCoordenadas geográficas\nMapa C\nProjeção cartográfica\nMapa D\nOrientação"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Cartografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Uma pesquisa mapeou dois sítios arqueológicos A e B no estado do Paraná, nos municípios de Peabiru e Faxinal, respectivamente. Para cada local, as coordenadas UTM (Universal Transversa de Mercator) no fuso 22S são: local A (370.000,00 m E; 7.350.000,00 m S); local B (470.000,00 m E; 7.350.000,00 m S), conforme a representação cartográfica a seguir.\n\nCom base nessas informações, qual é, respectivamente, a menor distância (D) entre os locais A e B na superfície terrestre e a menor distância (d) entre os locais A e B em um documento cartográfico com escala 1:1.000.000?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "D = 10 km e d = 1 cm."
+        },
+        {
+          "letra": "B",
+          "texto": "D = 47 km e d = 4,7 cm."
+        },
+        {
+          "letra": "C",
+          "texto": "D = 100 km e d = 10 cm."
+        },
+        {
+          "letra": "D",
+          "texto": "D = 470 km e d = 47 cm."
+        },
+        {
+          "letra": "E",
+          "texto": "D = 7350 km e d = 73,5 cm."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Cartografia",
+        "Geografia – Escalas e Coordenadas"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Os cartogramas a seguir mostram os países redimensionados em proporção a: (A) emissão cumulativa de $CO_2$ (dióxido de carbono) e (B) estimativas de mortalidade decorrente de quatro potenciais efeitos das mudanças climáticas para a saúde (malária, desnutrição, diarreia e mortes relacionadas a inundações).\n\nPatz, J. A.; Gibbs, H. K.; Foley, J. A.; Rogers, J. V.; Smith, K. R. Climate change and global health: quantifying a growing ethical crisis. EcoHealth, v. 4, p. 397-405, 2007. Adaptado.\nA partir da interpretação dessas representações cartográficas, é correto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os países mais vulneráveis aos efeitos das mudanças climáticas na saúde são os menos responsáveis pelas emissões de $CO_2$."
+        },
+        {
+          "letra": "B",
+          "texto": "o continente africano possui maior potencial de mortalidade relacionada às mudanças climáticas devido às suas baixas emissões de $CO_2$."
+        },
+        {
+          "letra": "C",
+          "texto": "a Ásia possui baixa emissão de $CO_2$, mas tem alta mortalidade devido aos efeitos das mudanças climáticas na saúde."
+        },
+        {
+          "letra": "D",
+          "texto": "as regiões com maiores emissões de $CO_2$ são mais afetadas pelas mudanças climáticas na saúde."
+        },
+        {
+          "letra": "E",
+          "texto": "os Estados Unidos apresentam emissões de $CO_2$ superiores à média global, o que gera alta mortalidade relacionada às mudanças climáticas no continente americano."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Cartografia",
+        "Geografia – Questões Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 83,
+      "enunciado": "According to the comic strip, it is correct to say that:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A.I. writes the email without any guidance items, ideas or suggested topic."
+        },
+        {
+          "letra": "B",
+          "texto": "both people working on the computers declare they had the intention to write and read the emails."
+        },
+        {
+          "letra": "C",
+          "texto": "A.I. summarizes the long email into a list of a few items."
+        },
+        {
+          "letra": "D",
+          "texto": "A.I. guarantees workers are well informed, engaged with the emails and responsible for what they write and read."
+        },
+        {
+          "letra": "E",
+          "texto": "the people working on the computers can simulate they either wrote or read the emails."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 84,
+      "enunciado": "Based on the text, it is correct to say:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "The nightlife in global cities is as strong as it has ever been with the Gen Z public."
+        },
+        {
+          "letra": "B",
+          "texto": "The research of the Financial Times has revealed that the number of nightclubs operating after 3 a.m. in global cities has reduced from 15 to 12."
+        },
+        {
+          "letra": "C",
+          "texto": "Younger generations prefer going to day clubs so they can get drunk, and still go home early and get from 8 to 9 hours of sleep."
+        },
+        {
+          "letra": "D",
+          "texto": "The nightclub industry must change their club culture and adapt to the new generation’s life style to avoid becoming smaller and smaller."
+        },
+        {
+          "letra": "E",
+          "texto": "Older generations were into being sober and dropped less money on drinks in nightclubs than the Gen Z."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 85,
+      "enunciado": "Consider the following sentences:\n1. Some of the most famous party spots around the world are reducing the frequency of all-night parties.\n2. The Financial Times analyzed 15 global cities for the article.\n3. The nightclubs continue thriving as much as the day clubs.\n4. Young people from Generation Z are very interested in buying high priced drinks in nightclubs.\nMark the correct alternative.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Only affirmative 3 is correct."
+        },
+        {
+          "letra": "B",
+          "texto": "Only affirmatives 1 and 2 are correct."
+        },
+        {
+          "letra": "C",
+          "texto": "Only affirmatives 2 and 4 are correct."
+        },
+        {
+          "letra": "D",
+          "texto": "Only affirmatives 1, 3 and 4 are correct."
+        },
+        {
+          "letra": "E",
+          "texto": "Affirmatives 1, 2, 3 and 4 are correct."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 86,
+      "enunciado": "Mark the alternative that correctly defines an expression used in the text.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "All-night parties: parties that last 24 hours non-stop."
+        },
+        {
+          "letra": "B",
+          "texto": "Higher costs: less expensive to maintain when compared to before."
+        },
+        {
+          "letra": "C",
+          "texto": "The “most sober”: the one who drinks the most when compared to all others."
+        },
+        {
+          "letra": "D",
+          "texto": "The real culprit: the real cause of the situation or problem."
+        },
+        {
+          "letra": "E",
+          "texto": "Die out: expand or grow."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 87,
+      "enunciado": "According to the text, it is correct to say that:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "spending too much time consuming irrelevant online content may lead to brain rot."
+        },
+        {
+          "letra": "B",
+          "texto": "the term “brain rot” has been created to define this modern medical condition."
+        },
+        {
+          "letra": "C",
+          "texto": "excessive screen time has been linked to improved memory and better attention span."
+        },
+        {
+          "letra": "D",
+          "texto": "mental fogginess is when people focus easily and have a clear view of situations."
+        },
+        {
+          "letra": "E",
+          "texto": "only people from Gen Z and Gen Alpha suffer from brain rot."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 88,
+      "enunciado": "Mark the correct alternative based on the text.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Doomscrolling is consuming higher-thinking and thought-provoking content online."
+        },
+        {
+          "letra": "B",
+          "texto": "People’s moods boost when they consume unchallenging contents online."
+        },
+        {
+          "letra": "C",
+          "texto": "A slang term is considered a traditional, well-established standard word."
+        },
+        {
+          "letra": "D",
+          "texto": "Engaging in deeper thought or analysis and critical thinking can develop brain rot."
+        },
+        {
+          "letra": "E",
+          "texto": "Low-effort and unchallenging online contents consumption can develop brain rot."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 89,
+      "enunciado": "Based on the information presented in the text, clutter may:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "make people feel a variety of emotions, like stress, anxiety, annoyance and fear."
+        },
+        {
+          "letra": "B",
+          "texto": "lead to mental disorders that have no cure."
+        },
+        {
+          "letra": "C",
+          "texto": "transform homes into attractive environments."
+        },
+        {
+          "letra": "D",
+          "texto": "lower stress levels because people have all their things around them."
+        },
+        {
+          "letra": "E",
+          "texto": "help people meet their deadlines and do the things they enjoy."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 90,
+      "enunciado": "Analyze the following sentences:\n1. Hoarding is a mental disorder that keeps people from eliminating clutter.\n2. Hemingway said all people want to be in messy places.\n3. Organizing the mess can help you save money and time.\n4. Loosing objects and information around the house is one of the benefits of cleaning up.\nMark the correct alternative, based on the text.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Only sentence 1 is correct."
+        },
+        {
+          "letra": "B",
+          "texto": "Only sentences 1 and 3 are correct."
+        },
+        {
+          "letra": "C",
+          "texto": "Only sentences 2 and 4 are correct."
+        },
+        {
+          "letra": "D",
+          "texto": "Only sentences 2, 3 and 4 are correct."
+        },
+        {
+          "letra": "E",
+          "texto": "Sentences 1, 2, 3 and 4 are correct."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1577 @@
+{
+  "nomeUniversidade": "Pontifícia Universidade Católica de Goiás",
+  "siglaUniversidade": "PUC GOIÁS",
+  "nomeProva": "Vestibular de Medicina 2023/1",
+  "ano": 2023,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Suponha uma residência em Goiânia que consuma 300 kWh de energia elétrica por mês. Se um painel solar fotovoltaico possui 400W de potência e a radiação solar média diária em Goiânia for de 5,7 horas úteis, com perdas de 20%, quantos painéis solares deverão ser instalados nessa residência para suprir a demanda mensal de consumo de energia elétrica? Marque a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5."
+        },
+        {
+          "letra": "B",
+          "texto": "6."
+        },
+        {
+          "letra": "C",
+          "texto": "3."
+        },
+        {
+          "letra": "D",
+          "texto": "4."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Eletrodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Read the text Interesting Facts About Niobium:\n\n[...]\nNiobium is considered to be a critical and strategic commodity because of the metal's specialized applications in defense, energy, high-tech industrial, and medical sectors. In addition, niobium has no effective substitutes and the production of niobium is highly concentrated. In fact, current identified resources of niobium are located predominantly in Brazil (about 95 percent) and Canada (about 3.5 percent), with just three companies – Companhia Brasileira de Metalurgia e Mineração (CBMM), Anglo American Niobio Brasil, and IAMGOLD Corp (of Canada) – together producing about 90% of the world's demand for niobium products.\nThe United States does not have a niobium mining industry because domestic resources are of low-grade, mineralogically complex, and mostly not commercially recoverable. The U.S., like many countries, is forced to import 100% of its niobium source materials for processing, except in the case where some small amounts of niobium are recovered from alloy scrap. In 2018, U.S. niobium consumption was up 27% over 2017, with increased demand linked to increased consumption of microalloyed steel, used in the manufacturing of cars, buildings, ships, cell phones, computers, superconducting magnets, high-tech devices, and refinery equipment.\n[...]\n\n(Source: https://briandcolwell.com/15-interesting-facts-about-niobium/. Access on: August 18th, 2022. Adapted.)\n\nAccording to the text, select the correct alternative:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "The mineralogical complexity, low-grading resources and the lack of commercial recoverability are the main reasons why U.S. is forced to export 100% of the niobium source materials."
+        },
+        {
+          "letra": "B",
+          "texto": "Currently, 95% of the niobium resources are found in Brazil, and only 3.5% in Canada and the U.S. For that reason, an increase in production could ease the global market demand."
+        },
+        {
+          "letra": "C",
+          "texto": "U.S. imports their niobium source materials due to not having a niobium mining industry, but still manages to recover small amounts of niobium from alloy scrap."
+        },
+        {
+          "letra": "D",
+          "texto": "Despite having unique proprieties, niobium has not shown itself as a substitute for steel for applications in defense, energy, high-tech industrial, and medical sectors."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Leia o fragmento do texto “O Parnasianismo”, retirado da obra De Anchieta a Euclides: breve história da literatura brasileira - I, de José Guilherme Merquior:\n\nDas Sinfonias (1882) de Raimundo Correia às Poesias (1888) de Olavo Bilac, firma-se entre nós a disciplina parnasiana. Com ela se deu a invasão do alexandrino francês, o abandono do verso branco, o recuo dos metros ímpares, o banimento do hiato, a obrigatoriedade da rima rica (rima entre palavras de categoria gramatical diferente) e o império das formas de estrofação rígidas; o parnasianismo institui o reinado do soneto. Hipnotizados pela ginástica versificatória, seduzidos por uma concepção escultural do poema, os nossos parnasianos cuidaram menos de atingir a “impassibilidade” recomendada por Paris do que de assegurar livre curso à tendência, bem ibérica, para o exibicionismo verbal – a mesma a que se entregava, pela mesma época, o mais influente dos poetas em castelhano, o nicaraguense europeizado Rubén Darío (1867-1916).\n\n(MERQUIOR, José Guilherme. De Anchieta a Euclides: breve história da literatura brasileira. 2. ed. Rio de Janeiro: J. Olympio, 1979. p. 121-122. Adaptado.)\n\nA respeito do Parnasianismo, analise as afirmativas a seguir:\n\nI - Os poetas desse movimento literário optavam pelo uso de uma linguagem mais elaborada e objetiva.\nII - Algumas das características da poesia produzida por esse movimento eram a preocupação com a forma, gosto pela descrição, uso de vocabulário culto e formal, e referências à mitologia grega e romana.\nIII - Em muitas obras literárias, evidencia-se a tendência pela exposição de temas que ilustram a tragicidade decorrente do conflito entre razão e fé.\nIV - Uso frequente da tônica de subjetividade por parte de alguns autores, evidenciada pela expressão de emoção, sentimentalismo e lirismo.\n\nEm relação às proposições analisadas, assinale a única alternativa cujos itens estão todos corretos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II, III e IV apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e IV apenas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Parnasianismo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "A condição para que uma função possua uma função inversa é que ela seja simultaneamente injetora e sobrejetora.\nAnalise as seguintes afirmativas sobre funções:\n\nI - A função f, dos números reais nos números reais, dada por $f(x) = x^2 - 2x + 1$ é invertível.\nII - A função f, dos números reais nos números reais, dada por $f(x) = \\frac{5 - x}{2}$ é invertível.\nIII - A função de f, dos números reais nos números reais, dada por $f(x) = -x - 10$ possui ela mesma como inversa.\n\nConsideradas as informações apresentadas, marque a única alternativa que apresenta todas as afirmativas corretas sobre funções:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e II apenas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Funções (Função Inversa)"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Leia com atenção o fragmento extraído da obra História de Goiás, de Luis Palacín e Maria Augusta de S. Moraes:\n\nO Anhanguera era um homem obstinado: disse que preferia a morte a voltar fracassado. No fim acabou tendo sorte, pois numa das voltas da bandeira, quando já lhe restavam poucos companheiros, descobriu ouro nas cabeceiras do rio Vermelho – na região da atual Cidade de Goiás.\n\n(PALACÍN, L.; MORAES, M. A. de S. História de Goiás. 7. ed. Goiânia: ed. da UCG; Vieira, 2008. p. 22. Adaptado.)\n\nAcerca do movimento das bandeiras, que deu início à empresa mineradora no atual território goiano, assinale a única alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os bandeirantes desenvolveram uma cultura mestiça na caça dos povos indígenas e na busca por pedras preciosas, a exemplo do Anhanguera. Com essa técnica sertanista, acabaram por expandir o território brasileiro."
+        },
+        {
+          "letra": "B",
+          "texto": "As bandeiras eram formadas por brancos livres que combatiam as revoltas escravas e faziam a vigilância das regiões exportadoras de açúcar. Com o passar do tempo, dedicaram-se também à mineração de ouro e de diamantes, a exemplo do Anhanguera."
+        },
+        {
+          "letra": "C",
+          "texto": "Os bandeirantes eram militares enviados por Portugal para que expandissem o território sob seu domínio. Após a consolidação da colonização, passaram a explorar as minas auríferas visando desenvolver economicamente as regiões, a exemplo do Anhanguera."
+        },
+        {
+          "letra": "D",
+          "texto": "O movimento das bandeiras foi iniciado por brasileiros, como o Anhanguera, que armou indígenas e negros para combaterem povos invasores, a exemplo dos holandeses no Nordeste brasileiro e os espanhóis que exploravam o ouro no atual Mato Grosso e em Goiás."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Brasil Colônia (Bandeiras)"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Em animais mamíferos, o sistema nervoso tem importante atuação na comunicação e no controle do organismo, exercendo funções em diversos processos fisiológicos.\n\nSobre o sistema nervoso, leia atentamente as proposições a seguir:\n\nI - O sistema nervoso central é composto pelo cérebro, tronco encefálico e gânglios nervosos, que processam as informações importantes para a coordenação e o controle do corpo.\nII - Após uma situação de estresse, como um susto, a regularização das batidas do coração e o restabelecimento da calma são controlados pelo sistema nervoso parassimpático.\nIII - A medula espinhal faz parte do encéfalo, e é responsável pelo acompanhamento do cérebro na função de equilíbrio, postura e ajustes dos movimentos corporais.\n\nMarque a única alternativa inteiramente correta quanto à veracidade dessas proposições:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II apenas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Fisiologia Animal (Sistema Nervoso)"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "No dia 2 de agosto de 2022, o mundo passou por um dos momentos de maior tensão diplomática e militar, em decorrência da visita de Nancy Pelosi, representante da Câmara dos Estados Unidos, a Taiwan. A atitude da parlamentar levou a China a desenvolver uma série de exercícios militares ao redor da ilha, aumentando o temor de uma escalada de conflitos envolvendo grandes potências militares.\n\nAcerca das disputas envolvendo China e Estados Unidos na região da Ásia-Pacífico, assinale a única alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A total integração político-administrativa da ilha de Taiwan ao comando de Pequim encontra forte risco, em razão da baixa tecnologia militar chinesa face aos modernos equipamentos desenvolvidos por Taiwan."
+        },
+        {
+          "letra": "B",
+          "texto": "O maior interesse chinês pela total integração de Taiwan se justifica em razão de a ilha constituir importante mercado consumidor dos componentes eletrônicos fabricados na China."
+        },
+        {
+          "letra": "C",
+          "texto": "O fato de os Estados Unidos não reconhecerem explicitamente a soberania chinesa sobre Taiwan pode ser compreendido sob a perspectiva do seu interesse em reduzir a influência chinesa na região da Ásia-Pacífico, bem como do elevado potencial Taiwanês como cliente da indústria bélica norte-americana."
+        },
+        {
+          "letra": "D",
+          "texto": "A visita de Nancy Pelosi a Taiwan, na prática, representa o fortalecimento dos laços diplomáticos dos Estados Unidos com a ilha, o que contraria a ideia de uma Única República Popular da China com sede em Pequim."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geopolítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Leia o fragmento de texto a seguir sobre baterias de celular:\n\nBateria estufada é um dos problemas que podem afetar o funcionamento do celular. O inchaço geralmente pode ser notado visualmente, o que pode assustar os usuários. Quando o componente está danificado, é provável que o smartphone apresente desligamento repentino ou baixo desempenho.\n[...].\nAs baterias dos smartphones são confeccionadas a partir de íons de lítio, ou Li-Ion, na representação química. Tal composição permite armazenar mais energia e maior vida útil em comparação às utilizadas anteriormente, como as de hidreto metálico de níquel. Baterias de lítio levam no arranjo um conjunto de produtos químicos e metais extremamente voláteis, separados por camadas superfinas e não condutoras.\n[...].\nEm resumo, o fenômeno é o resultado de um processo que ocorre quando o Li-Ion entra em contato com o oxigênio, reagindo de forma a oxidar o lítio. De acordo com o portal especializado Battery University, a oxidação ocasiona a expansão dos componentes da bateria, o que obriga as paredes do componente a se dilatar. Por isso o usuário consegue perceber o estufamento da bateria.\n\n(SCAVASSA, Isabele. Celular com bateria estufada: saiba o que significa e o que fazer. Techtudo. abr. 2020. Disponível em: https://www.techtudo.com.br/noticias/2020/04/celular-com-bateria-estufada-saiba-o-que-significa-e-o-que-fazer.ghtml. Acesso em: 18 ago. 2022. Adaptado.)\n\nDados: Escala de eletronegatividade de Pauling: lítio = 1,0; hidrogênio = 2,2; oxigênio = 3,5; níquel = 1,8.\n\nConsiderando as informações apresentadas, analise os itens a seguir:\n\nI - A ligação formada entre o oxigênio e o lítio terá maior caráter iônico que a ligação entre o hidrogênio e o níquel.\nII - A oxidação do lítio leva esse metal ao ganho de elétrons e à interação com o oxigênio da atmosfera, o que contribui para a formação de um composto volumoso, resultando na dilatação da bateria.\nIII - O lítio é mais denso que o níquel, o que resulta em baterias mais pesadas, porém mais eficientes.\n\nConsiderando os itens apresentados, assinale a única alternativa inteiramente correta quanto à veracidade das afirmações contidas nesses itens:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II e III apenas"
+        },
+        {
+          "letra": "B",
+          "texto": "III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e II apenas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Eletroquímica",
+        "Química – Ligações Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Leia os textos I e II, a seguir, para responder às proposições solicitadas:\n\nTEXTO I\n\nO LUTADOR\n\nLutar com as palavras\né a luta mais vã.\nEntanto lutamos\nmal rompe a manhã.\n[...]\nNão me julgo louco.\n[...]\nMas lúcido e frio,\napareço e tento\napanhar algumas\npara meu sustento\nnum dia de vida.\n[...]\nLutar com palavras\nparece sem fruto.\nNão têm carne e sangue\nEntretanto, luto.\n\nPalavra, palavra\n[...]\nse me desafias,\naceito o combate.\n[...]\n\nLuto corpo a corpo,\nluto todo o tempo,\nsem maior proveito\nque o da caça ao vento.\n[...]\n\n[...]\ne um sapiente amor\nme ensina a fruir\nde cada palavra\na essência captada,\n[...]\nO ciclo do dia\nora se consuma\ne o inútil duelo\njamais se resolve.\n[...]\n\n(ANDRADE, Carlos Drumond de. O lutador. In: Antologia Poética. Organizada pelo autor. 40. ed. Rio de Janeiro: Record, 1998. p. 182-184. Adaptado.)\n\nTEXTO II\n\nAS PALAVRAS\n\nAs palavras são boas. As palavras são más. As palavras ofendem. As palavras pedem desculpa. As palavras queimam. As palavras acariciam. As palavras são dadas, trocadas, oferecidas, vendidas e inventadas. As palavras estão ausentes. [...] As palavras aconselham, sugerem, insinuam, ordenam, impõem, segregam, eliminam. [...] O mundo gira sobre palavras lubrificadas com óleo de paciência. Os cérebros estão cheios de palavras [...] Por isso as pessoas fazem o contrário do que pensam, julgando pensar o que fazem. Há muitas palavras.\nE há os discursos, que são palavras encostadas umas às outras, em equilíbrio instável graças a uma precária sintaxe, até ao prego final do Disse ou Tenho dito. Com discursos se comemora, se inaugura, se abrem e fecham sessões [...]. São brindes, orações, palestras e conferências. Pelos discursos se transmitem louvores, agradecimentos, programas e fantasias. E depois as palavras dos discursos aparecem deitadas em papéis, são pintadas de tinta de impressão – e por essa via entram na imortalidade do Verbo. [...]\n[...] A palavra, mesmo quando não afirma, afirma-se. A palavra não responde nem pergunta: amassa [...]. A palavra não mostra. A palavra disfarça.\n[...] Daí que as palavras sejam instrumento de morte – ou de salvação. Daí que a palavra só valha o que valer o silêncio do ato.\n[...] O silêncio, por definição, é o que não se ouve. O silêncio escuta, examina, observa, pesa e analisa. O silêncio é fecundo [...]. Caem sobre ele as palavras. Todas as palavras. As palavras boas e as más. O trigo e o joio. Mas só o trigo dá pão.\n\n(SARAMAGO, José. As palavras. In: Antologia: Deste Mundo e do Outro, Editorial Caminho, Lisboa, 4. ed., 1997. Adaptado.)\n\nConsidere a leitura dos textos I e II, a fim de analisar as afirmações a seguir:\n\nI - Os textos pertencem ao mesmo gênero textual.\nII - Em ambos os textos, os autores exploraram a metalinguagem.\nIII - A temática desenvolvida no Texto I é oposta à expressa no Texto II.\nIV - No Texto II, a repetição de vocábulos é uma marca linguística da sua concentração temática.\n\nEm relação às proposições analisadas, marque a única alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II e IV apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e II apenas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Funções da Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Read the text Australia: Parts of Great Barrier Reef record highest coral cover in 36 years:\n\nA new report said the northern and central parts of Australia's Great Barrier Reef showed the highest levels of hard coral cover since 1985. But experts still warn the UNESCO World Heritage Site is at risk. UNESCO is considering whether to list the Great Barrier Reef as 'in danger'.\nTwo-thirds of Australia's Great Barrier Reef showed the highest levels of coral cover seen in decades, but the reef remained vulnerable to increasingly frequent mass bleaching, a new report released on Thursday showed.\nThe report by the Australian Institute of Marine Science outlined how the survey of 87 sites said northern and central parts of the reef showcased a comeback from damage more quickly than many had expected, mostly because of a fast-growing type of branching coral, called the Acropora.\n'These latest results demonstrate the reef can still recover in periods free of intense disturbances,' said AIMS's CEO Paul Hardisty. But the gains made could easily be reversed by cyclones, new bleaching events, or crown-of-thorns outbreaks.\n[...]\n\n(Source: https://www.dw.com/en/australia-parts-of-great-barrier-reef-record-highest-coral-cover-in-36-years/a-62703152. Access on: August 17th, 2022. Adapted.)\n\nChoose the alternative with a correct information, according to the text:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Acropora is the main factor responsible for the recovery of 87 sites in the Northern and central parts of the reef."
+        },
+        {
+          "letra": "B",
+          "texto": "The report by the Australian Institute of Marine Science outlined how the entire reef has recovered to its natural state from 1985."
+        },
+        {
+          "letra": "C",
+          "texto": "Acropora is the name of the branching coral type that has had the slowest growth in Australia's Great Barrier Reef."
+        },
+        {
+          "letra": "D",
+          "texto": "UNESCO doesn't recognize Australia's Great Barrier Reef as a World Heritage Site."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "A Ucrânia tornou-se um país independente em 1991, no processo de dissolução da União das Repúblicas Socialistas Soviéticas. Esse processo, também conhecido pelas palavras russas glasnost e perestroika, modificou o mapa geopolítico europeu, o que acarretou diversas guerras.\n\nSobre esse processo, assinale a única alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os sistemas socialistas soviético e chinês entraram em crise conjuntamente, o que impossibilitou o auxílio mútuo. O enfraquecimento econômico e militar durante a década de 1980 levou ao reconhecimento da independência da Ucrânia e de Taiwan pela Rússia e pela China, respectivamente."
+        },
+        {
+          "letra": "B",
+          "texto": "Desde a queda do Muro de Berlin, o governo russo demonstrava que o nacionalismo político era um movimento histórico que havia sido superado, confirmando o princípio de que a globalização era um fato irreversível."
+        },
+        {
+          "letra": "C",
+          "texto": "A abertura política e econômica das repúblicas socialistas foi resultado da pressão norte-americana, desde a década 1960, numa guerra sem armas, mas de palavras, denominada também Guerra Fria."
+        },
+        {
+          "letra": "D",
+          "texto": "Os planos econômicos e políticos de reestruturação da União Soviética não obtiveram o resultado esperado, o que possibilitou tanto os movimentos de independência regionais quanto a democratização do regime russo."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – História Geral (Guerra Fria)"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Uma escala muito conhecida para medir a intensidade de um terremoto é a escala Richter. Essa escala é definida pela função logarítmica $R = a + \\log(I)$, em que $a$ é uma constante, $R$ é a intensidade do terremoto em graus Richter e $I$ é a energia liberada pelo terremoto.\n\nMarque a alternativa que descreve corretamente a razão da energia liberada por um terremoto de 4 graus Richter pela de um terremoto de 2 graus Richter:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "90."
+        },
+        {
+          "letra": "B",
+          "texto": "70."
+        },
+        {
+          "letra": "C",
+          "texto": "80."
+        },
+        {
+          "letra": "D",
+          "texto": "100."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Logaritmos"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "No território brasileiro, a ocorrência das estações do ano possui forte correlação espacial e temporal com o comportamento dos centros de ação e, por consequência, com a atuação das massas de ar e as características climáticas.\n\nAcerca dos efeitos da associação do eixo de inclinação com o movimento de translação terrestre no comportamento do clima na América do Sul, assinale a única alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Na transição inverno-primavera no Hemisfério Sul, tem-se maior efeito do Anticlone do Atlântico Sul, o que resulta em condições de clima quente e seco, especialmente na região Centro-Oeste do Brasil."
+        },
+        {
+          "letra": "B",
+          "texto": "Na transição verão-outono a migração do Anticlone da Amazônia em direção ao norte proporciona maior atuação do Anticlone do Atlântico Sul, responsável pelas elevadas temperaturas na porção central do Brasil."
+        },
+        {
+          "letra": "C",
+          "texto": "Durante o verão no Hemisfério Sul, a elevada pressão na região equatorial resulta na maior atuação do Anticlone da Amazônia, responsável pela expansão da massa de ar Equatorial Continental."
+        },
+        {
+          "letra": "D",
+          "texto": "No período outono-inverno para o Hemisfério Sul, o centro de ação Depressão do Chaco tende a se expandir, influenciando na incidência de baixas temperaturas na região Centro-Oeste do Brasil."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Leia o fragmento da reportagem intitulada Fenômeno raro, nuvens multicoloridas são registradas em Goiás, publicada em janeiro de 2022:\n\nNuvens coloridas tomaram o céu de Goiânia. O fenômeno considerado raro despertou a atenção de moradores de diversas regiões do estado. Nêuda Mendes, que mora em Barro Alto (GO), registrou o momento no último sábado (22).\nAlém de Barro Alto, o fenômeno teria aparecido em Goiânia, Anápolis, Aparecida de Goiânia, Quirinópolis e outras cidades. Nas redes sociais, um morador de Brasília também disse ter visto nuvens coloridas no céu.\nDe acordo com meteorologistas, o fenômeno, também chamado de \"arco-íris de fogo\", ocorre quando a \"luz contorna um obstáculo” e acaba se separando em cores.\n\n(FENÔMENO raro, nuvens multicoloridas são registradas em Goiás. Itatiaia. Disponível em: https://www.itatiaia.com.br/noticia/fenomeno-raro-nuvens-multicoloridas-sao-registradas-em-goias. Acesso em: 15 ago. 2022. Adaptado.)\n\nMarque a alternativa que denomina corretamente o fenômeno ótico observado em Goiás em janeiro de 2022:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Difração."
+        },
+        {
+          "letra": "B",
+          "texto": "Polarização."
+        },
+        {
+          "letra": "C",
+          "texto": "Reflexão."
+        },
+        {
+          "letra": "D",
+          "texto": "Refração."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Óptica (Difração)"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Leia o fragmento do texto Literatura e cultura de 1900 a 1945, de Antonio Candido:\n\n[...] O nosso Modernismo importa essencialmente, em sua fase heroica, na libertação de uma série de recalques históricos, sociais, étnicos, que são trazidos triunfalmente à tona da consciência literária. Este sentimento de triunfo, que assinala o fim da posição de inferioridade no diálogo secular com Portugal e já nem o leva mais em conta, define a originalidade própria do Modernismo na dialética do geral e do particular.\n\n(CANDIDO, Antonio. Literatura e cultura de 1900 a 1945. In: Literatura e sociedade. Rio de Janeiro: Ouro Sobre Azul, 2006. p. 126. Adaptado.)\n\nA respeito do Modernismo brasileiro, analise as afirmativas a seguir:\n\nI - Movimento marcante no século XX, almejava a renovação do estilo da Literatura e estava atento às inovações do novo século; preconizava a promoção de uma Literatura liberta de regras, de vocabulário formal demais ou de qualquer forma de academicismo.\nII - Teve como marco cronológico a Semana de Arte Moderna de 1922, evento que promoveu a reunião de artistas dos mais diversos segmentos e com várias tendências artísticas, que buscavam renovar as artes.\nIII - Os temas nacionais e o recurso de uma linguagem mais regionalista se constituíram na marca da prosa, com evidência para o regionalismo nordestino e o romance urbano.\n\nEm relação às proposições analisadas, assinale a única alternativa inteiramente correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "I apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e III apenas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Modernismo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Leia o fragmento do texto Mito nº 1 “O português do Brasil apresenta uma unidade surpreendente\", de Marcos Bagno:\n\nEsse é um dos mitos mais graves dos que compõem a mitologia do preconceito linguístico no Brasil. [...].\nExiste também toda uma longa tradição de estudos filológicos e gramaticais que se baseou, durante muito tempo, nesse (pré) conceito irreal da “unidade linguística do Brasil”.\nEsse mito é muito prejudicial à educação porque, ao não reconhecer a verdadeira diversidade do português falado no Brasil, a escola tenta impor sua norma linguística como se ela fosse, de fato, a língua comum a todos os mais de 200 milhões de brasileiros, independentemente de sua idade, de sua origem geográfica, de sua situação socioeconômica, de seu grau de escolarização etc. Com isso também se nega o caráter multilíngue do nosso País, onde são faladas mais de duzentas línguas diferentes, entre línguas indígenas, línguas trazidas pelos imigrantes europeus e asiáticos, línguas surgidas das situações de contato nas extensas zonas fronteiriças com os países vizinhos, além de falares remanescentes das diversas línguas africanas trazidas pelas vítimas do sistema escravagista. E, é claro, nega a existência da língua de sinais, a LIBRAS, que é a língua empregada por milhares de surdos país afora.\n[...] não existe nenhuma língua no mundo que seja “una”, uniforme e homogênea. [...] Toda e qualquer língua humana viva é, intrínseca e inevitavelmente, heterogênea, ou seja, apresenta variação em todos os seus níveis estruturais (fonologia, morfologia, sintaxe, léxico etc.) e em todos os seus níveis de uso social (variação regional, social, etária, estilística etc.).\n[...]\n[...] A função da escola é, em todo e qualquer campo de conhecimento, levar a pessoa a conhecer e dominar coisas que ela não sabe e, no caso específico da língua, conhecer e dominar [...] a leitura e a escrita e, junto com elas, outras formas de falar e de escrever, outras variedades de língua, outros registros. [...]\n\n(BAGNO, Marcos. Preconceito Linguístico. 56. ed. revista e ampliada. São Paulo: Parábola, 2015. p. 25-35. Adaptado.)\n\nCom base na leitura do fragmento do texto lido, analise as assertivas a seguir:\n\nI - O autor rejeita o ensino da norma padrão nas aulas de Língua Portuguesa nas escolas brasileiras.\nII - Segundo o texto, o ensino da língua padrão será mais eficiente se a escola considerar as diversidades linguísticas do Brasil.\nIII - Conforme o autor, a função da escola é preparar o aluno para o conhecimento, domínio e uso dos diferentes registros das variedades linguísticas do Brasil.\n\nMarque a única alternativa inteiramente correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II apenas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Variação Linguística"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "No processo de representação do espaço geográfico em uma folha de papel ou, como é mais frequente atualmente, na tela do computador, a escala cartográfica é de fundamental importância. Ela permite indicar, dentro de certos limites, o fator de redução aplicado entre as distâncias no terreno e suas correspondentes no mapa. Entretanto, a depender da projeção cartográfica utilizada, essa correspondência pode ser alterada substancialmente.\n\nConsideradas essas informações, marque a única alternativa que apresenta a projeção que menos afeta o desempenho da escala:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Projeção de Peters, caracterizada pela preservação das áreas; logo, pela manutenção da proporção entre as distâncias nos mapas e suas correspondentes no terreno."
+        },
+        {
+          "letra": "B",
+          "texto": "Projeção de Mollweide, caracterizada pela equivalência; logo, pela manutenção da proporção das áreas, inclusive nas regiões laterais e polares."
+        },
+        {
+          "letra": "C",
+          "texto": "Projeção de Mercator, caracterizada pela preservação das formas; logo, pela manutenção da área representada."
+        },
+        {
+          "letra": "D",
+          "texto": "Projeção Azimutal, caracterizada pela centralidade em um dos polos; logo, pela manutenção das distâncias entre o polo considerado e qualquer ponto no mapa."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Cartografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Leia, a seguir, o fragmento retirado do texto, 5G uma revolução com muitas promessas e desafios:\n\n\"Hoje, onde há cobertura 4G no País, a migração para o 5G é algo que faz sentido. No entanto, há lugares em que ainda não existe 4G ou mesmo 3G. É uma realidade que precisa de atenção”, comenta Christian Rothenberg, professor da Faculdade de Engenharia Elétrica e de Computação (FEEC) da Unicamp e pesquisador na área. Ele explica que a expansão do 5G tem o potencial de ampliar as áreas do País em que ainda não há cobertura por outras gerações de internet móvel. Assim, a ativação do 5G não implicará o desligamento das demais redes. “O 5G vai conviver com o 4G\", pontua.\n\n(5G uma revolução com muitas promessas e desafios. JU Notícias. Disponível em: https://www.unicamp.br/unicamp/ju/noticias/2022/07/25/5g-uma-revolucao-com-muitas-promessas-e-desafios. Acesso em: 10 ago. 2022. Adaptado.)\n\nUm diferencial apresentado pelo 5G é o fato de ele trabalhar com frequências altas (3,5 GHz no Brasil) se comparado ao 4G (700 MHz). Quanto maior a frequência, maior o número de informações enviadas em uma unidade de tempo e menor o comprimento de onda.\n\nConsidere a velocidade de ondas eletromagnéticas como $3 \\cdot 10^5$ km/s e marque a alternativa que apresenta, aproximadamente, a diferença entre os comprimentos de onda emitida pela tecnologia 4G e pela tecnologia 5G:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "334 mm."
+        },
+        {
+          "letra": "B",
+          "texto": "3340 nm."
+        },
+        {
+          "letra": "C",
+          "texto": "3,34 m."
+        },
+        {
+          "letra": "D",
+          "texto": "334 dm."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Ondulatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Leia o fragmento do texto Aspectos da Literatura Barroca, de Afrânio Coutinho:\n\nNo conceito de barroco, unindo-se, pois, um sentido referente à periodização e um ponto de vista estilístico, o que domina é o critério estético, na análise e compreensão das obras seiscentistas. Ao designá-las como obras barrocas, adquirimos de imediato uma perspectiva de compreensão e julgamento inteiramente nova, completa e justa do fenômeno lítero-artístico da época. Saberemos o que o caracteriza esteticamente, quais as constantes literárias do período, quais os componentes do seu estilo.\n\n(COUTINHO, Afrânio. Aspectos da literatura barroca. In: Do Barroco. Rio de Janeiro: Ed. UFRJ; Tempo Brasileiro, 1994. p. 31.)\n\nAnalise as proposições a seguir sobre o Barroco:\n\nI - Os poetas dessa estética literária pregavam que a arte existia por si só, trazendo o metro, o ritmo e a rima cuidadosamente trabalhados na intenção de alcançar a harmonia perfeita.\nII - Na abordagem dos conteúdos e temas, dá preferência à exposição dos dilemas do homem diante da visão antropocêntrica da época.\nIII - Em relação à forma, na poesia, uso frequente do soneto e da medida nova.\nIV - Movimento artístico dentro de um panorama de renovação cultural, que tinha no bucolismo uma das características marcantes na poesia.\n\nMarque a alternativa que corretamente apresenta características do Barroco:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "III e IV apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II, III e IV."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Barroco)"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Leia com atenção o problema exposto a seguir:\n\nAo se dividir R$ 200,00 entre cinco pessoas de modo que os valores recebidos individualmente formem uma progressão aritmética, notou-se que um sétimo da soma das três partes maiores correspondia à soma das duas menores. Nessas condições, qual o valor da maior das partes assim divididas?\n\nMarque a única alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 76,66."
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 96,33."
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 56,33."
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 66,33."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Progressão Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "O pensador alemão de origem judaica Theodor Adorno escreveu: “Qualquer debate acerca de metas educacionais carece de significado e importância frente a esta meta: que Auschwitz não se repita. Ela foi a barbárie contra a qual se dirige toda a educação.\"\n\n(ADORNO, T. W. Educação e emancipação. Rio de Janeiro: Paz e Terra, 2008. p. 119.)\n\nMarque a única alternativa que caracteriza corretamente o que foi Auschwitz:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Foi um lugar onde se testou a bomba atômica e outras armas químicas contra a população de origem judia."
+        },
+        {
+          "letra": "B",
+          "texto": "Foi a “solução final” concedida pelo governo alemão para que os judeus pudessem sobreviver, ainda que nos guetos ou em bairros separados."
+        },
+        {
+          "letra": "C",
+          "texto": "Foi o lugar da rendição do país de Israel, após sofrer grandes derrotas militares ao combater os alemães."
+        },
+        {
+          "letra": "D",
+          "texto": "Foi a encarnação mais representativa da “solução final\" para o problema judaico proposta pelos nazistas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – História Geral (Segunda Guerra Mundial)",
+        "Filosofia – Teoria Crítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Read the text:\n\nBaru is a wild fruit from the wilderness of the Brazilian Cerrado – one of the biggest, most important, and sadly most threatened biomes in the world.\nBaru is a traditional food from the indigenous communities from this region. They believe that the nut found in the center of the baru fruit (just one nut per fruit) has incredible nutritional and medicinal power.\nThe Brazilian health food industry began introducing baru nuts to the general Brazilian market, with great success quite recently, and now this exotic wild nut is becoming recognized internationally for its amazing taste and high nutritional profile.\nThe density of nutrients present in Baru nuts is surprising and impressing food scientists and 'super-food' specialists around the world.\n[...]\n\n(Source: https://barubaru.com.br/pages/the-incredible-baru-nut. Access on: August 18th, 2022.)\n\nConsider the following sentences:\n\nI - When the indigenous of the Brazilian Cerrado found only one nut in the center of the fruit, they believed it was the reason of its medicinal and nutritional power.\nII - The indigenous communities attribute magical powers to the baru fruit.\nIII - The Brazilian nut now can be bought all around the country, and not just at the regional markets.\nIV - Due to the introduction of the baru nuts to the market, the consequences were worldwide recognition.\nV - Food scientists and super-food specialists have been impressed and surprised by the nut's density of nutrients.\n\nChoose the alternative with all the statements are according the text:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II, III and IV only."
+        },
+        {
+          "letra": "B",
+          "texto": "III, IV and V only."
+        },
+        {
+          "letra": "C",
+          "texto": "I, II and III only."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II and V only."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Os sais são compostos que podem ser formados juntamente com a água na reação de um ácido com uma base de Arrhenius. A família dos sais é muito grande e bastante diversificada. Ela pode ser dividida em sais neutros, ácidos e básicos, como o cloreto de sódio, o bicarbonato de sódio e cloreto de ferro (III), respectively.\n\nAcerca de soluções aquosas preparadas separadamente com o cloreto de sódio, o bicarbonato de sódio, o carbonato de sódio e o cloreto de ferro (III), estime o potencial hidrogeniônico e assinale a única alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Cloreto de sódio $pH = 7$, bicarbonato de sódio $pH > 7$, carbonato de sódio $pH > 7$ e cloreto de ferro (III) $pH < 7$."
+        },
+        {
+          "letra": "B",
+          "texto": "Cloreto de sódio $pH < 7$, bicarbonato de sódio $pH > 7$, carbonato de sódio $pH < 7$ e cloreto de ferro (III) $pH < 7$."
+        },
+        {
+          "letra": "C",
+          "texto": "Cloreto de sódio $pH = 7$, bicarbonato de sódio $pH < 7$, carbonato de sódio $pH < 7$ e cloreto de ferro (III) $pH > 7$."
+        },
+        {
+          "letra": "D",
+          "texto": "Cloreto de sódio $pH < 7$, bicarbonato de sódio $pH < 7$, carbonato de sódio $pH > 7$ e cloreto de ferro (III) $pH > 7$."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Equilíbrio Químico (Hidrólise Salina)"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Observe as palavras apresentadas no quadro a seguir, extraídas do texto Mito nº1 “O português do Brasil apresenta uma unidade surpreendente\", de Marcos Bagno, da primeira questão desta Prova:\n\nlíngua, linguístico, também, filológicos, são, asiáticos, país, geográfica, além, vítimas, léxico, etária, específico, níveis, é\n\nSobre essas palavras, analise as informações descritas nos itens a seguir:\n\nI - Uma palavra é acentuada porque é monossílaba tônica.\nII - Três vocábulos acentuados atendem à regra das palavras oxítonas.\nIII - Três palavras acentuadas atendem à regra das paroxítonas.\nIV - Apenas cinco palavras acentuadas atendem à regra das proparoxítonas.\n\nMarque a única alternativa inteiramente correta sobre as regras de acentuação:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II, III e IV apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e II apenas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Ortografia (Acentuação)"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "O lobo-guará (Chrysocyon brachyurus) é uma espécie da família dos canídeos, habitante do bioma Cerrado. É considerado o maior canídeo da América do Sul e pode ser encontrado naturalmente em áreas abertas de campos e nas matas, e é considerado um animal de hábito alimentar onívoro.\n\nEm relação ao hábito alimentar onívoro, marque entre as alternativas a seguir aquela que apresenta o conjunto de alimentos condizentes com o tipo de hábito alimentar desse animal:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Répteis, peixes, pequenas aves terrestres, moluscos, roedores."
+        },
+        {
+          "letra": "B",
+          "texto": "Frutas, pequenos roedores, répteis, ovos de aves, partes de plantas, mel."
+        },
+        {
+          "letra": "C",
+          "texto": "Bulbos, raízes, brotos de plantas, rizomas e folhas."
+        },
+        {
+          "letra": "D",
+          "texto": "Pequenos roedores, aves, animais em decomposição, insetos, anfíbios."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Ecologia (Cadeias e Teias Alimentares)"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "A abordagem sobre o tema do amor evidencia quão difícil é refletir sobre suas diversas conceituações ao longo da história. O filósofo Roland Barthes afirma que quem está do lado de dentro do amor só consegue vê-lo em existência, não em essência.\n\nConsiderando os conceitos sobre o amor e suas delimitações, analise as informações a seguir acerca dos três tipos de amor, sob a perspectiva da Filosofia:\n\nI - O termo \"filia” vem do grego philía, e se traduz por \"amizade\". Refere-se ao amor vivido na família, ou entre membros de uma comunidade. Aristóteles afirma que os que desinteressadamente desejam bem aos seus amigos são os mais verdadeiramente amigos. É um tipo raro de amizade, pois exige tempo e familiaridade.\nII - O termo \"ágape” vem do grego ágape, e se traduz por \"amor fraterno”, um sentimento muito comum entre os cristãos primitivos. O termo designava as refeições fraternais que reuniam ricos e pobres, daí o sentido de caridade. O amor ágape é incondicional segundo o apóstolo Paulo, que afirma: “O amor é paciente, o amor é amável. Sem inveja, ele não tem ostentação, ele não é orgulhoso\".\nIII - O termo “eros” vem do grego eros, uma referência ao deus do amor, Eros. Ele é reconhecido como paixão e desejo. Platão, na obra O Banquete, descreve o conceito geral de amor como exclusivamente a ânsia de procurar a sua outra metade; ou seja, refere-se ao amor intelectual. Platão defende a ideia de que a razão é subordinada às paixões.\nIV - Os termos gregos ágape e philía traduzem concepções importantes sobre o amor para a Filosofia. O primeiro trata o amor como algo autêntico, que passa por uma vontade humana tendente para o bem, que se localiza na beleza física. O segundo trata de um amor de reciprocidade, que se localiza na benevolência universal que busca zelar pelos outros.\n\nMarque a alternativa que apresenta todas as afirmações que discorrem corretamente sobre o tema:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II e IV apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e IV apenas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Filosofia – Filosofia Antiga (Conceitos de Amor)"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Até o início de novembro, a cidade de São Paulo aguardava, ainda para o segundo semestre de 2022, a inauguração da maior roda gigante da América Latina. A \"Roda São Paulo\" terá 91 metros de altura e 42 cabines de observação. Está sendo construída no Parque Cândido Portinari, na Zona Oeste da capital. Cada volta completa terá duração de 25 minutos.\n\nA partir das informações apresentadas e supondo-se que a Roda São Paulo desenvolva uma velocidade angular constante, marque a única alternativa que corretamente apresenta o módulo da velocidade linear e da aceleração radial desenvolvida por uma cabine durante a realização de uma volta completa:\n\nDado: considere $\\pi = 3$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,2 m/s e $2,2 \\cdot 10^{-2} \\text{ m/s}^2$."
+        },
+        {
+          "letra": "B",
+          "texto": "3,5 m/s e $1,6 \\cdot 10^{-2} \\text{ m/s}^2$."
+        },
+        {
+          "letra": "C",
+          "texto": "0,18 m/s e $7,1 \\cdot 10^{-4} \\text{ m/s}^2$."
+        },
+        {
+          "letra": "D",
+          "texto": "0,56 m/s e $3,2 \\cdot 10^{-4} \\text{ m/s}^2$."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Movimento Circular Uniforme"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Leia o fragmento do texto \"Arcádia e ilustração”, extraído da obra História concisa da literatura brasileira, de Alfredo Bosi:\n\nNo Arcadismo brasileiro, os traços pré-românticos são poucos, espaçados, embora às vezes expressivos, como em uma ou outra lira de Gonzaga, em um ou outro rondó de Silva Alvarenga. Em nenhum caso, porém, rompem o quadro geral de um Neoclassicismo mitigado, onde prevalecem temas árcades e cadências rococós. E sem dúvida foram as teses ilustradas, que clandestinamente entraram a formar a bagagem ideológica dos nossos árcades e lhes deram mais de um traço constante: o gosto da clareza e da simplicidade graças ao qual puderam superar a pesada maquinaria cultista; os mitos do homem natural, do bom selvagem, do herói pacífico; enfim, certo mordente satírico em relação aos abusos dos tiranetes, dos juízes venais, do clero fanático, mordente a que se limitou, de resto, a consciência libertária dos intelectuais da Conjuração Mineira.\n\n(BOSI, Alfredo. \"Arcádia e ilustração\". In: História concisa da literatura brasileira. 52. ed. São Paulo: Cultrix, 2017. p. 62.)\n\nAssinale a alternativa que corretamente indica aspectos do Arcadismo brasileiro:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Abarca a geração de poetas conhecida como \"Mal do Século\", que apresenta aspectos de um subjetivismo exacerbado."
+        },
+        {
+          "letra": "B",
+          "texto": "Um dos traços desse movimento é a crítica aos valores da sociedade, assim como de suas instituições, especialmente o casamento."
+        },
+        {
+          "letra": "C",
+          "texto": "Consideram-se a valorização da natureza e a integração do poeta e da musa à vida no campo como alguns dos elementos associados às características da estética árcade."
+        },
+        {
+          "letra": "D",
+          "texto": "Em decorrência de um objetivismo exagerado, esse movimento enxergava o ser humano como um objeto de estudo."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Arcadismo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "A quantidade de um líquido num recipiente varia de acordo com a equação $Q(x) = K \\cdot 2^{-0,1x}$, em que x representa o tempo em meses.\n\nNessas condições, marque a única alternativa que apresenta corretamente o tempo necessário para que o volume desse líquido se reduza à metade:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8 meses."
+        },
+        {
+          "letra": "B",
+          "texto": "7 meses."
+        },
+        {
+          "letra": "C",
+          "texto": "10 meses."
+        },
+        {
+          "letra": "D",
+          "texto": "9 meses."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Função Exponencial"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Em seu diário, Cristóvão Colombo registrou, no dia 16 de dezembro de 1492, \"[...] que estas terras são tão boas e tão férteis, sobretudo as desta ilha de Espanhola, que não há ninguém capaz de exprimir em palavras e que só pode acreditar quem já viu. E estes índios são tão dóceis e bons para receber ordens e fazê-los trabalhar, semear e tudo o mais que for preciso, e para construir povoados, e aprender a andar vestidos e a seguir nossos costumes.\"\n\n(COLOMBO, C. Diários da descoberta da América. Porto Alegre: L & PM, 1999. p. 93.)\n\nLeia com atenção as informações contidas nos itens que seguem:\n\nI - O rei espanhol tinha a intenção de estabelecer uma linha divisória delimitando as regiões ultramarinas, estabelecida posteriormente pelo Tratado de Tordesilhas, o que garantiu integralmente para si as terras e os povos do continente americano.\nII - Colombo previu a resistência dos indígenas, que precisavam ser submetidos à força para cederem as terras boas e férteis que ele encontrara.\nIII - O comandante da expedição formulou um projeto colonial no qual os habitantes seriam submetidos, perderiam suas terras e deveriam ser civilizados.\n\nConsiderado o conteúdo do fragmento do diário de Cristóvão Colombo apresentado nesta questão acerca dos processos iniciais de ocupação de território americano, marque a única alternativa inteiramente correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e II apenas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Grandes Navegações"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "A distribuição dos biomas e dos organismos no Planeta depende de fatores bióticos e abióticos que influenciam na ecologia das populações de uma determinada área geográfica.\n\nLeia atentamente as proposições a seguir:\n\nI - O biótopo é o conjunto de elementos não vivos que fazem parte do ecossistema.\nII - A produção primária líquida é a energia total fixada pela fotossíntese das plantas de um ecossistema.\nIII - O nitrogênio é um elemento essencial à vida, e sua reserva mais abundante na biosfera são os nitratos, encontrados no solo.\n\nSobre o tema ecologia, marque a única alternativa inteiramente correta quanto à veracidade dessas proposições:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II apenas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Ecologia (Conceitos Básicos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Leia o texto a seguir, considerando os processos de formação de palavras:\n\n(DUKE. S/título. Disponível em: https://otempo.com.br.06/06/22/. Acesso em: 11 ago. 2022.)\n\nMarque a alternativa que aponta corretamente o processo de formação do vocábulo “pressentimento”:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Derivação prefixal."
+        },
+        {
+          "letra": "B",
+          "texto": "Derivação parassintética."
+        },
+        {
+          "letra": "C",
+          "texto": "Derivação prefixal e sufixal."
+        },
+        {
+          "letra": "D",
+          "texto": "Derivação sufixal."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia (Processos de Formação de Palavras)"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Leia o fragmento de texto a seguir sobre o besouro-bombardeiro e as reações de oxidação:\n\nTodo mundo tem aquele amigo com o “peido matador\". Na natureza, o equivalente a ele é o besouro bombardeiro (Brachynus crepitans). Só que o que ele expele é realmente fatal. Quando perseguido por um predador, ele solta um jato líquido tóxico e escaldante... pelo traseiro.\nO \"pum\" do besouro só é produzido quando ele precisa, em situações de perigo. No abdômen do bichinho, duas glândulas estocam dois ingredientes: hidroquinona e peróxido de hidrogênio. Até aí apenas substâncias químicas inofensivas. Para evitar acidentes, essas glândulas são naturalmente revestidas com amianto, um isolante químico.\n\n(Disponível em: https://super.abril.com.br/ciencia/besouro-usa--pum-mortal-para-se-defender-de-predadores/ Acesso em: 18 ago. 2022. Adaptado.)\n\nO \"pum” do besouro, resultado da reação de oxidação entre hidroquinona e peróxido de hidrogênio, é a liberação da quinona. A substância é produzida rapidamente nesta situação, com a ajuda de alguns catalisadores enzimáticos.\n\nPara a resolução desta questão, considere os dados a seguir:\n\nDados:\nMolécula de quinona\nMolécula de hidroquinona\n\nAnalise as alternativas a seguir e marque a única em que, tal como a produção da quinona a partir de hidroquinona e peroxido de hidrogênio, há apenas reações de oxidação:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Reação do ácido fórmico para metanal; reação do etano-1,2-diol com permanganato de potássio diluído para eteno, e reação do etanol para etanal em presença de dicromato de potássio e ácido sulfúrico."
+        },
+        {
+          "letra": "B",
+          "texto": "Reação do metanal para ácido fórmico; reação do etano-1,2-diol com permanganato de potássio diluído para eteno, e reação do etanal para etanol em presença de dicromato de potássio e ácido sulfúrico."
+        },
+        {
+          "letra": "C",
+          "texto": "Reação do metanal para ácido fórmico; reação do eteno com permanganato de potássio diluído para etano-1,2-diol, e reação do etanol para etanal em presença de dicromato de potássio e ácido sulfúrico."
+        },
+        {
+          "letra": "D",
+          "texto": "Reação do ácido fórmico para metanal; reação do eteno com permanganato de potássio diluído para etano-1,2-diol, e reação do etanol para etanal em presença de dicromato de potássio e ácido sulfúrico."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Química Orgânica (Reações de Oxidação)"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "O Chile realizou um plebiscito para aprovar sua nova Constituição em 2022. A convocação para a Convenção Constituinte aconteceu \"[...] após uma onda de protestos, em 2019, que levou milhares de pessoas às ruas e resultou em 23 mortes. A mobilização popular por melhores condições de vida só chegou ao fim quando o então presidente Sebastián Piñera costurou um acordo que permitiu a realização do plebiscito de 2020 sobre um novo processo constitucional. Na ocasião, 80% dos chilenos votaram por uma nova constituição.”\n\n(Disponível em: conjur.com.br/2022-jul-24/constituição-mudar-chile-enfrenta-resistência. Acesso em: 28 jul. 2022.)\n\nA Constituição chilena remonta ao governo do General Augusto Pinochet, que chegou ao poder por meio do movimento militar vitorioso em 1973 e permaneceu até 1990.\n\nAssinale a única alternativa que caracteriza corretamente o período do governo Pinochet:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Foi um período marcado pela união com os demais países latino-americanos, o que favoreceu o desenvolvimento econômico e a consolidação do Mercosul."
+        },
+        {
+          "letra": "B",
+          "texto": "Foi um período de amplo combate à corrupção e nacionalismo econômico, o que favoreceu os trabalhadores chilenos e levou o militar a sucessivas vitórias nas eleições presidenciais."
+        },
+        {
+          "letra": "C",
+          "texto": "Foi um período violento, no qual os direitos humanos foram desrespeitados, opositores e intelectuais presos e os princípios básicos da economia liberal foram implantados."
+        },
+        {
+          "letra": "D",
+          "texto": "Foi um período de amplas reformas sociais que beneficiaram as classes desfavorecidas e, com seu apoio, o general conseguiu ficar longo tempo no poder."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História da América (Ditaduras Militares)"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Um solenoide é um conjunto de circuitos fechados próximos uns dos outros, que fornece um campo magnético uniforme e pode ser obtido enrolando-se um fio sob a forma de bobina.\n\nSe você deseja criar um campo magnético uniforme com 1,0 T e possui um solenoide de 800 voltas por centímetro, que intensidade de corrente elétrica deve percorrer esse dispositivo?\n\nDados: considere $\\pi = 3; \\mu_0 = 4\\pi \\cdot 10^{-7} \\text{ T.m/A}$.\n\nMarque a única alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10,4 A."
+        },
+        {
+          "letra": "B",
+          "texto": "13,2 A."
+        },
+        {
+          "letra": "C",
+          "texto": "5,2 A."
+        },
+        {
+          "letra": "D",
+          "texto": "8,6 A."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Eletromagnetismo (Campo Magnético em Solenoide)"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Leia o fragmento sobre o conceito de falácia:\n\nA falácia ou paralogismo é um tipo de raciocínio incorreto, apesar de ter a aparência de correção. É conhecida também como sofisma, embora alguns estudiosos façam uma distinção, pela qual o sofisma seria incorreto intencionalmente, com o propósito de enganar o interlocutor, diferentemente da falácia, que seria um engano involuntário.\n\n(ARANHA, M. L.A. Filosofando: introdução à Filosofia. São Paulo: Moderna, 2009. p. 136. Adaptado.)\n\nÉ sabido que existem inúmeros tipos de falácia. De acordo com o conceito de falácia apresentado nesta questão, analise as assertivas e marque a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A falácia por petição de princípios é observada no seguinte exemplo: um advogado habilidoso sem ter como negar a prática de crime por seu cliente, enfatiza que ele é bom filho, bom marido, trabalhador e sempre se destacou como um cidadão de bem. Logo, não poderia ter cometido tal crime; afinal, em toda sua vida, ele sempre foi um cidadão de bem."
+        },
+        {
+          "letra": "B",
+          "texto": "A falácia por argumento de autoridade é observada no seguinte exemplo: segundo Juan Pablo Rodríguez, jogador de futebol da seleção do México, não deveríamos legalizar a maconha. Ele afirma que \"não gostaria de utilizá-la, não é bom porque já existem muitos vícios; legalizá-la seria como uma catástrofe para o País. Não deixa de ser uma droga, independentemente do uso.\""
+        },
+        {
+          "letra": "C",
+          "texto": "A falácia de falsa causa ou “post hoc” é observada no seguinte exemplo: uma pessoa que acredita em fadas pode afirmar que elas existem porque não foi provado que elas não existem. Portanto, elas só podem existir, uma vez que a pessoa acredita nelas."
+        },
+        {
+          "letra": "D",
+          "texto": "A falácia por generalização apressada é observada no seguinte exemplo: o filósofo Francis Bacon teve suas teorias desvalorizadas, uma vez que ele perdeu seu cargo de Chanceler da Inglaterra depois de se constatar seu envolvimento em atos de desonestidade."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Filosofia – Lógica (Falácias)"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Um pesquisador descobriu uma droga, a que denominou Z. A substância interfere na polimerização dos microfilamentos de actina.\n\nConsidere a condição experimental em que a droga Z seja adicionada a um meio de cultura de células humanas no início do processo de mitose e aponte a alternativa que corretamente descreve o que ocorrerá nas células do meio de cultura nessa condição experimental:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Processo de mitose das células e interrupção da citocinese."
+        },
+        {
+          "letra": "B",
+          "texto": "Interrupção das células na anáfase mitótica."
+        },
+        {
+          "letra": "C",
+          "texto": "Paralização das células na metáfase mitótica e aceleração da citocinese."
+        },
+        {
+          "letra": "D",
+          "texto": "Interrupção do metabolismo celular e morte."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Citologia (Divisão Celular)"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Leia o fragmento do texto PisQUÊ?: Corpo e mente ativos na melhor idade, de Luísa Guimarães:\n\n[...]\nA longevidade é almejada por grande parte da sociedade, mas pensar o envelhecimento vai muito além da busca pelo \"viver mais”. Manter-se ativo, praticar exercícios físicos e se alimentar bem já estão entre os pré-requisitos para envelhecer bem. Mas como estamos pensando a saúde mental dessa parcela da população? [...]\nAs pessoas estão, de fato, vivendo mais no Brasil: o IBGE aponta [...] que a expectativa de vida subiu para 76,8 anos em 2020. [...] O desafio, então, passou a ser outro: não apenas viver mais, mas viver melhor por mais tempo.\n\nEm atividade\nO ano era 2005. Aos 73 anos, Rita Araújo Valle começou a escrever seu primeiro livro. “Nunca estudei literatura nem nada. Me aposentei muito cedo e comecei a escrever quando meu marido morreu e tive que fazer terapia”, conta. Escrever era parte do processo de elaboração do luto, mas tornou-se uma grande parte da sua vida desde então. [...]\nEm 2019, a publicação do segundo livro, Estranha Criatura, [declarou:] “Não me considero escritora porque não trato como profissão. É um hobby meu [...]”.\nAs atividades, inclusive, são muitas. Aos 90 anos, Rita faz aulas de inglês e de História de Vida, na UNATI, da PUC Goiás. [...]. \"Abri um espaço chamado Sala das Meninas Arteiras, onde reúno minhas amigas três vezes por semana. Cada uma conta seus causos enquanto a gente borda, faz tricô e crochê”, conta. [...]\nManter-se ativa, para ela, está diretamente ligado à sua saúde física e mental. [...].\n\nEstigma\n\"Hoje, a questão da saúde mental dos idosos está menos complicada, mas ainda é cercada de preconceito. Quando se diz que a pessoa não tem nenhuma doença física, mas que está ansiosa, angustiada ou com medo, é difícil que ela queira admitir\", comenta a psicanalista Carmen Bruder. Ela aponta que o estigma do cuidado com a saúde mental está, sim, presente em todas as fases da vida, mas que alguns fatores tornam o assunto ainda mais difícil de abordar no envelhecimento. “Desde que nascemos, nós começamos a morrer. Mas esse sentimento, de que nós estamos caminhando para a morte, se exacerba a partir da terceira idade”, aponta.\nNo processo de envelhecimento, algumas dificuldades alteram o dia a dia das pessoas. \"Dificuldades de audição, de visão, de falar o que está sentindo. E muitas vezes a pessoa não está preparada para envelhecer, o que não significa estar sarado ou fazer plásticas, mas sim entender que caminhamos para um fim\", comenta. Essa falta de entendimento do que consiste o processo de envelhecer é um dos fatores para a dificuldade de procurar ajuda psicológica, mesmo quando estão em sofrimento [...].\n\n(GUIMARÃES, Luisa. PsiQUÊ?: corpo e mente ativos na melhor idade. O Popular (Ed. on-line). Disponível em: https://opopular.com.br/magazine. Acesso em: 12 ago. 2022. Adaptado.)\n\nConsidere o excerto do texto lido e analise as assertivas a seguir:\n\nI - O texto explicita que, em geral, o comportamento das pessoas da terceira idade modificou-se nos últimos anos.\nII - Dos argumentos apresentados pela autora, pode-se afirmar que o desafio não é apenas viver mais, mas viver melhor.\nIII - Consoante o ponto de vista da psicanalista Carmen Bruder, o próprio idoso tem dificuldades em admitir certas limitações apresentadas na sua saúde mental.\n\nEm relação às proposições analisadas, e consoante às ideias do texto, assinale a única alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II apenas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "O Princípio da Conservação da Quantidade de Movimento estabelece que, quando um sistema é isolado, sem interferência de forças externas, a quantidade de movimento total inicial dos objetos antes de uma colisão é igual à quantidade de movimento total final dos objetos após a colisão.\n\nA respeito desse princípio, analise as assertivas a seguir:\n\nI - Se duas bolas de bilhar realizam uma colisão mecânica, o impulso de forças externas (como o atrito) sobre cada bola pode ser desprezado em razão da curta duração de interação entre elas. Portanto, essa é uma situação na qual o Princípio da Conservação da Quantidade de Movimento pode ser aplicado em sua análise.\nII - Se, durante reparos na parte externa de um veículo espacial, um astronauta se desprender do veículo, ele só conseguirá retornar se tiver em mãos um objeto que possa arremessar no sentido contrário ao do veículo. Em razão do Princípio da Conservação da Quantidade de Movimento, o astronauta irá se movimentar no sentido contrário ao do objeto arremessado, ou seja, se movimentará no sentido do veículo espacial.\nIII - Uma bala de massa de 50 g disparada por uma arma de fogo atinge um bloco de madeira de massa de 5 kg suspenso por um fio flexível, mas não o atravessa. Considerando-se $g = 10 \\text{ m/s}^2$, se, em razão do impacto, o bloco elevar-se a 50 cm no ar, então, a velocidade da bala ao atingir o bloco era de 630 m/s.\n\nEm relação às assertivas analisadas, assinale a única alternativa inteiramente correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e III apenas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Mecânica (Conservação da Quantidade de Movimento)"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Leia o fragmento do texto retirado da obra O romantismo no Brasil, de Antonio Candido:\n\nUm elemento importante nos anos de 1820 e 1830 foi o desejo de autonomia literária, tornado mais vivo depois da Independência. Então, o Romantismo apareceu aos poucos como caminho favorável à expressão própria da nação recém-fundada, pois fornecia concepções e modelos que permitiam afirmar o particularismo e, portanto, a identidade, em oposição à Metrópole, identificada com a tradição clássica. Assim surgiu algo novo: a noção de que no Brasil havia uma produção literária com características próprias, que agora seria definida e descrita como justificativa da reivindicação de autonomia espiritual.\n\n(CANDIDO, Antonio. O romantismo no Brasil. São Paulo: Humanitas; FFLCH-SP, 2002. p. 20. Adaptado.)\n\nSobre os aspectos particulares do Romantismo brasileiro, analise as afirmativas a seguir:\n\nI - A Primeira Geração Romântica tem na figura do índio a representação típica do herói.\nII - Na prosa romântica, as narrativas de fundo histórico pretendiam promover a consolidação de uma estética empenhada na construção do passado nacional.\nIII - No Brasil, a corrente romântica insere-se em um contexto histórico permeado pela luta em favor da abolição da escravidão e em meio ao movimento pela independência do País.\nIV - Temas como a exaltação da figura feminina e o sofrimento existencial são típicos da produção dos autores da Terceira Geração romântica.\n\nEm relação às proposições analisadas, assinale a única alternativa cujos itens indicam todas as afirmações corretas em relação ao Romantismo brasileiro:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, III e IV apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II e IV apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e IV apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III apenas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Romantismo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Considere a relação entre órgão, secreção produzida e ação digestiva relacionada, e marque a única alternativa que corresponde a uma relação correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Fígado: bile: digestão de proteínas."
+        },
+        {
+          "letra": "B",
+          "texto": "Intestino grosso: suco intestinal: emulsão de lipídeos."
+        },
+        {
+          "letra": "C",
+          "texto": "Pâncreas: suco pancreático: digestão de proteínas, carboidratos e lipídeos."
+        },
+        {
+          "letra": "D",
+          "texto": "Estômago: suco gástrico: digestão de carboidratos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Fisiologia Animal (Sistema Digestório)"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Faça uma leitura atenta do fragmento de texto Pensar demais intoxica o cérebro, diz novo estudo; entenda:\n\nFicar sentado pensando muito por horas faz com que você também se sinta esgotado. Se você passa muito tempo “torrando os neurônios”, provavelmente já chegou a essa conclusão. Agora, pesquisadores têm novas evidências para explicar por que isso acontece.\nUm estudo publicado recentemente na revista científica Current Biology, mostra que o trabalho cognitivo intenso prolongado – por volta de 4 a 5 horas –, faz com que subprodutos potencialmente tóxicos se acumulem na parte do cérebro conhecida como córtex pré-frontal.\nIsso altera seu controle sobre as decisões, fazendo com que você procure – involuntariamente – por caminhos que exijam menos esforço à medida que a fadiga cognitiva se instala, explicam os pesquisadores.\n\"Teorias influentes sugeriram que a fadiga é uma espécie de ilusão inventada pelo cérebro para nos fazer parar o que estamos fazendo e nos voltarmos para uma atividade mais gratificante”, diz um dos autores do estudo, o pesquisador Mathias Pessiglione, da Universidade Pitié-Salpêtrièri, em Paris, na França [...].\n[...] Enquanto as máquinas podem computar continuamente, o cérebro não pode. Eles queriam descobrir o porquê [...].\nPara procurar evidências disso, eles usaram a espectroscopia de ressonância magnética para monitorar a química do cérebro ao longo de um dia de trabalho. Analisaram dois grupos de pessoas: aqueles que precisavam pensar muito e aqueles que tinham tarefas cognitivas relativamente mais fáceis.\nOs pesquisadores viram sinais de fadiga, incluindo dilatação reduzida da pupila, apenas no grupo que fazia trabalho pesado. Os integrantes desse grupo também mostraram, em suas escolhas, uma mudança para opções que propunham recompensas em curto prazo com pouco esforço. Criticamente, eles também tinham níveis mais altos de glutamato (neurotransmissor excitatório que possui papel fundamental no mecanismo de algumas doenças neurodegenerativas) nas sinapses do córtex pré-frontal do cérebro. [...] os autores dizem que isso apoia a noção de que o acúmulo de glutamato torna a ativação adicional do córtex pré-frontal mais cara, de modo que o controle cognitivo é mais difícil após um dia de trabalho mentalmente difícil.\nSegundo Pessiglione, não há maneira de contornar essa limitação da capacidade do nosso cérebro de pensar muito. O especialista indica as “boas e velhas receitas: descansar e dormir\".\n“Há boas evidências de que o glutamato é eliminado das sinapses durante o sono”, disse.\n\n(PENSAR demais intoxica o cérebro, diz novo estudo; entenda: O Globo, Rio de Janeiro, 14 ago. 2022. Disponível em: https://globo.com.medicina.notícia. Acesso em: 15 ago. 2022. Adaptado.)\n\nCom base nas informações apresentadas pelo texto, pode-se inferir que\n\nI - a mudança de hábitos e estilo de vida equilibram o funcionamento saudável do cérebro.\nII - a fadiga neural é uma ilusão, categoricamente, não existe.\nIII - a linguagem empregada no texto é, predominantemente, denotativa.\nIV - existe uma relação entre a saúde do cérebro e as atividades laborais desempenhadas pelo indivíduo.\n\nQuanto às proposições analisadas, marque a única alternativa correta segundo as afirmações do texto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "III e IV apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, III e IV apenas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Leia o fragmento do texto “O Modernismo e o Brasil depois de 30\", extraído da obra História concisa da literatura brasileira, de Alfredo Bosi:\n\nO termo contemporâneo é, por natureza, elástico e costuma trair a geração de quem o emprega. Por isso, é boa praxe dos historiadores justificar as datas com que balizam o tempo, frisando a importância dos eventos que a elas se acham ligados. 1922, por exemplo, presta-se muito bem à periodização literária: a Semana foi um acontecimento e uma declaração de fé na arte moderna. Já o ano de 1930 evoca menos significados literários prementes por causa do relevo social assumido pela Revolução de Outubro. Mas, tendo esse movimento nascido das contradições da República Velha que ele pretendia superar, e, em parte, superou; e tendo suscitado em todo o Brasil uma corrente de esperanças, oposições, programas e desenganos, vincou fundo a nossa literatura lançando-a a um estado adulto e moderno perto do qual as palavras de ordem de 1922 parecem fogachos de adolescente.\n\n(BOSI, Alfredo. O Modernismo e o Brasil depois de 30. In: História concisa da literatura brasileira. 52. ed. São Paulo: Cultrix, 2017. p. 409. Grifos na fonte. Adaptado.)\n\nA respeito do Modernismo brasileiro, analise as afirmativas a seguir:\n\nI - Busca empenhada pela construção de uma identidade nacional que se caracteriza como traço marcante da 1ª Fase do Modernismo.\nII - O Modernismo no Brasil surgiu no século XX e, conforme as particularidades dos momentos internos do movimento, está dividido em três fases principais.\nIII - A 3ª fase modernista é a mais radical de todas, caracterizada pelo abandono de qualquer forma de convenção, e empenhada no processo de renovação.\nIV - Na prosa, a Geração de 1930 escolhe como cerne de seus temas o desnudamento da realidade da sociedade brasileira coetânea, apontando para os problemas decorrentes das desigualdades sociais.\n\nEm relação às proposições analisadas, assinale a única alternativa cujos itens estão todos corretos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, III e IV apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "III e IV apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e IV apenas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Modernismo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Uma pesquisadora em botânica, ao investigar tecidos vegetais, observou um conjunto de células formadas por paredes celulares secundárias grossas e endurecidas. Uma análise mais detalhada demonstrou que as células estavam reforçadas com lignina, conferindo resistência e força ao tecido.\n\nMarque a alternativa que corretamente aponta a descrição correspondente ao tecido vegetal nos achados científicos dessa pesquisadora:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Parênquima."
+        },
+        {
+          "letra": "B",
+          "texto": "Epiderme."
+        },
+        {
+          "letra": "C",
+          "texto": "Colênquima."
+        },
+        {
+          "letra": "D",
+          "texto": "Esclerênquima."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Botânica (Histologia Vegetal)"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Read the text:\n\nOne island, two worlds\n\nThey might share an island, but the Dominican Republic and Haiti couldn't be more different. While the former is a popular tourist destination in the Caribbean, Haiti is one of the poorest countries in the world.\nPalm trees, sandy beaches stretching for miles, a brilliant blue sea – at first glance, the Dominican Republic seems like a real paradise. Several million tourists visit the country each year. But the stunning landscape and the luxurious hotels mask the fact that the Dominican Republic actually belongs to the less wealthy countries in Latin America, and that it shares a border with Haiti, the poorest country in the western world.\nThough Haiti and the Dominican Republic share an island, they remain worlds apart. That's seen, for instance, in the infrastructure. “The Dominican Republic has proper streets so that you can get from one place to another without serious problems,” Heinz Oelers, an expert on Latin America at the Christian charity Misereor says. In Haiti, on the other hand, “you often need an hour just to travel a few kilometers,” he adds.\nIt's a similar picture in other areas too. According to the United Nations, only about 50 percent of Haitians can read and write (as opposed to nearly 90 percent in neighboring Dominican Republic) and child mortality rates in Haiti are three times higher than in the Dominican Republic.\n\n(ONE island, two worlds. Source: https://learngerman.dw.com/en/haiti-and-the-dominican-republic-one-island-two-worlds/a-16593022. Access on: August 18th, 2022.)\n\nAccording to the text, select the right alternative:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "The stunning landscapes and the luxurious hotels prove the fact that the Dominican Republic belongs to the wealthiest countries in Latin America."
+        },
+        {
+          "letra": "B",
+          "texto": "The fact that Haiti is the poorest country in the Western World and has a worse infrastructure compared to the Dominican Republic, reinforces the title stating that those countries are like two worlds in one island."
+        },
+        {
+          "letra": "C",
+          "texto": "According to Heinz Oelers, an expert on Latin America, you only need an hour to travel the few kilometers of extension that Haiti has."
+        },
+        {
+          "letra": "D",
+          "texto": "Despite having sandy beaches stretching for miles, a brilliant blue sea, and seeming like a real paradise, Haiti and the Dominican Republic share the poorest country in the Western World."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Apesar da forte queda do Produto Interno Bruto brasileiro verificada no ano de 2020, as regiões Norte e Centro-Oeste apresentaram crescimento, mesmo diante dos desafios colocados pela pandemia de Covid-19. Além de programas emergenciais, como o auxílio concedido, que estimulou o comércio, uma atividade de grande importância na região não foi fortemente impactada por essa pandemia.\n\nAssinale a única alternativa que apresenta essa atividade, bem como sua justificativa:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Crescimento dos serviços no setor de construção civil, um reflexo direto do aumento da migração rural-urbana."
+        },
+        {
+          "letra": "B",
+          "texto": "Aumento significativo do setor de prestação de serviços, especialmente educação, resultante da migração rural-urbana nos últimos cinco anos."
+        },
+        {
+          "letra": "C",
+          "texto": "Atividade agropecuária praticada em lavouras extensivas, resultante de uma estrutura produtiva de commodities voltadas especialmente ao mercado chinês."
+        },
+        {
+          "letra": "D",
+          "texto": "Prestação de serviços por atendimento remoto, em decorrência das medidas de distanciamento social necessárias."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geografia do Brasil (Economia)"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Leia o texto a seguir sobre substâncias fenólicas:\n\nSubstâncias fenólicas são aquelas derivadas de hidrocarbonetos aromáticos pela substituição de um ou mais átomos de hidrogênio por igual número de hidroxilas [...]. Podem ser classificadas como fenóis simples e fenóis compostos [...]. Diversas propriedades medicinais de plantas são atribuídas a essa classe de substâncias [...].\n[...]\nO cloreto férrico é comumente utilizado em testes laboratoriais para detectar a presença de substâncias fenólicas em extratos vegetais [...]. Trata-se de um sal inorgânico cristalino de cor amarela, formado pelo cátion férrico e o ânion cloreto. [...]\nAlgumas das principais características dos fenóis que os distinguem de outros compostos que contêm a hidroxila ligada diretamente na cadeia orgânica, como os álcoois, são sua acidez e solubilidade em água. Em meio aquoso, a carga negativa do íon fenóxido é estabilizada por solvatação e pela deslocalização do elétron no anel aromático [...], o que pode ser representado por suas estruturas de ressonância [...].\n\n(Disponível em: http://qnesc.sbq.org.br/online/prelo/EEQ-105-20.pdf. Acesso em: 18 ago. 2022. Adaptado.)\n\nConsiderando as informações apresentadas, analise os itens a seguir:\n\nI - O cloreto férrico se comporta como um ácido de Lewis. Assim, ele pode acomodar pares de elétrons.\nII - O fenol tem caráter ácido; no entanto, também atua como base de Lewis, pois possui pares de elétrons disponíveis para compartilhar.\nIII - O íon fenóxido proveniente do fenol possui quatro estruturas de ressonância.\nIV - A solubilidade do fenol em água é explicada pelas ligações de hidrogênio formadas entre ambas substâncias.\n\nConsiderando os itens apresentados, assinale a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II, III e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II e IV apenas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Química Orgânica (Fenóis)",
+        "Química – Ácidos e Bases de Lewis"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "As estações do ano, com distintos tempos de duração, resultam da associação entre a inclinação do eixo de rotação da Terra com o seu movimento de translação, e juntas compreendem aproximadamente 365 dias.\n\nCom base no enunciado e tendo como referência seus conhecimentos de Física e Geografia, marque a única alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "No Hemisfério Sul, a chegada do verão é marcada pela incidência perpendicular dos raios solares sobre o Trópico de Câncer, ao passo que no Norte, a incidência perpendicular dos raios solares sobre o Trópico de Capricórnio marca a chegada do outono."
+        },
+        {
+          "letra": "B",
+          "texto": "Para o Hemisfério Sul, o período do verão possui menor duração que o inverno em decorrência da maior proximidade entre a Terra e o Sol, o que pode ser compreendido pela Segunda Lei de Kepler."
+        },
+        {
+          "letra": "C",
+          "texto": "Em ambos os hemisférios, a passagem de uma estação para outra é marcada pela incidência perpendicular dos raios solares por um dos paralelos especiais, que pode ser um círculo polar, um trópico ou a Linha do Equador."
+        },
+        {
+          "letra": "D",
+          "texto": "Para o Hemisfério Norte, o período compreendido entre o Solstício de Inverno e o Equinócio de Primavera é maior do que o período entre o Solstício de Verão e o Equinócio de Outono, o que pode ser compreendido pela Primeira Lei de Kepler."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geografia Física (Movimentos da Terra)",
+        "Física – Leis de Kepler"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Leia o excerto do texto Um lugar todo meu, de Heloísa Helena:\n\nDepois que tudo se aquieta, quando nem mais o telefone toca, clareio apenas alguns recantos da minha casa e caminho até a varanda, aquela de onde sou capaz de contemplar mais longe e profundamente.\nNão os telhados e muito menos os alpendres das casas dos vizinhos, porém os meus dias, as minhas noites, brilho e penumbra do muito que já passou ou ainda é.\nSão lembranças ao alcance do meu querer. Basta-me chamá-las, como agora faço. Pouco a pouco, percebo que impressões começam a chegar, assenhoram-se de mim e fazem do momento um meu instante valioso e único.\nElas tanto vêm de ontem..., são de hoje..., ora vozes..., ora gestos..., reminiscências nem sempre de todo boas ou de todo más, algumas delas constantes na memória, outras já distantes, tal qual imagens de fotos antigas que, com o passar do tempo, começam a se apagar.\nO resultado disso é a complexa agitação do meu interior, vestígio de movimentos descontínuos e entremeados de alegria e de pesar, quando acontece a irrequieta convivência do ir e vir dos sentimentos.\n[...]\nO lugar da minha casa, que um dia já foi pasto, agora é pomar para barulhentas ararinhas que brigam por mangas maduras pelo calor do sol e adoçadas pelo luar.\n[...]\nGentes queridas e amigas já passaram pela minha casa. E mesmo que todas essas pessoas tenham saído para seguir seu próprio destino, cada quarto, sala, cozinha, todos os cômodos da minha morada guardam riso, cheiro, som, que jamais desapareceram dos meus sentidos, porque presentes fortemente em mim.\nEntão, quando ando pela minha casa, não atravesso os seus espaços tão somente. Traços do que vivi me acompanham. E assim sendo, caminho sabendo que apoiei escolhas, desembaracei linhas e, sobretudo, que meu abraço aliviou angústias, sossegou preocupações.\nPorém, esse meu lugar me serve também de refúgio. Nele posso chorar sem acanhamento, posso destruir ilusões, pôr a nu meus desencantos. Mesmo quando tudo parece desmoronar, eu confio na sua proteção.\n[...]\n\n(BORGES, Heloísa Helena de Campos. As fomes do mundo & outras crônicas. Goiânia: Kelps, 2018. p. 61-63. Adaptado.)\n\nCom base na leitura deste fragmento, é possível inferir que\n\nI - a função de linguagem predominante coloca em foco o enunciador da mensagem e busca expressar sua atitude em relação ao enunciado.\nII - a construção desse gênero textual coexistem as sequências tipológicas narrativa, descritiva e dissertativa.\nIII - no trecho \"Elas tanto vêm de ontem..., são de hoje..., ora vozes..., ora gestos...”, o emprego das reticências comprometeram a clareza da mensagem.\n\nMarque a única alternativa inteiramente correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e II apenas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Gêneros Textuais (Crônica)",
+        "Língua Portuguesa – Funções da Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Depois de adiado em 2020, em razão da pandemia de Covid-19, e em 2021, por falta de orçamento, teve início no dia 1º de agosto deste ano, o Censo 2022. Antes, a última contagem da população brasileira ocorreu entre agosto e novembro de 2010, o que resulta em 12 anos de mudanças socioeconômicas a serem atualizadas.\n\nAcerca da distribuição espacial, bem como das características e tendências apresentadas pela população brasileira, assinale a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A expectativa de vida da população rural verificada nas últimas décadas deve aproximar-se ainda mais da verificada nas áreas urbanas em função do maior impacto da pandemia de Covid-19 nos grandes aglomerados populacionais."
+        },
+        {
+          "letra": "B",
+          "texto": "Se comparada à porção central do território brasileiro, a região litorânea tem apresentado proporcionalmente menor crescimento populacional em razão das baixas taxas de fecundidade e natalidade, bem como de processos migratórios verificados nas últimas décadas."
+        },
+        {
+          "letra": "C",
+          "texto": "A redução das taxas de fecundidade e de natalidade nos últimos anos tem sido mais marcante nas regiões Sudeste e Sul, e essa última apresenta a menor média nacional em razão da maior oferta de postos de trabalhos com maior participação feminina."
+        },
+        {
+          "letra": "D",
+          "texto": "Por apresentarem boa parte da população vivendo em ambiente rural, as regiões Norte e, principalmente, Nordeste e Centro-Oeste ainda apresentam taxa de natalidade acima de 2,1 filhos por casal e respondem diretamente pelo aumento da população brasileira."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Demografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Um político pretende visitar dez cidades em sua campanha para as próximas eleições. Devido à distância entre elas, um cálculo inicial mostrou que o ideal seria visitar três cidades por dia.\n\nAssinale a única alternativa que aponta corretamente de quantos modos distintos ele pode escolher a primeira visita:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "115."
+        },
+        {
+          "letra": "B",
+          "texto": "120."
+        },
+        {
+          "letra": "C",
+          "texto": "105."
+        },
+        {
+          "letra": "D",
+          "texto": "110."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Leia o fragmento do texto “O nacionalismo literário\", extraído da obra Formação da literatura brasileira: momentos decisivos, de Antonio Candido:\n\nCom isto já é possível indicar os elementos que integram a renovação literária designada genericamente por Romantismo – nome adequado e insubstituível, que não deve, porém, levar a uma identificação integral com os movimentos europeus, de que constitui ramificação cheia de peculiaridades. Tendo-se originado de uma convergência de fatores locais e sugestões externas, é ao mesmo tempo nacional e universal. O seu interesse maior, do ponto de vista da história literária e da literatura comparada, consiste por ventura na felicidade com que as sugestões externas se prestaram à estilização das tendências locais, resultando um momento harmonioso e íntegro, que ainda hoje parece a muitos o mais brasileiro, mais autêntico dentre os que tivemos.\n\n(CANDIDO, Antonio. O nacionalismo literário. In: Formação da literatura brasileira: momentos decisivos. 9. ed. Belo Horizonte: Itatiaia, 2009. p. 15. Adaptado.)\n\nA respeito do Romantismo no Brasil, analise as afirmativas a seguir:\n\nI - A 1ª Geração Romântica apresenta como característica a valorização e exaltação dos símbolos nacionais, a exemplo do índio, da natureza e de um espírito nacionalista e ufanista.\nII - A fase caracterizada pela abordagem de temas pessimistas, como a morte, o amor não correspondido, o individualismo e o saudosismo ficou conhecida como Indianista.\nIII - Condoreirismo, como também foi denominada a 1ª Geração Romântica, explora temáticas sociais, a exemplo do abolicionismo e do republicanismo.\nIV - Nas produções da 3ª Geração Romântica, o amor não é mais idealizado, a mulher é algo mais real.\n\nEm relação às proposições analisadas, assinale a única alternativa cujos itens estão todos corretos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e IV apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II, III e IV apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e III apenas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Romantismo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Read the text In focus: Women in Afghanistan one year after the Taliban takeover:\n\nOne year ago, on 15 August 2021, the Taliban entered Afghanistan's capital city of Kabul and took control of the country.\nOver the past 12 months, human rights violations against women and girls have mounted steadily. Despite initial promises that women would be allowed to exercise their rights within Sharia law – including the right to work and to study – the Taliban has systematically excluded women and girls from public life.\nWomen hold no cabinet positions in the de facto administration, which has also abolished the Ministry of Women's Affairs – effectively eliminating women's right to political participation. The Taliban has also banned girls from attending school past the sixth grade and barred women from working most jobs outside the home.\n[...]\n\n(Source: https://www.unwomen.org/en/news-stories/in-focus/2022/08/in-focus-women-in-afghanistan-one-year-after-the-taliban-takeover. Access on: August 18th, 2022. Adapted.)\n\nChoose the alternative with a correct information, according to the text:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "After the Ministry of Women's Affairs was abolished, the women were barred to hold any cabinet positions in the de facto administration."
+        },
+        {
+          "letra": "B",
+          "texto": "The Sharia law eliminated effectively the women and girls' access to school and violates the human rights against them in Afghanistan."
+        },
+        {
+          "letra": "C",
+          "texto": "The Taliban government took control of Afghanistan, promising to install the law of Sharia, and start allowing the women to exercise their rights in the country."
+        },
+        {
+          "letra": "D",
+          "texto": "The new Afghanistan government allows school access to young women only until the sixth grade and stimulate all women not to work out of home."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Leia o texto a seguir sobre a reação de produção de gás carbônico:\n\nMesmo submetido a alta pressão, um novo catalisador à base de níquel, zinco e carbono conseguiu transformar dióxido de carbono, um dos principais gases de efeito estufa, em monóxido de carbono, um importante intermediário para gerar produtos de valor agregado. “O resultado da nossa pesquisa mostra que estamos cada vez mais próximos de produzir, por meio da catálise, derivados de petróleo, como plásticos e combustíveis”, comemora Liane Rossi, professora do Instituto de Química da USP e coordenadora do estudo realizado no âmbito do Fapesp Shell Research Centre for Gas Innovation.\n[...]\n[...] Na oportunidade, os pesquisadores descobriram que um catalisador de níquel teve melhor desempenho após ser submetido a alta temperatura (800 graus Celsius), em atmosfera de dióxido de carbono e hidrogênio ou então de metano ou propano. \"Esse processo possibilitava um excelente catalisador para a redução de dióxido de carbono: ele gerava exclusivamente monóxido de carbono, sem sinal do produto menos desejável, que é o metano\", aponta Liane.\n\n(Disponível em: https://jornal.usp.br/ciencias/cientistas-da-usp-estao-cada-vez-mais-perto-de-transformar-gas-carbonico-em-combustiveis-ou-plasticos-via-catalise/ Acesso em: 18 ago. 2022. Adaptado.)\n\nLeve em conta as informações apresentadas e analise os itens que seguem:\n\nI - Em uma reação química, temos alteração na energia interna das substâncias. Esta é dividida em duas partes: energia química (forças no núcleo do átomo) e energia térmica (movimento de translação, rotação e vibração de átomos e moléculas).\nII - Em uma reação química, quando a energia interna total dos reagentes for maior que a energia interna total dos produtos formados, haverá um excedente de energia que será liberado em forma de calor, reação exotérmica.\nIII - Em uma reação química, o estado físico em que os produtos são formados altera a entalpia da reação, pois parte da energia que é liberada ou absorvida durante a reação fica na forma de agitação térmica dos átomos e/ou moléculas.\n\nConsiderando os itens apresentados, assinale a única alternativa que reúne a totalidade dos itens corretos quanto às reações químicas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e II apenas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Termoquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "Leia o texto a seguir, considerando o emprego da linguagem verbal e não verbal:\n\nNa linguagem verbal da segunda parte do texto, o autor empregou um recurso linguístico conhecido como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "metonímia."
+        },
+        {
+          "letra": "B",
+          "texto": "prosopopeia."
+        },
+        {
+          "letra": "C",
+          "texto": "neologismo."
+        },
+        {
+          "letra": "D",
+          "texto": "catacrese."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem",
+        "Língua Portuguesa – Neologismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "A independência política do Brasil, simbolizada pelo Grito do Ipiranga, completou 200 anos em 2022.\n\nAssinale a alternativa que aponta corretamente diferenças entre a nação brasileira e as demais da América do Sul, que ficaram independentes em épocas semelhantes:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O Brasil deu continuidade ao projeto de colonização das terras indígenas, ao passo que as ex-colônias da Espanha promoveram a reforma agrária para integrar esses povos às novas repúblicas."
+        },
+        {
+          "letra": "B",
+          "texto": "O Brasil teve um processo de independência sem guerras, pois ela foi fruto do acordo entre um príncipe que queria ser rei e um rei que estava cansado de governar sobre território tão extenso."
+        },
+        {
+          "letra": "C",
+          "texto": "O Brasil manteve boa parte de sua população sob o regime da escravidão e estabeleceu um regime monárquico."
+        },
+        {
+          "letra": "D",
+          "texto": "O Brasil seguiu o regime liberal das cortes lusitanas, enquanto os países que lutaram contra a coroa espanhola preferiram o parlamentarismo sob direção dos criollos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Independência do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Um nutricionista prepara uma dieta a partir de três alimentos. Sabe que o alimento I produz uma unidade de vitamina A, duas unidades de vitamina B e três unidades de vitamina C. O alimento II produz uma unidade de vitamina A, uma unidade de vitamina B e duas unidades de vitamina C. Já o alimento III produz duas unidades de vitamina A, nenhuma de vitamina B e duas unidades de Vitamina C.\nEsse nutricionista sabe também que a dieta que está preparando deve conter dezesseis unidades de vitamina A, doze unidades de vitamina B e vinte e oito unidades de Vitamina C.\n\nConsideradas essas informações, marque a única alternativa que indica a quantidade de soluções inteiras existentes para o problema apresentado:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1."
+        },
+        {
+          "letra": "B",
+          "texto": "3."
+        },
+        {
+          "letra": "C",
+          "texto": "2."
+        },
+        {
+          "letra": "D",
+          "texto": "4."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Sistemas Lineares"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "Leia o fragmento de texto do livro História concisa da Literatura Brasileira, de Alfredo Bosi:\n\nDesnudam-se as mazelas da vida pública e os contrastes da vida íntima; e busca-se para ambas causas naturais (raça, clima, temperamento) ou culturais (meio, educação) que lhes reduzem de muito a área de liberdade. O escritor realista tomará a sério as suas personagens e se sentirá no dever de descobrir-lhes a verdade, no sentindo positivista de dissecar os móveis do seu comportamento.\n\n(BOSI, Alfredo. História concisa da literatura brasileira. 3. ed. São Paulo, Cultrix, 1997. p. 178.)\n\nMarque a alternativa que contém uma afirmação correta em relação ao Realismo brasileiro:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Algumas das características desse movimento literário são a crítica da vida nas cidades, a valorização da vida no campo e o uso de uma linguagem mais simples."
+        },
+        {
+          "letra": "B",
+          "texto": "Movimento literário que se empenhou na retomada de alguns aspectos do Romantismo, como o uso da subjetividade e os traços pessimistas, porém com aspectos metafísicos e mais filosóficos."
+        },
+        {
+          "letra": "C",
+          "texto": "Insere-se em um momento histórico permeado por uma série de mudanças sociais, econômicas e políticas, como a Abolição da Escravatura (1888), o declínio da economia açucareira e a Proclamação da República (1889)."
+        },
+        {
+          "letra": "D",
+          "texto": "Movimento literário e artístico que se utiliza do exagero, do paradoxo, da antítese, da religiosidade e de elementos clássicos para compor suas produções."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Realismo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "Leia o fragmento a seguir sobre a reação de produção de gás carbônico:\n\nUma amostra coletada por fiscais em um posto de combustíveis foi submetida ao teste de proveta e apresentou teor de 54% de uma substância não identificada na composição da gasolina comum. A amostra será encaminhada à Agência Nacional de Petróleo (ANP) para análise em laboratório. O litro da gasolina comum deve apresentar teor de 27% de mistura de etanol anidro.\n[...]\n\n(Disponível em: https://www.procon.go.gov.br/noticias-procon/procon-goias-interdita-bomba-em-posto-de-combustivel-no-centro-de-goiania-por-venda-de-gasolina-adulterada.html#:~:text=Goi%C3%A2nia%2C%208%20de%20mar%C3%A7o%20de,realiza%C3%A7%C3%A3o%20do%20teste%20de%20quantidade. Acesso em: 18 ago. 2022. Adaptado.)\n\nConsiderando as características físico-químicas das moléculas presentes na gasolina, analise os itens a seguir:\n\nI - As temperaturas de fusão e ebulição dos compostos presentes na gasolina dependem fundamentalmente de dois fatores: forças intermoleculares e massa molecular.\nII - Moléculas anfifílicas podem ser adicionadas à gasolina, contribuindo para a solubilização dos compostos polares e apolares.\nIII - A halogenação das moléculas de hidrocarboneto da gasolina pode levar a sua maior solubilidade em etanol.\n\nConsiderando os itens apresentados, assinale a única alternativa inteiramente correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II e III apenas"
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "I apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e II apenas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Interações Intermoleculares",
+        "Química – Química Orgânica (Hidrocarbonetos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Read the text 'Chip Wars': US, China and the battle for semiconductor supremacy:\n\nThe semiconductor industry has transformed into a high stakes geopolitical issue and a source of tension between the US, China and Taiwan, with potential implications for global commerce.\nSemiconductors, known as \"chips\", are at the heart of economic growth and a vital component of technological innovation. Nano-sized silicon wafers, thinner than a strand of human hair and consisting of up to 40 billion components, have a gigantic impact on the global economy.\nIncredibly complex and capital intensive, these integrated circuits (IC) power everything from computers, smartphones, cars, data centre servers to gaming consoles. And the demand for chips is only rising, just as the industry faces a shortage crisis as the Covid-19 pandemic and international trade disputes strain supply and value chains.\n\n(Source: https://www.trtworld.com/magazine/chip-wars-us-china-and-the-battle-for-semiconductor-supremacy-45052. Access on: August 18th, 2022.)\n\nThe text states that 'the industry faces a shortage crisis'. Select the alternative with the veracious reason for the crisis:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "The straining of supply and value chains."
+        },
+        {
+          "letra": "B",
+          "texto": "The importance of ICs for technological innovation."
+        },
+        {
+          "letra": "C",
+          "texto": "The international commerce conflict between US, China, and Taiwan."
+        },
+        {
+          "letra": "D",
+          "texto": "The actual Covid-19 international pandemic situation."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    }
+  ]
+}

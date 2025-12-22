@@ -1,0 +1,1863 @@
+{
+  "nomeUniversidade": "Universidade Presbiteriana Mackenzie",
+  "siglaUniversidade": "Mackenzie",
+  "nomeProva": "Processo Seletivo 1º Semestre 2024",
+  "ano": 2024,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Texto para as questões de 01 a 06\n\nTexto I\nA língua foi, por muito tempo, considerada o principal elemento para a constituição das nações e para a delimitação entre nações. Essa função da língua serve para criar um sentido de homogeneidade de uma nação e, naturalmente, para veicular os valores internamente aceitos e reproduzidos. Essa seria uma das funções da língua nacional, ou seja, a de criar os limites de uma identidade coletiva, que se contrapõe a outras identidades exteriores a ela. Devemos, contudo, recordar que qualquer sociedade não é formada de maneira homogênea. O mais comum é que ela tenha diversos grupos ou classes: sociais, intelectuais, regionais etc. Internamente, a norma linguística é um dos elementos constitutivos dos processos de distinção de um grupo social em relação a outros grupos. Nesse caso, a utilização de determinada variedade é um dos principais elementos para a construção da identidade do indivíduo e, consequentemente, de sua percepção da alteridade.\nAdaptado de Regina Brito e Alexandre Marcelo Bueno, em Unidade e diversidade: a língua portuguesa no mundo\n\nTexto II\nA língua portuguesa é uma construção conjunta de todos aqueles que a falam – e é assim desde há séculos. A minha língua – aquela de que me sirvo para escrever – não se restringe às fronteiras de Angola, de Portugal ou do Brasil. A minha língua é a soma de todas as suas variantes. É plural e democrática. A sua imensa riqueza está nessa diversidade e na capacidade de se afeiçoar a geografias diversas, na forma como vem namorando outros idiomas, recolhendo deles palavras e emoções. Aprisionar a língua portuguesa às fronteiras de Portugal (ou de Angola ou do Brasil) seria mutilá-la, roubar-lhe memória e destino.\nJosé Eduardo Agualusa, em “Para a irmandade da língua portuguesa”\n\nTexto III\nONDE O PORTUGUÊS É LÍNGUA OFICIAL\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A referencialidade é presente nos textos, mesmo quando há uso de subjetividade."
+        },
+        {
+          "letra": "B",
+          "texto": "O tom adotado nos textos permite que se identifique o uso de poeticidade."
+        },
+        {
+          "letra": "C",
+          "texto": "Base da construção do sentido nos textos, a ironia é o aspecto mais peculiar deles."
+        },
+        {
+          "letra": "D",
+          "texto": "Todos os textos usam multiplicidade de linguagens, como a verbal e a visual."
+        },
+        {
+          "letra": "E",
+          "texto": "Nenhuma das afirmações acima está correta."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Textos",
+        "Língua Portuguesa – Funções da Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Sobre os textos, é INCORRETO afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "empregam linguagem denotativa, mesmo quando assumem o teor do relato pessoal."
+        },
+        {
+          "letra": "B",
+          "texto": "adotam tom explicativo, presente até na subjetividade do segundo texto."
+        },
+        {
+          "letra": "C",
+          "texto": "a narratividade pessoal e subjetiva é marca predominante nos três textos."
+        },
+        {
+          "letra": "D",
+          "texto": "conduzem os leitores a informações sobre questões linguísticas."
+        },
+        {
+          "letra": "E",
+          "texto": "mesmo que não intencionalmente, estabelecem relação intertextual no conjunto."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Textos",
+        "Língua Portuguesa – Tipologia Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Leia as afirmações abaixo.\nI. Os três textos assumem irrevogavelmente que toda e qualquer língua, inclusive a portuguesa, é homogênea e uniforme em seu uso nos diferentes países em que é empregada.\nII. Pela leitura dos três textos, pode-se observar que a língua portuguesa é língua oficial unicamente em territórios brasileiros e portugueses.\nIII. Há principalmente nos dois primeiros textos a afirmação (mesmo que implícita) de que a língua e seu uso estabelecem reconhecimento e identidade de seus falantes, ao mesmo tempo em que marca diversidades.\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A afirmação I está correta."
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação II está correta."
+        },
+        {
+          "letra": "C",
+          "texto": "A afirmação III está correta."
+        },
+        {
+          "letra": "D",
+          "texto": "Todas as afirmações estão corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Nenhuma das afirmações está correta."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Textos",
+        "Língua Portuguesa – Variação Linguística"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Assinale a alternativa que apresenta corretamente a relação sinonímica diante do emprego das palavras nos textos.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "homogeneidade (texto I, linha 04) = sucesso"
+        },
+        {
+          "letra": "B",
+          "texto": "veicular (texto I, linha 04) = transmitir"
+        },
+        {
+          "letra": "C",
+          "texto": "constitutivos (texto I, linha 11) = instantâneos"
+        },
+        {
+          "letra": "D",
+          "texto": "se restringe (texto II, linha 03) = se iguala"
+        },
+        {
+          "letra": "E",
+          "texto": "se afeiçoar (texto II, linha 07) = se opor"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Sinonímia"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Para (texto I, linha 02) indica sentido de oposição no trecho em que figura."
+        },
+        {
+          "letra": "B",
+          "texto": "E (texto I, linha 04) marca noção de causalidade no trecho em que figura."
+        },
+        {
+          "letra": "C",
+          "texto": "Ou seja (texto I, linha 06) introduz correção no trecho em que figura."
+        },
+        {
+          "letra": "D",
+          "texto": "Contudo (texto I, linha 08) denota temporalidade no trecho em que figura."
+        },
+        {
+          "letra": "E",
+          "texto": "Nenhuma das afirmações acima está correta."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Conjunções",
+        "Língua Portuguesa – Morfossintaxe"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Leia as afirmações abaixo.\nI. O pronome ela (texto I, linha 09) assume a função de estabelecer coesão referencial anafórica.\nII. O trecho separado por travessões (texto II, linha 03) serve para explicitar mais aos leitores o que o autor entende ser uma das funções de sua língua.\nIII. Dados quantitativos (texto III) contribuem para reforçar o caráter informativo do quadro verbo-visual.\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A afirmação I está correta."
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação II está correta."
+        },
+        {
+          "letra": "C",
+          "texto": "A afirmação III está correta."
+        },
+        {
+          "letra": "D",
+          "texto": "Todas as afirmações estão corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Nenhuma das afirmações está correta."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Coesão e Coerência",
+        "Língua Portuguesa – Pontuação",
+        "Língua Portuguesa – Interpretação de Textos"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Texto para as questões 07 e 08\nv. 01 Quando Ismália enlouqueceu,\nv. 02 Pôs-se na torre a sonhar...\nv. 03 Viu uma lua no céu,\nv. 04 Viu outra lua no mar.\nv. 05 No sonho em que se perdeu,\nv. 06 Banhou-se toda em luar...\nv. 07 Queria subir ao céu,\nv. 08 Queria descer ao mar...\nv. 09 E, no desvario seu,\nv. 10 Na torre pôs-se a cantar...\nv. 11 Estava longe do céu...\nv. 12 Estava longe do mar...\nv. 13 E como um anjo pendeu\nv. 14 As asas para voar...\nv. 15 Queria a lua do céu,\nv. 16 Queria a lua do mar...\nv. 17 As asas que Deus lhe deu\nv. 18 Ruflaram de par em par...\nv. 19 Sua alma, subiu ao céu,\nv. 20 Seu corpo desceu ao mar...\nAlphonsus de Guimaraens (1870-1921)\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Da leitura do poema, chamam atenção os elementos indianistas, transformando Ismália em personagem semelhante à Iracema."
+        },
+        {
+          "letra": "B",
+          "texto": "O poema é dos mais importantes do Trovadorismo brasileiro, pois reelabora a idealização servil das Cantigas de Amigo."
+        },
+        {
+          "letra": "C",
+          "texto": "De influência romântico-simbolista, o poema é celebração da razão humana. Nesse sentido, Ismália é como uma personificação da racionalidade."
+        },
+        {
+          "letra": "D",
+          "texto": "Isolada no alto da sua torre, de fortes tons simbólicos, a personagem Ismália pode ser interpretada como representação do egoísmo nacionalista."
+        },
+        {
+          "letra": "E",
+          "texto": "Ao longo dos seus versos, o eu lírico narra o estado de loucura, e consequente falecimento, da personagem Ismália."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Simbolismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A linguagem do poema é construída em jogo de contrastes entre elementos espaciais: ascensão e queda, céu e mar."
+        },
+        {
+          "letra": "B",
+          "texto": "O despojamento da expressividade do poema, com a ausência de rimas e versos metrificados, é uma das mais relevantes características do poema."
+        },
+        {
+          "letra": "C",
+          "texto": "Em termos da organização estrutural do poema, ele é classificado como um soneto, haja vista a presença de cinco estrofes em sua composição."
+        },
+        {
+          "letra": "D",
+          "texto": "A influência barroca do poema é visível na dificuldade vocabular e sintática, bem como no uso de imagens poéticas que remetem ao ouro e à prata."
+        },
+        {
+          "letra": "E",
+          "texto": "Os versos As asas que Deus lhe deu/Ruflaram de par em par... (v. 17 e 18) comprovam a inexistência de uma dimensão espiritualizada no poema."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Análise Literária",
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "As meninas da gare\nEram três ou quatro moças bem moças e bem gentis\nCom cabellos mui pretos pelas espadoas\nE suas vergonhas tão altas e tão saradinhas\nQue de nós as muito bem olharmos\nNão tínhamos nenhuma vergonha\nOswald de Andrade (1890-1954)\n\nLeia as afirmações abaixo.\nI. A grafia de cabellos, mui e espadoas é proposital, pois se trata de uma imitação, irônica, da ortografia de documentos históricos escritos na época do primeiro século de colonização europeia do território brasileiro.\nII. Utilizando dicção sisuda, Oswald de Andrade escreveu o poema “As meninas da gare” como uma crítica social naturalista à condição da mulher brasileira no começo do século XX.\nIII. Os versos de “As meninas da gare” revelam a desconexão do poema de Oswald de Andrade com a sua futura carreira como um dos pilares do modernismo brasileiro.\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A afirmação I está correta."
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação II está correta."
+        },
+        {
+          "letra": "C",
+          "texto": "A afirmação III está correta."
+        },
+        {
+          "letra": "D",
+          "texto": "Nenhuma das afirmações está correta."
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as afirmações estão corretas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Modernismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Pesca amorosa\n(Madrigal)\nFoi no mar de um cuidado\nMeu coração pescado;\nAnzóis, os olhos belos;\nSão linhas teus cabelos\nCom solta gentileza,\nCupido, pescador; isca, a beleza.\nManuel Botelho de Oliveira (1636-1711)\n\nLeia as afirmações abaixo.\nI. O poema é exaltação do trabalhador braçal brasileiro, mediante a representação do marinheiro, embora seja erroneamente considerado um poema de amor.\nII. Cupido, importante deidade da Antiguidade Clássica, é citado no poema de maneira equivocada: não há relação desta personagem com a temática de “Pesca amorosa”.\nIII. O poema é construído em torno de metáforas que relacionam atributos da beleza feminina, dos relacionamentos e do amor, personificado na figura mítica do Cupido, com o ato de pescar no mar.\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A afirmação I está correta."
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação II está correta."
+        },
+        {
+          "letra": "C",
+          "texto": "A afirmação III está correta."
+        },
+        {
+          "letra": "D",
+          "texto": "Nenhuma das afirmações está correta."
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as afirmações estão corretas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Barroco"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Read the text below and answer questions 11 to 14:\n\nDinogorgon Skull\nA dinogorgon skull protrudes from a rock with the South African scrubland in the background.\n\nWhen a species disappears, biologists say that the species has become extinct. By making room for new species, extinction helps drive the evolution of life. Over long periods of time, the number of species becoming extinct can remain fairly constant, meaning that an average number of species go extinct each year, century, or millennium. However, during the history of life on Earth, there have been periods of mass extinction, when large percentages of the planet's species became extinct in a relatively short amount of time. These extinctions have had widely different causes.\nAbout 541 million years ago, a great expansion occurred in the diversity of multicellular organisms. Paleobiologists, scientists who study the fossils of plants and animals to learn how life evolved, call this event the Cambrian Explosion. Since the Cambrian Explosion, there have been five mass extinctions, each of which is named for the geological period in which it occurred, or for the periods that immediately preceded and followed it.\nThe first mass extinction is called the Ordovician-Silurian Extinction. It occurred about 440 million years ago, at the end of the period that paleontologists and geologists call the Ordovician, and followed by the start of the Silurian period. In this extinction event, many small organisms of the sea became extinct. The next mass extinction is called Devonian extinction, occurring 365 million years ago during the Devonian period. This extinction also saw the end of numerous sea organisms.\nThe largest extinction took place around 250 million years ago. Known as the Permian-Triassic extinction, or the Great Dying, this event saw the end of more than 90 percent of Earth's species. Although life on Earth was nearly wiped out, the Great Dying made room for new organisms, including the first dinosaurs. About 210 million years ago, between the Triassic and Jurassic periods, came another mass extinction. By eliminating many large animals, this extinction event cleared the way for dinosaurs to flourish. Finally, about 65.5 million years ago, at the end of the Cretaceous period came the fifth mass extinction. This is the famous extinction event that brought the age of the dinosaurs to an end.\nIn each of these cases, the mass extinction created niches or openings in the Earth's ecosystems. Those niches allowed for new groups of organisms to thrive and diversify, which produced a range of new species. In the case of the Cretaceous extinction, the demise of the dinosaurs allowed mammals to thrive and grow larger.\nScientists refer to the current time as the Anthropocene period, meaning the period of humanity. They warn that, because of human activities such as pollution, overfishing, and the cutting down of forests, the Earth might be on the verge of—or already in—a sixth mass extinction. If that is true, what new life would rise up to fill the niche that we currently occupy?\n(Taken from https://education.nationalgeographic.org/resource/extinction/ Access: September/2023)\n\nAccording to the text, choose the correct alternative:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Except for some periods, species became extinct in a fairly regular basis over time."
+        },
+        {
+          "letra": "B",
+          "texto": "Mass extinction was a problem just in the beginning of life on Earth."
+        },
+        {
+          "letra": "C",
+          "texto": "Mass extinction was usually caused by climate changes."
+        },
+        {
+          "letra": "D",
+          "texto": "Nowadays, a great expansion took place in the diversity of multicellular organisms."
+        },
+        {
+          "letra": "E",
+          "texto": "We can count around 541 mass extinction species in the Cambrian Explosion."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Based on the text, choose the INCORRECT alternative:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "It was between two periods, the Ordovician and the Silurian periods, that the first mass extinction took place."
+        },
+        {
+          "letra": "B",
+          "texto": "During the Ordovician and Silurian extinction, many large mammals died."
+        },
+        {
+          "letra": "C",
+          "texto": "It was in the Devonian period that we could see the end of many sea species."
+        },
+        {
+          "letra": "D",
+          "texto": "The Great Dying is another name for the Permian-Triassic extinction."
+        },
+        {
+          "letra": "E",
+          "texto": "More than 90% of Earth's species died during the Great Dying."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Choose the alternative that is equivalent in meaning to the sentence “By eliminating many large animals, this extinction event cleared the way for dinosaurs to flourish.”",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Dinousaurs killed many large animals to survive."
+        },
+        {
+          "letra": "B",
+          "texto": "The large extinction of dinosaurs caused the birth of many flowers."
+        },
+        {
+          "letra": "C",
+          "texto": "With the death of large dinosaurs, many of Earth's surface was cleared."
+        },
+        {
+          "letra": "D",
+          "texto": "Dinosaurs could only appear because large animals were extinct."
+        },
+        {
+          "letra": "E",
+          "texto": "The extinction of dinosaurs was caused by large animal."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto",
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Choose the alternative that is grammatically correct:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "The Earth will see a sixth mass extinction if human activities such as pollution, overfishing and the cutting down of forests continues to grow."
+        },
+        {
+          "letra": "B",
+          "texto": "The Earth could see a sixth mass extinction if human activities such as pollution, overfishing and the cutting down of forests will continue to grow."
+        },
+        {
+          "letra": "C",
+          "texto": "The Earth would see a sixth mass extinction if human activities such as pollution, overfishing and the cutting down of forests continue to grow."
+        },
+        {
+          "letra": "D",
+          "texto": "The Earth will see a sixth mass extinction if human activities such as pollution, overfishing and the cutting down of forests continued to grow."
+        },
+        {
+          "letra": "E",
+          "texto": "The Earth will see a sixth mass extinction if human activities such as pollution, overfishing and the cutting down of forests continue to grow."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Gramática",
+        "Inglês – Concordância Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Read the following comic strip and choose the correct alternative:\nTaken from: https://www.boredpanda.com/comics-funny-wholesome-relatable-dinosaurs-dinosandcomics/. Access: September/2023",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "The second dinosaur enjoys talking about trivial things."
+        },
+        {
+          "letra": "B",
+          "texto": "The second question is not appropriate to ask anyone."
+        },
+        {
+          "letra": "C",
+          "texto": "The second dinosaur doesn't properly answer the second question."
+        },
+        {
+          "letra": "D",
+          "texto": "In the third box, the expression “deep down” refers to the waterfall behind then."
+        },
+        {
+          "letra": "E",
+          "texto": "In the second box, the expression “small talk” means “short animals”."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto",
+        "Inglês – Expressões Idiomáticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Em um parque de diversões, crianças andam em um carrossel que gira em torno de seu eixo central. Sobre a aceleração centrípeta que atua sobre as crianças, marque a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A aceleração centrípeta sempre atua na direção do movimento do objeto."
+        },
+        {
+          "letra": "B",
+          "texto": "A aceleração centrípeta é uma força que atua sobre o objeto em movimento circular."
+        },
+        {
+          "letra": "C",
+          "texto": "A aceleração centrípeta não realiza trabalho sobre o objeto em movimento circular."
+        },
+        {
+          "letra": "D",
+          "texto": "A aceleração centrípeta é a razão entre a velocidade tangencial e o raio da trajetória."
+        },
+        {
+          "letra": "E",
+          "texto": "A aceleração centrípeta é inversamente proporcional ao quadrado da velocidade tangencial."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Movimento Circular Uniforme",
+        "Física – Dinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Um carro move-se com velocidade V durante um intervalo de tempo t e então passa a acelerar com intensidade a por um intervalo de tempo 2t. Qual é a distância percorrida durante todo o percurso em termos de V, a e t?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$Vt+\\frac{at}{2}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$Vt+at^2$"
+        },
+        {
+          "letra": "C",
+          "texto": "$2Vt+\\frac{1}{2}at^2$"
+        },
+        {
+          "letra": "D",
+          "texto": "$2Vt+2at^2$"
+        },
+        {
+          "letra": "E",
+          "texto": "$3Vt+2at^2$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Cinemática",
+        "Física – Movimento Retilíneo Uniformemente Variado"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Em um dia chuvoso, um motociclista conduz sua moto a 90 km/h quando sua moto sofre uma pane e tanto motor quanto freio deixam de funcionar. A chuva e o atrito com o asfalto fazem uma força de resistência ao movimento com valor constante de 400N sobre o conjunto motociclista-moto, cuja massa é igual a 200 kg. A potência da força de resistência, do momento que motor e freio deixaram de funcionar até o momento de parada total, é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 kW."
+        },
+        {
+          "letra": "B",
+          "texto": "2 kW."
+        },
+        {
+          "letra": "C",
+          "texto": "4 kW."
+        },
+        {
+          "letra": "D",
+          "texto": "5 kW."
+        },
+        {
+          "letra": "E",
+          "texto": "8 kW."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Trabalho e Energia",
+        "Física – Potência"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "A temperatura ideal para um banho seguro e confortável para um bebê, conforme recomendado por especialistas, é de 37°C. Se uma banheira contém inicialmente 10 litros de água a uma temperatura de 17°C, considerando a densidade da água como 1 g/ml, qual é a quantidade de água, com uma temperatura inicial de 53°C, que deve ser introduzida no sistema para que o equilíbrio térmico resulte na temperatura ideal para o banho de um bebê?\nConsidere apenas a troca de calor entre a água fria e a água quente. Calor específico da água: $c = 1,0 cal/g.°C$",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12,5 L"
+        },
+        {
+          "letra": "B",
+          "texto": "15 L"
+        },
+        {
+          "letra": "C",
+          "texto": "17,5 L"
+        },
+        {
+          "letra": "D",
+          "texto": "20 L"
+        },
+        {
+          "letra": "E",
+          "texto": "25 L"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Termologia",
+        "Física – Calorimetria"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Um músico sopra em um tubo sonoro aberto e gera uma onda estacionária. Se o comprimento do tubo é L = 0,85 m e a velocidade do som no ar é 340m/s, qual é a frequência do terceiro harmônico do tubo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "200 Hz"
+        },
+        {
+          "letra": "B",
+          "texto": "300 Hz"
+        },
+        {
+          "letra": "C",
+          "texto": "400 Hz"
+        },
+        {
+          "letra": "D",
+          "texto": "500 Hz"
+        },
+        {
+          "letra": "E",
+          "texto": "600 Hz"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Ondulatória",
+        "Física – Acústica"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "O Super-Proton-Synchrotron (SPS) é um acelerador de partículas localizado no CERN, na Suíça, utilizado para estudar interações de partículas subatômicas em altas energias. Em um experimento, um próton é acelerado em um campo magnético circular no SPS.\nDado que a carga do próton é igual a $q = 1,6 \\cdot 10^{-19} C$, sua massa é $m = 1,6 \\cdot 10^{-27} kg$, sua velocidade é $v = 3 \\cdot 10^7 m/s$ e a intensidade do campo magnético em que ele é submetido é de $B = 1,5 T$, o raio da trajetória desse proton é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20 cm."
+        },
+        {
+          "letra": "B",
+          "texto": "25 cm."
+        },
+        {
+          "letra": "C",
+          "texto": "32 cm."
+        },
+        {
+          "letra": "D",
+          "texto": "45 cm."
+        },
+        {
+          "letra": "E",
+          "texto": "48 cm."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Eletromagnetismo",
+        "Física – Força Magnética"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Durante uma investigação sobre eficiência energética em sistemas microeletrônicos, engenheiros de uma renomada universidade desenvolveram um circuito experimental. Neste circuito, uma bateria de 24V com resistência interna de 3 ohms é o principal componente de alimentação.\nNo esquema apresentado, é possível observar a disposição dos componentes. Em particular, o resistor $R_4$ destaca-se, sendo percorrido por uma corrente elétrica $I_4$. Qual o valor de $I_4$?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,4 A"
+        },
+        {
+          "letra": "B",
+          "texto": "0,8 A"
+        },
+        {
+          "letra": "C",
+          "texto": "1,2 A"
+        },
+        {
+          "letra": "D",
+          "texto": "1,6 A"
+        },
+        {
+          "letra": "E",
+          "texto": "2,0 A"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Eletrodinâmica",
+        "Física – Circuitos Elétricos"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "O teste com Reativo de Benedict permite evidenciar a presença de um grupo funcional oxigenado específico presente em diferentes soluções aquosas. Esse teste baseia-se na reação química representada abaixo.\n$$Composto\\ Orgânico\\ Oxigenado_{(aq)} + 2 Cu^{2+}_{(aq)} + 4 OH^{-}_{(aq)} \\rightarrow R-COOH_{(aq)} + Cu_2O_{(s)} + 2 H_2O_{(l)}$$\nAssim, em um tubo de ensaio, o Reativo de Benedict foi misturado a um composto orgânico oxigenado, e o tubo foi submetido a aquecimento, observando-se a formação de um precipitado vermelho tijolo de óxido cuproso ($Cu_2O$).\nNesse experimento, o composto orgânico oxigenado que reagiu apresenta o grupo funcional",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "álcool terciário."
+        },
+        {
+          "letra": "B",
+          "texto": "éter."
+        },
+        {
+          "letra": "C",
+          "texto": "éster."
+        },
+        {
+          "letra": "D",
+          "texto": "aldeído."
+        },
+        {
+          "letra": "E",
+          "texto": "cetona."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Química Orgânica",
+        "Química – Funções Oxigenadas"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "A noz-moscada é uma especiaria originária das ilhas Molucas na Indonésia, sendo utilizada até hoje na culinária, indústria farmacêutica e perfumaria. O seu princípio ativo é uma mistura de óleos essenciais, dentre eles, destacam-se a miristicina, o citral e o borneol, cujas fórmulas estruturais estão representadas abaixo.\nA respeito dos óleos essenciais acima é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os grupos funcionais presentes na miristicina, no citral e no borneol, são respectivamente, éter, cetona e álcool."
+        },
+        {
+          "letra": "B",
+          "texto": "as três estruturas apresentam pelo menos um átomo de carbono terciário."
+        },
+        {
+          "letra": "C",
+          "texto": "a miristicina apresenta isomeria geométrica cis/trans."
+        },
+        {
+          "letra": "D",
+          "texto": "o citral apresenta ligações pi ressonantes com uma carboxila."
+        },
+        {
+          "letra": "E",
+          "texto": "o borneol é um álcool alifático acíclico."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Química Orgânica",
+        "Química – Funções Orgânicas",
+        "Química – Isomeria"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "A bateria dos automóveis, denominada chumbo-ácido é constituída de dois eletrodos: um de chumbo esponjoso e o outro de dióxido de chumbo, ambos mergulhados em uma solução eletrolítica de ácido sulfúrico com densidade aproximada de $1,28 g \\cdot cm^{-3}$.\nA equação correspondente à reação global envolvida na geração de energia é\n$$PbO_{2(s)} + Pb_{(s)} + 2 H_2SO_{4(aq)} \\rightarrow 2 PbSO_{4(s)} + 2 H_2O_{(l)}$$\nA respeito do processo eletroquímico envolvido na bateria chumbo-ácido é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ocorre no eletrodo de $PbO_2$ o processo de oxidação."
+        },
+        {
+          "letra": "B",
+          "texto": "a fase líquida da bateria possui pouco efeito cáustico."
+        },
+        {
+          "letra": "C",
+          "texto": "$Pb_{(s)} + H_2SO_{4(aq)} \\rightarrow PbSO_{4(s)} + 2 H^+_{(aq)} + 2 e^-$ representa a reação anódica."
+        },
+        {
+          "letra": "D",
+          "texto": "o estado de oxidação do chumbo no dióxido de chumbo é +2."
+        },
+        {
+          "letra": "E",
+          "texto": "a densidade do eletrólito aumenta durante a descarga da bateria."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Eletroquímica",
+        "Química – Pilhas"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Os motores de aeromodelos geralmente usam combustíveis específicos projetados para motores de combustão interna, como os motores a gasolina, nitrometano ou elétricos. A escolha do combustível depende do tipo de motor que está sendo usado e das preferências do piloto. No caso específico do nitrometano é frequentemente adicionado em motores do tipo glow (ignição por faísca) ou motores de dois tempos. A reação de combustão completa e balanceada do nitrometano é equacionada por $4 CH_3NO_{2(l)} + 3 O_{2(g)} \\rightarrow 4 CO_{2(g)} + 6 H_2O_{(l)} + 2 N_{2(g)}$. Considerando-se que o processo ocorra no estado padrão e utilizando os dados a seguir, o valor da entalpia para esse processo é de\nDados: entalpia-padrão de formação ($kJ \\cdot mol^{-1}$)\n$CH_3NO_{2(l)} = -113$, $CO_{2(g)} = -394$ e $H_2O_{(l)} = -286$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "– 2840 kJ."
+        },
+        {
+          "letra": "B",
+          "texto": "– 3032 kJ."
+        },
+        {
+          "letra": "C",
+          "texto": "– 3179 kJ."
+        },
+        {
+          "letra": "D",
+          "texto": "– 3346 kJ."
+        },
+        {
+          "letra": "E",
+          "texto": "– 3744 kJ."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Termoquímica",
+        "Química – Lei de Hess"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "O ácido fórmico (HCOOH) é o ácido carboxílico mais simples, chamado oficialmente (IUPAC) de ácido metanoico e encontrado no líquido injetado em picadas de formigas. Industrialmente é usado na produção de produtos químicos, na fabricação de couro, como agente conservante em alimentos e como componente em produtos de limpeza. Ao considerarmos, no equilíbrio e a 25 °C, uma solução $0,05 mol \\cdot L^{-1}$ de ácido fórmico, cuja constante de ionização ($K_a$) é igual $1,8 \\times 10^{-4}$, o pH será de\nDados: $log 3 = 0,48$ e $log 9 = 0,95$",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2,52."
+        },
+        {
+          "letra": "B",
+          "texto": "3,48."
+        },
+        {
+          "letra": "C",
+          "texto": "5,05."
+        },
+        {
+          "letra": "D",
+          "texto": "6,95."
+        },
+        {
+          "letra": "E",
+          "texto": "7,00."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Equilíbrio Químico",
+        "Química – pH e pOH"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "O cloreto de ferro III, também chamado cloreto férrico, é um composto químico, cuja cor depende do ângulo de visão: por luz refletida os cristais parecem verde-escuro, mas por luz transmitida parecem vermelho-púrpura. Quando dissolvido em água, o cloreto férrico sofre hidrólise e libera calor. A solução castanha, ácida e corrosiva resultante é usada como floculante no tratamento de esgoto e na purificação de água. Considerando que o cloro seja um halogênio, a fórmula do cloreto de ferro III é corretamente representada por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$Cl_3Fe$."
+        },
+        {
+          "letra": "B",
+          "texto": "$ClFe$."
+        },
+        {
+          "letra": "C",
+          "texto": "$Cl_2Fe$."
+        },
+        {
+          "letra": "D",
+          "texto": "$FeCl_2$."
+        },
+        {
+          "letra": "E",
+          "texto": "$FeCl_3$."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Nomenclatura Inorgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Desde que foi verificada a primeira ocorrência de microplásticos no ambiente aquático, a quantidade dessas partículas nesse ambiente só vem aumentando, causando danos à vida subaquática. Em decorrência da preservação ambiental e de seres vivos marinhos, já existe um consenso entre diversos países sobre a necessidade de reduzir o descarte incorreto de plásticos no meio-ambiente. A partir de 2018, o Reino Unido proibiu a fabricação de cosméticos ou produtos de higiene que contenham microplásticos em sua composição. Os principais plásticos que geram essas contaminações são: polietileno (PE), poliestireno (PS), propileno (PP), polietileno tereftalato (PET), policloreto de vinila (PVC), poliamida (PA) e poliuretano (PU).\nDe acordo com seus conhecimentos sobre polímeros, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$H_2C=CH$ é o monômero do propileno, que é um polímero de condensação."
+        },
+        {
+          "letra": "B",
+          "texto": "$H_2C=CH_2$ é o monômero do polietileno, que é um copolímero de adição."
+        },
+        {
+          "letra": "C",
+          "texto": "$H_2C=CH$ é o monômero da poliamida, cuja nomenclatura é vinilbenzeno."
+        },
+        {
+          "letra": "D",
+          "texto": "$H_2C=CH$ é o monômero do PVC, que está na composição dos tubos para encanamentos."
+        },
+        {
+          "letra": "E",
+          "texto": "$H_2C=CH_2$ e $H_2C=CH$ são os monômeros que formam o polímero de condensação PET."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Polímeros",
+        "Química – Química Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Em uma prova com 40 questões de múltipla escolha, para desencorajar o \"chute\", foi utilizado o seguinte critério: \"Cada 3 questões erradas anulam uma questão certa\".\nSabe-se que o valor da prova é 10,0 (dez) pontos e todas as 40 questões têm o mesmo valor de 0,25 (vinte e cinco centésimos) ponto. Se um estudante respondeu às 36 questões e obteve a nota 7,0 (sete), então acertou",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "24 questões"
+        },
+        {
+          "letra": "B",
+          "texto": "25 questões"
+        },
+        {
+          "letra": "C",
+          "texto": "27 questões"
+        },
+        {
+          "letra": "D",
+          "texto": "29 questões"
+        },
+        {
+          "letra": "E",
+          "texto": "30 questões"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Sistemas de Equações",
+        "Matemática – Raciocínio Lógico"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Se $u^2 = 33^6$, $v^3 = 33^7$ e $z^4 = 33^8$, então $(uvz)^{24}$ vale",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$33^{83}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$33^{101}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$33^{176}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$33^{324}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$33^{56}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Potenciação"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "O aquecimento global e o fenômeno El Niño têm provocado calor extremo e oscilação de temperatura em diversas partes do mundo. Em uma certa cidade, nos quinze primeiros dias do mês de julho, a temperatura T (em °C) obedeceu à lei $T(t) = 18 + 11 \\cdot \\cos(\\frac{\\pi t}{8})$, $1 \\le t \\le 15$, em que t representa o dia do mês.\nNessas condições, a temperatura mínima e o dia em que isso ocorreu foram, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "18 °C e dia 4"
+        },
+        {
+          "letra": "B",
+          "texto": "7 °C e dia 8"
+        },
+        {
+          "letra": "C",
+          "texto": "18 °C e dia 8"
+        },
+        {
+          "letra": "D",
+          "texto": "7 °C e dia 4"
+        },
+        {
+          "letra": "E",
+          "texto": "11 °C e dia 4"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Funções Trigonométricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "A solução da equação $(0,0625)^{x+5} = \\frac{1}{4}$ é um número real x",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "maior que zero"
+        },
+        {
+          "letra": "B",
+          "texto": "menor que zero"
+        },
+        {
+          "letra": "C",
+          "texto": "entre 0 e 1"
+        },
+        {
+          "letra": "D",
+          "texto": "igual a –4,5"
+        },
+        {
+          "letra": "E",
+          "texto": "menor que $-\\frac{9}{2}$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Equações Exponenciais"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Talita aplicou certo valor em um investimento que lhe rendeu 2% ao mês. Se após 2 meses, recebeu R$ 2 080,80, então o capital aplicado foi de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 1 445,00"
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 1 900,00"
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 2 000,00"
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 2 017,00"
+        },
+        {
+          "letra": "E",
+          "texto": "R$ 2 040,00"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Matemática Financeira",
+        "Matemática – Juros Compostos"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Paulo, conversando com seu amigo Gustavo no horário do intervalo das suas aulas, disse para Gustavo: “Vamos ver se você é bom em resolver equações logarítmicas”, continuou Paulo: “A idade do meu irmão caçula é o produto das raízes da equação $(4 + \\log_3x) \\cdot (4 - \\log_3x) = 12$, então a idade dele é representada pelo numeral”:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{1}{9}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{1}{3}$"
+        },
+        {
+          "letra": "C",
+          "texto": "1"
+        },
+        {
+          "letra": "D",
+          "texto": "3"
+        },
+        {
+          "letra": "E",
+          "texto": "9"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Equações Logarítmicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Em um trem com 5 vagões há 403 passageiros. Se as quantidades de passageiros nos vagões formam uma progressão geométrica de razão 2, então há no vagão mais cheio",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "208 passageiros"
+        },
+        {
+          "letra": "B",
+          "texto": "196 passageiros"
+        },
+        {
+          "letra": "C",
+          "texto": "182 passageiros"
+        },
+        {
+          "letra": "D",
+          "texto": "172 passageiros"
+        },
+        {
+          "letra": "E",
+          "texto": "138 passageiros"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Progressão Geométrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Ana comprou uma vela decorativa de Natal em forma de um cilindro. Sabendo-se que esse cilindro é reto e tem $63\\pi cm^3$ de volume e o raio da base é 3 cm, então a altura desse cilindro é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "8 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "9 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "10 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "11 cm"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Espacial",
+        "Matemática – Cilindros"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Se Camila desenhou duas circunferências que se tangenciam exteriormente, então essas equações são",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$x^2 - (y - 1)^2 = 1$ e $(x - 6)^2 + (y - 1)^2 = 16$"
+        },
+        {
+          "letra": "B",
+          "texto": "$x^2 + (y - 1)^2 = 1$ e $(x - 6)^2 - (y - 1)^2 = 4$"
+        },
+        {
+          "letra": "C",
+          "texto": "$x^2 + (y - 1)^2 = 4$ e $(x - 6)^2 + (y - 1)^2 = 4$"
+        },
+        {
+          "letra": "D",
+          "texto": "$x^2 + (y - 1)^2 = 4$ e $(x - 6)^2 - (y - 1)^2 = 16$"
+        },
+        {
+          "letra": "E",
+          "texto": "$x^2 + (y - 1)^2 = 4$ e $(x - 6)^2 + (y - 1)^2 = 16$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Geometria Analítica",
+        "Matemática – Equação da Circunferência"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Seja M a matriz $(m_{ij})_{2\\times2}$ definida por $$m_{ij} = \\begin{cases} \\log_2(1+i), & \\text{para } i < j \\\\ i+j, & \\text{para } i = j \\\\ \\sqrt{2i}, & \\text{para } i > j \\end{cases}$$\nA terça parte do valor do determinante de M é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "–6"
+        },
+        {
+          "letra": "B",
+          "texto": "$8 \\cdot \\log_2{3}$"
+        },
+        {
+          "letra": "C",
+          "texto": "1"
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        },
+        {
+          "letra": "E",
+          "texto": "0"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Matrizes",
+        "Matemática – Determinantes"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "As briófitas e as pteridófitas compartilham algumas semelhanças, como a ausência de sementes e flores verdadeiras, o que as coloca em um grupo informal denominado plantas avasculares. No entanto, também apresentam diferenças marcantes em termos de anatomia, reprodução e adaptações ao ambiente. Essas plantas são frequentemente referidas como os \"anfíbios do reino vegetal\". Por que essa caracterização pode ser aplicada a elas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Porque as briófitas dependem da água para reprodução, enquanto as pteridófitas necessitam da água para dispersão do pólen."
+        },
+        {
+          "letra": "B",
+          "texto": "Porque as briófitas dependem da água para alcançar maior tamanho, enquanto a maioria das pteridófitas é aquática."
+        },
+        {
+          "letra": "C",
+          "texto": "Porque ambas dependem da água para reprodução, já que o gameta masculino é flagelado."
+        },
+        {
+          "letra": "D",
+          "texto": "Porque ambas possuem um transporte eficiente de água através de tecido condutor."
+        },
+        {
+          "letra": "E",
+          "texto": "Porque ambas têm uma fase de vida em meio aquático e outra fase da vida em meio terrestre."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Botânica",
+        "Biologia – Briófitas e Pteridófitas"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "As síndromes de polinização são muito úteis à compreensão dos mecanismos de diversificação das flores e à organização dos polinizadores em grupos funcionais.\nA síndrome que é comum de campos abertos e bordas de matas, com grande fluxo de ar e frequente em regiões temperadas é denominada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "anemofilia."
+        },
+        {
+          "letra": "B",
+          "texto": "zoofilia."
+        },
+        {
+          "letra": "C",
+          "texto": "hidrofilia."
+        },
+        {
+          "letra": "D",
+          "texto": "ornitofilia."
+        },
+        {
+          "letra": "E",
+          "texto": "quiropterofilia."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Botânica",
+        "Biologia – Polinização"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Em regiões onde a higiene alimentar pode ser desafiadora, como em áreas rurais de alguns países em desenvolvimento, as infecções parasitárias representam uma preocupação significativa para a saúde pública. Duas dessas infecções estão relacionadas ao parasita Taenia solium, que pode afetar tanto os humanos quanto os animais.\n\"A América Latina tem sido apontada por vários autores como área de prevalência elevada de neurocisticercose, que está relatada em 18 países latino-americanos, com uma estimativa de 350.000 pacientes. A situação da cisticercose suína nas Américas não está bem documentada. O abate clandestino de suínos, sem inspeção e controle sanitário, é muito elevado na maioria dos países da América Latina e Caribe, sendo a causa fundamental a falta de notificação.”\nTeniose e Cisticercose | Secretaria da Saúde (saude.pr.gov.br)\n\nQual das seguintes afirmações é verdadeira em relação à teníase e à cisticercose?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A teníase é uma infecção que ocorre quando o parasita Taenia solium se aloja no coração do hospedeiro humano."
+        },
+        {
+          "letra": "B",
+          "texto": "A teníase ocorre quando as larvas do parasita Taenia solium se alojam nos músculos do hospedeiro."
+        },
+        {
+          "letra": "C",
+          "texto": "A cisticercose é uma infecção intestinal caracterizada pela presença de vermes adultos no trato gastrointestinal."
+        },
+        {
+          "letra": "D",
+          "texto": "A cisticercose é causada pela ingestão de ovos do parasita Taenia solium."
+        },
+        {
+          "letra": "E",
+          "texto": "A teníase é uma infecção cerebral causada pela ingestão de ovos do parasita Taenia saginata."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Parasitologia",
+        "Biologia – Teniose e Cisticercose"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Analise a pirâmide ecológica a seguir.\nA partir da análise das informações fornecidas, é possível afirmar que esta pirâmide",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "representa o fluxo unidirecional de energia ao longo de uma cadeia alimentar."
+        },
+        {
+          "letra": "B",
+          "texto": "é de número e possui 4 níveis tróficos representados."
+        },
+        {
+          "letra": "C",
+          "texto": "indica a produtividade primária bruta dos níveis tróficos."
+        },
+        {
+          "letra": "D",
+          "texto": "demonstra as relações ecológicas de amensalismo e mutualismo."
+        },
+        {
+          "letra": "E",
+          "texto": "é de biomassa invertida com maior quantidade de energia em herbívoros."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Ecologia",
+        "Biologia – Pirâmides Ecológicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Leia o trecho de reportagem a seguir:\n\"Entenda o que são superbactérias e a ameaça global da resistência a antibióticos\nResistência de microrganismos aos medicamentos poderá levar à morte de 10 milhões de pessoas por ano a partir de 2050, de acordo com estudo britânico.\nA resistência de microrganismos aos antibióticos é uma das maiores ameaças à saúde global atualmente. O aumento no número de bactérias resistentes aos medicamentos, chamadas popularmente de superbactérias, coloca em risco a saúde de humanos e de animais. O problema está associado diretamente ao uso excessivo e incorreto dos antibióticos disponíveis.\n[...]\nOs pesquisadores estimaram que, se não forem feitas mudanças em nível global, a resistência a antibióticos pode levar à morte de 10 milhões de pessoas por ano a partir de 2050, o que representa uma morte a cada 3 segundos.\"\nhttps://www.cnnbrasil.com.br/saude/entenda-o-que-sao-superbacterias-e-por-que-elas-ameacam-a-saude-publica-global/\n\nAssinale a alternativa correta de acordo com a atual teoria evolutiva no que concerne ao surgimento das superbactérias.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O uso consciencioso dos vários tipos de antibióticos existentes selecionou positivamente as populações de bactérias resistentes, uma forma de seleção natural prejudicial à saúde de todos os organismos suscetíveis às infecções causadas por essas bactérias."
+        },
+        {
+          "letra": "B",
+          "texto": "O uso indiscriminado dos vários tipos de antibióticos existentes selecionou negativamente as populações de bactérias resistentes, uma forma de seleção artificial não programada e prejudicial à saúde de todos os organismos suscetíveis às infecções causadas por essas bactérias."
+        },
+        {
+          "letra": "C",
+          "texto": "O uso indiscriminado dos vários tipos de antibióticos existentes selecionou positivamente as populações de bactérias resistentes, uma forma de seleção natural programada e prejudicial à saúde de todos os organismos suscetíveis às infecções causadas por essas bactérias."
+        },
+        {
+          "letra": "D",
+          "texto": "O uso consciencioso dos vários tipos de antibióticos existentes selecionou negativamente as populações de bactérias resistentes, uma forma de seleção natural programada e benéfica à saúde de todos os organismos suscetíveis às infecções causadas por essas bactérias."
+        },
+        {
+          "letra": "E",
+          "texto": "O uso indiscriminado dos vários tipos de antibióticos existentes selecionou positivamente as populações de bactérias resistentes, uma forma de seleção artificial não programada e prejudicial à saúde de todos os organismos suscetíveis às infecções causadas por essas bactérias."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Evolução",
+        "Biologia – Seleção Natural"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "O gene merle determina em cães manchas de coloração diluída nas partes pigmentadas da pelagem, olhos azuis ou heterocromia (um olho de cada cor), uma característica esteticamente interessante para os criadores.\nQuando dois cães merle são cruzados, existe 25% de probabilidade de nascerem filhotes duplo-merle, que geralmente apresentam surdez e defeitos oculares graves. Quando um cão merle é cruzado com um cão de pelagem normal, há 50% de chance de nascerem filhotes merle e 50% de cães com pelagem normal.\nQual o tipo de cruzamento deve ser buscado por um criador para produzir cães merle, de forma ética?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Cão merle x cão não merle, pois o gene merle é deletério em homozigose."
+        },
+        {
+          "letra": "B",
+          "texto": "Cão merle x cão merle, pois o gene merle não tem relação com o bem-estar dos filhotes."
+        },
+        {
+          "letra": "C",
+          "texto": "Cão não merle x cão não merle, pois o gene merle deve ser eliminado da criação."
+        },
+        {
+          "letra": "D",
+          "texto": "Cão merle x cão não merle, pois o gene merle gera defeitos oculares graves em heterozigose."
+        },
+        {
+          "letra": "E",
+          "texto": "Cão merle x cão merle, e os filhotes duplo-merle devem ser eutanasiados."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Genética",
+        "Biologia – Genética Mendeliana"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Os Mamíferos são classificados de acordo com suas três estratégias diferentes para desenvolvimento embrionário. Podem ser monotremados, marsupiais ou placentários, sendo este último grupo o de maior sucesso evolutivo. Observe um exemplo de cada grupo nas imagens a seguir.\nTanto em monotremados quanto em placentários, os filhotes nascem já completamente formados. Em marsupiais nascem precocemente (cerca de 1/5 do desenvolvimento) e completam seu desenvolvimento dentro do marsúpio (os 4/5 de desenvolvimento restantes).\nConsiderando a afirmação do texto quanto ao desenvolvimento dos filhotes de monotremados, placentários e marsupiais até estarem completamente formados, podemos afirmar que a maior parte dos nutrientes provém, primordial e respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Do vitelo, da placenta e da luz do sol."
+        },
+        {
+          "letra": "B",
+          "texto": "Da fotossíntese, da placenta e das algas marinhas."
+        },
+        {
+          "letra": "C",
+          "texto": "Do leite materno, do vitelo e da placenta."
+        },
+        {
+          "letra": "D",
+          "texto": "Do vitelo, da placenta e do leite materno."
+        },
+        {
+          "letra": "E",
+          "texto": "Da placenta, do vitelo e do marsúpio."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Zoologia",
+        "Biologia – Mamíferos"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Segundo as pesquisas mais recentes, a nossa espécie (homo sapiens sapiens) surgiu no continente africano, há aproximadamente 300 mil anos. Do seu surgimento até o aparecimento da agricultura há 12 mil anos, os seres humanos que se espalharam pelo mundo se organizavam em tribos de caçadores e coletores. Assinale a alternativa que contém características de sociedades de caçadores e coletores anteriores ao aparecimento da agricultura.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Nomadismo, coletivismo, ausências de Estado, de propriedade privada e de divisão social do trabalho."
+        },
+        {
+          "letra": "B",
+          "texto": "Sedentarismo, trocas comerciais, divisão social do trabalho e o conhecimento de técnicas agrícolas rudimentares."
+        },
+        {
+          "letra": "C",
+          "texto": "Nomadismo, pecuária, agricultura de subsistência e a utilização da escrita para alguns registros comerciais."
+        },
+        {
+          "letra": "D",
+          "texto": "Nomadismo, escambo, técnicas de cerâmica e metalurgia, pecuária e agricultura de subsistência."
+        },
+        {
+          "letra": "E",
+          "texto": "Pecuária, sedentarismo, caça de pequenos animais e coletas de frutos, atividades comerciais e escrita rudimentar."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Pré-História",
+        "História – Período Paleolítico"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "\"(...) Os tempos são tão confusos para nós! Pode-se pensar em escrever sob os golpes do inimigo, quando se vê serem devastados, diante de nós, cidades e campos, quando é preciso fugir dos perigos do mar e que o próprio exílio não vos coloca ao abrigo de toda a apreensão? Diante de nos olhos (...) os bárbaros incendeiam o Reggio. O estreito braço do mar, que separa a Itália da Sicília, era nossa única proteção.”\n(Depoimento de Rufino, monge italiano (360-410). Citado por COURCELLE.P, História Literária das Grandes Invasões Germânicas, Editora Vozes, Pág. 54)\nA partir do século IV d. C, na Europa tornou-se evidente a ruralização da sociedade ocidental, como afirma o trecho do texto acima, a vida urbana reduziu-se pela falta de segurança das cidades, que atraíam os invasores. Sobre o processo de formação de feudos, podemos afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "era necessário, desde o fim do Império romano, a escolha de um líder local que exercesse a função de chefe guerreiro, assim como de Estado, centralizando o poder de decisões em caso de conflito."
+        },
+        {
+          "letra": "B",
+          "texto": "a característica fundamental do modo de produção feudal era a relação de servidão. O trabalhador arava as terras do senhor (manso senhorial). Nos outros dias, trabalhava para sustentar sua família (manso servil)."
+        },
+        {
+          "letra": "C",
+          "texto": "a nobreza estabelecia na hierarquia feudal, laços de suserania e vassalagem. Para quem melhor o servisse, o nobre distribuía lotes de terras entre seus servos, tornando-os seus vassalos."
+        },
+        {
+          "letra": "D",
+          "texto": "a troca de mercadoria realizava-se semanalmente entre os vários feudos de uma mesma região -as feiras- única ocasião em que se fazia o uso de moedas com a anuência da Igreja."
+        },
+        {
+          "letra": "E",
+          "texto": "cada feudo produzia praticamente tudo o que necessitava para sua sobrevivência. Se necessário fosse algum outro item, existiam as feiras semanais para suprimento de medicamentos ou estoque de alimentos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Idade Média",
+        "História – Feudalismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Em 28/09/2023, comemoram-se os 60 anos do discurso do Reverendo Martin Luther King, I Have a Dream, durante a Marcha sobre Washington por Trabalho e Liberdade. Como se vê na foto, mais de duzentas e cinquenta mil pessoas se emocionaram com suas palavras pacifistas em prol do fim da segregação racial e a favor dos direitos civis dos negros estadunidenses. Sobre os direitos civis dos cidadãos negros nos Estados Unidos, nos últimos anos é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apesar de ocorrerem tentativas para lidar com o problema da violência e discriminação racial, quando foi eleito em 2009, Barak Obama presenciou conflitos e mortes motivados por confrontos raciais se acentuarem nos seus dois mandatos."
+        },
+        {
+          "letra": "B",
+          "texto": "atualmente existe o movimento Black Lives Matter (Vidas Negras Importam) nos Estados Unidos, combatendo o racismo, contando com o apoio de pessoas ilustres, entre elas, o ex-presidente Donald Trump."
+        },
+        {
+          "letra": "C",
+          "texto": "diferente do Brasil, o racismo nos Estados Unidos não é um elemento estruturante da desigualdade social, onde o cerne da questão está na concentração de renda entre os empresários e a baixa remuneração dos trabalhadores nos últimos anos."
+        },
+        {
+          "letra": "D",
+          "texto": "apesar das duras críticas feitas pelos últimos presidentes dos Estados Unidos, existe uma violência racial instaurada dentro das forças policiais norte-americanas, permitindo tais abusos pelos quais nunca recebem as devidas punições."
+        },
+        {
+          "letra": "E",
+          "texto": "o então presidente Donald Trump, no episódio da morte de George Floyd, um homem negro que morreu sufocado por policiais brancos, graças à atitude enérgica adotada, conseguiu conter a onda de protestos contra a violência e racismo policial, nos diversos estados dos EUA."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História Contemporânea",
+        "História – Movimentos por Direitos Civis"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "A charge acima do brasileiro J. Belmonte, buscou durante a Segunda Guerra Mundial, através da sátira e crítica, analisar os acontecimentos da época. O acontecimento retratado na imagem, envolvendo as figuras de Hitler e Stalin, refere-se ao",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Acordo de Brest-Litovsky, em que as duas nações comprometem-se a não se agredirem e a não avançarem sobre respectivos territórios."
+        },
+        {
+          "letra": "B",
+          "texto": "Tratado de Saint-Germain, em que foi assinado entre as nações um compromisso militar de troca de equipamentos de guerra e suprimentos médicos."
+        },
+        {
+          "letra": "C",
+          "texto": "Pacto Germânico-Soviético de não agressão entre os dois países, a fim de permitir a invasão alemã da Polônia e a expansão russa pelo mar Báltico."
+        },
+        {
+          "letra": "D",
+          "texto": "Plano Schlifflen, estrátegia de guerra, adotada pelos dois países, que assumem uma posição cautelosa em relação ao seu aliado de combate."
+        },
+        {
+          "letra": "E",
+          "texto": "Tratado de Neuilly, tática de guerra, adotada pelas duas nações, contra uma única frente de batalha, mas preservando suas respectivas retaguardas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Segunda Guerra Mundial",
+        "História – Pacto Germânico-Soviético"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Analise a charge sobre as eleições na Primeira República\nO coronelismo era uma estrutura de poder que dava suporte à dominação política das grandes oligarquias, principalmente as oligarquias cafeeiras de São Paulo e Minas, que dominaram o cenário político e econômico no Brasil, durante a República Velha.\nSobre o coronelismo, analise as assertivas abaixo:\nI. Sua atuação se dava a partir da esfera municipal, até a estadual e federal, utilizando-se do chamado voto de cabresto, que era conseguido por meio da opressão aos camponeses e da exploração de sua situação de pobreza.\nII. O voto de cabresto consistia em uma forma eleitoral impositiva e arbitrária imposta pelos coronéis. As mulheres eram as maiores vítimas dessa prática principalmente, porque o voto não era secreto.\nIII. A situação de pobreza dos camponeses gerada e perpetuada pelos latifúndios, resultado do processo secular de apropriação das terras no Brasil, com sua brutal concentração de terras, era o esteio sobre o qual se ergueu as estruturas do coronelismo no Brasil.\nAssinale",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Se apenas a I e III estiverem corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Se apenas a II e III estiverem corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Se I, II e III estiveram corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Se apenas a I e II estiverem corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Se apenas a III estiver correta."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História do Brasil",
+        "História – República Velha"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "A colonização europeia na América, na era mercantilista, realizada por espanhóis, franceses e ingleses, dentro do sistema colonial era em sua maioria, realizada por colônias de exploração. Diferenciavam-se das colônias inglesas estabelecidas no litoral Atlântico da América do Norte, onde os colonos buscaram reproduzir as mesmas condições socioeconômicas de seu país de origem. Portanto, as características das colônias de exploração eram\n1) de natureza essencialmente comercial da colonização, uma vez que era o objetivo voltado para a produção do mercado externo.\n2) de produção estruturada em pequenas empresas, utilizando-se para tal do trabalho escravo ou servil de índios, negros africanos e mestiços.\n3) da existência de pesada tributação sobre o transporte e comercialização de qualquer produto colonial, isentando apenas a produção.\n4) da transferência para a metrópole da maior parte das riquezas produzidas nas colônias, graças ao monopólio comercial- o exclusivismo metropolitano.\n5) de criação de monopólios em benefício de companhias privilegiadas de comércio, além de leis reguladoras da concorrência estrangeira.\nAssinale",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Se as alternativas 1 e 3 estiverem corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Se as alternativas 1 e 4 estiverem corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Se as alternativas 2 e 4 estiverem corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Se as alternativas 3 e 5 estiverem corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Se as alternativas 2 e 5 estiverem corretas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Colonização da América",
+        "História – Mercantilismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "\"As luzes se apagam em toda a Europa”, disse Edward Grey, secretário das Relações Exteriores da Grã-Bretanha, observando as luzes de Whitehall na noite em que a Grã-Bretanha e a Alemanha foram à guerra. “Não voltaremos a vê-las acender-se em nosso tempo de vida.”\n(HOBSBAWM.E.J. A Era dos Extremos: O Breve século XX: 1914-1991. São Paulo :Companhia das Letras.1995, p.20)\nO trecho acima, do historiador Eric Hobsbawm, se refere ao início da Primeira Guerra Mundial, considerada por ele como a guerra do massacre, pelo elevado número de mortos e vidas humanas feridas, que impactou o contexto sociopolítico da época. Ao final de quatro anos de combate, o legado do conflito foi",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o sucesso da Liga das Nações, que nas relações diplomáticas passou a deliberar e resolver as pendências políticas entre as nações e a punir qualquer desvio de conduta democrática."
+        },
+        {
+          "letra": "B",
+          "texto": "na maioria dos países europeus, governos democráticos puderam ser instaurados após a Guerra, com exceção da Rússia, que a partir de 1917, adotou o regime socialista."
+        },
+        {
+          "letra": "C",
+          "texto": "o retorno para o lar e seus afazeres domésticos das mulheres que haviam substituído os homens nas fábricas, pois as mesmas não suportavam o trabalho fabril tão árduo."
+        },
+        {
+          "letra": "D",
+          "texto": "a classe operária europeia não recebe nenhum benefício social, especialmente na França, onde buscavam, há anos, a determinação da jornada de trabalho de oito horas."
+        },
+        {
+          "letra": "E",
+          "texto": "Os sacrifícios e horrores vividos na guerra provocaram uma reação de compensação, ocasionando uma busca pelo prazer, desprezando os valores morais da época – “loucos anos 20”."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Primeira Guerra Mundial",
+        "História – Período Entreguerras"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Observe este mapa, que destaca a área correspondente ao Deserto do Atacama, localizado ao norte do Chile, até a fronteira com o Peru.\nAnalise as proposições a seguir, relacionadas ao deserto mencionado.\nI. Além de mais alto, o Atacama é considerado o deserto não polar mais seco do mundo.\nII. Apesar da baixíssima umidade atmosférica, sua amplitude térmica, entre o dia e a noite, é pequena devido ao efeito das massas de ar, vindas do Pacífico.\nIII. As correntes marítimas que mais atuam na formação do Atacama são a do Pacífico Sul e a da Antártica.\nÉ correto o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "III, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e II, apenas."
+        },
+        {
+          "letra": "E",
+          "texto": "II e III, apenas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geografia Física",
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "Leia esta manchete.\nÍndia passa China como país mais populoso do mundo e enfrenta 'bolhas de jovens'.\nDesafio agora é expandir mercado de trabalho, usufruir de bônus demográfico e se preparar para declínio futuro.\nFolha de São Paulo, 19 abr. 2023.\n\nA respeito da realidade demográfica da Índia, marque a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "De acordo com projeções de autoridades do país, a população indiana tende a aumentar até 2030, quando se estabilizará e começará a diminuir."
+        },
+        {
+          "letra": "B",
+          "texto": "A população indiana equivale a mais de oito vezes à do Brasil que, atualmente (2023), ocupa a quinta posição no ranking dos países mais populosos do planeta."
+        },
+        {
+          "letra": "C",
+          "texto": "A taxa de fecundidade atual da Índia corresponde a 3,2 nascimentos por mulher, o que garante a reposição populacional do país."
+        },
+        {
+          "letra": "D",
+          "texto": "A redução das desigualdades sociais, decorrente do expressivo crescimento econômico das últimas décadas, resultou no aumento da expectativa de vida no país, estimado em 74 anos para os homens e 76 anos para as mulheres."
+        },
+        {
+          "letra": "E",
+          "texto": "Mais da metade da população indiana tem entre 15 e 49 anos, o que pode garantir ao país um \"bônus demográfico\", caso o mercado interno seja capaz de absorver o segmento mais jovem."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Demografia",
+        "Geografia – População Mundial"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "Interprete o mapa e os gráficos a seguir.\nAmazônia: o que ameaça a floresta em cada um de seus 9 países. BBC News Brasil, 18 fev. 2020.\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O Suriname, antiga Guiana Holandesa, é o país onde a Amazônia ocupa a maior porcentagem do território nacional."
+        },
+        {
+          "letra": "B",
+          "texto": "Os únicos países da América Andina que abrigam o bioma amazônico em seus territórios são a Bolívia e o Peru."
+        },
+        {
+          "letra": "C",
+          "texto": "Além do Amazonas e do Pará, os dois estados mais extensos do Brasil, no território nacional, a Amazônia se estende ainda por outros cinco estados, entre eles, Goiás e Piauí."
+        },
+        {
+          "letra": "D",
+          "texto": "Depois do Brasil, o Peru é o país que concentra a maior extensão da Amazônia, uma área considerada pouco povoada e muito rica em biodiversidade."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os países da América Platina abrigam uma porção da Amazônia, ainda que pequena em seus territórios."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Biomas",
+        "Geografia – Domínio Amazônico"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Leia o fragmento de reportagem a seguir.\nEntrada de novos países nos Brics faz bloco ganhar no mundo, dizem economistas\nA entrada de novos países ao grupo dos Brics aumenta a visibilidade do bloco perante o mundo e a expressão dos membros em negociações e acordos comerciais [...].\nCom essa nova formação, o bloco representa quase 40% do Produto Interno Bruto (PIB) mundial.\nCNN Brasil, 24 ago. 2023.\n\nA partir de 2024, além de Brasil, Rússia, Índia, China e África do Sul, o grupo contará com",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Colômbia, Uruguai, Bolívia, Qatar, Líbia e Iraque."
+        },
+        {
+          "letra": "B",
+          "texto": "Arábia Saudita, Argentina, Egito, Emirados Árabes Unidos, Etiópia e Irã."
+        },
+        {
+          "letra": "C",
+          "texto": "Estados Unidos, México, Paraguai, Venezuela, Egito e Moçambique."
+        },
+        {
+          "letra": "D",
+          "texto": "Argentina, Canadá, França, Venezuela, Colômbia e México."
+        },
+        {
+          "letra": "E",
+          "texto": "Emirados Árabes, Itália, Alemanha, Equador, Colômbia e Chile."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "Geografia – Blocos Econômicos"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "As cidades médias (de 100 mil a 499 mil habitantes) puxaram o crescimento populacional do país, segundo dados do Censo do Instituto Brasileiro de Geografia e Estatística (IBGE) [...]. Ao todo, o Brasil tem 203 milhões de habitantes.\nDos mais de 12 milhões de habitantes que o Brasil ganhou entre 2010 e 2022, segundo o Censo, 8,3 milhões (67,5%) foram nestas cidades.\nO percentual da população brasileira que mora nesses municípios foi o único que cresceu, enquanto as cidades pequenas e grandes perderam relevância proporcional.\nCenso do IBGE: cidades médias 'puxam' crescimento do Brasil\nG1 - Economia, 01 jul. 2023.\n\nCom base nas informações acima e nos conhecimentos sobre a realidade demográfica do Brasil, avalie as proposições a seguir.\nI. Atualmente, o Brasil tem mais de 5,5 mil municípios e menos de 55 deles têm mais do que 500 mil habitantes.\nII. Mais de 2/3 das cidades brasileiras têm até 20 mil habitantes.\nIII. O Censo de 2022 revelou um crescimento populacional de aproximadamente 6,43% no país em relação aos dados de 2010.\nÉ correto o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III, apenas."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Demografia do Brasil",
+        "Geografia – Urbanização"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "Analise este modelo de regionalização do território brasileiro, elaborado pelos geógrafos Milton Santos e Maria Laura Silveira, baseado sobretudo na difusão diferencial dos meios técnicos-científicos informacionais e nas origens dessas diferenças.\nMarque a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Além de mais populosa e com maior quantidade de unidades político-administrativas, a região Nordeste é onde a difusão dos meios técnicos-científicos-informacionais tem avançado mais rapidamente nas últimas décadas."
+        },
+        {
+          "letra": "B",
+          "texto": "Semelhante ao modelo de regionalização proposto pelo geógrafo Pedro Pinchas Geiger (em regiões geoeconômicas), a divisão regional destacada respeita os limites políticos dos estados e o histórico de desenvolvimento que eles apresentam."
+        },
+        {
+          "letra": "C",
+          "texto": "As maiores redes de transporte e comércio, os principais complexos industriais e as maiores produções científicas do país estão na Região Concentrada, que abriga São Paulo e Rio de Janeiro, entre outros importantes estados."
+        },
+        {
+          "letra": "D",
+          "texto": "Milton Santos e Maria Laura Silveira basearam-se na divisão regional oficial, estabelecida pelo IBGE. A única diferença está no agrupamento (junção) das regiões Sudeste e Sul, que formaram a região Concentrada."
+        },
+        {
+          "letra": "E",
+          "texto": "A região Centro-Oeste possui uma agroindústria moderna, voltada especialmente à produção de trigo e soja, que conseguiu superar a subordinação aos interesses das grandes empresas da Região Concentrada, graças a um eficiente plano de desenvolvimento regional."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Regionalização do Brasil",
+        "Geografia – Regiões de Milton Santos"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Leia estas descrições.\nI. Encontra-se na faixa subtropical do Brasil, ou seja, em uma porção do território brasileiro posicionada ao sul do Trópico de Capricórnio. Sua cobertura vegetal predominante foi bastante explorada nos últimos séculos para diversas atividades econômicas, entre elas a produção de móveis e materiais utilizados na construção civil.\nII. Sua hidrografia é caracterizada pela presença da bacia do Tocantins-Araguaia, além de abrigar áreas da bacia do São Francisco e da bacia do Paraná. Com a técnica da calagem (e controle da acidez do solo), grande parte de seu território foi desmatado para a expansão da fronteira agrícola.\nAs características expostas nos itens I e II correspondem, respectivamente, aos domínios morfoclimáticos",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "das Araucárias e do Cerrado."
+        },
+        {
+          "letra": "B",
+          "texto": "das Pradarias e dos Mares de Morros."
+        },
+        {
+          "letra": "C",
+          "texto": "da Caatinga e do Cerrado."
+        },
+        {
+          "letra": "D",
+          "texto": "da Amazônia e das Araucárias."
+        },
+        {
+          "letra": "E",
+          "texto": "dos Mares de Morros e da Caatinga."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Domínios Morfoclimáticos",
+        "Geografia – Biomas do Brasil"
+      ]
+    }
+  ]
+}

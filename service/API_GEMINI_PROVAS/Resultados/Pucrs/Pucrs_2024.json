@@ -1,0 +1,1730 @@
+{
+  "nomeUniversidade": "Pontifícia Universidade Católica do Rio Grande do Sul",
+  "siglaUniversidade": "PUCRS",
+  "nomeProva": "Concurso Vestibular de Verão 2024",
+  "ano": 2024,
+  "qtdeQuestoes": 70,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "INSTRUÇÃO: Responder às questões de 1 a 7 com base no texto 1.\n\nTEXTO 1\n\nThe Power and Ethical Dilemma of Artificial Intelligence (AI) Image Generation Models\nKimberley Mok - Jan 6th, 2023\n\n01 The recent emergence of text-to-image\n02 platforms is allowing people to conjure up works of\n03 digital art within seconds, just by typing in a short\n04 descriptive text prompt. Although many of us are\n05 well aware of the potential benefits of machine\n06 learning, such as sifting misinformation out of the\n07 daily news, not surprisingly, there are also valid\n08 concerns about potential Al pitfalls, such as it being\n09 misused to create eerily convincing deepfakes.\n10 There is an ethical conundrum ______ such\n11 Al image generator models. In order to produce\n12 something ______ a particular artist's style, works\n13 ______ that artist have to be scraped off the internet,\n14 and then fed into Al training datasets. Yet, none\n15 of the companies behind these image generator\n16 models have explicitly asked permission ______\n17 the artists themselves — nor have the artists been\n18 compensated.\n19 Beyond copyright infringement, there will\n20 likely be wider, unforeseen ripple effects in the\n21 industry due to Al. For instance, widespread use of\n22 Al imagery might discourage would-be artists from\n23 pursuing a creative career, since they may believe\n24 that it would be futile to compete in a market that\n25 might be dominated by machine-generated art.\n26 Moreover, Al could also disrupt the educational\n27 pipeline within the art industry, where it is common\n28 for fledging art creators to invest a sizeable chunk\n29 of cash for courses led by established artists and\n30 art schools, in order to gain marketable skills that\n31 help them move up within the industry.\n32 Indeed, the threat of Al automating away jobs\n33 from professional artists and illustrators isn't just\n34 a hazy prospect; some artists who typically take\n35 on smaller commissions are already noticing that\n36 work is drying up, especially from clients that have\n37 tighter budgets. Conversely, there are already\n38 reports of clients getting scammed, who are paying\n39 for what they believe is original work but receiving\n40 something that is actually Al-generated.\n41 Other experts are speculating that these\n42 models are also being used as a form of data\n43 laundering, where stolen data is converted in a\n44 way so that it can be sold or used by purportedly\n45 legitimate databases. Essentially, this is an\n46 academic-to-commercial pipeline where big tech\n47 companies can get around copyrights and\n48 accountability, by creating and funding non-\n49 profits that can build datasets and train models\n50 for “research purposes.” These models are then\n51 shared by for-profit enterprises, which can use\n52 them to monetize by offering applications that are\n53 then sold commercially.\n54 In the end, it may seem fun to experiment\n55 with technologies that ostensibly “democratize”\n56 these industries, but it should be done carefully,\n57 and transparently, and without harming human\n58 livelihoods. Besides these practical issues, we also\n59 need to ask ourselves: is “art” made without soul\n60 actually art?\n\nSource: https://thenewstack.io/the-power-and-ethical-dilemma-of-ai-image-generation-models (adapted).\n\nThe four missing prepositions in paragraph 2 are, respectively,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "on – with – to – for"
+        },
+        {
+          "letra": "B",
+          "texto": "of – over – for – into"
+        },
+        {
+          "letra": "C",
+          "texto": "for – of – over – within"
+        },
+        {
+          "letra": "D",
+          "texto": "behind – in – by – from"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto",
+        "Inglês – Preposições"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "The question that does NOT find an answer in text 1 is:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "If machine-generated art has no authorship, is it art?"
+        },
+        {
+          "letra": "B",
+          "texto": "How might AI-generated art be monetized evading artists’ intellectual property?"
+        },
+        {
+          "letra": "C",
+          "texto": "Would the emergence of text-to-image platforms impact artists’ learning pathways?"
+        },
+        {
+          "letra": "D",
+          "texto": "Are there any consequences of AI-generated art being perceived in the industry by artist workers?"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Consider the following sentences and mark T (true) or F (false).\n\n( ) Computer-generated art made by AI cannot be used to turn stolen information into something that can be sold or used in legal databases.\n( ) The use of images produced through artificial intelligence has the potential to transform stolen information, making it suitable for sale or inclusion in authorized data repositories.\n( ) AI-generated images are causing a growing concern within costumers, since such pieces are reportedly being sold as genuine artwork, leaving costumers with the impression they were victims to fraud.\n\nThe alternative that presents the correct top-down answers to the sentences above is",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "T – F – F"
+        },
+        {
+          "letra": "B",
+          "texto": "T – F – T"
+        },
+        {
+          "letra": "C",
+          "texto": "F – T – F"
+        },
+        {
+          "letra": "D",
+          "texto": "F – T – T"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Consider the following statements about the word “it”.\n\nI. “...such as it being misused...” (line 08) refers to “AI” (line 08)\nII. “...believe that it would be futile...” (line 24) refers to “creative career” (line 23)\nIII. “...so that it can be sold...” (line 44) refers to “stolen data” (line 43)\n\nThe correct statement(s) is/are",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I and II, only."
+        },
+        {
+          "letra": "B",
+          "texto": "I and III, only."
+        },
+        {
+          "letra": "C",
+          "texto": "II and III, only."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II and III."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Pronomes",
+        "Inglês – Referência Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Consider the underlined words below. Based on their meaning in the text, mark the correct alternative.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“pitfalls” (line 08) could be replaced by advantages."
+        },
+        {
+          "letra": "B",
+          "texto": "“eerily” (line 09) could be replaced by bizarrely."
+        },
+        {
+          "letra": "C",
+          "texto": "“conundrum” (line 10) could be replaced by way out."
+        },
+        {
+          "letra": "D",
+          "texto": "“hazy” (line 34) could be replaced by explicit."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Vocabulário",
+        "Inglês – Sinônimos"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Both the words “Although” (line 04) and “Conversely” (line 37) signal",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a shift to a divergent idea."
+        },
+        {
+          "letra": "B",
+          "texto": "an introduction to a new topic."
+        },
+        {
+          "letra": "C",
+          "texto": "an addition to what has been said previously."
+        },
+        {
+          "letra": "D",
+          "texto": "a summary or conclusion of the points made so far."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Conectivos",
+        "Inglês – Coesão Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Match the words from the text with their correspondent synonyms:\n\n( ) “likely” (line 20)\n( ) “purportedly” (line 44)\n( ) “ostensibly” (line 55)\n\n1. outwardly\n2. supposedly\n3. probably\n\nThe alternative that presents the correct top-down answers to the matches above is",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 – 2 – 3"
+        },
+        {
+          "letra": "B",
+          "texto": "2 – 3 – 1"
+        },
+        {
+          "letra": "C",
+          "texto": "3 – 2 – 1"
+        },
+        {
+          "letra": "D",
+          "texto": "1 – 3 – 2"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Vocabulário",
+        "Inglês – Sinônimos"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "INSTRUÇÃO: Responder às questões 8 e 9 com base no Texto 2.\n\nTEXTO 2\n\nConsider the following sentences related to the main message of the cartoon and mark T (true) or F (false).\n\n( ) The dialogue between the humans and the machine leads to a conclusion that Artificial Intelligent systems for language proofreading are efficient.\n( ) The human characters react differently: while one seems to be excited about it, the other reacts skeptically, expressing doubt about the system’s practicality or relevance.\n( ) The comment made by one of the characters while denying making a mistake reflects a common human reaction when their language is corrected.\n\nThe alternative that presents the correct top-down answers to the sentences above is",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "T – F – F"
+        },
+        {
+          "letra": "B",
+          "texto": "T – T – F"
+        },
+        {
+          "letra": "C",
+          "texto": "F – T – T"
+        },
+        {
+          "letra": "D",
+          "texto": "F – F – T"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Consider the following expression adapted from the second box of the cartoon:\n\n“I can’t see there being much use for that around here”.\n\nThe alternative that can replace the underlined part of the sentence above, with no change in meaning, is:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "why we could not use this system"
+        },
+        {
+          "letra": "B",
+          "texto": "a reason for using such thing"
+        },
+        {
+          "letra": "C",
+          "texto": "mentioned thing not working"
+        },
+        {
+          "letra": "D",
+          "texto": "why you would not use it"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Vocabulário",
+        "Inglês – Expressões Idiomáticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "INSTRUÇÃO: Responder à questão 10 com base nos textos 1 e 2.\n\nConsider the statements about texts 1 and 2.\n\nI. Texts 1 and 2 both present and question advantages of using Artificial Intelligence systems for automating away human tasks.\nII. Text 1 focuses on negative issues regarding Artificial Intelligence and Text 2 focuses on positive aspects of an Artificial Intelligence system.\nIII. Text 2 presents the machine identifying mistakes that cannot be detected in spoken language.\n\nThe correct statement(s) is/are only",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I."
+        },
+        {
+          "letra": "B",
+          "texto": "II."
+        },
+        {
+          "letra": "C",
+          "texto": "I and III."
+        },
+        {
+          "letra": "D",
+          "texto": "II and III."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Uma clínica veterinária fez uma pesquisa, não anônima, com 200 clientes. A partir da pergunta \"Você indicaria nossa clínica a um amigo?\", os clientes responderam SIM ou NÃO, e as informações foram registradas. No retorno de cada cliente à clínica, a pergunta foi repetida e as respostas foram novamente armazenadas. Esses dados foram analisados e obteve-se a seguinte conclusão: dos 120 clientes que responderam SIM na primeira enquete, 20% responderam NÃO na segunda e 80% mantiveram o SIM; dos 80 clientes que responderam NÃO na primeira enquete, 40% responderam SIM na segunda e 60% mantiveram o NÃO.\n\nMantendo-se esse padrão de alteração das respostas dos clientes, responda:\n\nNa terceira visita desses 200 clientes, quantos responderão SIM e quantos responderão NÃO, respectivamente? Considere valores inteiros aproximados.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "123 e 77"
+        },
+        {
+          "letra": "B",
+          "texto": "131 e 69"
+        },
+        {
+          "letra": "C",
+          "texto": "142 e 58"
+        },
+        {
+          "letra": "D",
+          "texto": "151 e 49"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Probabilidade",
+        "Matemática – Matrizes de Transição"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Um braço robô está colocado sobre o plano cartesiano de forma que uma de suas extremidades fica sobre a origem O do sistema de coordenadas. Esse braço é composto de duas hastes retas, interligadas e articuladas no ponto A, conforme a figura a seguir.\n\nA primeira haste, que começa em O, passa pelo ponto (3,4) e tem comprimento 10; a segunda haste, que começa na extremidade A da primeira, tem comprimento 5 e capacidade para fazer giros completos. Para a haste AB formar um ângulo reto com a haste OA, a extremidade B estará no ponto ______.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(10,5) ou (-10,12)"
+        },
+        {
+          "letra": "B",
+          "texto": "(10,5) ou (2,11)"
+        },
+        {
+          "letra": "C",
+          "texto": "(10,11) ou (2,5)"
+        },
+        {
+          "letra": "D",
+          "texto": "(10,12) ou (-10,5)"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Geometria Analítica",
+        "Matemática – Vetores"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "O produto e a soma de todas as raízes do polinômio $P(x) = x^5 + 4x^4 - 5x^3 - 3x^2 + 2x - 8$ são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-8 e -4"
+        },
+        {
+          "letra": "B",
+          "texto": "-8 e 4"
+        },
+        {
+          "letra": "C",
+          "texto": "8 e -4"
+        },
+        {
+          "letra": "D",
+          "texto": "8 e 4"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Polinômios",
+        "Matemática – Relações de Girard"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Na sala de espera de um consultório médico, um paciente apaixonado por geometria observou um enfeite colocado sobre o balcão de atendimento. Este objeto era formado por uma esfera inscrita em um cubo. Esse cubo, por sua vez, estava inscrito em outra esfera, que, por último, estava inscrita em outro cubo. O espaço entre a esfera e o cubo mais externos estava preenchido por um líquido amarelo, enquanto o espaço entre a esfera e o cubo mais internos estava preenchido de um líquido vermelho. O paciente fez as seguintes afirmativas:\n\nI. O volume de líquido amarelo é o dobro do volume de líquido vermelho.\nII. A proporção entre as áreas superficiais da esfera mais interna e da mais externa é igual a 1/2.\nIII. A área superficial do cubo mais interno é um terço da área superficial do cubo mais externo.\n\nEstá/Estão corretas as afirmativas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "III, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Uma pesquisa científica realizada por um laboratório farmacêutico observou que a concentração de certo princípio ativo de um medicamento na corrente sanguínea, após 10 minutos de sua administração, é de $6 \\mu g/l$ (6 microgramas por litro de sangue) e que, desde então, essa concentração cai exponencialmente com o tempo. Se um médico administrar esse medicamento a um paciente e observar que a concentração do princípio ativo após 20 minutos for de $3 \\mu g/l$, qual deverá ser, aproximadamente, a concentração desse princípio ativo na corrente sanguínea após 40 minutos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$0,5 \\mu g/l$"
+        },
+        {
+          "letra": "B",
+          "texto": "$0,75 \\mu g/l$"
+        },
+        {
+          "letra": "C",
+          "texto": "$1 \\mu g/l$"
+        },
+        {
+          "letra": "D",
+          "texto": "$1,5 \\mu g/l$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Funções Exponenciais",
+        "Matemática – Decaimento Exponencial"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Dois vilarejos vizinhos realizam uma disputa esportiva com equipes de dez atletas. Esses vilarejos têm, respectivamente, 20 e 25 habitantes em condições de competir. No primeiro vilarejo, 25% dos atletas é ambidestro, enquanto, no segundo, apenas 20% tem essa característica. Qual a probabilidade de cada equipe ter, exatamente, cinco participantes ambidestros?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$ (\\frac{10!}{5!})^2 \\cdot \\frac{15!}{25!} $"
+        },
+        {
+          "letra": "B",
+          "texto": "$ 2 \\cdot \\frac{10!}{5!} \\cdot \\frac{15!}{25!} $"
+        },
+        {
+          "letra": "C",
+          "texto": "$ (\\frac{5!}{10!})^2 \\cdot \\frac{25!}{15!} $"
+        },
+        {
+          "letra": "D",
+          "texto": "$ 2 \\cdot \\frac{5!}{10!} \\cdot \\frac{25!}{15!} $"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Análise Combinatória",
+        "Matemática – Probabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Em certo país, a população cresce geometricamente, enquanto a quantidade de médicos formados cresce aritmeticamente.\n\nQual gráfico a seguir melhor representa a quantidade de pacientes por médico com o passar do tempo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Funções",
+        "Matemática – Progressão Geométrica",
+        "Matemática – Progressão Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Um suporte retangular, com altura igual ao dobro da base, será construído para acomodar uma roda limitada por uma circunferência de raio r e centro no ponto O. A roda deve ficar apoiada no ponto médio E da base CD do suporte, e duas travas nos vértices superiores (pontos A e B) do retângulo irão prendê-la pela borda, como mostra a figura a seguir.\n\nO comprimento da base do suporte retangular, em relação ao raio r da roda, deve ser igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2r/\\sqrt{5}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$4r/\\sqrt{5}$"
+        },
+        {
+          "letra": "C",
+          "texto": "8r/17"
+        },
+        {
+          "letra": "D",
+          "texto": "16r/17"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Teorema de Pitágoras"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Um investidor mantém duas aplicações com rendimentos anuais a juros compostos: uma no fundo PRIME, que rende 20% ao ano, e outra no fundo EXPERT, que rende 15% ao ano. Atualmente, o montante aplicado pelo investidor no fundo EXPERT está na proporção de 3 para 1 em relação ao montante aplicado no PRIME. Sabendo que, durante dez anos, o valor investido em cada fundo será mantido sem aportes nem retiradas, qual será a proporção entre os montantes dos fundos EXPERT e PRIME ao final desse prazo? Considere o valor aproximado $(23/24)^{10} = 2/3$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4,5 para 1"
+        },
+        {
+          "letra": "B",
+          "texto": "2,5 para 1"
+        },
+        {
+          "letra": "C",
+          "texto": "2 para 1"
+        },
+        {
+          "letra": "D",
+          "texto": "1,5 para 1"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Matemática Financeira",
+        "Matemática – Juros Compostos"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Considerando uma matriz A, mxn, e uma matriz coluna B, mx1, analise as seguintes afirmações para matrizes incógnitas X, nx1, da equação $AX = B$:\n\nI. Se B é a matriz nula, então sempre se encontra alguma matriz X que resolva a equação $AX = B$.\nII. Se B não é a matriz nula e encontramos matrizes $X_1$ e $X_2$ que resolvem a equação $AX = B$, então, a matriz $Y = X_1 - X_2$ é uma solução da equação $AY = 0$, onde 0 denota a matriz nula mx1.\n\nSobre essas afirmações, conclui-se que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I é verdadeira e II é falsa."
+        },
+        {
+          "letra": "B",
+          "texto": "I é falsa e II é verdadeira."
+        },
+        {
+          "letra": "C",
+          "texto": "I e II são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "I e II são falsas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Álgebra Linear",
+        "Matemática – Matrizes",
+        "Matemática – Sistemas Lineares"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "INSTRUÇÃO: Responder às questões de 21 a 25 com base no texto 1.\n\nTEXTO 1\n\nSítio arqueológico em bairro privativo de Porto Alegre revela vestígios de hospedaria de imigrantes\n\n01 Um sítio arqueológico com 15 mil fragmentos e\n02 mais de 6 mil metros quadrados __________ durante\n03 escavações no terreno do futuro bairro privativo\n04 Golden Lake, na zona sul de Porto Alegre. Conforme\n05 pesquisas realizadas, __________ de vestígios históricos\n06 da antiga Hospedaria dos Imigrantes, que começou\n07 a funcionar em 1891, e atendeu aproximadamente\n08 25 mil imigrantes enquanto existiu no bairro Cristal.\n09 A arqueóloga Kelli Bisonhim, da empresa Sophia\n10 Cultural, tem coordenado os trabalhos no local e re-\n11 vela detalhes das recentes descobertas.\n12 As escavações começaram buscando as es-\n13 truturas da antiga Hospedaria dos Imigrantes. Nós\n14 sabíamos que, pelas descrições de tamanho e pela\n15 quantidade de pessoas que por ali passaram em oito\n16 anos de atendimento, cerca de 25 mil imigrantes,\n17 poderíamos encontrar muitos vestígios arqueológicos\n18 também – explica Kelli Bisonhim.\n19 Segundo a arqueóloga, o que se esperava achar\n20 durante as escavações eram objetos referentes ao\n21 uso doméstico, como pratos, xícaras, talheres, copos,\n22 entre outras peças. No entanto, foram encontrados\n23 vestígios de materiais construtivos, como encana-\n24 mentos de cerâmica, tijolos maciços antigos e louças\n25 sanitárias. Diversos vidros de medicações também\n26 foram identificados.\n27 A Hospedaria dos Imigrantes começou a funcionar\n28 em 1891. Mas alguns dos itens descobertos podem\n29 __________ ainda mais antigos.\n30 Pelos vestígios arqueológicos, quando anali-\n31 sados seus processos de fabricação, matéria-prima\n32 e decoração, temos a data de 1850. Isso se deve ao\n33 fato de algumas técnicas de confecção e decoração\n34 terem sido utilizadas em objetos por um longo período,\n35 não excluindo a data real e inicial de 1891 – pondera\n36 a arqueóloga.\n\nAdaptado de: https://abre.ai/f6au. Acesso em: 20 abr. 2023.\n\nAssinale a alternativa que completa, correta e respectivamente, de cima para baixo, as lacunas do texto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "foi encontrado – trata-se – ser"
+        },
+        {
+          "letra": "B",
+          "texto": "foi encontrado – tratam-se – serem"
+        },
+        {
+          "letra": "C",
+          "texto": "foram encontrados – trata-se – ser"
+        },
+        {
+          "letra": "D",
+          "texto": "foram encontrados – tratam-se – serem"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Concordância Verbal e Nominal"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "De acordo com o texto, só NÃO é possível determinar",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o local da Hospedaria dos Imigrantes."
+        },
+        {
+          "letra": "B",
+          "texto": "a data de fechamento da Hospedaria dos Imigrantes."
+        },
+        {
+          "letra": "C",
+          "texto": "as dimensões da estrutura do prédio."
+        },
+        {
+          "letra": "D",
+          "texto": "a datação dos vestígios arqueológicos mais antigos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Assinale a correta transformação do discurso direto em discurso indireto do parágrafo compreendido entre as linhas 12 e 18.\n\n– As escavações começaram buscando as estruturas da antiga Hospedaria dos Imigrantes. Nós sabíamos que, pelas descrições de tamanho e pela quantidade de pessoas que por ali passaram em oito anos de atendimento, cerca de 25 mil imigrantes, poderíamos encontrar muitos vestígios arqueológicos também – explica Kelli Bisonhim.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Kelli Bisonhim explicou que as escavações haviam começado buscando as estruturas da antiga Hospedaria dos Imigrantes, que nós sabíamos, pelas descrições de tamanho e pela quantidade de pessoas que por ali passaram em oito anos de atendimento, cerca de 25 mil imigrantes, que poderíamos encontrar muitos vestígios arqueológicos também."
+        },
+        {
+          "letra": "B",
+          "texto": "Kelli Bisonhim explica: As escavações começaram buscando as estruturas da antiga Hospedaria dos Imigrantes. Nós sabíamos que, pelas descrições de tamanho e pela quantidade de pessoas que por ali passaram em oito anos de atendimento, cerca de 25 mil imigrantes, poderíamos encontrar muitos vestígios arqueológicos também."
+        },
+        {
+          "letra": "C",
+          "texto": "Kelli Bisonhim explica que: as escavações começaram buscando as estruturas da antiga Hospedaria dos Imigrantes, que eles sabiam, pelas descrições de tamanho e pela quantidade de pessoas que por ali passaram em oito anos de atendimento, cerca de 25 mil imigrantes, que poderiam encontrar muitos vestígios arqueológicos também."
+        },
+        {
+          "letra": "D",
+          "texto": "Kelli Bisonhim explica que as escavações começaram buscando as estruturas da antiga Hospedaria dos Imigrantes e que eles sabiam, pelas descrições de tamanho e pela quantidade de pessoas que por ali passaram em oito anos de atendimento, cerca de 25 mil imigrantes, que poderiam encontrar muitos vestígios arqueológicos também."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Discurso Direto e Indireto"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "A partir do emprego do operador argumentativo “no entanto” (linha 22), assinale a inferência correta, no contexto do parágrafo, para o período das linhas 22 a 25.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Não foram encontrados nas escavações os itens esperados pelos arqueólogos."
+        },
+        {
+          "letra": "B",
+          "texto": "Além dos objetos referentes ao uso doméstico, foram encontrados materiais construtivos."
+        },
+        {
+          "letra": "C",
+          "texto": "Os materiais de construção não pertencem ao sítio arqueológico encontrado no bairro Cristal."
+        },
+        {
+          "letra": "D",
+          "texto": "Os materiais construtivos não foram encontrados entre os objetos referentes ao uso doméstico."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Coesão Textual",
+        "Língua Portuguesa – Conectivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Assinale V (verdadeiro) ou F (falso) para as relações estabelecidas entre elementos do texto.\n\n( ) “sítio arqueológico” (linha 01) está para “Hospedaria dos Imigrantes” (linha 06) como “bairro privativo” (linha 03) está para “zona sul de Porto Alegre” (linha 04).\n( ) “recentes descobertas” (linha 11) está para “vestígios arqueológicos” (linha 17) como “quantidade de pessoas” (linha 15) para “cerca de 25 mil imigrantes” (linha 16).\n( ) “vestígios arqueológicos” (linha 30) está para “algumas técnicas de confecção e decoração” (linha 33) como “matéria-prima” (linha 31) está para “objetos” (linha 34).\n\nA sequência que preenche corretamente os parênteses, de cima para baixo, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "F – F – V"
+        },
+        {
+          "letra": "B",
+          "texto": "F – V – F"
+        },
+        {
+          "letra": "C",
+          "texto": "V – F – F"
+        },
+        {
+          "letra": "D",
+          "texto": "V – V – V"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Coesão e Coerência",
+        "Língua Portuguesa – Relações Semânticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "INSTRUÇÃO: Responder às questões de 26 a 28 com base no texto 2.\n\nTEXTO 2\n\n01 O presente trabalho tem como objetivo problema-\n02 tizar a organização, o funcionamento e o cotidiano da\n03 Hospedaria de Imigrantes do Cristal, espaço criado\n04 para recepção dos imigrantes recém-chegados a\n05 Porto Alegre na última década do século XIX. A partir\n06 de meados deste, tem início um amplo trânsito de\n07 pessoas que deixam seus países em busca de uma\n08 nova vida, especialmente nas Américas. Diante desse\n09 fato, inúmeras políticas destinadas a tratar da imigra-\n10 ção e da colonização foram criadas, destacando-se\n11 as voltadas aos procedimentos adotados no momento\n12 da chegada desse fluxo populacional. Dentre elas,\n13 constava a criação das hospedarias de imigrantes,\n14 instituições que se tornaram comuns nesse período.\n15 O Rio Grande do Sul, por sua vez, obedecendo aos\n16 decretos do governo central, tratou de providenciar\n17 tais instituições, especialmente em Porto Alegre. [...]\n18 Um vasto corpus documental da Hospedaria de Imi-\n19 grantes do Cristal possibilitou conhecer como se deu\n20 a acomodação dos imigrantes no momento em que\n21 o fluxo imigratório foi intenso, além da história dessa\n22 instituição. O estudo permitiu, ainda, compreender a\n23 política imigratória brasileira e rio-grandense voltada\n24 à recepção e acomodação dos recém-chegados, bem\n25 como as mudanças, os problemas e as dificuldades\n26 enfrentadas ao longo do tempo nesse empreendimen-\n27 to, singularmente no Rio Grande do Sul.\n\nAdaptado de: Silva, Gabriela Ucoski da. História e aspectos do cotidiano da Hospedaria de Imigrantes do Cristal Porto Alegre (1890-1898). Porto Alegre, 2014.\n\nAssinale a alternativa correta sobre a relação pronome-nome substituído.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“(d)este” (linha 06) – “século XIX” (linha 05)"
+        },
+        {
+          "letra": "B",
+          "texto": "“que” (linha 07) – “trânsito” (linha 06)"
+        },
+        {
+          "letra": "C",
+          "texto": "“elas” (linha 12) – “hospedarias de imigrantes” (linha 13)"
+        },
+        {
+          "letra": "D",
+          "texto": "“que” (linha 14) – “criação” (linha 13)"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Pronomes",
+        "Língua Portuguesa – Referência Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Sobre o emprego de vírgulas no texto, afirma-se\n\nI. A vírgula da linha 02 separa uma expressão explicativa.\nII. As vírgulas das linhas 08 e 17 introduzem uma ressalva.\nIII. A vírgula da linha 21 introduz mais um núcleo ao complemento do verbo “conhecer” (linha 19).\nIV. As vírgulas da linha 22 poderiam ser eliminadas sem prejuízo para o sentido e a estrutura do período.\n\nEstão corretas apenas as afirmativas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III."
+        },
+        {
+          "letra": "C",
+          "texto": "II e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "II, III e IV."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Pontuação",
+        "Língua Portuguesa – Uso da Vírgula"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Considerando a estrutura e o conteúdo do texto, conclui-se que ele pertence ao gênero textual",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "biografia."
+        },
+        {
+          "letra": "B",
+          "texto": "comentário."
+        },
+        {
+          "letra": "C",
+          "texto": "manual de ensino."
+        },
+        {
+          "letra": "D",
+          "texto": "trabalho de divulgação científica."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Gêneros Textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "INSTRUÇÃO: Responder à questão 29 com base no texto 3.\n\nTEXTO 3\n\nConsiderando apenas a observação da foto e dos dados presentes nela, assinale a legenda adequada.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Vista panorâmica da Hospedaria dos Imigrantes do Cristal, Porto Alegre, RS."
+        },
+        {
+          "letra": "B",
+          "texto": "Vista panorâmica de hospedaria de imigrantes de Porto Alegre, RS."
+        },
+        {
+          "letra": "C",
+          "texto": "Construção de 1891 que abrigou a Hospedaria dos Imigrantes do Cristal, Porto Alegre, RS."
+        },
+        {
+          "letra": "D",
+          "texto": "Prédio da “Directoria de Terras e Colonisação” em 1891."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Linguagem Verbal e Não Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "INSTRUÇÃO: Responder à questão 30 com base nos textos 1, 2 e 3.\n\nAssinale a alternativa correta sobre a relação entre os textos da prova.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os três textos tratam da descoberta de sítios arqueológicos em Porto Alegre."
+        },
+        {
+          "letra": "B",
+          "texto": "Os textos 1 e 2 descrevem o mesmo método de pesquisa."
+        },
+        {
+          "letra": "C",
+          "texto": "O texto 1 noticia o achado do sítio arqueológico da Hospedaria dos Imigrantes, a qual também é tema do texto 2."
+        },
+        {
+          "letra": "D",
+          "texto": "A imagem do texto 3 faz parte dos vestígios arqueológicos cuja descoberta é descrita no texto 1."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Intertextualidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "As ondas eletromagnéticas emitidas pelo Sol atingem a atmosfera e a superfície do planeta em inclinações diferentes, dependendo da latitude, causando um aquecimento desigual. Essa condição tem papel substancial nos padrões climáticos, pois produz massas de ar com diferentes temperaturas. Um elevado aquecimento da região próxima à zona equatorial, por exemplo, faz com que o ar suba e se desloque em direção aos trópicos, onde vai se resfriando, descendo e retornando ao equador.\n\nO(s) mecanismo(s) de transferência de energia presente(s) na situação descrita no texto é(são)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "condução."
+        },
+        {
+          "letra": "B",
+          "texto": "convecção."
+        },
+        {
+          "letra": "C",
+          "texto": "condução e radiação."
+        },
+        {
+          "letra": "D",
+          "texto": "radiação e convecção."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Termologia",
+        "Física – Transferência de Calor"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Um indivíduo desloca-se até o seu local de trabalho em duas etapas: a primeira parte do percurso de ônibus (7,0 km), podendo escolher entre quatro linhas, e a segunda parte, invariavelmente, a pé (300 m). A velocidade média de cada ônibus é igual a 28 km/h e a velocidade média de caminhada do indivíduo é igual a 3 km/h. A tabela a seguir apresenta o horário de saída dos ônibus disponíveis no local onde esse trabalhador realiza o embarque.\n\nLinha | Horário\n--- | ---\nL1 | 06:30\nL2 | 06:37\nL3 | 06:42\nL4 | 06:50\n\nA jornada de trabalho desse indivíduo inicia às 7 h, e o acesso à empresa somente pode ser realizado entre 6 h 55 min e 7 h 05 min. Quais das quatro linhas permitem que ele chegue ao local de trabalho somente no horário permitido de acesso à empresa?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "L1 e L2"
+        },
+        {
+          "letra": "B",
+          "texto": "L1 e L4"
+        },
+        {
+          "letra": "C",
+          "texto": "L2 e L3"
+        },
+        {
+          "letra": "D",
+          "texto": "L3 e L4"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Cinemática",
+        "Física – Velocidade Média"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "O efeito Doppler é uma mudança da frequência detectada em relação à frequência emitida por uma fonte quando existe movimento relativo entre fonte e detector. Na área da saúde, esse efeito é explorado durante o exame dos vasos sanguíneos. De maneira simplificada, o transdutor (T) permanece em uma posição fixa e emite uma determinada frequência sonora (ft). As hemácias, em movimento dentro dos vasos (V), ao encontrarem a onda sonora, comportam-se como corpos refletores, emitindo ao transdutor a frequência refletida (fr). A diferença entre a frequência emitida pelo transdutor e a refletida pelas hemácias é denominada deslocamento doppler.\n\nAssinale a alternativa que representa corretamente as frequências transmitida e refletida.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Ondulatória",
+        "Física – Efeito Doppler"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "A figura mostra dois condutores retilíneos longos, perpendiculares ao plano da página. Os condutores são percorridos por correntes elétricas $i$ e $2i$, saindo do plano da página, conforme representado por $\\bullet$.\n\nDesprezando o campo magnético terrestre, qual é a orientação de uma bússola localizada no ponto médio entre os dois condutores?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Eletromagnetismo",
+        "Física – Campo Magnético"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "A balança romana consiste em uma haste pendurada por um gancho em um ponto fixo e dois braços de pesagem com comprimentos desiguais. O braço curto tem comprimento fixo e, em sua extremidade, é colocado o objeto do qual se pretende aferir a massa. No braço mais longo, há uma pequena massa móvel que pode ser deslocada em ambos os sentidos (variando a distância d) até encontrar-se o ponto de equilíbrio.\n\nConsiderando que um objeto de massa 2,0 kg está equilibrado quando d é igual a 12 cm, qual é o valor da massa de um objeto que está equilibrado quando d é igual a 30 cm?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,8 kg"
+        },
+        {
+          "letra": "B",
+          "texto": "5,0 kg"
+        },
+        {
+          "letra": "C",
+          "texto": "14 kg"
+        },
+        {
+          "letra": "D",
+          "texto": "15 kg"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Estática",
+        "Física – Momento de uma Força (Torque)"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Em meados da década de 1980, a tomografia por emissão de pósitrons (PET), utilizando a fluordesoxiglicose marcada com flúor-18 (18F-FDG), foi introduzida como método de imagem in vivo da atividade metabólica do corpo humano. A 18F-FDG PET auxilia no diagnóstico de neoplasias, no estadiamento, na avaliação da resposta terapêutica precoce e tardia, na avaliação de recidiva tumoral e no reestadiamento de pacientes oncológicos.\n\nAdaptado de: https://doi.org/10.1590/S0100-39842010000400010.\n\nO flúor-18 é uma substância radioativa cujo tempo de meia-vida é de aproximadamente 109 minutos. O tempo necessário para que o material se desintegre até atingir 1/8 da atividade radioativa inicial é de aproximadamente",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "14 min."
+        },
+        {
+          "letra": "B",
+          "texto": "1 h 48 min."
+        },
+        {
+          "letra": "C",
+          "texto": "3 h 27 min."
+        },
+        {
+          "letra": "D",
+          "texto": "5 h 27 min."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Radioatividade",
+        "Física – Meia-vida"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "A Etiqueta Nacional de Conservação de Energia, criada pelo Programa Brasileiro de Etiquetagem (PBE), classifica os produtos em faixas coloridas que variam da mais eficiente à menos eficiente, além de fornecer informações relevantes sobre o produto. A figura a seguir representa a etiqueta de um chuveiro elétrico.\n\nAssinale a alternativa INCORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A corrente elétrica que passa pelo circuito é maior ao optarmos pela potência econômica de operação."
+        },
+        {
+          "letra": "B",
+          "texto": "O consumo de energia elétrica para um banho de 10 min na potência máxima equivale a um banho de aproximadamente 25 min na potência econômica."
+        },
+        {
+          "letra": "C",
+          "texto": "O aquecimento da água será maior, ao optarmos pela potência máxima de operação, por tratar-se de um circuito cuja resistência elétrica é menor para a mesma vazão."
+        },
+        {
+          "letra": "D",
+          "texto": "A economia de energia elétrica será de aproximadamente 60% ao optarmos pela potência econômica em vez da potência máxima, para tempos de banhos iguais."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Eletrodinâmica",
+        "Física – Potência Elétrica",
+        "Física – Consumo de Energia Elétrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "O soro fisiológico (solução aquosa de cloreto de sódio 0,9% em massa) é uma solução isotônica em relação ao sangue humano. O sangue possui uma pressão osmótica da ordem de 7,8 atm, mesma pressão osmótica das hemácias (glóbulos vermelhos). Com base nessas informações, assinale V (verdadeiro) ou F (falso) para as afirmações a seguir.\n\n( ) A adição de soro fisiológico no sangue diminui a pressão osmótica do sangue.\n( ) A pressão osmótica do soro fisiológico não é afetada quando a concentração de cloreto de sódio é diminuída.\n( ) A adição de água pura no sangue provoca um aumento de volume das hemácias devido à absorção de água.\n( ) A adição de uma solução aquosa saturada de cloreto de sódio no sangue provoca uma diminuição de volume das hemácias devido à desidratação.\n\nO correto preenchimento dos parênteses, de cima para baixo, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "F – V – F – F"
+        },
+        {
+          "letra": "B",
+          "texto": "V – V – F – V"
+        },
+        {
+          "letra": "C",
+          "texto": "F – F – V – V"
+        },
+        {
+          "letra": "D",
+          "texto": "V – F – V – F"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Soluções",
+        "Química – Propriedades Coligativas",
+        "Biologia – Citologia",
+        "Biologia – Osmose"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "A maior parte dos cálculos renais, popularmente conhecidos como “pedras nos rins”, é formada por sais de oxalato de cálcio ($CaC_2O_4$) devido à reação entre os íons cálcio e oxalato presentes na urina, conforme a equação química:\n\n$x Ca^{2+}_{(aq)} + y C_2O_4^{2-}_{(aq)} \\rightarrow z CaC_2O_4(s)$\n\nO oxalato de cálcio é um mineral que forma cristais aciculares, isto é, em forma de agulha, causando os sintomas característicos de dor e náuseas. Os coeficientes estequiométricos x, y e z que tornam a equação corretamente balanceada são, respectivamente, ____, ____ e ____.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 – 1 – 1"
+        },
+        {
+          "letra": "B",
+          "texto": "1 – 2 – 2"
+        },
+        {
+          "letra": "C",
+          "texto": "2 – 1 – 2"
+        },
+        {
+          "letra": "D",
+          "texto": "2 – 2 – 1"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Reações Químicas",
+        "Química – Balanceamento de Equações"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "A fluoretação da água potável é uma prática adotada em alguns países, como o Brasil, para o controle e a prevenção da cárie dentária. O Ministério da Saúde estabelece que o valor máximo permitido para a concentração do íon fluoreto ($F^−$) na água é de $1,5 mg L^{-1}$. Considerando que 1000 L de água contêm $1,8 \\times 10^{-2}$ mol de $CaF_{2(aq)}$, a concentração do íon fluoreto é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$1,8 \\times 10^{-5}$ mol $L^{-1}$ e ultrapassa o valor máximo permitido."
+        },
+        {
+          "letra": "B",
+          "texto": "$1,8 \\times 10^{-5}$ mol $L^{-1}$ e está abaixo do valor máximo permitido."
+        },
+        {
+          "letra": "C",
+          "texto": "$3,6 \\times 10^{-5}$ mol $L^{-1}$ e ultrapassa o valor máximo permitido."
+        },
+        {
+          "letra": "D",
+          "texto": "$3,6 \\times 10^{-5}$ mol $L^{-1}$ e está abaixo do valor máximo permitido."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Soluções",
+        "Química – Concentração Molar",
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Considere as transformações I, II e III representadas pelas equações químicas a seguir.\n\nI: $H_{2(g)} + \\frac{1}{2} O_{2(g)} \\rightarrow H_2O_{(g)}$\nII: $H_2O_{(g)} \\rightarrow H_2O_{(l)}$\nIII: $H_2O_{(l)} + NaCl_{(s)} \\rightarrow Na^+_{(aq)} + Cl^-_{(aq)}$\n\nEm I são formadas ligações __________ entre o hidrogênio e o oxigênio para produzir água. Em II ocorre o processo de passagem da água para uma fase condensada. Nessa fase, são formadas ligações __________ entre as moléculas. Em III é rompida a ligação __________ entre o sódio e o cloreto, liberando íons sódio e cloreto que são hidratados em solução por meio de ligações __________.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "covalentes – covalentes – iônica – íon-dipolo"
+        },
+        {
+          "letra": "B",
+          "texto": "covalentes – de hidrogênio – iônica – íon-dipolo"
+        },
+        {
+          "letra": "C",
+          "texto": "de hidrogênio – covalentes – covalente – dipolo-dipolo"
+        },
+        {
+          "letra": "D",
+          "texto": "de hidrogênio – de hidrogênio – covalente – dipolo-dipolo"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Ligações Químicas",
+        "Química – Interações Intermoleculares"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "O sistema tampão composto por ácido carbônico ($H_2CO_3$) e bicarbonato ($HCO_3^−$) tem importância biológica, atuando no controle do pH do sangue humano, que deve ser em torno de 7,35 a 7,45. Uma pequena variação nesses valores, para mais ou para menos, pode prejudicar a saúde de uma pessoa. A capacidade tamponante do sangue baseia-se no equilíbrio entre o dióxido de carbono ($CO_2$), dissolvido no plasma sanguíneo, e o íon $HCO_3^−$, proveniente da reação de ionização do $H_2CO_3$, conforme equação química:\n\n$CO_{2(aq)} + H_2O_{(l)} \\rightleftharpoons H_2CO_{3(aq)} \\rightleftharpoons H^+_{(aq)} + HCO^-_{3(aq)}$\n\nConsiderando esse equilíbrio químico, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A carência de $CO_2$ no sangue desloca o equilíbrio para direita, diminuindo a ionização do $H_2CO_3$ e diminuindo a acidez do sangue."
+        },
+        {
+          "letra": "B",
+          "texto": "O excesso de $CO_2$ no sangue desloca o equilíbrio para esquerda, aumentado a ionização do $H_2CO_3$ e aumentando a acidez do sangue."
+        },
+        {
+          "letra": "C",
+          "texto": "A diminuição da concentração de $HCO_3^-$ desloca o equilíbrio para direita, aumentado a ionização do $H_2CO_3$ e aumentando a acidez do sangue."
+        },
+        {
+          "letra": "D",
+          "texto": "O aumento da concentração de $HCO_3^-$ desloca o equilíbrio para esquerda, diminuindo a ionização do $H_2CO_3$ e aumentando a acidez do sangue."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Equilíbrio Químico",
+        "Química – Princípio de Le Châtelier",
+        "Química – Solução Tampão"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Dadas as estruturas dos compostos A e B é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o composto A é o cis-pent-3-eno."
+        },
+        {
+          "letra": "B",
+          "texto": "o composto A é o trans-pent-2-eno."
+        },
+        {
+          "letra": "C",
+          "texto": "o composto B é o cis-pent-3-eno."
+        },
+        {
+          "letra": "D",
+          "texto": "o composto B é o trans-pent-2-eno."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Química Orgânica",
+        "Química – Nomenclatura de Hidrocarbonetos",
+        "Química – Isomeria Geométrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Cada característica hereditária é determinada por fatores herdados em igual quantidade da mãe e do pai. Os fatores de cada par segregam-se quando os indivíduos produzem gametas.\n\nO texto remete à ______ Lei de Mendel e, portanto, os conceitos de “fatores” e “segregação” referem-se, respectivamente aos ______ e à ______.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1ª – genes – meiose"
+        },
+        {
+          "letra": "B",
+          "texto": "2ª – genes – meiose"
+        },
+        {
+          "letra": "C",
+          "texto": "1ª – cromossomos – mitose"
+        },
+        {
+          "letra": "D",
+          "texto": "2ª – cromossomos – meiose"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Genética",
+        "Biologia – Leis de Mendel"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Quando duas ou mais espécies em uma mesma comunidade ocupam semelhante nicho ecológico, ocorre entre elas uma relação ecológica denominada competição __________. No caso de uma elevada semelhança entre duas espécies em termos de nicho ecológico, uma delas poderá ser extinta, abandonar o território ou modificar seu nicho para garantir sua sobrevivência. Tais possibilidades implicam a premissa denominada de princípio da __________.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "intraespecífica – autoconservação"
+        },
+        {
+          "letra": "B",
+          "texto": "intraespecífica – exclusão competitiva"
+        },
+        {
+          "letra": "C",
+          "texto": "interespecífica – autoconservação"
+        },
+        {
+          "letra": "D",
+          "texto": "interespecífica – exclusão competitiva"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Ecologia",
+        "Biologia – Relações Ecológicas",
+        "Biologia – Princípio de Gause"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "O desmatamento é um evento danoso ao ambiente da floresta. Sem a cobertura vegetal, a reciclagem de nutrientes fica comprometida. Como é denominado o processo em que os minerais são carregados pelas chuvas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "erosão"
+        },
+        {
+          "letra": "B",
+          "texto": "lixiviação"
+        },
+        {
+          "letra": "C",
+          "texto": "eluviação"
+        },
+        {
+          "letra": "D",
+          "texto": "sedimentação"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Ecologia",
+        "Geografia – Pedologia (Solos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Assinale a alternativa que corresponde corretamente aos diferentes graus de cefalização, considerando (I) a rede nervosa difusa, (II) o cordão nervoso ventral e (III) o encéfalo e a medula espinhal.",
+      "alternativas": null,
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Zoologia",
+        "Biologia – Fisiologia Animal Comparada",
+        "Biologia – Sistema Nervoso"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "O anel de Malpighi interrompe o fluxo __________ de __________, o que comprova que o __________ é externo ao __________.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ascendente – seiva bruta – xilema – floema"
+        },
+        {
+          "letra": "B",
+          "texto": "ascendente – seiva elaborada – floema – xilema"
+        },
+        {
+          "letra": "C",
+          "texto": "descendente – seiva bruta – xilema – floema"
+        },
+        {
+          "letra": "D",
+          "texto": "descendente – seiva elaborada – floema – xilema"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Botânica",
+        "Biologia – Fisiologia Vegetal",
+        "Biologia – Condução de Seiva"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Algas do gênero Chlamydomonas spp. sofrem meiose zigótica devido ao fato do zigoto",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "haploide sofrer sucessivas meioses."
+        },
+        {
+          "letra": "B",
+          "texto": "diploide originar células haploides (n)."
+        },
+        {
+          "letra": "C",
+          "texto": "haploide originar células jovens diploides (2n)."
+        },
+        {
+          "letra": "D",
+          "texto": "haploide se diferenciar em uma estrutura pluricelular."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Botânica",
+        "Biologia – Algas",
+        "Biologia – Ciclos de Vida"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Ligações peptídicas e ligações fosfodiéster são ligações químicas encontradas, respectivamente, em moléculas de __________ e __________.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "glicídios – proteínas"
+        },
+        {
+          "letra": "B",
+          "texto": "lipídios – ácidos nucléicos"
+        },
+        {
+          "letra": "C",
+          "texto": "proteínas – ácidos nucléicos"
+        },
+        {
+          "letra": "D",
+          "texto": "ácidos nucléicos – aminoácidos"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Bioquímica",
+        "Química – Química Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "O período da chamada Segunda Diáspora Grega, ocorrida no século VII a. C., esteve associado\n\nI. ao crescimento populacional das cidades gregas e à falta de terras cultiváveis, criando a necessidade de navegar, conquistar novos territórios e fundar novas cidades-estados.\nII. ao processo de militarização da sociedade grega e à necessidade de obter escravos para sustentar o processo de produção e de exportação de peixe salgado e cereais.\nIII. à resposta à invasão persa e à necessidade de compensar territórios perdidos na Península Balcânica com terras férteis e produtivas na bacia do Mediterrâneo.\nIV. à fundação de colônias no Oriente, na Península Itálica, no sul da França e na Espanha, que visava estimular laços econômicos, culturais e religiosos com as cidades-estados de origem dos colonizadores.\n\nEstão corretos apenas os itens",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "I e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III."
+        },
+        {
+          "letra": "D",
+          "texto": "III e IV."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História Antiga",
+        "História – Grécia Antiga"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "O fim do Império Romano é marcado por um grande movimento de povos entre a Eurásia, o Norte e o Centro da Europa, precipitando a invasão dos povos germânicos, colocando fim à unidade política do Império e reconfigurando o mapa político da Europa.\n\nSobre a organização política, econômica, social e cultural dos povos germânicos, afirma-se:\n\nI. O comércio entre os germanos dava-se através das trocas. Embora o gado fosse a principal riqueza, também havia plantações de aveia, cevada e trigo.\nII. A organização política estava baseada na fidelidade a um chefe guerreiro, que convocava a assembleia de guerreiros para incursões contra uma tribo vizinha ou uma pilhagem, organizando o comitatus para a luta e, posteriormente, a divisão das riquezas conquistadas.\nIII. O estado germânico baseava-se em leis escritas e em sua tradição religiosa monoteísta, caracterizada pelo princípio masculino e pela existência de um deus guerreiro do trovão.\nIV. A arte germânica da fundição era muito sofisticada e se expressava em objetos como espadas, capacetes e fivelas de metal incrustradas.\n\nEstão corretas apenas as afirmativas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e III."
+        },
+        {
+          "letra": "B",
+          "texto": "II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "III e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e IV."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – História Antiga",
+        "História – Roma Antiga",
+        "História – Alta Idade Média"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "A Reforma Religiosa Protestante provocou uma série de mudanças políticas, econômicas, sociais e culturais na Europa e no Novo Mundo.\n\nSobre os desdobramentos da Reforma Protestante, afirma-se:\n\nI. A Reforma teve consequências econômicas, pois as guerras religiosas afetaram a economia da Europa e a expulsão de protestantes (especialmente, os calvinistas) enfraqueceu as economias de Espanha e França.\nII. Na Inglaterra, os reformados anglicanos e calvinistas estiveram do mesmo lado na Revolução Inglesa, lutando contra a nobreza católica que apoiava um rei presbiteriano de origem escocesa.\nIII. O Rei Henrique IV, para poder assumir o trono francês, teve que se converter ao catolicismo visando pacificar o reino após as guerras de religião entre católicos e protestantes.\n\nEstá/Estão correta(s) a(s) afirmativa(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História Moderna",
+        "História – Reforma Protestante"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Quais dos processos históricos a seguir desencadearam a Primeira Guerra Mundial?\n\nI. A política de alianças bilaterais entre as grandes potências.\nII. As disputas entre as potências econômicas pelos territórios coloniais na África e na Ásia.\nIII. A ameaça comunista da URSS ao sistema capitalista monopolista europeu.\nIV. As tensões políticas na península balcânica.\n\nEstão corretos os itens",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e III, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II e III, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I, II e IV, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II, III e IV."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História Contemporânea",
+        "História – Primeira Guerra Mundial"
+      ]
+    },
+    {
+      "numeroEnunciado": 61,
+      "enunciado": "Ser senhor de engenho é título a que muitos aspiram, porque traz consigo o ser servido, obedecido e respeitado de muitos. E se for, qual deve ser, homem de cabedal e governo, bem se pode estimar no Brasil o ser senhor de engenho, quanto proporcionadamente se estimam os títulos entre os fidalgos do Reino. Porque engenhos há na Bahia que dão ao senhor quatro mil pães de açúcar e outros pouco menos, com cana obrigada à moenda, de cujo rendimento logra o engenho ao menos a metade, como qualquer outra, que nele livremente se mói; e em algumas partes, ainda mais que a metade. Dos senhores dependem os lavradores que têm partidos arrendados em terras do mesmo engenho, como cidadãos dos fidalgos; e quanto os senhores são mais possantes e bem-aparelhados de todo o necessário, afáveis e verdadeiros, tanto mais são procurados, ainda dos que não têm a cana cativa, ou por antiga obrigação, ou por preço que para isso recebem.\n\nANTONIL, Andre João. Cultura e opulência do Brasil. Brasília: Editora UNB, 2020. p. 15. (Adaptado)\n\nSobre o contexto da economia açucareira do Nordeste no Brasil Colônia, afirma-se:\n\nI. A produção agrícola na colônia estimulava o desenvolvimento de manufaturas e atendia às necessidades do seu mercado interno.\nII. A produção açucareira foi organizada sob o tripé monocultura, grande propriedade e escravidão.\nIII. A política de “guerra justa” da Coroa Portuguesa contra os povos originários permitia o apresamento e a escravização de tribos indígenas para suprir o mercado de mão de obra interna da plantation açucareira.\nIV. A produção do açúcar estimulou a ocupação não apenas das terras litorâneas, mas também a abertura de estradas e a expansão da colonização para o interior da colônia.\n\nEstão corretas apenas as afirmativas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "I e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III."
+        },
+        {
+          "letra": "D",
+          "texto": "III e IV."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História do Brasil",
+        "História – Brasil Colônia"
+      ]
+    },
+    {
+      "numeroEnunciado": 62,
+      "enunciado": "Analise as afirmações referentes à Primeira República (1889-1930), preenchendo os parênteses com V (verdadeiro) e F (falso).\n\n( ) A República foi proclamada pela aliança de diferentes forças políticas, como os cafeicultores paulistas, os militares e os positivistas, mas foram as lutas populares pela democratização política e pelo acesso ao voto que impulsionaram o 15 de novembro.\n( ) A Proclamação da República foi seguida por um período de instabilidade política marcado por várias revoltas de diferentes matizes, entre elas a desencadeada pela Marinha e outra que envolveu os estados do Sul, que lutavam pela Federalização do país.\n( ) Os povos indígenas tiveram seus direitos reconhecidos e, gradualmente, seus territórios foram sendo demarcados no intuito de protegê-los dos conflitos com os colonos responsáveis pela chamada “Marcha para Oeste”.\n\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "F – V – F"
+        },
+        {
+          "letra": "B",
+          "texto": "V – F – V"
+        },
+        {
+          "letra": "C",
+          "texto": "V – V – F"
+        },
+        {
+          "letra": "D",
+          "texto": "F – F – V"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História do Brasil",
+        "História – Brasil República"
+      ]
+    },
+    {
+      "numeroEnunciado": 63,
+      "enunciado": "O Brasil tem em sua constituição a ligação íntima com a mácula do trabalho escravo, que se iniciou com a exploração de mão de obra indígena e se consolidou com a exploração de negros africanos e seus descendentes, o que por mais de três séculos configurou as relações econômicas e sociais do país. A verdade é que, guardadas as devidas proporções, nunca deixou de existir o trabalho escravo no Brasil. Mesmo após a sua abolição formal, em 1888, a escravidão permaneceu e, ao longo dos anos, adquiriu novos formatos. Esse é um fenômeno que ocorre também em diversos países. Devido ao interesse em aumentar o lucro à custa do trabalhador, essa prática persistiu ao longo dos anos e manteve-se tão vantajosa quanto à época do Brasil colônia e império. Diferentemente do modelo vigente no Brasil do século 16 ao 19, no qual a prática da escravidão era lícita, a escravidão contemporânea é ilegal, ocorre na marginalidade e, se antes o pretexto para escravizar era a cor da pele, hoje é a pobreza que distingue os “senhores” de seus subordinados. A falta de oportunidades faz com que trabalhadores sejam atraídos por falsas promessas de emprego e melhores condições de vida, que os levam para situações que se assemelham àquelas vividas pelos escravos nos primórdios desta nação.\n\nAdaptado de: BRANDÃO, André; ROCHA, Graziella. Trabalho escravo contemporâneo no Brasil na perspectiva da atuação dos movimentos sociais. In: R. Katál., Florianópolis, v. 16, n. 2, p. 196-204, jul./dez. 2013.\nAdaptado de https://www.scielo.br/j/rk/a/p35JR3swm56rQbZDZ44TspN/?lang=pt&format=pdf. Acesso em 9 jun. 2023.\n\nSobre a formação socioeconômica do Brasil, afirma-se:\n\nI. A escravidão no período colonial estava associada à produção da monocultura para a exportação e ao acúmulo de riqueza na metrópole portuguesa pela Coroa e pela burguesia comercial.\nII. A escravidão no período imperial estava associada à produção e à exportação do café, que era o principal produto da pauta de exportação brasileira e responsável pelo acúmulo de capitais para a futura industrialização do país.\nIII. A globalização e o neoliberalismo estimularam a disputa mundial por mercados e por fornecimento de produtos para o consumo em larga escala, estimulando o deslocamento da produção fabril e de serviços complementares dos países capitalistas centrais para a periferia do sistema, onde convivem a produção industrial de alta tecnologia com o trabalho manual de trabalhadores em condições precárias, análogas à escravidão.\n\nEstão corretas as afirmativas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – História do Brasil",
+        "Sociologia – Relações de Trabalho",
+        "Geografia – Globalização"
+      ]
+    },
+    {
+      "numeroEnunciado": 64,
+      "enunciado": "Melhor direção do painel solar fotovoltaico\n\nPara a instalação de painel solar fotovoltaico em residências, a direção recomendada é Norte, supondo-se que não haja sombras na parte do telhado em que as placas serão colocadas. Se o telhado não tiver uma face voltada para o Norte, devem ser consideradas as informações que seguem:\n\n1. As perdas direcionais variam entre 3% e 8% para telhados com face NE ou NO.\n2. As perdas podem ser entre 12% e 20% para telhados com face Leste ou Oeste.\n3. As perdas são muito grandes para telhados com face Sul.\n\nAdaptado de: https://www.portalsolar.com.br/a-melhor-direcao-do-painel-solar-fotovoltaico.html Acesso em: 01 maio 2023.\n\nRelacionando as recomendações apresentadas no texto e os conhecimentos geográficos sobre posição solar, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os sistemas fotovoltaicos não se aplicam a localidades do hemisfério Sul."
+        },
+        {
+          "letra": "B",
+          "texto": "Painéis instalados em telhados inclinados para o sul apresentam perdas muito grandes devido a menor insolação observada nas baixas latitudes."
+        },
+        {
+          "letra": "C",
+          "texto": "As cidades localizadas no hemisfério Sul têm desvantagem com relação àquelas localizadas no hemisfério Norte, mesmo em latitudes iguais."
+        },
+        {
+          "letra": "D",
+          "texto": "O item 2 evidencia que o movimento de rotação terrestre também tem relação direta com a posição de instalação dos painéis e com a eficiência da obtenção de energia fotovoltaica."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Fontes de Energia",
+        "Geografia – Movimentos da Terra",
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 65,
+      "enunciado": "Considere que painéis fotovoltaicos foram instalados com uma inclinação para o Norte de $53,5^\\circ$ sobre o topo plano de um prédio da PUCRS, cuja latitude aproximada é de $30^\\circ$ Sul. Em que época do ano os raios solares incidem com ângulo reto sobre a estrutura, ao meio-dia?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "No equinócio de primavera do hemisfério Sul."
+        },
+        {
+          "letra": "B",
+          "texto": "No equinócio de outono do hemisfério Sul."
+        },
+        {
+          "letra": "C",
+          "texto": "No solstício de inverno do hemisfério Sul."
+        },
+        {
+          "letra": "D",
+          "texto": "No solstício de verão do hemisfério Sul."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Climatologia",
+        "Geografia – Movimentos da Terra",
+        "Geografia – Coordenadas Geográficas"
+      ]
+    },
+    {
+      "numeroEnunciado": 66,
+      "enunciado": "O texto a seguir descreve a situação de um determinado país.\n\nNos últimos anos, milhares de pessoas morreram em ataques realizados por grupos armados jihadistas no nordeste desse país, especialmente o islamita Boko Haram. Suas ações incluíram sequestros de alunos de escolas da região, tanto para usá-los em seus ataques como para obtenção de dinheiro pelo resgate. As aspirações de grupos separatistas [...] e uma ressurgente onda pela independência da região de Biafra também se intensificaram. A adoção da lei islâmica – a sharia – em vários Estados desse país alimentou divisões na região e provocou a fuga de milhares de cristãos.\n\nAdaptado de: https://www.bbc.com/portuguese/internacional-56583609 Acesso em: 05 jun. 2023.\n\nDadas as características apresentadas, conclui-se que o país em questão é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Camarões."
+        },
+        {
+          "letra": "B",
+          "texto": "Nigéria."
+        },
+        {
+          "letra": "C",
+          "texto": "Tunísia."
+        },
+        {
+          "letra": "D",
+          "texto": "Egito."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "Geografia – Geografia da África"
+      ]
+    },
+    {
+      "numeroEnunciado": 67,
+      "enunciado": "A China e a nova Rota da Seda\n\nA importância das relações com a China vai muito além de acordos comerciais e das alianças políticas em blocos como os BRICS. No cenário atual, o que marca a presença chinesa em suas parcerias com os países, sobretudo aqueles em desenvolvimento (do Sul global), é a iniciativa conhecida como a Nova Rota da Seda ou “Um cinturão, uma rota” (Belt and Road Initiative, o BRI, como tem sido conhecido).\nTrata-se de um megaprojeto global chinês com o objetivo de impulsionar a cooperação e a conectividade entre os diferentes países por meio de uma rota terrestre, a chamada “Faixa Econômica da Rota da Seda”, e outra transoceânica, a denominada “Rota Marítima da Seda”. A iniciativa que, em um primeiro momento, centrou-se na Ásia Central e, posteriormente expandiu-se para a África, a Ásia, o Oriente Médio, a Europa e, por último, para a América Latina, o Caribe e a Oceania, hoje congrega 140 países e dela fazem parte vinte países latino-americanos.\n\nAdaptado de: https://diplomatique.org.br/o-brasil-na-nova-rota-da-seda/ Acesso em: 05 jun. 2023.\n\nConsiderando as informações apresentadas no texto e a Geopolítica contemporânea, afirma-se que a Rota da Seda\n\nI. está construindo as condições necessárias para potencializar os fluxos de investimentos externos diretos da China sobre diversos países integrados à iniciativa.\nII. acirra o embate ideológico entre a Rússia e a China, que disputam a hegemonia no espaço euroasiático.\nIII. pode impulsionar o protagonismo do BRICS no cenário internacional, na medida em que esse bloco se articula a outras economias.\nIV. busca expandir o socialismo planificado pelo mundo, especialmente sobre nações de democracias jovens.\n\nEstão corretas apenas as afirmativas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e III."
+        },
+        {
+          "letra": "B",
+          "texto": "II e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "D",
+          "texto": "II, III e IV."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "Geografia – Globalização",
+        "Geografia – Economia Mundial"
+      ]
+    },
+    {
+      "numeroEnunciado": 68,
+      "enunciado": "Leia com atenção duas estrofes da canção A Cidade, de Chico Science e Nação Zumbi.\n\nA cidade se encontra prostituída\nPor aqueles que a usaram em busca de saída\nIlusora de pessoas de outros lugares\nA cidade e sua fama vai além dos mares\nNo meio da esperteza internacional\nA cidade até que não está tão mal\nE a situação sempre mais ou menos\nSempre uns com mais e outros com menos\n\nA cidade não para, a cidade só cresce\nO de cima sobe e o de baixo desce\nA cidade não para, a cidade só cresce\nO de cima sobe e o de baixo desce\n\nDisponível em: https://www.letras.mus.br/nacao-zumbi/77652/ Acesso em: 05 jun. 2023.\n\nO fenômeno da industrialização tardia caracteriza as transformações socioespaciais internas de alguns países do sul global. O trecho da canção expressa tal fenômeno ao mencionar desdobramentos deste processo no Brasil. Sobre a relação entre a industrialização e seus desdobramentos, afirma-se:\n\nI. Em “Ilusora de pessoas de outros lugares” (verso 03) fica subentendido que o crescimento do setor secundário da economia, especialmente a partir dos anos 1980, intensifica os fluxos populacionais do meio rural para o urbano.\nII. Em “A cidade e sua fama vai além dos mares” (verso 04) infere-se, do ponto de vista socioespacial, que os meios urbano-industriais estão articulados à divisão internacional do trabalho.\nIII. O verso “A cidade não para, a cidade só cresce” (09 e 11) associa-se aos conceitos de conurbação e de verticalização das cidades.\n\nEstá/Estão correta(s) apenas a(s) afirmativa(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geografia Urbana",
+        "Geografia – Industrialização Brasileira",
+        "Sociologia – Urbanização"
+      ]
+    },
+    {
+      "numeroEnunciado": 69,
+      "enunciado": "O século XXI será marcado por enormes avanços na automação e na robotização, que passarão a fazer parte do nosso cotidiano. Leia o trecho a seguir de uma matéria jornalística.\n\nO acordo firmado entre as empresas Uber e Motional colocou para rodar pela cidade estadunidense carros de aplicativo totalmente autônomos, ou seja, sem motorista. Os carros utilizados pela Motional para o serviço de robotáxi em Las Vegas serão elétricos com zero emissão. O modelo escolhido para dar início ao serviço foi o Hyundai Ioniq 5. O carro original, vale lembrar, não é dotado de tecnologia autônoma, mas foi adaptado pela Motional para ser o precursor dos serviços de robotáxi com a Uber nos Estados Unidos.\n\nAdaptado de: https://canaltech.com.br/carros/ja-da-para-pegar-uber-em-carros-sem-motorista-em-las-vegas-232499/ Acesso em: 05 jun. 2023.\n\nO trecho apresentado demonstra um invento da ______ revolução industrial, o carro, mas com tecnologia da ______ revolução industrial, o(a) ______.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1ª – 2ª – Eletricidade"
+        },
+        {
+          "letra": "B",
+          "texto": "1ª – 3ª – Sistema de GPS aplicado à robotização"
+        },
+        {
+          "letra": "C",
+          "texto": "2ª – 3ª – Eletricidade"
+        },
+        {
+          "letra": "D",
+          "texto": "2ª – 3ª – Sistema de GPS aplicado à robotização"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Revoluções Industriais",
+        "Geografia – Indústria e Tecnologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 70,
+      "enunciado": "As tabelas 1 e 2 indicam problemas ambientais relacionados a duas unidades hidrográficas gaúchas.\n\nTabela 1\nExploração de água do subsolo com possibilidade de rebaixamento de lençol freático e contaminação de mananciais hídricos mais profundos\nErosão e compactação do solo agrícola pela ausência de utilização de práticas de conservação\nAssoreamento dos cursos d’água por desmatamento de áreas remanescentes de matas ciliares e ausência de proteção às nascentes dos rios\nContaminação do solo e da água por agrotóxicos e outros insumos químicos\nProcesso de arenização\nOcorrência de enchentes e estiagens periódicas\n\nTabela 2\nDespejo de efluentes domésticos sem tratamento nos cursos d’água\nDespejo de efluentes industriais e agroindustriais nos cursos d’água\nPoluição do ar por fontes fixas e por veículos resultantes da alta concentração industrial e urbana\nProdução de grandes volumes de resíduos sólidos urbanos e industriais e manejo inadequado, principalmente em relação à disposição final\nOcupação urbana em áreas de risco\nDesmatamentos, remoção de camadas de solo, desagregação de material rochoso e alteração de cursos d’água por atividades mineradoras\n\nAdaptado de: https://atlassocioeconomico.rs.gov.br/uso-do-solo-e-problemas-ambientais Acesso em: 05 jun. 2023.\n\nCom base nos problemas ambientais apresentados, conclui-se que a tabela 1 caracteriza a unidade hidrográfica __________ e a tabela 2, a unidade hidrográfica __________.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "do Uruguai – do Guaíba"
+        },
+        {
+          "letra": "B",
+          "texto": "do Uruguai – Litorânea"
+        },
+        {
+          "letra": "C",
+          "texto": "Litorânea – do Uruguai"
+        },
+        {
+          "letra": "D",
+          "texto": "Litorânea – do Guaíba"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Questões Ambientais",
+        "Geografia – Hidrografia do Brasil"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,926 @@
+{
+  "nomeUniversidade": "Universidade Estadual de Londrina",
+  "siglaUniversidade": "UEL",
+  "nomeProva": "Prova de Conhecimentos Gerais – TIPO 1 (Língua Inglesa)",
+  "ano": 2026,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Na Crítica da Razão Pura, Kant discute sobre a distinção de todos os objetos enquanto fenômenos e númenos:\n\nChamam-se fenômenos as manifestações sensíveis na medida em que são pensadas como objetos, segundo a unidade das categorias. Mas, se admitirmos coisas que sejam meros objetos do entendimento e, não obstante, como tais, possam ser dadas a uma intuição, embora não intuição sensível, teremos de as designar por númenos.\nKANT, I. Crítica da Razão Pura. 3. ed. Lisboa: Fundação Calouste Gulbenkian, 1994, p. 265 (A249).\n\nCom base na distinção entre fenômenos e númenos e nos conhecimentos sobre a filosofia de Kant, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Podemos conhecer os objetos para além dos limites da experiência possível."
+        },
+        {
+          "letra": "B",
+          "texto": "Podemos conhecer e chamar de fenômenos os objetos enquanto realidade em si mesma."
+        },
+        {
+          "letra": "C",
+          "texto": "Podemos conhecer os númenos na medida em que podem ser pensados."
+        },
+        {
+          "letra": "D",
+          "texto": "Podemos pensar e conhecer um fenômeno enquanto objeto da intuição sensível."
+        },
+        {
+          "letra": "E",
+          "texto": "Podemos chamar de númeno tudo que possa ser pensado e conhecido."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Filosofia – Epistemologia Kantiana"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Observe a imagem a seguir.\n\nElvis Presley, Andy Warhol\n\nConsiderado um dos artistas contemporâneos mais influentes, Andy Warhol marcou o cenário artístico e cultural de sua época. Em relação à obra e às características do movimento artístico a que o Andy Warhol pertenceu, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Questionam os fundamentos da sociedade de consumo, fazendo uma crítica aos seus valores culturais de forma irônica."
+        },
+        {
+          "letra": "B",
+          "texto": "Rejeitam os valores estéticos tradicionais, a razão e a lógica e buscam a espontaneidade e o absurdo na arte."
+        },
+        {
+          "letra": "C",
+          "texto": "Valorizam a experimentação com diferentes linguagens, materiais e técnicas e adotam novas formas de expressão artística."
+        },
+        {
+          "letra": "D",
+          "texto": "Utilizam materiais simples e naturais para empobrecer a obra de arte, eliminando a barreira entre Arte e cotidiano."
+        },
+        {
+          "letra": "E",
+          "texto": "Centradas no conceito e reflexões sobre a Arte considerados mais relevantes que a obra, desmaterializam e reduzem a obra ao mínimo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Arte – Pop Art"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Leia o texto a seguir.\n\nSob o poder do monopólio, toda cultura de massas é idêntica, e seu esqueleto, a ossatura conceitual fabricada por aquele, começa a se delinear. Os dirigentes não estão mais sequer muito interessados em encobri-lo, seu poder se fortalece quanto mais brutalmente ele se confessa de público. O cinema e o rádio não precisam mais se apresentar como arte. A verdade de que não passam de um negócio, eles a utilizam como uma ideologia destinada a legitimar o lixo que propriamente produzem. Eles se definem a si mesmos como indústrias, e as cifras publicadas dos rendimentos de seus diretores gerais suprimem toda dúvida quanto à necessidade social de seus produtos.\nHORKHEIMER, Max; ADORNO, Theodor. Dialética do esclarecimento. Rio de Janeiro: Jorge Zahar Ed., 1985, p. 114.\n\nCom base no texto e nos conhecimentos sobre indústria cultural em Adorno, considere as afirmativas a seguir.\n\nI. Os produtos da indústria cultural, como o cinema e o rádio, deixam de ser arte para se transformarem em um negócio visando apenas ao lucro.\nII. O acesso massificado aos produtos culturais faz com que a indústria cultural contribua para a formação do juízo estético dos sujeitos, democratizando a Arte.\nIII. As criações artísticas produzidas no cinema e no rádio são resultado da criatividade e da autonomia de seus produtores, contribuindo para o processo de emancipação intelectual.\nIV. O cinema e o rádio, como exemplos de comunicação de massa, cumprem com a lógica comercial e econômica da sociedade na homogeneização cultural do consumo e do pensamento.\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e IV são corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas III e IV são corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I, II e III são corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, III e IV são corretas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Sociologia – Indústria Cultural"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Leia a letra da canção “Homem primata”, dos Titãs, a seguir.\n\nDesde os primórdios\nAté hoje em dia\nO homem ainda faz\nO que o macaco fazia\nEu não trabalhava\nEu não sabia\nQue o homem criava\nE também destruía\n\nHomem primata\nCapitalismo selvagem\nÔ-ô-ô\nHomem primata\nCapitalismo selvagem\nÔ-ô-ô\n\nEu aprendi\nA vida é um jogo\nCada um por si\nE Deus contra todos\nVocê vai morrer\nE não vai pro céu\nÉ bom aprender\nA vida é cruel\n\n[refrão]\n\nEu me perdi\nNa selva de pedra\nEu me perdi\nEu me perdi\n\nI am a cave man, a young man\nI fight with my hands, with my hands\nI am a jungle man, a monkey man\nConcrete jungle, concrete jungle\n\nPESSOA, Ciro; FROMER, Marcelo; REIS, Nando; BRITTO, Sérgio. Homem primata. In: Cabeça Dinossauro, 1986.\n\nCom base na letra da canção, considere as afirmativas a seguir.\n\nI. O uso de paralelismos sugere ironicamente que, apesar dos avanços civilizatórios, a humanidade preserva os mesmos comportamentos primitivos.\nII. Os verbos no pretérito imperfeito (fazia, trabalhava, sabia, criava, destruía) indicam ações habituais e contínuas; já os verbos no pretérito perfeito (perdi, aprendi) marcam ações pontuais e concluídas.\nIII. A figura de linguagem empregada em “o homem criava e também destruía” é a metonímia, pois existe uma relação de causalidade.\nIV. O uso da locução adverbial “até hoje em dia” indica tanto intensidade quanto modo, pois enfatiza a instabilidade e a exacerbação da selvageria humana.\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e IV são corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas III e IV são corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I, II e III são corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, III e IV são corretas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de texto",
+        "Língua Portuguesa – Análise linguística"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "O tema da democracia racial é abordado nas obras Casa-Grande & Senzala (1933), de Gilberto Freyre, e A Integração do Negro na Sociedade de Classes (1965), de Florestan Fernandes. Os pensadores apresentaram argumentos acerca da constituição e formação da sociedade e das relações raciais brasileiras.\nCom base nos conhecimentos sobre democracia racial em Gilberto Freyre e Florestan Fernandes, considere as afirmativas a seguir.\n\nI. Os estudos de Fernandes distanciavam-se dos de Freyre, pois este afirmava que havia uma convivência pacífica entre os diferentes grupos étnicos, o que foi questionado por Fernandes.\nII. Freyre ressaltava que o negro havia sido incorporado gradativamente às estruturas sociais brasileiras e inserido num processo de miscigenação, enquanto que, para Fernandes, essa incorporação reforçou o racismo estrutural.\nIII. A tese, defendida por Freyre, de que não havia racismo institucional, ocupou os discursos governamentais por anos, no entanto, para Fernandes, essa ideia naturalizou as desigualdades étnico-raciais.\nIV. A partir das evidências históricas apontadas por Freyre e Fernandes, a democracia racial fez-se presente após a abolição da escravidão, promovendo a cultura afrobrasileira.\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e IV são corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas III e IV são corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I, II e III são corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, III e IV são corretas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Sociologia – Relações Étnico-Raciais no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Analise a imagem a seguir.\n\nAparição de rosto e fruteira numa praia (1938).\n\nEm relação a essa obra de Salvador Dali, um dos principais expoentes das vanguardas artísticas do século XX, e ao movimento surrealista, considere as afirmativas a seguir.\n\nI. Utilizam a natureza como suporte e material, sendo efêmera no tempo.\nII. Valorizam a fantasia e a justaposição de objetos não relacionados.\nIII. Exploram a imaginação e desafiam a percepção convencional da realidade.\nIV. Criam imagens bizarras, usam simbolismos e significados ocultos.\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e IV são corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas III e IV são corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I, II e III são corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, III e IV são corretas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Arte – Surrealismo",
+        "Arte – Vanguardas Europeias"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Leia o texto a seguir.\n\nA arte constrói numerosas representações do mundo, as quais podem ser sobre o mundo real ou sobre mundos imaginários, inexistentes, mas a inspiração humana continua podendo criar uma realidade para cada um deles. A realidade social inclui tais coisas como dinheiro, propriedade, sistemas econômicos, classes sociais, gênero, grupos étnicos, governos, sistemas de cerimoniais religiosos e crenças, linguagens e similares. As artes são representações simbólicas dessas realidades. [...] são importantes pedagogicamente porque espelham essas representações de forma que podem ser percebidas e sentidas.\nEFLAND. A. Cultura, sociedade, arte e educação em um mundo pós-moderno. In: BARBOSA, Ana Mae; GUINSBURG, J. (Org). O Pós-Modernismo. São Paulo: Perspectiva, 2005. p. 183.\n\nImagens das instalações físicas do grupo e da produção da Cooperativa Cultural Eloísa Cartonera\n\nA produção da Cooperativa Cultural Eloísa Cartonera (Buenos Aires, Argentina) é resultado de um projeto realizado de forma colaborativa com catadores de papelão. A produção artesanal de livros nos faz pensar sobre outros modos de produzir arte, cultura e educação na perspectiva da Arte Contemporânea.\nCom base no texto e no projeto da Cooperativa Cultural Eloísa Cartonera, considere as afirmativas a seguir.\n\nI. O projeto vem ressignificar a produção artístico-literária, trazendo a realidade social nas representações e produções.\nII. O projeto apresenta uma representação artística, cultural e social que rompe com os ditames da indústria cultural.\nIII. O projeto ressalta o movimento que aposta na ousadia e na transgressão cultural, questionando o que está no centro ou à margem da produção artística tradicional.\nIV. O projeto colabora com a produção em larga escala de bens destinados ao mercado consumidor, descaracterizando as representações sociais e simbólicas.\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e IV são corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas III e IV são corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I, II e III são corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, III e IV são corretas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Arte – Arte Contemporânea",
+        "Arte – Função Social da Arte"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Sobre as obras O seminarista, de Bernardo Guimarães, e Niketche, de Pauline Chiziane, considere as afirmativas a seguir.\n\nI. Em O seminarista, Eugênio é impedido de se casar devido à imposição do celibato, ao passo que Tony, em Niketche, possui cinco esposas.\nII. As experiências de Rami, em Niketche, e de Margarida, em O seminarista, são semelhantes, uma vez que ambas partilham do mesmo contexto socio-histórico.\nIII. O seminarista apresenta traços do regionalismo realista, como o determinismo do meio a hereditariedade.\nIV. Enquanto O seminarista é narrado em terceira pessoa, Niketche é narrado em primeira pessoa.\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e IV são corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas III e IV são corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I, II e III são corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, III e IV são corretas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Literatura Africana de Língua Portuguesa"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Com a crescente popularização das corridas de rua, novos tênis são desenvolvidos prometendo aumento de desempenho e prevenção de lesões. O fenômeno físico explorado por todas as marcas é a deformação elástica, que explica a capacidade de materiais se deformarem e retornarem à sua forma original. Para minimizar as lesões, os compostos das entressolas, como borrachas, EVAs e placas de carbono, podem absorver os impactos e devolver a energia acumulada.\nCom base nos conceitos de Força Elástica e Conservação de Energia, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Quando a força aplicada a uma mola é dobrada, a sua deformação diminui até atingir o seu valor mínimo igual a zero."
+        },
+        {
+          "letra": "B",
+          "texto": "Segundo a Lei de Hooke, a força elástica realiza trabalho e por isso é uma força dissipativa, o que resulta no aumento da energia mecânica."
+        },
+        {
+          "letra": "C",
+          "texto": "A Lei de Hooke descreve que a deformação é diretamente proporcional à força aplicada, observando as características específicas do material utilizado."
+        },
+        {
+          "letra": "D",
+          "texto": "Em um sistema massa-mola, com atrito desprezível, a energia potencial elástica tem seu valor máximo na posição inicial ou zero."
+        },
+        {
+          "letra": "E",
+          "texto": "Em um sistema massa-mola, com atrito desprezível, a energia cinética do objeto tem seu valor máximo quando a mola atinge a maior deformação possível."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Lei de Hooke",
+        "Física – Conservação de Energia Mecânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Com base nas obras Cartas chilenas, de Tomás Antônio Gonzaga, O rei da vela, de Oswald de Andrade, Chove sobre minha infância, de Miguel Sanches Neto, e Melhores poemas, de Fernando Pessoa, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Cartas chilenas estrutura-se como um diálogo conflituoso entre Critilo e Doroteu, já O rei da vela alterna o foco narrativo entre Abelardo I e Abelardo II."
+        },
+        {
+          "letra": "B",
+          "texto": "Os acontecimentos de Cartas chilenas e de O rei da vela se passam no Brasil oitocentista, havendo em ambas as obras uma sátira aos desmandos das elites agrárias."
+        },
+        {
+          "letra": "C",
+          "texto": "Assim como Heloísa de Lesbos, de O rei da vela, Sebastião e Zé-Babé, em Chove sobre minha infância, representam a elite urbana cuja ascensão social se deu por meio dos estudos."
+        },
+        {
+          "letra": "D",
+          "texto": "Em Melhores poemas, nota-se que, enquanto os poemas de Alberto Caeiro ora exaltam a modernidade, ora refletem sobre o passado português, Álvaro de Campos adota o paganismo e cultiva formas fixas."
+        },
+        {
+          "letra": "E",
+          "texto": "Em Melhores poemas, há poemas assinados por Fernando Pessoa ortônimo e por seus heterônimos, enquanto Miguel Sanches Neto é o protagonista de Chove sobre minha infância."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Literatura Portuguesa"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Leia a sentença a seguir.\n\n_________ no contexto educacional brasileiro, é um conjunto de práticas, valores, _________, expressões, saberes e manifestações que caracterizam um grupo ou sociedade. É valorizada como um meio de promover a identidade, a diversidade e o pertencimento em um país multicultural. _________ é um campo de conhecimento caracterizado pelas linguagens sonora, visual e corporal, envolvendo expressão, experimentação, _________, sensibilidade, pensamento crítico, _________ contribuindo para o desenvolvimento do ser humano.\n\nCom base nos conceitos de Arte e Cultura, assinale a alternativa que preenche correta e respectivamente as lacunas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Arte, Criação, Cultura, Fruição Estética, Crença."
+        },
+        {
+          "letra": "B",
+          "texto": "Cultura, Fruição Estética, Crença, Criação, Arte."
+        },
+        {
+          "letra": "C",
+          "texto": "Cultura, Crenças, Arte, Fruição Estética, Criação."
+        },
+        {
+          "letra": "D",
+          "texto": "Criação, Arte, Cultura, Crença, Fruição Estética."
+        },
+        {
+          "letra": "E",
+          "texto": "Criação, Crenças, Arte, Cultura, Fruição Estética."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Arte – Conceitos de Arte e Cultura"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Leia a letra da canção “Família”, dos Titãs, a seguir.\n\n1. Família, família\nPapai, mamãe, titia\nFamília, família\nAlmoça junto todo dia\nNunca perde essa mania\n\n2. Mas, quando a filha quer fugir de casa,\nPrecisa descolar um ganha-pão.\nFilha de família, se não casa,\nPapai, mamãe não dão nem um tostão.\n\nFamília, eh, família, ah\nFamília\nFamília, eh, família, ah\nFamília, oh\n\n3. Família, família!\nVovô, vovó, sobrinha\nFamília, família\nJanta junto todo dia\nNunca perde essa mania\n\n4. Mas, quando o neném fica doente,\nProcura uma farmácia de plantão.\nO choro do neném é estridente,\nAssim não dá pra ver televisão\n\n[refrão]\n\n5. Família, família\nCachorro, gato, galinha\nFamília, família\nVive junto todo dia\nNunca perde essa mania\n\n6. A mãe morre de medo de barata,\nO pai vive com medo de ladrão.\nJogaram inseticida pela casa,\nBotaram um cadeado no portão.\n\n[refrão]\n\nBELLOTTO, Tony; ANTUNES, Arnaldo. Família. In: Cabeça Dinossauro, 1986.\n\nSobre a letra da canção, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A equivalência entre os medos materno e paterno, na sexta estrofe, revela uma valorização da mulher, pois seu medo justificado contraria os valores patriarcais da sociedade brasileira."
+        },
+        {
+          "letra": "B",
+          "texto": "A rima entre “casa” e “casa” na segunda estrofe é uma rima pobre, pois a letra apenas repete o mesmo vocábulo."
+        },
+        {
+          "letra": "C",
+          "texto": "O eu da canção é o filho adolescente, que narra a tentativa de fuga da irmã, bem como o cotidiano de sua família."
+        },
+        {
+          "letra": "D",
+          "texto": "Na segunda estrofe, depreende-se que a única forma de uma filha de família sair de casa é pelo casamento; do contrário, os pais renunciam à sua subsistência."
+        },
+        {
+          "letra": "E",
+          "texto": "A despeito da linguagem coloquial que perpassa a letra, há certa rigidez formal, pois todos os versos são octossílabos."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Leia o texto a seguir.\n\nA redução do entesouramento* e a expansão do meio circulante** refletem as reformas monetárias empreendidas para se adaptar à nova conjuntura. De fato, na economia de subsistência da Alta Idade Média, eram suficientes as moedas de baixo valor intrínseco que circulavam ainda em pequena quantidade; o denarius de prata correspondia àquela situação econômica contraída. Contudo, em 1202, as necessidades criadas por uma crescente economia comercial levaram Veneza a criar uma moeda de prata de valor bem maior, o matapan, correspondente a 24 denarii. Anos depois, tal iniciativa foi seguida por várias outras cidades italianas e ainda por Montpellier, Flandres, Inglaterra, Polônia e França. Em suma, as novas peças expressavam uma circulação monetária muito mais abundante.\n\n* Entesouramento: ato de acumular ou reter riqueza, geralmente em forma de moedas ou metal precioso.\n** Meio circulante: moeda corrente.\n\nAdaptado de: FRANCO JÚNIOR, Hilário. A primeira manifestação do crescimento econômico ocidental: a Europa feudal dos séculos XI-XIII. Revista de História, São Paulo, n. 116, p. 105-127, 1984.\n\nPor volta do ano 1000, após séculos de deflação e entesouramento, a crescente circulação de moedas na Europa gerou o fenômeno da chamada inflação de demanda, pois a elevação do poder de compra da população não foi imediatamente acompanhada pela ampliação de oferta do setor produtivo. Sobre a expansão da economia medieval e o aumento da circulação monetária no início da Baixa Idade Média, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ocorreram devido ao fechamento da principal rota comercial da Europa com o Oriente após a tomada de Constantinopla pelos turcos otomanos, pondo fim à Idade Média."
+        },
+        {
+          "letra": "B",
+          "texto": "resultaram da introdução de metais preciosos cuja origem eram as colônias portuguesas e espanholas nas Américas, com destaque para as minas de Potosí, no Peru."
+        },
+        {
+          "letra": "C",
+          "texto": "ocorreram devido à multiplicação de obrigações e impostos feudais, como a talha, a corveia e a mão morta, os quais eram pagos em moedas pelos servos ao senhor feudal."
+        },
+        {
+          "letra": "D",
+          "texto": "resultaram da substituição de moedas cunhadas em metal precioso por cédulas de papel ou títulos ao portador, emitidos pelos governos monárquicos europeus."
+        },
+        {
+          "letra": "E",
+          "texto": "resultaram do renascimento comercial e urbano, do crescente comércio com o Oriente e do desentesouramento de metais preciosos que entraram em circulação."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Baixa Idade Média",
+        "História – Renascimento Comercial e Urbano"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Analise as imagens a seguir.\n\nI. Portinari\nII. Tarsila do Amaral\nIII. Cildo Meireles\nIV. Debret\n\nAssinale a alternativa que apresenta, corretamente, a relação entre as imagens e os movimentos artísticos.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I. Expressionismo; II. Contemporâneo; III. Neoclassicismo; IV. Modernismo."
+        },
+        {
+          "letra": "B",
+          "texto": "I. Expressionismo; II. Modernismo; III. Contemporâneo; IV. Neoclassicismo."
+        },
+        {
+          "letra": "C",
+          "texto": "I. Modernismo; II. Neoclassicismo; III. Contemporâneo; IV. Expressionismo."
+        },
+        {
+          "letra": "D",
+          "texto": "I. Modernismo; II. Expressionismo; III. Neoclassicismo; IV. Contemporâneo."
+        },
+        {
+          "letra": "E",
+          "texto": "I. Neoclassicismo; II. Modernismo; III. Expressionismo; IV. Contemporâneo."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Arte – Movimentos Artísticos Brasileiros"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Com base nos conhecimentos e abordagens da Sociologia Clássica sobre o capitalismo, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "De acordo com K. Marx, o capitalismo sustenta-se, entre outros fatores, pela propriedade privada, pela divisão da sociedade em classes sociais antagônicas e pela exploração do trabalho assalariado."
+        },
+        {
+          "letra": "B",
+          "texto": "E. Durkheim e M. Weber consideram que a ação social com relação a valores foi o principal motor propulsor do desenvolvimento capitalista do século XIX."
+        },
+        {
+          "letra": "C",
+          "texto": "De acordo com E. Durkheim, a coercitividade dos fatos sociais tem origem na divisão social do trabalho, produzindo solidariedade e unidade no modo de produção capitalista."
+        },
+        {
+          "letra": "D",
+          "texto": "Segundo M. Weber, a expansão do fenômeno religioso no século XX foi responsável pela crise e enfraquecimento do modo de produção capitalista em toda a Europa."
+        },
+        {
+          "letra": "E",
+          "texto": "K. Marx e E. Durkheim possuem perspectivas teóricas semelhantes em relação à solidariedade mecânica, pois ambos consideram sua importância para manter a interdependência entre os indivíduos no capitalismo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Sociologia – Sociologia Clássica"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Uma das funcionalidades, divulgada como diferencial em alguns modelos de smartphones, é o carregamento sem fio da bateria. A tecnologia existe desde a década de 1990 e utiliza o fenômeno da indução eletromagnética. Basicamente, um carregador sem fio contém uma bobina em seu interior que gera um campo magnético variável. Quando o celular é posicionado sobre o carregador, esse campo gerado atravessa uma bobina dentro do celular, resultando no carregamento da bateria.\nCom base nos conhecimentos sobre eletromagnetismo, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A indução eletromagnética é um fenômeno que ocorre quando a variação de um campo magnético que atravessa uma bobina gera nesta o surgimento de uma corrente induzida."
+        },
+        {
+          "letra": "B",
+          "texto": "A corrente elétrica induzida na bobina do celular gera um campo magnético com mesma direção e sentido do campo magnético da bobina do carregador."
+        },
+        {
+          "letra": "C",
+          "texto": "O fluxo do campo magnético gerado pelo carregador, que atravessa o plano da bobina do celular, tem valor máximo quando o plano dessa bobina é paralelo às linhas do campo magnético."
+        },
+        {
+          "letra": "D",
+          "texto": "O fenômeno da indução eletromagnética possibilita a geração de energia elétrica dentro do celular devido à transferência de energia através da propagação do calor."
+        },
+        {
+          "letra": "E",
+          "texto": "O campo magnético constante, gerado pelo carregador, produz uma força eletromotriz de alta intensidade na bobina do celular, causando o seu aquecimento."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Eletromagnetismo",
+        "Física – Indução Eletromagnética"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Leia o texto e observe as imagens a seguir.\n\nNesses quadriláteros de maneira arbitrária cavados no coração da floresta, as ruas em ângulo reto são, de início, todas parecidas: traçados geométricos, privados de qualidade própria.\nClaude Lévi-Strauss, Tristes Trópicos, 1996, p.114\n\nAs plantas das cidades de Londrina, Cambé e Rolândia foram delineadas por Alexander Rasgulaeff, funcionário da empresa Companhia de Terras Norte do Paraná, que ocupou e desenvolveu a região.\nAssinale a alternativa que caracteriza, corretamente, a morfologia histórica urbana implementada a partir dos anos 1930 na região Norte do Paraná.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Aproveitou-se das trilhas e caminhos que ligavam as aldeias indígenas da região para a projeção do traçado destas cidades."
+        },
+        {
+          "letra": "B",
+          "texto": "Foi feita a partir das contribuições da viagem de Bigg-Witter à ocupação da região em meados do século XIX."
+        },
+        {
+          "letra": "C",
+          "texto": "Foi inspirada na ideia de Cidade Jardim, criada por Ebenezer Howard no final do século XIX, na Inglaterra."
+        },
+        {
+          "letra": "D",
+          "texto": "Devido ao processo de ocupação, nos pontos mais altos dessas cidades, foram construídos templos anglicanos e luteranos."
+        },
+        {
+          "letra": "E",
+          "texto": "Foi concebida dentro das tendências do urbanismo russo, que estabelecia autonomia econômica entre as cidades."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Urbanização",
+        "Geografia – Geografia do Paraná"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "O Brasil tem passado por importantes transformações no seu processo de urbanização. Entende-se como urbanização, a concentração da população em algumas cidades, metrópoles e aglomerações urbanas. Nesse sentido, é preciso compreender a complexidade das cidades a partir das atividades econômicas, da concentração e dispersão territorial e da dinâmica populacional.\nSobre a urbanização brasileira, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A expansão urbana tem contribuído para o aumento dos problemas ambientais e sociais, sobretudo nas periferias, muitas vezes acompanhada por um processo de crescimento desordenado e informal."
+        },
+        {
+          "letra": "B",
+          "texto": "O espaço urbano apresenta semelhanças nos valores imobiliários, nas relações entre as pessoas da sociedade ou no padrão arquitetônico da cidade, promovendo a integração de todos."
+        },
+        {
+          "letra": "C",
+          "texto": "O território urbano é unificado pelos transportes, comunicações e mercado, potencializando a interligação dos espaços e tornando a urbanização um fenômeno homogêneo sobre o espaço nacional."
+        },
+        {
+          "letra": "D",
+          "texto": "O processo de urbanização no Brasil tem promovido a completa integração econômica e social entre as regiões metropolitanas, garantindo uniformidade no acesso à infraestrutura, aos serviços e às oportunidades."
+        },
+        {
+          "letra": "E",
+          "texto": "O processo de urbanização se fez de forma equitativa entre as cidades, refletindo um planejamento eficaz, que minimiza os desafios socioambientais ligados às mudanças climáticas atuais."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Urbanização no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Leia o texto a seguir e responda às questões 19 e 20.\n\nOCDE aponta que 21% dos brasileiros possuem Ensino Superior\n\nApenas 21% dos jovens brasileiros, entre 25 e 34 anos, concluíram o Ensino Superior, segundo o levantamento \"Education at Glance\", elaborado pela Organização de Cooperação e Desenvolvimento Econômico (OCDE), publicado no final de 2021.\nO estudo aponta que essa é a média mais baixa entre os países analisados na América Latina: Argentina (40%), Chile (34%), Colômbia (29%) e Costa Rica (28%). A média entre os países pertencentes à OCDE é de 44%.\nNo Brasil, apenas 0,84% das pessoas entre 25 e 64 anos com Ensino Superior completo possuem mestrado, a média da OCDE é de 14,33%.\nO acesso ao mercado de trabalho para os brasileiros que possuem graduação, mestrado e doutorado é, respectivamente, 86%, 73% e 83%. A média mundial aponta que quanto maior o nível de estudo, maiores são as oportunidades: 83% (graduação), 87% (mestrado) e 90% (doutorado).\nAdaptado de: www.terra.com.br/noticias\n\nCom base no texto, considere as afirmativas a seguir.\n\nI. Entre os países da América Latina mencionados, o Brasil é o que apresenta média mais baixa de jovens com ensino superior completo, o que expressa a desigualdade educacional existente entre tais países.\nII. O fenômeno do baixo índice de conclusão do ensino superior no Brasil se deve ao fato de os indivíduos considerarem a educação um mecanismo de reprodução das desigualdades no capitalismo.\nIII. No Brasil, a razão entre o número de pessoas, de 25 a 64 anos, com Ensino Superior completo e as que possuem mestrado, é 20 vezes menor que a média da OCDE.\nIV. No Brasil, a cada 500 jovens, entre 25 e 34 anos, 105 concluíram o Ensino Superior, enquanto no grupo de países pertencentes à OCDE foram 220 concluintes para cada 500 jovens.\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e IV são corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas III e IV são corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I, II e III são corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, III e IV são corretas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Sociologia – Educação e Desigualdade Social"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Leia o texto a seguir e responda às questões 19 e 20.\n\nOCDE aponta que 21% dos brasileiros possuem Ensino Superior\n\nApenas 21% dos jovens brasileiros, entre 25 e 34 anos, concluíram o Ensino Superior, segundo o levantamento \"Education at Glance\", elaborado pela Organização de Cooperação e Desenvolvimento Econômico (OCDE), publicado no final de 2021.\nO estudo aponta que essa é a média mais baixa entre os países analisados na América Latina: Argentina (40%), Chile (34%), Colômbia (29%) e Costa Rica (28%). A média entre os países pertencentes à OCDE é de 44%.\nNo Brasil, apenas 0,84% das pessoas entre 25 e 64 anos com Ensino Superior completo possuem mestrado, a média da OCDE é de 14,33%.\nO acesso ao mercado de trabalho para os brasileiros que possuem graduação, mestrado e doutorado é, respectivamente, 86%, 73% e 83%. A média mundial aponta que quanto maior o nível de estudo, maiores são as oportunidades: 83% (graduação), 87% (mestrado) e 90% (doutorado).\nAdaptado de: www.terra.com.br/noticias\n\nLeia os seguintes trechos da notícia sobre o levantamento elaborado pela OCDE (2021).\n\n1) O acesso ao mercado de trabalho para os brasileiros que possuem graduação, mestrado e doutorado é, respectivamente, 86%, 73% e 83%.\n2) O estudo aponta que essa é a média mais baixa entre os países analisados na América Latina.\n3) A média mundial aponta que quanto maior o nível de estudo, maiores são as oportunidades.\n\nCom base nos trechos, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "No trecho 1, o termo “respectivamente” indica que o acesso ao mercado de trabalho é de 86%, 73% e 83% tanto para quem possui graduação, quanto para quem possui mestrado e doutorado."
+        },
+        {
+          "letra": "B",
+          "texto": "No trecho 2, a oração subordinada substantiva objetiva indireta, introduzida pela conjunção integrante “que”, tem a função de caracterizar o sujeito da primeira oração (o estudo)."
+        },
+        {
+          "letra": "C",
+          "texto": "No trecho 3, a oração subordinada adjetiva explicativa, introduzida pela conjunção integrante “que”, tem a função de acrescentar uma informação sobre o acesso ao mercado de trabalho pelos brasileiros."
+        },
+        {
+          "letra": "D",
+          "texto": "No trecho 1, a oração subordinada adjetiva restritiva, introduzida pelo pronome relativo “que”, tem a função de mostrar o acesso restrito ao mercado de trabalho a determinados brasileiros."
+        },
+        {
+          "letra": "E",
+          "texto": "No trecho 3, o sentido de concessão apresentado em: “A média mundial aponta que quanto maior o nível de estudo, maiores são as oportunidades” é mantido em “A média mundial aponta que, se o nível de estudo fosse maior, maiores seriam as oportunidades”."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe do Período Composto"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "O gráfico a seguir relaciona o percentual da quantidade de influenciadores digitais brasileiros, por gênero, com suas respectivas faixas de renda mensal.\n\n[...] O estudo apontou que 75% dos influenciadores digitais são mulheres, enquanto 25% são homens. Apesar da presença feminina ser predominante, a desigualdade de ganhos é evidente.\nhttps://hipermidiacom.com.br\n\n[...] Aqui no Brasil, a população de influencers gira em torno de 13,5 milhões, de acordo com dados da YouPix e Nielsen [...]\nhttps://exame.com/marketing\n\nCom base no gráfico, nos trechos das reportagens e supondo que a população brasileira seja de 210 milhões de habitantes, considere as afirmativas a seguir.\n\nI. A quantidade de homens influenciadores digitais que têm renda mensal de até 2 mil reais representa menos de $\\frac{1}{4}$ da quantidade de mulheres influenciadoras nessa mesma faixa de renda.\nII. A probabilidade de se tomar um(a) brasileiro(a), ao acaso, e este(a) ser um(a) influenciador(a) digital cujo recebimento mensal ultrapasse 100 mil reais é maior que 0,005.\nIII. A profissão de influenciador digital possibilita a mudança e a mobilidade entre classes sociais no Brasil, reconfigurando as questões de gênero.\nIV. Há o predomínio de mulheres influenciadoras digitais no Brasil: cerca de 59% destas ganham entre 2 mil reais e 10 mil reais mensais. Tais dados indicam que as desigualdades de gênero persistem.\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e IV são corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas III e IV são corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I, II e III são corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, III e IV são corretas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Análise de Gráficos",
+        "Matemática – Probabilidade",
+        "Sociologia – Desigualdade de Gênero"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Leia e complete o texto a seguir.\n\nMovimentos sociais são ações coletivas de caráter __________, construídas por __________ sociais pertencentes a diferentes classes e camadas sociais. Eles __________ suas demandas e criam um campo político de força social na sociedade civil. Suas ações estruturam-se a partir de repertórios criados sobre temas e problemas em situações de __________, litígios e disputas. As ações desenvolvem um processo social e político cultural que cria uma __________ coletiva ao movimento, a partir de interesses em comum [...].\nGOHN, Maria da Glória. 500 anos de lutas sociais no Brasil: movimentos sociais, ONGs e terceiro setor. p. 13. Rev. Mediações, Londrina, v. 5, p. 11-40, jan./jun. 2000.\n\nA socióloga Maria da Glória Gohn define os movimentos sociais como instrumentos fundamentais para os processos democráticos.\nConsiderando a definição da autora, assinale a alternativa que preenche correta e respectivamente as lacunas do texto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "socioeconômico, princípios, neutralizam, coerções, identidade."
+        },
+        {
+          "letra": "B",
+          "texto": "jurídico, princípios, politizam, autoridades, ação."
+        },
+        {
+          "letra": "C",
+          "texto": "sociopolítico, repertórios, solucionam, coerções, ação."
+        },
+        {
+          "letra": "D",
+          "texto": "socioeconômico, atores, neutralizam, conflitos, ideologia."
+        },
+        {
+          "letra": "E",
+          "texto": "sociopolítico, atores, politizam, conflitos, identidade."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Sociologia – Movimentos Sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "No Brasil, em 2022, apenas 4% dos resíduos como vidros, plásticos, papéis, metais e baterias foram reciclados. Esse índice é muito baixo e demonstra o quanto é possível ampliar a cadeia da reciclagem no país. Tal processo, além de gerar valor agregado aos materiais, contribui para a redução da poluição ambiental.\nSobre os processos físicos, químicos e as transformações que ocorrem na reciclagem dos materiais, considere as afirmativas a seguir.\n\nI. Os vidros são formados majoritariamente por sílica ($SiO_2$) e sua reciclagem, quando baseada na fusão e posterior moldagem, caracteriza-se como um processo físico.\nII. Os plásticos são polímeros constituídos por cadeias de monômeros e quando a reciclagem ocorre por meio do retorno do polímero à sua composição primária (monômero) caracteriza-se como um processo químico.\nIII. A reciclagem de plásticos por meio da incineração, produzindo vapor e calor, caracteriza-se como um processo físico.\nIV. O zinco metálico, elemento químico contido em pilhas, quando reciclado pelo aquecimento a altas temperaturas, é volatilizado e recuperado, caracterizando um processo químico.\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e IV são corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas III e IV são corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I, II e III são corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, III e IV são corretas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Processos Físicos e Químicos",
+        "Química – Reciclagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Leia o texto a seguir.\n\nSem abandonar o vosso assunto de Lisboa, deveis convir, por exemplo, que a natureza não havia absolutamente ajuntado ali vinte mil casas de seis a sete andares, e que se os habitantes desta grande cidade estivessem espalhados mais igualmente e mais levemente alojados, o estrago teria sido muito menor, e talvez, nulo. Todos teriam fugido ao primeiro abalo, e no dia seguinte teriam sido vistos a vinte léguas de lá, tão alegres como se nada tivesse acontecido; mas foi preciso ficar, teimar em permanecer em volta das casas, expor-se a novos tremores, porque o que se deixa vale mais do que aquilo que se pode levar.\nRousseau, Jean-Jacques. Carta de J.J. Rousseau ao Senhor de Voltaire. In: Jean-Jacques Rousseau: escritos sobre religião e moral. Tradução de: Adalberto L. Vicente; Ana L. S. Camarini e José Oscar de A. Marques. Cadernos de Tradução, vol. 2. Campinas. IFCH. 2006, p. 162.\n\nO Terremoto de Lisboa (1755) ocorreu durante a crise do Absolutismo em Portugal e a promoção do Iluminismo no governo de Marquês de Pombal, que estabeleceu reformas para conter as diversas crises pelas quais o Reino passava.\nSobre o Período Pombalino (1750-1777), assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ocorreu o fortalecimento da escravidão negra como alternativa à carência de mão de obra para a reconstrução da capital da metrópole."
+        },
+        {
+          "letra": "B",
+          "texto": "Foi autorizada a atuação da Ordem de São Francisco para estabelecer a leitura naturalista do fenômeno ocorrido em 1755."
+        },
+        {
+          "letra": "C",
+          "texto": "Estabeleceu-se a garantia da liberdade religiosa ao autorizar a fundação de escolas dirigidas pelas igrejas reformadas em toda extensão do império colonial."
+        },
+        {
+          "letra": "D",
+          "texto": "A influência religiosa foi minimizada com políticas anticlericais como a expulsão da Companhia de Jesus da colônia do Brasil em 1759."
+        },
+        {
+          "letra": "E",
+          "texto": "Sob influência dos ideais iluministas em Portugual no século VIII, atribuía-se o fenômeno tectônico aos desvios morais dos portugueses."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Período Pombalino",
+        "História – Iluminismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Leia o texto a seguir.\n\nQUAKE\n\nWhat is Quake?\nTake an incredible journey back in time to 1755 to relive Lisbon's most dramatic and transformative event - the Lisbon Earthquake.\n\nGet ready for a unique experience\nVisit Quake to learn about the seismic activity that rippled through Lisbon in 1755.\nGoing on this immersive experience, you will walk through the streets of the lost city, re-visit the horrors and wonders of that era, and watch the drama unfold before you.\nGet to know the heroes and villains from that time and enjoy being at the heart of the action leading to a major political, scientific and historical transformation all over the world.\n\nImmerse yourself in the thrilling reality of earthquakes.\nWith our cutting-edge Earthquake Simulators, to learn more on the origin of earthquakes and tsunamis and better understand why Lisbon was so affected in 1755.\n\nSafety at Quake\nAccess to the simulator platform is not recommended to people who are pregnant, with reduced mobility or any other health conditions susceptible to the simulator's movements, namely heart problems.\n\nWhat our customers say\n\n“The best museum I've been to!\nAll of your senses are stimulated, from amazing sound quality, brilliant video reels, smells and even heat from the burning buildings. It's great for all ages and we would highly recommend a visit.”\nWorldTravellerTony\n\n“Brilliant\nAbsolutely brilliant. Really immersive experience. Fantastic experience. Not like a traditional museum at all. Family loved it. We've been to a lot of museums, this one rates as one of the best of all. Go!”\nLouise C\n\nhttps://lisbonquake.com\n\nCom base no texto, assinale a alternativa que apresenta, corretamente, o objetivo da experiência descrita.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Transmitir dados científicos e explicações técnicas sobre a origem de terremotos e tsunamis, por meio do uso de simuladores."
+        },
+        {
+          "letra": "B",
+          "texto": "Conduzir os visitantes a uma vivência sensorial que explora aspectos históricos, científicos e culturais do terremoto de Lisboa."
+        },
+        {
+          "letra": "C",
+          "texto": "Causar uma atividade sísmica de forma a promover uma experiência real do fenômeno."
+        },
+        {
+          "letra": "D",
+          "texto": "Alertar os moradores de Lisboa sobre o risco de terremotos e tsunamis e possíveis rotas de escape."
+        },
+        {
+          "letra": "E",
+          "texto": "Promover uma experiência visual e tátil aos interessados, incluindo gestantes e cardíacos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Leia o trecho de Torto Arado, de Itamar Vieira Júnior, a seguir.\n\nNo hospital, demoramos a ser atendidas. Nossos pais estavam encolhidos em um canto ao nosso lado. Vi as calças sujas de terra que ele não teve tempo de trocar. [...] Meu pai ainda segurava a língua envolta na mesma camisa. As folhas estavam guardadas nos bolsos de sua calça, talvez por vergonha de o apontarem com desdém como feiticeiro dentro daquele lugar que ele não conhecia. Foi o primeiro lugar em que vi mais gente branca que preta. E vi como as pessoas nos olhavam com curiosidade, mas sem se aproximar. [...] Nossas feridas foram suturadas, e permanecemos juntas por mais dois dias. Saímos com um carregamento de antibióticos e analgésicos nas mãos. Teríamos que voltar dali a duas semanas para retirar os pontos. [...] Nunca havíamos andado no Ford Rural da fazenda ou em qualquer outro automóvel. E como era diferente o mundo além de Água Negra! Como era diferente a cidade com suas casas grudadas umas às outras, dividindo paredes. As ruas calçadas com pedras. O chão das nossas casas e dos caminhos da fazenda eram de terra. De barro, apenas, que também servia para fazer a comida de nossas bonecas de sabugo, e de onde brotava quase tudo que comíamos. Onde enterrávamos os restos do parto e o umbigo dos nascidos.\nVIEIRA JUNIOR, Itamar. Torto arado. São Paulo: Todavia, 2019. p. 18-19; 20.\n\nCom base no trecho e na leitura integral da obra, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O romance é todo narrado por Belonísia, que conta a história de como sua irmã se acidentou com a faca de Donana."
+        },
+        {
+          "letra": "B",
+          "texto": "“Meu pai ainda segurava a língua” é uma metáfora para o acanhamento do pai, que se envergonha de suas roupas sujas na cidade grande."
+        },
+        {
+          "letra": "C",
+          "texto": "Observa-se uma oposição entre cidade e campo, entre as religiões de matriz africana no meio rural e a ciência e a técnica (remédios, automóveis e asfalto) no meio urbano."
+        },
+        {
+          "letra": "D",
+          "texto": "Observa-se o uso do discurso direto em “as pessoas nos olhavam com curiosidade”, pois o narrador assume o ponto de vista de outra personagem."
+        },
+        {
+          "letra": "E",
+          "texto": "Os médicos demoram a atendê-las propositalmente, pois sabem que as irmãs se feriram numa briga por causa de Severo, um militante do Partido Comunista."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira Contemporânea"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Observe a imagem, leia o poema e responda às questões de 27 a 29.\n\nO menino da sua mãe\n\nNo plaino abandonado\nQua a morna brisa aquece,\nDe balas transpassado\n— Duas, de lado a lado —,\nJaz morto, e arrefece.\n\nRaia-lhe a farda o sangue.\nDe braços estendidos,\nAlvo, louro, exangue,\nFita com olhar langue\nE cego os céus perdidos.\n\nTão jovem! que jovem era!\n(Agora que idade tem?)\nFilho único, a mãe lhe dera\nUm nome e o mantivera:\n«O menino de sua mãe».\nCaiu-lhe da algibeira\nA cigarreira breve.\nDera-lha a mãe. Está inteira\nE boa a cigarreira.\nEle é que já não serve.\n\nDe outra algibeira, alada\nPonta a roçar o solo, A brancura embainhada\nDe um lenço... Deu-lho a criada\nVelha que o trouxe ao colo.\n\nLá longe, em casa, há a prece:\n«Que volte cedo, e bem!»\n(Malhas que o Império tece!)\nJaz morto, e apodrece,\nO menino da sua mãe\n\nPESSOA, Fernando. Poesias. (Nota explicativa de João Gaspar Simões e Luiz de Montalvor.) Lisboa: Ática, 1942 (15ª ed. 1995). 217. 1ª publ. in Contemporânea, 3ª série, nº 1. Lisboa: 1926. http://arquivopessoa.net\n\nCom base no poema e na imagem, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "É possível verificar que, assim como no poema, na imagem de um soldado acompanhado por um robô, há exclusiva exaltação da ação heroica e da bravura dos soldados na guerra."
+        },
+        {
+          "letra": "B",
+          "texto": "Tanto a imagem quanto o poema valorizam o combate como uma maneira de reafirmar o patriotismo, o desejo pela liberdade e a soberania de um país, seja pelos embates corpo a corpo seja por meio do uso de tecnologias."
+        },
+        {
+          "letra": "C",
+          "texto": "O tema da guerra permeia tanto a imagem quanto o poema, mas enquanto este destaca o sofrimento causado pela morte de um jovem soldado no confronto, aquela sugere que o avanço tecnológico pode reduzir a presença humana no campo de batalha."
+        },
+        {
+          "letra": "D",
+          "texto": "O poema trata a guerra de forma amistosa, enquanto a imagem evidencia o fim dos confrontos armados e o uso de robôs nas ações militares, proporcionando guerras estratégicas e virtuais, portanto sem perdas de vidas."
+        },
+        {
+          "letra": "E",
+          "texto": "Tanto no poema quanto na imagem, o soldado é retratado como uma figura simbólica, sem relação com a realidade cotidiana das guerras que mostram cenários de destruição e caos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Intertextualidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Observe a imagem, leia o poema e responda às questões de 27 a 29.\n\nO menino da sua mãe\n\nNo plaino abandonado\nQua a morna brisa aquece,\nDe balas transpassado\n— Duas, de lado a lado —,\nJaz morto, e arrefece.\n\nRaia-lhe a farda o sangue.\nDe braços estendidos,\nAlvo, louro, exangue,\nFita com olhar langue\nE cego os céus perdidos.\n\nTão jovem! que jovem era!\n(Agora que idade tem?)\nFilho único, a mãe lhe dera\nUm nome e o mantivera:\n«O menino de sua mãe».\nCaiu-lhe da algibeira\nA cigarreira breve.\nDera-lha a mãe. Está inteira\nE boa a cigarreira.\nEle é que já não serve.\n\nDe outra algibeira, alada\nPonta a roçar o solo, A brancura embainhada\nDe um lenço... Deu-lho a criada\nVelha que o trouxe ao colo.\n\nLá longe, em casa, há a prece:\n«Que volte cedo, e bem!»\n(Malhas que o Império tece!)\nJaz morto, e apodrece,\nO menino da sua mãe\n\nPESSOA, Fernando. Poesias. (Nota explicativa de João Gaspar Simões e Luiz de Montalvor.) Lisboa: Ática, 1942 (15ª ed. 1995). 217. 1ª publ. in Contemporânea, 3ª série, nº 1. Lisboa: 1926. http://arquivopessoa.net\n\nEm “O menino da sua mãe”, Fernando Pessoa faz uso dos pronomes oblíquos “lhe”, “lha” e “lho” para estabelecer relações de sentido, coesão textual e tom afetivo ao poema.\nSobre o uso desses pronomes no poema, considere as afirmativas a seguir.\n\nI. Em “Deu-lho a criada velha”, “lho” é formado pela junção de “lhe” + “o”, os quais exercem a função de objeto indireto e direto e indicam que a criada deu ao menino o lenço.\nII. O pronome “lhe” em “Caiu-lhe da algibeira a cigarreira” exerce a função de objeto indireto e foi usado com sentido possessivo.\nIII. No verso “Raia-lhe a farda o sangue”, o pronome “lhe” desempenha a função de sujeito da ação, referindo-se ao sangue que raia a farda do soldado.\nIV. Em “Filho único, a mãe lhe dera um nome”, o pronome “lhe” exerce a função de sujeito simples do verbo “dar” e refere-se à mãe.\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e IV são corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas III e IV são corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I, II e III são corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, III e IV são corretas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Morfossintaxe",
+        "Língua Portuguesa – Pronomes"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Observe a imagem, leia o poema e responda às questões de 27 a 29.\n\nO menino da sua mãe\n\nNo plaino abandonado\nQua a morna brisa aquece,\nDe balas transpassado\n— Duas, de lado a lado —,\nJaz morto, e arrefece.\n\nRaia-lhe a farda o sangue.\nDe braços estendidos,\nAlvo, louro, exangue,\nFita com olhar langue\nE cego os céus perdidos.\n\nTão jovem! que jovem era!\n(Agora que idade tem?)\nFilho único, a mãe lhe dera\nUm nome e o mantivera:\n«O menino de sua mãe».\nCaiu-lhe da algibeira\nA cigarreira breve.\nDera-lha a mãe. Está inteira\nE boa a cigarreira.\nEle é que já não serve.\n\nDe outra algibeira, alada\nPonta a roçar o solo, A brancura embainhada\nDe um lenço... Deu-lho a criada\nVelha que o trouxe ao colo.\n\nLá longe, em casa, há a prece:\n«Que volte cedo, e bem!»\n(Malhas que o Império tece!)\nJaz morto, e apodrece,\nO menino da sua mãe\n\nPESSOA, Fernando. Poesias. (Nota explicativa de João Gaspar Simões e Luiz de Montalvor.) Lisboa: Ática, 1942 (15ª ed. 1995). 217. 1ª publ. in Contemporânea, 3ª série, nº 1. Lisboa: 1926. http://arquivopessoa.net\n\nSobre o poema O menino de sua mãe, de Fernando Pessoa, considere as afirmativas a seguir.\n\nI. Os versos da primeira estrofe são heptassílabos e compostos, quanto à classificação fonética, com rimas agudas e esdrúxulas.\nII. Tanto a cigarreira quanto o lenço referenciados no poema simbolizam o afeto familiar, representando os cuidados pessoais recebidos pelo jovem soldado.\nIII. O verso “(Malhas que o Império tece!)” sugere uma crítica ao tratamento impessoal e indiferente das instituições em relação ao sofrimento individual.\nIV. Observa-se o emprego da hipálage em “plaino abandonado”, “céus perdidos” e “cigarreira breve”, pois as características referem-se, na verdade, ao menino e não a esses elementos.\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e IV são corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas III e IV são corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I, II e III são corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, III e IV são corretas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Análise Poética",
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "A expressão “racismo ambiental” é atribuída ao reverendo negro Benjamin Chavis, que, ainda adolescente, participou das lutas pelos direitos civis nos Estados Unidos. Atualmente, tal conceito tem ganhado relevância no debate socioambiental. Com base nos conhecimentos sobre racismo ambiental, considere as afirmativas a seguir.\n\nI. A resiliência das comunidades diante dos fenômenos naturais é determinada pela adaptação natural das populações às condições do território em que vivem ao longo do tempo.\nII. O racismo ambiental recai sobre grupos vulnerabilizados, muitas vezes, afetados por fenômenos como inundações ou deslizamentos, devido à localização de suas moradias.\nIII. A presença de comunidades em áreas de risco é uma consequência direta do racismo estrutural, que influencia a distribuição desigual de recursos e a ocupação do território.\nIV. O racismo ambiental e a injustiça ambiental são termos correlatos e que fazem referência à maneira como a degradação do meio ambiente impacta as várias camadas da população de modo distinto.\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e IV são corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas III e IV são corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I, II e III são corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, III e IV são corretas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Questões Socioambientais",
+        "Sociologia – Racismo Ambiental"
+      ]
+    }
+  ]
+}

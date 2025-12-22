@@ -1,0 +1,2158 @@
+{
+  "nomeUniversidade": "Universidade Federal de Roraima",
+  "siglaUniversidade": "UFRR",
+  "nomeProva": "Vestibular 2025 Integral | E3",
+  "ano": 2025,
+  "qtdeQuestoes": 72,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "TEXTO I\nLeia a tirinha abaixo e responda o que se pede:\n[Balao 1]: O COMBO NÚMERO DOIS, POR FAVOR.\n[Balao 2]: MAIS TRÊS REAIS VOCÊ LEVA UMA BATATA GRANDE.\n[Balao 3]: GRANDE QUANTO?\n\nNa tirinha acima, Dolores, a senhora que está fazendo a compra, entende de maneira exata a resposta do atendente (2º quadrinho). Essa literalidade revela que Dolores compreendeu a mensagem no sentido:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "denotativo"
+        },
+        {
+          "letra": "B",
+          "texto": "conotativo"
+        },
+        {
+          "letra": "C",
+          "texto": "apelativo"
+        },
+        {
+          "letra": "D",
+          "texto": "informativo"
+        },
+        {
+          "letra": "E",
+          "texto": "emotivo"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Leia o trecho abaixo retirado do livro O jogo da democracia, de Aldenor Pimentel, e responda o que se pede.\n\nRico se mantinha de costas para a Democracia. Passou perto, sem falar com os ex-companheiros de equipe, como se nem os conhecesse.\n\n(PIMENTEL, Aldenor. O jogo da democracia. – Rio de Janeiro: Oficina Raquel, 2021. 64p.:il.; p. 48)\n\nSobre a história retratada no livro O jogo da democracia e considerando o trecho acima sublinhado, assinale a alternativa CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A afirmação de que Rico se mantinha de costas para a Democracia apresenta pelo menos dois sentidos: um literal e um metafórico."
+        },
+        {
+          "letra": "B",
+          "texto": "A afirmação de que Rico se mantinha de costas para a Democracia apresenta apenas sentido literal."
+        },
+        {
+          "letra": "C",
+          "texto": "A afirmação de que Rico se mantinha de costas para a Democracia apresenta apenas sentido metafórico."
+        },
+        {
+          "letra": "D",
+          "texto": "A afirmação de que Rico se mantinha de costas para a Democracia apresenta sua postura antidemocrática."
+        },
+        {
+          "letra": "E",
+          "texto": "A afirmação de que Rico se mantinha de costas para a Democracia demonstra que ele ainda pretendia retornar para o seu antigo time."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "TEXTO II\nCarregado de mim ando no mundo,\nE o grande peso embarga-me as passadas,\nQue como ando por vias desusadas,\nFaço o peso crescer, e vou-me ao fundo.\n\nO remédio será seguir o imundo\nCaminho, onde dos mais vejo as pisadas,\nQue as bestas andam juntas mais ousadas,\nDo que anda só o engenho mais profundo.\n\nNão é fácil viver entre os insanos,\nErra, quem presumir que sabe tudo,\nSe o atalho não soube dos seus danos.\n\nO prudente varão há de ser mudo,\nQue é melhor neste mundo, mar de enganos,\nSer louco c'os demais, que só, sisudo.\n\n(Gregório de Matos. Poemas escolhidos. Organização de José Miguel Wisnik. São Paulo: Cultrix, s.d. p. 253)\n\nSobre o poema do texto II, é INCORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "trata-se de um soneto com rimas interpoladas ou opostas (ABBA) nos quartetos."
+        },
+        {
+          "letra": "B",
+          "texto": "o eu lírico apresenta um sentimento de não pertencimento em relação ao mundo em que vive."
+        },
+        {
+          "letra": "C",
+          "texto": "embora seja um poema barroco, não apresenta antíteses nem paradoxos."
+        },
+        {
+          "letra": "D",
+          "texto": "o soneto faz uso do recurso sintático da inversão, característica comum em obras barrocas."
+        },
+        {
+          "letra": "E",
+          "texto": "o eu lírico compara o mundo em que vive a um mar de enganos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira / Barroco"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "TEXTO III\nMal secreto\n\nSe a cólera que espuma, a dor que mora\nN'alma, e destrói cada ilusão que nasce,\nTudo o que punge, tudo o que devora\nO coração, no rosto se estampasse;\n\nSe se pudesse, o espírito que chora,\nVer através da máscara da face,\nQuanta gente, talvez, que inveja agora\nNos causa, então piedade nos causasse!\n\nQuanta gente que ri, talvez, consigo\nGuarda um atroz, recôndito inimigo\nComo invisível chaga cancerosa!\n\nQuanta gente que ri, talvez existe,\nCuja ventura única consiste\nEm parecer aos outros venturosa!\n\nCORREIA, Raimundo. Mal Secreto. Sinfonias, 1883.\n\nSobre o texto III, é CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "trata-se de um soneto pertencente ao período literário do Realismo, por isso obedece à composição clássica de dois quartetos e dois tercetos, cuja linguagem objetiva trata de temas relacionados ao pessimismo e a morte."
+        },
+        {
+          "letra": "B",
+          "texto": "trata-se de um soneto pertencente ao período literário do Parnasianismo, por isso obedece à composição clássica de dois quartetos e dois tercetos, cuja linguagem culta trata de temas relacionados aos sentimentos humanos em sua forma mais contida."
+        },
+        {
+          "letra": "C",
+          "texto": "trata-se de um poema-prosa pertencente ao período literário do Realismo, por isso não obedece à composição clássica do soneto, e apresenta uma linguagem realista voltada para a temática do pessimismo humano."
+        },
+        {
+          "letra": "D",
+          "texto": "trata-se de um poema lírico pertencente ao período literário do Naturalismo, por isso obedece à composição clássica do soneto, e apresenta uma linguagem objetiva, com o detalhamento dos sentimentos e comportamentos humanos."
+        },
+        {
+          "letra": "E",
+          "texto": "trata-se de um soneto pertencente ao período literário do Romantismo, por isso está composto por dois quartetos e dois tercetos, e possui uma linguagem direta, com adjetivos realistas que traduzem os sentimentos e atitudes humanas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira / Parnasianismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Ainda com relação ao texto III, do poema de Raimundo Correia, é CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o eu lírico externa a sua benevolência com relação à apreciação da forma como o ser humano inibe suas dores para adaptar-se ao convívio social."
+        },
+        {
+          "letra": "B",
+          "texto": "o eu lírico externa a sua inquietação com relação à maneira como o ser humano costuma inibir suas dores e sentimentos para adaptar-se à hipocrisia do perfeccionismo social."
+        },
+        {
+          "letra": "C",
+          "texto": "o eu lírico externa o seu desprezo com relação às dores e aos sentimentos da alma humana."
+        },
+        {
+          "letra": "D",
+          "texto": "o eu lírico externa a sua complacência com relação à atitude humana em esconder seus sentimentos para não despertar pena nos inimigos."
+        },
+        {
+          "letra": "E",
+          "texto": "o eu lírico externa a sua inquietação com relação à forma como o ser humano costuma exibir suas dores e sentimentos de maneira a tentar sensibilizar os outros."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Poemas"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "TEXTO IV\n\"Ao escrever esta peça, onde combate o mundanismo, praga de sua igreja, o autor quis [...] indicar que sabe, mais do que ninguém, que sua alma é um velho catre, cheio de insensatez e de solércia. Ele não tinha o direito de tocar nesse tema, mas ousou fazê-lo, baseado no espírito popular de sua gente, porque acredita que esse povo sofre, é um povo salvo e tem direito a certas intimidades”.\n\nSUASSUNA, Ariano. Auto da Compadecida. Rio de Janeiro: Nova Fronteira, 2018.\n\nCom relação ao Texto IV, ao observar a palavra em destaque, a alternativa que a classifica sintaticamente de maneira CORRETA é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "complemento nominal formado por um substantivo, na função de adjetivo, que está atribuindo uma característica ao substantivo catre."
+        },
+        {
+          "letra": "B",
+          "texto": "adjunto adverbial formado por um adjetivo, na função de substantivo, que está atribuindo uma característica ao substantivo catre."
+        },
+        {
+          "letra": "C",
+          "texto": "adjunto adnominal formado por um adjetivo, que está atribuindo uma característica ao pronome um."
+        },
+        {
+          "letra": "D",
+          "texto": "adjunto adnominal formado por um adjetivo, que está atribuindo uma característica ao substantivo catre."
+        },
+        {
+          "letra": "E",
+          "texto": "complemento nominal formado por um adjetivo, que está atribuindo uma característica ao numeral um."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe / Análise Sintática"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Sobre as características e as fases do Modernismo Brasileiro, considere as assertivas a seguir e assinale a alternativa CORRETA.\n\nI. Tem seu surgimento marcado pela Semana de Arte Moderna em 1922.\nII. Possui quatro fases de desenvolvimento no Brasil;\nIII. Tem como característica a experimentação estética e a valorização da identidade brasileira na produção artística, literária e cultural.\nIV. Utiliza técnicas tradicionais e clássicas na produção artística, literária e cultural.\nV. Possui concordância com os valores burgueses e com a sociedade tradicional da época.\nVI. Apresenta rompimento com as estruturas do passado.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, III e VI estão corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e VI estão corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "I, II e III estão corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, III, IV e VI estão corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Apenas I está correta."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira / Modernismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "TEXTO V\n\"[...] E assim os favelados acalmaram. E durmiram tranquilos. Ainda não tinham ido falar como Dr Adhemar de Barrós. Eles confiavam nêste grande lider. Reuniram e foram. E foram bem recebidos pelo Dr. Adhemar que não faz seleção. E abria as portas do palacio para a turba. Foi por intermedio do Dr. Adhemar de Barros que o ze povinho conheceu as dependências dos campos eliseos. Citaram ao Dr. Adhemar os seus problemas angustioso. [...] Quantas pessoas que moravam em casas de tijolos invejava os favelados dizia que nós eramos favorecidos pelo políticos. No inicio isto aqui era um primor. Todos os dias, chegava um barracão. Não havia divergência. Reuniram cotisavam e estalavam a luz. Quem tinha radio tocava e a favela, era mais alegre. Eu morava na rua Riachuelo. A casa foi demolida eu passei a residir no Hotel todas admirava. Dizia: granfina! [...]\".\n\nFonte: JESUS, Carolina Maria de. Ed. São Paulo, 2014, p.24-25.\n\nNo fragmento do texto V \"[...] Quantas pessoas que moravam em casas de tijolos invejava os favelados dizia que nós eramos favorecidos pelo políticos [...]\", em termos sintáticos, temos uma oração subordinada que pode ser classificada CORRETAMENTE em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "oração subordinada adverbial causal."
+        },
+        {
+          "letra": "B",
+          "texto": "oração subordinada adverbial condicional."
+        },
+        {
+          "letra": "C",
+          "texto": "oração subordinada substantiva objetiva direta."
+        },
+        {
+          "letra": "D",
+          "texto": "oração subordinada substantiva predicativa."
+        },
+        {
+          "letra": "E",
+          "texto": "oração subordinada adjetiva explicativa."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe / Período Composto"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Considerando a leitura da obra integral \"Onde estaes felicidade?\" da escritora Carolina Maria de Jesus e do texto V, é possível afirmar CORRETAMENTE que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A obra infere uma visão romântica de pobreza, de desigualdade e de discriminação racial."
+        },
+        {
+          "letra": "B",
+          "texto": "A obra está permeada de discussões filosóficas e abstratas em torno de questões relacionadas à desigualdade social e econômica vivenciada por muitos moradores de favelas brasileiras."
+        },
+        {
+          "letra": "C",
+          "texto": "A obra está recheada de elementos estéticos inovadores, além de problematizar questões sociais, econômicas e políticas importantes que envolvem a população vulnerável."
+        },
+        {
+          "letra": "D",
+          "texto": "A obra traz de maneira central reflexões que perpassam os desafios frente à pobreza e à discriminação racial, evidenciando o realismo social."
+        },
+        {
+          "letra": "E",
+          "texto": "A obra é dotada de uma complexidade narrativa e estrutural que possibilita compreender de forma detalhada os problemas sociais e culturais vivenciados pela autora."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Se uma função $f$ é definida por\n$f(x) = \\sqrt{3 - |x - 1|}$\nentão, o domínio(D) e imagem(I) de $f$ são iguais a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$D = [-2,4]$ e $I = [0,\\sqrt{3}]$"
+        },
+        {
+          "letra": "B",
+          "texto": "$D = [-2,4]$ e $I = [\\sqrt{2},\\sqrt{3}]$"
+        },
+        {
+          "letra": "C",
+          "texto": "$D = [-4,2]$ e $I = [0, +\\infty)$"
+        },
+        {
+          "letra": "D",
+          "texto": "$D = [-4,2]$ e $I = [0,\\sqrt{3}]$"
+        },
+        {
+          "letra": "E",
+          "texto": "$D = [-2,4]$ e $I = [0, +\\infty)$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Funções / Domínio e Imagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Se a figura abaixo é um quadrado de lado $L$.\nentão o valor da área sombreada é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$L^2 (1 - \\frac{\\pi}{3} + \\frac{\\sqrt{3}}{4})$"
+        },
+        {
+          "letra": "B",
+          "texto": "$L^2 (1 + \\frac{\\pi}{3} - \\frac{\\sqrt{3}}{4})$"
+        },
+        {
+          "letra": "C",
+          "texto": "$L^2 (1 + \\frac{\\pi}{6} - \\frac{\\sqrt{3}}{8})$"
+        },
+        {
+          "letra": "D",
+          "texto": "$L^2 (1 - \\frac{\\pi}{6} + \\frac{\\sqrt{3}}{8})$"
+        },
+        {
+          "letra": "E",
+          "texto": "$L^2 (1 - \\frac{\\pi}{3} - \\frac{\\sqrt{3}}{4})$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Plana / Áreas"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Na figura a seguir, $ABC$ é um triângulo de lados $AB = 8$ e $AC = 10$.\nSe $M$ é ponto médio de $AB$, $P$ é ponto médio $CM$ e $NC = 3$, o perímetro do triângulo $ABC$ é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "25"
+        },
+        {
+          "letra": "B",
+          "texto": "26"
+        },
+        {
+          "letra": "C",
+          "texto": "27"
+        },
+        {
+          "letra": "D",
+          "texto": "28"
+        },
+        {
+          "letra": "E",
+          "texto": "29"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Plana / Relações Métricas no Triângulo"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Sabendo que o número de inscrição do ENEM é uma sequência de 12 dígitos, supondo que todos os dígitos sejam números de 0 a 9 e que nenhuma inscrição poderá ter dígitos todos iguais a zero, podemos CORRETAMENTE afirmar que a quantidade máxima de números de inscrição que podem ser geradas é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$12^{10}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$9 \\cdot 10^{11}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$10^6$"
+        },
+        {
+          "letra": "D",
+          "texto": "$7 \\cdot 10^6$"
+        },
+        {
+          "letra": "E",
+          "texto": "$10^{12} - 1$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Se $0 < x < \\frac{\\pi}{2}$ e $\\text{sen}^2(2x)=1$, então $\\text{sec}^2 x + \\text{cossec}^2 x$ vale:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "4"
+        },
+        {
+          "letra": "C",
+          "texto": "0"
+        },
+        {
+          "letra": "D",
+          "texto": "-1"
+        },
+        {
+          "letra": "E",
+          "texto": "2"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Trigonometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Uma pessoa simulou a compra dos itens A, B e C em quantidades diferentes e encontrou os valores descritos na seguinte tabela:\nPodemos afirmar CORRETAMENTE que os preços unitários dos itens A, B e C são, respectivamente:",
+      "alternativas": null,
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Sistemas Lineares"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "No gráfico temos uma parábola cujo vértice está na origem O, o ponto F é o foco da parábola e a reta D é sua reta diretriz. Se $A = (6,9)$ e $\\text{tg}(\\beta) = \\frac{3}{2}$, onde $\\beta \\in (0, \\frac{\\pi}{2})$, então a área do triângulo $\\triangle AFC$ é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "57"
+        },
+        {
+          "letra": "B",
+          "texto": "27"
+        },
+        {
+          "letra": "C",
+          "texto": "33"
+        },
+        {
+          "letra": "D",
+          "texto": "54"
+        },
+        {
+          "letra": "E",
+          "texto": "66"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Geometria Analítica / Parábola"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Determine a parte imaginária do número complexo z, se\n$$z = \\frac{i^{2020} + i^{2024}}{i + i^2 + i^3 + i^4 + \\dots + i^{2025}}$$",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "1"
+        },
+        {
+          "letra": "C",
+          "texto": "$2024^{-1}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$2025^{-1}$"
+        },
+        {
+          "letra": "E",
+          "texto": "-2"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Números Complexos"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Nas cônicas define-se uma “corda” como o segmento que conecta dois pontos da cônica. Seja a elipse $\\mathcal{E}$ dada por:\n$4y^2 + x^2 - 16y - 2x = -1$\ne $C$ uma corda de $\\mathcal{E}$ cujo ponto médio é $M = (4, 1)$. A equação da reta que contém a corda $C$ é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$3y - 4x + 8 = 0$"
+        },
+        {
+          "letra": "B",
+          "texto": "$4y - 3x - 13 = 0$"
+        },
+        {
+          "letra": "C",
+          "texto": "$3y - 4x + 13 = 0$"
+        },
+        {
+          "letra": "D",
+          "texto": "$y + 4x - 8 = 0$"
+        },
+        {
+          "letra": "E",
+          "texto": "$4y - 3x + 8 = 0$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Analítica / Elipse"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "A espécie Mimosa pudica é famosa pelo fechamento de seus folíolos quando tocados. Isso ocorre, pois, na base do folíolo, existem células que as tornam túrgidas e os folíolos eretos. Esse fenômeno está associado à ação da bomba de sódio e potássio, um exemplo clássico de transporte ativo através da membrana plasmática.\n\nCom base no contexto e na imagem acima, analise as alternativas a seguir e assinale a alternativa CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As células na base do folíolo de M. pudica realizam transporte passivo de íons, permitindo que eles se movam de áreas de maior concentração para áreas de menor concentração, resultando no fechamento dos folíolos."
+        },
+        {
+          "letra": "B",
+          "texto": "A M. pudica utiliza a bomba de sódio e potássio para aumentar a concentração de íons dentro das células, tornando-as mais túrgidas e fazendo com que os folíolos se abram."
+        },
+        {
+          "letra": "C",
+          "texto": "As células na base do folíolo de M. pudica perdem água através de difusão simples, o que resulta no fechamento dos folíolos."
+        },
+        {
+          "letra": "D",
+          "texto": "As células na base do folíolo de M. pudica utilizam a bomba de sódio e potássio para transportar íons contra o gradiente de concentração, resultando no fechamento dos folíolos."
+        },
+        {
+          "letra": "E",
+          "texto": "O fechamento dos folíolos da M. pudica é causado pela entrada passiva de água nas células na base dos folíolos, aumentando sua turgidez."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Fisiologia Vegetal / Movimentos Vegetais",
+        "Biologia – Citologia / Transporte através da membrana"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Cientistas descobriram uma organela em uma célula eucariótica capaz de fixar nitrogênio, chamada de \"nitroplasto\". Esta descoberta é rara, pois até então, acreditava-se que apenas bactérias poderiam fixar nitrogênio da atmosfera para uso pelas plantas. (Revista Galileu, 2024).\n\nCom base no contexto e na imagem representativa do processo de formação do nitroplasto, analise as alternativas a seguir e assinale a CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O nitroplasto mostra que células eucarióticas podem fixar nitrogênio de forma independente."
+        },
+        {
+          "letra": "B",
+          "texto": "O nitroplasto sugere que a fixação de nitrogênio é universal em organelas eucarióticas, sem precisar de endossimbiose."
+        },
+        {
+          "letra": "C",
+          "texto": "O nitroplasto em células eucarióticas contradiz a teoria da endossimbiose, mostrando a fixação de nitrogênio como um processo primário."
+        },
+        {
+          "letra": "D",
+          "texto": "O nitroplasto apoia a teoria da endossimbiose ao sugerir que uma célula eucariótica incorporou uma bactéria fixadora de nitrogênio."
+        },
+        {
+          "letra": "E",
+          "texto": "O nitroplasto sugere que a fixação de nitrogênio surgiu independentemente em diferentes linhagens eucarióticas, sem necessidade de simbiose com bactérias."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Citologia / Teoria da Endossimbiose",
+        "Biologia – Evolução"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "As mudanças climáticas impactam os ecossistemas do Brasil, a exemplo do enunciado da reportagem abaixo, afetando a fotossíntese em plantas e quimiossíntese dos microrganismos. Qual alternativa melhor descreve como essas alterações podem afetar o metabolismo energético em relação aos componentes celulares?\n\nQueimadas em Roraima causaram a maior degradação florestal dos últimos 15 anos na Amazônia\nÁrea na Amazônia afetada pelo dano ambiental chegou a 2.846 km² de janeiro a abril, a maior desde 2009. Roraima foi responsável por 99% da degradação.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A variação nos níveis de $CO_2$ devido ao desmatamento e queimadas intensifica a quimiossíntese em bactérias, que utilizam este gás para produzir energia em seus lisossomos."
+        },
+        {
+          "letra": "B",
+          "texto": "A elevação das temperaturas e a variação da umidade afetam os tilacoides nos cloroplastos, prejudicando a fotossíntese nas plantas."
+        },
+        {
+          "letra": "C",
+          "texto": "As mudanças climáticas aumentam a produção de ATP nas mitocôndrias das células vegetais devido à maior disponibilidade de oxigênio atmosférico."
+        },
+        {
+          "letra": "D",
+          "texto": "O aumento da temperatura e a redução da umidade elevam a taxa de fotossíntese nas plantas, pois mais luz solar estimula os cloroplastos a produzirem mais glicose."
+        },
+        {
+          "letra": "E",
+          "texto": "A acidificação do solo causada pelas mudanças climáticas favorece a fotossíntese em plantas ao aumentar a disponibilidade de nutrientes essenciais nos vacúolos das células vegetais."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Ecologia / Mudanças Climáticas",
+        "Biologia – Fisiologia Vegetal / Fotossíntese"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "O estado de Roraima possui área territorial de 223.644.530 km² (IBGE, 2022). É uma região rica em vários tipos de vegetação e relevo. A vegetação em Roraima é composta por floresta tropical, campos, lavrados ou savanas e estepes ou campinas Uma árvore bastante comum nos lavrados de Roraima é conhecida pelo nome vernacular \"caimbé\" e apresenta como características: um tronco firme, de madeira escura, com casca grossa, folhas ásperas, sementes costumam ser dispersas por aves, desenvolvem flores e frutos e resistem bem ao período seco e ao fogo.\nConhecendo as características gerais das plantas, podemos afirmar CORRETAMENTE que o caimbé pertence ao grupo vegetal:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "gimnospermas."
+        },
+        {
+          "letra": "B",
+          "texto": "angiospermas."
+        },
+        {
+          "letra": "C",
+          "texto": "briófitas."
+        },
+        {
+          "letra": "D",
+          "texto": "pteridófitas."
+        },
+        {
+          "letra": "E",
+          "texto": "algas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Botânica / Classificação dos Vegetais"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "A Serra do Tepequém é um fascinante destino de ecoturismo localizado no extremo Norte do Brasil. Situada no município de Amajari, essa região montanhosa destaca-se pela sua elevação em meio às planícies de Roraima e também por apresentar uma diversidade única de organismos e habitats, o que resulta em adaptações biológicas distintas para a sobrevivência e reprodução na região. Com foco nas características específicas dos organismos da região, qual das seguintes características descreve uma adaptação específica dos tecidos epitelial e conjuntivo em anfíbios endêmicos da região, como a rã arborícola (Dendropsophus roraima)?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O tecido epitelial das rãs arborícolas é permeável, possibilitando a troca gasosa através da pele durante a respiração cutânea nos corpos d'água da região."
+        },
+        {
+          "letra": "B",
+          "texto": "O tecido conjuntivo dessas rãs é densamente vascularizado, permitindo a regulação térmica eficiente durante a atividade reprodutiva em ambientes variáveis."
+        },
+        {
+          "letra": "C",
+          "texto": "O tecido epitelial das rãs arborícolas da região é altamente queratinizado, proporcionando uma proteção extra contra a perda de água durante os períodos de seca."
+        },
+        {
+          "letra": "D",
+          "texto": "O tecido conjuntivo dessas rãs é altamente fibroso, conferindo resistência mecânica aos membros durante os saltos entre as árvores da floresta úmida."
+        },
+        {
+          "letra": "E",
+          "texto": "O tecido epitelial é espesso e impermeável, ajudando na retenção de umidade durante a estação seca, quando os corpos d'água estão escassos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Zoologia / Fisiologia Comparada dos Anfíbios"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "\"Nos últimos 5 anos foram notificados 6.791 acidentes causados por animais peçonhentos no estado de Roraima. Destes 47,3% foram serpentes. Entre os acidentes por serpentes há a ocorrência no estado dos quatro gêneros de serpentes: botrópico, crotálico, elapídico e laquético, com predomínio do acidente botrópico (jararaca) em 71,3% dos casos\".\nA jararaca apresenta quais das características abaixo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Dentição opistóglifa (presença de um ou mais dentes inoculadores na região posterior da boca, os dentes apresentam sulcos pelos quais escorre a peçonha) e ausência de fosseta lacrimal."
+        },
+        {
+          "letra": "B",
+          "texto": "Dentição proteróglifa (presença de dentes inoculadores, com sulco, na parte anterior da boca) e presença de fosseta lacrimal."
+        },
+        {
+          "letra": "C",
+          "texto": "Dentição áglifa (presença de dentes, sem sulco por onde seria inoculada a peçonha) e ausência de fosseta lacrimal."
+        },
+        {
+          "letra": "D",
+          "texto": "Dentição opistóglifa (presença de um ou mais dentes inoculadores na região posterior da boca, os dentes apresentam sulcos pelos quais escorre a peçonha) e presença de fosseta lacrimal."
+        },
+        {
+          "letra": "E",
+          "texto": "Dentição solenóglifa (presença de um par de dentes articulados e ocos na parte anterior da boca) e presença de fosseta lacrimal."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Zoologia / Serpentes Peçonhentas"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Uma mulher com coagulação normal e míope casa-se com um homem hemofílico e sem miopia, filho de pai míope. O casal tem uma criança do sexo masculino, hemofílica e sem miopia. Considerando que a hemofilia é uma anomalia ligada ao sexo, condicionada por um alelo recessivo h, localizado na região do cromossomo X não homóloga ao Y, caracterizada pela dificuldade de coagulação do sangue e a miopia é determinada por um gene autossômico recessivo, assinale a alternativa CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A criança herdou o gene para a hemofilia do pai;"
+        },
+        {
+          "letra": "B",
+          "texto": "Todas as crianças desse casal serão míopes;"
+        },
+        {
+          "letra": "C",
+          "texto": "Todos os filhos do sexo masculino desse casal serão hemofílicos;"
+        },
+        {
+          "letra": "D",
+          "texto": "A mulher é homozigótica para as duas características genéticas;"
+        },
+        {
+          "letra": "E",
+          "texto": "Esse casal pode ter crianças do sexo feminino hemofílicas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Genética / Herança ligada ao sexo"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Ao longo da vida de um rio, seus canais mudam de posição diversas vezes e não é incomum que o curso do rio \"corte\" outros trechos de si mesmo, deixando lagos vestigiais chamados de lagos de meandro. [...] Os anuros podem ser terrestres, aquáticos e encontrados em bancos de macrófitas. Estes bancos consistem em emaranhados de plantas aquáticas e semiaquáticas enraizadas ou livremente flutuantes que fornecem abrigo, alimentação, bem como locais para reprodução, desova e desenvolvimento para muitos organismos.\nAs relações ecológicas entre anuros e macrófitas e entre anuros e macroinvertebrados são, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mutualismo e competição;"
+        },
+        {
+          "letra": "B",
+          "texto": "herbivoria e parasitismo;"
+        },
+        {
+          "letra": "C",
+          "texto": "colônia e amensalismo;"
+        },
+        {
+          "letra": "D",
+          "texto": "inquilinismo e esclavagismo."
+        },
+        {
+          "letra": "E",
+          "texto": "inquilinismo e predatismo;"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Ecologia / Relações Ecológicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "A Oncocercose é uma doença causada pelo Onchocerca volvulus, é considerada a segunda causa mundial de cegueira infecciosa irreversível. A grande importância dessa enfermidade é que a Terra Indígena Yanomami (TIY) é o único espaço no territorial brasileiro endêmico para a doença. Com a recente garimpagem na TIY há a preocupação da vigilância epidemiológica do Estado de Roraima quanto a possibilidade de ocorrência de casos entre os garimpeiros que invadiram essa área endêmica, e, portanto, há necessidade de fortalecimento da assistência na identificação de casos, no diagnóstico e no tratamento precoce.\nEm relação ao texto acima, assinale a alternativa CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A oncocercose é uma doença parasitária de evolução crônica causada pelo verme nematódeo Onchocerca volvulus. Em áreas endêmicas é mais conhecida como \"cegueira dos rios\" ou \"mal do garimpeiro\";"
+        },
+        {
+          "letra": "B",
+          "texto": "A transmissão da oncocercose se dá pela picada do mosquito Aedes aegypti, quando infectados pelas larvas do nematódeo Onchocerca volvulus;"
+        },
+        {
+          "letra": "C",
+          "texto": "No Brasil, a doença está presente de forma restrita à Terra Indígena Yanomami, no estado de Roraima;"
+        },
+        {
+          "letra": "D",
+          "texto": "Com a exploração do garimpo e o fluxo de pessoas nas Terras Yanomamis, a oncocercose é a doença com mais casos de indivíduos infectados na região norte no ano de 2023;"
+        },
+        {
+          "letra": "E",
+          "texto": "A vacinação contra a oncocercose reduz o risco de lesões nos olhos, hospitalizações e da morbimortalidade pela doença."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Parasitologia / Doenças"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Um corpo de massa M está suspenso por um fio de comprimento L. Uma força horizontal de módulo F é exercida sobre o corpo fazendo com que este se afaste horizontalmente uma distância x de sua posição inicial, ficando equilíbrio a uma altura y, em relação à posição inicialmente ocupada, conforme a figura. Sabendo que x = h/2 e que a aceleração da gravidade é g, o módulo da força F vale:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$F = Mg$"
+        },
+        {
+          "letra": "B",
+          "texto": "$F = 2 Mg$"
+        },
+        {
+          "letra": "C",
+          "texto": "$F = \\sqrt{Mg}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$F = Mg/2$"
+        },
+        {
+          "letra": "E",
+          "texto": "$F = \\sqrt{2} Mg$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Estática / Equilíbrio de Ponto Material"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Um recipiente cilíndrico fechado, de altura igual a $h = 10/\\pi$ cm e base de raio r, está completamente cheio com líquido de massa específica $\\mu = 0,3$ g/cm³. A força exercida pelo líquido no fundo do recipiente vale $F = 3$ N. Qual o valor de r? Considere $\\pi = 3,14$ e $g= 10$ m/s².",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3,14 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "2 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "10 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "5 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "1 cm"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Hidrostática / Pressão"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Em um sistema isolado de forças externas, um corpo de massa m, inicialmente com uma velocidade de 5 m/s, se choca contra uma mola de constante $K = 10$ N/m. O tempo de contato do corpo com a mola é de 0,015 segundos. Durante esse intervalo de tempo a mola aplica sobre o corpo uma força média de 10 N. Após perder o contato com a mola, o corpo atinge uma velocidade de 10 m/s, no sentido oposto ao movimento inicial. Qual a massa do corpo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "100 g"
+        },
+        {
+          "letra": "B",
+          "texto": "1 kg"
+        },
+        {
+          "letra": "C",
+          "texto": "30 g"
+        },
+        {
+          "letra": "D",
+          "texto": "10 g"
+        },
+        {
+          "letra": "E",
+          "texto": "150 g"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Dinâmica / Teorema do Impulso"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Suponha que um estudante de ensino médio esteja realizando um experimento de calorimetria. Ele pega uma amostra de substância líquida à temperatura ambiente e aquece-a até uma temperatura inferior à temperatura de mudança de fase. Considere as seguintes afirmações sobre o processo de aquecimento e assinale a alternativa CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A quantidade de calor necessária para aquecer a amostra é independente da quantidade de substância usada, sendo apenas função da diferença de temperatura a ser alcançada, considerando um sistema isolado."
+        },
+        {
+          "letra": "B",
+          "texto": "O tempo necessário para aquecer a amostra até a temperatura final é inversamente proporcional à massa da amostra; a constante de dilatação térmica é diretamente proporcional ao quadrado da potência fornecida pela fonte de calor, assumindo um sistema ideal sem perdas de energia."
+        },
+        {
+          "letra": "C",
+          "texto": "A quantidade de calor necessária para aquecer a amostra da substância depende do calor específico desta e a capacidade térmica da amostra é igual à quantidade de calor necessária para fazer variar sua temperatura em 1 K."
+        },
+        {
+          "letra": "D",
+          "texto": "O tempo necessário para aquecer a amostra até a temperatura final é o mesmo, independentemente do material do recipiente que a contém."
+        },
+        {
+          "letra": "E",
+          "texto": "A quantidade de calor para aquecer a amostra depende apenas da variação de temperatura e da quantidade de calor necessária para que cada grama da substância sofra uma mudança de temperatura correspondente a 1°C."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Termologia / Calorimetria"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Um grupo de ornitólogos visita um parque ecológico de Roraima a fim de observar os pássaros da região. Um dos estudiosos, ao olhar para cima, avista um pássaro canoro voando e fica parado contemplando o animal em seu voo. Como se estivesse recompensando seu admirador, o pássaro começa a cantar. Qual a percepção do ornitólogo, a respeito do canto do pássaro, se a ave se movimenta verticalmente em relação a ele?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O canto do pássaro parecerá mais agudo se estiver subindo e mais grave caso esteja descendo."
+        },
+        {
+          "letra": "B",
+          "texto": "A percepção do observador sobre o canto do pássaro não será afetada pelo movimento da ave."
+        },
+        {
+          "letra": "C",
+          "texto": "O canto do pássaro parecerá mais grave, esteja ele subindo ou descendo."
+        },
+        {
+          "letra": "D",
+          "texto": "O canto do pássaro parecerá mais agudo, esteja ele subindo ou descendo."
+        },
+        {
+          "letra": "E",
+          "texto": "O canto do pássaro parecerá mais grave se o pássaro estiver subindo e mais agudo caso esteja descendo."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Ondulatória / Efeito Doppler"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Em uma expedição ao Parque Nacional do Monte Roraima, um grupo de estudantes leva consigo uma lente convergente. Durante a expedição, eles utilizam a lente para observar uma planta nativa. A lente tem uma distância focal de 20 cm. Se a planta está a 30 cm da lente, quais as características da imagem formada?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A imagem é virtual, direita e localizada a 60 cm da lente."
+        },
+        {
+          "letra": "B",
+          "texto": "A imagem é real, invertida e localizada a 12 cm da lente."
+        },
+        {
+          "letra": "C",
+          "texto": "A imagem é virtual, direita e localizada a 12 cm da lente."
+        },
+        {
+          "letra": "D",
+          "texto": "A imagem é real, invertida e localizada a 60 cm da lente."
+        },
+        {
+          "letra": "E",
+          "texto": "A imagem é real, invertida e localizada a 30 cm da lente."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Óptica / Lentes Esféricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Roraima terá uma nova atração turística: um teleférico no Platô da Serra do Tepequém, alimentado por fios aéreos. Considere um cenário onde um fio longo e reto de alimentação aérea conduz uma corrente constante i na direção mostrada na figura. Os engenheiros estão analisando o campo magnético gerado pela corrente em vários pontos ao redor do fio para garantir a segurança e o funcionamento adequado do teleférico. Considere a representação gráfica a seguir, onde os pontos A, B e C, coplanares, encontram-se a uma distância $r_A$, $r_B$ e $r_C$ do fio, respectivamente, de modo que $r_B < r_A < r_C$.\nSobre as intensidades e direções do campo magnético gerado pela corrente elétrica em cada ponto, é CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O módulo do campo magnético no ponto C é maior que no ponto B, e o sentido do campo no ponto A está saindo perpendicularmente da folha de papel."
+        },
+        {
+          "letra": "B",
+          "texto": "O módulo do campo magnético no ponto A é maior que no ponto B, e o sentido do campo no ponto B está perpendicular ao campo no ponto C."
+        },
+        {
+          "letra": "C",
+          "texto": "O módulo do campo magnético no ponto B é maior que no ponto A, e o sentido do campo no ponto C está entrando perpendicularmente na folha de papel."
+        },
+        {
+          "letra": "D",
+          "texto": "Os módulos do campo magnético nos pontos A e B são idênticos, e o sentido do campo no ponto B está entrando perpendicularmente na folha de papel."
+        },
+        {
+          "letra": "E",
+          "texto": "O módulo do campo magnético no ponto B é maior que no ponto C, e o sentido do campo no ponto A está saindo perpendicularmente da folha de papel."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Eletromagnetismo / Campo Magnético de Fio Retilíneo"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Um grupo de alunos do curso de engenharia elétrica foi a uma visita técnica na Usina Hidrelétrica de Jatapú, no sul de Roraima. Durante a visita, eles observaram, na prática, a aplicação da indução eletromagnética na produção de energia elétrica. Inspirados pelo que viram, decidiram replicar uma pequena parte do processo em um experimento simples para demonstrar a geração de força eletromotriz (f.e.m.) induzida. Para isso, os alunos utilizaram uma espira quadrada com 0,5 m de lado, completa e perpendicularmente imersa em um campo magnético uniforme de intensidade $4,0$ Wb/m², perpendicular às linhas de indução. Eles giraram essa espira até que ela ficasse paralela às linhas do campo.\nSabendo-se que essa espira levou 0,2 s para mudar de posição, conclui-se que o valor da f.e.m. induzida na espira é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 V"
+        },
+        {
+          "letra": "B",
+          "texto": "$5 \\times 10^{-2}$ V"
+        },
+        {
+          "letra": "C",
+          "texto": "6 V"
+        },
+        {
+          "letra": "D",
+          "texto": "1 V"
+        },
+        {
+          "letra": "E",
+          "texto": "8 V"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Eletromagnetismo / Lei de Faraday-Lenz"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Felipe, estudante de engenharia, está desenvolvendo um sistema de iluminação com LEDs para concorrer a um projeto de inovação. O estudante dispõe de cinco resistores idênticos, cada um com resistência de 150 ohms. Para garantir a correta operação dos LEDs, o estudante precisa configurar os resistores para limitar a corrente no circuito a 20 mA. A fonte de alimentação fornece uma tensão total de 7 volts. Como o devem ser associados esses resistores para alcançar uma resistência total que produza a corrente nos LEDs de 20 mA?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Todos os cinco resistores devem ser conectados em série."
+        },
+        {
+          "letra": "B",
+          "texto": "Os resistores serão reunidos em dois conjuntos: três resistores devem ser conectados em série e os outros dois em paralelo entre si. A seguir os conjuntos devem ser associados em série."
+        },
+        {
+          "letra": "C",
+          "texto": "Os resistores serão reunidos em dois conjuntos: quatro resistores devem ser conectados em série e o quinto em paralelo com a série. A seguir os conjuntos devem ser associados em série."
+        },
+        {
+          "letra": "D",
+          "texto": "Os resistores serão reunidos em dois conjuntos: dois resistores devem ser conectados em série e os outros três em paralelo entre si. A seguir os conjuntos devem ser associados em série."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os cinco resistores devem ser conectados em paralelo."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Eletrodinâmica / Associação de Resistores"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "O relevo, como um dos componentes do meio natural, apresenta uma diversidade enorme de tipos de formas. Essas formas, por mais que possam parecer estáticas e iguais, na realidade são dinâmicas e se manifestam ao longo do tempo e do espaço de modo diferenciado, em função das combinações e interferências múltiplas dos demais componentes do estrato geográfico.\n\n(ROSS, Jurandyr Luciano Sanches. Geomorfologia: ambiente e planejamento. Editora Contexto, 2008).\n\nEssas inter-relações, que se traduzem pela troca de energia e matéria entre os componentes são geradoras da história natural do relevo. Podemos afirmar CORRETAMENTE que tais inter-relações:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "promovem a denudação dos solos e aumento dos processos erosivos."
+        },
+        {
+          "letra": "B",
+          "texto": "são responsáveis pela evolução, e, portanto, pela gênese do modelado da superfície terrestre."
+        },
+        {
+          "letra": "C",
+          "texto": "geram processos hidrológicos que contribuem para as mudanças climáticas."
+        },
+        {
+          "letra": "D",
+          "texto": "promovem processos terrestres endógenos."
+        },
+        {
+          "letra": "E",
+          "texto": "contribuem para gênese do solo, bem como para processos de desmatamento."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geomorfologia / Formas de Relevo"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "O estado de Roraima é caracterizado por um relevo elaborado com base na relação entre as formas de relevo e os arranjos tectono-estruturais, litologias e variações altimétricas, que distinguem a paisagem do estado em relação ao cenário regional. Diante disso, é CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o rio Branco apresenta pouca influência na evolução do relevo, condicionando a erosão de suas margens e formação de planícies fluviais."
+        },
+        {
+          "letra": "B",
+          "texto": "a serra de Pacaraima representa um extenso divisor hidrográfico entre as bacias dos rios Orenoco e Essequibo, condicionando o relevo regional."
+        },
+        {
+          "letra": "C",
+          "texto": "as bacias sedimentares fanerozóicas constituem as unidades de relevos mais elevadas em relação aos relevos regionais."
+        },
+        {
+          "letra": "D",
+          "texto": "as principais formas de relevo são elaboradas sobre os terrenos antigos do Cráton Amazônico, constituindo planaltos residuais, relevos dissecados e extensas planícies."
+        },
+        {
+          "letra": "E",
+          "texto": "todas as alternativas estão corretas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geografia do Brasil / Relevo de Roraima"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Considerando o significado estratégico e a geopolítica da biodiversidade amazônica, Becker e Stenner (2008) dizem que foi justamente o avanço da tecnologia de satélites que permitiu ao homem olhar a Terra a partir do Cosmos e tomar consciência da unidade do globo como um bem comum, cujo uso deve repousar numa responsabilidade comum. Percebeu-se, então, que a natureza se tornara um bem escasso, e colocou-se o desafio ambiental como uma dupla questão: a da sobrevivência da humanidade e a de sua valorização como capital natural.\n\n(BECKER, Bertha; STENNER, Claudio. Um futuro para a Amazônia. Editora Oficina de textos, 2008.)\n\nPartindo do entendimento de Becker e Stenner (2008), é CORRETO afirmar que a natureza foi então revalorizada sob duas lógicas distintas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(i) pela lógica da exploração sem limites dos recursos naturais com fins a distribuição de lucros financeiros à sociedade e (ii) a partir da representação socioambiental que a água possui, através de uma lógica monetizada."
+        },
+        {
+          "letra": "B",
+          "texto": "(i) a natureza é valorizada como capital de realização atual ou futura e como fonte da Ciência, Tecnologia e Inovação contemporânea e (ii) a representação simbólica da lógica cultural que a Amazônia passa a ter no mundo está em torno da biodiversidade e da sustentabilidade."
+        },
+        {
+          "letra": "C",
+          "texto": "(i) dos processos físicos e naturais como principais meios de planejamento ambiental e (ii) dos processos socioeconômicos de divisão do capital às camadas vulneráveis da sociedade."
+        },
+        {
+          "letra": "D",
+          "texto": "(i) lógica mercantil e financeira de valorização da economia local e (ii) bioeconomia como fator preponderante de desenvolvimento regional."
+        },
+        {
+          "letra": "E",
+          "texto": "(i) valorização do setor público como ente representativo de proteção ao meio ambiente e (ii) como unidade biodiversa que promove o desenvolvimento sustentável para todo planeta."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geopolítica / Amazônia"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "\"Os dados divulgados pelo Censo Demográfico (IBGE, 2022), apontam uma mudança no padrão de distribuição da população brasileira, considerando as faixas etárias e o percentual de habitantes. Chama a atenção uma maior concentração da população na faixa etária entre 20 a 44 anos na pirâmide etária o que reflete estas mudanças nos padrões em ralação a levantamentos anteriores\".\n\nSobre a evolução da população brasileira, analise as assertivas a seguir:\n\nI. A evolução etária da base da pirâmide representa o aumento das taxas de natalidade e o crescimento da renda entre a classe trabalhadora.\nII. A pirâmide etária apresenta uma concentração de população na faixa adulta, refletindo uma população com alta taxa de mortalidade infantil e baixa expectativa de vida.\nIII. A pirâmide etária evidencia o envelhecimento da população brasileira, conformada pela queda na taxa de natalidade, melhora na qualidade de vida e expectativa de vida, condições sociais que cumpre a transição.\nIV. A evolução etária brasileira é reflexo da transição demográfica que se iniciou na segunda metade do século XX, com a implantação de projetos de ocupação rural.\n\nCom relação a essas assertivas é CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "somente a IV está correta."
+        },
+        {
+          "letra": "B",
+          "texto": "somente I e III estão corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "somente II e IV estão corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "somente II e III estão corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "somente a III está correta."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Demografia / Pirâmides Etárias"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "A industrialização no Brasil ocorreu de maneira fragmentada, em diferentes fases ao longo do tempo, sendo influenciada por contextos econômicos, políticos e sociais específicos. \"Durante os anos que marcaram a política nacionalista de Getúlio Vargas, durante o Estado Novo, o país viveu um momento em que o aparelho político ampliou suas bases para estimular a industrialização, criando vários órgãos como o Ministério do Trabalho, Industria e Comércio (1931); Ministério da Educação (1933) e IBGE (1938)\"\n\nConsiderando esse contexto, analise as assertivas a seguir:\n\nI. A industrialização no Brasil teve início significativo durante o período do \"Estado Novo” (1937-1945), com a implementação de políticas de substituição de importações.\nII. A região Sudeste foi a principal beneficiária da industrialização no Brasil, concentrando a maior parte das indústrias de base e de bens de consumo duráveis.\nIII. A industrialização brasileira foi impulsionada, principalmente, pelo investimento estrangeiro direto, especialmente de países como os Estados Unidos e China.\nIV. A expansão da indústria do café alavancou a implantação de subsídios agrícolas e melhorou o cenário para a implantação de indústrias de base.\n\nCom relação a essas assertivas é CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas as afirmativas II e IV estão corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas as afirmativas II e III estão corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas as afirmativas I e II estão corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas a IV está correta."
+        },
+        {
+          "letra": "E",
+          "texto": "todas as afirmativas estão corretas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geografia do Brasil / Industrialização"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Os fusos horários no Brasil foram implementados em seu território, seguindo critérios geográficos e administrativos, para a melhor administração de um extenso território, o que requer a divisão do país em diferentes fusos horários para melhor organização e sincronização temporal. Considerando esse contexto, analise as assertivas a seguir:\n\nI. O fuso horário oficial de Brasília, que é GMT-3, é adotado como referência para a maior parte do território brasileiro.\nII. A divisão dos fusos horários no Brasil leva em consideração principalmente aspectos geopolíticos, como as diferentes fronteiras entre os estados.\nIII. O Brasil, além do horário oficial, possui outros três fusos horários: GMT-4, GMT-5 e GMT-2.\nIV. A distribuição dos fusos horários no Brasil é adotada para reduzir os impactos das diferenças de longitude, facilitando a organização temporal em um país com vasta extensão territorial.\n\nCom relação a essas assertivas é CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "somente a I está correta."
+        },
+        {
+          "letra": "B",
+          "texto": "somente I e III estão corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "somente I, II e IV estão corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "somente I e II estão corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "somente I, III e IV estão corretas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Cartografia / Fusos Horários"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Leia o texto a seguir:\n\"[...] proponho que a divisão social do trabalho deva ser a categoria explicativa básica da investigação da dimensão do desenvolvimento, posto que permeia todos os seus processos, em todas as escalas. Expressão do estágio atingido pelo desenvolvimento das forças produtivas, essa categoria mediadora é a adequada para se estudarem as heterogeneidades, hierarquias e especializações intra e inter qualquer escala (regional, nacional, internacional). Capaz de revelar as mediações e as formas concretas em que se processa e manifesta a reprodução social no espaço, expressa a constituição socioprodutiva interna e suas possibilidades (e a efetividade) de inserção no contexto maior, isto é, sua posição em uma relação hierárquica superior” (BRANDÃO, 2012, p. 69).\nO Brasil apresenta desigualdades estruturais em sua formação socioeconômica e a divisão social do trabalho se constitui enquanto importante dimensão à compreensão das hierarquias regionais.\nAnalise as afirmações, a seguir, as quais discorrem acerca dos processos mencionados, a saber, a divisão do trabalho e as desigualdades regionais.\n\nI. A partir de 1950, se esboça uma integração inter-regional no Brasil via produção de mercadorias, com os produtos oriundos do Sudeste, especialmente de São Paulo, alcançando outras regiões do país;\nII. O avanço da industrialização para além do Sudeste a partir de 1970 não fez declinar o papel da referida região enquanto área de maior dinamismo econômico do Brasil;\nIII. A SUDAM (Superintendência do Desenvolvimento da Amazônia) e a SUDENE (Superintendência do Desenvolvimento do Nordeste) surgem como uma tentativa do Governo Federal de promover o desenvolvimento de regiões periféricas, sendo a criação da Zona Franca de Manaus nos anos de 1960 um corolário desta perspectiva;\nIV. A reestruturação produtiva que se gesta em 1970, e que se aprofunda em 1990, propiciou o desenvolvimento industrial do Norte e Nordeste, sendo fundamentais neste processo, dentre outros fatores, a mão-de-obra barata e os incentivos governamentais.\n\nPodemos afirmar, CORRETAMENTE, que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "todas as assertivas estão corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas II e III estão corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas I, II e III estão corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas II, III e IV estão corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "apenas III e IV estão corretas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geografia do Brasil / Divisão Regional do Trabalho",
+        "Geografia – Geografia do Brasil / Industrialização"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Leia o texto a seguir:\n\"Com a mundialização do capital (CHESNAIS, 1996) ocorrida nas últimas décadas, houve uma rápida ampliação dos circuitos espaciais de produção, possibilitada devido à evolução das técnicas e normatizações aplicadas à logística, que relativizam cada vez mais o tempo necessário para percorrer longas distâncias, tornando possível uma maior coesão entre os mercados globais” (SOUZA; SILVEIRA, 2011).\nA eficiência da rede de transporte se mostra elementar às trocas econômicas globais e à competitividade das empresas. Sobre o sistema de transporte e a circulação das mercadorias, é INCORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as revoluções no transporte decorridas a partir da Segunda Revolução Industrial foram fundamentais para a saída das indústrias dos países centrais para os países periféricos ou semiperiféricos, uma vez que os custos de deslocamento e o tempo despendido à circulação das mercadorias diminuíram."
+        },
+        {
+          "letra": "B",
+          "texto": "o Arco Norte vem se notabilizando pela exportação dos grãos, superando, em algumas culturas, o volume exportado pelo porto de Santos. As secas que vêm atingindo a região amazônica, entretanto, podem prejudicar a atividade agroexportadora hidroviária nos portos amazônicos."
+        },
+        {
+          "letra": "C",
+          "texto": "há, no Brasil, a primazia do modal rodoviário – o que eleva o custo da produção – sobre os demais meios de transporte, destacando-se a necessidade de maiores investimentos em ferrovias e hidrovias."
+        },
+        {
+          "letra": "D",
+          "texto": "a saída de fábricas do setor calçadista da região Sul do Brasil para o Ceará teve como principal elemento a proximidade do estado nordestino aos centros importadores internacionais, diminuindo o custo de transporte."
+        },
+        {
+          "letra": "E",
+          "texto": "o projeto de interação nacional durante a Ditadura Militar no Brasil buscou articular a região Norte com o restante do país através da proliferação de rodovias, das quais são exemplos, dentre outras, a BR-230 (Transamazônica), BR-153 (Belém-Brasília) e a BR-319 (Manaus-Porto Velho)."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geografia do Brasil / Transportes",
+        "Geografia – Globalização"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Acerca das dinâmicas econômicas do estado de Roraima no século XXI, é CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O crescimento do PIB responde, nos últimos anos, exclusivamente, à produção da agricultura familiar."
+        },
+        {
+          "letra": "B",
+          "texto": "Dado o crescimento agropecuário na última década, o setor primário é aquele que mais contribui para o PIB local."
+        },
+        {
+          "letra": "C",
+          "texto": "Tomando exclusivamente a composição industrial do PIB, nota-se a prevalência dos setores da mineração e da produção de madeira em tora."
+        },
+        {
+          "letra": "D",
+          "texto": "Roraima se constitui como vetor de expansão da fronteira agrícola, destacando-se, entre outros, o cultivo da soja num contexto de modernização da produção do campo."
+        },
+        {
+          "letra": "E",
+          "texto": "Em decorrência das desigualdades sociais e da massa de desempregados, o setor de serviços se encontra em declínio."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geografia do Brasil / Economia de Roraima"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "\"A ascensão econômica e cultural da Grécia provocou disputas por rotas comerciais, mercados e matérias-primas entre gregos e persas. Sob o reinado de Dario e Xerxes, os persas expandiram-se sobre as cidades gregas da Ásia Menor e Jônia e, depois, na península balcânica. Surgiu, então, o longo conflito conhecido como Guerras Greco-Pérsicas ou Guerras Médicas (499-475 a.C.).\"\n\nDe acordo com o trecho de texto acima, assinale a alternativa que contém uma afirmação INCORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As guerras Greco-Pérsicas causaram certa solidariedade entre os gregos que, neste acontecimento, fortaleceram a sua percepção de identidade cultural, contrastando-a com a dos persas."
+        },
+        {
+          "letra": "B",
+          "texto": "Inicialmente, sob a liderança de Atenas e Esparta, cidadãos de outras pólis gregas juntaram-se às bem-sucedidas campanhas que buscavam deter a invasão persa."
+        },
+        {
+          "letra": "C",
+          "texto": "Embora os gregos tenham saído vitoriosos ao final da guerra, os persas, sob o comando de Xerxes, tiveram uma primeira vitória no confronto conhecido como Batalha de Salamina."
+        },
+        {
+          "letra": "D",
+          "texto": "Com o fim das guerras Greco-Pérsicas, Atenas consolidou-se como a pólis grega mais poderosa, isto devido ao seu aparato militar, bem como à sua economia."
+        },
+        {
+          "letra": "E",
+          "texto": "A criação da aliança entre diversas cidades gregas, aliança esta que ficou conhecida como Liga de Delos, tinha como objetivo a estratégia de proteção contra os persas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História Antiga / Guerras Médicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "\"Com a expansão romana, grandes transformações afetaram não apenas as populações do Mediterrâneo, mas também os próprios romanos. Situada no centro do mundo mediterrânico, favorecida pelo domínio de um grande mar interior e por uma eficiente rede de estradas, Roma tornou-se uma grande cidade comercial, para onde passaram a afluir produtos oriundos de todas as regiões.\"\n\nSobre o império Romano é possível afirmar CORRETAMENTE que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mesmo com a importação de produtos das províncias conquistadas, o cotidiano dos romanos não sofreu quaisquer influências culturais devido à repressão militar e religiosa do Império."
+        },
+        {
+          "letra": "B",
+          "texto": "um dos efeitos das conquistas romanas foi um processo chamado æqualitatem que, em certa medida, promovia um tipo de igualdade social, algo que foi, posteriormente, suprimido pelo patriciado."
+        },
+        {
+          "letra": "C",
+          "texto": "as áreas conquistadas foram incorporadas ao ager publicus, tornando-se propriedades do Estado romano e foram arrendadas, distribuídas ou vendidas, prioritariamente, aos patrícios."
+        },
+        {
+          "letra": "D",
+          "texto": "no contexto político houve um acordo promovido pelo imperador que uniu os aristocratas, cavaleiros, generais e até grande parte da plebe urbana."
+        },
+        {
+          "letra": "E",
+          "texto": "durante o Império Romano, era dado o acesso à terra aos pequenos camponeses, as viúvas e aos órfãos dos soldados, isto devido à partilha determinada pelo Senado aos senhores do campo."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História Antiga / Império Romano"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "\"O feudalismo é o conjunto de laços pessoais que unem entre si, hierarquicamente, os membros das camadas dominantes da sociedade. Tais laços apoiam-se numa base 'real': o benefício que o senhor concede a seu vassalo em troca de um certo número de serviços e de um juramento de fidelidade. Em sentido estrito, o feudalismo é a homenagem e o feudo.”\n\nSobre o Feudalismo é CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a relação entre suseranos e vassalos manteve totalmente o antigo sistema romano de escravidão por toda Alta Idade Média disfarçada pelo que ficou conhecido como pacto de vassalagem."
+        },
+        {
+          "letra": "B",
+          "texto": "o feudalismo foi a junção de instituições romanas (como as vilas, o colonato e a clientela) com os elementos germânicos (como o beneficium, a economia natural e as relações estabelecidas pelos comitatus)."
+        },
+        {
+          "letra": "C",
+          "texto": "a corveia foi um tipo de remuneração em bens materiais que os nobres feudais repassavam aos soldados mercenários para que a segurança dos feudos existisse contra as invasões e pilhagens comuns naquela época."
+        },
+        {
+          "letra": "D",
+          "texto": "no século VI, as invasões ocorridas no Ocidente Europeu cessaram totalmente, fazendo com que o sistema social romano perdurasse por muitos séculos, ainda que esta estrutura social recebesse o nome de feudalismo."
+        },
+        {
+          "letra": "E",
+          "texto": "o termo manso servil era aplicado aos servos que se destacavam no trabalho no campo e na proteção do senhor feudal, muitas vezes estes eram promovidos ao cargo de procurator, um tipo de capataz que administrava todos os demais servos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História Medieval / Feudalismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "\"A partir de 1967, um decreto presidencial transformou Manaus em Zona Franca, imediatamente instalando uma série de indústrias e anunciando uma oferta de quarenta mil empregos. No que toca à divisão do trabalho, as indústrias da Zona Franca operavam as fases finais de montagem e acabamento do produto. Fases que exigiam um número maior de mão de obra\"\n\nNeste contexto que trata sobre a Zona Franca de Manaus, assinale a alternativa INCORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A Zona Franca de Manaus compreendeu apenas e, exclusivamente, um polo, o industrial, fazendo com que outros setores, como o agropecuário, sofressem certo abandono por parte das metas desenvolvimentistas."
+        },
+        {
+          "letra": "B",
+          "texto": "Com o objetivo de viabilizar uma base econômica na região amazônica, a Zona Franca de Manaus buscava ser um modelo de desenvolvimento econômico e de promoção da integração produtiva e social desta região ao país."
+        },
+        {
+          "letra": "C",
+          "texto": "Os benefícios da Zona Franca de Manaus foram ampliados, em parte, para uma área superior a 8,5 milhões de quilômetros quadrados ao contemplar o Acre, Rondônia e Roraima, além das cidades de Macapá e Santana no Amapá."
+        },
+        {
+          "letra": "D",
+          "texto": "A finalidade inicial da Zona Franca de Manaus era estabelecer incentivos fiscais por 30 anos, com o passar dos anos, o prazo para esses incentivos fiscais foi ampliado, estendendo-se até 2073."
+        },
+        {
+          "letra": "E",
+          "texto": "O Polo Industrial em Manaus é administrado pela Superintendência da Zona Franca de Manaus (SUFRAMA), abrigando várias indústrias, especialmente as dos setores de televisão, informática e motocicletas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História do Brasil / Ditadura Militar"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "\"Foi, portanto, no interesse da SEGURANÇA NACIONAL que o Presidente Getúlio Vargas assinou o Decreto-Lei 5.812 de 13 de setembro de 1943 criando cinco Territórios Federais: Amapá, Rio Branco, Guaporé, Ponta Porã e Iguaçu. Na mensagem presidencial encaminhada ao Congresso nacional com o texto do Decreto-Lei que criou os Territórios Federais está escrito que aquele ato teve como principal objetivo levar vida à solidão daquela gente (gente dos lugares escolhidos para serem transformados em territórios federais) e exigências de ocupação efetiva da terra, do seu povoamento, de valorização e de segurança daquelas regiões.\" (grifo do autor)\n\nNeste contexto de criação do Território Federal do Rio Branco, assinale a alternativa CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ainda que mencionado no Decreto-Lei 5.812, a real criação dos Territórios Federais de Iguaçu e Ponta Porã aconteceu com o sucessor de Getúlio Vargas, Eurico Gaspar Dutra, com a Constituinte de 1946."
+        },
+        {
+          "letra": "B",
+          "texto": "Embora tenha sido criado em setembro de 1943, com a nomeação no mês seguinte de seu governador, o Capitão Ene Garcez dos Reis, este só chegou à Boa Vista em dezembro daquele ano devido às dificuldades da viagem."
+        },
+        {
+          "letra": "C",
+          "texto": "As autoridades federais implantaram uma infraestrutura básica administrativa no Território Federal do Rio Branco sob o argumento de que os núcleos administrativos existentes eram precários."
+        },
+        {
+          "letra": "D",
+          "texto": "Devido aos seus interesses econômicos na região, com destaque à pecuária, o estado do Amazonas reivindicou o controle, acima do Governo Federal, sobre o Território Federal do Rio Branco, criando a Administração Bipartida."
+        },
+        {
+          "letra": "E",
+          "texto": "A escolha da capital do Território Federal ocorreu com muita polêmica, pois a cidade de Caracaraí reivindicava esta posição sob a justificativa de estar mais próxima de Manaus e por possuir o único porto de toda a região."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História do Brasil / Era Vargas"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Segundo Hobsbawm, a Revolução Francesa – apesar de não ter sido um fenômeno isolado – foi o mais fundamental dos fenômenos contemporâneos, tendo consequências profundas.\nDuas das classes ou ordens que desempenharam um papel significativo na Revolução foram a Nobreza e o chamado Terceiro Estado.\n\nA respeito do quadro social francês no momento da eclosão da Revolução Francesa, assinale a alternativa CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A Nobreza disputava com o Terceiro Estado o controle dos empreendimentos estatais, já que a Nobreza era responsável pela produção no Colbertismo."
+        },
+        {
+          "letra": "B",
+          "texto": "O Clero, também era parte do Terceiro Estado, já que o Absolutismo francês rompeu suas ligações com a Igreja Católica Apóstolica Romana por essa não permitir o divórcio de Monarcas."
+        },
+        {
+          "letra": "C",
+          "texto": "A Nobreza se aliou com a Burguesia para derrotar o Terceiro Estado, que era formado pelos Sans Culottes, os quais ansiavam pela Reforma Agrária na França."
+        },
+        {
+          "letra": "D",
+          "texto": "A utilização dos termos Primeiro Estado, Segundo Estado e Terceiro Estado, decorre da estrutura social rígida e pautada no sistemas de castas que regia a França naquele momento."
+        },
+        {
+          "letra": "E",
+          "texto": "O Terceiro Estado era formado pela imensa maioria da população, já que reunia diversos segmentos sociais, com destaque para a atuação política da Burguesia."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – História Geral / Revolução Francesa"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "O Marechal Humberto de Alencar Castelo Branco foi o primeiro presidente da Ditadura Civil-Militar instaurada no Brasil após o Golpe de 1964. O Atlas Histórico do Brasil, da Fundação Getúlio Vargas, traz a seguinte informação sobre ele: \"Embora concordasse com os princípios que levaram à eclosão da revolta tenentista de julho de 1922, manteve o respeito à hierarquia militar e não participou do movimento. No mês seguinte, foi louvado por sua conduta durante aqueles acontecimentos e, em novembro do mesmo ano, foi promovido a primeiro-tenente.\"\n\nCom base nessas informações, assinale a alternativa que melhor define os objetivos do Movimento Tenentista no Brasil.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Depois do fracasso do movimento em 1922, os tenentistas não falavam mais em nome do exército e propuseram o seguinte programa político nos anos seguintes: voto secreto, combate à corrupção administrativa e à fraude eleitoral, verdadeira representação política, liberdade de imprensa e pensamento, limitação das atribuições do Poder Executivo e restabelecimento do equilíbrio entre os três poderes e correção dos excessos da descentralização federativa."
+        },
+        {
+          "letra": "B",
+          "texto": "Com a vitória do Movimento de 1922, os tenentistas elevaram Artur Bernardes à condição de seu principal líder, já que ele havia vencido as eleições. Com esse apoio, Artur Bernardes pôde implementar mudanças estruturais significativas na estrutura produtiva brasileira, promovendo o projeto Positivista defendido pelos jovens oficiais."
+        },
+        {
+          "letra": "C",
+          "texto": "Com a derrota do Movimento de 1922, o tenentismo perdeu importância política no cenário brasileiro. A retomada de seus ideais e lideranças, como Luís Carlos Prestes, só foi possível com o Golpe de 1964, quando Prestes se tornou uma figura central, sendo o arquiteto da estratégia adotada pelo novo governo para combater a expansão do comunismo no Brasil."
+        },
+        {
+          "letra": "D",
+          "texto": "Com a vitória do movimento de 1922, os tenentistas conseguiram implementar seu projeto político positivista, assumindo funções significativas de liderança política que ainda hoje caracterizam a República Brasileira. Eles defenderam de forma intransigente o direito ao voto secreto e universal, além do funcionamento das instituições jurídicas e legislativas brasileiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Após o fracasso do movimento em 1922, os tenentistas foram duramente reprimidos, com muitos sendo mortos ou presos. Sua atuação representava uma inversão das hierarquias militares, já que, como jovens tenentes e oficiais de baixa patente, ansiavam por dominar as Forças Armadas. Eles buscavam implementar um projeto político para o Brasil que combinava elementos do Positivismo e do Socialismo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História do Brasil / República Velha / Tenentismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "\"As eleições em Taiwan no sábado (13/1) estão sendo acompanhadas de perto pela China, pelos Estados Unidos e por outros países para quem a situação dessa pequena nação insular é estratégica.\nA China vê Taiwan como uma província separatista que um dia voltará a estar sob o controle de Pequim.\nNo entanto, Taiwan se vê como um país independente, com sua própria Constituição e líderes democraticamente eleitos.\nO presidente da China, Xi Jinping, diz que a 'reunificação' com Taiwan 'deve ser cumprida' — e não descarta o possível uso da força para conseguir isso.\"\n\nO trecho traz informações sobre as eleições em Taiwan, uma ilha que se separou da China após a Revolução Chinesa de 1949. A respeito dessa Revolução e dos eventos que a antecederam, assinale a alternativa CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Após os conflitos com as tropas japonesas nas décadas de 1930 e 1940, os comunistas assinaram um armistício aceitando o domínio japonês sobre Taiwan."
+        },
+        {
+          "letra": "B",
+          "texto": "Sob a liderança de Chiang Kai-shek, os comunistas passaram a controlar o país em 1949, após uma sangrenta guerra civil contra as forças nacionalistas de predomínio camponês."
+        },
+        {
+          "letra": "C",
+          "texto": "Devido à expressiva expansão da economia chinesa no início do século XX, o Partido Comunista se fortaleceu com o predomínio de operários na classe trabalhadora."
+        },
+        {
+          "letra": "D",
+          "texto": "Com episódios ocorridos antes e depois da Segunda Guerra Mundial, a Guerra Civil Chinesa entre nacionalistas e comunistas só terminou em 1949, com a vitória dos comunistas."
+        },
+        {
+          "letra": "E",
+          "texto": "Nacionalistas e comunistas uniram forças durante as lutas anticoloniais na primeira metade do século XX, mas aceitaram que a Inglaterra mantivesse o domínio sobre algumas regiões, como Taiwan e Tibete."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – História Contemporânea / Revolução Chinesa"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Historiador diz que Diretas Já foi movimento popular mais poderoso da história republicana.\n\"[...] em 25 de abril de 1984, a Câmara dos Deputados iniciava a votação da chamada Emenda Dante de Oliveira, [...], após 20 anos de Ditadura Militar.\"\n\nA respeito da Campanha das Diretas, também conhecida como Diretas Já, assinale a alternativa CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As Diretas Já foi um movimento popular que lutou pelo fim da ditadura, tendo como um dos resultados mais expressivos a Anistia Política concedida durante o governo Geisel."
+        },
+        {
+          "letra": "B",
+          "texto": "A Campanha das Diretas contou com intensa participação de artistas e intelectuais, que acreditavam que a maior parte da população precisava de incentivos para participar das eleições, já que poucos populares manifestavam interesse em votar."
+        },
+        {
+          "letra": "C",
+          "texto": "A principal luta do movimento Diretas Já era acabar com o voto de cabresto, uma herança dos tempos das eleições imperiais que ainda estava bastante presente nas regiões rurais do Brasil."
+        },
+        {
+          "letra": "D",
+          "texto": "O movimento Diretas Já não conseguiu alcançar seu objetivo, pois o presidente João Figueiredo possuía grande popularidade, adquirida devido ao combate eficiente à inflação durante seu governo."
+        },
+        {
+          "letra": "E",
+          "texto": "As Diretas Já defendia a realização de eleições presidenciais diretas em 1985, mas não conseguiu alcançar seu resultado, já que a Emenda Dante de Oliveira não foi aprovada."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – História do Brasil / Redemocratização"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "Um sal hidratado, representado por $MX \\cdot nH_2O$ (onde M é um metal alcalino, X é um ânion não metálico e n é um número inteiro positivo), perde toda a água de hidratação quando aquecido a $150^\\circ$C. 5,00 g desse sal hidratado liberam 1,70 g de água.\n\nAssinale a alternativa que apresenta a fórmula molecular do sal e o valor de n.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "NaS, 3"
+        },
+        {
+          "letra": "B",
+          "texto": "KS, 2"
+        },
+        {
+          "letra": "C",
+          "texto": "NaCl, 2"
+        },
+        {
+          "letra": "D",
+          "texto": "CaCl, 3"
+        },
+        {
+          "letra": "E",
+          "texto": "KOH, 2"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Estequiometria / Fórmulas Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "Considere as seguintes situações para um gás ideal submetido a diferentes transformações em um sistema fechado.\nI. O gás inicialmente ocupa um volume $V_1$ e tem pressão $P_1$ e temperatura $T_1$.\nII. O gás é submetido a uma transformação isotérmica até atingir um novo volume $V_2$.\nIII. Em seguida, o gás sofre uma transformação isobárica até que sua temperatura atinja $T_3$.\nIV. Finalmente, o gás passa por uma transformação isocórica até que a pressão retorne a $P_1$.\n\nCom base nessas transformações, assinale a alternativa CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Após a transformação isocórica, a nova pressão $P_2$ é dada por $P_2=P_1V_1/V_2$."
+        },
+        {
+          "letra": "B",
+          "texto": "Após a transformação isobárica, o novo volume $V_3$ é dado por $V_3=V_1P_2/P_1$."
+        },
+        {
+          "letra": "C",
+          "texto": "Durante a transformação isotérmica, a pressão final $P_3$ é dada por $P_3=P_2T_3/T_2$."
+        },
+        {
+          "letra": "D",
+          "texto": "A temperatura $T_3$ deve ser menor que $T_1$ para que a pressão final $P_3$ seja igual a $P_1$."
+        },
+        {
+          "letra": "E",
+          "texto": "Após a transformação isotérmica, a nova pressão $P_2$ é dada por $P_2=P_1V_2/V_1$."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Gases / Leis das Transformações Gasosas"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Uma amostra impura de 10,0 g de óxido de cálcio, contendo 80% de pureza, é misturada com 100,0 mL de uma solução de ácido sulfúrico 1,0 mol/L. Após a reação, foram isolados 8,0 g de sulfato de cálcio.\n\nCom base nesses dados, analise as seguintes afirmações e escolha a alternativa CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O ácido sulfúrico é o reagente em excesso."
+        },
+        {
+          "letra": "B",
+          "texto": "A massa teórica de $CaSO_4$ que deveria ser formada é 9,4 g."
+        },
+        {
+          "letra": "C",
+          "texto": "A quantidade de CaO puro presente na amostra é 8,0 g."
+        },
+        {
+          "letra": "D",
+          "texto": "O rendimento da reação é de aproximadamente 85%."
+        },
+        {
+          "letra": "E",
+          "texto": "Óxido de cálcio é o reagente em limitante."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Estequiometria / Reagente Limitante e Rendimento"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "O hidróxido de sódio (NaOH) neutraliza completamente o ácido sulfúrico ($H_2SO_4$), de acordo com a equação:\n\n$NaOH + H_2SO_4 \\rightarrow Na_2SO_4 + H_2O$\n\nQual o volume, em mililitros, de uma solução de $H_2SO_4$ (1,5 mol/L) que reage com 1,0 mol de NaOH.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "100 mL"
+        },
+        {
+          "letra": "B",
+          "texto": "333 mL"
+        },
+        {
+          "letra": "C",
+          "texto": "150 mL"
+        },
+        {
+          "letra": "D",
+          "texto": "50 mL"
+        },
+        {
+          "letra": "E",
+          "texto": "666 mL"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Estequiometria / Soluções"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "A combustão completa de um hidrocarboneto se dá quando há oxigênio suficiente para queimar todo o combustível, resultando em dióxido de carbono e água. E a combustão incompleta acontece quando o oxigênio é insuficiente para queimar todo o combustível, gerando monóxido de carbono e água, ou fuligem (principalmente carbono) e água.\nA seguir são apresentadas as reações de combustão do octano ($C_8H_{18}$):\n\n$C_8H_{18(l)} + O_{2(g)} \\rightarrow CO_{2(g)} + H_2O_{(l)}$ (combustão completa)\n$C_8H_{18(l)} + O_{2(g)} \\rightarrow CO_{(g)} + H_2O_{(l)}$ (combustão incompleta)\n\nCalcule o calor ($\\Delta H$) produzido na combustão incompleta de 3,5L de octano a $25^\\circ$C e assinale a alternativa que o apresenta CORRETAMENTE:\n\nDados: Massas atômicas (C = 12 u, H = 1 u, O = 16 u)\nDensidade $C_8H_{18(l)} = 0,70$ g/mL\n$\\Delta H_{\\text{combustão}}(C_8H_{18}) = -1302,7$ Kcal\n$\\Delta H_f^{\\circ}(CO_{2(g)}) = -94,0$ Kcal\n$\\Delta H_f^{\\circ}(CO_{(g)}) = -26,4$ Kcal\n$\\Delta H_f^{\\circ}(H_2O_{(l)}) = -68,3$ Kcal",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12.500 Kcal"
+        },
+        {
+          "letra": "B",
+          "texto": "6.200 Kcal"
+        },
+        {
+          "letra": "C",
+          "texto": "3.000 Kcal"
+        },
+        {
+          "letra": "D",
+          "texto": "16.373 Kcal"
+        },
+        {
+          "letra": "E",
+          "texto": "762 Kcal"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Termoquímica / Lei de Hess"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Uma solução é preparada introduzindo-se 0,018 Kg de ácido fórmico (HCOOH) em um balão volumétrico de 1000 cm³ e completando-se com água destilada.\n\nSabendo-se que 5,2% do ácido se ionizou, determine a concentração de (HCOOH) no equilíbrio e o valor do $K_a$ para o ácido fórmico.\n\nDados: Massas atômicas H = 1 u, C = 12 u, O = 16 u.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "[HCOOH] = 0,39 mol/L; $K_a$ = 0,0010"
+        },
+        {
+          "letra": "B",
+          "texto": "[HCOOH] = 0,0039 mol/L; $K_a$ = 0,10"
+        },
+        {
+          "letra": "C",
+          "texto": "[HCOOH] = 0,37 mol/L; $K_a$ = 0,0011"
+        },
+        {
+          "letra": "D",
+          "texto": "[HCOOH] = 0,0037 mol/L; $K_a$ = 0,11"
+        },
+        {
+          "letra": "E",
+          "texto": "[HCOOH] = 0,350 mol/L; $K_a$ = 0,015"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Equilíbrio Químico / Equilíbrio Iônico"
+      ]
+    },
+    {
+      "numeroEnunciado": 61,
+      "enunciado": "Um experimento foi realizado em um laboratório onde foram comparadas as taxas de difusão de dois gases. Observou-se que um dos gases apresenta uma taxa de difusão 1,036 vezes maior que o outro. Sabe-se que:\n\nI. O gás X é um hidrocarboneto que sofre adição 1,4.\nII. O gás Y é um hidrocarboneto saturado que ao ser submetido a uma combustão completa, produz 90 gramas de água.\nIII. X e Y tem o mesmo número de carbonos.\n\nCom base nas informações do enunciado, podemos afirmar CORRETAMENTE que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o gás X se difunde mais rapidamente e possui diastereoisômeros."
+        },
+        {
+          "letra": "B",
+          "texto": "o gás X se difunde mais rapidamente e não possui isômeros geométricos."
+        },
+        {
+          "letra": "C",
+          "texto": "o gás Y se difunde mais rapidamente e possui isômeros estruturais."
+        },
+        {
+          "letra": "D",
+          "texto": "o gás Y se difunde mais lentamente e possui três isômeros constitucionais."
+        },
+        {
+          "letra": "E",
+          "texto": "o gás X se difunde mais lentamente e não possui isômeros ópticos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Gases / Lei de Graham",
+        "Química – Química Orgânica / Isomeria"
+      ]
+    },
+    {
+      "numeroEnunciado": 62,
+      "enunciado": "Uma indústria química necessita realizar o lançamento de um efluente (200 m³) oriundo do processo de curtimento do couro em um corpo d'água (10.000.000 m³). Entre os resíduos a serem lançados na água, está o ácido fórmico ($\\alpha \\approx 4\\%$ e Concentração = 0,2 mol/L). A Resolução CONAMA Nº 430 DE 13/05/2011 proíbe que as indústrias lancem efluentes com pH menor que 5 ou superior a 9. O setor ambiental da indústria química realizou o tratamento do efluente buscando atender a resolução, com 160.200 L de base XOH de pH = 12, onde X é um metal alcalino.\n\nDado: log 5,55 = 0,74\n\nCom base nas informações do enunciado, podemos afirmar CORRETAMENTE que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o efluente poderá ser lançado pela indústria química, uma vez que, a quantidade de base utilizada neutralizou parcialmente o pH do ácido fórmico, resultando em um pH final ligeiramente ácido (5,26), mas que atende a resolução do CONAMA."
+        },
+        {
+          "letra": "B",
+          "texto": "o efluente não poderá ser lançado, pois a quantidade de base utilizada não foi suficiente para neutralizar completamente o pH do ácido fórmico, resultando em um pH final fora da faixa estabelecida pela resolução CONAMA."
+        },
+        {
+          "letra": "C",
+          "texto": "o efluente poderá ser lançado pela indústria química, uma vez que, a quantidade de base utilizada neutralizou completamente o pH do ácido fórmico, resultando em um pH final de 7,00, atendendo assim a resolução do CONAMA."
+        },
+        {
+          "letra": "D",
+          "texto": "o efluente poderá ser lançado pela indústria química, uma vez que, a quantidade de base utilizada neutralizou parcialmente o pH do ácido fórmico, resultando em um pH final ligeiramente (8,74), atendendo a resolução do CONAMA."
+        },
+        {
+          "letra": "E",
+          "texto": "o efluente poderá ser lançado pela indústria química, uma vez que, a quantidade de base utilizada neutralizou completamente o pH do ácido fórmico, resultando em um pH final de 8,74, atendendo assim a resolução do CONAMA."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Equilíbrio Químico / pH e pOH",
+        "Química – Soluções / Neutralização"
+      ]
+    },
+    {
+      "numeroEnunciado": 63,
+      "enunciado": "Um composto orgânico contém exclusivamente carbono, hidrogênio e oxigênio. Ao queimar completamente 2,15 g deste composto, obtêm-se 5,50 g de dióxido de carbono e 2,25 g de água.\nA alternativa que descreve uma característica INCORRETA do composto é:\n\nDados:\nMassas molares: $CO_2 = 44$ g/mol; $H_2O = 18$ g/mol",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o composto apresenta isomeria geométrica devido à presença de uma dupla ligação carbono-carbono na cadeia principal."
+        },
+        {
+          "letra": "B",
+          "texto": "o composto possui isomeria óptica por apresentar um carbono quiral em sua estrutura."
+        },
+        {
+          "letra": "C",
+          "texto": "o composto possui isomeria de função, aldeído-cetona."
+        },
+        {
+          "letra": "D",
+          "texto": "o composto possui isomeria constitucional de posição."
+        },
+        {
+          "letra": "E",
+          "texto": "o composto possui cadeia aberta e ramificada."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Química Orgânica / Análise Elementar",
+        "Química – Química Orgânica / Isomeria"
+      ]
+    },
+    {
+      "numeroEnunciado": 64,
+      "enunciado": "TEXT I\n\nGabriel García Márquez wanted to destroy his last novel. It's about to be released.\n\nTowards the end of his life, with his memory destroyed, Gabriel García Márquez struggled to complete a novel about the secret sex life of a middle-aged married woman. He tried at least five versions and tinkered with the text for years, shortening sentences, scribbling in the margins, changing adjectives and dictating notes to his assistant. Finally he gave up and issued a final, damning verdict. \"He told me directly that the novel had to be destroyed,\" said Gonzalo García Barcha, the author's younger son.\nWhen García Márquez died in 2014, several drafts, notes, and chapter fragments of the novel were preserved in his archives at the Harry Ransom Center at the University of Texas at Austin. The story remained there, spread across 769 pages, largely unread and forgotten – until García Márquez's sons decided to defy their father's wishes.\nNow, a decade after his death, his final novel, Until August, will be released this month and will be published in nearly 30 countries worldwide. The story focuses on a woman named Ana Magdalena Bach, who travels to a Caribbean island every August to visit her mother's grave. On these dark pilgrimages, briefly freed from her husband and family, she always finds a new lover.\nThe novel adds an unexpected coda to the life and work of García Márquez, a literary giant and Nobel Prize winner, and is likely to raise questions about how estates and publishers should handle posthumous publications that contradict a writer's instructions.\nLiterary history is littered with examples of famous works that would not have existed if executors and heirs had not ignored the authors' wishes.\n\nIn the first paragraph of the text, some verbs were used to describe what happened to García Márquez while completing a novel. Choose the option that correctly characterizes the verbs in bold as regular or irregular ones.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "regular, irregular, irregular, regular, regular"
+        },
+        {
+          "letra": "B",
+          "texto": "regular, regular, regular, irregular, regular"
+        },
+        {
+          "letra": "C",
+          "texto": "irregular, irregular, regular, regular, regular"
+        },
+        {
+          "letra": "D",
+          "texto": "irregular, irregular, irregular, regular, irregular"
+        },
+        {
+          "letra": "E",
+          "texto": "regular, regular, irregular, irregular, regular"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Gramática / Verbos Regulares e Irregulares"
+      ]
+    },
+    {
+      "numeroEnunciado": 65,
+      "enunciado": "In the fourth and fifth paragraphs, the Simple Present Tense is used for the first time in the text. Choose the option that expresses why it happened.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "It indicates daily routines in the text."
+        },
+        {
+          "letra": "B",
+          "texto": "It expresses general truth."
+        },
+        {
+          "letra": "C",
+          "texto": "It describes some habits of the characters."
+        },
+        {
+          "letra": "D",
+          "texto": "It indicates emotional states."
+        },
+        {
+          "letra": "E",
+          "texto": "It is used to narrate the story."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Gramática / Tempos Verbais (Simple Present)"
+      ]
+    },
+    {
+      "numeroEnunciado": 66,
+      "enunciado": "In which of the following alternatives the same kind of comparative was used as in the word in bold in the following excerpt?\n\n\"'He told me directly that the novel had to be destroyed,' said Gonzalo García Barcha, the author's younger son.\"",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as good as"
+        },
+        {
+          "letra": "B",
+          "texto": "better"
+        },
+        {
+          "letra": "C",
+          "texto": "less important than"
+        },
+        {
+          "letra": "D",
+          "texto": "badder"
+        },
+        {
+          "letra": "E",
+          "texto": "the youngest"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Gramática / Comparativos e Superlativos"
+      ]
+    },
+    {
+      "numeroEnunciado": 67,
+      "enunciado": "Question tags play an essential role in English grammar. They act as supporting material for the sentence that conforms to the speaker/writer or listener, and he accordingly gets feedback. Analyze the following sentences and provide the suitable tag respectively.\n\nI. Let's go to the party, ( )?\nII. Open the door, ( )?\nIII. No one can solve this issue, ( )?\nIV. They play the piano, ( )?\nV. Everyone attended the ceremony, ( )?\n\nThe CORRECT alternative is:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "will you; do you; can't you; they do; did them."
+        },
+        {
+          "letra": "B",
+          "texto": "shall we; will you; can they; don't they; didn't they."
+        },
+        {
+          "letra": "C",
+          "texto": "don't you; won't you; isn't it; they don't; did he."
+        },
+        {
+          "letra": "D",
+          "texto": "you go; is it; it can; do they; he did."
+        },
+        {
+          "letra": "E",
+          "texto": "you did; you do; he can; did they; it did."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Gramática / Question Tags"
+      ]
+    },
+    {
+      "numeroEnunciado": 68,
+      "enunciado": "MAKE and DO are similar verbs in English. There are some words, noun phrases or expressions that unmistakably go together with those verbs. Elect from the options below nouns that combine with DO verb only:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "homework; an exercise; a list; a bed; mess."
+        },
+        {
+          "letra": "B",
+          "texto": "dinner; law; work; laundry; activity."
+        },
+        {
+          "letra": "C",
+          "texto": "an appointment; damage; task; test; statement."
+        },
+        {
+          "letra": "D",
+          "texto": "harm; drawing; job; one's best; a course."
+        },
+        {
+          "letra": "E",
+          "texto": "comment; housework; mistake; love; coffee."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Vocabulário / Collocations"
+      ]
+    },
+    {
+      "numeroEnunciado": 69,
+      "enunciado": "Read the following lyrics:\n\nJust In Time\n\nI found you just in time\nBefore you came, my time\nWas running low\nI was lost\nThe losing dice were tossed\nMy bridges all were crossed\nNowhere to go\nNow you're here\nAnd now I know just where I'm going\nNo more doubt or fear\nI found my way\nFor love came just in time\nI found you just in time\nAnd changed my lonely life and lucky day\n\nConsidering the text above, it is TRUE to affirm:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "the antonym of LOW is sad."
+        },
+        {
+          "letra": "B",
+          "texto": "the noun DICE is the plural form of DIE."
+        },
+        {
+          "letra": "C",
+          "texto": "the term DOUBT means a feeling or a state of certainty."
+        },
+        {
+          "letra": "D",
+          "texto": "the compound form of IN TIME refers to be unpunctual."
+        },
+        {
+          "letra": "E",
+          "texto": "the word FEAR is a synonym of BOLDNESS."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de Texto",
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 70,
+      "enunciado": "Strange Fruit\nBy Meeropol\n\n1 Southern trees bear a strange fruit\n2 Blood on the leaves and blood at the root\n3 Black bodies swinging in the southern breeze\n4 Strange fruit hanging from the poplar trees\n5 Pastoral scene of the gallant South\n6 The bulging eyes and the twisted mouth\n7 Scent of magnolia, sweet and fresh\n8 Then the sudden smell of burning flesh\n9 Here is a fruit for the crows to pluck\n10 For the rain to gather, for the wind to suck\n11 For the sun to rot, for the tree to drop\n12 Here is a strange and bitter crop\n\nThe word \"PLUCK\" (line 9) above has different meanings in other contexts. Which sentence is NOT quite appropriated at all?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "The children's pluck stomachs are a symptom of malnutrition."
+        },
+        {
+          "letra": "B",
+          "texto": "Len kills the chicken, then plucks it."
+        },
+        {
+          "letra": "C",
+          "texto": "Wendy plucks the guitar strings."
+        },
+        {
+          "letra": "D",
+          "texto": "Mike plucked a rose from the vase and offered it to the Joanne."
+        },
+        {
+          "letra": "E",
+          "texto": "Jeremy reached out and plucked the child out of the pond."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Vocabulário / Polissemia"
+      ]
+    },
+    {
+      "numeroEnunciado": 71,
+      "enunciado": "Read the paragraph below and complete the sentences with the proper preposition and choose the LEGITIMATE alternative.\n\nSt Christopher was hunched ( ) the edge ( ) the loch, mumbling ( ) himself and swatting ( ) the biting midges. Mungo couldn't tell if he was sulking or just sobering ( ). The wind mussed his thin hair; it broke the lock ( ) sweat and pomade and separated the tawny brown ( ) an inch ( ) pure-white roots.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "at; in; of; to; over; to; of; into."
+        },
+        {
+          "letra": "B",
+          "texto": "against; over; about; with; on; for; in; to."
+        },
+        {
+          "letra": "C",
+          "texto": "by; of; to; at; up; of; from; of."
+        },
+        {
+          "letra": "D",
+          "texto": "by; to; of; between; for; in; to; at."
+        },
+        {
+          "letra": "E",
+          "texto": "on; by; on; out; through; to; toward; beyond."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Gramática / Preposições"
+      ]
+    },
+    {
+      "numeroEnunciado": 72,
+      "enunciado": "Put the verb in the ACCURATE form in each sentence. Then mark the best option respectively.\n\n- They'd be rather angry if you ( ) them.\n- What would you do if someone ( ) you a lot of money?\n- I'd go out if it ( ) raining.\n- If I ( ) that you were ill last night, I ( ) to see you.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "have stayed away from; steal; was; knew; had came."
+        },
+        {
+          "letra": "B",
+          "texto": "did not visit; gave; weren't; had known; would have gone."
+        },
+        {
+          "letra": "C",
+          "texto": "forget; rob; is; was aware; have phoned."
+        },
+        {
+          "letra": "D",
+          "texto": "ignored; mugs; is; have understood; will pay a visit."
+        },
+        {
+          "letra": "E",
+          "texto": "are aware of; assaults; was; knew; would invite myself."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Gramática / Orações Condicionais"
+      ]
+    }
+  ]
+}

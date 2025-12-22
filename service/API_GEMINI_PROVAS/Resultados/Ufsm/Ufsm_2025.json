@@ -1,0 +1,1222 @@
+{
+  "nomeUniversidade": "Universidade Federal de Santa Maria",
+  "siglaUniversidade": "UFSM",
+  "nomeProva": "Processo Seletivo Vestibular UFSM 2025",
+  "ano": 2025,
+  "qtdeQuestoes": 40,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "A tese do dualismo cartesiano, proposta pelo filósofo René Descartes, no século XVII, estabelece uma distinção clara entre corpo e mente, tratando-os como entidades separadas. Segundo Descartes, o corpo é uma substância material, sujeita às leis físicas, enquanto a mente é uma substância imaterial, responsável pelo pensamento e pela consciência. Hoje sabemos que o sistema imunológico do corpo humano responde a estímulos tanto físicos quanto emocionais. O estresse psicológico, por exemplo, pode levar à liberação de hormônios como o cortisol, que, em níveis elevados, pode comprometer o sistema imunológico e aumentar o risco de doenças. Além disso, a inflamação crônica, frequentemente associada a problemas de saúde física, também tem sido ligada a transtornos mentais, sugerindo uma via bidirecional entre saúde física e mental.\n\nApós refletir sobre a relação entre a tese dualista proposta por Descartes, no século XVII, e o conhecimento contemporâneo sobre o tema da saúde mental e física, assinale V (verdadeiro) ou F (falso) em cada afirmativa a seguir.\n\n( ) A relação entre saúde mental e física, concebida atualmente, não fornece suporte em favor da tese do dualismo cartesiano.\n( ) A distinção entre corpo e mente, segundo o dualismo cartesiano, serve de base para a fundamentação da relação entre a saúde mental e física na ciência contemporânea.\n( ) Segundo a tese do dualismo cartesiano, o pensamento e a consciência são produtos de processos físicos no cérebro.\n\nA sequência correta é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V – V – F."
+        },
+        {
+          "letra": "B",
+          "texto": "V – F – V."
+        },
+        {
+          "letra": "C",
+          "texto": "F – V – F."
+        },
+        {
+          "letra": "D",
+          "texto": "F – F – V."
+        },
+        {
+          "letra": "E",
+          "texto": "V – F – F."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Filosofia – Filosofia Moderna",
+        "Filosofia – Antropologia Filosófica"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Conforme a UNICEF (2022), um a cada dois adolescentes já sentiu necessidade de pedir ajuda em relação a sua saúde mental, e um a cada três adolescentes possui sintomas emocionais que indicam necessidade de avaliação clínica. Conforme o último censo de 2022 (IBGE, 2022), os números de adolescentes de 10 a 14 anos nas regiões sudeste e sul estão expressos na tabela a seguir.\n\nDe acordo com as estimativas da UNICEF (2022), é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "480 mil adolescentes do Rio de Janeiro pediram ajuda quanto a sua saúde mental."
+        },
+        {
+          "letra": "B",
+          "texto": "1 735 mil adolescentes do sudeste necessitaram de avaliação clínica."
+        },
+        {
+          "letra": "C",
+          "texto": "1 milhão 366 mil adolescentes de São Paulo possuíam sintomas emocionais."
+        },
+        {
+          "letra": "D",
+          "texto": "310 mil adolescentes do Rio Grande do Sul já pediram ajuda em relação a sua saúde mental."
+        },
+        {
+          "letra": "E",
+          "texto": "600 mil adolescentes da região sul necessitam de avaliação clínica."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Interpretação de Tabelas",
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Leia o texto a seguir para responder às questões 03 e 04.\n\n**Covitel 2023 apresenta resultados sobre a saúde dos jovens brasileiros**\n\nFoi lançada ontem (29) a segunda edição do Covitel*, estudo de monitoramento dos fatores de risco para doenças crônicas no Brasil. A pesquisa traz informações sobre prática de atividade física, hábitos alimentares, saúde mental, estado de saúde, prevalências de hipertensão arterial e diabetes, consumo de álcool, tabagismo e poluição do ar.\nA pesquisa destacou uma piora nos hábitos de saúde, especialmente entre as pessoas mais jovens, na faixa etária entre 18 e 24 anos. Os pesquisadores identificaram que 40,3% estão com excesso de peso. A obesidade aumentou 90% nesta faixa etária – de 9% para 17,1%; 31,6% já receberam diagnóstico médico de ansiedade e 14,1%, de depressão; 32,6% relataram episódio de consumo abusivo de álcool. Além disso, são as pessoas que menos consomem frutas, verduras e legumes e as que mais consomem refrigerantes e sucos artificiais.\n\"Temos que dar visibilidade a essa pauta para que possamos nos comunicar com a sociedade, porque esses agravos de saúde têm sido uma das maiores causas de mortalidade no Brasil. Por isso, já estamos criando uma coordenação somente para cuidar desse tema e usar essas informações para traçar estratégias de políticas públicas\", disse Ethel Maciel, secretária de Vigilância em Saúde e Meio Ambiente do Ministério da Saúde.\nDe acordo com o coordenador técnico e assessor para Relações Internacionais do Conass, Fernando Cupertino, entender o cenário, o que impacta esses hábitos, diagnósticos e tratamentos, é fundamental para fortalecer a capacidade analítica dos gestores e orientar as prioridades, o planejamento e as ações relacionadas às políticas públicas de saúde de enfrentamento dessas condições crônicas. \"Esses dados são muito relevantes para tomadas de decisões e para entendermos que a promoção da saúde é necessária, mas que deve ser feita em conjunto com o poder público e parceiros para que possamos reduzir acidentes, violências e fatores de riscos que têm atingido os jovens no Brasil\", falou.\nPara o diretor-executivo da Vital Strategies Brasil, Pedro de Paula, o Covitel apresenta informações robustas para a análise da situação de saúde da população em um momento ímpar que, muito provavelmente, trará implicações para a saúde das pessoas nos próximos anos e até mesmo nas próximas décadas. “Dados são fundamentais para monitorar políticas públicas de saúde. Essa piora nos comportamentos gera uma preocupação a curto, médio e longo prazo. Precisamos prevenir e melhorar cada vez mais as políticas de saúde\", alertou. A pesquisa foi realizada entre 2 de janeiro e 15 de abril, nas cinco regiões do país, pelo Instituto Vital Strategies Brasil, em parceria com a Universidade Federal de Pelotas (UFPel), Associação Brasileira de Saúde Coletiva (Abrasco) e Umane**.\n\n*Covitel é o Inquérito Telefônico de Fatores de Risco para Doenças Crônicas não Transmissíveis em Tempos de Pandemia.\n**Umane é uma associação filantrópica paulista sem fins lucrativos, que apoia iniciativas no âmbito da saúde pública.\n\nFonte: ASSESSORIA DE COMUNICAÇÃO DO CONASS. Conselho Nacional de Secretários de Saúde. Covitel 2023 apresenta resultados sobre a saúde dos jovens brasileiros. Publicado em: 30 jun. 2023. Disponível em: <https://www.conass.org.br/ covitel-2023-apresenta-resultados-sobre-a-saude-dos-jovens-brasileiros/>. Acesso em: 08 ago. 2024. (Adaptado).\n\nO objetivo do texto é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "alertar as autoridades de saúde e a população sobre os riscos que corre a saúde dos jovens e adolescentes brasileiros."
+        },
+        {
+          "letra": "B",
+          "texto": "promover reflexões sobre os cuidados que os jovens e adolescentes devem ter com sua saúde."
+        },
+        {
+          "letra": "C",
+          "texto": "publicizar o ponto de vista de autoridades sobre a tomada de decisões quanto à promoção da saúde dos jovens e adolescentes."
+        },
+        {
+          "letra": "D",
+          "texto": "apresentar dados sobre a saúde dos jovens brasileiros até o ano de 2023."
+        },
+        {
+          "letra": "E",
+          "texto": "expor resultados de pesquisa realizada sobre a saúde dos jovens e adolescentes brasileiros."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Gêneros Textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Sobre os recursos linguísticos usados no texto, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“identificaram” (l. 06), “de acordo com” (l. 15) e \"para\" (l. 15) indicam a introdução de vozes externas no texto."
+        },
+        {
+          "letra": "B",
+          "texto": "os verbos “destacou” (l. 05), “disse” (l. 13), \"falou\" (l. 21) e “alertou” (l. 27) correspondem a ações de seres conscientes."
+        },
+        {
+          "letra": "C",
+          "texto": "as expressões “Temos que” (l. 10), “possamos” (l. 10) e \"Precisamos\" (l. 26) indicam, no contexto das orações, necessidade de realizar alguma tarefa."
+        },
+        {
+          "letra": "D",
+          "texto": "os trechos “as” (l. 08), “desse tema” (l. 12) e \"o que\" (l. 16) referem-se, respectivamente, a \"pessoas\" (l. 08), “agravos de saúde” (l. 11) e “cenário” (l. 16)."
+        },
+        {
+          "letra": "E",
+          "texto": "os grupos “Além disso” (l. 08), “para que” (l. 10) e \"porque\" (l. 10) indicam, respectivamente, adição, finalidade e causa."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Morfossintaxe",
+        "Língua Portuguesa – Coesão e Coerência"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Alguns íons desempenham papel vital no corpo humano. Os íons sódio e potássio estão envolvidos no equilíbrio eletrolítico e funcionamento do sistema nervoso. Um baixo nível de $Na^+$ (hiponatremia) pode causar confusão e fraqueza muscular, enquanto um nível elevado (hipernatremia) pode causar paralisia ou convulsão. Baixas concentrações extracelulares de $K^+$ (hipocalemia) diminuem a frequência cardíaca, ao passo que altas concentrações (hipercalemia) provocam arritmias cardíacas e afetam o transporte de $O_2$ e $CO_2$ pela hemoglobina.\n\nAssinale a alternativa correta em relação aos íons $Na^+$ e $K^+$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "São isoeletrônicos, pois possuem o mesmo número de elétrons na última camada."
+        },
+        {
+          "letra": "B",
+          "texto": "A configuração eletrônica do íon $Na^+$ é $1s^2 2s^2 2p^6 3s^2$."
+        },
+        {
+          "letra": "C",
+          "texto": "O íon $Na^+$ tem raio menor do que o raio do átomo de sódio (Na)."
+        },
+        {
+          "letra": "D",
+          "texto": "O nível mais energético do íon $K^+$ é o 4º com 1 elétron no subnível s."
+        },
+        {
+          "letra": "E",
+          "texto": "O íon $K^+$ é isótopo do átomo de argônio (Ar)."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Atomística",
+        "Química – Propriedades Periódicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "As proteínas são substâncias de fundamental importância na estrutura e no funcionamento dos seres vivos. Além da função estrutural, um grupo de proteínas – as enzimas – participa de praticamente todas as reações químicas vitais, estimulando-as; consequentemente, todo o metabolismo depende da ação dessas proteínas.\n\nSobre as proteínas, assinale V (verdadeiro) ou F (falso) em cada afirmativa a seguir.\n\n( ) São sintetizadas pelos lisossomos.\n( ) São formadas por nucleotídeos.\n( ) Apresentam aminoácidos que seguem a sequência dos códons do RNA mensageiro.\n\nA sequência correta é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V – V – F."
+        },
+        {
+          "letra": "B",
+          "texto": "V – F – F."
+        },
+        {
+          "letra": "C",
+          "texto": "F – V – F."
+        },
+        {
+          "letra": "D",
+          "texto": "F – F – V."
+        },
+        {
+          "letra": "E",
+          "texto": "F – V – V."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Bioquímica",
+        "Biologia – Citologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "As Diretrizes Nacionais para a Atenção Integral à Saúde de Adolescentes e Jovens na Promoção, Proteção e Recuperação da Saúde, do Ministério da Saúde, de 2010 e ainda em vigor no Brasil, trazem os resultados de um estudo realizado sobre os padrões de consumo de álcool entre adolescentes.\nSabemos que “beber em binge” significa “o beber com maior risco em um curto espaço de tempo\", o que corresponde a 5 doses ou mais para homens e 4 doses ou mais para mulheres, na mesma ocasião.\nLeia a figura a seguir, que apresenta os resultados em porcentagens.\n\nCom relação às informações apresentadas na figura, considere as afirmativas a seguir.\n\nI → Os homens consumiram percentualmente mais que as mulheres, quando não em binge.\nII → Há uma diferença significativa no percentual do consumo em binge, se considerado o gênero das pessoas.\nIII → Dois terços dos adolescentes de ambos os gêneros são abstinentes.\nIV → Um quarto das adolescentes mulheres bebeu em binge nos últimos 12 meses.\n\nEstá(ão) correta(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas I e II."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas I e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "apenas II, III e IV."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Saúde Pública",
+        "Matemática – Interpretação de Gráficos"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "A hidratação é fundamental para a boa saúde como um todo, já que o organismo de uma pessoa adulta é composto por aproximadamente 70% de água. Estudos científicos comprovam que, sem água, a sobrevivência é quatro vezes menor quando se compara ao tempo sem ingestão de comida. Ainda, atividades cerebrais, intestinais e musculares apresentam melhor desempenho quando o corpo está hidratado.\nA hidratação, essencial para o adequado funcionamento do organismo, reflete-se visivelmente na aparência da pele e impacta diretamente a performance de atividades físicas.\n\nCom base nas propriedades da água, considere as afirmativas a seguir.\n\nI → Se colocarmos uma garrafa de água em um freezer, à temperatura de $-18 °C$, quando iniciar o congelamento a temperatura da água diminuirá gradativamente.\nII → Ao analisar a composição geométrica da água, observa-se que ela apresenta geometria angular e que a soma dos momentos angulares das ligações estabelecidas é nula.\nIII → Alotropia é o fenômeno que ocorre quando um elemento químico forma duas ou mais substâncias simples diferentes, como, por exemplo, o gelo e o vapor de água.\nIV → No estado líquido, as ligações de hidrogênio que ocorrem entre as moléculas de água estão dispostas numa forma mais desorganizada, ao passo que, no gelo, as ligações intermoleculares provocam um arranjo cristalino, no qual conjuntos tetraédricos se organizam formando estruturas hexagonais tridimensionais.\n\nEstá(ão) correta(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas IV."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas I e II."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas II e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas I, II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "apenas I, III e IV."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Propriedades da Matéria",
+        "Química – Ligações Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "A realização de movimentos no dia a dia pode fazer a diferença na saúde das pessoas. Utilizar escadas, em vez de elevadores, e outras pequenas mudanças de comportamento ajudam a manter o corpo mais ativo, diminuindo o sedentarismo, as doenças cardíacas e até as doenças neurodegenerativas.\n\nCiente da necessidade de uma vida saudável, uma caloura da UFSM decide fazer uma caminhada até o campus e visitar o diretório acadêmico de seu curso. No prédio, é informada de que precisa subir dois andares para chegar ao local. Para realizar este deslocamento vertical, ela tem a opção de usar o elevador ou a escada.\n\nAssumindo que a caloura, bem como qualquer outro objeto, comporta-se como uma partícula em um sistema conservativo e considerando um referencial fixo no primeiro pavimento do prédio, considere as afirmativas a seguir.\n\nI → A variação da energia potencial gravitacional, associada ao sistema Terra-Caloura, é maior quando o deslocamento entre os dois andares é realizado pela escada em relação ao mesmo deslocamento realizado a partir do elevador.\nII → Considerando o intervalo de tempo utilizado para realizar o deslocamento, a potência média empregada para subir as escadas aumenta se o intervalo de tempo também aumentar.\nIII → Se, ao chegar ao terceiro andar, a caloura deixar o seu molho de chaves cair pelo vão da escada em queda livre até o primeiro andar, o módulo da velocidade dessa partícula, ao cair um andar, seria a metade do observado quando o molho de chaves tocar o solo, após cair dois andares.\nIV → Se o sistema for não conservativo com um rendimento de $0,4$, o trabalho realizado pela força peso da caloura durante o deslocamento vertical seria suficiente para um deslocamento vertical $2,5$ maior em um sistema conservativo.\n\nEstá(ão) correta(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas IV."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas I e III."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas II e III."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas II e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "apenas I, II e III."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Trabalho e Energia",
+        "Física – Potência Mecânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Alongamento é bom antes e depois da atividade física é o título de uma publicação do Ministério da Saúde. Segundo a notícia, “o alongamento é uma forma simples e segura de exercitar o corpo em qualquer hora ou lugar\".\n\nApós ler essa notícia, um estudante da UFSM passa a realizar alongamentos todos os dias antes de ir caminhando para a aula. A figura a seguir esboça a posição do exercício de alongamento executado pelo estudante, em que ele empurra a parede com uma força horizontal exercida pelas mãos sem que seus pés deslizem, permanecendo, assim, em repouso em relação a um referencial fixo no solo.\n\nEm relação a esse exercício físico realizado, considerando o estudante como uma partícula e o referencial como inercial, assinale V (verdadeiro) ou F (falso) em cada afirmativa a seguir.\n\n( ) Ao exercer uma força horizontal com as mãos contra a parede, o estudante recebe uma força aplicada pela parede, de mesma direção, mesma intensidade, porém em sentido contrário à força por ele exercida.\n( ) O estudante permanece em repouso na direção horizontal durante o exercício, em relação ao referencial indicado, pois a força aplicada por suas mãos na parede é equilibrada pela força exercida pela parede em suas mãos.\n( ) A força peso do estudante e a força normal exercida pela superfície nos pés do atleta formam um par ação e reação.\n\nA sequência correta é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V – F – V."
+        },
+        {
+          "letra": "B",
+          "texto": "V – F – F."
+        },
+        {
+          "letra": "C",
+          "texto": "F – F – V."
+        },
+        {
+          "letra": "D",
+          "texto": "V – V – F."
+        },
+        {
+          "letra": "E",
+          "texto": "F – V – F."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Leis de Newton",
+        "Física – Estática"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "O Relatório de Status Global sobre Atividade Física 2022, publicado pela Organização Mundial da Saúde (OMS), recomenda 150 minutos de atividades moderadas por semana para que uma pessoa seja considerada não sedentária. Em números aproximados, o Instituto Brasileiro de Geografia e Estatística informa que a população brasileira, em 2009, era de 195 milhões, passando para 203 milhões em 2022. O Ministério da Saúde, em seu relatório Vigitel Brasil, considerou que, em 2009, 30% da população praticava os 150 minutos recomendados pela OMS, enquanto em 2022 esse percentual passou para 37%. Em termos absolutos, o número de pessoas consideradas não sedentárias aumentou em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 milhões."
+        },
+        {
+          "letra": "B",
+          "texto": "7 milhões."
+        },
+        {
+          "letra": "C",
+          "texto": "12 milhões."
+        },
+        {
+          "letra": "D",
+          "texto": "17 milhões."
+        },
+        {
+          "letra": "E",
+          "texto": "22 milhões."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Porcentagem",
+        "Matemática – Análise de Dados"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "A Federação Internacional de Medicina do Esporte recomenda que todos os indivíduos se engajem em um programa regular de exercícios aeróbicos, com três a cinco sessões semanais, cada uma das quais com duração de 30 a 60 minutos. O exercício aeróbico pode se constituir de atividades como caminhada, corrida, natação, ciclismo, remo, patinação ou esqui cross-country. Também podem ser praticados esportes individuais, como jogos de raquete, e esportes coletivos, desde que se controle a intensidade, a qual deve ser suficiente para manter a frequência cardíaca entre 50 e 80% da frequência cardíaca máxima. A escolha da atividade dependerá de fatores como o interesse, o acesso a locais e instalações para a sua prática, a idade e o estado físico do praticante. É conveniente uma revisão geral realizada por um médico, especialmente para adultos e para os que apresentam fatores de risco conhecidos.\n\nA partir do texto, com relação à prática de exercícios físicos, assinale V (verdadeiro) ou F (falso) em cada afirmativa a seguir.\n\n( ) O tempo mínimo recomendado para a prática de exercícios aeróbicos é de 90 minutos semanais.\n( ) A intensidade controlada da prática de esportes individuais e coletivos contribui para a saúde cardiovascular.\n( ) A melhora da mobilidade e a diminuição da funcionalidade fisiológica pela redução de massa muscular são consequências da prática regular de atividades físicas.\n\nA sequência correta é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V – F – V."
+        },
+        {
+          "letra": "B",
+          "texto": "V – V – F."
+        },
+        {
+          "letra": "C",
+          "texto": "V – V – V."
+        },
+        {
+          "letra": "D",
+          "texto": "F – F – V."
+        },
+        {
+          "letra": "E",
+          "texto": "F – V – F."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Fisiologia Humana",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Estudos da Organização Mundial da Saúde sugerem que a qualidade de vida está relacionada à quantidade de atividades físicas que fazemos durante a semana. Um dono de academia resolveu estimular seus alunos idosos atribuindo-lhes notas conforme sua frequência mensal, para em seguida poder brindá-los com descontos, estimulando, assim, o comparecimento nas atividades físicas, coibindo os excessos. A ideia é dar nota máxima 10 a quem vem a um número ideal $x_o$ de vezes à academia no mês e, obviamente, dar nota 0 a quem não comparece nenhuma vez. A nota (N) mensal por comparecimento (x) foi modelada por $N=-ax^2+bx+c$ como na figura a seguir, na qual os valores $a, b, c$ são números reais não negativos com $a \\neq 0$.\n\nPara que o modelo esteja correto e a nota máxima 10 seja de fato alcançada em $x_o$, a alternativa correta é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$x_o = \\frac{10}{a}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$x_o = \\frac{\\sqrt{10}}{a}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$x_o = \\frac{\\sqrt{10}}{a^2}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$x_o = \\sqrt{\\frac{10}{a}}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$x_o = \\frac{100}{a}$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Funções do 2º grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "O ciclismo é uma ótima forma de realizar exercícios físicos e também aproveitar a vida ao ar livre na companhia de bons amigos. Um ciclista pedala sua bicicleta, parcialmente representada na figura a seguir, fazendo com que a coroa realize 40 voltas por minuto.\n\nSabendo que os diâmetros da coroa, catraca e roda são, respectivamente, 20 cm, 10 cm e 60 cm, qual o módulo da velocidade do ciclista, em metros por segundo, em relação a um referencial fixo no solo? Desconsidere qualquer perda no sistema e assuma que não há nenhum deslizamento entre correia, catraca e coroa, nem entre roda e solo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{4\\pi}{5}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$8\\pi$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{5\\pi}{4}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$16\\pi$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{8\\pi}{5}$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Movimento Circular Uniforme"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Vida saudável tem custo. Um pacote anual incluindo aulas de pilates, ioga e musculação custa R$ 1000,00 à vista. Caso o cliente não tenha dinheiro no momento, ele poderá pagar R$ 1100,00 um mês depois e, seguindo assim, o cliente poderá pagar o pacote no mês conseguinte ou em qualquer mês, sempre pagando a mesma taxa de juros compostos mensais. Se o cliente for pagar 4 meses após a matrícula, descontados os centavos, quanto ele deverá desembolsar?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 1400,00"
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 1444,00"
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 1464,00"
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 1484,00"
+        },
+        {
+          "letra": "E",
+          "texto": "R$ 1504,00"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Matemática Financeira",
+        "Matemática – Juros Compostos"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "A vida cotidiana expõe todos ao estresse, seja físico ou mental, é o que diz uma publicação do Hospital Israelita Albert Einsten. Tal estresse acaba por sobrecarregar todo o corpo e, em especial, o coração, fazendo com que a frequência de batimentos cardíacos se eleve, obrigando o coração a trabalhar mais para manter a oxigenação dos tecidos. Logo, uma questão relevante é: será que o coração consegue dar conta dessa demanda? Para avaliar tal situação existe o teste ergométrico, o qual consiste em um exame em que o coração é levado ao esforço de modo controlado e seguro. Uma forma de fazer o teste ergométrico é realizar uma corrida monitorada em uma esteira. O monitoramento ocorre a partir de eletrodos conectados ao paciente que realiza uma corrida com intensidade variável na esteira. A variação do esforço pode se dar a partir do aumento da velocidade da corrida e também da inclinação da esteira.\n\nA figura a seguir mostra, de forma simplificada, um instante de um teste ergométrico, em que o paciente corre em uma esteira inclinada 30 graus com a horizontal sem escorregar.\n\nConsiderando que as únicas forças que atuam sobre o paciente são seu peso, força normal e força de atrito, assinale a alternativa que descreve corretamente a interação de atrito entre o calçado do paciente e a esteira.\n\nDados do problema: $\\cos30° = \\frac{\\sqrt{3}}{2}$ e $\\sin30° = \\frac{1}{2}$",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O atrito é cinético, sendo o valor mínimo do coeficiente de atrito necessário $\\sqrt{3}$."
+        },
+        {
+          "letra": "B",
+          "texto": "O atrito é cinético, sendo o valor máximo do coeficiente de atrito necessário $\\frac{\\sqrt{3}}{3}$."
+        },
+        {
+          "letra": "C",
+          "texto": "O atrito é estático, sendo o valor mínimo do coeficiente de atrito necessário $\\frac{\\sqrt{3}}{3}$."
+        },
+        {
+          "letra": "D",
+          "texto": "O atrito é estático, sendo o valor máximo do coeficiente de atrito necessário $\\frac{\\sqrt{3}}{3}$."
+        },
+        {
+          "letra": "E",
+          "texto": "O atrito é estático, sendo o valor mínimo do coeficiente de atrito necessário $\\sqrt{3}$."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Leis de Newton",
+        "Física – Força de Atrito"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Pensar em saúde está diretamente associado à promoção de acesso à infraestrutura e a condições de vida adequadas. Logo, prevenção em saúde está muito ligada à qualidade do espaço ocupado pelas populações. Todavia, no Brasil, assim como em outras partes do mundo, o acesso seguro a locais de moradia e com condições básicas de saúde ainda não é uma realidade para todos os seres humanos.\n\nFrente a isso, o conceito de __________ refere-se às disparidades socioespaciais que afetam comunidades que são levadas a morar em espaços de maior vulnerabilidade devido às desigualdades sociais e étnicas. Esse conceito é marcado, principalmente, pela presença de pessoas com menor renda e de pretos e pardos residindo em áreas de risco. Tal processo pode, por exemplo, ser observado durante as inundações de abril e maio de 2024 no estado do Rio Grande do Sul, onde a população mais afetada na região metropolitana de Porto Alegre foi aquela que vivia em áreas de maior vulnerabilidade e era pobre e negra ou parda, conforme dados apresentados pelo Observatório de Metrópoles (2024).\n\nConsiderando a descrição apresentada, assinale a alternativa que preenche corretamente a lacuna.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "racismo ambiental"
+        },
+        {
+          "letra": "B",
+          "texto": "racismo estrutural"
+        },
+        {
+          "letra": "C",
+          "texto": "determinismo geográfico"
+        },
+        {
+          "letra": "D",
+          "texto": "determinismo ambiental"
+        },
+        {
+          "letra": "E",
+          "texto": "possibilismo geográfico"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geografia da População",
+        "Sociologia – Desigualdade Social"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Para responder à questão 18, leia o texto a seguir.\n\nCom relação ao texto, assinale V (verdadeiro) ou F (falso) em cada afirmativa a seguir.\n\n( ) No primeiro quadro, a resposta do menino revela um outro sentido para a palavra \"paciente\" empregada na pergunta.\n( ) No segundo quadro, o desenrolar da interação verbal consiste na apresentação das consequências de a criança ter perdido a paciência.\n( ) No terceiro quadro, o segmento \"se foi faz tempo\" pode ser reescrito, sem prejuízo do sentido e da adequação gramatical, como se foi a tempo.\n\nA sequência correta é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V – F – F."
+        },
+        {
+          "letra": "B",
+          "texto": "F – V – F."
+        },
+        {
+          "letra": "C",
+          "texto": "F – V – V."
+        },
+        {
+          "letra": "D",
+          "texto": "V – V – V."
+        },
+        {
+          "letra": "E",
+          "texto": "F – F – V."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Para responder à questão 19, leia o trecho destacado a seguir, que integra um glossário do Ministério da Saúde abordando diversos temas referentes à saúde no Brasil.\n\nA garantia do direito constitucional à saúde inclui o cuidado à saúde mental. É um dever do Estado brasileiro, que tem a responsabilidade em oferecer condições dignas de cuidado em saúde para toda a população. No Brasil, a política de saúde mental se pauta em princípios como a desinstitucionalização, o cuidado em liberdade e os direitos humanos.\n\nSobre as escolhas linguísticas e a organização do trecho, considere as afirmativas a seguir.\n\nI → A expressão “se pauta em\" (l. 05 e 06) está empregada com o sentido de se orienta por.\nII → A partícula “como\" (l. 06) introduz a delimitação de um subconjunto dentre o conjunto dos princípios norteadores da política de saúde mental no Brasil.\nIII → A palavra “desinstitucionalização” (l. 06) tem, no seu processo de formação, a contribuição de um prefixo com ideia de repetição.\nIV → A sequência “em liberdade\" (l. 07) expressa a ideia de que a finalidade do cuidado à saúde mental é se alcançar a liberdade.\n\nEstá(ão) correta(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas II."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas III."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas I e II."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas I e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "apenas III e IV."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Formação de Palavras"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Leia as sentenças a seguir.\n\n1. As recomendações para uma vida saudável têm sido cada vez mais adotadas: consumir uma alimentação saudável, praticar exercícios físicos regularmente, desfrutar de momentos de lazer e cultivar amizades, entre outras.\n\n2. A percepção de como fatores para uma vida com saúde foram sendo incorporados pela sociedade corresponde a uma abordagem sociológica que destaca os condicionantes advindos do meio (ou estrutura) sobre as práticas (ou ações) individuais.\n\n3. Os conceitos de “saúde” e “doença” não envolvem apenas uma avaliação sobre o estado biológico do organismo, mas comportam uma definição social.\n\nCom relação ao raciocínio sociológico contido nas sentenças, considere as afirmativas a seguir.\n\nI → Há uma desconexão entre as sentenças 1 e 2. As pessoas, embora vivam em sociedade, são autônomas em suas ações, o que permite a inversão do afirmado em 2: são as ações individuais que vão se disseminando e findam por influenciar as outras pessoas.\nII → Os condicionantes do meio sobre as individualidades – fenômeno reconhecido pela Sociologia desde os seus momentos inaugurais, no século XIX – tiveram no pensador francês Émile Durkheim (1858-1917) um importante divulgador.\nIII → \"Uma cachacinha pode não fazer bem para o corpo, mas o faz para a alma”. Esse dito popular se alinha às recomendações elencadas em 1, pois \"entre outras\" inclui a saúde mental.\nIV → As sentenças 2 e 3 são complementares, pois é a sociedade que estabelece como nos relacionamos com o nosso aparato biológico.\n\nEstá(ão) correta(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas I e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas II e III."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas II e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "apenas I, II e III."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Sociologia – Sociologia da Saúde",
+        "Sociologia – Indivíduo e Sociedade"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Gregório de Matos, conhecido como Boca do Inferno, desenvolveu uma poética que transita por diferentes temas, desde o religioso até o erótico e o satírico. Levou uma vida boêmia e morreu aos 59 anos em decorrência de uma febre contraída em Angola. No romance Boca do Inferno, Ana Miranda transforma Gregório de Matos em personagem literária, aborda questões de saúde pública da época e tece críticas sociais ao Brasil colonial do século XVII, como se pode verificar no excerto a seguir.\n\n\"Esta cidade acabou-se\", pensou Gregório de Matos, olhando pela janela do sobrado do terreiro de Jesus. “Não é mais a Bahia. Antigamente havia muito respeito. Hoje, até dentro da praça, nas barbas da infantaria, nas bochechas dos granachas, na frente da forca fazem assaltos à vista\".\n\nCom base no excerto e na produção literária do autor, assinale a alternativa que apresenta um fragmento da poesia satírica do Boca do Inferno.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Discreta, e formosíssima Maria,\nEnquanto estamos vendo a qualquer hora\nEm tuas faces a rosada Aurora,\nEm teus olhos, e boca o Sol, e o dia."
+        },
+        {
+          "letra": "B",
+          "texto": "Que mais por sua desonra? Honra.\nFalta mais que se lhe ponha? Vergonha.\nO demo a viver se exponha,\nPor mais que a fama a exalta,\nNuma cidade onde falta\nVerdade, honra, vergonha."
+        },
+        {
+          "letra": "C",
+          "texto": "Pequei, Senhor, mas não porque hei pecado,\nDa vossa piedade me despido,\nPorque quanto mais tenho delinquido,\nVos tenho a perdoar mais empenhado."
+        },
+        {
+          "letra": "D",
+          "texto": "Anjo no nome, Angélica na cara,\nIsso é ser flor, e Anjo juntamente,\nSer Angélica flor, e Anjo florente,\nEm quem, senão em vós se uniformara?"
+        },
+        {
+          "letra": "E",
+          "texto": "A vós correndo vou, braços sagrados,\nNessa cruz sacrossanta descobertos\nQue, para receber-me, estais abertos,\nE, por não castigar-me, estais cravados."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Barroco"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "A distopia Floresta é o nome do mundo, escrita por Ursula K. Le Guin, publicada em 2020, conta a história do Planeta Athshe (que significa floresta e casa). Esse planeta era um paraíso, com características associadas ao ecossistema amazônico, densas florestas, significativa biodiversidade e chuvas abundantes. Nesse planeta futurístico, viviam povos tradicionais, com baixa estatura e corpo recoberto de pelos verdes. Na história, o Planeta Terra havia sido densamente explorado, e os yumanos (humanos no idioma de Athshe) começam a colonizar esse novo mundo para explorar suas riquezas. Durante esse processo, muitos conflitos são desencadeados e repercutem em batalhas entre os povos locais e os yumanos, bem como em processos de degradação ambiental.\nDentre as diversas problemáticas socioespaciais retratadas na obra ficcional, pode-se destacar que os povos da floresta e os yumanos tinham um conflito pelo modo de entender a relação com a floresta e sobre a relação com o ambiente. Os astheanos vivem em contato com a natureza local, valorizando-a e tratando-a com cuidado, pois é da floresta que obtêm seu sustento e sua saúde.\n\nNo planeta Terra real, acontecem processos que promovem a degradação de ambientes, gerando problemas na saúde humana, como ocorre de maneira fictícia nos planetas do livro. Com base nos conflitos ambientais e nas problemáticas de saúde, assinale V (verdadeiro) ou F (falso) em cada afirmativa a seguir.\n\n( ) A mineração indevida, nos territórios das comunidades yanomamis do Brasil, promove a contaminação e o envenenamento por mercúrio, afetando a saúde das populações tradicionais.\n( ) As queimadas em diversas regiões do Brasil, como na Amazônia e no Cerrado, prejudicam a saúde humana pela dispersão das partículas na circulação atmosférica global.\n( ) O uso excessivo e inadequado de agrotóxicos contamina os rios e os aquíferos, podendo comprometer a saúde das águas e das pessoas que as consomem.\n\nA sequência correta é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V – F – F."
+        },
+        {
+          "letra": "B",
+          "texto": "V – V – V."
+        },
+        {
+          "letra": "C",
+          "texto": "V – F – V."
+        },
+        {
+          "letra": "D",
+          "texto": "F – V – F."
+        },
+        {
+          "letra": "E",
+          "texto": "F – V – V."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Questões Ambientais",
+        "Sociologia – Movimentos Sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Em situações de emergência (enchentes e calamidades públicas), algumas doenças podem se propagar facilmente em decorrência da contaminação da água e dos alimentos, como diarreia, cólera, febre tifóide, hepatite A, giardíase, amebíase, verminoses e leptospirose. O hipoclorito de sódio, conhecido popularmente como água sanitária, é um saneante amplamente utilizado na desinfecção de água. Ele tem a capacidade de permear a membrana celular, inativando microrganismos patogênicos, como bactérias, vírus e protozoários, além de eliminar substâncias orgânicas e inorgânicas, como ferro, manganês e sulfeto de hidrogênio. A equação a seguir representa a reação entre a solução de hipoclorito de sódio e sulfeto de hidrogênio.\n$$vNaClO_{(aq)} + wH_2S_{(g)} \\rightarrow xSO_{2(aq)} + yNaCl_{(aq)} + zH_2O_{(l)}$$\nDe acordo com a reação representada, assinale V (verdadeiro) ou F (falso) em cada afirmativa a seguir.\n\n( ) Fazendo o balanceamento da equação pelo método das tentativas, os coeficientes v, w, x, y e z são, respectivamente, 3, 1, 1, 1 e 1.\n( ) É uma reação de oxidação-redução na qual o enxofre é reduzido.\n( ) $H_2S$ é um agente redutor, e $NaClO$ é um agente oxidante.\n\nA sequência correta é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V – F – V."
+        },
+        {
+          "letra": "B",
+          "texto": "V – V – F."
+        },
+        {
+          "letra": "C",
+          "texto": "F – F – V."
+        },
+        {
+          "letra": "D",
+          "texto": "F – V – F."
+        },
+        {
+          "letra": "E",
+          "texto": "F – V – V."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Reações de Oxirredução",
+        "Química – Balanceamento de Equações"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "A imagem a seguir, da letra T em cor preta, dentro de um triângulo amarelo com bordas pretas, indica que, na fabricação do alimento contido na embalagem, há produtos transgênicos, obtidos a partir da técnica chamada de transgenia.\n\nCom relação à transgenia, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "É a produção de indivíduos geneticamente iguais."
+        },
+        {
+          "letra": "B",
+          "texto": "É a indução de mutações em genes de resistência."
+        },
+        {
+          "letra": "C",
+          "texto": "É uma substância que pode causar mutações."
+        },
+        {
+          "letra": "D",
+          "texto": "É a transferência de um gene de uma espécie para outra."
+        },
+        {
+          "letra": "E",
+          "texto": "É a transformação de um gene em outro para o surgimento de uma nova espécie."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Biotecnologia",
+        "Biologia – Genética"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "A distribuição geográfica dos condicionantes de saúde pode contribuir para a prevenção de doenças e a promoção da saúde. Neste sentido, o estudo do médico John Snow (1813-1858) destacou com pioneirismo a análise espacial na Geografia da Saúde. A dengue, doença que pode ser associada aos aspectos físicos e à localização geográfica, tem a análise espacial como uma possibilidade de entendimento da sua distribuição. A propagação do mosquito transmissor é causada pela existência de água em abundância devido às chuvas e ao calor, que predominam em alguns locais da Terra.\n\nConsiderando as características ambientais necessárias à propagação do aedes aegypti, qual das regiões possui maior possibilidade de ocorrência da dengue durante todo o ano?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Polar"
+        },
+        {
+          "letra": "B",
+          "texto": "Temperada de altitude"
+        },
+        {
+          "letra": "C",
+          "texto": "Subtropical"
+        },
+        {
+          "letra": "D",
+          "texto": "De alta montanha"
+        },
+        {
+          "letra": "E",
+          "texto": "Intertropical"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Climatologia",
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "A leptospirose, doença bacteriana, tem a situação epidemiológica atualizada no Brasil periodicamente pelo Sistema de Informação de Agravos de Notificação (SINAN). Dentre os dados disponibilizados pelo SINAN, a figura a seguir apresenta o número de casos confirmados, óbitos e letalidade no período de 2007 a 2024.\n\nEm relação ao gráfico e à ocorrência de leptospirose, considere as afirmativas a seguir.\n\nI → A leptospirose teve o menor número de mortes registradas nos anos de 2016, 2017 e 2018.\nII → A letalidade da doença foi próxima de 100% nos anos de 2011 e 2014.\nIII → No ano de 2022, foram registrados mais casos de leptospirose que nos dois anos anteriores, 2020 e 2021.\nIV → O agente causador da leptospirose é uma bactéria, cuja célula é procariótica.\n\nEstá(ão) correta(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas III."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas I e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "apenas III e IV."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Microbiologia",
+        "Biologia – Saúde Pública"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "A linguagem cartográfica é utilizada na Geografia para diversas finalidades, dentre as quais se destacam o planejamento local e regional, o entendimento das disparidades socioespaciais por meio de dados geoespaciais e a compreensão da distribuição de doenças. A Corona Virus Disease 2019 (COVID-19), por exemplo, foi notadamente abordada por meio da linguagem cartográfica em diversos meios de comunicação e em órgãos governamentais e não governamentais, que buscavam compreender e mitigar a evolução da doença. Dessa maneira, o mapa a seguir, produzido pelo Grupo Radar COVID-19, da UNESP, permite fazer alguns apontamentos sobre o emprego da Cartografia na análise dos óbitos, associando-os à Geografia da Saúde.\n\nCom base no mapa e nos temas relacionados à Cartografia, considere as afirmativas a seguir.\n\nI → O tipo de implementação cartográfica pontual permite identificar genericamente em quais estados do Brasil ocorreu maior número dos óbitos por COVID-19 até 01 de novembro de 2020.\nII → O maior número de óbitos, no período representado, ocorreu na região Sul, por concentrar o maior número absoluto de pessoas do país.\nIII → A representação cartográfica sobre os óbitos gerados pela COVID-19 é um tipo de mapa temático, cuja principal finalidade é a visualização do fenômeno espacial.\nIV → O mapa apresentado demonstra preocupação com a localização exata de cada óbito ao utilizar a variável visual forma.\n\nEstá(ão) correta(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas III."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas I e III."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas II e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas I, II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "apenas I, II e IV."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Cartografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Curiosidade: esta planta faz parte da Relação Nacional de Plantas de Interesse do SUS (RENISUS). A carqueja é amplamente utilizada na medicina caseira, hábito herdado dos nossos indígenas. O primeiro registro, escrito em 1931 no Brasil, informa o emprego da infusão das partes aéreas para o tratamento da esterilidade feminina e da impotência masculina, atribuindo propriedades tônicas, febrífugas e estomáquicas.\n\nAs práticas de cura dos povos indígenas e afro-brasileiros permeiam a própria identidade de tais povos e incluem o uso de plantas e rituais. A respeito dessas práticas no Brasil contemporâneo, assinale V (verdadeiro) ou F (falso) em cada afirmativa a seguir.\n\n( ) O conhecimento medicinal de indígenas e afro-brasileiros, ancorado no empirismo, assenta-se em tradições e costumes ancestrais.\n( ) O conhecimento de propriedades terapêuticas das plantas entre indígenas e afro-brasileiros é descartado pelos órgãos estatais.\n( ) Os saberes tradicionais de índigenas e afro-brasileiros, nas práticas de cura, diferem dos métodos do saber científico, mas ambos são legítimos.\n\nA sequência correta é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V – F – V."
+        },
+        {
+          "letra": "B",
+          "texto": "V – V – V."
+        },
+        {
+          "letra": "C",
+          "texto": "V – V – F."
+        },
+        {
+          "letra": "D",
+          "texto": "F – F – V."
+        },
+        {
+          "letra": "E",
+          "texto": "F – V – F."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Sociologia – Cultura e Identidade",
+        "História – História Indígena e Afro-brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Inicialmente, extraem o cérebro pelas narinas, parte com um ferro recurvo, parte por meio de drogas introduzidas na cabeça. Fazem, em seguida, uma incisão no flanco com pedra cortante da Etiópia e retiram, pela abertura, os intestinos, limpando-os cuidadosamente e banhando-os com vinho de palmeira e óleos aromáticos. O ventre, enchem-no com mirra pura moída, canela e essências várias, não fazendo uso, porém, do incenso. Feito isso, salgam o corpo e cobrem-no com natro, deixando-o assim durante setenta dias. Decorridos os setenta dias, lavam-no e envolvem-no inteiramente com faixas de tela de algodão embebidas em commi, de que os egípcios se servem ordinariamente como cola. Concluído o trabalho, o corpo é entregue aos parentes, que o encerram numa urna de madeira feita sob medida, colocando-a na sala destinada a esse fim. Tal a maneira mais luxuosa de embalsamar os mortos.\n\nA partir dos elementos abordados no excerto e do contexto do Egito Antigo, considere as afirmativas a seguir.\n\nI → O embalsamamento proporcionou um conhecimento de anatomia importante para a prática da medicina naquela sociedade, a exemplo de cirurgias cranianas.\nII → As crenças influenciaram diversas áreas das ciências egípcias, à exceção do conhecimento farmacológico e medicinal.\nIII → A mumificação de mortos podia envolver quantidades maiores ou menores de ingredientes, a depender da posição social do morto.\nIV → As práticas de cura no Egito se valiam de conhecimentos práticos e da espiritualidade, a exemplo de fórmulas mágicas e amuletos.\n\nEstá(ão) correta(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas II e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas III e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas I, II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "apenas I, III e IV."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Antiguidade Oriental"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Na segunda parte de Marília de Dirceu, de Tomás Antônio Gonzaga, o pastor Dirceu lamenta o longo período longe da amada Marília e, consequentemente, a perda de sua saúde com o envelhecimento.\n\nLira IV\nJá, já me vai, Marília, branquejando\nLouro cabelo, que circula a testa;\nEste mesmo, que alveja, vai caindo\nE pouco já me resta.\n[...]\nA doença deforma a quem padece;\nMas logo que a doença faz seu termo,\nTorna, Marília, a ser quem era dantes,–\nO definhado enfermo.\n\nSupõe-me qual doente, ou mal a planta,\nNo meio da desgraça, que me altera;\nEu também te suponho qual saúde,\nOu qual a Primavera.\n\nSe dão esses teus meigos, vivos olhos\nAos mesmos Astros luz, e vida às flores,\nQue efeitos não farão, em quem por eles,\nSempre morreu de amores?\n\nCom base no trecho e no contexto do Arcadismo, assinale V (verdadeiro) ou F (falso) em cada afirmativa a seguir.\n\n( ) Na primeira estrofe, o eu-lírico admira o cabelo louro de Marília, assim como elogia, na última estrofe, a meiguice e a vivacidade de seus olhos.\n( ) Na segunda estrofe, Dirceu reflete sobre o efeito passageiro da doença e sobre os possíveis efeitos positivos da presença da amada em sua recuperação.\n( ) Os versos distribuem-se integralmente em redondilhas maiores, o que garante musicalidade ao poema, combinando o ritmo ao otimismo do eu-lírico.\n\nA sequência correta é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "F – V – F."
+        },
+        {
+          "letra": "B",
+          "texto": "F – F – V."
+        },
+        {
+          "letra": "C",
+          "texto": "V – V – F."
+        },
+        {
+          "letra": "D",
+          "texto": "V – F – F."
+        },
+        {
+          "letra": "E",
+          "texto": "V – V – V."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Arcadismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Heitor Villa-Lobos (1887-1959) é considerado o mais importante compositor erudito brasileiro em todos os tempos. Foi personalidade marcante na linguagem estética nacionalista, com a qual atingiu expressão artística mundial. Sua produção abarcou inúmeras canções: peças para piano solo ou com orquestra (ou conjuntos camerísticos), sinfonias, música coral, música religiosa, musicais e óperas. Compôs uma série de Choros, num total de quatorze obras nesse gênero, escritas entre os anos de 1920 a 1928, todas com diferentes organizações vocais e instrumentais. Dentre essas se destaca $Choros n^o. 10$, subintitulada \"Rasga o Coração\", obra para coro e orquestra escrita em 1926, com poesia de Catulo da Paixão Cearense (1863-1946). Mais tarde, em 1957, Villa-Lobos substituiu o texto original por uma vocalização com sílabas neutras (onomatopaicas) e, por isso, ficou mais conhecido.\n\nSobre o movimento musical nacionalista no Brasil, assinale V (verdadeiro) ou F (falso) em cada afirmativa a seguir.\n\n( ) É característica do movimento musical nacionalista a inspiração para suas composições nos elementos encontrados em canções e danças folclóricas e populares, através de suas melodias e ritmos originais.\n( ) Além de Heitor Villa-Lobos, tiveram grande destaque no movimento musical nacionalista Francisco Manuel da Silva (1795-1865), autor da música de nosso Hino Nacional, e também Camargo Guarnieri (1907-1993), autor de Choro para violino e orquestra.\n( ) Heitor Villa-Lobos, em seu $Choros n^o. 10$, procura descrever o canto dos pássaros amazônicos e a realidade cotidiana das tribos indígenas como importantes motivos para sua inspiração musical.\n\nA sequência correta é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V – V – V."
+        },
+        {
+          "letra": "B",
+          "texto": "V – F – F."
+        },
+        {
+          "letra": "C",
+          "texto": "V – F – V."
+        },
+        {
+          "letra": "D",
+          "texto": "F – V – V."
+        },
+        {
+          "letra": "E",
+          "texto": "F – F – V."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Arte – Música Brasileira",
+        "Arte – Modernismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "A modalidade surgiu na Europa, no século XVIII, e ficou conhecida mundialmente nos séculos seguintes. Ao longo desse período, o ensino dessa modalidade foi aperfeiçoado, profissionalizando-se e popularizando-se com a atuação de artistas famosos em companhias profissionais, tal como Ana Botafogo, na Companhia Municipal do Rio de Janeiro. As apresentações artísticas dessa modalidade ocorrem em teatros, com exibições de pessoas que executam movimentos corporais precisos, os quais demonstram coordenação motora, lateralidade, agilidade, tônus muscular, equilíbrio sobre as pontas dos pés, saltos, rotação externa coxo-femural, passos, poses, giros, interpretação cênica e leveza.\n\nAs informações do texto referem-se ao/à",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ballet clássico."
+        },
+        {
+          "letra": "B",
+          "texto": "ballet de corte."
+        },
+        {
+          "letra": "C",
+          "texto": "dança moderna."
+        },
+        {
+          "letra": "D",
+          "texto": "ballet neoclássico."
+        },
+        {
+          "letra": "E",
+          "texto": "dança contemporânea."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Arte – Dança"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Nas imagens, a Procissão de flagelantes, de Pierart dou Tielt, de 1353, e a Massagem antes e depois do banho, de Avicena, do século X, remetem ao modo de compreensão e tratamento de enfermidades no período medieval, em territórios do ocidente e do oriente, respectivamente.\n\nAo analisar as imagens e seu contexto histórico, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "houve, nas regiões de domínio árabe-muçulmano, a tradução de obras da cultura clássica para o latim, aspecto que colaborou para o desenvolvimento da medicina nas universidades europeias do século V ao VIII."
+        },
+        {
+          "letra": "B",
+          "texto": "a carência de planejamento urbano e a queda demográfica na Baixa Idade Média colaboraram para a difusão de enfermidades, como a peste negra na Europa do século XIV."
+        },
+        {
+          "letra": "C",
+          "texto": "a permanência das estruturas urbanas latinas na Europa, como as termas, após as invasões bárbaras, foi importante para práticas de higiene pessoal, a exemplo da prática do banho."
+        },
+        {
+          "letra": "D",
+          "texto": "as práticas médicas do mundo islâmico embasaram-se no conhecimento clássico, o que inviabilizou a edificação de uma ciência médica mais desenvolvida que a do mundo ocidental europeu."
+        },
+        {
+          "letra": "E",
+          "texto": "os conhecimentos medicinais dos árabes-muçulmanos, como o Cânone de Medicina, evidenciam um desenvolvimento científico oriental em contraste com o europeu, influenciado pelo teocentrismo cristão."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Idade Média",
+        "História – Mundo Islâmico"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Em 1949, o lítio foi introduzido na prática psiquiátrica para o tratamento de alguns distúrbios psíquicos. Desde então, o carbonato de lítio tem sido o tratamento farmacológico padrão para transtorno bipolar, devido a seu efeito estabilizador nas variações de humor que acabam desgastando a saúde mental do paciente.\n\nUma das etapas de obtenção do carbonato de lítio a partir do sal-gema envolve a seguinte reação:\n$$Na_2CO_{3(s)} + Li_2SO_{4(s)} \\rightarrow Li_2CO_{3(s)} + Na_2SO_{4(s)}$$\nEm relação ao carbonato de lítio ($Li_2CO_3$), assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A equação de formação do $Li_2CO_3$ apresentada trata-se de uma reação de deslocamento do carbonato de sódio ($Na_2CO_3$)."
+        },
+        {
+          "letra": "B",
+          "texto": "A solução aquosa de $Li_2CO_3$ não apresenta condutividade elétrica, uma vez que o $Li_2CO_3$ é um sal insolúvel, assim como a maioria dos carbonatos."
+        },
+        {
+          "letra": "C",
+          "texto": "Os elementos que constituem o $Li_2CO_3$ pertencem às famílias dos metais alcalinos, halogênios e calcogênios, respectively."
+        },
+        {
+          "letra": "D",
+          "texto": "O $Li_2CO_3$ apresenta ligações iônicas e covalentes, por isso é considerado um composto molecular."
+        },
+        {
+          "letra": "E",
+          "texto": "A 1ª energia de ionização do lítio é menor que a 1ª energia de ionização do carbono e do oxigênio."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Reações Inorgânicas",
+        "Química – Propriedades Periódicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Advertiu ao atribulado senhor que a criança não estava a salvo de qualquer mal, pois a mordida de um cão, com ou sem raiva, não preservava contra nada. Como sempre, o único jeito era esperar. O marquês perguntou:\n– É a última coisa que me diz?\n– A ciência não me deu meios para lhe dizer mais nada – replicou o médico no mesmo tom ácido. – Mas se não acredita em mim, ainda lhe resta um recurso: confie em Deus.\n[...]\nNa cidade havia outros três médicos formados, seis boticários, onze barbeiros sangradores e um sem-número de curandeiros e mestres em feitiçaria, embora nos últimos cinquenta anos a Inquisição tivesse condenado mil e trezentos a diferentes penas e queimado sete na fogueira. Um jovem médico de Salamanca abriu a ferida fechada de Sierva María e pôs-lhe umas cataplasmas cáusticas para extrair os humores rançosos. Outro tentou a mesma coisa com sanguessugas nas costas. Um barbeiro sangrador lavou a ferida com urina dela própria e outro a fez bebê-la. Ao fim de duas semanas ela havia suportado dois banhos de ervas e duas lavagens emolientes por dia, e levaram-na à beira da agonia com cozimentos de antimônio natural e outros filtros mortais.\n\nO romance de Gabriel Garcia Márquez se passa em Cartagena das Índias, no século XVIII, e narra a história de Sierva María após contrair raiva por meio de uma mordedura de cachorro. No que concerne ao contexto histórico do período, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A saúde pública constituía preocupação da metrópole espanhola em relação às colônias, como se depreende da quantidade de médicos, barbeiros e curandeiros citada no excerto."
+        },
+        {
+          "letra": "B",
+          "texto": "As práticas de cura que envolviam o conhecimento botânico, típicas de indígenas e africanos, eram tidas como heréticas, pois a Igreja prescrevia a cura pela fé."
+        },
+        {
+          "letra": "C",
+          "texto": "A ação da Inquisição, na América Hispânica, concentrou-se no combate às heresias, inexistindo divergência em relação aos diversos saberes medicinais."
+        },
+        {
+          "letra": "D",
+          "texto": "O desenvolvimento da medicina, no século XVIII, alcançava progressos na área da epidemiologia, o que implicava práticas que diferiam da atuação de barbeiros e curandeiros."
+        },
+        {
+          "letra": "E",
+          "texto": "O conhecimento sobre zoonoses e vacinas, na Europa, foi decisivo para a redução de casos de raiva na América Colonial, visto que os povos nativos desconheciam a doença antes da chegada dos europeus."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – América Colonial"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Dentre os exames de rotina, o hemograma, exame comumente solicitado pelos médicos, fornece informações sobre as células do sangue. Dentre essas células, têm-se os leucócitos, chamados de glóbulos brancos.\n\nSobre os leucócitos, assinale V (verdadeiro) ou F (falso) em cada afirmativa a seguir.\n\n( ) São células com forma esférica.\n( ) Participam dos processos de coagulação do sangue.\n( ) Transportam gás oxigênio para os tecidos.\n\nA sequência correta é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V – F – V."
+        },
+        {
+          "letra": "B",
+          "texto": "V – V – F."
+        },
+        {
+          "letra": "C",
+          "texto": "F – F – V."
+        },
+        {
+          "letra": "D",
+          "texto": "F – V – F."
+        },
+        {
+          "letra": "E",
+          "texto": "V – F – F."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Fisiologia Humana",
+        "Biologia – Histologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Em um tratamento terapêutico, a interrupção é um problema enfrentado pelos agentes de saúde. Isso ocorre quando o paciente resolve que já está melhor e cessa a medicação por conta própria. Considere que a concentração de um fármaco na corrente sanguínea foi modelada em função do tempo por $C=ae^{-bt}$, em que $a$ e $b$ são constantes positivas e $t$ representa a variável do tempo medida em dias. Considerando $y=\\ln(C)$, o gráfico que representa corretamente y em função do tempo $t$ é",
+      "alternativas": null,
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Funções Exponenciais",
+        "Matemática – Funções Logarítmicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Leia o infográfico a seguir para responder às questões 38, 39 e 40.\n\nSobre as informações e sua disposição no infográfico, considere as afirmativas a seguir.\n\nI → O círculo central, no infográfico, indica que lugares saudáveis têm impacto positivo na saúde das pessoas.\nII → O círculo intermediário apresenta três características de lugares saudáveis.\nIII → As nove qualidades apresentadas no círculo externo do infográfico são importantes para a saúde das pessoas.\nIV → As informações apresentadas, na trajetória centro-margem do infográfico, são gerais no centro e cada vez mais detalhadas em direção ao círculo externo.\n\nEstá(ão) correta(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas I e III."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas II e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas II, III e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II, III e IV."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Interpretação de Texto",
+        "Inglês – Análise de Infográficos"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Considerando as características dos lugares presentes no infográfico, assinale V (verdadeiro) ou F (falso) em cada afirmativa a seguir.\n\n( ) Lugares que possibilitam que as pessoas se conectem gratuitamente de forma física e virtual trazem saúde e bem-estar.\n( ) Lugares acolhedores são saudáveis, porque são seguros, inclusivos e têm espaços aconchegantes.\n( ) Lugares responsáveis apoiam o comércio de alimentos e bebidas produzidos localmente.\n\nA sequência correta é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V – V – V."
+        },
+        {
+          "letra": "B",
+          "texto": "F – V – F."
+        },
+        {
+          "letra": "C",
+          "texto": "F – V – V."
+        },
+        {
+          "letra": "D",
+          "texto": "F – F – V."
+        },
+        {
+          "letra": "E",
+          "texto": "V – F – F."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto",
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Um recurso linguístico recorrente no texto são os adjetivos, dentre eles “Healthy”, “Accessible” e “Adaptive”, que foram formados por meio do acréscimo de sufixos. Assinale a alternativa em que as palavras podem ser transformadas em adjetivos por meio dos mesmos sufixos “y”, “able/ible” e “ive”, respectivamente.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Local – Place – People"
+        },
+        {
+          "letra": "B",
+          "texto": "Need – Move – Create"
+        },
+        {
+          "letra": "C",
+          "texto": "Climate – Drink – Interact"
+        },
+        {
+          "letra": "D",
+          "texto": "Current – Ease – Participation"
+        },
+        {
+          "letra": "E",
+          "texto": "Convenience – Food – Response"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Morfologia",
+        "Inglês – Formação de Palavras"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1081 @@
+{
+  "nomeUniversidade": "Fundação Escola de Comércio Álvares Penteado",
+  "siglaUniversidade": "FECAP",
+  "nomeProva": "PROVA DE CONHECIMENTOS GERAIS",
+  "ano": 2024,
+  "qtdeQuestoes": 40,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Leia a tira para responder às questões de números 01 e 02.\nPOR QUE TÁ DEMORANDO TANTO?!!!\nOOPS!\nESPERO QUE ESTE CELULAR SEJA MESMO À PROVA D'ÁGUA.\n(Mort Walker. Recruta Zero)\nConsiderando os elementos verbais e não verbais da tira, é correto afirmar que o personagem que lava a louça está demorando para terminar seu trabalho porque",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "derrubou o celular na pia e não consegue encontrá-lo."
+        },
+        {
+          "letra": "B",
+          "texto": "se assustou com a fala do outro personagem."
+        },
+        {
+          "letra": "C",
+          "texto": "estava usando o celular em vez de fazer o serviço."
+        },
+        {
+          "letra": "D",
+          "texto": "resolveu testar a resistência de seu celular à água."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Linguagem verbal e não verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Leia a tira para responder às questões de números 01 e 02.\nPOR QUE TÁ DEMORANDO TANTO?!!!\nOOPS!\nESPERO QUE ESTE CELULAR SEJA MESMO À PROVA D'ÁGUA.\n(Mort Walker. Recruta Zero)\nSeria correto substituir a palavra \"mesmo\", do 2º quadro, por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "realmente."
+        },
+        {
+          "letra": "B",
+          "texto": "ainda."
+        },
+        {
+          "letra": "C",
+          "texto": "também."
+        },
+        {
+          "letra": "D",
+          "texto": "igualmente."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Leia o texto para responder às questões de números 03 a 08.\nBuzinas de carros, barulho de obras, música alta. Especialmente para quem vive em grandes cidades, momentos de silêncio são cada vez mais raros. De imediato, o prejuízo é para a saúde mental, pois o excesso de barulho prejudica o sono e dificulta a realização das tarefas cotidianas. Com o tempo, a constante exposição a ruídos perturbadores e indesejados pode acarretar danos irreversíveis à audição, além de problemas de coração.\nMariana Paker, assessora de comunicação de 41 anos, sofre com o estresse provocado pelo barulho de uma cozinha industrial que fica ao lado de sua casa, em São Paulo. Trata-se de uma empresa de serviço de alimentação que atende clientes exclusivamente por entrega. \"Desde que eles começaram a operação, em 2020, tenho muito problema com o barulho do maquinário dessa indústria, que inclui exaustores e outros equipamentos. É como acordar e dormir ao lado de uma turbina de avião\", diz.\nLogo no início, ela teve que sair de casa, pois só chorava. Não conseguia trabalhar nem dormir. Como estava trabalhando apenas em casa, optou por ir para a cidade do interior onde vivia a mãe. Saía de São Paulo e voltava a cada 15 dias. \"Toda vez que eu tinha que voltar, passava por crises de ansiedade, sentia falta de ar e ficava muito estressada”, conta.\nQuando Mariana teve que voltar de vez para São Paulo, ela e os vizinhos iniciaram uma luta contra a empresa de serviços de alimentação e o barulho diminuiu um pouco. Mesmo assim, durante a noite, quando a cidade fica silenciosa, o som é tão irritante que tem que fechar todas as portas da casa para conseguir pegar no sono. \"Como o barulho é constante, já que a cozinha funciona de manhã até a madrugada, ele entra na cabeça e te leva à loucura. Não dá para esquecê-lo\", reclama.\nEsse estresse causado pelo barulho pode ainda resultar em danos cardiovasculares, como o infarto do miocárdio e o agravamento de doenças crônicas, alerta o cardiologista Cláudio Domênico.\n(Isabella Abreu, https://www.uol.com.br/vivabem/noticias/redacao/2023/10/03/como-o-excesso-de-barulho-afeta-nossa-vida.htm. 03.10.2023. Adaptado)\nDe acordo com o texto, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as pessoas mais sensíveis sofrem nas grandes cidades, onde a maioria dos indivíduos não é afetada pelos ruídos altos."
+        },
+        {
+          "letra": "B",
+          "texto": "a exposição constante a ruídos pode levar as pessoas a terem problemas tanto de ordem mental quanto física."
+        },
+        {
+          "letra": "C",
+          "texto": "as cozinhas industriais são a principal e mais intensa fonte de ruídos altos e contínuos nas grandes cidades."
+        },
+        {
+          "letra": "D",
+          "texto": "à noite são produzidos mais ruídos altos do que durante o dia, o que acaba por atrapalhar o sono das pessoas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Leia o texto para responder às questões de números 03 a 08.\nBuzinas de carros, barulho de obras, música alta. Especialmente para quem vive em grandes cidades, momentos de silêncio são cada vez mais raros. De imediato, o prejuízo é para a saúde mental, pois o excesso de barulho prejudica o sono e dificulta a realização das tarefas cotidianas. Com o tempo, a constante exposição a ruídos perturbadores e indesejados pode acarretar danos irreversíveis à audição, além de problemas de coração.\nMariana Paker, assessora de comunicação de 41 anos, sofre com o estresse provocado pelo barulho de uma cozinha industrial que fica ao lado de sua casa, em São Paulo. Trata-se de uma empresa de serviço de alimentação que atende clientes exclusivamente por entrega. \"Desde que eles começaram a operação, em 2020, tenho muito problema com o barulho do maquinário dessa indústria, que inclui exaustores e outros equipamentos. É como acordar e dormir ao lado de uma turbina de avião\", diz.\nLogo no início, ela teve que sair de casa, pois só chorava. Não conseguia trabalhar nem dormir. Como estava trabalhando apenas em casa, optou por ir para a cidade do interior onde vivia a mãe. Saía de São Paulo e voltava a cada 15 dias. \"Toda vez que eu tinha que voltar, passava por crises de ansiedade, sentia falta de ar e ficava muito estressada”, conta.\nQuando Mariana teve que voltar de vez para São Paulo, ela e os vizinhos iniciaram uma luta contra a empresa de serviços de alimentação e o barulho diminuiu um pouco. Mesmo assim, durante a noite, quando a cidade fica silenciosa, o som é tão irritante que tem que fechar todas as portas da casa para conseguir pegar no sono. \"Como o barulho é constante, já que a cozinha funciona de manhã até a madrugada, ele entra na cabeça e te leva à loucura. Não dá para esquecê-lo\", reclama.\nEsse estresse causado pelo barulho pode ainda resultar em danos cardiovasculares, como o infarto do miocárdio e o agravamento de doenças crônicas, alerta o cardiologista Cláudio Domênico.\n(Isabella Abreu, https://www.uol.com.br/vivabem/noticias/redacao/2023/10/03/como-o-excesso-de-barulho-afeta-nossa-vida.htm. 03.10.2023. Adaptado)\nQuanto ao trecho - Como o barulho é constante, já que a cozinha funciona de manhã até a madrugada, ele entra na cabeça e te leva à loucura. Não dá para esquecê-lo... (4º parágrafo) -, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reproduz a opinião de pessoas que se expõem diariamente a ruídos altos e apresenta marcas de coloquialidade, como o emprego da expressão “não dá para”."
+        },
+        {
+          "letra": "B",
+          "texto": "expressa uma das opiniões da autora do texto e apresenta alguns desvios em relação à norma-padrão, entre eles o emprego do pronome pessoal \"te\"."
+        },
+        {
+          "letra": "C",
+          "texto": "reproduz o pensamento da autora do texto e apresenta linguagem predominantemente formal e em conformidade com as regras da norma-padrão."
+        },
+        {
+          "letra": "D",
+          "texto": "corresponde a comentário da entrevistada, Mariana Paker, e apresenta marcas de linguagem coloquial, como o emprego da expressão “não dá para\"."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Variação Linguística",
+        "Língua Portuguesa – Discurso Direto e Indireto"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Considere os trechos:\nI. De imediato, o prejuízo é para a saúde mental... (1º parágrafo)\nII. ... empresa de serviço de alimentação que atende clientes exclusivamente por entrega. (2º parágrafo)\nAs expressões em destaque apresentam, correta e respectivamente, circunstâncias de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "modo e afirmação."
+        },
+        {
+          "letra": "B",
+          "texto": "afirmação e intensidade."
+        },
+        {
+          "letra": "C",
+          "texto": "intensidade e tempo."
+        },
+        {
+          "letra": "D",
+          "texto": "tempo e modo."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia",
+        "Língua Portuguesa – Classes de palavras (advérbio)"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "A palavra destacada apresenta sentido de comparação em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“É como acordar e dormir ao lado de uma turbina de avião\"... (2º parágrafo)"
+        },
+        {
+          "letra": "B",
+          "texto": "Logo no início, ela teve que sair de casa, pois só chorava. (3º parágrafo)"
+        },
+        {
+          "letra": "C",
+          "texto": "Como estava trabalhando apenas em casa... (3º parágrafo)"
+        },
+        {
+          "letra": "D",
+          "texto": "Quando Mariana teve que voltar de vez para São Paulo... (4º parágrafo)"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Conectivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "No trecho - Buzinas de carros, barulho de obras, música alta. (1º parágrafo) -, as vírgulas foram empregadas para",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "separar elementos de uma enumeração."
+        },
+        {
+          "letra": "B",
+          "texto": "isolar um adjunto adverbial deslocado."
+        },
+        {
+          "letra": "C",
+          "texto": "isolar um aposto explicativo."
+        },
+        {
+          "letra": "D",
+          "texto": "indicar a omissão de palavras."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Pontuação"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "A reescrita do trecho – Especialmente para quem vive em grandes cidades, momentos de silêncio são cada vez mais raros. (1º parágrafo) – está em conformidade com a norma-padrão de concordância verbal em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Especialmente para as pessoas que vive em grandes cidades, existem cada vez menos momentos de silêncio."
+        },
+        {
+          "letra": "B",
+          "texto": "Especialmente para as pessoas que vivem em grandes cidades, existe cada vez menos momentos de silêncio."
+        },
+        {
+          "letra": "C",
+          "texto": "Especialmente para as pessoas que vivem em grandes cidades, existem cada vez menos momentos de silêncio."
+        },
+        {
+          "letra": "D",
+          "texto": "Especialmente para as pessoas que vive em grandes cidades, existe cada vez menos momentos de silêncio."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Concordância Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Leia o texto para responder às questões de números 09 e 10.\nÉ melhor ser alegre que ser triste\nAlegria é a melhor coisa que existe\nÉ assim como a luz no coração\nMas pra fazer um samba com beleza\nÉ preciso um bocado de tristeza\nÉ preciso um bocado de tristeza\nSenão, não se faz um samba, não\n(Vinícius de Moraes e Baden Powell. Samba da bênção)\nDe acordo com o texto, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "sambas bonitos são capazes de nos dar sensação de alegria."
+        },
+        {
+          "letra": "B",
+          "texto": "a tristeza tem função importante na composição de um samba."
+        },
+        {
+          "letra": "C",
+          "texto": "tanto da alegria quanto da tristeza advêm bons sambas."
+        },
+        {
+          "letra": "D",
+          "texto": "as letras de alguns sambas provocam sensação de tristeza."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Leia o texto para responder às questões de números 09 e 10.\nÉ melhor ser alegre que ser triste\nAlegria é a melhor coisa que existe\nÉ assim como a luz no coração\nMas pra fazer um samba com beleza\nÉ preciso um bocado de tristeza\nÉ preciso um bocado de tristeza\nSenão, não se faz um samba, não\n(Vinícius de Moraes e Baden Powell. Samba da bênção)\nAssinale a alternativa em que se faz afirmação correta sobre elemento do texto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Em – É melhor ser alegre que ser triste –, as palavras \"alegre\" e \"triste\" formam uma antítese."
+        },
+        {
+          "letra": "B",
+          "texto": "Em – É assim como a luz no coração –, a expressão \"luz no coração” é uma metáfora de alegria."
+        },
+        {
+          "letra": "C",
+          "texto": "As palavras \"triste” e “existe\" rimam entre si, mas não há rima entre as palavras \"coração” e “não”."
+        },
+        {
+          "letra": "D",
+          "texto": "Em – Senão, não se faz um samba, não –, a última ocorrência da palavra “não” torna a frase ambígua."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Leia o texto para responder às questões de números 11 a 14.\nMeu avô explicou que, um dia, eu passaria a ser capaz de fazer as minhas próprias perguntas, ofício mais difícil ainda do que procurar respostas. Sozinho, saberia inventar um mistério até para mim mesmo. Como se eu fosse o lado de cá e o lado de lá das coisas. O lado de cá e o lado de lá do mundo. Um cristal com emissão de luz para todos os sentidos, para todas as direções.\nPensávamos sobre mistérios. O meu avô dizia que as evidências eram todas sustentadas por mistérios. Criava jogos para inventarmos perguntas só para ver se todas as perguntas teriam uma solução. As mais absurdas talvez sejam adiadas, só o futuro lhes saberá responder. Inventar perguntas é aprender. Quem não aprende tende a não saber perguntar. Muita gente não tem sequer vontade de ouvir. Fica do tamanho de uma ervilha, no que diz respeito às ideias.\n(Valter Hugo Mãe, As mais belas coisas do mundo. Adaptado)\nDe acordo com o texto, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "buscar e encontrar boas respostas é mais penoso do que formular perguntas."
+        },
+        {
+          "letra": "B",
+          "texto": "só quem aprende a responder consegue formular boas perguntas."
+        },
+        {
+          "letra": "C",
+          "texto": "as respostas a certas perguntas poderão ser encontradas apenas no futuro."
+        },
+        {
+          "letra": "D",
+          "texto": "quem faz muitas perguntas não aprendeu o suficiente sobre o mundo."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Leia o texto para responder às questões de números 11 a 14.\nMeu avô explicou que, um dia, eu passaria a ser capaz de fazer as minhas próprias perguntas, ofício mais difícil ainda do que procurar respostas. Sozinho, saberia inventar um mistério até para mim mesmo. Como se eu fosse o lado de cá e o lado de lá das coisas. O lado de cá e o lado de lá do mundo. Um cristal com emissão de luz para todos os sentidos, para todas as direções.\nPensávamos sobre mistérios. O meu avô dizia que as evidências eram todas sustentadas por mistérios. Criava jogos para inventarmos perguntas só para ver se todas as perguntas teriam uma solução. As mais absurdas talvez sejam adiadas, só o futuro lhes saberá responder. Inventar perguntas é aprender. Quem não aprende tende a não saber perguntar. Muita gente não tem sequer vontade de ouvir. Fica do tamanho de uma ervilha, no que diz respeito às ideias.\n(Valter Hugo Mãe, As mais belas coisas do mundo. Adaptado)\nNo trecho – Como se eu fosse o lado de cá e o lado de lá das coisas. O lado de cá e o lado de lá do mundo. (1º parágrafo) –, apresenta-se uma ideia de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "totalidade."
+        },
+        {
+          "letra": "B",
+          "texto": "incoerência."
+        },
+        {
+          "letra": "C",
+          "texto": "incompletude."
+        },
+        {
+          "letra": "D",
+          "texto": "dificuldade."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Coesão e Coerência"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Considere os trechos do 2º parágrafo:\nI. Pensávamos sobre mistérios.\nII. Criava jogos para inventarmos perguntas...\nAs preposições destacadas apresentam, correta e respectivamente, sentidos de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "agente e direção."
+        },
+        {
+          "letra": "B",
+          "texto": "assunto e finalidade."
+        },
+        {
+          "letra": "C",
+          "texto": "agente e finalidade."
+        },
+        {
+          "letra": "D",
+          "texto": "assunto e direção."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia",
+        "Língua Portuguesa – Preposições"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "O verbo destacado no trecho - As mais absurdas talvez sejam adiadas... (2º parágrafo) – está no mesmo modo do verbo destacado em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Fique aqui!"
+        },
+        {
+          "letra": "B",
+          "texto": "Estás cansada?"
+        },
+        {
+          "letra": "C",
+          "texto": "Quer que eu vá?"
+        },
+        {
+          "letra": "D",
+          "texto": "Eles vão chegar."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia",
+        "Língua Portuguesa – Tempos e modos verbais"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Leia o texto.\nO narrador refere-se ________ conversas que tinha com o avô ________ partir de reflexões que faziam sobre os mistérios do mundo. Nessas conversas, o avô transmitia ________ seu neto bonitas ideias.\nAs lacunas são, correta e respectivamente, preenchidas por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as ... à ... a"
+        },
+        {
+          "letra": "B",
+          "texto": "às ... a ... a"
+        },
+        {
+          "letra": "C",
+          "texto": "as ... a ... à"
+        },
+        {
+          "letra": "D",
+          "texto": "às ... a ... à"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Crase"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Certo dia, Ana e Beatriz, que moram em bairros diferentes, esperavam em um terminal quando, às 10h, os ônibus que levam às casas dessas meninas chegaram. Elas decidiram que esperariam pela próxima vez em que os ônibus que servem para cada uma delas chegassem, novamente, ao mesmo tempo.\nSabendo que o ônibus que serve à Ana chega a cada 12 minutos e que o ônibus que serve à Beatriz chega a cada 14 minutos, elas vão esperar até as",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10h26."
+        },
+        {
+          "letra": "B",
+          "texto": "11h24."
+        },
+        {
+          "letra": "C",
+          "texto": "12h14."
+        },
+        {
+          "letra": "D",
+          "texto": "12h48."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Aritmética",
+        "Matemática – Mínimo Múltiplo Comum (MMC)"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Quantos números de 4 algarismos, em que o algarismo das dezenas é o 2, são maiores do que 4500?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "450."
+        },
+        {
+          "letra": "B",
+          "texto": "510."
+        },
+        {
+          "letra": "C",
+          "texto": "550."
+        },
+        {
+          "letra": "D",
+          "texto": "610."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Análise Combinatória",
+        "Matemática – Princípio Fundamental da Contagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Sobre o lado AF do quadrilátero ABEF está o ponto C e sobre o segmento BC está o ponto D, conforme a figura a seguir.\nSabendo que BDE é um triângulo equilátero e que CEF é um triângulo retângulo em F, a medida do ângulo $\\beta$ é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$37^{\\circ}$."
+        },
+        {
+          "letra": "B",
+          "texto": "$39^{\\circ}$."
+        },
+        {
+          "letra": "C",
+          "texto": "$41^{\\circ}$."
+        },
+        {
+          "letra": "D",
+          "texto": "$45^{\\circ}$."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Ângulos"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Em um condomínio moram 486 pessoas, entre crianças e adultos, e a razão entre o número de crianças e o número de adultos é $$\\frac{4}{5}$$.\nO número de adultos nesse condomínio excede o número de crianças em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9."
+        },
+        {
+          "letra": "B",
+          "texto": "27."
+        },
+        {
+          "letra": "C",
+          "texto": "36."
+        },
+        {
+          "letra": "D",
+          "texto": "54."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Razão e Proporção"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "A fração algébrica\n$$\\frac{(9x^2 - 4)(5x - 2(x + 1))}{x^2 - 12x + 8 + 4(2x^2 - 1)}$$\nem que seu denominador é diferente de zero, é equivalente ao polinômio",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$3x + 2$."
+        },
+        {
+          "letra": "B",
+          "texto": "$-12x + 2$."
+        },
+        {
+          "letra": "C",
+          "texto": "$-12x + 8$."
+        },
+        {
+          "letra": "D",
+          "texto": "$x^2 - 5$."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Álgebra",
+        "Matemática – Frações Algébricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Um prédio possui 9 andares e cada andar possui 8 apartamentos, todos com números distintos. O número de cada apartamento é formado por dois algarismos, com o algarismo das dezenas representando o andar em que se encontra o apartamento (de 1 a 9) e o algarismos das unidades um número de 1 a 8. André foi visitar um amigo nesse prédio, mas se esqueceu o número do apartamento, mas ele lembrava que o número do apartamento era múltiplo de 3 e que não ficava nem no primeiro, nem no último andar. André escolheu aleatoriamente subir até o quarto andar e tocou as campainhas dos apartamentos 42, 45 e 48 e, os moradores desses 3 apartamentos abriram as portas ao mesmo tempo.\nQual a probabilidade dele ter acertado o apartamento de seu amigo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$$\\frac{1}{3}$$"
+        },
+        {
+          "letra": "B",
+          "texto": "$$\\frac{1}{4}$$"
+        },
+        {
+          "letra": "C",
+          "texto": "$$\\frac{1}{7}$$"
+        },
+        {
+          "letra": "D",
+          "texto": "$$\\frac{1}{8}$$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Probabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Todos os pontos de um quadrilátero F, de vértices A, B, C e D, passaram por uma translação de 4 cm para a direita e 5 cm para cima, determinando o quadrilátero F', conforme a figura a seguir.\nConsiderando que D' é o ponto imagem do ponto D por essa translação, a distância entre o ponto C do quadrilátero F até o ponto D' do quadrilátero F', ou seja, o comprimento do segmento CD' é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 cm."
+        },
+        {
+          "letra": "B",
+          "texto": "$\\sqrt{20}$ cm."
+        },
+        {
+          "letra": "C",
+          "texto": "4,1 cm."
+        },
+        {
+          "letra": "D",
+          "texto": "$\\sqrt{41}$ cm."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Geometria Analítica",
+        "Matemática – Distância entre pontos"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Um heptágono tem um de seus lados sobre uma reta, conforme mostra a figura.\nSabendo que $sen \\beta = \\frac{11}{\\sqrt{265}}$ e que $tg \\alpha = \\frac{12}{11}$, o lado do heptágono indicado por d na figura, mede",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 cm."
+        },
+        {
+          "letra": "B",
+          "texto": "6 cm."
+        },
+        {
+          "letra": "C",
+          "texto": "7 cm."
+        },
+        {
+          "letra": "D",
+          "texto": "8 cm."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Trigonometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Todos os 170 funcionários de uma empresa passaram por uma avaliação médica, que foi feita ao longo de três dias. No primeiro dia, certo número de funcionários fez a avaliação, no segundo dia, passaram pela avaliação 30% dos funcionários que ainda não tinham feito e, no terceiro dia, fizeram a avaliação os últimos 77 funcionários. Qual foi o número de funcionários que fez a avaliação no primeiro dia?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30."
+        },
+        {
+          "letra": "B",
+          "texto": "40."
+        },
+        {
+          "letra": "C",
+          "texto": "50."
+        },
+        {
+          "letra": "D",
+          "texto": "60."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Porcentagem",
+        "Matemática – Equação do 1º grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Em um ônibus escolar estão 10 alunos e a média aritmética de suas idades é igual a 13,5 anos. Sabe-se que nas próximas paradas desse ônibus, a cada parada, entrará um aluno de 11 anos.\nO número de paradas que esse ônibus fará até que a média aritmética das idades dos alunos no ônibus seja igual a 12 anos será",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "11."
+        },
+        {
+          "letra": "B",
+          "texto": "13."
+        },
+        {
+          "letra": "C",
+          "texto": "15."
+        },
+        {
+          "letra": "D",
+          "texto": "17."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Estatística",
+        "Matemática – Média Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Um retângulo ABCD, de área $90 \\text{ cm}^2$, foi dividido em 1 região quadrada Q, de área $36 \\text{ cm}^2$, e duas regiões retangulares, R₁ e R₂, conforme mostra a figura a seguir, que indica algumas medidas em cm.\nÉ correto afirmar que o perímetro da região R₁ é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "26 cm."
+        },
+        {
+          "letra": "B",
+          "texto": "28 cm."
+        },
+        {
+          "letra": "C",
+          "texto": "30 cm."
+        },
+        {
+          "letra": "D",
+          "texto": "32 cm."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Áreas e Perímetros"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Os centros de três circunferências de mesmo raio estão sobre a reta PQ, sendo P um ponto sobre uma das circunferências e Q um ponto sobre outra circunferência, de acordo com a figura a seguir.\nSabendo que a distância do ponto P ao ponto Q é 8 cm, o comprimento de cada uma dessas circunferências é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2\\pi$ cm."
+        },
+        {
+          "letra": "B",
+          "texto": "$4\\pi$ cm."
+        },
+        {
+          "letra": "C",
+          "texto": "$8\\pi$ cm."
+        },
+        {
+          "letra": "D",
+          "texto": "$16\\pi$ cm."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Circunferência"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Paulo presta um serviço de assistência domiciliar com equipamentos tecnológicos. Ele cobra R$ 100 para visitas de 1 hora e R$ 120 para visitas de 90 minutos. No mês de outubro ele fez 55 visitas e arrecadou R$ 6.040. O número de visitas de 1 hora que Paulo fez em outubro foi",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "22."
+        },
+        {
+          "letra": "B",
+          "texto": "24."
+        },
+        {
+          "letra": "C",
+          "texto": "26."
+        },
+        {
+          "letra": "D",
+          "texto": "28."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Sistemas de Equações Lineares"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Um ponto D está sobre o lado BC de um triângulo ABC tal que CD = 1 cm, conforme mostra a figura.\nNesse caso, o perímetro do triângulo ABC é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "39 cm."
+        },
+        {
+          "letra": "B",
+          "texto": "36 cm."
+        },
+        {
+          "letra": "C",
+          "texto": "33 cm."
+        },
+        {
+          "letra": "D",
+          "texto": "30 cm."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Semelhança de Triângulos"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Um cubo e dois paralelepípedos foram empilhados de maneira a ter algumas de suas faces sobre um mesmo plano, conforme mostra a figura 1. A figura 2 mostra a vista superior e uma vista lateral da pilha formada, assim como algumas medidas em cm.\nA soma dos volumes desses três sólidos é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$148 \\text{ cm}^3$."
+        },
+        {
+          "letra": "B",
+          "texto": "$152 \\text{ cm}^3$."
+        },
+        {
+          "letra": "C",
+          "texto": "$156 \\text{ cm}^3$."
+        },
+        {
+          "letra": "D",
+          "texto": "$160 \\text{ cm}^3$."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Geometria Espacial",
+        "Matemática – Volume de Sólidos"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Quase 100 milhões de brasileiros sofrem com a ausência de coleta e de tratamento de esgoto, de acordo com o Ministério da Infraestrutura. Em 2020, com a aprovação do Novo Marco Legal do Saneamento (Lei nº 14.026), foram estabelecidas metas, determinando que os municípios brasileiros devem atender 99% da população com serviços de água potável e, ao menos, 90% dos habitantes com coleta e tratamento de esgoto. Essa preocupação está relacionada ao fato de o saneamento básico promover melhoria da qualidade de vida, com a diminuição",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "da mortalidade infantil causada por diarreia."
+        },
+        {
+          "letra": "B",
+          "texto": "de casos de tuberculose em adultos idosos."
+        },
+        {
+          "letra": "C",
+          "texto": "da mortalidade devida às doenças do coração."
+        },
+        {
+          "letra": "D",
+          "texto": "de transmissão de doenças causadas por fungos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Saúde e Saneamento Básico",
+        "Geografia – Questões Ambientais e Sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Um herbário é uma coleção de espécimes vegetais secos, denominados exsicatas e organizados de acordo com um sistema de classificação, que pode ser utilizada para fins educacionais ou para pesquisa. Essa coleção é importante para que a flora de diferentes áreas seja documentada. O preparo das espécies é feito de forma a preservar estruturas das plantas que foram coletadas. A seguir é apresentada a exsicata de um vegetal.\n(https://www.facebook.com/photo/?fbid=475896345934138&set=pcb.475896389267467)\nAo observar as estruturas desse vegetal, é possível classificá-lo no grupo das",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pteridófitas."
+        },
+        {
+          "letra": "B",
+          "texto": "gimnospermas."
+        },
+        {
+          "letra": "C",
+          "texto": "briófitas."
+        },
+        {
+          "letra": "D",
+          "texto": "angiospermas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Botânica",
+        "Biologia – Classificação dos Seres Vivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Um eletricista vai fazer uma instalação elétrica para ligar um forno elétrico em uma residência. Para fazer isso, ele precisa saber algumas informações sobre o produto, que estão disponíveis na placa atrás do forno e representadas a seguir.\nFORNO ELÉTRICO 80 litros\nModelo: TCD80P2\nTensão (V): 110\nFrequência (Hz): 60\nPotência Elétrica (W): 2000\nImportado por:\nImportadora X\nDistribuído por:\nDistribuidora Y\n(https://www.midea.com/br/cozinha/fornos/Adaptado)\nPara a instalação ser realizada de forma correta, evitando problemas na rede elétrica da casa, o eletricista deve colocar uma tomada e um fio adaptados para uma corrente elétrica, em amperes (A), igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5."
+        },
+        {
+          "letra": "B",
+          "texto": "10."
+        },
+        {
+          "letra": "C",
+          "texto": "15."
+        },
+        {
+          "letra": "D",
+          "texto": "20."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Eletrodinâmica",
+        "Física – Potência Elétrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "A densidade é uma propriedade que permite a identificação de uma substância, a partir da relação entre sua massa e seu volume em uma certa temperatura. No gráfico a seguir é representada a densidade da água em função da temperatura.\n(https://www.researchgate.net/figure/Figura-5-densidade-da-agua-com-a-temperatura-11_fig3_321921419/Adaptado)\nConsiderando o gráfico, é possível concluir que, para essa substância, a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "densidade e o volume aumentam conforme a temperatura aumenta."
+        },
+        {
+          "letra": "B",
+          "texto": "massa e a densidade permanecem constantes em qualquer temperatura."
+        },
+        {
+          "letra": "C",
+          "texto": "densidade e o volume variam dependendo da temperatura."
+        },
+        {
+          "letra": "D",
+          "texto": "massa e o volume diminuem dependendo da temperatura."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Propriedades da Matéria",
+        "Física – Termologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Na cozinha de um restaurante, todo o óleo usado nas frituras é colocado em um recipiente e enviado para uma empresa que realiza reciclagem de óleo. Por engano, um funcionário da cozinha colocou água no recipiente em que o óleo usado é armazenado. Para recuperar o óleo, deve-se separar os componentes dessa mistura por meio da",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "filtração."
+        },
+        {
+          "letra": "B",
+          "texto": "decantação."
+        },
+        {
+          "letra": "C",
+          "texto": "destilação."
+        },
+        {
+          "letra": "D",
+          "texto": "dissolução."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Separação de Misturas"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Leia as notícias a seguir.\nEstiagem se agrava no Amazonas e Rio Negro tem nova mínima histórica\nO agravamento da estiagem que atinge o Amazonas fez o Rio Negro, um dos principais da região, atingir novo nível mínimo histórico. De acordo com o Porto de Manaus, responsável pela medição, a cota do rio chegou a 13,19 metros.\nDesde o fim de abril deste ano, o nível tem se reduzido gradativamente. A previsão é que ele continue baixando até o início de novembro, quando termina o período de estiagem.\n(Disponível em https://agenciabrasil.ebc.com.br/geral/noticia/2023-10/estiagem-se-agrava-no-amazonas-e-rio-negro-tem-nova-minima-historica. Acessado em 22/10/2023)\nChuva retorna ao RS neste domingo sob alerta de temporais; instabilidade segue no começo da semana\nDepois de um final de semana marcado por tempo bom, a chuva retorna ao Rio Grande do Sul neste domingo (22) sob alerta de temporais com rajadas de vento de 50 km/h a 70 km/h nas regiões Sul, Oeste, Centro e Campanha. As demais áreas do Estado permanecem sob estado de atenção para a possibilidade de chuva moderada a forte, raios e picos de vento entre 40 km/h e 60 km/h. A instabilidade se mantém no começo da semana.\n(Disponível em https://diariogaucho.clicrbs.com.br/rs/dia-a-dia/noticia/2023/10/chuva-retorna-ao-rs-neste-domingo-sob-alerta-de-temporais-instabilidade-segue-no-comeco-da-semana-34366438.html. Acessado em 22/10/2023)\nSobre as duas notícias que destacam aspectos climáticos no território brasileiro, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ambas estão relacionadas aos efeitos do fenômeno El niño, com aumento das chuvas na região Sul e da intensidade da seca nas regiões Norte e Nordeste."
+        },
+        {
+          "letra": "B",
+          "texto": "estão relacionadas às mudanças climáticas, em que se observa o clima Tropical na região Sul e a tendência de semiárido na região Norte."
+        },
+        {
+          "letra": "C",
+          "texto": "não possuem nenhuma relação, pois a região Sul está sob a ação da massa polar, fria e úmida, enquanto na região Norte predomina a massa equatorial."
+        },
+        {
+          "letra": "D",
+          "texto": "confirmam a tendência do aquecimento global, que prevê a transformação da região Norte em um deserto e transferência das chuvas para a região Sul."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Leia a notícia a seguir.\nO município de Canaã dos Carajás, no sudoeste do Pará, foi o que teve maior crescimento populacional nos últimos 12 anos, segundo o Censo Demográfico 2022 divulgado nesta 4ª feira (28.jun.2023) pelo IBGE (Instituto Brasileiro de Geografia e Estatística).\n(Disponível em https://www.poder360.com.br/brasil/cidade-com-maior-aumento-populacional-tem-duas-unidades-da-vale/. Acessado em 20/10/2023)\nOs conhecimentos sobre as características demográficas e econômicas da região Norte do Brasil permitem inferir que o crescimento verificado no município paraense foi impulsionado pela",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "expansão da pecuária bovina."
+        },
+        {
+          "letra": "B",
+          "texto": "exploração do minério de ferro."
+        },
+        {
+          "letra": "C",
+          "texto": "criação de reservas extrativistas."
+        },
+        {
+          "letra": "D",
+          "texto": "construção de usinas hidrelétricas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geografia do Brasil",
+        "Geografia – Geografia Econômica"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Esta região do mundo tem se destacado por associar dois problemas bem atuais: degradação do solo, decorrente de práticas agropecuárias inadequadas e do mau uso dos recursos hídricos, que já são escassos, e acelerado crescimento demográfico, gerando demandas por serviços sociais, como educação e empregos para um grande contingente de jovens. A imigração para países ricos, muitas vezes de forma ilegal, tem sido uma das consequências do quadro ambiental e socioeconômico da região",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "do sudeste da Ásia."
+        },
+        {
+          "letra": "B",
+          "texto": "da América Central."
+        },
+        {
+          "letra": "C",
+          "texto": "do Sahel, na África."
+        },
+        {
+          "letra": "D",
+          "texto": "do leste europeu."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geografia da População",
+        "Geografia – Questões Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Entre os séculos XVI e XVIII, as nações europeias puseram em prática algumas ideias econômicas que passaram à História como o nome de mercantilismo.\n(Alceu L. Pazzinato & Maria Helena V. Senise, História Moderna e Contemporânea, p. 58. Adaptado)\nO mercantilismo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "sustentava que a riqueza econômica resultava da divisão do trabalho no interior das linhas de produção industrial."
+        },
+        {
+          "letra": "B",
+          "texto": "considerava que as relações entre uma Metrópole e suas Colônias eram reguladas pela liberdade comercial."
+        },
+        {
+          "letra": "C",
+          "texto": "compreendia que o tráfico negreiro e a escravização eram práticas que prejudicavam o desenvolvimento econômico das nações."
+        },
+        {
+          "letra": "D",
+          "texto": "baseava-se em ideias econômicas que variavam de país para país e fundamentava-se na intervenção do Estado na economia."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Idade Moderna",
+        "História – Mercantilismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "De março de 1931 a fevereiro de 1940, foram decretadas mais de 150 leis novas de proteção social e de regulamentação do trabalho em todos os seus setores.\nNenhuma das 150 leis protetoras do trabalhador foi obtida com violência. Todas elas têm sido simplesmente uma dádiva do Governo. Desde aí, dignificado por um mais elevado padrão de vida, integrado à cidadania, no campo político do Estado Novo, e, como fator econômico nas atividades sociais, o trabalhador brasileiro encontra nos quadros gerais do regime o seu verdadeiro lugar.\n(Mercedes Dantas, A força nacionalizadora do Estado Novo. A pud Sonia de Deus Rodrigues Bercito, Nos tempos de Getúlio: da revolução de 1930 ao fim do Estado Novo, p. 63-64)\nO excerto, publicado em 1942, refere-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à atuação dos sindicatos dos trabalhadores como essencial para que uma série de conquistas trabalhistas fosse obtida nas décadas de 1930 e 1940."
+        },
+        {
+          "letra": "B",
+          "texto": "às ações governamentais no setor trabalhista e às mudanças das condições de vida dos trabalhadores assalariados urbanos."
+        },
+        {
+          "letra": "C",
+          "texto": "às escolhas políticas dos industriais no sentido de garantir os ganhos econômicos dos operários, com aumentos salariais acima das perdas inflacionárias."
+        },
+        {
+          "letra": "D",
+          "texto": "ao Estado brasileiro como adversário da oligarquia rural do país, com a extensão dos direitos sociais aos trabalhadores do campo."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História do Brasil",
+        "História – Era Vargas"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1851 @@
+{
+  "nomeUniversidade": "Universidade de Fortaleza",
+  "siglaUniversidade": "Unifor",
+  "nomeProva": "Processo Seletivo 2024.1",
+  "ano": 2024,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "O Espaço Cultural Unifor se constitui um dos mais importantes instrumentos de disseminação da arte no Brasil. Ele promove, por meio do acesso gratuito às exposições, a renovação e democratização do conhecimento das identidades artísticas, históricas e culturais do país, antes acessível somente a parcelas eruditas da população. No dia 16 de março, o Espaço Cultural Unifor inaugurou a exposição “Elas – De Musas a Autoras, Unifor 50 anos\", reunindo cerca de 150 obras da Coleção Fundação Edson Queiroz. A mostra, comemorativa dos 50 anos de criação da Universidade de Fortaleza, propõe-se a gerar, a partir das obras, uma ampla discussão sobre diversos aspectos da questão de gênero. A curadoria da exposição é de Denise Mattar, uma das mais respeitadas e premiadas curadoras brasileiras, e a visitação é gratuita e aberta ao público.\n\nNo Colégio Central, localizado em uma cidade movimentada, a educação sempre foi uma prioridade. Como parte de seu compromisso com o enriquecimento cultural dos alunos, a escola decidiu organizar uma visita à exposição \"Elas - De Musas a Autoras, Unifor 50 anos\". Para garantir que os alunos pudessem aproveitar ao máximo a experiência e aprender sobre a importância das realizações femininas, a escola decidiu enviar um grupo de 70 alunos para a exposição. No entanto, para garantir a segurança e o acompanhamento adequado dos alunos durante a visita, o Colégio Central convocou três de seus professores mais dedicados: João, Pedro e Paulo. A distribuição dos alunos entre esses professores foi feita de maneira apropriada, com base em uma proporção específica. João, o professor de Literatura e um grande entusiasta da exposição, ficou encarregado de um número de alunos diretamente proporcional ao número 2. Pedro, um entusiasta das Artes Plásticas e História da Arte, ficou encarregado de um número diretamente proporcional ao número 3. Por fim, Paulo, o professor de Ciências, ficou responsável por um número diretamente proporcional ao número 5. Com base nessas informações, qual a quantidade de alunos pelos quais Paulo e Pedro ficaram responsáveis?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "14"
+        },
+        {
+          "letra": "B",
+          "texto": "21"
+        },
+        {
+          "letra": "C",
+          "texto": "35"
+        },
+        {
+          "letra": "D",
+          "texto": "49"
+        },
+        {
+          "letra": "E",
+          "texto": "56"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Razão e Proporção"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "A Universidade de Fortaleza, da Fundação Edson Queiroz, promoveu de 15 a 23 de setembro, os Jogos Internos 2023.2. O projeto, que tem como objetivo integrar a comunidade acadêmica por meio da prática esportiva, é aberto a qualquer estudante que esteja devidamente matriculado. Realizado semestralmente pela Divisão de Assuntos Desportivos (DAD), os Jogos Internos proporcionam uma experiência única aos discentes. A iniciativa possibilita que alunos formem equipes, de acordo com os seus respectivos Centros de Ciência, para a disputa em diversas modalidades esportivas, valendo medalhas e troféus aos melhores classificados. Tudo isso de forma gratuita. A novidade do projeto foi a utilização da Arena Beach Tennis Unifor, que viabilizou a prática de esportes de areia. As modalidades dos Jogos Internos 2023.2 foram:\n\n- Beach Tennis - Duplas (masculino, feminino e misto);\n- Futebol 7 (masculino);\n- Futevôlei - Duplas (masculino e feminino);\n- Voleibol de Praia - Duplas (masculino, feminino e misto) e 4 x 4 (misto).\n\nUma pesquisa realizada entre um grupo de alunos em relação à preferência de três modalidades dos Jogos Internos (Beach Tennis, Voleibol de Praia e Futebol) teve os seguintes resultados:\n\n- 65 alunos se inscreveram em Beach Tennis;\n- 85 alunos se inscreveram em Voleibol de praia;\n- 170 alunos se inscreveram em futebol;\n- 20 alunos se inscreveram em Voleibol de Praia, Beach Tennise Futebol;\n- 50 alunos se inscreveram em Beach Tennis e Futebol;\n- 30 alunos se inscreveram em Beach Tennis e Voleibol de Praia;\n- 60 alunos se inscreveram em Voleibol de Praia e Futebol;\n- 50 alunos não se inscreveram em nenhuma das modalidades dos Jogos Internos.\n\nCom base nos dados acima, quantos estudantes que responderam a pesquisa?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "150"
+        },
+        {
+          "letra": "B",
+          "texto": "180"
+        },
+        {
+          "letra": "C",
+          "texto": "250"
+        },
+        {
+          "letra": "D",
+          "texto": "270"
+        },
+        {
+          "letra": "E",
+          "texto": "320"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Teoria dos Conjuntos"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "O Mundo Unifor, promovido pela Universidade de Fortaleza, configura-se como um dos maiores eventos científicos e culturais do Nordeste pela sua grandeza, diversidade e relevância, após 11 edições, intercaladas a cada dois anos. O evento é aberto e, por isso, demarca também o posicionamento da Universidade e sua relevância para a cidade de Fortaleza, funcionando como um convite a usufruir de nosso campus único e de uma programação diversificada, voltada aos mais diferentes interesses. São palestras, oficinas e apresentações de trabalhos científicos sobre diversas temáticas de interesse contemporâneo.\n\nNa foto de divulgação acima, constam as figuras de um quadrado, de uma circunferência e de um triângulo equilátero. Suponha que os lados do quadrado, do triângulo equilátero e do diâmetro da circunferência tenham comprimentos iguais a x centímetros, onde x é dado pela expressão numérica abaixo\n\n$x = \\frac{2 + \\sqrt{3}}{2 - \\sqrt{3}} + \\frac{2 - \\sqrt{3}}{2 + \\sqrt{3}}$\n\nOs valores das áreas das regiões delimitadas pelo quadrado, pelo triângulo equilátero e pela circunferência são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "16 cm², 4√3 cm² e 4π cm²."
+        },
+        {
+          "letra": "B",
+          "texto": "3 cm², $\\frac{3\\sqrt{3}}{4}$ cm² e $\\frac{3\\pi}{4}$ cm²."
+        },
+        {
+          "letra": "C",
+          "texto": "2 cm², $\\frac{\\sqrt{3}}{2}$ cm² e $\\frac{\\pi}{2}$ cm²."
+        },
+        {
+          "letra": "D",
+          "texto": "1 cm², $\\frac{\\sqrt{3}}{4}$ cm² e $\\pi$ cm²."
+        },
+        {
+          "letra": "E",
+          "texto": "4 cm², √3 cm² e $\\pi$ cm²."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Expressões Numéricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Imagine que estamos planejando uma grande instalação de pesquisa em um local remoto e deserto, onde uma equipe de cientistas precisa monitorar uma região isolada. A área de pesquisa está localizada a 2 km de distância de uma base de operações central, que serve como a estação de metrô para a equipe. Para garantir a segurança e a vigilância da área de pesquisa, decidimos construir um muro ao redor dela. No entanto, o muro não será construído de forma arbitrária. Ele deve seguir um critério específico para garantir a máxima eficiência na monitorização. O critério é o seguinte: a razão entre a distância de qualquer ponto no muro até a estação do metrô e a distância desse ponto até a base de pesquisa deve ser constante e igual a $\\sqrt{2}$. Além disso, planejamos instalar dois postes de vigilância com uma câmera cada. Esses postes devem ser fixados em pontos do muro que estão sobre a reta que passa pela instalação de pesquisa e é perpendicular à reta que passa pela base de operações e pela instalação de pesquisa. Qual será a distância entre os dois postes de vigilância, medida em quilômetros, ao longo desse muro, que está projetado de acordo com esse critério específico?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "$2\\sqrt{2}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$2\\sqrt{3}$"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        },
+        {
+          "letra": "E",
+          "texto": "$2\\sqrt{5}$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "A Universidade de Fortaleza, da Fundação Edson Queiroz, lançou a 29ª Corrida Unifor, que ocorrerá em 10 de dezembro do ano de 2023. A competição, que tem como cenário o campus da Unifor e seu entorno, terá os tradicionais percursos de 5km e 10km, a corrida para Pessoas com Deficiência (PCD) e, como novidade desta edição, será realizada também a Meia-Maratona Unifor (21km).\n\nUm atleta maratonista levou seu filho para um de seus treinos e, antes de começar o treino, resolveu fazer uma brincadeira com seu filho. Ele pediu para seu filho sair correndo e, quando o filho atingiu a distância de 200 passos, ele saiu ao seu encalço. Enquanto o atleta dá 3 passos, o seu filho dá 11 passos, porém 2 passos do atleta valem 9 do seu filho. Quantos passos deverá dar o atleta para alcançar o seu filho?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "80"
+        },
+        {
+          "letra": "B",
+          "texto": "100"
+        },
+        {
+          "letra": "C",
+          "texto": "150"
+        },
+        {
+          "letra": "D",
+          "texto": "200"
+        },
+        {
+          "letra": "E",
+          "texto": "240"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Sistemas de Equações",
+        "Matemática – Razão e Proporção"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Devido à grande quantidade de arquivos de imagem que precisa guardar, a fotógrafa Joana comprou um HD externo com capacidade de armazenamento igual a 8 terabytes. O prefixo \"tera\" representa a quarta potência de 1000 no Sistema Internacional de Unidades (SI). Qual é a quantidade de bytes que o HD comprado por Joana pode armazenar?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$10^4$"
+        },
+        {
+          "letra": "B",
+          "texto": "$10^6$"
+        },
+        {
+          "letra": "C",
+          "texto": "$10^8$"
+        },
+        {
+          "letra": "D",
+          "texto": "$10^{10}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$10^{12}$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Notação Científica",
+        "Matemática – Potenciação"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "O califórnio é um elemento químico com o símbolo Cf e o número atômico 98. O número 251 refere-se à sua massa atômica, que é uma forma de descrever a massa de um átomo de califórnio. O califórnio é um elemento transurânico, o que significa que ele tem um número atômico maior do que 92, o que o coloca na parte da tabela periódica onde estão localizados os elementos radioativos e altamente instáveis. O califórnio é produzido artificialmente em laboratórios e é usado principalmente em pesquisa científica e aplicações nucleares, como a geração de nêutrons para análise de materiais. Devido à sua instabilidade, o califórnio não possui aplicações práticas fora do campo da pesquisa nuclear e da física de partículas.\n\nImagine que você é um estudante de Medicina e está envolvido em uma pesquisa importante sobre a utilização de radionuclídeos em tratamentos médicos avançados. Um dos radionuclídeos que está sendo estudado é o califórnio-251 ($Cf^{251}$), que é um emissor de partículas alfa. A pesquisa exige que você entenda o processo de decaimento radioativo do $Cf^{251}$, que se transforma no elemento cúrio-247 ($Cm^{247}$) ao longo do tempo. Para modelar essa desintegração, você utiliza a função exponencial $N(t) = N_0e^{-\\alpha t}$, onde $N(t)$ é a quantidade de partícula de $Cf^{251}$ no instante t em uma amostra, $N_0$ é a quantidade de partículas no instante inicial e $\\alpha$ é uma constante, chamada constante de desintegração. Você sabe que, de acordo com as informações fornecidas, em 898 anos, a concentração de $Cf^{251}$ é reduzida à metade, o que é um dado importante para o seu estudo. Agora, você se depara com um desafio em sua pesquisa. Sua equipe médica está interessada em aplicar o $Cf^{251}$ como parte de um tratamento inovador para combater uma determinada doença, mas a concentração de $Cf^{251}$ na amostra precisa ser controlada com precisão. Especificamente, sua equipe deseja saber em quanto tempo a quantidade de $Cf^{251}$ será reduzida a apenas 25% da quantidade inicial, o que é um marco importante para garantir a eficácia do tratamento médico. Você percebe que é crucial determinar o tempo necessário para alcançar esse objetivo, considerando a constante de desintegração $\\alpha$. Essa informação será vital para o desenvolvimento seguro e eficaz do tratamento médico em que o $Cf^{251}$ será utilizado. Portanto, sua pesquisa não apenas contribuirá para a compreensão fundamental do decaimento do $Cf^{251}$, mas também terá um impacto direto no avanço da medicina, ajudando a melhorar a qualidade de vida dos pacientes e aprimorar os tratamentos médicos.\n\nCom base nos dados acima, podemos afirmar que o tempo necessário para que a quantidade de $Cf^{251}$ seja apenas 25% da quantidade inicial está entre",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1.000 e 1.250 anos."
+        },
+        {
+          "letra": "B",
+          "texto": "1.250 e 1.500 anos."
+        },
+        {
+          "letra": "C",
+          "texto": "1.500 e 2.000 anos."
+        },
+        {
+          "letra": "D",
+          "texto": "2.000 e 2.500 anos."
+        },
+        {
+          "letra": "E",
+          "texto": "2.750 e 3.000 anos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Funções Exponenciais",
+        "Física – Radioatividade"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "A seleção para programas de residência pode variar de acordo com o país e a especialidade médica ou profissional de saúde. No geral, a residência é um período de treinamento e educação clínica que se desenvolve após a graduação em medicina ou em outras áreas da saúde, em que os profissionais adquirem experiência prática em um ambiente clínico supervisionado. Suponha que o coordenador do programa de residência de um determinado hospital que oferece programas de residência deve analisar 12 processos de inscrição, sendo 4 de Cirurgia Geral, 5 de Cardiologia e 3 de Pediatria. Considere que, inicialmente, o coordenador do programa de residência selecione aleatoriamente um grupo de 3 processos de inscrição para serem analisados. Com base nessas informações, a probabilidade de que, nesse grupo, pelo menos um dos processos de inscrição seja de Cardiologia é de, aproximadamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "80%."
+        },
+        {
+          "letra": "B",
+          "texto": "84,09%."
+        },
+        {
+          "letra": "C",
+          "texto": "87%."
+        },
+        {
+          "letra": "D",
+          "texto": "90%."
+        },
+        {
+          "letra": "E",
+          "texto": "95,07%."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Probabilidade",
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "O sedentarismo refere-se a um estilo de vida caracterizado pela falta de atividade física regular ou pelo comportamento fisicamente inativo. Pessoas sedentárias tendem a passar a maior parte do tempo sentadas ou deitadas, envolvendo-se em atividades que requerem esforço físico mínimo, como assistir televisão, jogar videogames, trabalhar em um computador ou realizar tarefas sedentárias em geral. O sedentarismo pode ser prejudicial para a saúde, uma vez que está associado a um maior risco de várias condições médicas, como obesidade, doenças cardiovasculares, diabetes tipo 2 e problemas musculoesqueléticos. Para combater o sedentarismo, é recomendável incorporar atividade física regular na rotina diária, como caminhar, nadar, andar de bicicleta, fazer exercícios em uma academia ou praticar esportes. Além disso, é importante fazer pausas ativas durante o trabalho ou as atividades sedentárias, como levantar e alongar-se de tempos em tempos. Ter um estilo de vida ativo é essencial para manter uma boa saúde e prevenir problemas de saúde relacionados à inatividade.\nO Programa Viver Bem+, programa de qualidade de vida da Universidade de Fortaleza, busca promover saúde física e mental para a sua comunidade de funcionários, além de melhorar qualidade de vida de todos. O Projeto Movimente-se, do Programa Viver Bem+, incentiva a prática de atividades físicas, promovendo uma rotina ativa de exercícios na vida dos participantes. O projeto foi criado com o intuito de encorajar e promover um estilo de vida ativo entre seus participantes. Ele oferece uma série de incentivos para que as pessoas se envolvam em atividades físicas regulares, melhorando sua saúde e bem-estar.\n\nPaulo, entusiasmado com a proposta do projeto, decidiu se inscrever e começou a participar das atividades oferecidas. Enquanto participava do Projeto Movimente-se, Paulo percebeu que precisava de roupas e calçados adequados para suas atividades físicas. Ele fez algumas compras para adquirir o que precisava. No primeiro momento, Paulo aproveitou a promoção de uma loja de esportes e comprou um par de tênis, dois shorts e três camisetas, e o total dessas compras ficou em R$ 345,00. Mais tarde, Paulo viu que a promoção na loja ainda continuava e decidiu expandir sua coleção de roupas esportivas. Ele adquiriu dois pares de tênis, cinco shorts e oito camisetas, e o custo total dessas compras foi de R$ 745,00. Agora, Paulo está curioso para saber quanto custaria a ele comprar um par de tênis, um short e uma camiseta, se ele decidisse fazer uma compra separada. Quanto, então, custaria para o Paulo um par de tênis, um short e uma camiseta?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 200,00"
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 250,00"
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 290,00"
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 300,00"
+        },
+        {
+          "letra": "E",
+          "texto": "R$ 350,00"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Sistemas de Equações Lineares"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Angélica possui um terreno no formato de um retângulo cuja área mede 40 m². Ela verificou que a diagonal desse retângulo mede 8 m. Assim, podemos concluir que o perímetro do terreno é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8 m."
+        },
+        {
+          "letra": "B",
+          "texto": "16 m."
+        },
+        {
+          "letra": "C",
+          "texto": "24 m."
+        },
+        {
+          "letra": "D",
+          "texto": "32 m."
+        },
+        {
+          "letra": "E",
+          "texto": "40 m."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Sistemas de Equações"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Uma empresa produz chapas de aço quadradas. Num certo dia, a máquina que produz as chapas apresentou um defeito que a fez fabricar chapas quadradas cujos lados tinham comprimento 2% maior do que o que deveria ser. A área das chapas fabricadas naquele dia, com relação a área das chapas sem defeitos, era, aproximadamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "igual."
+        },
+        {
+          "letra": "B",
+          "texto": "2% maior."
+        },
+        {
+          "letra": "C",
+          "texto": "2% menor."
+        },
+        {
+          "letra": "D",
+          "texto": "4% maior."
+        },
+        {
+          "letra": "E",
+          "texto": "4% menor."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Porcentagem",
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Uma academia oferece as modalidades de natação e musculação aos seus 300 alunos. 120 desses alunos frequentam a academia no período noturno e os demais, no período diurno. Do total de alunos da academia, 90 fazem natação. Sabendo-se que 1/6 dos alunos do turno da noite fazem natação e que cada aluno faz apenas uma das modalidades esportivas, escolhendo-se, ao acaso, um aluno dessa academia, a probabilidade de ele frequentar a academia durante o dia e não fazer natação é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1/3."
+        },
+        {
+          "letra": "B",
+          "texto": "3/10."
+        },
+        {
+          "letra": "C",
+          "texto": "1/15."
+        },
+        {
+          "letra": "D",
+          "texto": "7/30."
+        },
+        {
+          "letra": "E",
+          "texto": "11/30."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Probabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Ana e José possuem quatro filhos: Fábio, Pedro, André e Larissa. Fábio e Pedro recebem R$ 600,00 de mesada; André, R$ 300,00; e Larissa, R$ 400,00. No próximo ano, Fábio e Pedro terão 15% de aumento na mesada, e André terá sua mesada aumentada em 20%. Em quantos por cento deve ser aumentada a mesada de Larissa para que a mesada média recebida pelos filhos seja R$ 545,00?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10%"
+        },
+        {
+          "letra": "B",
+          "texto": "15%"
+        },
+        {
+          "letra": "C",
+          "texto": "20%"
+        },
+        {
+          "letra": "D",
+          "texto": "25%"
+        },
+        {
+          "letra": "E",
+          "texto": "30%"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Porcentagem",
+        "Matemática – Média Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Um parque aquático distribui anualmente cortesias para escolas públicas da região metropolitana de Fortaleza. A quantidade de cortesias distribuídas varia ano a ano. No próximo ano, serão distribuídas 600 cortesias no primeiro semestre e 420 no segundo. A distribuição das cortesias é feita seguindo os seguintes critérios:\n- cada escola só pode receber cortesias uma vez no ano.\n- as escolas contempladas recebem a mesma quantidade de cortesias.\n- todas as cortesias disponibilizadas serão entregues às escolas.\n\nLogo, a quantidade mínima de escolas que receberão cortesias do parque aquático no próximo ano é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7."
+        },
+        {
+          "letra": "B",
+          "texto": "17."
+        },
+        {
+          "letra": "C",
+          "texto": "26."
+        },
+        {
+          "letra": "D",
+          "texto": "52."
+        },
+        {
+          "letra": "E",
+          "texto": "60."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Máximo Divisor Comum (MDC)"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Três amigos estão planejando fazer uma festa de passagem do ano novo. Eles já compraram as bebidas para a festa. Adquiriram três tipos de bebidas: o tipo A, o tipo B e o tipo C. A soma das quantidades das bebidas dos tipos A e C é igual ao dobro da quantidade do tipo B menos 3 unidades. O triplo da quantidade do tipo A somado com o dobro da quantidade do tipo B excede o dobro da quantidade do tipo C em 6 unidades. O dobro da quantidade do tipo C menos a quantidade do tipo B é igual a 5 vezes a quantidade do tipo A. Diante dessas informações, podemos concluir que a quantidade de bebidas do tipo B é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12 unidades."
+        },
+        {
+          "letra": "B",
+          "texto": "20 unidades."
+        },
+        {
+          "letra": "C",
+          "texto": "30 unidades."
+        },
+        {
+          "letra": "D",
+          "texto": "35 unidades."
+        },
+        {
+          "letra": "E",
+          "texto": "45 unidades."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Sistemas de Equações Lineares"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Um cearense apaixonado por café, ao acordar cedo pela manhã, percebe que o gás Butano em seu fogão acabou. Pensando rapidamente, ao olhar seu ferro de passar, ele decide ferver o conteúdo completo de uma garrafa de água mineral de 500 ml em uma pequena panela sobre a chapa metálica do ferro de passar, ligado diretamente na rede da concessionária cearense. Sabendo que a resistência elétrica do seu ferro é de 27,5 $\\Omega$ e supondo que não haja perda de massa e de calor no processo, em quanto tempo a água para o café, inicialmente a 20°C, entrará em ebulição?\nDados: $C_{água} = 1\\ cal/g°C$\n$\\rho_{água} = 1000\\ kg/m^3$\n$1\\ cal = 4,18\\ J$",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "23 s"
+        },
+        {
+          "letra": "B",
+          "texto": "60 s"
+        },
+        {
+          "letra": "C",
+          "texto": "90 s"
+        },
+        {
+          "letra": "D",
+          "texto": "95 s"
+        },
+        {
+          "letra": "E",
+          "texto": "120 s"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Eletrodinâmica",
+        "Física – Calorimetria"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "As \"casas dos espelhos\" eram estabelecimentos de considerável atração no final do século XIX e início do século XX, antes do advento da era moderna. Um dos brinquedos nessa casa consistia de um espelho E, postado diante de um balanço, que era liberado de uma altura de 2,45 m, como mostrado na figura. Considerando que a corda do balanço está sempre esticada e possui massa desprezível juntamente com o assento e desprezando todos os atritos, qual seria a velocidade máxima, em módulo, da pessoa em relação a sua imagem?\nUse g = 10 m/s²",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3,5 m/s"
+        },
+        {
+          "letra": "B",
+          "texto": "7 m/s"
+        },
+        {
+          "letra": "C",
+          "texto": "14 m/s"
+        },
+        {
+          "letra": "D",
+          "texto": "20 m/s"
+        },
+        {
+          "letra": "E",
+          "texto": "49 m/s"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Conservação de Energia",
+        "Física – Óptica Geométrica",
+        "Física – Velocidade Relativa"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "A raça equina conhecida como Brasileiro de Hipismo, figura abaixo, possui uma massa média de 600 kg por cavalo. No hipismo, um obstáculo bastante comum possui uma altura de 90 cm. Considerando que a ração fornecida ao animal possua um potencial energético de 3225 kcal/kg, quanto de ração este animal gastaria apenas no salto, se o mesmo se alimentasse apenas com esta ração?\nDados: g = 10 m/s²\n1 cal = 4,18 J",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,07 g"
+        },
+        {
+          "letra": "B",
+          "texto": "40 g"
+        },
+        {
+          "letra": "C",
+          "texto": "7 g"
+        },
+        {
+          "letra": "D",
+          "texto": "70 g"
+        },
+        {
+          "letra": "E",
+          "texto": "0,4 g"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Energia Potencial Gravitacional",
+        "Física – Conversão de Unidades"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Um dos queridinhos dos Jogos Olímpicos de Inverno, o Curling é uma modalidade que, a princípio, lembra a bocha, mas possui um nível de complexidade que o faz ser conhecido como \"xadrez no gelo\". O jogo consiste no lançamento de pedras em relação a um alvo e, no fim, quem tiver mais pontos vence a partida.\nO Curling é um dos esportes coletivos mais antigos do mundo, sendo praticado desde o Século XVI nos lagos congelados da Escócia. O primeiro clube de Curling surgiu em 1716 (Kilsyth Curling Club) e existe até hoje. No Século XIX, as primeiras regras foram criadas. Ele fez parte da primeira edição dos Jogos de Inverno, em 1924, mas só retornou ao programa olímpico em 1998.\nAtualmente, o Curling possui três categorias principais: a mais tradicional é a competição por equipes, modalidade formada por quatro homens ou quatro mulheres; a dupla mista, que surgiu no início dos anos 2000 e é formado por um homem e uma mulher; e a competição mista por equipe, com dois homens e duas mulheres, e que surgiu em 2015. Apenas essa última não é olímpica.\nA Escócia é o berço do Curling, mas o Canadá é a principal potência do esporte. O país da América do Norte conquistou mais da metade dos Campeonatos Mundiais por equipes e possui seis das 14 medalhas de ouro já disputadas em Jogos Olímpicos. Além dos canadenses e escoceses, os suecos e os noruegueses também se destacam no esporte.\n\nO Curling é uma modalidade de esporte que um corpo, a pedra, após lançado pelo atleta, pode colidir com outro da sua equipe ou da equipe adversária. Durante os momentos iniciais de uma competição entre duas equipes, na pista de gelo, o atleta João Arthur lança uma pedra de 6 kg com velocidade 8 m/s e esta colide anelasticamente com outra que foi lançada pela atleta Gabrielle do outro time de 4 kg com velocidade de 4 m/s, que veio na mesma direção e em sentido oposto. Nessas condições, a que altura poderia subir um corpo de 1 kg com a energia cinética dissipada na colisão das pedras? Se necessário, adote g = 10,0 m/s².",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Entre 0,5 m e 4,0 m."
+        },
+        {
+          "letra": "B",
+          "texto": "Entre 5,0 m e 9,0 m."
+        },
+        {
+          "letra": "C",
+          "texto": "Entre 10,0 m e 14,0 m."
+        },
+        {
+          "letra": "D",
+          "texto": "Entre 15,0 m e 19,0 m."
+        },
+        {
+          "letra": "E",
+          "texto": "Entre 20,0 m e 24,0 m."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Colisões",
+        "Física – Conservação de Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Depois de estudar bastante durante o período vespertino, Camilla olha pela janela de seu quarto e fica observando os giros das pás de um gerador eólico ao lado de sua residência praiana. Ela percebe que, em uma das pás, existe uma pequena lâmpada acessa na sua extremidade, que lhe fascina e passa a olhar com mais curiosidade. Nesse momento, ela percebe que a velocidade do equipamento diminui, e, rapidamente, passa a fazer algumas medidas e anotações. Utilizando-se de um tacômetro ótico e um cronômetro digital, faz as aferições desse ponto material, no caso a lâmpada na extremidade de uma das pás. Para caracterizar esse fenômeno, ela plota o gráfico abaixo da velocidade escalar (m/s) em função do tempo (s). Esse ponto descreve uma trajetória circular de raio 27,0 m. E, como Camilla estava estudando, completou essa tarefa determinando o módulo do vetor aceleração no instante 2,5 segundos. Assinale abaixo a opção que indica o valor por ela encontrado, em m/s².",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6,0"
+        },
+        {
+          "letra": "B",
+          "texto": "11,0"
+        },
+        {
+          "letra": "C",
+          "texto": "7,7"
+        },
+        {
+          "letra": "D",
+          "texto": "21,4"
+        },
+        {
+          "letra": "E",
+          "texto": "15,0"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Movimento Circular Uniformemente Variado",
+        "Física – Cinemática Vetorial"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Em um laboratório foi realizado o seguinte experimento: 10,0 mL de uma solução desconhecida A foram misturadas a 10,0 mL de uma solução desconhecida B, sendo observada, quase instantaneamente, a formação de um precipitado. Pode-se afirmar que a solução A e a solução B são, respectivamente, soluções de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cloreto de sódio e nitrato de cálcio."
+        },
+        {
+          "letra": "B",
+          "texto": "nitrato de chumbo e iodeto de potássio."
+        },
+        {
+          "letra": "C",
+          "texto": "hidróxido de sódio e ácido clorídrico."
+        },
+        {
+          "letra": "D",
+          "texto": "ácido nítrico e hidróxido de potássio."
+        },
+        {
+          "letra": "E",
+          "texto": "dióxido de carbono e água."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Reações de Precipitação",
+        "Química – Solubilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "O ácido nítrico ($HNO_3$) é uma substância química importante na indústria, amplamente utilizado na produção de fertilizantes, explosivos, corantes, e produtos farmacêuticos, entre outros. Sua produção envolve diferentes processos e reações químicas. Qual das reações abaixo representa, corretamente, uma equação química envolvida na produção do ácido nítrico?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$1/2 H_{2 (aq)} + 1/2 N_{2 (aq)} + O_{3 (aq)} \\rightarrow HNO_{3 (l)}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$1/2 N_{2 (g)} + O_{2 (g)} + OH^{-}_{(aq)} \\rightarrow HNO_{3 (l)}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$H_2O_{(l)} + N_2O_{5 (g)} \\rightarrow 2 HNO_{3 (aq)}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$CO_{2 (g)} + H_2O_{(l)} + N_{2 (g)} \\rightarrow HNO_{3 (l)} + HCN_{(aq)}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$O_{3 (g)} + NH_{(aq)} \\rightarrow HNO_{3 (aq)}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Reações Inorgânicas",
+        "Química – Óxidos"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "A prática de adicionar sal aos alimentos para conservação tem raízes antigas e remonta a séculos. A conservação de alimentos por meio do sal, conhecida como salga, é uma técnica tradicional que era utilizada muito antes do desenvolvimento de métodos modernos de conservação, como refrigeração, congelamento e enlatamento. Em relação à adição de sal como agente conservante de alimentos, podemos afirmar que se trata de um processo físico-químico que envolve",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "liofilização."
+        },
+        {
+          "letra": "B",
+          "texto": "crioscopia."
+        },
+        {
+          "letra": "C",
+          "texto": "osmose."
+        },
+        {
+          "letra": "D",
+          "texto": "esterilização."
+        },
+        {
+          "letra": "E",
+          "texto": "filtração."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Osmose",
+        "Biologia – Fisiologia Celular"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "A soro fisiológico é uma solução de NaCl a 0,9%m/v, sendo um fator importante para eficácia e segurança em várias aplicações, como hidratação e equilíbrio eletrolítico no corpo, diluição de medicamentos, lavagens de feriadas, entre outros. Para prepararmos 500 mL deste soro, devemos usar uma massa de NaCl de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,9 g."
+        },
+        {
+          "letra": "B",
+          "texto": "3,3 g."
+        },
+        {
+          "letra": "C",
+          "texto": "4,5 g."
+        },
+        {
+          "letra": "D",
+          "texto": "5,0 g."
+        },
+        {
+          "letra": "E",
+          "texto": "5,3 g."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Soluções",
+        "Química – Concentração de Soluções"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Os retinoides são uma classe de compostos químicos que têm estrutura similar ou são derivados da vitamina A. A primeira geração dos retinóides compreende o retinol (vitamina A) e os compostos derivados de seu metabolismo, a isotretinoína e o ácido retinóico (figura). O retinol é o insumo mais amplamente utilizado pela indústria cosmética. A isotretinoína é altamente eficaz no tratamento da acne, bastante efetiva no tratamento da acne nódulo cística e o ácido retinóico é usado topicamente no tratamento da acne e da pele fotodanificada.\n\nCom base nas respectivas estruturas químicas, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o ácido retinóico é um isômero de função do retinol."
+        },
+        {
+          "letra": "B",
+          "texto": "o retinol é reduzido ao se transformar em ácido retinóico."
+        },
+        {
+          "letra": "C",
+          "texto": "a isotretinoína e o ácido retinóico são isômeros geométricos."
+        },
+        {
+          "letra": "D",
+          "texto": "a isotretinoína é o ácido trans-retinóico, isômero do ácido cis-retinóico."
+        },
+        {
+          "letra": "E",
+          "texto": "a dupla ligação entre os carbonos 11 e 12 do retinol apresenta configuração cis."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Química Orgânica",
+        "Química – Isomeria Geométrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "A cobertura vacinal no Brasil vem despencando nos últimos dez anos, deixando a população - especialmente o público infantil – mais vulnerável a doenças que já estavam erradicadas no país, como sarampo e poliomielite, e que podem deixar sequelas ou causar mortes. Embora o índice de vacinação ideal seja acima de 90%, as taxas gerais de imunização têm ficado abaixo desse valor desde 2012, chegando a 50,4% em 2016. No ano de 2021, a porcentagem foi de 60,7%, segundo informações do DATASUS do Ministério da Saúde.\n\nConsiderando a importância da imunização para reduzir a morbimortalidade por doenças imunopreviníveis, avalie as informações a seguir.\n\nI. As vacinas têm um papel extremamente relevente para a saúde da população em função de ação curativa apresentada contra doenças bacterianas.\nII. A vacinação é a forma mais efetiva para a eliminação de uma doença viral e as consequências dos baixos índices de imunização devem serem tratados por politicas públicas.\nIII. Os propósitos principais das vacinas são melhorar a ação do sistema imunológico e aumentar a resistência às alergias.\nIV. A vacinação é uma estratégia de prevenção individual e coletiva, que pode ser considerada um investimento em saúde devido ao seu excelente custo-efetividade.\n\nÉ correto apenas o que se afirma em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e III."
+        },
+        {
+          "letra": "B",
+          "texto": "II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "II e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "I, III e IV"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Imunologia",
+        "Biologia – Saúde Pública"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "As hemácias, também conhecidas como eritrócitos ou glóbulos vermelhos, são células encontradas em grande quantidade em nosso sangue. Em média, encontram-se de 5 a 6 milhões de hemácias a cada microlitro de sangue em nosso corpo. Essas células sanguíneas vivem em média 120 dias. Após esse período, são destruídas, principalmente no baço. As hemácias apresentam formato de disco bicôncavo, não possuem núcleo quando maduras e também não apresentam mitocôndrias. Seu formato está relacionado com um aumento da sua superfície, sendo importante essa característica para a realização das trocas gasosas. Essas células são ricas em hemoglobina, um pigmento responsável por dar cor ao sangue e que também garante o transporte de oxigênio e também de gás carbônico por essa célula.\n\nConsiderando a estrutura e funções desenvolvidas pelas hemácias, verifica-se que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a hemoglobina possui afinidade com o oxigênio, fazendo seu transporte no organismo, sendo o dióxido de carbono transportado por outro tipo de proteína da hemácia."
+        },
+        {
+          "letra": "B",
+          "texto": "o metabolismo de glicose dentro da hemácia madura ocorre por meio de processo aeróbico, liberando grandes quantidades de energia."
+        },
+        {
+          "letra": "C",
+          "texto": "a glicólise ou via glicolítica representa o principal processo de obtenção de adenosina trifosfato (ATP) do eritrócito maduro, que é utilizado em suas atividades metabólicas."
+        },
+        {
+          "letra": "D",
+          "texto": "estas células apresentam a capacidade de sair dos vasos sanguíneos para fazer trocas gasosas."
+        },
+        {
+          "letra": "E",
+          "texto": "o fato de a hemácia ser uma célula anucleada não impede que esta desenvolva atividades metabólicas e favorece uma vida de longos anos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Citologia",
+        "Biologia – Fisiologia Humana"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "De acordo com a Sociedade Brasileira de Diabetes, existem atualmente, no Brasil, mais de 13 milhões de pessoas vivendo com a doença, o que representa 6,9% da população nacional. Ministério da Saúde, acesso em: 15/10/2023.\n\nSobre o diabetes, que ainda acomete tantos brasileiros, analise as afirmativas a seguir.\n\nI. O nível normal de glicemia do sangue em jejum, chamado de normoglicemia, situa-se em torno de 90 miligramas de glicose por 100 mililitros de sangue, esse valor é mantido pela ação conjunta da insulina e do glucagon.\nII. O diabetes melito tipo I, ou insulino-dependente, desenvolve-se antes dos quarenta anos de idade e é causado pela redução acentuada das células beta do pâncreas, com deficiência da produção de insulina.\nIII. A melhor forma de prevenir o diabetes tipo II é praticando atividades físicas regularmente, mantendo uma alimentação saudável e evitando consumo de álcool, tabaco e outras drogas.\n\nÉ correto apenas o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I."
+        },
+        {
+          "letra": "B",
+          "texto": "II."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Fisiologia Humana",
+        "Biologia – Endocrinologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Em última análise, a energia que controla os padrões climáticos globais origina-se do Sol. Da radiação solar que atinge a Terra, cerca de 30% são refletidas de volta ao espaço pelas nuvens, pelos gases atmosféricos e pela superfície terrestre. O restante é absorvido pela atmosfera (20%) e pela superfície da Terra (50%). A atmosfera, uma camada fina que circunda a Terra, é composta por variados gases e modera a temperatura da superfície terrestre retendo energia térmica. Nesse contexto, qual um importante gás-estufa e seu efeito no padrão climático global?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Dióxido de carbono ($CO_2$), que favorece a destruição da camada de ozônio e a dissipação do calor gerado pela energia solar."
+        },
+        {
+          "letra": "B",
+          "texto": "Gás metano ($CH_4$), que permite a entrada da luz solar na atmosfera terrestre, mas retêm o calor irradiado de volta para o espaço."
+        },
+        {
+          "letra": "C",
+          "texto": "Óxido nitroso ($N_2O$), que tem sofrido redução na sua concentração atmosférica levando a menor oferta de nitrogênio para as plantas e, assim, afetando o clima."
+        },
+        {
+          "letra": "D",
+          "texto": "Gases do tipo clorofluorcarbonetos (CFC), capazes de bloquear a entrada de radiação solar na atmosfera, mas facilitar a saída do calor irradiado para o espaço."
+        },
+        {
+          "letra": "E",
+          "texto": "Gás nitrogênio ($N_2$), que é altamente reativo, capaz de interagir com o ozônio ($O_3$) e, assim, reduzir o filtro protetor para radiação solar que incide sobre a Terra."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Ecologia",
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Quando nascem duas ou mais crianças em uma gestação, fala-se em gêmeos. Estes podem ser diferentes fisicamente ou extremamente parecidos.\n\nSobre a formação de gêmeos na espécie humana, avalie as afirmações a seguir.\n\nI. Normalmente, a mulher libera um ovócito em cada ciclo menstrual, porém pode liberar dois ou mais ovócitos e, se ambos forem fecundados, poderão se desenvolver e nascer duas crianças na mesma gestação, portanto, gêmeas.\nII. Gêmeos dizigóticos são aqueles formados a partir de zigotos diferentes, enquanto que para gêmeos monozigóticos um único zigoto pode eventualmente originar dois ou mais indivíduos idênticos do ponto de vista genético, sendo as crianças do mesmo sexo.\nIII. A gravidez de gêmeos é considerada um evento raro na população geral, menos de 1% dos nascimentos, sendo os gêmeos monozigóticos bem menos frequentes que os dizigóticos.\n\nÉ correto apenas o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I."
+        },
+        {
+          "letra": "B",
+          "texto": "II."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Embriologia",
+        "Biologia – Genética"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "A Balaiada foi uma revolta ocorrida entre dezembro de 1838 e fevereiro de 1841, durante o Brasil Império, em meio ao processo de construção do Estado Nacional, como parte de uma série de lutas populares por cidadania. A revolta começou na antiga província do Maranhão, mas acabou chegando até o Piauí e Ceará. Historiadores calculam que ela chegou a envolver 12 mil homens, muitos dos quais eram pobres e livres, caboclos maranhenses, que levantaram bandeiras pautadas em direitos fundamentais com base na Constituição imperial de 1824.Vista por muitos intelectuais como uma guerra civil, sublevação, insurreição e até revolução, a Balaiada se destacou pela sua ampla duração, pela composição dos sublevados, por sua organização e pelas reivindicações de cunho social dos rebeldes. Temida pelas elites, ela foi violentamente reprimida pelo governo e combatida até mesmo no plano da memória e da história.\n\nSobre os motivos da Revolta da Balaiada, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "desejavam a implementação dos direitos sociais fundamentais para todo e qualquer homem livre e pobre, mesmo que não tivessem propriedades ou escravos em seus nomes."
+        },
+        {
+          "letra": "B",
+          "texto": "almejavam o fim do grande latifúndio de posse norte americana, pois os grandes agroexportadores não permitiam o plantio executado por concorrentes comerciais."
+        },
+        {
+          "letra": "C",
+          "texto": "garantiam a concentração de terras nas mãos dos latifundiários, que gerava tensão com os produtores voltados para o mercado interno e exclusão política dos livres pobres."
+        },
+        {
+          "letra": "D",
+          "texto": "questionavam a pouca participação das mulheres livres na Política e na Educação, e cobravam políticas públicas em favor dos negros e indígenas da região."
+        },
+        {
+          "letra": "E",
+          "texto": "exigiam melhorias na qualidade técnica de produção e cultivo, para disputarem em igual valor com o mercado externo europeu, permitindo, então, exportar produtos diversos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Brasil Império",
+        "História – Período Regencial"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "No dia 01 de março de 2023 tivemos o centenário da morte de Rui Barbosa. De acordo com a Academia Brasileira de Letras (ABL), quando, em 1907, o Czar da Rússia convocou a 2ª Conferência da Paz, em Haia, o Barão do Rio Branco, no Ministério das Relações Exteriores, escolheu primeiramente Joaquim Nabuco para chefiar a delegação brasileira, mas a imprensa e a opinião pública lançaram o nome de Rui Barbosa. Joaquim Nabuco recusou o lugar e dispôs-se a ajudar, com informações de toda a espécie, o trabalho de Rui Barbosa, investido de uma categoria diplomática não desfrutada até então por nenhum país da América Latina.\n\nSobre o papel de Rui Barbosa em Haia, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pelo princípio da igualdade jurídica das nações soberanas, enfrentou irredutíveis preconceitos das chamadas grandes potências."
+        },
+        {
+          "letra": "B",
+          "texto": "pelo princípio da reciprocidade, questionou os tratados internacionais existentes contra os direitos dos brasileiros no exterior."
+        },
+        {
+          "letra": "C",
+          "texto": "pelo princípio da anulação, acusou os crimes cometidos contra ex-escravizados nas américas, durante a colonização."
+        },
+        {
+          "letra": "D",
+          "texto": "pelo princípio da individualidade, discutiu os problemas inerentes à falta de liberdade das mulheres na Europa e Estados Unidos."
+        },
+        {
+          "letra": "E",
+          "texto": "pelo princípio da liberdade, avaliou as dificuldades dos trabalhadores americanos em conseguir direitos trabalhistas no Brasil."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – República Velha"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Em 2010, o Vaticano anunciou um projeto ambicioso: digitalizar toda a coleção de manuscritos de sua histórica Biblioteca, cerca de 80.000 códices, principalmente da Idade Média e do período humanístico. Para isso, definiu-se a meta de 3.000 peças por ano até 2041. O projeto tem o intuito de preservar, a longo prazo, imagens em alta resolução, e a construção de uma biblioteca digital online.\n\nA digitalização de fontes documentais é cada vez mais recorrente hoje. Tendo isso mente, qual a alternativa que define a importância da digitalização de manuscritos antigos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Transparência, no intuito de mostrar aos cristãos que o Vaticano respeita as diferenças."
+        },
+        {
+          "letra": "B",
+          "texto": "Divulgação, disponibilizar, nas redes sociais, tudo que o Vaticano resguardou até agora."
+        },
+        {
+          "letra": "C",
+          "texto": "Limitação, garantir que somente quem saiba manipular equipamentos caros possam ler."
+        },
+        {
+          "letra": "D",
+          "texto": "Controle, para impedir que nenhum documento seja retirado sem o devido registro."
+        },
+        {
+          "letra": "E",
+          "texto": "Preservação, para evitar danos decorrentes de manipulação física, e produção de metadados."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Patrimônio Histórico e Cultural"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Em 1967, o governo militar criou a Fundação Nacional do Índio (Funai), como resposta ao escândalo de corrupção, esbulho de terra e renda, além de denúncias de violações de direitos humanos, envolvendo políticos, empresas e a participação de funcionários do Serviço de Proteção ao Índio (SPI) fundado em 1910. Embora o discurso e os objetivos continuassem voltados para o protecionismo e a assistência aos índios, na prática, a política indigenista foi militarizada e tratada como questão de segurança nacional nos inúmeros conflitos que se acirraram pelo país.\n\nQual das opções abaixo identifica a consequência da questão indígena ser tratada diretamente pela Presidência da República, durante a ditadura civil militar brasileira?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A abertura da rodovia Transamazônica BR-230 afetou tragicamente 29 grupos indígenas, incluindo 11 etnias que viviam completamente isoladas."
+        },
+        {
+          "letra": "B",
+          "texto": "Os latifúndios criados do norte do Mato Grosso tiveram de se adequar à preservação das terras indígenas, por exigência do governo federal."
+        },
+        {
+          "letra": "C",
+          "texto": "Políticas públicas foram criadas no intuito de garantir a defesa da vida de crianças e idosos indígenas, nas diferentes regiões do Norte e Nordeste."
+        },
+        {
+          "letra": "D",
+          "texto": "O Plano de Integração Nacional (PIN) previa que 100 quilômetros em cada lado das estradas deveriam ser destinados à preservação indígena."
+        },
+        {
+          "letra": "E",
+          "texto": "O Ministério da Saúde criou políticas de saúde e vacinação, principalmente para as comunidades indígenas do Nordeste e Centro-Oeste."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Ditadura Militar no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Maria da Penha Maia Fernandes nasceu em Fortaleza-CE, no dia 1º de fevereiro de 1945. Ela lutou por Justiça, porque, no ano de 1983, foi vítima de dupla tentativa de feminicídio por parte de seu ex-companheiro, mas, mesmo após dois julgamentos, o criminoso não havia sido punido. Diante dessa situação de impunidade, em 1998, Maria da Penha, o Centro para a Justiça e o Direito Internacional (CEJIL) e o Comitê Latino-Americano e do Caribe para a Defesa dos Direitos da Mulher (CLADEM), em uma luta por Justiça, denunciaram o caso para a Comissão Interamericana de Direitos Humanos da Organização dos Estados Americanos (CIDH/OEA). Em 2001, após receber quatro ofícios da CIDH/OEA (1998 a 2001) sobre o crime e tendo silenciado diante das denúncias, o Estado brasileiro foi responsabilizado por negligência, omissão e tolerância em relação à violência doméstica praticada contra as mulheres brasileiras.\n\nCom base no texto e seus conhecimentos sobre o assunto, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As lutas sociais, a exemplo da enfrentada por Maria da Penha, têm pouca capacidade de modificar as leis e políticas públicas governamentais."
+        },
+        {
+          "letra": "B",
+          "texto": "O combate à violência doméstica praticada contra as mulheres brasileiras se classifica como uma batalha restrita às mulheres, não podendo ser classificada como luta social."
+        },
+        {
+          "letra": "C",
+          "texto": "Mesmo após ser responsabilizado pela CIDH/OEA, o Brasil permaneceu estático, deixando de tomar medidas para combater a violência doméstica contra mulheres."
+        },
+        {
+          "letra": "D",
+          "texto": "Maria da Penha não teve respaldo em sua busca por justiça contra seu ex-parceiro, sendo uma causa individual e, portanto, tratada na esfera privada."
+        },
+        {
+          "letra": "E",
+          "texto": "Depois da responsabilização pela CIDH/OEA, o governo brasileiro sancionou uma lei que, dentre outras coisas, estabelece formas de prevenir a violência doméstica contra mulheres."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Sociologia – Movimentos Sociais",
+        "Sociologia – Direitos Humanos"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Os seres humanos correspondem a apenas 0,01% de toda a vida no planeta, mas destruíram 83% dos mamíferos selvagens e metade de toda a vida vegetal.\n\nAnalise a publicação acima e, com base no texto e nos seus conhecimentos sobre o assunto, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Pode-se afirmar que existe uma relação de respeito e apreço recíproco entre o ser humano e o meio ambiente."
+        },
+        {
+          "letra": "B",
+          "texto": "A grandiosidade da espécie humana está no domínio da cultura, o que justifica sua necessidade de mais alimentos."
+        },
+        {
+          "letra": "C",
+          "texto": "A publicação acima revela uma fake news, pois as provas científicas de degradação ambiental são questionáveis."
+        },
+        {
+          "letra": "D",
+          "texto": "A destruição da fauna e da flora é fruto da ação humana, que arranca da natureza muito mais do que precisa para viver."
+        },
+        {
+          "letra": "E",
+          "texto": "As queimadas recentes no Brasil são vistas como benéficas, pois, muitas vezes, transformam vegetação em áreas de pastagem."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Meio Ambiente",
+        "Geografia – Impactos Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "É sabido que a indagação acerca do problema da democracia seu valor, seu modo de funcionamento, seus princípios – dispõe, no registro da filosofia política desenvolvida por Platão, de um lugar teórico destacado e privilegiado. Mais ainda, poderíamos dizer que Platão é um dos primeiros autores da história do pensamento ocidental a efetuar uma análise rigorosa, sistemática e profunda da politeia democrática, submetendo o que se convencionou chamar de \"sistema de governo popular\" a uma abordagem filosófica radical e consistente, que, não obstante os mais de dois mil anos que dela nos separam, conserva até hoje seu vigor e sua atualidade.\n\nSobre o tema abordado no trecho acima, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Platão, importante defensor da democracia, compreendia que, sem a ataraxia, não seria possível alcançar a plenitude do saber racional para construção da República."
+        },
+        {
+          "letra": "B",
+          "texto": "O antigo mestre de Aristóteles defendia uma democracia sinderética, baseada nas experiências e comportamentos individuais, para alcançar o bem comum."
+        },
+        {
+          "letra": "C",
+          "texto": "O mais importante discípulo de Sócrates acreditava que o caminho para a politeia democrática era a sofocracia, também conhecida como governo dos sábios."
+        },
+        {
+          "letra": "D",
+          "texto": "Platão acreditava que a força motriz do conhecimento era a experiência, logo, seria por meio de tentativa e erro que os legisladores aprenderiam a boa política."
+        },
+        {
+          "letra": "E",
+          "texto": "O criador da tripartição da alma acreditava que a politeia democrática exigia um coração virtuoso, repleto de sentimentos, para alcançar o bem comum."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Filosofia – Filosofia Antiga",
+        "Filosofia – Platão"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "O economista Muhammad Yunus, ganhador do prêmio Nobel da Paz em 2006, também conhecido como o \"banqueiro dos pobres\", esteve na Universidade de Fortaleza para palestrar no Mundo Unifor 2023. Nascido em Bangladesh, em 1940, Yunus estudou no seu país e nos Estados Unidos, e quando concluiu seus estudos em terras americanas, foi designado como Professor de Economia na Universidade de Chittagong (Bangladesh). O economista é fundador do Grameen Bank, instituição criada para conceder crédito às pessoas de baixa renda, especialmente mulheres. Ele é considerado o criador do conceito de microcrédito, que serviu de referência para várias outras instituições pelo mundo, por meio condições de crédito diferente dos bancos tradicionais.\n\nA proposta em oferecer crédito para pessoas de baixa renda, criada por Muhammad Yunus, é um claro exemplo de qual tipo de economia?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Surgimento da economia feminista, na medida em que favorece as mães."
+        },
+        {
+          "letra": "B",
+          "texto": "Crescimento indefinido da pobreza, porque endivida população pobre."
+        },
+        {
+          "letra": "C",
+          "texto": "Ampliação da economia predatória, pois desestabiliza bancos."
+        },
+        {
+          "letra": "D",
+          "texto": "Economia planificada, pelo fato de implantar o comunismo indiano."
+        },
+        {
+          "letra": "E",
+          "texto": "Desenvolvimento econômico e social, por meio da justiça social."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Sociologia – Desigualdade Social",
+        "Sociologia – Economia e Sociedade"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Sêneca (4 a.C. – 56 d.C.) foi um importante filósofo, advogado e escritor da antiguidade clássica. Para ele, \"sofremos mais na imaginação do que na realidade\". O que o referido intelectual defendia?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Enquanto pensador estoico, acreditava que sentimentos descontrolados levam ao desespero."
+        },
+        {
+          "letra": "B",
+          "texto": "Sendo um aristotélico, defendia o desapego ao racionalismo que manipulava a mente humana."
+        },
+        {
+          "letra": "C",
+          "texto": "Como um grande seguidor de Platão, acreditava que a imaginação era inimiga da razão."
+        },
+        {
+          "letra": "D",
+          "texto": "Grande defensor de Parmênides, destacava a beleza da arte e da imaginação no mundo."
+        },
+        {
+          "letra": "E",
+          "texto": "Amante da filosofia cristã, pregava a confiança em Deus acima do bem e do mal no mundo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Filosofia – Helenismo",
+        "Filosofia – Estoicismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "A carga que chegou neste sábado (21.10.2023) foi levada para armazéns da ONU e vai ser distribuída com base em uma lista feita pelo Crescente Vermelho Egípcio, movimento humanitário ligado à rede da Cruz Vermela internacional. As forças israelenses anunciaram que os suprimentos têm como destino apenas o sul de Gaza. Eyad é diretor de um dos hospitais que ainda está funcionando no norte de Gaza. Ele diz que muitos materiais já acabaram e que, em breve, não vai poder mais tratar quem chega. Pelo acordo firmado, não houve autorização para entrar combustível em Gaza, que abastece os geradores dos hospitais.\n\nLevando em consideração a guerra entre Israel e o Hamas e tendo por base a notícia acima transcrita, é correto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As centenas de famílias que estão na Faixa de Gaza desejam se retirar da região, fugindo da guerra, por isso, ignoram a ajuda humanitária."
+        },
+        {
+          "letra": "B",
+          "texto": "Os dois milhões de habitantes da Faixa de Gaza estão sob bloqueio israelense, que dificulta sobremaneira a entrada de ajuda humanitária."
+        },
+        {
+          "letra": "C",
+          "texto": "O Hamas fechou as passagens existentes pelo Egito e por Israel, evitando que a ajuda humanitária chegue ao seu destino final em Gaza."
+        },
+        {
+          "letra": "D",
+          "texto": "A ONU, em assembleia geral, tem feito sucessivas reuniões extraordinárias para votar se, diante do perigo iminente para seus emissários, deverá enviar ajuda humanitária para Gaza."
+        },
+        {
+          "letra": "E",
+          "texto": "Os hospitais existentes na Faixa de Gaza estão fechados há anos, logo, acobertam os reais interesses políticos e ideológicos na Palestina."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "História – Conflitos Contemporâneos"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "AUDIÊNCIA PÚBLICA\n\"Discussão e resgate da memória histórica da heroína Bárbara de Alencar\n\"28 de agosto, às 14h, no Complexo das Comissões Técnicas da Assembleia Legislativa do Ceará\n\nO tom instigante do slogan no cartaz se deve ao modo como a mensagem foi organizada em torno da palavra \"bárbara\" por meio do emprego de recursos linguísticos, como a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "metonímia."
+        },
+        {
+          "letra": "B",
+          "texto": "denotação."
+        },
+        {
+          "letra": "C",
+          "texto": "função poética."
+        },
+        {
+          "letra": "D",
+          "texto": "plurissignificação."
+        },
+        {
+          "letra": "E",
+          "texto": "aliteração."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Todos sabemos que a nossa época é profundamente bárbara, embora se trate de uma barbárie ligada ao máximo de civilização. Penso que o movimento pelos direitos humanos se encontra aí, pois somos a primeira era da história em que teoricamente é possível entrever uma solução para as grandes desarmonias que geram a injustiça contra a qual lutam os homens de boa vontade, a busca, não mais do estado ideal sonhado pelos utopistas racionais que nos antecederam, mas do máximo viável de igualdade e justiça, em correlação a cada momento da história.\nMas esta verificação desalentadora deve ser compensada por outra, mais otimista: nós sabemos que hoje os meios materiais necessários para nos aproximarmos desse estágio melhor existem, e que muito do que era simples utopia se tornou possibilidade real. Se as possibilidades existem, a luta ganha maior cabimento e se torna mais esperançosa, apesar de tudo o que o nosso tempo apresenta de negativo. Quem acredita nos direitos humanos procura transformar a possibilidade teórica em realidade, empenhando-se em fazer uma coincidir com a outra.\nCANDIDO, Antônio. O direito à Literatura. Vários Escritos. São Paulo: Duas Cidades, 1995 (fragmento)\n\nNesse fragmento, as reflexões do autor, face ao tempo em que vivemos, revelam",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "desalento e perspectiva de um tempo melhor."
+        },
+        {
+          "letra": "B",
+          "texto": "esperança utópica, apesar de tudo o que há de negativo."
+        },
+        {
+          "letra": "C",
+          "texto": "descrédito no ser humano como agente de mudanças."
+        },
+        {
+          "letra": "D",
+          "texto": "crença na erradicação total das injustiças de nossa era."
+        },
+        {
+          "letra": "E",
+          "texto": "pessimismo, dada a profunda barbárie de nossa época."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Minha Vida\nCarta a Lúcio de Mendonça\nComentário - É sob a perspectiva biográfica, a carta mais significativa da produção intelectual de Luiz Gama. Repleta de declarações impactantes e minúcias finíssimas que o mais diligente leitor pode sem querer deixar escapar - ao que antecipadamente alerto em vista de redobrar a atenção -, a “Carta a Lúcio de Mendonça\" é uma obra de arte da literatura brasileira. A narrativa da jornada épica do menino baiano que atravessa o país no porão de um navio infestado e ratos e apinhado de mercadorias e pessoas escravizadas, chega ao Rio de Janeiro, e de lá ruma, acorrentado, primeiro em um navio para Santos, depois a pé para Jundiaí, Campinas e finalmente São Paulo, é das coisas mais impressionantes da história do Brasil. Luiz Gama passa, então, oito anos barbaramente escravizado no centro da capital paulista e, de modo enigmático, foge do cativeiro, alcança provas de sua liberdade e assenta praça na Força Pública, espécie de regimento policial da época. De lá, o que já era épico tem sua marca confirmada pelos eventos sincrônicos e seguintes. Insurge-se contra o abuso de autoridade, uma, duas, três – diversas! – vezes, aprende a ler e escrever com maestria, toma possa de empregos públicos reservados àqueles que possuíam sólido conhecimento normativo e administrativo, revela-se enquanto homem de letras – poeta e jornalista – e, entre múltiplas expertises, torna-se um dos mais importantes advogados – e juristas! – já conhecidos no Brasil. A carta, que pode ser lida como autobiografia se o leitor se permitir vestir de destinatário da mensagem, é um monumento à criatividade, à luta e à perseverança da humanidade negra que, nas palavras do poeta, \"fez e faz história segurando esse país no braço”.\nGAMA, Luiz. Liberdade. São Paulo: Hedra, 2021.\n\nConsiderando o gênero textual comentário, o texto tem o objetivo predominante de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "convencer o leitor para a necessidade da leitura da carta."
+        },
+        {
+          "letra": "B",
+          "texto": "emitir um juízo de valor, um posicionamento sobre a carta."
+        },
+        {
+          "letra": "C",
+          "texto": "narrar resumidamente a saga do emissor da carta."
+        },
+        {
+          "letra": "D",
+          "texto": "alertar o leitor para a qualidade literária da carta."
+        },
+        {
+          "letra": "E",
+          "texto": "apontar o gênero textual autobiografia presente na carta."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Gêneros Textuais",
+        "Língua Portuguesa – Tipologia Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "\"Sentou debaixo de uma oliveira, à beira da estrada, e retirou o cordeiro do alforge, ninguém se estranharia de o ver ali, pensariam, Está a descansar da caminhada, a ganhar forças para ir ao Templo levar o cordeiro, bonito é ele, não saberemos, nós, se, na ideia de quem o pensou, o bonito é o anho, ou é Jesus. Temos cá a nossa opinião, que os dois o são (...)\"\nSARAMAGO, José. O Evangelho segundo Jesus Cristo. São Paulo: Companhia das Letras, 2022.\n\nNa formulação do pensamento de alguém diante da cena descrita no texto, o autor expõe a questão da ambiguidade, num procedimento de análise da própria linguagem, fazendo uso da função",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "conativa."
+        },
+        {
+          "letra": "B",
+          "texto": "expressiva."
+        },
+        {
+          "letra": "C",
+          "texto": "fática."
+        },
+        {
+          "letra": "D",
+          "texto": "referencial."
+        },
+        {
+          "letra": "E",
+          "texto": "metalinguística."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Funções da Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "TEXTO I\nVocê é o que você come\nEstá provado em pesquisas que crianças que mantêm um bom hábito alimentar e que controlam seu peso têm maior probabilidade de se tornarem adultos saudáveis e sempre de bem com a balança. A lógica inversa, infelizmente também se confirma: crianças que passam a infância acima de seu peso normal tendem a se transformar em adultos obesos e em constante \"briga” com a balança.\nHoje, o Brasil ostenta um título nada agradável: campeão mundial de crianças de até cinco anos com sobrepeso (entre 10% e 15% do ideal). Por isso mesmo, pais e responsáveis por elas têm a missão de orientar e reeducar seus pequenos para evitar uma grande epidemia de obesidade, doença tratada com muita preocupação em todo o mundo. Alimentações regradas, moderadas, cinco vezes ao dia e sempre com hora marcada são uma boa fórmula para começar a botar a casa em ordem e melhorar a saúde da criançada.\n\"O Globo Esportes\", 17 de julho de 2010.\n\nTEXTO II\nAposta na prevenção\nA prevenção da obesidade deve ser feita desde o nascimento e uma das ferramentas mais eficazes é a amamentação. “Bebês amamentados no peito têm menos chances de se tornarem adultos gordos porque, no esforço de sugar o seio, desenvolvem a percepção da saciedade, ou seja, sentem que a fome acaba e param de mamar\", afirma o médico pediatra Fábio Ancoria Lopes.\nJá o leite oferecido na mamadeira, além de chegar à boca com mais facilidade, o que faz o bebê receber mais alimento do que necessita, costuma ser muito calórico, principalmente se for engrossado com farinhas e adoçado. Para saber se o bebê caminha para ser um adulto com peso normal ou um obeso, basta ficar de olho na balança.\nDe acordo com o padrão internacional de pediatria, no primeiro ano de vida é normal que ele triplique o peso que tinha ao nascer. A partir do segundo aniversário e até a adolescência, a criança pode ganhar em média de 2 a 3 quilos, por ano.\nRevista Crescer, ano 2001.\n\nApós a leitura dos textos, avalie as afirmativas a seguir.\nI. Segundo os textos I e II, crianças com sobrepeso são mais propensas a se tornarem obesas na fase adulta.\nII. De acordo com o texto I, a promoção de hábitos saudáveis é fundamental para a prevenção da obesidade.\nIII. Conforme os textos I e II, a amamentação é uma ferramenta eficaz contra a obesidade infantil.\nIV. No texto I, temos algumas orientações concernentes ao combate à obesidade infantil.\n\nÉ correto o que se afirma apenas em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II, III e IV."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "I, III e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "II e IV."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "A importância da tecnologia\nWilson Jacob Filho\n\nParticipei de uma reunião muito interessante. Médicos passaram um sábado inteiro discutindo a melhor maneira de exercer a sua profissão. Muitas imperfeições foram apontadas, o presente foi comparado ao passado, [...]. Dentre todos os assuntos, porém, o mais comentado foi a importância da tecnologia.\n[...]\nUsada como sinônimo de modernidade, a tecnologia foi criticada pelo alto custo que impõe aos diagnósticos e tratamentos, além de ser considerada a principal ferramenta com que os jovens profissionais escondem suas limitações na arte de bem examinar e avaliar seus clientes e a melhor forma de reduzir o tempo de consulta.\n[...]\nDiscordo, porém, de que isso decorra dos avanços atuais da tecnologia. Justifico a minha opinião: desde que a ciência passou a ser o principal fundamento da atitude médica, temos sido beneficiados pelo seu progressivo desenvolvimento.\n[...]\nEsta é a verdadeira vocação da tecnologia: criar uma maneira de fazer aquilo que ainda não podia ser feito ou aprimorar aquilo que se fazia de forma inadequada, e não simplesmente tentar substituir o útil antigo pelo inútil moderno.\n[...]\nFolha de São Paulo. Caderno Equilíbrio. São Paulo, quinta-feira, 04 de junho de 2009. Fragmento\n\nSabendo que uma mesma conjunção subordinativa, dependendo do contexto em que estiver empregada, pode adquirir sentidos diferentes, assinale a alternativa em que a conjunção “desde que\" apresenta o mesmo sentido em que foi utilizada no trecho \"...desde que a ciência passou a ser o principal fundamento da atitude médica, temos sido beneficiados pelo seu progressivo desenvolvimento.\".",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Desde que você estude, fará uma excelente prova."
+        },
+        {
+          "letra": "B",
+          "texto": "Você será promovido, desde que seja um bom profissional."
+        },
+        {
+          "letra": "C",
+          "texto": "Desde que descobriu a traição, ela resolveu abandoná-lo."
+        },
+        {
+          "letra": "D",
+          "texto": "Desde que o trânsito esteja tranquilo, conseguirei chegar no horário."
+        },
+        {
+          "letra": "E",
+          "texto": "Desde que não chova, irei à praia."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Morfossintaxe",
+        "Língua Portuguesa – Conjunções"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "O Islã não é só árabe\nReligião abrange diversas etnias em todo mundo\n\nBoa parte da população ocidental acredita que o mundo islâmico é aquela porção de países do Oriente Médio que têm como idioma oficial o árabe. Por isso, são indevidamente considerados árabes alguns países de maioria islâmica, mas que têm outros idiomas, como Turquia (línguas turca e curda), Irã (persa), Afeganistão (pashtu e dari) e Paquistão (urdu e punjabi).\nExistem atualmente cerca de 1,3 bilhão de muçulmanos no mundo, como são denominados os adeptos do islamismo. A maioria vive na Ásia, onde essa religião nasceu e ganhou o mundo há cerca de 1.400 anos. Da Ásia, os muçulmanos passaram para o norte da África - onde foram chamados de mouros - e parte da Europa. Integraram-se com africanos, europeus das penínsulas ibérica e itálica e outros povos. Hoje eles estão presentes também entre europeus, norte-americanos e até brasileiros.\nO islamismo cresceu em número de adeptos muito mais fora do mundo árabe do que no local em que a religião nasceu. Basta fazer uma comparação: os países islâmicos mais populosos, como a Indonésia (com \"apenas\" 228 milhões de habitantes), o Paquistão (145 milhões), Bangladesh (131 milhões) e Nigéria (127 milhões) têm contingentes humanos muito maiores que o Egito (70 milhões), país de maior população entre os árabes, seguido de longe pelo Sudão (36 milhões). Até a Índia, majoritariamente hindu, tem aproximadamente 100 milhões de muçulmanos.\nRevista GALILEU. p. 42. Novembro de 2001.\n\nReleia o seguinte trecho:\n\"Existem atualmente cerca de 1,3 bilhão de muçulmanos no mundo, como são denominados os adeptos do islamismo.\"\n\nSabendo que a conjunção \"como”, dependendo do contexto em que estiver empregada, pode adquirir sentidos diferentes, analise os períodos a seguir e assinale a alternativa em que a conjunção apresenta o mesmo sentido do trecho destacado.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Contratei um profissional para fazer a reforma, como foi pedido."
+        },
+        {
+          "letra": "B",
+          "texto": "\"Eu sou como a borboleta\nTudo o que eu penso é liberdade ...\"\n(\"Proteção às borboletas\" - Benito Di Paula)"
+        },
+        {
+          "letra": "C",
+          "texto": "Como sou engenheiro, fiz o projeto da minha casa."
+        },
+        {
+          "letra": "D",
+          "texto": "Como não havia dinheiro, não fiz a reforma necessária."
+        },
+        {
+          "letra": "E",
+          "texto": "\"Eu te amo calado\nComo quem ouve uma sinfonia\"\n(\"Certas coisas\" - Lulu Santos)"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Conjunções",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "A partir da leitura dos quadrinhos, podemos inferir que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o personagem dos quadrinhos não gosta de televisão."
+        },
+        {
+          "letra": "B",
+          "texto": "o personagem está querendo assistir a um filme."
+        },
+        {
+          "letra": "C",
+          "texto": "o personagem está triste com o fim do programa."
+        },
+        {
+          "letra": "D",
+          "texto": "o personagem fará uma doação para que o programa não saia do ar."
+        },
+        {
+          "letra": "E",
+          "texto": "o personagem não se sensibilizou com o pedido de doações."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Linguagem Verbal e Não Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "A fadiga da informação\nHá uma nova doença no mundo: a fadiga da informação. Antes mesmo da Internet, o problema já era sério, tantos e tão velozes eram os meios de informação existentes, trafegando nas asas da eletrônica, da informação, dos satélites. A Internet levou o processo ao apogeu, criando a espécie dos internautas e estourando os limites da capacidade humana de assimilar os conhecimentos e os acontecimentos desse mundo. Pois os instrumentos de comunicação se multiplicam, mas o potencial de captação humana – do ponto de vista físico, mental e psicológico – continua restrito. Então, diante do bombardeio crescente de informações, a reação de muitos tende a tornar-se doentia: ficam estressados, perturbam-se e perdem a eficiência no trabalho.\nJá não se trata de imaginar como esse fenômeno possa ocorrer. Na verdade, a síndrome da fadiga da informação está em plena evidência, conforme pesquisa recente nos Estados Unidos, na Inglaterra e em outros países, junto a 1300 executivos. Entre os sintomas da doença, apontam-se a paralisia da capacidade analítica, o aumento das ansiedades e das dúvidas, a inclinação para decisões equivocadas e até levianas.\nMARZAGÃO, Augusto. In: DIMENSTEIN, Gilberto. Aprendiz do futuro: cidadania hoje e amanhã. São Paulo: Editora Ática, 1999.\n\nNo trecho \"Entre os sintomas da doença, apontam-se a paralisia da capacidade analítica, o aumento das ansiedades e das dúvidas, a inclinação para decisões equivocadas e até levianas.\", a palavra destacada exerce a função de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "conjunção subordinativa condicional."
+        },
+        {
+          "letra": "B",
+          "texto": "pronome apassivador."
+        },
+        {
+          "letra": "C",
+          "texto": "índice de indeterminação do sujeito."
+        },
+        {
+          "letra": "D",
+          "texto": "pronome reflexivo."
+        },
+        {
+          "letra": "E",
+          "texto": "parte integrante do verbo."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Morfossintaxe",
+        "Língua Portuguesa – Funções do 'se'"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Leia o seguinte miniconto.\nNo embalo da rede\nVou,\nmas levo as crianças.\n(Carlos Herculano Lopes. In: Marcelino Freire, org. Os cem menores contos brasileiros do século. São Paulo: Ateliê)\n\nNo período \"Vou, mas levo as crianças.\", temos",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "duas orações, sendo uma coordenada assindética e uma coordenada sindética conclusiva."
+        },
+        {
+          "letra": "B",
+          "texto": "duas orações, sendo uma coordenada assindética e uma coordenada sindética adversativa."
+        },
+        {
+          "letra": "C",
+          "texto": "duas orações coordenadas assindéticas."
+        },
+        {
+          "letra": "D",
+          "texto": "duas orações, sendo uma coordenada assindética e uma coordenada sindética explicativa."
+        },
+        {
+          "letra": "E",
+          "texto": "duas orações, sendo uma coordenada assindética e uma coordenada sindética alternativa."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Período Composto por Coordenação"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "A charge de Cazo ironiza",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o desgaste físico provocado pelo deslocamento até o escritório."
+        },
+        {
+          "letra": "B",
+          "texto": "o problema de saúde mental devido à preocupação e ao estresse."
+        },
+        {
+          "letra": "C",
+          "texto": "a busca por justiça no Brasil em relação a golpes da internet."
+        },
+        {
+          "letra": "D",
+          "texto": "a perda de viagem de avião."
+        },
+        {
+          "letra": "E",
+          "texto": "a expressão facial de desespero."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Linguagem Verbal e Não Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "O verdadeiro amigo\nClarice Pacheco\n\nCompreenda.\nReleve.\nNunca abandone\no verdadeiro amigo.\nEle pode nem estar\nao seu lado agora.\nMas certamente,\nestará sempre contigo.\n\nAssinale a alternativa em que os termos destacados estão corretamente classificados.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"verdadeiro\" é predicativo do sujeito."
+        },
+        {
+          "letra": "B",
+          "texto": "\"Nunca” e “sempre” são respectivamente adjuntos adverbiais de negação e afirmação."
+        },
+        {
+          "letra": "C",
+          "texto": "\"Nunca” e “sempre” são adjuntos adverbiais de tempo."
+        },
+        {
+          "letra": "D",
+          "texto": "\"O verdadeiro amigo\" é objeto indireto."
+        },
+        {
+          "letra": "E",
+          "texto": "\"ao seu lado\" é aposto."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Análise Sintática"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Maya Gabeira\nEra uma vez uma menina que adorava ondas grandes - não aquelas que você pula na beirinha do mar, nem aquelas que se vê do píer. Ela adorava ondas super-hipermegagigantes, e queria se tornar a Supermulher do Surfe. \"De novo não, Maya!”, sua mãe berrava quando a filha seguia para a praia. \"Você sempre fica molhada e com frio, e todos os outros surfistas são meninos!\"\nMaya não se importava. Surfar era sua paixão.\n\"Bom, os caras vão ter que se acostumar comigo!\"\nEla viajou ao redor do mundo em busca das maiores ondas possíveis. Foi para Austrália, Havaí, Portugal, Brasil... Maya entrava no avião e ia pra qualquer lugar atrás da maior. Certa vez, na África do Sul, ela surfou uma onda de catorze metros de altura, a maior já surfada por uma mulher. Ela ganhou todas as competições importantes e se tornou a surfista de ondas grandes mais bem paga do mundo. (...)\nFAVILLI, Elena; CAVALLO, Francesca. Histórias de ninar para garotas rebeldes - 100 fábulas sobre mulheres extraordinárias. São Paulo: V & R Editoras, 2017.\n\nAssinale o item que apresenta um trecho cuja ideia melhor se relacione, de modo coerente, ao sentido dos termos destacados no trecho \"ondas super-hipermegagigantes\":",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"sua mãe berrava quando a filha seguia para a praia\"."
+        },
+        {
+          "letra": "B",
+          "texto": "\"todos os outros surfistas são meninos!\""
+        },
+        {
+          "letra": "C",
+          "texto": "\"Surfar era sua paixão”."
+        },
+        {
+          "letra": "D",
+          "texto": "\"Ela viajou ao redor do mundo em busca das maiores ondas possíveis.\""
+        },
+        {
+          "letra": "E",
+          "texto": "\"Ela ganhou todas as competições importantes\"."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Coesão e Coerência",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Por meio da recriação de uma ilustração clássica de Inferno, primeira parte da obra A Divina Comédia, do italiano Dante Alighieri, essa peça publicitária, que integra uma campanha dos Médicos sem Fronteiras, apela para",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a sensibilização para uma dada realidade atual de dor e sofrimento."
+        },
+        {
+          "letra": "B",
+          "texto": "a ficcionalização do sofrimento humano na contemporaneidade."
+        },
+        {
+          "letra": "C",
+          "texto": "a valorização da literatura clássica universal nos tempos atuais."
+        },
+        {
+          "letra": "D",
+          "texto": "o paralelismo entre ilustração e fotografia nas artes plásticas."
+        },
+        {
+          "letra": "E",
+          "texto": "a compreensão do nexo entre passado e presente na arte."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Arte – Intertextualidade",
+        "Arte – Leitura de Imagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "O I Wanna Be Tour é uma turnê inédita com grandes nomes do pop punk e do emo nacional e internacional, com organização nacional. Leia o trecho da música Hey There Delilah, da banda Plain White T's, para responder à questão.\n\nA thousand miles seems pretty far\nBut they've got planes and trains and cars\nI'd walk to you if I had no other way\nOur friends would all make fun of us\nAnd we'll just laugh along because we know\nThat none of them have felt this way\nDelilah, I can promise you\nThat by the time we get through\nThe world will never ever be the same\nAnd you're to blame\n\nNo trecho em destaque, o narrador",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reconhece que os amigos têm razão."
+        },
+        {
+          "letra": "B",
+          "texto": "se sente irritado com os amigos."
+        },
+        {
+          "letra": "C",
+          "texto": "culpa Delilah pela perda dos amigos."
+        },
+        {
+          "letra": "D",
+          "texto": "promete um futuro melhor."
+        },
+        {
+          "letra": "E",
+          "texto": "desconsidera a brincadeira dos amigos."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "A trail of darkness swept across the Western Hemisphere on Saturday, starting at the Oregon coast and then venturing to the Southwest region as it cut through Nevada, Utah, New Mexico, Texas and other states. It was an annular solar eclipse that millions of people across the United States and Latin American countries experienced as a ring of fire in their local skies.\nThe path of annularity, or the path where the moon was most centered over the sun, was about 130 miles wide. People traveled from great distances to reach this shadowy strip, soaking up the four to five minutes of the darkest phase for those who got closer to its center.\n\"You see a picture, and it just doesn't do it justice,” said Matthew Neal, who drove to Richfield, Utah, from San Diego with his wife, Jennifer Neal, to chase the eclipse.\nMillions more people experienced a partial solar eclipse, with considerable dimming of the sun occurring in major cities like Seattle, Los Angeles, Houston, Mexico City and Bogotá, even though they were far outside the path of annularity in some cases.\n\nDe acordo com Matthew Neal, qual o desafio em tentar transmitir a beleza do eclipse?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Fotografias e descrições não conseguem capturar a sua essência."
+        },
+        {
+          "letra": "B",
+          "texto": "O eclipse não é tão impressionante quanto esperavam."
+        },
+        {
+          "letra": "C",
+          "texto": "O eclipse é muito rápido para ser apreciado."
+        },
+        {
+          "letra": "D",
+          "texto": "O eclipse só é visível para aqueles próximos ao seu centro."
+        },
+        {
+          "letra": "E",
+          "texto": "O eclipse só é visível em grandes cidades."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Planeta Estranho, de Nathan Pyle, figura como um espelho para nosso comportamento humano de forma bem humorada. Na tirinha, que comportamento é representado?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Fazer atividades físicas para ficar mais atraente."
+        },
+        {
+          "letra": "B",
+          "texto": "Encontrar amigos antigos."
+        },
+        {
+          "letra": "C",
+          "texto": "Bronzear-se naturalmente."
+        },
+        {
+          "letra": "D",
+          "texto": "Realizar procedimentos estéticos artificiais."
+        },
+        {
+          "letra": "E",
+          "texto": "Ter relacionamentos amorosos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto",
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "Na tirinha, a expressão “ease up on\" pode ser substituída por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "increase."
+        },
+        {
+          "letra": "B",
+          "texto": "remove."
+        },
+        {
+          "letra": "C",
+          "texto": "improve."
+        },
+        {
+          "letra": "D",
+          "texto": "adjust."
+        },
+        {
+          "letra": "E",
+          "texto": "relax."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Phrasal Verbs"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "Tim Minchin é um compositor, músico, comediante, ator, escritor, produtor e diretor australiano. Seu trabalho é celebrado por sua originalidade e sua habilidade de provocar reflexões e risadas ao mesmo tempo. Seja por sua música, comédia, ou atuação, ele, com certeza, marca o mundo do entretenimento. Leia o trecho de sua música The Aeroplane para responder à questão.\n\nIf I had the blueprint or the brain\nI would build an aeroplane\nWith fashion wings of balsa wood and glue\nAnd I would fly to you\nI'd carve a prop from old recycled would haves\nAll these relentless could have\nThese pointless might have beens\nOh, the storms that I would gladly battle through\nSo I could fly to you\n\nNa primeira linha da música, o que a frase \"If I had the blueprint or the brain\" indica?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Uma habilidade atual"
+        },
+        {
+          "letra": "B",
+          "texto": "Uma intenção futura"
+        },
+        {
+          "letra": "C",
+          "texto": "Uma habilidade passada"
+        },
+        {
+          "letra": "D",
+          "texto": "Uma possibilidade passada"
+        },
+        {
+          "letra": "E",
+          "texto": "Uma ação passada"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Conditional Sentences",
+        "Inglês – Gramática"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Climate change is a pressing global issue that requires immediate action. Governments, organizations, and individuals must work together to mitigate its effects. The Paris Agreement, signed by numerous countries, is one such effort to combat climate change.\n\nO propósito do \"Acordo de Paris\" é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "promover o turismo global."
+        },
+        {
+          "letra": "B",
+          "texto": "combater os efeitos da mudança climática."
+        },
+        {
+          "letra": "C",
+          "texto": "criar uma aliança global de desenvolvimento econômico."
+        },
+        {
+          "letra": "D",
+          "texto": "promover o desenvolvimento de energia nuclear."
+        },
+        {
+          "letra": "E",
+          "texto": "revitalizar a capital francesa."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    }
+  ]
+}

@@ -5,7 +5,7 @@ import { GoogleGenAI } from "@google/genai";
 
 const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 
-const sleep = (ms) => new Promise(resolve => setTimeout(resolve, ms));
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
 async function uploadRemotePDF(url, displayName) {
   const pdfBuffer = await fetch(url).then((response) => response.arrayBuffer());
@@ -92,7 +92,7 @@ const jsonSchema = {
 
 async function main() {
   const prompt = [
-  `Claro, aqui está o prompt completo e finalizado, pronto para ser utilizado.
+    `Claro, aqui está o prompt completo e finalizado, pronto para ser utilizado.
 
 ---
 
@@ -140,190 +140,218 @@ Especificamente, garanta que:
 
 Não crie ou modifique nenhum nome de campo. Respeite os tipos de dados e a estrutura de array/objeto conforme o JSON Schema da ferramenta.
 
-`];
+`,
+  ];
 
   console.log("Iniciando upload e processamento dos arquivos...");
 
-    console.time("Processando Arquivo da Prova");
-    let file1 = await uploadRemotePDF("https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2025/1fase/UNESP2025_1fase_prova.pdf", "PDF Da Prova");
-    console.timeEnd("Processando Arquivo da Prova"); // Termina o cronômetro do upload da prova
+  console.time("Processando Arquivo da Prova");
+  let file1 = await uploadRemotePDF("https://download.inep.gov.br/enem/provas_e_gabaritos/2025_PV_impresso_D1_CD3.pdf", "PDF Da Prova");
+  console.timeEnd("Processando Arquivo da Prova"); // Termina o cronômetro do upload da prova
 
-    console.time("Processando Arquivo do Gabarito");
-    let file2 = await uploadRemotePDF("https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2025/1fase/UNESP2025_1fase_gabarito.pdf", "PDF Do Gabarito");
-    console.timeEnd("Processando Arquivo do Gabarito"); // Termina o cronômetro do upload do Gabarito
+  console.time("Processando Arquivo do Gabarito");
+  let file2 = await uploadRemotePDF("https://download.inep.gov.br/enem/provas_e_gabaritos/2025_GB_impresso_D1_CD3.pdf", "PDF Do Gabarito");
+  console.timeEnd("Processando Arquivo do Gabarito"); // Termina o cronômetro do upload do Gabarito
 
-    console.log("Uploads e processamento dos PDF's concluídos.");
+  console.log("Uploads e processamento dos PDF's concluídos.");
 
-    const contents = [
-      { parts:[
-          { text: prompt[0] },
-          { fileData: { mimeType: file1.mimeType, fileUri: file1.uri } },
-          { fileData: { mimeType: file2.mimeType, fileUri: file2.uri } },
-      ]}
-    ];
+  const contents = [
+    {
+      parts: [
+        { text: prompt[0] },
+        { fileData: { mimeType: file1.mimeType, fileUri: file1.uri } },
+        { fileData: { mimeType: file2.mimeType, fileUri: file2.uri } },
+      ],
+    },
+  ];
 
-    let response;
-    const maxRetries = 2;
-    let attempt = 0;
-    let delay = 5000;
-    while (attempt < maxRetries) {
-      console.log(
-        `Enviando requisição para a IA... (Tentativa ${attempt + 1} de ${maxRetries})`
-      );
-      console.time("Processamento de Conteúdo Gemini");
+  let response;
+  const maxRetries = 2;
+  let attempt = 0;
+  let delay = 30000; // 30 segundos em milissegundos
+  while (attempt < maxRetries) {
+    console.log(
+      `Enviando requisição para a IA... (Tentativa ${
+        attempt + 1
+      } de ${maxRetries})`
+    );
+    console.time("Processamento de Conteúdo Gemini");
 
-      try {
-        response = await ai.models.generateContent({
-          model: "gemini-2.5-pro",
-          contents: contents,
-          generationConfig: {
-            temperature: 0.2,
-            maxOutputTokens: 12000,
+    try {
+      response = await ai.models.generateContent({
+        model: "gemini-2.5-flash",
+        contents: contents,
+        generationConfig: {
+          temperature: 0.2,
+          maxOutputTokens: 20000,
+        },
+        tools: [
+          {
+            functionDeclarations: [
+              {
+                name: "extrair_dados_prova",
+                description:
+                  "Extrai os dados estruturados de uma prova e seu gabarito.",
+                parameters: jsonSchema,
+              },
+            ],
           },
-          tools: [
-            {
-              functionDeclarations: [
-                {
-                  name: "extrair_dados_prova",
-                  description:
-                    "Extrai os dados estruturados de uma prova e seu gabarito.",
-                  parameters: jsonSchema,
-                },
-              ],
-            },
-          ],
-          safetySettings: [
-            {
-              category: 'HARM_CATEGORY_HARASSMENT',
-              threshold: 'BLOCK_NONE',
-            },
-            {
-              category: 'HARM_CATEGORY_HATE_SPEECH',
-              threshold: 'BLOCK_NONE',
-            },
-            {
-              category: 'HARM_CATEGORY_SEXUALLY_EXPLICIT',
-              threshold: 'BLOCK_NONE',
-            },
-            {
-              category: 'HARM_CATEGORY_DANGEROUS_CONTENT',
-              threshold: 'BLOCK_NONE',
-            },
-          ],
-        });
-        
-        console.timeEnd("Processamento de Conteúdo Gemini");
-        console.log("Sucesso! Resposta recebida."); // <-- NOVO
-        break;
+        ],
+        safetySettings: [
+          {
+            category: "HARM_CATEGORY_HARASSMENT",
+            threshold: "BLOCK_NONE",
+          },
+          {
+            category: "HARM_CATEGORY_HATE_SPEECH",
+            threshold: "BLOCK_NONE",
+          },
+          {
+            category: "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+            threshold: "BLOCK_NONE",
+          },
+          {
+            category: "HARM_CATEGORY_DANGEROUS_CONTENT",
+            threshold: "BLOCK_NONE",
+          },
+        ],
+      });
 
-      } catch (error) {
-        console.timeEnd("Processamento de Conteúdo Gemini");
-        if (error.status === 503 && attempt < maxRetries - 1) {
-          console.warn(
-            `Erro 503: Modelo sobrecarregado. Tentando novamente em ${
-              delay / 1000
-            }s...`
-          );
-          await sleep(delay);
-          delay *= 2;
-          attempt++;
-        } else {
-          // Se for outro erro (400, 401...) ou se acabaram as tentativas
-          console.error(
-            "Erro fatal da API ou limite de tentativas excedido:",
-            error
-          );
-          throw error; // Lança o erro e para o script
+      console.timeEnd("Processamento de Conteúdo Gemini");
+      console.log("Sucesso! Resposta recebida."); // <-- NOVO
+      break;
+    } catch (error) {
+      console.timeEnd("Processamento de Conteúdo Gemini");
+      if (error.status === 503 && attempt < maxRetries - 1) {
+        console.warn(
+          `Erro 503: Modelo sobrecarregado. Tentando novamente em ${
+            delay / 1000
+          }s...`
+        );
+        for (let sec = delay / 1000; sec > 0; sec--) {
+          process.stdout.write(`Re-tentando em ${sec}s...\r`);
+          await sleep(1000);
         }
+        await sleep(delay);
+        delay *= 2;
+        attempt++;
+      } else {
+        // Se for outro erro (400, 401...) ou se acabaram as tentativas
+        console.error(
+          "Erro fatal da API ou limite de tentativas excedido:",
+          error
+        );
+        throw error; // Lança o erro e para o script
       }
     }
+  }
 
-    if (!response) {
-      console.error(
-        `Não foi possível obter resposta da API após ${maxRetries} tentativas.`
-      );
-      return; // Encerra a função 'main'
-    }
+  if (!response) {
+    console.error(
+      `Não foi possível obter resposta da API após ${maxRetries} tentativas.`
+    );
+    return; // Encerra a função 'main'
+  }
 
-    console.log("Resposta recebida. Processando JSON...");
-    // 1. Acessar 'candidates' diretamente de 'response', pois 'response.response' é undefined.
-    const candidates = response.candidates;
+  console.log("Resposta recebida. Processando JSON...");
+  // 1. Acessar 'candidates' diretamente de 'response', pois 'response.response' é undefined.
+  const candidates = response.candidates;
 
-    // 2. Verificar se 'candidates' existe e não está vazio (previne o Erro 1)
-    if (!candidates || candidates.length === 0) {
-        console.error("Erro: A resposta da IA não contém 'candidates' ou a lista está vazia.");
-        console.log("Objeto 'response' completo recebido:", JSON.stringify(response, null, 2));
-        return; // Encerra a função main
-    }
+  // 2. Verificar se 'candidates' existe e não está vazio (previne o Erro 1)
+  if (!candidates || candidates.length === 0) {
+    console.error(
+      "Erro: A resposta da IA não contém 'candidates' ou a lista está vazia."
+    );
+    console.log(
+      "Objeto 'response' completo recebido:",
+      JSON.stringify(response, null, 2)
+    );
+    return; // Encerra a função main
+  }
 
-    // 3. Verificar se 'content' e 'parts' existem
-    if (!candidates[0].content || !candidates[0].content.parts) {
-        console.error("Erro: O 'candidate' recebido não contém 'content' ou 'parts'.");
-        console.log("Objeto 'response' completo recebido:", JSON.stringify(response, null, 2));
-        return; // Encerra a função main
-    }
+  // 3. Verificar se 'content' e 'parts' existem
+  if (!candidates[0].content || !candidates[0].content.parts) {
+    console.error(
+      "Erro: O 'candidate' recebido não contém 'content' ou 'parts'."
+    );
+    console.log(
+      "Objeto 'response' completo recebido:",
+      JSON.stringify(response, null, 2)
+    );
+    return; // Encerra a função main
+  }
 
-    // 4. Somente agora é seguro definir a variável
-    const responseContentParts = candidates[0].content.parts;
+  // 4. Somente agora é seguro definir a variável
+  const responseContentParts = candidates[0].content.parts;
 
-    let jsonData;
+  let jsonData;
 
-    if (responseContentParts && responseContentParts[0] && responseContentParts[0].functionCall) {
-        jsonData = responseContentParts[0].functionCall.args;
-        console.log("JSON extraído do functionCall.");
-    } else {
-        // Agora, 'responseContentParts' é a variável correta para o array de partes
-        // E 'responseTextContent' é uma nova variável para o texto dentro da primeira parte
-        const responseTextContent = responseContentParts[0].text;
-        try {
-            const match = responseTextContent.match(/\{[\s\S]*\}/);
-            if (match && match[0]) {
-                jsonData = JSON.parse(match[0]);
-                console.log("JSON extraído diretamente do texto (fallback).");
-            } else {
-                throw new Error("Nenhum objeto JSON ou functionCall encontrado na resposta.");
-            }
-        } catch (e) {
-            console.error("Falha ao processar o JSON:", e.message);
+  if (
+    responseContentParts &&
+    responseContentParts[0] &&
+    responseContentParts[0].functionCall
+  ) {
+    jsonData = responseContentParts[0].functionCall.args;
+    console.log("JSON extraído do functionCall.");
+  } else {
+    // Agora, 'responseContentParts' é a variável correta para o array de partes
+    // E 'responseTextContent' é uma nova variável para o texto dentro da primeira parte
+    const responseTextContent = responseContentParts[0].text;
+    try {
+      const match = responseTextContent.match(/\{[\s\S]*\}/);
+      if (match && match[0]) {
+        jsonData = JSON.parse(match[0]);
+        console.log("JSON extraído diretamente do texto (fallback).");
+      } else {
+        throw new Error(
+          "Nenhum objeto JSON ou functionCall encontrado na resposta."
+        );
+      }
+    } catch (e) {
+      console.error("Falha ao processar o JSON:", e.message);
 
-            const logsDir = path.join(process.cwd(), "Erros");
-            if (!fs.existsSync(logsDir)) {
-                fs.mkdirSync(logsDir, { recursive: true });
-            }
+      const logsDir = path.join(process.cwd(), "Erros");
+      if (!fs.existsSync(logsDir)) {
+        fs.mkdirSync(logsDir, { recursive: true });
+      }
 
-            const now = new Date();
-            const timestamp = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(2, '0')}-${String(now.getDate()).padStart(2, '0')}_${String(now.getHours()).padStart(2, '0')}-${String(now.getMinutes()).padStart(2, '0')}-${String(now.getSeconds()).padStart(2, '0')}`;
-            const logFileName = `erro_json_parse_${timestamp}.txt`;
-            const logFilePath = path.join(logsDir, logFileName);
+      const now = new Date();
+      const timestamp = `${now.getFullYear()}-${String(
+        now.getMonth() + 1
+      ).padStart(2, "0")}-${String(now.getDate()).padStart(2, "0")}_${String(
+        now.getHours()
+      ).padStart(2, "0")}-${String(now.getMinutes()).padStart(2, "0")}-${String(
+        now.getSeconds()
+      ).padStart(2, "0")}`;
+      const logFileName = `erro_json_parse_${timestamp}.txt`;
+      const logFilePath = path.join(logsDir, logFileName);
 
-            const logContent = `Ocorreu uma falha ao processar o JSON recebido da API.
-
-            Mensagem de Erro:
-            ${e.message}
-
-            ---
-
-            Resposta Bruta Recebida (que causou o erro):
-            ${JSON.stringify(responseContentParts, null, 2)}
+      const logContent = `Ocorreu uma falha ao processar o JSON recebido da API.
+      Mensagem de Erro:
+      ${e.message}
+      ---
+      Resposta Bruta Recebida (que causou o erro):
+      ${JSON.stringify(responseContentParts, null, 2)}
             `;
 
-            fs.writeFileSync(logFilePath, logContent, "utf-8");
+      fs.writeFileSync(logFilePath, logContent, "utf-8");
 
-            console.error(`>>> A resposta bruta que causou o erro foi salva no arquivo: ${logFilePath}`);
+      console.error(
+        `>>> A resposta bruta que causou o erro foi salva no arquivo: ${logFilePath}`
+      );
 
-            return;
-        }
+      return;
     }
+  }
 
-    const resultadosDir = path.join(process.cwd(), "Resultados");
-    if (!fs.existsSync(resultadosDir)) {
-        fs.mkdirSync(resultadosDir);
-    }
+  const resultadosDir = path.join(process.cwd(), "Resultados");
+  if (!fs.existsSync(resultadosDir)) {
+    fs.mkdirSync(resultadosDir);
+  }
 
-    const filePath = path.join(resultadosDir, "resultado.json");
-    fs.writeFileSync(filePath, JSON.stringify(jsonData, null, 2), "utf-8");
-    console.log(`Arquivo salvo com sucesso em: ${filePath}`);
-
+  const filePath = path.join(resultadosDir, "resultado.json");
+  fs.writeFileSync(filePath, JSON.stringify(jsonData, null, 2), "utf-8");
+  console.log(`Arquivo salvo com sucesso em: ${filePath}`);
 }
 
 main();

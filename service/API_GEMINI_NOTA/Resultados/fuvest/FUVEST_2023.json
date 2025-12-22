@@ -1,0 +1,3523 @@
+{
+  "nomeUniversidade": "FUVEST",
+  "siglaUniversidade": "FUVEST",
+  "nomeVestibular": "Vestibular FUVEST",
+  "ano": 2023,
+  "cursos": [
+    {
+      "nome": "Administração, Ciências Contábeis, Economia, Finanças e Negócios (Ribeirão Preto)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 88,
+          "inscritos": 1021,
+          "ausentes": 148,
+          "convocadosSegundaFase": 315,
+          "convocadosPorVaga": 3.58,
+          "notaCorte": 53
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 62,
+          "inscritos": 295,
+          "ausentes": 55,
+          "convocadosSegundaFase": 229,
+          "convocadosPorVaga": 3.69,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 37,
+          "inscritos": 91,
+          "ausentes": 18,
+          "convocadosSegundaFase": 64,
+          "convocadosPorVaga": 1.73,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Administração (Piracicaba)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 20,
+          "inscritos": 183,
+          "ausentes": 32,
+          "convocadosSegundaFase": 69,
+          "convocadosPorVaga": 3.45,
+          "notaCorte": 47
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 12,
+          "inscritos": 58,
+          "ausentes": 14,
+          "convocadosSegundaFase": 41,
+          "convocadosPorVaga": 3.42,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 8,
+          "inscritos": 15,
+          "ausentes": 1,
+          "convocadosSegundaFase": 12,
+          "convocadosPorVaga": 1.5,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Arquitetura – FAU (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 60,
+          "inscritos": 1657,
+          "ausentes": 182,
+          "convocadosSegundaFase": 236,
+          "convocadosPorVaga": 3.93,
+          "notaCorte": 63
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 31,
+          "inscritos": 594,
+          "ausentes": 88,
+          "convocadosSegundaFase": 145,
+          "convocadosPorVaga": 4.68,
+          "notaCorte": 51
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 14,
+          "inscritos": 177,
+          "ausentes": 29,
+          "convocadosSegundaFase": 86,
+          "convocadosPorVaga": 6.14,
+          "notaCorte": 40
+        }
+      ]
+    },
+    {
+      "nome": "Arquitetura (São Carlos)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 15,
+          "inscritos": 470,
+          "ausentes": 55,
+          "convocadosSegundaFase": 53,
+          "convocadosPorVaga": 3.53,
+          "notaCorte": 63
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 10,
+          "inscritos": 163,
+          "ausentes": 15,
+          "convocadosSegundaFase": 45,
+          "convocadosPorVaga": 4.5,
+          "notaCorte": 51
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 6,
+          "inscritos": 35,
+          "ausentes": 4,
+          "convocadosSegundaFase": 26,
+          "convocadosPorVaga": 4.33,
+          "notaCorte": 28
+        }
+      ]
+    },
+    {
+      "nome": "Artes Cênicas (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 15,
+          "inscritos": 375,
+          "ausentes": 59,
+          "convocadosSegundaFase": 52,
+          "convocadosPorVaga": 3.47,
+          "notaCorte": 56
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 9,
+          "inscritos": 144,
+          "ausentes": 32,
+          "convocadosSegundaFase": 38,
+          "convocadosPorVaga": 4.22,
+          "notaCorte": 46
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 6,
+          "inscritos": 55,
+          "ausentes": 10,
+          "convocadosSegundaFase": 35,
+          "convocadosPorVaga": 5.83,
+          "notaCorte": 28
+        }
+      ]
+    },
+    {
+      "nome": "Artes Visuais (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 15,
+          "inscritos": 563,
+          "ausentes": 91,
+          "convocadosSegundaFase": 52,
+          "convocadosPorVaga": 3.47,
+          "notaCorte": 61
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 9,
+          "inscritos": 272,
+          "ausentes": 49,
+          "convocadosSegundaFase": 43,
+          "convocadosPorVaga": 4.78,
+          "notaCorte": 53
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 6,
+          "inscritos": 88,
+          "ausentes": 12,
+          "convocadosSegundaFase": 36,
+          "convocadosPorVaga": 6,
+          "notaCorte": 44
+        }
+      ]
+    },
+    {
+      "nome": "Biblioteconomia e Ciência da Informação (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 16,
+          "inscritos": 134,
+          "ausentes": 16,
+          "convocadosSegundaFase": 59,
+          "convocadosPorVaga": 3.69,
+          "notaCorte": 49
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 8,
+          "inscritos": 28,
+          "ausentes": 4,
+          "convocadosSegundaFase": 24,
+          "convocadosPorVaga": 3,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 4,
+          "inscritos": 13,
+          "ausentes": 4,
+          "convocadosSegundaFase": 9,
+          "convocadosPorVaga": 2.25,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Biblioteconomia e Ciência da Informação (Ribeirão Preto)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 20,
+          "inscritos": 118,
+          "ausentes": 13,
+          "convocadosSegundaFase": 76,
+          "convocadosPorVaga": 3.8,
+          "notaCorte": 38
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 6,
+          "inscritos": 10,
+          "ausentes": 2,
+          "convocadosSegundaFase": 8,
+          "convocadosPorVaga": 1.33,
+          "notaCorte": 31
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 2,
+          "inscritos": 4,
+          "ausentes": 0,
+          "convocadosSegundaFase": 4,
+          "convocadosPorVaga": 2,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Ciências Sociais (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 105,
+          "inscritos": 502,
+          "ausentes": 67,
+          "convocadosSegundaFase": 314,
+          "convocadosPorVaga": 2.99,
+          "notaCorte": 46
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 30,
+          "inscritos": 208,
+          "ausentes": 41,
+          "convocadosSegundaFase": 163,
+          "convocadosPorVaga": 5.43,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 12,
+          "inscritos": 82,
+          "ausentes": 19,
+          "convocadosSegundaFase": 61,
+          "convocadosPorVaga": 5.08,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Curso Superior do Audiovisual (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 17,
+          "inscritos": 666,
+          "ausentes": 75,
+          "convocadosSegundaFase": 64,
+          "convocadosPorVaga": 3.76,
+          "notaCorte": 66
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 6,
+          "inscritos": 269,
+          "ausentes": 32,
+          "convocadosSegundaFase": 34,
+          "convocadosPorVaga": 5.67,
+          "notaCorte": 59
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 1,
+          "inscritos": 74,
+          "ausentes": 15,
+          "convocadosSegundaFase": 5,
+          "convocadosPorVaga": 5,
+          "notaCorte": 56
+        }
+      ]
+    },
+    {
+      "nome": "Design (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 16,
+          "inscritos": 664,
+          "ausentes": 97,
+          "convocadosSegundaFase": 59,
+          "convocadosPorVaga": 3.69,
+          "notaCorte": 63
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 8,
+          "inscritos": 277,
+          "ausentes": 47,
+          "convocadosSegundaFase": 39,
+          "convocadosPorVaga": 4.88,
+          "notaCorte": 56
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 4,
+          "inscritos": 92,
+          "ausentes": 12,
+          "convocadosSegundaFase": 20,
+          "convocadosPorVaga": 5,
+          "notaCorte": 48
+        }
+      ]
+    },
+    {
+      "nome": "Direito (São Paulo, Ribeirão Preto)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 279,
+          "inscritos": 5949,
+          "ausentes": 791,
+          "convocadosSegundaFase": 1055,
+          "convocadosPorVaga": 3.78,
+          "notaCorte": 62
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 110,
+          "inscritos": 2151,
+          "ausentes": 426,
+          "convocadosSegundaFase": 572,
+          "convocadosPorVaga": 5.2,
+          "notaCorte": 49
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 2,
+          "inscritos": 95,
+          "ausentes": 32,
+          "convocadosSegundaFase": 15,
+          "convocadosPorVaga": 7.5,
+          "notaCorte": 41
+        }
+      ]
+    },
+    {
+      "nome": "Economia, Administração, Ciências Contábeis e Atuária (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 295,
+          "inscritos": 3617,
+          "ausentes": 411,
+          "convocadosSegundaFase": 1086,
+          "convocadosPorVaga": 3.68,
+          "notaCorte": 58
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 74,
+          "inscritos": 930,
+          "ausentes": 160,
+          "convocadosSegundaFase": 402,
+          "convocadosPorVaga": 5.43,
+          "notaCorte": 47
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 44,
+          "inscritos": 413,
+          "ausentes": 87,
+          "convocadosSegundaFase": 287,
+          "convocadosPorVaga": 6.52,
+          "notaCorte": 29
+        }
+      ]
+    },
+    {
+      "nome": "Economia (Piracicaba)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 20,
+          "inscritos": 174,
+          "ausentes": 25,
+          "convocadosSegundaFase": 64,
+          "convocadosPorVaga": 3.2,
+          "notaCorte": 53
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 12,
+          "inscritos": 82,
+          "ausentes": 17,
+          "convocadosSegundaFase": 61,
+          "convocadosPorVaga": 5.08,
+          "notaCorte": 33
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 8,
+          "inscritos": 17,
+          "ausentes": 1,
+          "convocadosSegundaFase": 16,
+          "convocadosPorVaga": 2,
+          "notaCorte": 28
+        }
+      ]
+    },
+    {
+      "nome": "Editoração (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 17,
+          "inscritos": 36,
+          "ausentes": 3,
+          "convocadosSegundaFase": 31,
+          "convocadosPorVaga": 1.82,
+          "notaCorte": 28
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 9,
+          "inscritos": 14,
+          "ausentes": 2,
+          "convocadosSegundaFase": 10,
+          "convocadosPorVaga": 1.11,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 6,
+          "inscritos": 2,
+          "ausentes": 0,
+          "convocadosSegundaFase": 2,
+          "convocadosPorVaga": 0.33,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Filosofia (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 50,
+          "inscritos": 423,
+          "ausentes": 73,
+          "convocadosSegundaFase": 152,
+          "convocadosPorVaga": 3.04,
+          "notaCorte": 45
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 20,
+          "inscritos": 130,
+          "ausentes": 13,
+          "convocadosSegundaFase": 98,
+          "convocadosPorVaga": 4.9,
+          "notaCorte": 32
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 10,
+          "inscritos": 76,
+          "ausentes": 12,
+          "convocadosSegundaFase": 52,
+          "convocadosPorVaga": 5.2,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Geografia (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 85,
+          "inscritos": 296,
+          "ausentes": 32,
+          "convocadosSegundaFase": 242,
+          "convocadosPorVaga": 2.85,
+          "notaCorte": 36
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 27,
+          "inscritos": 109,
+          "ausentes": 21,
+          "convocadosSegundaFase": 88,
+          "convocadosPorVaga": 3.26,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 8,
+          "inscritos": 24,
+          "ausentes": 3,
+          "convocadosSegundaFase": 17,
+          "convocadosPorVaga": 2.13,
+          "notaCorte": 29
+        }
+      ]
+    },
+    {
+      "nome": "Gestão Ambiental – USP Leste (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 24,
+          "inscritos": 54,
+          "ausentes": 10,
+          "convocadosSegundaFase": 32,
+          "convocadosPorVaga": 1.33,
+          "notaCorte": 28
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 8,
+          "inscritos": 22,
+          "ausentes": 2,
+          "convocadosSegundaFase": 17,
+          "convocadosPorVaga": 2.13,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 6,
+          "inscritos": 16,
+          "ausentes": 3,
+          "convocadosSegundaFase": 13,
+          "convocadosPorVaga": 2.17,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Gestão Ambiental (Piracicaba)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 16,
+          "inscritos": 50,
+          "ausentes": 5,
+          "convocadosSegundaFase": 28,
+          "convocadosPorVaga": 1.75,
+          "notaCorte": 29
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 8,
+          "inscritos": 16,
+          "ausentes": 3,
+          "convocadosSegundaFase": 13,
+          "convocadosPorVaga": 1.63,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 4,
+          "inscritos": 2,
+          "ausentes": 1,
+          "convocadosSegundaFase": 2,
+          "convocadosPorVaga": 0.5,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Gestão e Políticas Públicas – USP Leste (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 48,
+          "inscritos": 266,
+          "ausentes": 23,
+          "convocadosSegundaFase": 211,
+          "convocadosPorVaga": 4.4,
+          "notaCorte": 36
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 24,
+          "inscritos": 151,
+          "ausentes": 6,
+          "convocadosSegundaFase": 139,
+          "convocadosPorVaga": 2.9,
+          "notaCorte": 36
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 12,
+          "inscritos": 40,
+          "ausentes": 13,
+          "convocadosSegundaFase": 27,
+          "convocadosPorVaga": 2.25,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "História (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 105,
+          "inscritos": 820,
+          "ausentes": 105,
+          "convocadosSegundaFase": 412,
+          "convocadosPorVaga": 3.92,
+          "notaCorte": 49
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 39,
+          "inscritos": 338,
+          "ausentes": 60,
+          "convocadosSegundaFase": 224,
+          "convocadosPorVaga": 5.74,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 15,
+          "inscritos": 127,
+          "ausentes": 21,
+          "convocadosSegundaFase": 101,
+          "convocadosPorVaga": 6.73,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Jornalismo (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 30,
+          "inscritos": 1055,
+          "ausentes": 98,
+          "convocadosSegundaFase": 106,
+          "convocadosPorVaga": 3.53,
+          "notaCorte": 62
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 12,
+          "inscritos": 364,
+          "ausentes": 53,
+          "convocadosSegundaFase": 68,
+          "convocadosPorVaga": 5.67,
+          "notaCorte": 52
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 0,
+          "inscritos": 0,
+          "ausentes": 0,
+          "convocadosSegundaFase": 0,
+          "convocadosPorVaga": 0,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Lazer e Turismo – USP Leste (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 60,
+          "inscritos": 110,
+          "ausentes": 12,
+          "convocadosSegundaFase": 58,
+          "convocadosPorVaga": 1.53,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 18,
+          "inscritos": 24,
+          "ausentes": 3,
+          "convocadosSegundaFase": 19,
+          "convocadosPorVaga": 1.06,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 6,
+          "inscritos": 11,
+          "ausentes": 0,
+          "convocadosSegundaFase": 7,
+          "convocadosPorVaga": 1.17,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Letras (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 597,
+          "inscritos": 2360,
+          "ausentes": 302,
+          "convocadosSegundaFase": 1824,
+          "convocadosPorVaga": 3.05,
+          "notaCorte": 37
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 196,
+          "inscritos": 1222,
+          "ausentes": 129,
+          "convocadosSegundaFase": 1141,
+          "convocadosPorVaga": 5.82,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 54,
+          "inscritos": 208,
+          "ausentes": 47,
+          "convocadosSegundaFase": 154,
+          "convocadosPorVaga": 2.85,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Licenciatura em Educação Física (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 21,
+          "inscritos": 54,
+          "ausentes": 5,
+          "convocadosSegundaFase": 41,
+          "convocadosPorVaga": 1.95,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 8,
+          "inscritos": 26,
+          "ausentes": 4,
+          "convocadosSegundaFase": 22,
+          "convocadosPorVaga": 2.75,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 3,
+          "inscritos": 1,
+          "ausentes": 1,
+          "convocadosSegundaFase": 1,
+          "convocadosPorVaga": 0.33,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Marketing – USP Leste (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 42,
+          "inscritos": 541,
+          "ausentes": 74,
+          "convocadosSegundaFase": 134,
+          "convocadosPorVaga": 3.19,
+          "notaCorte": 51
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 26,
+          "inscritos": 206,
+          "ausentes": 31,
+          "convocadosSegundaFase": 115,
+          "convocadosPorVaga": 4.42,
+          "notaCorte": 39
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 16,
+          "inscritos": 97,
+          "ausentes": 18,
+          "convocadosSegundaFase": 69,
+          "convocadosPorVaga": 4.31,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Música – USP Leste (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 25,
+          "inscritos": 87,
+          "ausentes": 12,
+          "convocadosSegundaFase": 32,
+          "convocadosPorVaga": 1.88,
+          "notaCorte": 47
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 15,
+          "inscritos": 58,
+          "ausentes": 7,
+          "convocadosSegundaFase": 22,
+          "convocadosPorVaga": 3.87,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 10,
+          "inscritos": 41,
+          "ausentes": 7,
+          "convocadosSegundaFase": 32,
+          "convocadosPorVaga": 3.2,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Música – PPCLRP (Ribeirão Preto)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 15,
+          "inscritos": 8,
+          "ausentes": 2,
+          "convocadosSegundaFase": 6,
+          "convocadosPorVaga": 0.4,
+          "notaCorte": 31
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 9,
+          "inscritos": 23,
+          "ausentes": 5,
+          "convocadosSegundaFase": 15,
+          "convocadosPorVaga": 1.67,
+          "notaCorte": 30
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 6,
+          "inscritos": 1,
+          "ausentes": 1,
+          "convocadosSegundaFase": 1,
+          "convocadosPorVaga": 0.17,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Pedagogia (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 90,
+          "inscritos": 384,
+          "ausentes": 50,
+          "convocadosSegundaFase": 242,
+          "convocadosPorVaga": 2.69,
+          "notaCorte": 38
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 34,
+          "inscritos": 200,
+          "ausentes": 48,
+          "convocadosSegundaFase": 139,
+          "convocadosPorVaga": 4.09,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 11,
+          "inscritos": 88,
+          "ausentes": 17,
+          "convocadosSegundaFase": 57,
+          "convocadosPorVaga": 5.18,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Pedagogia (Ribeirão Preto)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 25,
+          "inscritos": 136,
+          "ausentes": 19,
+          "convocadosSegundaFase": 83,
+          "convocadosPorVaga": 3.32,
+          "notaCorte": 39
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 8,
+          "inscritos": 34,
+          "ausentes": 9,
+          "convocadosSegundaFase": 23,
+          "convocadosPorVaga": 2.88,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 2,
+          "inscritos": 16,
+          "ausentes": 3,
+          "convocadosSegundaFase": 11,
+          "convocadosPorVaga": 5.5,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Publicidade e Propaganda (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 20,
+          "inscritos": 722,
+          "ausentes": 110,
+          "convocadosSegundaFase": 69,
+          "convocadosPorVaga": 3.45,
+          "notaCorte": 58
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 10,
+          "inscritos": 214,
+          "ausentes": 34,
+          "convocadosSegundaFase": 46,
+          "convocadosPorVaga": 4.6,
+          "notaCorte": 50
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 5,
+          "inscritos": 88,
+          "ausentes": 24,
+          "convocadosSegundaFase": 29,
+          "convocadosPorVaga": 5.8,
+          "notaCorte": 42
+        }
+      ]
+    },
+    {
+      "nome": "Relações Internacionais (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 28,
+          "inscritos": 1694,
+          "ausentes": 179,
+          "convocadosSegundaFase": 109,
+          "convocadosPorVaga": 3.89,
+          "notaCorte": 67
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 10,
+          "inscritos": 448,
+          "ausentes": 64,
+          "convocadosSegundaFase": 53,
+          "convocadosPorVaga": 5.3,
+          "notaCorte": 59
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 4,
+          "inscritos": 157,
+          "ausentes": 31,
+          "convocadosSegundaFase": 26,
+          "convocadosPorVaga": 6.5,
+          "notaCorte": 50
+        }
+      ]
+    },
+    {
+      "nome": "Relações Públicas (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 20,
+          "inscritos": 224,
+          "ausentes": 22,
+          "convocadosSegundaFase": 69,
+          "convocadosPorVaga": 3.45,
+          "notaCorte": 51
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 10,
+          "inscritos": 82,
+          "ausentes": 15,
+          "convocadosSegundaFase": 42,
+          "convocadosPorVaga": 4.2,
+          "notaCorte": 40
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 5,
+          "inscritos": 29,
+          "ausentes": 3,
+          "convocadosSegundaFase": 24,
+          "convocadosPorVaga": 4.8,
+          "notaCorte": 28
+        }
+      ]
+    },
+    {
+      "nome": "Têxtil e Moda – USP Leste (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 24,
+          "inscritos": 461,
+          "ausentes": 98,
+          "convocadosSegundaFase": 88,
+          "convocadosPorVaga": 3.67,
+          "notaCorte": 53
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 12,
+          "inscritos": 173,
+          "ausentes": 32,
+          "convocadosSegundaFase": 55,
+          "convocadosPorVaga": 4.58,
+          "notaCorte": 45
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 6,
+          "inscritos": 75,
+          "ausentes": 16,
+          "convocadosSegundaFase": 37,
+          "convocadosPorVaga": 6.17,
+          "notaCorte": 33
+        }
+      ]
+    },
+    {
+      "nome": "Turismo (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 13,
+          "inscritos": 74,
+          "ausentes": 12,
+          "convocadosSegundaFase": 44,
+          "convocadosPorVaga": 3.38,
+          "notaCorte": 38
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 6,
+          "inscritos": 16,
+          "ausentes": 3,
+          "convocadosSegundaFase": 11,
+          "convocadosPorVaga": 1.83,
+          "notaCorte": 30
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 2,
+          "inscritos": 8,
+          "ausentes": 2,
+          "convocadosSegundaFase": 5,
+          "convocadosPorVaga": 2.5,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Treinamento H (Humanas)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 100,
+          "inscritos": 3486,
+          "ausentes": 420,
+          "convocadosSegundaFase": 431,
+          "convocadosPorVaga": 4.31,
+          "notaCorte": 58
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 63,
+          "inscritos": 202,
+          "ausentes": 17,
+          "convocadosSegundaFase": 171,
+          "convocadosPorVaga": 2.71,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 37,
+          "inscritos": 63,
+          "ausentes": 11,
+          "convocadosSegundaFase": 41,
+          "convocadosPorVaga": 1.11,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Bacharelado em Biotecnologia – USP Leste (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 30,
+          "inscritos": 233,
+          "ausentes": 28,
+          "convocadosSegundaFase": 103,
+          "convocadosPorVaga": 3.43,
+          "notaCorte": 56
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 11,
+          "inscritos": 72,
+          "ausentes": 7,
+          "convocadosSegundaFase": 55,
+          "convocadosPorVaga": 5,
+          "notaCorte": 41
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 1,
+          "inscritos": 22,
+          "ausentes": 5,
+          "convocadosSegundaFase": 12,
+          "convocadosPorVaga": 12,
+          "notaCorte": 37
+        }
+      ]
+    },
+    {
+      "nome": "Ciências Biológicas (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 54,
+          "inscritos": 842,
+          "ausentes": 108,
+          "convocadosSegundaFase": 187,
+          "convocadosPorVaga": 3.46,
+          "notaCorte": 58
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 20,
+          "inscritos": 319,
+          "ausentes": 45,
+          "convocadosSegundaFase": 112,
+          "convocadosPorVaga": 5.6,
+          "notaCorte": 50
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 10,
+          "inscritos": 106,
+          "ausentes": 17,
+          "convocadosSegundaFase": 62,
+          "convocadosPorVaga": 6.2,
+          "notaCorte": 36
+        }
+      ]
+    },
+    {
+      "nome": "Ciências Biológicas (Piracicaba)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 13,
+          "inscritos": 111,
+          "ausentes": 13,
+          "convocadosSegundaFase": 41,
+          "convocadosPorVaga": 3.15,
+          "notaCorte": 50
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 7,
+          "inscritos": 57,
+          "ausentes": 10,
+          "convocadosSegundaFase": 37,
+          "convocadosPorVaga": 5.29,
+          "notaCorte": 37
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 4,
+          "inscritos": 16,
+          "ausentes": 5,
+          "convocadosSegundaFase": 11,
+          "convocadosPorVaga": 2.75,
+          "notaCorte": 29
+        }
+      ]
+    },
+    {
+      "nome": "Ciências Biológicas (Ribeirão Preto)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 20,
+          "inscritos": 222,
+          "ausentes": 30,
+          "convocadosSegundaFase": 74,
+          "convocadosPorVaga": 3.7,
+          "notaCorte": 54
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 8,
+          "inscritos": 87,
+          "ausentes": 13,
+          "convocadosSegundaFase": 49,
+          "convocadosPorVaga": 6.13,
+          "notaCorte": 45
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 0,
+          "inscritos": 0,
+          "ausentes": 0,
+          "convocadosSegundaFase": 0,
+          "convocadosPorVaga": 0
+        }
+      ]
+    },
+    {
+      "nome": "Ciências Biomédicas (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 20,
+          "inscritos": 804,
+          "ausentes": 88,
+          "convocadosSegundaFase": 80,
+          "convocadosPorVaga": 4,
+          "notaCorte": 66
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 6,
+          "inscritos": 270,
+          "ausentes": 40,
+          "convocadosSegundaFase": 30,
+          "convocadosPorVaga": 5,
+          "notaCorte": 57
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 2,
+          "inscritos": 95,
+          "ausentes": 10,
+          "convocadosSegundaFase": 9,
+          "convocadosPorVaga": 4.5,
+          "notaCorte": 53
+        }
+      ]
+    },
+    {
+      "nome": "Ciências Biomédicas (Ribeirão Preto)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 12,
+          "inscritos": 308,
+          "ausentes": 27,
+          "convocadosSegundaFase": 45,
+          "convocadosPorVaga": 3.75,
+          "notaCorte": 63
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 4,
+          "inscritos": 98,
+          "ausentes": 15,
+          "convocadosSegundaFase": 18,
+          "convocadosPorVaga": 4.5,
+          "notaCorte": 54
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 3,
+          "inscritos": 27,
+          "ausentes": 8,
+          "convocadosSegundaFase": 14,
+          "convocadosPorVaga": 4.67,
+          "notaCorte": 40
+        }
+      ]
+    },
+    {
+      "nome": "Ciências dos Alimentos (Piracicaba)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 17,
+          "inscritos": 36,
+          "ausentes": 3,
+          "convocadosSegundaFase": 31,
+          "convocadosPorVaga": 1.82,
+          "notaCorte": 28
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 9,
+          "inscritos": 14,
+          "ausentes": 2,
+          "convocadosSegundaFase": 10,
+          "convocadosPorVaga": 1.11,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 6,
+          "inscritos": 2,
+          "ausentes": 0,
+          "convocadosSegundaFase": 2,
+          "convocadosPorVaga": 0.33,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Educação Física (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 50,
+          "inscritos": 423,
+          "ausentes": 73,
+          "convocadosSegundaFase": 152,
+          "convocadosPorVaga": 3.04,
+          "notaCorte": 45
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 20,
+          "inscritos": 130,
+          "ausentes": 13,
+          "convocadosSegundaFase": 98,
+          "convocadosPorVaga": 4.9,
+          "notaCorte": 32
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 10,
+          "inscritos": 76,
+          "ausentes": 12,
+          "convocadosSegundaFase": 52,
+          "convocadosPorVaga": 5.2,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Educação Física (Ribeirão Preto)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 27,
+          "inscritos": 205,
+          "ausentes": 23,
+          "convocadosSegundaFase": 101,
+          "convocadosPorVaga": 3.74,
+          "notaCorte": 44
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 8,
+          "inscritos": 53,
+          "ausentes": 6,
+          "convocadosSegundaFase": 34,
+          "convocadosPorVaga": 4.25,
+          "notaCorte": 31
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 7,
+          "inscritos": 19,
+          "ausentes": 4,
+          "convocadosSegundaFase": 15,
+          "convocadosPorVaga": 2.14,
+          "notaCorte": 29
+        }
+      ]
+    },
+    {
+      "nome": "Educação Física e Saúde - USP Leste (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 20,
+          "inscritos": 98,
+          "ausentes": 10,
+          "convocadosSegundaFase": 64,
+          "convocadosPorVaga": 3.2,
+          "notaCorte": 40
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 14,
+          "inscritos": 31,
+          "ausentes": 7,
+          "convocadosSegundaFase": 24,
+          "convocadosPorVaga": 1.71,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 8,
+          "inscritos": 17,
+          "ausentes": 2,
+          "convocadosSegundaFase": 13,
+          "convocadosPorVaga": 1.63,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Enfermagem (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 27,
+          "inscritos": 312,
+          "ausentes": 47,
+          "convocadosSegundaFase": 100,
+          "convocadosPorVaga": 3.7,
+          "notaCorte": 50
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 19,
+          "inscritos": 194,
+          "ausentes": 50,
+          "convocadosSegundaFase": 77,
+          "convocadosPorVaga": 4.05,
+          "notaCorte": 38
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 10,
+          "inscritos": 74,
+          "ausentes": 20,
+          "convocadosSegundaFase": 48,
+          "convocadosPorVaga": 4.8,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Enfermagem (Ribeirão Preto)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 65,
+          "inscritos": 395,
+          "ausentes": 50,
+          "convocadosSegundaFase": 205,
+          "convocadosPorVaga": 3.15,
+          "notaCorte": 42
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 24,
+          "inscritos": 145,
+          "ausentes": 28,
+          "convocadosSegundaFase": 98,
+          "convocadosPorVaga": 4.08,
+          "notaCorte": 28
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 12,
+          "inscritos": 53,
+          "ausentes": 18,
+          "convocadosSegundaFase": 27,
+          "convocadosPorVaga": 2.25,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Agronômica (Piracicaba)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 84,
+          "inscritos": 822,
+          "ausentes": 99,
+          "convocadosSegundaFase": 290,
+          "convocadosPorVaga": 3.45,
+          "notaCorte": 50
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 46,
+          "inscritos": 255,
+          "ausentes": 33,
+          "convocadosSegundaFase": 202,
+          "convocadosPorVaga": 4.39,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 32,
+          "inscritos": 48,
+          "ausentes": 12,
+          "convocadosSegundaFase": 29,
+          "convocadosPorVaga": 0.91,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Florestal (Piracicaba)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 17,
+          "inscritos": 70,
+          "ausentes": 4,
+          "convocadosSegundaFase": 53,
+          "convocadosPorVaga": 3.12,
+          "notaCorte": 41
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 9,
+          "inscritos": 24,
+          "ausentes": 4,
+          "convocadosSegundaFase": 18,
+          "convocadosPorVaga": 2,
+          "notaCorte": 32
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 6,
+          "inscritos": 3,
+          "ausentes": 0,
+          "convocadosSegundaFase": 3,
+          "convocadosPorVaga": 0.5,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Farmácia (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 74,
+          "inscritos": 728,
+          "ausentes": 62,
+          "convocadosSegundaFase": 259,
+          "convocadosPorVaga": 3.5,
+          "notaCorte": 56
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 31,
+          "inscritos": 294,
+          "ausentes": 52,
+          "convocadosSegundaFase": 138,
+          "convocadosPorVaga": 4.45,
+          "notaCorte": 44
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 15,
+          "inscritos": 100,
+          "ausentes": 21,
+          "convocadosSegundaFase": 68,
+          "convocadosPorVaga": 4.53,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Farmácia (Ribeirão Preto)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 40,
+          "inscritos": 311,
+          "ausentes": 23,
+          "convocadosSegundaFase": 148,
+          "convocadosPorVaga": 3.7,
+          "notaCorte": 51
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 15,
+          "inscritos": 92,
+          "ausentes": 22,
+          "convocadosSegundaFase": 65,
+          "convocadosPorVaga": 4.33,
+          "notaCorte": 28
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 7,
+          "inscritos": 18,
+          "ausentes": 5,
+          "convocadosSegundaFase": 12,
+          "convocadosPorVaga": 1.71,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Fisioterapia (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 9,
+          "inscritos": 231,
+          "ausentes": 33,
+          "convocadosSegundaFase": 28,
+          "convocadosPorVaga": 3.11,
+          "notaCorte": 59
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 6,
+          "inscritos": 108,
+          "ausentes": 17,
+          "convocadosSegundaFase": 31,
+          "convocadosPorVaga": 5.17,
+          "notaCorte": 46
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 3,
+          "inscritos": 42,
+          "ausentes": 6,
+          "convocadosSegundaFase": 19,
+          "convocadosPorVaga": 6.33,
+          "notaCorte": 34
+        }
+      ]
+    },
+    {
+      "nome": "Fisioterapia (Ribeirão Preto)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 20,
+          "inscritos": 325,
+          "ausentes": 37,
+          "convocadosSegundaFase": 78,
+          "convocadosPorVaga": 3.9,
+          "notaCorte": 51
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 6,
+          "inscritos": 102,
+          "ausentes": 26,
+          "convocadosSegundaFase": 26,
+          "convocadosPorVaga": 4.33,
+          "notaCorte": 44
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 3,
+          "inscritos": 32,
+          "ausentes": 6,
+          "convocadosSegundaFase": 18,
+          "convocadosPorVaga": 6,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Fonoaudiologia (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 9,
+          "inscritos": 78,
+          "ausentes": 10,
+          "convocadosSegundaFase": 29,
+          "convocadosPorVaga": 3.22,
+          "notaCorte": 50
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 6,
+          "inscritos": 31,
+          "ausentes": 5,
+          "convocadosSegundaFase": 24,
+          "convocadosPorVaga": 4,
+          "notaCorte": 28
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 3,
+          "inscritos": 11,
+          "ausentes": 2,
+          "convocadosSegundaFase": 7,
+          "convocadosPorVaga": 2.33,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Fonoaudiologia (Bauru)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 13,
+          "inscritos": 166,
+          "ausentes": 12,
+          "convocadosSegundaFase": 53,
+          "convocadosPorVaga": 4.08,
+          "notaCorte": 49
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 9,
+          "inscritos": 31,
+          "ausentes": 6,
+          "convocadosSegundaFase": 22,
+          "convocadosPorVaga": 2.44,
+          "notaCorte": 28
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 6,
+          "inscritos": 9,
+          "ausentes": 2,
+          "convocadosSegundaFase": 6,
+          "convocadosPorVaga": 1,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Fonoaudiologia (Ribeirão Preto)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 15,
+          "inscritos": 41,
+          "ausentes": 1,
+          "convocadosSegundaFase": 39,
+          "convocadosPorVaga": 2.6,
+          "notaCorte": 28
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 5,
+          "inscritos": 12,
+          "ausentes": 1,
+          "convocadosSegundaFase": 9,
+          "convocadosPorVaga": 1.8,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 2,
+          "inscritos": 6,
+          "ausentes": 2,
+          "convocadosSegundaFase": 4,
+          "convocadosPorVaga": 2,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Gerontologia – USP Leste (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 24,
+          "inscritos": 126,
+          "ausentes": 16,
+          "convocadosSegundaFase": 87,
+          "convocadosPorVaga": 3.63,
+          "notaCorte": 37
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 12,
+          "inscritos": 21,
+          "ausentes": 6,
+          "convocadosSegundaFase": 14,
+          "convocadosPorVaga": 1.17,
+          "notaCorte": 28
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 6,
+          "inscritos": 9,
+          "ausentes": 2,
+          "convocadosSegundaFase": 5,
+          "convocadosPorVaga": 0.83,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Medicina (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 58,
+          "inscritos": 9646,
+          "ausentes": 1431,
+          "convocadosSegundaFase": 227,
+          "convocadosPorVaga": 3.91,
+          "notaCorte": 81
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 39,
+          "inscritos": 3366,
+          "ausentes": 548,
+          "convocadosSegundaFase": 171,
+          "convocadosPorVaga": 4.38,
+          "notaCorte": 74
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 25,
+          "inscritos": 1389,
+          "ausentes": 253,
+          "convocadosSegundaFase": 129,
+          "convocadosPorVaga": 5.16,
+          "notaCorte": 61
+        }
+      ]
+    },
+    {
+      "nome": "Medicina (Bauru)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 23,
+          "inscritos": 2287,
+          "ausentes": 198,
+          "convocadosSegundaFase": 103,
+          "convocadosPorVaga": 4.48,
+          "notaCorte": 78
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 10,
+          "inscritos": 729,
+          "ausentes": 97,
+          "convocadosSegundaFase": 51,
+          "convocadosPorVaga": 5.1,
+          "notaCorte": 72
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 9,
+          "inscritos": 272,
+          "ausentes": 39,
+          "convocadosSegundaFase": 44,
+          "convocadosPorVaga": 4.89,
+          "notaCorte": 59
+        }
+      ]
+    },
+    {
+      "nome": "Medicina (Ribeirão Preto)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 50,
+          "inscritos": 5427,
+          "ausentes": 645,
+          "convocadosSegundaFase": 234,
+          "convocadosPorVaga": 4.68,
+          "notaCorte": 79
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 18,
+          "inscritos": 1424,
+          "ausentes": 215,
+          "convocadosSegundaFase": 89,
+          "convocadosPorVaga": 4.94,
+          "notaCorte": 73
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 7,
+          "inscritos": 342,
+          "ausentes": 57,
+          "convocadosSegundaFase": 33,
+          "convocadosPorVaga": 4.71,
+          "notaCorte": 62
+        }
+      ]
+    },
+    {
+      "nome": "Medicina Veterinária (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 36,
+          "inscritos": 1326,
+          "ausentes": 204,
+          "convocadosSegundaFase": 135,
+          "convocadosPorVaga": 3.75,
+          "notaCorte": 62
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 15,
+          "inscritos": 547,
+          "ausentes": 101,
+          "convocadosSegundaFase": 63,
+          "convocadosPorVaga": 4.2,
+          "notaCorte": 53
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 5,
+          "inscritos": 160,
+          "ausentes": 28,
+          "convocadosSegundaFase": 28,
+          "convocadosPorVaga": 5.6,
+          "notaCorte": 45
+        }
+      ]
+    },
+    {
+      "nome": "Medicina Veterinária (Pirassununga)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 21,
+          "inscritos": 514,
+          "ausentes": 63,
+          "convocadosSegundaFase": 85,
+          "convocadosPorVaga": 4.05,
+          "notaCorte": 58
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 12,
+          "inscritos": 210,
+          "ausentes": 38,
+          "convocadosSegundaFase": 63,
+          "convocadosPorVaga": 5.25,
+          "notaCorte": 49
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 9,
+          "inscritos": 51,
+          "ausentes": 5,
+          "convocadosSegundaFase": 39,
+          "convocadosPorVaga": 4.33,
+          "notaCorte": 30
+        }
+      ]
+    },
+    {
+      "nome": "Nutrição (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 36,
+          "inscritos": 621,
+          "ausentes": 94,
+          "convocadosSegundaFase": 127,
+          "convocadosPorVaga": 3.53,
+          "notaCorte": 55
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 14,
+          "inscritos": 224,
+          "ausentes": 40,
+          "convocadosSegundaFase": 69,
+          "convocadosPorVaga": 4.93,
+          "notaCorte": 46
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 6,
+          "inscritos": 117,
+          "ausentes": 22,
+          "convocadosSegundaFase": 43,
+          "convocadosPorVaga": 7.17,
+          "notaCorte": 38
+        }
+      ]
+    },
+    {
+      "nome": "Nutrição e Metabolismo (Ribeirão Preto)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 15,
+          "inscritos": 246,
+          "ausentes": 27,
+          "convocadosSegundaFase": 59,
+          "convocadosPorVaga": 3.93,
+          "notaCorte": 55
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 5,
+          "inscritos": 52,
+          "ausentes": 10,
+          "convocadosSegundaFase": 22,
+          "convocadosPorVaga": 4.4,
+          "notaCorte": 43
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 1,
+          "inscritos": 12,
+          "ausentes": 1,
+          "convocadosSegundaFase": 8,
+          "convocadosPorVaga": 8,
+          "notaCorte": 39
+        }
+      ]
+    },
+    {
+      "nome": "Obstetrícia – USP Leste (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 24,
+          "inscritos": 159,
+          "ausentes": 17,
+          "convocadosSegundaFase": 84,
+          "convocadosPorVaga": 3.5,
+          "notaCorte": 44
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 12,
+          "inscritos": 52,
+          "ausentes": 8,
+          "convocadosSegundaFase": 40,
+          "convocadosPorVaga": 3.33,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 6,
+          "inscritos": 29,
+          "ausentes": 6,
+          "convocadosSegundaFase": 21,
+          "convocadosPorVaga": 3.5,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Odontologia (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 47,
+          "inscritos": 776,
+          "ausentes": 91,
+          "convocadosSegundaFase": 177,
+          "convocadosPorVaga": 3.77,
+          "notaCorte": 55
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 33,
+          "inscritos": 291,
+          "ausentes": 50,
+          "convocadosSegundaFase": 136,
+          "convocadosPorVaga": 4.12,
+          "notaCorte": 38
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 13,
+          "inscritos": 117,
+          "ausentes": 23,
+          "convocadosSegundaFase": 74,
+          "convocadosPorVaga": 5.69,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Odontologia (Bauru)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 18,
+          "inscritos": 245,
+          "ausentes": 26,
+          "convocadosSegundaFase": 72,
+          "convocadosPorVaga": 4,
+          "notaCorte": 53
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 9,
+          "inscritos": 71,
+          "ausentes": 14,
+          "convocadosSegundaFase": 40,
+          "convocadosPorVaga": 4.44,
+          "notaCorte": 36
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 8,
+          "inscritos": 20,
+          "ausentes": 4,
+          "convocadosSegundaFase": 13,
+          "convocadosPorVaga": 1.63,
+          "notaCorte": 28
+        }
+      ]
+    },
+    {
+      "nome": "Odontologia (Ribeirão Preto)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 28,
+          "inscritos": 408,
+          "ausentes": 52,
+          "convocadosSegundaFase": 103,
+          "convocadosPorVaga": 3.68,
+          "notaCorte": 53
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 15,
+          "inscritos": 119,
+          "ausentes": 22,
+          "convocadosSegundaFase": 61,
+          "convocadosPorVaga": 4.07,
+          "notaCorte": 37
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 13,
+          "inscritos": 41,
+          "ausentes": 8,
+          "convocadosSegundaFase": 29,
+          "convocadosPorVaga": 2.23,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Psicologia (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 35,
+          "inscritos": 2323,
+          "ausentes": 337,
+          "convocadosSegundaFase": 136,
+          "convocadosPorVaga": 3.89,
+          "notaCorte": 68
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 8,
+          "inscritos": 808,
+          "ausentes": 143,
+          "convocadosSegundaFase": 47,
+          "convocadosPorVaga": 5.88,
+          "notaCorte": 60
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 6,
+          "inscritos": 326,
+          "ausentes": 68,
+          "convocadosSegundaFase": 37,
+          "convocadosPorVaga": 6.17,
+          "notaCorte": 49
+        }
+      ]
+    },
+    {
+      "nome": "Psicologia (Ribeirão Preto)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 20,
+          "inscritos": 948,
+          "ausentes": 111,
+          "convocadosSegundaFase": 83,
+          "convocadosPorVaga": 4.15,
+          "notaCorte": 65
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 8,
+          "inscritos": 306,
+          "ausentes": 48,
+          "convocadosSegundaFase": 41,
+          "convocadosPorVaga": 5.13,
+          "notaCorte": 55
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 0,
+          "inscritos": 0,
+          "ausentes": 0,
+          "convocadosSegundaFase": 0,
+          "convocadosPorVaga": 0
+        }
+      ]
+    },
+    {
+      "nome": "Saúde Pública (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 18,
+          "inscritos": 69,
+          "ausentes": 14,
+          "convocadosSegundaFase": 51,
+          "convocadosPorVaga": 2.83,
+          "notaCorte": 30
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 7,
+          "inscritos": 17,
+          "ausentes": 3,
+          "convocadosSegundaFase": 12,
+          "convocadosPorVaga": 1.71,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 3,
+          "inscritos": 8,
+          "ausentes": 2,
+          "convocadosSegundaFase": 6,
+          "convocadosPorVaga": 2,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Terapia Ocupacional (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 8,
+          "inscritos": 72,
+          "ausentes": 7,
+          "convocadosSegundaFase": 28,
+          "convocadosPorVaga": 3.5,
+          "notaCorte": 50
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 6,
+          "inscritos": 33,
+          "ausentes": 3,
+          "convocadosSegundaFase": 26,
+          "convocadosPorVaga": 4.33,
+          "notaCorte": 32
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 3,
+          "inscritos": 14,
+          "ausentes": 8,
+          "convocadosSegundaFase": 6,
+          "convocadosPorVaga": 2,
+          "notaCorte": 29
+        }
+      ]
+    },
+    {
+      "nome": "Terapia Ocupacional (Ribeirão Preto)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 10,
+          "inscritos": 46,
+          "ausentes": 9,
+          "convocadosSegundaFase": 30,
+          "convocadosPorVaga": 3,
+          "notaCorte": 31
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 4,
+          "inscritos": 18,
+          "ausentes": 3,
+          "convocadosSegundaFase": 12,
+          "convocadosPorVaga": 3,
+          "notaCorte": 28
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 1,
+          "inscritos": 4,
+          "ausentes": 1,
+          "convocadosSegundaFase": 2,
+          "convocadosPorVaga": 2,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Zootecnia (Pirassununga)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 14,
+          "inscritos": 101,
+          "ausentes": 13,
+          "convocadosSegundaFase": 51,
+          "convocadosPorVaga": 3.64,
+          "notaCorte": 40
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 8,
+          "inscritos": 29,
+          "ausentes": 7,
+          "convocadosSegundaFase": 18,
+          "convocadosPorVaga": 2.25,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 6,
+          "inscritos": 6,
+          "ausentes": 1,
+          "convocadosSegundaFase": 4,
+          "convocadosPorVaga": 0.67,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Treinamento B (Biológicas)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 100,
+          "inscritos": 3418,
+          "ausentes": 451,
+          "convocadosSegundaFase": 410,
+          "convocadosPorVaga": 4.1,
+          "notaCorte": 60
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 63,
+          "inscritos": 213,
+          "ausentes": 29,
+          "convocadosSegundaFase": 169,
+          "convocadosPorVaga": 2.68,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 37,
+          "inscritos": 54,
+          "ausentes": 5,
+          "convocadosSegundaFase": 42,
+          "convocadosPorVaga": 1.14,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Ciências Físicas e Biomoleculares (São Carlos)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 15,
+          "inscritos": 44,
+          "ausentes": 5,
+          "convocadosSegundaFase": 38,
+          "convocadosPorVaga": 2.53,
+          "notaCorte": 30
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 8,
+          "inscritos": 14,
+          "ausentes": 3,
+          "convocadosSegundaFase": 11,
+          "convocadosPorVaga": 1.38,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 5,
+          "inscritos": 4,
+          "ausentes": 2,
+          "convocadosSegundaFase": 2,
+          "convocadosPorVaga": 0.4,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Ciências da Natureza – USP Leste (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 30,
+          "inscritos": 124,
+          "ausentes": 12,
+          "convocadosSegundaFase": 106,
+          "convocadosPorVaga": 3.53,
+          "notaCorte": 35
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 9,
+          "inscritos": 20,
+          "ausentes": 4,
+          "convocadosSegundaFase": 14,
+          "convocadosPorVaga": 1.56,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 3,
+          "inscritos": 7,
+          "ausentes": 3,
+          "convocadosSegundaFase": 3,
+          "convocadosPorVaga": 1,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Computação (São Paulo, São Carlos, Ribeirão Preto)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 147,
+          "inscritos": 3608,
+          "ausentes": 421,
+          "convocadosSegundaFase": 544,
+          "convocadosPorVaga": 3.7,
+          "notaCorte": 66
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 68,
+          "inscritos": 1554,
+          "ausentes": 269,
+          "convocadosSegundaFase": 324,
+          "convocadosPorVaga": 4.76,
+          "notaCorte": 56
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 32,
+          "inscritos": 450,
+          "ausentes": 87,
+          "convocadosSegundaFase": 197,
+          "convocadosPorVaga": 6.16,
+          "notaCorte": 43
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Aeronáutica (São Carlos)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 17,
+          "inscritos": 495,
+          "ausentes": 68,
+          "convocadosSegundaFase": 71,
+          "convocadosPorVaga": 4.18,
+          "notaCorte": 73
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 9,
+          "inscritos": 133,
+          "ausentes": 19,
+          "convocadosSegundaFase": 33,
+          "convocadosPorVaga": 3.67,
+          "notaCorte": 56
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 5,
+          "inscritos": 32,
+          "ausentes": 4,
+          "convocadosSegundaFase": 26,
+          "convocadosPorVaga": 5.2,
+          "notaCorte": 32
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Ambiental (Lorena)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 19,
+          "inscritos": 76,
+          "ausentes": 5,
+          "convocadosSegundaFase": 62,
+          "convocadosPorVaga": 3.26,
+          "notaCorte": 35
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 9,
+          "inscritos": 14,
+          "ausentes": 1,
+          "convocadosSegundaFase": 11,
+          "convocadosPorVaga": 1.22,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 6,
+          "inscritos": 6,
+          "ausentes": 2,
+          "convocadosSegundaFase": 3,
+          "convocadosPorVaga": 0.5,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Ambiental (São Carlos)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 17,
+          "inscritos": 86,
+          "ausentes": 4,
+          "convocadosSegundaFase": 61,
+          "convocadosPorVaga": 3.59,
+          "notaCorte": 47
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 9,
+          "inscritos": 30,
+          "ausentes": 3,
+          "convocadosSegundaFase": 27,
+          "convocadosPorVaga": 3,
+          "notaCorte": 31
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 5,
+          "inscritos": 6,
+          "ausentes": 2,
+          "convocadosSegundaFase": 2,
+          "convocadosPorVaga": 0.4,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Bioquímica (Lorena)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 18,
+          "inscritos": 114,
+          "ausentes": 6,
+          "convocadosSegundaFase": 62,
+          "convocadosPorVaga": 3.44,
+          "notaCorte": 51
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 8,
+          "inscritos": 22,
+          "ausentes": 5,
+          "convocadosSegundaFase": 17,
+          "convocadosPorVaga": 2.13,
+          "notaCorte": 33
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 4,
+          "inscritos": 8,
+          "ausentes": 4,
+          "convocadosSegundaFase": 3,
+          "convocadosPorVaga": 0.75,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Civil (São Carlos)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 26,
+          "inscritos": 379,
+          "ausentes": 64,
+          "convocadosSegundaFase": 88,
+          "convocadosPorVaga": 3.38,
+          "notaCorte": 56
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 13,
+          "inscritos": 109,
+          "ausentes": 22,
+          "convocadosSegundaFase": 54,
+          "convocadosPorVaga": 4.15,
+          "notaCorte": 38
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 7,
+          "inscritos": 50,
+          "ausentes": 12,
+          "convocadosSegundaFase": 36,
+          "convocadosPorVaga": 5.14,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia de Alimentos (Pirassununga)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 34,
+          "inscritos": 141,
+          "ausentes": 12,
+          "convocadosSegundaFase": 111,
+          "convocadosPorVaga": 3.26,
+          "notaCorte": 34
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 20,
+          "inscritos": 33,
+          "ausentes": 5,
+          "convocadosSegundaFase": 28,
+          "convocadosPorVaga": 1.4,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 16,
+          "inscritos": 6,
+          "ausentes": 0,
+          "convocadosSegundaFase": 5,
+          "convocadosPorVaga": 0.31,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia de Biossistemas (Pirassununga)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 21,
+          "inscritos": 47,
+          "ausentes": 4,
+          "convocadosSegundaFase": 41,
+          "convocadosPorVaga": 1.95,
+          "notaCorte": 32
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 12,
+          "inscritos": 16,
+          "ausentes": 3,
+          "convocadosSegundaFase": 12,
+          "convocadosPorVaga": 1,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 9,
+          "inscritos": 6,
+          "ausentes": 1,
+          "convocadosSegundaFase": 4,
+          "convocadosPorVaga": 0.44,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia de Materiais (Lorena)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 18,
+          "inscritos": 60,
+          "ausentes": 8,
+          "convocadosSegundaFase": 51,
+          "convocadosPorVaga": 2.83,
+          "notaCorte": 29
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 7,
+          "inscritos": 8,
+          "ausentes": 0,
+          "convocadosSegundaFase": 7,
+          "convocadosPorVaga": 1,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 5,
+          "inscritos": 3,
+          "ausentes": 1,
+          "convocadosSegundaFase": 2,
+          "convocadosPorVaga": 0.4,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia de Materiais e Manufatura (São Carlos)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 21,
+          "inscritos": 93,
+          "ausentes": 7,
+          "convocadosSegundaFase": 78,
+          "convocadosPorVaga": 3.71,
+          "notaCorte": 36
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 11,
+          "inscritos": 10,
+          "ausentes": 3,
+          "convocadosSegundaFase": 7,
+          "convocadosPorVaga": 0.64,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 6,
+          "inscritos": 3,
+          "ausentes": 1,
+          "convocadosSegundaFase": 2,
+          "convocadosPorVaga": 0.33,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia de Produção (Lorena)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 18,
+          "inscritos": 142,
+          "ausentes": 19,
+          "convocadosSegundaFase": 64,
+          "convocadosPorVaga": 3.56,
+          "notaCorte": 47
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 6,
+          "inscritos": 42,
+          "ausentes": 11,
+          "convocadosSegundaFase": 30,
+          "convocadosPorVaga": 5,
+          "notaCorte": 28
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 6,
+          "inscritos": 11,
+          "ausentes": 2,
+          "convocadosSegundaFase": 8,
+          "convocadosPorVaga": 1.33,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Elétrica e de Computação (São Carlos)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 63,
+          "inscritos": 926,
+          "ausentes": 142,
+          "convocadosSegundaFase": 224,
+          "convocadosPorVaga": 3.56,
+          "notaCorte": 65
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 33,
+          "inscritos": 271,
+          "ausentes": 51,
+          "convocadosSegundaFase": 138,
+          "convocadosPorVaga": 4.18,
+          "notaCorte": 46
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 18,
+          "inscritos": 74,
+          "ausentes": 12,
+          "convocadosSegundaFase": 57,
+          "convocadosPorVaga": 3.17,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Física (Lorena)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 18,
+          "inscritos": 93,
+          "ausentes": 11,
+          "convocadosSegundaFase": 67,
+          "convocadosPorVaga": 3.72,
+          "notaCorte": 48
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 7,
+          "inscritos": 14,
+          "ausentes": 2,
+          "convocadosSegundaFase": 12,
+          "convocadosPorVaga": 1.71,
+          "notaCorte": 32
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 5,
+          "inscritos": 2,
+          "ausentes": 0,
+          "convocadosSegundaFase": 2,
+          "convocadosPorVaga": 0.4,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Química (Lorena)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 64,
+          "inscritos": 352,
+          "ausentes": 35,
+          "convocadosSegundaFase": 215,
+          "convocadosPorVaga": 3.36,
+          "notaCorte": 47
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 34,
+          "inscritos": 105,
+          "ausentes": 25,
+          "convocadosSegundaFase": 77,
+          "convocadosPorVaga": 2.26,
+          "notaCorte": 28
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 22,
+          "inscritos": 20,
+          "ausentes": 3,
+          "convocadosSegundaFase": 15,
+          "convocadosPorVaga": 0.68,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia Mecânica, Engenharia Mecatrônica e Engenharia de Produção (São Carlos)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 63,
+          "inscritos": 994,
+          "ausentes": 103,
+          "convocadosSegundaFase": 251,
+          "convocadosPorVaga": 3.98,
+          "notaCorte": 63
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 33,
+          "inscritos": 233,
+          "ausentes": 43,
+          "convocadosSegundaFase": 125,
+          "convocadosPorVaga": 3.79,
+          "notaCorte": 42
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 18,
+          "inscritos": 74,
+          "ausentes": 12,
+          "convocadosSegundaFase": 60,
+          "convocadosPorVaga": 3.33,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Engenharia na Escola Politécnica (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 387,
+          "inscritos": 3767,
+          "ausentes": 299,
+          "convocadosSegundaFase": 1481,
+          "convocadosPorVaga": 3.83,
+          "notaCorte": 65
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 243,
+          "inscritos": 1059,
+          "ausentes": 122,
+          "convocadosSegundaFase": 897,
+          "convocadosPorVaga": 3.69,
+          "notaCorte": 32
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 153,
+          "inscritos": 308,
+          "ausentes": 52,
+          "convocadosSegundaFase": 243,
+          "convocadosPorVaga": 1.59,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estatística (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 216,
+          "inscritos": 1230,
+          "ausentes": 179,
+          "convocadosSegundaFase": 668,
+          "convocadosPorVaga": 3.09,
+          "notaCorte": 53
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 109,
+          "inscritos": 624,
+          "ausentes": 127,
+          "convocadosSegundaFase": 487,
+          "convocadosPorVaga": 4.47,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 71,
+          "inscritos": 176,
+          "ausentes": 27,
+          "convocadosSegundaFase": 145,
+          "convocadosPorVaga": 2.04,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Ciência de Dados (São Carlos)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 7,
+          "inscritos": 81,
+          "ausentes": 13,
+          "convocadosSegundaFase": 26,
+          "convocadosPorVaga": 3.71,
+          "notaCorte": 60
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 4,
+          "inscritos": 37,
+          "ausentes": 5,
+          "convocadosSegundaFase": 21,
+          "convocadosPorVaga": 5.25,
+          "notaCorte": 46
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 3,
+          "inscritos": 11,
+          "ausentes": 0,
+          "convocadosSegundaFase": 11,
+          "convocadosPorVaga": 3.67,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Física Médica (São Paulo, Ribeirão Preto)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 26,
+          "inscritos": 126,
+          "ausentes": 15,
+          "convocadosSegundaFase": 85,
+          "convocadosPorVaga": 3.27,
+          "notaCorte": 46
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 14,
+          "inscritos": 47,
+          "ausentes": 11,
+          "convocadosSegundaFase": 35,
+          "convocadosPorVaga": 2.5,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 7,
+          "inscritos": 8,
+          "ausentes": 3,
+          "convocadosSegundaFase": 4,
+          "convocadosPorVaga": 0.57,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Geologia (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 25,
+          "inscritos": 99,
+          "ausentes": 9,
+          "convocadosSegundaFase": 71,
+          "convocadosPorVaga": 2.84,
+          "notaCorte": 42
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 10,
+          "inscritos": 50,
+          "ausentes": 6,
+          "convocadosSegundaFase": 43,
+          "convocadosPorVaga": 4.3,
+          "notaCorte": 30
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 0,
+          "inscritos": 0,
+          "ausentes": 0,
+          "convocadosSegundaFase": 0,
+          "convocadosPorVaga": 0
+        }
+      ]
+    },
+    {
+      "nome": "Informática Biomédica (Ribeirão Preto)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 10,
+          "inscritos": 39,
+          "ausentes": 5,
+          "convocadosSegundaFase": 31,
+          "convocadosPorVaga": 3.1,
+          "notaCorte": 37
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 2,
+          "inscritos": 9,
+          "ausentes": 1,
+          "convocadosSegundaFase": 7,
+          "convocadosPorVaga": 3.5,
+          "notaCorte": 29
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 2,
+          "inscritos": 6,
+          "ausentes": 0,
+          "convocadosSegundaFase": 5,
+          "convocadosPorVaga": 2.5,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Licenciatura em Ciências Exatas (São Carlos)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 18,
+          "inscritos": 37,
+          "ausentes": 2,
+          "convocadosSegundaFase": 35,
+          "convocadosPorVaga": 1.94,
+          "notaCorte": 31
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 10,
+          "inscritos": 11,
+          "ausentes": 2,
+          "convocadosSegundaFase": 9,
+          "convocadosPorVaga": 0.9,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 7,
+          "inscritos": 6,
+          "ausentes": 1,
+          "convocadosSegundaFase": 4,
+          "convocadosPorVaga": 0.57,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Licenciatura em Geociências e Educação Ambiental (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 20,
+          "inscritos": 23,
+          "ausentes": 5,
+          "convocadosSegundaFase": 18,
+          "convocadosPorVaga": 0.9,
+          "notaCorte": 31
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 8,
+          "inscritos": 13,
+          "ausentes": 7,
+          "convocadosSegundaFase": 6,
+          "convocadosPorVaga": 0.75,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 0,
+          "inscritos": 0,
+          "ausentes": 0,
+          "convocadosSegundaFase": 0,
+          "convocadosPorVaga": 0
+        }
+      ]
+    },
+    {
+      "nome": "Licenciatura em Matemática / Física (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 130,
+          "inscritos": 342,
+          "ausentes": 33,
+          "convocadosSegundaFase": 304,
+          "convocadosPorVaga": 2.34
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 43,
+          "inscritos": 119,
+          "ausentes": 27,
+          "convocadosSegundaFase": 88,
+          "convocadosPorVaga": 2.05,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 14,
+          "inscritos": 41,
+          "ausentes": 9,
+          "convocadosSegundaFase": 26,
+          "convocadosPorVaga": 1.86,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Matemática Aplicada (Ribeirão Preto)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 16,
+          "inscritos": 87,
+          "ausentes": 8,
+          "convocadosSegundaFase": 58,
+          "convocadosPorVaga": 3.63,
+          "notaCorte": 42
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 10,
+          "inscritos": 14,
+          "ausentes": 7,
+          "convocadosSegundaFase": 7,
+          "convocadosPorVaga": 0.7,
+          "notaCorte": 28
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 5,
+          "inscritos": 7,
+          "ausentes": 2,
+          "convocadosSegundaFase": 5,
+          "convocadosPorVaga": 1,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Oceanografia (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 16,
+          "inscritos": 71,
+          "ausentes": 7,
+          "convocadosSegundaFase": 44,
+          "convocadosPorVaga": 2.75,
+          "notaCorte": 46
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 8,
+          "inscritos": 40,
+          "ausentes": 5,
+          "convocadosSegundaFase": 33,
+          "convocadosPorVaga": 4.13,
+          "notaCorte": 29
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 4,
+          "inscritos": 8,
+          "ausentes": 1,
+          "convocadosSegundaFase": 7,
+          "convocadosPorVaga": 1.75,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Química (Bacharelado ou Bacharelado com Habilitação em Química Forense)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 21,
+          "inscritos": 174,
+          "ausentes": 12,
+          "convocadosSegundaFase": 73,
+          "convocadosPorVaga": 3.48,
+          "notaCorte": 51
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 13,
+          "inscritos": 69,
+          "ausentes": 10,
+          "convocadosSegundaFase": 52,
+          "convocadosPorVaga": 4,
+          "notaCorte": 30
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 8,
+          "inscritos": 22,
+          "ausentes": 5,
+          "convocadosSegundaFase": 16,
+          "convocadosPorVaga": 2,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Química – Bacharelado e Licenciatura (São Paulo)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 44,
+          "inscritos": 290,
+          "ausentes": 21,
+          "convocadosSegundaFase": 127,
+          "convocadosPorVaga": 2.89,
+          "notaCorte": 54
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 24,
+          "inscritos": 182,
+          "ausentes": 35,
+          "convocadosSegundaFase": 125,
+          "convocadosPorVaga": 5.21,
+          "notaCorte": 39
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 16,
+          "inscritos": 67,
+          "ausentes": 19,
+          "convocadosSegundaFase": 46,
+          "convocadosPorVaga": 2.88,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Química – Licenciatura e Bacharelado (Ribeirão Preto)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 14,
+          "inscritos": 53,
+          "ausentes": 3,
+          "convocadosSegundaFase": 42,
+          "convocadosPorVaga": 3,
+          "notaCorte": 39
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 8,
+          "inscritos": 22,
+          "ausentes": 4,
+          "convocadosSegundaFase": 17,
+          "convocadosPorVaga": 2.13,
+          "notaCorte": 30
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 6,
+          "inscritos": 4,
+          "ausentes": 1,
+          "convocadosSegundaFase": 3,
+          "convocadosPorVaga": 0.5,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Química (Bacharelado e Bacharelado com Atribuições Tecnológicas com Ênfase)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 24,
+          "inscritos": 67,
+          "ausentes": 7,
+          "convocadosSegundaFase": 59,
+          "convocadosPorVaga": 2.46,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 12,
+          "inscritos": 23,
+          "ausentes": 3,
+          "convocadosSegundaFase": 19,
+          "convocadosPorVaga": 1.58,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 6,
+          "inscritos": 4,
+          "ausentes": 1,
+          "convocadosSegundaFase": 3,
+          "convocadosPorVaga": 0.5,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Sistemas de Informação (São Carlos)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 17,
+          "inscritos": 352,
+          "ausentes": 58,
+          "convocadosSegundaFase": 58,
+          "convocadosPorVaga": 3.41,
+          "notaCorte": 60
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 11,
+          "inscritos": 140,
+          "ausentes": 25,
+          "convocadosSegundaFase": 43,
+          "convocadosPorVaga": 3.91,
+          "notaCorte": 49
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 7,
+          "inscritos": 60,
+          "ausentes": 16,
+          "convocadosSegundaFase": 42,
+          "convocadosPorVaga": 6,
+          "notaCorte": 27
+        }
+      ]
+    },
+    {
+      "nome": "Treinamento E (Exatas)",
+      "modalidades": [
+        {
+          "nomeModalidade": "Ampla Concorrência",
+          "vagas": 100,
+          "inscritos": 2712,
+          "ausentes": 261,
+          "convocadosSegundaFase": 437,
+          "convocadosPorVaga": 4.37,
+          "notaCorte": 63
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública",
+          "vagas": 63,
+          "inscritos": 203,
+          "ausentes": 19,
+          "convocadosSegundaFase": 172,
+          "convocadosPorVaga": 2.73,
+          "notaCorte": 27
+        },
+        {
+          "nomeModalidade": "Candidatos de Escola Pública – Grupo PPI",
+          "vagas": 37,
+          "inscritos": 39,
+          "ausentes": 5,
+          "convocadosSegundaFase": 29,
+          "convocadosPorVaga": 0.78,
+          "notaCorte": 27
+        }
+      ]
+    }
+  ]
+}

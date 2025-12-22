@@ -1,0 +1,804 @@
+{
+  "nomeUniversidade": "Universidade Federal do Paraná",
+  "siglaUniversidade": "UFPR",
+  "nomeProva": "Processo Seletivo",
+  "ano": 2024,
+  "qtdeQuestoes": 90,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Beatriz estava na escadaria de seu prédio, que tem 32 degraus, numerados conforme a figura ao lado. Ela, primeiramente, desceu 6 degraus e depois subiu 12 degraus, percebendo que ainda faltavam 5 degraus para chegar no topo da escadaria. Em que degrau ela estava inicialmente?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10"
+        },
+        {
+          "letra": "B",
+          "texto": "12"
+        },
+        {
+          "letra": "C",
+          "texto": "17"
+        },
+        {
+          "letra": "D",
+          "texto": "21"
+        },
+        {
+          "letra": "E",
+          "texto": "27"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Aritmética Básica"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Ana quer descobrir a senha do celular de seu irmão Carlos, a qual é formada por uma sequência de quatro dígitos numéricos dentre 0, 1, 2, 3, 4, 5, 6, 7, 8 e 9. Ela sabe que o irmão sempre usa, em suas senhas, os três dígitos de sua residência: 4, 6 e 8. Recentemente, ela descobriu que o número formado pela senha é ímpar. De acordo com essas informações, quantas possibilidades Ana deve considerar para descobrir a senha de Carlos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8"
+        },
+        {
+          "letra": "B",
+          "texto": "11"
+        },
+        {
+          "letra": "C",
+          "texto": "15"
+        },
+        {
+          "letra": "D",
+          "texto": "24"
+        },
+        {
+          "letra": "E",
+          "texto": "30"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Duas retas no plano se intersectam no ponto P, formando um ângulo reto. Além disso, essas retas são tangentes a uma circunferência nos pontos Q e R, conforme ilustra a figura ao lado. Sabendo que o perímetro da região hachurada mede $(2\\pi + 8) cm$, assinale a alternativa que corresponde à medida do raio da circunferência em cm.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "3"
+        },
+        {
+          "letra": "C",
+          "texto": "4"
+        },
+        {
+          "letra": "D",
+          "texto": "5"
+        },
+        {
+          "letra": "E",
+          "texto": "6"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Circunferência"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Sejam $p(x) = x + a$ e $q(x) = x^2 - b$ funções, com $a$ e $b$ números reais. Sabendo que $r = \\frac{1}{2}$ é a única raiz da função composta $f(x) = q(p(x))$, assinale a alternativa que corresponde à soma $a + b$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-2"
+        },
+        {
+          "letra": "B",
+          "texto": "-1"
+        },
+        {
+          "letra": "C",
+          "texto": "$-\\frac{1}{2}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{1}{2}$"
+        },
+        {
+          "letra": "E",
+          "texto": "2"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Funções Compostas"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Sabendo que $\\sin(2x) = 3/5$, assinale a alternativa que corresponde ao valor de $[\\sin(x) + \\cos(x)]^2$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,8"
+        },
+        {
+          "letra": "B",
+          "texto": "1,0"
+        },
+        {
+          "letra": "C",
+          "texto": "1,2"
+        },
+        {
+          "letra": "D",
+          "texto": "1,4"
+        },
+        {
+          "letra": "E",
+          "texto": "1,6"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Trigonometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Considere a função $f(x) = -x^2 + 6x - 8$. No plano cartesiano, sejam P e Q as intersecções do gráfico de $f$ com o eixo x. Sendo $R = (a, b)$ um ponto do gráfico de $f$, com $b > 0$, assinale a alternativa que corresponde ao maior valor numérico possível da área do triângulo PQR.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        },
+        {
+          "letra": "E",
+          "texto": "6"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Funções do 2º Grau",
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "A circunferência C na figura ao lado está centrada no ponto $A = (1, 1)$ e tangencia os eixos coordenados. A reta r passa pela origem O e pelo ponto A, intersectando a circunferência no ponto P, conforme indica a figura. A reta s é tangente à circunferência no ponto P e intersecta o eixo x no ponto Q. Assinale a alternativa que corresponde à abcissa do ponto Q.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2\\sqrt{2}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$3\\sqrt{2}-1$"
+        },
+        {
+          "letra": "C",
+          "texto": "$1+2\\sqrt{2}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$4\\sqrt{2}-2$"
+        },
+        {
+          "letra": "E",
+          "texto": "$2+\\sqrt{2}$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Um bolo é retirado do forno e começa a resfriar segundo a expressão $T(t) = 30 + 150a^{-0,05 t}$, com $a > 1$, sendo T a temperatura do bolo e t o tempo decorrido em minutos. Assinale a alternativa que corresponde ao tempo em que o bolo atingirá a metade da temperatura inicial que apresentava quando foi retirado do forno em $t = 0$. (Use se necessário $\\log_a 2 = 0,7$ e $\\log_a 5 = 1,6$).",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10 minutos"
+        },
+        {
+          "letra": "B",
+          "texto": "12 minutos"
+        },
+        {
+          "letra": "C",
+          "texto": "16 minutos"
+        },
+        {
+          "letra": "D",
+          "texto": "18 minutos"
+        },
+        {
+          "letra": "E",
+          "texto": "22 minutos"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Funções Exponenciais",
+        "Matemática – Logaritmos"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Um cone circular reto S é dividido por dois planos paralelos à sua base, formando três sólidos $S_1$, $S_2$ e $S_3$, conforme a figura ao lado. Os volumes de $S_1$, $S_2$ e $S_3$, nessa ordem, estão em progressão geométrica com razão $q > 1$. O quociente entre o raio do cone S e o raio do cone menor $S_1$ é igual a $\\sqrt{7}$. Assinale a alternativa que corresponde à razão q.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "3"
+        },
+        {
+          "letra": "C",
+          "texto": "4"
+        },
+        {
+          "letra": "D",
+          "texto": "5"
+        },
+        {
+          "letra": "E",
+          "texto": "7"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Espacial",
+        "Matemática – Progressão Geométrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "O texto a seguir é referência para as questões 10 a 18.\n\nEm todas as questões, as medições são feitas por um referencial inercial. O módulo da aceleração gravitacional é representado por g. Onde for necessário, use $g = 10 \\text{ m/s}^2$ para o módulo da aceleração gravitacional.\n\nCapacitores são elementos de circuito que podem armazenar energia quando submetidos a uma diferença de potencial. Num dado circuito, deseja-se que um capacitor de capacitância C armazene uma energia $U = 8,0 \\text{ mJ}$ quando submetido a uma diferença de potencial $\\Delta V = 4,0 \\text{ V}$ entre seus terminais. Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente o valor da capacitância C desse capacitor.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$C = 0,5 \\text{ mF}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$C = 1,0 \\text{ mF}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$C = 2,0 \\text{ mF}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$C = 4,0 \\text{ mF}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$C = 8,0 \\text{ mF}$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Eletrodinâmica",
+        "Física – Capacitores"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "A medição de grandezas físicas envolve o uso de unidades que sejam apropriadas a essas grandezas. Uma dada grandeza pode ser descrita por mais de uma unidade, de acordo com a situação envolvendo essa grandeza. Considerando essas informações, assinale a alternativa que apresenta corretamente uma unidade utilizada para medidas de tempo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "m (metro)"
+        },
+        {
+          "letra": "B",
+          "texto": "N (newton)"
+        },
+        {
+          "letra": "C",
+          "texto": "s (segundo)"
+        },
+        {
+          "letra": "D",
+          "texto": "V (volt)"
+        },
+        {
+          "letra": "E",
+          "texto": "K (kelvin)"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Grandezas e Unidades"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Um dado objeto, de massa m constante, descreve uma curva circular de raio $R_1$ com uma velocidade tangencial de intensidade constante $v_1$. Para fazer isso, ele necessita de uma força centrípeta de intensidade $F_1$. O mesmo objeto é colocado agora numa outra curva circular, de raio $R_2$, com velocidade tangencial de intensidade constante $v_2$, e necessita agora de uma força centrípeta de intensidade $F_2$ para executar o movimento. Considerando que $v_2 = 2v_1$ e que $R_2 = 2R_1$, assinale a alternativa que apresenta corretamente o valor da razão $F_2/F_1$ entre as intensidades das forças centrípetas necessárias para a execução dos movimentos.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{F_2}{F_1} = \\frac{1}{2}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{F_2}{F_1} = 1$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{F_2}{F_1} = 2$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{F_2}{F_1} = 4$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{F_2}{F_1} = \\frac{1}{4}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Dinâmica",
+        "Física – Movimento Circular"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Deseja-se produzir uma onda sonora num dado meio onde a velocidade do som vale $v = 350 \\text{ m/s}$. A frequência $f$ dessa onda sonora deve ser $f = 50 \\text{ kHz}$. Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente o valor do comprimento de onda $\\lambda$ dessa onda.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\lambda = 7 \\text{ m}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\lambda = 175 \\text{ m}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\lambda = 175 \\text{ mm}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\lambda = 7 \\text{ mm}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\lambda = 7 \\text{ km}$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Ondulatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Um dado objeto de massa constante $m = 300 \\text{ g}$ está a uma temperatura $T_0 = 30 \\text{ °C}$. Seu calor específico vale $c = 0,4 \\text{ J/g.°C}$. Esse objeto passa por um processo termodinâmico que retira uma dada quantidade de calor Q, de modo que o objeto chega à temperatura $T = 10 \\text{ °C}$ sem sofrer mudanças de estado físico. Em todo esse processo, seu calor específico é considerado constante. Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente o valor da quantidade de calor Q retirada do objeto durante o processo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$Q = 0,24 \\text{ kJ}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$Q = 1,2 \\text{ kJ}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$Q = 2,4 \\text{ kJ}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$Q = 12 \\text{ kJ}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$Q = 24 \\text{ kJ}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Calorimetria"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Uma partícula contendo uma carga $Q = 1,6 \\times 10^{-19} \\text{ C}$ entra numa região onde há um campo magnético de intensidade $B = 1,0 \\text{ T}$ com uma velocidade de módulo v. Sobre ela, passa a agir uma força magnética de intensidade $F = 3,2 \\times 10^{-16} \\text{ N}$. O ângulo entre os vetores velocidade e campo magnético vale $\\theta$, e sabe-se que $\\cos \\theta = \\frac{1}{2}$ e $\\sin \\theta = \\frac{\\sqrt{3}}{2}$. Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente o valor do módulo v da velocidade da partícula.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$v = \\frac{4\\sqrt{3}}{3} \\times 10^3 \\text{ m/s}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$v = 4,0 \\times 10^3 \\text{ m/s}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$v = 2,0 \\times 10^3 \\text{ m/s}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$v = 2\\sqrt{3} \\times 10^3 \\text{ m/s}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$v = 1,0 \\times 10^3 \\text{ m/s}$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Eletromagnetismo",
+        "Física – Força Magnética"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Uma plataforma plana horizontal tem uma área A. Sobre ela, é colocado um objeto de massa m constante, que fica estático no local, sujeito apenas à força gravitacional e à força exercida pela plataforma. As forças envolvidas no problema são todas orientadas perpendicularmente à plataforma. O objeto exerce uma pressão de valor $P = 2,0 \\times 10^4 \\text{ Pa}$ sobre a plataforma, e a massa do objeto vale $m = 600 \\text{ g}$. Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente o valor da área A da plataforma.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$A = 3,0 \\times 10^{-4} \\text{ m}^2$"
+        },
+        {
+          "letra": "B",
+          "texto": "$A = 6,0 \\times 10^{-4} \\text{ m}^2$"
+        },
+        {
+          "letra": "C",
+          "texto": "$A = 3,0 \\times 10^{-5} \\text{ m}^2$"
+        },
+        {
+          "letra": "D",
+          "texto": "$A = 6,0 \\times 10^{-5} \\text{ m}^2$"
+        },
+        {
+          "letra": "E",
+          "texto": "$A = 3,0 \\times 10^{-6} \\text{ m}^2$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Estática",
+        "Física – Pressão"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Uma certa massa de gás ideal está num estado termodinâmico em que a pressão vale $P_0$, o volume vale $V_0$, e a temperatura vale $T_0$. Essa massa de gás sofre um processo termodinâmico, e o volume passa a ser V, a pressão passa a ser P, e a temperatura passa a ser T. Sabe-se que $P = 4P_0$ e $T = 2T_0$. Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente o valor do volume V em função do volume $V_0$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$V = V_0$"
+        },
+        {
+          "letra": "B",
+          "texto": "$V = \\frac{V_0}{4}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$V = 4V_0$"
+        },
+        {
+          "letra": "D",
+          "texto": "$V = 2V_0$"
+        },
+        {
+          "letra": "E",
+          "texto": "$V = \\frac{V_0}{2}$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Termodinâmica",
+        "Física – Gases Ideais"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Um objeto de massa m constante move-se num movimento retilíneo uniformemente variado unidimensional descrito pela equação $x = -3 + 5t + 2t^2$, em que x é a posição do objeto, medida em quilômetros, e t é o tempo, medido em horas. Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente o valor da aceleração a do objeto nesse movimento.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$a = 1 \\text{ km/h}^2$"
+        },
+        {
+          "letra": "B",
+          "texto": "$a = -3 \\text{ km/h}^2$"
+        },
+        {
+          "letra": "C",
+          "texto": "$a = 2 \\text{ km/h}^2$"
+        },
+        {
+          "letra": "D",
+          "texto": "$a = 5 \\text{ km/h}^2$"
+        },
+        {
+          "letra": "E",
+          "texto": "$a = 4 \\text{ km/h}^2$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Cinemática",
+        "Física – Movimento Uniformemente Variado"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "O Transtorno de Déficit de Atenção e Hiperatividade (TDAH) se caracteriza pela combinação de sintomas de desatenção e hiperatividade-impulsividade, de acordo com a Associação Brasileira do Déficit de Atenção (ABDA). Esse tipo de transtorno tem tratamento multimodal relacionado à combinação de mais de um tipo de intervenção. Um dos medicamentos associados a esse tratamento é o metilfenidato, princípio ativo que tem a estrutura química apresentada na figura ao lado.\n\nConsiderando a estrutura química apresentada, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A ligação C=O é apolar."
+        },
+        {
+          "letra": "B",
+          "texto": "A molécula possui dois anéis aromáticos."
+        },
+        {
+          "letra": "C",
+          "texto": "A molécula possui carbonos com hibridização $sp^3$, $sp^2$ e $sp$."
+        },
+        {
+          "letra": "D",
+          "texto": "A molécula possui função orgânica derivada de ácido carboxílico."
+        },
+        {
+          "letra": "E",
+          "texto": "A amina presente na estrutura é classificada como amina primária."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Química Orgânica",
+        "Química – Funções Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "A creatina é um composto produzido a partir de alguns aminoácidos (glicina, arginina, metionina) e é um suplemento recomendado para o aumento da força e da massa muscular. Sua estrutura química é apresentada a seguir:\n\nEm pH = 11,0, qual átomo estará carregado negativamente, formando uma espécie química iônica?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O oxigênio do destaque “y”."
+        },
+        {
+          "letra": "B",
+          "texto": "O oxigênio do destaque “z”."
+        },
+        {
+          "letra": "C",
+          "texto": "O nitrogênio do destaque “x”."
+        },
+        {
+          "letra": "D",
+          "texto": "O nitrogênio do destaque “w”."
+        },
+        {
+          "letra": "E",
+          "texto": "O nitrogênio do destaque “k”."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Equilíbrio Químico",
+        "Química – pH e pOH"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Considere o seguinte cordel:\n\nA química orgânica e as características do carbono\n\nComeçou com a síntese da Ureia,\nA Química Orgânica que conhecemos;\nCom alguns grupos funcionais,\nE as propriedades que sabemos,\nE seu grande brilhantismo,\nVoltando-se para a pesquisa científica\nQue, independentemente do organismo,\nDescreveu um resultado inesperado,\nContrariando a teoria do Vitalismo.\n(...)\n\nCompostos que ficaram conhecidos\nComo isômeros, para explicar\nO fenômeno isomeria é que dois\nOu mais compostos venham apresentar.\nDiferente fórmula estrutural\nE mesma fórmula molecular\n\nSOUSA, Mario Marques de. A Literatura de Cordel no Ensino de Química: uma Proposta Didática. In: Anais do 20º Encontro Nacional de Ensino de Química (ENEQ Pernambuco). Anais... Recife (PE) UFRPE/UFPE, 2020. Disponível em: http//www.even3.com.br/anais/ENEQPE2020.\n\nSabendo que a isomeria abrange boa parte dos estudos relacionados à Química Orgânica, assinale a alternativa que apresenta uma característica atribuída aos isômeros.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os isômeros ópticos podem ser diferenciados pelo desvio da luz polarizada."
+        },
+        {
+          "letra": "B",
+          "texto": "Os isômeros E podem ser convertidos em Z, mas a reação inversa não é possível."
+        },
+        {
+          "letra": "C",
+          "texto": "Os isômeros, quando submetidos às mesmas condições reacionais, formam produtos que são isômeros entre si."
+        },
+        {
+          "letra": "D",
+          "texto": "Os isômeros devem ter a mesma fórmula molecular e as mesmas funções orgânicas para terem esta classificação."
+        },
+        {
+          "letra": "E",
+          "texto": "Os isômeros R e S são nomenclaturas atribuídas aos compostos na isomeria espacial, designando diferenciação entre posições das duplas ligações."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Isomeria Óptica"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "O texto a seguir é referência para as questões 22 a 24.\n\nO monofluorfosfato de sódio (Na2PO3F) é adicionado a cremes dentais para prevenção da cárie. A hidroxiapatita (Ca5(PO4)3OH) do esmalte do dente é solubilizada pelos ácidos produzidos pelas bactérias da boca, o que enfraquece o esmalte. Na presença do ânion monofluorfosfato (PO3F2-), parte da hidroxiapatita converte-se em fluorapatita (Ca5(PO4)3F), que, por ser menos solúvel em meio ácido, torna o dente mais resistente à cárie.\n\nSegundo o texto, o ânion monofluorfosfato aumenta a resistência do esmalte contra a cárie devido à reação representada pela equação química:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\text{Ca}_5(\\text{PO}_4)_3\\text{OH(s)} + \\text{PO}_3\\text{F}^{2-}(\\text{aq}) \\rightarrow \\text{Ca}_5(\\text{PO}_4)_3\\text{F(s)} + \\text{HPO}_4^{2-}(\\text{aq})$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\text{Ca}_5(\\text{PO}_4)_3^{+}(\\text{aq}) + 5 \\text{PO}_3\\text{F}^{2-}(\\text{aq}) \\rightarrow 5 \\text{Ca}(\\text{PO}_3\\text{F})(\\text{s}) + 3 \\text{PO}_4^{3-}(\\text{aq})$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\text{Ca}_5(\\text{PO}_4)_3^{+}(\\text{aq}) + \\text{PO}_3\\text{F}^{2-}(\\text{aq}) + \\text{H}_2\\text{O(l)} \\rightarrow \\text{Ca}_5(\\text{PO}_4)_3\\text{OH(s)} + \\text{HPO}_3\\text{F}^{-}(\\text{aq})$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\text{Ca}_5(\\text{PO}_4)_3^{+}(\\text{aq}) + \\text{PO}_3\\text{F}^{2-}(\\text{aq}) + \\text{H}_2\\text{O(l)} \\rightarrow \\text{Ca}_5(\\text{PO}_4)_3(\\text{HPO}_3\\text{F})(\\text{s}) + \\text{OH}^{-}(\\text{aq})$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\text{Ca}_5(\\text{PO}_4)_3\\text{OH(s)} + \\text{PO}_3\\text{F}^{2-}(\\text{aq}) + \\text{H}_2\\text{O(l)} \\rightarrow \\text{Ca}_5(\\text{PO}_4)_3(\\text{HPO}_3\\text{F})(\\text{s}) + 2 \\text{OH}^{-}(\\text{aq})$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Reações Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "A figura abaixo é a estrutura de Lewis que representa o ânion monofluorfosfato. Os números atômicos são: Z(F) = 9, Z(O) = 8 e Z(P) = 15.\n\nAo se calcular as cargas formais de cada átomo na estrutura apresentada, conclui-se que são nulas, com exceção dos átomos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$O_A$ e $O_B$, com carga -1 cada."
+        },
+        {
+          "letra": "B",
+          "texto": "$O_A$ e $O_C$, com carga -1 cada."
+        },
+        {
+          "letra": "C",
+          "texto": "$O_A$ e F, com carga -1 cada."
+        },
+        {
+          "letra": "D",
+          "texto": "$O_B$ e F, com carga -1 cada."
+        },
+        {
+          "letra": "E",
+          "texto": "$O_B$ e P, com carga -1 cada."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Ligações Químicas",
+        "Química – Estrutura de Lewis"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Para se produzir monofluorfosfato de sódio, neutralizou-se o ácido monofluorfosfórico com hidróxido de sódio segundo a reação a seguir:\n\n$$ \\text{H}_2\\text{PO}_3\\text{F(aq)} + 2\\text{NaOH(aq)} \\rightarrow \\text{Na}_2\\text{PO}_3\\text{F(aq)} + 2\\text{H}_2\\text{O(l)} $$\n\nAdicionou-se uma solução de NaOH $0,14 \\text{ mol L}^{-1}$ ao ácido até ser obtido $0,28 \\text{ mol}$ de $\\text{Na}_2\\text{PO}_3\\text{F}$. Qual foi o volume da solução de NaOH adicionado?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4 L"
+        },
+        {
+          "letra": "B",
+          "texto": "2 L"
+        },
+        {
+          "letra": "C",
+          "texto": "1 L"
+        },
+        {
+          "letra": "D",
+          "texto": "0,5 L"
+        },
+        {
+          "letra": "E",
+          "texto": "0,25 L"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Soluções",
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Recentemente, pesquisadores identificaram dois minerais, nunca antes vistos na natureza, presentes num meteorito que caiu na Somália em 2020. Os compostos puderam ser identificados pois já haviam sido sinteticamente produzidos na década de 1980. Um dos minerais tem em sua composição unidades do tipo (i) $\\text{Fe}_3(\\text{PO}_4)_2$ e (ii) FeO. Assinale a alternativa que apresenta as funções inorgânicas às quais pertencem as espécies (i) e (ii) mencionadas no texto, respectivamente.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Sal e sal."
+        },
+        {
+          "letra": "B",
+          "texto": "Base e sal."
+        },
+        {
+          "letra": "C",
+          "texto": "Sal e óxido."
+        },
+        {
+          "letra": "D",
+          "texto": "Óxido e base."
+        },
+        {
+          "letra": "E",
+          "texto": "Óxido e óxido."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Funções Inorgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Investigações da Polícia Federal revelaram que garimpeiros usaram cianeto para extrair ouro em um garimpo ilegal em terras da União. O íon cianeto possui elevada toxicidade e, se despejado no ambiente, é devastador, podendo levar à morte todos os seres vivos num raio de quilômetros. O cianeto de sódio é utilizado para dissolver ouro incrustado em minérios, num processo com eficiência próxima a 100%, segundo a equação:\n\n$4 \\text{Au(minério)} + 8 \\text{NaCN(aq)} + \\text{O}_2(\\text{g}) + 2\\text{H}_2\\text{O(l)} \\rightarrow 4 \\text{Na[Au(CN)}_2\\text{](aq)} + 4 \\text{NaOH(aq)}$\n\nA espécie química solúvel $[\\text{Au(CN)}_2]^-$ é posteriormente imobilizada sobre carvão ativado, e o ouro é recuperado por redução eletroquímica:\n\n$[\\text{Au(CN)}_2]^-(\\text{aq}) + e^- \\rightarrow \\text{Au(s)} + 2\\text{CN}^-(\\text{aq})$\n\nDados: Massa molar (g mol$^{-1}$): Au = 197, NaCN = 49.\n\nConsiderando a estequiometria das reações, qual é a massa de ouro que se espera extrair, utilizando-se 1 kg de cianeto de sódio?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,25 kg"
+        },
+        {
+          "letra": "B",
+          "texto": "0,50 kg"
+        },
+        {
+          "letra": "C",
+          "texto": "1,0 kg"
+        },
+        {
+          "letra": "D",
+          "texto": "2,0 kg"
+        },
+        {
+          "letra": "E",
+          "texto": "4,0 kg"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Estequiometria",
+        "Química – Reações de Oxirredução"
+      ]
+    }
+  ]
+}

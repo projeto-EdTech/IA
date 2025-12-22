@@ -1,0 +1,4558 @@
+{
+  "nomeUniversidade": "FATEC - CENTRO ESTADUALDE EDUCAÇÃO TECNOLÓGICA",
+  "siglaUniversidade": "FATEC",
+  "nomeVestibular": "RELAÇÃO CANDIDATOS/VAGA",
+  "ano": 2025,
+  "cursos": [
+    {
+      "nomeCurso": "CIÊNCIA DE DADOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 21,
+      "inscritos": 74,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.52,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO COMERCIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 21,
+      "inscritos": 71,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.38,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "1º AO 4º VESPERTINO/ 5° E 6° NOTURNO",
+      "vagas": 34,
+      "inscritos": 201,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 5.91,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 201,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 5.91,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESIGN DE MODA",
+      "modalidadeConcorrencia": "1º AO 4º MATUTINO / 5° E 6° NOTURNO",
+      "vagas": 34,
+      "inscritos": 74,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.18,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 211,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 5.28,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 50,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.08,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 155,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.56,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "JOGOS DIGITAIS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 77,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.26,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 37,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.54,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 89,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.62,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "PRODUÇÃO TEXTIL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 79,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.29,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "SEGURANÇA DA INFORMAÇÃO",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 55,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.29,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "SEGURANÇA DA INFORMAÇÃO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 239,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 7.03,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 96,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.82,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "BIOCOMBUSTÍVEIS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 62,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.58,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 88,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.2,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 257,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 7.56,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO COMERCIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 65,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.91,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA PRODUÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 40,
+      "inscritos": 82,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.05,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 39,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.15,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "SEGURANÇA DA INFORMAÇÃO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 166,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.88,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 98,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.88,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 54,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.25,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO COMERCIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 63,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.63,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA TECNOLOGIA DA INFORMAÇÃO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 136,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 30,
+      "inscritos": 85,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.83,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "1º AO 4° MATUTINO / 5° E 6° NOTURNO",
+      "vagas": 34,
+      "inscritos": 255,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 7.5,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 472,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 13.88,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "CIÊNCIA DE DADOS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 114,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.35,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE RECURSOS HUMANOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 147,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.32,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 147,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.68,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 81,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.38,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO PORTUÁRIA",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 89,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.62,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO PORTUÁRIA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 251,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 7.38,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 67,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.79,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 207,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 6.09,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "SISTEMAS PARA INTERNET",
+      "modalidadeConcorrencia": "1º AO 4º MATUTINO / 5° E 6° NOTURNO",
+      "vagas": 34,
+      "inscritos": 81,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.38,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO HOSPITALAR",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 62,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.58,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "COMÉRCIO EXTERIOR",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 218,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 6.41,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "COMÉRCIO EXTERIOR",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 24,
+      "inscritos": 52,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.17,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESIGN DE MÍDIAS DIGITAIS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 221,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 6.5,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "EVENTOS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 39,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.63,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA TECNOLOGIA DA INFORMAÇÃO",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 168,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.94,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE COMÉRCIO ELETRÔNICO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 41,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.71,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE NEGÓCIOS E PESSOAS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 59,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.46,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE RECURSOS HUMANOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 255,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 7.5,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 252,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 6.3,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "TRANSPORTE TERRESTRE",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 44,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.83,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "AUTOMAÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 102,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "BANCO DE DADOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 205,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 6.03,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 150,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.75,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO HOSPITALAR",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 52,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.17,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "REDES DE COMPUTADORES",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 61,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.54,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "SISTEMAS BIOMÉDICOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 60,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.5,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "BIG DATA NO AGRONEGÓCIO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 42,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.75,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 41,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.71,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "AGRONEGÓCIO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 56,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.65,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 60,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.76,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 164,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.82,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 90,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.25,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 49,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.04,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "PRODUÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 70,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.06,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "RADIOLOGIA (PRÁTICAS LABORATORIAIS A PARTIR DO 4° SEMESTRE DIURNO)",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 74,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.08,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 111,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.26,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA TECNOLOGIA DA INFORMAÇÃO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 118,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.47,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 110,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.75,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 39,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.63,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO FINANCEIRA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 52,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.17,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 72,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 281,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 8.26,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 24,
+      "inscritos": 83,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.46,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA TECNOLOGIA DA INFORMAÇÃO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 221,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 6.5,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE ENERGIA E EFICIÊNCIA ENERGÉTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 61,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.79,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 48,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 79,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.32,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "PROCESSOS QUÍMICOS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 61,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.79,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "PROCESSOS QUÍMICOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 102,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "AGROINDÚSTRIA",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 36,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.5,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 54,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.35,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO AMBIENTAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 70,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.92,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 538,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 15.82,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 638,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 18.76,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 174,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.35,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 66,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.75,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "JOGOS DIGITAIS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 73,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.04,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 39,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.63,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 85,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.5,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MARKETING",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 20,
+      "inscritos": 39,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.95,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA TECNOLOGIA DA INFORMAÇÃO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 171,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 5.03,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 78,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.25,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 183,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 5.38,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 178,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 5.24,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA PRODUÇÃO INDUSTRIAL E SERVIÇOS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 134,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.94,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 20,
+      "inscritos": 39,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.95,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 60,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.5,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "JOGOS DIGITAIS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 51,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.13,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "COMÉRCIO EXTERIOR",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 53,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.21,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "COMÉRCIO EXTERIOR",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 39,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.63,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESIGN DE PRODUTO",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 70,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.92,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 39,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.63,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA PRODUÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 46,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.92,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 79,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.98,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 40,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.67,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 80,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.33,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 101,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.97,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "RECURSOS HÍDRICOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 47,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.96,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 57,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.38,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "1º AO 4° NOTURNO/ 5° E 6° DIURNO",
+      "vagas": 24,
+      "inscritos": 65,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.71,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 120,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.53,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 123,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.62,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "COMÉRCIO EXTERIOR",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 35,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.46,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE RECURSOS HUMANOS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 113,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.32,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 143,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.58,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 136,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA TECNOLOGIA DA INFORMAÇÃO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 188,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 5.53,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 135,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.97,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 48,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 138,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.06,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 46,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.15,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 53,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.21,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 79,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.29,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "1º AO 3° VESPERTINO",
+      "vagas": 34,
+      "inscritos": 121,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.56,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESIGN DE MÍDIAS DIGITAIS",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 24,
+      "inscritos": 65,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.71,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE ENERGIA E EFICIÊNCIA ENERGÉTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 56,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.33,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA TECNOLOGIA DA INFORMAÇÃO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 120,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.53,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 100,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.5,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 92,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.71,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO LOGÍSTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 120,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.53,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA PRODUÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "1º AO 4º VESPERTINO/ 5° E 6° NOTURNO",
+      "vagas": 24,
+      "inscritos": 77,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.21,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 143,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.21,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 77,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.21,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 107,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.15,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 109,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.21,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE SERVIÇOS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 38,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.58,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 57,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.38,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE RECURSOS HUMANOS",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 24,
+      "inscritos": 52,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.17,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 77,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.21,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 34,
+      "inscritos": 128,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.76,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "EVENTOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 43,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.79,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 52,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.17,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE RECURSOS HUMANOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 167,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.91,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 105,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.09,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "AGRONEGÓCIO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 96,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.82,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 73,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.04,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 227,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 6.68,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "COMÉRCIO EXTERIOR",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 50,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.08,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "COMÉRCIO EXTERIOR",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 78,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.25,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO AMBIENTAL",
+      "modalidadeConcorrencia": "1º AO 4º MATUTINO/ 5° E 6° NOTURNO",
+      "vagas": 24,
+      "inscritos": 45,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.88,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA PRODUÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 67,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.79,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 142,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.55,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA QUALIDADE",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 30,
+      "inscritos": 144,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.8,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 68,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.83,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA PRODUÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 39,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.63,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 46,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.92,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO COMERCIAL",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 36,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.5,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO COMERCIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 101,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.97,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA TECNOLOGIA DA INFORMAÇÃO",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 130,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.82,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE COMÉRCIO ELETRÔNICO",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 20,
+      "inscritos": 3,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 0.15,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 178,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.45,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "SECRETARIADO",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 20,
+      "inscritos": 12,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 0.6,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "SECRETARIADO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 44,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.83,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "AUTOMAÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 250,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 7.35,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "AUTOMAÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 24,
+      "inscritos": 48,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 34,
+      "inscritos": 144,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.24,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "FABRICAÇÃO MECÂNICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 60,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.5,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MANUTENÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 43,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.79,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MECÂNICA - PROCESSOS DE SOLDAGEM",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 20,
+      "inscritos": 29,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.45,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MECÂNICA - PROCESSOS DE SOLDAGEM",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 55,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.29,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "REFRIGERAÇÃO, VENTILAÇÃO E AR CONDICIONADO",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 20,
+      "inscritos": 44,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.2,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "REFRIGERAÇÃO, VENTILAção E AR CONDICIONADO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 112,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.29,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "1º AO 4° MATUTINO/ 5° E 6° NOTURNO",
+      "vagas": 40,
+      "inscritos": 32,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 0.8,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 24,
+      "inscritos": 21,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 0.88,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA PRODUÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 55,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.29,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 20,
+      "inscritos": 16,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 0.8,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "1º AO 4º MATUTINO/ 5° E 6° NOTURNO",
+      "vagas": 34,
+      "inscritos": 133,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.91,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "EVENTOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 20,
+      "inscritos": 32,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.6,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA TECNOLOGIA DA INFORMAÇÃO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 108,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.18,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 113,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.83,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 85,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.5,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MECATRÔNICA INDUSTRIAL",
+      "modalidadeConcorrencia": "1º AO 4° MATUTINO/ 5° E 6° NOTURNO",
+      "vagas": 24,
+      "inscritos": 35,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.46,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "BIOCOMBUSTÍVEIS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 40,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.67,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "BIOCOMBUSTÍVEIS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 47,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.96,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO AMBIENTAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 39,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.63,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 73,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.83,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MARKETING",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 20,
+      "inscritos": 36,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.8,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 183,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 5.38,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GEOPROCESSAMENTO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 39,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.63,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MEΙΟ AMBIENTE E RECURSOS HÍDRICOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 63,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.85,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "CONSTRUÇÃO NAVAL",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 20,
+      "inscritos": 38,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.9,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 105,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.09,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA PRODUÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 60,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.5,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA TECNOLOGIA DA INFORMAÇÃO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 129,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.79,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 75,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.88,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 53,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.21,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ΜΕΙΟ AMBIENTE E RECURSOS HÍDRICOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 40,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.67,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "SISTEMAS NAVAIS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 20,
+      "inscritos": 40,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "AGRONEGÓCIO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 44,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.83,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 84,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.5,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 60,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.5,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 69,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.88,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "SISTEMAS PARA INTERNET",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 111,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.26,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "1º AO 4º VESPERTINO/5° E 6° NOTURNO",
+      "vagas": 34,
+      "inscritos": 260,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 7.65,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "CIÊNCIA DE DADOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 206,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 6.06,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DEFESA CIBERNÉTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 165,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.85,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "EVENTOS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 52,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.17,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO AMBIENTAL",
+      "modalidadeConcorrencia": "1º AO 4º VESPERTINO/ 5° E 6° NOTURNO",
+      "vagas": 24,
+      "inscritos": 67,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.79,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA TECNOLOGIA DA INFORMAÇÃO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 149,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.38,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE LOGÍSTICA INTEGRADA",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 62,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.58,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE LOGISTICA INTEGRADA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 110,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.24,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 232,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 5.8,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "SISTEMAS EMBARCADOS",
+      "modalidadeConcorrencia": "1º AO 4º MATUTINO/ 5° E 6° NOTURNO",
+      "vagas": 24,
+      "inscritos": 56,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.33,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 140,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.12,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA QUALIDADE",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 64,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.67,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE NEGÓCIOS E INOVAÇÃO",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 61,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.54,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 53,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.33,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 74,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.18,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "SISTEMAS PARA INTERNET",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 55,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.29,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ALIMENTOS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 51,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.13,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ALIMENTOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 74,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.08,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 72,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO COMERCIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 53,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.21,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 84,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.1,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE DE PROCESSOS AGROINDUSTRIAIS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 96,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.82,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 77,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.26,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 282,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 8.29,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "FABRICAÇÃO MECÂNICA",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 35,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.46,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "FABRICAÇÃO MECÂNICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 97,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.85,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 151,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.78,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "INFORMÁTICA PARA NEGÓCIOS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 42,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.75,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "INFORMÁTICA PARA NEGÓCIOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 105,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.09,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 39,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.63,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 120,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.53,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "POLÍMEROS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 42,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.24,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "AGRONEGÓCIO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 44,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.83,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 109,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.21,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 57,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.43,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "SISTEMAS PARA INTERNET",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 20,
+      "inscritos": 31,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.55,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "1º AO 4º VESPERTINO/ 5° E 6° NOTURNO",
+      "vagas": 34,
+      "inscritos": 38,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.12,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 178,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.45,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "RECURSOS HÍDRICOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 52,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.17,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 101,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.21,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 120,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.53,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 298,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 8.76,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "AUTOMAÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 74,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.08,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MECATRÔNICA INDUSTRIAL",
+      "modalidadeConcorrencia": "1º AO 4º VESPERTINO/ 5° E 6° NOTURNO",
+      "vagas": 34,
+      "inscritos": 79,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.32,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "AUTOMAÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 64,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.67,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "AUTOMAÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 73,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.04,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 30,
+      "inscritos": 250,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 8.33,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "FABRICAÇÃO MECÂNICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 74,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.08,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 123,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.08,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MANUTENÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 24,
+      "inscritos": 50,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.08,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MANUTENÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 74,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.08,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "PROJETOS MECÂNICOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 69,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.88,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "REDES DE COMPUTADORES",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 85,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.54,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "SISTEMAS PARA INTERNET",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 92,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.71,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "AGRONEGÓCIO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 82,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.41,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 103,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.03,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 24,
+      "inscritos": 58,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.42,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 105,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.63,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "JOGOS DIGITAIS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 44,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.83,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 79,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.32,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "SEGURANÇA DA INFORMAÇÃO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 114,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.35,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE NEGÓCIOS E INOVAÇÃO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 70,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.92,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 74,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.85,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "PROCESSOS METALÚRGICOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 65,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.71,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MECÂNICA DE PRECISÃO",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 20,
+      "inscritos": 26,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.3,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "BIOCOMBUSTÍVEIS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 46,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.92,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 105,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.63,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 135,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.97,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MECANIZAÇÃO EM AGRICULTURA DE PRECISÃO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 193,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 5.68,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 169,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.97,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 40,
+      "inscritos": 72,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.8,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "1º AO 4º VESPERTINO/ 5° E 6° NOTURNO",
+      "vagas": 34,
+      "inscritos": 138,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.06,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 434,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 12.76,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE RECURSOS HUMANOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 140,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 5.83,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "COMÉRCIO EXTERIOR",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 202,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 5.94,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 34,
+      "inscritos": 135,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.97,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 40,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "PROCESSOS QUÍMICOS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 43,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.79,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 90,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.65,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "AGRONEGÓCIO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 72,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.8,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 139,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.09,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "EVENTOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 63,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.63,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 178,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.45,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 114,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.35,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 66,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.75,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 56,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.33,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "AGRONEGÓCIO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 61,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.54,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 174,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 5.12,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 34,
+      "inscritos": 175,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 5.15,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE NEGÓCIOS E INOVAÇÃO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 127,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.74,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 156,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.9,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "RECURSOS HUMANOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 78,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.25,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "CIÊNCIA DE DADOS, GOVERNANÇA CORPORATIVA E SOCIAL E SUSTENTABILIDADE",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 35,
+      "inscritos": 97,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.77,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "1º AO 4º MATUTINO/ 5° E 6° NOTURNO",
+      "vagas": 34,
+      "inscritos": 150,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.41,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "CIÊNCIA DE DADOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 125,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.68,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO COMERCIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 106,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.12,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "EVENTOS",
+      "modalidadeConcorrencia": "1º AO 3º MATUTINO/ 4° AO 6° NOTURNO",
+      "vagas": 34,
+      "inscritos": 46,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.35,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ELETRÔNICA AUTOMOTIVA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 91,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.68,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE RECURSOS HUMANOS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 70,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.92,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MECÂNICA AUTOMOBILÍSTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 159,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.68,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "1º AO 4º MATUTINO/ 5° E 6° NOTURNO",
+      "vagas": 34,
+      "inscritos": 35,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.03,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "SEGURANÇA DA INFORMAÇÃO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 105,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.09,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 172,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 5.06,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 202,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 5.05,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "INFORMÁTICA PARA NEGÓCIOS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 64,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.67,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "INFORMÁTICA PARA NEGÓCIOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 155,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.56,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MANUFATURA AVANÇADA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 60,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.76,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 356,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 10.47,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 34,
+      "inscritos": 107,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.15,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "COMÉRCIO EXTERIOR",
+      "modalidadeConcorrencia": "1º AO 5° VESPERTINO/ 6° NOTURNO",
+      "vagas": 24,
+      "inscritos": 41,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.71,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 100,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.5,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "JOGOS DIGITAIS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 105,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.09,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "SEGURANÇA DA INFORMAÇÃO",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 114,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.35,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "SEGURANÇA DA INFORMAÇÃO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 236,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 6.94,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "BIG DATA PARA INDÚSTRIA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 40,
+      "inscritos": 79,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.98,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA PRODUÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 40,
+      "inscritos": 49,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.23,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE RECURSOS HUMANOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 52,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.17,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 86,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.58,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "AGRONEGÓCIO",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 39,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.63,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "AGRONEGÓCIO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 58,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.42,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 34,
+      "inscritos": 364,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 10.71,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 233,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 5.83,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "INFORMÁTICA PARA NEGÓCIOS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 88,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.67,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "INFORMÁTICA PARA NEGÓCIOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 202,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 5.94,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 345,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 10.15,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "BANCO DE DADOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 168,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.94,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA",
+      "modalidadeConcorrencia": "1º AO 4° MATUTINO/ 5° E 6° NOTURNO",
+      "vagas": 34,
+      "inscritos": 131,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.85,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA PRODUÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 59,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.74,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 161,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.03,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 44,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.83,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 86,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.53,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MANUFATURA AVANÇADA",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 36,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.5,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MANUTENÇÃO DE AERONAVES",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 120,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.53,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "PROJETOS DE ESTRUTURAS AERONÁUTICAS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 93,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.74,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "1º AO 4° MATUTINO/ 5° E 6° NOTURNO",
+      "vagas": 34,
+      "inscritos": 775,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 22.79,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "1º AO 4º VESPERTINO/ 5° E 6° NOTURNO",
+      "vagas": 34,
+      "inscritos": 260,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 7.65,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 68,
+      "inscritos": 1738,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 25.56,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "CONSTRUÇÃO CIVIL - EDIFÍCIOS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 68,
+      "inscritos": 112,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.65,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "CONSTRUÇÃO CIVIL - EDIFICIOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 51,
+      "inscritos": 246,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.82,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ELETRÔNICA INDUSTRIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 181,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 5.32,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ESTRADAS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 65,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.71,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "FABRICAÇÃO MECÂNICA",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 20,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 0.83,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "FABRICAÇÃO MECÂNICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 54,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.25,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA PRODUÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 40,
+      "inscritos": 55,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.38,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA QUALIDADE",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 174,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 5.12,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE EMPREENDIMENTOS GASTRONÔMICOS",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 24,
+      "inscritos": 46,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.92,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE TURISMO",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 65,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.91,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE TURISMO",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 20,
+      "inscritos": 23,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.15,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 586,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 14.65,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "HIDRÁULICA E SANEAMENTO AMBIENTAL",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 28,
+      "inscritos": 29,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.04,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "HIDRÁULICA E SANEAMENTO AMBIENTAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 65,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.71,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "INSTALAÇÕES ELÉTRICAS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 78,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.29,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MATERIAIS",
+      "modalidadeConcorrencia": "1º AO 4º MATUTINO/ 5° E 6° NOTURNO",
+      "vagas": 24,
+      "inscritos": 26,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.08,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MECÂNICA DE PRECISÃO",
+      "modalidadeConcorrencia": "1º AO 4º MATUTINO/ 5° E 6° NOTURNO",
+      "vagas": 24,
+      "inscritos": 38,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.58,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MICROELETRÔNICA",
+      "modalidadeConcorrencia": "1º AO 4º MATUTINO/ 5° E 6° NOTURNO",
+      "vagas": 34,
+      "inscritos": 51,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.5,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "PAISAGISMO E JARDINAGEM",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 24,
+      "inscritos": 94,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.92,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "PRODUÇÃO CULTURAL",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 231,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 6.79,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "PROJETOS MECÂNICOS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 33,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.38,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "PROJETOS MECÂNICOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 150,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 6.25,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "REFRIGERAÇÃO E CLIMATIZAÇÃO",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 40,
+      "inscritos": 33,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 0.83,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "SECRETARIADO E ASSESSORIA INTERNACIONAL",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 92,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.71,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "SECRETARIADO E ASSESSORIA INTERNACIONAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 218,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 6.41,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "SOLDAGEM",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 68,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.83,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO COMERCIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 26,
+      "inscritos": 82,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.15,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE EMPREENDIMENTOS GASTRONÔMICOS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 15,
+      "inscritos": 39,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.6,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE TURISMO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 18,
+      "inscritos": 26,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.44,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "SISTEMAS PARA INTERNET",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 26,
+      "inscritos": 125,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.81,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 116,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.41,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 64,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.6,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 68,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MARKETING",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 55,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.29,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "CIÊNCIA DE DADOS PARA NEGÓCIOS",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 35,
+      "inscritos": 54,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.54,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE NEGÓCIOS E INOVAÇÃO",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 21,
+      "inscritos": 48,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.29,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE NEGÓCIOS E INOVAÇÃO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 30,
+      "inscritos": 125,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.17,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MARKETING",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 30,
+      "inscritos": 146,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.87,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MARKETING",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 30,
+      "inscritos": 307,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 10.23,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA PRODUÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 68,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.83,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 105,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.63,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 38,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.58,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 100,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.94,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MANUTENÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 47,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.96,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MECÂNICA - PROCESSOS DE SOLDAGEM",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 73,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.04,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MECATRÔNICA INDUSTRIAL",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 20,
+      "inscritos": 38,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.9,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "1º AO 4° MATUTINO/ 5° E 6° NOTURNO",
+      "vagas": 34,
+      "inscritos": 255,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 7.5,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 532,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 15.65,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ELETRÔNICA AUTOMOTIVA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 126,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 5.25,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "FABRICAÇÃO MECÂNICA",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 29,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.21,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "FABRICAÇÃO MECÂNICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 48,
+      "inscritos": 127,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.65,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA QUALIDADE",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 70,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.92,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 330,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 8.25,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 24,
+      "inscritos": 68,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.83,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MANUFATURA AVANÇADA",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 39,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.63,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MANUTENÇÃO DE AERONAVES",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 40,
+      "inscritos": 266,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 6.65,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "POLÍMEROS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 52,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.17,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "PROCESSOS METALÚRGICOS",
+      "modalidadeConcorrencia": "1º AO 4º MATUTINO/ 5° E 6° NOTURNO",
+      "vagas": 24,
+      "inscritos": 42,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.75,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "PROJETOS MECÂNICOS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 36,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.5,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "PROJETOS MECÂNICOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 151,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.44,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "SISTEMAS BIOMÉDICOS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 59,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.46,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESIGN GRÁFICO",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 40,
+      "inscritos": 48,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.2,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE LOGÍSTICA INTEGRADA",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 34,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.42,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE NEGÓCIOS E INOVAÇÃO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 77,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.26,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE RECURSOS HUMANOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 128,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.76,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "AGRONEGÓCIO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 74,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.08,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "AGRONEGÓCIO",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 24,
+      "inscritos": 50,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.08,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANALISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 243,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 7.15,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 34,
+      "inscritos": 52,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.53,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA PRODUÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 20,
+      "inscritos": 54,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.7,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA PRODUÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 72,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 73,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.83,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "SISTEMAS PARA INTERNET",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 41,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.71,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "CONSTRUÇÃO DE EDIFÍCIOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 109,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.21,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "CONSTRUÇÃO DE EDIFÍCIOS",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 24,
+      "inscritos": 32,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.33,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "CONTROLE DE OBRAS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 38,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.58,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "CONTROLE DE OBRAS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 92,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.83,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESIGN DE PRODUTO COM ÊNFASE EM PROCESSOS DE PRODUÇÃO E INDUSTRIALIZAÇÃO",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 93,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.74,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 228,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 5.7,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "TRANSPORTE TERRESTRE",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 34,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.42,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "TRANSPORTE TERRESTRE",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 69,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.88,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "AUTOMAÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 53,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.21,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "AUTOMAÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 86,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.58,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA TECNOLOGIA DA INFORMAÇÃO",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 55,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.29,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DA TECNOLOGIA DA INFORMAÇÃO",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 145,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.26,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 252,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 7.41,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 24,
+      "inscritos": 50,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.08,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MANUTENÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 35,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.46,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "MANUTENÇÃO INDUSTRIAL",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 55,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.29,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "PRODUÇÃO FONOGRÁFICA",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 34,
+      "inscritos": 68,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 251,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 7.38,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ELETRÔNICA AUTOMOTIVA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 59,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.46,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE RECURSOS HUMANOS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 51,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.13,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 116,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.9,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "CIÊNCIA DE DADOS PARA NEGÓCIOS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 21,
+      "inscritos": 69,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.29,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "CONTROLE DE OBRAS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 21,
+      "inscritos": 50,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.38,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 30,
+      "inscritos": 113,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.77,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 720,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 21.18,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 34,
+      "inscritos": 132,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 3.88,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "COMÉRCIO EXTERIOR",
+      "modalidadeConcorrencia": "1º AO 4º VESPERTINO/ 5° E 6° NOTURNO",
+      "vagas": 24,
+      "inscritos": 64,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.67,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "COMÉRCIO EXTERIOR",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 82,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.41,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 165,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.85,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO DE RECURSOS HUMANOS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 139,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.09,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 163,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.08,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 64,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.88,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 49,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.04,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 178,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 5.24,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "POLÍMEROS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 24,
+      "inscritos": 38,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.58,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 34,
+      "inscritos": 151,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.44,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "ANÁLISE E DESENVOLVIMENTO DE SISTEMAS",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 345,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 10.15,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "DESENVOLVIMENTO DE SOFTWARE MULTIPLATAFORMA",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 34,
+      "inscritos": 51,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.5,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "1º AO 3º VESPERTINO/ 4° AO 6° NOTURNO",
+      "vagas": 24,
+      "inscritos": 64,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.67,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "EAD",
+      "vagas": 40,
+      "inscritos": 173,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 4.33,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "GESTÃO EMPRESARIAL",
+      "modalidadeConcorrencia": "MATUTINO",
+      "vagas": 24,
+      "inscritos": 43,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.79,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGISTICA",
+      "modalidadeConcorrencia": "NOTURNO",
+      "vagas": 34,
+      "inscritos": 90,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 2.65,
+      "notaCorte": null
+    },
+    {
+      "nomeCurso": "LOGÍSTICA",
+      "modalidadeConcorrencia": "VESPERTINO",
+      "vagas": 24,
+      "inscritos": 41,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": 1.71,
+      "notaCorte": null
+    }
+  ]
+}

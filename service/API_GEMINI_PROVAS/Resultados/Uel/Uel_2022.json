@@ -1,0 +1,499 @@
+{
+  "nomeUniversidade": "Universidade Estadual de Londrina",
+  "siglaUniversidade": "UEL",
+  "nomeProva": "Vestibular UEL 2022 - Fase Única",
+  "ano": 2022,
+  "qtdeQuestoes": 50,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Marie Curie (1867 - Polônia) foi uma cientista que dedicou a vida aos estudos da radioatividade. Ela descobriu os elementos $^{210}$Po e $^{226}$Ra, foi a primeira mulher a ganhar um prêmio Nobel e a primeira pessoa a conquistá-lo duas vezes, além de ser a primeira mulher a atuar como professora na Universidade de Paris.\nSuponha uma quantidade de 128 gramas de $^{210}$Po, que tem uma meia vida de 138 dias, decaindo em $^{206}$Pb pela emissão de uma partícula alfa.\nCom base no enunciado e nos conhecimentos sobre radioatividade, considere as afirmativas a seguir.\n\nI. Para que se tenha 32 gramas de $^{210}$Po, são necessários 276 dias.\nII. A partícula alfa é composta por dois prótons e dois nêutrons.\nIII. Para que se tenha 96 gramas de $^{206}$Pb, são necessários 276 dias.\nIV. Para que se tenha apenas um grama de $^{210}$Po, são necessários 3.328 dias.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e IV são corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas III e IV são corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I, II e III são corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, III e IV são corretas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Radioatividade"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Leia o texto a seguir.\n\nEm um mundo predominantemente masculino, mulheres foram, sistematicamente, impedidas de fazer parte do universo da pesquisa. Sem jamais ter perdido a esperança, último dos predicados da Caixa de Pandora, a matemática Sophie Germain (1776-1831) lutava e sofria com tais preconceitos, chegando, até mesmo, a apresentar-se com o pseudônimo masculino Monsier Le Blanc.\n\nAdaptado de: FLOOD, Raymond e WILSON, Robin. Os grandes matemáticos. São Paulo: M. Books do Brasil, 2013. p.126\n\nSophie Germain é conhecida por provar, matematicamente, que se $x, y, z, n$ são inteiros positivos e satisfazem às seguintes condições simultaneamente\n\ni) $x, y, z$ são diferentes de 0;\nii) $mdc(x, y) = mdc(y, z) = mdc(z, x) = 1$;\niii) $n$ é um número primo maior que 2;\niv) $2n + 1$ é um número primo;\nv) $x \\cdot y \\cdot z$ não é múltiplo de $n$,\n\nentão $x^n + y^n \\neq z^n$. Por outro lado, se $x, y, z, n$ não satisfazem simultaneamente as condições dadas, deve-se checar, por outro método, se $x^n + y^n \\neq z^n$ ou $x^n + y^n = z^n$.\nCom base no enunciado e nos conhecimentos matemáticos, atribua V (verdadeiro) ou F (falso) às afirmativas a seguir.\n\n( ) $11^1 + 23^{11} = 24^{11}$\n( ) $3^2 + 4^2 = 5^2$\n( ) $67^5 + 71^5 \\neq 79^5$\n( ) $\\{n \\in \\mathbb{N} \\text{ tal que n é um número primo}\\} \\subset \\{n \\in \\mathbb{N} \\text{ tal que } 2n + 1 \\text{ é um número primo}\\}$\n( ) $\\{n \\in \\mathbb{N} \\text{ tal que n é um número primo}\\} \\cap \\{n \\in \\mathbb{N} \\text{ tal que } 2n + 1 \\text{ é um número primo}\\} \\neq \\emptyset$",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V, V, F, V, F."
+        },
+        {
+          "letra": "B",
+          "texto": "V, F, F, F, V."
+        },
+        {
+          "letra": "C",
+          "texto": "F, V, V, F, V."
+        },
+        {
+          "letra": "D",
+          "texto": "F, V, F, V, V."
+        },
+        {
+          "letra": "E",
+          "texto": "F, F, V, F, V."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Teoria dos Números"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "A pesquisadora Neiva Guedes desenvolve, desde a década de 1980, um projeto que promove ações de conservação para o aumento da população de araras azuis (Anodorhynchus hyacinthinus) no Pantanal. Ao longo do estudo, ficou comprovado que um dos desafios é a conservação da espécie arbórea Manduvi (Sterculia apetala), importante no processo de sucessão ecológica e onde as araras constroem seus ninhos.\nCom base nos conhecimentos sobre sucessão ecológica, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As queimadas descontroladas e o desmatamento desencadeiam o desenvolvimento da sucessão ecológica primária."
+        },
+        {
+          "letra": "B",
+          "texto": "Os estágios sucessionais iniciais são caracterizados pela colonização por espécies que apresentam crescimento lento e reprodução tardia."
+        },
+        {
+          "letra": "C",
+          "texto": "A diminuição progressiva da biomassa e da diversidade de espécies ocorre durante a sucessão ecológica."
+        },
+        {
+          "letra": "D",
+          "texto": "As espécies que colonizam nos estágios sucessionais primários têm como característica a intolerância à luminosidade e ventos intensos."
+        },
+        {
+          "letra": "E",
+          "texto": "As espécies que apresentam crescimento rápido são aquelas aptas à colonização nos estágios iniciais da sucessão ecológica."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "As araras azuis, assim como outras espécies de aves, formam casais, constroem e defendem os seus ninhos, exigindo grande investimento energético dos pais durante o período de incubação dos ovos e do crescimento dos filhotes. Com base nos conhecimentos sobre as características reprodutivas das aves, considere as afirmativas a seguir.\n\nI. A oviparidade evita o aumento de peso da fêmea, pois a maior parte do desenvolvimento embrionário ocorre fora do corpo materno.\nII. O âmnio, o alantoide, o cório e a casca calcária porosa possibilitaram adaptações aos ovos das aves para o desenvolvimento no ambiente terrestre.\nIII. O sexo dos filhotes é determinado pela temperatura que os ovos atingem durante o cuidado parental no ninho.\nIV. As fêmeas possuem um par de ovários e ovidutos funcionais, os quais alternam a liberação dos gametas durante o ciclo estral.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e IV são corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas III e IV são corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I, II e III são corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, III e IV são corretas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Fisiologia Animal Comparada",
+        "Biologia – Zoologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Leia o texto a seguir.\n\nAndrea Araújo, professora doutora da Universidade Federal do Mato Grosso do Sul (UFMS), pesquisou sobre os incêndios no Pantanal em 2020 e afirma que \"com a queima descontrolada da vegetação, há redução na quantidade de flores para polinizadores, além de afetar a disponibilidade e a ciclagem de nutrientes\".\n\nAdaptado de: https://www.comciencia.br/\n\nCom base nos conhecimentos sobre o bioma Pantanal, considere as afirmativas a seguir.\n\nI. Além de sua fauna e rica vegetação, destaca-se como uma das áreas contribuintes para a redução do aquecimento global, dada sua capacidade de absorção do gás carbônico.\nII. Possui clima tropical continental, com duas estações climáticas bem definidas: verão quente e chuvoso com precipitações concentradas entre outubro e março, e inverno seco e frio, que ocorre entre abril e setembro.\nIII. O aumento dos focos de incêndios está fortemente ligado à atividade econômica, que ainda é concentrada na agropecuária extensiva, com a prática da queima de pastagens naturais para possibilitar a rebrota do capim.\nIV. As queimadas de grande magnitude possuem efeito positivo para a vegetação, pois esta se renova de forma rápida em função da disponibilidade de matéria orgânica gerada pelo fogo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e IV são corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas III e IV são corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I, II e III são corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, III e IV são corretas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Biomas Brasileiros",
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Na tabela periódica, os elementos Na e K são metais alcalinos que pertencem à família IA, e F e I são halogênios da família VIIA; todos exercem diferentes funções no organismo humano. O consumo de sal (NaCl) em excesso pode causar maior incidência de pressão alta em mulheres grávidas. Uma das opções de sais para diminuir a quantidade de sódio ingerida é o sal light (50% de NaCl + 50% de KCl). Tanto o sal light quanto o sal de cozinha comum possuem o micronutriente iodo (I), importante para prevenir o bócio, uma alteração na glândula tireoide. Estudos também inferem que a presença de flúor (F) na água potável pode levar a casos de tireoide subativa, especialmente nas mulheres, diminuindo a absorção do iodo pelo organismo.\nEm relação aos conhecimentos sobre classificação periódica e estrutura atômica dos elementos Na, K, F e I, considere as afirmativas a seguir.\nDados: Número atômico de Na = 11, K = 19, F = 9, I = 53\n\nI. $Na^+$ e $K^+$ possuem configuração isoeletrônica.\nII. Se o número de massa atômica do $K^+$ é 39, então o número de prótons, nêutrons e elétrons é de 19, 21 e 20, respectivamente.\nIII. Ao representar a configuração eletrônica do átomo de I em ordem de preenchimento energético, atinge-se o subnível 5p.\nIV. Os 3 números quânticos que caracterizam o elétron mais energético do íon flúor ($F^−$) são $n = 2$, $l = 1$ e $m_l = +1$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e IV são corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas III e IV são corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I, II e III são corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, III e IV são corretas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Atomística",
+        "Química – Tabela Periódica"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Na obra de Moacyr Scliar, \"Histórias que os jornais não contam\", aparece, em uma das crônicas, o Rádio Apaixonado. Nela, a ouvinte afirma que o rádio do carro aumentou o volume sozinho até pifar. Em um dos trechos, ele diz que tem sentimentos e emoções e que, em nome destes, vai lhe falar tanto em AM quanto em FM. Em suas últimas palavras, ele suspira e diz para sua dona não brincar com seus sentimentos.\nCom base nos conhecimentos sobre ondas e eletromagnetismo, assinale a alternativa correta.\nDado: $c = 3,00 \\times 10^8 m/s$",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Supondo que a estação de rádio transmita numa frequência de 60MHz, o período associado será de $2,00 \\times 10^{-8}s$ e o comprimento de onda será de 1,6 m."
+        },
+        {
+          "letra": "B",
+          "texto": "As ondas FM e AM são assim denominadas justamente por serem ondas médias, ou seja, são frequências e amplitudes médias."
+        },
+        {
+          "letra": "C",
+          "texto": "Quando uma onda de rádio é produzida, os vetores campo elétrico e campo magnético se comportam como ondas longitudinais."
+        },
+        {
+          "letra": "D",
+          "texto": "A pressão da radiação gerada por uma onda eletromagnética no Sistema Internacional de unidade é o bar."
+        },
+        {
+          "letra": "E",
+          "texto": "As ondas de rádio, assim como as ondas geradas por um aparelho de micro-ondas, são consideradas ondas eletromagnéticas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Ondulatória",
+        "Física – Eletromagnetismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "As olimpíadas são um momento especial para a apresentação de grandes feitos esportivos. Os Jogos Olímpicos do Japão, programados para 2020 e realizados em 2021, foram um marco na igualdade entre homens e mulheres. Com aproximadamente 49% de mulheres entre os participantes, este foi um recorde na história desses jogos. A primeira edição foi realizada no ano de 1896, em Atenas, com participação exclusiva de homens. Na edição de 1900, realizada em Paris, houve a primeira participação das mulheres, com 2,2% das vagas. Para a realização dos jogos de 2024, na mesma cidade, a organização estabeleceu a distribuição paritária das vagas, ou seja, 50% para cada sexo.\nConsiderando os conhecimentos sociológicos sobre relações entre gênero e esporte, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "No padrão cultural hegemônico, meninas e moças são socializadas em brincadeiras que despertam mais a agressividade e a competição, dispondo-as frequentemente para desafios, como a prática esportiva, em busca da reafirmação da vaidade feminina."
+        },
+        {
+          "letra": "B",
+          "texto": "O esporte, quando genderizado ou generificado, promove atividades físicas com participação igualitária de homens e de mulheres, estimulando preferências, condutas e performances isentas dos marcadores sociais de gênero."
+        },
+        {
+          "letra": "C",
+          "texto": "No Brasil, a proporção de mulheres em atividades físicas e esportivas é maior que a dos homens porque elas dispõem de mais tempo livre e estão mais presentes nos contextos de lazer, em virtude da menor participação no mercado de trabalho."
+        },
+        {
+          "letra": "D",
+          "texto": "Para efeitos de classificação dos e das competidoras como homem ou como mulher, a organização dos Jogos Olímpicos adota como critério o desempenho médio dos atletas em uma dada modalidade esportiva."
+        },
+        {
+          "letra": "E",
+          "texto": "No processo de socialização, incentivos e censuras são distribuídos distintamente para homens e mulheres, afetando os usos dos corpos, como adesão a esportes, bem como as oportunidades e as recompensas pelas conquistas esportivas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Sociologia – Relações de Gênero"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "A brasileira Bia Figueiredo, piloto de automobilismo, disputou a Fórmula Indy por seis anos, tornando-se a primeira mulher a vencer uma prova da categoria Indy Lights e, em 2014, também foi a primeira a participar de uma temporada da Stock Car Brasil.\nNa Stock Car, a massa mínima do conjunto é de 1.320 kg. Considera-se o conjunto: carro, piloto a bordo vestindo macacão, luvas, sapatilhas, capacete e fluidos, tais como óleo, água, combustível.\nCom base nos conhecimentos sobre cinemática e dinâmica, atribua V (verdadeiro) ou F (falso) às afirmativas a seguir. Dado: $g = 10 m/s^2$.\n\n( ) Se o conjunto está com a massa mínima e velocidade de 216 Km/h em módulo, então o módulo da quantidade de movimento é de 79.200 N.s.\n( ) Se o conjunto com a massa mínima realiza uma curva semicircular de diâmetro de 400 metros onde o coeficiente de atrito entre as rodas e a pista é de 0,8, então a velocidade máxima para a realização do movimento, sem derrapar, deve ser 180 Km/h.\n( ) Se dois conjuntos de mesma massa e respectivas velocidades de 200 Km/h e 250 km/h (mesma direção e sentido) sofrem uma colisão inelástica, então, após a colisão, as suas velocidades serão de 62,5 m/s.\n( ) Se o conjunto com massa de 1.400 Kg varia sua velocidade de 0 Km/h a 180 km/h em uma determinada distância, então o impulso para esse conjunto ter essa variação de velocidade é de 70.000 N.s.\n( ) Se o conjunto com massa de 1.400 Kg varia sua velocidade de 0 Km/h a 180 km/h em 5 segundos, então a força resultante média para esse conjunto ter essa variação de velocidade nesse tempo é de 10.000 N.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V, F, V, V, F."
+        },
+        {
+          "letra": "B",
+          "texto": "V, F, V, F, V."
+        },
+        {
+          "letra": "C",
+          "texto": "V, V, V, F, F."
+        },
+        {
+          "letra": "D",
+          "texto": "F, F, V, F, F."
+        },
+        {
+          "letra": "E",
+          "texto": "F, V, F, F, V."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Quantidade de Movimento",
+        "Física – Dinâmica",
+        "Física – Leis de Newton"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Leia o texto a seguir.\n\nDe facto, o homem livre manda no escravo, da mesma forma que o marido na mulher, e o adulto na criança. Nesses casos, as partes da alma estão presentes em todos esses seres, mas dispostas de modo diferente. O escravo não tem faculdade deliberativa; a mulher tem-na, mas não tem faculdade de decisão; a criança tem capacidade de decisão, mas ainda não desenvolvida. Deveríamos necessariamente admitir, então, que o mesmo se passa com as virtudes morais. Todos devem participar delas, embora não da mesma forma mas na medida em que cada um cumpre a função que lhe é adequada.\n\nARISTÓTELES. Política. Edição bilíngue. Tradução e notas de António C. Amaral e Carlos C. Gomes. Lisboa: Vega, 1998, p. 95.\n\nCom base no texto e no modo como Aristóteles concebia a participação de homens livres, mulheres, crianças e escravos nas deliberações da Pólis ateniense, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Mulheres e escravos possuem as mesmas partes da alma, sendo seres com virtudes intelectuais idênticas, motivo pelo qual desempenham funções similares no âmbito doméstico."
+        },
+        {
+          "letra": "B",
+          "texto": "Todo ser humano é um ser social, ou animal político, porque cada um cumpre a mesma função de participação na Pólis, cabendo adicionalmente às mulheres a participação nos banquetes."
+        },
+        {
+          "letra": "C",
+          "texto": "As funções dos homens livres, mulheres e escravos são determinadas pela alma, havendo igualdade em suas capacidades para cuidar da casa e da administração pública."
+        },
+        {
+          "letra": "D",
+          "texto": "As mulheres têm função de cuidadoras da casa e, embora tenham capacidade deliberativa, esta é distinta da dos homens, o que impede sua participação política."
+        },
+        {
+          "letra": "E",
+          "texto": "As funções das mulheres são similares às dos homens livres, ainda que suas capacidades deliberativas sejam desiguais, elas possuíam os mesmos deveres e direitos na Pólis."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Filosofia – Política Antiga",
+        "Filosofia – Aristóteles"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Sobre a participação das mulheres na gestão do poder político e econômico do Estado no mundo contemporâneo, atribua V (verdadeiro) ou F (falso) às afirmativas a seguir.\n\n( ) Indira Ghandi realizou um programa de nacionalização dos bancos na Índia e apoiou o movimento que conseguiu a separação da parte leste do país, nomeada de Bangladesh.\n( ) Margareth Thatcher implantou o neoliberalismo no Reino Unido, privatizando empresas estatais estratégicas, e derrotou os argentinos em guerra pela posse das Ilhas Falkland/Malvinas.\n( ) Golda Meir, eleita Primeira Ministra de Israel pelo partido socialista, conseguiu sucesso nos acordos de paz com países vizinhos Jordânia, Egito e Síria.\n( ) Angela Merkel, eleita como Chanceler da Alemanha por partidos de direita, foi reconhecida pela sua política de acolhimento para refugiados diante das sucessivas crises imigratórias.\n( ) Dilma Roussef, em sua segunda gestão governamental no Brasil, promoveu uma política de estatização de empresas, como a Petrobrás e a Eletrobrás.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V, V, F, V, F."
+        },
+        {
+          "letra": "B",
+          "texto": "V, F, V, V, F."
+        },
+        {
+          "letra": "C",
+          "texto": "V, F, F, V, F."
+        },
+        {
+          "letra": "D",
+          "texto": "F, V, V, F, V."
+        },
+        {
+          "letra": "E",
+          "texto": "F, V, F, F, V."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História Contemporânea"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Leia o texto a seguir.\n\nEm contraposição tanto aos regimes tirânicos como aos autoritários, a imagem mais adequada de governo e organização totalitários parece-me ser a estrutura da cebola, em cujo centro, em uma espécie de espaço vazio, localiza-se o líder; o que quer que ele faça - integre ele o organismo político como em uma hierarquia autoritária, ou oprima seus súditos como um tirano - ele o faz de dentro, e não de fora ou de cima.\n\nARENDT, Hannah. Entre o Passado e o Futuro. 8. ed. Trad. de Mauro W. Barbosa. São Paulo: Perspectiva, 2016. p. 136.\n\nHannah Arendt, filósofa alemã de origem judaica, marcou profundamente a filosofia política contemporânea com suas reflexões sobre os fenômenos totalitários do século XX.\nCom base no texto e nos conhecimentos sobre a compreensão arendtiana do totalitarismo, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A ideologia totalitarista se distingue da tirania e do autoritarismo por se basear em ideias de caráter democrático, como a de partidos políticos."
+        },
+        {
+          "letra": "B",
+          "texto": "O totalitarismo possui uma estrutura em que cada nível mantém a fachada de normalidade e respeitabilidade, que disfarça seu caráter antidemocrático."
+        },
+        {
+          "letra": "C",
+          "texto": "A propaganda totalitária visa à violência do Estado como na tirania, sem investir no controle das massas via políticas públicas e ideologia."
+        },
+        {
+          "letra": "D",
+          "texto": "Os regimes totalitários, assim como as tiranias e o autoritarismo, pautam-se na descrença da onipotência do líder e de verdades factuais."
+        },
+        {
+          "letra": "E",
+          "texto": "As tiranias e os regimes totalitários utilizam-se de propaganda ideológica e de programas sociais que garantem a respeitabilidade e igualdade de direitos e deveres."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Filosofia – Filosofia Política Contemporânea"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Em 2020, o Instituto Brasileiro de Geografia e Estatística (IBGE) apresentou a segunda edição do estudo \"Estatísticas de gênero: indicadores sociais das mulheres no Brasil\", com informações fundamentais para análise das condições de vida das mulheres no País.\nCom base no infográfico, considere as afirmativas a seguir.\n\nI. Comparando-se os cargos gerenciais ocupados por homens e mulheres, houve uma diferença de 35,2 pontos percentuais em 2020. As mulheres eleitas vereadoras nas câmaras municipais possuem representatividade de 84%.\nII. No ensino superior, em 2019, as mulheres apresentam taxa de frequência maior se comparada aos homens. Em relação às mulheres entre os docentes de ensino superior, nos anos de 2003 a 2019, houve um aumento de 3,6 pontos percentuais.\nIII. Entre 2011 e 2019, a taxa anual de mortalidade de meninas com menos de 5 anos de idade foi reduzida em 4,4 pontos percentuais, indicando melhoria nas condições de saúde na primeira infância.\nIV. Embora a população feminina com idade igual ou superior a 15 anos seja maior que a masculina, a taxa de participação das mulheres na força de trabalho é de 19,2 pontos percentuais menor que a dos homens, mostrando que estes estão mais inseridos no mercado de trabalho.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e IV são corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas III e IV são corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I, II e III são corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, III e IV são corretas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – População",
+        "Sociologia – Desigualdade Social"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Leia o texto a seguir e responda às questões 14 e 15.\n\nAproximadamente uma em cada quatro mulheres acima de 16 anos foi vítima de algum tipo de violência na pandemia no Brasil\n07/06/2021 08h00\n\nUma pesquisa do Instituto Datafolha, encomendada pelo Fórum Brasileiro de Segurança Pública (FBSP) concluiu que 24,4% das mulheres acima de 16 anos afirmam ter sofrido algum tipo de violência, seja física, psicológica ou sexual, no último ano no Brasil durante a pandemia da Covid-19.\nAinda de acordo com o estudo, estas 24,4% de mulheres representam uma população de 17 milhões de vítimas. Como referência, existem 100 milhões de mulheres de todas as idades em território brasileiro.\nNa comparação com os dados da última pesquisa (2019), houve aumento do número de agressões dentro de casa, que passou de 42% para 48,8%; cresceu a participação de companheiros, namorados e ex-parceiros nas agressões; e diminuíram as agressões na rua, que passaram de 29% para 19%.\n\nComentários dos leitores:\nLeitor 1\nEsse dado de 1 a cada 4 mulheres não está certo. Não vou nem argumwntar porque não tenho provas, mas tenho quase certeza de que está errado. Palhaçada isso!\nLeitor 2\nEsse dado é falso porque isso significaria que a cada quatro conhecidas suas uma teria sido agredida. Você conhece alguma agredida,\nLeitor 3\nParece suspeito que mais de 25 milhões de mulheres tenham sido agredidas. Esse número só pode estar inflado.\n\nadaptado de: //g1.globo.com/\n\nNo universo virtual, é comum quem diga: \"Não leia os comentários! Não leia os comentários! Não leia os comentários!\" uma vez que parecem males saídos da Caixa de Pandora de tão violentos que são. Entretanto, utilizando a Ciência como guia, pode-se navegar de modo crítico e embasado pelas afirmações que são feitas nestas seções.\nCom base no texto e nos conhecimentos matemáticos, considere as afirmativas a seguir.\n\nI. A probabilidade de se escolher, ao acaso, dentre as mulheres de todas as idades em território brasileiro, uma vítima representada pela pesquisa é de 17%.\nII. Ao noticiar que uma em cada quatro mulheres acima de 16 anos foi vítima de algum tipo de violência durante a pandemia, infere-se que todo brasileiro conhece, a cada quatro mulheres de seu entorno, uma que tenha sofrido violência nas condições pesquisadas.\nIII. A reportagem noticia que 24,4% das mulheres do segmento pesquisado representam 17 milhões de vítimas, do que se conclui que o estudo está equivocado, pois este percentual representa 24,4 milhões de mulheres.\nIV. A autora aproximou 24,4% por 25% ao utilizar a expressão “uma em cada quatro mulheres\". Caso escolhesse aproximar os mesmos 24,4% por 24%, escreveria \"seis em cada 25 mulheres\".",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e IV são corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas III e IV são corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I, II e III são corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, III e IV são corretas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Probabilidade e Estatística",
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Com base no texto e nos conhecimentos sobre a atuação dos movimentos feministas de mulheres, no Brasil, em relação à violência contra a mulher, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os movimentos de mulheres, ao promover a campanha \"Quem Ama Não Mata”, contribuíram para a recusa das teses jurídicas de crime passional nos casos de violência contra as mulheres."
+        },
+        {
+          "letra": "B",
+          "texto": "A redução da violência contra a mulher no espaço público, no contexto da pesquisa noticiada, deve-se ao fortalecimento das políticas de enfrentamento à violência contra a mulher no período."
+        },
+        {
+          "letra": "C",
+          "texto": "As feministas, com o lema \"O Pessoal é Político\", centralizam sua luta nas reivindicações por direitos políticos, assegurando maior participação das mulheres nos partidos e em cargos da administração pública."
+        },
+        {
+          "letra": "D",
+          "texto": "Para os movimentos feministas, o combate ao alcoolismo e a outras drogas lícitas e ilícitas entre homens é uma prioridade na Política Nacional de Enfrentamento à Violência contra a Mulher."
+        },
+        {
+          "letra": "E",
+          "texto": "Com o lema \"Em Briga de Marido e Mulher, Não se Mete a Colher\", os movimentos de mulheres reivindicam afastamento das políticas punitivistas da segurança pública nos casos de violência doméstica."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Sociologia – Movimentos Sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Em 2020, durante a pandemia, três mulheres foram assassinadas por dia no Brasil por sua condição de gênero e mais da metade das vítimas foram mortas em casa. É isso que aponta o levantamento do Anuário Brasileiro de Segurança Pública.\nCerca de 50% das mortes foram ocasionadas por armas de fogo sendo a maioria das vítimas mulheres negras. A identificação do autor do disparo é realizada pela polícia por meio da determinação dos elementos chumbo, bário e antimônio expelidos no momento do tiro e que podem ficar retidos nas mãos.\nO procedimento de coleta é feito com hastes de algodão umedecidos com uma solução de EDTA (ácido etilenodiamino tetra-acético) esfregando a região da mão por 1 minuto. Posteriormente, a haste é inserida num tubo de vidro com capacidade de 15,0 mL e, então, são adicionados 2,0 mL de solução de $HNO_3$ 10% (v/v). O tubo é submetido ao aquecimento (80 °C) por 1 hora e, finalmente, a haste é retirada do tubo e, a solução, diluída para 10,0 mL com água.\nConsiderando que as concentrações de chumbo, bário e antimônio determinadas após o procedimento de coleta da amostra Dorsal foram, respectivamente, $500 \\times 10^{−6} g L^{−1}$, $80 \\times 10^{-6} g L^{-1}$ e $30 \\times 10^{–6} g L^{-1}$, assinale a alternativa que apresenta a quantidade correta e aproximada do número total de mols desses elementos nesta região.\n\nDados: Massas molar de: Pb = 207,2 g $mol^{-1}$; Ba = 137,3 g $mol^{-1}$; Sb = 121,8 g $mol^{-1}$",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2,4 \\times 10^{-6}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$3,2 \\times 10^{-8}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$5,8 \\times 10^{-9}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$6,1 \\times 10^{-5}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$10,6 \\times 10^{-4}$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Estequiometria",
+        "Química – Soluções"
+      ]
+    }
+  ]
+}

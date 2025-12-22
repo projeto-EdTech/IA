@@ -1,0 +1,1579 @@
+{
+  "nomeUniversidade": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE CAMPINAS",
+  "siglaUniversidade": "PUC-CAMPINAS",
+  "nomeProva": "VESTIBULAR 1º SEMESTRE 2026",
+  "ano": 2026,
+  "qtdeQuestoes": 50,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Atenção: As questões de números 1 a 8 referem-se ao texto a seguir. A natureza humana entre o bem e o mal. A maior parte da história humana está irremediavelmente perdida para nós. A nossa espécie, Homo sapiens, existe pelo menos há 200 mil anos, mas quase não temos ideia do que aconteceu durante grande parte desse tempo. No norte da Europa, por exemplo, há pinturas e entalhes na caverna de Altamira que foram sendo criadas ao longo de uns 10 mil anos, entre 25000 e 15000 a.C. aproximadamente. Julga-se que ocorreram muitos eventos dramáticos durante esse período. Não temos como saber o que foi a grande maioria deles. Isso não tem muita importância para as pessoas em geral, porque as pessoas raramente pensam sobre a magnitude da história humana. Não têm muito motivo para isso. Se e quando a questão chega a surgir, costuma ser quando a pessoa está se perguntando por que o mundo parece tão caótico e por que tantas vezes os seres humanos destratam uns aos outros, quais as razões da guerra, da ganância, da exploração, da indiferença sistemática ao sofrimento alheio. Sempre fomos assim ou, em algum momento, algo deu muito errado? Trata-se, na prática, de um debate teológico. No fundo, a pergunta é: os seres humanos são inerentemente bons ou inerentemente maus? Mas, pensando bem, um questionamento nesses termos faz pouquíssimo sentido. “Bem” e “mal” são conceitos que dizem respeito apenas aos seres humanos. Jamais passaria pela cabeça de alguém discutir se um peixe ou uma árvore são bons ou maus, porque “bom” ou “mau” são conceitos humanos que criamos para nos comparar uns aos outros. Por isso, discutir se os seres humanos são bons ou maus faz tanto sentido quanto discutir se os seres humanos são naturalmente gordos ou magros. A hierarquia e a dominação sempre foram a base da sociedade humana. É que simplesmente aprendemos, em termos coletivos, que mais vale dar prioridade aos nossos interesses de longo prazo do que aos nossos instintos de curto prazo – ou melhor, mais vale criar leis que nos obriguem a limitar as ações nossas que atendam aos nossos piores impulsos. Ainda assim, essa limitação sempre se mostra relativa: sempre há quem ponha seus interesses imediatos e particulares acima do atendimento das mais amplas necessidades coletivas. (Adaptado de: GRAEBER, David, e WENGROW, David. O despertar de tudo. Trad. Denise Bottmann e Claudio Marcondes. São Paulo: Companhia das Letras, 2022, p. 15-16). Há quem considere a natureza humana intrinsecamente boa ou má. A frase na qual se refuta essa hipótese é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Isso não tem muita importância para as pessoas em geral (2º parágrafo)"
+        },
+        {
+          "letra": "B",
+          "texto": "um questionamento nesses termos faz pouquíssimo sentido (3º parágrafo)"
+        },
+        {
+          "letra": "C",
+          "texto": "discutir se um peixe ou uma árvore são bons ou maus (3º parágrafo)"
+        },
+        {
+          "letra": "D",
+          "texto": "A hierarquia e a dominação sempre foram a base da sociedade humana (4º parágrafo)"
+        },
+        {
+          "letra": "E",
+          "texto": "essa limitação sempre se mostra relativa (4º parágrafo)"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Analisando-se o desenvolvimento desse texto, pode-se afirmar que, no",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "primeiro parágrafo, reconhece-se a impossibilidade de saber como ocorreu a maior parte da história do Homo sapiens."
+        },
+        {
+          "letra": "B",
+          "texto": "segundo parágrafo, desenvolve-se a tese de que somos conscientes da grandeza dos dramas da história humana."
+        },
+        {
+          "letra": "C",
+          "texto": "terceiro parágrafo, é descartada a possibilidade de que a discussão sobre o bem e o mal tenha um caráter religioso."
+        },
+        {
+          "letra": "D",
+          "texto": "quarto parágrafo, conclui-se que os interesses coletivos tenderão a desfavorecer o atendimento dos interesses individuais."
+        },
+        {
+          "letra": "E",
+          "texto": "quarto parágrafo, ressalta-se que a fonte dos nossos impulsos é benigna, mas é logo anulada pela força do nosso egoísmo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "No terceiro parágrafo, o autor refere-se a um peixe ou uma árvore supondo que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "há espécies da natureza que compartilham com a humana uma mesma limitação."
+        },
+        {
+          "letra": "B",
+          "texto": "a moralidade dos homens encontra um reforço conceitual no plano da natureza."
+        },
+        {
+          "letra": "C",
+          "texto": "a ponderação sobre o bem e o mal não faz sentido fora da consciência humana."
+        },
+        {
+          "letra": "D",
+          "texto": "plantas e animais ilustram a seu modo como o bem e o mal se constituem."
+        },
+        {
+          "letra": "E",
+          "texto": "somente num debate teológico pode-se ignorar a diferença entre as espécies."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Considerando-se o contexto, traduz-se adequadamente o sentido de um segmento do texto em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "está irremediavelmente perdida (1º parágrafo) = mostra-se fundamentalmente afastada."
+        },
+        {
+          "letra": "B",
+          "texto": "raramente pensam sobre a magnitude (2º parágrafo) = pouco refletem a relevância."
+        },
+        {
+          "letra": "C",
+          "texto": "faz tanto sentido quanto discutir (3º parágrafo) = levanta a mesma discussão."
+        },
+        {
+          "letra": "D",
+          "texto": "dar prioridade aos nossos interesses (4º parágrafo) = superestimar as razões íntimas."
+        },
+        {
+          "letra": "E",
+          "texto": "atendam aos nossos piores impulsos (4º parágrafo) = cumpram nossos mais baixos instintos."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "As normas de concordância verbal estão plenamente respeitadas na frase:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Não interessam às pessoas, em geral, avaliar os dramas da história humana."
+        },
+        {
+          "letra": "B",
+          "texto": "Costumam faltar nos compêndios de história o registro exato das nossas violências."
+        },
+        {
+          "letra": "C",
+          "texto": "A menos que seja avaliado com isenção, nos damos conta das tragédias passadas."
+        },
+        {
+          "letra": "D",
+          "texto": "Ainda que pouco sensibilizem um contemporâneo, as violências do passado não morrem."
+        },
+        {
+          "letra": "E",
+          "texto": "Uma vez acionadas pelas violências do passado, a memória dos homens não se apaga."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Concordância Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Um segmento do texto conserva sua coesão sintática e sua coerência, substituindo-se o elemento sublinhado pelo elemento indicado entre colchetes, no seguinte caso:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "quase não temos ideia do que aconteceu durante grande parte desse tempo. [pouco atinamos]"
+        },
+        {
+          "letra": "B",
+          "texto": "Se e quando a questão chega a surgir [...]. [Desde que e aonde]"
+        },
+        {
+          "letra": "C",
+          "texto": "Trata-se, na prática, de um debate teológico. [Corresponde]"
+        },
+        {
+          "letra": "D",
+          "texto": "“Bem” e mal” são conceitos que dizem respeito apenas aos seres humanos. [cuidam]"
+        },
+        {
+          "letra": "E",
+          "texto": "atendimento das mais amplas necessidades coletivas. [observância]"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Coesão e Coerência",
+        "Língua Portuguesa – Substituição de Termos"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Essa limitação sempre se mostra relativa: sempre há quem ponha seus interesses imediatos e particulares acima do atendimento das mais amplas necessidades coletivas. Será mantida a adequada correlação entre os tempos e modos das formas verbais sublinhadas na frase acima caso sejam substituídas, respectivamente, por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mostrava – haveria – puser"
+        },
+        {
+          "letra": "B",
+          "texto": "mostrou – houve – pusesse"
+        },
+        {
+          "letra": "C",
+          "texto": "mostrará – houve – poria"
+        },
+        {
+          "letra": "D",
+          "texto": "mostraria – haverá – pôs"
+        },
+        {
+          "letra": "E",
+          "texto": "mostre – haja – poria"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Verbos",
+        "Língua Portuguesa – Tempos e Modos Verbais"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Os elementos que constituem a frase os seres humanos são inerentemente bons ou inerentemente maus relacionam-se como uma",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "causa e seu efeito."
+        },
+        {
+          "letra": "B",
+          "texto": "condicionalidade e sua consequência."
+        },
+        {
+          "letra": "C",
+          "texto": "alternância de tempos."
+        },
+        {
+          "letra": "D",
+          "texto": "alternativa entre antíteses."
+        },
+        {
+          "letra": "E",
+          "texto": "uma constatação e uma opinião."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Relações de Sentido"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "A partir da extinção do tráfico de escravos, em 1850, acelera-se a decadência da economia açucareira: o deslocar-se do eixo de prestígio para o Sul e os anseios das classes médias urbanas compunham um quadro novo para a nação, propício ao fermento de ideias liberais, abolicionistas e republicanas. De 1870 a 1890, serão essas as teses esposadas pela inteligência nacional, cada vez mais permeável ao pensamento europeu que na época se constelava em torno da filosofia positiva e do evolucionismo. Nessa passagem crítica, o historiador Alfredo Bosi está caracterizando um período crucial para o amadurecimento",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "das formas ficcionais e das análises da sociedade em autores como Machado de Assis e Aluísio Azevedo."
+        },
+        {
+          "letra": "B",
+          "texto": "da expansão da poesia socialmente comprometida de Gonçalves Dias e Álvares de Azevedo."
+        },
+        {
+          "letra": "C",
+          "texto": "dos ideais espiritualistas que nortearam a produção dos nossos poetas simbolistas e pré-modernistas."
+        },
+        {
+          "letra": "D",
+          "texto": "da ficção nacional, orientada para a introjeção da análise psicológica e intimista das personagens."
+        },
+        {
+          "letra": "E",
+          "texto": "da literatura de caráter documental, tal como se dá em Os sertões, de Euclides da Cunha."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Período de Transição (século XIX)"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Versos não se escrevem para leitura de olhos mudos. Versos cantam-se, urram-se, choram. A observação acima, do “Prefácio interessantíssimo”, deixa ver uma convicção importante",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "de um poeta parnasiano identificado com o preciosismo da linguagem."
+        },
+        {
+          "letra": "B",
+          "texto": "do simbolismo cultivado na inclinação mística de Cruz e Souza."
+        },
+        {
+          "letra": "C",
+          "texto": "da dicção típica dos poemas de Pauliceia desvairada, de Mário de Andrade."
+        },
+        {
+          "letra": "D",
+          "texto": "da ficção ousada e revolucionária frequentada por Oswald de Andrade."
+        },
+        {
+          "letra": "E",
+          "texto": "da lírica sensível e confessional de A cinza das horas, de Manuel Bandeira."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Modernismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Esta passagem, do crítico Paulo Rónai, refere-se a João Guimarães Rosa: Cada estória tem como núcleo um acontecimento. Mas o sentido atribuível a esse termo não é um sinônimo simples de ocorrência. “Parecia não acontecer coisa nenhuma”, adverte-nos o contista certa vez; e em outra ocasião pondera, ainda mais explícito: “Quando nada acontece, há um milagre que não estamos vendo”. Destaca-se nessa passagem uma qualidade da ficção de Guimarães Rosa:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o realismo da linguagem torna presente o significado épico de um evento."
+        },
+        {
+          "letra": "B",
+          "texto": "o sentido expressivo dos fatos deve ser reconhecido na profunda interiorização deles."
+        },
+        {
+          "letra": "C",
+          "texto": "nos mistérios da linguagem não se deve contar com uma revelação significativa."
+        },
+        {
+          "letra": "D",
+          "texto": "um texto ficcional deve estar a serviço de uma tese que se sustenta fora dele."
+        },
+        {
+          "letra": "E",
+          "texto": "o vazio da vida humana deve ser admitido como seu significado maior."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Modernismo (Guimarães Rosa)"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Atente para estes versos do poeta Ferreira Gullar: mas que sentido tem tecer palavras e palavras amoras auras lauras carambolas com esta mão mortal enquanto o tempo luze sua espada sobre mim? Nesses versos o poeta",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "admite o caráter consolador e ao mesmo tempo transitório das palavras generosas."
+        },
+        {
+          "letra": "B",
+          "texto": "ressalta a necessidade de se encontrar as palavras poeticamente mais eficazes."
+        },
+        {
+          "letra": "C",
+          "texto": "releva a importância que se deve dar não às palavras, mas às coisas mesmas."
+        },
+        {
+          "letra": "D",
+          "texto": "confronta a vivificação das palavras com o fatalismo da nossa mortalidade."
+        },
+        {
+          "letra": "E",
+          "texto": "demonstra o caráter superior das palavras imortais em face da contingência humana."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Poesia Contemporânea"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Atenção: Para responder a questão de número 13, considere o texto “A natureza humana entre o bem e o mal”. A melhor tradução para Não temos como saber o que foi a grande maioria deles é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "We do not have how to know what was their greatest majority."
+        },
+        {
+          "letra": "B",
+          "texto": "We cannot to know what was the big majority of them."
+        },
+        {
+          "letra": "C",
+          "texto": "We have no way of knowing what the great majority of them were."
+        },
+        {
+          "letra": "D",
+          "texto": "We have no way to know what the big majority of them was."
+        },
+        {
+          "letra": "E",
+          "texto": "We cannot know what the vast majority of them was."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Tradução",
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Atenção: Para responder às questões de números 14 a 16, considere o texto a seguir. Is the World Getting Worse, or Are We Just More Informed? In a world overflowing with 24/7 news cycles, doomscrolling, social media outrage, and real-time global reporting, it often feels like humanity is spiraling into chaos. Wars, climate disasters, economic instability, political polarization, moral decay, and cultural clashes bombard us from every screen. Naturally, many wonder: Is the world actually getting worse, or are we just more informed? This question is more than philosophical - it's psychological, sociological, and profoundly relevant to how we live today. Understanding the distinction between perceived reality and measurable reality is essential for our mental health, civic engagement, and collective future. Perception vs. Reality: The Data Don't Lie Let's start with facts. Global data from institutions like the UN, WHO, and World Bank tell a surprising story. Over the last century: Extreme poverty has drastically decreased. Global literacy rates have increased. Life expectancy has more than doubled. Infant mortality has sharply dropped. Violent crime rates in many developed countries are lower than they've been in decades. Technological access has grown exponentially – more people have smartphones than access to clean water. So why don't we feel better? The Media Amplifier: What You See Isn't Always the Full Story The modern information ecosystem prioritizes attention, not accuracy or balance. Algorithms are engineered to show us what's emotionally provocative. This often means outrage, fear, or tragedy. One bomb blast, one act of hate, one political scandal makes headlines globally - regardless of statistical rarity. When news outlets compete for clicks, negativity becomes currency. This creates what experts call the \"availability heuristic\": our brain assumes things we hear about often must be common, even if they aren't. Global Progress Is Uneven – and That's Real Too To be clear, not all \"worsening\" is illusion. Climate change is accelerating. Authoritarianism is rising in many regions. Inequality remains deeply entrenched. New forms of warfare, including cyber and information warfare, are reshaping conflict. The digital divide, algorithmic bias, and mass surveillance bring fresh challenges. So while we've made progress, we've also created complex new problems. So, What's the Truth? The truth is nuanced: The world isn't getting worse by most historical metrics. We are more informed, and sometimes misinformed, than ever. Our emotional experience of the world is shaped more by media and digital exposure than by actual local conditions. Hope and despair now compete equally for screen time. (Disponível em: https://medium.com. Adapted) O termo doomscrolling refere-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ao hábito de só buscar notícias negativas na internet."
+        },
+        {
+          "letra": "B",
+          "texto": "à necessidade de ler todas as notícias para se manter atualizado(da)."
+        },
+        {
+          "letra": "C",
+          "texto": "à prática de acompanhar apenas reportagens sobre desastres naturais."
+        },
+        {
+          "letra": "D",
+          "texto": "à preferência de ler notícias com alguma mensagem positiva."
+        },
+        {
+          "letra": "E",
+          "texto": "ao costume de seguir apenas sites com histórias inspiradoras."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto",
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Segundo o texto,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "nem todos os dados da ONU, da OMS e do Banco Mundial são totalmente confiáveis."
+        },
+        {
+          "letra": "B",
+          "texto": "o objetivo da maioria das manchetes é induzir o leitor a ler a matéria."
+        },
+        {
+          "letra": "C",
+          "texto": "nossa saúde mental é fortemente influenciada pelo modo como percebemos a realidade."
+        },
+        {
+          "letra": "D",
+          "texto": "quanto mais uma notícia for propagada, tanto mais pessoas duvidarão de sua veracidade."
+        },
+        {
+          "letra": "E",
+          "texto": "as pessoas estão cada vez mais desconectadas da realidade, o que pode causar esgotamento nervoso e desesperança."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "De acordo com o texto,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as estatísticas confirmam que o mundo está pior, o que gera profunda sensação de desespero nas pessoas."
+        },
+        {
+          "letra": "B",
+          "texto": "o grande fluxo de notícias a que estamos expostos contribui para que estejamos sempre bem-informados."
+        },
+        {
+          "letra": "C",
+          "texto": "o principal objetivo dos meios de comunicação é ganhar a atenção do leitor com dados estatísticos confiáveis."
+        },
+        {
+          "letra": "D",
+          "texto": "as fake news predominam nos meios de comunicação porque o público prefere notícias sensacionalistas."
+        },
+        {
+          "letra": "E",
+          "texto": "a mídia, hoje em dia, tende a privilegiar notícias negativas, pois, dessa forma, garante a atenção do público à matéria."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Matemática e Raciocínio Lógico. Em um torneio de surfe, um surfista conseguiu surfar 8 das 20 ondas possíveis em 12 minutos. Mantidas as proporções das três grandezas, se o surfista permanecer no mar até que se complete um total de 50 ondas possíveis ele terá surfado, no total da sua permanência no mar,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "14 ondas em 21 minutos."
+        },
+        {
+          "letra": "B",
+          "texto": "18 ondas em 27 minutos."
+        },
+        {
+          "letra": "C",
+          "texto": "20 ondas em 27 minutos."
+        },
+        {
+          "letra": "D",
+          "texto": "20 ondas em meia hora."
+        },
+        {
+          "letra": "E",
+          "texto": "21 ondas em meia hora."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Razão e Proporção",
+        "Matemática – Regra de Três"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Todos os ingressos de um show, que estão distribuídos entre os setores A, B e C, foram vendidos. Observe e analise o gráfico de setores que indica informações da venda desses ingressos. Setor A Setor B 42% 7/18 do total $\\alpha$ Setor C. De acordo com as informações, o ângulo indicado por $\\alpha$ no gráfico mede",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "58°45'"
+        },
+        {
+          "letra": "B",
+          "texto": "58°48'"
+        },
+        {
+          "letra": "C",
+          "texto": "68°45'"
+        },
+        {
+          "letra": "D",
+          "texto": "68°48'"
+        },
+        {
+          "letra": "E",
+          "texto": "69°20'"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria",
+        "Matemática – Medida de Ângulos",
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "O gráfico a seguir é o de uma parábola de vértice em $(5, -2)$ e intersectos com o eixo x em $(3, 0)$ e $(7, 0)$. [Gráfico de uma parábola com vértice em (5,-2) e raízes em (3,0) e (7,0)]. O ponto em que essa parábola intersecta o eixo y tem ordenada igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{21}{2}$"
+        },
+        {
+          "letra": "C",
+          "texto": "11"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{23}{2}$"
+        },
+        {
+          "letra": "E",
+          "texto": "12"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Funções do 2º Grau",
+        "Matemática – Parábola"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Uma caixa contém 6 bolas azuis, 4 bolas brancas e 5 bolas cinzas. Uma pessoa vai retirar ao acaso duas bolas, sem reposição, dessa caixa e ganhará um prêmio apenas se as bolas forem da mesma cor. A probabilidade de que essa pessoa ganhe o prêmio está entre",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "29% e 30%."
+        },
+        {
+          "letra": "B",
+          "texto": "30% e 31%."
+        },
+        {
+          "letra": "C",
+          "texto": "31% e 32%."
+        },
+        {
+          "letra": "D",
+          "texto": "32% e 33%."
+        },
+        {
+          "letra": "E",
+          "texto": "33% e 34%."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Probabilidade",
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "A fórmula logarítmica que mede o nível L da intensidade sonora, na unidade decibel (dB), em função da intensidade I do som e da intensidade $\\text{I}_0$ de referência do som em questão é dada por: $\\text{L} = 10 \\cdot \\log \\left( \\frac{\\text{I}}{\\text{I}_0} \\right)$. Adotando $\\log 2 = 0,3$ nos cálculos finais com essa fórmula, se a intensidade I do som em um auditório é 50 vezes a intensidade $\\text{I}_0$ do som de referência nesse ambiente, L será igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "16 dB."
+        },
+        {
+          "letra": "B",
+          "texto": "8 dB."
+        },
+        {
+          "letra": "C",
+          "texto": "14 dB."
+        },
+        {
+          "letra": "D",
+          "texto": "7 dB."
+        },
+        {
+          "letra": "E",
+          "texto": "17 dB."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Logaritmos",
+        "Física – Acústica"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Um pentágono, um hexágono e um triângulo regulares compartilham um mesmo vértice C. O pentágono compartilha o lado PC com o hexágono que, por sua vez, compartilha o lado QC com o triângulo. Completa a figura o quadrilátero pipa ABCD, com AD = AB, que compartilha o lado BC com o pentágono e o lado DC com o triângulo, como indica a figura a seguir. [Diagrama de formas geométricas P-C-Q-D-A-B com um ângulo de 50 graus no A e o ângulo CBA marcado]. Sabendo que a medida do ângulo agudo BÂD é de $50\\text{°}$, a medida do ângulo CBA, indicado na figura, é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$126\\text{°}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$125\\text{°}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$121\\text{°}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$120\\text{°}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$119\\text{°}$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Polígonos Regulares",
+        "Matemática – Ângulos"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Sendo x e y números inteiros positivos, se define a operação #, entre x e y, como $\\text{x \\# y = x - y}$. Usando tal definição, o valor de $$\\frac{\\text{(1 \\# 2) \\cdot (3 \\# 4) \\cdot (5 \\# 6) \\cdot (7 \\# 8) \\dots (49 \\# 50)}}{\\text{(50 \\# 49) + (48 \\# 47) + (46 \\# 45) + (44 \\# 43) + \\dots + (2 \\# 1)}}$$ é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-1"
+        },
+        {
+          "letra": "B",
+          "texto": "$-\\frac{1}{2}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$-\\frac{1}{25}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{1}{50}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{1}{25}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Sequências",
+        "Matemática – Progressões",
+        "Matemática – Operações com Inteiros"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Física. Enquanto um automóvel se desloca por uma estrada, seu motor realiza 3 000 rotações por minuto, com velocidade angular constante. O intervalo de tempo para que esse motor efetue uma volta completa é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20 ms."
+        },
+        {
+          "letra": "B",
+          "texto": "180 ms."
+        },
+        {
+          "letra": "C",
+          "texto": "60 ms."
+        },
+        {
+          "letra": "D",
+          "texto": "110 ms."
+        },
+        {
+          "letra": "E",
+          "texto": "50 ms."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Cinemática",
+        "Física – Movimento Circular Uniforme"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "A imagem mostra uma esfera metálica oca, com raio externo R e raio interno r. [Imagem de uma esfera oca com raios interno 'r' e externo 'R']. (Disponível em: www.allmathtricks.com). Ao ser aquecida de $20 \\text{ °C}$ até $100 \\text{ °C}$, o volume total dessa esfera aumenta de $40 \\text{ mm}^3$. Nesse mesmo aquecimento, o volume da parte oca da esfera",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "diminui de um valor igual a $40 \\text{ mm}^3$."
+        },
+        {
+          "letra": "B",
+          "texto": "diminui de um valor menor do que $40 \\text{ mm}^3$."
+        },
+        {
+          "letra": "C",
+          "texto": "aumenta de um valor maior do que $40 \\text{ mm}^3$."
+        },
+        {
+          "letra": "D",
+          "texto": "aumenta de um valor igual a $40 \\text{ mm}^3$."
+        },
+        {
+          "letra": "E",
+          "texto": "aumenta de um valor menor do que $40 \\text{ mm}^3$."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Termologia",
+        "Física – Dilatação Térmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Dois espelhos planos, $\\text{E}_1$ e $\\text{E}_2$, são dispostos paralelamente com suas faces refletoras voltadas uma para a outra. Um objeto P é colocado entre as faces refletoras desses espelhos, distando $2,0 \\text{ m}$ de um espelho e $3,0 \\text{ m}$ de outro. [Diagrama de dois espelhos paralelos E1 e E2 com um ponto P entre eles. P está a 2.0 m de E1 e 3.0 m de E2]. Nessa situação, são conjugadas infinitas imagens do objeto. A distância entre a primeira imagem do objeto P conjugada pelo espelho $\\text{E}_1$ e a primeira imagem do objeto P conjugada pelo espelho $\\text{E}_2$ é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$5,0 \\text{ m}$."
+        },
+        {
+          "letra": "B",
+          "texto": "$12,5 \\text{ m}$."
+        },
+        {
+          "letra": "C",
+          "texto": "$10,0 \\text{ m}$."
+        },
+        {
+          "letra": "D",
+          "texto": "$12,0 \\text{ m}$."
+        },
+        {
+          "letra": "E",
+          "texto": "$7,5 \\text{ m}$."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Óptica",
+        "Física – Espelhos Planos"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Analise o gráfico que mostra a corrente elétrica que se estabelece em um condutor em função da diferença de potencial aplicada entre seus terminais. [Gráfico de corrente elétrica (i em mA) versus diferença de potencial (U em V). A curva começa no (0,0) e sobe, não linearmente, mas com inclinação crescente]. Esse condutor é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ôhmico, e sua resistência elétrica é igual a $50 \\text{ Ω}$."
+        },
+        {
+          "letra": "B",
+          "texto": "ôhmico, e sua resistência elétrica é igual a $100 \\text{ Ω}$."
+        },
+        {
+          "letra": "C",
+          "texto": "ôhmico, e sua resistência elétrica é igual a $200 \\text{ Ω}$."
+        },
+        {
+          "letra": "D",
+          "texto": "não ôhmico, e sua resistência elétrica diminui com o aumento da diferença de potencial entre seus terminais."
+        },
+        {
+          "letra": "E",
+          "texto": "não ôhmico, e sua resistência elétrica aumenta com o aumento da diferença de potencial entre seus terminais."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Eletrodinâmica",
+        "Física – Resistência Elétrica",
+        "Física – Lei de Ohm"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "História - Geografia. A classe burguesa, formada por artesãos, mercadores, banqueiros e donos de companhias de comércio, eram habitantes das antigas cidades medievais fortificadas, denominadas burgos. (Disponível em: https://www.todamateria.com.br). O desenvolvimento do grupo social mencionado no texto acima, entre os séculos XI e XIV, teve como consequência para a Europa medieval:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A introdução de relações sociais e valores materiais associados ao desejo de lucro e à ideia de acumulação de riquezas."
+        },
+        {
+          "letra": "B",
+          "texto": "O fortalecimento da mentalidade feudal, uma vez que o alto clero e a nobreza uniram-se contra essa nova classe de mercadores e banqueiros."
+        },
+        {
+          "letra": "C",
+          "texto": "A maior exploração dos camponeses pelas novas classes de comerciantes e banqueiros, fator que ajudou a desencadear revoltas camponesas."
+        },
+        {
+          "letra": "D",
+          "texto": "A crise do sistema feudal, provocada pelo crescimento do comércio, do qual os nobres e o clero católico se apropriaram, marginalizando a burguesia."
+        },
+        {
+          "letra": "E",
+          "texto": "O revigoramento das monarquias nacionais pela aliança entre a nobreza feudal, o clero católico das cidades e os trabalhadores urbanos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Idade Média",
+        "História – Formação da Burguesia"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Eram chamados sans-culottes no século XVIII, durante a Revolução Francesa:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os nobres empobrecidos que viviam nas cidades, sustentados pela monarquia ou pela Igreja Católica."
+        },
+        {
+          "letra": "B",
+          "texto": "Os indivíduos da alta burguesia e revolucionários moderados que administravam bancos e vinícolas nas grandes cidades."
+        },
+        {
+          "letra": "C",
+          "texto": "Pessoas do povo que entravam na vida religiosa com o objetivo de ascender socialmente, constituindo-se no chamado baixo clero."
+        },
+        {
+          "letra": "D",
+          "texto": "Profissionais liberais pertencentes à nobreza togada que eram opositores do rei e do alto clero católico."
+        },
+        {
+          "letra": "E",
+          "texto": "Plebeus urbanos, particularmente numerosos em Paris, constituíram-se na camada revolucionária mais radical."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Revolução Francesa",
+        "História – Sans-culottes"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Afirmo que somos a primeira raça do mundo e que, quanto mais habitarmos o mundo, melhor será para a raça humana... Se Deus existe, acho que o que ele gostaria que eu fizesse é pintar o máximo possível do mapa da África com a cor vermelha britânica... A frase acima, dita por Cecil Rhodes, empresário e colonialista britânico, em 1895 revela",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "um sentimento humanista, pois vê todos os homens como iguais perante Deus e dignos de integrar a Grã-Bretanha."
+        },
+        {
+          "letra": "B",
+          "texto": "um pensamento racista e eugenista, que foi a principal justificativa para a política imperialista europeia no século XIX."
+        },
+        {
+          "letra": "C",
+          "texto": "uma visão paternalista dos povos africanos, que deveriam ser levados pacificamente ao caminho civilizatório pelos britânicos."
+        },
+        {
+          "letra": "D",
+          "texto": "o nacionalismo britânico, típico do século XIX, período no qual a Inglaterra possuía poucas colônias no continente africano."
+        },
+        {
+          "letra": "E",
+          "texto": "o desejo de conquista de terras na África, que consolidou a aliança entre britânicos e alemães às vésperas da Primeira Guerra Mundial."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Imperialismo",
+        "História – Colonialismo",
+        "História – Racismo (século XIX)"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Em 10 de novembro de 1937 foi instaurada no Brasil a ditadura exercida por Getúlio Vargas, o Estado Novo, que duraria até 1945. Essa ditadura possuía as seguintes características:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Descentralização administrativa e governos estaduais exercidos pelos chefes oligárquicos regionais nomeados por Vargas, os coronéis."
+        },
+        {
+          "letra": "B",
+          "texto": "Governo fortemente centralizado e reversão de medidas anteriormente favoráveis aos trabalhadores."
+        },
+        {
+          "letra": "C",
+          "texto": "Governo intervencionista na economia e adoção de modelo inspirado pelo comunismo soviético."
+        },
+        {
+          "letra": "D",
+          "texto": "Governo fortemente centralizado e a exaltação da figura de Vargas como protetor dos trabalhadores."
+        },
+        {
+          "letra": "E",
+          "texto": "Autoritarismo político e a implementação de uma nova forma de organização partidária com o bipartidarismo."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Brasil República",
+        "História – Era Vargas",
+        "História – Estado Novo"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Observe a imagem: [Mapa da América do Sul com setas indicando rios aéreos e números 1, 2, 3, 4]. RIOS AÉREOS (Disponível em: www.apu.com.br). A descrição do percurso dos rios aéreos representado na imagem está em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 e 2 – A floresta recebe a umidade vinda do oceano e libera oxigênio para os Andes."
+        },
+        {
+          "letra": "B",
+          "texto": "3 e 4 – Chuvas levam partículas vulcânicas e geram chuva ácida no Sudeste brasileiro."
+        },
+        {
+          "letra": "C",
+          "texto": "3 e 4 – Toda a umidade amazônica precipita sobre o extremo Sul da América do Sul."
+        },
+        {
+          "letra": "D",
+          "texto": "2 e 3 – A evapotranspiração da floresta transportará umidade para outras regiões da América do Sul."
+        },
+        {
+          "letra": "E",
+          "texto": "2 e 3 – A massa Tropical Atlântica leva umidade e calor à região Norte do Brasil."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Climatologia",
+        "Geografia – Hidrografia",
+        "Geografia – Rios Voadores",
+        "Geografia – Biomas (Amazônia)"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Considere a imagem abaixo. [Mapa-múndi mostrando a separação da África e América do Sul]. Em relação à dinâmica da crosta terrestre, na separação entre a África e a América do Sul, um dos eventos relacionados foi a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "elevação do relevo do Pantanal mato-grossense."
+        },
+        {
+          "letra": "B",
+          "texto": "submersão da Cordilheira dos Andes."
+        },
+        {
+          "letra": "C",
+          "texto": "irrupção da dorsal Mesoatlântica."
+        },
+        {
+          "letra": "D",
+          "texto": "extinção de terremotos no Brasil."
+        },
+        {
+          "letra": "E",
+          "texto": "ativação de vulcões na Amazônia brasileira."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geologia",
+        "Geografia – Tectonismo",
+        "Geografia – Deriva Continental"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Dados do Censo Demográfico 2022 mostram que entre 2010 e 2022, houve forte crescimento dos residentes naturais de países estrangeiros no Brasil. Esse fenômeno reflete uma mudança na tendência observada nas décadas anteriores, visto que, desde o Censo de 1960, o país vinha apresentando uma redução do número de estrangeiros e naturalizados brasileiros. (Disponível em: agenciadenoticias.ibge.gov.br). De acordo com o Censo de 2022, os imigrantes, majoritariamente, vieram",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "da América Latina."
+        },
+        {
+          "letra": "B",
+          "texto": "do Oriente Médio."
+        },
+        {
+          "letra": "C",
+          "texto": "do Sudeste asiático."
+        },
+        {
+          "letra": "D",
+          "texto": "do Norte da África."
+        },
+        {
+          "letra": "E",
+          "texto": "do Leste europeu."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Demografia",
+        "Geografia – Migrações Internacionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "A COP - Conferência das Partes das Nações Unidas (ONU) – é constituída de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "encontros responsáveis pela manutenção da paz e da segurança internacionais, nos quais são decididas eventuais sanções a países em conflitos."
+        },
+        {
+          "letra": "B",
+          "texto": "fóruns multilaterais de tomadas de decisões sobre mudanças climáticas que ajudam os países a se adaptarem e desenvolverem resiliência frente aos desafios."
+        },
+        {
+          "letra": "C",
+          "texto": "reuniões das Nações Unidas para unir os esforços internacionais para erradicar a fome no mundo, tendo como objetivo prioritário alcançar a segurança alimentar."
+        },
+        {
+          "letra": "D",
+          "texto": "eventos nos quais são estabelecidas as metas globais de educação básica e garantias de manutenção da diversidade cultural e liberdade religiosa."
+        },
+        {
+          "letra": "E",
+          "texto": "espaços de discussão sobre políticas públicas para preservação dos direitos da infância e da adolescência e diminuição de suas vulnerabilidades."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "Geografia – Meio Ambiente",
+        "Geografia – Mudanças Climáticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Filosofia. Considere o excerto presente na primeira parte de O Discurso do Método, do filósofo René Descartes (1596-1650). Eis a razão pela qual, tão logo a idade me permitiu sair da sujeição de meus preceptores, abandonei inteiramente o estudo das letras. E decidindo-me a não mais procurar outra ciência, além daquela que pudesse existir em mim próprio, ou então no grande livro do mundo, passei o resto de minha mocidade viajando, recolhendo diferentes experiências, testando a mim mesmo nas armadilhas que a sorte me proporcionava e, por toda a parte, fazendo uma tal reflexão sobre as coisas que se me apresentavam, para que pudesse tirar delas algum proveito. (Adaptado de DESCARTES, René. Discurso do Método. Introdução, análise e notas de Étienne Gilson. São Paulo: Martins Fontes, 2011). Constitui o principal objetivo da filosofia de Descartes expresso no texto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Abandonar o conhecimento filosófico para dedicar-se exclusivamente às experiências sensíveis e empíricas, como uma forma de ceticismo radical."
+        },
+        {
+          "letra": "B",
+          "texto": "Rejeitar a autoridade do saber tradicional e buscar um novo fundamento para o conhecimento na própria razão humana, a partir do argumento do cogito."
+        },
+        {
+          "letra": "C",
+          "texto": "Estabelecer uma base segura para o novo modelo de ciência, fundamentando-o na autoridade da Igreja e do saber escolástico para superar o ceticismo da época."
+        },
+        {
+          "letra": "D",
+          "texto": "Defender um novo modelo de ciência, tal qual fizera Copérnico e Galileu, buscando um ponto de partida para o conhecimento capaz de superar o ceticismo da época."
+        },
+        {
+          "letra": "E",
+          "texto": "Construir uma nova filosofia que se oponha a qualquer pensamento que parta da busca de um conhecimento do real por meio da subjetividade."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Filosofia – Racionalismo",
+        "Filosofia – René Descartes",
+        "Filosofia – Método Cartesiano"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "A felicidade (eudaimonía) é sempre procurada por si mesma e nunca com vistas em outra coisa, ao passo que a honra, o prazer, a inteligência e todas as virtudes (areté) nós de fato escolhemos por si mesmos (pois, ainda que nada resultasse daí, continuaríamos a escolher cada um deles); mas também os escolhemos no interesse da felicidade (eudaimonía), pensando que a posse deles nos tornará felizes. (Adaptado de: ARISTÓTELES, 1984, Ética a Nicômaco, livro I, p. 55). Em sua Ética, Aristóteles descreve, quanto à sua natureza, as virtudes como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas um meio para atingir a felicidade, não possuindo nenhum valor intrínseco."
+        },
+        {
+          "letra": "B",
+          "texto": "o fim último da vida humana e a felicidade como apenas uma consequência secundária da prática virtuosa."
+        },
+        {
+          "letra": "C",
+          "texto": "o bem supremo e inato do ser humano, garantindo a felicidade por si só, sem a necessidade de qualquer outra ação."
+        },
+        {
+          "letra": "D",
+          "texto": "bens que possuem valor em si mesmos e, simultaneamente, servem como um caminho necessário para alcançar a felicidade plena."
+        },
+        {
+          "letra": "E",
+          "texto": "irrelevantes para a felicidade, já que esta é um estado de espírito independente das ações do indivíduo."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Filosofia – Ética",
+        "Filosofia – Aristóteles",
+        "Filosofia – Virtude e Felicidade (Eudaimonia)"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Acerca dos conceitos do belo e do sublime na filosofia estética de Kant,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o belo causa uma sensação de prazer baseada na utilidade prática de um objeto, enquanto o sublime é uma experiência de medo diante de um poder esmagador."
+        },
+        {
+          "letra": "B",
+          "texto": "o belo se relaciona com a harmonia e a forma dos objetos, gerando um sentimento de prazer desinteressado, enquanto o sublime está ligado à magnitude e à desmesura, provocando um sentimento ambivalente de desprazer e, ao mesmo tempo, de respeito pela razão."
+        },
+        {
+          "letra": "C",
+          "texto": "o belo e o sublime são sinônimos, pois ambos representam a contemplação de objetos grandiosos da natureza, evocando um sentimento de respeito pela criação divina."
+        },
+        {
+          "letra": "D",
+          "texto": "o belo é uma experiência puramente subjetiva e individual, enquanto o sublime é um julgamento objetivo baseado em regras universais da estética."
+        },
+        {
+          "letra": "E",
+          "texto": "o belo é um conceito puramente racional, enquanto o sublime é uma experiência baseada apenas na sensibilidade e na emoção, sem a participação da razão."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Filosofia – Estética",
+        "Filosofia – Immanuel Kant",
+        "Filosofia – Belo e Sublime"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Sociologia. A respeito dos impactos socioeconômicos e ambientais de grandes obras no Brasil, considere as seguintes proposições: I. Nos últimos anos, o discurso do progresso e a busca do crescimento econômico a qualquer custo passaram a ser questionados em relação ao uso adequado dos recursos naturais e aos impactos sociais dos megaprojetos. II. A capacidade de mobilização e organização da sociedade civil é secundária em relação ao poderio dos grandes grupos econômicos e políticos, que mantêm as populações diretamente afetadas à margem das decisões. III. A exigência de relatórios de impacto e a instituição de normais legais mais detalhadas impuseram limites à realização de grandes projetos, uma vez que foram estabelecidas obrigações quanto à adoção de medidas e programas para evitar, mitigar ou compensar os danos ao meio ambiente e às comunidades atingidas. IV. As novas interpretações acerca da relação entre crescimento econômico e custo socioambiental têm redefinido a lógica das ações públicas em relação à implementação de grandes obras, com a intensificação de exigências e contrapartes que antes eram menosprezadas. Está correto o que se afirma APENAS em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "II e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "D",
+          "texto": "I, III e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "III e IV."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Sociologia – Meio Ambiente",
+        "Sociologia – Desenvolvimento Sustentável",
+        "Sociologia – Impactos Socioambientais",
+        "Sociologia – Movimentos Sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Sem marcas físicas visíveis, instala-se lentamente. Em alguns casos, leva tempo para a mulher se perceber como vítima. [...] A criação de mecanismos de controle das ações da parceira, como tarefas, despesas, relações sociais, comportamentos, é um sinal de alerta de que algo não vai bem. (Adaptado de: Conselho Nacional de Justiça. “Silenciosa e brutal...”, 06/06/2023. Disponível em: www.cnj.jus.br). O texto",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apresenta os vários tipos de violência contra a mulher."
+        },
+        {
+          "letra": "B",
+          "texto": "critica o aumento da violência física contra a mulher."
+        },
+        {
+          "letra": "C",
+          "texto": "refere-se ao crime de violência psicológica contra a mulher."
+        },
+        {
+          "letra": "D",
+          "texto": "descreve os mecanismos de controle da mulher no ambiente de trabalho."
+        },
+        {
+          "letra": "E",
+          "texto": "relata um caso de feminicídio no Brasil."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Sociologia – Violência de Gênero",
+        "Sociologia – Violência Psicológica"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Com uma mochila térmica nas costas e o celular como principal ferramenta de trabalho, entregadores por aplicativo se tornaram parte do cotidiano das cidades. Mas por trás da mobilidade constante e da aparente autonomia, muitos enfrentam um cenário de insegurança alimentar e falta de perspectivas. Uma nova pesquisa da ONG Ação da Cidadania revela que 32% desses trabalhadores vivem em insegurança alimentar – ou seja, três em cada dez entregadores convivem com algum nível de restrição no acesso à alimentação, seja ela leve, moderada ou grave. Realizado nas cidades do Rio de Janeiro e São Paulo, o levantamento mostra que a condição desses trabalhadores é pior do que a média nacional entre a população ocupada, estimada em 9,4%. [...]. Além da fome, os dados mostram que quase 60% dos entregadores entrevistados trabalham todos os dias da semana, por cerca de dez horas por dia, sem qualquer tipo de vínculo empregatício ou proteção social. (Adaptado de: Folha de São Paulo, “Levantamento aponta que 3 em cada 10 entregadores de SP e RJ enfrentam insegurança alimentar”, 06/04/2025. Disponível em: https://www.folha.uol.com.br/). Nos últimos anos, a expansão das plataformas de serviços on-line foi acompanhada de uma intensa precarização do trabalho, conforme demonstrado pelo texto. Essas mudanças contemporâneas nas relações de trabalho estão relacionadas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ao fortalecimento do ideário de igualdade e solidariedade entre os trabalhadores em detrimento do sistema ideológico de dominação centrado no individualismo exacerbado e na competição generalizada."
+        },
+        {
+          "letra": "B",
+          "texto": "à reestruturação da produção que, nas últimas décadas, desenvolveu formas flexíveis de acumulação, com o fim de reduzir custos e aumentar a produtividade e os lucros das empresas."
+        },
+        {
+          "letra": "C",
+          "texto": "à força coletiva dos trabalhadores organizados em sindicatos, que representou uma contraposição efetiva à perda de direitos e à erosão do poder de compra dos salários."
+        },
+        {
+          "letra": "D",
+          "texto": "à expansão acentuada dos empregos qualificados e estáveis nas fábricas, que absorveram a maior parte da mão de obra em comparação com o terceiro setor, no qual restaram apenas os empregos precários e em tempo parcial."
+        },
+        {
+          "letra": "E",
+          "texto": "ao aumento da participação estatal nos setores intensivos em mão de obra, o que retirou parte dos empregos no setor de serviços e enfraqueceu os processos de terceirização e de privatização das empresas e bens públicos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Sociologia – Mundo do Trabalho",
+        "Sociologia – Precarização do Trabalho",
+        "Sociologia – Novas Tecnologias"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Química - Biologia. CLASSIFICAÇÃO PERIÓDICA DOS ELEMENTOS. Com massas atômicas referidas ao isótopo 12 do Carbono. [Tabela Periódica dos Elementos com Massas Atômicas e Números Atômicos. Inclui Séries dos Lantanídeos e Actinídeos]. Uma equipe liderada pela engenheira mecânica Congrui Grace Jin, da Universidade Texas A&M, nos Estados Unidos, selecionou comunidades microbianas semelhantes a liquens, que crescem apenas com ar e luz, que, adicionadas à massa de cimento, poderiam resultar em um concreto capaz de preencher suas próprias fissuras. A formulação consiste em três combinações de cianobactérias filamentosas (Anabaena inaequalis e Nostoc punctiforme) que fixam dióxido de carbono e nitrogênio da atmosfera e um fungo filamentoso (Trichoderma reesei), que atrai cálcio ionizado e promove a precipitação de carbonato de cálcio, o material da casca do ovo e das conchas marinhas. (Disponível em: https://revistapesquisa.fapesp.br). Considerando que o concreto seja preparado com água, a $25 \\text{ °C}$, contendo concentração de cálcio de $100 \\text{ mg\\cdot L}^{-1}$, o carbonato de cálcio, $\\text{CaCO}_3$, começa a precipitar quando a concentração de carbonato, em $\\text{mol\\cdot L}^{-1}$, for, pelo menos, maior que Dados: Massa molar do Ca: $40,0 \\text{ g\\cdot mol}^{-1}$. $\\text{K}_{ps} \\text{ CaCO}_3$: $4,8 \\times 10^{-9} \\text{ mol}^2 \\text{ \\cdot L}^{-2}$, a $25 \\text{ °C}$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$1,9 \\times 10^{-6}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$4,8 \\times 10^{-11}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$4,8 \\times 10^{-7}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$1,9 \\times 10^{-9}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$5,2 \\times 10^{-7}$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Solubilidade",
+        "Química – Equilíbrio Químico",
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "A substância luminescente produzida pelo vaga-lume, chamada luciferina, provavelmente tem um papel antioxidante, além de emitir luz. Quando se encontra em uma atmosfera rica em oxigênio, o inseto aumenta a produção de luciferase, uma enzima que acelera a produção da luz, da própria luciferina e de enzimas antioxidantes. [Estrutura química da Luciferina: ciclo benzênico com grupo hidroxila, anel de tiazol com enxofre e nitrogênio, grupo carboxila (COOH)]. Para formar 1 mol do sal derivado da luciferina, deve-se adicionar",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 mol de NaOH."
+        },
+        {
+          "letra": "B",
+          "texto": "1 mol de NaOH."
+        },
+        {
+          "letra": "C",
+          "texto": "4 mol de HCl."
+        },
+        {
+          "letra": "D",
+          "texto": "2 mol de HCl."
+        },
+        {
+          "letra": "E",
+          "texto": "1 mol de HCl."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Química Orgânica",
+        "Química – Reações Ácido-Base",
+        "Química – Funções Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "O esquema a seguir representa a dissolução do cloreto de sódio em água. [Diagrama mostrando: Retículo cristalino de $\\text{Na}^+ \\text{Cl}^-$, íons $\\text{Na}^+$ e $\\text{Cl}^-$ isolados, e a dissolução em água com $\\text{Na}^+$ (aq) e $\\text{Cl}^-$ (aq). Moléculas de água (dipolo) interagindo com cátion sódio e ânion cloreto]. (Disponível em: https://share.google/images/BRizNkL5fzLa65GGT. Adaptado). Após a dissolução do cloreto de sódio, as interações da água com o soluto são do tipo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ligações de hidrogênio."
+        },
+        {
+          "letra": "B",
+          "texto": "dipolo instantâneo - dipolo permanente."
+        },
+        {
+          "letra": "C",
+          "texto": "íon - dipolo permanente."
+        },
+        {
+          "letra": "D",
+          "texto": "íon dipolo instantâneo."
+        },
+        {
+          "letra": "E",
+          "texto": "dipolo permanente - dipolo permanente."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Ligações Químicas",
+        "Química – Interações Intermoleculares",
+        "Química – Soluções"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Atenção: As questões de números 45 e 46 referem-se ao texto a seguir. Novas perspectivas sobre a origem e o tratamento do TDAH. Um estudo internacional publicado em janeiro na revista Nature Genetics identificou 76 genes potencialmente relacionados ao Transtorno de Déficit de Atenção e Hiperatividade (TDAH), com atividade aumentada durante o amadurecimento do cérebro, em uma amostra de 224 mil europeus. “Esses genes afetam principalmente o desenvolvimento cerebral no início da vida”, explica o psiquiatra Luís Rohde, da Universidade Federal do Rio Grande do Sul (UFRGS) e um dos autores do estudo. Sem o amadurecimento adequado do córtex pré-frontal, o paciente com TDAH não consegue inibir estímulos externos, como barulho ou luzes, ou internos, como pensamentos que tiram a atenção de determinada atividade. Essa facilidade em se distrair só é alterada quando entra em ação o sistema que controla a sensação de recompensa, comandado pela liberação do neurotransmissor dopamina. Quando crianças com TDAH jogam videogame ou adultos estão concentrados em algo prazeroso, por exemplo, partes do cérebro mandam ao córtex pré-frontal uma grande quantidade de dopamina, também conhecido como neurotransmissor do prazer, o que ajuda a aumentar o foco. “Quando não há prazer elevado, a pessoa com TDAH não tem essa motivação a mais para as tarefas do dia a dia”, explica Rohde. [Estrutura química da Dopamina com grupos hidroxilas em anel benzênico e grupo amina ($\\text{-NH}_2$) em cadeia lateral]. (Disponível em: https://revistapesquisa.fapesp.br. Adaptado). A função orgânica oxigenada e a classificação da amina presentes na dopamina são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "álcool e primária."
+        },
+        {
+          "letra": "B",
+          "texto": "álcool e terciária."
+        },
+        {
+          "letra": "C",
+          "texto": "fenol e primária."
+        },
+        {
+          "letra": "D",
+          "texto": "fenol e secundária."
+        },
+        {
+          "letra": "E",
+          "texto": "fenol e terciária."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Química Orgânica",
+        "Química – Funções Orgânicas (Fenol, Amina)"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "A dopamina é um mediador que participa da transmissão do impulso nervoso em sinapses químicas da mesma forma que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o glutamato."
+        },
+        {
+          "letra": "B",
+          "texto": "a glicose."
+        },
+        {
+          "letra": "C",
+          "texto": "o acetil-CoA."
+        },
+        {
+          "letra": "D",
+          "texto": "o cloreto de sódio."
+        },
+        {
+          "letra": "E",
+          "texto": "a mielina."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Neurofisiologia",
+        "Biologia – Neurotransmissores"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "As ilhas oceânicas brasileiras são aquelas que se localizam muito distantes do litoral, como: Fernando de Noronha, São Pedro e São Paulo, Atol das Rocas, Trindade e Martin Vaz. À parte Fernando de Noronha, onde há intensa atividade turística, as demais são santuários ecológicos, áreas de pesquisa científica e fechadas à visitação. Um estudo recente conduzido pelo pesquisador Hudson Pinheiro do CEBIMAR – USP, mostrou que 40% das espécies de peixes encontradas nessas ilhas apresentam distribuição geográfica extremamente limitada. Segundo o pesquisador: “nossos dados e novas interpretações mostram que essas ilhas são verdadeiros laboratórios naturais da evolução das espécies”. (Adaptado de: O Estado de São Paulo). As espécies que compõem os 40% citados no texto acima podem ser classificadas como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fundadoras."
+        },
+        {
+          "letra": "B",
+          "texto": "invasoras."
+        },
+        {
+          "letra": "C",
+          "texto": "pioneiras."
+        },
+        {
+          "letra": "D",
+          "texto": "exóticas."
+        },
+        {
+          "letra": "E",
+          "texto": "endêmicas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Ecologia",
+        "Biologia – Biodiversidade",
+        "Biologia – Espécies Endêmicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "A situação atual de emergência climática pela qual o planeta Terra e a humanidade passam tem relação direta com a intensificação antrópica do efeito estufa. Uma das atividades humanas que liberam GEEs e, por isso, intensificam esse efeito é a queima de combustíveis em indústrias, para a geração de energia elétrica e em diferentes tipos de veículos. Para que ocorra a interrupção rápida do aumento da concentração de GEEs na atmosfera terrestre, uma das ações necessárias é uma grande adesão ao uso de combustíveis que sejam nulos na emissão de gás carbônico. Sobre esses combustíveis “ecológicos”:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A fermentação alcoólica que produz etanol a partir do açúcar extraído de plantas sequestra carbono e, por isso, diminui a concentração de gás carbônico na atmosfera terrestre."
+        },
+        {
+          "letra": "B",
+          "texto": "O sequestro de carbono que ocorre com a formação do petróleo torna a gasolina um substituto ecológico para os combustíveis fósseis porque sua queima não gera gás carbônico novo."
+        },
+        {
+          "letra": "C",
+          "texto": "A liberação de gás carbônico com a queima de etanol não contribui para a intensificação do efeito estufa porque houve sequestro de carbono pelas plantas para a produção do açúcar que gerou esse combustível."
+        },
+        {
+          "letra": "D",
+          "texto": "A realização de respiração celular aeróbica durante o crescimento de plantas oleaginosas, como a mamona, fixa o carbono atmosférico e, por isso, o biodiesel produzido é uma alternativa aos combustíveis fósseis."
+        },
+        {
+          "letra": "E",
+          "texto": "A queima de óleo diesel produzido a partir do petróleo libera gás carbônico composto por carbono que já fazia parte da atmosfera há milhões de anos e, por isso, esse combustível é mais ecológico que a gasolina."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Química Ambiental",
+        "Química – Combustíveis",
+        "Química – Efeito Estufa",
+        "Química – Ciclo do Carbono",
+        "Química – Biocombustíveis"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Algumas cepas de bactérias Streptococcus salivarius thermophilus e Lactobacillus bulgaricus são preparadas para a venda de produtos para a fabricação de iogurtes caseiros a partir do leite. A produção de iogurte caseiro é possível porque essas bactérias",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "produzem ácido pirúvico a partir do fenômeno de glicólise do lactato."
+        },
+        {
+          "letra": "B",
+          "texto": "produzem ácido lático a partir do ácido pirúvico resultante da degradação da lactose."
+        },
+        {
+          "letra": "C",
+          "texto": "realizam fermentação aeróbica para obtenção de energia a partir dos glicídios."
+        },
+        {
+          "letra": "D",
+          "texto": "realizam a fermentação do ácido pirúvico para a obtenção da energia presente no etanol."
+        },
+        {
+          "letra": "E",
+          "texto": "produzem ácido lático como subproduto da fosforilação das moléculas de lactose no leite."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Microbiologia",
+        "Biologia – Metabolismo Celular",
+        "Biologia – Fermentação"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Unha do polegar auxiliou roedores a se tornarem os mamíferos mais comuns. Com a ajuda de um banco de dados que inclui a grande maioria dos roedores conhecidos, cientistas brasileiros verificaram que a presença de unhas no polegar, e não de garras, como nos demais dedos, provavelmente é a chamada condição ancestral do grupo, que acompanha os bichos desde que se separaram dos demais mamíferos. Segundo Rafaela Missagia, uma das autoras do estudo: “parece um traço bem particular dos roedores, especialmente considerando a combinação única de unhas nos polegares e garras nos outros dedos. Os coelhos, que são os parentes mais próximos dos roedores, apresentam garras em todos os dedos, enquanto os primatas que fazem parte do mesmo grande grupo, o dos Euarchontoglires, têm unhas em todos os dedos”. (Adaptado de: Folha de São Paulo. Ciência). [Diagrama filogenético com grupos: RODENTIA, LAGOMORPHA, SCANDENTIA, DERMOPTERA, PRIMATES, e EUARCHONTOGLIRES. Os números 1, 2, 3, 4, 5 indicam nós ou ramos]. A condição “unha no polegar e garra nos demais dedos” está representada na figura pelo número:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        },
+        {
+          "letra": "E",
+          "texto": "5"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Evolução",
+        "Biologia – Filogenia",
+        "Biologia – Morfologia Comparada"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4838 @@
+{
+  "nomeUniversidade": "UNICAMP - UNIVERSIDADE ESTADUAL DE CAMPINAS",
+  "siglaUniversidade": "UNICAMP",
+  "nomeVestibular": "Vestibular Unicamp",
+  "ano": 2025,
+  "cursos": [
+    {
+      "nomeCurso": "Administração",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Administração",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Administração",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Administração",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Administração",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Administração",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Administração",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Administração",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 14
+    },
+    {
+      "nomeCurso": "Administração Pública",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Administração Pública",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 47
+    },
+    {
+      "nomeCurso": "Administração Pública",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Administração Pública",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Administração Pública",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Administração Pública",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Administração Pública",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 10
+    },
+    {
+      "nomeCurso": "Administração Pública",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Arquitetura e Urbanismo",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 51
+    },
+    {
+      "nomeCurso": "Arquitetura e Urbanismo",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 50
+    },
+    {
+      "nomeCurso": "Arquitetura e Urbanismo",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Arquitetura e Urbanismo",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Arquitetura e Urbanismo",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Arquitetura e Urbanismo",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Arquitetura e Urbanismo",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Arquitetura e Urbanismo",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Artes Cênicas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Artes Cênicas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Artes Cênicas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Artes Cênicas",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Artes Cênicas",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Artes Cênicas",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Artes Visuais",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Artes Visuais",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Artes Visuais",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Artes Visuais",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Artes Visuais",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Artes Visuais",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Artes Visuais",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 56
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 57
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 52
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 50
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 49
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Ciências Biológicas – Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Ciências Biológicas – Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 49
+    },
+    {
+      "nomeCurso": "Ciências Biológicas – Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Ciências Biológicas – Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Ciências Biológicas – Licenciatura",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Ciências Biológicas – Licenciatura",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Ciências Biológicas – Licenciatura",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 47
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Ciências do Esporte",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Ciências do Esporte",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Ciências do Esporte",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Ciências do Esporte",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Ciências do Esporte",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências do Esporte",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Ciências do Esporte",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 13
+    },
+    {
+      "nomeCurso": "Ciências Econômicas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 50
+    },
+    {
+      "nomeCurso": "Ciências Econômicas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 50
+    },
+    {
+      "nomeCurso": "Ciências Econômicas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Ciências Econômicas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Ciências Econômicas",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Ciências Econômicas",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Ciências Econômicas",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Ciências Econômicas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Ciências Econômicas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 47
+    },
+    {
+      "nomeCurso": "Ciências Econômicas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Ciências Econômicas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Ciências Econômicas",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Ciências Econômicas",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 51
+    },
+    {
+      "nomeCurso": "Ciências Econômicas",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 47
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 26
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Comunicação Social-Midialogia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 47
+    },
+    {
+      "nomeCurso": "Comunicação Social-Midialogia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Comunicação Social-Midialogia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Comunicação Social-Midialogia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Comunicação Social-Midialogia",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Comunicação Social-Midialogia",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Comunicação Social-Midialogia",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Dança",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Dança",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Dança",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Dança",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Dança",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Dança",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Eng. Fis/Fis/Fis Med. e Biomed./Mat./Mat.Aplic. Comp.",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Eng. Fis/Fis/Fis Med. e Biomed./Mat./Mat.Aplic. Comp.",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Eng. Fis/Fis/Fis Med. e Biomed./Mat./Mat.Aplic. Comp.",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Eng. Fis/Fis/Fis Med. e Biomed./Mat./Mat.Aplic. Comp.",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Eng. Fis/Fis/Fis Med. e Biomed./Mat./Mat.Aplic. Comp.",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Eng. Fis/Fis/Fis Med. e Biomed./Mat./Mat.Aplic. Comp.",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Eng. Fis/Fis/Fis Med. e Biomed./Mat./Mat.Aplic. Comp.",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Eng. Fis/Fis/Fis Med. e Biomed./Mat./Mat.Aplic. Comp.",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Engenharia Agrícola",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Engenharia Agrícola",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Engenharia Agrícola",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Engenharia Agrícola",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Engenharia Agrícola",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 15
+    },
+    {
+      "nomeCurso": "Engenharia Agrícola",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Engenharia Agrícola",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 17
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 17
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 26
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 49
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Engenharia de Alimentos",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Engenharia de Alimentos",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Engenharia de Alimentos",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Engenharia de Alimentos",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Engenharia de Alimentos",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia de Alimentos",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Engenharia de Alimentos",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Engenharia de Alimentos",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Engenharia de Alimentos",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Engenharia de Alimentos",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Engenharia de Alimentos",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Engenharia de Alimentos",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Engenharia de Alimentos",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Engenharia de Alimentos",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia de Computação",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 57
+    },
+    {
+      "nomeCurso": "Engenharia de Computação",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 55
+    },
+    {
+      "nomeCurso": "Engenharia de Computação",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 53
+    },
+    {
+      "nomeCurso": "Engenharia de Computação",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 52
+    },
+    {
+      "nomeCurso": "Engenharia de Computação",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Engenharia de Computação",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 54
+    },
+    {
+      "nomeCurso": "Engenharia de Computação",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Engenharia de Computação",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Engenharia de Controle e Automação",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Engenharia de Controle e Automação",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 50
+    },
+    {
+      "nomeCurso": "Engenharia de Controle e Automação",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Engenharia de Controle e Automação",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Engenharia de Controle e Automação",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Engenharia de Controle e Automação",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Engenharia de Controle e Automação",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Engenharia de Controle e Automação",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Engenharia de Manufatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 16
+    },
+    {
+      "nomeCurso": "Engenharia de Manufatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Engenharia de Manufatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Engenharia de Manufatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Engenharia de Manufatura",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Engenharia de Manufatura",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Engenharia de Manufatura",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Engenharia de Telecomunicações",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Engenharia de Telecomunicações",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Engenharia de Telecomunicações",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Engenharia de Telecomunicações",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Engenharia de Telecomunicações",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Engenharia de Telecomunicações",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia de Transportes",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Engenharia de Transportes",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 15
+    },
+    {
+      "nomeCurso": "Engenharia de Transportes",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Engenharia de Transportes",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 26
+    },
+    {
+      "nomeCurso": "Engenharia de Transportes",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 49
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 47
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 50
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 49
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Estatística",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Estatística",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Estatística",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Estatística",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Estatística",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Estatística",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Estatística",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Estatística",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 26
+    },
+    {
+      "nomeCurso": "Estudos Literários",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Estudos Literários",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Estudos Literários",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Estudos Literários",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Estudos Literários",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Estudos Literários",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 47
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 49
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Filosofia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Filosofia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Filosofia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Filosofia",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Filosofia",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Filosofia",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Física - Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Física - Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Física - Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Física - Licenciatura",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Física - Licenciatura",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Física - Licenciatura",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Fonoaudiologia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Fonoaudiologia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Fonoaudiologia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Fonoaudiologia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Fonoaudiologia",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Fonoaudiologia",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Fonoaudiologia",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Geologia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Geologia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Geologia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Geologia",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Geologia",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Geologia",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Letras - Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Letras - Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Letras - Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Letras - Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Letras - Licenciatura",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Letras - Licenciatura",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Letras - Licenciatura",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Letras - Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Letras - Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Letras - Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Letras - Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Letras - Licenciatura",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Letras - Licenciatura",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Letras - Licenciatura",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Licenciatura Integrada Química/Física",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Licenciatura Integrada Química/Física",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 56
+    },
+    {
+      "nomeCurso": "Licenciatura Integrada Química/Física",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Licenciatura Integrada Química/Física",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Licenciatura Integrada Química/Física",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Licenciatura Integrada Química/Física",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Licenciatura Integrada Química/Física",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Linguística",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Linguística",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 47
+    },
+    {
+      "nomeCurso": "Linguística",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Linguística",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Linguística",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Linguística",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Matemática - Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Matemática - Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Matemática - Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Matemática - Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Matemática - Licenciatura",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Matemática - Licenciatura",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Matemática - Licenciatura",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Matemática - Licenciatura",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 62
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 60
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 58
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 56
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 57
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 55
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 52
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 50
+    },
+    {
+      "nomeCurso": "Música: Composição",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Música: Composição",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Música: Composição",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Música: Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Música: Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Música: Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Música: Licenciatura",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Música: Licenciatura",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Música: Regência",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Nutrição",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Nutrição",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Nutrição",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Nutrição",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Nutrição",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Nutrição",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Química Tecnológica",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Química Tecnológica",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Química Tecnológica",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Química Tecnológica",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Química Tecnológica",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Química Tecnológica",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Sistemas de Informação",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Sistemas de Informação",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Sistemas de Informação",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Sistemas de Informação",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Sistemas de Informação",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Sistemas de Informação",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Sistemas de Informação",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Sistemas de Informação",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Tecnologia em Análise e Des. de Sist.",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Tecnologia em Análise e Des. de Sist.",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Tecnologia em Análise e Des. de Sist.",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Tecnologia em Análise e Des. de Sist.",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Tecnologia em Análise e Des. de Sist.",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Tecnologia em Análise e Des. de Sist.",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Tecnologia em Análise e Des. de Sist.",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Tecnologia em Saneamento Ambiental",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Tecnologia em Saneamento Ambiental",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Tecnologia em Saneamento Ambiental",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Tecnologia em Saneamento Ambiental",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Treineiros - Área de Biológicas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Treineiros - Área de Biológicas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Treineiros - Área de Biológicas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Treineiros - Área de Biológicas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Treineiros - Área de Biológicas",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Treineiros - Área de Biológicas",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Treineiros - Área de Biológicas",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Treineiros - Área de Exatas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Treineiros - Área de Exatas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 60
+    },
+    {
+      "nomeCurso": "Treineiros - Área de Exatas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Treineiros - Área de Exatas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Treineiros - Área de Exatas",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Treineiros - Área de Exatas",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Treineiros - Área de Exatas",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Treineiros - Área de Exatas",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Treineiros - Área de Humanas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Treineiros - Área de Humanas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Treineiros - Área de Humanas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Treineiros - Área de Humanas",
+      "modalidadeConcorrencia": "Ampla Concorrência (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Treineiros - Área de Humanas",
+      "modalidadeConcorrencia": "Cota (Paais 0)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Treineiros - Área de Humanas",
+      "modalidadeConcorrencia": "Cota (Paais 20)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Treineiros - Área de Humanas",
+      "modalidadeConcorrencia": "Cota (Paais 40)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Treineiros - Área de Humanas",
+      "modalidadeConcorrencia": "Cota (Paais 60)",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Música Erudita: Clarineta",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 1,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 547.4
+    },
+    {
+      "nomeCurso": "Música Erudita: Contrabaixo",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 2,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 521.8
+    },
+    {
+      "nomeCurso": "Música Erudita: Flauta",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 3,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 474
+    },
+    {
+      "nomeCurso": "Música Erudita: Percussão",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 5,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 477.9
+    },
+    {
+      "nomeCurso": "Música Erudita: Piano",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 6,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 503.6
+    },
+    {
+      "nomeCurso": "Música Erudita: Trombone",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 5,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 415.6
+    },
+    {
+      "nomeCurso": "Música Erudita: Trompete",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 5,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 459.8
+    },
+    {
+      "nomeCurso": "Música Erudita: Viola",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 2,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 401
+    },
+    {
+      "nomeCurso": "Música Erudita: Violão",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 1,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 529.1
+    },
+    {
+      "nomeCurso": "Música Erudita: Violino",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 8,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 476.8
+    },
+    {
+      "nomeCurso": "Música Erudita: Violoncelo",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 2,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 388.3
+    },
+    {
+      "nomeCurso": "Música Erudita: Voz",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 3,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 469.8
+    },
+    {
+      "nomeCurso": "Música Popular: Bateria",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 3,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 522.9
+    },
+    {
+      "nomeCurso": "Música Popular: Contrabaixo",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 8,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 519.3
+    },
+    {
+      "nomeCurso": "Música Popular: Guitarra",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 8,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 487.7
+    },
+    {
+      "nomeCurso": "Música Popular: Piano",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 8,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 406.2
+    },
+    {
+      "nomeCurso": "Música Popular: Saxofone",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 2,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 417.1
+    },
+    {
+      "nomeCurso": "Música Popular: Violão",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 4,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 454.2
+    },
+    {
+      "nomeCurso": "Música Popular: Voz",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 6,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 503
+    },
+    {
+      "nomeCurso": "Música: Composição",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 9,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 475.8
+    },
+    {
+      "nomeCurso": "Música: Composição",
+      "modalidadeConcorrencia": "Cota",
+      "vagas": 1,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 570.7
+    },
+    {
+      "nomeCurso": "Música: Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 18,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 449
+    },
+    {
+      "nomeCurso": "Música: Licenciatura",
+      "modalidadeConcorrencia": "Cota",
+      "vagas": 4,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 432.4
+    },
+    {
+      "nomeCurso": "Música: Regência",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 1,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 569.8
+    }
+  ]
+}

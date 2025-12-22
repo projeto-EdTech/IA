@@ -1,0 +1,1552 @@
+{
+  "nomeUniversidade": "Universidade do Estado do Rio de Janeiro",
+  "siglaUniversidade": "UERJ",
+  "nomeProva": "Exame Único - Vestibular Estadual",
+  "ano": 2022,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": "1",
+      "enunciado": "A ciência em si\n\nSe toda coincidência\nTende a que se entenda\nE toda lenda\nQuer chegar aqui\nA ciência não se aprende\nA ciência apreende\nA ciência em si\n\nSe toda estrela cadente\nCai pra fazer sentido\nE todo mito\nQuer ter carne aqui\nA ciência não se ensina\nA ciência insemina\nA ciência em si\n\nSe o que se pode ver, ouvir, pegar, medir, pesar\nDo avião a jato ao jabuti\nDesperta o que ainda não, não se pôde pensar\nDo sono eterno ao eterno devir\nComo a órbita da Terra abraça o vácuo devagar\nPara alcançar o que já estava aqui\nSe a crença quer se materializar\nTanto quanto a experiência quer se abstrair\nA ciência não avança\nA ciência alcança\nA ciência em si\n\nARNALDO ANTUNES e GILBERTO GIL\nAdaptado de fiocruz.br.\n\nNa letra da música, observa-se uma estrutura que se repete nas três estrofes, construindo um raciocínio típico do pensamento científico.\nEsse raciocínio, que pode ser representado pela fórmula “se x, logo y”, encontra-se no campo argumentativo da:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "dedução"
+        },
+        {
+          "letra": "B",
+          "texto": "indução"
+        },
+        {
+          "letra": "C",
+          "texto": "contestação"
+        },
+        {
+          "letra": "D",
+          "texto": "exemplificação"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Lógica Argumentativa"
+      ]
+    },
+    {
+      "numeroEnunciado": "2",
+      "enunciado": "A letra da música aborda a ciência como uma forma de compreensão do mundo. Um dos campos de investigação conhecidos é a biologia, que, antes dispersa em diferentes áreas, unifica-se a partir do século XX.\nNessa trajetória histórica, as ideias de Darwin, as leis da hereditariedade de Mendel e as descobertas da genética consolidaram um conjunto de explicações que, no domínio da biologia, são caracterizadas como:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "vitalistas"
+        },
+        {
+          "letra": "B",
+          "texto": "evolutivas"
+        },
+        {
+          "letra": "C",
+          "texto": "progressivas"
+        },
+        {
+          "letra": "D",
+          "texto": "transformistas"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Teorias da Evolução"
+      ]
+    },
+    {
+      "numeroEnunciado": "3",
+      "enunciado": "Por meio de métodos científicos de investigação, a química estuda as transformações de materiais.\nUma transformação que corresponde a um fenômeno químico está indicada em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "sublimação da naftalina"
+        },
+        {
+          "letra": "B",
+          "texto": "destilação do álcool"
+        },
+        {
+          "letra": "C",
+          "texto": "oxidação do aço"
+        },
+        {
+          "letra": "D",
+          "texto": "fusão do gelo"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Fenômenos Químicos"
+      ]
+    },
+    {
+      "numeroEnunciado": "4",
+      "enunciado": "Se toda estrela cadente / Cai pra fazer sentido (2ª estrofe)\nAs chamadas estrelas cadentes nada mais são que meteoros. Esses pedaços de rocha são atraídos pelo campo gravitacional da Terra e incandescem no atrito com a atmosfera.\nAdmita que um meteoro, ao penetrar na atmosfera terrestre, tenha, em determinado instante, massa de 10 kg e velocidade de 252000 km/h.\nNessas condições, a quantidade de movimento do meteoro, em kg.m/s, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "560000"
+        },
+        {
+          "letra": "B",
+          "texto": "680000"
+        },
+        {
+          "letra": "C",
+          "texto": "700000"
+        },
+        {
+          "letra": "D",
+          "texto": "820000"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Quantidade de Movimento"
+      ]
+    },
+    {
+      "numeroEnunciado": "5",
+      "enunciado": "OS TRÊS POEMAS A SEGUIR FORAM ADAPTADOS DO LIVRO\nSONETOS DE CAMÕES: CORPUS DOS SONETOS CAMONIANOS*.\n(*Edição e notas de Cleonice S. M. Berardinelli. Rio de Janeiro: Fundação Casa de Rui Barbosa,1980.)\n\nSONETO I\n\nMudam-se os tempos, mudam-se as vontades,\nMuda-se o ser, muda-se a confiança;\nTodo o mundo é composto de mudança,\nTomando sempre novas qualidades.\n\nContinuamente vemos novidades,\nDiferentes em tudo da esperança;\nDo mal ficam as mágoas na lembrança,\nE do bem (se algum houve) as saudades.\n\nO tempo cobre o chão de verde manto,\nQue já coberto foi de neve fria,\nE enfim converte em choro o doce canto.\n\nE, afora este mudar-se cada dia,\nOutra mudança faz de mor¹ espanto,\nQue não se muda já como soía².\n\n¹ mor – maior\n² soía – costumava\n\nNo soneto, é possível observar a exposição de ideias segundo uma lógica argumentativa.\nDois recursos empregados no soneto I que articulam as ideias presentes na primeira estrofe às presentes nas outras três são, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "gradação e enumeração"
+        },
+        {
+          "letra": "B",
+          "texto": "declaração e comparação"
+        },
+        {
+          "letra": "C",
+          "texto": "pressuposição e conclusão"
+        },
+        {
+          "letra": "D",
+          "texto": "generalização e particularização"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Estrutura do Soneto"
+      ]
+    },
+    {
+      "numeroEnunciado": "6",
+      "enunciado": "A imagem a seguir reproduz um grafite visto em um muro em Portugal.\nO grafite estabelece intertextualidade com o soneto I, que trata da mudança como fonte de desassossego para o poeta quinhentista.\nReelaborada na contemporaneidade, a mudança retratada no grafite pode ser associada ao seguinte tema, presente nos sonetos de Camões:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "imprecisão do conhecimento"
+        },
+        {
+          "letra": "B",
+          "texto": "necessidade da experiência"
+        },
+        {
+          "letra": "C",
+          "texto": "ambiguidade do amor"
+        },
+        {
+          "letra": "D",
+          "texto": "desconcerto do mundo"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Intertextualidade"
+      ]
+    },
+    {
+      "numeroEnunciado": "7",
+      "enunciado": "SONETO II\n\nO tempo acaba o ano, o mês e a hora,\nA força, a arte, a manha, a fortaleza;\nO tempo acaba a fama e a riqueza,\nO tempo o mesmo tempo de si chora.\n\nO tempo busca e acaba o onde mora\nQualquer ingratidão, qualquer dureza,\nMas não pode acabar minha tristeza,\nEnquanto não quiserdes vós, Senhora.\n\nO tempo o claro dia torna escuro,\nE o mais ledo¹ prazer em choro triste;\nO tempo a tempestade em grã² bonança.\n\nMas de abrandar o tempo estou seguro\nO peito de diamante, onde consiste\nA pena e o prazer desta esperança.\n\n¹ ledo – alegre\n² grã – grande\n\nNo soneto II, marcas enunciativas que representam os interlocutores do poema estão presentes nos seguintes versos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O tempo acaba a fama e a riqueza, / O tempo o mesmo tempo de si chora."
+        },
+        {
+          "letra": "B",
+          "texto": "Mas não pode acabar minha tristeza, / Enquanto não quiserdes vós, Senhora."
+        },
+        {
+          "letra": "C",
+          "texto": "O tempo o claro dia torna escuro, / E o mais ledo prazer em choro triste;"
+        },
+        {
+          "letra": "D",
+          "texto": "O peito de diamante, onde consiste / A pena e o prazer desta esperança."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Marcas de Enunciação"
+      ]
+    },
+    {
+      "numeroEnunciado": "8",
+      "enunciado": "No soneto II, o poeta descreve o impacto da ação do tempo, destacando sua capacidade de transformar algo em seu oposto.\nEssa capacidade está exemplificada no seguinte verso:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O tempo acaba o ano, o mês e a hora,"
+        },
+        {
+          "letra": "B",
+          "texto": "O tempo o mesmo tempo de si chora."
+        },
+        {
+          "letra": "C",
+          "texto": "O tempo a tempestade em grã bonança."
+        },
+        {
+          "letra": "D",
+          "texto": "Mas de abrandar o tempo estou seguro"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": "9",
+      "enunciado": "SONETO III\n\nSete anos de pastor Jacob servia\nLabão, pai de Raquel, serrana bela;\nMas não servia ao pai, servia a ela,\nE a ela só por prêmio pretendia.\n\nOs dias na esperança de um só dia\nPassava, contentando-se com vê-la;\nPorém o pai, usando de cautela,\nEm lugar de Raquel, lhe dava Lia.\n\nVendo o triste pastor que com enganos\nLhe fora assim negada sua pastora,\nComo se a não tivera merecida,\n\nComeça de servir outros sete anos,\nDizendo: — Mais servira, se não fora\nPara tão longo amor tão curta a vida.\n\nNo soneto III, o poeta aborda a frustração amorosa, empregando construções de um tipo textual não usual no gênero lírico.\nEsse tipo textual é denominado:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "dissertativo"
+        },
+        {
+          "letra": "B",
+          "texto": "descritivo"
+        },
+        {
+          "letra": "C",
+          "texto": "narrativo"
+        },
+        {
+          "letra": "D",
+          "texto": "injuntivo"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Tipologia Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": "10",
+      "enunciado": "Como se a não tivera merecida, (3ª estrofe)\nO verso acima estabelece determinada relação de sentido com os dois versos que o antecedem.\nEssa relação expressa sentido de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "modo"
+        },
+        {
+          "letra": "B",
+          "texto": "causa"
+        },
+        {
+          "letra": "C",
+          "texto": "finalidade"
+        },
+        {
+          "letra": "D",
+          "texto": "adversidade"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Coesão e Coerência"
+      ]
+    },
+    {
+      "numeroEnunciado": "11",
+      "enunciado": "Os sonetos I, II e III destacam um sentimento de impotência diante da passagem do tempo. Na última estrofe de cada poema, porém, o poeta revela sentimentos que se confrontam com essa impotência.\nEsses sentimentos podem ser definidos, respectivamente, como:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "surpresa – perseverança – lealdade"
+        },
+        {
+          "letra": "B",
+          "texto": "lealdade – cooperação – prudência"
+        },
+        {
+          "letra": "C",
+          "texto": "prudência – liberdade – satisfação"
+        },
+        {
+          "letra": "D",
+          "texto": "satisfação – alegria – surpresa"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação Literária"
+      ]
+    },
+    {
+      "numeroEnunciado": "12",
+      "enunciado": "O romance Animal Farm(\"A revolução dos bichos\"), de George Orwell, se passa numa fazenda onde animais, liderados pelo porco Old Major, decidem fazer uma revolução. São apresentados abaixo dois trechos do romance: o primeiro, de sua parte inicial, quando a fazenda ainda é administrada por Mr. Jones; o segundo, de sua parte final, quando passa a ser controlada pelos animais.\n\nPART 1\nWord had gone round during the day that Old Major (...) had had a strange dream on the previous night and wished to communicate it to the other animals. It had been agreed that they should all meet in the big barn as soon as Mr. Jones was safely out of the way.\n(...) When Major saw that they had all made themselves comfortable and were waiting attentively, he cleared his throat and began: “Now comrades, what is the nature of this life of ours? Let us face it: our lives are miserable, laborious, and short. (...) Why then do we continue in this miserable condition? Because nearly the whole of the produce of our labour is stolen from us by human beings. There, comrades, is the answer to all our problems. It is summed up in a single word: Man. Man is the only real enemy we have. Remove Man from the scene, and the root cause of hunger and overwork is abolished forever. Man is the only creature that consumes without producing. He does not give milk, he does not lay eggs (...), yet he is lord of all the animals. (...) Is it not crystal clear, then, comrades, that all the evils of this life of ours spring from the tyranny of human beings? Only get rid of Man, and the produce of our labour would be our own. (...) That is my message to you, comrades: Rebellion!\"\n\nPART 2\nYears passed. The seasons came and went, the short animal lives fled by. A time came when there was no one who remembered the old days before the Rebellion (...).\nSomehow it seemed as though the farm had grown richer without making the animals themselves any richer – except, of course, for the pigs and the dogs. (...) It was not that these creatures did not work, after their fashion. There was, as Squealer* was never tired of explaining, endless work in the supervision and organization of the farm. Much of this work was of a kind that the other animals were too ignorant to understand. For example, Squealer told them that the pigs had to expend enormous labours every day upon mysterious things called “files”, “reports”, “minutes” and “memoranda”. These were large sheets of paper which had to be closely covered with writing, and as soon as they were so covered, they were burnt in the furnace. This was of the highest importance for the welfare of the farm, Squealer said. But still, neither pigs nor dogs produced any food by their own labour; and there were very many of them, and their appetites were always good. As for the others, their life, so far as they knew, was as it had always been. They were generally hungry, they slept on straw, they drank from the pool, they laboured in the fields. (...)\nAnd yet the animals never gave up hope. More, they never lost, even for an instant, their sense of honour and privilege in being members of Animal Farm. They were still the only farm in the whole county — in all England! — owned and operated by animals. (...)\n* Squealer is the name of a pig.\n\nGEORGE ORWELL\nAnimal Farm. Londres: Longman, 1945.\n\nAnimal Farm opens with a clandestine meeting of the animals, motivated by Old Major's dream.\nThe aim of this meeting is to pass on the following message:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "For the animals' lives to be happy, man has to be eliminated."
+        },
+        {
+          "letra": "B",
+          "texto": "For the animals to have peace, man has to understand their nature."
+        },
+        {
+          "letra": "C",
+          "texto": "For the animals to live in a better condition, man has to be undervalued."
+        },
+        {
+          "letra": "D",
+          "texto": "For the animals' work to succeed, man has to stop stealing their produce."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": "13",
+      "enunciado": "The first paragraph contains three clauses in the Past Perfect.\nIn these clauses, this verb tense refers to actions that can be described as:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "expressing habits in the past"
+        },
+        {
+          "letra": "B",
+          "texto": "conveying recent past events"
+        },
+        {
+          "letra": "C",
+          "texto": "starting in the past and still in progress"
+        },
+        {
+          "letra": "D",
+          "texto": "happening before other ones in the past"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Tempos Verbais"
+      ]
+    },
+    {
+      "numeroEnunciado": "14",
+      "enunciado": "It is summed up in a single word: Man. (l. 8)\nThe underlined word refers to the following idea:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "the produce of the farm labour"
+        },
+        {
+          "letra": "B",
+          "texto": "the excuse for a miserable condition"
+        },
+        {
+          "letra": "C",
+          "texto": "the answer to all the animals' problems"
+        },
+        {
+          "letra": "D",
+          "texto": "the reason for almost all human suffering"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Referência Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": "15",
+      "enunciado": "He does not give milk, he does not lay eggs (...), yet he is lord of all the animals. (l. 10-11)\nThe underlined word expresses the following meaning:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "addition"
+        },
+        {
+          "letra": "B",
+          "texto": "contrast"
+        },
+        {
+          "letra": "C",
+          "texto": "probability"
+        },
+        {
+          "letra": "D",
+          "texto": "completion"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Conectivos"
+      ]
+    },
+    {
+      "numeroEnunciado": "16",
+      "enunciado": "There was, as Squealer was never tired of explaining, endless work in the supervision and organization of the farm. (l. 19-20)\nThe main purpose of Squealer's explanation is described below:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "to postpone administrative farm work"
+        },
+        {
+          "letra": "B",
+          "texto": "to show the similarity between two kinds of work"
+        },
+        {
+          "letra": "C",
+          "texto": "to recognize the importance of other animals' work"
+        },
+        {
+          "letra": "D",
+          "texto": "to prevent animals from questioning their own work"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": "17",
+      "enunciado": "they never lost, even for an instant, their sense of honour and privilege in being members of Animal Farm. (l. 29-30)\nThe fragment above implies that the animals, except for the pigs and dogs, lack the following value:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "honesty"
+        },
+        {
+          "letra": "B",
+          "texto": "innocence"
+        },
+        {
+          "letra": "C",
+          "texto": "awareness"
+        },
+        {
+          "letra": "D",
+          "texto": "comradeship"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Inferência Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": "18",
+      "enunciado": "The two parts of the story teach a lesson, which may be summarized in the sentence below:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Once you have power, you will always act the same way."
+        },
+        {
+          "letra": "B",
+          "texto": "Whoever you are, you should always care for other people."
+        },
+        {
+          "letra": "C",
+          "texto": "Whatever happens, you should never believe in human goodness."
+        },
+        {
+          "letra": "D",
+          "texto": "No matter how hard you work, your efforts will never be recognized."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": "19",
+      "enunciado": "A Wiphala é uma bandeira com sete cores, símbolo não só dos povos originários da região da Cordilheira dos Andes, como também de sua filosofia. A simetria observada na bandeira representa a igualdade dentro do sistema comunitário andino.\nConsidere uma bandeira retangular, com 272 cm de altura e 416 cm de largura, que também foi confeccionada com pequenos quadrados congruentes, de modo que não ocorre sobreposição ou espaço entre eles.\nO número inteiro que representa a medida do maior lado que esses pequenos quadrados podem ter, em centímetros, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12"
+        },
+        {
+          "letra": "B",
+          "texto": "14"
+        },
+        {
+          "letra": "C",
+          "texto": "16"
+        },
+        {
+          "letra": "D",
+          "texto": "18"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Máximo Divisor Comum"
+      ]
+    },
+    {
+      "numeroEnunciado": "20",
+      "enunciado": "Um teste de material foi realizado com placas de vidro homogêneo. Considere $I_0$ a intensidade de luz que incide no vidro e $I$ a quantidade de luz que o atravessa. Observe a equação que relaciona $I_0$ e $I$, a partir da constante $e$, sendo $x$ a espessura do vidro, em milímetros, e $k$ a constante do material com que foi fabricado:\n$$\\frac{I}{I_0} = e^{-kx}$$\nConsidere a tabela a seguir, que apresenta valores aproximados para $e^{-w}$:\nPara $k = 0,046$ e $x = 5$ mm, a porcentagem da intensidade da luz incidente que atravessa o vidro é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "78,7%"
+        },
+        {
+          "letra": "B",
+          "texto": "79,4%"
+        },
+        {
+          "letra": "C",
+          "texto": "80,2%"
+        },
+        {
+          "letra": "D",
+          "texto": "81,1%"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Função Exponencial"
+      ]
+    },
+    {
+      "numeroEnunciado": "21",
+      "enunciado": "Durante a atual pandemia da covid-19, uma universidade realizou um estudo com 400 docentes sobre o Ensino a Distância (EAD) e o Ensino Remoto Emergencial (ERE). Parte dos resultados desse estudo está representada a seguir:\nEntre os docentes que consideram que o EAD e o ERE são formas de trabalho distintas, a quantidade daqueles que não vislumbram a continuidade do trabalho de ERE após a pandemia é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "200"
+        },
+        {
+          "letra": "B",
+          "texto": "220"
+        },
+        {
+          "letra": "C",
+          "texto": "240"
+        },
+        {
+          "letra": "D",
+          "texto": "260"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Teoria dos Conjuntos"
+      ]
+    },
+    {
+      "numeroEnunciado": "22",
+      "enunciado": "A figura a seguir representa um quadrado ABCD de lado igual a 5 cm. Nele, observa-se o quadrado AEFG, cujo lado mede x cm, sendo $0 < x < 5$.\nA área máxima que o retângulo DGFH pode assumir, em $cm^2$, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5,75"
+        },
+        {
+          "letra": "B",
+          "texto": "6,25"
+        },
+        {
+          "letra": "C",
+          "texto": "7,45"
+        },
+        {
+          "letra": "D",
+          "texto": "8,15"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Função Quadrática"
+      ]
+    },
+    {
+      "numeroEnunciado": "23",
+      "enunciado": "Admita que uma pessoa na posição P avista o ponto A mais alto de um morro sob um ângulo de $40^\\circ$. Ao caminhar 100 m sobre a reta horizontal PB, até a posição Q, ela avista o mesmo ponto sob o ângulo de $50^\\circ$. O esquema a seguir representa essa situação, sendo AB a altura do morro em relação à reta horizontal PB.\nConsidere os seguintes valores das razões trigonométricas:\nA altura AB, em metros, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "212,0"
+        },
+        {
+          "letra": "B",
+          "texto": "224,6"
+        },
+        {
+          "letra": "C",
+          "texto": "232,0"
+        },
+        {
+          "letra": "D",
+          "texto": "285,6"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Trigonometria"
+      ]
+    },
+    {
+      "numeroEnunciado": "24",
+      "enunciado": "Em uma revendedora, uma motocicleta custa à vista R$ 10.404,00. Esse valor também pode ser pago a prazo, sem juros, em duas parcelas de R$ 5.202,00, sendo a primeira um mês após a compra e a segunda dois meses após a compra.\nUm comprador tem o valor de R$ 10.404,00 em uma aplicação que rende juros de 2% ao mês. Ele decide manter esse valor aplicado e, ao final do primeiro mês, retira apenas R$ 5.202,00 para pagar a primeira parcela. Um mês depois retira R$ 5.202,00 e faz o pagamento da segunda parcela. Isso equivale a ter um desconto no ato da compra.\nEsse desconto, em percentual, está mais próximo de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3,0%"
+        },
+        {
+          "letra": "B",
+          "texto": "3,5%"
+        },
+        {
+          "letra": "C",
+          "texto": "4,0%"
+        },
+        {
+          "letra": "D",
+          "texto": "4,5%"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Matemática Financeira"
+      ]
+    },
+    {
+      "numeroEnunciado": "25",
+      "enunciado": "A imagem a seguir apresenta cinco linhas horizontais de pregos em uma disposição triangular sobre uma superfície plana, inclinada em relação ao plano horizontal. Ao soltar uma bolinha, ela rola e choca-se com o prego da primeira linha, na posição I. Em seguida, ela continua a rolar, chocando-se com apenas um prego de cada linha subsequente e, dependendo de sua trajetória, poderá cair no recipiente, na posição II.\nSabe-se que a probabilidade de a bolinha se chocar ou com o prego localizado imediatamente à direita ou com o imediatamente à esquerda é igual a $\\frac{1}{2}$.\nUma possível trajetória da bolinha até o recipiente está representada no esquema a seguir.\nA probabilidade de a bolinha cair no recipiente é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{1}{4}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{3}{8}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{5}{16}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{7}{12}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Probabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": "26",
+      "enunciado": "O tecido adiposo marrom, abundante em recém-nascidos e em mamíferos que hibernam, é rico em mitocôndrias, que possuem em sua membrana interna uma proteína desacopladora da fosforilação oxidativa. Essa proteína, ao desfazer o gradiente de prótons, permite o fluxo desses íons do espaço intermembranas para a matriz mitocondrial, o que assegura a sobrevivência dos organismos.\nDesse modo, os adipócitos da gordura marrom apresentam redução do seguinte processo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "liberação de calor"
+        },
+        {
+          "letra": "B",
+          "texto": "produção de ATP"
+        },
+        {
+          "letra": "C",
+          "texto": "consumo de oxigênio"
+        },
+        {
+          "letra": "D",
+          "texto": "transporte de elétrons"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Respiração Celular"
+      ]
+    },
+    {
+      "numeroEnunciado": "27",
+      "enunciado": "O porco-do-mato é um grande predador de cactos. Apesar de sua boca resistente, quando há muitas opções de alimento, esses animais naturalmente optam por consumir os cactos com menos espinhos, antes de passar a atacar as plantas mais espinhosas.\nConsidere uma população de cactos que, na presença de porcos-do-mato, passou pelas mudanças indicadas no gráfico abaixo. A curva I representa o impacto da ação desses predadores nessa população de cactos, em um período inicial. A curva II representa esse impacto após longo período de tempo.\nCom base nas informações do gráfico, a população de cactos passou por um processo de seleção natural do seguinte tipo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "estabilizadora"
+        },
+        {
+          "letra": "B",
+          "texto": "convergente"
+        },
+        {
+          "letra": "C",
+          "texto": "direcional"
+        },
+        {
+          "letra": "D",
+          "texto": "disruptiva"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Seleção Natural"
+      ]
+    },
+    {
+      "numeroEnunciado": "28",
+      "enunciado": "A tatuagem do corpo, que já era realizada no Egito entre 4000 e 2000 anos a.C., é feita por meio de pigmentos introduzidos na pele por agulhas. Como uma boa cicatrização é fundamental para a aparência de uma tatuagem, pessoas com predisposição à formação de cicatrizes aparentes, chamadas queloides, podem não apreciar o resultado do procedimento.\nNo processo de cicatrização, a formação de queloides deve-se à ação de células denominadas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fibroblastos"
+        },
+        {
+          "letra": "B",
+          "texto": "mieloblastos"
+        },
+        {
+          "letra": "C",
+          "texto": "osteoblastos"
+        },
+        {
+          "letra": "D",
+          "texto": "condroblastos"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Histologia Humana"
+      ]
+    },
+    {
+      "numeroEnunciado": "29",
+      "enunciado": "Considere a união entre um homem portador de doença de Leber, neuropatia causada pela mutação em um gene do DNA mitocondrial, e uma mulher normal.\nA proporção de descendentes desse casal que apresentará a doença do pai corresponde a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0%"
+        },
+        {
+          "letra": "B",
+          "texto": "25%"
+        },
+        {
+          "letra": "C",
+          "texto": "50%"
+        },
+        {
+          "letra": "D",
+          "texto": "100%"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Herança Mitocondrial"
+      ]
+    },
+    {
+      "numeroEnunciado": "30",
+      "enunciado": "Experimentos controlados em laboratório demonstraram que peixes criados em aquários com temperaturas mais elevadas apresentam, quando adultos, tamanhos menores que outros da mesma espécie submetidos a temperaturas mais baixas. Isso alerta para um dos potenciais efeitos do aquecimento global sobre o metabolismo de animais marinhos.\nO menor tamanho dos peixes em temperaturas mais altas resulta da seguinte alteração fisiológica:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "atrofia das gônadas"
+        },
+        {
+          "letra": "B",
+          "texto": "estresse respiratório"
+        },
+        {
+          "letra": "C",
+          "texto": "problemas osmóticos"
+        },
+        {
+          "letra": "D",
+          "texto": "transtornos sensoriais"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Fisiologia Comparada"
+      ]
+    },
+    {
+      "numeroEnunciado": "31",
+      "enunciado": "A vincristina, substância utilizada no tratamento quimioterápico do câncer, interfere na distribuição igual de material genético para as células-filhas produzidas durante a divisão celular, o que compromete a viabilidade dessas células.\nNesse processo, a estrutura celular diretamente afetada pelo medicamento é denominada:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "vacúolos"
+        },
+        {
+          "letra": "B",
+          "texto": "ribossomas"
+        },
+        {
+          "letra": "C",
+          "texto": "mitocôndrias"
+        },
+        {
+          "letra": "D",
+          "texto": "microtúbulos"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Divisão Celular"
+      ]
+    },
+    {
+      "numeroEnunciado": "32",
+      "enunciado": "A sobrevivência de ninhadas de filhotes de aves requer muitos cuidados, envolvendo grande gasto de energia por parte dos pais. Em função disso, em várias espécies, outros indivíduos da população manifestam um comportamento altruísta: deixam de reproduzir para auxiliar nos cuidados com a prole alheia. O gráfico a seguir representa a probabilidade de ajuda de indivíduos da população em função de seu grau de parentesco com os pais.\nCom base no gráfico, conclui-se que a principal vantagem desse comportamento altruísta é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "redução de genes deletérios"
+        },
+        {
+          "letra": "B",
+          "texto": "aumento da variabilidade genética"
+        },
+        {
+          "letra": "C",
+          "texto": "maior frequência de um genótipo"
+        },
+        {
+          "letra": "D",
+          "texto": "menor taxa de genes homozigotos"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Comportamento Animal e Evolução"
+      ]
+    },
+    {
+      "numeroEnunciado": "33",
+      "enunciado": "Ao mergulhar no mar, um banhista sente-se mal e necessita ser socorrido. Observe na imagem quatro trajetórias possíveis – I, II, III e IV – que o salva-vidas, localizado no ponto A, pode fazer para alcançar o banhista, no ponto B.\nDesprezando a força da correnteza, a fim de que o socorro seja feito o mais rapidamente possível, o salva-vidas deve optar pela seguinte trajetória:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I"
+        },
+        {
+          "letra": "B",
+          "texto": "II"
+        },
+        {
+          "letra": "C",
+          "texto": "III"
+        },
+        {
+          "letra": "D",
+          "texto": "IV"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Óptica"
+      ]
+    },
+    {
+      "numeroEnunciado": "34",
+      "enunciado": "Após o processo de usinagem, uma peça de alumínio com massa de 500 g atinge a temperatura de $80 ^\\circ C$. Para ser manuseada, essa peça é imediatamente imersa em um recipiente que contém 1000 g de água a $22,2 ^\\circ C$.\nSabe-se que o calor específico da água é igual a $1,00 cal/g ^\\circ C$ e o do alumínio, a $0,22 cal/g ^\\circ C$. Admita que só ocorra troca de calor entre a peça e a água.\nNessas condições, a temperatura de equilíbrio térmico, em $^\\circ C$, é aproximadamente igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "25"
+        },
+        {
+          "letra": "B",
+          "texto": "28"
+        },
+        {
+          "letra": "C",
+          "texto": "31"
+        },
+        {
+          "letra": "D",
+          "texto": "34"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Calorimetria"
+      ]
+    },
+    {
+      "numeroEnunciado": "35",
+      "enunciado": "Em um instituto de análises físicas, uma placa de determinado material passa por um teste que verifica o percentual de variação de sua área ao ser submetida a aumento de temperatura. Antes do teste, a placa, que tem área igual a $3,0 \\times 10^2 cm^2$, encontra-se a $20 ^\\circ C$; ao ser colocada no forno, sua temperatura atinge $60 ^\\circ C$. Sabe-se que o coeficiente de dilatação linear do material que a constitui é igual a $1,5 \\times 10^{-5} {^\\circ C}^{-1}$.\nNesse teste, o percentual de variação da área da placa foi de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,16%"
+        },
+        {
+          "letra": "B",
+          "texto": "0,12%"
+        },
+        {
+          "letra": "C",
+          "texto": "0,8%"
+        },
+        {
+          "letra": "D",
+          "texto": "0,6%"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Dilatação Térmica"
+      ]
+    },
+    {
+      "numeroEnunciado": "36",
+      "enunciado": "Em uma feira de ciências escolar, foi confeccionado um projetor com peças de baixo custo. Observe o esquema, que ilustra a lente do projetor e um anteparo, sobre o qual é projetada a imagem de um objeto.\nSabe-se que a distância P do objeto à lente é de 11 cm e a distância P' entre a imagem e a lente é de $\\frac{66}{5}$ cm.\nCom base nas informações, a distância focal da lente, em centímetros, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "8"
+        },
+        {
+          "letra": "C",
+          "texto": "10"
+        },
+        {
+          "letra": "D",
+          "texto": "12"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Óptica Geométrica"
+      ]
+    },
+    {
+      "numeroEnunciado": "37",
+      "enunciado": "O funcionário de um supermercado recolhe as mercadorias deixadas nos caixas e as coloca em carrinhos. Após certo tempo de trabalho, as mercadorias recolhidas ocupam quatro carrinhos, interligados pelas correntes I, II e III para facilitar a locomoção, como ilustra a imagem. Ao deslocar os carrinhos, o funcionário exerce uma força F de intensidade igual a 8 N.\nConsidere que cada carrinho, com os produtos neles contidos, possui massa de 10 kg.\nDesprezando os atritos, a tração na corrente II, em newtons, corresponde a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "3"
+        },
+        {
+          "letra": "C",
+          "texto": "4"
+        },
+        {
+          "letra": "D",
+          "texto": "5"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Leis de Newton"
+      ]
+    },
+    {
+      "numeroEnunciado": "38",
+      "enunciado": "O circuito abaixo representa uma instalação elétrica, sendo a corrente registrada no amperímetro A igual a 100 mA.\nA tensão elétrica, em volts, indicada no voltímetro V, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8"
+        },
+        {
+          "letra": "B",
+          "texto": "10"
+        },
+        {
+          "letra": "C",
+          "texto": "12"
+        },
+        {
+          "letra": "D",
+          "texto": "14"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Circuitos Elétricos"
+      ]
+    },
+    {
+      "numeroEnunciado": "39",
+      "enunciado": "Para uma apresentação artística, é utilizada uma estrutura mecânica formada por uma barra homogênea, que pode girar em torno de um suporte fixo ao solo, em um movimento similar ao de uma gangorra. Na barra, estão fixadas duas plataformas de massas desprezíveis: sobre a da esquerda, há uma artista que aplica uma força de 600 N sobre a barra; sobre a da direita, há três artistas, e cada um aplica uma força de 800 N sobre a barra. Observe abaixo a representação desse sistema:\nAdmita que os pontos numerados na barra são igualmente espaçados e que o sistema se encontra em equilíbrio na horizontal.\nCom base nessas informações, o peso da barra, em newtons, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3000"
+        },
+        {
+          "letra": "B",
+          "texto": "2400"
+        },
+        {
+          "letra": "C",
+          "texto": "1800"
+        },
+        {
+          "letra": "D",
+          "texto": "1200"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Estática de Corpos Rígidos"
+      ]
+    },
+    {
+      "numeroEnunciado": "40",
+      "enunciado": "Nas reações químicas de decomposição, uma substância composta se decompõe em duas ou mais substâncias.\nUm exemplo de reação química de decomposição está representado em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$CaCO_3 \\rightarrow CaO + CO_2$"
+        },
+        {
+          "letra": "B",
+          "texto": "$MgO + H_2O \\rightarrow Mg(OH)_2$"
+        },
+        {
+          "letra": "C",
+          "texto": "$Zn + H_2SO_4 \\rightarrow ZnSO_4 + H_2$"
+        },
+        {
+          "letra": "D",
+          "texto": "$HNO_3 + NaOH \\rightarrow NaNO_3 + H_2O$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Classificação de Reações Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": "41",
+      "enunciado": "Para uma experiência de misturas, há três líquidos disponíveis em um laboratório: X, Y e Z. Em dois recipientes transparentes, foram adicionados volumes iguais de dois desses líquidos, à temperatura ambiente. Observe a tabela:\nTendo em vista as propriedades dos líquidos, as misturas heterogêneas possíveis são as representadas em:",
+      "alternativas": null,
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Propriedades da Matéria"
+      ]
+    },
+    {
+      "numeroEnunciado": "42",
+      "enunciado": "Em testes de perfuração realizados em plataformas de petróleo, pode ser utilizado o brometo de cálcio. Considere um teste para o qual foi preparada uma solução aquosa desse sal na concentração de 3000 g/L.\nAdmitindo a completa dissociação do sal, a concentração de íons brometo, em mol/L, nessa solução, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15"
+        },
+        {
+          "letra": "B",
+          "texto": "30"
+        },
+        {
+          "letra": "C",
+          "texto": "45"
+        },
+        {
+          "letra": "D",
+          "texto": "60"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Concentração de Soluções"
+      ]
+    },
+    {
+      "numeroEnunciado": "43",
+      "enunciado": "Observe a fórmula estrutural plana da DEET, substância empregada como repelente de insetos:\nCom base na análise dessa estrutura química, verifica-se que a DEET pertence à seguinte função orgânica:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "éter"
+        },
+        {
+          "letra": "B",
+          "texto": "amina"
+        },
+        {
+          "letra": "C",
+          "texto": "amida"
+        },
+        {
+          "letra": "D",
+          "texto": "cetona"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Funções Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": "44",
+      "enunciado": "O ácido acetilsalicílico é um medicamento usado no combate à febre e à dor. No organismo, ele é hidrolisado, formando o ácido salicílico e um composto X, conforme representado na equação química abaixo.\nO composto X, formado nessa reação, é denominado:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "etanoato de etila"
+        },
+        {
+          "letra": "B",
+          "texto": "ácido etanoico"
+        },
+        {
+          "letra": "C",
+          "texto": "etoxietano"
+        },
+        {
+          "letra": "D",
+          "texto": "etanol"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Reações Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": "45",
+      "enunciado": "Para o tratamento de um resíduo industrial, que corresponde a uma solução aquosa com alta acidez, é utilizado hidróxido de sódio sólido para a elevação do pH. Considere o volume de $10 m^3$ desse resíduo com concentração de íons $H^+$ de 0,1 mol/L.\nDesprezando-se a variação de volume, para que essa solução residual alcance $pH = 2,0$, a massa de hidróxido de sódio, em quilogramas, a ser adicionada é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "28"
+        },
+        {
+          "letra": "B",
+          "texto": "32"
+        },
+        {
+          "letra": "C",
+          "texto": "36"
+        },
+        {
+          "letra": "D",
+          "texto": "40"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – pH e pOH"
+      ]
+    },
+    {
+      "numeroEnunciado": "46",
+      "enunciado": "Em uma análise de poluentes atmosféricos, foi identificada a presença de alguns óxidos ácidos. Observe no gráfico o número de mols de um desses óxidos, em relação ao número de mols de átomos do ametal X e do oxigênio que o formam.\nPara identificar esse óxido, foi realizada sua reação química de hidratação na proporção molar de 1:1 entre os reagentes.\nNessa reação, a fórmula mínima do ácido obtido é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$HXO_2$"
+        },
+        {
+          "letra": "B",
+          "texto": "$HXO_3$"
+        },
+        {
+          "letra": "C",
+          "texto": "$H_2XO_3$"
+        },
+        {
+          "letra": "D",
+          "texto": "$H_2XO_4$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": "47",
+      "enunciado": "O MAPA COMO ARTE\n\"O século XX foi, talvez, o mais violento da história mundial. A humanidade está em constante guerra consigo mesma e é perfeitamente capaz da destruição total. Esse é o material bruto para a minha arte”, diz o artista mexicano Enrique Chagoya. Em um mapa do mundo ladeado por figuras de esperança e de desespero e coberto por imagens militares e religiosas, assim como por estereótipos culturais, Chagoya ironiza os Estados Unidos enquanto superpotência e país defensor da autodeterminação democrática mundo afora.\nAdaptado de HARMON, K. (Org.). The map as art. Nova York: Princeton Architectural Press, 2009.\nNa obra do artista, identifica-se o uso de um recurso de representação do espaço similar à seguinte técnica:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "projeção cartográfica"
+        },
+        {
+          "letra": "B",
+          "texto": "sensoriamento remoto"
+        },
+        {
+          "letra": "C",
+          "texto": "anamorfose geográfica"
+        },
+        {
+          "letra": "D",
+          "texto": "levantamento planimétrico"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Cartografia"
+      ]
+    },
+    {
+      "numeroEnunciado": "48",
+      "enunciado": "O grafite reproduzido, do artista Bansky, está localizado nas proximidades de um mercado no norte da cidade de Londres. Nele, um braço robótico de um caixa eletrônico segura uma menina. A obra remete a uma discussão acerca dos impactos das novas tecnologias no capitalismo contemporâneo.\nUm impacto socioeconômico no atual modelo produtivo é o aumento da:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fabricação de bens padronizados"
+        },
+        {
+          "letra": "B",
+          "texto": "necessidade de grandes estoques"
+        },
+        {
+          "letra": "C",
+          "texto": "durabilidade de artigos industriais"
+        },
+        {
+          "letra": "D",
+          "texto": "exigência de trabalhadores qualificados"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Globalização e Trabalho"
+      ]
+    },
+    {
+      "numeroEnunciado": "49",
+      "enunciado": "Em 2019, a pecuária brasileira apresentou produtividade média de 1,2 animais/ha. Contudo, no país, já são encontradas áreas de criação bovina que possuem produtividade superior a 8 animais/ha, utilizando meios mais sustentáveis como os sistemas integrados.\nA reduzida produtividade média da pecuária nacional é explicada pela associação dessa atividade econômica com o seguinte processo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "grilagem de terras públicas"
+        },
+        {
+          "letra": "B",
+          "texto": "implantação de cooperativas rurais"
+        },
+        {
+          "letra": "C",
+          "texto": "expropriação de latifúndios ociosos"
+        },
+        {
+          "letra": "D",
+          "texto": "povoamento de espaços quilombolas"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Espaço Agrário Brasileiro"
+      ]
+    },
+    {
+      "numeroEnunciado": "50",
+      "enunciado": "MUÇULMANOS NO MUNDO (2010)\nNo mapa, identificam-se países cuja população muçulmana é superior a 75%.\nEsses países apresentam forte vínculo histórico com a expansão territorial do seguinte Império:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "persa"
+        },
+        {
+          "letra": "B",
+          "texto": "árabe"
+        },
+        {
+          "letra": "C",
+          "texto": "romano"
+        },
+        {
+          "letra": "D",
+          "texto": "britânico"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geopolítica"
+      ]
+    },
+    {
+      "numeroEnunciado": "51",
+      "enunciado": "O dia 6 de janeiro de 2021 entrou para a história. O Congresso dos Estados Unidos, a maior democracia do mundo, foi invadido. Manifestantes forçaram a passagem até que os policiais do Capitólio não deram conta de segurar a multidão. Nos corredores, o confronto acontecia. A polícia usou bombas de gás lacrimogêneo; houve luta corporal. Do lado de fora, a escadaria também foi tomada por apoiadores de Donald Trump, com bandeiras dos Estados Unidos e de apoio ao presidente derrotado nas eleições. Horas depois de o Capitólio ser invadido, Trump divulgou um vídeo repetindo que as eleições foram roubadas e pediu para que seus eleitores deixassem o prédio. Milhares de pessoas marcharam pela capital americana entoando frases que o presidente tem repetido, sem apresentar provas: “Parem com o roubo! A eleição foi roubada”.\nO episódio descrito na reportagem causou perplexidade mundial, por ter acontecido em uma das mais antigas democracias do mundo.\nAo longo das últimas décadas na sociedade estadunidense, ocorreu a seguinte transformação fundamental para a compreensão desse episódio:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "crescimento da polarização política"
+        },
+        {
+          "letra": "B",
+          "texto": "esgotamento do regime republicano"
+        },
+        {
+          "letra": "C",
+          "texto": "enfraquecimento do poder judiciário"
+        },
+        {
+          "letra": "D",
+          "texto": "incremento da fragmentação partidária"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geopolítica Contemporânea"
+      ]
+    },
+    {
+      "numeroEnunciado": "52",
+      "enunciado": "TEMPERATURA NA RÚSSIA ($^\\circ C$)\nMÁXIMA ANUAL\nMÍNIMA ANUAL\nCom base na análise dos mapas, os fatores climáticos de maior relevância para explicar a amplitude térmica anual nesse país são:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "albedo e vegetação"
+        },
+        {
+          "letra": "B",
+          "texto": "altitude e maritimidade"
+        },
+        {
+          "letra": "C",
+          "texto": "topografia e precipitação"
+        },
+        {
+          "letra": "D",
+          "texto": "latitude e continentalidade"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": "53",
+      "enunciado": "ETNIAS NO AFEGANISTÃO\nAqui está um mapa do Afeganistão. A primeira pergunta que ele suscita é: por que o Afeganistão existe? O país contém cerca de uma dúzia de grupos étnicos, cuja distribuição é mostrada aqui de forma simplificada. Devem-se ter em mente também as divisões tribais afegãs, que se subdividem em numerosos clãs e grupos familiares menores.\nA partir do mapa e do texto, depreende-se a dificuldade de construção de uma identidade nacional em contextos socioespaciais como o afegão. Entretanto, há um país asiático, com diversidade semelhante, que logrou preservar sua unidade territorial e seu regime democrático desde sua independência.\nEsse país asiático é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Irã"
+        },
+        {
+          "letra": "B",
+          "texto": "Índia"
+        },
+        {
+          "letra": "C",
+          "texto": "China"
+        },
+        {
+          "letra": "D",
+          "texto": "Vietnã"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geopolítica e Etnia"
+      ]
+    },
+    {
+      "numeroEnunciado": "54",
+      "enunciado": "OS EMPREENDEDORES.\nA charge expressa uma crítica às novas relações de trabalho no mundo contemporâneo.\nEssa crítica tem como alvo a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "exaltação da jornada flexível"
+        },
+        {
+          "letra": "B",
+          "texto": "elitização da inovação material"
+        },
+        {
+          "letra": "C",
+          "texto": "fetichização da tecnologia avançada"
+        },
+        {
+          "letra": "D",
+          "texto": "glamourização da precariedade laboral"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Mundo Contemporâneo"
+      ]
+    },
+    {
+      "numeroEnunciado": "55",
+      "enunciado": "A 14ª Vara Federal de Minas Gerais condenou a União, a Fundação Nacional do Índio (Funai) e o governo do estado por violações dos direitos humanos e civis do povo indígena Krenak, que vive na região do Vale do Rio Doce.\nEm 1972, durante a ditadura militar, homens, mulheres e crianças foram expulsos de suas terras pelo governo e obrigados a viver confinados na Fazenda Guarani, pertencente à Polícia Militar, em Carmésia, a mais de 300 quilômetros de distância de suas terras. A medida teve o objetivo de facilitar a ação de posseiros vizinhos, que tomaram os mais de 4 mil hectares dos indígenas.\nA ação do governo brasileiro à época revela a seguinte postura diante de conflitos rurais:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "contenção violenta da reforma agrária"
+        },
+        {
+          "letra": "B",
+          "texto": "redistribuição autoritária da propriedade fundiária"
+        },
+        {
+          "letra": "C",
+          "texto": "expropriação arbitrária da comunidade tradicional"
+        },
+        {
+          "letra": "D",
+          "texto": "modernização conservadora da estrutura produtiva"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Brasil Ditatorial"
+      ]
+    },
+    {
+      "numeroEnunciado": "56",
+      "enunciado": "Em 2002, os restos mortais do escritor Alexandre Dumas, falecido em 1870, foram enterrados no Panteão, mausoléu do Estado francês. O autor dos clássicos Os três mosqueteiros e O conde de Monte Cristo foi colocado em uma cripta ao lado de figuras históricas tão importantes quanto ele, como Victor Hugo e Voltaire. O presidente à época, Jacques Chirac, declarou que foi reparado o “erro” contra o escritor que pensou a frase “um por todos, todos por um”, uma das mais brilhantes da literatura.\nEmbora fosse negro, o autor foi representado inúmeras vezes como um homem branco; algo que já aconteceu e continua acontecendo com figuras históricas negras, em pinturas, desenhos e até mesmo no cinema. No filme L’ autre Dumas (“O outro Dumas”), de 2010, o ator Gérard Depardieu, loiro de olhos azuis, foi chamado para interpretar o romancista francês.\nA partir do texto, a demora no reconhecimento ao escritor Alexandre Dumas teve como razão a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "redução da intolerância"
+        },
+        {
+          "letra": "B",
+          "texto": "atenuação da discriminação"
+        },
+        {
+          "letra": "C",
+          "texto": "persistência do preconceito"
+        },
+        {
+          "letra": "D",
+          "texto": "continuidade do supremacismo"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Questões Raciais na História"
+      ]
+    },
+    {
+      "numeroEnunciado": "57",
+      "enunciado": "Na charge de Laerte, o resultado do plebiscito, realizado no Chile em outubro de 2020, é relacionado a ideias que seriam aproveitadas pelo governo federal brasileiro.\nUma ideia rejeitada pelos chilenos que inspira medidas no Brasil é a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "proteção de leis trabalhistas"
+        },
+        {
+          "letra": "B",
+          "texto": "exaltação de heranças autoritárias"
+        },
+        {
+          "letra": "C",
+          "texto": "ampliação de investimentos educacionais"
+        },
+        {
+          "letra": "D",
+          "texto": "intensificação de despesas previdenciárias"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – América Latina Contemporânea"
+      ]
+    },
+    {
+      "numeroEnunciado": "58",
+      "enunciado": "Pintada em 1937 para a Exposição Internacional de Paris, a tela de Picasso é um registro e um protesto diante da Guerra Civil Espanhola (1936-1939).\nPara as sociedades europeias, esse conflito está vinculado ao seguinte processo político:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "expansão de regimes fascistas"
+        },
+        {
+          "letra": "B",
+          "texto": "projeção de grupos socialistas"
+        },
+        {
+          "letra": "C",
+          "texto": "militarização das lutas partidárias"
+        },
+        {
+          "letra": "D",
+          "texto": "repressão de movimentos camponeses"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Período Entreguerras"
+      ]
+    },
+    {
+      "numeroEnunciado": "59",
+      "enunciado": "O governo de Juscelino Kubitschek (1956-1961) celebrizou-se pela aplicação do Plano de Metas, que incluía a construção de rodovias federais.\nA partir da observação das fotos, um dos principais desafios associados à plena realização da meta rodoviária foi:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "integrar áreas distantes"
+        },
+        {
+          "letra": "B",
+          "texto": "povoar zonas fronteiriças"
+        },
+        {
+          "letra": "C",
+          "texto": "contratar profissionais locais"
+        },
+        {
+          "letra": "D",
+          "texto": "garantir investimentos estrangeiros"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Brasil República"
+      ]
+    },
+    {
+      "numeroEnunciado": "60",
+      "enunciado": "O zoológico humano de Tervuren, na Bélgica\nPara a Exposição Internacional de Bruxelas, que ocorreu em 1897, o Rei Leopoldo II mandou construir o Palácio Colonial, atual Palácio da África, em Tervuren. As salas de exposição do Palácio abrigaram animais, objetos etnográficos e artísticos congoleses, além de produtos econômicos congoleses e europeus. Outras atrações também foram instaladas em Tervuren: um monotrilho, um hipódromo, um velódromo e um campo de esportes. Três aldeias cercadas foram criadas na cidade, duas Bangala e uma Mayombe. Um total de 267 homens, mulheres e crianças congoleses foram forçados a ocupar essas aldeias. Havia uma quarta aldeia, a vila de Gijzegem, em homenagem à localidade onde o abade Van Impe educou jovens congoleses. Esse abade queria mostrar e divulgar sua obra, provando que era possível educar os colonizados.\nNa Exposição Internacional de Bruxelas, foram apresentados os resultados das ações imperialistas do governo belga na região do Congo, no decorrer da segunda metade do século XIX.\nA partir da análise do texto e da fotografia, a concepção que orientou essas ações e um de seus efeitos para as populações congolesas da época estão indicados, respectivamente, em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "globalismo – discriminação"
+        },
+        {
+          "letra": "B",
+          "texto": "etnocentrismo – aculturação"
+        },
+        {
+          "letra": "C",
+          "texto": "colaborativismo – racialização"
+        },
+        {
+          "letra": "D",
+          "texto": "evolucionismo – miscigenação"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Neocolonialismo"
+      ]
+    }
+  ]
+}

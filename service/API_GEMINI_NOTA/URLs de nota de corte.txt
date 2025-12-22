@@ -1,1682 +1,1525 @@
 FUVEST
-fuvest 2026
-prova:
-gabarito:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UFG
+ufg 2026
+nota de corte:
+
+ufg 2025
+nota de corte:
+
+ufg 2024
+nota de corte:
+
+ufg 2023
+nota de corte:
+
+ufg 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UFPR
+ufpr 2026
+nota de corte:
+
+ufpr 2025
+nota de corte:
+
+ufpr 2024
+nota de corte:
+
+ufpr 2023
+nota de corte:
+
+ufpr 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-UFRGS (instalar localmente e encontrar os gabaritos)
-ufrgs 2026 dia 1
-prova:
-gabarito:
+UFRGS
+ufrgs 2026
+nota de corte:
 
-ufrgs 2026 dia 2
-prova:
-gabarito:
+ufrgs 2025
+nota de corte:
 
-ufrgs 2025 dia 1
-prova: https://www.ufrgs.br/coperse/wp-content/uploads/2024/12/Prova-1o-DIA.pdf
-gabarito:
+ufrgs 2024
+nota de corte:
 
-ufrgs 2025 dia 2
-prova: https://www.ufrgs.br/coperse/wp-content/uploads/2024/12/PROVA-INGLES.pdf
-gabarito:
+ufrgs 2023
+nota de corte:
 
-ufrgs 2024 dia 1
-prova: https://www.ufrgs.br/coperse/wp-content/uploads/2023/12/1o-DIA-PROVA-2024.pdf
-gabarito:
-
-ufrgs 2024 dia 2
-prova: https://www.ufrgs.br/coperse/wp-content/uploads/2023/12/2o-DIA-2024-INGLES.pdf
-gabarito:
-
-ufrgs 2023 dia 1
-prova: https://www.ufrgs.br/coperse/wp-content/uploads/2023/03/CV-23-CADERNO-1o-DIA.pdf
-gabarito:
-
-ufrgs 2023 dia 2
-prova: https://www.ufrgs.br/coperse/wp-content/uploads/2023/03/CV-23-CADERNO-2o-DIA-INGLES.pdf
-gabarito:
-
-ufrgs 2022 dia 1
-prova: https://www.ufrgs.br/coperse/wp-content/uploads/2022/03/PROVAS-1o-DIA.pdf
-gabarito:
-
-ufrgs 2022 dia 2
-prova: https://www.ufrgs.br/coperse/wp-content/uploads/2022/03/PROVAS-2o-DIA-INGLES.pdf
-gabarito:
+ufrgs 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UFRR
 ufrr 2026
-prova:
-gabarito:
+nota de corte:
+
+ufrr 2025
+nota de corte:
+
+ufrr 2024
+nota de corte:
+
+ufrr 2023
+nota de corte:
+
+ufrr 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-UFSC (Ver se vale a pena adicionar pois é modelo de soma do numero das alternativas)
+UFSC
 ufsc 2026
-prova: https://educacaodocampo2026.ufsc.br/files/2013/11/Educação-do-Campo.pdf
-gabarito: https://educacaodocampo2026.ufsc.br/files/2013/11/gabarito-definitivo-educação-do-campo.pdf
+nota de corte:
 
 ufsc 2025
-prova: https://dados.coperve.ufsc.br/vestibular2025/gabaritos/p1_amarela.pdf
-gabarito: https://dados.coperve.ufsc.br/vestibular2025/gabaritos/novo_gabarito_p1_amarela.pdf
+nota de corte:
 
 ufsc 2024
-prova: https://vestibular2024.paginas.ufsc.br/files/2023/12/p1_amarela.pdf
-gabarito: https://vestibular2024.paginas.ufsc.br/files/2023/12/novo_gabarito_p1_amarela.pdf
+nota de corte:
 
 ufsc 2023
-prova: https://dados.coperve.ufsc.br/vestibular2023/gabaritos/preliminar/p1_amarela.pdf
-gabarito: https://dados.coperve.ufsc.br/vestibular2023/gabaritos/preliminar/gabarito_p1_amarelaPreliminar.pdf
+nota de corte:
 
 ufsc 2022
-prova: https://dados.coperve.ufsc.br/vestibular2022/gabaritos/definitivos/prova1/p1-amarela.pdf
-gabarito: https://dados.coperve.ufsc.br/vestibular2022/gabaritos/definitivos/prova1/p1-amarela.html
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UFSM
 ufsm 2026
-prova:
-gabarito:
+nota de corte:
+
+ufsm 2025
+nota de corte:
+
+ufsm 2024
+nota de corte:
+
+ufsm 2023
+nota de corte:
+
+ufsm 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNESP
+unesp 2026
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNICAMP
+unicamp 2026
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UECE
+uece 2026
+nota de corte:
+
+uece 2025
+nota de corte:
+
+uece 2024
+nota de corte:
+
+uece 2023
+nota de corte:
+
+uece 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UEL
+uel 2026
+nota de corte:
+
+uel 2025
+nota de corte:
+
+uel 2024
+nota de corte:
+
+uel 2023
+nota de corte:
+
+uel 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-UEM (Ver se vale a pena adicionar pois é modelo de soma do numero das alternativas)
+UEM
 uem 2026
-prova:
-gabarito:
+nota de corte:
 
 uem 2025
-prova: https://www.vestibular.uem.br/provas/in25/P1.pdf
-gabarito: https://www.vestibular.uem.br/provas/in25/gabdef.pdf
+nota de corte:
 
 uem 2024
-prova: https://www.vestibular.uem.br/provas/in24/P1.pdf
-gabarito: https://www.vestibular.uem.br/provas/in24/gabdef.pdf
+nota de corte:
 
 uem 2023
-prova: https://www.vestibular.uem.br/provas/in23/P1.pdf
-gabarito: https://www.vestibular.uem.br/provas/in23/gabdef.pdf
+nota de corte:
 
 uem 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-UEMG (instalar localmente)
+UEMG
 uemg 2026
-prova:
-gabarito:
+nota de corte:
 
 uemg 2025
-prova:
-gabarito:
+nota de corte:
 
 uemg 2024
-prova:
-gabarito:
+nota de corte:
 
 uemg 2023
-prova:
-gabarito:
+nota de corte:
 
 uemg 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-UEPG (Ver se vale a pena adicionar pois é modelo de soma do numero das alternativas)
+UEPG
+uepg 2026
+nota de corte:
+
 uepg 2025
-prova:
-gabarito:
+nota de corte:
 
 uepg 2024
-prova: https://cps.uepg.br/vestibular/documentos/2024/vestibular/provas/Conhecimentos_Gerais.pdf
-gabarito: https://cps.uepg.br/vestibular/documentos/2024/vestibular/provas/Edital_n_35-2024-Gabarito_Vestibular_2024_Apos_Recursos.pdf
+nota de corte:
 
 uepg 2023
-prova: https://cps.uepg.br/vestibular/documentos/2023/vestibular_2023/provas/Conhecimentos_Gerais.pdf
-gabarito: https://cps.uepg.br/vestibular/documentos/2023/vestibular_2023/provas/Edital_n_57-2023-Gabarito_Vestibular_2023_apos_recursos.pdf
+nota de corte:
 
 uepg 2022
-prova: https://cps.uepg.br/vestibular/documentos/2022/provas/Conhecimentos_Gerais.pdf
-gabarito: https://cps.uepg.br/vestibular/documentos/2022/provas/Edital_n_21-2022-Gabarito_Vestibular_2022_apos_recursos.pdf
-
-uepg 2021
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UERJ
 uerj 2026
-prova: https://www.revista.vestibular.uerj.br/arquivos/pdf/questao/53.pdf
-gabarito:
+nota de corte:
+
+uerj 2025
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-UERR (instalar localmente)
+UERR
 uerr 2026
-prova:
-gabarito:
+nota de corte:
 
 uerr 2025
-prova:
-gabarito:
+nota de corte:
 
 uerr 2024
-prova:
-gabarito:
+nota de corte:
 
 uerr 2023
-prova:
-gabarito:
+nota de corte:
 
 uerr 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UFAM
+ufam 2026
+nota de corte:
+
 ufam 2025
-prova: https://souvetor.com/wp-content/uploads/2025/06/Edital-01-de-2025-Prova-PSC1.pdf
-gabarito:
+nota de corte:
+
+ufam 2024
+nota de corte:
+
+ufam 2023
+nota de corte:
+
+ufam 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 ALBERT EINSTEIN
+einstein 2026
+nota de corte:
+
+einstein 2025
+nota de corte:
+
+einstein 2024
+nota de corte:
+
+einstein 2023
+nota de corte:
+
+einstein 2022
+nota de corte:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+FAMEMA
+famema 2026
+nota de corte:
+
+famema 2025
+nota de corte:
+
+famema 2024, 2023, 2022
+nota de corte: https://www.famema.br/wp-content/uploads/2025/03/Concorrencia-Vestibular-FAMEMA-2022-2024.pdf
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 FAMERP
 famerp 2026
-prova:
-gabarito:
+nota de corte:
+
+famerp 2025
+nota de corte:
+
+famerp 2024
+nota de corte:
+
+famerp 2023
+nota de corte:
+
+famerp 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 FATEC
 fatec 2026
-prova:
-gabarito:
+nota de corte:
+
+fatec 2024
+nota de corte:
+
+fatec 2023
+nota de corte:
+
+fatec 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 IME
+ime 2026
+nota de corte:
+
+ime 2025
+nota de corte:
+
+ime 2024
+nota de corte:
+
+ime 2023
+nota de corte:
+
+ime 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 ITA
+ita 2026
+nota de corte:
 
-------------------------------------------------------------------------------------------------------------------------------------
+ita 2025
+nota de corte:
 
-ENEM
-enem 2025 dia 1
-prova:
-gabarito:
+ita 2024
+nota de corte:
 
-enem 2025 dia 2
-prova:
-gabarito:
+ita 2023
+nota de corte:
+
+ita 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 MACKENZIE
 mackenzie 2026
-prova:
-gabarito:
+nota de corte:
+
+mackenzie 2025
+nota de corte:
+
+mackenzie 2024
+nota de corte:
 
 mackenzie 2023
-prova:
-gabarito:
+nota de corte:
 
 mackenzie 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 São Leopoldo Mandic
 mandic 2026
-prova:
-gabarito:
+nota de corte:
 
 mandic 2025
-prova:
-gabarito:
+nota de corte:
+
+mandic 2024
+nota de corte:
 
 mandic 2023
-prova:
-gabarito:
+nota de corte:
+
+mandic 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 PUC CAMPINAS
 puccamp 2026
-prova:
-gabarito:
+nota de corte:
+
+puccamp 2025
+nota de corte:
+
+puccamp 2024
+nota de corte:
+
+puccamp 2023
+nota de corte:
+
+puccamp 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 PUC SP
 pucsp 2026
-prova:
-gabarito:
+nota de corte:
+
+pucsp 2025
+nota de corte:
+
+pucsp 2024
+nota de corte:
 
 pucsp 2023
-prova:
-gabarito:
+nota de corte:
 
 pucsp 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UEA
 uea 2026
-prova:
-gabarito:
+nota de corte:
+
+uea 2025
+nota de corte:
+
+uea 2024
+nota de corte:
+
+uea 2023
+nota de corte:
+
+uea 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 ESPM
 espm 2026
-prova:
-gabarito:
+nota de corte:
+
+espm 2025
+nota de corte:
+
+espm 2024
+nota de corte:
+
+espm 2023
+nota de corte:
+
+espm 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 ANHEMBI MORUMBI
 anhembi morumbi 2026
-prova:
-gabarito:
+nota de corte:
 
 anhembi morumbi 2025
-prova:
-gabarito:
+nota de corte:
 
 anhembi morumbi 2024
-prova:
-gabarito:
+nota de corte:
 
 anhembi morumbi 2023
-prova:
-gabarito:
+nota de corte:
 
 anhembi morumbi 2022
-prova: https://vestibular.mundoeducacao.uol.com.br/downloads/universidade-anhembi-morumbi.htm (Donwload do pdf)
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 FEI
 fei 2026
-prova:
-gabarito:
+nota de corte:
+
+fei 2025
+nota de corte:
+
+fei 2024
+nota de corte:
+
+fei 2023
+nota de corte:
+
+fei 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-UNISANTOS (É feito online)
-
-------------------------------------------------------------------------------------------------------------------------------------
-
-UNOESTE (Não Encontrado)
+UNOESTE
 unoeste 2026
-prova:
-gabarito:
+nota de corte:
 
 unoeste 2025
-prova:
-gabarito:
+nota de corte:
 
 unoeste 2024
-prova:
-gabarito:
+nota de corte:
 
 unoeste 2023
-prova:
-gabarito:
+nota de corte:
 
 unoeste 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-FACAMP (Realizado on-line)
+FACAMP
+facamp 2026
+nota de corte:
+
+facamp 2025
+nota de corte:
+
+facamp 2024
+nota de corte:
+
+facamp 2023
+nota de corte:
+
+facamp 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-INSPER (Realizado on-line)
+INSPER
+insper 2026
+nota de corte:
+
+insper 2025
+nota de corte:
+
+insper 2024
+nota de corte:
+
+insper 2023
+nota de corte:
+
+insper 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-FAAP (Realizado on-line)
+FAAP
+faap 2026
+nota de corte:
+
+faap 2025
+nota de corte:
+
+faap 2024
+nota de corte:
+
+faap 2023
+nota de corte:
+
+faap 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-UNIGRANRIO (Não encontrado)
-unigranrio 2026
-prova:
-gabarito:
-
-unigranrio 2025
-prova:
-gabarito:
-
-unigranrio 2024
-prova:
-gabarito:
-
-unigranrio 2023
-prova:
-gabarito:
-
-unigranrio 2022
-prova:
-gabarito:
-
-------------------------------------------------------------------------------------------------------------------------------------
-
-UNIMEP (Não encontrado)
+UNIMEP
 unimep 2026
-prova:
-gabarito:
+nota de corte:
 
 unimep 2025
-prova:
-gabarito:
+nota de corte:
 
 unimep 2024
-prova:
-gabarito:
+nota de corte:
 
 unimep 2023
-prova:
-gabarito:
+nota de corte:
 
 unimep 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-SENAC-SP (Não encontrado)
+SENAC-SP
 senac-sp 2026
-prova:
-gabarito:
+nota de corte:
 
 senac-sp 2025
-prova:
-gabarito:
+nota de corte:
 
 senac-sp 2024
-prova:
-gabarito:
+nota de corte:
 
 senac-sp 2023
-prova:
-gabarito:
+nota de corte:
 
 senac-sp 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 MAUÁ
 mauá 2026
-prova:
-gabarito:
+nota de corte:
+
+mauá 2025
+nota de corte:
+
+mauá 2024
+nota de corte:
+
+mauá 2023
+nota de corte:
+
+mauá 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 FECAP
 fecap 2026
-prova:
-gabarito:
+nota de corte:
+
+fecap 2025
+nota de corte:
+
+fecap 2024
+nota de corte:
+
+fecap 2023
+nota de corte:
+
+fecap 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-UNIVERSIDADE SÃO JUDAS TADEU (Não encontrado)
-usjt 2026
-prova:
-gabarito:
+METODISTA SP
+metodista sp 2026
+nota de corte:
+
+metodista sp 2025
+nota de corte:
+
+metodista sp 2024
+nota de corte:
+
+metodista sp 2023
+nota de corte:
+
+metodista sp 2022
+nota de corte:
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+UNIVERSIDADE SÃO JUDAS TADEU
+unisjt 2026
+nota de corte:
 
 unisjt 2025
-prova:
-gabarito:
+nota de corte:
 
 unisjt 2024
-prova:
-gabarito:
+nota de corte:
 
 unisjt 2023
-prova:
-gabarito:
+nota de corte:
 
 unisjt 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 PUC MINAS
+pucmg 2026
+nota de corte:
+
+pucmg 2025
+nota de corte:
+
+pucmg 2024
+nota de corte:
+
+pucmg 2023
+nota de corte:
+
+pucmg 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-UNIC (Não Encontrado)
+UNIC
 unic 2026
-prova:
-gabarito:
+nota de corte:
 
 unic 2025
-prova:
-gabarito:
+nota de corte:
 
 unic 2024
-prova:
-gabarito:
+nota de corte:
 
 unic 2023
-prova:
-gabarito:
+nota de corte:
 
 unic 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-UCDB (Não Encontrado)
+UCDB
 ucdb 2026
-prova:
-gabarito:
+nota de corte:
 
 ucdb 2025
-prova:
-gabarito:
+nota de corte:
 
 ucdb 2024
-prova:
-gabarito:
+nota de corte:
 
 ucdb 2023
-prova:
-gabarito:
+nota de corte:
 
 ucdb 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 PUC-PR
 pucpr 2026
-prova:
-gabarito:
+nota de corte:
+
+pucpr 2025
+nota de corte:
+
+pucpr 2024
+nota de corte:
 
 pucpr 2023
-prova:
-gabarito:
+nota de corte:
+
+pucpr 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-UNISUL (Não Encontrado)
+UNISUL
 unisul 2026
-prova:
-gabarito:
+nota de corte:
 
 unisul 2025
-prova:
-gabarito:
+nota de corte:
 
 unisul 2024
-prova:
-gabarito:
+nota de corte:
 
 unisul 2023
-prova:
-gabarito:
+nota de corte:
 
 unisul 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 PUC-RS
 pucrs 2026
-prova:
-gabarito:
+nota de corte:
 
-------------------------------------------------------------------------------------------------------------------------------------
+pucrs 2025
+nota de corte:
 
-CELSO LISBOA (Não encontrado)
-celso-lisboa 2026
-prova:
-gabarito:
+pucrs 2024
+nota de corte:
 
-celso-lisboa 2025
-prova:
-gabarito:
+pucrs 2023
+nota de corte:
 
-celso-lisboa 2024
-prova:
-gabarito:
-
-celso-lisboa 2023
-prova:
-gabarito:
-
-celso-lisboa 2022
-prova:
-gabarito:
-
-------------------------------------------------------------------------------------------------------------------------------------
-
-BAHIANA (Não encontrado)
-bahiana 2026
-prova:
-gabarito:
-
-bahiana 2025
-prova:
-gabarito:
-
-bahiana 2024
-prova:
-gabarito:
-
-bahiana 2023
-prova:
-gabarito:
-
-bahiana 2022
-prova:
-gabarito:
+pucrs 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 CESUPA
+cesupa 2026
+nota de corte:
+
 cesupa 2025
-prova:
-gabarito:
+nota de corte:
 
 cesupa 2024
-prova:
-gabarito:
+nota de corte:
 
 cesupa 2023
-prova:
-gabarito:
+nota de corte:
 
-cesupa 2022 (instalar localmente)
-prova: https://vestibular.mundoeducacao.uol.com.br/downloads/centro-universitario-do-estado-do-para.htm
-gabarito: https://vestibular.mundoeducacao.uol.com.br/downloads/centro-universitario-do-estado-do-para.htm
+cesupa 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-FMF (Realizado On-line)
+FMF
+fmf 2026
+nota de corte:
+
+fmf 2025
+nota de corte:
+
+fmf 2024
+nota de corte:
+
+fmf 2023
+nota de corte:
+
+fmf 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-UNICAP 
+UNICAP
 unicap 2026
-prova:
-gabarito:
+nota de corte:
+
+unicap 2025
+nota de corte:
+
+unicap 2024
+nota de corte:
+
+unicap 2023
+nota de corte:
+
+unicap 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-EBMSP (Não Encontrado)
+EBMSP
 ebmsp 2026
-prova:
-gabarito:
+nota de corte:
 
 ebmsp 2025
-prova:
-gabarito:
+nota de corte:
 
 ebmsp 2024
-prova:
-gabarito:
+nota de corte:
 
 ebmsp 2023
-prova:
-gabarito:
+nota de corte:
 
 ebmsp 2022
-prova:
-gabarito:
-
-------------------------------------------------------------------------------------------------------------------------------------
-
-SÃO LUCAS (Não Encontrado)
-sao-lucas 2026
-prova:
-gabarito:
-
-sao-lucas 2025
-prova:
-gabarito:
-
-sao-lucas 2024
-prova:
-gabarito:
-
-sao-lucas 2023
-prova:
-gabarito:
-
-sao-lucas 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNINASSAU
-uninassau 2026 (Gabarito no final do documento)
-prova: https://vestibularmedicina.uninassau.edu.br/pdf/PROVA%20X%20GABARITO_MEDICINA_UNINASSAU%20RECIFE%202026.1.pdf
-gabarito: https://vestibularmedicina.uninassau.edu.br/pdf/PROVA%20X%20GABARITO_MEDICINA_UNINASSAU%20RECIFE%202026.1.pdf
+uninassau 2026
+nota de corte:
 
 uninassau 2025
-prova: https://vestibularmedicina.uninassau.edu.br/pdf/PROVA_UNINASSAU%20VILHENA%202025.2_GABARITO.pdf
-gabarito: https://vestibularmedicina.uninassau.edu.br/pdf/PROVA_UNINASSAU%20VILHENA%202025.2_GABARITO.pdf
+nota de corte:
 
 uninassau 2024
-prova:
-gabarito:
+nota de corte:
 
 uninassau 2023
-prova:
-gabarito:
+nota de corte:
 
 uninassau 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNIFOR
+unifor 2026
+nota de corte:
+
+unifor 2025
+nota de corte:
+
+unifor 2024
+nota de corte:
+
 unifor 2023
-prova:
-gabarito:
+nota de corte:
+
+unifor 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 PUC-GO
+pucgo 2026
+nota de corte:
+
+pucgo 2025
+nota de corte:
+
+pucgo 2024
+nota de corte:
+
+pucgo 2023
+nota de corte:
+
+pucgo 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-UNIVERSO Gioânia (realizado on-line)
+UNIVERSO
+universo 2026
+nota de corte:
+
+universo 2025
+nota de corte:
+
+universo 2024
+nota de corte:
+
+universo 2023
+nota de corte:
+
+universo 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNIT-AL
 unital 2026
-prova:
-gabarito:
+nota de corte:
 
 unital 2025
-prova:
-gabarito:
+nota de corte:
 
 unital 2024
-prova:
-gabarito:
+nota de corte:
 
 unital 2023
-prova:
-gabarito:
+nota de corte:
 
 unital 2022
-prova:
-gabarito:
-
-------------------------------------------------------------------------------------------------------------------------------------
-
-UNIT-SE
-unitse 2026
-prova:
-gabarito:
-
-unitse 2025
-prova:
-gabarito:
-
-unitse 2024
-prova:
-gabarito:
-
-unitse 2023
-prova:
-gabarito:
-
-unitse 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 FAL
 fal 2026
-prova:
-gabarito:
+nota de corte:
 
 fal 2025
-prova:
-gabarito:
+nota de corte:
 
 fal 2024
-prova:
-gabarito:
+nota de corte:
 
 fal 2023
-prova:
-gabarito:
+nota de corte:
 
 fal 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNIT
 unit 2026
-prova:
-gabarito:
+nota de corte:
 
 unit 2025
-prova:
-gabarito:
+nota de corte:
 
 unit 2024
-prova:
-gabarito:
+nota de corte:
 
 unit 2023
-prova:
-gabarito:
+nota de corte:
 
 unit 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNIPIO
 unipio 2026
-prova:
-gabarito:
+nota de corte:
 
 unipio 2025
-prova:
-gabarito:
+nota de corte:
 
 unipio 2024
-prova:
-gabarito:
+nota de corte:
 
 unipio 2023
-prova:
-gabarito:
+nota de corte:
 
 unipio 2022
-prova:
-gabarito:
-
-------------------------------------------------------------------------------------------------------------------------------------
-
-PIO DÉCIMO
-piodecimo 2026
-prova:
-gabarito:
-
-piodecimo 2025
-prova:
-gabarito:
-
-piodecimo 2024
-prova:
-gabarito:
-
-piodecimo 2023
-prova:
-gabarito:
-
-piodecimo 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 FDV
 fdv 2026
-prova:
-gabarito:
+nota de corte:
 
 fdv 2025
-prova:
-gabarito:
+nota de corte:
 
 fdv 2024
-prova:
-gabarito:
+nota de corte:
 
 fdv 2023
-prova:
-gabarito:
+nota de corte:
 
 fdv 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UVV
 uvv 2026
-prova:
-gabarito:
+nota de corte:
 
 uvv 2025
-prova:
-gabarito:
+nota de corte:
 
 uvv 2024
-prova:
-gabarito:
+nota de corte:
 
 uvv 2023
-prova:
-gabarito:
+nota de corte:
 
 uvv 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 FAAO
 faao 2026
-prova:
-gabarito:
+nota de corte:
 
 faao 2025
-prova:
-gabarito:
+nota de corte:
 
 faao 2024
-prova:
-gabarito:
+nota de corte:
 
 faao 2023
-prova:
-gabarito:
+nota de corte:
 
 faao 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 FAMETA
 fameta 2026
-prova:
-gabarito:
+nota de corte:
 
 fameta 2025
-prova:
-gabarito:
+nota de corte:
 
 fameta 2024
-prova:
-gabarito:
+nota de corte:
 
 fameta 2023
-prova:
-gabarito:
+nota de corte:
 
 fameta 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNINORTE-AC
 uninorte-ac 2026
-prova:
-gabarito:
+nota de corte:
 
 uninorte-ac 2025
-prova:
-gabarito:
+nota de corte:
 
 uninorte-ac 2024
-prova:
-gabarito:
+nota de corte:
 
 uninorte-ac 2023
-prova:
-gabarito:
+nota de corte:
 
 uninorte-ac 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 FIMCA
 fimca 2026
-prova:
-gabarito:
+nota de corte:
 
 fimca 2025
-prova:
-gabarito:
+nota de corte:
 
 fimca 2024
-prova:
-gabarito:
+nota de corte:
 
 fimca 2023
-prova:
-gabarito:
+nota de corte:
 
 fimca 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNIRON
 uniron 2026
-prova:
-gabarito:
+nota de corte:
 
 uniron 2025
-prova:
-gabarito:
+nota de corte:
 
 uniron 2024
-prova:
-gabarito:
+nota de corte:
 
 uniron 2023
-prova:
-gabarito:
+nota de corte:
 
 uniron 2022
-prova:
-gabarito:
-
-------------------------------------------------------------------------------------------------------------------------------------
-
-CEULP ULBRA
-ceulp-ulbra 2026
-prova:
-gabarito:
-
-ceulp-ulbra 2025
-prova:
-gabarito:
-
-ceulp-ulbra 2024
-prova:
-gabarito:
-
-ceulp-ulbra 2023
-prova:
-gabarito:
-
-ceulp-ulbra 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNICEUMA
 uniceuma 2026
-prova:
-gabarito:
+nota de corte:
 
 uniceuma 2025
-prova:
-gabarito:
+nota de corte:
 
 uniceuma 2024
-prova:
-gabarito:
+nota de corte:
 
 uniceuma 2023
-prova:
-gabarito:
+nota de corte:
 
 uniceuma 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNIFSA
 unifsa 2026
-prova:
-gabarito:
+nota de corte:
 
 unifsa 2025
-prova:
-gabarito:
+nota de corte:
 
 unifsa 2024
-prova:
-gabarito:
+nota de corte:
 
 unifsa 2023
-prova:
-gabarito:
+nota de corte:
 
 unifsa 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNINOVAFAPI
 uninovafapi 2026
-prova:
-gabarito:
+nota de corte:
 
 uninovafapi 2025
-prova:
-gabarito:
+nota de corte:
 
 uninovafapi 2024
-prova:
-gabarito:
+nota de corte:
 
 uninovafapi 2023
-prova:
-gabarito:
+nota de corte:
 
 uninovafapi 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNICEUB
 uniceub 2026
-prova:
-gabarito:
+nota de corte:
 
 uniceub 2025
-prova:
-gabarito:
+nota de corte:
 
 uniceub 2024
-prova:
-gabarito:
+nota de corte:
 
 uniceub 2023
-prova:
-gabarito:
+nota de corte:
 
 uniceub 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 ESCS
 escs 2026
-prova:
-gabarito:
+nota de corte:
 
 escs 2025
-prova:
-gabarito:
+nota de corte:
 
 escs 2024
-prova:
-gabarito:
+nota de corte:
 
 escs 2023
-prova:
-gabarito:
+nota de corte:
 
 escs 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 IESB
 iesb 2026
-prova:
-gabarito:
+nota de corte:
 
 iesb 2025
-prova:
-gabarito:
+nota de corte:
 
 iesb 2024
-prova:
-gabarito:
+nota de corte:
 
 iesb 2023
-prova:
-gabarito:
+nota de corte:
 
 iesb 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNP
 unp 2026
-prova:
-gabarito:
+nota de corte:
 
 unp 2025
-prova:
-gabarito:
+nota de corte:
 
 unp 2024
-prova:
-gabarito:
+nota de corte:
 
 unp 2023
-prova:
-gabarito:
+nota de corte:
 
 unp 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 ULBRA
 ulbra 2026
-prova:
-gabarito:
+nota de corte:
 
 ulbra 2025
-prova:
-gabarito:
+nota de corte:
 
 ulbra 2024
-prova:
-gabarito:
+nota de corte:
 
 ulbra 2023
-prova:
-gabarito:
+nota de corte:
 
 ulbra 2022
-prova:
-gabarito:
-
-------------------------------------------------------------------------------------------------------------------------------------
-
-CATHEDRAL
-cathedral 2026
-prova:
-gabarito:
-
-cathedral 2025
-prova:
-gabarito:
-
-cathedral 2024
-prova:
-gabarito:
-
-cathedral 2023
-prova:
-gabarito:
-
-cathedral 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNICATÓLICA
 unicatólica 2026
-prova:
-gabarito:
+nota de corte:
 
 unicatólica 2025
-prova:
-gabarito:
+nota de corte:
 
 unicatólica 2024
-prova:
-gabarito:
+nota de corte:
 
 unicatólica 2023
-prova:
-gabarito:
+nota de corte:
 
 unicatólica 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 FAMA
 fama 2026
-prova:
-gabarito:
+nota de corte:
 
 fama 2025
-prova:
-gabarito:
+nota de corte:
 
 fama 2024
-prova:
-gabarito:
+nota de corte:
 
 fama 2023
-prova:
-gabarito:
+nota de corte:
 
 fama 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 FARES
 fares 2026
-prova:
-gabarito:
+nota de corte:
 
 fares 2025
-prova:
-gabarito:
+nota de corte:
 
 fares 2024
-prova:
-gabarito:
+nota de corte:
 
 fares 2023
-prova:
-gabarito:
+nota de corte:
 
 fares 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 PUC-RIO
 pucrio 2026
-prova:
-gabarito:
+nota de corte:
 
 pucrio 2025
-prova:
-gabarito:
+nota de corte:
 
 pucrio 2024
-prova:
-gabarito:
+nota de corte:
 
 pucrio 2023
-prova:
-gabarito:
+nota de corte:
 
 pucrio 2022
-prova:
-gabarito:
-
-------------------------------------------------------------------------------------------------------------------------------------
-
-IBMEC
-ibmec 2026
-prova:
-gabarito:
-
-ibmec 2025
-prova:
-gabarito:
-
-ibmec 2024
-prova:
-gabarito:
-
-ibmec 2023
-prova:
-gabarito:
-
-ibmec 2022
-prova:
-gabarito:
-
-------------------------------------------------------------------------------------------------------------------------------------
-
-UVA
-uva 2026
-prova:
-gabarito:
-
-uva 2025
-prova:
-gabarito:
-
-uva 2024
-prova:
-gabarito:
-
-uva 2023
-prova:
-gabarito:
-
-uva 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UCP
 ucp 2026
-prova:
-gabarito:
+nota de corte:
 
 ucp 2025
-prova:
-gabarito:
+nota de corte:
 
 ucp 2024
-prova:
-gabarito:
+nota de corte:
 
 ucp 2023
-prova:
-gabarito:
+nota de corte:
 
 ucp 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UCB
 ucb 2026
-prova:
-gabarito:
+nota de corte:
 
 ucb 2025
-prova:
-gabarito:
+nota de corte:
 
 ucb 2024
-prova:
-gabarito:
+nota de corte:
 
 ucb 2023
-prova:
-gabarito:
+nota de corte:
 
 ucb 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNICARIOCA
 unicarioca 2026
-prova:
-gabarito:
+nota de corte:
 
 unicarioca 2025
-prova:
-gabarito:
+nota de corte:
 
 unicarioca 2024
-prova:
-gabarito:
+nota de corte:
 
 unicarioca 2023
-prova:
-gabarito:
+nota de corte:
 
 unicarioca 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 FACHA
 facha 2026
-prova:
-gabarito:
+nota de corte:
 
 facha 2025
-prova:
-gabarito:
+nota de corte:
 
 facha 2024
-prova:
-gabarito:
+nota de corte:
 
 facha 2023
-prova:
-gabarito:
+nota de corte:
 
 facha 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 IBMR
 ibmr 2026
-prova:
-gabarito:
+nota de corte:
 
 ibmr 2025
-prova:
-gabarito:
+nota de corte:
 
 ibmr 2024
-prova:
-gabarito:
+nota de corte:
 
 ibmr 2023
-prova:
-gabarito:
+nota de corte:
 
 ibmr 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
-UNISINOS
-unisinos 2026
-prova:
-gabarito:
+UVA
+uva 2026
+nota de corte:
 
-unisinos 2025
-prova:
-gabarito:
+uva 2025
+nota de corte:
 
-unisinos 2024
-prova:
-gabarito:
+uva 2024
+nota de corte:
 
-unisinos 2023
-prova:
-gabarito:
+uva 2023
+nota de corte:
 
-unisinos 2022
-prova:
-gabarito:
+uva 2022
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNISUAM
 unisuam 2026
-prova:
-gabarito:
+nota de corte:
 
 unisuam 2025
-prova:
-gabarito:
+nota de corte:
 
 unisuam 2024
-prova:
-gabarito:
+nota de corte:
 
 unisuam 2023
-prova:
-gabarito:
+nota de corte:
 
 unisuam 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UCL
 ucl 2026
-prova:
-gabarito:
+nota de corte:
 
 ucl 2025
-prova:
-gabarito:
+nota de corte:
 
 ucl 2024
-prova:
-gabarito:
+nota de corte:
 
 ucl 2023
-prova:
-gabarito:
+nota de corte:
 
 ucl 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 FAFIMA
 fafima 2026
-prova:
-gabarito:
+nota de corte:
 
 fafima 2025
-prova:
-gabarito:
+nota de corte:
 
 fafima 2024
-prova:
-gabarito:
+nota de corte:
 
 fafima 2023
-prova:
-gabarito:
+nota de corte:
 
 fafima 2022
-prova:
-gabarito:
-
-------------------------------------------------------------------------------------------------------------------------------------
-
-NILTON LINS
-nilton-lins 2026
-prova:
-gabarito:
-
-nilton-lins 2025
-prova:
-gabarito:
-
-nilton-lins 2024
-prova:
-gabarito:
-
-nilton-lins 2023
-prova:
-gabarito:
-
-nilton-lins 2022
-prova:
-gabarito:
+nota de corte:
 
 ------------------------------------------------------------------------------------------------------------------------------------
 
 UNILASALLE
 unilasalle 2026
-prova:
-gabarito:
+nota de corte:
 
 unilasalle 2025
-prova:
-gabarito:
+nota de corte:
 
 unilasalle 2024
-prova:
-gabarito:
+nota de corte:
 
 unilasalle 2023
-prova:
-gabarito:
+nota de corte:
 
 unilasalle 2022
-prova:
-gabarito:
-
-------------------------------------------------------------------------------------------------------------------------------------
-
-UBEC
-ubec 2026
-prova:
-gabarito:
-
-ubec 2025
-prova:
-gabarito:
-
-ubec 2024
-prova:
-gabarito:
-
-ubec 2023
-prova:
-gabarito:
-
-ubec 2022
-prova:
-gabarito:
+nota de corte:

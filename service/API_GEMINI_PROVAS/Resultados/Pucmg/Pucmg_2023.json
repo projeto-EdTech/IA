@@ -1,0 +1,1056 @@
+{
+  "nomeUniversidade": "Pontifícia Universidade Católica de Minas Gerais",
+  "siglaUniversidade": "PUC Minas",
+  "nomeProva": "Vestibular 1º/2023 - Caderno 2",
+  "ano": 2023,
+  "qtdeQuestoes": 40,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Abaixo, indicaram-se algumas estratégias utilizadas pelo autor para a composição de seu texto. Avalie a análise feita à frente de cada excerto e assinale a opção que traz uma indicação INCORRETA:\n\n(Disponível em: https://www.parabolablog.com.br/index.php/blogs/normativismo-do-bom. Acesso em: 20 set. 2022)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“A distinção clássica nos estudos linguísticos modernos entre descrição e prescrição, como duas formas de abordar a realidade da linguagem, junto com a necessária revisão crítica da tradição normativa do português no Brasil, parece ter jogado o segundo termo do par, a prescrição, para o Lado Sombrio da Força” → Recurso à intertextualidade, por meio de alusão."
+        },
+        {
+          "letra": "B",
+          "texto": "“Costumam supor também uma “condenação” para quem os escreveu, por contribuírem para aprofundar a sua exclusão social. Embora sejam reproduzidos muitas vezes em matérias humorísticas de revistas e sites de qualidade duvidosa, eu não acho nenhuma graça.” → Uso das aspas para indicar empréstimo linguístico."
+        },
+        {
+          "letra": "C",
+          "texto": "“Isso era precisamente o que acontecia na cultura do manuscrito, antes de ingressarmos na Galáxia Gutenberg com a invenção da imprensa (a multiplicação mecânica dos textos) e da 'ortografia'.” → Uso de linguagem conotativa."
+        },
+        {
+          "letra": "D",
+          "texto": "“Ser acusado de prescritivista supõe ser jogado na vala comum dos “cagadores de norma”, esses seres mal-humorados pretensamente dotados de um saber esotérico sobre a língua e que têm prazer em humilhar os seus congêneres que falam (mal, óbvio) o mesmo idioma.” → Uso de termo ou expressão de forma irônica."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Recursos Argumentativos"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Atente para o excerto:\n\n\"A condenação inapelável, sem matizes, da atitude normativa costuma vir acompanhada de uma leitura ingênua de certos princípios sociolinguísticos. O reconhecimento da heterogeneidade constitutiva da língua, a variação linguística como a possibilidade de dizer o mesmo de diferentes maneiras com o mesmo valor de verdade, virou aquela platitude de que “o importante é comunicar”, desconsiderando as diferenças contextuais e os julgamentos sociais que, inevitavelmente, estão implicados em toda interação.\"\n\nCom tal afirmação, o autor assume que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Todo prescritivismo desconsidera a homogeneidade possível no ato de comunicar."
+        },
+        {
+          "letra": "B",
+          "texto": "Só a Sociolinguística tem uma visão adequada dos aspectos heterogêneos da língua."
+        },
+        {
+          "letra": "C",
+          "texto": "Posturas que não sejam relativizadas podem incorrer em julgamentos errôneos."
+        },
+        {
+          "letra": "D",
+          "texto": "Existem aspectos da variação que precisam ser condenados inapelavelmente."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Avalie o trecho transcrito:\n\n\"Por esse motivo, uma pedagogia da variação que aspire a mudar as relações linguísticas (e sociais) não pode deixar de lado a reflexão sobre esses valores associados aos usos nem pode desistir da sua crítica fundamentada. O que faz (ou fez) com que determinado uso receba consideração social negativa e outro não? Por que está tudo certo quando dizemos “prato” (do latim PLATTUM) mas não quando dizemos \"pranta” (do latim PLANTAM)? Essa é uma questão fundamental a ser abordada nas aulas de língua portuguesa, para além do fato de “pranta” e “planta\" designarem a mesma realidade (... e está tudo bem, como diz o relativismo fajuto das redes sociais).\n\nConsiderando a redação dada, e acionando seus conhecimentos da norma padrão, assinale a asserção CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A regência do verbo \"aspirar\", no sentido desejado, encontra-se incorreta: a forma padrão seria \"aspire mudar\"."
+        },
+        {
+          "letra": "B",
+          "texto": "O adjetivo \"associados\" rege preposição \"por\"; o complemento introduzido por “aos”, no excerto, marca registro informal."
+        },
+        {
+          "letra": "C",
+          "texto": "O verbo “abordar” rege complemento preposicionado – abordar nas aulas de língua portuguesa –, por isso não deveria vir passivizado."
+        },
+        {
+          "letra": "D",
+          "texto": "Tanto o substantivo \"reflexão\" como o verbo \"refletir\" regem complemento introduzido pela preposição \"sobre\"."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Regência Verbal e Nominal"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "\"Quando essa ladainha faz referência aos usos ortográficos, as consequências são especialmente cruéis. Nunca é demais repetir que a noção de variação linguística não se aplica à ortografia. Estamos aqui diante de um corpo fechado de regras de uso, completamente convencional, avalizado pela tradição e que mantém certa continuidade no tempo. As convenções ortográficas têm a função de ampliar o espaço da comunicação para além do imediato, para que o texto escrito se sustente por si mesmo, sem que cada leitor seja obrigado a agir como \"editor” do que está lendo.”\n\nTemos, no excerto destacado, conectivos que expressam as relações indicadas, EXCETO:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"[...] Nunca é demais repetir que a noção de variação [...].” → consequência"
+        },
+        {
+          "letra": "B",
+          "texto": "\"[...] avalizado pela tradição e que mantém certa continuidade no tempo.\" → adição"
+        },
+        {
+          "letra": "C",
+          "texto": "\"[...] para além do imediato, para que o texto escrito se sustente.\" → finalidade"
+        },
+        {
+          "letra": "D",
+          "texto": "\"Quando essa ladainha faz referência [...].\" → temporalidade"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Conjunções e Conectivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Observe os textos abaixo:\n\nDe acordo com a argumentação de Lagares, exemplares de textos como esses evidenciam, EXCETO:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "precarização educacional."
+        },
+        {
+          "letra": "B",
+          "texto": "alfabetização inconsistente."
+        },
+        {
+          "letra": "C",
+          "texto": "culpabilidade do redator."
+        },
+        {
+          "letra": "D",
+          "texto": "desigualdade socioeconômica."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Variação Linguística",
+        "Língua Portuguesa – Sociolinguística"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Toda célula é revestida por membrana plasmática que separa o meio interno do meio externo, e, no caso das células eucariontes, uma série de organelas citoplasmática e o próprio núcleo celular são compostos e delimitados por membranas, como as destacadas na figura a seguir.\n\nCom base nas informações acima e em outros conhecimentos sobre o assunto, assinale a afirmação INCORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A membrana plasmática não é rígida e, normalmente, depende do citoesqueleto ancorado a ela para a manutenção da forma ou para mudanças que podem ocorrer, como no crescimento e nas divisões celulares."
+        },
+        {
+          "letra": "B",
+          "texto": "A carioteca é uma complexa estrutura, constituída por duas membranas lipoproteicas justapostas e, em determinados pontos, encontram-se poros, através dos quais ocorre troca de moléculas específicas entre o núcleo e o citoplasma."
+        },
+        {
+          "letra": "C",
+          "texto": "O Complexo de Golgi pode atuar na concentração, no processamento, no empacotamento e na destinação de proteínas oriundas do R.E.R., como é o caso dos lisossomos que contêm enzimas digestivas."
+        },
+        {
+          "letra": "D",
+          "texto": "O retículo endoplasmático liso é naturalmente não funcional pela falta dos ribossomos que, no retículo endoplasmático rugoso são responsáveis pela síntese das proteínas celulares."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Citologia (Organelas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Seleção Natural e Deriva Genética são dois diferentes mecanismos evolutivos que podem alterar o conjunto gênico de populações originais. No caso da seleção natural, o gene que passa para a próxima geração é aquele que propiciou uma melhor adaptação ao meio, frente a pressões seletivas. A deriva genética não pressupõe processo de eliminação de fenótipos como base na seleção positiva dos melhores adaptados ou negativa dos menos adaptados. Três diferentes tipos de seleção natural (direcional; disruptiva e estabilizadora) são mostrados abaixo.\n\nCom base nas informações acima e em outros conhecimentos sobre o assunto, assinale a afirmação INCORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O surgimento de novas espécies depende exclusivamente da seleção natural, enquanto a deriva genética somente gera variantes fenotípicos a serem posteriormente selecionados."
+        },
+        {
+          "letra": "B",
+          "texto": "A deriva genética é uma mudança na frequência dos alelos de uma população que ocorre, diferentemente da seleção natural, de maneira aleatória (ao acaso)."
+        },
+        {
+          "letra": "C",
+          "texto": "A seleção disruptiva, embora rara, pode acabar por produzir isolamento reprodutivo dos desviantes, gerando novas espécies."
+        },
+        {
+          "letra": "D",
+          "texto": "A seleção estabilizadora tende a eliminar fenótipos desviantes, reduzindo a variabilidade fenotípica de uma população."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Evolução"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Em um contexto de emergência pela pandemia de Covid-19, diferentes vacinas foram produzidas e utilizadas no Brasil, como as elencadas a seguir:\n\nVacinas de vírus inativados: utilizam o próprio vírus “morto” ou “enfraquecido” sendo atenuado para não causar doença ou sintomas significativos, mas estimulam resposta imunológica no vacinado.\nVacinas de vetor viral: utilizam um adenovírus de chimpanzés, que é manipulado geneticamente, para que seja nele inserido o gene da proteína “S” da superfície do Sars-CoV-2.\nVacinas de RNAm: O RNA-mensageiro é produzido a partir de gene de proteína “S” do Sars-CoV-2 e inserido em partículas lipídicas capazes de carrear o RNAm para dentro de células humanas.\nVacinas de vetores de adenovírus: fazem uso do vírus comum da gripe, modificado para transportar uma proteína que foi retirada do genoma do Sars-CoV-2, e colocada dentro do adenovírus.\n\nA respeito destas vacinas de outras vacinas que utilizam estratégias semelhantes foram feitas as seguintes afirmações:\n\nI. Todas as vacinas são preventivas, evitando a infecção do organismo vacinado por um específico microrganismo patogênico.\nII. A produção de vacinas contendo vírus atenuados necessita de células, como as de embriões de galinha em desenvolvimento, para a multiplicação do antígeno.\nIII. As vacinas produzidas com vírus mortos (incapazes de multiplicação), como a da poliomielite injetável, são sempre menos efetivas do que aquelas produzidas com vírus vivos atenuados usados na imunização oral.\nIV. As vacinas de RNAm têm a informação que é traduzida como proteína da superfície viral por células humanas que são reconhecidas pelo nosso sistema imunológico.\nV. A vacina de RNAm tende a ser mais direta na expressão gênica da proteína viral, mas as moléculas de RNAm se desintegram rapidamente quando expostas à temperatura ambiente, e esta vacina requer condições mais rigorosas para sua manutenção.\n\nSão afirmações VERDADEIRAS apenas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e IV."
+        },
+        {
+          "letra": "B",
+          "texto": "I, III e V."
+        },
+        {
+          "letra": "C",
+          "texto": "II, III e V."
+        },
+        {
+          "letra": "D",
+          "texto": "II, IV e V."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Imunologia (Vacinas)",
+        "Biologia – Virologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "O heredograma a seguir foi construído para se estudar uma anomalia genética (distúrbio ou alteração da normalidade) com penetrância completa, ou seja, quando todas as pessoas com um dado genótipo sem alelo dominante apresentam o fenótipo recessivo e, com pelo menos um alelo dominante, manifestam o fenótipo dominante.\n\nCom base nas informações acima e em outros conhecimentos sobre o assunto, assinale a afirmação INCORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A chance do casal 5 x 6 ter outro filho afetado é a mesma que a de ter uma filha afetada por este distúrbio."
+        },
+        {
+          "letra": "B",
+          "texto": "Não sendo afetado pela anomalia, a chance do indivíduo 14 ser heterozigoto é de 2/3."
+        },
+        {
+          "letra": "C",
+          "texto": "Trata-se de um caráter recessivo ligado ao sexo, em que todas as filhas de pai afetado serão também afetadas."
+        },
+        {
+          "letra": "D",
+          "texto": "Trata-se de uma característica recessiva ligada em cromossomo autossômico, onde os filhos normais com apenas um dos pais afetado são heterozigotos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Genética (Heredogramas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Os seguintes grupos vegetais, como musgos, samambaias, gimnospermas, angiospermas, evoluíram a partir de ancestral aquático, como mostrado no esquema abaixo, e são diferenciados pelo aparecimento de características evolutivas próprias de cada grupo.\n\nA relação entre o grupo vegetal e a característica típica do grupo está INCORRETA em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Musgo - Sistema vascular"
+        },
+        {
+          "letra": "B",
+          "texto": "Samambaia - Presença de embrião"
+        },
+        {
+          "letra": "C",
+          "texto": "Gimnosperma - Semente sem fruto"
+        },
+        {
+          "letra": "D",
+          "texto": "Angiosperma - Flores no processo reprodutivo"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Botânica (Grupos Vegetais)"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Considere a seguinte reação química:\n\n$$ N_2 (g) + 3H_2(g) \\rightleftharpoons 2NH_3(g) \\quad \\Delta H = -111 \\text{ kJ} $$\n\nQue efeito o aumento do volume do recipiente da reação terá sobre a $[NH_3]$ no equilíbrio?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$[NH_3]$ permanecerá constante."
+        },
+        {
+          "letra": "B",
+          "texto": "fará aumentar."
+        },
+        {
+          "letra": "C",
+          "texto": "fará diminuir."
+        },
+        {
+          "letra": "D",
+          "texto": "Não é possível avaliar."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Equilíbrio Químico"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Tem-se a tabela com calores de fusão e vaporização:\n\nAs energias, em kJ, para derreter 72 g de gelo a 0 °C e ebulir 23 g de etanol ($C_2H_5OH$) a 78,5 °C são, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2,4 e 2,2"
+        },
+        {
+          "letra": "B",
+          "texto": "24 e 22"
+        },
+        {
+          "letra": "C",
+          "texto": "16,4 e 2,5"
+        },
+        {
+          "letra": "D",
+          "texto": "164 e 25"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Termoquímica",
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "O gráfico de solubilidade para algumas substâncias está representado a seguir:\n\nA massa aproximada de KCl que pode ser dissolvida para formar uma solução saturada a 100 °C e a massa de solução saturada de $Pb(NO_3)_2$ a 60 °C são, respectivamente",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "60 g e 40 g."
+        },
+        {
+          "letra": "B",
+          "texto": "60 g e 140 g."
+        },
+        {
+          "letra": "C",
+          "texto": "100 g e 40 g."
+        },
+        {
+          "letra": "D",
+          "texto": "100 g e 60 g."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Soluções (Solubilidade)"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "A reação de combustão completa do gás metano é representada pela equação não balanceada:\n\n$$ CH_4 + O_2 \\rightarrow CO_2 + H_2O $$\n\nSe colocarmos para reagir 32 g de $CH_4$ e 130 g de $O_2$, a massa de água (máxima) produzida será de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "18 g."
+        },
+        {
+          "letra": "B",
+          "texto": "36 g."
+        },
+        {
+          "letra": "C",
+          "texto": "72 g."
+        },
+        {
+          "letra": "D",
+          "texto": "144 g."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Estequiometria (Reagente Limitante)"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Para vaporizar um líquido, as forças intermoleculares que mantêm as moléculas unidas devem ser superadas. Quanto mais fortes essas forças, mais energia e uma temperatura mais alta são necessárias, levando a um ponto de ebulição mais alto.\nConsidere os seguintes compostos orgânicos:\n\nSe colocarmos os compostos em ordem crescente de ponto de ebulição, teremos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Butano, propanal e propanol."
+        },
+        {
+          "letra": "B",
+          "texto": "Butano, propanol e propanal."
+        },
+        {
+          "letra": "C",
+          "texto": "Propanal, propanol e butano."
+        },
+        {
+          "letra": "D",
+          "texto": "Propanol, propanal e butano."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Química Orgânica (Forças Intermoleculares)",
+        "Química – Propriedades Coligativas"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "O $H_2O$ é uma substância que, no passado, se acreditava ser exclusiva do planeta Terra. Após quase um século de exploração espacial, foi descoberto que o $H_2O$ é uma das substâncias mais comuns no sistema solar, tendo sido observada em corpos celestes como Marte e em algumas luas de Júpiter e de Saturno.\n\nObserve o diagrama de fases do $H_2O$\n\nFonte: <https://ergodic.ugr.es/termo/lecciones/water1.html>. Acesso em: 28 set. 2022.\n\nSobre o estado físico da substância $H_2O$ na superfície do lado escuro da Lua Terrestre, onde a temperatura é -190 °C e a pressão atmosférica é praticamente nula, é CORRETO afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pode se encontrar em quaisquer estados físicos."
+        },
+        {
+          "letra": "B",
+          "texto": "se encontra no estado de vapor."
+        },
+        {
+          "letra": "C",
+          "texto": "se encontra no estado líquido."
+        },
+        {
+          "letra": "D",
+          "texto": "se encontra no estado sólido."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Termologia (Diagrama de Fases)"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "A tabela mostra os efeitos de correntes elétricas sobre o corpo humano.\n\nFonte: HEWITT, P. G. Física conceitual. 12. Ed. Porto Alegre: Bookman, 2015. p. 455\n\nFontes de alta tensão estão presentes no cotidiano, como nas redes de distribuição elétrica e nas máquinas de raios-X.\nA partir de que valor de voltagem uma fonte causa distúrbios sérios a alguém que toque simultaneamente seus terminais?\nConsidere que a resistência do corpo humano vale $R = 1,0 \\cdot 10^5 \\Omega$ e use os dados da tabela como referência",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$7,0 \\cdot 10^3 V$"
+        },
+        {
+          "letra": "B",
+          "texto": "$7,0 \\cdot 10^5 V$"
+        },
+        {
+          "letra": "C",
+          "texto": "$1,0 \\cdot 10^5 V$"
+        },
+        {
+          "letra": "D",
+          "texto": "$1,4 \\cdot 10^3 V$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Eletrodinâmica (Lei de Ohm)"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "A energia mecânica está associada ao movimento e pode passar por diversas transformações. Em um parque aquático, podemos perceber essas transformações de energia quando descemos um toboágua. Um dos maiores toboáguas do mundo fica em Barra do Piraí, no Rio de Janeiro. É o Kilimanjaro, que proporciona muita emoção, já que o visitante atinge uma grande velocidade ao final da descida.\n\nPara efeitos de cálculos, o considere possuindo 45 metros de altura [o valor real da altura do Kilimanjaro é de 49,9 metros!] e que uma pessoa parta do repouso desse ponto mais alto do toboágua. Admita que todas as formas de atrito sejam desprezíveis e $g=10 \\text{ m/s}^2$.\nA velocidade atingida por essa pessoa ao chegar à base do tobogã é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "54 km/h"
+        },
+        {
+          "letra": "B",
+          "texto": "72 km/h"
+        },
+        {
+          "letra": "C",
+          "texto": "90 km/h"
+        },
+        {
+          "letra": "D",
+          "texto": "108 km/h"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Mecânica (Conservação de Energia)"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Uma marca de veículos de luxo intrigou a mídia especializada quando lançou um carro com a pintura com a aparência de uma espécie de “veludo”. Entretanto, o material se trata de um composto de carbono puro denominado pela fabricante de \"Vantablack”. Esse composto foi desenvolvido no Laboratório Nacional de Física do Reino Unido em 2006 e passa essa impressão por ser capaz de absorver 99,97% da luz.\nSobre as características ópticas desse material, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A absorção da luz no vantablack provoca uma diminuição em sua temperatura."
+        },
+        {
+          "letra": "B",
+          "texto": "A reflexão e a absorção ocorrem simultaneamente, porém o fenômeno predominante no vantablack é a reflexão."
+        },
+        {
+          "letra": "C",
+          "texto": "No caso de objetos que não emitem luz visível, só conseguimos enxergar os que são capazes de refletir parte ou toda a luz que chega até eles."
+        },
+        {
+          "letra": "D",
+          "texto": "Caso o composto utilizado pela fabricante de carros de luxo chamado de “vantablack\" fosse capaz de absorver 100% da luz, o carro apresentaria um brilho intenso."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Óptica (Absorção e Reflexão)"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Nossas várias formas de comunicação estão relacionadas às ondas. Podemos enxergar quando há luz visível, ouvimos por meio de ondas sonoras e, também, recebemos sinais de rádio, TV e internet através de ondas.\nEm relação às ondas, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As ondas sonoras são ondas eletromagnéticas que se propagam com a mesma velocidade em qualquer que seja o meio."
+        },
+        {
+          "letra": "B",
+          "texto": "As ondas sonoras são ondas mecânicas, e sua velocidade varia de acordo com o meio em que se propaga."
+        },
+        {
+          "letra": "C",
+          "texto": "As ondas de rádio e TV são ondas mecânicas de alta frequência."
+        },
+        {
+          "letra": "D",
+          "texto": "A luz visível é uma onda eletromagnética que precisa de um meio para se propagar."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Ondulatória (Natureza das Ondas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Conforme dados da Associação Brasileira de Normas Técnicas (ABNT), há uma demanda crescente de bacias sanitárias ecológicas que utilizam 6 litros de água por descarga em vez dos 15 litros utilizados por bacias sanitárias não ecológicas. Considere que certa pousada substitua as 80 bacias sanitárias não ecológicas de seus 80 quartos por bacias sanitárias ecológicas. Supondo que o gasto diário de cada bacia sanitária não ecológica seja, em média, de 60 litros, pode-se estimar que a economia de água diária, medida em litros, obtida por essa pousada com essa substituição é, aproximadamente, igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 690"
+        },
+        {
+          "letra": "B",
+          "texto": "2 880"
+        },
+        {
+          "letra": "C",
+          "texto": "3 420"
+        },
+        {
+          "letra": "D",
+          "texto": "4 300"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Razão e Proporção",
+        "Matemática – Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Uma companhia de teatro observa que, vendendo ingressos a R$ 270,00, cem deles são vendidos por dia, e que, para cada redução de R$ 15,00 nesse preço, ela vende 10 ingressos a mais.\nNessas condições, e considerando que a receita é o resultado do produto do preço pelo número de ingressos vendidos, é CORRETO afirmar que a receita diária máxima que essa empresa pode obter com a venda de ingressos é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 29.400,00"
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 31.800,00"
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 34.900,00"
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 40.200,00"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Funções do 2º Grau (Máximos e Mínimos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Certa área florestal é desmatada à razão de 10% ao ano. Esse ritmo de desmate pode ser descrito pela função $A(t) = A_0 \\cdot (0,90)^t$, em que A(t) é a área não desmatada, t é o tempo contado em anos e $A_0$ é a medida da área florestal inicial.\nCom base nessas informações, pode-se estimar que o tempo de desmate necessário, para que reste apenas a metade da área inicial, é mais próximo de:\n\nUse log 2 = 0,30 e log 3 = 0,48",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5,0 anos."
+        },
+        {
+          "letra": "B",
+          "texto": "6,5 anos."
+        },
+        {
+          "letra": "C",
+          "texto": "7,0 anos."
+        },
+        {
+          "letra": "D",
+          "texto": "7,5 anos."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Funções Exponenciais e Logarítmicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Um piso de certa sala retangular com 3 m de largura e 4 m de comprimento é composto por placas quadradas de lado medindo 1 m, conforme a figura a seguir.\n\nNesta figura, os pontos A, B, C e D são pontos médios dos lados do quadrado e os segmentos AP e QC medem 1/4 da medida do lado do quadrado. Para confeccionar o piso, são usados dois tipos de materiais: um para a parte sombreada da figura, que é de granito e custa R$ 360,00 o m², e outro para a parte mais clara (regiões ABPDA e BCDQB), que é feita de madeira e custa R$ 280,00 o m².\nDe acordo com esses dados, é CORRETO afirmar que o custo total dos materiais usados para a composição desse piso é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 2.800,00"
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 3.400,00"
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 4.080,00"
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 5.090,00"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Plana (Áreas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Certo profissional de tecnologia precisa trabalhar durante sete dias para receber determinado pagamento. Se aumentar em R$ 380,00 sua remuneração diária, ele conseguirá o mesmo pagamento em cinco dias.\nNessas condições, o pagamento desse profissional é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 4.720,00"
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 5.250,00"
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 6.650,00"
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 7.400,00"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Equações do 1º Grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Read the text below and choose the best answer for each question, according to it.\n\nQuiet quitting: The workplace trend taking over TikTok\n\nDespite the name, \"quiet quitting\" actually has nothing to do with quitting your job. It means doing only what your job demands and nothing more. Quitting doing anything extra. You still show up for work but stay strictly within the boundaries of your job requirements. So, no more helping out with additional tasks or checking emails outside work hours. Since the pandemic, an increasing number of young workers have grown tired of not getting the recognition and compensation for putting in extra hours. They're saying no to burnout, and instead focusing on work-life balance. The movement is centered around self-preservation and \"acting your wage\".\n\nThe term \"quiet quitting\" has taken off recently after American TikTokker @zaidlepplin posted a video on it that went viral, saying \"work is not your life\". Perhaps surprisingly, the overall movement may have its origins in China, where the now-censored hashtag #tangping, meaning \"lie flat\", was used in protest against the long-hours culture.\n\nHowever, not everyone's on board with the quiet quitting phenomenon. Workplace decorum expert Pattie Ehsaei expressed her disagreement with it in a TikTok video, saying you'll never succeed at work with that mindset. \"Quiet quitting is doing the bare minimum required of you at work and being content with mediocrity,\" she told the BBC.\n\"Advancement and pay increases will go to those whose level of effort warrants advancement and doing the bare minimum certainly does not.\"\n\nCareer coach and podcast host Joanne Mallon says many of her clients have already started to quiet quit when they come to her for coaching. She says that while she would never advise someone to quiet quit, she asks them what their reasons are for doing so. According to her, \"Everybody has quiet quit at some point in their lives, but ultimately it might be a sign that it's time to move on and get out of a space physically\".\n\nAdapted from: https://www.bbc.com/news/business-62638908 Available on September 15th, 2022.\n\nWhich of the sentences below is correct according to the text?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Quiet quitters are considered lazy by most employers."
+        },
+        {
+          "letra": "B",
+          "texto": "Quiet quitters will have to give up their current jobs."
+        },
+        {
+          "letra": "C",
+          "texto": "Quiet quitting is a trend that will definitely not succeed."
+        },
+        {
+          "letra": "D",
+          "texto": "Quiet quitting is related to people's self-protection."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "According to the text, the fact that quiet quitting may have its origins in China is",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "impossible."
+        },
+        {
+          "letra": "B",
+          "texto": "predictable."
+        },
+        {
+          "letra": "C",
+          "texto": "remarkable."
+        },
+        {
+          "letra": "D",
+          "texto": "understandable."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "What does the use of the word However in the beginning of paragraph 3 imply?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "That a cause for those ideas described in the previous paragraphs will be presented."
+        },
+        {
+          "letra": "B",
+          "texto": "That a conclusion to those ideas described in the previous paragraphs will be presented."
+        },
+        {
+          "letra": "C",
+          "texto": "That contrasting ideas to those described in the previous paragraphs will be presented."
+        },
+        {
+          "letra": "D",
+          "texto": "That ideas in agreement with those described in the previous paragraphs will be presented."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Vocabulário (Conectivos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "What does workplace decorum expert Pattie Ehsaei criticize?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "The fact that workers will never succeed with that attitude."
+        },
+        {
+          "letra": "B",
+          "texto": "The latest trend of quiet quitting in the workplace."
+        },
+        {
+          "letra": "C",
+          "texto": "The possibility that pay increases may favor quiet quitters."
+        },
+        {
+          "letra": "D",
+          "texto": "The use of TikTok videos to express one's beliefs."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "What does the use of the word might in “it might be a sign that it's time to move on\" indicate (paragraph 4)?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "That it is possible that someone wants a change in his/her working life."
+        },
+        {
+          "letra": "B",
+          "texto": "That it is essential for someone to do something about his/her career."
+        },
+        {
+          "letra": "C",
+          "texto": "That someone should not know what to do with his/her working life."
+        },
+        {
+          "letra": "D",
+          "texto": "That someone undoubtedly wants to change his/her job or his/her career."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Gramática (Modal Verbs)"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Estamos comemorando o bicentenário do evento que ficou conhecido como Independência do Brasil. As festas cívicas no Brasil, e no mundo todo, são sempre rituais políticos. E nesse sentido, para responder as questões 31 e 32 que se seguem, vamos tomar como base a Carta de Dom Pedro I a seu pai, rei de Portugal, Dom João VI, rompendo definitivamente com as Cortes de Lisboa e comunicando sua aclamação como Imperador.\n\nTranscrição:\nRio, 23 de outubro de 1822. Meu Pai. O amor filial, que por todos os princípios tributo à Vosa [vossa], me obrigam a ir pelo modo, que me é possível, saber da saúde de vossa majestade em que tanto me interesso, como o devem fazer todos os filhos que amarem a seus pais, assim como eu. Vossa majestade saberá pelos papeis, que remeto inclusos, a alta dignidade a que fui elevado por unanime aclamação destes bons, leais e briosos, Povos a quem sou sobre maneira agradecido, por quererem, e de tanto sustentarem a mim, à minha imperial descendência, e à dignidade desta Nação de quem tenho a ventura de ser Imperador Constitucional de Defensor Perpetuo; e assim ter a Nação Portuguesa um asilo certo nas adversidades que lhes estão iminentes. Tenho a honra de ser com todo o respeito de vossa majestade. Filho mui afetuoso, e que, como tal lhe beija a Sua Real Mão, Pedro. P.S. Eis as armas do Império Brasílico\n\nA Carta escrita em 23 de outubro de 2022 por Dom Pedro I a seu pai comunica sua aclamação e elevação como Imperador Constitucional do Brasil, com o título de Defensor Perpétuo e, também, tem a intenção de apresentar as armas (que vêm acrescidas, por carimbo, ao documento) do Império Brasílico.\nConsiderando o evento do 7 de setembro de 1822 e a carta enviada, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A carta nos passa a noção feliz e orgulhosa de uma separação que se daria de forma harmoniosa e respeitosa entre Brasil e Portugal, entretanto, a História mais atual destaca a existência de conflitos no momento das lutas pela emancipação."
+        },
+        {
+          "letra": "B",
+          "texto": "A separação política do Brasil é uma continuidade do antigo reino luso-brasileiro, assim como a descendência do imperador ressaltada na comunicação, sem alterações de nenhuma natureza no poder e nas estruturas sociais, políticas ou institucionais."
+        },
+        {
+          "letra": "C",
+          "texto": "Ao indicar, em comunicação ao Rei de Portugal, o nascimento do Império Brasílico e apresentar suas armas, Dom Pedro I garante a afirmação imediata do reconhecimento do Brasil como nação independente pelo seu antigo colonizador."
+        },
+        {
+          "letra": "D",
+          "texto": "O que se valoriza é aclamação do Povo ao seu imperial “novo” governante. Não se valoriza a separação. A carta declara o amor filial de Dom Pedro a seu pai e à Portugal, indicando a manutenção do poder português à nação brasileira."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Brasil Império (Independência)"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Como parte das comemorações dos 200 anos de independência do Brasil, o Ministério das Relações Exteriores trouxe ao Brasil o Coração de Dom Pedro I, conservado em formol há 187 anos. O Coração de Dom Pedro I, recebido com honrarias de Chefe de Estado, ficou exposto no Palácio do Itamaraty.\nRefletindo sobre os atos comemorativos e o papel deles pelas sociedades do presente, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O aniversário de 200 anos, diferente da maioria dos aniversários comuns como festas para celebração dos vivos, escolheu trazer um coração preservado de um homem do passado brasileiro. O significado das escolhas entre vivos e mortos é sinal de um mundo pós-Covid, que sofreu com a perda dos seus."
+        },
+        {
+          "letra": "B",
+          "texto": "O Brasil de 2022 é muito diferente do Brasil de 1822 e de 1922, quando foi celebrado o Centenário da Independência. Hoje, já superamos o passado monárquico e os conflitos a ele inerentes e, por isso mesmo, é tão importante as rememorações como estas para resgatar um passado que estava esquecido."
+        },
+        {
+          "letra": "C",
+          "texto": "A celebração do bicentenário constitui uma festa cívica e, como tal, precisa ser analisada como um ritual político sujeito às manipulações de cada tempo e dos governantes. Trazer o coração nos remete a, mais uma vez, glorificar o passado, ignorando os conflitos de 1822 e do próprio presente."
+        },
+        {
+          "letra": "D",
+          "texto": "A vinda do coração como homenagem inaugura este tipo de celebração no Brasil que desde a República se propunha a esquecer o passado monárquico, rompido e requalificado como opressor, buscando repatriar, pela primeira vez, os restos mortais de membros do Império."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Teoria da História (Memória e Comemorações)"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Festas cívicas, como as do Bicentenário da Independência, podem e devem ser pensadas no âmbito dos nacionalismos, como passa a ser concebido o sentimento de pertencimento ao \"corpo de cidadãos cuja soberania coletiva os constituía com um Estado concebido como sua expressão política. Pois, fosse o que fosse uma nação, ela sempre incluiria o elemento da cidadania e da escolha ou participação de massa. [...]” (HOBSBAWM, Eric. Nações e Nacionalismo. 4. ed. São Paulo: Paz e Terra, 2004, p. 31).\nConsiderando seus conhecimentos, sobre a definição de nação expressa por Eric Hobsbawm, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Defendeu a exigência de território e governo para as nações, excluindo, assim, boa parte das antigas potências que foram reduzidas ou suprimidas nas guerras."
+        },
+        {
+          "letra": "B",
+          "texto": "Entre as principais reflexões, a contribuição de Hobsbawm é a distinção de nação e de nacionalismo, na separação do Estado de seus súditos nacionais."
+        },
+        {
+          "letra": "C",
+          "texto": "Estabeleceu para o nacionalismo um ideário universalista para o mundo ocidental que passou a incluir o Estado, as Instituições e, principalmente, a Cidadania."
+        },
+        {
+          "letra": "D",
+          "texto": "Recolocou, após o fim do Antigo Regime absolutista, o Estado como expressão política que independe dos valores e das pressões que vinham das massas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Teoria da História (Nacionalismo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Leia o trecho que se segue:\n\nO cuidado com os outros seres humanos, especialmente com os grupos minoritários, e o cuidado com o planeta brotam dos mesmos imperativos morais. O humanismo tem se mostrado expansivo historicamente e é através da luta social, da campanha e das demandas por novos direitos e proteções legais que os direitos humanos vêm sendo assegurados. Expandir ainda mais nosso círculo moral deveria agora abranger tanto o direito do planeta de sobreviver e prosperar como o direito de todos os seres habitantes de fazerem o mesmo. É evidente que uma das tarefas mais urgentes na construção de uma cultura de paz global é repensar o papel do meio ambiente em nossos conceitos de direito e de bem-estar.\n\n(MACAULAY, Fiona. O pilar ausente da paz: cuidado ambiental, direitos e responsabilidade (traduzido do inglês por Claudemir Francisco Alves). In: GUIMARÃES, Joaquim Giovani Mol et al. (org.). O novo humanismo: paradigmas civilizatórios para o século XXI a partir do Papa Francisco. São Paulo: Paulus, 2022. p. 511-538).\n\nRefletindo sobre o trecho acima e sobre o Novo Humanismo que se apresenta como o repensar de formas de reorganização da vida, só é CORRETA a afirmativa:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As questões ambientais, tão necessárias e urgentes, devem ser pensadas a partir de direitos e proteções legais a todos os seres vivos que habitam o mesmo planeta."
+        },
+        {
+          "letra": "B",
+          "texto": "Meio ambiente e seres humanos estão interligados e guiam ações harmônicas entre os grupos que devem extirpar as lutas sociais e/ou por direitos nas sociedades."
+        },
+        {
+          "letra": "C",
+          "texto": "Os imperativos morais são essenciais no Novo Humanismo, pois são, sobretudo, a afirmação dos já consagrados valores modernos sobre vida, saúde e bem-estar."
+        },
+        {
+          "letra": "D",
+          "texto": "Respeitar o meio ambiente é uma questão do cuidar e precisa ser estabelecida como respeito à natureza, colocando-a acima dos homens e de suas necessidades."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Filosofia – Ética e Meio Ambiente",
+        "Sociologia – Movimentos Sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Hoje estamos diante de uma radicalização (inclusive bélica) em algumas partes do mundo, com destaque para a Guerra da Ucrânia. Vale voltar a olhar para o século XIX, quando o processo de expansão e conquista por uma potência dominadora foi chamado de colonialismo, neocolonialismo ou imperialismo e identificar ali, fundamentos que podem ser percebidos também nos nossos dias.\nTodas as afirmativas apresentam corretamente efeitos dos processos de dominação no século XIX e hoje, EXCETO:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Civilização: conceito importante com relação a desenvolvimento e direitos na defesa de um sistema de valores que sustentava o imperialismo como sistema e fenômeno histórico. Hoje, nos conflitos atuais, guardadas as devidas proporções conceituais, desenvolvimento e direitos também apoiam a invasão ou sua resistência."
+        },
+        {
+          "letra": "B",
+          "texto": "Conflitos nas comunidades locais: a influência imperialista encontrou resistências à administração colonial e percebe-se que as pressões geopolíticas em favor maior ou menor ao invasor persistem nos conflitos locais, inclusive dividindo as nações internamente entre apoiar ou não as ações do dominador."
+        },
+        {
+          "letra": "C",
+          "texto": "Criação de Narrativas: para conseguir apoio da opinião pública, a imprensa noticiava os sucessos da expedição colonizadora e criava a adesão do povo como forma de prestígio. Hoje, de forma muito mais complexa, Rússia e aliados e Ucrânia e aliados disputam as narrativas sobre a guerra e sua defesa sobre a opinião pública."
+        },
+        {
+          "letra": "D",
+          "texto": "Desindustrialização: no século XIX, a concorrência entre a indústria local e a indústria do colonizador impossibilitou o desenvolvimento industrial nas áreas dominadas. Hoje, a dependência de recursos vindos da Rússia, principalmente o carvão, impossibilita a produção industrial ucraniana, reduzindo o país a um produtor de grãos."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – História Contemporânea (Neocolonialismo e Conflitos Atuais)"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "O mapa baixo mostra a atuação de massas de ar no Brasil durante o Inverno e o Verão.\n\nConsiderando a atuação e a dinâmica das massas de ar no Brasil, é INCORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O número 1 representa a Massa Equatorial Continental quente e úmida, que, durante o verão, desloca uma grande quantidade de vapor de água para a região central do Brasil, dando origem ao fenômeno conhecido como \"rios voadores\"."
+        },
+        {
+          "letra": "B",
+          "texto": "O número 2 representa a Massa Tropical Atlântica, que atua no interior dos estados do Maranhão, Piauí, Ceará e Bahia durante o inverno, causando chuvas de intensidade moderada a forte e de curta duração conhecidas como “invernadas\"."
+        },
+        {
+          "letra": "C",
+          "texto": "O número 3 representa a Massa Tropical Continental, também conhecida como bloqueio atmosférico, é responsável, durante o inverno, por episódios de aumento da temperatura na região sul, conhecido como “veranico”."
+        },
+        {
+          "letra": "D",
+          "texto": "O número 5 representa a Massa Polar Atlântica que durante o inverno, pode se deslocar até o interior do estado do Acre, provocando queda súbita e acentuada da temperatura dado origem ao fenômeno conhecido como “friagem”."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Climatologia (Massas de Ar no Brasil)"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "A figura abaixo representa o efeito do relevo (orografia) sobre a circulação atmosférica.\n\nSobre as dinâmicas e os processos que compõem os movimentos da circulação atmosférica e o relevo, avalie as afirmações a seguir:\n\nI. O relevo influencia apenas no deslocamento das massas de ar, não tendo nenhuma influência sobre a diversidade da cobertura vegetal da região.\nII. A chuva orográfica ocorre quando uma massa de ar carregada de umidade sobe ao encontrar uma elevação do relevo, gerando a condensação do vapor de água, provocando chuva.\nIII. O efeito orográfico faz com que as regiões situadas a barlavento apresentem totais de precipitação mais elevados aos apresentados pelas regiões a sotavento.\nIV. O relevo contribui na diferenciação do clima de uma região. Enquanto na região de barlavento predomina um clima seco, na região a sotavento o clima tende a ser mais úmido.\n\nÉ CORRETO o que se afirma em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e III, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e IV, apenas"
+        },
+        {
+          "letra": "C",
+          "texto": "II e III, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II, III e IV."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Climatologia (Fatores Climáticos - Relevo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "As figuras representam a distância real da pista do aeroporto da Pampulha em vista aérea e a distância proporcional em um mapa, que permitem estabelecer relações espaciais entre o mapa e o terreno.\n\nUtilize fórmula: $E=D/d$ ou utilize a regra de três.\nSendo:\nD = Distância Real\nd = distância no mapa\nE = Escala\n\nDistância real da pista do aeroporto: 2.550 metros.\nDistância no mapa da pista do aeroporto: 17 centímetros.\n\nCom base nas informações disponíveis, é CORRETO afirmar que a escala numérica do mapa é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1:2.550"
+        },
+        {
+          "letra": "B",
+          "texto": "1:15.000"
+        },
+        {
+          "letra": "C",
+          "texto": "1:17.000"
+        },
+        {
+          "letra": "D",
+          "texto": "1:25:500"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Cartografia (Escala)"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "“O Irã vive uma onda de protestos em todo o país. Eles foram desencadeados depois da morte de uma jovem que havia sido presa pela chamada 'polícia da moralidade'. Três semanas depois do início das manifestações, as demandas dos manifestantes cresceram para incluir uma série de mudanças que os jovens iranianos desejam para o país. O gatilho das manifestações foi a morte de Mahsa Amini - uma jovem iraniana-curda que morreu depois de ser detida pela polícia da moralidade do país por supostamente violar a lei que exige que as mulheres cubram os cabelos com um hijab, ou lenço”.\n\nDisponível em < https://www.bbc.com/portuguese/internacional-63179033> Acesso em: 08 out. 2022.\nNÃO configura uma realidade das manifestações indicadas acima o que se afirma em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As exigências dos manifestantes, em sua maioria mulheres, incluem pedidos de liberdade de expressão, liberdade de vestir o que quiserem e a liberdade de ouvir a música que desejarem, sem medo de serem presas por isso."
+        },
+        {
+          "letra": "B",
+          "texto": "As manifestações têm na vanguarda dos protestos a \"Geração Z\" – definida como os nascidos em 1997 e 2012 - que cobram para além das respostas sobre como Amini morreu, punições aos policiais, a revogação das leis do hijab e a abolição da polícia de moralidade do Irã."
+        },
+        {
+          "letra": "C",
+          "texto": "O protesto tem uma característica peculiar, tendo sido divulgado unicamente pelas redes de televisão, não havendo qualquer relação de divulgação com as redes sociais, que não são utilizadas pelos habitantes do país, devido a sua proibição."
+        },
+        {
+          "letra": "D",
+          "texto": "Um dos principais slogans dos manifestantes, \"Mulher, Vida, Liberdade\", trata-se de um apelo à igualdade e uma afronta ao fundamentalismo religioso que controla o país."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geopolítica (Conflitos no Oriente Médio)"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "\"O termo globalização, nascido no âmbito do discurso jornalístico de teor econômico, tornou-se palavra da moda e passou a ser utilizado de modo generalizado no discurso teórico de diversos campos do conhecimento. Podemos dizer, com alguma ironia, que o que mais se globalizou foi a adoção deste termo para indicar a disseminação em escala planetária de processos gerais concernentes às relações de trabalho, difusão de informações e uniformização cultural”. (HAESBAERT, R.; LIMONAD, E. O território em tempos de globalização. ETC: Espaço, Tempo e Crítica, Niterói, UFF, v. 1, n. 2, p. 39-52, ago. 2007).\n\nO excerto acima, retratado pelos autores Haesbaert e Limonad (2007), sugere que a ideia de uma homogeneização propiciada pela globalização é equivocada, pelo menos em alguns aspectos.\n\nLeia as duas afirmativas referentes a essa questão e faça o que se pede:\n\nAfirmativa I - A homogeneização propiciada pela globalização não atinge de maneira igualitária a todos os segmentos socioespaciais. Todavia, há de se considerar que, pelo menos, na perspectiva do capital e da elite planetária, é possível haver homogeneização na medida em que se busca diminuir processos de exclusão socioespacial.\n\nPORQUE...\n\nAfirmativa II - A globalização não atinge igualmente a todos os segmentos socioespaciais, pois não somente ela se processa em pontos seletivamente escolhidos do globo terrestre como, em muitos casos, é obrigada a adaptar-se e/ou a reelaborar processos político econômicos e culturais em nível local.\n\nSobre essas duas afirmativas, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A primeira é uma afirmativa falsa; e a segunda, verdadeira."
+        },
+        {
+          "letra": "B",
+          "texto": "A primeira é uma afirmativa verdadeira; e a segunda, falsa."
+        },
+        {
+          "letra": "C",
+          "texto": "As duas são verdadeiras, e a segunda é uma justificativa correta da primeira."
+        },
+        {
+          "letra": "D",
+          "texto": "As duas são verdadeiras, mas não estabelecem relação entre si."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Globalização"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1349 @@
+{
+  "nomeUniversidade": "Instituto Mauá de Tecnologia",
+  "siglaUniversidade": "MAUÁ",
+  "nomeProva": "Vestibular de Verão",
+  "ano": 2022,
+  "qtdeQuestoes": 46,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "O texto a seguir serve de base para as questões 01 a 06.\n\nTEXTO\n\nDaí a pouco demos com uma briga de cães; fato que aos olhos de um homem vulgar não teria valor. Quincas Borba fez-me parar e observar os cães. Eram dois. Notou que ao pé deles estava um osso, motivo da guerra, e não deixou de chamar a minha atenção para a circunstância de que o osso não tinha carne. Um simples osso nu. Os cães mordiam-se, rosnavam, com o furor nos olhos... Quincas Borba meteu a bengala debaixo do braço, e parecia em êxtase.\n\n- Que belo que isto é! Dizia ele de quando em quando.\n\nQuis arrancá-lo dali mas não pude; ele estava arraigado ao chão, e só continuou a andar, quando a briga cessou inteiramente, e um dos cães, mordido e vencido, foi levar a sua fome a outra parte. Notei que ficara sinceramente alegre, posto contivesse a alegria, segundo convinha a um grande filósofo. Fez-me observar a beleza do espetáculo, relembrou o objeto da luta, concluiu que os cães tinham fome; mas a privação do alimento era nada para os efeitos gerais da filosofia. Nem deixou de recordar que em alguma parte do globo o espetáculo é mais grandioso: as criaturas humanas é que disputam aos cães os ossos e outros manjares menos apetecíveis; luta que se complica muito, porque entra em ação a inteligência do homem, com todo o acúmulo de sagacidade que lhe deram os séculos etc.\n\n(Machado de Assis)\n\nNo romance, do qual o texto acima foi transcrito, a personagem de nome Rubião ganha uma herança para cuidar de um",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cavalo."
+        },
+        {
+          "letra": "B",
+          "texto": "chimpanzé."
+        },
+        {
+          "letra": "C",
+          "texto": "pássaro."
+        },
+        {
+          "letra": "D",
+          "texto": "gato."
+        },
+        {
+          "letra": "E",
+          "texto": "cachorro."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Segundo o texto, pode-se afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o narrador não deu importância para a guerra dos cães."
+        },
+        {
+          "letra": "B",
+          "texto": "Quincas Borba deu pouco valor para a briga dos cães."
+        },
+        {
+          "letra": "C",
+          "texto": "o narrador e Quincas Borba não eram vulgares."
+        },
+        {
+          "letra": "D",
+          "texto": "o narrador e Quincas Borba eram vulgares."
+        },
+        {
+          "letra": "E",
+          "texto": "apenas Quincas Borba era vulgar."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Quincas Borba permaneceu contemplando a luta dos cães até",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "acabar a carne do osso."
+        },
+        {
+          "letra": "B",
+          "texto": "notar que o espetáculo era deprimente."
+        },
+        {
+          "letra": "C",
+          "texto": "um dos cães falecer."
+        },
+        {
+          "letra": "D",
+          "texto": "aquela guerra acabar."
+        },
+        {
+          "letra": "E",
+          "texto": "o dono dos cães aparecer."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Segundo o texto, há mais grandiosidade no espetáculo, quando",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cães guerreiam entre si."
+        },
+        {
+          "letra": "B",
+          "texto": "humanos disputam com cães."
+        },
+        {
+          "letra": "C",
+          "texto": "cães brigam por osso com carne."
+        },
+        {
+          "letra": "D",
+          "texto": "criaturas humanas disputam entre si."
+        },
+        {
+          "letra": "E",
+          "texto": "os cães se mostram mais sagazes."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Na frase “Notei que ficara simplesmente alegre, posto contivesse a alegria”, os verbos ficar e conter estão, respectivamente, no",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mais-que-perfeito do indicativo e no imperfeito do subjuntivo."
+        },
+        {
+          "letra": "B",
+          "texto": "pretérito perfeito do indicativo e no futuro do subjuntivo."
+        },
+        {
+          "letra": "C",
+          "texto": "imperfeito do indicativo e no imperfeito do subjuntivo."
+        },
+        {
+          "letra": "D",
+          "texto": "presente do subjuntivo e no perfeito do indicativo."
+        },
+        {
+          "letra": "E",
+          "texto": "mais-que-perfeito do indicativo e no futuro do indicativo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Gramática (Tempos e Modos Verbais)"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "O substantivo coletivo, específico para cães, está na frase",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Nunca vi uma alcateia assim."
+        },
+        {
+          "letra": "B",
+          "texto": "É perigoso se aproximar desta cáfila."
+        },
+        {
+          "letra": "C",
+          "texto": "A matilha foi por ali."
+        },
+        {
+          "letra": "D",
+          "texto": "Admiro a fauna daqui."
+        },
+        {
+          "letra": "E",
+          "texto": "Ninguém segura essa manada."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Gramática (Substantivos Coletivos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Read the text and answer questions 7 and 8.\n\nDecolonizing the gaze\n\nAfrica doesn't need Hollywood, but thanks to the work of costume designers like Ruth E. Carter – along with the rise of social media, particularly Instagram – we've begun to enjoy a far richer experience of the continent's fashion on screens beyond its borders. While Hollywood has been playing catch-up in decolonizing the gaze that has for so long informed its productions – buoyed by a leftover legacy of Western filmmakers depicting Africans as exotic and wild, in decades-old tales like Out of Africa and The African Queen – the depiction of its fashion has progressed. Less animal print and 'curio' items, more accurate reflections of individuals with agency.\n\nTen of those Black Panther costumes – plus some from Coming 2 America – are included in an exhibition dedicated to Carter's career at Atlanta's Scad Fash Museum of Fashion + Film. The exhibition, titled Afrofuturism in Costume Design, is running until mid-September, and tells the story of the 60-year-old's ascension as one of only two costume designers in history – and the first black woman – to have a star on the Hollywood Walk of Fame. It's also the story of how Carter has played a groundbreaking role in the way African fashion is seen.\n\nAdapted from https://www.bbc.com/culture/article/20210326-how-african-fashion-has-conquered-film\n\n“Africa doesn't need Hollywood”. Nevertheless, the author thanks Hollywood as well as Instagram. Why?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Because the only way to show real African models and fashion is through movies such as Black Panther and the work of their costume experts."
+        },
+        {
+          "letra": "B",
+          "texto": "Because it is thanks to the visibility given by Hollywood movies and the spreading of the looks by Instagram that African fashion has outpoured the old clichés and shown its real self."
+        },
+        {
+          "letra": "C",
+          "texto": "Because the visibility given to black celebrities by Hollywood movies helps empowering African fashion professionals and gather investments on their work."
+        },
+        {
+          "letra": "D",
+          "texto": "Because Instagram promotes new names in the fashion business that specialize in Afro looks that are immortalized in movies."
+        },
+        {
+          "letra": "E",
+          "texto": "Because it is high time for Hollywood and all the social media to recognize the quality of the fashion produced in African countries."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "What does the exhibition, titled Afrofuturism in Costume Design celebrate?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "The career of Ruth Carter, a black woman living in the U.S. who has revolutionized African fashion with her costumes to Black Panther."
+        },
+        {
+          "letra": "B",
+          "texto": "The story of the 60-year-old's ascension of African fashion artist Ruth Carter, as one of only two costume designers in history who have modernized African fashion and made it popular."
+        },
+        {
+          "letra": "C",
+          "texto": "The story of the first black designer who has become famous by creating costumes shown at black movies, who has also reinvented the look of eccentric and exotic African attires."
+        },
+        {
+          "letra": "D",
+          "texto": "The ascension of the first black woman, a costume designer, who has a star on the Hollywood Walk of Fame and has played an essential role in bringing out real African fashion to the world."
+        },
+        {
+          "letra": "E",
+          "texto": "The ascension and celebration of Ruth Carter, who has participated in all the creation of costumes in Black Panther and The African Queen, showing real Africa to the rest of the planet."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Which text genre is it?\n\nEasy Pie Crust\n1 cup flour\n1/2 tsp salt\n1/4 tsp baking powder\n1/3 cup safflower oil\n3 tablespoons cold water\n\nSift flour, salt and baking powder together in a bowl. Beat oil and cold water together with a fork until well blended. Add liquid to solid mixture and mix with a fork just enough to blend. Form into a ball and place on a sheet of wax paper. Flatten slightly with your palm. Place another sheet of wax paper over the dough and roll until it is just larger than your pie pan. Carefully, peel back the top sheet of wax paper. Invert the crust over the pie pan. Gently peel back the remaining sheet of wax paper. Assemble in pie pan and bake. No chilling is necessary, however you can store the crust in the fridge once it has been rolled out and formed in its pie pan. If you chill the dough before rolling it out, it tends to be too stiff.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A prescription."
+        },
+        {
+          "letra": "B",
+          "texto": "A description."
+        },
+        {
+          "letra": "C",
+          "texto": "A recipe."
+        },
+        {
+          "letra": "D",
+          "texto": "A prayer."
+        },
+        {
+          "letra": "E",
+          "texto": "A poem."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Gêneros Textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "What is the main purpose of the excerpt?\n\nA haiku is traditionally a Japanese poem consisting of three short lines that do not rhyme. The origins of haiku poems can be traced back as far as the 9th century.\n\nA haiku is considered to be more than a type of poem; it is a way of looking at the physical world and seeing something deeper, like the very nature of existence. It should leave the reader with a strong feeling or impression.\n\nAdapted from https://examples.yourdictionary.com/examples-of-haiku-poems.html",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "To explain how to write a traditional Japanese haiku."
+        },
+        {
+          "letra": "B",
+          "texto": "To develop the interest for this kind of Japanese poetry."
+        },
+        {
+          "letra": "C",
+          "texto": "To demonstrate the importance of a haiku."
+        },
+        {
+          "letra": "D",
+          "texto": "To introduce the art of haiku writing and reading."
+        },
+        {
+          "letra": "E",
+          "texto": "To define the structure and the objectives of a haiku."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "The meme below counts on the readers' perception of a dramatic feature common to most, if not all, Disney characters' in sorrow and pain. According to that, which is the best explanation to the character's reaction, “Really?”\n\nhttps://br.pinterest.com",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Despite her sadness, she feels hopeful and relieved."
+        },
+        {
+          "letra": "B",
+          "texto": "She is sad; however, she misses the dramatic act."
+        },
+        {
+          "letra": "C",
+          "texto": "She is unhappy for not throwing herself on the couch to cry."
+        },
+        {
+          "letra": "D",
+          "texto": "In fact, she thinks all the others are silly and fake."
+        },
+        {
+          "letra": "E",
+          "texto": "Although she is sad, she feels bored and unbelieving."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Interpretação de Texto (Meme)"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "The expressions has been unearthed / to be found / was recovered / it will now be made are all examples of which language feature?\n\nAn enormous 1,174-carat diamond has been unearthed in Botswana, a mining company has said, the second massive diamond to be found in the country in the space of a few weeks.\n\nThe rare rock was recovered at the Karowe diamond mine last month and presented to the government in a ceremony on Wednesday.\n\nIt is the third diamond of more than 1,000 carats found at the site, and it will now be made into “valuable collections of top color polished diamonds,” Canadian mining firm Lucara Diamond said in a press release.\n\nThe diamond is larger than a 1,098-carat stone also found in Botswana in June, which was believed to be the world's third-largest diamond. Botswana's President Mokgweetsi Masisi attended a ceremony on Wednesday to view the stone.\n\nAdapted from http://edition.cnn.com/style/article/botswana-diamond-unearthed-scli-intl/?hpt=ob_blogfooterold",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Active Voice – the subject of the sentence does the action; it is responsible for the action."
+        },
+        {
+          "letra": "B",
+          "texto": "Present Perfect – the action has happened at an indefinite moment in the past or it started in the past and is unfinished."
+        },
+        {
+          "letra": "C",
+          "texto": "Passive Voice – the subject of the sentence does not do the action; it suffers the action."
+        },
+        {
+          "letra": "D",
+          "texto": "Simple Past – the action is finished and happened at a definite time in the past."
+        },
+        {
+          "letra": "E",
+          "texto": "Direct Object – it is a direct complement to the main verb."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Gramática (Voz Passiva)"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "A Mesopotâmia localizava-se entre os rios Tigre e Eufrates, em um território altamente fértil, hoje ocupado pelo Iraque. Nela foram fundadas as cidades de Ur, Uruk e Nepur e, posteriormente, a cidade da Babilônia. Suas características geográficas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "permitiram que inúmeros povos nômades, como os amoritas, a utilizassem como rota comercial."
+        },
+        {
+          "letra": "B",
+          "texto": "facilitaram que os acádios desenvolvessem técnicas de controle sobre a natureza. Esse povo desenvolveu barragens, reservatórios e canais de irrigação."
+        },
+        {
+          "letra": "C",
+          "texto": "ajudaram a formação de cidades-estado e sociedades altamente militarizadas."
+        },
+        {
+          "letra": "D",
+          "texto": "garantiram que os sumérios, a partir do desenvolvimento da agricultura e da criação de animais, pudessem sedentarizar-se e formar cidades naquele local."
+        },
+        {
+          "letra": "E",
+          "texto": "facilitaram a invasão dos assírios que tomaram a região dos caldeus."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Mesopotâmia"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "A Terra é formada geologicamente por quatro camadas: crosta terrestre, manto e núcleo externo e núcleo interno.\nEm relação a essas camadas, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a crosta terrestre tem maior espessura nas zonas oceânicas, variando entre 20 e 70 quilômetros."
+        },
+        {
+          "letra": "B",
+          "texto": "o núcleo é composto por rochas derretidas que formam o magma."
+        },
+        {
+          "letra": "C",
+          "texto": "o núcleo interno da Terra gira a uma velocidade não sincronizada com a da massa restante do planeta."
+        },
+        {
+          "letra": "D",
+          "texto": "o manto é formado, na sua maior parte, por minérios de níquel e ferro, por isso pode ser chamado de nife."
+        },
+        {
+          "letra": "E",
+          "texto": "abaixo do manto, fazendo fronteira com o núcleo, encontra-se a Descontinuidade de Mohorovičić."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geologia (Estrutura da Terra)"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Estima-se que os jogos do Rio de Janeiro de 2016 tenham emitido 4,5 milhões de toneladas de $CO_2$. Os de Londres, em 2012, geraram 3,3 milhões de toneladas. Tóquio quer bater esse recorde e prevê uma emissão de não mais que 2,93 milhões de toneladas de $CO_2$. [...]. Ao apresentar modelos e soluções para desafios globais de sustentabilidade, o anfitrião espera, cada vez mais, envolver seus cidadãos nas questões de mudança climática na expectativa de que esses esforços continuem mesmo depois dos jogos.\n\nDisponível em: https://www.pensamentoverde.com.br/im-green/toquio-2020-2021-as-olimpiadas-da-sustentabilidade/.\n\nO esforço do Comitê Olímpico japonês visava atender à proposta da ONU da",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Declaração Universal dos Direitos do Homem."
+        },
+        {
+          "letra": "B",
+          "texto": "Agenda 2030."
+        },
+        {
+          "letra": "C",
+          "texto": "Declaração Mundial de Educação para Todos."
+        },
+        {
+          "letra": "D",
+          "texto": "Carta da ONU."
+        },
+        {
+          "letra": "E",
+          "texto": "Cobertura Universal em Saúde."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Atualidades (Sustentabilidade)"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "A Guerra Fria caracterizou-se por ser um conflito",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "político e ideológico entre o bloco capitalista liderado pelos EUA e o bloco socialista liderado pela URSS."
+        },
+        {
+          "letra": "B",
+          "texto": "bélico entre as forças da OTAN e as do Pacto de Varsóvia."
+        },
+        {
+          "letra": "C",
+          "texto": "originado pelo COMECON, que impedia os aliados capitalistas de participarem do Plano Marshall."
+        },
+        {
+          "letra": "D",
+          "texto": "desencadeado pelos países capitalistas, visando promover economia planificada e igualdade social."
+        },
+        {
+          "letra": "E",
+          "texto": "bélico entre EUA e Cuba, agravado pela Crise dos Mísseis."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Guerra Fria"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Analise a imagem abaixo\n\nThe Michelfeldt Tapestry (Allegory on Social Injustice), first part of threeDate: 1526. Artist: Attributed to Albrecht Dürer German, 1471-1528.\nDisponível em < https://www.artic.edu/artworks/106546/the-michelfeldt-tapestry-allegory-on-social-injustice-first-part-of-three >\n\nLeia o texto\n\nO preconceito de cor nada mais é do que a raiva irracional de uma raça por outra, o desprezo dos povos fortes e ricos por aqueles que eles consideram inferiores, e depois o amargo ressentimento daqueles que foram oprimidos e frequentemente injuriados. Como a cor é o sinal exterior mais visível da raça, ela tornou-se o critério através do qual os homens são julgados, sem se levar em conta as suas aquisições educativas e sociais. As raças de pele clara terminaram desprezando as raças de pele escura e estas se recusam a continuar aceitando a condição modesta que lhes pretendem impor.\n\nFANON, Franz. Pele negra, máscaras brancas. São Paulo: Editora UBU, 2020, p. 110.\n\nA história da humanidade é marcada por diversas circunstâncias em que a injustiça e a desigualdade estabelecem a tônica das condutas sociais.\n\nTanto a obra de Dürer como o excerto de Fanon",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "destacam a sublevação eurocêntrica."
+        },
+        {
+          "letra": "B",
+          "texto": "apontam para a irracionalidade da lógica mercantilista."
+        },
+        {
+          "letra": "C",
+          "texto": "explicitam a lógica da exclusão e segregação social."
+        },
+        {
+          "letra": "D",
+          "texto": "evidenciam a exclusão típica do preconceito de cor."
+        },
+        {
+          "letra": "E",
+          "texto": "criticam a exploração animal."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Sociologia – Desigualdade Social",
+        "Arte – Análise de Obra de Arte"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Quase metade da energia elétrica produzida no Brasil vem de fontes renováveis, de acordo com o Ministério de Minas e Energia. A maior parte é produzida em usinas hidrelétricas, mas nos últimos anos, a geração de energia eólica, produzida pelo vento, e a solar vêm ganhando destaques. 'A matriz brasileira é uma das mais renováveis do mundo com uma proporção de 48%, indicador mais de três vezes superior ao mundial', ressaltou o diretor do Departamento de Informações e Estudos Energéticos do Ministério de Minas e Energia (MME), André Osório.\n\nDisponível em: www.gov.br/pt-br/noticias/energia-minerais-e-combustiveis/2021/08/energia-renovavel-chega-a-quase-50-da-matriz-eletrica-brasileira-1. (Adaptado)\n\nO uso de fontes de energia renovável tem por objetivo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "alcançar o proposto na Cúpula do Clima deste ano e mudar a data da neutralidade climática de 2030 para 2050."
+        },
+        {
+          "letra": "B",
+          "texto": "o atendimento ao Protocolo de Quioto em relação à emissão de gases que causam o efeito estufa."
+        },
+        {
+          "letra": "C",
+          "texto": "diminuir a emissão de gases de efeito estufa nos processos de geração de energia, tornando-se uma solução mais limpa e viável para evitar a degradação ambiental."
+        },
+        {
+          "letra": "D",
+          "texto": "atender ao disposto na Declaração de Leipzig, reduzindo a emissão de gás carbônico e protegendo a camada de ozônio."
+        },
+        {
+          "letra": "E",
+          "texto": "promover a redução da vulnerabilidade nacional à mudança do clima e realizar a gestão do risco associada a esse fenômeno."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Fontes de Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Ao assumir o Ministério da Fazenda, após a Proclamação da República, Rui Barbosa considerou que era preciso uma expansão monetária de grandes proporções para atender às necessidades crescentes dos novos negócios.\n\nO novo plano econômico, transformado em lei pelo decreto de 17 de janeiro de 1890, conservava a essência da Lei Bancária de 1888: mantinha os empréstimos à lavoura e autorizava a utilização de títulos públicos como cobertura para a emissão. O Brasil foi dividido em três regiões bancárias [...], autorizadas a emitir dinheiro mediante a garantia de apólices da dívida pública. Os bancos deviam formar um fundo de 10% sobre seus lucros brutos e, com esses recursos, amortizariam a dívida pública.\n\nDisponível em https://www.ipea.gov.br/desafios/index.php?option=com_content&view=article&id=2490:catid=28&Itemid=23.\n\nAs consequências de tal plano foram\n\nI - o aumento exponencial na quantidade de papel-moeda, que passou a ser emitido num volume bem acima das necessidades econômicas da sociedade, gerando um surto inflacionário e desvalorização da moeda, com mais dinheiro em circulação do que a capacidade produtiva do mercado necessitava.\n\nII - o aparecimento de centenas de novas sociedades comerciais, inclusive empresas-fantasma, cujas ações eram vendidas na Bolsa de Valores sem qualquer garantia real, pois tal aquecimento tinha caráter especulativo.\n\nIII - a palavra Encilhamento passou a designar tanto a política econômica como a crise financeira do período, em alusão à confusão nas corridas de cavalos antes da largada, ou seja, a expressão designava confusão na economia.\n\nIV - a livre emissão de papel-moeda permitiu numerário para pagamento de assalariados, acelerando o processo de industrialização do país e levando ao enriquecimento da população, o que foi o maior sucesso do plano econômico.\n\nSão verdadeiras as afirmativas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I, III e IV, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II, III e IV, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III, apenas."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II, III e IV."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – História do Brasil (República Velha - Encilhamento)"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Alcibíades: Mas o que direi se não posso dizê-lo? Você não julga que eu poderia saber a respeito do justo e do injusto de outra maneira?\n\nSócrates: Sim, se você o descobrisse.\n\nAlcibíades: Mas não considera que eu poderia descobri-lo?\n\nSócrates: Claro que sim, se o investigasse.\n\nAlcibíades: E não pensa que eu o investigaria?\n\nSócrates: Sim; se julgasse não o conhecer (eidenai).\n\nDIAS, Ana Cristina de Souza Pires. Alcibíades Primeiro: Estudo e tradução. Dissertação de Mestrado. 183f. DIAS, 2015, p. 83). Disponível em < https://teses.usp.br/teses/disponiveis/8/8143/tde-09102015-140733/publico/2015_AnaCristinaDeSouzaPiresDias_VCorr.pdf>.\n\nO excerto acima tem por fundamento o conceito socrático denominado",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ironia."
+        },
+        {
+          "letra": "B",
+          "texto": "hedonismo."
+        },
+        {
+          "letra": "C",
+          "texto": "maiêutica."
+        },
+        {
+          "letra": "D",
+          "texto": "eudaimonia."
+        },
+        {
+          "letra": "E",
+          "texto": "areté."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Filosofia – Filosofia Antiga (Sócrates)"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "O Egito Antigo produziu legado artístico, como nos exemplos a seguir:\n\nImagem 1\nPintura no túmulo de Nebamun\nDisponível em https://www.culturagenial.com/arte-egipcia-entenda-arte-antigo-egito/.\n\nImagem 2\nBusto de Nefertiti\nDisponível em https://pt.wikipedia.org/wiki/Busto_de_Nefertiti#/media/Ficheiro:Nofretete_Neues_Museum.jpg\n\nA arte no Egito Antigo tinha por objetivo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "expressar fatos políticos e religiosos, bem como o culto ao faraó, considerado o representante do divino."
+        },
+        {
+          "letra": "B",
+          "texto": "além da religião, mostrar o poderio econômico do faraó, porque eram feitas em escalas grandiosas."
+        },
+        {
+          "letra": "C",
+          "texto": "captar e transmitir a emoção do cotidiano vivido pelo povo e gerar senso de pertencimento social."
+        },
+        {
+          "letra": "D",
+          "texto": "criar representações da organização social igualitária promovida pelos faraós."
+        },
+        {
+          "letra": "E",
+          "texto": "retratar a realidade por meio de uma perfeita noção de perspectiva."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Arte – Arte Egípcia"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Só de Sacanagem\n\nMeu coração está aos pulos!\nQuantas vezes minha esperança será posta à prova?\nPor quantas provas terá ela que passar?\nTudo isso que está aí no ar, malas, cuecas que voam entupidas de dinheiro, do meu dinheiro, que reservo duramente para educar os meninos mais pobres que eu,\npara cuidar gratuitamente da saúde deles e dos seus pais, esse dinheiro viaja na bagagem da impunidade e\neu não posso mais.\nQuantas vezes, meu amigo, meu rapaz, minha confiança\nvai ser posta à prova? Quantas vezes minha esperança\nvai esperar no cais?\nÉ certo que tempos difíceis existem para aperfeiçoar o\naprendiz, mas não é certo que a mentira dos maus brasileiros venha quebrar no nosso nariz.\nMeu coração está no escuro, a luz é simples, regada ao\nconselho simples de meu pai, minha mãe, minha avó e\ndos justos que os precederam: \"Não roubarás\",\n\"Devolva\no lápis do coleguinha\",\n\"Esse apontador não é seu, minha filhinha\".\nAo invés disso, tanta coisa nojenta e torpe tenho tido que escutar.\nAté habeas corpus preventivo, coisa da qual nunca tinha visto falar e sobre a qual minha pobre lógica ainda insiste: esse é o tipo de benefício que só ao culpado interessará.\nPois bem, se mexeram comigo, com a velha e fiel fé do\nmeu povo sofrido, então agora eu vou sacanear: mais honesta ainda vou ficar.\nSó de sacanagem!\nDirão: \"Deixa de ser boba, desde Cabral que aqui todo o mundo rouba\" e eu vou dizer: Não importa, será esse\no meu carnaval, vou confiar mais e outra vez. Eu, meu irmão, meu filho e meus amigos, vamos pagar limpo a\nquem a gente deve e receber limpo do nosso freguês.\nCom o tempo a gente consegue ser livre, ético e o escambau.\nDirão: \"É inútil, todo o mundo aqui é corrupto, desde o primeiro homem que veio de Portugal\".\nEu direi: Não admito, minha esperança é imortal.\nEu repito, ouviram? IMORTAL!\nSei que não dá para mudar o começo, mas, se a gente quiser, vai dar para mudar o final!\n\nElisa Lucinda\nDisponível em < https://www.letras.mus.br/elisa-lucinda/835673/>.\n\nElisa Lucinda, em seu poema “Só de sacanagem”, aponta para",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a cultura como fenômeno herdado e cristalizado."
+        },
+        {
+          "letra": "B",
+          "texto": "o etnocentrismo exacerbado e a necessidade de Estado Laico."
+        },
+        {
+          "letra": "C",
+          "texto": "a etnicidade como caminho de sublevação."
+        },
+        {
+          "letra": "D",
+          "texto": "o impacto ideológico como vetor para corrupção."
+        },
+        {
+          "letra": "E",
+          "texto": "a crise da identidade nacional e o papel do indivíduo na reinvenção identitária."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Sociologia – Identidade Nacional e Cidadania"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Na figura, considere $AB = BC = CD$:\n\nCom relação aos ângulos $x$ e $y$, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$y = 2x$"
+        },
+        {
+          "letra": "B",
+          "texto": "$x + y = 180^{\\circ}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$y = 3x$"
+        },
+        {
+          "letra": "D",
+          "texto": "$y = x$"
+        },
+        {
+          "letra": "E",
+          "texto": "$2y = 3x$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Plana (Ângulos em Triângulos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Para a montagem do telhado da Figura 1, com forma de pirâmide de base quadrada e lado $L\\sqrt{3}$, foi utilizada uma lâmina quadrada de lado $2L$, com recortes mostrados na Figura 2. Observação: as figuras estão fora de escala.\n\nA altura $H$ do telhado é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{L\\sqrt{2}}{2}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{L\\sqrt{3}}{2}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$(2-\\sqrt{3})L$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{L}{2}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{3L}{10}$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Espacial (Pirâmides)"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "No jogo Angry Birds™, o objetivo é destruir um bando de porcos verdes, atirando pássaros neles com um estilingue. Usando um pouco de matemática e física, é possível determinar a altura do pássaro ($y$) ao longo do trajeto ($x$), em função das velocidades ($v_x$ e $v_y$) e gravidade local ($g$).\n\nFonte: Angry Birds Nest <https://www.angrybirdsnest.com/angry-birds-poached-eggs-3-star-walkthrough-level-1-1/>\n\nEm uma primeira tentativa, falhamos na missão, como mostra a função $f(x) = -0,2x^2 + 1,5x$. Mas a tentativa não foi em vão, pois podemos descobrir quais devem ser as velocidades para atingir o objetivo.\n\nA função $g(x)$ para atingirmos o porco é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$g(x) = 2 \\cdot (-0,2 \\cdot (2x)^2 + 1,5 \\cdot (2x))$"
+        },
+        {
+          "letra": "B",
+          "texto": "$g(x) = \\frac{-0,1 \\cdot (x/2)^2 + 1,5 \\cdot (x/2)}{2}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$g(x) = \\frac{-0,2 \\cdot (2x)^2 + 1,5 \\cdot (2x)}{2}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$g(x) = 2 \\cdot (-0,1 \\cdot x^2 + 1,5 \\cdot x)$"
+        },
+        {
+          "letra": "E",
+          "texto": "$g(x) = 2 \\cdot (-0,2 \\cdot (x/2)^2 + 1,5 \\cdot (x/2))$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Funções do 2º Grau (Transformações de Gráficos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Um carro de corrida faz teste em pista ovalada. Partindo da posição de largada, o piloto acelera o carro de modo que sua velocidade aumenta de forma constante. O carro atinge sua velocidade máxima e, logo na sequência, o piloto começa a desacelerar para fazer a curva com segurança. Durante toda a curva, o piloto mantém sua velocidade constante. E então repete o mesmo padrão, acelerando após a curva, com a velocidade aumentando uniformemente. E freando para fazer a última curva da pista à velocidade constante, e terminar a corrida teste. Assinale a alternativa que melhor representa o gráfico da velocidade do carro ao longo da corrida.\n\nFonte: Carro F1 < https://icon-library.com/icon/racecar-icon-23.html.html>Racecar Icon # 155426>",
+      "alternativas": null,
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Cinemática (Análise de Gráficos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "O tamanho dos papéis sulfite da série A (A0, A1, A2, A3, A4 etc.) segue o padrão internacional ISO 216. Partindo do sistema métrico, o formato-base é uma folha de papel com $1 m^2$ de área (A0). A proporção entre os lados do papel, que se mantém a mesma após cortar ou dobrar a folha pela metade, é o que define o tamanho das folhas. Elas consistem em um retângulo harmônico. Primeiramente, parte-se de um quadrado de lado qualquer ABCD. Em seguida, traça-se um arco de circunferência com centro em A e raio AC, determinando assim o lado do retângulo AE.\n\nAs dimensões de uma folha A0 são",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{1}{\\sqrt[4]{2}}$ m e $\\sqrt[4]{2}$ m"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{1}{\\sqrt{2}}$ m e 1 m"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{1}{\\sqrt[4]{2}}$ m e 1 m"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{1}{\\sqrt{2}}$ m e $\\sqrt{2}$ m"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{1}{\\sqrt[4]{2}}$ m e $\\sqrt{2}$ m"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Geometria Plana (Proporções e Áreas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "O polinômio de coeficientes inteiros de menor grau possível, que tem como raízes 1 e $i$, sendo $i$ a unidade imaginária, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$x^3 - x^2 + x + 1$"
+        },
+        {
+          "letra": "B",
+          "texto": "$x^2 - (1 + i)x + i$"
+        },
+        {
+          "letra": "C",
+          "texto": "$x^3 + x^2 + x + 1$"
+        },
+        {
+          "letra": "D",
+          "texto": "$x^2 + (1 + i)x + i$"
+        },
+        {
+          "letra": "E",
+          "texto": "$x^3 - x^2 + x - 1$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Polinômios (Raízes Complexas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Considere a esfera de raio $R$ e o cone circular reto de altura $2R$ e raio da base $R$:\n\nO sólido comum entre eles é a reunião de um cone, de raio $x < R$ e altura $2R - y$, com um segmento esférico de raio $x$ e altura $y$. A figura abaixo mostra os sólidos sobrepostos.\n\nO volume do cone de raio $x$ é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{128\\pi R^3}{375}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{2\\pi R^3}{3}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{12\\pi R^3}{25}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{4\\pi R^3}{3}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{52\\pi R^3}{375}$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Espacial (Esfera e Cone)"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Considere dois arcos no 1º quadrante de um círculo trigonométrico, tais que um vale $y$ e outro $2y$. Se $\\text{sen}(2y) = \\frac{2}{3}$, o valor de $\\text{sen}(y)$ é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{3-\\sqrt{3}}{6}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{3-\\sqrt{2}}{6}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{\\sqrt{3-\\sqrt{5}}}{2}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{3-\\sqrt{3}}{2}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{\\sqrt{3-\\sqrt{5}}}{6}$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Trigonometria (Arco Duplo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Sob condições ideais, o crescimento de uma cultura de bactérias obedece à função $P(t) = A \\cdot e^{kt}$, em que $P(t)$ é o número de bactérias no tempo $t \\ge 0$ hora; $A$, $K$ são constantes positivas, e $e$ a base do logaritmo neperiano. Se o número inicial de bactérias duplica em 4 horas, então pode-se afirmar que o número de bactérias após 6 horas, em relação ao número inicial, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2\\sqrt{2}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$e^3$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{5}{2}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$3e$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\ln(2)$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Funções Exponenciais"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Considere a reta $t$ de equação $2x + 5y - 10 = 0$ e $M$ um ponto pertencente a essa reta e equidistante dos eixos coordenados. A equação da reta, que passa por $M$ e é perpendicular a $t$, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$14y + 35x - 70 = 0$"
+        },
+        {
+          "letra": "B",
+          "texto": "$14y - 35x - 30 = 0$"
+        },
+        {
+          "letra": "C",
+          "texto": "$14y - 35x + 30 = 0$"
+        },
+        {
+          "letra": "D",
+          "texto": "$35y - 14x - 30 = 0$"
+        },
+        {
+          "letra": "E",
+          "texto": "$35y + 14x + 30 = 0$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Analítica (Equação da Reta)"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "No mês de novembro, o gerente de uma loja de roupas aumentou o preço de todos os produtos em 20%. No mês de dezembro repetiu esse aumento, mas em janeiro resolveu fazer uma liquidação de verão, dando um desconto de 40%. Quando comparamos o preço das roupas antes e depois dessas três alterações, temos",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o mesmo valor."
+        },
+        {
+          "letra": "B",
+          "texto": "uma diminuição de 13,6%."
+        },
+        {
+          "letra": "C",
+          "texto": "uma diminuição de 28%."
+        },
+        {
+          "letra": "D",
+          "texto": "uma diminuição de 20%."
+        },
+        {
+          "letra": "E",
+          "texto": "um aumento de 22%."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "O sistema de tração de trator agrícola tem uma esteira vista em perfil na figura a seguir.\n\nO triângulo retângulo $ABC$ da figura tem $AB = 3$ u.c. e $AC = 4$ u.c. A curva fechada, que envolve o triângulo e as três rodas, representa a esteira e dista 1 u.c. do triângulo. Obs.: u.c. = unidade de comprimento.\n\nSeja $D$ o ponto mais distante do vértice $B$ na esteira e $M$, a projeção ortogonal do ponto $A$ sobre o lado $BC$ do triângulo $ABC$.\n\nA distância entre os pontos $D$ e $M$ será importante para o projeto da suspensão e vale, em u.c.,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{21}{5}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{14}{5}$"
+        },
+        {
+          "letra": "C",
+          "texto": "6"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{\\sqrt{364}}{5} + 1$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{\\sqrt{10}}{3} + 1$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Plana (Relações Métricas no Triângulo Retângulo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Observe os biomas brasileiros mostrados nas imagens a seguir.\n\nFonte: http://4.bp.blogspot.com/-K9dnjAveJtE/UKy-SEqJ9TI/AAAAAAABI48/8ZOiul4BD1I/s1600/2.jpg\n\nOs biomas correspondem, respectively,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à Amazônia e à Mata Atlântica."
+        },
+        {
+          "letra": "B",
+          "texto": "ao Pantanal e à Mata Atlântica."
+        },
+        {
+          "letra": "C",
+          "texto": "ao Pantanal e ao Cerrado."
+        },
+        {
+          "letra": "D",
+          "texto": "ao Cerrado e à Amazônia."
+        },
+        {
+          "letra": "E",
+          "texto": "à Amazônia e ao Pantanal."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Biomas Brasileiros"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "As figuras a seguir ilustram um processo que evolui.\n\nFonte: https://www.worldatlas.com\n\nEsse processo pode ser identificado como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "eutrofização."
+        },
+        {
+          "letra": "B",
+          "texto": "clímax."
+        },
+        {
+          "letra": "C",
+          "texto": "sequenciamento de espécies."
+        },
+        {
+          "letra": "D",
+          "texto": "reflorestamento."
+        },
+        {
+          "letra": "E",
+          "texto": "sucessão ecológica."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Ecologia (Sucessão Ecológica)"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "O filo dos anelídeos compreende animais invertebrados que apresentam corpo segmentado e cilíndrico, e podem ser encontrados em ambientes aquáticos e terrestres. Sobre a minhoca, representante dos anelídeos, é correto afirmar que é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "hirudínea e monoica."
+        },
+        {
+          "letra": "B",
+          "texto": "oligoqueta e hermafrodita."
+        },
+        {
+          "letra": "C",
+          "texto": "poliqueta e realiza respiração cutânea."
+        },
+        {
+          "letra": "D",
+          "texto": "oligoqueta e possui exoesqueleto quitinoso."
+        },
+        {
+          "letra": "E",
+          "texto": "hirudínea e apresenta simetria bilateral."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Zoologia (Anelídeos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "A maré vermelha é fenômeno em que ambientes marinhos ou de estuário adquirem coloração avermelhada, em razão da multiplicação de determinadas espécies de algas, que são seres protistas e autotróficos fotossintetizantes.\n\nAs algas, que provocam o efeito da maré vermelha, são",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "crisofíceas ou diatomáceas."
+        },
+        {
+          "letra": "B",
+          "texto": "euglenófitas marinhas."
+        },
+        {
+          "letra": "C",
+          "texto": "clorofíceas filamentosas."
+        },
+        {
+          "letra": "D",
+          "texto": "dinoflageladas e unicelulares."
+        },
+        {
+          "letra": "E",
+          "texto": "feofíceas ou algas pardas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Protistas (Algas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Uma partícula de massa 4,0 kg desloca-se sobre um plano horizontal liso, e sua velocidade, em função do tempo, está representada no gráfico abaixo. Analise as afirmativas:\n\nI - O valor da aceleração do movimento no instante $t=0$ é $1,0 m/s^2$.\n\nII - O trabalho realizado pela força resultante entre os instantes $t=0$ e $t=5$ s vale 48 J.\n\nIII - O deslocamento da partícula entre os instantes $t=0$ e $t=10$ s é de 50 metros.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas as afirmativas I e II estão corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas as afirmativas I e III estão corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas as afirmativas II e III estão corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Todas as afirmativas estão corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Apenas a afirmativa I está correta."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Dinâmica (Trabalho e Energia)",
+        "Física – Cinemática (Análise de Gráficos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Estamos enfrentando um período de longa estiagem e, como consequência, os reservatórios de abastecimento e geração de energia estão com seus volumes abaixo do desejado. Nessa situação, é comum que sejam deflagradas campanhas para economizar energia durante nossas atividades cotidianas. Nesse contexto, a economia de energia está diretamente associada a uma lei física que pode ser representada pelo diagrama a seguir:\n\nEm outras palavras, sempre haverá uma certa quantidade de energia dissipada no processo. É correto afirmar que esse diagrama se refere à",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Lei da Conservação da Energia Mecânica."
+        },
+        {
+          "letra": "B",
+          "texto": "Lei de Resfriamento, de Newton."
+        },
+        {
+          "letra": "C",
+          "texto": "Primeira Lei da Termodinâmica."
+        },
+        {
+          "letra": "D",
+          "texto": "Segunda Lei da Termodinâmica."
+        },
+        {
+          "letra": "E",
+          "texto": "Lei Zero da Termodinâmica."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Termodinâmica (Segunda Lei da Termodinâmica)"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Alunos do Instituto Mauá de Tecnologia criam sistema de ar-condicionado à energia solar, pioneiro no Brasil.\n\nCom as preocupações a respeito das questões climáticas, resultantes principalmente do aumento de consumo de energia elétrica, formandos do curso de Engenharia Mecânica, do Instituto Mauá de Tecnologia, realizaram um projeto para conciliar o aumento pela demanda de refrigeração com a redução do consumo de eletricidade. Quando se menciona energia solar, a maioria das pessoas associa às placas fotovoltaicas, contudo, a abordagem do trabalho é utilizar a radiação solar (o calor do sol) como principal fonte de energia para o sistema de refrigeração, utilizando o Chiller de Absorção.\n\nhttps://www.institutodeengenharia.org.br/site/2016/10/24/alunos-do-instituto-maua-de-tecnologia-criam-sistema-de-arcondicionado-a-energia-solar-pioneiro-no-brasil/ (Adaptado).\n\nComo citado na reportagem, o mecanismo desenvolvido pela equipe de estudantes no Trabalho de Conclusão de Curso (TCC) utiliza a radiação solar como principal fonte de energia.\n\nAnalise as afirmativas a seguir:\n\nI - A luz branca é resultado da sobreposição de ondas eletromagnéticas de diferentes frequências.\n\nII - O campo elétrico e o campo magnético da onda eletromagnética oscilam transversalmente com iguais frequências e são perpendiculares entre si.\n\nIII - A onda eletromagnética é definida como esférica.\n\nIV - Quanto maior o valor do comprimento de onda, maior será a energia da onda.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I e II estão corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas I e IV estão corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas II e IV estão corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas I, II e III estão corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Todas estão corretas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Ondulatória (Ondas Eletromagnéticas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Durante as paralimpíadas de 2021, a prova de arremesso de peso, na categoria F55, ganhou destaque histórico para o Brasil, com a quebra do recorde mundial por Wallace Santos, cujo arremesso alcançou 12,63 metros de distância.\n\nConsidere o arremesso como sendo um lançamento oblíquo de ângulo 45° com a horizontal, e altura inicial de lançamento desprezível.\n\nDados: $\\text{sen}(45^{\\circ}) = \\cos(45^{\\circ}) = \\frac{\\sqrt{2}}{2}$, $g = 10m/s^2$.\n\nPara atingir uma distância de 13,0 metros e ultrapassar a do recorde obtido por Wallace Santos, a velocidade inicial de lançamento deveria ser igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\sqrt{140}$ m/s"
+        },
+        {
+          "letra": "B",
+          "texto": "12,0 m/s"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\sqrt{130}$ m/s"
+        },
+        {
+          "letra": "D",
+          "texto": "$2\\sqrt{32}$ m/s"
+        },
+        {
+          "letra": "E",
+          "texto": "12,5 m/s"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Cinemática (Lançamento Oblíquo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Catálise pode ser entendida como o aumento da velocidade da transformação química por ação de um catalisador. Há dois tipos de catálise: a homogênea, em que o catalisador se encontra dissolvido no meio reacional, e a heterogênea, que se dá a partir da presença de duas fases.\n\nSobre os catalisadores, considere as seguintes afirmações:\n\nI - Diminuem a energia de ativação de uma reação.\n\nII - Alteram a variação de entalpia de uma reação.\n\nIII - Afetam a posição de equilíbrio de uma reação.\n\nÉ correto o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "III, apenas."
+        },
+        {
+          "letra": "E",
+          "texto": "I, apenas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Cinética Química (Catálise)"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Leia o trecho adaptado da reportagem publicada no site da Prefeitura de Porto Alegre em março de 2021, intitulada: “Tratamento de água e esgoto elimina risco de contaminação pelo coronavírus”.\n\nSeguindo a alta de casos positivos de Covid-19, foi detectado um aumento expressivo da carga viral de Sars-CoV-2 nos esgotos e águas superficiais do Rio Grande do Sul, entre o final do mês de fevereiro e o início de março. É o que aponta o boletim de monitoramento ambiental do coronavirus, publicado pelo Centro Estadual de Vigilância em Saúde. Conforme o Departamento Municipal de Água e Esgotos (um dos 17 órgãos participantes da pesquisa), as amostras coletadas permitem verificar a circulação do vírus nos territórios, mas a presença dele não é motivo para preocupação, relacionada ao saneamento, já que o esgoto e a água passam por tratamento.\n\nA etapa do tratamento da água para consumo humano, responsável pela eliminação de vírus e bactérias, é a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "filtração."
+        },
+        {
+          "letra": "B",
+          "texto": "coagulação."
+        },
+        {
+          "letra": "C",
+          "texto": "decantação."
+        },
+        {
+          "letra": "D",
+          "texto": "cloração."
+        },
+        {
+          "letra": "E",
+          "texto": "fluoretação."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Tratamento de Água"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Carbonato de sódio reage com ácido clorídrico, produzindo cloreto de sódio, gás carbônico e água, conforme representa a equação não balanceada a seguir:\n\n$Na_2CO_{3(s)} + HCl_{(aq)} \\rightarrow NaCl_{(aq)} + CO_{2(g)} + H_2O_{(l)}$\n\nAnalise o seguinte experimento:\n\n1,06 g de carbonato de sódio\n10 mL de $HCl_{(aq)}$ 1,0 mol/L\n\nDados:\nNa = 23 g/mol; C = 12 g/mol; O = 16 g/mol\n\nConsiderando que ocorra apenas a reação entre o carbonato de sódio e o ácido clorídrico, espera-se que, após a adição do sólido na solução, será formado",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,01 mol de gás carbônico, pois HCl é o reagente limitante."
+        },
+        {
+          "letra": "B",
+          "texto": "0,01 mol de gás carbônico, pois os reagentes estão em proporção estequiométrica."
+        },
+        {
+          "letra": "C",
+          "texto": "0,01 mol de gás carbônico, pois $Na_2CO_3$ é o reagente limitante."
+        },
+        {
+          "letra": "D",
+          "texto": "0,005 mol de gás carbônico, pois os reagentes estão em proporção estequiométrica."
+        },
+        {
+          "letra": "E",
+          "texto": "0,005 mol de gás carbônico, pois HCl é o reagente limitante."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Estequiometria (Reagente Limitante)"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Isomeria é o fenômeno em que compostos diferentes compartilham a mesma fórmula molecular. Isômeros podem ser classificados em dois tipos: isômeros constitucionais (planos) ou estereoisômeros (espaciais). Assinale a alternativa que apresenta um par de isômeros planos de função.",
+      "alternativas": null,
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Química Orgânica (Isomeria Plana de Função)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2141 @@
+{
+  "nomeUniversidade": "Universidade Estadual do Ceará",
+  "siglaUniversidade": "UECE",
+  "nomeProva": "Vestibular 2024.2 - 1ª Fase - Prova de Conhecimentos Gerais",
+  "ano": 2024,
+  "qtdeQuestoes": 85,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "TEXTO 1\nAdmirável Chip Novo\n(Pitty)\n01 Pane no sistema, alguém me desconfigurou\n02 Aonde estão meus olhos de robô?\n03 Eu não sabia, eu não tinha percebido\n04 Eu sempre achei que era vivo\n05 Parafuso e fluido em lugar de articulação\n06 Até achava que aqui batia um coração\n07 Nada é orgânico, é tudo programado\n08 E eu achando que tinha me libertado\n09 Mas lá vêm eles novamente\n10 Eu sei o que vão fazer\n11 Reinstalar o sistema\n12 Pense, fale, compre, beba\n13 Leia, vote, não se esqueça\n14 Use, seja, ouça, diga\n15 Tenha, more, gaste, viva\n16 Pense, fale, compre, beba\n17 Leia, vote, não se esqueça\n18 Use, seja, ouça, diga\n19 Não, senhor, sim, senhor\n20 Não, senhor, sim, senhor\n21 Mas lá vêm eles novamente\n22 Eu sei o que vão fazer\n23 Reinstalar o sistema\n\nO título da canção dialoga com um famoso livro de Aldous Huxley, escrito em 1932, Admirável Mundo Novo, que trata de uma sociedade padronizada e perfeita, composta por pessoas despersonalizadas, reguladas pelos recursos tecnológicos. O fenômeno textual que permite essa referência a outro texto denomina-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "intertextualidade."
+        },
+        {
+          "letra": "B",
+          "texto": "infratextualidade."
+        },
+        {
+          "letra": "C",
+          "texto": "descontinuidade."
+        },
+        {
+          "letra": "D",
+          "texto": "aceitabilidade."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Intertextualidade",
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "A letra da canção apresentada faz uma crítica",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à religião."
+        },
+        {
+          "letra": "B",
+          "texto": "ao consumismo."
+        },
+        {
+          "letra": "C",
+          "texto": "à guerra."
+        },
+        {
+          "letra": "D",
+          "texto": "ao paganismo."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "O propósito do texto 1 ao retomar o tema do livro Admirável Mundo Novo é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "contrapor o mundo atual ao mundo antigo."
+        },
+        {
+          "letra": "B",
+          "texto": "criticar Aldous Huxley devido à temática do livro."
+        },
+        {
+          "letra": "C",
+          "texto": "refletir sobre o uso da tecnologia como forma de manipulação social."
+        },
+        {
+          "letra": "D",
+          "texto": "atestar que o mundo contemporâneo é melhor que o mundo antigo."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "No trecho: \"Nada é orgânico, é tudo programado\" (linha 07), a vírgula pode ser substituída, sem prejuízo de sentido, pelo conectivo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mas."
+        },
+        {
+          "letra": "B",
+          "texto": "entretanto."
+        },
+        {
+          "letra": "C",
+          "texto": "porque."
+        },
+        {
+          "letra": "D",
+          "texto": "até."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Conjunções",
+        "Língua Portuguesa – Pontuação"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Observa-se, no texto 1, a presença de duas pessoas, um \"eu lírico\" e um \"eles\", sobre as quais é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "são duas pessoas dialogando sobre a importância das tecnologias."
+        },
+        {
+          "letra": "B",
+          "texto": "o \"eu lírico\" remete ao dominado e o \"eles\" àqueles controladores do sistema."
+        },
+        {
+          "letra": "C",
+          "texto": "são duas pessoas que se interceptam pelas mesmas forças do sistema de manipulação social."
+        },
+        {
+          "letra": "D",
+          "texto": "\"eles\" podem ser quaisquer indivíduos alheios ao sistema e o \"eu lírico\" um indivíduo alijado socialmente."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Gêneros Literários"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "O uso de verbos no modo imperativo no trecho: \"Pense, fale, compre, beba/Leia, vote, não se esqueça/Use, seja,/ouça, diga/Tenha, more, gaste, viva\" (linhas 12-15) indica que há a intenção de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "induzir as pessoas a realizarem as ações pretendidas por quem ou aquilo que controla o sistema."
+        },
+        {
+          "letra": "B",
+          "texto": "provocar as pessoas a participarem de um jogo de situações sociais infrutíferas."
+        },
+        {
+          "letra": "C",
+          "texto": "automatizar aleatoriamente as pessoas para fins lúdicos."
+        },
+        {
+          "letra": "D",
+          "texto": "encaminhar os participantes das ações para um confuso conjunto de atividades."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Modos Verbais"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "TEXTO 2\nMinistério da Saúde atualiza cenário epidemiológico sobre a dengue no Brasil\n24 A ministra da Saúde, Nísia Trindade, atualizou\n25 nesta terça-feira (5), junto a técnicos e especialistas\n26 da pasta, o cenário dos casos e mortes por dengue\n27 no Brasil. Em entrevista a jornalistas, Nísia destacou\n28 que a aceleração de registros de casos da doença\n29 no início deste ano está associada muito\n30 fortemente à mudança climática.\n31 Nísia reforçou que a união com estados e\n32 municípios tem sido valiosa para o combate ao\n33 Aedes aegypti. \"Foram feitas campanhas para\n34 combate ao mosquito em anos anteriores. Desta\n35 vez, no entanto, um ponto importante está sendo\n36 essa forte sinergia entre Ministério, estado e\n37 municípios por meio de seus conselhos. Isso é\n38 muito importante porque o Ministério da Saúde\n39 nunca teria sucesso se pensasse só em ações de\n40 gabinete\", disse Trindade.\n41 Durante a apresentação aos jornalistas,\n42 também foi anunciado que, em breve, a pasta deve\n43 emitir uma nota técnica recomendando a\n44 ampliação da faixa etária do público a ser vacinado\n45 contra a dengue. Foi feito um cálculo para não\n46 deixar descoberta a população prioritária já\n47 atendida com a primeira dose que, até então, tem\n48 recomendação para crianças de 10 e 11 anos. A\n49 pasta fará estudo para ampliar para a faixa etária de\n50 14 anos, respeitados os critérios já estabelecidos\n51 para prioridades. O documento deve estar\n52 disponível para a população nos próximos dias.\n53 \"Para além da vacinação, nós temos dois\n54 focos: a prevenção com o controle do vetor e o\n55 cuidado por meio da nossa rede de atenção à\n56 saúde\", explicou a secretária de Vigilância em\n57 Saúde e Ambiente, Ethel Maciel.\n58 Quanto aos insumos disponibilizados aos estados,\n59 foram enviados:\n60 • 348,5 mil testes de sorologia;\n61 • 177,1 mil testes de biologia molecular;\n62 • 41,2 mil kg de larvicidas; e\n63 • 139 mil L de adulticidas para uso em fumacê.\n64 Até o momento, o Ministério da Saúde\n65 destinou R$ 44 milhões para apoiar gestores locais\n66 que declararam emergência em saúde pública para\n67 o enfrentamento da dengue. Os recursos são parte\n68 do total de R$ 1,5 bilhão reservado pela pasta para\n69 este fim.\n70 Do montante, R$ 6,7 milhões foram para\n71 os estados, R$ 5,5 milhões para o Distrito Federal e\n72 R$ 31,7 milhões para os municípios. O apoio\n73 financeiro será destinado para medidas de\n74 prevenção, controle e contenção de riscos, danos e\n75 agravos à saúde pública. Até o momento, foram\n76 contemplados com o auxílio financeiro Minas\n77 Gerais, Goiás, Distrito Federal e mais 79 municípios\n78 desses e de outros estados. São eles: Rio de\n79 Janeiro, São Paulo, Rio Grande do Sul, Santa\n80 Catarina, Paraná, Amapá e Bahia.\n81 Ações de combate ao mosquito\n82 Desde 2023, o Ministério da Saúde está\n83 em constante monitoramento e alerta quanto ao\n84 cenário epidemiológico da dengue no Brasil,\n85 coordenando uma série de ações para o\n86 enfrentamento das arboviroses em todo o território\n87 nacional.\n88 A pasta adquiriu todo o estoque disponível\n89 de vacinas da dengue do laboratório fabricante –\n90 5,2 milhões de doses que serão entregues entre\n91 fevereiro e novembro de 2024. Além dessas,\n92 também serão distribuídas 1,32 milhão de doses\n93 fornecidas sem custo ao governo federal. Para\n94 2025, 9 milhões de doses que estavam disponíveis\n95 também foram compradas. É importante reforçar\n96 que outras aquisições podem ser feitas se houver\n97 nova disponibilidade de doses à pasta.\n98 Também foi instalado ainda o Centro de\n99 Operações de Emergência contra a dengue (COE\n100 Dengue). A iniciativa, coordenada pelo Ministério\n101 da Saúde, em conjunto com estados e municípios,\n102 visa acelerar a organização de estratégias de\n103 vigilância frente ao aumento de casos no Brasil,\n104 permitindo mais agilidade no monitoramento e\n105 análise do cenário para definição de ações\n106 adequadas e oportunas para o enfrentamento da\n107 doença no país.\nVICTOR, Nathan. Disponível em https://www.gov.br/saude/pt-br/assuntos/noticias/2024/marco/ministerio-da-saude-atualiza-cenario-epidemiologico-sobre-a-dengue-no-brasil\n\nO objetivo principal do texto 2 é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "comparar a situação da dengue no Brasil com a de outros países."
+        },
+        {
+          "letra": "B",
+          "texto": "mostrar a queda do número de casos de dengue no Brasil."
+        },
+        {
+          "letra": "C",
+          "texto": "protestar contra a situação da dengue no Brasil e em outros países."
+        },
+        {
+          "letra": "D",
+          "texto": "informar a população sobre a situação da dengue no Brasil."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Gêneros Textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Nos trechos, \"Foram feitas campanhas para combate ao mosquito em anos anteriores. Desta vez, no entanto, um ponto importante está sendo essa forte sinergia entre Ministério, estado e municípios por meio de seus conselhos. Isso é muito importante porque o Ministério da Saúde nunca teria sucesso se pensasse só em ações de gabinete\" (linhas 33-40) e \"Para além da vacinação, nós temos dois focos: a prevenção com o controle do vetor e o cuidado por meio da nossa rede de atenção à saúde\" (linhas 53-56), o uso das aspas justifica-se por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "indicar o uso de gírias e jargões."
+        },
+        {
+          "letra": "B",
+          "texto": "marcar o início e o final da fala de outrem."
+        },
+        {
+          "letra": "C",
+          "texto": "indicar que um vocábulo foi escrito propositalmente de forma incorreta."
+        },
+        {
+          "letra": "D",
+          "texto": "destacar o uso de expressões irônicas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Pontuação",
+        "Língua Portuguesa – Discurso Direto e Indireto"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Segundo o texto, o combate à dengue envolve",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "vacinação, controle do vetor e o cuidado ao paciente."
+        },
+        {
+          "letra": "B",
+          "texto": "vacinação, prisões e campanhas."
+        },
+        {
+          "letra": "C",
+          "texto": "campanhas contraditórias e distribuição aleatória de herbicidas."
+        },
+        {
+          "letra": "D",
+          "texto": "campanhas, interdição dos locais contaminados e prisões."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "O texto pertence ao gênero textual notícia porque apresenta, em sua estrutura,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "um entrevistador e um entrevistado, com marcas acentuadas do discurso direto, mesclando a linguagem formal com a linguagem informal."
+        },
+        {
+          "letra": "B",
+          "texto": "abundância de argumentos para salientar as opiniões, com frequente uso de verbos no presente do indicativo além da notável presença do autor."
+        },
+        {
+          "letra": "C",
+          "texto": "subjetividade marcada pelo uso de linguagem simples e coloquial, repleta de adjetivos, para narrar um acontecimento."
+        },
+        {
+          "letra": "D",
+          "texto": "divulgação de fatos, acrescida de dados que fortalecem as informações, com predominância de verbos no passado, demarcando o tempo em que os fatos ocorreram."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Gêneros Textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "No texto 2, alguns elementos e expressões são responsáveis por estabelecer a coesão textual para marcar a retomada ou a sequenciação de elementos, contribuindo para o sentido do texto. Assinale a opção em que a correspondência dos elementos do texto está correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"mudança climática\" (linha 30) remete a \"registros de casos da doença\" (linha 28)."
+        },
+        {
+          "letra": "B",
+          "texto": "\"pasta\" (linha 42) retoma “Ministério” (linha 38)."
+        },
+        {
+          "letra": "C",
+          "texto": "\"uma série de ações” (linha 85) refere-se a \"do laboratório fabricante\" (linha 89)."
+        },
+        {
+          "letra": "D",
+          "texto": "\"documento\" (linha 51) recupera \"campanhas para combate\" (linhas 33-34)."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Coesão e Coerência"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "A palavra \"sinergia\" (linha 36), no texto 2, significa",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "energia."
+        },
+        {
+          "letra": "B",
+          "texto": "revolução."
+        },
+        {
+          "letra": "C",
+          "texto": "união."
+        },
+        {
+          "letra": "D",
+          "texto": "cura."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Seja U o conjunto dos números inteiros menores do que 1000 e maiores do que 100. Considere os subconjuntos de U : X = { n $\\in$ U; n é múltiplo de 2} e Y = { n $\\in$ U; n é múltiplo de 3}. O número de elementos do subconjunto X $\\cup$ Y é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "749."
+        },
+        {
+          "letra": "B",
+          "texto": "669."
+        },
+        {
+          "letra": "C",
+          "texto": "629."
+        },
+        {
+          "letra": "D",
+          "texto": "599."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Teoria dos Conjuntos"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Se n é um número inteiro positivo, define-se fatorial de n, denotado n!, que é expresso por n! = 1.2.3... n. Por exemplo, 3! = 1.2.3 = 6; 5! = 1.2.3.4.5 = 120. Assim, é correto afirmar que a quantidade de zeros com que termina o número 15! é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6."
+        },
+        {
+          "letra": "B",
+          "texto": "3."
+        },
+        {
+          "letra": "C",
+          "texto": "5."
+        },
+        {
+          "letra": "D",
+          "texto": "4."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Fatorial",
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "O número de maneiras que se pode utilizar para dividir 10 pessoas em dois grupos de cinco pessoas é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "252."
+        },
+        {
+          "letra": "B",
+          "texto": "212."
+        },
+        {
+          "letra": "C",
+          "texto": "126."
+        },
+        {
+          "letra": "D",
+          "texto": "104."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Se forem inseridos cinco números reais entre 7 e 5103, de modo que se forme uma progressão geométrica com sete termos, é correto concluir que o quarto termo dessa progressão é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "81."
+        },
+        {
+          "letra": "B",
+          "texto": "189."
+        },
+        {
+          "letra": "C",
+          "texto": "567."
+        },
+        {
+          "letra": "D",
+          "texto": "243."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Progressão Geométrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Considere, no plano, o triângulo OIE e K um ponto em seu interior, tal que as medidas dos ângulos OÎK, EÔI, KÊO são, cada uma delas, iguais a 45°. Se a medida do lado IE é igual a 8 m, então, é correto afirmar que a medida, em m², da área do quadrilátero OIKE é igual a\nNota: O prolongamento do segmento IK corta o lado OE no ponto M formando o triângulo OIM retângulo isósceles.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "28."
+        },
+        {
+          "letra": "B",
+          "texto": "30."
+        },
+        {
+          "letra": "C",
+          "texto": "26."
+        },
+        {
+          "letra": "D",
+          "texto": "32."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Trigonometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Os valores de x entre 0 e 2$\\pi$ que satisfazem a igualdade sen2x = senx são",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{\\pi}{3}, \\frac{2\\pi}{3}, \\frac{4\\pi}{3}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{\\pi}{4}, \\frac{2\\pi}{3}, \\frac{4\\pi}{5}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{\\pi}{3}, \\pi, \\frac{5\\pi}{3}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{\\pi}{5}, \\frac{2\\pi}{3}, \\frac{4\\pi}{7}$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Trigonometria",
+        "Matemática – Equações Trigonométricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "A medida da aresta de um cubo inscrito em uma esfera cuja medida do raio é 3 m, expressa em metros, é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2\\sqrt{3}$."
+        },
+        {
+          "letra": "B",
+          "texto": "$3\\sqrt{2}$."
+        },
+        {
+          "letra": "C",
+          "texto": "$\\sqrt{6}$."
+        },
+        {
+          "letra": "D",
+          "texto": "$2\\sqrt{2}$."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "O valor do número real positivo x que satisfaz a igualdade $\\frac{3}{\\log_{2}{x}} + \\frac{2}{\\log_{3}{x}} + \\frac{2}{\\log_{5}{x}} = 2$ é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$20\\sqrt{3}$."
+        },
+        {
+          "letra": "B",
+          "texto": "$30\\sqrt{2}$."
+        },
+        {
+          "letra": "C",
+          "texto": "$20\\sqrt{5}$."
+        },
+        {
+          "letra": "D",
+          "texto": "$30\\sqrt{5}$."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Logaritmos"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Container é uma palavra da língua inglesa que pode designar um grande depósito destinado a transportar cargas em portos e aeroportos, sendo usual o formato de um paralelepípedo retangular. Considere um destes \"containers\" cujas medidas das arestas de seu espaço útil interno são 2,4 m, 4,4 m e 6,0 m, no qual serão empilhadas caixas, também em formato de paralelepípedo retangular, com arestas medindo 30 cm, 55 cm e 75 cm. Assim, é correto afirmar que a quantidade de caixas que podem ser acomodadas no container sem deixar vazios no seu interior é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "424."
+        },
+        {
+          "letra": "B",
+          "texto": "480."
+        },
+        {
+          "letra": "C",
+          "texto": "450."
+        },
+        {
+          "letra": "D",
+          "texto": "512."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Espacial",
+        "Matemática – Volume"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Em um triângulo retângulo, a medida da hipotenusa é igual a 2 m e as medidas dos ângulos internos, usando a unidade \"grau\", constituem uma progressão aritmética. Se as medidas dos catetos, em metro, são x e y, então, o produto x.y é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\sqrt{2}$ m²."
+        },
+        {
+          "letra": "B",
+          "texto": "$\\sqrt{3}$ m²."
+        },
+        {
+          "letra": "C",
+          "texto": "$2\\sqrt{3}$ m²."
+        },
+        {
+          "letra": "D",
+          "texto": "$3\\sqrt{2}$ m²."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Progressão Aritmética",
+        "Matemática – Geometria Plana",
+        "Matemática – Trigonometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Quatro dias após ter desembarcado no Brasil, a corte portuguesa, através do príncipe regente D. João, decretou, em 28 de janeiro de 1808, a Abertura dos Portos brasileiros às Nações Amigas; dois anos depois, em 1810, foram assinados o Tratado de Comércio e Navegação e o tratado de Aliança e Amizade entre os reinos de Portugal e da Grã-Bretanha. Considerando esses eventos, analise as afirmações a seguir:\nI. Esses tratados garantiram a continuidade do controle português sobre as atividades comerciais entre o Brasil e a Europa e fortaleceu a presença lusitana à frente da colonização brasileira.\nII. Enquanto a Abertura dos Portos pôs fim ao \"Pacto Colonial\" ou \"Exclusivo Colonial\" de Portugal sobre o Brasil, os tratados assinados em 1810 garantiram a predominância britânica sobre o mercado brasileiro.\nIII. Essas decisões de cunho administrativo e econômico são consideradas como os primeiros passos do processo que conduziu à Independência política do Brasil em relação ao reino de Portugal.\nÉ correto o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Período Joanino no Brasil",
+        "História – Brasil Colônia"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Em 19 de março de 1931 foi publicado o Decreto 19.770 que \"Regula a sindicalisação das classes patronaes e operarias e dá outras providências\". Essa legislação impunha, entre outras coisas, que os sindicatos só seriam aceitos legalmente como representantes das categorias profissionais se fossem reconhecidos pelo governo; se, no mínimo, dois terços dos seus membros fossem brasileiros natos ou naturalizados; e se as organizações sindicais se abstivessem de qualquer propaganda de caráter social, político ou religioso e seus participantes se negassem a disputar cargos eletivos estranhos à natureza e finalidade da associação. Já na Constituição de 1934, o mesmo governo Vargas instituiu a jornada de trabalho de oito horas diárias, as férias remuneradas, o descanso semanal obrigatório, a licença para gestantes e a proibição do trabalho para menores de 14 anos.\nConsiderando essas informações, atente para o que se afirma a seguir:\nI. Essa busca pelo controle do Estado sobre os sindicatos e a concessão de direitos trabalhistas marca o corporativismo e o controle do movimento sindical comum durante o Governo Vargas.\nII. Enquanto o controle sindical pelo Estado era solicitação antiga dos trabalhadores, para protegê-los, os direitos trabalhistas foram solicitação dos patrões que tinham consciência social.\nIII. A exigência de dois terços de brasileiros na formação dos sindicatos tentava reduzir a influência de operários imigrantes que disseminavam ideais socialistas e anarquistas.\nIV. Com sindicatos controlados pelo Estado e perseguição a líderes trabalhistas pelegos e sua substituição por indivíduos que tinham ideais de esquerda, Vargas ganhou força como o \"pai dos pobres\".\nÉ correto o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e IV apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II, III e IV apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II, III e IV."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Era Vargas"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Em 2024, a agremiação desportiva Ceará Sporting Club homenageou, em seu uniforme utilizado para as disputas da Copa do Nordeste, a figura do Dragão do Mar, apelido elogioso dado a Francisco José do Nascimento, também conhecido como Chico da Matilde. Sobre esse personagem, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "liderou a jornada de jangadeiros cearenses que navegaram 2.700 km em uma jangada, de Fortaleza ao Rio de Janeiro, para entregar a Getúlio Vargas o pedido de inclusão dos pescadores na reforma trabalhista realizada no Estado Novo."
+        },
+        {
+          "letra": "B",
+          "texto": "coordenou a luta dos trabalhadores da atividade pesqueira de Fortaleza pela criação da colônia de pescadores, hoje denominada Z8, que representa os interesses daquela comunidade."
+        },
+        {
+          "letra": "C",
+          "texto": "chefiou, em 1881, os jangadeiros que faziam o transporte de pessoas e mercadorias para os navios ancorados no porto de Fortaleza na recusa em realizar o transporte de pessoas escravizadas que seriam vendidas em outras regiões."
+        },
+        {
+          "letra": "D",
+          "texto": "comandou a luta dos pescadores da colônia Z6, localizada na praia do Pecém contra as transformações na sua atividade de trabalho impostas pela instalação do Porto do Pecém que os obrigou a pescar em outras áreas por eles desconhecidas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Abolicionismo",
+        "História – História do Ceará"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Atente para o seguinte enunciado: Este modelo é notabilizado como um acordo que \"incluiu manobras políticas que permitiram minimizar a influência das oposições e selou o comprometimento da presidência da República com as oligarquias dominantes nos estados, estabelecendo um novo equilíbrio entre estes e o poder central\". (Carlos Alberto Ungaretti Dias. in: cpdoc.fgv.br.)\nO enunciado acima descreve o modelo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "dos Interventores Federais, durante o Estado Novo, no qual Getúlio Vargas nomeou os governadores dos estados para garantir o seu poder no âmbito local."
+        },
+        {
+          "letra": "B",
+          "texto": "da Política dos Governadores, quando os presidentes, na República Velha, apoiavam o poder dos chefes regionais em troca da fidelidade das bancadas estaduais no congresso."
+        },
+        {
+          "letra": "C",
+          "texto": "dos Governadores Biônicos, como eram chamados os governadores eleitos por voto indireto nas assembleias estaduais durante a ditadura instalada no Brasil após 1964."
+        },
+        {
+          "letra": "D",
+          "texto": "dos Presidentes de Província que, indicados pelo poder central, exerciam o governo local sem mandato definido enquanto durasse o apoio do partido da vez no poder ou do imperador."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – República Velha"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "“Não terás outros Deuses diante de mim\". Segundo a Bíblia, essa frase teria sido dita por Jeová a Moisés, quando este conduzia o povo hebreu do Egito para a Palestina (o Êxodo). Nesse trajeto, Moisés subiu ao Monte Sinai e recebeu de Jeová as Tábuas da Lei com os Dez Mandamentos. Esse episódio se constitui em um dos momentos mais importantes da história do povo hebreu. Atente para o que se afirma a seguir sobre essa história e assinale com V o que for verdadeiro e com F o que for falso.\n( ) A frase acima citada demonstra um esforço da elite judaica em direção a uma religião monoteísta assim como o reconhecimento da existência de outros deuses.\n( ) A unidade política dos hebreus aconteceu na época dos Juízes que eram, ao mesmo tempo, sacerdotes e chefes militares.\n( ) Depois da morte de Salomão, as dez tribos do Norte formaram o Reino de Israel e as duas tribos do Sul formaram o Reino de Judá.\n( ) A posição das mulheres entre os hebreus era de muita importância, tanto que o estatuto da etnia hebraica era transmitido pela mãe.\nA sequência correta, de cima para baixo, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "F, F, V, F."
+        },
+        {
+          "letra": "B",
+          "texto": "V, F, V, F."
+        },
+        {
+          "letra": "C",
+          "texto": "V, V, F, V."
+        },
+        {
+          "letra": "D",
+          "texto": "F, V, F, V."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Antiguidade Oriental",
+        "História – Hebreus"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Nas últimas décadas do século XVIII, a Inglaterra foi palco de um processo conhecido como Revolução Industrial. Considerando esse processo histórico, assinale a afirmação verdadeira.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A Revolução Industrial foi fruto de um grande avanço tecnológico e suas primeiras máquinas foram construídas a partir de uma base científica complexa."
+        },
+        {
+          "letra": "B",
+          "texto": "Uma das marcas do período foi a desvalorização do significado da palavra trabalho, que passou a representar dor, humilhação e pobreza."
+        },
+        {
+          "letra": "C",
+          "texto": "Se por um lado o uso contínuo de máquinas diminuiu a necessidade de mão de obra, por outro levou os industriais a buscarem o trabalho feminino e infantil."
+        },
+        {
+          "letra": "D",
+          "texto": "Em termos de sexualidade, a moral burguesa nos séculos XVIII e XIX apresentou maior liberalização dos costumes se comparada com a moral da nobreza, predominante até então."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Revolução Industrial"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Quase todos os cidadãos dos países que participaram na guerra sofreram consequências, mas em graus amplamente diversos. Os historiadores descrevem os acontecimentos principalmente em termos de choques entre exércitos, os quais, é claro, determinaram os resultados, mas o conflito também deve ser entendido como uma experiência humana que mudou a vida de centenas de milhões de pessoas, entre elas muitas que jamais viram um campo de batalha.\nHASTINGS, Max. Inferno, O Mundo em Guerra. 1939-1945.\nConsidere o que se afirma a seguir a respeito dos custos humanos na Segunda Guerra Mundial:\nI. O extermínio dos judeus foi uma decisão antieconômica na medida em que sua mão de obra escrava poderia ter sido mais bem explorada pelos alemães.\nII. Os maiores custos humanos da guerra foram pagos pelos soldados nos campos de batalha.\nIII. Os registros de Auschwitz-Birkenau, o mais notório complexo de campos de extermínio, enfatizam os números que apontam que este campo era exclusivamente destinado aos judeus.\nEstá correto somente o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I."
+        },
+        {
+          "letra": "B",
+          "texto": "II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "II."
+        },
+        {
+          "letra": "D",
+          "texto": "I e III."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Segunda Guerra Mundial",
+        "História – Holocausto"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Em 23 de fevereiro de 1917, milhares de trabalhadores da indústria têxtil e donas de casa tomaram as ruas de Petrogrado, a capital russa, para protestar contra a escassez de pão e celebrar o Dia Internacional da Mulher. Esse dia marcou o início da chamada Revolução de Fevereiro.\nSobre esse período da História da Revolução Russa, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a Revolução de Fevereiro derrubou a Monarquia e levou a esquerda: Socialistas Revolucionários, mencheviques e bolcheviques, ao poder."
+        },
+        {
+          "letra": "B",
+          "texto": "as duas forças que derrubaram a Monarquia - o movimento de massas e a oposição parlamentar de classe média - foram institucionalizadas no Soviete de Petrogrado e no Governo Provisório."
+        },
+        {
+          "letra": "C",
+          "texto": "o partido bolchevique tinha decidido dar seu apoio condicional ao governo provisório, inclusive com o apoio de Lenin que havia voltado do exílio."
+        },
+        {
+          "letra": "D",
+          "texto": "o Governo Provisório não foi capaz de se manter no poder apesar de ter atendido algumas das reinvindicações do movimento popular."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Revolução Russa"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "As Bacias hidrográficas apresentam grande dinâmica e complexidade nos ciclos da natureza e na transformação das paisagens, pois suas águas são um agente que atua continuamente no modelado do relevo. As águas que escoam tanto pelas vertentes quanto pelo leito dos rios promovem erosão, transporte e sedimentação de material sólido. Esses materiais são transportados para outro rio, para um lago, um oceano ou um represamento artificial. No que diz respeito a drenagem, assinale a afirmação verdadeira.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Se a drenagem se dirige ao oceano, é denominada exorreica."
+        },
+        {
+          "letra": "B",
+          "texto": "Se a drenagem se dirige ao oceano, é denominada endorreica."
+        },
+        {
+          "letra": "C",
+          "texto": "Se a drenagem fica retida no interior do continente, em um lago ou deserto é chamada exorreica."
+        },
+        {
+          "letra": "D",
+          "texto": "Se a drenagem fica retida numa fratura ou sedimento, é chamada de externa."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Hidrografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Quanto à formação, ao modelado e à dinâmica do relevo terrestre, existem diversos processos que englobam a ação de agentes externos e internos. São exemplos de processos que englobam a ação de agentes externos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "tectonismo, deposição e falhamento."
+        },
+        {
+          "letra": "B",
+          "texto": "terremoto, vulcanismo e assoreamento."
+        },
+        {
+          "letra": "C",
+          "texto": "dobramento, falhamento e tectonismo."
+        },
+        {
+          "letra": "D",
+          "texto": "erosão, transporte e sedimentação."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geomorfologia",
+        "Geografia – Agentes do Relevo"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "O sistema Universal Transverso de Mercator, ou sistema UTM, é adotado oficialmente no mapeamento sistemático do território brasileiro realizado pelo IBGE, sendo sua utilização normatizada para cartas com escalas 1:1.000.000, 1:500.000, 1:250.000, 1:100.000, 1:50.000 e 1:25.000.\nConsiderando as vantagens do sistema UTM, atente para as seguintes afirmações:\nI. O sistema UTM possui a propriedade da conformidade, ou seja, a forma é preservada e os ângulos das figuras representadas não se alteram.\nII. As deformações apresentadas pelas distâncias são conhecidas ou calculadas.\nIII. O sistema UTM apresenta vantagem por ser uma projeção cônica transversa, com o cone tangente ao canevá.\nÉ correto o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III apenas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Cartografia",
+        "Geografia – Projeções Cartográficas"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Atente para o seguinte enunciado: \"Uma montanha! Que legal! Uma das mais impressionantes paisagens naturais do mundo. Uma montanha é algo muito grande, resistente e especial. Ela tem lados muito íngremes e inclinados, e tem topo e picos que são muito agudos. As montanhas são muito frias porque elas ficam distantes do chão onde nós ficamos a maior parte do tempo, onde é bem quente”.\nCLAUDINO-SALES, Vanda; MORTON. Roger. O ciclista espantado. Expressão Gráfica e Editora. Fortaleza-CE, 2022.\nO trecho acima expressa dois conceitos naturais, quais sejam:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "latitude e continentalidade."
+        },
+        {
+          "letra": "B",
+          "texto": "altitude e topografia."
+        },
+        {
+          "letra": "C",
+          "texto": "glaciação e eustasia."
+        },
+        {
+          "letra": "D",
+          "texto": "maritimidade e insolação."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Climatologia",
+        "Geografia – Geomorfologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "O Conflito Israel-Hamas fez revigorar a discussão do aspecto expansionista territorial israelense no que suas lideranças políticas, militares e religiosas mais ortodoxas reivindicam ser seu o direito à autodeterminação em seu solo pátrio, razão pela qual defendem a colonização de áreas até então ocupadas desde longa data pelos palestinos. O movimento que tem tais conotações territorialmente expansionistas é denominado de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "semitismo."
+        },
+        {
+          "letra": "B",
+          "texto": "assimilação."
+        },
+        {
+          "letra": "C",
+          "texto": "sionismo."
+        },
+        {
+          "letra": "D",
+          "texto": "judaísmo."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "História – Conflitos Contemporâneos"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Disputas e litígios territoriais não são obrigatoriamente violentos e militarizados em todos os casos conhecidos. Há disputas territoriais travadas na justiça, quando nacionais, e por meios diplomáticos, quando internacionais, sem necessariamente recorrerem ao poder das armas. Com relação aos três casos de disputas e litígios territoriais apresentados a seguir, assinale a opção que evoca os conceitos a eles correspondentes, de acordo com a seguinte indicação:\n1. Ceará X Piauí\n2. Fortaleza X Maracanaú\n3. Bolívia X Brasil (Acre - 1903)\nA sequência correta é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "divisa¹; fronteira²; limite³."
+        },
+        {
+          "letra": "B",
+          "texto": "limite¹; divisa²; fronteira³."
+        },
+        {
+          "letra": "C",
+          "texto": "limite¹; fronteira²; divisa³."
+        },
+        {
+          "letra": "D",
+          "texto": "divisa¹; limite²; fronteira³."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Conceitos de Geografia Política"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Assinale a opção que corresponde ao conceito designado a descrever a máxima organização de um povo sobre um território em virtude de um poder de comando e que se associa objetivamente à condição de posse permanente e exclusiva de um território e de gestão sobre seus respectivos habitantes.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Governo"
+        },
+        {
+          "letra": "B",
+          "texto": "Poder"
+        },
+        {
+          "letra": "C",
+          "texto": "Estado"
+        },
+        {
+          "letra": "D",
+          "texto": "Território"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Conceitos de Geografia Política",
+        "Sociologia – Estado e Poder"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Os resultados da investigação conduzida pela Polícia Federal a respeito do assassinato da vereadora Marielle Franco e de seu motorista Anderson Gomes, no dia 14 de março de 2018, apresentaram fortes indícios de que o assassinato da parlamentar decorreu de sua resistência às iniciativas de legalização da grilagem de terras invadidas e à implementação de loteamentos irregulares ligados à milícia em diferentes áreas da zona oeste do município do Rio de Janeiro. Deste fato, de repercussão internacional, depreende-se que os negócios que envolvem a regularização fundiária de áreas invadidas ilegalmente por milícias e o fornecimento de serviços e equipamentos urbanos são estratégicos para a ampliação e manutenção deste sistema político perverso, cuja dinâmica, porém, não é isolada e tampouco recente, por tratar-se de um tipo de operação comum no \"subsistema político\" de outros municípios brasileiros.\nRaquel Rolnik et al, Folha de São Paulo, 26 de março de 2024.\nEste modo de grilagem de áreas e terras públicas, de comandar o fornecimento de serviços públicos e de interferir e controlar a regularização fundiária pode ser resumidamente compreendido como uma das faces mais perversas e perniciosas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "da atuação policial em periferias e subúrbios cariocas."
+        },
+        {
+          "letra": "B",
+          "texto": "da atuação política e parlamentar na regularização fundiária de áreas ocupadas ilegalmente."
+        },
+        {
+          "letra": "C",
+          "texto": "da militarização da questão urbana."
+        },
+        {
+          "letra": "D",
+          "texto": "do urbanismo miliciano."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geografia Urbana",
+        "Sociologia – Violência e Criminalidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "A interação gravitacional é uma das quatro interações fundamentais da natureza. Juntamente com as partículas conhecidas como fundamentais e com as demais interações (eletromagnética, forte e fraca) constitui hoje o que conhecemos como modelo padrão da Física de Partículas. Além disso, a teoria newtoniana da gravidade é uma aproximação de uma teoria mais fundamental, para descrição da gravidade, proposta por Einstein em 1915. Compreendida em termos geométricos, a gravidade, como apresentada no modelo proposto por Einstein mudou nossa visão de espaço e tempo.\nAtente para o que se afirma a seguir em relação à interação gravitacional newtoniana e assinale com V o que for verdadeiro e com F o que for falso.\n( ) Na teoria newtoniana, a interação gravitacional é uma interação universal, entre todas as massas, que é sempre atrativa.\n( ) A interação gravitacional é uma interação de curto alcance e sua lei do inverso do quadrado da distância governa o comportamento de nosso universo.\n( ) É possível criar uma blindagem gravitacional, em analogia com o caso elétrico, uma vez que cargas gravitacionais, isto é, as massas positivas e negativas podem ser encontradas livremente na natureza.\n( ) A interação gravitacional é a mais fraca dentre as quatro interações fundamentais conhecidas, atuando em todas as escalas de energia acessíveis.\nA sequência correta, de cima para baixo, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V, F, F, V."
+        },
+        {
+          "letra": "B",
+          "texto": "V, F, V, F."
+        },
+        {
+          "letra": "C",
+          "texto": "F, V, V, F."
+        },
+        {
+          "letra": "D",
+          "texto": "F, V, F, V."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Gravitação Universal",
+        "Física – Forças Fundamentais da Natureza"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Em um laboratório de física experimental, estudantes estão investigando as propriedades de dois condutores elétricos A e B isolados e inicialmente neutros. Durante o experimento, o condutor A é ligado a uma fonte de alta tensão até que lhe seja transferida quantidade de carga elétrica Q. Em seguida, o condutor B é posto em contato com o condutor A, permitindo que a carga elétrica do condutor A seja compartilhada com o condutor B. Sobre esse experimento, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a carga em A aumenta enquanto a carga em B diminui, mantendo constante a carga total do sistema."
+        },
+        {
+          "letra": "B",
+          "texto": "a carga total foi redistribuída entre A e B de forma que o potencial elétrico em A ficasse maior que o potencial elétrico de B, mantendo, assim, a carga total do sistema conservada."
+        },
+        {
+          "letra": "C",
+          "texto": "a carga foi redistribuída entre os condutores A e B até que atingissem o mesmo potencial elétrico, com a carga total do sistema conservada."
+        },
+        {
+          "letra": "D",
+          "texto": "a quantidade de carga nos condutores, ao final do processo, é sempre a mesma independente do volume e do material de que são feitos os condutores A e B."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Eletrostática",
+        "Física – Eletrização por Contato"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Em uma aula prática de física, o professor propõe aos alunos uma forma de estimar o diâmetro do Sol. A atividade consiste em fazer um pequeno furo em uma cartolina para projetar a imagem do Sol em uma superfície plana, sendo d o diâmetro da imagem projetada do Sol e h a distância entre a cartolina e a superfície de projeção. Desprezando o movimento relativo entre o Sol e a Terra, e considerando que a luz se propagou em linha reta em toda sua trajetória, é correto afirmar que o diâmetro do Sol em função de H, d e h é, aproximadamente,\nNota: H é a distância entre o Sol e a cartolina.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{dH}{h}$."
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{(H+d)}{h}$."
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{(H-d)}{h}$."
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{hH}{d}$."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Óptica Geométrica",
+        "Física – Semelhança de Triângulos"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Durante um teste em uma pista retilínea, o engenheiro de testes avalia o desempenho do novo carro esportivo Aldi SR. Este carro acelera do repouso até 100 km/h (27,8 m/s) com uma aceleração constante de 9 m/s² e, em seguida, de 100 km/h a 200 km/h (55,6 m/s) com uma aceleração também constante de 5 m/s². Com base nesses dados, pode-se afirmar corretamente que a velocidade média do Aldi SR, durante o teste de aceleração, partindo do repouso até atingir a velocidade final de 200 km/h é de, aproximadamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "32 km/h."
+        },
+        {
+          "letra": "B",
+          "texto": "115 km/h."
+        },
+        {
+          "letra": "C",
+          "texto": "140 km/h."
+        },
+        {
+          "letra": "D",
+          "texto": "100 km/h."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Cinemática",
+        "Física – Movimento Uniformemente Variado"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Em um seminário de física, um professor apresentou aos alunos o conceito de transformações cíclicas em sistemas termodinâmicos. Ele explicou que, em uma transformação cíclica, um sistema retorna ao seu estado inicial definido em termos das variáveis de estado, pressão, volume e temperatura, após passar por uma série de processos termodinâmicos. Na sequência, o professor propôs um problema teórico envolvendo um motor térmico ideal, operando em ciclos, no qual o sistema realiza trabalho sobre o ambiente e troca calor com dois reservatórios térmicos, sendo um quente e o outro frio, com temperaturas T1 e T2 respectivamente. Com base no entendimento das transformações cíclicas e das leis da termodinâmica, assinale a afirmação verdadeira em relação ao funcionamento desse motor térmico ideal.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O trabalho total realizado pelo motor em um ciclo é igual à soma dos módulos das quantidades de calor absorvido e rejeitado pelas fontes quente e fria."
+        },
+        {
+          "letra": "B",
+          "texto": "O rendimento do motor térmico é 100% quando o motor realiza um processo cíclico por meio de um ciclo de Carnot."
+        },
+        {
+          "letra": "C",
+          "texto": "O rendimento do motor térmico ideal pode ser calculado em termos das temperaturas T1 e T2."
+        },
+        {
+          "letra": "D",
+          "texto": "Em toda transformação cíclica, o trabalho realizado ao final de cada ciclo é nulo, uma vez que o sistema retorna ao seu volume inicial."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Termodinâmica",
+        "Física – Máquinas Térmicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Como uma proposta desafio, um professor fornece aos seus alunos dois capacitores cerâmicos de capacitâncias X e Y desconhecidas. Na impossibilidade de se utilizar um capacímetro, as únicas informações conhecidas pelos alunos são as capacitâncias máximas e mínimas, medidas em pF (picofarads), que podem ser obtidas a partir das combinações entre X e Y. Sabendo que o valor máximo e o mínimo para a capacitância combinada dos capacitores X e Y valem respectivamente 13 e 36/13, a razão entre a capacitância do capacitor de maior valor e a capacitância do capacitor de menor valor é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{9}{4}$."
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{18}{13}$."
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{23}{13}$."
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{3}{2}$."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Eletrodinâmica",
+        "Física – Associação de Capacitores"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "O efeito Pop-Up é observado quando uma esfera flutuante, mantida presa abaixo da superfície da água, é solta e desloca-se através do fluido saltando em direção ao ar. A altura atingida pela esfera ao ser lançada ao ar, ao contrário do que poderíamos imaginar, não aumenta com a sua profundidade no interior do fluido, mas dependerá de inúmeros fatores que afetam sua velocidade e trajetória. O estudo deste efeito pode melhorar a compreensão sobre a dinâmica de veículos subaquáticos, construção de estruturas flutuantes e a conversão de energia oriunda do movimento das marés. Em um experimento típico, onde a aceleração da gravidade local tem módulo g, uma esfera flutuante de densidade X e de dimensões desprezíveis é mantida a uma profundidade h no interior da água de densidade Y ($Y>X$). Desprezando os efeitos de arraste no ar e no fluido e considerando apenas o regime vertical, ausência de movimentação lateral, é correto afirmar que a altura H atingida pela esfera acima da superfície livre do líquido é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$(\\frac{Y}{X}+1)h$."
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{hY}{X}$."
+        },
+        {
+          "letra": "C",
+          "texto": "$(\\frac{X}{Y}+1)h$."
+        },
+        {
+          "letra": "D",
+          "texto": "$(\\frac{Y}{X}-1)h$."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Hidrostática",
+        "Física – Empuxo",
+        "Física – Conservação de Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Um estudante munido de uma mola ideal e de um bloco padrão constrói, em laboratório, um oscilador harmônico simples. Após alguma condição inicial fornecida ao sistema, o estudante observa que o bloco oscila horizontalmente com uma frequência angular $\\omega$ e amplitude 2L em torno da posição de equilíbrio O, origem de Ox (eixo das abcissas). Além disso, o estudante registra que após um intervalo de tempo mínimo $\\Delta$t, o bloco saiu do ponto A situado em x = -2L e atingiu o ponto B situado em x = L. Desprezando quaisquer efeitos resistivos indesejados, o intervalo de tempo $\\Delta$t é expresso, em termos de $\\omega$, por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{\\pi\\omega}{6}$."
+        },
+        {
+          "letra": "B",
+          "texto": "$\\omega$."
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{\\pi\\omega}{4}$."
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{2\\pi}{3\\omega}$."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – MHS (Movimento Harmônico Simples)",
+        "Física – Oscilações"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Inicialmente tinham sido identificadas cerca de 13 mil substâncias químicas em plásticos, entretanto, recentemente, o relatório de uma equipe de cientistas europeus encontrou mais de 16 mil substâncias químicas das quais um quarto foram consideradas perigosas para a saúde humana e o meio ambiente. Como as substâncias químicas plásticas podem contaminar a água e os alimentos, existem orientações para a sociedade conscientizar-se do perigo e assim reduzir o uso dos plásticos.\nCom relação aos plásticos, considere as seguintes afirmações:\nI. São definidos em química como materiais orgânicos poliméricos sintéticos formados pela união de grandes cadeias moleculares.\nII. São produzidos através de um processo químico denominado polimerização, que consiste na união química de monômeros para formar polímeros.\nIII. Uma das frações do petróleo, principal matéria-prima, é levada para as indústrias petroquímicas onde passa por um processo de separação em vários compostos puros que dão origem ao plástico.\nÉ correto o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Polímeros",
+        "Química – Química Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "O aparelho utilizado no laboratório de química para separar líquidos não miscíveis, por meio da decantação, que possui uma torneira embutida para facilitar a separação é denominado de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "funil de separação."
+        },
+        {
+          "letra": "B",
+          "texto": "funil de Buchner."
+        },
+        {
+          "letra": "C",
+          "texto": "Kitassato."
+        },
+        {
+          "letra": "D",
+          "texto": "Erlenmeyer."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Técnicas de Laboratório",
+        "Química – Separação de Misturas"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Considerando as descobertas no campo da Química, analise o seguinte enunciado e assinale a opção que preenche as lacunas corretamente:\nAs descobertas do campo da Química aceleraram enormemente com o advento da __________¹ e a revolução científica do século __________². A partir dos trabalhos de __________³, novas descobertas permitiram os surgimentos da química do __________⁴, do petróleo e derivados, a produção de __________⁵, a descoberta da radioatividade e a síntese de matéria orgânica.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Idade Moderna¹, XVII², Lavoisier³, carbono⁴, medicamentos⁵"
+        },
+        {
+          "letra": "B",
+          "texto": "Idade Antiga¹, XVII², Lavoisier³, carbono⁴, plásticos⁵"
+        },
+        {
+          "letra": "C",
+          "texto": "Idade Média¹, XV², Paracelso³, hidrogênio⁴, medicamentos⁵"
+        },
+        {
+          "letra": "D",
+          "texto": "Idade Moderna¹, XVI², Paracelso³, oxigênio⁴, plásticos⁵"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – História da Química"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Um dos pratos da cozinha brasileira é o camarão com chuchu, cujos ingredientes necessários para sua preparação são: azeite de oliva, alho, leite de coco, chuchu, camarão, suco de limão, coentro, sal e pimenta do reino. Com relação a esses ingredientes, assinale a afirmação verdadeira.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Azeite de oliva é um composto orgânico."
+        },
+        {
+          "letra": "B",
+          "texto": "Sal é conhecido como sal de cozinha, cuja fórmula química é NaOH."
+        },
+        {
+          "letra": "C",
+          "texto": "Chuchu é um vegetal e assim possui átomo de carbono em sua composição química."
+        },
+        {
+          "letra": "D",
+          "texto": "Suco de limão é azedo porque contém uma mistura de ácidos, cujo principal é o ácido acético."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Funções Orgânicas",
+        "Química – Química do Cotidiano"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Atente para as seguintes afirmações sobre a tabela periódica dos elementos químicos:\n1. Um átomo, cujo número atômico é 52, está classificado na tabela periódica como um halogênio.\n2. O elemento químico cuja configuração eletrônica em seu estado fundamental, na ordem crescente de energia, termina em $4d^{10}5p^6$ pertence ao grupo 17 e ao 5º período.\nConsiderando as afirmações acima, é correto dizer que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 é falsa e 2 é verdadeira."
+        },
+        {
+          "letra": "B",
+          "texto": "ambas são falsas."
+        },
+        {
+          "letra": "C",
+          "texto": "1 é verdadeira e 2 é falsa."
+        },
+        {
+          "letra": "D",
+          "texto": "ambas são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Tabela Periódica",
+        "Química – Distribuição Eletrônica"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "O gráfico volume versus temperatura a seguir mostra a sequência de processos da amostra de um gás ideal.\nNo que diz respeito à pressão do gás, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "diminui no trecho WX, permanece constante no trecho XY e aumenta no trecho YZ."
+        },
+        {
+          "letra": "B",
+          "texto": "permanece constante no trecho WX, diminui no trecho XY e aumenta no trecho YZ."
+        },
+        {
+          "letra": "C",
+          "texto": "aumenta no trecho WX, permanece constante no trecho XY e diminui no trecho YZ."
+        },
+        {
+          "letra": "D",
+          "texto": "permanece constante no trecho WX, aumenta no trecho XY e diminui no trecho YZ."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Gases",
+        "Física – Termodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Atente para os seguintes compostos orgânicos representados por suas fórmulas estruturais:\nConsiderando os compostos acima apresentados, assinale a afirmação verdadeira.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os compostos II e III são aromáticos."
+        },
+        {
+          "letra": "B",
+          "texto": "Os compostos I e IV pertencem à função cetona."
+        },
+        {
+          "letra": "C",
+          "texto": "O composto II é nitrogenado e pertence à função das amidas."
+        },
+        {
+          "letra": "D",
+          "texto": "O composto IV é oxigenado e pertence à função dos ésteres."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Funções Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Ao estudar uma reação química que se encontra em equilíbrio químico, dependendo das condições, deve-se considerar a constante de equilíbrio em função das concentrações (Kc) e a constante de equilíbrio em função das pressões parciais (Kp).\nAssinale a opção que corresponde à reação química em que Kc = Kp.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2NO_{(g)} + Cl_{2(g)} \\rightleftharpoons 2NOCl_{(g)}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$PCl_{5(g)} \\rightleftharpoons PCl_{3(g)} + Cl_{2(g)}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$N_{2(g)} + O_{2(g)} \\rightleftharpoons 2NO_{(g)}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$CaO_{(s)} + CO_{2(g)} \\rightleftharpoons CaCO_{3(s)}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Equilíbrio Químico"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "Em relação ao reino monera, escreva V ou F conforme seja verdadeiro ou falso o que se afirma nos itens abaixo.\n( ) Seus representantes são procariontes, pois a célula que os forma não tem carioteca delimitando e individualizando um núcleo.\n( ) O estudo da sequência de nucleotídeos do RNA ribossômico permitiu distribuir os procariontes em dois grupos: arqueas e eubactérias.\n( ) Arqueas conhecidas como metanogênicas vivem em locais como pântanos, brejos, sedimentos marinhos, esgotos e no intestino de animais que digerem celulose.\n( ) As cianobactérias são arqueas autotróficas, que apresentam um tipo de clorofila e realizam fotossíntese.\nEstá correta, de cima para baixo, a seguinte sequência:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "F, F, F, V."
+        },
+        {
+          "letra": "B",
+          "texto": "V, V, V, F."
+        },
+        {
+          "letra": "C",
+          "texto": "V, F, V, F."
+        },
+        {
+          "letra": "D",
+          "texto": "F, V, F, V."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Reino Monera",
+        "Biologia – Citologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "Em relação às características gerais dos seres vivos, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "nascem unicelulares, crescem pluricelulares e morrem multicelulares, no que diz respeito ao número de células."
+        },
+        {
+          "letra": "B",
+          "texto": "o metabolismo representa o aumento constante do tamanho do organismo em função da sua capacidade de incorporar e transformar matéria orgânica."
+        },
+        {
+          "letra": "C",
+          "texto": "possuem algumas características em comum como ciclo vital, crescimento, metabolismo, reprodução e evolução."
+        },
+        {
+          "letra": "D",
+          "texto": "neles ocorrem mutações, durante a reprodução, que promovem a evolução em todos os organismos de uma espécie garantindo a biodiversidade."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Características dos Seres Vivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "No que diz respeito à febre amarela, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "existe vacina que pode ser aplicada no ser humano a partir dos seis meses de idade e tem validade de dez anos."
+        },
+        {
+          "letra": "B",
+          "texto": "há tratamento para alívio dos sintomas e, somente em casos restritos, sua forma hemorrágica é fatal."
+        },
+        {
+          "letra": "C",
+          "texto": "ocorre naturalmente nas populações indígenas por meio da picada do mosquito Aedes aegypti, comum nas matas."
+        },
+        {
+          "letra": "D",
+          "texto": "o mosquito Aedes aegypti macho transmissor, que é mais ativo durante a noite, pica as pessoas e suga seu sangue."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Virologia",
+        "Biologia – Saúde e Doenças"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "Em relação à sífilis, assinale a afirmação verdadeira.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "É causada pelo vírus espiroqueta Treponema pallidum através de relações sexuais."
+        },
+        {
+          "letra": "B",
+          "texto": "A pessoa infectada pode transmitir a sífilis sem saber, pois há um período da doença sem manifestação dos sintomas."
+        },
+        {
+          "letra": "C",
+          "texto": "Pode ser detectada através de exame de sangue se este for realizado logo após a exposição ao Treponema pallidum através de relações sexuais."
+        },
+        {
+          "letra": "D",
+          "texto": "O primeiro sinal da infecção, representado por secreções fétidas na região genital, aparece logo após a relação sexual."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Bacteriologia",
+        "Biologia – Saúde e Doenças"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "Leia o excerto a seguir:\n\"Quem vai à orla da capital cearense, desde a última semana, pode ver águas-vivas com mais facilidade na Praia do Mucuripe e na Praia do Futuro... Contudo, os grupos de águas-vivas - mesmo embelezando o mar - podem oferecer risco em contato com os banhistas: os sintomas vão da ardência à necrose superficial\".\nFonte 30 de Março de 2024: https://diariodonordeste.verdesmares.com.br/ceara/aguas-vivas-se-multiplicam-na-orla-de-fortaleza 1.3494586\nAssinale com V ou F conforme seja verdadeiro ou falso o que se afirma a seguir sobre as águas-vivas e sua explosão populacional nas praias de Fortaleza.\n( ) Compõem o filo dos cnidários juntamente com corais, anêmonas-do-mar e hidras.\n( ) Suas células especializadas, denominadas de cnidócitos, contêm substâncias tóxicas que atuam tanto na sua defesa quanto na captura de presas.\n( ) Pedicelários são ossículos esqueléticos que surgem na superfície do seu corpo e são responsáveis pela liberação de substâncias tóxicas.\n( ) Os cnidários podem apresentar a forma corporal do tipo medusa ou pólipo; as águas-vivas adultas são exemplos de pólipos por nadarem livremente.\n( ) O aumento das águas-vivas em Fortaleza deve-se ao período chuvoso e temperaturas quentes, e possivelmente tem relação com a poluição causada por esgotos.\nEstá correta, de cima para baixo, a seguinte sequência:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V, V, V, F, F."
+        },
+        {
+          "letra": "B",
+          "texto": "V, V, F, F, V."
+        },
+        {
+          "letra": "C",
+          "texto": "F, F, V, V, V."
+        },
+        {
+          "letra": "D",
+          "texto": "F, F, F, V, F."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Zoologia",
+        "Biologia – Cnidários"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Sobre a origem dos seres vivos como, por exemplo, a do bicho-da-goiaba, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "esse bicho é gerado espontaneamente no fruto onde é encontrado."
+        },
+        {
+          "letra": "B",
+          "texto": "a abiogênese como explicação para a origem do bicho-da-goiaba ainda é aceita."
+        },
+        {
+          "letra": "C",
+          "texto": "estudos de Redi e Pasteur comprovaram a origem desse ser por abiogênese."
+        },
+        {
+          "letra": "D",
+          "texto": "se forma a partir de ovos, colocados por insetos, que formam larvas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Origem da Vida",
+        "Biologia – Biogênese vs. Abiogênese"
+      ]
+    },
+    {
+      "numeroEnunciado": 61,
+      "enunciado": "A parede da maioria das células procarióticas é constituída pela associação de um carboidrato com uma proteína. Esse composto é denominado de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "peptidoglicano."
+        },
+        {
+          "letra": "B",
+          "texto": "celulose."
+        },
+        {
+          "letra": "C",
+          "texto": "hemicelulose."
+        },
+        {
+          "letra": "D",
+          "texto": "quitina."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Citologia",
+        "Biologia – Célula Procariótica"
+      ]
+    },
+    {
+      "numeroEnunciado": 62,
+      "enunciado": "Atente para o que se afirma a seguir sobre fermentação:\nI. Os tipos de fermentação alcoólica, lática e acética ocorrem na ausência ou presença de oxigênio e resultam em diferentes produtos finais.\nII. A fermentação alcoólica recebe esse nome porque a substância orgânica em que foi desdobrada a glicose é um álcool, como o álcool etílico ou etanol.\nIII. Um exemplo de ser vivo que realiza a fermentação alcoólica é o fungo Saccharomyces cerevisiae, no entanto, nenhuma bactéria realiza esse tipo de fermentação.\nIV. A fermentação láctica pode ser realizada por bactérias e fungos, enquanto as células da musculatura do corpo dos animais realizam fermentação acética.\nEstá correto o que se afirma somente em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "B",
+          "texto": "II."
+        },
+        {
+          "letra": "C",
+          "texto": "I, III e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "IV."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Bioquímica",
+        "Biologia – Metabolismo Energético"
+      ]
+    },
+    {
+      "numeroEnunciado": 68,
+      "enunciado": "\"A primeira descrição de nosso indígena foi, sem dúvida, a contida na carta de Pero Vaz de Caminha. [...] A comparação que ele faz dos indígenas com os europeus se resume na ideia de que os homens que vivem conforme a lei da natureza são sempre mais perfeitos do que os homens deformados pela civilização. É a velha teoria da bondade natural que se expressa sob esta forma. Outro documento, contemporâneo da epístola de Pero Vaz, é a célebre Carta do piloto anônimo [...]. No meio do clima doce, os indígenas viveriam em pleno estado natural.\"\nFRANCO, A. A. M. O índio brasileiro e a revolução francesa: As origens brasileiras da teoria da bondade natural. – 2ª ed. Rio de Janeiro: J. Olympio; Brasília: INL, 1976, p. 19-20. – Adaptado.\nSegundo Afonso Arinos de Melo Franco, as descrições dos habitantes originários do litoral brasileiro dos séculos XVI e XVII, nos relatos de viagem de europeus ao Brasil, influenciaram a elaboração, na Europa, das modernas teorias do Estado como resultado de uma saída do estado de natureza através de um contrato (ou pacto) social. Segundo a citação acima, esses relatos ajudaram os filósofos europeus a pensar sobre",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o estado de natureza em que todos fazem guerra contra todos."
+        },
+        {
+          "letra": "B",
+          "texto": "a liberdade, a igualdade e a fraternidade no estado de natureza."
+        },
+        {
+          "letra": "C",
+          "texto": "a existência de leis naturais que garantem a propriedade privada."
+        },
+        {
+          "letra": "D",
+          "texto": "a existência de leis positivas em conformidade com a natureza."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Filosofia – Filosofia Política",
+        "Filosofia – Contratualismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 69,
+      "enunciado": "O Padre Manuel da Nóbrega (1517-1570) escreveu Diálogo sobre a conversão do gentio (1556). Nele, há um diálogo entre dois membros da Companhia de Jesus sobre os nativos da terra. Observe a seguinte passagem desse diálogo:\nMateus Nogueira – Estou eu imaginando todas as almas dos homens serem umas e todas de uma mesma matéria, feitas à imagem e semelhança de Deus, e todas capazes da glória e criadas para ela. Diante de Deus, têm a mesma natureza a alma do papa e a alma de um indígena da capitania do Espírito Santo.\nGonçalo Álvares – Os indígenas têm alma como nós?\nMateus Nogueira – É claro! Afinal, a alma tem três potências: entendimento, vontade e memória, que todos têm. [...] Você teve tão ruim entendimento para entender o que eu queria lhe dizer como os nativos para entender as coisas de nossa fé. [...]\nNÓBREGA, M. Obra completa. Rio de Janeiro: Ed. PUC-Rio; São Paulo: Loyola, 2017, p. 213-214. – Adaptado.\nA discussão sobre a existência da alma possuindo entendimento e vontade, sendo independente do corpo e suas sensações, e comum a todos os homens, foi depois tema central em uma corrente da filosofia europeia moderna, qual seja:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o racionalismo."
+        },
+        {
+          "letra": "B",
+          "texto": "o empirismo."
+        },
+        {
+          "letra": "C",
+          "texto": "o positivismo."
+        },
+        {
+          "letra": "D",
+          "texto": "o materialismo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Filosofia – Filosofia Moderna",
+        "Filosofia – Racionalismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 70,
+      "enunciado": "No último dia 1º de abril, completaram-se 60 anos do golpe militar de 1964. Além de sua natureza autocrática, devido à censura política e cultural, à restrição e à cassação de direitos políticos dos opositores, à proibição de livre associação social, política e sindical etc., o regime político nascido do golpe cometeu diversos crimes contra os direitos humanos, com a prática de sequestros, torturas, assassinatos e desaparecimentos. Sobre os direitos humanos, é correto afirmar que se fundamentam filosoficamente",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "no direito positivo, não podendo ser reivindicados se as leis não os resguardam."
+        },
+        {
+          "letra": "B",
+          "texto": "na consciência social de uma época, segundo a opinião da maioria das pessoas."
+        },
+        {
+          "letra": "C",
+          "texto": "no direito natural e são reconhecidos pela razão, independente das opiniões ou das leis."
+        },
+        {
+          "letra": "D",
+          "texto": "na cultura de um povo, que se expressa nos seus valores históricos e tradicionais."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Filosofia – Ética",
+        "Filosofia – Direitos Humanos"
+      ]
+    },
+    {
+      "numeroEnunciado": 71,
+      "enunciado": "Imagine uma situação em que é válido:\n\"Se P, então Q\". Isto é o mesmo que afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Não Q, então P."
+        },
+        {
+          "letra": "B",
+          "texto": "Q, então não P."
+        },
+        {
+          "letra": "C",
+          "texto": "Não P, então não Q."
+        },
+        {
+          "letra": "D",
+          "texto": "Não Q, então não P."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Filosofia – Lógica Proposicional"
+      ]
+    },
+    {
+      "numeroEnunciado": 72,
+      "enunciado": "\"As porcarias culturais que costumam ser atribuídas à época desprovida de estilo e que são criticadas no plano estético não são expressão do mau gosto de uma época, mas apenas produtos de um elemento extra-artístico: a falsa racionalidade da indústria governada pelo lucro. Ao mobilizar para os seus fins o que lhe parece serem os momentos irracionais da arte, o capital destrói esta última.\"\nADORNO, Theodor. Teoria estética. Trad. Artur Morão. Lisboa: Edições 70, 1988, p. 232. – Adaptado.\nSegundo diz o filósofo alemão T. Adorno na passagem acima, o baixo nível artístico-cultural da época dominada pela indústria cultural, deve-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à falta de educação estética da juventude."
+        },
+        {
+          "letra": "B",
+          "texto": "ao domínio da razão sobre a sensibilidade."
+        },
+        {
+          "letra": "C",
+          "texto": "à produção de objetos com fins econômicos."
+        },
+        {
+          "letra": "D",
+          "texto": "à renovação artística da época moderna."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Filosofia – Estética",
+        "Sociologia – Indústria Cultural"
+      ]
+    },
+    {
+      "numeroEnunciado": 73,
+      "enunciado": "É possível constatar, na vida moderna, a diminuição da interação física entre pessoas nas sociedades que possuem maior acesso à comunicação digital. As pessoas isolam-se em suas residências com o crescente e fácil acesso à Internet e, talvez, aliado ao temor da violência, este isolamento se justifique ou seja melhor explicado; contudo, é preciso comprovar tal afirmação por meio de pesquisas consolidadas. É certo, entretanto, que há benefícios deste mundo digital, como a maior interação entre pessoas de diferentes partes do mundo e de culturas diversas. Esta comunicação significa maior possibilidade de trocas de ideias e de conhecimentos como nunca antes experienciadas na história humana. Porém, existem perspectivas sociológicas que apontam riscos neste novo mundo virtualmente conectado como, por exemplo, a insegurança das interações digitais que possibilitam que se edifiquem e se desmanchem relações humanas com igual e rápida facilidade. E isto é certamente prejudicial para a construção de um mundo social que necessita de relações duradouras para se manter e não de relações que se liquefazem em um simples mexer de dedos em uma tela.\nConsiderando o exposto, é sociologicamente correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a análise sobre essa diminuição da interação física no espaço social entre as pessoas é criticada no conceito de Indústria Cultural da Escola de Frankfurt."
+        },
+        {
+          "letra": "B",
+          "texto": "as relações virtuais, segundo Bauman, constroem um mundo sem laços sociais sólidos, pois no clicar de um botão fazem-se e desfazem-se conexões."
+        },
+        {
+          "letra": "C",
+          "texto": "o perigo da Internet, apontado por Castells, é de que a sociedade em rede crie uma sociabilidade hipersocial, ávida por qualquer tipo de interação."
+        },
+        {
+          "letra": "D",
+          "texto": "a postura de recusa às interações virtuais na Internet representa o que Max Weber tratou sobre a resistência das pessoas ao meio de comunicação global."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Sociologia – Sociologia Contemporânea",
+        "Sociologia – Modernidade Líquida"
+      ]
+    },
+    {
+      "numeroEnunciado": 74,
+      "enunciado": "Atente para o seguinte enunciado sobre cidadania:\n\"A cidadania é um status concedido àqueles que são membros integrais de uma comunidade. Todos aqueles que possuem o status são iguais com respeito aos direitos e obrigações pertinentes ao status. Não há nenhum princípio universal que determine o que estes direitos e obrigações serão, mas as sociedades nas quais a cidadania é uma instituição em desenvolvimento criam uma imagem de uma cidadania ideal em relação à qual o sucesso pode ser medido e em relação à qual a aspiração pode ser dirigida\".\nMARHALL, T. H. Cidadania, Classe Social e Status. Rio de Janeiro: Zahar, 1967.\nPartindo dessa concepção de cidadania, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o status de cidadão somente é concedido para aqueles que agem dentro das leis e votam a cada dois anos nos cargos eletivos."
+        },
+        {
+          "letra": "B",
+          "texto": "o sucesso de uma vida cidadã está conectado com a medição de liberdade de expressão para os seus membros e estrangeiros."
+        },
+        {
+          "letra": "C",
+          "texto": "a cidadania deve tratar de modo homogêneo os membros de uma comunidade quando se refere a direitos e deveres."
+        },
+        {
+          "letra": "D",
+          "texto": "uma cidadania ideal desenvolve nos seus cidadãos um senso de obrigação que é incompatível com o excesso de poder na justiça."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Sociologia – Cidadania",
+        "Sociologia – Direitos e Deveres"
+      ]
+    },
+    {
+      "numeroEnunciado": 75,
+      "enunciado": "Observe a seguinte citação de Pierre Bordieu: \"Levar à consciência os mecanismos que tornam a vida dolorosa, inviável até, não é neutralizá-los; explicar as contradições, não é resolvê-las. Mas, por mais cético que se possa ser sobre a eficácia social da mensagem sociológica, não se pode anular o efeito que ela pode exercer ao permitir aos que sofrem que descubram a possibilidade de atribuir seus sofrimentos a causas sociais e assim se sentirem desculpados; e fazendo conhecer amplamente a origem social, coletivamente oculta, da infelicidade sob todas as suas formas, inclusive as mais íntimas e as mais secretas\".\nBOURDIEU, Pierre. A miséria do mundo. Petrópolis-RJ: Vozes, 1997.\nConsiderando o exposto, assinale a afirmação verdadeira.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A sociologia é a ciência social que investiga modelos de desigualdade socioeconômica e dita o que deve ser feito para sanar essas desigualdades."
+        },
+        {
+          "letra": "B",
+          "texto": "A tarefa sociológica principal é demonstrar a exploração do sistema capitalista sobre o movimento operário, aumentando sua alienação."
+        },
+        {
+          "letra": "C",
+          "texto": "A sociologia pode explicar a construção social do masculino e do feminino e promover compreensões sobre as origens sociais dos preconceitos de gênero."
+        },
+        {
+          "letra": "D",
+          "texto": "A busca de ciências sociais como a sociologia é explicar a natureza da relação entre Estado, poder e sociedade, apontando quão limitado é o poder estatal."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Sociologia – Teoria Sociológica",
+        "Sociologia – Pierre Bourdieu"
+      ]
+    },
+    {
+      "numeroEnunciado": 76,
+      "enunciado": "No modo de produção capitalista, o Estado é um instrumento de dominação de uma classe social sobre toda a sociedade. A classe dominante detém o poder do Estado, em outros termos e, em consequência disso, o regime político é definido por esta classe social na direção do poder estatal. Assim sendo, em uma sociedade capitalista, um regime democrático com supostas instituições livres, leis e normas imparciais é meramente uma fachada que encobre o domínio social, cultural e político da classe dominante. O Estado, em síntese, é um aparelho ideológico de governança da classe dominante que dirige um regime social e político cheio de antagonismos de uma estrutura social contraditória.\nConsiderando o raciocínio apresentado no enunciado acima, assinale a afirmação verdadeira.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O postulado apresentado no enunciado trata da concepção de Pierre Bourdieu sobre a violência simbólica e o capital cultural da classe dominada."
+        },
+        {
+          "letra": "B",
+          "texto": "A noção de um Estado dominado por uma classe social é própria de Max Weber e sua compreensão da dominação burocrática legítima."
+        },
+        {
+          "letra": "C",
+          "texto": "O Estado visto como aparelho ideológico dominante se refere à concepção de Émile Durkheim acerca do aspecto coercitivo do fato social."
+        },
+        {
+          "letra": "D",
+          "texto": "A contradição de classes é da teoria dialética materialista de Karl Marx, que enxerga o Estado como gestor dos negócios da classe burguesa."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Sociologia – Teoria Sociológica Clássica",
+        "Sociologia – Karl Marx"
+      ]
+    },
+    {
+      "numeroEnunciado": 77,
+      "enunciado": "Para Ribeiro (2006), a história da formação e o sentido da sociedade brasileira explicam a razão por que o Brasil \"não deu certo\". Ele quis dizer, em resumo, que o Brasil não conseguiu atingir, de modo satisfatório, justiça social ao longo de sua história. As razões históricas para isto é que duas de suas matrizes formadoras, a Tupi e a Afro, foram quase que, respectivamente, \"desindianizada\" e \"desafricanizada\" no processo da empresa colonial. De outra forma, os índios e os negros africanos, além de quase serem extintos fisicamente, foram \"desculturalizados\" de suas diversas culturas originais devido à escravidão e excluídos da justa distribuição econômica dos bens socialmente produzidos. Ao lado da escravidão sofrida por essas matrizes originais esteve a base econômica colonial de monocultura latifundiária geradora de concentração de terras na posse de poucos, o que ajudou a gestar uma sociedade desigual, cheia de disparidades, contradições e antagonismos que subsiste sob o rótulo de \"povo brasileiro\".\nRIBEIRO, Darcy. O Povo Brasileiro: a formação e o sentido do Brasil. São Paulo: Companhia das Letras, 2006.\nNo que diz respeito ao enunciado acima, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as matrizes Tupi e Afro foram as responsáveis pelo subdesenvolvimento do Brasil; fato que explica o porquê de o país \"não ter dado certo\"."
+        },
+        {
+          "letra": "B",
+          "texto": "a escravidão e a concentração de terras na história da formação da sociedade brasileira estão na origem da injustiça social do Brasil."
+        },
+        {
+          "letra": "C",
+          "texto": "a \"desindianização” e a \"desafricanização\" provocaram o atual sucesso do empoderamento das culturas indígena e negro-africana."
+        },
+        {
+          "letra": "D",
+          "texto": "o investimento único na monocultura da cana-de-açúcar, sem a devida diversificação da agricultura, explica esse \"insucesso\" brasileiro."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Sociologia – Formação Social do Brasil",
+        "História – Brasil Colônia"
+      ]
+    },
+    {
+      "numeroEnunciado": 78,
+      "enunciado": "TEXT\nThe word 'viral' has lost its meaning\nThe nature of virality has shifted radically over the past decade as the internet has fractured into uncounted disparate algorithms, platforms, and niche communities. The volume of content being churned out every day has skyrocketed, the life cycle of each piece of media has grown shorter and social media platforms continue to inflate public metrics, devaluing previously impressive online stats.\nAll of these factors have rendered the term \"viral\" nearly meaningless, say experts, and have led to a condition we'll call \"viralflation.\" The term speaks to the diminished meaning of virality. If everything is labeled viral, then is nothing viral?\n\"Back in the day, 1 million views was the thing,\" said Marcus Stringer, a partner manager at Social Blade, a social media analytics platform. \"That meant you'd gone viral, and you'd get picked up by news agencies around the world. Now, tens of millions of views is the norm for top YouTube channels. Soon, 20 million views will eventually become the norm.\"\n\"Because the concept of virality has been so watered down, truly viral pieces of content must reach hundreds of millions of people at a scale that's increasingly unattainable for anyone but MrBeast,\" said Lara Cohen, vice president of partners and business development at Linktree, a platform that allows creators to aggregate links to their social media profiles on one page. MrBeast is the internet name of Jimmy Donaldson, YouTube's most watched creator.\nA decade and a half ago, there was a clear delineation between viral content and the vast majority of media that users would encounter every day. The internet was smaller, and most sharing was manual (people emailing and messaging links to each other) or via early internet aggregators such as sites like Digg and StumbleUpon.\nViral content emerged slowly, so the life span of a viral video was long. Some content remained viral for up to a year, worming its way through the internet as it gained traction. When social media platforms began to switch to algorithmic feeds optimized for engagement in the mid 2010s, the viral content cycle accelerated, experts said. Brands began recognizing the power of virality and started to attempt to manufacture it. Content creators joined engagement groups where they'd reshare each other's content in attempts to force virality.\nPlatforms themselves also began to realize the power of virality and sought to generate it, or at least generate the appearance of it. This was the beginning of the era of viralflation. Facebook helped lower the industry-wide threshold for what counted as a video view, and began inflating view counts on various Facebook videos in an effort to make them appear more viral than they were.\nThen TikTok broke into the mainstream in 2020, lowering the bar even further for what counted as a \"view.\" While a view on Facebook counts after three seconds of watch time, a view on TikTok is simply an impression, meaning the video was served to a user for at least a fraction of a second on screen. According to the company, TikTok also counts each loop of the video as a view, allowing videos to rake in massive view counts.\n\"The speed at which we cycle through trends and sort of moments of virality on the internet is faster now largely because of TikTok,\" Cohen said. This has created an arms race among tech platforms to see which could inflate metrics the most. There's been an incentive to have these numbers look bigger because they look better to advertisers, so there's a financial incentive to cause this viral inflation.\nA new class of content creators also has raised the bar for what's considered viral. \"When MrBeast started to explode, things really started to change in the landscape,\" Stringer said. \"People didn't consider [earlier metrics of virality] viral anymore, because he's getting multi millions of views per video.\"\nCoco Mocoe, a trend forecaster in Los Angeles, said that along with these shifts, users are also consuming a higher total amount of content online per day, especially members of Generation Z, those born between 1998 and 2012. They are more likely to consume all forms of media through the internet and social platforms, rather than via newspapers or TV. And, much of that content is short form and less than 60 seconds long. \"The main reason there are bigger numbers now is because people are consuming so much more content in a given sitting,\" she added.\nThis has made virality more ephemeral. \"There's not that same... permanence,\" Mocoe said. \"If you're watching 50 videos with 1 million views, you're less likely to remember one as opposed to a decade ago, when you might only watch five videos a day, and just one would have 1 million views.\" For the average consumer, viralflation has made it increasingly difficult to tell what is and isn't actually viral. Because we no longer have any shared sense of virality, it makes it easier for people who don't understand the mechanics of the internet to fall for fake viral trends.\nAdapted from: https://www.washingtonpost.com/2024/03/09/\n\nOne of the reasons the word \"viral\" is nearly meaningless nowadays is the fact that",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "people's preferences have changed radically since 2006."
+        },
+        {
+          "letra": "B",
+          "texto": "the everyday volume of content released has skyrocketed."
+        },
+        {
+          "letra": "C",
+          "texto": "content creators no longer join engagement groups."
+        },
+        {
+          "letra": "D",
+          "texto": "Facebook counts each loop of a video as a view."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 79,
+      "enunciado": "According to the article, things began to change in the internet landscape when",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Linktree broke into the mainstream."
+        },
+        {
+          "letra": "B",
+          "texto": "internet aggregators such as Digg became popular."
+        },
+        {
+          "letra": "C",
+          "texto": "the platform owned by Jimmy Donaldson started to explode."
+        },
+        {
+          "letra": "D",
+          "texto": "a view on TikTok started counting in three seconds."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 80,
+      "enunciado": "Because of \"viralflation\", it has become harder to",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "consume media through social platforms."
+        },
+        {
+          "letra": "B",
+          "texto": "distinguish what is and what is not really viral."
+        },
+        {
+          "letra": "C",
+          "texto": "find companies willing to provide financial incentives."
+        },
+        {
+          "letra": "D",
+          "texto": "hire good content creators to engage young viewers."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 81,
+      "enunciado": "More than a decade ago, there was a/an",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "huge spread of silly TikTok videos worldwide."
+        },
+        {
+          "letra": "B",
+          "texto": "impressive attempt to force virality in the majority of media."
+        },
+        {
+          "letra": "C",
+          "texto": "platform that didn't allow creators to message links to each other."
+        },
+        {
+          "letra": "D",
+          "texto": "delineation between viral and common everyday content."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 82,
+      "enunciado": "After platforms themselves started to realize the power of virality,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "TikTok made its numbers look bigger to get more advertisers."
+        },
+        {
+          "letra": "B",
+          "texto": "Social Blade helped diminish view counts on a few YouTube channels."
+        },
+        {
+          "letra": "C",
+          "texto": "Marcus Stringer's company got picked up by news agencies around the world."
+        },
+        {
+          "letra": "D",
+          "texto": "Facebook began inflating view counts on many of its videos."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 83,
+      "enunciado": "According to the text, a specific group of people that is consuming a high amount of content online from all types of media and social platforms is",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Generation Z."
+        },
+        {
+          "letra": "B",
+          "texto": "content creators."
+        },
+        {
+          "letra": "C",
+          "texto": "MrBeast followers."
+        },
+        {
+          "letra": "D",
+          "texto": "social media bots."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 84,
+      "enunciado": "A financial aspect that is behind \"viral inflation\" is the fact that viral content",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "looks better to advertisers."
+        },
+        {
+          "letra": "B",
+          "texto": "helps support humanitarian causes."
+        },
+        {
+          "letra": "C",
+          "texto": "maintains the status of giant platforms."
+        },
+        {
+          "letra": "D",
+          "texto": "keeps Facebook on the top of the game."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 85,
+      "enunciado": "The condition which is called \"viralflation\" refers to",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "the uncounted media platforms in every country."
+        },
+        {
+          "letra": "B",
+          "texto": "five million view counts per week on TikTok."
+        },
+        {
+          "letra": "C",
+          "texto": "a competition between Chinese and American platforms."
+        },
+        {
+          "letra": "D",
+          "texto": "tens of millions of views required for virality."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    }
+  ]
+}

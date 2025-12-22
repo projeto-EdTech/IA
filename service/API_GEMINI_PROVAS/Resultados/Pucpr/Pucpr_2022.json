@@ -1,0 +1,1247 @@
+{
+  "nomeUniversidade": "Pontifícia Universidade Católica do Paraná",
+  "siglaUniversidade": "PUCPR",
+  "nomeProva": "Vestibular de Inverno",
+  "ano": 2022,
+  "qtdeQuestoes": 40,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "A charge a seguir é referência para a próxima questão.\n\nQUERIDO PAPAI NOEL! POR FAVOR NÃO SE ESQUEÇA DO SEU PASSAPORTE DA VACINA.\n\nFolha de S. Paulo, 20/12/21. Opinião, A2.\n\nOs textos apresentam características específicas que permitem identificá-los como pertencendo a determinado gênero textual. Na linguagem verbal presente na charge, pode-se identificar como característica do gênero carta",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "um pedido."
+        },
+        {
+          "letra": "B",
+          "texto": "o vocativo."
+        },
+        {
+          "letra": "C",
+          "texto": "o passaporte vacinal."
+        },
+        {
+          "letra": "D",
+          "texto": "o tratamento carinhoso."
+        },
+        {
+          "letra": "E",
+          "texto": "os sinais de pontuação."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Gêneros Textuais",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "O texto a seguir é referência para a próxima questão.\n\n\"Se você tem objetivo, não se distraia com quem não leva a lugar nenhum\", diz cientista brasileira\n\nA bioquímica Margaret Magdesian afirma já ter batido de frente com o machismo. Avançou, criou um negócio próprio e conseguiu investimento\n\nDisponível em: < https://epocanegocios.globo.com/Empreendedorismo/noticia/2020/03/se-voce-tem-um-objetivo-nao-se-distraia-com-pessoas-que-nao-vao-te-levar-lugar-nenhum.html>. Acesso em: 21/2/22.\n\nO emprego da primeira vírgula, após “objetivo”, é justificado por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "isolamento de adjunto adverbial deslocado."
+        },
+        {
+          "letra": "B",
+          "texto": "antecedência de elemento coesivo adversativo."
+        },
+        {
+          "letra": "C",
+          "texto": "especificação de subordinação adjetiva em contexto."
+        },
+        {
+          "letra": "D",
+          "texto": "inversão de ordem entre oração principal e subordinada."
+        },
+        {
+          "letra": "E",
+          "texto": "destaque à informação que antecede o sinal de pontuação."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Pontuação"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "O texto a seguir é referência para a próxima questão.\n\nBaseado no romance homônimo de Agatha Christie, o filme conta a história de triângulo amoroso e vingança com direção de Kenneth Branagh.\nO ator, que também atua como o detetive Hercule Poirot no longa, bateu recorde ao ser indicado em sete categorias do Oscar 2022.\n\nDisponível em: <https://g1.globo.com/pop-arte/cinema/noticia/2022/02/14/morte-no-nilo-estreia-no-topo-da-bilheteria-nacional-e-desbanca-moonfall-ameaca-lunar.ghtml>. Acesso em: 17/2/22.\n\nA palavra em destaque no texto permite inferir que os nomes do livro e do filme são",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "iguais."
+        },
+        {
+          "letra": "B",
+          "texto": "parecidos."
+        },
+        {
+          "letra": "C",
+          "texto": "paráfrases."
+        },
+        {
+          "letra": "D",
+          "texto": "diferentes."
+        },
+        {
+          "letra": "E",
+          "texto": "contrastantes."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "A manchete a seguir é referência para a próxima questão.\n\nA GUERRA DE PUTIN\n\nUcrânia chama de 'imoral' decisão russa de permitir fuga de civis ucranianos apenas por Rússia e Bielorrússia\n\nGoverno ucraniano avalia que corredores humanitários anunciados pelos russos são tentativa de 'criar imagem desejada para a televisão' usando sofrimento de cidadãos\n\nDisponível em: <https://oglobo.globo.com/>. Acesso em: 7/3/22.\n\nOs processos de formação de vocabulário de uma língua como o português podem ser bastante variados. Na manchete em questão, observa-se o adjetivo \"imoral”, formado por prefixação que indica negação. Assinale a alternativa que contém uma palavra cujo prefixo tenha o mesmo sentido verificado em \"imoral\".",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "indicação."
+        },
+        {
+          "letra": "B",
+          "texto": "integração."
+        },
+        {
+          "letra": "C",
+          "texto": "imaginação."
+        },
+        {
+          "letra": "D",
+          "texto": "imobilização."
+        },
+        {
+          "letra": "E",
+          "texto": "inauguração."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia",
+        "Língua Portuguesa – Formação de Palavras"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "O texto a seguir é referência para a próxima questão.\n\nO Palácio Iguaçu, em Curitiba, ganhou novas cores de luzes. Desde a noite dessa quinta (3), a sede do governo paranaense está iluminado com lâmpadas azuis e amarelas. Trata-se das cores da bandeira ucraniana, país que vive a guerra deflagrada pelas invasões russas.\n\nDisponível em: <redesuldenoticias.com.br/noticias/palacio-iguacu-ganha-iluminacao-especial-em-solidariedade-a-ucrania/>. Acesso em: 4/3/22.\n\nAo empregar o adjetivo destacado no texto, a concordância no masculino singular justifica-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "para evitar a repetição de “sede”."
+        },
+        {
+          "letra": "B",
+          "texto": "pela generalização da linguagem."
+        },
+        {
+          "letra": "C",
+          "texto": "pela inversão sintática do período."
+        },
+        {
+          "letra": "D",
+          "texto": "pelo antecedente explícito “governo”."
+        },
+        {
+          "letra": "E",
+          "texto": "por se subentender “Palácio Iguaçu” como antecedente."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Concordância Nominal"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "O trecho de crônica a seguir é referência para a próxima questão.\n\nA velhice de quem não lê será solitária, profetizava uma aluna minha entusiasta dos livros. Sim, ler é uma imensa e generosa companhia. Pensei ainda mais na frase quando ouvi um conto de Machado de Assis: A Sereníssima República. Sim minha querida leitora intrigada e meu estimado leitor com dúvidas: ouvi, porque estava na narrativa de um site de audiolivros que eu assino e acompanho com fones ao andar ou correr. Também uso livros narrados quando meus olhos, cansados como no poema da pedra de Drummond, não aguentam mais as letras cada vez menores. Porém, gostei tanto do que ouvi, que busquei reler, na minha edição das obras completas de Machado, o conto. Está na coletânea Papéis Avulsos, a mesma que contém O Alienista, Teoria do Medalhão e o intrigante O Espelho. Se cada brasileiro lesse bem um conto de Machado por semana, este seria um país muito melhor. [...]\n\nDisponível em: <https://cultura.estadao.com.br/noticias/geral,a-politica-da-aranha,70003999015>. Acesso em: 2/3/22.\n\nO período final, em destaque no trecho citado, indica que o autor fez uma",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "contradição em relação a ouvir ou ler livros."
+        },
+        {
+          "letra": "B",
+          "texto": "constatação com base na própria experiência."
+        },
+        {
+          "letra": "C",
+          "texto": "consideração sobre opções para termos mais leitores."
+        },
+        {
+          "letra": "D",
+          "texto": "contribuição para o repertório de leituras da população."
+        },
+        {
+          "letra": "E",
+          "texto": "observação em relação ao número de leitores no Brasil."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Sobre a obra poética de Manuel Bandeira, reunida no livro Estrela da vida inteira, é CORRETO somente o que se afirma em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Acompanhar a poesia de Manuel Bandeira é como acompanhar a poesia de boa parte do século XX: começa com uma dicção parnaso-simbolista, liberta-se aos poucos do passadismo, aderindo ao modernismo e fazendo inclusive incursões no concretismo dos anos 1950."
+        },
+        {
+          "letra": "B",
+          "texto": "Em Bandeira, assiste-se a uma importante mutação na poesia brasileira: de uma inflexão extremadamente lírica (Cinza das horas, Carnaval) a uma poesia despojada e seca (Estrela da tarde, Mafuá do Malungo), uma espécie de \"antilira”, que seria desenvolvida mais tarde por João Cabral de Melo Neto."
+        },
+        {
+          "letra": "C",
+          "texto": "Apesar da constância de certos temas (o amor, as lembranças da infância, o cotidiano etc.), percebe-se, ao longo da poesia de Bandeira, uma diminuição de um tema bastante recorrente em suas primeiras obras: a morte."
+        },
+        {
+          "letra": "D",
+          "texto": "Não obstante sua adesão ao modernismo, a poética de Manuel Bandeira está muito mais próxima da poética da chamada Geração de 45: rigor formal, temas solenes, vocação metafísica, preciosismo vocabular etc., tanto que o poeta foi tomado como modelo pela geração surgida após o fim do Estado Novo."
+        },
+        {
+          "letra": "E",
+          "texto": "Observando-se sua poesia de ponta a ponta constata-se uma dominante: um certo descaso “modernista\" com a forma, manifestado pelos versos brancos, métrica menos ortodoxa, vocabulário coloquial etc."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Modernismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Sobre a peça Auto da Compadecida, de Ariano Suassuna, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "É um poema narrativo, modernista e regionalista, com forte inflexão dramática, construído como um auto de Natal nordestino."
+        },
+        {
+          "letra": "B",
+          "texto": "É a principal obra do Movimento Armorial, liderado por Ariano Suassuna, que tinha por objetivo criar uma arte com fortes raízes na cultura popular do Nordeste brasileiro."
+        },
+        {
+          "letra": "C",
+          "texto": "Apesar da temática brasileira, a peça tem suas raízes na forma “auto”, gênero dramático muito popular no final da Idade Média."
+        },
+        {
+          "letra": "D",
+          "texto": "É com essa peça seminal de Ariano Suassuna que começa, propriamente dito, o teatro regionalista brasileiro."
+        },
+        {
+          "letra": "E",
+          "texto": "Não obstante o sucesso de crítica desde a sua estreia, foi só quando foi musicada por Chico Buarque que granjeou sucesso de público."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Teatro"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Leia abaixo e responda a seguir.\n\nFaz mal beber água do mar?\n\nNão só faz mal, como mata. O problema é a quantidade exagerada de sais, principalmente cloreto de sódio (o sal de cozinha), que existe na água do mar. Apenas 0,9% do nosso sangue é composto por sais, enquanto na água do mar a concentração é de 4%.\n\nDisponível em: <https://super.abril.com.br/mundo-estranho/faz-mal-beber-agua-do-mar/> Acesso em: 27 de fev. 2022.\n\nUma pessoa, ao ingerir a água do mar, pode até ser levada à morte por desidratação; o mesmo não acontece com um peixe ósseo de água salgada, uma vez que esse animal",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "elimina os sais pelas brânquias, de forma ativa, por osmose."
+        },
+        {
+          "letra": "B",
+          "texto": "produz muita urina hipotônica, eliminando o excesso de sais."
+        },
+        {
+          "letra": "C",
+          "texto": "por ser hipotônico em relação ao meio, ganha água por osmose."
+        },
+        {
+          "letra": "D",
+          "texto": "elimina o excesso de sais ingeridos, de forma ativa, através das brânquias."
+        },
+        {
+          "letra": "E",
+          "texto": "reabsorve água pelas brânquias, de forma ativa, e elimina sais de forma passiva."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Fisiologia Animal Comparada",
+        "Biologia – Osmorregulação"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Leia a seguir.\n\nPesquisadores do Instituto Oswaldo Cruz (IOC/Fiocruz) descreveram uma nova espécie de parasito, identificada em uma espécie de gambá que habita a Mata Atlântica do Rio de Janeiro. Por trás do nome escolhido – Trypanosoma janseni – está uma homenagem à carreira da pesquisadora Ana Maria Jansen, chefe do Laboratório de Biologia de Tripanossomatídeos do IOC, que se destaca pelas contribuições científicas no estudo de mamíferos.\n\nDisponível em: <https://portal.fiocruz.br/noticia/pesquisadores-da-fiocruz-descrevem-nova-especie-de-parasito>. Acesso em: 28 de fev. 2022.\n\nComparando-se a nova espécie Trypanosoma janseni com a espécie Trypanosoma cruzi, verifica-se que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as espécies pertencem ao reino Monera."
+        },
+        {
+          "letra": "B",
+          "texto": "as espécies pertencem à mesma família."
+        },
+        {
+          "letra": "C",
+          "texto": "pertencem ao mesmo gênero e à mesma espécie."
+        },
+        {
+          "letra": "D",
+          "texto": "o epíteto específico Trypanosoma é igual para as duas espécies."
+        },
+        {
+          "letra": "E",
+          "texto": "as espécies pertencem à mesma ordem, mas são de famílias diferentes."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Taxonomia",
+        "Biologia – Sistemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Leia abaixo.\n\nQuando falamos em abelha, logo pensamos em mel e ferroadas. Realmente, para a maioria das pessoas, abelha é sinônimo de mel e agressividade, e a abelha-doméstica (Apis mellifera) é a espécie mais conhecida. A sua importância como produtora de mel, fonte natural de açúcar com grande valor energético e medicinal, é inegável. Além disso, as abelhas fornecem ao homem outros produtos de importância comercial, como o pólen, a própolis e a cera. Mas é na visita feita de flor em flor para a coleta de alimento que as abelhas executam a polinização, um serviço muito importante cujo valor econômico é desconhecido para muitas pessoas.\n\nFonte: As abelhas e a agricultura [recurso eletrônico] / Sidia Witter et al. - Dados Eletrônicos. - Porto Alegre: EDIPUCRS, 2014. 143 p.\n\nQual a importância reprodutiva e evolutiva da polinização das angiospermas realizada pelas abelhas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Garantir a autofecundação e consequente variabilidade."
+        },
+        {
+          "letra": "B",
+          "texto": "Garantir a partenogênese e facilitar o aumento da diversidade."
+        },
+        {
+          "letra": "C",
+          "texto": "Reduzir a variabilidade genética e aumentar a seleção natural."
+        },
+        {
+          "letra": "D",
+          "texto": "Evitar a polispermia e garantir a adaptação das plantas ao meio."
+        },
+        {
+          "letra": "E",
+          "texto": "Possibilitar a fecundação cruzada e maior variabilidade."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Botânica",
+        "Biologia – Evolução",
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Leia abaixo.\n\nA surpreendente descoberta das fêmeas de condores 'virgens' que deram à luz\nBiólogos americanos constataram que dois condores-da-califórnia, uma ave considerada criticamente ameaçada de extinção, tiveram filhotes sem a necessidade de um parceiro do sexo masculino.\n\nDisponível em: <https://www.em.com.br/app/noticia/ciencia/2021/11/01/interna_ciencia,1318892/a-surpreendente-descoberta-das-femeas-de-condores-virgens-que-deram-a-luz.shtml< . Acesso em: 27 de fev. 2022.\n\nUma desvantagem desse tipo de reprodução é a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "produção de filhotes sem haver a necessidade de machos."
+        },
+        {
+          "letra": "B",
+          "texto": "duração do tempo de incubação dos ovos, que é duplicada."
+        },
+        {
+          "letra": "C",
+          "texto": "menor variabilidade genética dos descendentes."
+        },
+        {
+          "letra": "D",
+          "texto": "grande capacidade adaptativa frente às variações do ambiente."
+        },
+        {
+          "letra": "E",
+          "texto": "produção de poucos filhotes com grande diversidade genotípica."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Reprodução",
+        "Biologia – Genética"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Leia abaixo.\n\nMétodos contraceptivos oferecidos pelo SUS\n\nAtualmente existem diversos métodos contraceptivos utilizados pela população feminina em idade fértil no Brasil. Sendo que, a maioria deles é reversível, somando 80% das mulheres nessa categoria, número que vem crescendo desde o ano de 2006. Visto isso, de acordo com a Lei nº 9.263, de 12 de janeiro de 1996, o Sistema Único de Saúde (SUS) disponibiliza alguns contraceptivos para a população, por meio do acesso igualitário, do planejamento familiar e do respeito aos direitos reprodutivos e sexuais.\n\nFonte: Disponível em: <https://academiamedica.com.br/blog/metodos-contraceptivos-oferecidos-pelo-sus> Acesso em: 27 de fev. 2022.\n\nAlém de protegerem contra uma possível gravidez indesejada, os métodos de barreira podem",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "regular o ciclo menstrual."
+        },
+        {
+          "letra": "B",
+          "texto": "reduzir acnes na pele de adolescentes."
+        },
+        {
+          "letra": "C",
+          "texto": "inibir a produção de hormônios masculinos."
+        },
+        {
+          "letra": "D",
+          "texto": "promover a morte de espermatozoides por ação hormonal."
+        },
+        {
+          "letra": "E",
+          "texto": "reduzir a possibilidade de transmissão de infecções sexualmente transmissíveis (ISTs)."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Saúde",
+        "Biologia – Fisiologia Humana"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "No processo de fabricação de ácido fosfórico, uma determinada indústria primeiramente oxida o fósforo fundido, ou seja, fósforo no estado líquido, formando o óxido de fósforo (V). Depois dessa oxidação, todo o óxido de fósforo (V) reage com água, formando o ácido fosfórico, como mostram as equações a seguir.\n\n$$P_4(l) + 5O_2(g) \\rightarrow P_4O_{10}(s)$$\n$$P_4O_{10}(s) + 6H_2O(l) \\rightarrow 4H_3PO_4(aq)$$\n\nCom base nos seus conhecimentos em estequiometria, determine a massa de ácido fosfórico produzida, quando 74,31 toneladas de fósforo fundido e 100 toneladas de oxigênio gasoso reagem ao longo desse processo industrial. Considere que o rendimento desse processo industrial seja 85%.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Aproximadamente 200 toneladas."
+        },
+        {
+          "letra": "B",
+          "texto": "Aproximadamente 208 toneladas."
+        },
+        {
+          "letra": "C",
+          "texto": "Aproximadamente 235 toneladas."
+        },
+        {
+          "letra": "D",
+          "texto": "Aproximadamente 245 toneladas."
+        },
+        {
+          "letra": "E",
+          "texto": "Aproximadamente 300 toneladas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Estequiometria",
+        "Química – Reagente Limitante e em Excesso"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Observe as equações abaixo.\n\n$$NaOH_{(s)} \\rightarrow Na^{+}_{(g)} + OH^{-}_{(g)} \\quad \\Delta H = +900 \\text{ kJ/mol}$$\n$$Na^{+}_{(g)} \\rightarrow Na^{+}_{(aq)} \\quad \\Delta H = -424 \\text{ kJ/mol}$$\n$$OH^{-}_{(g)} \\rightarrow OH^{-}_{(aq)} \\quad \\Delta H = -519 \\text{ kJ/mol}$$\n\nDe acordo com as equações químicas acima propostas, podemos afirmar que a entalpia de solvatação ($\\Delta H_{sol}$) do hidróxido de sódio é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "- 519 kJ/mol"
+        },
+        {
+          "letra": "B",
+          "texto": "- 424 kJ/mol"
+        },
+        {
+          "letra": "C",
+          "texto": "- 43 kJ/mol"
+        },
+        {
+          "letra": "D",
+          "texto": "+ 43 kJ/mol"
+        },
+        {
+          "letra": "E",
+          "texto": "+900 kJ/mol"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Termoquímica",
+        "Química – Lei de Hess"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "O texto a seguir foi retirado do sítio de uma distribuidora de produtos químicos na internet.\n\nO ácido propiônico é um ácido carboxílico monoprótico, que pode ser encontrado na natureza. Em seu estado puro, apresenta-se como um líquido incolor, corrosivo, de odor pungente e miscível em água.\n\nEste ácido foi inicialmente descrito por Johann Gottlieb em 1844, que o encontrou entre os produtos de decomposição do açúcar. Mas alguns anos depois, em 1847, foi o químico francês Jean-Baptiste Dumas que o nomeou com o nome que conhecemos hoje de “ ácido propiônico ”, das palavras gregas \"protos\" (primeiro) e \"pion\" (gordura), por ser o menor ácido graxo.\n\nPode ser obtido naturalmente pela fermentação da polpa de madeira ou pode ser encontrado em alguns queijos. De forma sintética, pode ser obtido por meio da oxidação do propanal ao ar. Na presença de cátions de cobalto ou manganês, essa reação ocorre rapidamente, mesmo em baixas temperaturas. Esse processo é normalmente realizado a temperaturas entre 40° C e 50° C.\n\nDado seu forte odor, seu uso é limitado. Esse ácido não é tóxico nem perigoso, é considerado inofensivo, embora deva ser manuseado com cuidado.\n\n[...]\n\nDisponível em: https://brasil.pochteca.net/produtos/acido-propionico/ Acesso em: 03/03/2022.\n\nA equação química a seguir, representa o equilíbrio químico originado durante o processo de ionização do ácido propanoico.\n\n$$H_3C – CH_2 – COOH \\rightleftharpoons H_3C – CH_2 – COO^{-} + H^{+}$$\n\nSabendo que o pH de uma solução aquosa de ácido propanoico, de concentração $10^{-2}$ mol/L, a 298 K é igual a 3,43, calcule o valor da constante de equilíbrio (Ka) para esse ácido nessa temperatura.\n\nDados:\n$pH = -\\log_{10} H^{+}$\n$10^{-3,43} = 3,7 \\times 10^{-4}$\n$10^{-4,86} = 1,38 \\times 10^{-5}$",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$1,38 \\times 10^{-5}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$3,7 \\times 10^{-4}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$9,63 \\times 10^{-3}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$1 \\times 10^{-2}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$1,37 \\times 10^{-3}$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Equilíbrio Químico",
+        "Química – Ácidos e Bases"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Analise as estruturas químicas a seguir.\n\nAmbas representam a estrutura do íon nitrito ($NO_2^{-}$). De acordo com as imagens apresentadas, pode-se perceber que há uma dupla ligação entre os átomos de nitrogênio e oxigênio e uma simples ligação entre os mesmos elementos. Em conformidade com dados teóricos, a ligação dupla, mais curta, deveria apresentar uma distância internuclear de 114 pm, enquanto a ligação simples, mais longa, deveria apresentar uma distância internuclear de 136 pm. Todavia ambas apresentam uma distância internuclear de 125 pm. Uma possível explicação para o fato se deve à deslocalização dos elétrons. Na química esse fenômeno seria a\n\nNote e adote: 1 pm = $1 \\times 10^{-12}$ m",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Entalpia."
+        },
+        {
+          "letra": "B",
+          "texto": "Entropia."
+        },
+        {
+          "letra": "C",
+          "texto": "Hibridização."
+        },
+        {
+          "letra": "D",
+          "texto": "Ressonância."
+        },
+        {
+          "letra": "E",
+          "texto": "Transição eletrônica."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Ligações Químicas",
+        "Química – Ressonância"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Se a função $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ é definida por $f(x) = 3\\cos^2(x) + \\sin^2(x) - 2$, então é correto afirmar que, para todo $x$ real,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$f(x) = \\sin(\\frac{\\pi}{2} - 2x)$"
+        },
+        {
+          "letra": "B",
+          "texto": "$f(x) = \\cos(2x + \\frac{\\pi}{2})$"
+        },
+        {
+          "letra": "C",
+          "texto": "$f(x) = \\sin(2x)$."
+        },
+        {
+          "letra": "D",
+          "texto": "$f(x) = -\\cos(2x)$."
+        },
+        {
+          "letra": "E",
+          "texto": "$f(2x) = \\cos(2x)$."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Trigonometria",
+        "Matemática – Funções Trigonométricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Em um mapa que está na escala de 1:500 000 a distância entre duas cidades, em linha reta, é igual a 20 cm. Em linha reta, qual a distância real entre essas duas cidades?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10 km"
+        },
+        {
+          "letra": "B",
+          "texto": "50 km"
+        },
+        {
+          "letra": "C",
+          "texto": "100 km"
+        },
+        {
+          "letra": "D",
+          "texto": "500 km"
+        },
+        {
+          "letra": "E",
+          "texto": "1000 km"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Razão e Proporção",
+        "Geografia – Escalas"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Quando escritos em sequência, e na ordem em que se lê, os algarismos que compõem a data vinte e dois de fevereiro de dois mil e vinte e dois formam o número capicua 22022022 (número capicua é todo número que tem o mesmo valor quando lido da direita para a esquerda ou da esquerda para a direita).\n\nAo todo, quantos números distintos são capicuas e compostos por exatamente quatro algarismos do sistema de numeração decimal?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "81"
+        },
+        {
+          "letra": "B",
+          "texto": "90"
+        },
+        {
+          "letra": "C",
+          "texto": "100"
+        },
+        {
+          "letra": "D",
+          "texto": "810"
+        },
+        {
+          "letra": "E",
+          "texto": "900"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Análise Combinatória",
+        "Matemática – Princípio Fundamental da Contagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Se V indica o volume do cone equilátero de altura H, então",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$V = \\frac{\\pi \\cdot H^3}{9}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$V = \\frac{\\pi \\cdot H^3}{3}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$V = \\frac{H^3}{9}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$V = \\frac{H^3}{3}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$V = \\frac{\\pi \\cdot H^3}{27}$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Espacial",
+        "Matemática – Cones"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Se a sequência (x; y; z) é uma progressão geométrica e o produto dos termos dessa progressão é igual a 8, então é CORRETO afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x < z."
+        },
+        {
+          "letra": "B",
+          "texto": "z = 4x."
+        },
+        {
+          "letra": "C",
+          "texto": "y = 2."
+        },
+        {
+          "letra": "D",
+          "texto": "x, y e z são números positivos."
+        },
+        {
+          "letra": "E",
+          "texto": "x, y e z são números inteiros."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Sequências",
+        "Matemática – Progressão Geométrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "A reta r é perpendicular à reta de equação $y = -\\frac{1}{2}x + 3$ e A(1; 2) é um dos pontos de r. Se a abscissa de um ponto qualquer de r for um número inteiro, então a ordenada desse ponto será, necessariamente, um número",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "par."
+        },
+        {
+          "letra": "B",
+          "texto": "primo."
+        },
+        {
+          "letra": "C",
+          "texto": "positivo."
+        },
+        {
+          "letra": "D",
+          "texto": "negativo."
+        },
+        {
+          "letra": "E",
+          "texto": "composto."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Analítica",
+        "Matemática – Equação da Reta"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Um pequeno objeto é solto, a partir do repouso, de uma distância igual a 1 m do vértice de um espelho esférico côncavo, cujo raio de curvatura é de 40 cm. O objeto descreve em queda livre uma trajetória retilínea ao longo do eixo principal do espelho, sob a ação da aceleração gravitacional local, cujo módulo é de $10 \\text{ m/s}^2$.\n\nA partir do instante em que o objeto é solto, sua imagem formada pelo espelho deixa de ser real após um intervalo de tempo $\\Delta t$ igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,2 s."
+        },
+        {
+          "letra": "B",
+          "texto": "0,4 s."
+        },
+        {
+          "letra": "C",
+          "texto": "0,5 s."
+        },
+        {
+          "letra": "D",
+          "texto": "0,6 s."
+        },
+        {
+          "letra": "E",
+          "texto": "0,8 s."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Óptica Geométrica",
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Considere certa massa gasosa ideal, que sofre a transformação A-B mostrada no diagrama pxV a seguir.\n\nA respeito dessa transformação, são feitas as seguintes afirmativas:\n\n1 - A transformação A-B é isotérmica;\n2 - A energia interna do gás é maior no estado B do que no estado A;\n3 - O gás recebe calor na transformação A-B.\n\nÉ (são) CORRETA(S) apenas a(s) afirmativa(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1."
+        },
+        {
+          "letra": "B",
+          "texto": "1 e 2."
+        },
+        {
+          "letra": "C",
+          "texto": "2."
+        },
+        {
+          "letra": "D",
+          "texto": "2 e 3."
+        },
+        {
+          "letra": "E",
+          "texto": "3."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Termodinâmica",
+        "Física – Transformações Gasosas"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Duas partículas, de massas $m_1$ e $m_2$, com $m_1 > m_2$, e que estão eletrizadas com cargas de mesmo módulo $q$ e sinais opostos, são soltas a partir do repouso em pontos do espaço cuja distância mútua é $d_0$. Devido à ação da força elétrica atrativa entre ambas (considerada na situação descrita a única força relevante), as partículas aproximam-se ao longo da linha imaginária que as une. É CORRETO afirmar que, conforme elas se aproximam,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o centro de massa do sistema composto pelas partículas permanece na mesma posição."
+        },
+        {
+          "letra": "B",
+          "texto": "a energia potencial elétrica do sistema composto pelas partículas aumenta."
+        },
+        {
+          "letra": "C",
+          "texto": "ambas as partículas descrevem movimentos uniformemente variados."
+        },
+        {
+          "letra": "D",
+          "texto": "ambas as partículas possuem velocidades constantes."
+        },
+        {
+          "letra": "E",
+          "texto": "o módulo da velocidade do centro de massa do sistema composto pelas partículas aumenta."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Dinâmica",
+        "Física – Eletrostática",
+        "Física – Sistemas de Partículas"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Uma partícula de massa 20 g se move num plano xy, e suas coordenadas ortogonais x e y variam, em função do tempo (t), conforme as equações $x = 5 + 4t^2$ e $y = 3t^2$, com unidades no SI. Considere as afirmativas a seguir:\n\n1- A trajetória da partícula neste sistema de referência é parabólica;\n2- A velocidade da partícula possui módulo constante;\n3- A força resultante sobre a partícula possui módulo constante igual a 0,2 N.\n\nÉ (são) CORRETA(S) apenas a(s) afirmativa(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1."
+        },
+        {
+          "letra": "B",
+          "texto": "1 e 2."
+        },
+        {
+          "letra": "C",
+          "texto": "1 e 3."
+        },
+        {
+          "letra": "D",
+          "texto": "2 e 3"
+        },
+        {
+          "letra": "E",
+          "texto": "3."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Cinemática Vetorial",
+        "Física – Leis de Newton"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Leia o texto abaixo.\n\nA colonização ultramarina portuguesa iniciou-se em meados do século XV, quando, após a conquista de Ceuta, no extremo norte da África, teve início a colonização regular dos arquipélagos dos Açores e da Madeira, até então desabitados.\n\nALVES, Alexandre; OLIVEIRA, Letícia Fagundes de. História Conexões: Parte II - Da colonização da América ao século XIX. São Paulo: Editora Moderna, 2010, p. 261.\n\nDe acordo com o texto e seus conhecimentos, assinale a alternativa CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A conquista desses territórios foi fundamental para o aprisionamento de africanos dessas terras, que foram escravizados e vendidos no mercado europeu."
+        },
+        {
+          "letra": "B",
+          "texto": "Para a ocupação efetiva do local, milhares de portugueses se estabeleceram nos arquipélagos e passaram a cultivar vinhedos para produção de vinho."
+        },
+        {
+          "letra": "C",
+          "texto": "Para possibilitar a ocupação e a geração de lucro, os portugueses passaram a produzir cana-de-açúcar e trigo nesses arquipélagos."
+        },
+        {
+          "letra": "D",
+          "texto": "Nesses territórios, foi encontrado ouro de aluvião que ajudou a financiar as posteriores expedições portuguesas rumo a América."
+        },
+        {
+          "letra": "E",
+          "texto": "Os portugueses, na Escola de Sagres, foram os grandes inventores da bússola que possibilitou a chegada deles nesses arquipélagos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Expansão Marítima Europeia",
+        "História – Colonização Portuguesa"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Leia os textos abaixo.\n\nTEXTO I\n[...]\n16 de maio\nEu amanheci nervosa. Porque eu queria ficar em casa, mas eu não tinha nada para comer.\nEu não ia comer porque o pão era pouco. Será que é só eu que levo esta vida? O que posso esperar do futuro? Um leito em Campos do Jordão? Eu quando estou com fome quero matar o Janio, quero enforcar o Adhemar e queimar o Juscelino. As dificuldades cortam o afeto do povo pelos políticos.\n[...]\n\nTEXTO II\n[...]\n7 de outubro\nMorreu um menino aqui na favela. Tinha dois meses. Se vivesse ia passar fome.\n[...]\n\nJESUS, Maria Carolina. Quarto do despejo: Diário de uma favelada. São Paulo: Editora Ática, 2018, p. 33 e 124.\n\nDe acordo com os textos e seus conhecimentos, assinale a alternativa CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os textos acima foram escritos durante o segundo governo de Getúlio Vargas, durante o período chamado de Estado Novo."
+        },
+        {
+          "letra": "B",
+          "texto": "A vida miserável de Maria era uma realidade de uma pequena parte da população brasileira na década de 1950 e não pode ser vista como um retrato da miserabilidade da população."
+        },
+        {
+          "letra": "C",
+          "texto": "Maria Carolina vivia uma vida dura, mas a fome não era uma realidade na favela do Canindé, pois como ela mesma relata, tinha dinheiro."
+        },
+        {
+          "letra": "D",
+          "texto": "Os textos retratam a miserabilidade da população brasileira na década de 1950 que podia ser vista em grandes e pequenas cidades."
+        },
+        {
+          "letra": "E",
+          "texto": "Maria Carolina, autora do texto, era completamente despolitizada e não compreendia sua realidade por viver marginalizada e ser pobre."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – História do Brasil República",
+        "Língua Portuguesa – Literatura Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Leia o texto abaixo.\n\n[...]\nAssim, o Império Romano do Ocidente do povo romano, que o primeiro dos augustos, Otaviano Augusto, tinha começado a dirigir no ano 709 da fundação da cidade de Roma, pereceu com este Augústulo no ano quinhentos e vinte e dois (476 d.C.) do reinado dos seus antecessores imperadores. Desde aí Roma e Itália são governadas pelos reis dos Godos [...]\n\nPEDRERO-SÁNCHEZ, Maria Guadalupe. História da Idade Média: Textos e testemunhas. São Paulo: Editora UNESP, 2000, p. 40 apud Jordanes. Romana et Getica. In: M. G. H. Auctores Antiquissimi, t. V, 1. Berlim, 1877, p.44.\n\nSobre o Império Romano do Ocidente no século V, assinale a alternativa CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Com o fim do Império Romano do Ocidente, o mundo antigo se fragmentou, dando origem à civilização medieval. Nesse cenário, destacou-se a Igreja Católica, grande herdeira das tradições romanas."
+        },
+        {
+          "letra": "B",
+          "texto": "No declínio do Império Romano do Oriente, houve uma fragmentação territorial que levou à retração da escravidão e do comércio e também ao decréscimo da população europeia."
+        },
+        {
+          "letra": "C",
+          "texto": "O domínio dos grupos germânico levou à ruralização da Europa e à formação de Estados centralizados na figura dos reis germânicos e seus nobres."
+        },
+        {
+          "letra": "D",
+          "texto": "Para expandir seus domínios, a Igreja Católica passou a converter em massa os líderes germânicos e buscou iniciar novas tradições que mesclavam os costumes religiosos romanos e germânicos."
+        },
+        {
+          "letra": "E",
+          "texto": "Com o fim do Império Romano do Ocidente, surgiu uma nova organização política baseada em Estados centralizados governados pelos reis Godos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Antiguidade",
+        "História – Idade Média"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Observe a imagem abaixo.\n\nA obra acima retrata Emiliano Zapata, Felipe Carrillo Puerto e José Guadalupe Rodríguez com o estandarte \"Tierra y Libertad\" e faz parte de um gigantesco mural pintado por Diego Rivera no Palácio da presidência mexicana, na Cidade do México. Sobre a Revolução Mexicana, assinale a alternativa CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Durante a Revolução, Porfírio Dias havia expropriado terras e entregado aos latifundiários, deixando os camponeses sem terra."
+        },
+        {
+          "letra": "B",
+          "texto": "A principal reivindicação dos revolucionários foi a proibição da exploração do petróleo mexicano pelos americanos que interviram na Revolução Mexicana."
+        },
+        {
+          "letra": "C",
+          "texto": "Entre os revolucionários, havia um grande número de operários e combatentes estrangeiros que apoiavam a instalação de um governo socialista no México."
+        },
+        {
+          "letra": "D",
+          "texto": "A principal demanda dos revolucionários era pão e terra e eles eram apoiados pela Igreja Católica do México que estava ao lado dos camponeses."
+        },
+        {
+          "letra": "E",
+          "texto": "Uma das principais reivindicações de Zapata e seus apoiadores era o projeto de coletivização das terras contido no Plano de Ayala, no qual também criticava o governo de Madero."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – História da América",
+        "História – Revolução Mexicana"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Um fenômeno demográfico está cada vez mais presente na atualidade e uma tendência crescente em todo o mundo - e na América Latina, em especial. Acontece que, nos últimos anos, filhos têm adiado cada vez mais a saída da casa de seus pais. O comportamento fez que esse grupo de pessoas, muito associado à classe média, ficasse conhecido pelo nome de Geração Canguru. No Brasil, um a cada quatro jovens de 25 a 34 anos ainda vive com a família, mesmo possuindo renda própria. O dado mais recente sobre o tema foi levantado pelo Instituto Brasileiro de Geografia e Estatísticas (IBGE) em 2015. E, agora, a pandemia da Covid-19 acentuou o fenômeno.\n\nDisponível em: <https://www.otempo.com.br/interessa/pandemia-e-estimulo-para-que-jovens-permanecam-ainda-mais-tempo-na-casa-dos-pais-1.2392213> Acesso em: 01/03/3022\n\nO fenômeno em destaque na reportagem impacta, em especial, a(o)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "expectativa de vida."
+        },
+        {
+          "letra": "B",
+          "texto": "mortalidade infantil."
+        },
+        {
+          "letra": "C",
+          "texto": "migração pendular."
+        },
+        {
+          "letra": "D",
+          "texto": "taxa de fecundidade"
+        },
+        {
+          "letra": "E",
+          "texto": "taxa de analfabetismo."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Demografia",
+        "Geografia – População"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Os primeiros meses de 2022 foram de grande tensão geopolítica, mobilizando as grandes potências globais em torno do conflito entre a Rússia e a Ucrânia. A distância da capital da Rússia, Moscou, e a capital ucraniana Kiev é de aproximadamente 800 km. Em um mapa na escala 1: 20.000.000, qual a distância gráfica entre essas duas cidades?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 cm."
+        },
+        {
+          "letra": "B",
+          "texto": "4 cm."
+        },
+        {
+          "letra": "C",
+          "texto": "8 cm."
+        },
+        {
+          "letra": "D",
+          "texto": "10 cm."
+        },
+        {
+          "letra": "E",
+          "texto": "16 cm."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Cartografia",
+        "Geografia – Escalas"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "O verão de 2021/2022 será lembrado por inúmeras tragédias desencadeadas por chuvas intensas, em especial nos estados da Bahia, Minas Gerais, São Paulo e Rio de janeiro. Dezenas de pessoas perderam suas vidas em inundações e deslizamento de encostas.\n\nDisponível em: <http://mtcm21c.sid.inpe.br/col/sid.inpe.br/mtcm21c/2018/03.27.18.54/doc/publicacao.pdf Acesso em: 27/01/2022\n\nAlém do elevado volume de chuva, um fator natural que favorece a ocorrência dos deslizamentos de encostas refere-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ao desmatamento."
+        },
+        {
+          "letra": "B",
+          "texto": "à salinização do solo."
+        },
+        {
+          "letra": "C",
+          "texto": "às vertentes íngremes."
+        },
+        {
+          "letra": "D",
+          "texto": "ao assoreamento dos rios."
+        },
+        {
+          "letra": "E",
+          "texto": "ao predomínio de planícies."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geomorfologia",
+        "Geografia – Riscos Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Existe um tipo de migração que ocorre na região Nordeste do país e que caracteriza, não só o clima particular do agreste, bem como a elevada concentração fundiária da região. Esse movimento é realizado por pequenos agricultores do agreste pernambucano e paraibano em direção à Zona da Mata, onde concentra-se o plantation de cana de açúcar. Esses agricultores, no período da seca no agreste, deixam suas famílias e migram para a colheita da cana, retornando algumas semanas depois. O movimento migratório em destaque no texto caracteriza-se como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pendular."
+        },
+        {
+          "letra": "B",
+          "texto": "nomadismo."
+        },
+        {
+          "letra": "C",
+          "texto": "êxodo rural."
+        },
+        {
+          "letra": "D",
+          "texto": "êxodo urbano."
+        },
+        {
+          "letra": "E",
+          "texto": "migração sazonal."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Migrações",
+        "Geografia – População"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Imagine o seguinte cenário hipotético: Maurice, estudante de 17 anos, é informado de que sua avó está com problemas graves de saúde. Visitando-a no hospital, a avó, como último pedido, solicita a Maurice que após sua morte deposite flores no seu túmulo uma vez por semana. Mesmo sabendo de antemão que não irá conseguir cumprir a promessa, Maurice diz à avó que realizará seu pedido. Com base no pensamento do filósofo Immanuel Kant, como a ação de Maurice pode ser entendida, a partir da obra \"Fundamentação da Metafísica dos Costumes\"?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Para Kant, é possível querer a mentira, mas não é possível querer uma lei universal de mentir, sob pena de ser impossível, inclusive, realizar-se uma promessa."
+        },
+        {
+          "letra": "B",
+          "texto": "A ação de Maurice se alinha à ética defendida por Kant, uma vez que as consequências da promessa de Maurice, mesmo que não cumprida, são positivas."
+        },
+        {
+          "letra": "C",
+          "texto": "Tendo em vista que Maurice possui apenas 17 anos, sendo, do ponto de vista legal, relativamente incapaz, não era possível a Maurice assumir a promessa."
+        },
+        {
+          "letra": "D",
+          "texto": "Kant repudia a existência de uma máxima universal de não mentir, pois os seres humanos, enquanto seres biológicos, irão sempre mentir."
+        },
+        {
+          "letra": "E",
+          "texto": "Maurice deveria ter ficado em silêncio, pois, à luz do pensamento de Kant, não criar expectativas quanto ao pedido seria a única ação moralmente correta."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Filosofia – Ética Kantiana",
+        "Filosofia – Moral"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Na obra \"Discurso da Servidão Voluntária\", o filósofo Etienne La Boétie reflete sobre as causas de sujeição e de liberdade dos indivíduos. De acordo com La Boétie, para que as pessoas se deixem sujeitar, é necessário que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "exista um Estado politicamente organizado, com a separação de Poderes prevista por uma Carta Constitucional que, inclusive, atribua deveres aos indivíduos."
+        },
+        {
+          "letra": "B",
+          "texto": "exista uma ideologia de classes dominantes que possa subjugar indivíduos de uma sociedade, principalmente o proletariado."
+        },
+        {
+          "letra": "C",
+          "texto": "sejam forçados, como Esparta ou Atenas pelas forças de Alexandre, ou que sejam iludidos, como o povo de Siracusa, quando, de forma irrefletida, elevou a tirano Dionísio Primeiro."
+        },
+        {
+          "letra": "D",
+          "texto": "os indivíduos permaneçam em completa ignorância do mundo real, negando-se a ouvir posicionamentos diferentes, tal como já denunciado por Platão no seu mito da caverna."
+        },
+        {
+          "letra": "E",
+          "texto": "abandonem qualquer pretensão de viver em coletividade, o que equivaleria a deixar o bem comum para aqueles que tivessem intenção de viver da política."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Filosofia – Filosofia Política",
+        "Filosofia – Renascimento"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "What is the objective of the text below?\n\nThese are the 20 most common passwords leaked on the dark web — make sure none of them are yours\n\nYour go-to password might be easier to guess than you think.\nThat's according to a new report from mobile security firm Lookout, which recently published a list of the 20 passwords most commonly found in leaked account information on the dark web. The list ranges from simple number and letter sequences like \"123456\" and \"Qwerty” to easily typed phrases like \"Iloveyou.\"\nChoosing easy-to-remember passwords is understandable: The average person has more than 100 different online accounts requiring passwords, according to online password manager NordPass. But simple passwords can be extremely easy for hackers to figure out, allowing them stress-free access to your personal data and accounts.\n\nhttps://www.cnbc.com/2022/02/27/most-common-passwords-hackers-leak-on-the-dark-web-lookout-report.html Access: February 2022.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "The objective is to sell a device which helps you to memorize your passwords."
+        },
+        {
+          "letra": "B",
+          "texto": "The objective is to spread the use of simple passwords in order to make life easier."
+        },
+        {
+          "letra": "C",
+          "texto": "The objective is to complain about the number of passwords people need to memorize."
+        },
+        {
+          "letra": "D",
+          "texto": "The objective is to warn people about the danger of using simple passwords."
+        },
+        {
+          "letra": "E",
+          "texto": "The objective is to report the use of dark web by ordinary people."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "According to the author, why did the post receive so many upvotes?\n\nMan Claims His Teen Makes More Than Teacher Wife With Master's\n\nAman has taken to Reddit claiming his teenage son makes more than his wife, who is a preschool teacher with a master's degree. The reveal has garnered a lot of reactions from people who sympathized with the woman's plight.\nThe now-viral Reddit post was shared to the subreddit \"Antiwork\" on February 8 by u/ghart999. It's titled, \"My 16-year-old makes more than my wife who's a preschool teacher with a master's degree.\" The post has received over 20,000 upvotes in less than 24 hours.\nThe original poster (OP) revealed that his wife works at a private Christian school that includes a large church attached to it. The Redditor said \"the church is in an expensive area of very wealthy people,\" and the church gets enormous donations.\n\nhttps://www.newsweek.com/man-claims-his-teen-makes-more-teacher-wife-masters-1677605 Access: February, 2022.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Because people felt sorry for the woman's bad situation."
+        },
+        {
+          "letra": "B",
+          "texto": "Because it is a great example of how a teen can succeed."
+        },
+        {
+          "letra": "C",
+          "texto": "Because it is about a protest against work, created by a teen."
+        },
+        {
+          "letra": "D",
+          "texto": "Because it addresses child labor, which is an important issue."
+        },
+        {
+          "letra": "E",
+          "texto": "Because it shows corruption since they receive many donations."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "What is the author's opinion about the series \"Inventing Anna\"?\n\nWhy Does Inventing Anna Turn Its Victim Into a Joke?\n\nThere's a lot that's aggravating about Inventing Anna. The fact that most of the episodes are about 20 minutes longer than necessary. The way that it makes a Celine-obsessed grifter out to be a 21st-century Jay Gatsby, with 281 Park Avenue standing in for Daisy Buchanan. The accent—dear God, the accent. It's the not-quite disclaimer at the beginning of every installment that feels most misguided, though: “This whole story is completely true. Except for all the parts that are totally made up.\"\nInventing Anna does blur the lines between reality and fiction in a peculiar way—and this is where it gets into trouble, particularly when it comes to Rachel Deloache Williams, the real-life photo editor who joined Sorokin on her last-hoorah trip to Marrakech and ended up footing the nearly $70,000 bill. In contrast to New York's Jessica Pressler, who's reimagined as Vivian Kent of Manhattan magazine for the series, Williams is referred to by her actual name throughout. (Granted, no one with a WiFi connection is going to struggle to figure out who the \"real\" Vivian is, but the switch at least marginally distances Shondaland's creation from Pressler in viewers' minds.) Also featured prominently: Williams's actual place of work (Vanity Fair), the location of her apartment (the West Village), and her alma mater (Kenyon College).\n\nhttps://www.vogue.com/article/inventing-anna-rachel-portrayal Access: February 2022.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "It is not possible to state the author's opinion from this excerpt, since the language used here is neutral."
+        },
+        {
+          "letra": "B",
+          "texto": "The author criticizes the series, mentioning the length of its episodes, details about the main character and other things."
+        },
+        {
+          "letra": "C",
+          "texto": "The author promotes the series, by highlighting its connection between real-life and fiction in an innovative and interesting way."
+        },
+        {
+          "letra": "D",
+          "texto": "We can conclude that the author likes it, since there are mentions of world-famous literature as a way of comparison."
+        },
+        {
+          "letra": "E",
+          "texto": "The author hates it because it shows the criminal, Anna, as a victim, making a joke of such a serious situation."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    }
+  ]
+}

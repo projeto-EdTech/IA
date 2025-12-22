@@ -1,0 +1,1423 @@
+{
+  "nomeUniversidade": "Instituto Mauá de Tecnologia",
+  "siglaUniversidade": "MAUÁ",
+  "nomeProva": "Vestibular Verão 2024 - VR",
+  "ano": 2024,
+  "qtdeQuestoes": 46,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Texto I\nQuando o botou nos carurus e sororocas da serrapilheira, o pequeno foi crescendo foi crescendo e virou príncipe lindo. Falou pra Sofará esperar um bocadinho que já voltava pra brincarem e foi no bebedouro da anta armar um laço. Nem bem voltaram do passeio, tardinha, Jiguê já chegava também de prender a armadilha no rasto da anta. A companheira não trabalhara nada. Jiguê ficou fulo e antes de catar os carrapatos bateu nela muito. Mas Sofará aguentou a coça com paciência.\n\nPelas características, o Texto I enquadra-se no movimento literário",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Modernismo, caracterizado pela quebra dos valores estéticos anteriores, em oposição à arte acadêmica e crítica à tradição. E a busca da renovação artística."
+        },
+        {
+          "letra": "B",
+          "texto": "Romantismo indianista, pela utilização de elementos do folclore brasileiro, pela utilização do sentimentalismo e do egocentrismo."
+        },
+        {
+          "letra": "C",
+          "texto": "Naturalismo, pela exposição do indivíduo como um produto biológico, cujo comportamento é determinado a partir dessas relações com o meio e de acordo com sua hereditariedade."
+        },
+        {
+          "letra": "D",
+          "texto": "Simbolismo, pela utilização do rigor narrativo, sinestesias e ritmo cadenciado, aproximando-se da música."
+        },
+        {
+          "letra": "E",
+          "texto": "Pré-modernismo, pois apresenta traços de estilos do século XIX, como realismo, parnasianismo e simbolismo. Foi marcado também pela tensão política entre os países imperialistas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Escolas Literárias",
+        "Língua Portuguesa – Modernismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Texto II\nA vida na fazenda se tornara difícil. Sinhá Vitória benzia-se tremendo, manejava o rosário, mexia os beiços rezando rezas desesperadas. Encolhido no banco do copiar, Fabiano espiava a caatinga amarela, onde as folhas secas se pulverizavam, trituradas pelos redemoinhos, e os garranchos se torciam, negros, torrados. No céu azul as últimas arribações tinham desaparecido. Pouco a pouco os bichos se finavam, devorados pelo carrapato. E Fabiano resistia, pedindo a Deus um milagre. Mas quando a fazenda se despovoou, viu que tudo estava perdido, combinou a viagem com a mulher, matou o bezerro morrinhento que possuíam, salgou a carne, largou-se com a família, sem se despedir do amo. Não poderia nunca liquidar aquela dívida exagerada. Só lhe restava jogar-se ao mundo, como negro fugido.\n\nO trecho do Texto II",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "foi retirado do episódio “A fuga”, do livro Vidas Secas, de Graciliano Ramos, em que há a crítica social. A obra trabalha as raízes da opressão no Brasil, principalmente no campo. Criando personagens opressoras e oprimidas."
+        },
+        {
+          "letra": "B",
+          "texto": "apresenta pleonasmo vicioso nas expressões rezando rezas e bezerro morrinhento, além de expressões da linguagem informal, o que caracteriza atributo das obras de Guimarães Rosa."
+        },
+        {
+          "letra": "C",
+          "texto": "mostra uma linguagem irreverente, plena de figuras de linguagem, em que a musicalidade se faz presente, caracterizando a obra de Cruz e Sousa e o movimento Simbolista."
+        },
+        {
+          "letra": "D",
+          "texto": "está inserido no movimento parnasiano, pelo culto da forma, da arte pela arte, inspirado no drama da família nordestina, obrigada a render-se às desgraças naturais e a dívidas assumidas com os bancos."
+        },
+        {
+          "letra": "E",
+          "texto": "pertence ao livro Caetés, de Machado de Assis, misturando o fim do Naturalismo com o Realismo. Conta a história de um amor impossível e do povoado de Caetés, em Palmeira dos Índios (cidade de Alagoas)."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Modernismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Foco narrativo é o elemento presente nos textos narrativos responsável por esclarecer ao leitor o ponto de vista utilizado na narrativa. Um dos principais elementos presentes em uma narração.\n\nNo Texto II, o ponto de vista é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "um narrador onisciente, que tem total conhecimento de personagens e fatos."
+        },
+        {
+          "letra": "B",
+          "texto": "personagem principal, que participa da história e analisa os fatos."
+        },
+        {
+          "letra": "C",
+          "texto": "mero observador, apenas narra o que vê, como se estivesse assistindo a um espetáculo e contando para o leitor."
+        },
+        {
+          "letra": "D",
+          "texto": "personagem secundária que conta a história e participa dela."
+        },
+        {
+          "letra": "E",
+          "texto": "quem está contando a história, ouvida de outra personagem."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Teoria Literária",
+        "Língua Portuguesa – Elementos da Narrativa"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "As questões 04 e 05 referem-se ao Texto III.\n\nTexto III\nVem sentar-te comigo Lídia, à beira do rio.\nSossegadamente fitemos o seu curso e aprendamos\nQue a vida passa, e não estamos de mãos\nenlaçadas.\n(Enlacemos as mãos.)\n\nDepois pensemos, crianças adultas, que a vida\nPassa e não fica, nada deixa e nunca regressa,\nVai para um mar muito longe, para ao pé do Fado,\nMais longe que os deuses.\n\nDesenlacemos as mãos, porque não vale a pena\ncansarmo-nos.\nQuer gozemos, quer não gozemos, passamos como\no rio.\nMais vale saber passar silenciosamente\nE sem desassossegos grandes.\n\nRicardo Reis (Fernando Pessoa)\n\nAssinale a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A terceira estrofe contradiz a primeira, intermediada pela segunda estrofe, que explica o porquê da mudança."
+        },
+        {
+          "letra": "B",
+          "texto": "Há no texto paradoxos (crianças adultas; passar silenciosamente; desassossegos grandes) e antíteses (nada deixa e nunca regressa)."
+        },
+        {
+          "letra": "C",
+          "texto": "As orações que a vida passa, e não estamos de mãos enlaçadas, são, respectivamente, adjetiva e coordenada adversativa."
+        },
+        {
+          "letra": "D",
+          "texto": "O poema apresenta três estrofes com versos soltos ou brancos, mas isométricos e rimas raras."
+        },
+        {
+          "letra": "E",
+          "texto": "Os versos 1 e 2, da segunda estrofe, são heterométricos, pois apresentam números de sílabas poéticas diferentes."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Análise de Poemas",
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Passando o primeiro verso para a terceira pessoa do singular, ficará:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Venha sentar-se comigo Lídia, à beira do rio."
+        },
+        {
+          "letra": "B",
+          "texto": "Vem sentar-se comigo Lídia, à beira do rio."
+        },
+        {
+          "letra": "C",
+          "texto": "Vem sentar comigo Lídia, à beira do rio."
+        },
+        {
+          "letra": "D",
+          "texto": "Venha sentar-te comigo Lídia, à beira do rio."
+        },
+        {
+          "letra": "E",
+          "texto": "Vens sentar-te comigo Lídia, à beira do rio."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Gramática",
+        "Língua Portuguesa – Verbos"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Rumor suspeito quebra a doce harmonia da sesta. Ergue a virgem os olhos, que o sol não deslumbra; sua vista perturba-se. Diante dela e todo a contemplá-la, está um guerreiro estranho, se é guerreiro e não algum mau espírito da floresta. Tem nas faces o branco das areias que bordam o mar; nos olhos o azul triste das águas profundas. Ignotas armas e tecidos ignotos cobrem-lhe o corpo. Foi rápido, como o olhar, o gesto de Iracema. A flecha embebida no arco partiu. Gotas de sangue borbulham na face do desconhecido. De primeiro ímpeto, a mão lesta caiu sobre a cruz da espada; mas logo sorriu.\n\nJosé de Alencar\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O trecho mostra características de uma das tendências literárias mais marcantes do período romântico brasileiro - Indianismo. Os elementos da cultura indígena são colocados em evidência, para dar verossimilhança à obra."
+        },
+        {
+          "letra": "B",
+          "texto": "O trecho, na verdade, não faz parte do período romântico e sim do Realismo."
+        },
+        {
+          "letra": "C",
+          "texto": "Nessa prosa poética, José de Alencar exagera no egocentrismo e no pessimismo."
+        },
+        {
+          "letra": "D",
+          "texto": "Nesse texto, há a representação do caráter burguês, associado ao sofrimento e à morbidez."
+        },
+        {
+          "letra": "E",
+          "texto": "O movimento é vanguardista, apresentando uma protagonista mulher, representada pela índia Iracema, destacando a força e a beleza femininas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Romantismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Read the extract below and answer the questions 07, 08 and 09 in the sequence.\n\nWhat Is a 21st-Century Curriculum?\n\nToday's world requires a multi-dimensional approach to the learning experience. A 21st-century skills-based curriculum pivots away from content acquisition and rote memorization to focus on the skills and abilities that will best serve our generation of young minds. Student engagement and hands-on, interdisciplinary learning are championed over conferring information.\n\nThe 21st-century classroom focuses on a creative, collaborative approach to learning. In a computer programming class, students play musical chairs to solve a coding task. They write a few lines of code, move chairs, write a few lines on that person's screen, then repeat the process. Compared to completing the coding task on their own, students learn more by seeing how their peers approached the problem and found a solution.\n\nAdapted from https://www.hunschool.org/resources/21-century-classroom. Accessed on Sep. 03rd, 2023.\n\nAccording to the extract, which alternative illustrates a 21st century curriculum?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A cooperative group of students equipped with hands-on learning skills."
+        },
+        {
+          "letra": "B",
+          "texto": "A school program based mainly on content acquisition and memorization."
+        },
+        {
+          "letra": "C",
+          "texto": "An active group of students inspired by a pragmatic approach, without group observation."
+        },
+        {
+          "letra": "D",
+          "texto": "A school program based largely on individual computer programming classes."
+        },
+        {
+          "letra": "E",
+          "texto": "A talented group of students only equipped with reading and writing skills."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "In the sentence “Today's world requires a multi-dimensional approach to the learning experience”, the underlined verb means",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "need."
+        },
+        {
+          "letra": "B",
+          "texto": "adopt."
+        },
+        {
+          "letra": "C",
+          "texto": "apply."
+        },
+        {
+          "letra": "D",
+          "texto": "try."
+        },
+        {
+          "letra": "E",
+          "texto": "follow."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "In the fragment “Student engagement and hands-on, interdisciplinary learning are championed over conferring information”, the underlined verb means",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "support."
+        },
+        {
+          "letra": "B",
+          "texto": "undervalue."
+        },
+        {
+          "letra": "C",
+          "texto": "systematize."
+        },
+        {
+          "letra": "D",
+          "texto": "innovate."
+        },
+        {
+          "letra": "E",
+          "texto": "examine."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Read the extract below and answer the questions 10, 11 and 12 in the sequence.\n\nOur story\n\nDiscord is about giving people the power to create space to find belonging in their lives. We want to make it easier for you to talk regularly with the people you care about. We want you to build genuine relationships with your friends and communities close to home or around the world. Original, reliable, playful, and relatable. These are the values that connect our users and our employees at Discord.\n\nPrologue\n\nDiscord was started to solve a big problem: how to communicate with friends around the world while playing games online. Since childhood, founders Jason Citron and Stan Vishnevskiy both shared a love of video games, cherishing the friendships and connections that formed while playing them. At the time, all the tools built for this job were slow, unreliable, and complex. Jason and Stan knew they could make a better service that encouraged talking, helped form memories, and recreated the feeling of togetherness all found through gaming.\n\nSo, in 2015, Stan and Jason started to bring Discord to life. People from all over the world loved it. Discord made it easy to genuinely communicate with friends, going beyond casual talking. Friends were staying in touch with their various communities. Discord was making it easy to participate in conversation, hopping around text, voice and video to talk. The technology was complex, but the goal was simple: make Discord an inviting and comfortable home to jump into with your communities and friends. Within a few years, Discord began to take off, and devoted people who loved our product sprung up around the world.\n\nWhere are we now?\n\nDiscord is used by everyone from local hiking clubs to art communities, to study groups. Discord has millions of people creating places for their friends and communities, talking for upwards of 4 hours per day on the platform. Discord is now where the world talks, hangs out, and builds relationships. Discord lets anyone create a space to find belonging – just like it did for Jason and Stan.\n\nOur metrics\n\n150 million - Monthly active users\n19 million - Active servers per week\n4 billion - Server conversation minutes daily\n\nIn https://discord.com/company. Accessed on July 30th, 2023.\n\nWhat is the only word that substitutes for the word belonging underlined twice in the text?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Acceptance."
+        },
+        {
+          "letra": "B",
+          "texto": "Possession."
+        },
+        {
+          "letra": "C",
+          "texto": "Participation."
+        },
+        {
+          "letra": "D",
+          "texto": "Dislike."
+        },
+        {
+          "letra": "E",
+          "texto": "Animosity."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Vocabulário",
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Why did Jason Citron and Stan Vishnevskiy create Discord?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "They wanted to encourage people to talk, share memories, and feel included and considered as happened when they were playing games together."
+        },
+        {
+          "letra": "B",
+          "texto": "They expected people to share strategies and techniques to play better while they were online."
+        },
+        {
+          "letra": "C",
+          "texto": "They wanted to share their love of video games, enriching the platforms for players and amplifying internet connections all over the world."
+        },
+        {
+          "letra": "D",
+          "texto": "They planned to simplify the technology for people to participate in conversation throughout their video game championships."
+        },
+        {
+          "letra": "E",
+          "texto": "They expected Discord to become an inviting and comfortable tool for people to use at school."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "According to the last two paragraphs to the institutional text on Discord page, what can you infer about Discord at present?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "The company states that Discord is a successful interactive platform where people from all over the world can meet."
+        },
+        {
+          "letra": "B",
+          "texto": "The Discord page announces that people from different areas in the US can join their chatrooms."
+        },
+        {
+          "letra": "C",
+          "texto": "The company mentions that millions of teenagers are regular users of their platform, where they create study rooms."
+        },
+        {
+          "letra": "D",
+          "texto": "The Discord page lists a series of spaces that can be accessed by all the registered users from any of the 19 million active servers."
+        },
+        {
+          "letra": "E",
+          "texto": "The Discord page announces that there will never be any restriction of time for people who create spaces on their platform."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Desde 1999, os integrantes do Mercosul (Brasil, Argentina, Uruguai e Paraguai) e os 28 países da União Europeia iniciaram negociações para um acordo de livre comércio. As conversas foram interrompidas em 2004 e retomadas em 2010.\n\nO Mercado Comum do Sul (Mercosul) e a União Europeia (UE) concluíram a negociação e fecharam [em 2019] o acordo de livre comércio entre os dois blocos. Segundo estimativas do Ministério da Economia, o acordo representará um incremento do Produto Interno Bruto (PIB, soma de todos os bens e serviços produzidos no país) brasileiro de US$ 87,5 bilhões em 15 anos.\n\nFonte: Adaptado de VERDÉLIO, Andreia. Mercosul e União Europeia fecham acordo de livre comércio. Agência Brasil, 28/06/2019.\n\nApós uma negociação de mais de vinte anos, o acordo de livre-comércio entre o Mercosul e a União Europeia ainda enfrenta obstáculos para entrar efetivamente em vigor.\n\nTal situação é decorrente",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "da necessidade de o acordo ser ratificado e internalizado pelos Estados integrantes dos dois blocos econômicos."
+        },
+        {
+          "letra": "B",
+          "texto": "da redução das barreiras não tarifárias e do incremento esperado na rentabilidade total dos fatores de produção não devidamente equalizados."
+        },
+        {
+          "letra": "C",
+          "texto": "do governo brasileiro reavaliar pontos do acordo Mercosul-União Europeia, para apresentar aos parceiros do bloco e depois levar ao grupo econômico europeu, pois o Brasil assumiu em 2023 a presidência (pro tempore) do bloco sul-americano."
+        },
+        {
+          "letra": "D",
+          "texto": "da política externa brasileira, ao priorizar a integração com os países vizinhos, em detrimento daquela com a União Europeia."
+        },
+        {
+          "letra": "E",
+          "texto": "do viés protecionista da União Europeia, que pretende impor ao Brasil uma política de desmatamento zero, para implementação dos termos do acordo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Blocos Econômicos",
+        "Geografia – Relações Internacionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "O olhar sobre o uso abusivo das tecnologias, como smartphones, games e internet, ganha novos contornos à medida em que a sociedade não consegue \"desconectar-se\". [...]\n\n\"A grande preocupação é que estamos praticamente vivendo um problema de saúde pública, mas ela entrou pela porta dos fundos, mascarada dentro de uma perspectiva de entretenimento, as pessoas ainda não se deram conta da gravidade. É um processo que ativa os circuitos dopaminérgicos, é um vício, uma dependência como outra qualquer”, [...].\n\nTanto a imagem como o texto nos remetem a um problema recorrente na sociedade atual, o medo de ficar desconectado, desprovido do celular, considerado como extensão do próprio corpo.\n\nEsse problema de saúde é denominado",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "nomofobia."
+        },
+        {
+          "letra": "B",
+          "texto": "agorafobia."
+        },
+        {
+          "letra": "C",
+          "texto": "acrofobia."
+        },
+        {
+          "letra": "D",
+          "texto": "nictofobia."
+        },
+        {
+          "letra": "E",
+          "texto": "coulrofobia."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Sociologia – Tecnologia e Sociedade"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Leia a citação a seguir.\n\n\"Não há mais amizades sinceras, não há mais estima real; não há mais confiança fundada. As suspeitas, as desconfianças, os temores, a frieza, a reserva, o ódio, a traição, hão de ocultar-se sempre sob o véu uniforme e pérfido da polidez, sob essa urbanidade tão louvada, que devemos às luzes do nosso século.\"\n\nFonte: ROUSSEAU, Jean-Jacques. Discurso sobre as ciências e as artes.\n\nJean-Jacques Rousseau enfatiza o impacto do meio social na formação de valores do sujeito, de modo que, para o autor,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o meio é responsável por destruir a bondade inerente ao estado de natureza."
+        },
+        {
+          "letra": "B",
+          "texto": "o bom selvagem é fruto da relação civilizada entre as pessoas."
+        },
+        {
+          "letra": "C",
+          "texto": "a vida harmoniosa é fruto da articulação entre vontade geral e vontade de todos."
+        },
+        {
+          "letra": "D",
+          "texto": "é importante a entrega da liberdade para o soberano, para que haja paz no Estado."
+        },
+        {
+          "letra": "E",
+          "texto": "o sufrágio universal é fruto da condição de insurreição dos sujeitos e superação do estado de natureza, de guerra de todos contra todos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Filosofia – Filosofia Política",
+        "Filosofia – Contratualismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Leia o texto a seguir.\n\nO ataque a faca em uma escola estadual de São Paulo, que deixou uma professora morta e mais quatro pessoas feridas, jogou luz sobre a violência nas salas de aula do país, cujo histórico apresenta índices elevados de agressão contra docentes. O agressor era um aluno de 13 anos do oitavo ano na escola.\n\nNos últimos anos, os índices têm revelado o quanto a violência escolar é multiforme. O isolamento social, a exposição à violência e condutas polarizadas só amplificaram a experiência em torno da violência. Assim, como postura de enfrentamento, é necessário",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "considerar a interseccionalidade entre ambiente escolar e sociedade, pois há semelhança nos problemas vivenciados por ambos."
+        },
+        {
+          "letra": "B",
+          "texto": "criar mais espaços escolares privados, pois nesses não há experiências de violência."
+        },
+        {
+          "letra": "C",
+          "texto": "proporcionar espaços culturais e de lazer, cuja finalidade seja o combate à violência."
+        },
+        {
+          "letra": "D",
+          "texto": "propor políticas públicas mais intransigentes e ostensivas, a fim de intimidar os agressores pondo fim à impunidade."
+        },
+        {
+          "letra": "E",
+          "texto": "desenvolver espaços de denúncia dos abusos sofridos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Sociologia – Violência",
+        "Sociologia – Educação"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Em 7 de setembro de 1822 foi proclamada a independência do Brasil em relação a Portugal, decretando-se o fim do laço colonial, que unia os países. A independência foi produto de longo processo, em que figuras, como D. Pedro I, D. Leopoldina e José Bonifácio Andrada e Silva, tiveram destaque. Nesse processo,\n\nI. a Revolução Liberal do Porto de 1820 foi importante, já que a elite político-econômica portuguesa nela envolvida tinha intenção de reduzir o Brasil novamente à condição de colônia, após ter sido sede do Reino Unido no período joanino, com inúmeras vantagens econômicas, culturais e administrativas. Esse fato desagradou a elite brasileira que se opôs à perda das vantagens adquiridas.\n\nII. a agitação causada pela falta de negociação com Lisboa fez surgir uma resistência brasileira, que explicitava seu descontentamento com as decisões da corte, entre elas, o envio de mais tropas portuguesas para o Brasil, a transferência de instituições governamentais do Rio de Janeiro para Lisboa, culminando com a exigência de que D. Pedro retornasse a Portugal.\n\nIII. o primeiro país a reconhecer a independência do Brasil foi os Estados Unidos. Portugal só a reconheceu em 1825, após longas negociações e intermediação do governo francês, com o pagamento de dois milhões de libras de multa, financiadas pela Inglaterra, dando início à dívida externa brasileira.\n\nIV. Entre 1822 e 1825, ocorreram diversos conflitos em todo território brasileiro, principalmente nas províncias do Grão-Pará, Bahia, Maranhão, Cisplatina e Piauí, onde havia maior concentração de tropas do exército português. A resistência à separação era organizada por comerciantes ligados a Portugal e militares portugueses que viviam no Brasil.\n\nSão verdadeiras as afirmativas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e IV apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II, III e IV apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II, III e IV."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Brasil Império",
+        "História – Independência do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "O vulcão Kilauea entrou em erupção em 1969 e permaneceu cinco anos nesse estado, chegando a ter explosões que ultrapassaram 75 m de altura.\n\nVulcões são estruturas geológicas muito antigas e são formados",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pela movimentação das placas tectônicas ou por anomalias térmicas que fazem que rochas do interior do planeta subam até à superfície."
+        },
+        {
+          "letra": "B",
+          "texto": "pelo derretimento das calotas geladas da Terra, pela força da expulsão de K e NaCl."
+        },
+        {
+          "letra": "C",
+          "texto": "pelo mecanismo de efeito estufa e pela flutuação das temperaturas, de -100 °C a 100 °C, nos primórdios do planeta."
+        },
+        {
+          "letra": "D",
+          "texto": "pela projeção de gases e materiais piroclásticos."
+        },
+        {
+          "letra": "E",
+          "texto": "pelo ciclo constante de transformação de rochas sedimentares em rochas metamórficas, por meio do aumento da temperatura terrestre."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geologia",
+        "Geografia – Vulcanismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Atenas foi o berço da democracia, tal como a entendemos hoje, entretanto não havia eleições em Atenas e, entre aqueles que possuíam as características necessárias para ocuparem um cargo público, era feito sorteio por meio de uma máquina chamada kleroterion.\n\nPartindo do princípio de que “o poder corrompe”, esse sorteio tinha por objetivo a alternância de poder e a manutenção dos três princípios básicos da democracia ateniense, a isegoria, a isonomia e a isocracia.\n\nÉ correto afirmar que,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pela isegoria, todos tinham o direito à palavra."
+        },
+        {
+          "letra": "B",
+          "texto": "pela isonomia, todos tinham igual participação no exercício do poder."
+        },
+        {
+          "letra": "C",
+          "texto": "pela isocracia, todos eram iguais perante as leis."
+        },
+        {
+          "letra": "D",
+          "texto": "pela isonomia, todos tinham direito à educação e à saúde."
+        },
+        {
+          "letra": "E",
+          "texto": "pela isegoria, todos podiam participar do sorteio de cargos públicos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Grécia Antiga",
+        "Filosofia – Democracia Ateniense"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Leia o texto a seguir.\n\n\"Onde as suas consequências se realizaram em toda extensão, o estamento evolui para uma casta \"fechada\". As distinções estamentais são, então, asseguradas não simplesmente pelas convenções e leis, mas também pelos rituais. [...] Em geral, porém os estamentos só chegam a tais consequências extremas quando há diferenças subjacentes consideradas como étnicas.\"\n\nFonte: WEBER; Max. Ensaios de Sociologia. Rio de Janeiro: LTC Editora, 1982. p. 127.\n\nA concepção weberiana enfatiza",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o papel das múltiplas relações na organização e normalização dos grupos sociais."
+        },
+        {
+          "letra": "B",
+          "texto": "a distinção entre fenômenos ritualísticos e convenções legais."
+        },
+        {
+          "letra": "C",
+          "texto": "o quanto a etnia é influenciada pelas normas vigentes."
+        },
+        {
+          "letra": "D",
+          "texto": "a homogeneidade, que sistematiza o corpo social."
+        },
+        {
+          "letra": "E",
+          "texto": "o fato social como fenômeno exógeno na organização da sociedade."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Sociologia – Teoria Sociológica Clássica",
+        "Sociologia – Max Weber"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Duas grandes revoluções marcaram a passagem do século XIX para o XX. A primeira sucedeu no cerne da própria arte musical, na sua linguagem, por meio da quebra dos modelos tradicionais do fazer e do ouvir. Sem complacência com o passado e buscando novas saídas para uma arte que deveria sempre estar em evolução, artistas modernistas ou modernos distanciaram-se da arte dos tempos anteriores, [...], e passaram a enfatizar a necessidade de uma nova arte. Essa nova arte atendia aos desejos de um novo mundo [...]. Além disso, destinava-se a um novo ser – diferente, mais consciente, torturado ou acomodado e que não deveria ser deixado pacificamente sentado fruindo arte. Dependendo da filiação a um dos muitos ideários e movimentos estéticos vigentes na época, \"a música\" assumiu diferentes funções e aglutinou ideologias incompatíveis.\n\nNesses termos, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "para o Expressionismo, a música, bem como a arte em geral, existia para expressar as regiões mais escondidas da alma, para possibilitar um olhar para dentro de si mesmo e deixar transbordar esse mundo interno."
+        },
+        {
+          "letra": "B",
+          "texto": "no dodecafonismo, o sistema tonal baseava-se em uma organização hierárquica dos sons, agrupados em forma de tríades e de acordes, que eram empregados em encadeamentos harmônicos."
+        },
+        {
+          "letra": "C",
+          "texto": "o sistema tonal era uma organização musical, em que os tons tinham um poder desigual para expressar, validar e tornar suportável a vida do homem, numa cultura hierárquica racionalmente organizada, obedecendo à cadência."
+        },
+        {
+          "letra": "D",
+          "texto": "no serialismo, movimento musical alemão, pós I Guerra Mundial, houve a liberação de doze tons da escala, que passaram a ser tratados como iguais, criando um ambiente de ruptura e de descaso para a música do passado."
+        },
+        {
+          "letra": "E",
+          "texto": "a música concreta surgiu concomitantemente à possibilidade de manipular o som gravado, criando sons nunca antes ouvidos, com séries que nela imprimiam a ordem desejada pelo compositor, estabelecendo regras percebidas pelos ouvintes."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Arte – História da Música",
+        "Arte – Modernismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "O FMI (Fundo Monetário Internacional) reduziu suas projeções quanto ao crescimento mundial e elevou suas estimativas de inflação, alertando que o panorama de riscos econômicos \"está fortemente inclinado para o lado negativo\". As novas projeções, [...] surgem no momento em que o planeta está tentando lidar com as consequências da invasão da Ucrânia pela Rússia, agravados pela pandemia e aperto rápido nas condições financeiras, enquanto os bancos centrais correm para tentar conter a disparada de preços.\n\nO conflito entre Rússia e Ucrânia desajustou a ordem econômica do mundo, sendo o continente europeu um dos mais afetados devido à questão ligada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aos preços da energia, sobretudo no que tange ao fornecimento do gás russo."
+        },
+        {
+          "letra": "B",
+          "texto": "à inflação, haja vista o papel da Ucrânia junto ao Banco Mundial."
+        },
+        {
+          "letra": "C",
+          "texto": "às dívidas de economias emergentes, considerando o papel da Rússia como nação articuladora econômica."
+        },
+        {
+          "letra": "D",
+          "texto": "às tensões religiosas, referentes a grupos fundamentalistas."
+        },
+        {
+          "letra": "E",
+          "texto": "aos BRICS, sobretudo devido à retaliação americana em relação ao mercado russo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "Geografia – Economia Mundial"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Um agricultor, analisando o crescimento das plantas em sua plantação de milho, percebe que a altura das plantas varia ao longo do tempo de forma bastante regular. O agricultor decide investigar a relação entre o tempo de crescimento das plantas e a altura que atingem. Ele coleta dados durante 8 semanas, medindo a altura das plantas no início e no final de cada semana. Os resultados são apresentados na tabela abaixo.\n\nCom base nos dados coletados, o agricultor deseja determinar a taxa média de crescimento semanal das plantas e usar essa informação para prever, aproximadamente, a altura das plantas após 10 semanas.\n\nA taxa média de crescimento das plantas e a previsão aproximada de sua altura, após 10 semanas, serão, respectivamente, de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7 cm/semana e 80 cm."
+        },
+        {
+          "letra": "B",
+          "texto": "7 cm/semana e 74 cm."
+        },
+        {
+          "letra": "C",
+          "texto": "6 cm/semana e 78 cm."
+        },
+        {
+          "letra": "D",
+          "texto": "6 cm/semana e 70 cm."
+        },
+        {
+          "letra": "E",
+          "texto": "8 cm/semana e 83 cm."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Funções",
+        "Matemática – Progressão Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "As primárias são eleições internas realizadas pelos partidos Republicano e Democrata dos Estados Unidos, com o objetivo de escolher o candidato oficial para concorrer à Presidência da República no ano de 2024. Em uma eleição interna com três candidatos, A, B e C, eleitores puderam votar em mais de um candidato. Uma pesquisa de boca de urna revelou que 75% dos eleitores votaram no candidato A, 90% votaram no candidato B e 40% no candidato C. O número mínimo de eleitores que votaram nos três candidatos foi de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 %"
+        },
+        {
+          "letra": "B",
+          "texto": "40 %"
+        },
+        {
+          "letra": "C",
+          "texto": "27 %"
+        },
+        {
+          "letra": "D",
+          "texto": "25 %"
+        },
+        {
+          "letra": "E",
+          "texto": "2,05 %"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Teoria dos Conjuntos",
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Gibdo Bone (osso de Gibdo) é um item valioso no jogo Zelda: Tears of the Kingdom, que possui grande potencial para melhorar seu ataque.\n\nSe o osso de Gibdo pode ser obtido como recompensa ao se derrotar um Gibdo, com uma probabilidade de 20 %, então a probabilidade de se obter exatamente 1 osso de Gibdo, ao se derrotar 3 Gibdos, é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "38,4 %"
+        },
+        {
+          "letra": "B",
+          "texto": "12,8 %"
+        },
+        {
+          "letra": "C",
+          "texto": "20,0 %"
+        },
+        {
+          "letra": "D",
+          "texto": "60,0 %"
+        },
+        {
+          "letra": "E",
+          "texto": "5,0 %"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Probabilidade",
+        "Matemática – Distribuição Binomial"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "A Zyra, empresa de tecnologia, está em busca de novo funcionário para uma vaga que requer conhecimentos em redes de computadores e programação. Para avaliar os candidatos, a empresa aplicou duas provas: uma de redes de computadores (P1) e outra de programação (P2). O gráfico abaixo apresenta as notas dos candidatos nessas duas provas.\n\nA empresa definiu uma nota de corte, para selecionar os candidatos aptos a serem contratados. Para desempate, a empresa considerará a maior pontuação na prova de redes de computadores como critério. Assim, o candidato a ser contratado para essa vaga é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A"
+        },
+        {
+          "letra": "B",
+          "texto": "F"
+        },
+        {
+          "letra": "C",
+          "texto": "O"
+        },
+        {
+          "letra": "D",
+          "texto": "I"
+        },
+        {
+          "letra": "E",
+          "texto": "J"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Análise de Gráficos"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Um gestor supervisiona a fabricação de três modelos de celulares, denominados Lumina Spectra, NexaEdge X e Zenith Vortex Z7, em uma fábrica de eletrônicos. Cada celular é construído, utilizando diferentes quantidades de metal, plástico e cerâmica.\nA tabela abaixo apresenta a quantidade de cada material necessária para a fabricação de um único celular de cada modelo.\n\nA empresa dispõe de um estoque total de 6 000 g de metal, 4 200 g de plástico e 2 400 g de cerâmica para a produção dos celulares. O gestor deseja determinar quantos celulares de cada modelo devem ser fabricados, para utilizar ao máximo os materiais disponíveis.\n\nO sistema de equações que representa corretamente a situação descrita é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$$\\begin{cases} 100x + 80y + 50z = 6000 \\\\ 50x + 60y + 70z = 4200 \\\\ 20x + 30y + 40z = 2400 \\end{cases}$$"
+        },
+        {
+          "letra": "B",
+          "texto": "$$\\begin{cases} 100x + 50y + 20z = 6000 \\\\ 80x + 60y + 30z = 4200 \\\\ 50x + 70y + 40z = 2400 \\end{cases}$$"
+        },
+        {
+          "letra": "C",
+          "texto": "$$\\begin{cases} 100x = 6000 \\\\ 70y = 4200 \\\\ 40z = 2400 \\end{cases}$$"
+        },
+        {
+          "letra": "D",
+          "texto": "$$\\begin{cases} \\frac{100}{x} + \\frac{80}{y} + \\frac{50}{z} = 6000 \\\\ \\frac{50}{x} + \\frac{60}{y} + \\frac{70}{z} = 4200 \\\\ \\frac{20}{x} + \\frac{30}{y} + \\frac{40}{z} = 2400 \\end{cases}$$"
+        },
+        {
+          "letra": "E",
+          "texto": "$$\\begin{cases} \\frac{100}{x} + \\frac{50}{y} + \\frac{20}{z} = 6000 \\\\ \\frac{80}{x} + \\frac{60}{y} + \\frac{30}{z} = 4200 \\\\ \\frac{50}{x} + \\frac{70}{y} + \\frac{40}{z} = 2400 \\end{cases}$$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Sistemas Lineares"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Uma praça circular possui um coreto localizado próximo ao centro, e o raio dessa praça mede 15 metros. O coreto tem a forma de um hexágono regular, inscrito na circunferência da praça.\nAs figuras abaixo representam a praça com o coreto.\nSe o perímetro do hexágono é igual a 60 metros, a área do coreto, em metros quadrados, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$150\\sqrt{3}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$225\\pi$"
+        },
+        {
+          "letra": "C",
+          "texto": "$25\\sqrt{3}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$75\\sqrt{3}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$100\\pi$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Polígonos"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Calcule $k$, de modo que as raízes da equação $x^2 - 2kx + k^2 + k = 0$ sejam o seno e o cosseno de um mesmo ângulo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{1\\pm\\sqrt{3}}{2}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{1\\pm\\sqrt{2}}{3}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{2\\pm\\sqrt{3}}{2}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{1\\pm\\sqrt{3}}{3}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$1 + \\pm\\sqrt{3}$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Equações do 2º Grau",
+        "Matemática – Trigonometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Dada uma progressão aritmética tal que $a_2 + a_8 = 66$ e $a_3 + a_6 = 62$ determine o primeiro termo $a_1$",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "17"
+        },
+        {
+          "letra": "B",
+          "texto": "41"
+        },
+        {
+          "letra": "C",
+          "texto": "9"
+        },
+        {
+          "letra": "D",
+          "texto": "33"
+        },
+        {
+          "letra": "E",
+          "texto": "29"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Progressão Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Uma amostra de água salgada apresenta 20 % de salinidade. Isso significa que, em 100 gramas da amostra, teremos 20 gramas de sais e 80 gramas de água.\n\nO percentual de água da amostra a ser evaporado, se quisermos obter 40 % de salinidade, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "62,5 %"
+        },
+        {
+          "letra": "B",
+          "texto": "60 %"
+        },
+        {
+          "letra": "C",
+          "texto": "40 %"
+        },
+        {
+          "letra": "D",
+          "texto": "50 %"
+        },
+        {
+          "letra": "E",
+          "texto": "52,5 %"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Porcentagem",
+        "Química – Soluções"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Uma série de diagramas com triângulos é construída, usando palitos de fósforo, como mostrado na figura abaixo.\n\nO número do maior diagrama, que é possível construir com uma caixa de palitos de fósforo que contém 42 palitos, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20"
+        },
+        {
+          "letra": "B",
+          "texto": "19"
+        },
+        {
+          "letra": "C",
+          "texto": "42"
+        },
+        {
+          "letra": "D",
+          "texto": "21"
+        },
+        {
+          "letra": "E",
+          "texto": "22"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Sequências",
+        "Matemática – Progressão Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Seja $O = (0,0)$ a origem do sistema de coordenadas. Determine as coordenadas de um ponto A, no primeiro quadrante, pertencente à mediatriz do segmento de extremos,\n$P = (-\\frac{16}{5}, \\frac{12}{5})$ e $Q = (\\frac{16}{5}, -\\frac{12}{5})$,\ntal que a distância $\\overline{OA} = 10$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A = (6; 8)"
+        },
+        {
+          "letra": "B",
+          "texto": "A = (4; 8)"
+        },
+        {
+          "letra": "C",
+          "texto": "A = (6; 6)"
+        },
+        {
+          "letra": "D",
+          "texto": "A = (2; 8)"
+        },
+        {
+          "letra": "E",
+          "texto": "A = (6; 4)"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Se a expressão $y = ax^2 + bx + 4$, com $x \\in \\mathbb{R}$, assume um valor máximo $y = 16$ no ponto $x = 2$, determine o valor de $a + b$",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9"
+        },
+        {
+          "letra": "B",
+          "texto": "-9"
+        },
+        {
+          "letra": "C",
+          "texto": "15"
+        },
+        {
+          "letra": "D",
+          "texto": "6"
+        },
+        {
+          "letra": "E",
+          "texto": "8"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Função Quadrática"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "As estações de tratamento de águas residuais (ETAR) têm como objetivo tratar águas residuais urbanas ou industriais, de forma que possam ser lançadas posteriormente em meios hídricos, sem que provoquem impactos negativos no meio receptor. Desse tratamento, as lamas de depuração passam por processos para reduzir o teor de umidade, de forma a facilitar o seu manuseamento, transporte e armazenamento.\n\nEm uma das etapas desse processamento, a lama é submetida a um movimento de rotação em alta velocidade, gerando uma força centrífuga cuja resultante é superior à força gravitacional de um corpo em repouso.\n\nÉ possível utilizar esse processo tanto para espessamento quanto para desidratação da lama.\n\nA técnica relatada no texto, que separa a água de componentes da lama, é a mesma utilizada para a separação dos componentes",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "do sangue."
+        },
+        {
+          "letra": "B",
+          "texto": "do álcool hidratado."
+        },
+        {
+          "letra": "C",
+          "texto": "de uma solução de água salobra."
+        },
+        {
+          "letra": "D",
+          "texto": "do ar atmosférico."
+        },
+        {
+          "letra": "E",
+          "texto": "do vinagre."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Separação de Misturas"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Os mecanismos de defesa contra as alterações do pH sanguíneo incluem o respiratório, de ação rápida, e o mecanismo renal, de ação mais lenta e eficaz, apenas para compensar alterações crônicas ou de longa duração.\n\nEsses mecanismos estão associados ao sistema de tamponamento do sangue, indicado pela equação a seguir, que permite que o pH sanguíneo mantenha-se em uma faixa muito específica.\n\n$CO_2 + H_2O \\leftrightarrow H_2CO_3 \\leftrightarrow H^+ + HCO_3^-$\n\nNo entanto, distúrbios podem ocorrer nesses mecanismos, provocando danos aos organismos, como as acidoses respiratória e metabólica.\n\nPara a ocorrência de ambas acidoses, os pulmões e rins contribuem, respectivamente, ao",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reterem dióxido de carbono no sangue e eliminarem o excesso de íon bicarbonato."
+        },
+        {
+          "letra": "B",
+          "texto": "reterem dióxido de carbono e íon bicarbonato no organismo."
+        },
+        {
+          "letra": "C",
+          "texto": "eliminarem dióxido de carbono e íon bicarbonato do organismo."
+        },
+        {
+          "letra": "D",
+          "texto": "eliminarem dióxido de carbono do sangue e reterem excessivamente o íon bicarbonato."
+        },
+        {
+          "letra": "E",
+          "texto": "diminuírem a formação de ácido carbônico no sangue."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Fisiologia Humana",
+        "Química – Equilíbrio Químico"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "O milho pode ser cultivado em diferentes tipos de solo. Entretanto, os rendimentos serão mais elevados nos solos mais profundos, férteis, com boa drenagem e aeração. Com relação à acidez, o milho desenvolve-se melhor em solos fracamente ácidos ou neutros.\n\nPara cultura do milho, um solo com pH próximo de 3,0 precisou passar por uma correção de acidez, utilizando uma substância para proporcionar níveis favoráveis à produção desse vegetal.\n\nA substância utilizada nessa correção foi o",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "carbonato de cálcio ($CaCO_3$)."
+        },
+        {
+          "letra": "B",
+          "texto": "cloreto de sódio (NaCl)."
+        },
+        {
+          "letra": "C",
+          "texto": "nitrato de sódio ($NaNO_3$)."
+        },
+        {
+          "letra": "D",
+          "texto": "brometo de amônio ($NH_4Br$)."
+        },
+        {
+          "letra": "E",
+          "texto": "sulfato de potássio ($K_2SO_4$)."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Funções Inorgânicas",
+        "Química – Acidez e Basicidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "A substância química glifosato, cuja estrutura é indicada a seguir, é um princípio ativo de diversos herbicidas e defensivos agrícolas utilizado no controle de plantas daninhas. Um desses herbicidas apresenta concentração do glifosato 80 % m/m e, para ação contra a planta daninha capim-marmelada, em uma cultura de amora, recomenda-se a aplicação de 0,5 kg do herbicida/hectare de área cultivada.\n\nUm terreno, com as dimensões indicadas na imagem a seguir, possui uma plantação de amora infestada pela erva daninha capim-marmelada.\n\nDados: H: 1,0 g/mol; C: 12,0 g/mol; O: 16,0 g/mol; N: 14,0 g/mol; P: 31,0 g/mol\n\nSabendo que um hectare equivale a $10000 m^2$, aplicando-se a dosagem recomendada do herbicida em questão, a quantidade de matéria de glifosato que será administrada é mais próxima de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,071 mol."
+        },
+        {
+          "letra": "B",
+          "texto": "0,089 mol."
+        },
+        {
+          "letra": "C",
+          "texto": "0,093 mol."
+        },
+        {
+          "letra": "D",
+          "texto": "0,017 mol."
+        },
+        {
+          "letra": "E",
+          "texto": "0,012 mol."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Estequiometria",
+        "Química – Grandezas Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Aspartame é composto orgânico que atua como aditivo alimentar, sendo empregado como substituto do açúcar, em virtude de seu elevado poder de dulçor. Trata-se de uma substância sintética, desenvolvida em 1965 por uma empresa estadunidense e que possui poder adoçante, em massa, 200 vezes superior ao da sacarose ($C_{12}H_{22}O_{11}$).\nA seguir, é representada a fórmula estrutural plana do aspartame.\n\nDado: 1 colher de chá de açúcar contém 4 g de $C_{12}H_{22}O_{11}$\n\nUm consumidor adoça sua xícara de café com duas colheres de chá de açúcar, preparando, assim, uma solução de 250 mL. Para preparar 5 litros de café, preservando o dulçor que lhe é habitual, a massa de aspartame, que apresentaria mesma capacidade adoçante do açúcar (sacarose), é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,8 g."
+        },
+        {
+          "letra": "B",
+          "texto": "32 g."
+        },
+        {
+          "letra": "C",
+          "texto": "160 g."
+        },
+        {
+          "letra": "D",
+          "texto": "16 g."
+        },
+        {
+          "letra": "E",
+          "texto": "0,4 g."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Estequiometria",
+        "Química – Soluções"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Em experimento realizado em temperatura constante, foram monitoradas as concentrações do produto e do reagente envolvidos.\n\nA equação química e os dados obtidos encontram-se representados a seguir.\n\n$R_{(aq)} \\rightarrow 2 P_{(aq)}$\n\nConsidere as afirmações a seguir:\nI. A reação leva 10 segundos para atingir o equilíbrio químico.\nII. A constante de equilíbrio em termos das concentrações ($K_c$) é igual a 2,0.\nIII. A curva em laranja, indicada por (a), está associada ao produto P, ao passo que a curva verde, indicada por (b), está associada ao reagente R.\n\nEstá correto o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "III, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III, apenas."
+        },
+        {
+          "letra": "E",
+          "texto": "I e II, apenas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Cinética Química",
+        "Química – Equilíbrio Químico"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Cuscuta racemosa, conhecida como cipó-chumbo, é uma planta de ocorrência brasileira, de coloração amarelada e que não possui clorofila. Essa espécie, também conhecida como fios-de-ovos e cipó-dourado, apresenta raízes especializadas, chamadas haustórios, sendo capaz de crescer e se estabelecer sobre outras plantas.\n\nA relação ecológica interespecífica do cipó-chumbo e a planta sobre a qual essa espécie se estabelece é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "parasitismo."
+        },
+        {
+          "letra": "B",
+          "texto": "inquilinismo."
+        },
+        {
+          "letra": "C",
+          "texto": "mutualismo."
+        },
+        {
+          "letra": "D",
+          "texto": "comensalismo."
+        },
+        {
+          "letra": "E",
+          "texto": "predação."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Ecologia",
+        "Biologia – Relações Ecológicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Considere a meiose, processo envolvido na formação de gametas, em que são produzidas células haploides a partir de diploides.\n\nA figura a seguir ilustra um fenômeno que ocorre na ocasião do pareamento dos homólogos na meiose.\n\nTrata-se de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "crossing-over, que ocorre na prófase I."
+        },
+        {
+          "letra": "B",
+          "texto": "crossing-over, que ocorre na metáfase I."
+        },
+        {
+          "letra": "C",
+          "texto": "crossing-over, que ocorre na interfase."
+        },
+        {
+          "letra": "D",
+          "texto": "replicação do DNA, que ocorre na prófase I."
+        },
+        {
+          "letra": "E",
+          "texto": "replicação do DNA, que ocorre na interfase."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Citologia",
+        "Biologia – Divisão Celular"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "É fornecida energia em forma de calor a um certo corpo, inicialmente à temperatura de $10 \\degree C$. A energia fornecida em função da temperatura do corpo é registrada no gráfico a seguir.\n\nCaso haja um segundo corpo, também a $10 \\degree C$, com a mesma massa do primeiro e metade do calor específico, é correto afirmar que, ao absorver 80 cal em forma de calor, sua temperatura final será de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$60 \\degree C$"
+        },
+        {
+          "letra": "B",
+          "texto": "$30 \\degree C$"
+        },
+        {
+          "letra": "C",
+          "texto": "$80 \\degree C$"
+        },
+        {
+          "letra": "D",
+          "texto": "$160 \\degree C$"
+        },
+        {
+          "letra": "E",
+          "texto": "$15 \\degree C$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Termologia",
+        "Física – Calorimetria"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Uma pessoa lança um objeto horizontalmente, a 5 m/s, da janela de seu apartamento, localizada a uma altura de 45 m.\n\nAdotando $g = 10 m/s^2$, a distância horizontal que o objeto percorre até tocar o chão é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 m."
+        },
+        {
+          "letra": "B",
+          "texto": "4,5 m."
+        },
+        {
+          "letra": "C",
+          "texto": "9 m."
+        },
+        {
+          "letra": "D",
+          "texto": "15 m."
+        },
+        {
+          "letra": "E",
+          "texto": "50 m."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Cinemática",
+        "Física – Lançamento Horizontal"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Um patinador de 50 kg encontra-se em repouso sobre uma superfície horizontal, quando recebe uma bola de futebol de 0,5 kg a uma velocidade horizontal de 20 m/s.\n\nA velocidade aproximada do conjunto bola + patinador, assumindo que as forças de resistência ao movimento do patinador são desprezíveis, é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,02 m/s."
+        },
+        {
+          "letra": "B",
+          "texto": "0,1 m/s."
+        },
+        {
+          "letra": "C",
+          "texto": "0,2 m/s."
+        },
+        {
+          "letra": "D",
+          "texto": "1 m/s."
+        },
+        {
+          "letra": "E",
+          "texto": "2 m/s."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Dinâmica",
+        "Física – Conservação da Quantidade de Movimento"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Um painel solar, em uma área total de $10 m^2$ e eficiência de 20 %, gera energia utilizada na recarga de um carro elétrico, cuja bateria possui capacidade de 60 kWh.\n\nConsiderando que a incidência solar no local é de $1000 W/m^2$, o tempo para gerar a energia necessária para carregar a bateria é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30 h."
+        },
+        {
+          "letra": "B",
+          "texto": "150 h."
+        },
+        {
+          "letra": "C",
+          "texto": "300 h."
+        },
+        {
+          "letra": "D",
+          "texto": "60 h."
+        },
+        {
+          "letra": "E",
+          "texto": "6 h."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Eletrodinâmica",
+        "Física – Potência Elétrica"
+      ]
+    }
+  ]
+}

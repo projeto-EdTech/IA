@@ -1,0 +1,374 @@
+{
+  "nomeUniversidade": "Universidade do Estado do Amazonas",
+  "siglaUniversidade": "UEA",
+  "nomeProva": "Prova de Conhecimentos Gerais",
+  "ano": 2023,
+  "qtdeQuestoes": 84,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Leia a tirinha.\n\nContribui para o efeito de humor da tirinha",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o emprego do verbo \"arrumar\" no imperativo afirmativo, no primeiro quadrinho."
+        },
+        {
+          "letra": "B",
+          "texto": "o sentido atribuído pela criança ao verbo \"arrumar\", no segundo quadrinho."
+        },
+        {
+          "letra": "C",
+          "texto": "a ironia contida no pedido de desculpas da criança, no terceiro quadrinho."
+        },
+        {
+          "letra": "D",
+          "texto": "a dupla negação na frase da mulher, no segundo quadrinho."
+        },
+        {
+          "letra": "E",
+          "texto": "o uso irônico da palavra \"sim” para indicar forte discordância, no segundo quadrinho."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Ambiguidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Leia o trecho do romance Órfãos do Eldorado, de Milton Hatoum, para responder às questões de 02 a 05.\n\nO gerente [...] me encarou, o rosto tenso, mãos nos bolsos da calça. [...] Meu pai não tinha renovado o seguro do Eldorado, e a empresa ainda devia muito dinheiro ao banco inglês.\nEstiliano não sabia disso?\nEra um assunto do doutor Cordovil. Teu pai não autorizava ninguém a assinar apólices de seguro. Ele ia renovar, mas morreu.\nEntão o gerente continuou: no naufrágio do Eldorado a Companhia Adler tinha perdido oitenta toneladas de borracha e castanha, e movia um processo contra a empresa; as taxas portuárias não haviam sido pagas para a Manaus Harbour... O falatório desastroso me irritou. Eu não sabia de nada; a ignorância era a minha fraqueza. O gerente parou de falar, sentou e apoiou os cotovelos na escrivaninha, os dedos na testa, o olhar de admiração e saudade na fotografia do meu pai. Eu não conseguia encarar Amando, nem na parede. Murmurei: A empresa afundou. Ouvi alguém dizer em voz baixa: Covarde.\nPerguntei ao gerente o que ele estava dizendo.\nPermaneceu mudo, na mesma posição. O retrato do meu pai parecia me desafiar. Covarde. Não serves para nada. Era a voz de Amando Cordovil. As mesmas palavras. Ou minha memória repetia o que eu tinha ouvido tantas vezes? Então naquela manhã fui com o gerente ao banco inglês.\nO empréstimo. Só de pensar, fico agoniado. [...] Senti o mesmo sufoco quando o diretor do banco me mostrou os documentos assinados por Amando. A dívida, uma fortuna. Saí tonto, peguei o bonde para a chácara e esperei Estiliano em Manaus.\nUns dez dias depois ele apareceu. Já sabia de tudo: eu tinha sido ingênuo ou irresponsável. Fui as duas coisas, pensei. Mas fiz questão de dizer que só meu pai fazia a renovação do seguro. Vim antes porque li a notícia do naufrágio nos jornais de Belém, ele disse. E então revelou que estava em Manaus havia uma semana. Não quis perder tempo, prosseguiu. Conversei com o juiz, com os diretores do banco e da Adler.\nExplicou que os dois batelões estavam atracados no Manaus Harbour, confiscados pela justiça. Essas barcaças velhas não valiam muito, mas era possível vendê-las. O que tinha valor era o cargueiro alemão: o Eldorado.\nAcusei o gerente de leviano, podia ter evitado essas dívidas. Estiliano não se alterou: o gerente era uma sombra do meu pai, e uma sombra não podia pensar em tudo. Mas era preciso vender os dois batelões?\nVais ter que vender tudo: esta chácara, o edifício da empresa e o terreno de Flores.\nComo eu ia admitir? Queria casar com Dinaura, viajar com ela.\nVives em outro mundo, disse Estiliano. Se não venderes tudo, podes ser preso. As pequenas companhias de navegação da Amazônia estão falidas. Sai desta chácara e anda pela cidade. Aquela moça arrancou tua cabeça, te deixou sem razão. Cego.\n(Órfãos do Eldorado, 2008.)\n\nNo trecho, Arminto",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "recorre a Estiliano em busca de auxílio para solucionar os problemas financeiros em que a empresa da família se encontrava."
+        },
+        {
+          "letra": "B",
+          "texto": "mostra-se arrependido por ter incumbido Estiliano da administração do navio Eldorado."
+        },
+        {
+          "letra": "C",
+          "texto": "confessa a si mesmo que o relacionamento amoroso com Dinaura o impedira de zelar pelo patrimônio familiar."
+        },
+        {
+          "letra": "D",
+          "texto": "isenta o gerente dos negócios da família pela derrocada financeira dos Cordovil."
+        },
+        {
+          "letra": "E",
+          "texto": "sente-se inconformado porque o Eldorado, navio a que dedicara todo o seu trabalho, naufragara sem a renovação da apólice de seguro."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Leia o trecho do romance Órfãos do Eldorado, de Milton Hatoum, para responder às questões de 02 a 05.\n\nO gerente [...] me encarou, o rosto tenso, mãos nos bolsos da calça. [...] Meu pai não tinha renovado o seguro do Eldorado, e a empresa ainda devia muito dinheiro ao banco inglês.\nEstiliano não sabia disso?\nEra um assunto do doutor Cordovil. Teu pai não autorizava ninguém a assinar apólices de seguro. Ele ia renovar, mas morreu.\nEntão o gerente continuou: no naufrágio do Eldorado a Companhia Adler tinha perdido oitenta toneladas de borracha e castanha, e movia um processo contra a empresa; as taxas portuárias não haviam sido pagas para a Manaus Harbour... O falatório desastroso me irritou. Eu não sabia de nada; a ignorância era a minha fraqueza. O gerente parou de falar, sentou e apoiou os cotovelos na escrivaninha, os dedos na testa, o olhar de admiração e saudade na fotografia do meu pai. Eu não conseguia encarar Amando, nem na parede. Murmurei: A empresa afundou. Ouvi alguém dizer em voz baixa: Covarde.\nPerguntei ao gerente o que ele estava dizendo.\nPermaneceu mudo, na mesma posição. O retrato do meu pai parecia me desafiar. Covarde. Não serves para nada. Era a voz de Amando Cordovil. As mesmas palavras. Ou minha memória repetia o que eu tinha ouvido tantas vezes? Então naquela manhã fui com o gerente ao banco inglês.\nO empréstimo. Só de pensar, fico agoniado. [...] Senti o mesmo sufoco quando o diretor do banco me mostrou os documentos assinados por Amando. A dívida, uma fortuna. Saí tonto, peguei o bonde para a chácara e esperei Estiliano em Manaus.\nUns dez dias depois ele apareceu. Já sabia de tudo: eu tinha sido ingênuo ou irresponsável. Fui as duas coisas, pensei. Mas fiz questão de dizer que só meu pai fazia a renovação do seguro. Vim antes porque li a notícia do naufrágio nos jornais de Belém, ele disse. E então revelou que estava em Manaus havia uma semana. Não quis perder tempo, prosseguiu. Conversei com o juiz, com os diretores do banco e da Adler.\nExplicou que os dois batelões estavam atracados no Manaus Harbour, confiscados pela justiça. Essas barcaças velhas não valiam muito, mas era possível vendê-las. O que tinha valor era o cargueiro alemão: o Eldorado.\nAcusei o gerente de leviano, podia ter evitado essas dívidas. Estiliano não se alterou: o gerente era uma sombra do meu pai, e uma sombra não podia pensar em tudo. Mas era preciso vender os dois batelões?\nVais ter que vender tudo: esta chácara, o edifício da empresa e o terreno de Flores.\nComo eu ia admitir? Queria casar com Dinaura, viajar com ela.\nVives em outro mundo, disse Estiliano. Se não venderes tudo, podes ser preso. As pequenas companhias de navegação da Amazônia estão falidas. Sai desta chácara e anda pela cidade. Aquela moça arrancou tua cabeça, te deixou sem razão. Cego.\n(Órfãos do Eldorado, 2008.)\n\nA figura do pai, embora já morto, produz em Arminto um sentimento de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "indiferença."
+        },
+        {
+          "letra": "B",
+          "texto": "orgulho."
+        },
+        {
+          "letra": "C",
+          "texto": "gratidão."
+        },
+        {
+          "letra": "D",
+          "texto": "compaixão."
+        },
+        {
+          "letra": "E",
+          "texto": "inferioridade."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Leia o trecho do romance Órfãos do Eldorado, de Milton Hatoum, para responder às questões de 02 a 05.\n\nO gerente [...] me encarou, o rosto tenso, mãos nos bolsos da calça. [...] Meu pai não tinha renovado o seguro do Eldorado, e a empresa ainda devia muito dinheiro ao banco inglês.\nEstiliano não sabia disso?\nEra um assunto do doutor Cordovil. Teu pai não autorizava ninguém a assinar apólices de seguro. Ele ia renovar, mas morreu.\nEntão o gerente continuou: no naufrágio do Eldorado a Companhia Adler tinha perdido oitenta toneladas de borracha e castanha, e movia um processo contra a empresa; as taxas portuárias não haviam sido pagas para a Manaus Harbour... O falatório desastroso me irritou. Eu não sabia de nada; a ignorância era a minha fraqueza. O gerente parou de falar, sentou e apoiou os cotovelos na escrivaninha, os dedos na testa, o olhar de admiração e saudade na fotografia do meu pai. Eu não conseguia encarar Amando, nem na parede. Murmurei: A empresa afundou. Ouvi alguém dizer em voz baixa: Covarde.\nPerguntei ao gerente o que ele estava dizendo.\nPermaneceu mudo, na mesma posição. O retrato do meu pai parecia me desafiar. Covarde. Não serves para nada. Era a voz de Amando Cordovil. As mesmas palavras. Ou minha memória repetia o que eu tinha ouvido tantas vezes? Então naquela manhã fui com o gerente ao banco inglês.\nO empréstimo. Só de pensar, fico agoniado. [...] Senti o mesmo sufoco quando o diretor do banco me mostrou os documentos assinados por Amando. A dívida, uma fortuna. Saí tonto, peguei o bonde para a chácara e esperei Estiliano em Manaus.\nUns dez dias depois ele apareceu. Já sabia de tudo: eu tinha sido ingênuo ou irresponsável. Fui as duas coisas, pensei. Mas fiz questão de dizer que só meu pai fazia a renovação do seguro. Vim antes porque li a notícia do naufrágio nos jornais de Belém, ele disse. E então revelou que estava em Manaus havia uma semana. Não quis perder tempo, prosseguiu. Conversei com o juiz, com os diretores do banco e da Adler.\nExplicou que os dois batelões estavam atracados no Manaus Harbour, confiscados pela justiça. Essas barcaças velhas não valiam muito, mas era possível vendê-las. O que tinha valor era o cargueiro alemão: o Eldorado.\nAcusei o gerente de leviano, podia ter evitado essas dívidas. Estiliano não se alterou: o gerente era uma sombra do meu pai, e uma sombra não podia pensar em tudo. Mas era preciso vender os dois batelões?\nVais ter que vender tudo: esta chácara, o edifício da empresa e o terreno de Flores.\nComo eu ia admitir? Queria casar com Dinaura, viajar com ela.\nVives em outro mundo, disse Estiliano. Se não venderes tudo, podes ser preso. As pequenas companhias de navegação da Amazônia estão falidas. Sai desta chácara e anda pela cidade. Aquela moça arrancou tua cabeça, te deixou sem razão. Cego.\n(Órfãos do Eldorado, 2008.)\n\nA vírgula foi empregada para demarcar a elipse de um verbo em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Ele ia renovar, mas morreu\" (3º parágrafo)."
+        },
+        {
+          "letra": "B",
+          "texto": "\"A dívida, uma fortuna\" (7º parágrafo)."
+        },
+        {
+          "letra": "C",
+          "texto": "“Eu não conseguia encarar Amando, nem na parede\" (4º parágrafo)."
+        },
+        {
+          "letra": "D",
+          "texto": "\"Só de pensar, fico agoniado\" (7º parágrafo)."
+        },
+        {
+          "letra": "E",
+          "texto": "\"Permaneceu mudo, na mesma posição” (6º parágrafo)."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Pontuação"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Leia o trecho do romance Órfãos do Eldorado, de Milton Hatoum, para responder às questões de 02 a 05.\n\nO gerente [...] me encarou, o rosto tenso, mãos nos bolsos da calça. [...] Meu pai não tinha renovado o seguro do Eldorado, e a empresa ainda devia muito dinheiro ao banco inglês.\nEstiliano não sabia disso?\nEra um assunto do doutor Cordovil. Teu pai não autorizava ninguém a assinar apólices de seguro. Ele ia renovar, mas morreu.\nEntão o gerente continuou: no naufrágio do Eldorado a Companhia Adler tinha perdido oitenta toneladas de borracha e castanha, e movia um processo contra a empresa; as taxas portuárias não haviam sido pagas para a Manaus Harbour... O falatório desastroso me irritou. Eu não sabia de nada; a ignorância era a minha fraqueza. O gerente parou de falar, sentou e apoiou os cotovelos na escrivaninha, os dedos na testa, o olhar de admiração e saudade na fotografia do meu pai. Eu não conseguia encarar Amando, nem na parede. Murmurei: A empresa afundou. Ouvi alguém dizer em voz baixa: Covarde.\nPerguntei ao gerente o que ele estava dizendo.\nPermaneceu mudo, na mesma posição. O retrato do meu pai parecia me desafiar. Covarde. Não serves para nada. Era a voz de Amando Cordovil. As mesmas palavras. Ou minha memória repetia o que eu tinha ouvido tantas vezes? Então naquela manhã fui com o gerente ao banco inglês.\nO empréstimo. Só de pensar, fico agoniado. [...] Senti o mesmo sufoco quando o diretor do banco me mostrou os documentos assinados por Amando. A dívida, uma fortuna. Saí tonto, peguei o bonde para a chácara e esperei Estiliano em Manaus.\nUns dez dias depois ele apareceu. Já sabia de tudo: eu tinha sido ingênuo ou irresponsável. Fui as duas coisas, pensei. Mas fiz questão de dizer que só meu pai fazia a renovação do seguro. Vim antes porque li a notícia do naufrágio nos jornais de Belém, ele disse. E então revelou que estava em Manaus havia uma semana. Não quis perder tempo, prosseguiu. Conversei com o juiz, com os diretores do banco e da Adler.\nExplicou que os dois batelões estavam atracados no Manaus Harbour, confiscados pela justiça. Essas barcaças velhas não valiam muito, mas era possível vendê-las. O que tinha valor era o cargueiro alemão: o Eldorado.\nAcusei o gerente de leviano, podia ter evitado essas dívidas. Estiliano não se alterou: o gerente era uma sombra do meu pai, e uma sombra não podia pensar em tudo. Mas era preciso vender os dois batelões?\nVais ter que vender tudo: esta chácara, o edifício da empresa e o terreno de Flores.\nComo eu ia admitir? Queria casar com Dinaura, viajar com ela.\nVives em outro mundo, disse Estiliano. Se não venderes tudo, podes ser preso. As pequenas companhias de navegação da Amazônia estão falidas. Sai desta chácara e anda pela cidade. Aquela moça arrancou tua cabeça, te deixou sem razão. Cego.\n(Órfãos do Eldorado, 2008.)\n\nA palavra empregada em sentido figurado está sublinhada em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“Se não venderes tudo, podes ser preso\" (13º parágrafo)."
+        },
+        {
+          "letra": "B",
+          "texto": "\"Vais ter que vender tudo: esta chácara, o edifício da empresa e o terreno de Flores\" (11º parágrafo)."
+        },
+        {
+          "letra": "C",
+          "texto": "\"Já sabia de tudo: eu tinha sido ingênuo ou irresponsável” (8º parágrafo)."
+        },
+        {
+          "letra": "D",
+          "texto": "\"Estiliano não se alterou: o gerente era uma sombra do meu pai\" (10º parágrafo)."
+        },
+        {
+          "letra": "E",
+          "texto": "\"As pequenas companhias de navegação da Amazônia estão falidas\" (13º parágrafo)."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Leia o trecho do artigo de João de Jesus Paes Loureiro para responder às questões 06 e 07.\n\nA cultura amazônica é uma rara reminiscência de cultura mítica marcada pela dominante poética do imaginário. Original cultura mítica sobrevivente neste terceiro milênio, onde ainda se constata uma incessante produção de narrativas fabulosas na oralidade que caracteriza a sociedade regional amazônica. São os deuses de uma teogonia¹ cotidiana e operativa. Para abrigá-los, os caboclos ribeirinhos inventaram uma singular paisagem ideal, um lugar ameno situado no fundo dos rios ou nas brenhas das florestas. Trata-se das encantarias, lugar onde moram os seres encantados, os deuses e personagens do imaginário amazônico, decorrente do fertilíssimo devaneio do homem do lugar, diante do correr das águas doces de seus rios. A convivência cotidiana com seres fabulosos de seu imaginário passa a condicionar um sentido contemplativo de beleza na convivência dessa relação dos homens entre si e deles com a natureza.\n(João de Jesus Paes Loureiro. www.amazonialatitude.com. Adaptado.)\n¹ teogonia: conjunto de deuses que constituem a mitologia de um povo.\n\n\"Para abrigá-los, os caboclos ribeirinhos inventaram uma singular paisagem ideal, um lugar ameno situado no fundo dos rios ou nas brenhas das florestas.\"\nA referência a um lugar ameno (em latim, locus amoenus) aproxima as narrativas produzidas pelo imaginário amazônico da estética",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "simbolista."
+        },
+        {
+          "letra": "B",
+          "texto": "barroca."
+        },
+        {
+          "letra": "C",
+          "texto": "naturalista."
+        },
+        {
+          "letra": "D",
+          "texto": "parnasiana."
+        },
+        {
+          "letra": "E",
+          "texto": "árcade."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Literatura",
+        "Língua Portuguesa – Escolas Literárias"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Leia o trecho do artigo de João de Jesus Paes Loureiro para responder às questões 06 e 07.\n\nA cultura amazônica é uma rara reminiscência de cultura mítica marcada pela dominante poética do imaginário. Original cultura mítica sobrevivente neste terceiro milênio, onde ainda se constata uma incessante produção de narrativas fabulosas na oralidade que caracteriza a sociedade regional amazônica. São os deuses de uma teogonia¹ cotidiana e operativa. Para abrigá-los, os caboclos ribeirinhos inventaram uma singular paisagem ideal, um lugar ameno situado no fundo dos rios ou nas brenhas das florestas. Trata-se das encantarias, lugar onde moram os seres encantados, os deuses e personagens do imaginário amazônico, decorrente do fertilíssimo devaneio do homem do lugar, diante do correr das águas doces de seus rios. A convivência cotidiana com seres fabulosos de seu imaginário passa a condicionar um sentido contemplativo de beleza na convivência dessa relação dos homens entre si e deles com a natureza.\n(João de Jesus Paes Loureiro. www.amazonialatitude.com. Adaptado.)\n¹ teogonia: conjunto de deuses que constituem a mitologia de um povo.\n\n\"A cultura amazônica é uma rara reminiscência de cultura mítica marcada pela dominante poética do imaginário.\"\nA palavra \"reminiscência” pode ser substituída, sem prejuízo para o sentido do texto, por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "exaltação."
+        },
+        {
+          "letra": "B",
+          "texto": "propagação."
+        },
+        {
+          "letra": "C",
+          "texto": "recordação."
+        },
+        {
+          "letra": "D",
+          "texto": "exibição."
+        },
+        {
+          "letra": "E",
+          "texto": "supressão."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Sinonímia"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Observe a obra de arte Meteoro, de Bruno Giorgi.\n\nConstruída entre 1967 e 1968, essa escultura está localizada em frente ao Palácio do Itamaraty, no espelho d'água do edifício do Ministério das Relações Exteriores, em Brasília, e é composta de cinco blocos de mármore de Carrara, cada um representando um continente.\n\nO Ministério das Relações Exteriores (ou Itamaraty) é \"responsável, entre outros, pelas relações internacionais do Brasil, nos planos bilateral, regional e multilateral. O Itamaraty assessora o Presidente da República na execução das relações diplomáticas com Estados e organismos internacionais\".\n(www.gov.br. Adaptado.)\n\nInfere-se das características da escultura Meteoro que ela faz referência a um dos ideais das relações diplomáticas, qual seja, o de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "afirmar a soberania de uma nação sobre outra."
+        },
+        {
+          "letra": "B",
+          "texto": "ostentar o poderio bélico nacional."
+        },
+        {
+          "letra": "C",
+          "texto": "promover a interação entre os povos."
+        },
+        {
+          "letra": "D",
+          "texto": "preservar o patrimônio imaterial da humanidade."
+        },
+        {
+          "letra": "E",
+          "texto": "aprimorar os regimes democráticos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Arte – Escultura Moderna no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Leia o texto para responder às questões 09 e 10.\n\nIf you are in a major city anywhere in the world, it is probably quite easy to grab a cheap hamburger from a nearby fast-food restaurant. But what you may not realize is that the meat in that cheap burger can actually illustrate a grand narrative about how humans have shaped the planet. From the land used to raise cattle for beef consumption, to the water used to feed those cattle, to the fuel used to transport the beef all over the world, the human progress that enables us to easily buy a burger – and, for that matter, hop on a plane, charge our phones, and take part in the multitude of activities that make up our everyday experiences – has changed the biosphere.\n(Lori Dajose. www.caltech.edu, 03.08.2022.)\n\nDe acordo com o texto,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o aumento no preço dos combustíveis influencia diretamente o preço da carne."
+        },
+        {
+          "letra": "B",
+          "texto": "o consumo de carne vermelha é prejudicial à saúde e ao meio ambiente."
+        },
+        {
+          "letra": "C",
+          "texto": "a agropecuária é a atividade que mais consome água no mundo."
+        },
+        {
+          "letra": "D",
+          "texto": "situações corriqueiras impactam o planeta de forma significativa."
+        },
+        {
+          "letra": "E",
+          "texto": "restaurantes fast-food são um dos maiores produtores de lixo nas grandes cidades."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Leia o texto para responder às questões 09 e 10.\n\nIf you are in a major city anywhere in the world, it is probably quite easy to grab a cheap hamburger from a nearby fast-food restaurant. But what you may not realize is that the meat in that cheap burger can actually illustrate a grand narrative about how humans have shaped the planet. From the land used to raise cattle for beef consumption, to the water used to feed those cattle, to the fuel used to transport the beef all over the world, the human progress that enables us to easily buy a burger – and, for that matter, hop on a plane, charge our phones, and take part in the multitude of activities that make up our everyday experiences – has changed the biosphere.\n(Lori Dajose. www.caltech.edu, 03.08.2022.)\n\nNo trecho \"the human progress that enables us to easily buy a burger\", o termo sublinhado equivale, em português, a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "protege."
+        },
+        {
+          "letra": "B",
+          "texto": "possibilita."
+        },
+        {
+          "letra": "C",
+          "texto": "proíbe."
+        },
+        {
+          "letra": "D",
+          "texto": "confunde."
+        },
+        {
+          "letra": "E",
+          "texto": "atrapalha."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Leia o texto para responder às questões 11 e 12.\n\nMichigan State University’s Quick Check\n\n1. Check the website name and domain: Fake sites often have a “.co” in the domain.\n2. Spelling & Grammar: Are there multiple errors or does the site look professionally edited?\n3. Author Attribution: Is an author listed? Are there links to their profile and credentials? Anonymous articles generally should be avoided.\n4. Emotional Manipulation: Do you feel emotions by simply reading the headline?\n5. Statement of Ethics: Most reputable news sites have a Statement of Ethics.\n6. Corrections: Again, reputable sites have a Corrections section or policy.\n7. Named Sources, Studies etc.: Does the article name a source or study for its information?\n8. Identify Editorials vs News: Reputable news sources clearly identify editorials, which as we know are just someone’s opinion.\n9. Check A Reporter’s Body of Work: Does the reporter have a large body of work? Do they generally cover the same topic(s), or do the topics seem to be random or inconsistent?\n10. Verify Information Using Multiple Sources: This is a good habit for all research. Make sure you can find more than one reputable source reporting the same information.\n(www.libguides.valenciacollege.edu, 04.08.2022. Adaptado.)\n\nThe purpose of the text is to",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "provide a guideline on how to identify misleading information or fake news."
+        },
+        {
+          "letra": "B",
+          "texto": "present multiple examples of viral fake news."
+        },
+        {
+          "letra": "C",
+          "texto": "point out reliable newspaper resources for academic use."
+        },
+        {
+          "letra": "D",
+          "texto": "demonstrate how fake news can manipulate people’s emotions."
+        },
+        {
+          "letra": "E",
+          "texto": "inform the desired structure and methodology of the university’s research papers."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Leia o texto para responder às questões 11 e 12.\n\nMichigan State University’s Quick Check\n\n1. Check the website name and domain: Fake sites often have a “.co” in the domain.\n2. Spelling & Grammar: Are there multiple errors or does the site look professionally edited?\n3. Author Attribution: Is an author listed? Are there links to their profile and credentials? Anonymous articles generally should be avoided.\n4. Emotional Manipulation: Do you feel emotions by simply reading the headline?\n5. Statement of Ethics: Most reputable news sites have a Statement of Ethics.\n6. Corrections: Again, reputable sites have a Corrections section or policy.\n7. Named Sources, Studies etc.: Does the article name a source or study for its information?\n8. Identify Editorials vs News: Reputable news sources clearly identify editorials, which as we know are just someone’s opinion.\n9. Check A Reporter’s Body of Work: Does the reporter have a large body of work? Do they generally cover the same topic(s), or do the topics seem to be random or inconsistent?\n10. Verify Information Using Multiple Sources: This is a good habit for all research. Make sure you can find more than one reputable source reporting the same information.\n(www.libguides.valenciacollege.edu, 04.08.2022. Adaptado.)\n\nIn the excerpt from the third item \"Anonymous articles generally should be avoided\", the underlined term is used to",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "introduce a reason."
+        },
+        {
+          "letra": "B",
+          "texto": "give a suggestion."
+        },
+        {
+          "letra": "C",
+          "texto": "make a request."
+        },
+        {
+          "letra": "D",
+          "texto": "indicate obligation."
+        },
+        {
+          "letra": "E",
+          "texto": "express regret."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Gramática",
+        "Inglês – Modal Verbs"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,620 @@
+{
+  "nomeUniversidade": "Universidade de Fortaleza",
+  "siglaUniversidade": "Unifor",
+  "nomeProva": "Processo Seletivo 2025.2",
+  "ano": 2025,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "A Páscoa é uma celebração religiosa que possui significados diferentes nas tradições cristã e judaica. Para os cristãos, a Páscoa comemora a ressurreição de Jesus Cristo, ocorrida no terceiro dia após sua crucificação. É a festa mais importante do calendário cristão, simbolizando a vitória da vida sobre a morte e a esperança de salvação. Algumas tradições populares são: troca de ovos de chocolate, simbolizando a vida nova, brincadeiras com coelhos e ovos para crianças e almoços em família com pratos tradicionais.\n\nCom a chegada da Páscoa, o dono de uma loja de chocolates decidiu fazer uma reforma na decoração da loja para atrair mais clientes. Ele contratou três decoradores e pagou R$ 2.520,00 pela execução conjunta da decoração. Um dos decoradores trabalhou 3 dias; o outro, 6 dias; e o terceiro, 8 dias. Os decoradores tinham, respectively, 20, 24 e 25 anos de experiência em decorações. Eles haviam combinado repartir, entre si, a remuneração total em partes diretamente proporcionais ao tempo de trabalho de cada um e inversamente proporcionais ao tempo de experiências.\n\nCom base na situação apresentada, qual é a diferença das quantias recebidas pelo decorador com mais tempo de experiência e pelo decorador com menos tempo de experiência?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 245,00"
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 350,00"
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 480,00"
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 595,00"
+        },
+        {
+          "letra": "E",
+          "texto": "R$ 670,00"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Razão e Proporção"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Nos últimos anos, a corrida de rua tem ganhado cada vez mais popularidade no Brasil. Esse crescimento também é evidente em Fortaleza, onde eventos esportivos vêm transformando as avenidas da cidade em espaços de prática de exercícios, convivência social e promoção da saúde. As provas variam de trajetos curtos, como os de 5 km, até maratonas completas de 42 km, atraindo participantes de diferentes idades que buscam qualidade de vida e superação pessoal.\n\nUma equipe responsável pela organização desses eventos em Fortaleza dispõe de 1.200 cones de sinalização. No entanto, 15% desse total estão danificados. Os demais cones foram destinados aos percursos A, B e C, ou acabaram sendo perdidos durante o transporte.\n\nSabe-se que:\n\n• A soma dos cones utilizados nos percursos B e C corresponde ao triplo da quantidade utilizada no percurso A;\n• O percurso B utiliza o dobro de cones que o percurso C;\n• A diferença entre o número de cones nos percursos B e A é de 250 cones.\n\nCom base nessas informações, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O número de cones danificados é superior a 200."
+        },
+        {
+          "letra": "B",
+          "texto": "Os percursos A e C utilizam a mesma quantidade de cones."
+        },
+        {
+          "letra": "C",
+          "texto": "O número de cones perdidos é exatamente 60."
+        },
+        {
+          "letra": "D",
+          "texto": "A soma dos cones nos percursos A, B e C é de 1.020 cones."
+        },
+        {
+          "letra": "E",
+          "texto": "O percurso C utiliza 200 cones a menos que o percurso A."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Sistema de Equações do 1º grau",
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Durante certos meses do ano, o acesso à saúde pública pode ser comprometido por fatores ambientais que afetam a coletividade, exigindo a atuação do poder público na garantia de direitos fundamentais, como o direito à saúde e ao meio ambiente equilibrado, previstos na Constituição Federal. Em determinadas regiões, especialmente no inverno, a concentração de poluentes na atmosfera aumenta significativamente, o que implica maior demanda por serviços de saúde pública e reforça o papel do Ministério Público e da Defensoria na fiscalização e na promoção de políticas públicas.\n\nConsidere a seguinte equação:\n\n$$N(t) = 200 - 40 \\sin(\\frac{\\pi}{4}(t-1))$$\n\nN representa o número de pessoas com doenças respiratórias registradas mensalmente em um Centro de Saúde vinculado ao Sistema Único de Saúde (SUS), sendo t = 1 o mês de janeiro, t = 2 fevereiro, e assim por diante.\n\nCom base nessa função, qual é a soma do número de pessoas com doenças respiratórias registrada nos meses de janeiro, março, maio, julho e setembro?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "800"
+        },
+        {
+          "letra": "B",
+          "texto": "960"
+        },
+        {
+          "letra": "C",
+          "texto": "1.000"
+        },
+        {
+          "letra": "D",
+          "texto": "1.100"
+        },
+        {
+          "letra": "E",
+          "texto": "1.500"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Funções Trigonométricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "A praça do Artista do shopping Iguatemi Bosque, no dia 30 de abril do ano de 2025, foi palco do encerramento da Semana de Moda da Unifor (MUDE) com um desfile exclusivo. O MUDE é mais do que um evento de moda, é um espaço de expressão, experimentação e construção de identidade. A cada edição, a Universidade de Fortaleza (Unifor) desafia seus alunos a explorarem conceitos que exploram a criação e a autenticidade no universo da moda. Na edição de 2025.1, o tema é Singular, um convite para celebrar aquilo que nos torna únicos. Ser Singular é escapar de um padrão homogêneo de representação. É reconhecer a individualidade como potência criativa, valorizando a essência que diferencia cada um de nós, em rede.\n\nSuponha que, durante o desfile de moda promovido pela universidade, foi realizada uma pesquisa de opinião com o público presente para saber sobre o interesse nas três principais categorias de peças apresentadas: vestidos, conjuntos e acessórios. Os dados obtidos foram os seguintes:\n\n• 40% dos entrevistados demonstraram interesse por vestidos;\n• 55% demonstraram interesse por conjuntos;\n• 35% demonstraram interesse por acessórios;\n• 12% demonstraram interesse tanto por vestidos quanto por conjuntos;\n• 15% demonstraram interesse por vestidos e acessórios;\n• 19% demonstraram interesse por conjuntos e acessórios;\n• 7% demonstraram interesse pelas três categorias;\n• 135 pessoas afirmaram não ter se interessado por nenhuma das três categorias.\n\nCom base nesses dados, qual foi o número total de pessoas entrevistadas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "800"
+        },
+        {
+          "letra": "B",
+          "texto": "950"
+        },
+        {
+          "letra": "C",
+          "texto": "1.200"
+        },
+        {
+          "letra": "D",
+          "texto": "1.350"
+        },
+        {
+          "letra": "E",
+          "texto": "1.500"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Teoria dos Conjuntos"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Todos os sábados, das 7h às 9h, o campo society da Universidade de Fortaleza se transforma no ponto de encontro do \"Racha dos Professores\".\n\nA atividade, promovida pela Divisão de Atividades Desportivas (DAD) da Vice-Reitoria de Extensão e Comunidade Universitária (VIREX), tem como objetivo incentivar os docentes a praticarem esportes, promovendo saúde física e mental, além de fortalecer o convívio entre colegas.\n\nEm um determinado sábado, 19 professores compareceram ao racha. Foram formados dois times, A e B. Sabe-se que:\n\n• Todos os professores jogaram em pelo menos um dos dois times;\n• 40% dos que jogaram no time A também jogaram no time B;\n• 60% dos que jogaram no time B também jogaram no time A.\n\nCom base nessas informações, quantos professores jogaram nos dois times?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "4"
+        },
+        {
+          "letra": "C",
+          "texto": "5"
+        },
+        {
+          "letra": "D",
+          "texto": "6"
+        },
+        {
+          "letra": "E",
+          "texto": "7"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Teoria dos Conjuntos"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Em comemoração ao centenário de nascimento do empresário Edson Queiroz, o Instituto Myra Eliane preparou uma programação especial ao longo de 2025. Visionário e um dos principais nomes do empresariado cearense no século XX, Edson Queiroz deixou um legado marcante para a educação, a cultura e o desenvolvimento socioeconômico do estado. As homenagens incluem eventos culturais, esportivos e educativos realizados no Memorial Edson Queiroz, em Cascavel, no Espaço Cultural Arandu e no Centro de Formação Profissional Yolanda e Edson Queiroz (Cenfor), ambos localizados em Caucaia.\n\nConsidere que, como parte dessa programação comemorativa, a Fundação Edson Queiroz organizou uma visita dos colaboradores da Universidade de Fortaleza (UNIFOR) ao Memorial Edson Queiroz. A visita ocorreu no dia 7 de maio e, para o transporte, foi contratado um ônibus com capacidade para 40 passageiros.\n\nA empresa de transporte contratada estipulou a seguinte política de cobrança: se os 40 lugares forem ocupados, o custo por passageiro é de R$ 60,00. No entanto, para cada lugar não ocupado, há um acréscimo de R$ 10,00 no valor cobrado de cada passageiro presente.\n\nCom base nessas informações, qual seria o número de passageiros necessário para que a empresa recebesse o maior valor possível?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10"
+        },
+        {
+          "letra": "B",
+          "texto": "13"
+        },
+        {
+          "letra": "C",
+          "texto": "17"
+        },
+        {
+          "letra": "D",
+          "texto": "23"
+        },
+        {
+          "letra": "E",
+          "texto": "30"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Funções do 2º grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "O exame de idade óssea é amplamente utilizado para avaliar o grau de maturação dos ossos, especialmente em crianças e adolescentes. Ele auxilia médicos a verificarem se o crescimento corporal está dentro do esperado e quanto tempo de crescimento ainda pode ocorrer.\n\nO procedimento mais comum envolve a realização de um raio-X da mão e do punho esquerdos, cujas imagens são comparadas com tabelas padronizadas, como o atlas de Greulich e Pyle. Dessa forma, é possível estimar a chamada \"idade óssea\" e compará-la com a idade cronológica do paciente.\n\nBuscando tornar esse processo mais rápido e preciso, pesquisadores do TEC Unifor criaram o Doctor Bone – um aplicativo que utiliza inteligência artificial para analisar imagens radiográficas e identificar automaticamente a idade óssea por meio de reconhecimento de padrões. O projeto é coordenado pelo Vortex e pelo Núcleo de Pesquisa em Energia e Materiais (Nupem), com a colaboração de alunos dos cursos de Análise e Desenvolvimento de Sistemas e Ciência da Computação da Unifor.\n\nEm um hospital, o tempo médio necessário para se obter o diagnóstico da idade óssea por meio dos métodos convencionais é de 18 minutos por paciente. Com a implementação do Doctor Bone, esse tempo foi reduzido em 60%. Em determinado dia, 45 pacientes realizaram o exame de idade óssea nesse hospital. Qual foi a economia total de tempo, em horas, proporcionada pelo uso do Doctor Bone em comparação ao método convencional?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4,5"
+        },
+        {
+          "letra": "B",
+          "texto": "6,3"
+        },
+        {
+          "letra": "C",
+          "texto": "8,1"
+        },
+        {
+          "letra": "D",
+          "texto": "9,2"
+        },
+        {
+          "letra": "E",
+          "texto": "10,4"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Porcentagem",
+        "Matemática – Grandezas e Medidas"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Um arquiteto está desenvolvendo o projeto de uma cobertura escultórica para um pavilhão, utilizando formas geométricas elementares. A estrutura principal será formada por um cone de revolução com altura H, apoiado sobre uma base circular de raio R situada no solo. No interior desse cone, será instalada uma cúpula esférica de vidro, perfeitamente inscrita, ou seja, a esfera é tangente à base e à superfície lateral interna do cone, tendo raio r. Para proteger essa cúpula, será projetado um cilindro metálico que a circunscreve, de modo que uma de suas bases também esteja apoiada na base do cone.\n\nSejam $V_1$ o volume do cone e $V_2$ o volume do cilindro, nessas condições, o valor da constante k tal que $V_1 = k \\cdot V_2$ é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{R^2 \\cdot H}{6 \\cdot r^3}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{2 \\cdot R^2 \\cdot H}{3 \\cdot r^2}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{R^3 \\cdot H}{3 \\cdot r^2}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{5 \\cdot R^2 \\cdot H}{2 \\cdot r^3}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{R^3 \\cdot H}{6 \\cdot r^2}$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "A figura a seguir mostra um portal em uma praça de uma certa cidade cearense.\n\nO portal foi construído posicionando um semicírculo sobre uma estrutura retangular. A estrutura retangular tem 4 m de largura e 5 m de altura. A parte mais alta do portal está a 7 m da base. Para ajudar na sustentação do portal, foram colocadas duas colunas: uma ligando o ponto A ao ponto B e outra ligando o ponto C ao ponto D, distando cada uma 1 m das laterais da estrutura retangular. Considerando $\\sqrt{3} = 1,7$, a soma das alturas dessas colunas é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9,4 m."
+        },
+        {
+          "letra": "B",
+          "texto": "11,4 m."
+        },
+        {
+          "letra": "C",
+          "texto": "12,4 m."
+        },
+        {
+          "letra": "D",
+          "texto": "13,4 m."
+        },
+        {
+          "letra": "E",
+          "texto": "14 m."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Equação da Circunferência"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Uma cooperativa de táxi cobra o valor fixo de R$5,00 pela bandeirada mais R$4,25 por quilômetro rodado. Das 20h até às 06h do dia seguinte, de segunda à sábado, domingos e feriados (o dia todo) é cobrada bandeira 2, onde há um acréscimo de 30% pelo valor do quilômetro rodado. Ana pega um táxi dessa cooperativa de segunda à sexta-feira, após sair do trabalho. Na segunda, na quarta e na sexta-feira, ela pega o táxi às 18h e chega em casa às 19h. Na terça e na quinta-feira, ela pega o táxi às 20:30h e chega em casa às 21:10h. A distância percorrida pelo táxi do trabalho até a casa dela é de 20 km. O valor pago por ela ao final de uma semana por essas viagens de táxi é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 386,00"
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 425,00"
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 481,00"
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 501,00"
+        },
+        {
+          "letra": "E",
+          "texto": "R$ 523,00"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Funções do 1º grau",
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Uma família decidiu instalar painéis solares para reduzir sua conta de energia. Os painéis escolhidos geram, em média, 28 kWh por dia e custavam R$ 16.000,00, já com instalação. Sabendo que o kWh custa R$ 0,95 na região, em quantos meses, aproximadamente, o investimento se paga, desconsiderando manutenção e variações?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20"
+        },
+        {
+          "letra": "B",
+          "texto": "25"
+        },
+        {
+          "letra": "C",
+          "texto": "30"
+        },
+        {
+          "letra": "D",
+          "texto": "35"
+        },
+        {
+          "letra": "E",
+          "texto": "40"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Aritmética",
+        "Matemática – Grandezas e Medidas"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "O gráfico a seguir mostra a porcentagem da população que vivia abaixo da linha da pobreza no Brasil no período de 1981 a 2022.\n\nDisponível em: http://ourworldindata.org/poverty. Acesso em: 13 Maio 2025.\n\nNesse período, o maior percentual foi atingido em 1983 quando atingiu 30,58% da população brasileira e o menor foi em 2020, quando era apenas 1,95% da população. A população brasileira em 1983 era de 129,8 milhões e, em 2020, era de 208,7 milhões de pessoas. A partir desses dados, é correto concluir que a quantidade de pessoas que viviam abaixo da linha da pobreza",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "em 1983 era, aproximadamente, 15 vezes a quantidade daquelas que viviam nessa faixa em 2020."
+        },
+        {
+          "letra": "B",
+          "texto": "em 1983 era, aproximadamente, 9,75 vezes a quantidade daquelas que viviam nessa faixa em 2020."
+        },
+        {
+          "letra": "C",
+          "texto": "em 1983 era, aproximadamente, 5,45 vezes a quantidade daquelas que viviam nessa faixa em 2020."
+        },
+        {
+          "letra": "D",
+          "texto": "em 2020 era, aproximadamente, um terço da quantidade daquelas que viviam nessa faixa em 1983."
+        },
+        {
+          "letra": "E",
+          "texto": "em 2020 era, aproximadamente, um sexto da quantidade daquelas que viviam nessa faixa em 1983."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Porcentagem",
+        "Matemática – Razão e Proporção"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Colhendo a água da noite no Atacama\n\nA cidade chilena de Alto Hospício, a 600 metros acima do nível do mar, no deserto de Atacama, é uma das áreas mais secas do mundo. Ali chove menos de 1 milímetro por ano. A água provém principalmente de rochas porosas do subsolo, mas está emergindo outra forma de obtê-la: colhendo-a da neblina que se forma à noite e de manhãzinha, com um painel suspenso por dois postes; as gotas se acumulam na malha da superfície vertical e caem numa calha até os tanques de armazenamento. Projetados por pesquisadores das universidades Mayor e Católica, ambas no Chile, os painéis foram testados durante um ano e meio em altitudes maiores, fora dos limites da cidade. Retiveram diariamente entre 0,2 e 5 litros por metro quadrado ($L/m^2$), o que seria água suficiente para beber, para a irrigação e a produção agrícola local. Com base em uma taxa média anual de coleta de água de $2,5 L/m^2$ por dia, estimou-se que 17 mil $m^2$ de painéis poderiam produzir o bastante para atender à demanda semanal de água dos moradores.\n\nDisponível em https://revistapesquisa.fapesp.br/colhendo-a-agua-da-noite-no-atacama/ Acesso em: 02 Maio 2025. (Adaptado)\n\nCom base nessas informações, qual é a demanda semanal de água dos moradores?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "17.000 L"
+        },
+        {
+          "letra": "B",
+          "texto": "25.000 L"
+        },
+        {
+          "letra": "C",
+          "texto": "170.000 L"
+        },
+        {
+          "letra": "D",
+          "texto": "250.000 L"
+        },
+        {
+          "letra": "E",
+          "texto": "297.500 L"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Grandezas e Medidas",
+        "Matemática – Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "No dia 14 de junho, é comemorado o Dia Mundial do Doador de Sangue. No mês de junho de 2024, um importante hemocentro do Brasil fez uma campanha em shopping centers e praças públicas para estimular a doação de sangue. Ao todo foram coletadas 1000 bolsas de sangue. Desse total, 23% eram do tipo A e, dentre os doadores desse tipo sanguíneo, 65% eram mulher. Se, nesse grupo de 1000 pessoas, uma é escolhida ao acaso, qual é, aproximadamente, a probabilidade de ela ter sangue tipo A e ser mulher?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,015"
+        },
+        {
+          "letra": "B",
+          "texto": "0,15"
+        },
+        {
+          "letra": "C",
+          "texto": "0,023"
+        },
+        {
+          "letra": "D",
+          "texto": "0,23"
+        },
+        {
+          "letra": "E",
+          "texto": "0,65"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Probabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "A arborização urbana é um tema de crescente relevância nas discussões sobre sustentabilidade e qualidade de vida nas cidades modernas. Com o avanço da urbanização e a consequente expansão das áreas construídas, a presença de árvores e áreas verdes nas zonas urbanas torna-se cada vez mais importante. A arborização não apenas embeleza os espaços públicos mas também desempenha um papel fundamental na melhoria do ambiente urbano, oferecendo uma série de benefícios ecológicos, sociais e econômicos, denominados serviços ambientais.\n\nDisponível em: https://www.ufsm.br/unidades-universitarias/ccne/2024/06/20/a-importancia-da-arborizacao-urbana-para-cidades-sustentaveis. Acesso em: 30 Abr 2025.\n\nO censo de 2022 trouxe novas informações sobre a arborização nos estados brasileiros. No gráfico, temos os dados relativos à arborização no entorno dos domicílios no Ceará.\n\nA partir dos dados apresentados, considere as afirmativas a seguir.\n\nI. Aproximadamente 1/3 dos domicílios tinha 5 ou mais árvores em seu entorno.\nII. Aproximadamente 2% dos domicílios não tinha situação declarada.\nIII. A porcentagem dos domicílios que tinham de 1 a 4 árvores no seu entorno era, aproximadamente, igual a dos que tinham 5 ou mais árvores no seu entorno.\n\nÉ correto o que se afirma somente em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ι."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Análise de Dados",
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Pode-se dizer que uma Lei Empírica é uma descrição geral de um fenômeno baseado em experimentações e observações feitas por seu elaborador, ou seja, aproximações da realidade. Isso aconteceu quando os experimentalistas John Dalton (químico), Robert Boyle (químico) e Edme Mariotte (físico), Joseph Gay-Lussac (químico) e Jacques Charles (matemático), dentre outros, estudaram os gases e escreveram suas respectivas leis. Observou-se que todos os gases reais obedeciam razoavelmente bem as leis por eles desenvolvidas, sob condição de que a temperatura não seja muito baixa e a pressão não seja muito elevada. Daí o significado de gás ideal, o que atende as essas leis. Baseado nas leis empíricas dos gases comentadas nesse texto, analise as afirmativas a seguir.\n\nI. Em um recipiente, tem-se uma mistura dos gases $G_1$, $G_2$ e $G_3$. Substituindo-se todas as moléculas do gás $G_1$ por um igual número de moléculas de um gás $G_4$, mudará a pressão total do sistema.\nII. Em uma mistura gasosa, substituir 15,5g de hidrogênio por 15,5g de oxigênio mudará a pressão total da mistura.\nIII. Quando medimos a pressão de um gás recolhido sobre um líquido, estamos realmente aferindo a pressão de uma mistura constituída pelo gás e pelo vapor do líquido.\n\nÉ correto, apenas, o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I."
+        },
+        {
+          "letra": "B",
+          "texto": "II."
+        },
+        {
+          "letra": "C",
+          "texto": "I e II."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I e III."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Gases Ideais",
+        "Física – Termodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Tem-se percebido uma onda intensa de calor em algumas regiões e o aumento da temperatura nesses lugares. A sensação térmica pode ser ainda maior em razão da umidade do ar, causando, na pele da pessoa, um efeito diferente da registrada no termômetro. Isso acontece porque o nosso mecanismo natural de redução da temperatura corporal através do suor não consegue evaporar o suficiente e reduzir a temperatura superficial da pele e, consequentemente, da parte interna. A velocidade do vento ajuda a dissipar o calor corporal melhorando a sensação térmica, mas, estando o ar úmido, essa sensação é bastante reduzida. Para se ter uma ideia, pode-se sentir muito mais \"calor\" em um ambiente muito úmido a $30^{\\circ}C$, do que em um outro muito seco a $40^{\\circ}C$. Considerando essas informações, analise as afirmativas a seguir.\n\nI. Em uma sala de aula sem climatização com janelas e portas abertas, ao colocarmos dois termômetros idênticos, tendo um deles seu bulbo coberto com um uma gaze úmida, esse fornecerá uma temperatura menor.\nII. Em um determinado ambiente, dois termômetros idênticos, tendo um deles seu bulbo coberto por uma gaze úmida, apresentam a mesma temperatura, o que leva a crer que esse ambiente está saturado.\nIII. A sensação de bem-estar que se sente ao entrar em um ambiente com o ar condicionado é maior devido à baixa umidade relativa do que à sua temperatura.\n\nÉ correto, apenas, o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Termologia",
+        "Física – Calorimetria"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Para proteger certos materiais contra corrosão e outros danos superficiais, a engenharia utiliza processos eletroquímicos para aplicar uma camada de um segundo material, mais resistente, sobre eles ou reações como a anodização do alumínio. Dentre os processos de aplicações de camada superficial de proteção, tem-se a galvanoplastia, a cromagem, revestimento de níquel, o revestimento de ouro, de prata, produtos à base de nanopartículas e outros. Em um experimento realizado por três colegas em um laboratório de uma instituição de ensino superior, Arthur, Maria Eduarda e João, tentaram aplicar sobre um anel uma camada de proteção de prata de uma solução de nitrado de prata ($AgNO_3$) contida numa cuba (adote o átomo-grama da prata 108g). O anel foi inserido na cuba com a solução, sendo essa atravessada por uma intensidade de corrente elétrica de 1,25A por um período de 2h. Nesse processo, determine qual a quantidade aproximada de massa de prata libertada, em gramas.\n\nNota: numa eletrólise, a carga elétrica que, liberta ou transforma, um equivalente-grama de um elemento ou íon é denominado Faraday e vale $9,65 \\times 10^4 C$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3,0"
+        },
+        {
+          "letra": "B",
+          "texto": "4,5"
+        },
+        {
+          "letra": "C",
+          "texto": "10,0"
+        },
+        {
+          "letra": "D",
+          "texto": "11,1"
+        },
+        {
+          "letra": "E",
+          "texto": "12,0"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Eletroquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Uma das ideias mais antigas a respeito do conceito de velocidade no mundo ocidental foi trazida até nós pelo filósofo Zenão de Eleia. Em sua proposta, Aquiles, o semideus grego aposta uma corrida contra uma tartaruga, dando-lhe uma vantagem na largada. De acordo com o argumento de Zenão, Aquiles nunca seria capaz de vencer a corrida contra a tartaruga, uma ideia totalmente contraintuitiva. Refuta-se a proposta de Zenão, pois o filósofo distorceu o conceito de referencial, colocando a referência de velocidade de Aquiles sobre a tartaruga. No mundo de hoje, os automóveis possuem velocímetros bastante precisos que mostram a velocidade do carro em um momento específico do deslocamento (velocidade instantânea), desta vez adotando-se o referencial correto, que coexiste com o conceito de velocidade média. A respeito dessas duas nuances de velocidade, podemos afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a velocidade média é a velocidade instantânea para um intervalo de tempo curtíssimo, onde o valor para o intervalo de tempo se aproxima de zero."
+        },
+        {
+          "letra": "B",
+          "texto": "a média das velocidades instantâneas resulta na velocidade média."
+        },
+        {
+          "letra": "C",
+          "texto": "a velocidade instantânea possui sempre o mesmo valor que a velocidade média."
+        },
+        {
+          "letra": "D",
+          "texto": "a velocidade instantânea é a razão entre a velocidade média e o intervalo de tempo em que ocorreu o deslocamento."
+        },
+        {
+          "letra": "E",
+          "texto": "a velocidade instantânea é obtida matematicamente, como a velocidade média para o deslocamento ocorrido em um intervalo de tempo curtíssimo, muito próximo de zero."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Um dos avanços tecnológicos importantes nos veículos híbridos é o sistema de frenagem regenerativa, conhecido como KERS (do inglês Kinetic Energy Recovery System). Esse sistema permite recuperar parte da energia cinética que normalmente seria dissipada durante a frenagem, convertendo-a em energia elétrica que pode ser reutilizada.\n\nSuponha que, durante uma frenagem, o sistema tenha armazenado energia equivalente a uma potência de 80 cavalos-vapor (CV) durante 6 segundos. Determine qual volume aproximado de café, em L, poderia ser preparado se toda essa energia fosse utilizada para aquecer água de $25^{\\circ}C$ até a fervura, considerando que não há perdas no processo e que, para preparar um café, é necessário apenas aquecer a água.\n\nDados:\n1 CV = 735 W\nc = 4,2 J/g$^{\\circ}$C\n$\\rho$ = 1 g/mL",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3,4"
+        },
+        {
+          "letra": "B",
+          "texto": "1,1"
+        },
+        {
+          "letra": "C",
+          "texto": "1523"
+        },
+        {
+          "letra": "D",
+          "texto": "1120"
+        },
+        {
+          "letra": "E",
+          "texto": "1,5"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Trabalho e Energia",
+        "Física – Calorimetria"
+      ]
+    }
+  ]
+}

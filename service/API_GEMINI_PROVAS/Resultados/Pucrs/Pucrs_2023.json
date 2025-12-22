@@ -1,0 +1,1030 @@
+{
+  "nomeUniversidade": "Pontifícia Universidade Católica do Rio Grande do Sul",
+  "siglaUniversidade": "PUCRS",
+  "nomeProva": "Concurso Vestibular de Verão - Medicina",
+  "ano": 2023,
+  "qtdeQuestoes": 70,
+  "questoes": [
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Imagine que a população de determinado lugar cresça sem quaisquer restrições ou fatores que possam interferir nesse processo (tais como epidemias, guerras, fome, entre outros). Admitindo-se que a taxa de crescimento é contínua, o modelo de crescimento de uma determinada região é dado pela função $N(t)= N(0)10^{kt}$, em que $N(t)$ representa a quantidade de indivíduos no instante $t$, $N(0)$ representa a quantidade de indivíduos no instante inicial $t = 0$, $k = 0,004$ é a taxa de crescimento populacional e $t$ é o tempo em anos. Utilizando a aproximação $log3=0,48$, o número mínimo de anos para que a população triplique de quantidade, a partir do instante inicial, é de aproximadamente",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "80"
+        },
+        {
+          "letra": "B",
+          "texto": "100"
+        },
+        {
+          "letra": "C",
+          "texto": "110"
+        },
+        {
+          "letra": "D",
+          "texto": "120"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Funções Exponenciais",
+        "Matemática – Logaritmos"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Após a divisão de uma herança, um dos herdeiros recebeu um terreno no formato a seguir.\n\nSabendo que $\\overline{BD} = \\overline{DC} = 4\\text{dam}$ e $\\overline{AB} = \\overline{AC}$, qual é a área desse terreno?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4"
+        },
+        {
+          "letra": "B",
+          "texto": "$4\\sqrt{2}$"
+        },
+        {
+          "letra": "C",
+          "texto": "8"
+        },
+        {
+          "letra": "D",
+          "texto": "$8\\sqrt{2}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Em um jogo há dezesseis cartas, sendo quatro cartas com a figura de coroa, quatro com a figura de espada, quatro com a figura de escudo e quatro com a figura de capacete. No jogo, cada figura recebe uma pontuação: coroa = 1 ponto, capacete = 2 pontos, escudo = 3 pontos e espada = 4 pontos. As cartas são distribuídas de forma aleatória para dois jogadores e o vencedor é o que somar o maior valor.\n\nQual é a probabilidade de um jogador específico somar 26 pontos ou menos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{8}{6.435}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{17}{12.870}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{12.853}{12.870}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{12.869}{12.870}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Probabilidade",
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Uma equipe de pesquisadores iniciou um estudo sobre bactérias do grupo cocos. Para a pesquisa, foi necessário reproduzir essas bactérias em laboratório, em um recipiente aberto, no formato de cubo, com arestas medindo $40 \\mu m$. No primeiro dia do experimento, foi colocada uma bactéria no recipiente; no segundo dia, observou-se que havia duas bactérias; no terceiro, quatro; no quarto, oito; e assim, sucessivamente, o número de bactérias dobrava de quantidade a cada dia. Assumindo que essas bactérias têm formato esférico e possuem diâmetros de $1 \\mu m$, qual alternativa apresenta o número mínimo de dias para que o volume de bactérias ultrapasse o volume do recipiente cúbico?\n\nPara os cálculos, considere $\\pi \\cong 3$ e $2^{10} \\cong 1000$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15"
+        },
+        {
+          "letra": "B",
+          "texto": "18"
+        },
+        {
+          "letra": "C",
+          "texto": "20"
+        },
+        {
+          "letra": "D",
+          "texto": "21"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Geometria Espacial",
+        "Matemática – Progressão Geométrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Após fazer exames para medir os níveis de vitaminas do complexo B em seu organismo, Júlia consulta uma nutricionista para que a ajude a consumir quantidades ideais de Tiamina (vitamina B1), Riboflavina (vitamina B2) e vitamina B6. A recomendação da nutricionista é que Júlia consuma diariamente exatamente 1,1 mg de B1, 2,5 mg de B2 e 1,6 mg de B6. Para tanto, a profissional sugeriu diversas combinações de alimentos. Uma dessas combinações é formada por ovos, frango e carne suína. A tabela a seguir apresenta a quantidade de cada uma das três vitaminas em porções de 100 g de cada um desses alimentos.\n\nQuantidade de vitaminas, em miligramas, por porções de 100g\nOvo (100 g) Frango (100 g) Suína (100 g)\nB1 (mg) 0,02 0,07 0,9\nB2 (mg) 0,6 0,2 0,3\nB6 (mg) 0,1 0,4 0,5\n\nAssinale a alternativa que apresenta a quantidade exata de porções de 100 g de ovos, de frango e de carne suína que Júlia deve consumir.",
+      "alternativas": null,
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Sistemas Lineares"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "O gestor financeiro de uma loja de material hospitalar fez um levantamento sobre as vendas do último mês, em relação a dois tipos diferentes de estetoscópios e a dois tipos diferentes de adipômetros. A Tabela 1 apresenta o preço unitário e a quantidade vendida de cada tipo de estetoscópio. A Tabela 2 apresenta o preço unitário e a quantidade vendida de cada tipo de adipômetro.\n\nTabela 1 - Estetoscópio\nTipo Preço por unidade (R$) Quantidade Vendida (mês)\nE1 R$ 190,00 60\nE2 R$ 270,00 50\n\nTabela 2 - Adipômetro\nTipo Preço por unidade (R$) Quantidade Vendida (mês)\nA1 R$ 190,00 80\nA2 R$ 330,00 30\n\nEm relação à venda desses quatro produtos no último mês, assinale a alternativa que apresenta o gráfico do percentual aproximado de faturamento de cada um dos produtos.",
+      "alternativas": null,
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Porcentagem",
+        "Matemática – Análise de Gráficos"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Uma clínica comprou materiais hospitalares no valor total de R$ 9.600,00. Foram ofertadas duas formas de pagamento:\n\ni. à vista, no ato da compra, com desconto de 7%.\nii. pagamento para o final do quarto mês; ou seja, carência de 4 meses para a quitação da compra, sem juros.\n\nSuponha que a clínica possui a importância para o pagamento à vista (com o desconto de 7%), mas tem a possibilidade de deixar esse valor investido por 4 meses a uma taxa de 5% ao mês rendendo a juros compostos. Diante dessa possibilidade, assinale a alternativa que descreve corretamente a melhor forma de pagamento para o cliente. Considere $(1,05)^4 \\approx 1,2$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Pagamento à vista, pois os juros do investimento foram de apenas R$ 336,60."
+        },
+        {
+          "letra": "B",
+          "texto": "Pagamento à vista, pois os juros do investimento foram de apenas R$ 446,40."
+        },
+        {
+          "letra": "C",
+          "texto": "Pagamento ao final do 4º mês, pois o investimento renderá juros no valor de R$ 1.785,60."
+        },
+        {
+          "letra": "D",
+          "texto": "Pagamento ao final do 4º mês, pois o investimento renderá juros no valor de R$ 1.920,00."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Matemática Financeira"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Examine as afirmações a seguir:\n\nI. Dada a equação da reta $r: y = -\\frac{x}{2} + \\frac{5}{2}$, a equação reduzida da reta paralela a r que passa pelo ponto $P(2, 2)$ é $y = -\\frac{x}{2} - 1$.\n\nII. Dada a equação da reta $s: 2x+y-2=0$, a equação reduzida da reta perpendicular a s que passa pelo ponto $Q(-2, 1)$ é $y = \\frac{x}{2} + 2$.\n\nIII. O ponto $T(3, 2)$ é interior à circunferência $(x-3)^2+(y-5)^2=16$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "III, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Em uma campanha de vacinação infantil, a equipe de um posto de saúde, composta por 4 enfermeiros, vacinou 40% das crianças do bairro em 10 horas. Se, após essas 10 horas, for acrescentado mais um enfermeiro à equipe, quantas horas a mais serão necessárias para vacinar o restante das crianças do bairro?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9"
+        },
+        {
+          "letra": "B",
+          "texto": "12"
+        },
+        {
+          "letra": "C",
+          "texto": "13"
+        },
+        {
+          "letra": "D",
+          "texto": "15"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Regra de Três"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Uma escola de preparação para concursos públicos contratou uma empresa de marketing digital para divulgar seus cursos. Um dos cursos oferecidos tinha capacidade para atender 15.000 alunos. No primeiro dia de matrícula desse curso, 180 alunos se inscreveram; no segundo dia, 240; no terceiro dia, 300, e, assim, sucessivamente, sempre aumentando 60 alunos inscritos a cada dia.\n\nQual é o número mínimo de dias para atingir 15.000 alunos inscritos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12"
+        },
+        {
+          "letra": "B",
+          "texto": "15"
+        },
+        {
+          "letra": "C",
+          "texto": "18"
+        },
+        {
+          "letra": "D",
+          "texto": "20"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Progressão Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "O Pilates® tem como base um conceito denominado de contrologia, que consiste no controle consciente de todos os movimentos musculares do corpo. A execução das atividades pode ser feita tanto com poucos acessórios quanto com aparelhos constituídos de molas e roldanas que promovem um aumento na carga do exercício, possibilitando movimentos para vários grupamentos musculares. As constantes elásticas das molas utilizadas no método Pilates® são identificadas por cores: 128 N/m para a mola azul e 88 N/m para a mola amarela.\n\nAo realizar uma determinada atividade utilizando apenas a mola amarela, duas alunas, Carolina e Fernanda, fizeram a seguinte solicitação para a instrutora:\n\nCarolina: Está muito pesado! Por favor, diminua a carga.\nFernanda: Está muito leve! Quero realizar o exercício com a maior carga possível.\n\nQual das ações propostas a seguir atende os objetivos das alunas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Para as duas alunas, associar as molas em série."
+        },
+        {
+          "letra": "B",
+          "texto": "Para as duas alunas, substituir a mola amarela pela mola azul."
+        },
+        {
+          "letra": "C",
+          "texto": "Para Carolina, associar as molas em série e, para Fernanda, associar em paralelo."
+        },
+        {
+          "letra": "D",
+          "texto": "Para Carolina, associar as molas em paralelo e, para Fernanda, associar em série."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Associação de Molas"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "A figura a seguir representa o diagrama pV de um 1 mol de um gás ideal, retratando diferentes processos termodinâmicos.\n\nCom base no diagrama, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "em A→B a temperatura do gás aumentará."
+        },
+        {
+          "letra": "B",
+          "texto": "em B→C a temperatura do gás diminuirá."
+        },
+        {
+          "letra": "C",
+          "texto": "a temperatura em C é igual a temperatura em A."
+        },
+        {
+          "letra": "D",
+          "texto": "a temperatura se mantém constante durante A→B→C."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Termodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "A figura a seguir mostra dois recipientes A e B que contêm álcool ($\\mu = 0,8 \\text{ g/cm}^3$) e glicerina ($\\mu = 1,2 \\text{ g/cm}^3$), respectivamente.\n\nPara que a pressão exercida no fundo dos recipientes seja a mesma, a razão $h_1/h_2$ deve ser igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,6"
+        },
+        {
+          "letra": "B",
+          "texto": "0,8"
+        },
+        {
+          "letra": "C",
+          "texto": "1,5"
+        },
+        {
+          "letra": "D",
+          "texto": "2,0"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Hidrostática"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Uma pequena esfera metálica isolada, denominada A, possui $3\\times10^{11}$ prótons e $5\\times10^{11}$ elétrons. Essa esfera é colocada em contato com outra esfera isolada, denominada B, de mesmo material e dimensões, cuja carga elétrica é $32 \\text{ nC}$. As esferas são separadas após atingir o equilíbrio eletrostático. Dados: carga elementar $e = 1,6\\times10^{-19} \\text{ C}$.\n\nAnalise as afirmativas a seguir:\n\nI. A carga elétrica da esfera A antes do contato é -32 nC.\n\nII. Durante o procedimento do contato, a esfera B transfere prótons para a esfera A.\n\nIII. A carga elétrica das esferas após o contato será nula.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Eletrostática"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "O gráfico a seguir representa a forma de uma onda com frequência constante.\n\nSendo o comprimento de onda igual a 20 m, o período e a velocidade de propagação da onda valem, respectivamente, __________ e __________.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10 s – 1,0 m/s"
+        },
+        {
+          "letra": "B",
+          "texto": "10 s – 2,0 m/s"
+        },
+        {
+          "letra": "C",
+          "texto": "20 s – 1,0 m/s"
+        },
+        {
+          "letra": "D",
+          "texto": "20 s – 2,0 m/s"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Ondulatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "O efeito fotoelétrico foi observado pela primeira vez pelo físico alemão Heinrich Hertz em 1887. Hertz observou que, quando certas frequências de luz iluminavam uma placa metálica, elétrons excitados, denominados fotoelétrons, deixavam o metal. Posteriormente, esse efeito foi explicado por Albert Einstein quando introduziu o conceito de fóton.\n\nDurante um experimento, um professor demonstrou o efeito fotoelétrico iluminando diferentes placas metálicas com radiação infravermelha ($E = 1,38 \\text{ eV}$) e radiação ultravioleta ($E = 4,13 \\text{ eV}$).\n\nA tabela a seguir apresenta a função trabalho (f) dos materiais utilizados.\n\nMetal | $\\phi$ (eV)\n---|---\nSódio | 2,28\nAlumínio | 4,08\nPrata | 4,73\n\nComo resultado, quando as placas foram iluminadas com radiação infravermelha, o fenômeno __________ observado nesses materiais. Quando as placas foram iluminadas com radiação ultravioleta, o fenômeno não foi observado para __________, enquanto a máxima energia cinética dos fotoelétrons foi observada para __________.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "foi – alumínio – sódio"
+        },
+        {
+          "letra": "B",
+          "texto": "foi – prata – alumínio"
+        },
+        {
+          "letra": "C",
+          "texto": "não foi – sódio – alumínio"
+        },
+        {
+          "letra": "D",
+          "texto": "não foi – prata – sódio"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Física Moderna",
+        "Física – Efeito Fotoelétrico"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Uma célula nervosa transmite um sinal elétrico por meio de um mecanismo de transporte de íons sódio para fora da membrana celular e de íons potássio para dentro da membrana celular. As configurações eletrônicas para os íons $Na^+$ e $K^+$ são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$1s^2 2s^2 2p^6$ e $1s^2 2s^2 2p^6 3s^2 3p^6$"
+        },
+        {
+          "letra": "B",
+          "texto": "$1s^2 2s^2 2p^6 3s^2$ e $1s^2 2s^2 2p^6 3s^2 3p^6$"
+        },
+        {
+          "letra": "C",
+          "texto": "$1s^2 2s^2 2p^6 3s^1$ e $1s^2 2s^2 2p^6 3s^2 3p^6 4s^1$"
+        },
+        {
+          "letra": "D",
+          "texto": "$1s^2 2s^2 2p^6 3s^2$ e $1s^2 2s^2 2p^6 3s^2 3p^6 4s^2$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Distribuição Eletrônica"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "O álcool em gel recomendado para higienização das mãos no combate ao coronavírus SARS-CoV-2 é constituído essencialmente por álcool etílico, água e agentes espessantes para dar a consistência do produto. Para que atue como antisséptico, o álcool em gel deve apresentar uma concentração em álcool etílico ($CH_3CH_2OH$) de $70\\% \\text{ m/m}$. Sabendo que a densidade do álcool etílico é $0,789 \\text{ g} \\cdot \\text{mL}^{-1}$, a concentração em $mol \\cdot L^{-1}$ desse composto é, aproximadamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,012"
+        },
+        {
+          "letra": "B",
+          "texto": "0,12"
+        },
+        {
+          "letra": "C",
+          "texto": "1,2"
+        },
+        {
+          "letra": "D",
+          "texto": "12"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Soluções",
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "O clorofórmio ($CHCl_3$) foi introduzido como anestésico em procedimentos cirúrgicos no século XIX, na Inglaterra. Entretanto, o seu uso foi gradativamente abandonado devido ao seu alto grau de toxicidade, sendo substituído por substâncias anestésicas mais adequadas. O clorofórmio pode ser preparado pela reação de metano com cloro:\n\n$CH_{4(g)} + 3 Cl_{2(g)} \\rightarrow CHCl_{3(l)} + 3 HCl_{(g)}$\n\nA quantidade de cloro, em gramas, necessária para produzir 1,5 mol de clorofórmio é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "106"
+        },
+        {
+          "letra": "B",
+          "texto": "155"
+        },
+        {
+          "letra": "C",
+          "texto": "319"
+        },
+        {
+          "letra": "D",
+          "texto": "350"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Em relação aos medicamentos de liberação controlada, é desejável que a reação de absorção no organismo aconteça a uma velocidade pré-determinada e que a ação se mantenha uniforme por um período de tempo específico.\nAs empresas farmacêuticas utilizam diferentes tecnologias para permitir a liberação controlada. Em alguns casos, por exemplo, o medicamento possui um revestimento que se dissolve depois de um período para liberar as partículas de fármaco. O revestimento tem por objetivo controlar a velocidade da reação e liberar uniformemente o fármaco no organismo.\n\nConsiderando o texto apresentado, assinale V (verdadeiro) ou F (falso) para as afirmações a seguir.\n\n( ) Um fármaco constituído de partículas menores é absorvido mais lentamente pelo organismo do que outro com partículas maiores.\n( ) A área superficial em um medicamento sólido na forma de pó é maior do que a área superficial em um medicamento na forma de comprimido.\n( ) Quanto maior a espessura do revestimento do fármaco, maior o tempo para o fármaco ser absorvido pelo organismo.\n\nO correto preenchimento dos parênteses, de cima para baixo, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V – F – F"
+        },
+        {
+          "letra": "B",
+          "texto": "F – V – V"
+        },
+        {
+          "letra": "C",
+          "texto": "F – V – F"
+        },
+        {
+          "letra": "D",
+          "texto": "V – F – V"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Cinética Química"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Suturas cirúrgicas feitas com fio de poliéster Lactomer™ são absorvidas pelo tecido do corpo humano em cicatrização em um curto período, apresentando a vantagem de não ser necessária sua remoção. O poliéster citado é um polímero sintético biodegradável obtido por meio da polimerização dos compostos A e B:\n\nSobre as estruturas químicas dos compostos A e B, afirma-se:\n\nI. O composto A apresenta quatro ligações sigma, uma ligação pi e os grupos funcionais álcool e ácido carboxílico.\n\nII. O composto A apresenta oito ligações sigma, uma ligação pi e os grupos funcionais álcool e ácido carboxílico.\n\nIII. O composto B apresenta cinco ligações sigma, uma ligação pi e os grupos funcionais álcool e cetona.\n\nIV. O composto B apresenta onze ligações sigma, uma ligação pi e os grupos funcionais álcool e ácido carboxílico.\n\nEstão corretas apenas as afirmativas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e III."
+        },
+        {
+          "letra": "B",
+          "texto": "I e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III."
+        },
+        {
+          "letra": "D",
+          "texto": "II e IV."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Química Orgânica",
+        "Química – Funções Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Considere as propriedades físico-químicas dos compostos X, Y e Z apresentadas no quadro a seguir.\n\nComposto | Estado físico (25 °C e 1 atm) | Solubilidade em água | Condutividade elétrica\n---|---|---|---\nX | Sólido | Solúvel | Conduz, quando fundido\nY | Sólido | Insolúvel | Conduz, quando sólido\nZ | Sólido | Insolúvel | Não conduz\n\nCom base no quadro, a natureza da ligação química mais provável para os compostos X, Y e Z é, respectivamente, __________, __________ e __________.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ligação covalente – ligação iônica – ligação iônica"
+        },
+        {
+          "letra": "B",
+          "texto": "ligação metálica – ligação covalente – ligação iônica"
+        },
+        {
+          "letra": "C",
+          "texto": "ligação iônica – ligação metálica – ligação covalente"
+        },
+        {
+          "letra": "D",
+          "texto": "ligação covalente – ligação iônica – ligação metálica"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Ligações Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "O Acordo de Paris tem por objetivo alcançar a descarbonização do planeta e estabelece como meta limitar o aumento da temperatura global a 1,5 °C. Nesse contexto, o hidrogênio verde mostra-se como uma alternativa promissora por tratar-se de um vetor energético obtido a partir de tecnologia limpa.\nO processo de obtenção do hidrogênio verde consiste na decomposição de moléculas de água em oxigênio e hidrogênio por meio da eletrólise, usando energias renováveis, conforme mostra a figura a seguir.\n\nCom base no processo eletrolítico apresentado na figura, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "No cátodo ocorre reação de oxidação e no ânodo ocorre reação de redução."
+        },
+        {
+          "letra": "B",
+          "texto": "O hidrogênio migra para o cátodo e o oxigênio migra para o ânodo."
+        },
+        {
+          "letra": "C",
+          "texto": "O processo eletrolítico baseia-se em reações espontâneas."
+        },
+        {
+          "letra": "D",
+          "texto": "O cátodo é o polo positivo e o ânodo é o polo negativo."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Eletroquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Considere as seguintes afirmações sobre o estrato mielínico:\n\nI. sua degeneração é a causa da esclerose múltipla.\nII. suas estruturas celulares são denominadas nódulos de Ranvier.\nIII. as interrupções nele observadas correspondem às células de Schwann.\n\nEstá/Estão correta(s) a(s) afirmativa(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Histologia",
+        "Biologia – Sistema Nervoso"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "A meiose I de uma célula $2n=2$ é __________, originando __________.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "equacional – células-filhas n=1"
+        },
+        {
+          "letra": "B",
+          "texto": "equacional – células-filhas 2n=2"
+        },
+        {
+          "letra": "C",
+          "texto": "reduzional – células-filhas n=1 com cromossomos simples"
+        },
+        {
+          "letra": "D",
+          "texto": "reduzional – células-filhas n=1 com cromossomos duplicados"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Citologia",
+        "Biologia – Divisão Celular"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "O exemplo das girafas, proposto por Lamarck para explicar o conceito de adaptação e posteriormente reinterpretado por Darwin à luz da seleção natural, é melhor ilustrado pelo neodarwinismo a partir da ideia de seleção",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "artificial."
+        },
+        {
+          "letra": "B",
+          "texto": "direcional."
+        },
+        {
+          "letra": "C",
+          "texto": "disruptiva."
+        },
+        {
+          "letra": "D",
+          "texto": "estabilizadora."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Evolução"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Em uma população em equilíbrio, na qual a metade dos indivíduos possui o genótipo “Aa” e a outra metade “aa”, a frequência do gene “A” corresponde a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1/2"
+        },
+        {
+          "letra": "B",
+          "texto": "1/3"
+        },
+        {
+          "letra": "C",
+          "texto": "1/4"
+        },
+        {
+          "letra": "D",
+          "texto": "1/6"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Genética de Populações"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "O tubo polínico é uma importante estrutura no processo evolutivo dos vegetais, garantindo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o melhor acesso dos gametas flagelados à oosfera."
+        },
+        {
+          "letra": "B",
+          "texto": "o processo de polinização nos grupos de vegetais inferiores."
+        },
+        {
+          "letra": "C",
+          "texto": "o surgimento dos ciclos reprodutivos E>G nas angiospermas."
+        },
+        {
+          "letra": "D",
+          "texto": "a independência da água para reprodução em gimnospermas e angiospermas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Botânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Sobre a sucessão ecológica, afirma-se que\n\nI. é um processo sazonal.\nII. a razão produção/consumo é maior que 1 na comunidade clímax.\nIII. a comunidade pioneira é observada apenas nas sucessões primárias.\nIV. a incorporação de biomassa é mais evidente nas comunidades pioneiras e intermediárias.\n\nEstá/Estão correta(s) apenas a(s) afirmativa(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "IV."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II."
+        },
+        {
+          "letra": "C",
+          "texto": "III e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Numere a coluna 2 de acordo com a coluna 1.\n\nColuna 1\n1. exoesqueleto quitinoso\n2. lanterna de Aristóteles\n3. coanócitos\n4. clitelo\n5. nematocisto\n6. amplexo\n\nColuna 2\n( ) cnidários\n( ) anfíbios\n( ) equinodermos\n( ) anelídeos\n( ) artrópodes\n( ) poríferos\n\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 – 4 – 1 – 6 – 2 – 3"
+        },
+        {
+          "letra": "B",
+          "texto": "5 – 6 – 2 – 4 – 1 – 3"
+        },
+        {
+          "letra": "C",
+          "texto": "5 – 6 – 3 – 4 – 1 – 2"
+        },
+        {
+          "letra": "D",
+          "texto": "6 – 5 – 3 – 4 – 1 – 2"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Zoologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 61,
+      "enunciado": "A Revolução Industrial sintetiza o conjunto de transformações vivenciadas pela economia inglesa entre 1780 e 1840. O caráter revolucionário da transformação econômica inglesa na 1ª Revolução Industrial consistiu nas profundas alterações sofridas nos meios de produção, incluindo a adoção de novas técnicas, novas fontes de energia e aumento da produtividade.\n\nEm relação à Revolução Industrial, assinale a alternativa INCORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A 1ª Revolução Industrial promoveu uma alteração nas relações de produção e de trabalho, com o aparecimento de uma classe operária urbana, um sistema fabril baseado no fordismo e a dependência de novas fontes de energia como o carvão e o petróleo."
+        },
+        {
+          "letra": "B",
+          "texto": "A Grã-Bretanha possuía as condições adequadas para fazer a revolução industrial com uma agricultura já dirigida para o mercado, um comércio externo bem estabelecido e uma disponibilidade para o lucro presente no imaginário dos homens de negócios e dos governantes."
+        },
+        {
+          "letra": "C",
+          "texto": "Além da emergência das máquinas e da mecanização, a 1ª Revolução Industrial se desdobrou em profundas alterações sociais nas classes trabalhadoras, construindo novos hábitos entre os trabalhadores."
+        },
+        {
+          "letra": "D",
+          "texto": "O caráter revolucionário da transformação econômica inglesa reside nas alterações sofridas nos meios de produção, na adoção de novas técnicas, nas novas fontes de energia e no aumento da produtividade no setor têxtil."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Revolução Industrial"
+      ]
+    },
+    {
+      "numeroEnunciado": 62,
+      "enunciado": "A separação do mundo em dois espaços geográficos bem definidos e radicalmente distintos, o Ocidente e o Oriente, foi uma ação também realizada por intelectuais e cientistas europeus, especialmente, durante o processo de colonização dos povos africanos e asiáticos no século XIX. A partir de então, construiu-se, segundo Edward Said, um imperialismo que não é exclusivamente econômico e político, mas também cultural. Para a estética cultural imperialista, afirma-se que\n\nI. intelectuais e cientistas europeus definem o Oriente a partir do olhar da cultura ocidental.\n\nII. o conhecimento científico do século XIX considera a pluralidade dos saberes e povos, incluindo as tradições não-escritas.\n\nIII. o Ocidente e o Oriente são considerados como blocos antagônicos e homogêneos.\n\nIV. a neutralidade do conhecimento científico é defendida, embora esse pensamento esteja alicerçado na crença da superioridade europeia sobre os demais povos.\n\nEstão corretas as afirmativas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "III e IV, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I, III e IV, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II, III e IV."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Imperialismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 63,
+      "enunciado": "A cultura da juventude é um dos fenômenos mais interessantes dos últimos quarenta anos do século XX. A juventude passou a ser associada a duas ideias centrais da modernidade: primeiro, à ideia de que representava a novidade; segundo, à ideia de que a novidade era melhor do que aquilo que até então havia sido experimentado. A partir do final dos anos de 1960, é formada toda uma cultura jovem urbana, que compartilhava valores, formas de se vestir, práticas de lazer e gostos. Esse fenômeno está diretamente associado à expansão da indústria cultural de massas, com a hegemonia esmagadora do American Way of Life e o poderio econômico, político e cultural dos EUA no pós-guerra. São exemplos dessa nova cultura jovem nas sociedades urbanas Ocidentais da década de 1960:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a black music e os filmes de Hollywood."
+        },
+        {
+          "letra": "B",
+          "texto": "a tatuagem e o movimento hippie."
+        },
+        {
+          "letra": "C",
+          "texto": "o fast food e a Disney World."
+        },
+        {
+          "letra": "D",
+          "texto": "o jeans e o rock’n roll."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Guerra Fria",
+        "Sociologia – Indústria Cultural"
+      ]
+    },
+    {
+      "numeroEnunciado": 64,
+      "enunciado": "O avanço da globalização, desde o final dos anos de 1980, modificou as relações políticas, econômicas e culturais dos diversos países do globo, ainda que em escalas distintas. Ao mesmo tempo, promoveu reações de grupos transnacionais contrários às consequências provocadas pelas suas rápidas transformações. Dentre os críticos à globalização, está o evento do Fórum Social Mundial, promovido por entidades não-governamentais e movimentos sociais, cuja primeira edição ocorreu em 2001, em Porto Alegre, no Rio Grande do Sul.\n\nSobre o Fórum Social Mundial, afirma-se que\n\nI. é crítico ao consumismo, à desregulamentação da economia pelo Estado e às medidas de austeridade impostas dentro da lógica neoliberal.\n\nII. propõe o desenvolvimento econômico sustentável, a valorização das minorias e a construção de uma sociedade mais equitativa na distribuição dos recursos disponíveis.\n\nIII. nasce em oposição ao Fórum Econômico Mundial de Davos, propondo um modelo econômico que associe políticas neoliberais a políticas de proteção social.\n\nIV. propõe o modelo de gestão através do Estado-mínimo, apresentando-se como um evento de partidos e governos de esquerda que defendem o controle político do Estado pelos partidos de esquerda tanto na Europa quanto na América Latina.\n\nEstão corretas apenas as afirmativas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "III e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e IV."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Globalização",
+        "Sociologia – Movimentos Sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": 65,
+      "enunciado": "\"O processo de arenização está localizado no sudoeste do Rio Grande do Sul, a partir do meridiano de 54° em direção oeste até a fronteira com a Argentina e a República Oriental do Uruguai, sendo constituída pelos municípios de Alegrete, Cacequi, Itaqui, Maçambará, Manuel Viana, Quaraí, Rosário do Sul, São Borja, São Francisco de Assis e Unistalda. Este processo ocupa larga faixa da região, sendo que a degradação do solo nesta área apresenta-se sob a forma de areais (Suertegaray, 2001).\"\n\nEm relação à geologia do Rio Grande do Sul, é correto afirmar que a área dos municípios destacados no excerto se encontra sobre afloramentos de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "arenitos, provenientes do deserto de Botucatu."
+        },
+        {
+          "letra": "B",
+          "texto": "basaltos metamorfizados e erodidos, provenientes do deserto de Botucatu."
+        },
+        {
+          "letra": "C",
+          "texto": "arenitos, provenientes de derrames vulcânicos ocorridos na fragmentação de Gondwana."
+        },
+        {
+          "letra": "D",
+          "texto": "basaltos metamorfizados e erodidos, provenientes de derrames vulcânicos ocorridos na fragmentação de Gondwana."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geologia",
+        "Geografia – Relevo"
+      ]
+    },
+    {
+      "numeroEnunciado": 66,
+      "enunciado": "Os textos a seguir caracterizam dois biomas brasileiros.\n\nTexto 1\nNo contexto da disponibilidade de água através da precipitação, destaca-se a questão do déficit hídrico na maior parte da área abrangida pelo bioma. O clima na região varia do superúmido (com pluviosidade em torno de 2 000 mm/ano), num pequeno trecho, até o semiárido, em área maior, com pluviosidade entre 300-500 mm/ano e chuvas restritas a poucos meses durante o ano.\n\nTexto 2\nTodos os habitantes do(a) [-----] têm suas vidas marcadas pelo eterno ciclo das águas, desde o dourado, um peixe de escamas, até o ribeirinho. O início do período chuvoso ocorre, geralmente, de outubro a março com precipitação média de 1200 mm a 1400 mm e a estação de seca, entre abril e setembro. O ciclo hidrológico e a dinâmica hídrica do bioma são condicionantes importantes que garantem a alta biodiversidade e possibilitam o funcionamento ecológico de toda região.\n\nOs textos 1 e 2 descrevem, respectivamente, a __________ e o(a) __________.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Caatinga – Pantanal"
+        },
+        {
+          "letra": "B",
+          "texto": "Caatinga – Amazônia"
+        },
+        {
+          "letra": "C",
+          "texto": "Mata Atlântica – Cerrado"
+        },
+        {
+          "letra": "D",
+          "texto": "Mata Atlântica – Pantanal"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Biomas do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 67,
+      "enunciado": "O excerto a seguir apresenta alguns dos efeitos de um conjunto de medidas econômicas implementadas no Brasil no século passado.\n\n\"De fato, nesta época, o país conseguiu crescer exponencialmente, cerca de 10% ao ano, e atingiu, em 1973, uma marca recorde do Produto Interno Bruto (PIB), que aumentou 14%. O avanço veio acompanhado também de uma forte queda de inflação. A taxa, medida na época pelo Índice Geral de Preço (IGP), caiu de 25,5% para 15,6% no período.\nO que não se explica diante desse número, entretanto, é o fato de o crescimento ter sido muito bom para empresários, e ruim para os trabalhadores. Para que o plano de crescimento funcionasse, os militares resolveram conter os salários, mudando a fórmula que previa o reajuste da remuneração pela inflação, o que levou a perdas reais para os trabalhadores.\"\n\nCom base no excerto, o fenômeno de significativo crescimento econômico ficou conhecido como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Encilhamento."
+        },
+        {
+          "letra": "B",
+          "texto": "Plano de Metas."
+        },
+        {
+          "letra": "C",
+          "texto": "Década Perdida."
+        },
+        {
+          "letra": "D",
+          "texto": "Milagre Econômico."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Ditadura Militar no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 68,
+      "enunciado": "A invasão da Ucrânia pela Rússia pode ser melhor entendida dentro de um cenário amplo, analisando-se aspectos sociais, econômicos e geopolíticos. Além desses aspectos, não se pode desprezar a configuração física do país europeu, desde a localização geoestratégica do território até os recursos naturais nele existentes. Solo e relevo atrelados às condições climáticas proporcionaram aos ucranianos posição de destaque na produção de trigo, de milho, de batata, de cevada, de beterraba.\n\nNo território ucraniano, o tipo de solo é __________ e o clima predominante é __________.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "latossolo – frio"
+        },
+        {
+          "letra": "B",
+          "texto": "tchernozion – frio"
+        },
+        {
+          "letra": "C",
+          "texto": "latossolo – temperado"
+        },
+        {
+          "letra": "D",
+          "texto": "tchernozion – temperado"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "Geografia – Clima",
+        "Geografia – Solos"
+      ]
+    },
+    {
+      "numeroEnunciado": 69,
+      "enunciado": "Considere a canção Ponta de Areia, de Milton Nascimento e Fernando Brant.\n\nPonta de areia\nPonto final\nDa Bahia-Minas\nEstrada natural\nQue ligava Minas\nAo porto, ao mar\nCaminho de ferro\nMandaram arrancar\nVelho maquinista\nCom seu boné\nLembra o povo alegre\nQue vinha cortejar\nMaria-fumaça\nNão canta mais\nPara a moça, as flores\nJanelas e quintais\nNa praça vazia\nUm grito, um ai\nCasas esquecidas\nViúvas nos portais\n\nEscrita em 1975, a canção trata das transformações pelas quais a região em destaque passava. Ao interpretá-la à luz da Geografia, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A transformação espacial abordada pode ser explicada pelo avanço do meio técnico-científico-informacional sobre áreas naturais, na medida em que os espaços sofrem alterações com a territorialização de novas infraestruturas."
+        },
+        {
+          "letra": "B",
+          "texto": "A transformação espacial abordada pode ser explicada pelo avanço do meio técnico-científico-informacional, na medida em que os espaços sofrem alterações com a retirada de infraestrutura visando à sustentabilidade socioambiental."
+        },
+        {
+          "letra": "C",
+          "texto": "A transformação da paisagem em questão é fruto da modernização pela qual o país passava, alterando o modo de transporte dos minérios extraídos de Minas Gerais, que passou a ser realizado por rodovias."
+        },
+        {
+          "letra": "D",
+          "texto": "A transformação espacial abordada é fruto da redistribuição das técnicas de modo seletivo nos territórios, produzindo, nesse caso, a supressão de infraestrutura."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geografia do Transporte",
+        "Geografia – Meio Técnico-Científico-Informacional"
+      ]
+    },
+    {
+      "numeroEnunciado": 70,
+      "enunciado": "A intensificação do processo de globalização integrou as economias mundiais, de modo que o fortalecimento de relações internacionais de cooperação e de parcerias tornou-se uma estratégia geopolítica importante.\n\nAssocie as etapas de integração econômica internacional à sua respectiva característica.\n\nEtapas de integração econômica internacional:\n1. Zona de Preferência Tarifária\n2. Zona de Livre Comércio (ZLC)\n3. União Aduaneira\n4. Mercado Comum\n5. União Econômica Monetária\n\nCaracterísticas das etapas de integração econômica:\n\n( ) adota uma Tarifa Externa Comum (TEC). Nessa fase do processo de integração, um conjunto de países aplica uma tarifa para suas importações provenientes de países não pertencentes ao grupo, qualquer que seja o produto, e, por fim, prevê a livre circulação de bens entre si com tarifa zero.\n( ) requer a circulação de serviços e fatores de produção, ou seja, de capitais e pessoas, além da livre circulação de mercadorias.\n( ) estabelece que as tarifas incidentes sobre o comércio entre os países membros do grupo sejam inferiores às tarifas cobradas de países não membros.\n( ) ocorre quando existe uma moeda comum e uma política monetária com metas unificadas e reguladas por um Banco Central comunitário.\n( ) consiste na eliminação das barreiras tarifárias e não-tarifárias que incidem sobre o comércio entre os países que constituem a zona.\n\nA numeração correta dos parênteses, de cima para baixo, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4 – 3 – 1 – 5 – 2"
+        },
+        {
+          "letra": "B",
+          "texto": "3 – 4 – 1 – 5 – 2"
+        },
+        {
+          "letra": "C",
+          "texto": "2 – 1 – 3 – 4 – 5"
+        },
+        {
+          "letra": "D",
+          "texto": "1 – 2 – 3 – 4 – 5"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Blocos Econômicos"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,666 @@
+{
+  "nomeUniversidade": "Universidade Estadual de Campinas",
+  "siglaUniversidade": "UNICAMP",
+  "nomeProva": "Vestibular Unicamp 2025 - 1ª Fase - Conhecimentos Gerais",
+  "ano": 2025,
+  "qtdeQuestoes": 72,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Em termos cartográficos, o conceito de escala é fundamental para qualquer tipo de representação espacial, dado que toda visualização gráfica é elaborada com base em uma redução do mundo real. Dessa forma, dependendo da escala adotada, tem-se, no mapa, uma generalização da informação, generalização esta que leva em conta o objetivo pretendido. A figura a seguir ilustra essa relação entre a escala adotada e o nível de generalização da informação no mapa.\n(MENEZES, P. M. L.; FERNANDES, M. C. Roteiros de Cartografia. São Paulo: Oficina de Textos, p. 49-53, 2013.)\nTendo em vista seu conhecimento sobre cartografia, informações do texto e a análise da figura, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Atlas escolares apresentam mapas com escala menor e pouca generalização. O objetivo dos mapas que figuram nesses atlas é a representação espacial de diferentes variáveis físico-naturais, demográficas e socioeconômicas, acessíveis a um público bastante diversificado."
+        },
+        {
+          "letra": "B",
+          "texto": "Os mapas elaborados para estudos de impactos ambientais, estudos estes aplicados a projetos de infraestrutura, precisam ter escala maior e, consequentemente, menos generalização dos dados, pois a intervenção no território deve minimizar impactos ambientais."
+        },
+        {
+          "letra": "C",
+          "texto": "Atlas escolares apresentam mapas com escala maior e menos informação. O objetivo dos mapas que figuram nesses atlas é a representação espacial de diferentes variáveis (físico-naturais, demográficas e socioeconômicas) que sejam acessíveis a um público bastante especializado."
+        },
+        {
+          "letra": "D",
+          "texto": "Os mapas elaborados para estudos de impactos ambientais, estudos estes aplicados a projetos de infraestrutura, precisam ter escala menor e, consequentemente, mais informação, pois a intervenção no território deve minimizar impactos ambientais."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Cartografia e Escalas"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Para além das guerras Rússia-Ucrânia e Israel-Palestina, estão em curso, em quase todos os continentes, conflitos que retratam mutações geopolíticas aceleradas. Há um movimento de redefinição de fronteiras até então reconhecidas pela comunidade internacional e, de certo modo, protegidas por um complexo arcabouço normativo. Na América Latina, por exemplo, a Venezuela reivindica da Guiana a região de Essequibo, cujo limite fronteiriço foi definido há 125 anos.\n(Adaptado de https://www.courrierinternational.com/article/analyse-depuis-les-guerres--en-ukraine-et-a-gaza-les-frontieres-ne-sont-plus-intangibles. Acesso em 06/06/2024.)\nTendo em vista seus conhecimentos e considerando o texto anterior, é correto dizer que a fronteira entre países é essencialmente",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "geométrica: trata-se de uma linha demarcada por formas geográficas tais como muros, cercas ou vias de circulação."
+        },
+        {
+          "letra": "B",
+          "texto": "política: trata-se de uma zona definida por meio de disputas e acordos internacionais pelo direito de uso de um determinado território."
+        },
+        {
+          "letra": "C",
+          "texto": "natural: trata-se de uma linha demarcada por meio de marcos geográficos tais como rios, mares, lagos, geleiras e montanhas."
+        },
+        {
+          "letra": "D",
+          "texto": "técnica: trata-se de uma zona definida por tratados e convenções locais que protegem a soberania do Estado-nação."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geopolítica e Fronteiras"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "(https://www.fao.org/faostat/es/#rankings/countries_by_commodity. Acesso em 23/05/2024.)\nOriginário do continente americano, o cacau pôde se difundir em regiões africanas com características naturais similares às encontradas na América do Sul, de tal modo que, na atualidade, o continente africano se tornou o maior produtor e exportador de cacau do mundo, sendo elo fundamental dos circuitos espaciais de produção, distribuição e consumo do chocolate no mundo.\nIndique a principal região cacaueira do continente africano, associando-a às condições socioambientais de produção.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "África ocidental, na costa do Golfo da Guiné, em áreas de floresta equatorial-tropical; cultivo sob forte custo ecológico e colheita manual."
+        },
+        {
+          "letra": "B",
+          "texto": "África setentrional, na costa do Estreito de Gibraltar, em áreas de floresta mediterrânea; cultivo com manejo sustentável da floresta e colheita mecanizada."
+        },
+        {
+          "letra": "C",
+          "texto": "África ocidental, na costa do Golfo da Guiné, em áreas de floresta mediterrânea; cultivo com manejo sustentável da floresta e colheita mecanizada."
+        },
+        {
+          "letra": "D",
+          "texto": "África setentrional, na costa do Estreito de Gibraltar, em áreas de floresta equatorial-tropical; cultivo sob forte custo ecológico e colheita manual."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Produção Agrícola Mundial"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Os escudos cristalinos são constituídos por rochas de idades pré-cambrianas que foram soerguidas e expostas; essa estrutura geológica não sofreu deformação no Éon Fanerozoico (período geológico iniciado há 543 milhões de anos e que se estende até o presente). Suas áreas são exploradas em todo o mundo por concentrarem recursos naturais em grande escala.\nA figura a seguir apresenta a extensão dos escudos cristalinos nos diferentes continentes.\n(Adaptado de CHRISTOPERSEN, R. W. Geossistemas: uma introdução à Geografia Física. 7.ed. Porto Alegre: Bookman, p. 363, 2012.)\nOs escudos cristalinos são formados por rochas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ígneas e metamórficas; apresentam combustíveis fósseis, a exemplo de petróleo e gás, explorados pela indústria petroquímica."
+        },
+        {
+          "letra": "B",
+          "texto": "sedimentares; apresentam jazidas de combustíveis fósseis, a exemplo de petróleo e gás, jazidas estas exploradas pela indústria siderúrgica."
+        },
+        {
+          "letra": "C",
+          "texto": "ígneas e metamórficas; apresentam jazidas de minerais metálicos, explorados em larga escala pela indústria siderúrgica."
+        },
+        {
+          "letra": "D",
+          "texto": "sedimentares; apresentam jazidas de minerais metálicos e não metálicos, explorados pela indústria petroquímica."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geologia e Relevo"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Leia o texto e observe a figura a seguir para responder às questões 5 e 6.\nOs meses de abril e maio de 2024 foram marcados tanto pela ocorrência de ondas de calor, que elevaram acima da média as temperaturas em estados das regiões Centro-Oeste, Sudeste e parte do Sul, quanto pela ocorrência de precipitações intensas e concentradas, que desencadearam alagamentos, inundações e movimentos gravitacionais de massa no Rio Grande do Sul. Essas regiões são marcadamente urbanizadas, abrigando grande contingente da população brasileira que vive em cidades, agora sujeitas à incidência de eventos extremos.\nFrente a esse cenário, são imprescindíveis, no enfrentamento dos problemas a curto, médio e longo prazos, as ações de planejamento territorial.\n(Elaboração COMVEST (2024), baseado nas seguintes fontes: https://noticias.uol.com.br/cotidiano/ultimas-noticias/2024/04/30/calor-espantoso-onda-nao-da-tregua-e-sp-pode--bater-recorde-historico.htm/; https://www.marinha.mil.br/chm/dados-do-smm-cartas--sinoticas/cartas-sinoticas. Acesso em 10/05/2024.)\nConsiderando os fenômenos meteorológicos atuantes no Brasil e tendo em vista as informações do texto e da figura anterior, pode-se afirmar que a ocorrência das",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "precipitações extremas no período apresentado ficou restrita ao Rio Grande do Sul, pois a frente fria não avançou, por conta do bloqueio decorrente da Baixa Pressão, em direção ao interior do país."
+        },
+        {
+          "letra": "B",
+          "texto": "ondas de calor no período está associada a eventos de precipitação extrema, pois as Altas Pressões Atmosféricas dão origem às nuvens de tempestades que formam as frentes frias."
+        },
+        {
+          "letra": "C",
+          "texto": "precipitações extremas no período ocorreu no centro das áreas de Alta Pressão e de Baixa Pressão, sendo que nas bordas desses sistemas se formaram as ondas de calor com tempo seco e temperaturas altas."
+        },
+        {
+          "letra": "D",
+          "texto": "ondas de calor tem origem na formação de zonas de Alta Pressão; essas zonas, além de formarem tempo seco e, nesse caso, temperatura elevada, bloqueiam o avanço de frentes frias para o interior do país."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Leia o texto e observe a figura a seguir para responder às questões 5 e 6.\nOs meses de abril e maio de 2024 foram marcados tanto pela ocorrência de ondas de calor, que elevaram acima da média as temperaturas em estados das regiões Centro-Oeste, Sudeste e parte do Sul, quanto pela ocorrência de precipitações intensas e concentradas, que desencadearam alagamentos, inundações e movimentos gravitacionais de massa no Rio Grande do Sul. Essas regiões são marcadamente urbanizadas, abrigando grande contingente da população brasileira que vive em cidades, agora sujeitas à incidência de eventos extremos.\nFrente a esse cenário, são imprescindíveis, no enfrentamento dos problemas a curto, médio e longo prazos, as ações de planejamento territorial.\nNo contexto dos eventos extremos ligados às inundações, aos alagamentos e aos movimentos gravitacionais de massa nas grandes cidades e metrópoles brasileiras, é possível afirmar que são necessárias iniciativas de planejamento territorial com programas e metas de abrangência nacional. Tais iniciativas devem envolver, portanto, uma ação",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "normativa, de responsabilidade do ente municipal que define e custeia as estratégias para enfrentar fenômenos urgentes; deve também se apoiar na Política Nacional de Proteção e Defesa Civil e nos indivíduos que se voluntariam."
+        },
+        {
+          "letra": "B",
+          "texto": "sistêmica, de responsabilidade dos três entes federativos, ação esta que dê conta de enfrentar os graves problemas urbano-ambientais do país; a participação popular e o cumprimento da função social da cidade são instrumentos importantes."
+        },
+        {
+          "letra": "C",
+          "texto": "pragmática, de responsabilidade dos entes estaduais e Distrito Federal; para a gestão metropolitana, esses entes contratam equipes técnico-científicas de organizações não governamentais, conforme previsto no Estatuto da Cidade."
+        },
+        {
+          "letra": "D",
+          "texto": "setorial, de responsabilidade do ente federal; esse ente, conforme estabelecido no Estatuto da Metrópole, prevê um orçamento destinado a possíveis deslocamentos massivos da população metropolitana a áreas rurais em curto prazo."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Planejamento Urbano e Riscos Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "O mar contém uma grande quantidade de recursos vivos e não vivos e, por isso, se torna cada vez mais um espaço de disputa no contexto global. O Estado brasileiro vem utilizando o termo \"Amazônia Azul\", em analogia com \"Amazônia Verde\", para, com isso, designar uma extensa faixa oceânica costeira do Atlântico Sul, de elevada importância para o país. Essa faixa conta com grandes reservas de petróleo do pré-sal, elevada biodiversidade e outras riquezas naturais.\nA figura a seguir apresenta a compartimentação do espaço marítimo brasileiro.\n(Elaboração: COMVEST (2024), baseado na Agência de Notícias Marítimas (Marinha do Brasil). https://www.marinha.mil.br/agenciadenoticias/novo-mapa-do-brasil-e-expandido-com-5-7-milhoes-de-km2-de-area-maritima. Acesso em 04/07/2024.)\nConsiderando o espaço marítimo brasileiro e tendo como referência o traçado da linha da costa, é correto afirmar que o Brasil tem",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o controle da plataforma continental estendida, mas não o direito exclusivo de exploração econômica dos recursos no limite do Mar Territorial."
+        },
+        {
+          "letra": "B",
+          "texto": "soberania de exploração de recursos em toda a extensão da área da plataforma continental, conforme os tratados internacionais sobre o Direito do Mar."
+        },
+        {
+          "letra": "C",
+          "texto": "o controle das águas em alto mar com a autorização das Nações Unidas (ONU), ampliando a exploração para além do limite da Zona Econômica Exclusiva (ZEE)."
+        },
+        {
+          "letra": "D",
+          "texto": "soberania sobre a área do Mar Territorial e detém o direito de exploração e de uso dos recursos até o limite da Zona Econômica Exclusiva (ZEE)."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Direito do Mar e Geopolítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Mudanças climáticas têm influenciado correntes de ar na alta atmosfera. Em particular, na região do Atlântico Norte, onde ventos fortes geralmente sopram de oeste para leste, os tempos de voos têm sofrido alterações. Em uma viagem de Baltimore (EUA) a Londres (Reino Unido), o tempo total de voo é igual a oito horas quando não há vento em toda a trajetória. Considere agora uma viagem subdividida em três trechos (A, B e C), conforme a figura a seguir. No trecho B, na direção de oeste para leste, há vento com velocidade constante de módulo $|\\vec{v}_{vento, solo}| = 250$ km/h, em relação ao solo.\nSendo, nos três trechos, o módulo da velocidade média do avião em relação ao vento $|\\vec{v}_{avião, vento}| = 750$ km/h, podemos afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o módulo da velocidade média do avião em relação ao solo no trecho B é $|\\vec{v}_{avião, solo}| = 500$ km/h, e o tempo de viagem no mesmo trecho é $\\Delta t = 4,0$ h."
+        },
+        {
+          "letra": "B",
+          "texto": "o módulo da velocidade média do avião em relação ao solo no trecho B é $|\\vec{v}_{avião, solo}| = 500$ km/h, e o tempo de viagem no mesmo trecho é $\\Delta t = 2,0$ h."
+        },
+        {
+          "letra": "C",
+          "texto": "o módulo da velocidade média do avião em relação ao solo no trecho B é $|\\vec{v}_{avião, solo}| = 1000$ km/h, e o tempo de viagem no mesmo trecho é $\\Delta t = 4,0$ h."
+        },
+        {
+          "letra": "D",
+          "texto": "o módulo da velocidade média do avião em relação ao solo no trecho B é $|\\vec{v}_{avião, solo}| = 1000$ km/h, e o tempo de viagem no mesmo trecho é $\\Delta t = 2,0$ h."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Cinemática Vetorial"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Texto comum às questões 9 e 10.\nOs últimos anos testemunharam a retomada do interesse de alguns países pela exploração da Lua. Diversas missões com destino a esse satélite foram lançadas: Chandrayaan-3 (Índia, 2023), Luna 25 (Rússia, 2023), Peregrine Mission One (EUA, 2024), Slim (Japão, 2024) e Chang’e 6 (China, 2024).\nUma sonda descreve, em torno da Lua, uma órbita circular de raio $r = 1,848 \\times 10^6$ m e dá uma volta completa num período $T = 2,0$ h. Nesse movimento circular uniforme, qual a velocidade escalar da sonda em relação ao centro da Lua?\nSe necessário, use $\\pi \\approx 3,0$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "256,6 m/s."
+        },
+        {
+          "letra": "B",
+          "texto": "1540 m/s."
+        },
+        {
+          "letra": "C",
+          "texto": "3696 km/s."
+        },
+        {
+          "letra": "D",
+          "texto": "5544 km/s."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Movimento Circular Uniforme"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Texto comum às questões 9 e 10.\nOs últimos anos testemunharam a retomada do interesse de alguns países pela exploração da Lua. Diversas missões com destino a esse satélite foram lançadas: Chandrayaan-3 (Índia, 2023), Luna 25 (Rússia, 2023), Peregrine Mission One (EUA, 2024), Slim (Japão, 2024) e Chang’e 6 (China, 2024).\nAo longo da linha que une o centro da Terra ao da Lua (ver figura A), há um ponto P para o qual as forças gravitacionais da Terra, $\\vec{F}_{Terra}$, e da Lua, $\\vec{F}_{Lua}$, exercidas sobre uma sonda, têm módulos iguais e sentidos opostos. Isso significa que, no ponto P, essas duas forças se cancelam.\nO gráfico da figura B representa a componente da aceleração resultante a das forças $\\vec{F}_{Terra}$ e $\\vec{F}_{Lua}$ ao longo da referida linha, sendo r a distância ao centro da Terra e $d = 380 000$ km a distância Terra-Lua. Valores positivos de a indicam que o vetor aceleração aponta para a Lua, enquanto que valores negativos de a implicam que esse vetor aponta para a Terra.\nO ponto P fica aproximadamente a que distância do centro da Lua?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "38000 km."
+        },
+        {
+          "letra": "B",
+          "texto": "114000 km."
+        },
+        {
+          "letra": "C",
+          "texto": "266 000 km."
+        },
+        {
+          "letra": "D",
+          "texto": "342 000 km."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Gravitação Universal"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "O projeto internacional DUNE (Deep Underground Neutrino Experiment) é um gigantesco experimento idealizado para o estudo de neutrinos. Para a detecção da luz emitida quando os neutrinos atravessam enormes tanques de argônio líquido, foi projetado na Unicamp um dispositivo chamado Arapuca, cuja função é aumentar a área de coleta da luz, confinando-a no interior de uma caixa que contém os sensores. Antes de entrar na Arapuca, a luz emitida, de comprimento de onda $\\lambda_1 = 128$ nm, incide num material que tem por finalidade modificar o comprimento de onda da radiação, de modo que, ao emergir desse material, o novo comprimento de onda da luz passe a ser $\\lambda_2 = 350$ nm. Considere que, nessa etapa do experimento, ambos os feixes luminosos de comprimentos de onda $\\lambda_1$ e $\\lambda_2$ propagam-se no mesmo meio. Sendo $f_1$ a frequência e $v_1$ a velocidade da luz no comprimento de onda $\\lambda_1$, e $f_2$ a frequência e $v_2$ a velocidade da luz no comprimento de onda $\\lambda_2$, pode-se afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a frequência $f_2$ é maior que a frequência $f_1$; a velocidade $v_2$ é igual à velocidade $v_1$."
+        },
+        {
+          "letra": "B",
+          "texto": "a frequência $f_2$ é menor que a frequência $f_1$; a velocidade $v_2$ é igual à velocidade $v_1$."
+        },
+        {
+          "letra": "C",
+          "texto": "a frequência $f_2$ é igual à frequência $f_1$; a velocidade $v_2$ é maior que a velocidade $v_1$."
+        },
+        {
+          "letra": "D",
+          "texto": "a frequência $f_2$ é igual à frequência $f_1$; a velocidade $v_2$ é menor que a velocidade $v_1$."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Ondulatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Pesquisas recentes demonstraram que alguns compostos, como o $ZnW_2O_8$, apresentam coeficiente de dilatação térmica linear ($\\alpha$) negativo, diferentemente da maioria dos materiais, que se expandem com o aquecimento. O gráfico a seguir ilustra a variação, em função da temperatura, do comprimento L de uma barra dessa classe de materiais.\nConsiderando que o coeficiente de dilatação $\\alpha$ seja aproximadamente constante no intervalo de temperatura entre $0^{\\circ}C$ e $50^{\\circ}C$, pode-se dizer que o valor de $\\alpha$ nesse intervalo é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$-1,0 \\times 10^{-7} \\,^{\\circ}C^{-1}$."
+        },
+        {
+          "letra": "B",
+          "texto": "$-5,0 \\times 10^{-6} \\,^{\\circ}C^{-1}$."
+        },
+        {
+          "letra": "C",
+          "texto": "$-2,5 \\times 10^{-4} \\,^{\\circ}C^{-1}$."
+        },
+        {
+          "letra": "D",
+          "texto": "$-4,0 \\times 10^{-2} \\,^{\\circ}C^{-1}$."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Dilatação Térmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Texto comum às questões 13 e 14.\nA energia solar desempenha papel substancial nas soluções energéticas de desenvolvimento sustentável: além de fazer uso de tecnologia pouco agressiva ao ambiente, é uma enorme fonte de energia renovável.\nOperando em condições ótimas, um painel solar gera energia elétrica numa potência $P = 462$ W, com uma diferença de potencial $U_{painel} = 42$ V nos seus terminais. Para que a energia gerada seja armazenada numa bateria de diferença de potencial $U_{bat} = 12$ V, usa-se um dispositivo que ajusta a diferença de potencial, dispositivo este chamado de controlador de carga (ver figura). Se, numa situação ideal, toda a energia gerada pelo painel é armazenada na bateria, quais os valores das correntes elétricas $i_{painel}$ e $i_{bat}$ nos terminais do painel e da bateria, respectivamente?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$i_{painel} = 11$ A e $i_{bat} = 38,5$ A."
+        },
+        {
+          "letra": "B",
+          "texto": "$i_{painel} = 11$ A e $i_{bat} = 3,1$ A."
+        },
+        {
+          "letra": "C",
+          "texto": "$i_{painel} = 134,75$ A e $i_{bat} = 38,5$ A."
+        },
+        {
+          "letra": "D",
+          "texto": "$i_{painel} = 134,75$ A e $i_{bat} = 3,1$ A."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Eletrodinâmica",
+        "Física – Potência Elétrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Texto comum às questões 13 e 14.\nA energia solar desempenha papel substancial nas soluções energéticas de desenvolvimento sustentável: além de fazer uso de tecnologia pouco agressiva ao ambiente, é uma enorme fonte de energia renovável.\nA área de um painel solar que gera uma potência elétrica $P = 462$ W é $A = 2,5 \\, m^2$. A intensidade da radiação solar que incide no painel, ou seja, a potência da radiação solar por unidade de área do painel, é $I_{solar} = 924 \\, W/m^2$. Qual é a eficiência do painel solar, ou seja, qual é a razão entre a energia elétrica gerada e a energia solar que incide no painel num dado intervalo de tempo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 %."
+        },
+        {
+          "letra": "B",
+          "texto": "20 %."
+        },
+        {
+          "letra": "C",
+          "texto": "50 %."
+        },
+        {
+          "letra": "D",
+          "texto": "80 %."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Energia, Potência e Rendimento"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Leia o texto a seguir.\nPolice under fire after threat to arrest 'openly Jewish' man near pro-Palestinian protest\nScotland Yard criticised after suggesting Gideon Falter's presence was 'provocative' and he was 'antagonising' protesters\n(https://www.telegraph.co.uk/news/2024/04/19/. Acesso em 20/04/2024.)\nDepreende-se, da leitura desse texto, que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a polícia sofreu ameaças depois de prender um cidadão judeu que estaria provocando participantes de um protesto pró-Palestina."
+        },
+        {
+          "letra": "B",
+          "texto": "em um protesto pró-Palestina, a ação da polícia foi criticada, pois os policiais teriam cogitado prender Gideon Falter, que estaria confrontando manifestantes."
+        },
+        {
+          "letra": "C",
+          "texto": "a Scotland Yard criticou a ação do cidadão Gideon Falter, que estaria provocando participantes de um protesto pró-Palestina."
+        },
+        {
+          "letra": "D",
+          "texto": "em um protesto pró-Palestina, a Scotland Yard criticou a insinuação de que a polícia teria ameaçado prender um cidadão que estaria confrontando manifestantes."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "A imagem a seguir apresenta a transcrição de um diálogo em um vídeo publicado no Instagram.\nI used to have trouble talking to my younger patients.\nUnfortunately, the X-ray reveals a compound fracture.\nI don't understand.\nBut thanks to Duolingo, I learned fluent Gen Z!\nBro, I'll spill the tea: vibes are sus. These test results are not giving. Don't worry, we finna give your leg a high key glow up. No cap!\nGo off, bestie!\n(Adaptado de https://www.instagram.com/dhar.mann. Acesso em 12/04/2024.)\nNo diálogo, a principal característica da reformulação da fala da médica é a inserção de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "expressões que utilizam verbos frasais para recontextualizar o tratamento da paciente."
+        },
+        {
+          "letra": "B",
+          "texto": "abreviações de substantivos, através das quais a médica amplia as informações do caso."
+        },
+        {
+          "letra": "C",
+          "texto": "gírias que utilizam diversas classes de palavras para especificar melhor o diagnóstico da paciente."
+        },
+        {
+          "letra": "D",
+          "texto": "vocábulos marcados pela oralidade, através dos quais a médica atualiza os procedimentos futuros."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Vocabulário e Gírias (Slang)"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Use as informações do texto e da figura a seguir para a escolha da alternativa correta.\nImages generated with artificial intelligence (AI) are often not faithful representations of reality. The chart illustrates the level of disparity between a realistic representation of race and gender in various professions and the images generated by Al. The center line in this graph means equal representation. In one case, Al-generated images exclusively represented a certain profession as being held by white males, even though it is actually held by a range of men, women, white, and non-white people. In another case, although more than half of the people holding this position self-identified as white, Al represented it as being held solely by women who were primarily non-white.\n(Adaptado de https://www.nature.com/articles/d41586-024-00674-9. Acesso em 02/05/2024.)\nConsiderando as informações da figura, quais as duas profissões referidas no texto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Motorista de taxi e comissário(a) de bordo."
+        },
+        {
+          "letra": "B",
+          "texto": "Chef de cozinha e enfermeiro(a)."
+        },
+        {
+          "letra": "C",
+          "texto": "Designer de software e trabalhador(a) doméstico(a)."
+        },
+        {
+          "letra": "D",
+          "texto": "Piloto(a) e cozinheiro(a)."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Texto comum às questões 18 e 19.\nTexto 1\nThe fact that so few African Americans write science fiction is perplexing since they, in a very real sense, inhabit a sci-fi nightmare in which unseen but no less palpable acts of intolerance frustrate their movement; official histories undo what has been done; and technology is too often brought to bear on black bodies. Moreover, the sublegitimate status of science fiction in literature mirrors the subaltern position to which blacks have been relegated throughout American history. The notion of Afrofuturism gives rise to a troubling antinomy: can a community whose past has been deliberately rubbed out, and whose energies have been consumed by the search for legible traces of its history, imagine possible futures?\n(Adaptado de DERY, M. Black to the future: interviews with Samuel R. Delany, Greg Tate, and Tricia Rose. In: ______ (Ed.) The Discourse of cyberculture. Durham; London: Duke University Press, p. 179-222, 1994.)\nDe acordo com o texto 1, a escassez de autores afro-americanos em obras de ficção científica representa um",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pesadelo que retrata o apagamento sistemático dos avanços culturais da comunidade negra."
+        },
+        {
+          "letra": "B",
+          "texto": "protesto contra o processo de exclusão e de subalternização dessas pessoas na sociedade."
+        },
+        {
+          "letra": "C",
+          "texto": "movimento explícito que tem por objetivo deslegitimar o passado e a história do movimento negro."
+        },
+        {
+          "letra": "D",
+          "texto": "paradoxo que se deve à semelhança entre as violências que vivem e ações retratadas nessas obras."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Texto comum às questões 18 e 19.\nTexto 1\nThe fact that so few African Americans write science fiction is perplexing since they, in a very real sense, inhabit a sci-fi nightmare in which unseen but no less palpable acts of intolerance frustrate their movement; official histories undo what has been done; and technology is too often brought to bear on black bodies. Moreover, the sublegitimate status of science fiction in literature mirrors the subaltern position to which blacks have been relegated throughout American history. The notion of Afrofuturism gives rise to a troubling antinomy: can a community whose past has been deliberately rubbed out, and whose energies have been consumed by the search for legible traces of its history, imagine possible futures?\n(Adaptado de DERY, M. Black to the future: interviews with Samuel R. Delany, Greg Tate, and Tricia Rose. In: ______ (Ed.) The Discourse of cyberculture. Durham; London: Duke University Press, p. 179-222, 1994.)\nPara responder questão 19, leia o texto 2 e retome o texto 1.\nTexto 2\n\"Parable of the Talents\"\n(Octavia E. Butler)\n\"To survive,\nLet the past\nTeach you--\nPast customs,\nStruggles,\nLeaders and thinkers.\nLet\nThese\nHelp you.\nLet them inspire you,\nWarn you,\nGive you strength.\nBut beware:\nGod is Change.\nPast is past.\nWhat was\nCannot\nCome again.\nTo survive,\nknow the past.\nLet it touch you.\nThen let\nThe past Go.”\n(BUTLER, Octavia E. Parable of the Talents. New York, Durham and London: Open Road, 1998.)\nO texto 2 toca em um aspecto central do afrofuturismo e remete ao tema do questionamento do texto 1. Assim, pode-se dizer que o poema reconhece que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o passado pode contribuir para a construção de futuros possíveis, mas não pode ser repetido."
+        },
+        {
+          "letra": "B",
+          "texto": "a imaginação de futuros possíveis está condicionada ao ensino sobre líderes religiosos do passado."
+        },
+        {
+          "letra": "C",
+          "texto": "o apagamento do passado pode trazer ensinamentos, mas isso não garante a criação de futuros possíveis."
+        },
+        {
+          "letra": "D",
+          "texto": "a sobrevivência em futuros possíveis requer que os costumes e as dores do passado sejam esquecidos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto e Poema"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "O post a seguir foi retirado da rede social de ALOK, artista cujos trabalhos abordam questões de gênero e identidade.\nalokvmenon • Follow\nMy first word was irony. Growing up a boy, they called me too feminine. When I finally claimed femininity as my own, they called me a man. These are grammar lessons: some of us are only allowed to be thought, never to think. When they insist that our pronouns violate grammar to some degree, they are right. Grammar is less about the mechanics of language, more the monopoly of it. It's not just about who can speak, but who gets to speak. He who controls the word controls the world. What they mean is: don't object to remaining object. You are not a subject (unless you subject yourself to me). Subject. Predicate. Power. What this means is that we could both launch the same words and they would still land in different places. I could spend the rest of my life articulating every detail, every grain, every follicle. And still they would not understand. Because of what I look like. No: because of what they feel about what I look like. This is what it feels like to be brown, trans, femme, and alive.\n(Adaptado de www.instagram.com/p/C51W1v8vXo9/. Acesso em 22/04/2024.)\nNo post, a argumentação é articulada a partir dos diferentes sentidos das palavras",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"gramática\" e \"pronomes\", pois o ensino, nas escolas, desses temas invisibiliza pessoas não binárias as quais supostamente violam regras gramaticais."
+        },
+        {
+          "letra": "B",
+          "texto": "\"sujeito\" e \"objeto\", pois esses termos só são usados para pessoas não binárias quando elas se sujeitam e aceitam o controle por aqueles que têm poder."
+        },
+        {
+          "letra": "C",
+          "texto": "\"sujeito\" e \"predicado\", pois as relações de poder hierárquicas impedem que pessoas não binárias se expressem e assumam o controle de suas palavras."
+        },
+        {
+          "letra": "D",
+          "texto": "\"objeto\" e \"pronomes”, pois embora as pessoas não binárias escolham seus pronomes, elas ainda são objetificadas devido às suas aparências físicas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de Texto",
+        "Sociologia – Gênero e Identidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Leia o resumo de uma pesquisa que, em 2021, já alertava para questões climáticas e fatores a elas relacionados.\nPolitics of attributing extreme events to climate change\nClimate change shapes weather events. However, describing it as the cause of disasters can be misleading, since disasters are caused by pre-existing fragilities and inequalities on the ground. Attribution is not neutral. Hence, analytic frames that attribute disaster to climate can divert attention from place-based vulnerabilities and their sociopolitical causes. While politicians may blame climate change, the public may hold the government accountable for inadequate investments in flood or drought prevention. To be strategic and moral, framing choices must therefore be sensitive to context and to how the values implicit within analytic frames about the causes of disasters shape policy responses. Such sensitivity requires multicausal analysis of weather-linked disasters to reduce the damages. Through examples from around the world, especially Brazil, we discuss how and why climate-centric disaster framing can erase from view—and, thus, from policy agendas—the very socioeconomic and political factors that centrally cause vulnerability and suffering in weather extremes.\n(Adaptado de https://wires.onlinelibrary.wiley.com/doi/full/10.1002/wcc.750. Acesso em 15/05/2024.)\nQual alternativa expressa corretamente os argumentos dos autores do texto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Culpar, por desastres ambientais, os locais de vulnerabilidade é uma estratégia para neutralizar a responsabilidade humana por esses acontecimentos."
+        },
+        {
+          "letra": "B",
+          "texto": "É importante que a discussão sobre desastres ambientais considere o clima como fator central para a redução dos danos decorrentes desses eventos."
+        },
+        {
+          "letra": "C",
+          "texto": "Os políticos e o público falham por não reconhecerem que as políticas públicas são cruciais para a criação de estratégias de prevenção contra enchentes."
+        },
+        {
+          "letra": "D",
+          "texto": "Ignorar o protagonismo de questões políticas em casos de desastres ambientais omite a relação direta entre a esfera política e as causas e efeitos dessas catástrofes."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto",
+        "Sociologia – Meio Ambiente e Sociedade"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Sócrates: - [...] Pois segundo entendo, no limite do cognoscível é que se avista, a custo, a ideia do Bem; e, uma vez avistada, compreende-se que ela é para todos a causa de quanto há de justo e belo; que no mundo visível, foi ela que criou a luz, da qual é senhora; e que no mundo inteligível, é ela a senhora da verdade e da inteligência, e que é preciso vê-la para se ser sensato na vida particular e pública.\nGlauco: - Concordo também, até onde sou capaz de seguir a tua imagem.\n(Adaptado de PLATÃO. A República. Lisboa: Fundação Calouste Gulbenkian, 517b6-c5.)\nO diálogo anterior aparece em uma passagem da obra A República, de Platão, trecho que ficou conhecido como \"o mito da caverna\". Sobre esse diálogo, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O diálogo trata da ideia do Bem, causa do justo, do belo, da verdade e da inteligência; o Bem é prontamente visível aos habitantes da caverna."
+        },
+        {
+          "letra": "B",
+          "texto": "Por ser causa da justiça e senhora da verdade e da inteligência, a ideia do Bem orienta o comportamento dos habitantes da caverna, na sua vida particular e pública."
+        },
+        {
+          "letra": "C",
+          "texto": "Embora não seja facilmente cognoscível, a Ideia do Bem – enquanto causa do justo e do belo – não é prescindível para a tomada de boas decisões na cidade."
+        },
+        {
+          "letra": "D",
+          "texto": "O diálogo entre Sócrates e Glauco trata da Ideia do Bem, que - por situar-se no limite do cognoscível – permanece a todos incognoscível."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Filosofia – Filosofia Antiga",
+        "Filosofia – Platão"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Mary Wollstonecraft abre sua obra, Reivindicações dos direitos da mulher (1792), com uma carta ao Sr. Talleyrand-Périgord, antigo bispo de Autun e político ativo durante a Revolução Francesa. O bispo propõe nova Constituição, o que foi apresentado e discutido na Assembleia revolucionária. Nessa carta, Wollstonecraft afirma:\n\"Mas, se as mulheres devem ser excluídas, sem voz, da participação dos direitos naturais da humanidade, prove antes, para afastar a acusação de injustiça e inconsistência, que elas são desprovidas de razão; de outro modo, essa falha em sua NOVA CONSTITUIÇÃO sempre mostrará que o homem deve de alguma forma agir como um tirano, e a tirania, quando mostra sua face despudorada em qualquer parte da sociedade, sempre solapa a moralidade\".\n(WOLLSTONECRAFT, M. Reivindicações dos direitos da mulher. São Paulo: Boitempo Editorial, p. 20, 2016.)\nAssinale a opção que melhor sintetiza a crítica de Wollstonecraft apresentada no excerto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ao abordar tanto a possibilidade de uma nova constituição quanto a tirania masculina, Wollstonecraft faz uma crítica ao absolutismo, finalmente derrubado, através da instauração da República e da Declaração dos Direitos do Homem, no contexto da Revolução Francesa."
+        },
+        {
+          "letra": "B",
+          "texto": "A crítica de Wollstonecraft recai sobre os homens que, ao serem tiranos com as mulheres, destroem a moral da sociedade. Ela defende a necessidade de uma nova constituição: que não seja injusta com o sexo feminino e conceda direitos às mulheres, ainda que não sejam racionais como os homens."
+        },
+        {
+          "letra": "C",
+          "texto": "A nova Constituição, defendida pelo Sr. Talleyrand-Périgord, é injusta porque retira das mulheres direitos conquistados em decorrência da Revolução Francesa, quando as mulheres passaram a ser reconhecidas como seres racionais e participantes da humanidade."
+        },
+        {
+          "letra": "D",
+          "texto": "A menos que seja provado que a racionalidade das mulheres é deficiente, se comparada à dos homens, excluí-las da Constituição é ato injusto, ainda que coerente com uma cultura que aceita a tirania masculina."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Filosofia – Filosofia Moderna",
+        "Filosofia – Feminismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Quando eu falo em adiar o fim do mundo, não é a este mundo em colapso que estou me referindo. Este tem um esquema tão violento que eu queria mais é que ele desaparecesse à meia noite de hoje e que amanhã a gente acordasse em um novo. No entanto, efetivamente, estamos atuando no sentido de uma transfiguração, desejando aquilo que o Nêgo Bispo chama de confluências, e não essa exorbitante euforia da monocultura, que reúne os birutas que celebram a necropolítica sobre a vida plural dos povos deste planeta. Ao contrário do que estão fazendo, confluências evoca um contexto de mundos diversos que podem se afetar. (...) Se o colonialismo nos causou um dano quase irreparável foi o de afirmar que somos todos iguais.\n(Adaptado de KRENAK, Ailton. Futuro ancestral. São Paulo: Companhia das Letras, p. 40-42, 2022.)\nAssinale a alternativa que explicita a crítica de Krenak à monocultura, tal como é enunciada no excerto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A monocultura praticada nos grandes latifúndios é responsável por diversos problemas ambientais e pela necropolítica."
+        },
+        {
+          "letra": "B",
+          "texto": "A monocultura, assim como a imposição colonial de um modelo cultural único, se expressa na recusa da pluralidade de povos e culturas."
+        },
+        {
+          "letra": "C",
+          "texto": "Adiar o fim do mundo requer o combate à monocultura na produção agrícola e a transfiguração deste mundo em que estamos vivendo."
+        },
+        {
+          "letra": "D",
+          "texto": "A monocultura, produtora de violências, é resultado do colonialismo e da necropolítica."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Filosofia – Filosofia Contemporânea",
+        "Sociologia – Questões Indígenas"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Nos estudos sobre a Antiguidade Clássica produzidos até o final do século XX, era costumeira a afirmação de que as mulheres em Atenas não participavam da política. A definição de \"política\" na Grécia, todavia, era feita a partir dos olhos do mundo moderno, e, nesse caso, era um sinônimo de \"cidadania\". O cidadão ateniense era homem, filho de pai e mãe atenienses. As mulheres, estrangeiros e escravos não gozavam do mesmo status. Após os anos de 2000, a partir de críticas de estudiosos, a definição de \"política” e de \"cidadania” na Grécia Clássica passou a ser repensada e a capacidade de ação das mulheres atenienses no espaço público foi redimensionada. Nesses estudos, as mulheres cidadãs de Atenas ganham visibilidade. Filhas de pai e mãe atenienses, nascidas em Atenas, tinham limitações de voto, mas desempenhavam funções no mundo cívico. Elas não podiam, por causa de seu sexo, ser juradas ou magistradas, por exemplo, mas estavam vivendo no mesmo universo público, sendo também cidadãs.\n(Adaptado de CUCHET, V. S. Quais direitos políticos para as cidadãs da Atenas clássica?. Hélade, 4(1), p. 143-158, 2018.)\nTendo em vista seus conhecimentos sobre Grécia Antiga e considerando o excerto anterior, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Desde o século XIX, os estudiosos defendem que o conceito de \"cidadania\" e o de \"política\" na democracia ateniense eram frágeis, sendo pertinentes aos homens da elite."
+        },
+        {
+          "letra": "B",
+          "texto": "Estudiosos afirmam que, na democracia ateniense, a cidadania e a política eram conceitos desvinculados; portanto, as mulheres atenienses estavam afastadas da vida pública."
+        },
+        {
+          "letra": "C",
+          "texto": "Desde os anos de 2000, os estudiosos passaram a reconhecer as mulheres da Antiguidade Clássica nascidas de pai e mãe atenienses como cidadãs plenas com direito ao voto."
+        },
+        {
+          "letra": "D",
+          "texto": "Novas pesquisas debatem os conceitos de \"cidadania\" e de \"política\", bem como a relação desses conceitos com as mulheres atenienses que poderiam ser definidas como cidadãs."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Grécia Antiga",
+        "Sociologia – Cidadania"
+      ]
+    }
+  ]
+}

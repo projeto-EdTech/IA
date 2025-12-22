@@ -1,0 +1,1850 @@
+{
+  "nomeUniversidade": "Universidade Presbiteriana Mackenzie",
+  "siglaUniversidade": "Mackenzie",
+  "nomeProva": "Vestibular 2025 - 2º Semestre",
+  "ano": 2025,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Textos para as questões de 01 a 06\n\nEmbora a língua falada pareça “mais simples” (quando comparada à escrita), isso não é verdade, já que ela não é uma organização homogênea. Pense, por exemplo, sobre como nascem as gírias e as expressões idiomáticas. Ao percebermos que elas surgem na língua oral, um pouco de reflexão nos leva a identificar a fala como o meio em que a língua se transforma antes que isso ocorra na escrita. Além disso, a concentração de estudos relacionados à língua escrita, praticamente até o século XIX, levou a algumas confusões, como a de estender normas do padrão literário para as normas de correção da própria língua.\nOutra constatação que pesa na balança a favor da necessidade dos estudos relacionados à fala ocorre com base na percepção de que, embora a maioria das línguas contemporâneas possa ser tanto falada quanto escrita, não há registros de sociedades humanas que tenham funcionado sem a comunicação pela fala – conquanto ocorra o contrário. Podemos exemplificar isso com a taxa brasileira de analfabetismo no início do século XX, que era de 65%, para mostrar que o não conhecimento da escrita não impedia a comunicação pela fala.\nPor outro lado, ocupar-se de compreender e registrar as alterações da língua falada é uma ação muito importante para entender a fluidez e as transformações pelas quais os idiomas passam.\nAinda hoje, não é incomum lermos abordagens que tratam a língua como se ela fosse um sistema completamente homogêneo. O que isso quer dizer e por que não é verdade? A pressuposição de que as línguas são empregadas da mesma forma por seus falantes é uma grande ilusão que contamina possíveis pesquisas e abordagens sobre qualquer língua. Dizer que determinada comunidade linguística emprega a língua de maneira homogênea é desconsiderar as variações e transformações realizadas individualmente, ou mesmo em diferentes etapas por subgrupos dentro dessa comunidade.\nAdaptado de Cleuza Cecato, Introdução aos fundamentos teóricos da linguística\n\nQuestão nº 01\nA tese central defendida pelo texto relaciona-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à defesa de que os usos escritos da língua portuguesa são superiores àqueles da oralidade."
+        },
+        {
+          "letra": "B",
+          "texto": "ao fato de que inexistem formas de estudo sobre a oralidade na língua portuguesa, pois só é possível analisar a língua escrita."
+        },
+        {
+          "letra": "C",
+          "texto": "à insistência no fato de que uma língua é homogênea – seja na escrita, seja na oralidade – e, por isso, é estável na sociedade e no tempo."
+        },
+        {
+          "letra": "D",
+          "texto": "à importância de estudos da língua falada, visto que esses podem auxiliar na compreensão do dinamismo e mutabilidade característicos de todas as línguas."
+        },
+        {
+          "letra": "E",
+          "texto": "ao modo como ineficazmente governos vêm lidando com o analfabetismo, que ainda apresenta taxas muito altas na sociedade."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Depreende-se corretamente da leitura do texto que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "sociedades que fazem uso da escrita apresentam taxas de analfabetismo menores do que as sociedades apenas oralizadas."
+        },
+        {
+          "letra": "B",
+          "texto": "toda língua é heterogênea, por apresentar fenômenos de variação linguística e por sofrer mudanças ao longo dos tempos."
+        },
+        {
+          "letra": "C",
+          "texto": "o uso de escrita promove maior presença de falantes cultos na sociedade, diminuindo, assim, fenômenos de variação linguística."
+        },
+        {
+          "letra": "D",
+          "texto": "é impossível estudar de modo científico a língua falada, diante da notável heterogeneidade como os falantes usam a oralidade."
+        },
+        {
+          "letra": "E",
+          "texto": "muitas confusões na compreensão do que é uma língua e de como se comportam seus falantes são resultantes de crescente taxas de analfabetismo."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Variação Linguística"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O texto apresenta todos os elementos característicos daqueles associados ao tipo narrativo."
+        },
+        {
+          "letra": "B",
+          "texto": "A presença de verbos e pronomes em 1ª. pessoa do plural permite a classificação tipológica do texto como descritivo."
+        },
+        {
+          "letra": "C",
+          "texto": "A função de linguagem predominante no texto é a função emotiva, pois há muitas marcas que evidenciam a subjetividade presente do narrador."
+        },
+        {
+          "letra": "D",
+          "texto": "Por ter como objetivo central a discussão das possibilidades poéticas dos usos orais da língua, o texto se caracteriza fortemente como metafórico."
+        },
+        {
+          "letra": "E",
+          "texto": "O teor do texto é explicativo e tem como função predominante aquela denominada de função referencial."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Tipologia Textual",
+        "Língua Portuguesa – Funções da Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Leia as afirmações abaixo.\nI. As aspas em mais simples (linha 01) indicam que o sentido da expressão deve ser nuançado, ainda que ela seja empregada para caracterizar a fala.\nII. O texto faz referência a expressões idiomáticas. São exemplos dessas no português: \"dar uma mãozinha”; “chutar o balde\".\nIII. A expressão pesa na balança (linha 11) é empregada em sentido metafórico e poderia corretamente ser substituída pelo verbo “conta\".\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas a afirmação I está correta."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas a afirmação II está correta."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas a afirmação III está correta."
+        },
+        {
+          "letra": "D",
+          "texto": "Todas as afirmações estão corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Nenhuma das afirmações está correta."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Assinale a alternativa INCORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O uso da expressão não é uma organização homogênea (linhas 02-03) implica a afirmação de que uma língua tem fenômenos de variação e é, portanto, heterogênea."
+        },
+        {
+          "letra": "B",
+          "texto": "Está pressuposto em a fala como o meio em que a língua se transforma antes que isso ocorra na escrita (linhas 06-07) o fato de que a língua muda ao longo do tempo."
+        },
+        {
+          "letra": "C",
+          "texto": "Delimitação temporal em praticamente até o século XIX (linha 08) conduz à afirmação implícita de que estudos da escrita só ocorreram nesse período histórico."
+        },
+        {
+          "letra": "D",
+          "texto": "O uso de um dado quantitativo (a maioria, linha 13) contribui para reforçar a informação de que a oralidade é mais frequente que a escrita."
+        },
+        {
+          "letra": "E",
+          "texto": "O emprego de um verbo como contamina (linha 28) revela o posicionamento crítico do autor do texto sobre a percepção de que línguas são homogêneas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O emprego da conjunção embora (linha 01) denota sentido de consequência em relação ao que será afirmado posteriormente."
+        },
+        {
+          "letra": "B",
+          "texto": "No trecho como o meio em que a língua se transforma (linha 06), é facultativo o emprego da preposição em de acordo com a norma culta escrita."
+        },
+        {
+          "letra": "C",
+          "texto": "A conjunção com sentido adversativo conquanto (linha 16) poderia ser substituída pela palavra sinônima “embora” sem prejuízo do sentido textual."
+        },
+        {
+          "letra": "D",
+          "texto": "A expressão como se ela fosse (linha 25) indica que a afirmação feita sobre a língua no período deve ser entendida como fato certo e indiscutível."
+        },
+        {
+          "letra": "E",
+          "texto": "Por que (linha 26) também poderia ser grafado como \"porque” de acordo com as novas regras ortográficas, sem prejuízo para o uso da norma culta escrita."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Gramática",
+        "Língua Portuguesa – Conjunções"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Texto para as questões 07 e 08\n\nNo meio do caminho\n\nv. 01 No meio do caminho tinha uma pedra\nv. 02 tinha uma pedra no meio do caminho\nv. 03 tinha uma pedra\nv. 04 no meio do caminho tinha uma pedra.\n\nv. 05 Nunca me esquecerei desse acontecimento\nv. 06 na vida de minhas retinas tão fatigadas.\nv. 07 Nunca me esquecerei que no meio do caminho\nv. 08 tinha uma pedra\nv. 09 tinha uma pedra no meio do caminho\nv. 10 no meio do caminho tinha uma pedra.\n\nCarlos Drummond de Andrade (1902-1987)\n\nQuestão nº 07\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O poema empreende a típica rearticulação poética com a tradição literária que foi a marca dos autores pertencentes à terceira geração modernista. Neste sentido, Drummond se mostra influenciado pela poesia de João Cabral de Melo Neto."
+        },
+        {
+          "letra": "B",
+          "texto": "Fiel ao gosto drummondiano pelas expressões tradicionais da poesia, “No meio do caminho” foi escrito dentro dos ditames de uma das mais tradicionais formas fixas da língua portuguesa: o soneto."
+        },
+        {
+          "letra": "C",
+          "texto": "Erroneamente contextualizado em meio à literatura modernista brasileira, Carlos Drummond de Andrade é na verdade uma das maiores vozes da poesia brasileira no século XXI. A linguagem de \"No meio do caminho\" comprova isto."
+        },
+        {
+          "letra": "D",
+          "texto": "A linguagem através da qual o poema foi escrito, marcado pelo experimentalismo, pela anti-poesia e pelo antissentimentalismo, ecoa uma irônica reflexão do Eu lírico sobre os desafios da existência."
+        },
+        {
+          "letra": "E",
+          "texto": "A expressão retinas fatigadas no poema “No meio do caminho\" indica um viés pouco comentado na poesia drummondiana: a influência do Naturalismo. No meio do caminho é um típico poema de ideologia darwinista-determinista."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Modernismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Leia as afirmações abaixo.\nI. Publicado em livro, na obra Alguma Poesia (1930), “No meio do caminho\" é um poema que se tornou símbolo do modernismo brasileiro, suscitando, na época de sua publicação, críticas e defesas apaixonadas por parte de seus leitores.\nII. Apesar do renome que Drummond ganhou após a repercussão literária de \"No meio do caminho\", o escritor mineiro abandonou a poesia e se consolidou como um dos principais romancistas regionalistas da América Latina.\nIII. A poesia de Carlos Drummond de Andrade é multifacetada, comportando, ao longo da carreira do poeta mineiro, diferentes fases. Assim, o poema \"No meio do caminho” representa um dentre os diversos caminhos que Drummond trilhou na escrita da poesia.\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As afirmações I e II estão corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "As afirmações I e III estão corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "As afirmações II e III estão corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Todas as afirmações estão corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Nenhuma das afirmações está correta."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Modernismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Sobre a obra da escritora Cecilia Meireles (1901-1964), assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Meireles se dedicou com exclusividade à escrita da poesia. Ao contrário de outros colegas modernistas, portanto, ela não experimentou a escrita da prosa, seja em ensaios ou na escrita de crônicas."
+        },
+        {
+          "letra": "B",
+          "texto": "Surgida nos movimentos de renovação da poesia brasileira do século XIX, a poesia de Cecília Meireles é uma das mais altas expressões do Simbolismo. Neste sentido, seus versos ombreiam a poesia de Cruz e Sousa."
+        },
+        {
+          "letra": "C",
+          "texto": "Sua poesia é marcada pela exploração dos estados íntimos da alma humana. No entanto, uma das suas principais obras, o “Romanceiro da Inconfidência”, é marcado por uma dimensão épica e pela crítica social."
+        },
+        {
+          "letra": "D",
+          "texto": "Escritora de carreira obscura, Cecilia Meireles teve sua obra descoberta somente no início dos anos 2000, graças ao surgimento de diversos estudos acadêmicos sobre a sua vida e sua obra."
+        },
+        {
+          "letra": "E",
+          "texto": "Da leitura de sua poesia, saltam à vista as recorrentes referências à poesia norte-americana. Não se fundamenta, por conseguinte, a associação da sua poesia à tradição lírica típica da língua portuguesa."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Modernismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Leia as afirmações abaixo sobre o gênero literário conto.\nI. Ao contrário do que o próprio nome diz, a palavra conto pode ser considerada o sinônimo de outro gênero literário bastante popular, o romance, porque em ambos é contada uma história.\nII. Alguns dos mais importantes autores brasileiros, a exemplo de Machado de Assis, Clarice Lispector e João Guimarães Rosa, se dedicaram com afinco a escrita de contos.\nIII. O conto pode ser definido como uma narrativa em prosa, ficcional e de curta extensão, que geralmente desenvolve um conflito entre personagens e/ou entre estes e o mundo que os cerca.\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As afirmações I e II estão corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "As afirmações I e III estão corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "As afirmações II e III estão corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Todas as afirmações estão corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Nenhuma das afirmações está correta."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Gêneros Literários",
+        "Língua Portuguesa – Teoria Literária"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Read the comic strip below and answer questions 11 and 12:\n\nFROM: https://www.gocomics.com/stonesoup on April 6th, 2025.\n\nQuestão nº 11\nThe lady dressing the dark sweater seems angry by the end of the strip because...",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "she thinks her friends, in the white sweater, should have tried her sandwich."
+        },
+        {
+          "letra": "B",
+          "texto": "her friend told her she was fat!"
+        },
+        {
+          "letra": "C",
+          "texto": "she feels oppressed by a weight-vigilant society."
+        },
+        {
+          "letra": "D",
+          "texto": "she wanted another peanut butter and honey sandwich."
+        },
+        {
+          "letra": "E",
+          "texto": "there was no honey in her sandwich."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Considering the word “fat” (in boldface, located in the third box), select the correct alternative:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "It is an uncountable noun, therefore it shows no plural form."
+        },
+        {
+          "letra": "B",
+          "texto": "It only refers to the sandwich filling."
+        },
+        {
+          "letra": "C",
+          "texto": "It is an adjective and, as such, should be used before a noun."
+        },
+        {
+          "letra": "D",
+          "texto": "It refers to the direct object of that question."
+        },
+        {
+          "letra": "E",
+          "texto": "It refers to the size of the sandwich."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Gramática",
+        "Inglês – Classes de Palavras"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Now, read this text and answer questions 13 to 15:\n\nDjokovic opens up when talking about Fonseca: “He is fantastic, but we must not forget about...”\n\nThe Serbian was asked about the Brazilian and had no doubts in pointing out other young names that, according to him, we should also pay attention to.\n\nNovak Djokovic continues to advance and gain confidence in the Miami Open 2025. The Serbian overcame the obstacle of Camilo Ugo Carabelli to reach the round of 16, regaining his smile and returning to the path of victory in a tournament that, beyond his presence, has opened up in terms of favorites. Novak was asked in a press conference about the possibility of matching Connors' title record, whether being number one is still a goal for him... and about the great sensation of the tournament, a certain Joao Fonseca, who captivates the Latin crowd.\n\"You could say so, yes. It would be incredible to achieve that record, for sure. Connors is someone I admire and respect wholeheartedly. He has always supported me a lot in public, which I appreciate. It would be amazing. However, it is probably more difficult for me to achieve now than it was a few years ago. I am taking it step by step, we will see. I don't know how long I will keep competing, but I still enjoy it when I play well.\"\n- How does it feel to be the world number one with no one better than you? Is that a sensation you long to reclaim?\n“No, it's not something that matters much. If it comes as a consequence of great results and titles I can achieve in a season, then fantastic, but it's not my goal. My goal is to be able to play my best tennis in the Grand Slams and the tournaments I participate in. (...)\n- Evaluation of those days when you were number one\n“Those were different times, with different goals. I planned my route in a way that I played a lot, thought about points, where I had to defend and not, there were many thoughts devoted to that. (...) at that time there was more to think about in terms of setting objectives. There is less of that now, less pressure, for example, to feel like suddenly I have to play next week because I didn't earn enough points this week. I don't have that anymore. For me, nowadays it's about playing where I want to play, where I enjoy playing, and making the most of it.\"\n- Your opinion on João Fonseca\n“He's been talked about a lot in recent months, and rightfully so. He's a great tennis player. Very young. An incredible force from both sides of the baseline. Serve. He's a very complete player. The way he hits the ball is impressive, but even more so is how he handles nerves, especially as someone who doesn't have much experience yet at the highest level.”\n\"It's exciting for Brazil and for the tennis world. As I said in Australia, for the tennis ecosystem, it's very important to have future stars, in this case someone coming from Brazil, a huge country, with a large market, it's significant. Everyone knows that here in Miami he will have a lot of support.\"\n“He's a very entertaining player to watch, but he's not the only one. There's also Mensik. Perhaps, because people talk so much about Fonseca, they forget about Mensik. They are the same age. There's also Tien: all these players are very young, but they are already as good as their rankings suggest.\"\n\"He's a fantastic player to watch. I'm not sure if I should call it a product of the new, new generation. It's fantastic to see players emerging who have the potential to reach the highest levels and lead this sport. It's clear that Sinner and Alcaraz are the leaders of today, they are still very young, but these guys seem like they could knock on their doors in the coming years.” (...)\nFROM: https://www.puntodebreak.com/en/2025/03/24/djokovic-opens-up-when-talking- about-fonseca-he-is-fantastic-but-we-must-not-forget-about March 25th, 2025.\n\nQuestão nº 13\nConsidering the words in the box below (also in boldface in the text), choose the alternative that brings their antonyms:\n\novercame | wholeheartedly | achieve | significant",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "surpassed – generously – get there – insignificant"
+        },
+        {
+          "letra": "B",
+          "texto": "was defeated by – coldly – give up – unimportant"
+        },
+        {
+          "letra": "C",
+          "texto": "did not make it – selfishly – spend – trivial"
+        },
+        {
+          "letra": "D",
+          "texto": "lost – happily – lose – useless"
+        },
+        {
+          "letra": "E",
+          "texto": "ran over – unhappily – miss – meaningless"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Vocabulário",
+        "Inglês – Antônimos"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "According to Djokovich's interview, it is correct to affirm that:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "In Miami no one will support João Fonseca."
+        },
+        {
+          "letra": "B",
+          "texto": "He now thinks that being the world number one doesn't matter much, once it comes as a consequence of great results and titles achieved in a season."
+        },
+        {
+          "letra": "C",
+          "texto": "Nowadays, his main goal is to win all the competitions he participates and prove he is still the best."
+        },
+        {
+          "letra": "D",
+          "texto": "Fonseca is the only entertaining player he saw this season."
+        },
+        {
+          "letra": "E",
+          "texto": "The new tennis players cannot match the quality of Sinner and Alcaraz, the present leaders."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "In the sentence “(...) all these players are very young, but they are already as good as their rankings suggest”, in the comparison made we have a classic example of which degree of the adjective? Select:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Superlative."
+        },
+        {
+          "letra": "B",
+          "texto": "Comparative of Inferiority."
+        },
+        {
+          "letra": "C",
+          "texto": "Comparative of Inequality."
+        },
+        {
+          "letra": "D",
+          "texto": "Comparative of Equality."
+        },
+        {
+          "letra": "E",
+          "texto": "No comparison is made in the sentence."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Gramática",
+        "Inglês – Graus do Adjetivo"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Os pneus de avião são projetados de maneira especial para suportar condições extremas, como altas cargas, velocidades elevadas e temperaturas intensas durante a aterrissagem. Eles são fabricados com materiais resistentes ao calor e à pressão, pois o atrito com a pista durante o pouso gera uma grande quantidade de energia térmica.\n\nAlém disso, os pneus são preenchidos com nitrogênio ($N_2$), um gás inerte que reduz o risco de explosões. Durante a aterrissagem de um avião, devido ao atrito com a pista, o gás dentro dos pneus recebe 1,5 kJ de calor e devido à compressão do impacto (aterrissagem) no interior dos pneus, realiza um trabalho de 500 J sobre o gás. Considerando o nitrogênio dos pneus como um gás ideal e as transformações termodinâmicas sofridas nesse processo, marque o item correto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Devido à compressão do gás, no momento da aterrissagem, a pressão interna do gás diminui."
+        },
+        {
+          "letra": "B",
+          "texto": "A energia interna do gás sofre uma variação positiva de 1,0 kJ, o que indica uma elevação da temperatura no nitrogênio."
+        },
+        {
+          "letra": "C",
+          "texto": "A energia interna do gás sofre uma variação negativa de 1,0 kJ, o que indica uma diminuição da temperatura no nitrogênio."
+        },
+        {
+          "letra": "D",
+          "texto": "A energia interna do gás sofre uma variação positiva de 2,0 kJ, o que indica uma elevação da temperatura no nitrogênio."
+        },
+        {
+          "letra": "E",
+          "texto": "A energia interna do gás não sofre variação, mantendo constante a temperatura do nitrogênio."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Termodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Ana e Pedro encheram balões iguais para uma festa. Ana usou um inflador comum, enchendo seus balões com ar atmosférico, enquanto Pedro usou um cilindro de hélio. Após soltar os balões, Ana percebeu que os dela ficaram no chão, enquanto os de Pedro flutuaram no ar, mesmo sendo todos de mesmo volume. Sobre esse fenômeno, é correto afirmar.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O balão com ar atmosférico e o balão com hélio sofrem o mesmo empuxo, mas o hélio é mais denso e, por isso, flutua."
+        },
+        {
+          "letra": "B",
+          "texto": "O balão com ar atmosférico afunda, porque o empuxo é menor do que o peso do próprio balão, enquanto o balão com hélio não sofre empuxo algum."
+        },
+        {
+          "letra": "C",
+          "texto": "O balão com ar atmosférico flutua menos porque o empuxo é menor do que o seu peso, enquanto o balão com hélio sobe, porque seu peso é menor que o empuxo."
+        },
+        {
+          "letra": "D",
+          "texto": "O balão com hélio sobe, porque o hélio gera uma força adicional (força de arrasto) que empurra o balão para cima, enquanto o balão com ar não tem essa força extra."
+        },
+        {
+          "letra": "E",
+          "texto": "O balão com ar atmosférico afunda, porque o empuxo é maior do que o peso do próprio balão, enquanto o balão com hélio sofre um empuxo menor."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Hidrostática",
+        "Física – Empuxo"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Durante uma missão científica na superfície da Lua, um astronauta decidiu repetir um experimento famoso: soltou uma pena do alto de uma estrutura, observando sua queda em direção ao solo lunar. Como não há atmosfera na Lua, a resistência do ar é inexistente, permitindo que a pena caia em queda livre, acelerada apenas pela gravidade local.\n\nConsiderando o sistema formado por pena + Lua, e sabendo que não há perdas de energia para o meio externo, é correto afirmar que, durante a queda da pena, manteve-se constante:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a energia cinética da pena."
+        },
+        {
+          "letra": "B",
+          "texto": "a energia potencial gravitacional da pena."
+        },
+        {
+          "letra": "C",
+          "texto": "a diferença entre as energias cinética e potencial gravitacional."
+        },
+        {
+          "letra": "D",
+          "texto": "a energia total do sistema, que é a soma das energias cinética e potencial gravitacional."
+        },
+        {
+          "letra": "E",
+          "texto": "a força gravitacional exercida pela pena sobre a Lua."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Mecânica",
+        "Física – Conservação de Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "O efeito Joule ocorre quando uma corrente elétrica atravessa um condutor, gerando calor devido à resistência elétrica do material. Sobre esse fenômeno, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O efeito Joule ocorre apenas em condutores metálicos, pois materiais não metálicos não oferecem resistência à passagem da corrente elétrica."
+        },
+        {
+          "letra": "B",
+          "texto": "O efeito Joule é um fenômeno indesejável e não possui nenhuma aplicação prática na vida cotidiana."
+        },
+        {
+          "letra": "C",
+          "texto": "O efeito Joule só ocorre em circuitos de corrente alternada, pois em corrente contínua não há dissipação de energia na forma de calor."
+        },
+        {
+          "letra": "D",
+          "texto": "A energia dissipada por efeito Joule pode ser completamente eliminada em qualquer circuito apenas reduzindo a resistência do condutor."
+        },
+        {
+          "letra": "E",
+          "texto": "O efeito Joule é responsável pelo funcionamento de dispositivos como chuveiros elétricos e ferro de passar roupas, que convertem energia elétrica em calor."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Eletrodinâmica",
+        "Física – Efeito Joule"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Um vagão de montanha-russa de 300 kg parte do repouso no topo de uma colina com 30 m de altura. No ponto mais baixo da trajetória, ele entra em um looping de raio 10 m. Considerando que 15% da energia mecânica se perde por atrito até o topo do looping, qual é o valor aproximado da velocidade do vagão no topo do looping?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4,8 m/s"
+        },
+        {
+          "letra": "B",
+          "texto": "6,2 m/s"
+        },
+        {
+          "letra": "C",
+          "texto": "8,1 m/s"
+        },
+        {
+          "letra": "D",
+          "texto": "10,5 m/s"
+        },
+        {
+          "letra": "E",
+          "texto": "12,7 m/s"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Mecânica",
+        "Física – Conservação de Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Considere as seguintes afirmações a respeito da associação de resistores em série:\nI. A corrente elétrica que percorre todos os resistores em série é a mesma.\nII. A resistência equivalente é igual à soma das resistências associadas.\nIII. A diferença de potencial total aplicada divide-se proporcionalmente entre os resistores, de acordo com suas resistências.\nIV. A adição de um novo resistor em série diminui a resistência total do circuito.\n\nCom base nas afirmações acima, assinale a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I e II são verdadeiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas I, II e III são verdadeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas II e IV são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas III e IV são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as afirmações são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Eletrodinâmica",
+        "Física – Associação de Resistores"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Em uma aula prática de Física, os alunos montaram três circuitos diferentes para investigar como a resistência elétrica afeta a dissipação de energia em um chuveiro elétrico. Cada circuito utilizava uma resistência diferente de 10 $\\Omega$, 20 $\\Omega$ ou 40 $\\Omega$, todas ligadas à mesma fonte de 110 V.\nCom base nos resultados do experimento, assinale a alternativa que corretamente identifica qual resistência dissipou a maior quantidade de energia.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A resistência que mais dissipou energia foi a de 40 $\\Omega$."
+        },
+        {
+          "letra": "B",
+          "texto": "A resistência que mais dissipou energia foi a de 20 $\\Omega$."
+        },
+        {
+          "letra": "C",
+          "texto": "A resistência que mais dissipou energia foi a de 10 $\\Omega$."
+        },
+        {
+          "letra": "D",
+          "texto": "As três resistências dissiparam a mesma quantidade de energia."
+        },
+        {
+          "letra": "E",
+          "texto": "A energia dissipada depende apenas do tempo de funcionamento e da tensão aplicada, não do valor da resistência."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Eletrodinâmica",
+        "Física – Potência Elétrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "As compressas de frio instantâneo de nitrato de amônio podem ser usadas para primeiros socorros, suporte esportivo e atendimento domiciliar. Para alívio da dor e inchaço causado por entorses, distensões, contusões, pequenas queimaduras, dores de dente e picadas de insetos. Abaixo está representada, a equação da reação química que ocorre nessas compressas.\n$$NH_4NO_{3(s)} + H_2O_{(l)} \\rightarrow NH_4^+_{(aq)} + NO_3^-_{(aq)} \\quad \\Delta H = + 26,2 \\text{ kJ}\\cdot\\text{mol}^{-1}$$\nAnalisando-se a equação acima, foram feitas as seguintes afirmações:\nI. trata-se de um processo endotérmico.\nII. ocorreu o processo de ionização do nitrato de amônio.\nIII. houve liberação de energia para o ambiente, por isso, o valor da variação de entalpia é positivo.\nAssim, é certo afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "somente a afirmação I está correta."
+        },
+        {
+          "letra": "B",
+          "texto": "somente a afirmação II está correta."
+        },
+        {
+          "letra": "C",
+          "texto": "somente a afirmação III está correta."
+        },
+        {
+          "letra": "D",
+          "texto": "somente as afirmações I e II estão corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "todas as afirmações estão corretas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Termoquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "O vanádio (V) é um metal de transição, cuja distribuição eletrônica é $[Ar] 3d^3 4s^2$, apresentando-se como um sólido maleável e dúctil quando puro, com ponto de fusão em 1910 °C e ebulição em 3407 °C. Esse elemento destaca-se por sua resistência à corrosão, alta dureza e capacidade de formar compostos em diversos estados de oxidação. Entre suas principais aplicações, destaca-se seu uso em ligas metálicas, especialmente o aço-vanádio, que aumenta significativamente a resistência e durabilidade de ferramentas, eixos automotivos e estruturas de pontes. Na indústria química, seus compostos atuam como catalisadores na produção de ácido sulfúrico e polímeros.\nCom base nas informações do texto, é correto afirmar que o grupo e o período da tabela periódica, nos quais está localizado esse metal são",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "grupo 3 e 5º período."
+        },
+        {
+          "letra": "B",
+          "texto": "grupo 3 e 3º período."
+        },
+        {
+          "letra": "C",
+          "texto": "grupo 5 e 4º período."
+        },
+        {
+          "letra": "D",
+          "texto": "grupo 3 e 4º período."
+        },
+        {
+          "letra": "E",
+          "texto": "grupo 5 e 3º período."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Tabela Periódica",
+        "Química – Distribuição Eletrônica"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "A adição de uma solução aquosa de HCl a uma amostra de 1,12 g de minério de ferro impuro, resultou na formação de 0,336 L de gás hidrogênio, nas CNTP, por meio da reação equacionada abaixo, a qual não se encontra balanceada.\n$$Fe_{(s)} + HCl_{(aq)} \\rightarrow FeCl_{2(aq)} + H_{2(g)}$$\nDado: massa molar ($\\text{g}\\cdot\\text{mol}^{-1}$) Fe = 56\nConsiderando que o ácido esteja em excesso, é correto afirmar que o percentual de ferro, nessa amostra mineral, é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "70%"
+        },
+        {
+          "letra": "B",
+          "texto": "75%"
+        },
+        {
+          "letra": "C",
+          "texto": "80%"
+        },
+        {
+          "letra": "D",
+          "texto": "85%"
+        },
+        {
+          "letra": "E",
+          "texto": "90%"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Abaixo são fornecidos os potenciais de redução de alguns metais, nas condições padrão.\n$Ag^+_{(aq)} + e^- \\rightleftharpoons Ag_{(s)} \\quad E^0 = +0,80 \\text{ V}$\n$Fe^{2+}_{(aq)} + 2e^- \\rightleftharpoons Fe_{(s)} \\quad E^0 = -0,44 \\text{ V}$\n$Al^{3+}_{(aq)} + 3e^- \\rightleftharpoons Al_{(s)} \\quad E^0 = -1,66 \\text{ V}$\n$Cu^{2+}_{(aq)} + 2e^- \\rightleftharpoons Cu_{(s)} \\quad E^0 = +0,34 \\text{ V}$\n\nDe acordo com os potenciais de redução acima, nas condições padrão, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a reação $Ag_{(s)} + Cu^{2+}_{(aq)} \\rightarrow Ag^+_{(aq)} + Cu_{(s)}$ é espontânea."
+        },
+        {
+          "letra": "B",
+          "texto": "o melhor agente redutor é a prata metálica."
+        },
+        {
+          "letra": "C",
+          "texto": "uma lâmina de alumínio, mergulhada em uma solução 1 $\\text{mol}\\cdot\\text{L}^{-1}$ de sulfato de cobre (II), apresentará deposição de cobre metálico em sua superfície."
+        },
+        {
+          "letra": "D",
+          "texto": "o ferro metálico representa a melhor opção de metal de sacrifício."
+        },
+        {
+          "letra": "E",
+          "texto": "não é possível armazenar uma solução de sulfato de ferro (II) em um recipiente de alumínio revestido internamente com cobre."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Eletroquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Isômeros são substâncias químicas diferentes que têm a mesma fórmula molecular, mas estruturas e propriedades diferentes. Assim, analisando-se as moléculas orgânicas abaixo, um par de isômeros de compensação está corretamente representado em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Alternativa A"
+        },
+        {
+          "letra": "B",
+          "texto": "Alternativa B"
+        },
+        {
+          "letra": "C",
+          "texto": "Alternativa C"
+        },
+        {
+          "letra": "D",
+          "texto": "Alternativa D"
+        },
+        {
+          "letra": "E",
+          "texto": "Alternativa E"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Isomeria",
+        "Química – Química Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Três substâncias sólidas A, B e C, à temperatura ambiente, foram analisadas a partir de simples testes de laboratório conforme descrito abaixo:\nTeste I: foi avaliada a condução de corrente elétrica dos três sólidos, sendo que apenas C acusou a condução.\nTeste II: os três sólidos foram colocados em água destilada, sob agitação vigorosa. Como resultado, apenas os sólidos A e B foram dissolvidos.\nTeste III: as soluções das substâncias A e B foram testadas quanto à condução de corrente elétrica, sendo que apenas a solução formada pelo sólido B foi capaz de conduzir a corrente elétrica.\nAssim, A, B e C, poderiam ser, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "glicose, cloreto de sódio e sacarose."
+        },
+        {
+          "letra": "B",
+          "texto": "cloreto de sódio, cobre e sacarose."
+        },
+        {
+          "letra": "C",
+          "texto": "cloreto de sódio, sacarose e cobre."
+        },
+        {
+          "letra": "D",
+          "texto": "sacarose, cloreto de sódio e ferro."
+        },
+        {
+          "letra": "E",
+          "texto": "ferro, glicose e cloreto de sódio."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Propriedades da Matéria",
+        "Química – Soluções e Condutividade"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Abaixo estão representadas as fórmulas estruturais dos ácidos orgânicos (TsOH) e benzoico. O TsOH é um dos poucos ácidos fortes que é sólido, desde que convenientemente mantido livre da umidade do ar e é cerca de um milhão de vezes mais forte do que o ácido benzoico.\nA respeito dos dois ácidos, foram feitas as seguintes afirmações:\nI. o TsOH pode ser obtido a partir de uma reação de sulfonação do tolueno.\nII. o ácido benzoico reage com o metanol, em condições ideais, formando o benzoato de metila.\nIII. o TsOH possui um grupo substituinte etila, na posição para, do anel aromático.\nAssim, é certo afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "somente a afirmação I está correta."
+        },
+        {
+          "letra": "B",
+          "texto": "somente a afirmação II está correta."
+        },
+        {
+          "letra": "C",
+          "texto": "somente a afirmação III está correta."
+        },
+        {
+          "letra": "D",
+          "texto": "somente as afirmações I e II estão corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "todas as afirmações estão corretas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Química Orgânica",
+        "Química – Reações Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Um laboratório de química precisa preparar uma solução de ácido sulfúrico ($H_2SO_4$) na qual o ácido sulfúrico puro represente 20% da massa total. Para isso, eles têm 72 g de ácido sulfúrico puro e água à vontade. Assim, a quantidade máxima dessa solução que esse laboratório poderá preparar será de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "72 g"
+        },
+        {
+          "letra": "B",
+          "texto": "86 g"
+        },
+        {
+          "letra": "C",
+          "texto": "216 g"
+        },
+        {
+          "letra": "D",
+          "texto": "288 g"
+        },
+        {
+          "letra": "E",
+          "texto": "360 g"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Porcentagem",
+        "Química – Soluções"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Considere as duas funções afins seguintes:\n$f(x) = 2x + 3$\n$g(x) = x + 2$\nAvalie as seguintes afirmativas sobre essas funções:\nI. A função g(x) tem uma taxa de variação maior que a função f(x).\nII. A função g(x) é uma função linear crescente.\nIII. A função f(x) intersecta o eixo x no ponto (-3/2, 0).\nIV. A função g(x) intersecta o eixo y no ponto (0, 2).\nV. O ponto de intersecção entre g(x) e f(x) é (−1, 1).\nDas afirmativas acima, podemos afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Todas as afirmativas são verdadeiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Todas as afirmativas são falsas."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas a afirmativa I é falsa."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas as afirmativas II e III são falsas."
+        },
+        {
+          "letra": "E",
+          "texto": "Apenas a afirmativa IV é falsa."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Funções do 1º grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Para realizar um ajuste para um banner publicitário, um designer gráfico precisa reduzir o tamanho de uma logomarca que possui o formato de um hexágono regular com lados medindo 12 cm cada.\nPara esse ajuste, será necessário que a logomarca ocupe apenas 25% da área que a original ocupava, mas mantenha o formato.\nDessa forma, a medida do lado do hexágono ajustado e a área que ele ocupará serão, respectively, iguais a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6 cm e $54\\sqrt{3} \\text{ cm}^2$"
+        },
+        {
+          "letra": "B",
+          "texto": "6 cm e $9\\sqrt{3} \\text{ cm}^2$"
+        },
+        {
+          "letra": "C",
+          "texto": "6 cm e $216\\sqrt{3} \\text{ cm}^2$"
+        },
+        {
+          "letra": "D",
+          "texto": "3 cm e $\\frac{27\\sqrt{3}}{2} \\text{ cm}^2$"
+        },
+        {
+          "letra": "E",
+          "texto": "3 cm e $54\\sqrt{3} \\text{ cm}^2$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Áreas de Figuras Planas"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Em uma progressão aritmética, o 26° termo vale 1 e o 2000° termo vale 5.\nAssim, a soma dos 2025 primeiros termos dessa sequência vale",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12 150"
+        },
+        {
+          "letra": "B",
+          "texto": "6 075"
+        },
+        {
+          "letra": "C",
+          "texto": "5 922"
+        },
+        {
+          "letra": "D",
+          "texto": "4 050"
+        },
+        {
+          "letra": "E",
+          "texto": "2 025"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Progressão Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "O gráfico abaixo representa a função logarítmica $f(x) = 4 \\cdot \\log(x + 1)$.\nO quadrilátero ABCD é um trapézio de altura BC com bases AB e CD. Sendo B e C dois pontos no eixo das abscissas, localizados nos pontos (4,0) e (9,0), respectivamente, e os pontos A e D pertencentes ao gráfico da função f.\nUtilizando a aproximação $\\log 5 \\cong 0,7$, determine a área do quadrilátero ABCD:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4,25"
+        },
+        {
+          "letra": "B",
+          "texto": "17,0"
+        },
+        {
+          "letra": "C",
+          "texto": "18,25"
+        },
+        {
+          "letra": "D",
+          "texto": "22,0"
+        },
+        {
+          "letra": "E",
+          "texto": "23,7"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Função Logarítmica",
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Com o intuito de organizar um treino de musculação, um professor de academia utiliza a tabela a seguir.\n\nGrupos Musculares | Bíceps e Tríceps | Peitos e ombros | Costas e abdômem | Pernas e glúteos\n--- | --- | --- | --- | ---\nExercícios | Rosca Scot | Supino máquina | Puxada alta com triângulo | Cadeira extensora\n| Tríceps corda | Desenvolvimento com halteres | Remada baixa | Cadeira flexora\n| Rosca inversa | Elevação lateral | Abdominal | Agachamento sumô\n| | | | Panturrilha sentado\n\nEm cada coluna dessa tabela, aparecem os grupos musculares que serão trabalhados e os respectivos exercícios que devem ser realizados pelo aluno. A ilustração a seguir indica os grupos musculares.\n\nO professor quer organizar um treino adaptativo, escolhendo dois exercícios de cada grupo muscular contemplado na tabela.\nOs exercícios serão organizados de forma aleatória, porém os exercícios do mesmo grupo muscular serão consecutivos.\nAssim, o número de maneiras distintas que esse professor poderá montar e ordenar os exercícios desse treino é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "995 328"
+        },
+        {
+          "letra": "B",
+          "texto": "124 416"
+        },
+        {
+          "letra": "C",
+          "texto": "62 208"
+        },
+        {
+          "letra": "D",
+          "texto": "5 184"
+        },
+        {
+          "letra": "E",
+          "texto": "2 592"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Uma ponte estaiada é uma ponte suspensa por conjuntos de cabos de aço (os chamados estais, que dão origem ao nome estaiada), conectados a uma torre ou mastro com a função de dar sustentação às suas pistas. Um exemplo é a ponte Octávio Frias de Oliveira em São Paulo, cujo esquema é representado a seguir.\nDetermine a medida do cabo de sustentação da extremidade, sabendo que este faz um ângulo de 60º com a base horizontal onde o mesmo está fixado (conforme registrado na imagem) e a parte do mastro central que vai dessa base horizontal até o ponto onde este cabo está fixado mede 138 metros.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$92\\sqrt{3}$ metros"
+        },
+        {
+          "letra": "B",
+          "texto": "92 metros"
+        },
+        {
+          "letra": "C",
+          "texto": "276 metros"
+        },
+        {
+          "letra": "D",
+          "texto": "$276\\sqrt{3}$ metros"
+        },
+        {
+          "letra": "E",
+          "texto": "69 metros"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Trigonometria no Triângulo Retângulo"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "A ilustração abaixo representa uma coroa circular utilizada por uma empresa de decoração em suas confecções:\nCom o intuito de que o corte fique perfeito utiliza-se uma cortadora a laser, a qual é programada com coordenadas cartesianas e graduada em centímetros (cm).\nA equação utilizada para cortar o círculo maior foi $x^2 + y^2 - 8x – 8y + 7 = 0$, e a distância entre as bordas dessas circunferências é igual a 2,0 cm.\nAssim, a equação utilizada para cortar a circunferência menor foi",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$x^2 + y^2 - 4x - 4y + 28 = 0$"
+        },
+        {
+          "letra": "B",
+          "texto": "$x^2 + y^2 - 4x – 4y + 23 = 0$"
+        },
+        {
+          "letra": "C",
+          "texto": "$x^2 + y^2 - 8x - 8y + 25 = 0$"
+        },
+        {
+          "letra": "D",
+          "texto": "$x^2 + y^2 - 8x - 8y + 28 = 0$"
+        },
+        {
+          "letra": "E",
+          "texto": "$x^2 + y^2 - 8x - 8y + 23 = 0$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Geometria Analítica",
+        "Matemática – Equação da Circunferência"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Uma empresa, em campanha de saúde e bem-estar, decidiu presentear seus funcionários com garrafas térmicas personalizadas. Cada garrafa, feita de plástico reciclável, tem o formato de um cilindro reto com capacidade de 1,5 litros e altura de 20 cm.\nO rótulo personalizado poderá ocupar, no máximo, 75% da área lateral da garrafa.\nAdote $\\pi \\cong 3$ e considere $1 \\text{ litro} = 1000 \\text{ cm}^3$\nQual é, em $\\text{cm}^2$, a área máxima disponível para a personalização do rótulo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$450 \\text{ cm}^2$"
+        },
+        {
+          "letra": "B",
+          "texto": "$480 \\text{ cm}^2$"
+        },
+        {
+          "letra": "C",
+          "texto": "$520 \\text{ cm}^2$"
+        },
+        {
+          "letra": "D",
+          "texto": "$650 \\text{ cm}^2$"
+        },
+        {
+          "letra": "E",
+          "texto": "$900 \\text{ cm}^2$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Espacial",
+        "Matemática – Cilindros"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Estudando funções, um aluno descobriu um conceito chamado limite, que permite analisar o comportamento de uma função quando a variável se aproxima de um determinado valor.\nLendo alguns exemplos iniciais, encontrados no livro que utilizava, o aluno percebeu que para se calcular esse limite, em alguns casos, bastava substituir o valor da variável pelo número de que ela se aproximava. Porém, quando essa substituição gerar uma divisão por zero, é necessário simplificar a expressão antes de se fazer a substituição da variável.\nPor exemplo: O limite da função $f: \\mathbb{R}-\\{2\\} \\rightarrow \\mathbb{R}$; $f(x) = \\frac{x^2-4x+4}{x-2}$, quando x se aproxima de 2 é\n$$\\lim_{x \\to 2} \\left( \\frac{x^2 - 4x + 4}{x - 2} \\right) = \\lim_{x \\to 2} \\left( \\frac{(x - 2)^2}{x - 2} \\right) = \\lim_{x \\to 2} (x - 2) = 0$$\nAssim sendo, o limite da função $f:\\mathbb{R}-\\{-1\\} \\rightarrow \\mathbb{R}$; $f(x) = \\frac{x^2 - 1}{2x^2 + 2x}$, quando x se aproxima de -1, será",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2."
+        },
+        {
+          "letra": "B",
+          "texto": "1."
+        },
+        {
+          "letra": "C",
+          "texto": "0."
+        },
+        {
+          "letra": "D",
+          "texto": "-1."
+        },
+        {
+          "letra": "E",
+          "texto": "-2."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Limites e Funções"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "“Apesar de tratável e curável, a malária continua sendo um grande problema de saúde pública em diversos países das regiões tropical e subtropical do planeta. De acordo com dados da Organização Mundial da Saúde (OMS), em 2021, aproximadamente 247 milhões de casos e 619 mil óbitos em decorrência da doença ocorreram no mundo [...]. No Brasil, cerca de 99,9% dos casos de malária ocorrem na região amazônica, onde, em 2021, 33 municípios concentraram mais de 80% do total de casos do País.”\nFonte: https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/boletins/epidemiologicos/edicoes/2024/boletim-epidemiologico-volume-55-no-01/view\n\nQuanto ao vetor e ao agente etiológico da malária, respectivamente, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Mosquito Anopheles, protozoário Plasmodium."
+        },
+        {
+          "letra": "B",
+          "texto": "Mosquito Haemagogus, vírus Flavivirus."
+        },
+        {
+          "letra": "C",
+          "texto": "Mosquito Lutzomyia, protozoário Leishmania."
+        },
+        {
+          "letra": "D",
+          "texto": "Inseto Triatomíneo, protozoário Trypanossoma."
+        },
+        {
+          "letra": "E",
+          "texto": "Pulga Xenopsylla, bactéria Yersinia."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Parasitologia",
+        "Biologia – Malária"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "O voo é uma das características mais marcantes das aves, que desenvolveram diversas adaptações morfológicas e fisiológicas para possibilitar essa habilidade. Analise as afirmativas a seguir:\nI. As aves possuem ossos pneumáticos, que são mais leves e ajudam a reduzir o peso total do corpo, facilitando o voo.\nII. A forma e o arranjo das penas contribuem para a geração de sustentação durante o voo.\nIII. O coração com 3 câmaras amplifica o fluxo de sangue oxigenado.\nIV. O sistema respiratório das aves é eficiente, com sacos aéreos que permitem uma maior oxigenação durante o voo prolongado.\nCom base nas afirmativas acima, assinale a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas a afirmativa I está correta."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas a afirmativa II está correta."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas as afirmativas II e IV estão corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas as afirmativas I, II e IV estão corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Apenas as afirmativas III e IV estão corretas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Zoologia",
+        "Biologia – Fisiologia Comparada"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Os hormônios pertencem a três classes distintas quanto à composição química, são proteicos, aminoácidos ou esteroides. Os hormônios sexuais são derivados do colesterol e produzidos nas gônadas, testosterona nos testículos (em indivíduos do sexo masculino) e progesterona e estrógeno nos ovários (em indivíduos do sexo feminino). Dessa forma, uma organela bem desenvolvida nas gônadas sexuais, relacionada à produção desses hormônios, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o ribossomo."
+        },
+        {
+          "letra": "B",
+          "texto": "o lisossomo."
+        },
+        {
+          "letra": "C",
+          "texto": "o peroxissomo."
+        },
+        {
+          "letra": "D",
+          "texto": "o retículo endoplasmático rugoso."
+        },
+        {
+          "letra": "E",
+          "texto": "o retículo endoplasmático liso."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Citologia",
+        "Biologia – Fisiologia Humana"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Diferentes animais e até o vento podem atuar como agentes polinizadores. A ornitofilia é o nome dado à polinização realizada por aves que visitam plantas com características marcantes como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "abertura floral noturna e cor esbranquiçada."
+        },
+        {
+          "letra": "B",
+          "texto": "abertura floral diurna, ausência de odor forte e cores vibrantes."
+        },
+        {
+          "letra": "C",
+          "texto": "ausência de recompensa, como o néctar, e cor avermelhada."
+        },
+        {
+          "letra": "D",
+          "texto": "cor esverdeada e odor forte."
+        },
+        {
+          "letra": "E",
+          "texto": "corola rasa (sem profundidade) e com guia de néctar."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Botânica",
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Os medicamentos opioides têm por mecanismo de ação conectarem-se com os receptores opioides nas células, receptoras de informações de dor (nociceptores). Eles são ligados às proteínas G inibitórias, cuja ativação desencadeia uma cascata de eventos: fechamento de canais de cálcio voltagem dependentes, inibição do metabolismo energético celular e estímulo ao efluxo de potássio, resultando em hiperpolarização celular.\nAssinale a alternativa que indica corretamente onde os medicamentos opioides atuam e qual órgão é responsável pela interpretação da dor.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Membrana pré-sináptica; medula espinhal."
+        },
+        {
+          "letra": "B",
+          "texto": "Membrana pós sináptica; cérebro."
+        },
+        {
+          "letra": "C",
+          "texto": "Axônio do neurônio aferente; tálamo."
+        },
+        {
+          "letra": "D",
+          "texto": "Canais de sódio dependentes de voltagem; córtex motor."
+        },
+        {
+          "letra": "E",
+          "texto": "Terminação nervosa livre; hipotálamo."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Fisiologia Humana",
+        "Biologia – Sistema Nervoso"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Cena do Crime: O Roubo Perfeito (Quase)\n\nNa madrugada chuvosa de 15 de outubro, o alarme silencioso da joalheria Diamante Negro foi acionado. Quando a polícia chegou, encontrou o cofre aberto, vitrines quebradas e um rastro de sangue seco perto da porta dos fundos – mas nenhum vestígio claro de digitais ou ferramentas usadas no arrombamento. O dono, Sr. Valente, estimou o prejuízo em R$ 2,5 milhões: além de joias, um raro diamante azul de 10 quilates, avaliado em leilões internacionais, havia sumido.\nOs indícios:\nTrês fios de cabelo castanhos presos em um farpa de metal da vitrine quebrada.\nManchas de sangue (pequenas, como se o ladrão tivesse se cortado ao pular o muro dos fundos).\nOs Suspeitos:\n- Diego (S1) – O Ex-Funcionário Demitido\nDemitido três semanas antes por “falta de confiança”.\nTreinamento em sistemas de segurança.\nÁlibi: Diz que estava em uma festa, mas não tem fotos ou testemunhas confirmando.\n- Eduardo (S2) – O Ex-Presidiário\nCondenado por roubo a joalherias em 2018.\nSolto há 6 meses por bom comportamento.\nÁlibi: «Estava rezando na igreja», mas câmeras mostram que chegou só às 6h.\n- Renato (S3) – O Vigia Noturno\nÚltimo a ver a loja intacta antes do turno da madrugada.\nHistórico de dívidas em cassinos.\nÁlibi: Afirma que dormiu em casa, mas vizinhos ouviram barulhos estranhos.\nA Perícia:\nO laboratório criminal estava sobrecarregado com casos de alta tecnologia (como sequenciamento de nova geração para um serial killer), então a perita Dra. Lúcia optou por um método clássico:\nExtração de DNA dos fios de cabelo e sangue.\nAmplificação por PCR do material\nDigestão com Enzimas de Restrição (EcoRI e HindIII), cortando o DNA em locais específicos.\nEletroforese em Gel de Agarose, separando os fragmentos por tamanho.\nOs resultados estão na imagem abaixo.\nA escolha do método se deu pelo fato do sequenciamento completo ser muito mais caro que o fingerprinting e o tempo para o resultado ser muito menor, apenas algumas hours.\n\nBaseado na história e nos resultados do exame, o possível culpado do crime e células sanguíneas analisadas são, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Diego e a análise utilizou os leucócitos."
+        },
+        {
+          "letra": "B",
+          "texto": "Eduardo e a análise utilizou os leucócitos."
+        },
+        {
+          "letra": "C",
+          "texto": "Renato e a análise utilizou os leucócitos."
+        },
+        {
+          "letra": "D",
+          "texto": "Eduardo e a análise utilizou as hemácias."
+        },
+        {
+          "letra": "E",
+          "texto": "Renato e a análise utilizou as hemácias."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Biologia Molecular",
+        "Biologia – DNA Fingerprinting"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Um casal está preocupado com a possibilidade de se reproduzir, pois o pai da mulher é afetado pela fibrose cística (FC), a irmã do marido também apresenta FC, apesar de seus pais não serem afetados. Esta doença é genética e provoca a produção de muco espesso e pegajoso, o que obstrui órgãos como os pulmões e o pâncreas, comprometendo gravemente o estado geral de saúde do indivíduo de forma crônica.\nAo buscar aconselhamento genético profissional, a bióloga responsável afirmará corretamente que o casal",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "não apresenta chance de produzir prole afetada por FC, mas 50% de chance de uma criança resultante de seu cruzamento ser portadora da característica."
+        },
+        {
+          "letra": "B",
+          "texto": "tem 25% de chance de ter prole afetada e 50% de chance de heterozigose em uma criança resultante de seu cruzamento."
+        },
+        {
+          "letra": "C",
+          "texto": "certamente produzirá criança afetada pela FC."
+        },
+        {
+          "letra": "D",
+          "texto": "tem 50% de probabilidade de produzir prole afetada pela doença e 50% de estar isento do problema."
+        },
+        {
+          "letra": "E",
+          "texto": "tem 16,66% de ter prole afetada e 83,33% de chance de heterozigose em uma criança resultante deste cruzamento."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Genética"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "“César não se contentou em modificar profundamente as instituições romanas. Empreendeu a remodelação da própria Cidade, inspirando-se nas grandes capitais helenísticas. Criou um novo Fórum, que batizou com seu nome, e no centro do qual ergueu um templo a Vênus Mãe: símbolo da realeza de essência religiosa que ele ambicionava fundar. E já se preparava para passar ao Oriente, para recomeçar a epopeia de Alexandre, o Grande; sonhava submeter às armas romanas todos os países da Ásia, até a Índia. O exército já se concentrava em Apolônia, na costa do Épiro. Ele ia ao seu encontro quando, nos Idos de Março de 44, um bando de conjurados o atacou, em pleno Senado, e ele caiu apunhalado.\"\nGRIMAL, Pierre. História de Roma. São Paulo: Ed. Unesp, 2003, p. 121\nO trecho acima narra um importante episódio da história da Roma Antiga no qual Júlio César, ditador romano, é assassinado dentro do Senado pelas mãos de seus pares. Sobre esse contexto histórico, é correto assinalar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "representa o fim da República Romana e o início imediato do Império, com a tomada do poder absoluto por Augusto, sem qualquer contestação posterior."
+        },
+        {
+          "letra": "B",
+          "texto": "marca a consolidação de um governo autoritário em Roma, sendo o assassinato de César um evento isolado que não teve repercussões duradouras no cenário político romano."
+        },
+        {
+          "letra": "C",
+          "texto": "demonstra que a morte de Júlio César resultou diretamente na ascensão do general Marco Antônio como sucessor incontestável do falecido ditador."
+        },
+        {
+          "letra": "D",
+          "texto": "revela que a ambição expansionista de César foi interrompida de forma abrupta, mas que a República Romana manteve sua estabilidade política e militar após o atentado."
+        },
+        {
+          "letra": "E",
+          "texto": "representa um momento da crise da República Romana e o início de um processo político que culminaria na ascensão de Augusto como primeiro Imperador de Roma."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Roma Antiga"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Leia o trecho abaixo:\n“O rei Kilij Arslan ainda não tem 17 anos quando os invasores chegam. Como primeiro dirigente muçulmano a ser informado de sua chegada, esse jovem sultão turco de olhos levemente puxados será o primeiro a infligir-lhes uma derrota e, posteriormente, o primeiro a ser vencido pelos seus temíveis cavaleiros. Desde julho de 1096, kilij Arslan sabe que uma imensa multidão de franj está a caminho de Constantinopla. Imediatamente, ele teme o pior (...). O palácio do sultão fica em estado de alerta. Enquanto os cavaleiros turcos preparam-se para alar seus cavalos a qualquer momento, assiste-se a um vaivém contínuo de espiões e batedores que relatam os mínimos movimentos dos franj. Conta-se que cada manhã eles deixam o acampamento em hordas de vários milhares para explorar a vizinhança, onde saqueiam algumas fazendas e incendeiam outras ..., crianças de colo teriam sido queimadas vivas”\n(Maalouf, Amin. As cruzadas vistas pelos árabes. Tradução de Pauline Alphene e Rogério Muoio. São Paulo, editora Brasiliense, 2001).\nAs Cruzadas foram expedições militares-religiosas ocorridas entre os séculos XI e XIII, quando cristãos e muçulmanos travaram batalhas em busca de cidades sagradas, terras produtivas, ouro e poder. Considere as assertivas abaixo:\nI. Kilij Arslan era sultão da Nicéia, um jovem rei que dominava uma cidade que já havia sido ocupada por judeus e cristãos. Porém, no final do conflito ele é vencido pelos franj, ou seja, os cristãos do Ocidente.\nII. Temos como referência do texto, o início do episódio denominado Batalha de Dorileia, em que os turcos arqueiros foram derrotados pelos cruzados cristãos.\nIII. Os franj eram os muçulmanos novos que se rebelaram contra o sultão de Constantinopla, Kilij Arslan, entregando a cidade ao Papa Urbano II que liderou a Primeira Cruzada.\nIV. A violência é mostrada como oriunda dos muçulmanos, pois foram eles que conquistaram Jerusalém na Primeira Cruzada e garantiram o massacre e a morte de crianças queimadas vivas.\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Se somente a I e II estão corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Se somente a II e III estão corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Se somente a III e IV estão corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Se somente a I, II e III estão corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Se somente a I, III e IV estão corretas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Idade Média",
+        "História – Cruzadas"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Em 8 de novembro de 1519, o comandante Hérnan Cortéz alcançou o continente e se deparou com uma enorme cidade chamada Tenochtitlán. O estranhamento acometeu ambos os lados. Tanto os espanhóis quanto os astecas eram guerreiros e estavam prontos para uma guerra. Entretanto, Montezuma II viu em Cortez uma representação do divino, presenteando-o com ouro e escravas. Uma das escravas dadas para Cortéz, pelas autoridades de Tabasco, ficou conhecida como Malinche.\n“A segunda personagem essencial dessa conquista de informação é uma mulher, que os índios chamam de Malintzin, e os espanhóis de doña Marina, e não se sabe qual dos dois nomes é uma deformação do outro; a forma que o nome assume mais frequentemente é la Malinche. (...). Seus dons para as línguas são evidentes, e em pouco tempo ela aprende o espanhol, o que aumenta sua utilidade. Pode-se supor que ela guardasse rancor em relação a seu povo de origem, ou em relação a uns de seus representantes; o fato é que escolhe decididamente o campo dos conquistadores. Com efeito não se contenta em traduzir; é evidente que também adota valores dos espanhóis, e contribui como pode para a realização dos seus objetivos\"\n(TODOROV, Tzvetan. A conquista da América. Tradução de Beatriz Perrone-Moisés. 3ª ed. São Paulo, Martins Fontes, 2003, pág. 144).\nCom a leitura do trecho acima, é possível compreender que o autor descreve que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Malinche não teve participação na conquista de Tenochtitlán e, muito menos, na tentativa de tradução das conversas entre Montezuma II e Hérnan Cortez, pois havia tradutores astecas que aprenderam rapidamente o espanhol, além de entenderem os objetivos e interesses, fazendo com que houvesse três tentativas fracassadas de controle da cidade."
+        },
+        {
+          "letra": "B",
+          "texto": "a personagem teve participação direta na conquista da cidade de Tenochtitlán, pois ela tinha uma habilidade para as línguas que foi fundamental para a comunicação e o planejamento dos espanhóis em relação às tentativas de invasão pelos canais e pontes que a cercavam, além de ter uma motivação pessoal."
+        },
+        {
+          "letra": "C",
+          "texto": "a personagem Malinche foi um presente dos astecas aos espanhóis, em troca de armas, armaduras e cavalos que eram uma novidade para eles. Entretanto, essa personagem foi responsável em dificultar a movimentação militar dos espanhóis no cerco à Tenochtitlán, pois ela conhecia não apenas a língua asteca como, também, a maia."
+        },
+        {
+          "letra": "D",
+          "texto": "os espanhóis não precisavam do apoio de Malinche, pois a conquista da cidade de Tenochtitlán foi realizada com facilidade, uma vez que o exército europeu tinha conhecimento de estratégias militares, cavalos, armas de fogo e, sobretudo, canhões que sitiaram a cidade, fazendo com que os astecas ficassem sem comida e sem água."
+        },
+        {
+          "letra": "E",
+          "texto": "os espanhóis, por intermédio da amizade entre o rei Montezuma II e Hérnan Cortez, sabiam do funcionamento da segurança da cidade que ficava em um planalto e, por isso, a participação de Malinche, mesmo sendo positiva, não foi essencial para a conquista da cidade e a tomada do império asteca."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Conquista da América"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Analise a tabela abaixo\n\nDesembarque de escravos africanos no Brasil (1831-1853)\n\n| Ano | Escravos | Ano | Escravos | Ano | Escravos | Ano | Escravos |\n| :-- | :--- | :-- | :--- | :-- | :--- | :-- | :--- |\n| 1831 | 138 | 1839 | 42.182 | 1844 | 22.849 | 1849 | 54.061 |\n| 1835 | 745 | 1840 | 20.796 | 1845 | 19.453 | 1850 | 22.856 |\n| 1836 | 4.966 | 1841 | 13.804 | 1846 | 50.234 | 1851 | 3.287 |\n| 1837 | 35.209 | 1842 | 17.435 | 1847 | 56.172 | 1852 | 800 |\n| 1838 | 40.256 | 1843 | 19.095 | 1848 | 60.000 | 1853 | --- |\n\nAdaptado de: BETHELL, Leslie. A abolição do comércio brasileiro de escravos. Brasília: Senado Federal, 2002. p.440.\n\nA partir dos dados apresentados pela tabela e dos seus conhecimentos sobre a história do Império brasileiro, considere as assertivas abaixo.\nI. A queda mais acentuada no número de escravizados africanos que entraram no Brasil, oficialmente, está relacionada diretamente à Lei Eusébio de Queirós, responsável por proibir o tráfico de escravizados da África para o Brasil.\nII. A Lei Feijó, primeira lei que versava sobre a proibição do tráfico negreiro em território nacional, não teve o sucesso esperado pois percebemos um aumento significativo no desembarque de escravizados após a sua promulgação, tornando-se apenas uma \"lei para inglês ver”.\nIII. A lei inglesa Bill Aberdeen, na tentativa de coibir o tráfico negreiro no Atlântico Sul, concedeu o direito à Marinha Real britânica em monitorar e apreender embarcações que executassem tal comércio, obtendo imediato sucesso, visto à queda no número de desembarque de escravizados.\nAssinale a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I está correta."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II estão corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "I, II e III estão corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III estão corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "I e III estão corretas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Brasil Império",
+        "História – Escravidão"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "A Era Vargas, período determinado pela historiografia brasileira de 1930 a 1945 – excluindo o período do governo democrático no qual Getúlio Vargas fora eleito pelo voto direto até o seu suicídio – marcou a formação do Estado brasileiro com a criação de autarquias e ministérios que centralizaram o poder. No discurso de posse, em 1º de janeiro de 1995, o presidente Fernando Henrique Cardoso anunciou que estava encerrada a Era Vargas, pois os tempos de uma \"modernização conservadora\" chegavam ao fim. Essa “modernização conservadora\", citada pelo presidente eleito, significava que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "houve, durante os governos de Getúlio Vargas, o processo de consolidação do capitalismo industrial e a institucionalização dos direitos sociais, como as leis trabalhistas, por exemplo, mas, ao mesmo tempo, houve a permanência dos privilégios das novas e velhas elites políticas do país em detrimento das camadas populares no campo e na cidade."
+        },
+        {
+          "letra": "B",
+          "texto": "estava encerrada, em seu governo, a fase do desenvolvimento industrial com financiamento do Estado, pois a partir dele os investimentos públicos seriam direcionados para o agronegócio e o pagamento dos empréstimos feitos junto ao Banco Mundial e ao Fundo Monetário Internacional."
+        },
+        {
+          "letra": "C",
+          "texto": "a modernização, nos governos getulistas, foi lenta, colocando em primeiro lugar o pensamento conservador, garantido pelos partidos de centro-direita que eram maioria no Congresso e que tinham participação direta nas decisões sobre as políticas sociais do governo federal."
+        },
+        {
+          "letra": "D",
+          "texto": "a economia da Era Vargas ganhava ares modernizantes com os investimentos públicos para a consolidação do capitalismo industrial e, ao mesmo tempo, mantinha uma pauta conservadora de costumes com a proibição do uso de biquinis nas praias e o fim das apostas com as rinhas, como eram conhecidas as brigas de galo no Rio de Janeiro."
+        },
+        {
+          "letra": "E",
+          "texto": "a política, durante os governos de Getúlio Vargas, transmitia uma ideologia nacional-desenvolvimentista, priorizando a influência da Igreja Católica na criação do Ministério da Educação e Saúde Pública e dos paulistas e mineiros no Ministério do Trabalho, Indústria e Comércio, garantindo um equilíbrio entre as forças conservadoras e as liberais."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Era Vargas"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "No feriado de finados de 1965, o jornal carioca Correio da Manhã publicou a charge abaixo.\n\nPSD - PTB - UDN\nPSP - PDC - MTR\nPTN - PST - PSB\nPRP - PR - PL - PRT\nFINADOS\n\nFORTUNA. Correio da Manhã, ano 65; n. 22264, 2/11/1965\n\nConsiderando os acontecimentos políticos que marcaram o Brasil naquele ano, podemos concluir que a charge simboliza",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a morte do pluripartidarismo brasileiro com a aprovação do AI-2, conjunto de medidas baixadas pelo ditador Castelo Branco que, entre outras coisas, amplia o poder do presidente da República e estabelece o bipartidarismo."
+        },
+        {
+          "letra": "B",
+          "texto": "a estabilidade política no Brasil após o Golpe de 1964, refletindo o fortalecimento das instituições democráticas e o fim das tensões políticas do período anterior causadas pelo excesso de siglas partidárias."
+        },
+        {
+          "letra": "C",
+          "texto": "a continuidade do sistema multipartidário no Brasil, com a ampliação da liberdade de expressão e da pluralidade política, mesmo após a instauração do regime militar e a aprovação do AI-2."
+        },
+        {
+          "letra": "D",
+          "texto": "a vitória das forças progressistas no país, que conseguiram, através de mobilizações populares, derrubar os partidos conservadores e aprovar a criação de apenas dois partidos à esquerda, ARENA e MDB."
+        },
+        {
+          "letra": "E",
+          "texto": "a ascensão de um novo movimento político que buscava a instauração de uma democracia direta, com o povo tomando o controle do processo de decisão política, sem a intervenção dos partidos políticos tradicionais."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Ditadura Militar no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "O intelectual e revolucionário da tradição marxista, Leon Trotsky, ao observar in loco os acontecimentos que conhecemos como a Revolução Russa de 1905, aponta que:\n“A barbárie social e política da Rússia tem sua amarra no campo, embora isso não signifique que o campo tenha produzido uma classe capaz, com suas próprias forças, de cortar essa amarra. O campesinato – disseminado em quinhentas mil aldeias e povoações, numa área de mais de cinco milhões de verstas quadradas da Rússia europeia – não herdou nenhuma tradição ou costume de luta política organizada.”\nTrotsky. A Revolução de 1905, São Paulo, p.64\nA partir da leitura do trecho acima, é possível inferir que Trotsky",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "acredita que o campesinato russo, embora disperso, possui uma forte tradição de luta política organizada, capaz de enfrentar e superar as dificuldades econômicas e sociais da Rússia czarista."
+        },
+        {
+          "letra": "B",
+          "texto": "vê no campesinato russo o principal motor da Revolução Russa, considerando sua mobilização e organização como elementos cruciais para o sucesso da Revolução em 1905."
+        },
+        {
+          "letra": "C",
+          "texto": "enfatiza a ideia de que o campesinato russo, por sua falta de interesse político, seria incapaz de se rebelar ou de mudar a estrutura social da Rússia, sem depender de uma liderança externa ou de outra classe social."
+        },
+        {
+          "letra": "D",
+          "texto": "apresenta uma descrença na capacidade do campesinato russo em organizar uma vanguarda revolucionária capaz de transformar radicalmente sua realidade, mesmo percebendo a situação de miserabilidade no campo."
+        },
+        {
+          "letra": "E",
+          "texto": "considera que, apesar das condições precárias do campo, o campesinato já estava preparado para tomar as rédeas da revolução e criar um sistema político sem a necessidade de uma vanguarda revolucionária organizada."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Revolução Russa"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Leia este fragmento de reportagem, publicada em dezembro de 2024.\n\nRebeldes derrubam regime de Bashar al-Assad na Síria\n\nApós 13 anos de uma guerra civil sangrenta, rebeldes derrubaram o regime de Bashar al-Assad na Síria [...].\nOs rebeldes sírios liderados por radicais islâmicos anunciaram, na televisão pública da Síria, a queda do presidente Bashar al-Assad e a “libertação” da capital Damasco [...].\nNo comando do país desde 2000, o ex-presidente não resistiu à pressão da última ofensiva de grupos opositores liderados pelo Hayat Tahrir Al-Sham (HTS), que, desde 27 de novembro, tomaram importantes regiões do território sírio.\nAssad comandou a Síria por 24 anos e viu o país mergulhar em um conflito interno em 2011, após uma onda de protestos contra seu governo.\nCom a ajuda de aliados, Assad conseguiu retomar algumas áreas dominadas por grupos de oposição. Sob seu governo, a Síria também viu a ascensão do Estado Islâmico (Isis), que chegou a controlar diversas regiões do país até perder seu último reduto no território sírio, em 2019.\nSILVA, Junio. Metrópoles, 08 dez. 2024.\nDisponível em: <https://www.metropoles.com/mundo/rebeldes-derrubam-regime-de-bashar-al-assad-na-siria>. Acesso em 30 mar. 2024 (adaptado).\n\nEntre os principais aliados de Bashar al-Assad e do antigo regime, mencionados na reportagem, estão",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a Arábia Saudita e os Estados Unidos."
+        },
+        {
+          "letra": "B",
+          "texto": "a Rússia e o Irã."
+        },
+        {
+          "letra": "C",
+          "texto": "a Turquia e os Curdos."
+        },
+        {
+          "letra": "D",
+          "texto": "o Catar e o Brasil."
+        },
+        {
+          "letra": "E",
+          "texto": "o Hezbollah e a União Europeia."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "Geografia – Conflitos no Oriente Médio"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "Localize os países I, II e III no mapa abaixo e analise as informações relacionadas a eles.\n\nI. Fez parte da antiga União Soviética e decretou sua independência em 1991. É um dos maiores exportadores mundiais de urânio, usado na produção de energia nuclear, entre outras aplicações.\nII. Faz fronteira com a Rússia e com a China. Na região centro-sul do seu território, começa o deserto de Gobi, que se estende pelo norte da China. Possui cerca de 3,5 milhões de habitantes, desigualmente distribuídas.\nIII. Tem apresentado significativo crescimento econômico nas últimas décadas e o seu PIB atual está entre os dez maiores do mundo, apesar de ainda possuir altíssima desigualdade social e elevados níveis de pobreza. É o país mais populoso, com mais de 1,4 bilhão de habitantes.\nOs países I, II e III são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Uzbequistão, Nepal e Índia."
+        },
+        {
+          "letra": "B",
+          "texto": "Turcomenistão, Bangladesh e China."
+        },
+        {
+          "letra": "C",
+          "texto": "Quirguistão, Laos e China."
+        },
+        {
+          "letra": "D",
+          "texto": "Cazaquistão, Mongólia e Índia."
+        },
+        {
+          "letra": "E",
+          "texto": "Afeganistão, Malásia e Índia."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geografia Mundial",
+        "Geografia – Ásia"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "Em 2025, as relações diplomáticas entre o Brasil e o Japão completam 130 anos. A assinatura do Tratado de Amizade, Comércio e Navegação, ocorrido em 1895, deu início a essas relações. O acordo permitiu a abertura recíproca de representações diplomáticas em 1897 e abriu caminho para o início da imigração japonesa no Brasil, em 1908.\n\nBrasil e Japão mantêm relações comerciais importantes para os dois países. Nos últimos anos, entre os principais produtos que o nosso país tem exportado para os nipônicos, estão",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "produtos químicos orgânicos, óleo de palma e automóveis."
+        },
+        {
+          "letra": "B",
+          "texto": "trigo, tratores e materiais elétricos."
+        },
+        {
+          "letra": "C",
+          "texto": "carne de frango, minérios e cereais."
+        },
+        {
+          "letra": "D",
+          "texto": "aparelhos de cinematografia, salmão e equipamentos médico-cirúrgicos."
+        },
+        {
+          "letra": "E",
+          "texto": "instrumentos ópticos, azeite de oliva e borracha natural."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geografia Econômica",
+        "Geografia – Comércio Exterior do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "No dia 06 de dezembro de 2024, após 25 anos de negociações, o Mercosul e a União Europeia anunciaram um acordo para alavancar o comércio entre os dois blocos econômicos. A presidente da Comissão Europeia, Ursula Von der Leyen, comentou em uma rede social que o pacto é a maior parceria de comércio e investimento que o mundo já viu, criando um mercado de 700 milhões de pessoas.\nA respeito do acordo mencionado, é INCORRETO afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "prevê redução de tarifas comerciais e facilitação de investimentos."
+        },
+        {
+          "letra": "B",
+          "texto": "pode abrir, de acordo com especialistas, o mercado brasileiro para produtos europeus como os da indústria farmacêutica e de veículos, além dos serviços."
+        },
+        {
+          "letra": "C",
+          "texto": "pode aumentar, no aspecto econômico, o acesso brasileiro ao mercado europeu, principalmente na área de commodities."
+        },
+        {
+          "letra": "D",
+          "texto": "os blocos, há alguns anos, chegaram a discuti-lo, mas depois houve um congelamento das etapas finais de aprovação, em meio à piora das relações do Brasil com potências europeias por causa do enfraquecimento das políticas ambientais, entre outros fatores."
+        },
+        {
+          "letra": "E",
+          "texto": "a França é uma das maiores apoiadoras dessa parceria, pois o país se beneficiará com a importação de commodities agrícolas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "Geografia – Blocos Econômicos"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "Leia a notícia.\nO Pantanal registrou, em 2024, 366 mil hectares de superfície de água, representando apenas 2% do total no país. O bioma teve uma redução de 4,1% em relação ao ano anterior, e foi o mais afetado pela redução desde 1985, com uma perda de 61% da extensão ao longo desses anos.\n“Desde a última cheia em 2018, o bioma tem enfrentado o aumento de períodos de seca e, em 2024, a seca extrema aumentou a incidência e propagação de incêndios”, explica o pesquisador Eduardo Rosa, da equipe do MapBiomas Água.\nSINIMBÚ, Fabíola. Brasil perde o dobro da área da capital paulista em superfície de água. Agência Brasil, 21 mar. 2025.\nDisponível em: <https://agenciabrasil.ebc.com.br/meio-ambiente/noticia/2025-03/brasil-perde-o-dobro-da-area-da-capital-paulista-em-superficie-de-agua>. Acesso em 26 mar. 2025.\n\nCom base nas informações anteriores e nos seus conhecimentos a respeito do Pantanal, avalie as proposições a seguir.\nI. Nos últimos anos, o fogo tem atingido locais que no passado eram alagados, mas que agora estão passando por longos períodos de seca.\nII. Até 1985, o Pantanal nunca tinha experimentado períodos secos prolongados e, por isso, os primeiros registros de incêndios nesse bioma são da década de 1990.\nIII. A substituição de vegetação natural por áreas de pastagem e de agricultura tem sido monitorada e combatida de forma eficiente pelas autoridades, o que resultará na plena recuperação do Pantanal até 2030.\n\nÉ correto o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III, apenas."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Biomas Brasileiros",
+        "Geografia – Questões Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "Considerando que a distância, em linha reta, entre Brasília e Buenos Aires, capitais das duas maiores economias da América do Sul, é de 2.337 km, em um mapa, na escala de 1: 9.500.000, essa distância seria de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "24,6 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "2,46 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "40,6 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "4,6 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "2,46 m"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Cartografia",
+        "Geografia – Escala"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Observe o mapa e analise as afirmativas que o acompanham.\n\nI. A região Nordeste, apesar de possuir a maior quantidade de unidades político-administrativas, é a segunda menos populosa do Brasil. O clima seco da Zona da Mata e do Sertão justificam essa realidade.\nII. O estado de Minas Gerais, localizado na região Sudeste, possui população absoluta superior à da região Centro-Oeste.\nIII. Apesar de ser a mais extensa, a região Norte é a menos populosa do país, devido à presença da Floresta Amazônica e dos baixos níveis de urbanização, entre outros fatores.\nIV. O Rio Grande do Sul é o estado mais populoso da região Sul do Brasil.\n\nÉ correto o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e II, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III, apenas."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II, III e IV."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geografia do Brasil",
+        "Geografia – Regionalização"
+      ]
+    }
+  ]
+}

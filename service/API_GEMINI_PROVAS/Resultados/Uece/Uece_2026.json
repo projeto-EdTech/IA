@@ -1,0 +1,2347 @@
+{
+  "nomeUniversidade": "UNIVERSIDADE ESTADUAL DO CEARÁ",
+  "siglaUniversidade": "UECE",
+  "nomeProva": "VESTIBULAR 2026.1 - 1ª FASE - PROVA DE CONHECIMENTOS GERAIS",
+  "ano": 2026,
+  "qtdeQuestoes": 85,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "O trecho do livro Ponciá aborda, da narradora, o sentimento de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cansaço após um dia exaustivo de trabalhos domésticos que marca sua rotina na cidade."
+        },
+        {
+          "letra": "B",
+          "texto": "saudade de casa e de um passado feliz com os familiares que deixou na cidade grande."
+        },
+        {
+          "letra": "C",
+          "texto": "dificuldade de adaptação a uma realidade marcada pela incessante busca por dignidade."
+        },
+        {
+          "letra": "D",
+          "texto": "frustração pelo tempo perdido com sonhos de aquisição de riquezas materiais."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Compreensão Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Os personagens apresentados pelo texto são predominantemente masculinos e não recebem nomes próprios. Isso ocorre porque",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "são muitos homens e há dificuldade de nomeá-los, neutralizando-os para facilitar a compreensão do enredo."
+        },
+        {
+          "letra": "B",
+          "texto": "há o interesse de destacar a força de uma mulher negra e as ações de mudanças em sua vida."
+        },
+        {
+          "letra": "C",
+          "texto": "é uma história marcada pela subserviência dos personagens, servis à força de uma mulher determinada."
+        },
+        {
+          "letra": "D",
+          "texto": "é a representação universal de brancos e negros que não se relacionam com a história da personagem."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Análise Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "A correspondência entre os conectores destacados e o sentido que denotam no trecho está devidamente estabelecida em:\nI. \"mas coragem para morrer, também não tinha ainda\" (linhas 06-07) – adversidade e adição.\nII. \"pois os homens gastavam a vida trabalhando nas terras dos senhores, e depois a maior parte das colheitas ser entregue aos coronéis\" (linhas 16-18) – explicação e finalidade.\nIII. \"a que todos se entregavam para amanhecer cada dia mais pobres, enquanto alguns conseguiam enriquecer-se a todo o dia\" (linhas 19-21) – finalidade e transitoriedade.\nEstão corretas as complementações contidas em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Coesão e Coerência",
+        "Língua Portuguesa – Conectivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Sobre o termo destacado nos trechos: \"ficou com o olhar encontrando o nada (linhas 02-03); \"repleto de nada e de nada\" (linha 10) e \"ali deitada de olhos arregalados, penetrados no nada\" (linha 26), é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "se apresentam como substantivos, uma vez que a narradora individualiza o termo para exprimir o sentimento de desolação."
+        },
+        {
+          "letra": "B",
+          "texto": "se referem a manifestações de pronome indefinido, porque há distinção de usos intencionais do sentimento expresso pela narradora."
+        },
+        {
+          "letra": "C",
+          "texto": "são adjetivos, pois denotam qualidades do sentimento vivenciado pela narradora."
+        },
+        {
+          "letra": "D",
+          "texto": "são advérbios negativos, porque enfatizam o estado da narradora diante do sentimento de tristeza."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia",
+        "Língua Portuguesa – Classes de Palavras",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "No trecho: “Ponciá partiu no trem do outro dia, pois tão cedo a máquina não voltaria ao povoado\" (linhas 23-24), os termos destacados denotam a figura de linguagem denominada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "catacrese, porque não tem um significado específico entre os termos, e o segundo elemento foi usado de forma aleatória."
+        },
+        {
+          "letra": "B",
+          "texto": "ironia, porque há a necessidade de mostrar termos com sentido contrário ao habitual para ilustrar a situação."
+        },
+        {
+          "letra": "C",
+          "texto": "paradoxo, porque não há lógica entre os termos e, na expressão, causam estranhamento."
+        },
+        {
+          "letra": "D",
+          "texto": "metonímia, porque houve a substituição para evitar repetição, marcando entre eles uma relação de proximidade."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Na passagem: \"Estava cansada de tudo ali. De trabalhar o barro com a mãe, de ir e vir às terras dos brancos e voltar de mãos vazias. De ver a terra dos negros coberta de plantações, cuidadas pelas mulheres e crianças, pois os homens gastavam a vida trabalhando nas terras dos senhores, e depois a maior parte das colheitas ser entregue aos coronéis.\" (linhas 12-18), evidencia-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "coesão referencial catafórica, porque o termo \"a vida\" é apresentado inicialmente, antecipando o referente."
+        },
+        {
+          "letra": "B",
+          "texto": "coesão referencial anafórica por meio da elipse verbal da expressão \"estava cansada\", uma vez que apenas os complementos são textualizados em seguida."
+        },
+        {
+          "letra": "C",
+          "texto": "substituição lexical, porque o enunciador trabalha com sinônimos, hiperônimos e hipônimos para retomar um mesmo referente no texto, o objeto do cansaço."
+        },
+        {
+          "letra": "D",
+          "texto": "dêixis, uma vez que a referência situacional que aponta para o contexto, a exemplo do aqui e agora, são aspectos fundantes para a construção do trecho."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Coesão Referencial",
+        "Língua Portuguesa – Análise Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Em \"Ponciá Vicêncio deitou-se na cama imunda ao lado do homem\" (linhas 01-02) e \"O homem gostava de dizer que ela era pancada da ideia\" (linhas 07-08), o efeito de sentido provocado pelo uso do artigo está na",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "demonstração do elemento a que se faz referência no texto, uma vez que diferencia esse personagem dos demais."
+        },
+        {
+          "letra": "B",
+          "texto": "determinação de maneira vaga, indeterminada ou imprecisa do termo, podendo ser aplicado a outros elementos do texto."
+        },
+        {
+          "letra": "C",
+          "texto": "indicação de um conjunto de seres ou uma espécie inteira de seres humanos."
+        },
+        {
+          "letra": "D",
+          "texto": "exposição de recurso expressivo para reforçar enunciados com teor exclamativo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia",
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Análise Sintática",
+        "Língua Portuguesa – Artigo"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "No trecho \"Quando Ponciá Vicêncio resolveu sair do povoado onde nascera, a decisão chegou forte e repentina.\" (linhas 11-12), o elemento destacado apresenta-se como recurso linguístico responsável por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "assegurar a progressão textual, estabelecendo temporalmente a sequência de eventos."
+        },
+        {
+          "letra": "B",
+          "texto": "introduzir uma frase interrogativa indireta, denotando episódios de dúvida."
+        },
+        {
+          "letra": "C",
+          "texto": "demonstrar uma concessão estabelecida pela quebra de expectativas da personagem."
+        },
+        {
+          "letra": "D",
+          "texto": "estabelecer uma relação de proporcionalidade entre as ações elencadas no texto."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Coesão e Coerência",
+        "Língua Portuguesa – Conjunções"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Com base no texto 2, Os seis minutos, analise as seguintes assertivas:\nI. O texto denota complexidade narrativa, por apresentar personagens multifacetados e imprevisíveis.\nII. O enunciador utiliza o humor para suavizar um episódio simbólico do futebol brasileiro, que se configura como um elemento representativo da cultura e do esporte.\nIII. No texto, são abordados elementos que estão além do futebol, a exemplo da atuação específica de jogadores, do financiamento e de uma possível infração ética por parte da seleção da Alemanha.\nIV. Para além da crítica sobre a derrota do Brasil para a Alemanha, o autor realiza paralelos entre o imaginável e o inimaginável, bem como suposições para atingir uma catarse coletiva em relação ao episódio.\nEstá correto somente o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e III."
+        },
+        {
+          "letra": "B",
+          "texto": "II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "I e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "II e IV."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Gêneros Textuais",
+        "Língua Portuguesa – Ironia e Humor"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "O texto 2 questiona como os torcedores podem reagir ao que é considerado inconcebível. Essa atitude é evidenciada pelo trecho:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"A primeira coisa a fazer, já que o Thiago Silva não poderia jogar, era apresentar o David Luiz ao Dante\". (linhas 33-34)"
+        },
+        {
+          "letra": "B",
+          "texto": "\"Ninguém se lembrou de checar sua documentação. E o Felipão não poderia saber que tinha convocado o Fred errado\". (linhas 46-48)"
+        },
+        {
+          "letra": "C",
+          "texto": "\"Mas ainda estava dentro dos limites do concebível\". (linhas 51-52)"
+        },
+        {
+          "letra": "D",
+          "texto": "\"Proponho o seguinte consolo: vamos descontar aqueles seis minutos em que os alemães fizeram quatro gols como uma invasão do sobrenatural\". (linhas 63-65)"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Argumentação"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "O enunciador utiliza recursos expressivos para caracterizar o episódio narrado. No trecho \"Mas se os alemães tivessem feito mais três gols, apenas mais três, entraríamos no terreno do fantástico, do inimaginável, da galhofa cósmica.\" (linhas 54-56), observa-se, entre as orações, a relação semântica de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "contradição e consequência."
+        },
+        {
+          "letra": "B",
+          "texto": "concessão e oposição."
+        },
+        {
+          "letra": "C",
+          "texto": "condição e resultado."
+        },
+        {
+          "letra": "D",
+          "texto": "proporção e comparação."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Coerência Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Os termos destacados na passagem: \"Mas se os\\u00b9 alemães tivessem feito mais três gols, apenas mais três\\u00b2, entraríamos no terreno do fantástico, do inimaginável, da galhofa cósmica\\u00b3.\" (linhas 54-56) classificam-se respectivamente como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "adjunto adverbial¹; predicativo do objeto²; adjunto adverbial³."
+        },
+        {
+          "letra": "B",
+          "texto": "sujeito¹; adjunto adnominal2; adjunto adnominal³."
+        },
+        {
+          "letra": "C",
+          "texto": "adjunto adnominal¹; aposto²; adjunto adverbial³."
+        },
+        {
+          "letra": "D",
+          "texto": "objeto direto¹; complemento nominal2; aposto³."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Análise Sintática",
+        "Língua Portuguesa – Termos da Oração"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Se $p$ e $q$ são números distintos que satisfazem a equação $z^2 - 2z + 2 = 0$, então $p^2 + q^2$ é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-2."
+        },
+        {
+          "letra": "B",
+          "texto": "-1."
+        },
+        {
+          "letra": "C",
+          "texto": "0."
+        },
+        {
+          "letra": "D",
+          "texto": "2."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Equações Algébricas",
+        "Matemática – Polinômios"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "O gráfico da função $f: \\mathbb{R} \\rightarrow \\mathbb{R}$, $f(x) = 3x^2 + 2x - 5$ é uma parábola. A equação da reta horizontal tangente a esta parábola é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$y=-\\frac{1}{16}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$y=-\\frac{3}{16}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$y=+\\frac{3}{16}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$y=-\\frac{5}{3}$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Cálculo Diferencial",
+        "Matemática – Derivadas",
+        "Matemática – Funções Quadráticas",
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "A medida do volume, em $m^3$, de um cubo inscrito em uma esfera cuja medida do raio é 1 m é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{4}{3}\\sqrt{3}$."
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{8}{3}\\sqrt{3}$."
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{8}{9}\\sqrt{3}$."
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{4}{9}\\sqrt{3}$."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Geometria Espacial",
+        "Matemática – Sólidos Geométricos"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Se $a$, $b$ e $c$ são as raízes da equação $x^3 - 3x^2 + 4x - 2 = 0$, então o valor de $\\log_{\\frac{1}{2}} \\left( \\frac{1}{a} + \\frac{1}{b} + \\frac{1}{c} \\right)$ é igual a\nNote: $\\log_{\\frac{1}{2}} (X)$ = logaritmo de X na base $\\frac{1}{2}$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-2."
+        },
+        {
+          "letra": "B",
+          "texto": "-1."
+        },
+        {
+          "letra": "C",
+          "texto": "0."
+        },
+        {
+          "letra": "D",
+          "texto": "1."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Polinômios",
+        "Matemática – Relações de Girard",
+        "Matemática – Logaritmos"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "No plano, com o sistema de coordenadas cartesianas usual, usando o metro como unidade de comprimento, se os pontos $M = (0, 3\\sqrt{3})$, $P = (- w, 0)$ e $Q = (w, 0)$, $w > 0$ são os vértices de um triângulo equilátero e pertencem ao gráfico da função real de variável real $f(x) = Kx^2 + 3\\sqrt{3}$, então é correto afirmar que o valor de K, em metros, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$-\\frac{\\sqrt{3}}{2}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{\\sqrt{3}}{3}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$-\\frac{\\sqrt{2}}{3}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$-\\frac{\\sqrt{2}}{2}$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Analítica",
+        "Matemática – Funções",
+        "Matemática – Triângulo Equilátero"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Em relação a um triângulo cujas medidas dos lados são respectivamente 3 m, 5 m e 7 m, pode-se afirmar corretamente que a soma das medidas, em graus, dos seus dois menores ângulos internos é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "50."
+        },
+        {
+          "letra": "B",
+          "texto": "60."
+        },
+        {
+          "letra": "C",
+          "texto": "70."
+        },
+        {
+          "letra": "D",
+          "texto": "80."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Trigonometria",
+        "Matemática – Lei dos Cossenos",
+        "Matemática – Geometria Plana",
+        "Matemática – Triângulos"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "A quantidade de números com cinco dígitos distintos formados com os algarismos 1, 3, 4, 6 e 7 que são menores do que 60 000 é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "46."
+        },
+        {
+          "letra": "B",
+          "texto": "58."
+        },
+        {
+          "letra": "C",
+          "texto": "72."
+        },
+        {
+          "letra": "D",
+          "texto": "81."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Análise Combinatória",
+        "Matemática – Permutações"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Se XYZW é um quadrado cuja medida do lado é 2 cm e cujo centro é o ponto P, então a medida, em $cm^2$, da área do triângulo isósceles YPK, cuja base é o segmento YP e cujo vértice K está no prolongamento do lado WX do quadrado, é igual a\nVeja que o segmento YP está contido na diagonal YW do quadrado.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,8."
+        },
+        {
+          "letra": "B",
+          "texto": "1,6."
+        },
+        {
+          "letra": "C",
+          "texto": "1,5."
+        },
+        {
+          "letra": "D",
+          "texto": "1,4."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Geometria Analítica",
+        "Matemática – Quadrados",
+        "Matemática – Triângulos",
+        "Matemática – Áreas"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Se $(x, y, z)$ é a solução da equação matricial\n$$\\begin{bmatrix} 1 & 1 & 1 \\\\ 1 & 2 & 1 \\\\ 1 & 0 & -1 \\end{bmatrix} \\begin{bmatrix} x \\\\ y \\\\ z \\end{bmatrix} = \\begin{bmatrix} 1 \\\\ 7 \\\\ 8 \\end{bmatrix}$$\nentão o produto $x \\cdot y \\cdot z$ é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-4."
+        },
+        {
+          "letra": "B",
+          "texto": "-8."
+        },
+        {
+          "letra": "C",
+          "texto": "-10."
+        },
+        {
+          "letra": "D",
+          "texto": "-6."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Álgebra Linear",
+        "Matemática – Sistemas de Equações Lineares",
+        "Matemática – Matrizes"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Usando-se as propriedades dos logaritmos, é correto concluir que o valor da expressão $\\log_5 2 - \\log_6 216 + \\log_{81} 3 + \\log_{10} 1$ é igual a\nNote: $\\log_a b = \\text{logaritmo de b na base a}$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{29}{12}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$-\\frac{7}{12}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$-\\frac{5}{12}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$-\\frac{19}{12}$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Logaritmos",
+        "Matemática – Propriedades Operatórias"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "O seguinte trecho da obra de Plutarco, Vidas Paralelas, trata da educação em Esparta, baseada nas leis de Licurgo do século VIII a.C: \"Das letras aprendiam apenas o indispensável; toda a educação restante dizia respeito a bem obedecer a ordens, resistir a fadigas e vencer em combate\".\nPLUTARCO. Vidas Paralelas - Licurgo, p. 28.\nNo que diz respeito à sociedade espartana, assinale com V ou F conforme seja verdadeiro ou falso o que se afirma a seguir:\n( ) Os periecos eram a classe dominante, formada provavelmente pelas famílias dos conquistadores dórios.\n( ) Os hilotas eram a massa da população trabalhadora que habitava nas terras que o Estado havia conquistado.\n( ) O órgão político mais importante em Esparta era a Apela, ou assembleia do povo, composta pelos cidadãos maiores de 30 anos.\n( ) Esparta, no final do século VI, dominou quase todo o Peloponeso, formando então, com outras cidades-estados, a Liga do Peloponeso.\n( ) A classe dominante era proibida de se dedicar a qualquer atividade que não fosse a política e a guerra.\nA sequência correta, de cima para baixo, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V, F, F, V, F."
+        },
+        {
+          "letra": "B",
+          "texto": "F, V, V, F, V."
+        },
+        {
+          "letra": "C",
+          "texto": "F, V, F, V, V."
+        },
+        {
+          "letra": "D",
+          "texto": "V, F, V, F, F."
+        }
+      ],
+      "opcaoCorreta": "F",
+      "conteudo": [
+        "História – História Antiga",
+        "História – Grécia Antiga",
+        "História – Esparta"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "O texto a seguir diz respeito às invasões que se abateram sobre a Europa no século IX d.C: \"Os Normandos incendiaram a seguir o Mosteiro e a Igreja da Saint-Quentin e, ao mesmo tempo, a Igreja da Mãe de Deus em Arras. O Rei Carlomano, que os perseguiu, nada fez de útil\".\nExtrato dos Anais de 883 da Abadia de Saint-Vast de Arras. Citado por Arondel e outros. Rome et Le Moyen Age jusqu'em 1328. p. 187.\nConsiderando esse período da história da civilização europeia, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as invasões provocaram o florescimento das cidades, na medida em que as pessoas procuravam a zona urbana em busca de proteção contra os invasores."
+        },
+        {
+          "letra": "B",
+          "texto": "os normandos, um dos povos invasores que procediam do leste, invadiram a Europa Ocidental em busca de saques e pilhagens."
+        },
+        {
+          "letra": "C",
+          "texto": "o terror provocado pelas invasões levou ao fortalecimento dos Reinos Romano-Germânicos como o dos Francos, por exemplo."
+        },
+        {
+          "letra": "D",
+          "texto": "as invasões completaram a formação da sociedade feudal, com o fortalecimento dos laços feudo-vassálicos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Idade Média",
+        "História – Invasões Bárbaras",
+        "História – Normandos"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "\"O Iluminismo ou Ilustração, [que] tinha como temas básicos a Liberdade, o Progresso, o Homem, encontrou sua máxima expressão entre os escritores franceses que propagaram tais ideias rapidamente entre a elite intelectual europeia.\"\nRubim Leão Aquino. História das Sociedades. p. 120.\nAtente para o que se afirma a seguir sobre o movimento iluminista:\nI. As origens do Iluminismo ligam-se aos progressos da Ciência e da Filosofia ocorridos no século XVII, principalmente ao Racionalismo.\nII. Voltaire condenava as Monarquias Absolutas e era defensor de uma Monarquia Constitucional.\nIII. Montesquieu defendia a doutrina dos três poderes: a divisão da autoridade governamental em três setores: executivo, legislativo e judiciário.\nIV. Os fisiocratas negavam ao Estado o direito de intervir na economia.\nV. Voltaire atacava violentamente a Igreja Católica, não só porque era o sustentáculo do Antigo Regime, mas porque ele era ateu.\nÉ correto somente o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II e IV."
+        },
+        {
+          "letra": "B",
+          "texto": "I, III e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "II, III e V."
+        },
+        {
+          "letra": "D",
+          "texto": "I e V."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Idade Moderna",
+        "História – Iluminismo",
+        "História – Pensadores Iluministas"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Atente para o seguinte trecho do discurso de Augusto Bebel, líder socialdemocrata, em 1911: \"Todos os países continuaram a se armar para a guerra, até chegar o dia em que um ou outro dirá: 'Melhor um fim terrível do que um terror sem fim'. [Uma nação também poderá dizer]: 'Se demorarmos mais, vamos acabar mais fracos em vez de mais fortes'. Então a catástrofe virá. E assim, na Europa, os grandes planos de mobilização serão desencadeados, e dezoito milhões de homens, os melhores de muitos países, armados com os melhores instrumentos para matar, entrarão em ação uns contra os outros. O Götterdämmerung do mundo burguês está se aproximando\".\nHastings, Max. Catástrofe. 1914: A Europa vai à Guerra. p.86.\nEsse discurso de Bebel sobre o clima na Europa em 1911 antecipava a catástrofe que se abateria sobre o continente Europa em 1914. Sobre esse período da história europeia, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o principal conflito entre a Alemanha e a Rússia estava centrado nos Bálcãs e nas políticas Pan-eslavistas da Rússia na Região."
+        },
+        {
+          "letra": "B",
+          "texto": "os atritos entre o Império Austro-Húngaro e a Sérvia se deviam aos planos da Sérvia de controlar os estreitos de Dardanelos, dando aos Sérvios uma saída para o mar."
+        },
+        {
+          "letra": "C",
+          "texto": "essa época, no plano ideológico, se caracterizou pela intensificação da propaganda dos nacionalismos, que serviam para encobrir as ambições imperialistas."
+        },
+        {
+          "letra": "D",
+          "texto": "as potências europeias do início do século XX sabiam que qualquer guerra que se iniciasse duraria vários anos, devido ao poder industrial envolvido no conflito."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Idade Contemporânea",
+        "História – Primeira Guerra Mundial",
+        "História – Imperialismo",
+        "História – Nacionalismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Itororó, Curuzu, Riachuelo e Tuiuti são exemplos de batalhas ocorridas entre 1866 e 1868 durante a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Guerra de Canudos, em que o exército da República atacou a comunidade de Belo Monte, localizada no sertão da Bahia."
+        },
+        {
+          "letra": "B",
+          "texto": "Guerra do Prata ou Guerra contra Oribe e Rosas, em que o império brasileiro e seus aliados enfrentaram o governo argentino de Juan Manuel Rosas."
+        },
+        {
+          "letra": "C",
+          "texto": "Guerra do Paraguai, em que a tríplice Aliança formada por Brasil, Argentina e Uruguai enfrentou o governo do ditador Solano López do Paraguai."
+        },
+        {
+          "letra": "D",
+          "texto": "Guerra dos Farrapos ou Revolução Farroupilha, ocorrida nas províncias de São Pedro do Rio Grande do Sul e Santa Catarina."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História do Brasil",
+        "História – Segundo Reinado",
+        "História – Guerra do Paraguai"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Durante o regime de Getúlio Vargas no Brasil, após a Revolução de 1930, as ações de grupos católicos na vida política foram acirradas, como forma de conter o avanço das doutrinas por eles consideradas nocivas. No Ceará, no período citado, destacou-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a atividade dos COC, Círculos Operários Católicos, que difundiam o socialismo e o comunismo entre trabalhadores cearenses."
+        },
+        {
+          "letra": "B",
+          "texto": "a ação da LEC, Liga Eleitoral Católica, responsável pela eleição de representantes parlamentares cearenses para a Assembleia Nacional Constituinte de 1934."
+        },
+        {
+          "letra": "C",
+          "texto": "a atuação da LCT, Legião Cearense do Trabalho, em favor dos trabalhadores cearenses, que era baseada nos ideais socialistas."
+        },
+        {
+          "letra": "D",
+          "texto": "a ação política da LOC, Liga Operária e Camponesa, que utilizou um discurso de matriz fascista e corporativista na organização dos trabalhadores."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História do Brasil",
+        "História – Era Vargas",
+        "História – Movimentos Políticos"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "O acontecimento histórico da República brasileira em que Carlos Marighella, cofundador da ALN (Ação Libertadora Nacional), Carlos Lamarca, um dos principais líderes da VPR (Vanguarda Popular Revolucionária) e a Guerrilha do Araguaia estão diretamente relacionados corresponde",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ao movimento que derrubou o ciclo da Política dos Governadores e instituiu a Era Vargas, após a vitória na Revolução de 1930."
+        },
+        {
+          "letra": "B",
+          "texto": "ao movimento que levou à implantação da Ditadura Militar em 1964, quando os personagens e organizações citados lutaram contra a ameaça comunista no Brasil."
+        },
+        {
+          "letra": "C",
+          "texto": "à luta para pôr fim ao governo ditatorial de Getúlio Vargas, no Estado Novo, no qual grupos de oposição, como os citados, foram proibidos de participar da vida política."
+        },
+        {
+          "letra": "D",
+          "texto": "à luta armada, promovida por grupos de esquerda brasileiros, contra a Ditadura Militar estabelecida após o golpe de 1964, que derrubou o governo de João Goulart."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – História do Brasil",
+        "História – Ditadura Militar",
+        "História – Luta Armada"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "\"[...] Mas nem a TV Globo nem os partidos de oposição, nem mesmo Ulysses Guimarães, [...], nada fazia prever a onda dos gigantescos comícios que se seguiram. O primeiro, em Belo Horizonte, reuniu cerca de 300 mil manifestantes na praça Rio Branco; o segundo, no Rio de Janeiro, levou 1 milhão de pessoas para a Candelária; o último, em São Paulo, bateu a marca de 1,5 milhão de participantes. O palanque desses comícios reunia as principais lideranças da frente suprapartidária - Ulysses Guimarães, Leonel Brizola, Lula, Tancredo Neves, Fernando Henrique Cardoso, Franco Montoro -, e [...] o engajamento de intelectuais do porte de Antonio Candido, Lygia Fagundes Telles e Celso Furtado, de jogadores de futebol como Sócrates e Reinaldo, e de artistas como Chico Buarque, Maria Bethânia, Paulinho da Viola, Juca de Oliveira, Fernanda Montenegro e Fafá de Belém foi decisivo para difundir as representações e os ideais de um projeto democrático.\"\nSCHWARCZ, Lilia M.; STARLING, Heloisa M. Brasil: uma biografia. São Paulo: Companhia das Letras, 2015, p. 663.\nConsiderando a história do Brasil República, é correto afirmar que esse excerto se refere ao movimento",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "das Diretas Já, ocorrido entre 1983 e 1984, que tinha como objetivo a volta da eleição direta para o cargo de presidente da república, em apoio à emenda constitucional proposta pelo deputado Dante de Oliveira."
+        },
+        {
+          "letra": "B",
+          "texto": "Vem pra Rua, criado em 2014, que dizia lutar contra a corrupção, e se definia como apartidário, sendo parte dos movimentos sociais que contribuíram para o impeachment da Presidenta Dilma Roussef."
+        },
+        {
+          "letra": "C",
+          "texto": "denominado Marcha da Família Com Deus pela Liberdade, que em 1964 apoiava a intervenção militar que depôs o governo do Presidente João Goulart, considerado contrário aos seus valores."
+        },
+        {
+          "letra": "D",
+          "texto": "dos caras-pintadas, ou à campanha Fora Collor, que reuniu milhões de estudantes pelo Brasil, em manifestações contra o Presidente Fernando Collor de Mello exigindo o seu impeachment por corrupção."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História do Brasil",
+        "História – Nova República",
+        "História – Movimentos Sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Em um \"mapa do mundo\" a ser construído utilizando-se como base a projeção de Mercator, o principal efeito a ser observado na representação cartográfica das áreas localizadas em altas latitudes será",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a manutenção das proporções reais das áreas, sem causar distorções significativas."
+        },
+        {
+          "letra": "B",
+          "texto": "a preservação das formas dos territórios com apenas pequenas variações nas distâncias entre pontos."
+        },
+        {
+          "letra": "C",
+          "texto": "a ampliação das áreas, com os polos e regiões adjacentes parecendo excessivamente maiores do que realmente são."
+        },
+        {
+          "letra": "D",
+          "texto": "o aumento das distorções angulares somente, sem alteração na escala das áreas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Cartografia",
+        "Geografia – Projeções Cartográficas",
+        "Geografia – Projeção de Mercator"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "A geologia e a geomorfologia do estado do Ceará são marcadas pelas etapas da tectônica de placas, em particular os dois últimos episódios que atingiram o Nordeste, que são a junção do Gondwana, entre 750 e 540 milhões de anos atrás, através da chamada Orogênese Brasiliana, e da divisão do Pangeia, que no Nordeste setentrional ocorreu por volta de 100 milhões de anos atrás.\nClaudino-Sales, 2018. Megagemorfologia do Nordeste Setentrional Brasileiro. Revista de Geografia, vol. 35, n. 4, p. 442-454).\nSobre o Pangeia, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "diz respeito a um megacontinente que agregou as massas continentais existentes na Terra, exceto a Antártida."
+        },
+        {
+          "letra": "B",
+          "texto": "corresponde à mais antiga das junções continentais que ocorreram ao longo da história geológica, tendo sido circundado por quatro oceanos."
+        },
+        {
+          "letra": "C",
+          "texto": "sua divisão separou a África da Oceania, criando o Oceano Pacífico entre esses continentes."
+        },
+        {
+          "letra": "D",
+          "texto": "tinha a América do Sul e a África coligadas como uma única massa continental que foi separada para dar surgimento ao Oceano Atlântico."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geologia",
+        "Geografia – Tectônica de Placas",
+        "Geografia – Pangeia",
+        "Geografia – Geologia do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Em áreas mais elevadas, próximo à costa litorânea do Ceará, como é o caso da serra de Baturité, massas de ar úmidas originadas do oceano são constantemente impelidas contra as maiores altitudes. À medida que essas massas de ar sobem a encosta voltada para o mar, expandem-se, resfriam-se e perdem sua umidade na forma de intensas precipitações. No entanto, ao cruzar o topo e descer pela encosta oposta, o ar se torna mais quente e seco, criando uma área com características de semiárido, como é o caso da região de Canindé. Esse padrão climático específico é resultado direto do mecanismo denominado de precipitação",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "convectiva, que causa o aumento da umidade na vertente de sotavento, favorecendo biomas úmidos."
+        },
+        {
+          "letra": "B",
+          "texto": "orográfica, que resulta na formação de uma área de sombra de chuva na vertente de sotavento."
+        },
+        {
+          "letra": "C",
+          "texto": "de monção, influenciada por mudanças sazonais na direção dos ventos dominantes."
+        },
+        {
+          "letra": "D",
+          "texto": "frontal, originada pelo choque de massas de ar com características térmicas e de umidade iguais."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Climatologia",
+        "Geografia – Tipos de Chuva",
+        "Geografia – Clima do Ceará"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Os processos naturais responsáveis pela modelagem da superfície terrestre, através da ação contínua da água da chuva, dos rios, do vento e das variações de temperatura, que provocam a quebra das rochas e o transporte de sedimentos e, consequentemente, transformam a paisagem ao longo do tempo são denominados",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "intemperismo e erosão."
+        },
+        {
+          "letra": "B",
+          "texto": "magmatismo e soerguimento."
+        },
+        {
+          "letra": "C",
+          "texto": "tectonismo e dobramentos."
+        },
+        {
+          "letra": "D",
+          "texto": "abalos sísmicos e vulcanismo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geomorfologia",
+        "Geografia – Agentes Modeladores do Relevo",
+        "Geografia – Intemperismo",
+        "Geografia – Erosão"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Considerando o processo de conurbação, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "se trata de um processo que está ligado à falta de habitação para a maior parte da população da cidade."
+        },
+        {
+          "letra": "B",
+          "texto": "se refere ao processo por meio do qual uma cidade se articula a outras distantes, por vias de comunicação instantânea, formando redes de cidades hierarquizadas."
+        },
+        {
+          "letra": "C",
+          "texto": "se refere a um processo de expansão espacial de uma ou mais cidades que se encontram e passam a constituir um único tecido urbano, formando uma mancha urbana única de espaço construído."
+        },
+        {
+          "letra": "D",
+          "texto": "se trata da expulsão das classes sociais mais pobres dos centros das cidades ou de áreas desvalorizadas, visando investimentos públicos e privados para revitalização."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geografia Urbana",
+        "Geografia – Urbanização",
+        "Geografia – Conurbação"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "No âmbito da geografia política e da geopolítica, o conceito de território é central para a compreensão das disputas territoriais e dos papéis dos Estados na organização dos espaços. Diversas escolas de pensamento na geografia pautaram o território como conceito central, desde a formulação pioneira de Frederich Ratzel, no século XIX, até as abordagens mais contemporâneas ligadas ao conceito do ponto de vista cultural e simbólico. No início do século XX, inspirado nos estudos de Ratzel sobre geografia política, o termo \"geopolítica\" foi criado por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Halford John Mackinder."
+        },
+        {
+          "letra": "B",
+          "texto": "Karl Haushofer."
+        },
+        {
+          "letra": "C",
+          "texto": "Isaiah Bowman."
+        },
+        {
+          "letra": "D",
+          "texto": "Rudolf Kjéllen."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "Geografia – Teóricos da Geopolítica",
+        "Geografia – Conceito de Território"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "\"Espaço vital\" é um dos conceitos que caracterizam a chamada Escola Alemã de Geografia, que corresponde a uma das escolas nacionais do período da Geografia Clássica (1870-1950). Tal conceito influenciou a leitura nazista de expansão territorial, uma vez que trazia no seu cerne a necessidade de espaço para o desenvolvimento de Estados e povos, isto é, expansão espaço-territorial, o que implica rivalidades geopolíticas e disputas por territórios. Esse conceito foi formulado por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Frederich Ratzel."
+        },
+        {
+          "letra": "B",
+          "texto": "Vidal de la Blache."
+        },
+        {
+          "letra": "C",
+          "texto": "Alexander von Humboldt."
+        },
+        {
+          "letra": "D",
+          "texto": "Milton Santos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "Geografia – Espaço Vital",
+        "Geografia – Teóricos da Geografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "A questão agrária no Brasil tem sido alvo de debates constantes no âmbito acadêmico, político e midiático, em razão de temas importantes como o agronegócio e a reforma agrária. No que diz respeito aos conceitos de agronegócio e reforma agrária, avalie as seguintes afirmações:\nI. O agronegócio é definido como modelo econômico da agropecuária industrial capitalista cujo objetivo é garantir a alimentação da população brasileira, especialmente dos mais pobres, configurando-se como o principal mecanismo de erradicação da fome no Brasil.\nII. A Reforma Agrária tem como objetivo a democratização do acesso à terra, através de uma distribuição mais equitativa para a população, o que beneficia o Movimento dos Trabalhadores Rurais Sem-Terra (MST) e o Movimento dos Trabalhadores Sem-Teto (MTST).\nIII. A luta por Reforma Agrária no Brasil, para além do acesso à terra, é um projeto de desenvolvimento social, político, educacional e de soberania alimentar para todos. É um projeto de enfrentamento à lógica do agronegócio.\nIV. O desenvolvimento do agronegócio no Brasil se deu através da substituição do modelo tradicional de agricultura familiar por um sistema agropecuário industrial e globalizado, em que o alimento é tratado como mercadoria a ser comercializada no mercado externo, com objetivo de gerar lucro para os latifundiários, empresários e capitalistas.\nÉ correto o que se afirma somente em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "III."
+        },
+        {
+          "letra": "C",
+          "texto": "III e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e IV."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geografia Agrária",
+        "Geografia – Agronegócio",
+        "Geografia – Reforma Agrária"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Um tubo em formato de U, com extremidades abertas e de seção reta uniforme, encontra-se parcialmente preenchido com um líquido de densidade $d$. Nesta situação, os níveis do líquido de densidade $d$ são iguais em ambos os ramos de U (nível primitivo). Derrama-se lentamente, no ramo da direita, um segundo líquido de densidade $d' < d$, que não se mistura com o primeiro, e espera-se o equilíbrio. Nessa situação, observa-se que a superfície horizontal livre do segundo líquido de densidade $d'$ encontra-se a uma distância vertical $Y$ acima da superfície horizontal livre do líquido de densidade $d$ presente no ramo oposto. Sabendo que os líquidos são incompressíveis e que a superfície livre do líquido de densidade $d$ no ramo esquerdo elevou-se a uma altura $H$, em relação ao seu nível primitivo, a razão $\\frac{d'}{d}$ é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{H}{(H+Y)}$."
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{2H}{(2H+Y)}$."
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{H}{Y}$."
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{Y}{(2H+Y)}$."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Hidrostática",
+        "Física – Princípio de Stevin",
+        "Física – Densidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Uma partícula executa um MHS (movimento harmônico simples) de amplitude $A$ ao longo do eixo $Ox$, com o centro de oscilações situado em $O$. No instante em que a partícula passa pela posição $x$ igual a $\\frac{A}{2}$, a razão entre sua energia cinética $K$ e energia potencial $U$ é dada por $R$. Desconsiderando a ação de forças resistivas, é correto afirmar que o valor de $R$ é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{1}{9}$."
+        },
+        {
+          "letra": "B",
+          "texto": "9."
+        },
+        {
+          "letra": "C",
+          "texto": "4."
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{1}{4}$."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Mecânica",
+        "Física – Movimento Harmônico Simples (MHS)",
+        "Física – Energia Mecânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Um entusiasta em eletrônica possui a sua disposição uma caixa com capacitores comerciais dos tipos A e B. Os capacitores do tipo A e do tipo B apresentam, respectivamente, em seus corpos as especificações $100\\mu F/25V$ e $1000\\mu F/25V$. Ao retirar da caixa M capacitores do tipo A e N capacitores do tipo B, o entusiasta desenvolve dois experimentos simples. No primeiro experimento, mede a capacitância equivalente de um circuito obtido a partir da associação, em paralelo, de todos os capacitores, resultando em $2300\\mu F$. No segundo experimento, com todos os capacitores ligados em série, obtém, a partir do circuito montado, uma capacitância equivalente de $31,25\\mu F$. Considere os valores dos capacitores como exatos e ideais (sem tolerância), todos em perfeito estado, e que todas as unidades foram efetivamente utilizadas nas associações.\nCom base nos resultados obtidos pelo entusiasta, a razão $\\frac{M}{N}$ é dada por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{32}{23}$."
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{1}{10}$."
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{3}{2}$."
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{23}{10}$."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Eletrodinâmica",
+        "Física – Circuitos Elétricos",
+        "Física – Capacitores"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Duas partículas, A e B, partem simultaneamente da origem do plano xy em Movimento Retilíneo Uniforme (MRU). A partícula A desloca-se ao longo do eixo x no sentido positivo, com velocidade constante de módulo $V_A$. A partícula B move-se no primeiro quadrante com velocidade constante de módulo $V_B$, em uma direção que forma ângulo $\\theta$ (onde $0 < \\theta < \\frac{\\pi}{2}$) com o eixo x positivo. A razão, $\\frac{V_A}{V_B}$, após o início do movimento, de modo que o vetor $\\vec{r}_{AB}$ que conecta a partícula A à B, com origem na partícula A e extremidade na partícula B permaneça sempre paralelo ao eixo y, ou seja, com componente horizontal nula, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\cos(\\theta)$."
+        },
+        {
+          "letra": "B",
+          "texto": "$\\sin(\\theta)$."
+        },
+        {
+          "letra": "C",
+          "texto": "$\\cos^{-1}(\\theta)$."
+        },
+        {
+          "letra": "D",
+          "texto": "$\\tan(\\theta)$."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Cinemática",
+        "Física – Movimento Retilíneo Uniforme",
+        "Física – Vetores"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Em um experimento didático de termodinâmica, um gás ideal monoatômico é submetido a um ciclo termodinâmico através de um processo quase estático e reversível composto por três etapas cíclicas: (I) uma expansão isobárica, na qual o volume do gás aumenta de $V_1$ para $V_2$ sob pressão constante $P_1$; (II) um resfriamento isocórico, em que o volume é mantido em $V_2$ e a pressão é reduzida de $P_1$ para $P_2$; (III) uma compressão isobárica, em que o volume do gás diminui de $V_2$ para $V_1$ sob pressão $P_2$, com o retorno do sistema ao seu estado inicial. Conhecendo o comportamento do gás ideal e que todas as transformações são quase estáticas, assinale a opção que corresponde à afirmação verdadeira sobre o ciclo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O trabalho total realizado pelo gás no ciclo é nulo."
+        },
+        {
+          "letra": "B",
+          "texto": "A temperatura do gás no estado final é maior que no estado inicial."
+        },
+        {
+          "letra": "C",
+          "texto": "O trabalho total realizado no ciclo é maior do que zero."
+        },
+        {
+          "letra": "D",
+          "texto": "A variação da energia interna do gás ao longo do ciclo é positiva."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Termodinâmica",
+        "Física – Ciclos Termodinâmicos",
+        "Física – Trabalho, Calor e Energia Interna"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Duas cargas pontuais $q_1$ e $q_2$ encontram-se no vácuo, localizadas no plano xy nas coordenadas $(0,0)$ e $(D,0)$, respectivamente. Estas cargas se interagem com uma força elétrica de módulo $F$. Em seguida, desloca-se a carga $q_1$ para a coordenada $(X,0)$, com $X > D$, de forma que a força elétrica entre as cargas $q_1$ e $q_2$ passe a ser $2F$. Nesse contexto, pode-se afirmar corretamente",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$X$ passa a ser $D$ e $x = d$."
+        },
+        {
+          "letra": "B",
+          "texto": "o mesmo sinal e $x = d$."
+        },
+        {
+          "letra": "C",
+          "texto": "sinais contrários e $x = 2d$."
+        },
+        {
+          "letra": "D",
+          "texto": "o mesmo sinal e $X = D/2$."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Eletrostática",
+        "Física – Lei de Coulomb",
+        "Física – Força Elétrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Em um sistema coerente de unidades em que as unidades fundamentais são representadas por L (comprimento), M (massa) e T (tempo), a unidade de trabalho é representada por W. Ao considerar um segundo sistema de unidades coerente no qual as novas unidades fundamentais correspondem a $2L, 4M$ e $2T$ do sistema anterior, a nova unidade de trabalho é dada por W'. Sendo assim, a razão $W'/W$ é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12."
+        },
+        {
+          "letra": "B",
+          "texto": "3."
+        },
+        {
+          "letra": "C",
+          "texto": "4."
+        },
+        {
+          "letra": "D",
+          "texto": "10."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Análise Dimensional",
+        "Física – Unidades de Medida",
+        "Física – Trabalho"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Considerando um elemento A, com massas 24, 25 e 26 e abundâncias relativas de 79%, 10% e 11%, respectivamente, avalie as seguintes afirmações:\nI. O elemento possui três isótopos.\nII. A massa atômica média aproximada desse elemento é 26.\nIII. Esse elemento possui um isótopo de massa 25 com abundância de 11%.\nIV. Esse elemento é o magnésio.\nÉ correto o que se afirma somente em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "III e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "I e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Estrutura Atômica",
+        "Química – Isótopos",
+        "Química – Massa Atômica Média"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Em processos industriais, a velocidade com que os metais reagem com ácidos influencia diretamente a eficiência de tratamentos químicos, como limpeza e remoção de impurezas. Para estudar esse fenômeno, pesquisadores analisaram a reatividade do zinco quando colocado em contato com uma solução de ácido nítrico de mesma concentração em diferentes ensaios. Em todos os testes, a quantidade de zinco e a concentração do ácido foram mantidas constantes. A única variável foi a forma física do metal. Considerando os princípios da cinética química, é correto afirmar que o zinco reagirá com maior rapidez em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "lã metálica."
+        },
+        {
+          "letra": "B",
+          "texto": "pó fino."
+        },
+        {
+          "letra": "C",
+          "texto": "barra maciça."
+        },
+        {
+          "letra": "D",
+          "texto": "chapa fina."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Cinética Química",
+        "Química – Fatores que Afetam a Velocidade da Reação"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Existem compostos químicos que são muito importantes para a saúde do ser humano, com destaque para os carboidratos, lipídios e ácidos nucléicos. Com relação a essas classes de compostos, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "carboidratos são glicídios, ou açúcares, formados fundamentalmente por átomos de carbono, hidrogênio e nitrogênio."
+        },
+        {
+          "letra": "B",
+          "texto": "lipídios são moléculas formadas a partir da associação entre ácidos graxos e álcool, tais como óleos e gorduras, contendo em sua estrutura carbono, hidrogênio e oxigênio."
+        },
+        {
+          "letra": "C",
+          "texto": "ácidos nucléicos são macromoléculas que formam dois importantes componentes: DNA, ácido desoxirribonucleico, e HDL, lipoproteína de alta densidade, contendo em sua estrutura carbono, hidrogênio, oxigênio e nitrogênio."
+        },
+        {
+          "letra": "D",
+          "texto": "sacarose é um tipo de lipídio que se encontra em abundância na cana-de-açúcar e na beterraba, contendo em sua estrutura carbono, hidrogênio e oxigênio."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Bioquímica",
+        "Química – Macromoléculas Orgânicas",
+        "Química – Carboidratos",
+        "Química – Lipídios",
+        "Química – Ácidos Nucleicos"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Um químico realiza a reação de termita, onde o óxido de ferro $(\\text{Fe}_2\\text{O}_3)$ reage com alumínio $(\\text{Al})$ para produzir ferro metálico $(\\text{Fe})$ e óxido de alumínio $(\\text{Al}_2\\text{O}_3)$: $\\text{Fe}_2\\text{O}_3 + \\text{Al} \\rightarrow \\text{Fe} + \\text{Al}_2\\text{O}_3$.\nPara o experimento, ele utiliza 320 g de $\\text{Fe}_2\\text{O}_3$ com 70% de pureza. Após a reação, obtém 65 g de ferro metálico.\nCom base nesses dados, a massa teórica de ferro que poderia ser obtida considerando apenas o $\\text{Fe}_2\\text{O}_3$ puro e o rendimento percentual da reação, em valores aproximados, são respectivamente",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "78,4g de Fe e 82,9%."
+        },
+        {
+          "letra": "B",
+          "texto": "16,8g de Fe e 25,9%."
+        },
+        {
+          "letra": "C",
+          "texto": "33,6g de Fe e 51,7%."
+        },
+        {
+          "letra": "D",
+          "texto": "156,8g de Fe e 41,5%."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Estequiometria",
+        "Química – Reações Químicas",
+        "Química – Rendimento de Reação"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Uma das ferramentas essenciais da química é a tabela periódica, que mostra uma representação organizada dos elementos químicos. Desde sua criação, ela evoluiu de forma significativa, mas seu princípio fundamental permanece: agrupar elementos com base em suas propriedades químicas e físicas.\nConsiderando a tabela periódica, avalie as seguintes afirmações:\nI. O que existe no planeta Terra é constituído pelos elementos químicos, classificados e organizados na tabela periódica. Atualmente são 118 elementos químicos, distribuídos em 18 períodos e 7 grupos ou famílias.\nII. A classificação dos elementos da tabela periódica é baseada em várias propriedades, que incluem: número atômico, configuração eletrônica, propriedades químicas e propriedades físicas.\nIII. A tabela periódica é considerada uma das mais importantes conquistas da ciência, não apenas da química, mas também da medicina e da biologia.\nÉ correto o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Tabela Periódica",
+        "Química – Elementos Químicos"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "A teoria atômica é um conjunto de ideias, princípios e modelos que descrevem a natureza e a estrutura dos átomos.\nConsiderando a teoria atômica, numere os parênteses abaixo de acordo com a seguinte indicação:\n1. estrutura atômica;\n2. núcleo atômico;\n3. eletrosfera;\n4. modelo atômico.\n( ) Representação simplificada de teorias científicas que descrevem a estrutura interna e o comportamento dos átomos.\n( ) Onde se encontram os elétrons, de carga negativa e com massa muito menor do que a dos prótons e nêutrons.\n( ) Forma-se pelas regiões da composição do átomo, que é composto por um núcleo, positivo, envolto por uma região de carga negativa.\n( ) Onde se encontram os prótons, de carga positiva, e os nêutrons, sem carga.\nA sequência correta, de cima para baixo, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1, 2, 3, 4."
+        },
+        {
+          "letra": "B",
+          "texto": "3, 4, 2, 1."
+        },
+        {
+          "letra": "C",
+          "texto": "4, 3, 1, 2."
+        },
+        {
+          "letra": "D",
+          "texto": "4, 2, 3, 1."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Estrutura Atômica",
+        "Química – Modelos Atômicos",
+        "Química – Conceitos Atômicos"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Alguns ácidos são encontrados nos alimentos. Por exemplo, o ácido lático está no leite e o ácido cítrico em algumas frutas, tais como laranja, tangerina e abacaxi. Entre as aplicações das bases no cotidiano, tem-se o amoníaco, em produtos de limpeza, e o leite de magnésia usado como antiácido. Atente para o que se afirma a seguir sobre ácidos e bases, e assinale com V o que for verdadeiro e com F o que for falso.\n( ) Os compostos ácidos podem ser chamados de alcalinos.\n( ) Uma das características dos ácidos é formar o gás hidrogênio quando reagem com metais, como magnésio e zinco.\n( ) No tratamento da azia, é comum ingerir-se um antiácido para neutralizar o $\\text{HCl}$ (ácido clorídrico) que a provoca.\nA sequência correta, de cima para baixo, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V, V, F."
+        },
+        {
+          "letra": "B",
+          "texto": "F, V, V."
+        },
+        {
+          "letra": "C",
+          "texto": "V, F, V."
+        },
+        {
+          "letra": "D",
+          "texto": "F, F, F."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Funções Inorgânicas",
+        "Química – Ácidos e Bases",
+        "Química – Reações Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Pesquisadores de um instituto químico precisam preparar uma solução diluída de ácido sulfúrico para uma análise de reação lenta. Eles têm 0,4 L de uma solução concentrada de 8 mol/L e querem reduzir a concentração para 2 mol/L. Sendo assim, o volume de água que deve ser adicionado é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,2 L."
+        },
+        {
+          "letra": "B",
+          "texto": "0,6 L."
+        },
+        {
+          "letra": "C",
+          "texto": "0,8 L."
+        },
+        {
+          "letra": "D",
+          "texto": "1,6 L."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Soluções",
+        "Química – Diluição de Soluções",
+        "Química – Concentração"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "O Laboratório de Fisiologia e Controle da Reprodução (LFCR) da Universidade Estadual do Ceará (Uece), por meio do projeto Inovafauna, produz embriões clones de veado-catingueiro, espécie em risco de extinção em alguns estados brasileiros. A clonagem de indivíduos utiliza células da pele do veado-catingueiro e óvulos de animais domésticos, como vacas e cabras.\nFonte: https://www.uece.br/noticias/uece-se-prepara-para-reiniciar-producao-de-embrioes-clones-de-veado-catingueiro.\nAssinale com V ou F conforme seja verdadeiro ou falso o que se afirma a seguir sobre reprodução animal.\n( ) A clonagem reprodutiva é uma técnica capaz de fazer cópias idênticas de indivíduos multicelulares a partir de uma única célula, o que altera a variabilidade genética da população.\n( ) A fragmentação é um tipo de reprodução assexuada em que o corpo do animal se divide em partes e cada parte se regenera em novo indivíduo, como nas estrelas-do-mar.\n( ) A reprodução sexuada envolve a formação de gametas e a fecundação, o que garante a variabilidade genética em função dos fenótipos diferentes da geração parental.\n( ) Na partenogênese ocorre o desenvolvimento de um gameta feminino sem a necessidade de fecundação por um gameta masculino, resultando em novo ser.\nEstá correta, de cima para baixo, a seguinte sequência:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V, V, F, F."
+        },
+        {
+          "letra": "B",
+          "texto": "V, F, V, F."
+        },
+        {
+          "letra": "C",
+          "texto": "F, V, F, V."
+        },
+        {
+          "letra": "D",
+          "texto": "F, F, V, V."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Reprodução Animal",
+        "Biologia – Clonagem",
+        "Biologia – Tipos de Reprodução"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "Julho Roxo é a campanha de conscientização sobre o câncer de bexiga. A Sociedade Brasileira de Urologia (SBU) aproveita a data para alertar sobre a importância da detecção precoce deste tipo de tumor, quando as chances de cura são maiores.\nFonte: Agência Brasil (2024) - Câncer de bexiga ultrapassa 19 mil mortes.\nSobre a anatomia e fisiopatologia do sistema excretor, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os rins, além de serem responsáveis pela filtração do sangue e pela formação da urina, têm papel importante na regulação do equilíbrio ácido-base por meio do controle dos íons bicarbonato e hidrogênio no sangue."
+        },
+        {
+          "letra": "B",
+          "texto": "o sistema renina-angiotensina-aldosterona (SRAA) desempenha um papel fundamental no controle da pressão arterial. A renina, liberada pelos rins em resposta à alta perfusão renal, atua na conversão do angiotensinogênio, produzido pelo fígado, em angiotensina I."
+        },
+        {
+          "letra": "C",
+          "texto": "a uretra, um tubo membranoso que apresenta diferenças anatômicas entre homens e mulheres, é responsável por transportar a urina dos rins diretamente para a bexiga, desempenhando papel fundamental na excreção."
+        },
+        {
+          "letra": "D",
+          "texto": "a bexiga, com capacidade de armazenar em média um litro de urina, está conectada ao sistema nervoso por meio de reflexos medulares que regulam tanto o esfíncter interno quanto o externo, ambos involuntários."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Fisiologia Humana",
+        "Biologia – Sistema Excretor",
+        "Biologia – Regulação Hormonal"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Em um avanço histórico na pesquisa médica, o Brasil produziu uma vacina inovadora contra a Covid-19, que utiliza tecnologia de RNA mensageiro (RNAm) desenvolvida pela Fundação Oswaldo Cruz. A tecnologia de RNAm é vista como uma revolução na medicina, pois além de ter se mostrado eficaz no combate à Covid-19, apresenta-se como tecnologia potencialmente mais segura, rápida e eficaz para o desenvolvimento de novas vacinas e tratamentos.\nFonte: Agência BNDES de Notícias. Brasil desenvolve vacina contra Covid-19 com tecnologia de RNA mensageiro. (2023).\nNo que diz respeito às vacinas de RNA mensageiro, assinale a afirmação verdadeira.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As vacinas de RNA mensageiro são menos eficientes em indivíduos imunocomprometidos, pois seu mecanismo de ação depende da capacidade do sistema imunológico em responder a antígenos, o que é prejudicado pela imunossupressão."
+        },
+        {
+          "letra": "B",
+          "texto": "O RNA mensageiro das vacinas é convertido em DNA dentro das células, o que permite que o material genético do vírus se integre ao genoma humano, resultando em uma imunidade mais duradoura."
+        },
+        {
+          "letra": "C",
+          "texto": "O uso de RNA mensageiro na formulação das vacinas contra a Covid-19 permite uma adaptação rápida à mutação do vírus, uma vez que o código genético viral pode ser alterado sem a necessidade de processos complexos de fabricação."
+        },
+        {
+          "letra": "D",
+          "texto": "As vacinas de RNA mensageiro requerem temperaturas extremamente baixas para garantir sua estabilidade, mas, uma vez aplicadas, oferecem proteção duradoura, dispensando qualquer necessidade de reforços."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Imunologia",
+        "Biologia – Vacinas de RNAm",
+        "Biologia – Biotecnologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "Um experimento realizado pela Universidade Federal do Pará \"mostrou que as mudanças climáticas e a poluição por microplásticos podem afetar diretamente os processos de decomposição nos igarapés amazônicos, com possíveis consequências para a biodiversidade, o ciclo do carbono e a qualidade da água\".\nhttps://ufpa.br/pesquisa-aponta-os-riscos-das-mudancas-climaticas-e-da-poluicao-por-microplasticos-para-a-saude-dos-igarapes-da-amazonia/.\nEm relação ao excerto e aos conceitos biológicos relacionados, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as mudanças climáticas alteram fatores ambientais como temperatura e regime de chuvas, que influenciam diretamente os processos de decomposição da matéria orgânica nos igarapés."
+        },
+        {
+          "letra": "B",
+          "texto": "o microplástico é considerado poluidor porque, sendo um composto inorgânico, não há espécie que o decomponha, e por acumular-se nos ambientes aquáticos ameaçando a biodiversidade local."
+        },
+        {
+          "letra": "C",
+          "texto": "as mudanças climáticas aceleram o ciclo do carbono nos igarapés amazônicos ao aumentar a fixação de carbono pelas plantas aquáticas, reduzindo o impacto na liberação de gases do efeito estufa."
+        },
+        {
+          "letra": "D",
+          "texto": "as mudanças climáticas e a poluição por microplásticos aumentam a disponibilidade de nutrientes essenciais para os organismos aquáticos e o pH da água, melhorando sua qualidade."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Ecologia",
+        "Biologia – Mudanças Climáticas",
+        "Biologia – Poluição",
+        "Biologia – Ciclos Biogeoquímicos"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "Com base nas propriedades bioquímicas da água, é correto afirmar que essa substância orgânica essencial para os organismos vivos",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "é um solvente apolar, o que facilita a dissolução de lipídios e outras moléculas apolares nas células."
+        },
+        {
+          "letra": "B",
+          "texto": "tem alta capacidade térmica, o que é importante para manter a estabilidade térmica desses organismos."
+        },
+        {
+          "letra": "C",
+          "texto": "não participa diretamente de reações bioquímicas, sendo apenas um meio de transporte para os reagentes."
+        },
+        {
+          "letra": "D",
+          "texto": "atua como uma molécula de baixa reatividade, por isso não é utilizada em reações de hidrólise ou síntese nos seres vivos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Bioquímica",
+        "Biologia – Água",
+        "Biologia – Propriedades da Água"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Analise as seguintes proposições sobre conceitos genéticos:\nI. Fenótipo é a manifestação observável das características de um organismo, que resultam da interação entre seus genes e o ambiente.\nII. O genótipo é a constituição genética de um organismo, o conjunto de todos os seus genes.\nIII. Os genes alelos são pares de genes que ocupam o mesmo lócus em cromossomos homólogos e determinam variantes para um mesmo caráter.\nÉ correto o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e III apenas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Genética",
+        "Biologia – Conceitos Básicos de Genética"
+      ]
+    },
+    {
+      "numeroEnunciado": 61,
+      "enunciado": "A mucopolissacaridose (MPS) é uma doença que não tem cura, mas pode ser controlada. Pertencente ao grupo de doenças conhecidas como erros inatos do metabolismo, tem foco principal nos lisossomos, afeta cerca de uma em cada 25.000 pessoas e provoca problemas em diversos órgãos e sistemas, além de comprometer as funções cognitivas. Essa patologia ocorre, primariamente, devido a alterações em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ácidos nucleicos."
+        },
+        {
+          "letra": "B",
+          "texto": "carboidratos."
+        },
+        {
+          "letra": "C",
+          "texto": "enzimas."
+        },
+        {
+          "letra": "D",
+          "texto": "lipídios."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Genética Médica",
+        "Biologia – Doenças Metabólicas",
+        "Biologia – Lisossomos"
+      ]
+    },
+    {
+      "numeroEnunciado": 62,
+      "enunciado": "\"EUA proíbem importação de gado do México devido à disseminação de praga carnívora\". Esta é a manchete da ABC News após o Departamento de Agricultura dos EUA (USDA) proibir todas as importações de gado vivo, cavalos e bisões da fronteira sul devido à disseminação de uma praga carnívora no México, a larva-bicheira-do-Novo-Mundo (NWS) (Cochliomyia hominivorax).\nTomando por base os aspectos biológicos dessa patologia, assinale a afirmação verdadeira.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A eclosão dos ovos da NWS é endotérmica, dependente do calor do corpo do hospedeiro para se iniciar, o que garante um controle sobre a temperatura ideal de desenvolvimento larval dentro da ferida."
+        },
+        {
+          "letra": "B",
+          "texto": "O desenvolvimento larval da NWS ocorre em hospedeiros invertebrados, utilizando feridas abertas apenas como local de oviposição para que as larvas se dispersem no ambiente e encontrem seu hospedeiro final."
+        },
+        {
+          "letra": "C",
+          "texto": "A NWS secreta enzimas proteolíticas específicas que liquefazem o tecido vivo do hospedeiro, permitindo que as larvas se aprofundem na musculatura em uma infestação progressiva e invasiva, uma característica ausente em espécies miásicas secundárias."
+        },
+        {
+          "letra": "D",
+          "texto": "As larvas da NWS são necrófagas primárias, alimentando-se de tecidos mortos e, por isso, sua infestação em feridas abertas é um processo de limpeza biológica que impede infecções secundárias."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Parasitologia",
+        "Biologia – Entomologia Médica",
+        "Biologia – Ciclos de Vida"
+      ]
+    },
+    {
+      "numeroEnunciado": 63,
+      "enunciado": "A Educação Física na escola possui o objetivo central de apresentar aos alunos a cultura corporal do movimento, além de favorecer a aquisição de uma vida ativa e saudável. Os professores desta disciplina devem desenvolver seus conteúdos por meio das unidades temáticas propostas pela Base Nacional Comum Curricular (BNCC), quais sejam: Brincadeiras e Jogos, Lutas e Danças, Esportes, Ginásticas e Práticas de Aventura.\nEspecificamente, a unidade temática Esportes possui classificação própria. De acordo com a classificação da BNCC, dentre as categorias de esportes, encontram-se as seguintes:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "esportes de precisão e esportes de tabuleiro."
+        },
+        {
+          "letra": "B",
+          "texto": "esportes de rede/parede e esportes de bola."
+        },
+        {
+          "letra": "C",
+          "texto": "esportes aquáticos e esportes de combate."
+        },
+        {
+          "letra": "D",
+          "texto": "esportes de marca e esportes de invasão."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Educação Física – Fundamentos da Educação Física",
+        "Educação Física – Esportes",
+        "Educação Física – BNCC"
+      ]
+    },
+    {
+      "numeroEnunciado": 64,
+      "enunciado": "A imigração japonesa no Brasil começou em 18 de junho de 1908, com a chegada de imigrantes japoneses que aqui se estabeleceram. Esses imigrantes foram os principais responsáveis pela difusão do Karatê e do Judô em nosso país. O Karatê preza pela defesa, mas, quando atacado, o karateca busca golpear o adversário, utilizando-se de golpes com as mãos, cotovelos, pernas e joelhos. Já o Judô, que foi criado por Jigoro Kano, por meio de projeções, busca levar o adversário ao solo. Na Educação Física, ambos esportes são classificados quanto à distância entre os adversários. Considerando esse aspecto, é correto afirmar que o Karatê e o Judô são lutas cujas distâncias entre os adversários são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "curta e longa."
+        },
+        {
+          "letra": "B",
+          "texto": "média e curta."
+        },
+        {
+          "letra": "C",
+          "texto": "longa e média."
+        },
+        {
+          "letra": "D",
+          "texto": "curta e média."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Educação Física – Lutas",
+        "Educação Física – Artes Marciais",
+        "Educação Física – Karatê",
+        "Educação Física – Judô"
+      ]
+    },
+    {
+      "numeroEnunciado": 65,
+      "enunciado": "Trabalho e lazer são duas esferas essenciais da vida humana, e encontrar um equilíbrio entre elas é fundamental para o bem-estar e a produtividade. Por exemplo, Pelé, que foi considerado o maior jogador de futebol do mundo, quando jogava uma partida oficial pelo seu clube, estava em um momento de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "lazer, pois estava realizando uma atividade voluntária e prazerosa."
+        },
+        {
+          "letra": "B",
+          "texto": "trabalho, pois correspondia ao seu tempo de folga, de passatempo, de ócio, de descanso e distração."
+        },
+        {
+          "letra": "C",
+          "texto": "lazer, pois era seu entretenimento favorito e o fazia de livre vontade para se divertir."
+        },
+        {
+          "letra": "D",
+          "texto": "trabalho, pois era uma atividade com o objetivo de obter remuneração e sustento, envolvendo responsabilidades e obrigações."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Educação Física – Esporte e Sociedade",
+        "Educação Física – Trabalho e Lazer"
+      ]
+    },
+    {
+      "numeroEnunciado": 66,
+      "enunciado": "\"Cada ser humano possui uma estrutura e formação física e psíquica própria, neste sentido, o treinamento físico tem melhores resultados quando obedece às características e necessidades de cada pessoa.\" O princípio do treinamento desportivo a que essa afirmação se refere é o Princípio da",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Interdependência Volume-Intensidade."
+        },
+        {
+          "letra": "B",
+          "texto": "Adaptação."
+        },
+        {
+          "letra": "C",
+          "texto": "Sobrecarga."
+        },
+        {
+          "letra": "D",
+          "texto": "Individualidade Biológica."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Educação Física – Treinamento Desportivo",
+        "Educação Física – Princípios do Treinamento"
+      ]
+    },
+    {
+      "numeroEnunciado": 67,
+      "enunciado": "Os primeiros nomes dos times de futebol que deram origem ao Ceará Sporting Club, ao Fortaleza Esporte Clube e ao Ferroviário Atlético Clube têm raízes interessantes, ligadas à história social e cultural da cidade de Fortaleza no início do século XX. Atente para o que se afirma a seguir sobre esses times e assinale com V o que for verdadeiro e com F o que for falso.\n( ) O Ceará Sporting Club foi fundado em 2 de junho de 1914, mas originalmente se chamava Rio Branco Foot-Ball Club. Esse nome foi inspirado em uma figura histórica brasileira, o Barão do Rio Branco.\n( ) O Fortaleza Esporte Clube foi fundado em 18 de outubro de 1918 por Alcides Santos. Antes disso, Alcides havia fundado o Stella Foot-Ball Club, que é considerado o embrião do Fortaleza.\n( ) O Ferroviário Atlético Clube teve uma origem ligada diretamente aos operários da antiga Rede de Viação Cearense. O clube surgiu da junção de dois times de trabalhadores que consertavam locomotivas e vagões: o Matapasto e o Jurubeba. A união dessas duas equipes levou à fundação, em 9 de maio de 1933, do Ferroviário Football Club, que mais tarde foi alterado para Ferroviário Atlético Clube.\nA sequência correta, de cima para baixo, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V, F, V."
+        },
+        {
+          "letra": "B",
+          "texto": "F, F, F."
+        },
+        {
+          "letra": "C",
+          "texto": "V, V, V."
+        },
+        {
+          "letra": "D",
+          "texto": "F, V, F."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Educação Física – História do Esporte",
+        "Educação Física – Futebol Cearense"
+      ]
+    },
+    {
+      "numeroEnunciado": 68,
+      "enunciado": "Sobre a interpretação das pinturas rupestres de Várzea Grande, no Piauí, a arqueóloga brasileira Niède Guidon (1933-2025) afirma: \"cada cultura tem sua própria maneira de ver, reconhecer e representar seres ou coisas. Em outras palavras, quando um homem desenha um determinado animal, ele o faz de acordo com convenções geralmente aceitas em sua cultura. Assim, um desenho inclui características significativas para identificação, mas também pode incluir outras que representam uma contribuição pessoal do designer e, por isso, são incomuns\".\nGUIDON, Niède. Peintures rupestres de Várzea Grande: Piauí, Brésil. Paris: Ecole des Hautes Etudes en Sciences Sociales, 1975., p.42. (Adaptado).\nNo que diz respeito à epistemologia apresentada por Guidon, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "há estruturas fundamentais do entendimento em toda agência intelectual humana, o que garante que possamos nos entender sobre o mundo que nos cerca e sobre a verdade desse entendimento."
+        },
+        {
+          "letra": "B",
+          "texto": "as formas animais são universais válidos para todos os povos; o que varia é a fauna com a qual o homem lida em cada caso, mas que logo pode ser superada pela ciência dos novos espécimes."
+        },
+        {
+          "letra": "C",
+          "texto": "a consciência do mundo não é determinada universalmente, mas por estruturas culturais compartilhadas e localizadas no tempo e no espaço e, em algum grau, por perspectivas subjetivas."
+        },
+        {
+          "letra": "D",
+          "texto": "a consciência que temos do mundo é uma relação subjetiva nossa com o mundo, não sendo possível uma identidade entre as perspectivas e experiências particulares dos diversos sujeitos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Filosofia – Epistemologia",
+        "Filosofia – Filosofia da Arte",
+        "Filosofia – Cultura"
+      ]
+    },
+    {
+      "numeroEnunciado": 69,
+      "enunciado": "\"Mas assim como o navio nada mais é do que madeira, se se Ihe retira a forma de vaso, a quilha que sustenta os bordos, a proa, a popa e o convés, assim também a República, sem a soberania, que une todos os membros e partes desta e todos os lares e colégios num corpo, não é mais República\".\nBODIN, Jean. Os seis livros da República. Livro I. Trad. José Carlos Orsi Morel. São Paulo: Ed. Ícone, 2011., p. 83. (Adaptado).\nSobre o conceito de República, que se deixa ver na analogia feita por Jean Bodin (1530-1596), é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a soberania da República, particularmente, se confunde com o interesse de uma família."
+        },
+        {
+          "letra": "B",
+          "texto": "a República se sustenta no sentimento de patriotismo que os particulares professam."
+        },
+        {
+          "letra": "C",
+          "texto": "a República, submetida a uma potência estrangeira, continua a existir, mas sem sua soberania."
+        },
+        {
+          "letra": "D",
+          "texto": "a forma da República é a soberania, sem a qual sobram apenas partes desconexas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Filosofia – Filosofia Política",
+        "Filosofia – Teoria do Estado",
+        "Filosofia – Jean Bodin",
+        "Filosofia – Soberania"
+      ]
+    },
+    {
+      "numeroEnunciado": 70,
+      "enunciado": "Atente para o seguinte trecho original da música Almirante Negro, censurada pela Ditadura Militar e gravada, com modificações, como \"O Mestre-Sala dos Mares\", por Elis Regina, no álbum Elis, em 1974. Essa canção foi escrita em homenagem a João Cândido, militar brasileiro também conhecido como Almirante Negro, que, em 1910, liderou a Revolta da Chibata, erguendo-se contra os castigos corporais, remanescentes do passado escravocrata, dentro da Marinha brasileira:\n\"Rubras cascatas jorravam das costas\nDos negros pelas pontas das chibatas\nInundando o coração do pessoal do porão\nQue a exemplo do marinheiro gritava não!\"\nBosco, João; Blanc, Aldir. Almirante Negro (Censurada). 1974.\nNesse trecho da canção, identifica-se um princípio ético, a saber,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a obediência intransigente da norma legal."
+        },
+        {
+          "letra": "B",
+          "texto": "a postura de negação diante das injustiças."
+        },
+        {
+          "letra": "C",
+          "texto": "o cálculo da felicidade produzida pela ação."
+        },
+        {
+          "letra": "D",
+          "texto": "a honra individual e as virtudes do agente."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Filosofia – Ética",
+        "Filosofia – Direitos Humanos",
+        "Filosofia – Justiça Social"
+      ]
+    },
+    {
+      "numeroEnunciado": 71,
+      "enunciado": "O filósofo inglês George Boole (1815-1864) propôs, em 1847, que \"toda proposição lógica, categórica ou hipotética, deveria poder ser formulada por meio de uma expressão exata e rigorosa. Por isso pretendo estabelecer o cálculo da lógica e reivindico para ele um lugar entre as formas conhecidas de análise matemática\".\nBOOLE, George. The mathematical analysis of logic: being an essay towards a calculus of deductive reasoning. Cambridge: Cambridge University Press, 2009. p. 4ss. (Adaptado).\nAtente para a seguinte sintaxe lógica: $x \\land y = 1$\n$y \\land z = 1$\nSe aceitarmos a sintaxe proposta acima, sabendo que as proposições têm um valor de verdade binário - verdadeiro (1) ou falso (0) -, a conclusão e a demonstração do silogismo acima é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$y \\land z = 0$, pois, se a primeira premissa é 1 e a segunda é 0, o consequente é 0 $(1 \\cdot 0 = 0)$."
+        },
+        {
+          "letra": "B",
+          "texto": "$x \\land z = 1$, pois, se a primeira premissa é 1 e a segunda é 1, o consequente é 1 $(1 \\cdot 1 = 1)$."
+        },
+        {
+          "letra": "C",
+          "texto": "$x \\land z = 0$, pois, se a primeira premissa é 0 e a segunda é 0, o consequente é 0 $(0 \\cdot 0 = 0)$."
+        },
+        {
+          "letra": "D",
+          "texto": "$z \\land y = 1$, pois, se a primeira premissa é 1 e a segunda é 1, o consequente é 1 $(1 \\cdot 1 = 1)$."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Filosofia – Lógica Formal",
+        "Filosofia – Lógica Booleana",
+        "Matemática – Álgebra Booleana"
+      ]
+    },
+    {
+      "numeroEnunciado": 72,
+      "enunciado": "\"As teorias do contrato social consideram o Estado-nação sua unidade básica. São obrigadas a fazer isso em função de razões internas à estrutura de suas teorias. Tais teorias não podem fornecer abordagens adequadas a problemas de justiça global, isto é, de justiça que lide com desigualdades entre nações ricas e pobres, e entre seres humanos de qualquer nação. Para solucionar esses problemas, devemos avaliar a complexa interdependência de cidadãos de diversas nações, as obrigações morais tanto de indivíduos quanto de nações com relação a outras nações, e o papel das entidades transnacionais (corporações, mercados, organizações não governamentais, acordos internacionais) em assegurar às pessoas as oportunidades mais básicas para uma vida humana completa.\"\nNUSSBAUM, Martha. Fronteiras da justiça: deficiência, nacionalidade, pertencimento à espécie. Trad. Susana de Castro. São Paulo: Martins Fontes, 2013, p.112.\nNa sua crítica ao modelo contratualista de tratar a relação das nações, Martha Nussbaum propõe uma teoria capaz de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "articular a relação entre as diversas capacidades dos povos dentro de uma estrutura de justiça transnacional."
+        },
+        {
+          "letra": "B",
+          "texto": "defender as fronteiras e soberania nacional, organizando a cidadania como fundamento."
+        },
+        {
+          "letra": "C",
+          "texto": "restaurar a paz e a harmonia entre os povos, que costumavam ser o lastro das relações nacionais no passado."
+        },
+        {
+          "letra": "D",
+          "texto": "reconhecer a impossibilidade de haver uma norma universal que possa envolver os múltiplos modos de vida."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Filosofia – Filosofia Política Contemporânea",
+        "Filosofia – Teoria da Justiça",
+        "Filosofia – Martha Nussbaum"
+      ]
+    },
+    {
+      "numeroEnunciado": 73,
+      "enunciado": "A estrutura das sociedades e o modo como a mudança social se dá em cada sociedade são temas importantes da sociologia desde o seu início. A estrutura de uma sociedade é o modo como diferentes grupos, estratos ou classes sociais estão organizados, divididos e classificados, em general, de forma hierárquica ou piramidal, a partir de critérios econômicos de distinção. A mudança social para os estudos sociológicos, por sua vez, diz respeito aos modos de transformação de uma sociedade e, por vezes, isto significa a modificação da estrutura social e de suas hierarquias e divisões. Assim, estrutura e mudança sociais são temas sociológicos intrinsecamente correlatos.\nPartindo do exposto, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a estratificação social determina a mudança de uma sociedade dividida em castas, como na Índia."
+        },
+        {
+          "letra": "B",
+          "texto": "as sociedades capitalistas estruturam-se por classes sociais estratificadas pelo poder econômico."
+        },
+        {
+          "letra": "C",
+          "texto": "a mudança social é a manutenção da estrutura de uma sociedade hierarquizada em classes."
+        },
+        {
+          "letra": "D",
+          "texto": "as sociedades comunistas estruturam-se a partir das diferenças entre as classes capitalista e trabalhadora."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Sociologia – Estrutura Social",
+        "Sociologia – Estratificação Social",
+        "Sociologia – Classes Sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": 74,
+      "enunciado": "Leia o seguinte trecho de uma reportagem:\nA cidade de Fortaleza pode ficar $4^\\circ C$ mais quente e ter 40% mais chuvas extremas até 2100, segundo informa o portal de estudos científicos sobre meteorologia e hidrologia Climate Information. Os moradores de áreas próximas às desembocaduras de rios, com terrenos mais rebaixados e as comunidades mais pobres serão os mais afetados, afirma o professor-pesquisador Paulo Sousa do Instituto de Ciências do Mar da Universidade Federal do Ceará. Nas ruas e becos do Pirambu, um dos bairros mais vulneráveis de Fortaleza, a população já sente as dores das chuvas intensas e da elevação do nível do mar. Algumas comunidades do bairro se formaram em cima das dunas e atualmente muitas casas ainda estão em situação de precariedade. Contudo, existem ações do poder público para a remoção de moradias coladas com a faixa de areia do mar e construção de calçadão vinculado ao projeto Vila do Mar.\nFALCONERY, Lucas. 9 bairros de Fortaleza já estão com índices mais altos de riscos para mudanças climáticas. Diário do Nordeste, Fortaleza, 17 de outubro de 2023.\nConsiderando o trecho acima apresentado, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a questão da moradia nos grandes centros urbanos se resolve com a conscientização das pessoas para que se retirem de áreas de risco ambiental."
+        },
+        {
+          "letra": "B",
+          "texto": "a questão ambiental em Fortaleza se reduz às lutas por direitos ambientais que revelam a culpa daqueles que ocupam áreas urbanas de modo irregular."
+        },
+        {
+          "letra": "C",
+          "texto": "as populações mais pobres não podem ser responsabilizadas por se defrontarem com as situações de desastres e tragédias climáticas que as atingem."
+        },
+        {
+          "letra": "D",
+          "texto": "as chuvas extremas afetam os moradores de residências menos resistentes construídas em terrenos com maior permeabilidade do solo."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Sociologia – Problemas Urbanos",
+        "Sociologia – Desigualdade Social",
+        "Sociologia – Impactos Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 75,
+      "enunciado": "A Lei de Diretrizes e Bases da Educação Brasileira de 1996 sofreu alterações com a Lei 11.645/2008, que ordenou a obrigatoriedade do ensino de história e cultura afro-brasileira e indígena nas redes regulares de educação básica. Essa legislação determina que o conteúdo programático das escolas deve incluir o estudo da história da África e dos africanos, a luta dos negros e dos povos indígenas no Brasil, a cultura negra e indígena brasileira e o negro e o índio na formação da sociedade nacional. O objetivo é lançar luz sobre as diversas contribuições dos negros e dos povos indígenas nas áreas social, econômica e política, pertinentes à história do Brasil.\nSobre o enunciado acima, assinale a afirmação verdadeira.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Uma das consequências dessa ordenação é educar cidadãos conscientes para relações étnico-raciais positivas."
+        },
+        {
+          "letra": "B",
+          "texto": "Essa lei é importante por valorizar a história e a cultura dos povos que foram extintos na formação do Brasil."
+        },
+        {
+          "letra": "C",
+          "texto": "O foco desses estudos na educação básica é contar a história a partir das falas dos negros e dos índios."
+        },
+        {
+          "letra": "D",
+          "texto": "A legislação procura garantir que os filhos e as filhas dos negros e dos povos indígenas permaneçam nas escolas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Sociologia – Educação",
+        "Sociologia – Diversidade Cultural",
+        "Sociologia – Relações Étnico-Raciais",
+        "Sociologia – Legislação"
+      ]
+    },
+    {
+      "numeroEnunciado": 76,
+      "enunciado": "O Estado-nação moderno é soberano quando estabelece normas e condutas para pautar e organizar a vida coletiva de seus cidadãos em nível interno bem como o seu comportamento externo com o objetivo de promover o bem-estar destes e protege-los de ameaças internas ou externas. E para garantir a soberania, a organização nacional do Estado não pode estar submetida aos interesses particulares de grupos sociais intermediários internos e/ou externos de vontades estrangeiras de outros Estados ou entidades.\nMODERNA PLUS - Sociologia em Movimento. 1ª ed. São Paulo: Moderna, 2024.\nConsiderando o exposto, assinale a afirmação verdadeira.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Um Estado-Nação é soberano quando impõe seus interesses contra os interesses de outros estados nacionais e saí vitorioso nesta disputa."
+        },
+        {
+          "letra": "B",
+          "texto": "O Estado-nação soberano estabelece normas e regras para outros Estados sem soberania e submetidos ao julgo de órgãos econômicos exteriores."
+        },
+        {
+          "letra": "C",
+          "texto": "A soberania nacional é uma prerrogativa dos estados modernos e não significa uma declaração de guerra a outros estados, mas de autonomia."
+        },
+        {
+          "letra": "D",
+          "texto": "As características de um Estado-nação soberano são a existência de um povo, um exército e uma política de expansões territoriais e comerciais."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Sociologia – Sociologia Política",
+        "Sociologia – Estado-Nação",
+        "Sociologia – Soberania"
+      ]
+    },
+    {
+      "numeroEnunciado": 77,
+      "enunciado": "A interseccionalidade nos estudos de gênero nas ciências sociais significa que, de forma geral, é preciso considerar fatores como os de raça, de classe social e de idade, por exemplo, na compreensão e explicação das diferenças entre homens, mulheres e pessoas de outras identidades de gênero. Em síntese, a lógica é a de que as mulheres negras e pobres não vivenciam, numa sociedade como a brasileira, as mesmas condicionalidades sociais que mulheres brancas de classe alta, por exemplo, e o mesmo vale para as pessoas LGBTQIAPN+ que se diferenciam umas das outras por variados fatores que se interseccionam.\nPartindo desse enunciado, avalie as seguintes afirmações:\nI. A perspectiva da interseccionalidade considera que as mulheres podem passar pelas mesmas experiências de violência, independente de classe social.\nII. Os estudos de gênero nas ciências sociais demonstram que a interseccionalidade confirma as categorias \"mulher\" e \"homem\" como universais.\nIII. A noção de interseccionalidade aponta que as opressões que mulheres e pessoas trans sofrem se diferenciam por classe, raça e sexualidade.\nIV. A análise das diferenças entre homens e mulheres é insuficiente quando não incluir as desigualdades entre brancos e negros e brancas e negras.\nÉ correto o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "III e IV apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I, II e IV apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II, III e IV."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Sociologia – Estudos de Gênero",
+        "Sociologia – Interseccionalidade",
+        "Sociologia – Desigualdade Social"
+      ]
+    },
+    {
+      "numeroEnunciado": 78,
+      "enunciado": "El hallazgo a que se refiere el texto se trata de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "un temible cocodrilo que habita los lagos de Patagonia."
+        },
+        {
+          "letra": "B",
+          "texto": "una especie de dinosaurio carnívoro, ya en extinción."
+        },
+        {
+          "letra": "C",
+          "texto": "huesos de un cocodrilo, antepasado de los cocodrilos actuales."
+        },
+        {
+          "letra": "D",
+          "texto": "restos fosilizados de un feroz cocodrilo."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Espanhol – Interpretação de Texto",
+        "Espanhol – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 79,
+      "enunciado": "Se comprende que el cocodrilo presentado en el texto era un",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apacible carnívoro."
+        },
+        {
+          "letra": "B",
+          "texto": "valiente depredador."
+        },
+        {
+          "letra": "C",
+          "texto": "manso reptil."
+        },
+        {
+          "letra": "D",
+          "texto": "feroz herbívoro."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Espanhol – Interpretação de Texto",
+        "Espanhol – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 80,
+      "enunciado": "El texto nos dice también que dicho cocodrilo habitaba tierras",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cubiertas de nieve el año entero."
+        },
+        {
+          "letra": "B",
+          "texto": "con una pequeña diversidad de animales."
+        },
+        {
+          "letra": "C",
+          "texto": "densamente montañosas."
+        },
+        {
+          "letra": "D",
+          "texto": "calientes y húmedas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Espanhol – Interpretação de Texto",
+        "Espanhol – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 81,
+      "enunciado": "Según Fernando Novas, la Patagonia actual es una región",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "con vientos constantes."
+        },
+        {
+          "letra": "B",
+          "texto": "habitada por animales feroces."
+        },
+        {
+          "letra": "C",
+          "texto": "cubierta por densos pantanales."
+        },
+        {
+          "letra": "D",
+          "texto": "con escasa nieve en los campos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Espanhol – Interpretação de Texto",
+        "Espanhol – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 82,
+      "enunciado": "El cocodrilo a que se refiere el texto",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pertenece a una familia integralmente extinta."
+        },
+        {
+          "letra": "B",
+          "texto": "puede ser encontrado en todos los continentes."
+        },
+        {
+          "letra": "C",
+          "texto": "era un animal totalmente acuático."
+        },
+        {
+          "letra": "D",
+          "texto": "se caracterizaba por hábitos nocturnos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Espanhol – Interpretação de Texto",
+        "Espanhol – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 83,
+      "enunciado": "Los kostensuchos se diferenciaban de los cocodrilos actuales principalmente por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "la manera de alimentarse."
+        },
+        {
+          "letra": "B",
+          "texto": "el tamaño de las patas."
+        },
+        {
+          "letra": "C",
+          "texto": "la forma de locomoción."
+        },
+        {
+          "letra": "D",
+          "texto": "el uso de las patas delanteras."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Espanhol – Interpretação de Texto",
+        "Espanhol – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 84,
+      "enunciado": "El alimento preferido del \"cocodrilo feroz\" era los",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "peirosáuridos."
+        },
+        {
+          "letra": "B",
+          "texto": "isasicursores."
+        },
+        {
+          "letra": "C",
+          "texto": "eusuquios."
+        },
+        {
+          "letra": "D",
+          "texto": "cocodriliformes."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Espanhol – Interpretação de Texto",
+        "Espanhol – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 85,
+      "enunciado": "De acuerdo con el texto, el Señor Fernando Novas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "es un investigador científico para el gobierno español."
+        },
+        {
+          "letra": "B",
+          "texto": "encabeza un renombrado equipo de arqueólogos."
+        },
+        {
+          "letra": "C",
+          "texto": "ha ayudado a escribir el artículo que estamos estudiando."
+        },
+        {
+          "letra": "D",
+          "texto": "estudia los dinosaurios de origen africano."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Espanhol – Interpretação de Texto",
+        "Espanhol – Vocabulário"
+      ]
+    }
+  ]
+}

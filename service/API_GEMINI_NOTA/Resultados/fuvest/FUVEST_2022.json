@@ -1,0 +1,3228 @@
+{
+  "nomeUniversidade": "Universidade de São Paulo",
+  "siglaUniversidade": "USP",
+  "nomeVestibular": "FUVEST",
+  "ano": 2022,
+  "cursos": [
+    {
+      "nomeCurso": "Administração, Ciências Contábeis, Economia, Finanças e Negócios",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 88,
+      "inscritos": 966,
+      "ausentes": 117,
+      "convocadosSegundaFase": 355,
+      "convocadosPorVaga": 4.03,
+      "notaCorte": 52
+    },
+    {
+      "nomeCurso": "Administração, Ciências Contábeis, Economia, Finanças e Negócios",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 62,
+      "inscritos": 276,
+      "ausentes": 62,
+      "convocadosSegundaFase": 209,
+      "convocadosPorVaga": 3.37,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Administração, Ciências Contábeis, Economia, Finanças e Negócios",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 37,
+      "inscritos": 73,
+      "ausentes": 25,
+      "convocadosSegundaFase": 45,
+      "convocadosPorVaga": 1.22,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Administração",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 20,
+      "inscritos": 210,
+      "ausentes": 33,
+      "convocadosSegundaFase": 84,
+      "convocadosPorVaga": 4.2,
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Administração",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 12,
+      "inscritos": 57,
+      "ausentes": 11,
+      "convocadosSegundaFase": 45,
+      "convocadosPorVaga": 3.75,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Administração",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 8,
+      "inscritos": 22,
+      "ausentes": 9,
+      "convocadosSegundaFase": 10,
+      "convocadosPorVaga": 1.25,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Arquitetura – FAU",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 60,
+      "inscritos": 1736,
+      "ausentes": 221,
+      "convocadosSegundaFase": 247,
+      "convocadosPorVaga": 4.12,
+      "notaCorte": 63
+    },
+    {
+      "nomeCurso": "Arquitetura – FAU",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 31,
+      "inscritos": 604,
+      "ausentes": 100,
+      "convocadosSegundaFase": 127,
+      "convocadosPorVaga": 4.1,
+      "notaCorte": 53
+    },
+    {
+      "nomeCurso": "Arquitetura – FAU",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 14,
+      "inscritos": 167,
+      "ausentes": 34,
+      "convocadosSegundaFase": 66,
+      "convocadosPorVaga": 4.71,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Arquitetura",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 15,
+      "inscritos": 417,
+      "ausentes": 38,
+      "convocadosSegundaFase": 63,
+      "convocadosPorVaga": 4.2,
+      "notaCorte": 59
+    },
+    {
+      "nomeCurso": "Arquitetura",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 10,
+      "inscritos": 142,
+      "ausentes": 21,
+      "convocadosSegundaFase": 45,
+      "convocadosPorVaga": 4.5,
+      "notaCorte": 49
+    },
+    {
+      "nomeCurso": "Arquitetura",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 6,
+      "inscritos": 33,
+      "ausentes": 7,
+      "convocadosSegundaFase": 24,
+      "convocadosPorVaga": 4,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Artes Cênicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 15,
+      "inscritos": 346,
+      "ausentes": 58,
+      "convocadosSegundaFase": 60,
+      "convocadosPorVaga": 4,
+      "notaCorte": 55
+    },
+    {
+      "nomeCurso": "Artes Cênicas",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 9,
+      "inscritos": 144,
+      "ausentes": 43,
+      "convocadosSegundaFase": 37,
+      "convocadosPorVaga": 4.11,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Artes Cênicas",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 6,
+      "inscritos": 57,
+      "ausentes": 18,
+      "convocadosSegundaFase": 25,
+      "convocadosPorVaga": 4.17,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Artes Visuais",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 15,
+      "inscritos": 495,
+      "ausentes": 76,
+      "convocadosSegundaFase": 63,
+      "convocadosPorVaga": 4.2,
+      "notaCorte": 60
+    },
+    {
+      "nomeCurso": "Artes Visuais",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 9,
+      "inscritos": 194,
+      "ausentes": 24,
+      "convocadosSegundaFase": 40,
+      "convocadosPorVaga": 4.44,
+      "notaCorte": 52
+    },
+    {
+      "nomeCurso": "Artes Visuais",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 6,
+      "inscritos": 65,
+      "ausentes": 17,
+      "convocadosSegundaFase": 27,
+      "convocadosPorVaga": 4.5,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Ciência da Informação",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 16,
+      "inscritos": 49,
+      "ausentes": 6,
+      "convocadosSegundaFase": 41,
+      "convocadosPorVaga": 2.56,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Ciência da Informação",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 8,
+      "inscritos": 12,
+      "ausentes": 3,
+      "convocadosSegundaFase": 9,
+      "convocadosPorVaga": 1.13,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Ciência da Informação",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 4,
+      "inscritos": 5,
+      "ausentes": 0,
+      "convocadosSegundaFase": 5,
+      "convocadosPorVaga": 1.25,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Biblioteconomia e Ciência da Informação",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 20,
+      "inscritos": 63,
+      "ausentes": 6,
+      "convocadosSegundaFase": 56,
+      "convocadosPorVaga": 2.8,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Biblioteconomia e Ciência da Informação",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 6,
+      "inscritos": 15,
+      "ausentes": 2,
+      "convocadosSegundaFase": 11,
+      "convocadosPorVaga": 1.83,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Biblioteconomia e Ciência da Informação",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 2,
+      "inscritos": 5,
+      "ausentes": 0,
+      "convocadosSegundaFase": 5,
+      "convocadosPorVaga": 2.5,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 105,
+      "inscritos": 546,
+      "ausentes": 96,
+      "convocadosSegundaFase": 421,
+      "convocadosPorVaga": 4.01,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 30,
+      "inscritos": 178,
+      "ausentes": 47,
+      "convocadosSegundaFase": 122,
+      "convocadosPorVaga": 4.07,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 12,
+      "inscritos": 79,
+      "ausentes": 17,
+      "convocadosSegundaFase": 48,
+      "convocadosPorVaga": 4,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Curso Superior do Audiovisual",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 17,
+      "inscritos": 747,
+      "ausentes": 95,
+      "convocadosSegundaFase": 72,
+      "convocadosPorVaga": 4.24,
+      "notaCorte": 65
+    },
+    {
+      "nomeCurso": "Curso Superior do Audiovisual",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 6,
+      "inscritos": 244,
+      "ausentes": 33,
+      "convocadosSegundaFase": 24,
+      "convocadosPorVaga": 4,
+      "notaCorte": 60
+    },
+    {
+      "nomeCurso": "Curso Superior do Audiovisual",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 1,
+      "inscritos": 52,
+      "ausentes": 15,
+      "convocadosSegundaFase": 5,
+      "convocadosPorVaga": 5,
+      "notaCorte": 54
+    },
+    {
+      "nomeCurso": "Design",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 16,
+      "inscritos": 675,
+      "ausentes": 97,
+      "convocadosSegundaFase": 64,
+      "convocadosPorVaga": 4,
+      "notaCorte": 63
+    },
+    {
+      "nomeCurso": "Design",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 8,
+      "inscritos": 233,
+      "ausentes": 44,
+      "convocadosSegundaFase": 40,
+      "convocadosPorVaga": 5,
+      "notaCorte": 55
+    },
+    {
+      "nomeCurso": "Design",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 4,
+      "inscritos": 67,
+      "ausentes": 17,
+      "convocadosSegundaFase": 16,
+      "convocadosPorVaga": 4,
+      "notaCorte": 47
+    },
+    {
+      "nomeCurso": "Direito",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 279,
+      "inscritos": 6033,
+      "ausentes": 773,
+      "convocadosSegundaFase": 1162,
+      "convocadosPorVaga": 4.16,
+      "notaCorte": 62
+    },
+    {
+      "nomeCurso": "Direito",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 108,
+      "inscritos": 1798,
+      "ausentes": 388,
+      "convocadosSegundaFase": 433,
+      "convocadosPorVaga": 4.01,
+      "notaCorte": 52
+    },
+    {
+      "nomeCurso": "Direito",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 4,
+      "inscritos": 333,
+      "ausentes": 94,
+      "convocadosSegundaFase": 23,
+      "convocadosPorVaga": 5.75,
+      "notaCorte": 51
+    },
+    {
+      "nomeCurso": "Economia, Administração, Ciências Contábeis e Atuária",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 295,
+      "inscritos": 3570,
+      "ausentes": 451,
+      "convocadosSegundaFase": 1182,
+      "convocadosPorVaga": 4.01,
+      "notaCorte": 57
+    },
+    {
+      "nomeCurso": "Economia, Administração, Ciências Contábeis e Atuária",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 74,
+      "inscritos": 882,
+      "ausentes": 171,
+      "convocadosSegundaFase": 318,
+      "convocadosPorVaga": 4.3,
+      "notaCorte": 49
+    },
+    {
+      "nomeCurso": "Economia, Administração, Ciências Contábeis e Atuária",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 44,
+      "inscritos": 325,
+      "ausentes": 69,
+      "convocadosSegundaFase": 182,
+      "convocadosPorVaga": 4.14,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Economia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 20,
+      "inscritos": 202,
+      "ausentes": 15,
+      "convocadosSegundaFase": 87,
+      "convocadosPorVaga": 4.35,
+      "notaCorte": 53
+    },
+    {
+      "nomeCurso": "Economia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 12,
+      "inscritos": 76,
+      "ausentes": 14,
+      "convocadosSegundaFase": 49,
+      "convocadosPorVaga": 4.08,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Economia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 8,
+      "inscritos": 27,
+      "ausentes": 8,
+      "convocadosSegundaFase": 18,
+      "convocadosPorVaga": 2.25,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Editoração",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 7,
+      "inscritos": 76,
+      "ausentes": 6,
+      "convocadosSegundaFase": 28,
+      "convocadosPorVaga": 4,
+      "notaCorte": 53
+    },
+    {
+      "nomeCurso": "Editoração",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 3,
+      "inscritos": 31,
+      "ausentes": 3,
+      "convocadosSegundaFase": 12,
+      "convocadosPorVaga": 4,
+      "notaCorte": 47
+    },
+    {
+      "nomeCurso": "Filosofia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 85,
+      "inscritos": 426,
+      "ausentes": 88,
+      "convocadosSegundaFase": 335,
+      "convocadosPorVaga": 3.94,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Filosofia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 26,
+      "inscritos": 100,
+      "ausentes": 23,
+      "convocadosSegundaFase": 75,
+      "convocadosPorVaga": 2.88,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Filosofia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 8,
+      "inscritos": 28,
+      "ausentes": 7,
+      "convocadosSegundaFase": 20,
+      "convocadosPorVaga": 2.5,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 85,
+      "inscritos": 332,
+      "ausentes": 32,
+      "convocadosSegundaFase": 293,
+      "convocadosPorVaga": 3.45,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 27,
+      "inscritos": 80,
+      "ausentes": 17,
+      "convocadosSegundaFase": 63,
+      "convocadosPorVaga": 2.33,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 7,
+      "inscritos": 28,
+      "ausentes": 9,
+      "convocadosSegundaFase": 17,
+      "convocadosPorVaga": 2.43,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Gestão Ambiental",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 54,
+      "inscritos": 96,
+      "ausentes": 14,
+      "convocadosSegundaFase": 79,
+      "convocadosPorVaga": 1.46,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Gestão Ambiental",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 22,
+      "inscritos": 50,
+      "ausentes": 5,
+      "convocadosSegundaFase": 44,
+      "convocadosPorVaga": 2,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Gestão Ambiental",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 8,
+      "inscritos": 17,
+      "ausentes": 5,
+      "convocadosSegundaFase": 12,
+      "convocadosPorVaga": 1.5,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Gestão Ambiental",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 16,
+      "inscritos": 41,
+      "ausentes": 5,
+      "convocadosSegundaFase": 35,
+      "convocadosPorVaga": 2.19,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Gestão Ambiental",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 8,
+      "inscritos": 20,
+      "ausentes": 6,
+      "convocadosSegundaFase": 14,
+      "convocadosPorVaga": 1.75,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Gestão Ambiental",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 4,
+      "inscritos": 6,
+      "ausentes": 1,
+      "convocadosSegundaFase": 4,
+      "convocadosPorVaga": 1,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Gestão de Políticas Públicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 48,
+      "inscritos": 186,
+      "ausentes": 19,
+      "convocadosSegundaFase": 166,
+      "convocadosPorVaga": 3.46,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Gestão de Políticas Públicas",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 24,
+      "inscritos": 67,
+      "ausentes": 13,
+      "convocadosSegundaFase": 53,
+      "convocadosPorVaga": 2.21,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Gestão de Políticas Públicas",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 12,
+      "inscritos": 35,
+      "ausentes": 11,
+      "convocadosSegundaFase": 23,
+      "convocadosPorVaga": 1.92,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 135,
+      "inscritos": 766,
+      "ausentes": 111,
+      "convocadosSegundaFase": 552,
+      "convocadosPorVaga": 4.09,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 39,
+      "inscritos": 280,
+      "ausentes": 54,
+      "convocadosSegundaFase": 162,
+      "convocadosPorVaga": 4.15,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 15,
+      "inscritos": 86,
+      "ausentes": 17,
+      "convocadosSegundaFase": 60,
+      "convocadosPorVaga": 4,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Jornalismo",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 30,
+      "inscritos": 988,
+      "ausentes": 156,
+      "convocadosSegundaFase": 132,
+      "convocadosPorVaga": 4.4,
+      "notaCorte": 60
+    },
+    {
+      "nomeCurso": "Jornalismo",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 12,
+      "inscritos": 377,
+      "ausentes": 74,
+      "convocadosSegundaFase": 48,
+      "convocadosPorVaga": 4,
+      "notaCorte": 56
+    },
+    {
+      "nomeCurso": "Lazer e Turismo",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 60,
+      "inscritos": 133,
+      "ausentes": 17,
+      "convocadosSegundaFase": 112,
+      "convocadosPorVaga": 1.87,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Lazer e Turismo",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 18,
+      "inscritos": 39,
+      "ausentes": 5,
+      "convocadosSegundaFase": 32,
+      "convocadosPorVaga": 1.78,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Lazer e Turismo",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 6,
+      "inscritos": 9,
+      "ausentes": 3,
+      "convocadosSegundaFase": 6,
+      "convocadosPorVaga": 1,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Letras",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 424,
+      "inscritos": 1604,
+      "ausentes": 222,
+      "convocadosSegundaFase": 1366,
+      "convocadosPorVaga": 3.22,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Letras",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 119,
+      "inscritos": 548,
+      "ausentes": 89,
+      "convocadosSegundaFase": 447,
+      "convocadosPorVaga": 3.76,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Letras",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 54,
+      "inscritos": 159,
+      "ausentes": 45,
+      "convocadosSegundaFase": 110,
+      "convocadosPorVaga": 2.04,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Licenciatura em Educomunicação",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 13,
+      "inscritos": 31,
+      "ausentes": 2,
+      "convocadosSegundaFase": 29,
+      "convocadosPorVaga": 2.23,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Licenciatura em Educomunicação",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 5,
+      "inscritos": 16,
+      "ausentes": 2,
+      "convocadosSegundaFase": 14,
+      "convocadosPorVaga": 2.8,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Licenciatura em Educomunicação",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 3,
+      "inscritos": 4,
+      "ausentes": 0,
+      "convocadosSegundaFase": 4,
+      "convocadosPorVaga": 1.33,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Marketing",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 42,
+      "inscritos": 386,
+      "ausentes": 57,
+      "convocadosSegundaFase": 175,
+      "convocadosPorVaga": 4.17,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Marketing",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 26,
+      "inscritos": 188,
+      "ausentes": 29,
+      "convocadosSegundaFase": 104,
+      "convocadosPorVaga": 4,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Marketing",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 16,
+      "inscritos": 72,
+      "ausentes": 16,
+      "convocadosSegundaFase": 53,
+      "convocadosPorVaga": 3.31,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Música - ECA",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 25,
+      "inscritos": 173,
+      "ausentes": 24,
+      "convocadosSegundaFase": 103,
+      "convocadosPorVaga": 4.12,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Música - ECA",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 15,
+      "inscritos": 69,
+      "ausentes": 15,
+      "convocadosSegundaFase": 54,
+      "convocadosPorVaga": 3.6,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Música - ECA",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 10,
+      "inscritos": 30,
+      "ausentes": 8,
+      "convocadosSegundaFase": 20,
+      "convocadosPorVaga": 2,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Música",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 15,
+      "inscritos": 33,
+      "ausentes": 4,
+      "convocadosSegundaFase": 28,
+      "convocadosPorVaga": 1.87,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Música",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 9,
+      "inscritos": 23,
+      "ausentes": 5,
+      "convocadosSegundaFase": 15,
+      "convocadosPorVaga": 1.67,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Música",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 6,
+      "inscritos": 7,
+      "ausentes": 1,
+      "convocadosSegundaFase": 6,
+      "convocadosPorVaga": 1,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 90,
+      "inscritos": 411,
+      "ausentes": 63,
+      "convocadosSegundaFase": 340,
+      "convocadosPorVaga": 3.78,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 34,
+      "inscritos": 191,
+      "ausentes": 40,
+      "convocadosSegundaFase": 138,
+      "convocadosPorVaga": 4.06,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 11,
+      "inscritos": 68,
+      "ausentes": 29,
+      "convocadosSegundaFase": 37,
+      "convocadosPorVaga": 3.36,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 25,
+      "inscritos": 107,
+      "ausentes": 13,
+      "convocadosSegundaFase": 83,
+      "convocadosPorVaga": 3.32,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 8,
+      "inscritos": 33,
+      "ausentes": 13,
+      "convocadosSegundaFase": 20,
+      "convocadosPorVaga": 2.5,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 2,
+      "inscritos": 10,
+      "ausentes": 2,
+      "convocadosSegundaFase": 5,
+      "convocadosPorVaga": 2.5,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Publicidade e Propaganda",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 20,
+      "inscritos": 644,
+      "ausentes": 111,
+      "convocadosSegundaFase": 87,
+      "convocadosPorVaga": 4.35,
+      "notaCorte": 57
+    },
+    {
+      "nomeCurso": "Publicidade e Propaganda",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 10,
+      "inscritos": 229,
+      "ausentes": 33,
+      "convocadosSegundaFase": 42,
+      "convocadosPorVaga": 4.2,
+      "notaCorte": 54
+    },
+    {
+      "nomeCurso": "Publicidade e Propaganda",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 5,
+      "inscritos": 71,
+      "ausentes": 12,
+      "convocadosSegundaFase": 22,
+      "convocadosPorVaga": 4.4,
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Relações Internacionais",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 28,
+      "inscritos": 1480,
+      "ausentes": 166,
+      "convocadosSegundaFase": 126,
+      "convocadosPorVaga": 4.5,
+      "notaCorte": 67
+    },
+    {
+      "nomeCurso": "Relações Internacionais",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 10,
+      "inscritos": 394,
+      "ausentes": 61,
+      "convocadosSegundaFase": 46,
+      "convocadosPorVaga": 4.6,
+      "notaCorte": 59
+    },
+    {
+      "nomeCurso": "Relações Internacionais",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 4,
+      "inscritos": 112,
+      "ausentes": 25,
+      "convocadosSegundaFase": 17,
+      "convocadosPorVaga": 4.25,
+      "notaCorte": 50
+    },
+    {
+      "nomeCurso": "Relações Públicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 20,
+      "inscritos": 255,
+      "ausentes": 28,
+      "convocadosSegundaFase": 83,
+      "convocadosPorVaga": 4.15,
+      "notaCorte": 52
+    },
+    {
+      "nomeCurso": "Relações Públicas",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 10,
+      "inscritos": 96,
+      "ausentes": 15,
+      "convocadosSegundaFase": 41,
+      "convocadosPorVaga": 4.1,
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Relações Públicas",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 5,
+      "inscritos": 41,
+      "ausentes": 6,
+      "convocadosSegundaFase": 20,
+      "convocadosPorVaga": 4,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Têxtil e Moda",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 24,
+      "inscritos": 339,
+      "ausentes": 47,
+      "convocadosSegundaFase": 109,
+      "convocadosPorVaga": 4.54,
+      "notaCorte": 50
+    },
+    {
+      "nomeCurso": "Têxtil e Moda",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 12,
+      "inscritos": 141,
+      "ausentes": 24,
+      "convocadosSegundaFase": 50,
+      "convocadosPorVaga": 4.17,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Têxtil e Moda",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 6,
+      "inscritos": 47,
+      "ausentes": 10,
+      "convocadosSegundaFase": 27,
+      "convocadosPorVaga": 4.5,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Turismo",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 13,
+      "inscritos": 61,
+      "ausentes": 6,
+      "convocadosSegundaFase": 52,
+      "convocadosPorVaga": 4,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Turismo",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 6,
+      "inscritos": 26,
+      "ausentes": 4,
+      "convocadosSegundaFase": 22,
+      "convocadosPorVaga": 3.67,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Turismo",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 2,
+      "inscritos": 7,
+      "ausentes": 2,
+      "convocadosSegundaFase": 5,
+      "convocadosPorVaga": 2.5,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Treinamento H",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 100,
+      "inscritos": 3134,
+      "ausentes": 335,
+      "convocadosSegundaFase": 451,
+      "convocadosPorVaga": 4.51,
+      "notaCorte": 57
+    },
+    {
+      "nomeCurso": "Treinamento H",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 63,
+      "inscritos": 201,
+      "ausentes": 25,
+      "convocadosSegundaFase": 170,
+      "convocadosPorVaga": 2.7,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Treinamento H",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 37,
+      "inscritos": 40,
+      "ausentes": 5,
+      "convocadosSegundaFase": 31,
+      "convocadosPorVaga": 0.84,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Bacharelado em Biotecnologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 30,
+      "inscritos": 314,
+      "ausentes": 26,
+      "convocadosSegundaFase": 124,
+      "convocadosPorVaga": 4.13,
+      "notaCorte": 56
+    },
+    {
+      "nomeCurso": "Bacharelado em Biotecnologia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 11,
+      "inscritos": 87,
+      "ausentes": 17,
+      "convocadosSegundaFase": 44,
+      "convocadosPorVaga": 4,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Bacharelado em Biotecnologia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 1,
+      "inscritos": 17,
+      "ausentes": 6,
+      "convocadosSegundaFase": 4,
+      "convocadosPorVaga": 4,
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 54,
+      "inscritos": 852,
+      "ausentes": 103,
+      "convocadosSegundaFase": 216,
+      "convocadosPorVaga": 4,
+      "notaCorte": 58
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 20,
+      "inscritos": 332,
+      "ausentes": 60,
+      "convocadosSegundaFase": 92,
+      "convocadosPorVaga": 4.6,
+      "notaCorte": 52
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 10,
+      "inscritos": 84,
+      "ausentes": 14,
+      "convocadosSegundaFase": 43,
+      "convocadosPorVaga": 4.3,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 10,
+      "inscritos": 100,
+      "ausentes": 12,
+      "convocadosSegundaFase": 40,
+      "convocadosPorVaga": 4,
+      "notaCorte": 52
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 7,
+      "inscritos": 66,
+      "ausentes": 14,
+      "convocadosSegundaFase": 28,
+      "convocadosPorVaga": 4,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 4,
+      "inscritos": 10,
+      "ausentes": 1,
+      "convocadosSegundaFase": 9,
+      "convocadosPorVaga": 2.25,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 20,
+      "inscritos": 212,
+      "ausentes": 20,
+      "convocadosSegundaFase": 80,
+      "convocadosPorVaga": 4,
+      "notaCorte": 53
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 8,
+      "inscritos": 68,
+      "ausentes": 17,
+      "convocadosSegundaFase": 32,
+      "convocadosPorVaga": 4,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Ciências Biomédicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 20,
+      "inscritos": 896,
+      "ausentes": 104,
+      "convocadosSegundaFase": 93,
+      "convocadosPorVaga": 4.65,
+      "notaCorte": 66
+    },
+    {
+      "nomeCurso": "Ciências Biomédicas",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 6,
+      "inscritos": 297,
+      "ausentes": 52,
+      "convocadosSegundaFase": 27,
+      "convocadosPorVaga": 4.5,
+      "notaCorte": 61
+    },
+    {
+      "nomeCurso": "Ciências Biomédicas",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 2,
+      "inscritos": 69,
+      "ausentes": 11,
+      "convocadosSegundaFase": 8,
+      "convocadosPorVaga": 4,
+      "notaCorte": 52
+    },
+    {
+      "nomeCurso": "Ciências Biomédicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 12,
+      "inscritos": 336,
+      "ausentes": 26,
+      "convocadosSegundaFase": 52,
+      "convocadosPorVaga": 4.33,
+      "notaCorte": 64
+    },
+    {
+      "nomeCurso": "Ciências Biomédicas",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 4,
+      "inscritos": 88,
+      "ausentes": 14,
+      "convocadosSegundaFase": 20,
+      "convocadosPorVaga": 5,
+      "notaCorte": 52
+    },
+    {
+      "nomeCurso": "Ciências Biomédicas",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 3,
+      "inscritos": 18,
+      "ausentes": 5,
+      "convocadosSegundaFase": 12,
+      "convocadosPorVaga": 4,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Ciências dos Alimentos",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 13,
+      "inscritos": 74,
+      "ausentes": 9,
+      "convocadosSegundaFase": 52,
+      "convocadosPorVaga": 4,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Ciências dos Alimentos",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 9,
+      "inscritos": 14,
+      "ausentes": 2,
+      "convocadosSegundaFase": 10,
+      "convocadosPorVaga": 1.11,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Ciências dos Alimentos",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 6,
+      "inscritos": 9,
+      "ausentes": 3,
+      "convocadosSegundaFase": 6,
+      "convocadosPorVaga": 1,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Educação Física e Esporte",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 50,
+      "inscritos": 357,
+      "ausentes": 36,
+      "convocadosSegundaFase": 206,
+      "convocadosPorVaga": 4.12,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Educação Física e Esporte",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 20,
+      "inscritos": 123,
+      "ausentes": 16,
+      "convocadosSegundaFase": 81,
+      "convocadosPorVaga": 4.05,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Educação Física e Esporte",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 10,
+      "inscritos": 46,
+      "ausentes": 10,
+      "convocadosSegundaFase": 30,
+      "convocadosPorVaga": 3,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 27,
+      "inscritos": 147,
+      "ausentes": 16,
+      "convocadosSegundaFase": 110,
+      "convocadosPorVaga": 4.07,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 8,
+      "inscritos": 25,
+      "ausentes": 6,
+      "convocadosSegundaFase": 14,
+      "convocadosPorVaga": 1.75,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 7,
+      "inscritos": 12,
+      "ausentes": 4,
+      "convocadosSegundaFase": 7,
+      "convocadosPorVaga": 1,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Educação Física e Saúde",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 20,
+      "inscritos": 110,
+      "ausentes": 12,
+      "convocadosSegundaFase": 81,
+      "convocadosPorVaga": 4.05,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Educação Física e Saúde",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 14,
+      "inscritos": 26,
+      "ausentes": 5,
+      "convocadosSegundaFase": 17,
+      "convocadosPorVaga": 1.21,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Educação Física e Saúde",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 8,
+      "inscritos": 4,
+      "ausentes": 2,
+      "convocadosSegundaFase": 2,
+      "convocadosPorVaga": 0.25,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 27,
+      "inscritos": 354,
+      "ausentes": 54,
+      "convocadosSegundaFase": 120,
+      "convocadosPorVaga": 4.44,
+      "notaCorte": 50
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 19,
+      "inscritos": 197,
+      "ausentes": 46,
+      "convocadosSegundaFase": 78,
+      "convocadosPorVaga": 4.11,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 10,
+      "inscritos": 86,
+      "ausentes": 24,
+      "convocadosSegundaFase": 41,
+      "convocadosPorVaga": 4.1,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 65,
+      "inscritos": 413,
+      "ausentes": 38,
+      "convocadosSegundaFase": 265,
+      "convocadosPorVaga": 4.08,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 24,
+      "inscritos": 178,
+      "ausentes": 38,
+      "convocadosSegundaFase": 105,
+      "convocadosPorVaga": 4.38,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 12,
+      "inscritos": 44,
+      "ausentes": 14,
+      "convocadosSegundaFase": 24,
+      "convocadosPorVaga": 2,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 82,
+      "inscritos": 764,
+      "ausentes": 85,
+      "convocadosSegundaFase": 347,
+      "convocadosPorVaga": 4.23,
+      "notaCorte": 47
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 46,
+      "inscritos": 203,
+      "ausentes": 31,
+      "convocadosSegundaFase": 157,
+      "convocadosPorVaga": 3.41,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 32,
+      "inscritos": 50,
+      "ausentes": 13,
+      "convocadosSegundaFase": 34,
+      "convocadosPorVaga": 1.06,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Engenharia Florestal",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 13,
+      "inscritos": 41,
+      "ausentes": 6,
+      "convocadosSegundaFase": 35,
+      "convocadosPorVaga": 2.69,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Engenharia Florestal",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 9,
+      "inscritos": 17,
+      "ausentes": 2,
+      "convocadosSegundaFase": 14,
+      "convocadosPorVaga": 1.56,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Engenharia Florestal",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 6,
+      "inscritos": 4,
+      "ausentes": 1,
+      "convocadosSegundaFase": 3,
+      "convocadosPorVaga": 0.5,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 74,
+      "inscritos": 633,
+      "ausentes": 53,
+      "convocadosSegundaFase": 304,
+      "convocadosPorVaga": 4.11,
+      "notaCorte": 53
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 31,
+      "inscritos": 251,
+      "ausentes": 36,
+      "convocadosSegundaFase": 134,
+      "convocadosPorVaga": 4.32,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 15,
+      "inscritos": 69,
+      "ausentes": 20,
+      "convocadosSegundaFase": 46,
+      "convocadosPorVaga": 3.07,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 40,
+      "inscritos": 279,
+      "ausentes": 14,
+      "convocadosSegundaFase": 163,
+      "convocadosPorVaga": 4.08,
+      "notaCorte": 49
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 15,
+      "inscritos": 84,
+      "ausentes": 18,
+      "convocadosSegundaFase": 61,
+      "convocadosPorVaga": 4.07,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 7,
+      "inscritos": 17,
+      "ausentes": 3,
+      "convocadosSegundaFase": 11,
+      "convocadosPorVaga": 1.57,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Fisioterapia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 9,
+      "inscritos": 287,
+      "ausentes": 39,
+      "convocadosSegundaFase": 36,
+      "convocadosPorVaga": 4,
+      "notaCorte": 58
+    },
+    {
+      "nomeCurso": "Fisioterapia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 6,
+      "inscritos": 110,
+      "ausentes": 22,
+      "convocadosSegundaFase": 26,
+      "convocadosPorVaga": 4.33,
+      "notaCorte": 49
+    },
+    {
+      "nomeCurso": "Fisioterapia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 3,
+      "inscritos": 48,
+      "ausentes": 6,
+      "convocadosSegundaFase": 12,
+      "convocadosPorVaga": 4,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Fisioterapia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 20,
+      "inscritos": 277,
+      "ausentes": 27,
+      "convocadosSegundaFase": 86,
+      "convocadosPorVaga": 4.3,
+      "notaCorte": 50
+    },
+    {
+      "nomeCurso": "Fisioterapia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 6,
+      "inscritos": 82,
+      "ausentes": 14,
+      "convocadosSegundaFase": 28,
+      "convocadosPorVaga": 4.67,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Fisioterapia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 3,
+      "inscritos": 22,
+      "ausentes": 3,
+      "convocadosSegundaFase": 12,
+      "convocadosPorVaga": 4,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Fonoaudiologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 9,
+      "inscritos": 75,
+      "ausentes": 13,
+      "convocadosSegundaFase": 37,
+      "convocadosPorVaga": 4.11,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Fonoaudiologia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 6,
+      "inscritos": 37,
+      "ausentes": 5,
+      "convocadosSegundaFase": 24,
+      "convocadosPorVaga": 4,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Fonoaudiologia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 3,
+      "inscritos": 10,
+      "ausentes": 4,
+      "convocadosSegundaFase": 4,
+      "convocadosPorVaga": 1.33,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Fonoaudiologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 13,
+      "inscritos": 58,
+      "ausentes": 11,
+      "convocadosSegundaFase": 46,
+      "convocadosPorVaga": 3.54,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Fonoaudiologia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 9,
+      "inscritos": 30,
+      "ausentes": 4,
+      "convocadosSegundaFase": 25,
+      "convocadosPorVaga": 2.78,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Fonoaudiologia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 6,
+      "inscritos": 8,
+      "ausentes": 1,
+      "convocadosSegundaFase": 7,
+      "convocadosPorVaga": 1.17,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Fonoaudiologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 15,
+      "inscritos": 119,
+      "ausentes": 11,
+      "convocadosSegundaFase": 62,
+      "convocadosPorVaga": 4.13,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Fonoaudiologia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 5,
+      "inscritos": 23,
+      "ausentes": 4,
+      "convocadosSegundaFase": 18,
+      "convocadosPorVaga": 3.6,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Fonoaudiologia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 2,
+      "inscritos": 1,
+      "ausentes": 0,
+      "convocadosSegundaFase": 1,
+      "convocadosPorVaga": 0.5,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Gerontologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 24,
+      "inscritos": 19,
+      "ausentes": 2,
+      "convocadosSegundaFase": 16,
+      "convocadosPorVaga": 0.67,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Gerontologia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 12,
+      "inscritos": 11,
+      "ausentes": 0,
+      "convocadosSegundaFase": 10,
+      "convocadosPorVaga": 0.83,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Gerontologia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 6,
+      "inscritos": 4,
+      "ausentes": 1,
+      "convocadosSegundaFase": 3,
+      "convocadosPorVaga": 0.5,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 58,
+      "inscritos": 10460,
+      "ausentes": 1407,
+      "convocadosSegundaFase": 266,
+      "convocadosPorVaga": 4.59,
+      "notaCorte": 80
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 39,
+      "inscritos": 3554,
+      "ausentes": 643,
+      "convocadosSegundaFase": 168,
+      "convocadosPorVaga": 4.31,
+      "notaCorte": 73
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 25,
+      "inscritos": 1270,
+      "ausentes": 274,
+      "convocadosSegundaFase": 104,
+      "convocadosPorVaga": 4.16,
+      "notaCorte": 62
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 23,
+      "inscritos": 3002,
+      "ausentes": 314,
+      "convocadosSegundaFase": 113,
+      "convocadosPorVaga": 4.91,
+      "notaCorte": 78
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 10,
+      "inscritos": 792,
+      "ausentes": 116,
+      "convocadosSegundaFase": 46,
+      "convocadosPorVaga": 4.6,
+      "notaCorte": 71
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 9,
+      "inscritos": 256,
+      "ausentes": 38,
+      "convocadosSegundaFase": 39,
+      "convocadosPorVaga": 4.33,
+      "notaCorte": 59
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 50,
+      "inscritos": 5823,
+      "ausentes": 602,
+      "convocadosSegundaFase": 228,
+      "convocadosPorVaga": 4.56,
+      "notaCorte": 79
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 19,
+      "inscritos": 1434,
+      "ausentes": 199,
+      "convocadosSegundaFase": 87,
+      "convocadosPorVaga": 4.58,
+      "notaCorte": 72
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 6,
+      "inscritos": 320,
+      "ausentes": 57,
+      "convocadosSegundaFase": 24,
+      "convocadosPorVaga": 4,
+      "notaCorte": 63
+    },
+    {
+      "nomeCurso": "Medicina Veterinária",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 36,
+      "inscritos": 1272,
+      "ausentes": 185,
+      "convocadosSegundaFase": 146,
+      "convocadosPorVaga": 4.06,
+      "notaCorte": 60
+    },
+    {
+      "nomeCurso": "Medicina Veterinária",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 15,
+      "inscritos": 490,
+      "ausentes": 110,
+      "convocadosSegundaFase": 62,
+      "convocadosPorVaga": 4.13,
+      "notaCorte": 52
+    },
+    {
+      "nomeCurso": "Medicina Veterinária",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 5,
+      "inscritos": 141,
+      "ausentes": 30,
+      "convocadosSegundaFase": 21,
+      "convocadosPorVaga": 4.2,
+      "notaCorte": 47
+    },
+    {
+      "nomeCurso": "Medicina Veterinária",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 21,
+      "inscritos": 523,
+      "ausentes": 56,
+      "convocadosSegundaFase": 94,
+      "convocadosPorVaga": 4.48,
+      "notaCorte": 58
+    },
+    {
+      "nomeCurso": "Medicina Veterinária",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 12,
+      "inscritos": 192,
+      "ausentes": 33,
+      "convocadosSegundaFase": 48,
+      "convocadosPorVaga": 4,
+      "notaCorte": 50
+    },
+    {
+      "nomeCurso": "Medicina Veterinária",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 9,
+      "inscritos": 38,
+      "ausentes": 8,
+      "convocadosSegundaFase": 27,
+      "convocadosPorVaga": 3,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Nutrição",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 36,
+      "inscritos": 524,
+      "ausentes": 82,
+      "convocadosSegundaFase": 152,
+      "convocadosPorVaga": 4.22,
+      "notaCorte": 53
+    },
+    {
+      "nomeCurso": "Nutrição",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 14,
+      "inscritos": 220,
+      "ausentes": 37,
+      "convocadosSegundaFase": 65,
+      "convocadosPorVaga": 4.64,
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Nutrição",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 6,
+      "inscritos": 73,
+      "ausentes": 16,
+      "convocadosSegundaFase": 24,
+      "convocadosPorVaga": 4,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Nutrição e Metabolismo",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 15,
+      "inscritos": 174,
+      "ausentes": 20,
+      "convocadosSegundaFase": 61,
+      "convocadosPorVaga": 4.07,
+      "notaCorte": 51
+    },
+    {
+      "nomeCurso": "Nutrição e Metabolismo",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 5,
+      "inscritos": 49,
+      "ausentes": 10,
+      "convocadosSegundaFase": 20,
+      "convocadosPorVaga": 4,
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Nutrição e Metabolismo",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 1,
+      "inscritos": 7,
+      "ausentes": 2,
+      "convocadosSegundaFase": 4,
+      "convocadosPorVaga": 4,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Obstetrícia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 30,
+      "inscritos": 167,
+      "ausentes": 17,
+      "convocadosSegundaFase": 124,
+      "convocadosPorVaga": 4.13,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Obstetrícia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 12,
+      "inscritos": 97,
+      "ausentes": 17,
+      "convocadosSegundaFase": 52,
+      "convocadosPorVaga": 4.33,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 47,
+      "inscritos": 736,
+      "ausentes": 86,
+      "convocadosSegundaFase": 203,
+      "convocadosPorVaga": 4.32,
+      "notaCorte": 53
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 33,
+      "inscritos": 272,
+      "ausentes": 50,
+      "convocadosSegundaFase": 134,
+      "convocadosPorVaga": 4.06,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 13,
+      "inscritos": 92,
+      "ausentes": 25,
+      "convocadosSegundaFase": 52,
+      "convocadosPorVaga": 4,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 18,
+      "inscritos": 240,
+      "ausentes": 27,
+      "convocadosSegundaFase": 77,
+      "convocadosPorVaga": 4.28,
+      "notaCorte": 50
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 9,
+      "inscritos": 85,
+      "ausentes": 20,
+      "convocadosSegundaFase": 37,
+      "convocadosPorVaga": 4.11,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 8,
+      "inscritos": 18,
+      "ausentes": 6,
+      "convocadosSegundaFase": 10,
+      "convocadosPorVaga": 1.25,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 28,
+      "inscritos": 465,
+      "ausentes": 36,
+      "convocadosSegundaFase": 115,
+      "convocadosPorVaga": 4.11,
+      "notaCorte": 55
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 15,
+      "inscritos": 136,
+      "ausentes": 25,
+      "convocadosSegundaFase": 60,
+      "convocadosPorVaga": 4,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 13,
+      "inscritos": 37,
+      "ausentes": 10,
+      "convocadosSegundaFase": 22,
+      "convocadosPorVaga": 1.69,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 35,
+      "inscritos": 2163,
+      "ausentes": 308,
+      "convocadosSegundaFase": 153,
+      "convocadosPorVaga": 4.37,
+      "notaCorte": 67
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 8,
+      "inscritos": 648,
+      "ausentes": 150,
+      "convocadosSegundaFase": 37,
+      "convocadosPorVaga": 4.63,
+      "notaCorte": 60
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 6,
+      "inscritos": 249,
+      "ausentes": 62,
+      "convocadosSegundaFase": 26,
+      "convocadosPorVaga": 4.33,
+      "notaCorte": 51
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 20,
+      "inscritos": 827,
+      "ausentes": 92,
+      "convocadosSegundaFase": 88,
+      "convocadosPorVaga": 4.4,
+      "notaCorte": 65
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 8,
+      "inscritos": 276,
+      "ausentes": 69,
+      "convocadosSegundaFase": 37,
+      "convocadosPorVaga": 4.63,
+      "notaCorte": 56
+    },
+    {
+      "nomeCurso": "Saúde Pública",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 18,
+      "inscritos": 59,
+      "ausentes": 6,
+      "convocadosSegundaFase": 53,
+      "convocadosPorVaga": 2.94,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Saúde Pública",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 7,
+      "inscritos": 30,
+      "ausentes": 4,
+      "convocadosSegundaFase": 25,
+      "convocadosPorVaga": 3.57,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Saúde Pública",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 3,
+      "inscritos": 3,
+      "ausentes": 1,
+      "convocadosSegundaFase": 2,
+      "convocadosPorVaga": 0.67,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Terapia Ocupacional",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 9,
+      "inscritos": 82,
+      "ausentes": 8,
+      "convocadosSegundaFase": 37,
+      "convocadosPorVaga": 4.11,
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Terapia Ocupacional",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 6,
+      "inscritos": 31,
+      "ausentes": 5,
+      "convocadosSegundaFase": 25,
+      "convocadosPorVaga": 4.17,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Terapia Ocupacional",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 3,
+      "inscritos": 11,
+      "ausentes": 1,
+      "convocadosSegundaFase": 9,
+      "convocadosPorVaga": 3,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Terapia Ocupacional",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 10,
+      "inscritos": 80,
+      "ausentes": 7,
+      "convocadosSegundaFase": 42,
+      "convocadosPorVaga": 4.2,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Terapia Ocupacional",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 4,
+      "inscritos": 23,
+      "ausentes": 3,
+      "convocadosSegundaFase": 15,
+      "convocadosPorVaga": 3.75,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Terapia Ocupacional",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 1,
+      "inscritos": 3,
+      "ausentes": 1,
+      "convocadosSegundaFase": 2,
+      "convocadosPorVaga": 2,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Zootecnia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 14,
+      "inscritos": 82,
+      "ausentes": 15,
+      "convocadosSegundaFase": 58,
+      "convocadosPorVaga": 4.14,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Zootecnia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 8,
+      "inscritos": 31,
+      "ausentes": 9,
+      "convocadosSegundaFase": 20,
+      "convocadosPorVaga": 2.5,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Zootecnia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 6,
+      "inscritos": 5,
+      "ausentes": 0,
+      "convocadosSegundaFase": 3,
+      "convocadosPorVaga": 0.5,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Treinamento B",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 100,
+      "inscritos": 3232,
+      "ausentes": 356,
+      "convocadosSegundaFase": 409,
+      "convocadosPorVaga": 4.09,
+      "notaCorte": 60
+    },
+    {
+      "nomeCurso": "Treinamento B",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 63,
+      "inscritos": 259,
+      "ausentes": 37,
+      "convocadosSegundaFase": 215,
+      "convocadosPorVaga": 3.41,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Treinamento B",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 37,
+      "inscritos": 72,
+      "ausentes": 8,
+      "convocadosSegundaFase": 56,
+      "convocadosPorVaga": 1.51,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Ciências Físicas e Biomoleculares",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 15,
+      "inscritos": 43,
+      "ausentes": 4,
+      "convocadosSegundaFase": 39,
+      "convocadosPorVaga": 2.6,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Ciências Físicas e Biomoleculares",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 8,
+      "inscritos": 14,
+      "ausentes": 1,
+      "convocadosSegundaFase": 13,
+      "convocadosPorVaga": 1.63,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Ciências Físicas e Biomoleculares",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 5,
+      "inscritos": 3,
+      "ausentes": 0,
+      "convocadosSegundaFase": 3,
+      "convocadosPorVaga": 0.6,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Ciências da Natureza",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 30,
+      "inscritos": 90,
+      "ausentes": 8,
+      "convocadosSegundaFase": 80,
+      "convocadosPorVaga": 2.67,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Ciências da Natureza",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 9,
+      "inscritos": 6,
+      "ausentes": 0,
+      "convocadosSegundaFase": 5,
+      "convocadosPorVaga": 0.56,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Ciências da Natureza",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 3,
+      "inscritos": 2,
+      "ausentes": 0,
+      "convocadosSegundaFase": 2,
+      "convocadosPorVaga": 0.67,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Computação",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 147,
+      "inscritos": 2520,
+      "ausentes": 282,
+      "convocadosSegundaFase": 634,
+      "convocadosPorVaga": 4.31,
+      "notaCorte": 61
+    },
+    {
+      "nomeCurso": "Computação",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 68,
+      "inscritos": 1125,
+      "ausentes": 184,
+      "convocadosSegundaFase": 280,
+      "convocadosPorVaga": 4.12,
+      "notaCorte": 56
+    },
+    {
+      "nomeCurso": "Computação",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 32,
+      "inscritos": 300,
+      "ausentes": 59,
+      "convocadosSegundaFase": 133,
+      "convocadosPorVaga": 4.16,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Engenharia Aeronáutica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 17,
+      "inscritos": 442,
+      "ausentes": 52,
+      "convocadosSegundaFase": 79,
+      "convocadosPorVaga": 4.65,
+      "notaCorte": 70
+    },
+    {
+      "nomeCurso": "Engenharia Aeronáutica",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 9,
+      "inscritos": 117,
+      "ausentes": 20,
+      "convocadosSegundaFase": 36,
+      "convocadosPorVaga": 4,
+      "notaCorte": 55
+    },
+    {
+      "nomeCurso": "Engenharia Aeronáutica",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 5,
+      "inscritos": 27,
+      "ausentes": 4,
+      "convocadosSegundaFase": 21,
+      "convocadosPorVaga": 4.2,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 19,
+      "inscritos": 43,
+      "ausentes": 1,
+      "convocadosSegundaFase": 41,
+      "convocadosPorVaga": 2.16,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 9,
+      "inscritos": 15,
+      "ausentes": 4,
+      "convocadosSegundaFase": 9,
+      "convocadosPorVaga": 1,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 6,
+      "inscritos": 3,
+      "ausentes": 0,
+      "convocadosSegundaFase": 3,
+      "convocadosPorVaga": 0.5,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 17,
+      "inscritos": 113,
+      "ausentes": 9,
+      "convocadosSegundaFase": 71,
+      "convocadosPorVaga": 4.18,
+      "notaCorte": 47
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 9,
+      "inscritos": 24,
+      "ausentes": 4,
+      "convocadosSegundaFase": 19,
+      "convocadosPorVaga": 2.11,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 5,
+      "inscritos": 6,
+      "ausentes": 2,
+      "convocadosSegundaFase": 4,
+      "convocadosPorVaga": 0.8,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Engenharia Bioquímica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 18,
+      "inscritos": 72,
+      "ausentes": 7,
+      "convocadosSegundaFase": 65,
+      "convocadosPorVaga": 3.61,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Engenharia Bioquímica",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 8,
+      "inscritos": 10,
+      "ausentes": 2,
+      "convocadosSegundaFase": 8,
+      "convocadosPorVaga": 1,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Engenharia Bioquímica",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 4,
+      "inscritos": 3,
+      "ausentes": 1,
+      "convocadosSegundaFase": 2,
+      "convocadosPorVaga": 0.5,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 26,
+      "inscritos": 420,
+      "ausentes": 55,
+      "convocadosSegundaFase": 106,
+      "convocadosPorVaga": 4.08,
+      "notaCorte": 56
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 13,
+      "inscritos": 153,
+      "ausentes": 41,
+      "convocadosSegundaFase": 52,
+      "convocadosPorVaga": 4,
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 7,
+      "inscritos": 30,
+      "ausentes": 5,
+      "convocadosSegundaFase": 18,
+      "convocadosPorVaga": 2.57,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Engenharia de Alimentos",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 34,
+      "inscritos": 124,
+      "ausentes": 10,
+      "convocadosSegundaFase": 113,
+      "convocadosPorVaga": 3.32,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Engenharia de Alimentos",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 20,
+      "inscritos": 37,
+      "ausentes": 4,
+      "convocadosSegundaFase": 31,
+      "convocadosPorVaga": 1.55,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Engenharia de Alimentos",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 16,
+      "inscritos": 7,
+      "ausentes": 2,
+      "convocadosSegundaFase": 5,
+      "convocadosPorVaga": 0.31,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Engenharia de Biossistemas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 21,
+      "inscritos": 67,
+      "ausentes": 10,
+      "convocadosSegundaFase": 57,
+      "convocadosPorVaga": 2.71,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Engenharia de Biossistemas",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 12,
+      "inscritos": 11,
+      "ausentes": 2,
+      "convocadosSegundaFase": 8,
+      "convocadosPorVaga": 0.67,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Engenharia de Materiais",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 18,
+      "inscritos": 78,
+      "ausentes": 4,
+      "convocadosSegundaFase": 72,
+      "convocadosPorVaga": 4,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Engenharia de Materiais",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 7,
+      "inscritos": 15,
+      "ausentes": 1,
+      "convocadosSegundaFase": 13,
+      "convocadosPorVaga": 1.86,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Engenharia de Materiais",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 5,
+      "inscritos": 3,
+      "ausentes": 1,
+      "convocadosSegundaFase": 2,
+      "convocadosPorVaga": 0.4,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Engenharia de Materiais e Manufatura",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 21,
+      "inscritos": 114,
+      "ausentes": 9,
+      "convocadosSegundaFase": 85,
+      "convocadosPorVaga": 4.05,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Engenharia de Materiais e Manufatura",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 11,
+      "inscritos": 23,
+      "ausentes": 4,
+      "convocadosSegundaFase": 18,
+      "convocadosPorVaga": 1.64,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Engenharia de Materiais e Manufatura",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 6,
+      "inscritos": 5,
+      "ausentes": 2,
+      "convocadosSegundaFase": 3,
+      "convocadosPorVaga": 0.5,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 18,
+      "inscritos": 178,
+      "ausentes": 39,
+      "convocadosSegundaFase": 77,
+      "convocadosPorVaga": 4.28,
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 6,
+      "inscritos": 36,
+      "ausentes": 8,
+      "convocadosSegundaFase": 25,
+      "convocadosPorVaga": 4.17,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 6,
+      "inscritos": 11,
+      "ausentes": 2,
+      "convocadosSegundaFase": 9,
+      "convocadosPorVaga": 1.5,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica e de Computação",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 63,
+      "inscritos": 901,
+      "ausentes": 102,
+      "convocadosSegundaFase": 252,
+      "convocadosPorVaga": 4,
+      "notaCorte": 62
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica e de Computação",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 33,
+      "inscritos": 244,
+      "ausentes": 28,
+      "convocadosSegundaFase": 140,
+      "convocadosPorVaga": 4.24,
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica e de Computação",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 18,
+      "inscritos": 44,
+      "ausentes": 15,
+      "convocadosSegundaFase": 27,
+      "convocadosPorVaga": 1.5,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Engenharia Física",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 18,
+      "inscritos": 83,
+      "ausentes": 11,
+      "convocadosSegundaFase": 72,
+      "convocadosPorVaga": 4,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Engenharia Física",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 7,
+      "inscritos": 24,
+      "ausentes": 1,
+      "convocadosSegundaFase": 21,
+      "convocadosPorVaga": 3,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Engenharia Física",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 5,
+      "inscritos": 4,
+      "ausentes": 0,
+      "convocadosSegundaFase": 4,
+      "convocadosPorVaga": 0.8,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 64,
+      "inscritos": 452,
+      "ausentes": 59,
+      "convocadosSegundaFase": 263,
+      "convocadosPorVaga": 4.11,
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 34,
+      "inscritos": 116,
+      "ausentes": 15,
+      "convocadosSegundaFase": 98,
+      "convocadosPorVaga": 2.88,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 22,
+      "inscritos": 33,
+      "ausentes": 5,
+      "convocadosSegundaFase": 25,
+      "convocadosPorVaga": 1.14,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica, Engenharia Mecatrônica e Engenharia de Produção",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 63,
+      "inscritos": 1083,
+      "ausentes": 106,
+      "convocadosSegundaFase": 260,
+      "convocadosPorVaga": 4.13,
+      "notaCorte": 62
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica, Engenharia Mecatrônica e Engenharia de Produção",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 33,
+      "inscritos": 283,
+      "ausentes": 51,
+      "convocadosSegundaFase": 146,
+      "convocadosPorVaga": 4.42,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica, Engenharia Mecatrônica e Engenharia de Produção",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 18,
+      "inscritos": 56,
+      "ausentes": 18,
+      "convocadosSegundaFase": 36,
+      "convocadosPorVaga": 2,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Engenharia na Escola Politécnica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 387,
+      "inscritos": 3939,
+      "ausentes": 301,
+      "convocadosSegundaFase": 1553,
+      "convocadosPorVaga": 4.01,
+      "notaCorte": 64
+    },
+    {
+      "nomeCurso": "Engenharia na Escola Politécnica",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 243,
+      "inscritos": 1187,
+      "ausentes": 126,
+      "convocadosSegundaFase": 984,
+      "convocadosPorVaga": 4.05,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Engenharia na Escola Politécnica",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 153,
+      "inscritos": 288,
+      "ausentes": 34,
+      "convocadosSegundaFase": 246,
+      "convocadosPorVaga": 1.61,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estat",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 216,
+      "inscritos": 1258,
+      "ausentes": 156,
+      "convocadosSegundaFase": 875,
+      "convocadosPorVaga": 4.05,
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estat",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 109,
+      "inscritos": 495,
+      "ausentes": 88,
+      "convocadosSegundaFase": 398,
+      "convocadosPorVaga": 3.65,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Física / Física Computacional / Meteorologia / Geofísica / Astronomia / Estat",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 71,
+      "inscritos": 121,
+      "ausentes": 21,
+      "convocadosSegundaFase": 93,
+      "convocadosPorVaga": 1.31,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Ciência de Dados",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 7,
+      "inscritos": 75,
+      "ausentes": 11,
+      "convocadosSegundaFase": 29,
+      "convocadosPorVaga": 4.14,
+      "notaCorte": 58
+    },
+    {
+      "nomeCurso": "Ciência de Dados",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 4,
+      "inscritos": 27,
+      "ausentes": 7,
+      "convocadosSegundaFase": 16,
+      "convocadosPorVaga": 4,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Ciência de Dados",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 3,
+      "inscritos": 8,
+      "ausentes": 1,
+      "convocadosSegundaFase": 7,
+      "convocadosPorVaga": 2.33,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Física Médica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 25,
+      "inscritos": 111,
+      "ausentes": 14,
+      "convocadosSegundaFase": 96,
+      "convocadosPorVaga": 3.84,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Física Médica",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 13,
+      "inscritos": 30,
+      "ausentes": 3,
+      "convocadosSegundaFase": 26,
+      "convocadosPorVaga": 2,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Física Médica",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 7,
+      "inscritos": 10,
+      "ausentes": 2,
+      "convocadosSegundaFase": 8,
+      "convocadosPorVaga": 1.14,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Geologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 25,
+      "inscritos": 96,
+      "ausentes": 7,
+      "convocadosSegundaFase": 89,
+      "convocadosPorVaga": 3.56,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Geologia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 10,
+      "inscritos": 44,
+      "ausentes": 7,
+      "convocadosSegundaFase": 36,
+      "convocadosPorVaga": 3.6,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Informática Biomédica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 10,
+      "inscritos": 60,
+      "ausentes": 9,
+      "convocadosSegundaFase": 40,
+      "convocadosPorVaga": 4,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Informática Biomédica",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 2,
+      "inscritos": 11,
+      "ausentes": 3,
+      "convocadosSegundaFase": 8,
+      "convocadosPorVaga": 4,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Informática Biomédica",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 2,
+      "inscritos": 7,
+      "ausentes": 3,
+      "convocadosSegundaFase": 4,
+      "convocadosPorVaga": 2,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Licenciatura em Ciências Exatas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 18,
+      "inscritos": 36,
+      "ausentes": 5,
+      "convocadosSegundaFase": 29,
+      "convocadosPorVaga": 1.61,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Licenciatura em Ciências Exatas",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 10,
+      "inscritos": 10,
+      "ausentes": 3,
+      "convocadosSegundaFase": 7,
+      "convocadosPorVaga": 0.7,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Licenciatura em Ciências Exatas",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 7,
+      "inscritos": 2,
+      "ausentes": 0,
+      "convocadosSegundaFase": 1,
+      "convocadosPorVaga": 0.14,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Licenciatura em Geociências e Educação Ambiental",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 20,
+      "inscritos": 15,
+      "ausentes": 3,
+      "convocadosSegundaFase": 12,
+      "convocadosPorVaga": 0.6,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Licenciatura em Geociências e Educação Ambiental",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 8,
+      "inscritos": 16,
+      "ausentes": 3,
+      "convocadosSegundaFase": 13,
+      "convocadosPorVaga": 1.63,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Licenciatura em Matemática / Física",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 130,
+      "inscritos": 352,
+      "ausentes": 35,
+      "convocadosSegundaFase": 311,
+      "convocadosPorVaga": 2.39,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Licenciatura em Matemática / Física",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 41,
+      "inscritos": 96,
+      "ausentes": 20,
+      "convocadosSegundaFase": 74,
+      "convocadosPorVaga": 1.8,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Licenciatura em Matemática / Física",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 11,
+      "inscritos": 22,
+      "ausentes": 7,
+      "convocadosSegundaFase": 13,
+      "convocadosPorVaga": 1.18,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Matemática Aplicada",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 16,
+      "inscritos": 63,
+      "ausentes": 9,
+      "convocadosSegundaFase": 52,
+      "convocadosPorVaga": 3.25,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Matemática Aplicada",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 10,
+      "inscritos": 19,
+      "ausentes": 1,
+      "convocadosSegundaFase": 17,
+      "convocadosPorVaga": 1.7,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Matemática Aplicada",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 5,
+      "inscritos": 6,
+      "ausentes": 2,
+      "convocadosSegundaFase": 4,
+      "convocadosPorVaga": 0.8,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Oceanografia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 16,
+      "inscritos": 78,
+      "ausentes": 9,
+      "convocadosSegundaFase": 65,
+      "convocadosPorVaga": 4.06,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Oceanografia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 8,
+      "inscritos": 38,
+      "ausentes": 4,
+      "convocadosSegundaFase": 32,
+      "convocadosPorVaga": 4,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Oceanografia",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 4,
+      "inscritos": 7,
+      "ausentes": 2,
+      "convocadosSegundaFase": 5,
+      "convocadosPorVaga": 1.25,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Química (Bacharelado ou Bacharelado com Habilitação em Química Forens",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 21,
+      "inscritos": 159,
+      "ausentes": 17,
+      "convocadosSegundaFase": 84,
+      "convocadosPorVaga": 4,
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Química (Bacharelado ou Bacharelado com Habilitação em Química Forens",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 13,
+      "inscritos": 77,
+      "ausentes": 9,
+      "convocadosSegundaFase": 53,
+      "convocadosPorVaga": 4.08,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Química (Bacharelado ou Bacharelado com Habilitação em Química Forens",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 8,
+      "inscritos": 22,
+      "ausentes": 4,
+      "convocadosSegundaFase": 17,
+      "convocadosPorVaga": 2.13,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Química – Bacharelado e Licenciatura",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 44,
+      "inscritos": 314,
+      "ausentes": 34,
+      "convocadosSegundaFase": 184,
+      "convocadosPorVaga": 4.18,
+      "notaCorte": 49
+    },
+    {
+      "nomeCurso": "Química – Bacharelado e Licenciatura",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 24,
+      "inscritos": 149,
+      "ausentes": 27,
+      "convocadosSegundaFase": 100,
+      "convocadosPorVaga": 4.17,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Química – Bacharelado e Licenciatura",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 16,
+      "inscritos": 43,
+      "ausentes": 18,
+      "convocadosSegundaFase": 24,
+      "convocadosPorVaga": 1.5,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Química – Licenciatura e Bacharelado",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 14,
+      "inscritos": 54,
+      "ausentes": 7,
+      "convocadosSegundaFase": 47,
+      "convocadosPorVaga": 3.36,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Química – Licenciatura e Bacharelado",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 8,
+      "inscritos": 25,
+      "ausentes": 5,
+      "convocadosSegundaFase": 20,
+      "convocadosPorVaga": 2.5,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Química – Licenciatura e Bacharelado",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 6,
+      "inscritos": 1,
+      "ausentes": 0,
+      "convocadosSegundaFase": 1,
+      "convocadosPorVaga": 0.17,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Química (Bacharelado e Bacharelado com Atribuições Tecnológicas com Ê",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 24,
+      "inscritos": 75,
+      "ausentes": 7,
+      "convocadosSegundaFase": 66,
+      "convocadosPorVaga": 2.75,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Química (Bacharelado e Bacharelado com Atribuições Tecnológicas com Ê",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 12,
+      "inscritos": 36,
+      "ausentes": 7,
+      "convocadosSegundaFase": 29,
+      "convocadosPorVaga": 2.42,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Química (Bacharelado e Bacharelado com Atribuições Tecnológicas com Ê",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 6,
+      "inscritos": 3,
+      "ausentes": 0,
+      "convocadosSegundaFase": 3,
+      "convocadosPorVaga": 0.5,
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Sistemas de Informação",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 17,
+      "inscritos": 239,
+      "ausentes": 38,
+      "convocadosSegundaFase": 74,
+      "convocadosPorVaga": 4.35,
+      "notaCorte": 52
+    },
+    {
+      "nomeCurso": "Sistemas de Informação",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 11,
+      "inscritos": 123,
+      "ausentes": 31,
+      "convocadosSegundaFase": 44,
+      "convocadosPorVaga": 4,
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Sistemas de Informação",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 7,
+      "inscritos": 28,
+      "ausentes": 5,
+      "convocadosSegundaFase": 21,
+      "convocadosPorVaga": 3,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Treinamento E",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": 100,
+      "inscritos": 2206,
+      "ausentes": 205,
+      "convocadosSegundaFase": 423,
+      "convocadosPorVaga": 4.23,
+      "notaCorte": 61
+    },
+    {
+      "nomeCurso": "Treinamento E",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública",
+      "vagas": 63,
+      "inscritos": 228,
+      "ausentes": 26,
+      "convocadosSegundaFase": 193,
+      "convocadosPorVaga": 3.06,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Treinamento E",
+      "modalidadeConcorrencia": "Candidatos de Escola Pública – Grupo PPI",
+      "vagas": 37,
+      "inscritos": 31,
+      "ausentes": 5,
+      "convocadosSegundaFase": 26,
+      "convocadosPorVaga": 0.7,
+      "notaCorte": 31
+    }
+  ]
+}

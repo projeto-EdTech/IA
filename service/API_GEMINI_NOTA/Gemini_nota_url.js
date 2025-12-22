@@ -309,7 +309,7 @@ try {
  */
 async function main() {
   // URL do PDF: por argumento (1º), env PDF_URL ou fallback manual
-  const pdfUrl = "https://www.fuvest.br/wp-content/uploads/fuvest_2025_notas_de_corte.pdf";
+  const pdfUrl = "https://www.famema.br/wp-content/uploads/2025/03/Concorrencia-Vestibular-FAMEMA-2022-2024.pdf";
   console.log(`Iniciando Processamento Local`);
   if (!pdfUrl) {
     console.error(`URL do PDF não definida. Forneça via 'node Gemini_nota_url.js <URL>' ou defina a variável de ambiente PDF_URL.`);

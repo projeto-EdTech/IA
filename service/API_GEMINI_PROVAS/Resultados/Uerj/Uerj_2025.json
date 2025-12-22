@@ -1,0 +1,1608 @@
+{
+  "nomeUniversidade": "Universidade do Estado do Rio de Janeiro",
+  "siglaUniversidade": "UERJ",
+  "nomeProva": "1º Exame de Qualificação",
+  "ano": 2025,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Em “Mais temidos que leões”, o autor explora uma relação entre a obra de ficção citada e a pesquisa científica relatada.\nCom base na leitura do texto, é possível estabelecer a seguinte relação entre ficção e ciência:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a ficção nunca supera a ciência"
+        },
+        {
+          "letra": "B",
+          "texto": "a ficção pode antecipar a ciência"
+        },
+        {
+          "letra": "C",
+          "texto": "a ciência deve se submeter à ficção"
+        },
+        {
+          "letra": "D",
+          "texto": "a ciência sempre comprova a ficção"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "O hormônio cortisol, liberado pelas glândulas suprarrenais, atua em processos fisiológicos associados às situações de estresse, como as vivenciadas pelos animais selvagens mencionados no texto. Para liberação desse hormônio, são necessários estímulos de outras glândulas.\nUma dessas glândulas é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "timo"
+        },
+        {
+          "letra": "B",
+          "texto": "pineal"
+        },
+        {
+          "letra": "C",
+          "texto": "tireoide"
+        },
+        {
+          "letra": "D",
+          "texto": "pituitária"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Fisiologia Humana",
+        "Biologia – Sistema Endócrino"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Assim como o cortisol, o hormônio adrenalina também é produzido pelas glândulas suprarrenais. Observe as fórmulas estruturais das moléculas correspondentes a esses hormônios:\n\nEm ambas as moléculas, observa-se uma mesma função orgânica, que é denominada:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fenol"
+        },
+        {
+          "letra": "B",
+          "texto": "amina"
+        },
+        {
+          "letra": "C",
+          "texto": "álcool"
+        },
+        {
+          "letra": "D",
+          "texto": "cetona"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Funções Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "O emprego dos dois-pontos estabelece coesão entre partes de uma frase.\nTanto no terceiro quanto no quinto parágrafos, as partes introduzidas pelos dois-pontos expressam sentido de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ênfase"
+        },
+        {
+          "letra": "B",
+          "texto": "gradação"
+        },
+        {
+          "letra": "C",
+          "texto": "causalidade"
+        },
+        {
+          "letra": "D",
+          "texto": "particularização"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Pontuação",
+        "Língua Portuguesa – Coesão Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Os aparelhos foram colocados, durante a estação seca, em torno de water holes – pequenos lagos, às vezes temporários, que são a principal fonte de água para a fauna da região em períodos de pouca chuva. (l. 19-21)\nO estudo científico descrito no texto foi realizado em um bioma comumente associado ao continente africano. Suas características ambientais, em especial o clima típico desse bioma, favoreceram a concentração espacial das espécies cujo comportamento foi analisado.\nO climograma anual que representa adequadamente esse bioma é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Climatologia",
+        "Geografia – Biomas"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "CONSIDERE AS INFORMAÇÕES DO TRECHO A SEGUIR PARA RESPONDER ÀS QUESTÕES 06 E 07.\nDiante das gravações de conversas entre pessoas, os visitantes dos water holes tinham probabilidade 200% maior de fugir e se escafediam com velocidade 40% maior do que diante de sons de leões. (l. 30-32)\nAdmita que a probabilidade de os visitantes dos water holes fugirem, ao ouvirem o rugido de leões, seja de 33%.\nNessas condições, a probabilidade de esses animais fugirem, ao ouvirem a voz humana, é de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,99"
+        },
+        {
+          "letra": "B",
+          "texto": "0,85"
+        },
+        {
+          "letra": "C",
+          "texto": "0,59"
+        },
+        {
+          "letra": "D",
+          "texto": "0,35"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Probabilidade",
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "CONSIDERE AS INFORMAÇÕES DO TRECHO A SEGUIR PARA RESPONDER ÀS QUESTÕES 06 E 07.\nDiante das gravações de conversas entre pessoas, os visitantes dos water holes tinham probabilidade 200% maior de fugir e se escafediam com velocidade 40% maior do que diante de sons de leões. (l. 30-32)\nConsidere uma girafa que, ao ouvir o rugido de um leão, fuja correndo à velocidade média de 54 km/h.\nAo ouvir a voz humana, essa girafa percore 105 m no seguinte intervalo de tempo, em segundos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7"
+        },
+        {
+          "letra": "B",
+          "texto": "6"
+        },
+        {
+          "letra": "C",
+          "texto": "5"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Carga de 19 mil bois do Brasil infesta o ar de cidade da África do Sul\nA passagem de um navio com 19 mil bois exportados vivos do Brasil para o Iraque levou um “fedor inimaginável” para a Cidade do Cabo, na África do Sul, onde a embarcação fez uma parada de abastecimento. O Conselho Nacional de Sociedades para a Prevenção da Crueldade contra Animais, organização sul-africana de proteção aos animais, encontrou bois doentes e mortos na embarcação, classificando o cenário como “abominável”. Os animais estavam saudáveis antes do embarque.\n“Cada boi produz em média 30 quilos de esterco por dia, mas, sem ter como descartá-los, os animais têm que conviver com fezes e amônia, uma substância tóxica presente na urina”, explica George Sturaro, gerente de investigações da Mercy For Animals, organização internacional de defesa animal. As principais causas de morte ao longo das viagens são infecções respiratórias e estresse térmico. Para Sturaro, as péssimas condições são inerentes a essa modalidade de exportação.\nAdaptado de reporterbrasil.org.br, 21/02/2024.\nO Brasil é um dos principais exportadores de carne bovina, realizando também o comércio de animais vivos para o abate em outros países.\nA reportagem acima, assim como o texto inicial, levanta discussões acerca da relação entre seres humanos e animais em sociedades urbanas na contemporaneidade.\nCom base na reportagem, essa relação tem sido mediada pela seguinte perspectiva econômica:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "integração de mercados globais"
+        },
+        {
+          "letra": "B",
+          "texto": "prevalência de práticas capitalistas"
+        },
+        {
+          "letra": "C",
+          "texto": "substituição de insumos industriais"
+        },
+        {
+          "letra": "D",
+          "texto": "racionalização de interesses extrativistas"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Sociologia – Relações de Produção",
+        "Geografia – Agropecuária"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "AS QUESTÕES 09 A 22 REFEREM-SE A CRÔNICAS DO LIVRO AS MENTIRAS QUE OS HOMENS CONTAM, DE LUIS FERNANDO VERISSIMO (Rio de Janeiro: Objetiva, 2015).\nEm diversas crônicas do livro, o autor constrói uma relação entre as noções de verdade e mentira, enfraquecendo a distinção entre esses termos.\nEssa relação pode ser caracterizada como:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "paradoxal"
+        },
+        {
+          "letra": "B",
+          "texto": "necessária"
+        },
+        {
+          "letra": "C",
+          "texto": "imaginária"
+        },
+        {
+          "letra": "D",
+          "texto": "natural"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Contemporânea",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "CRÔNICA “GRANDE EDGAR”\nVocê não está se lembrando dele e não tem por que esconder isso. (...)\n– Não me diga. Você é o... o...\n“Não me diga”, no caso, quer dizer “Me diga, me diga”. Você conta com a piedade dele e sabe que cedo ou tarde ele se identificará, para acabar com a sua agonia. Ou você pode dizer algo como:\n– Desculpe, deve ser a velhice, mas...\nEste também é um apelo à piedade. Significa “Não torture um pobre desmemoriado, diga logo quem você é!”.\nNo trecho, o narrador reformula expressões, explicando o sentido que atribui a elas.\nA partir dessas reformulações, observa-se que os sentidos atribuídos às palavras derivam de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "respeito à norma-padrão"
+        },
+        {
+          "letra": "B",
+          "texto": "tendência à impessoalidade"
+        },
+        {
+          "letra": "C",
+          "texto": "referência a noções abstratas"
+        },
+        {
+          "letra": "D",
+          "texto": "vínculo a contextos específicos"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Variação Linguística"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "CRÔNICA “O FALCÃO”\nO Alcântara nos avisou: não deixem ele enrolar vocês. O Falcão é uma águia.\nA piada contida na última frase do trecho se constrói sobre uma metáfora que aponta para o tema principal da crônica.\nEsse tema é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ocultação de provas"
+        },
+        {
+          "letra": "B",
+          "texto": "confusão de identidade"
+        },
+        {
+          "letra": "C",
+          "texto": "presunção de inocência"
+        },
+        {
+          "letra": "D",
+          "texto": "acusação de autoridades"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "CRÔNICA “SEBO”\nEm algumas passagens da crônica, o narrador explicita que a história contada por ele é ficcional.\nUma dessas passagens está apresentada em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ele sorriu, mas apenas com a boca. Perguntou se podia entrar. Pedi para ele esperar até que eu desengatasse as sete trancas da porta."
+        },
+        {
+          "letra": "B",
+          "texto": "Dezesseis vítimas até então. Se soubesse que seria a décima sétima eu não teria me apressado tanto com as correntes."
+        },
+        {
+          "letra": "C",
+          "texto": "Quinhentos exemplares. Sua mãe comprara trinta e morrera antes de distribuir aos parentes."
+        },
+        {
+          "letra": "D",
+          "texto": "No livro tinha um cacófato horrível. Ele não podia suportar a ideia de descobrirem seu cacófato."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Teoria da Literatura",
+        "Língua Portuguesa – Narratologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "CRÔNICA “TRAPEZISTA”\nQuerida, eu juro que não era eu. Que coisa ridícula! Se você estivesse aqui – Alô? Alô? – olha, se você estivesse aqui ia ver a minha cara, inocente como o Diabo. O quê? Mas como, ironia? “Como o Diabo” é força de expressão, que diabo. Você acha que eu ia brincar numa hora desta? Alô! Eu juro, pelo que há de mais sagrado, pelo túmulo de minha mãe, pela nossa conta no banco, pela cabeça dos nossos filhos, que não era eu naquela foto de Carnaval no Cascalho que saiu na Folha da Manhã.\nNa discussão retratada na crônica, o personagem masculino demonstra um comportamento machista em relação à mulher.\nEsse comportamento se baseia numa atitude de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "desqualificação de evidência"
+        },
+        {
+          "letra": "B",
+          "texto": "anulação de responsabilidade"
+        },
+        {
+          "letra": "C",
+          "texto": "simulação de concordância"
+        },
+        {
+          "letra": "D",
+          "texto": "convicção de infidelidade"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Sociologia – Relações de Gênero"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "CRÔNICA “BLEFES”\nNa crônica, o autor expõe seu ponto de vista sobre o “blefe”, tipo de mentira observado tanto no jogo quanto na política.\nNessa exposição, um uso explícito de contra-argumentação está contido no seguinte trecho:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Não é uma questão de caráter. O blefe é um lance tão legítimo quanto qualquer outro no pôquer."
+        },
+        {
+          "letra": "B",
+          "texto": "Há quem diga que ganhar com um blefe supera ganhar com boas cartas"
+        },
+        {
+          "letra": "C",
+          "texto": "O golpe de 64 foi um blefe para quem acreditou nele. Um blefe involuntário."
+        },
+        {
+          "letra": "D",
+          "texto": "Collor foi um blefe deliberado que manteve a versão política do poker face"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Argumentação"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "CRÔNICA “A ALIANÇA”\nA cena principal da crônica se desenvolve a partir da perda acidental da aliança de casamento pelo marido, que começa a supor a reação de sua esposa, caso ele lhe contasse a verdade sobre essa situação.\nO desfecho da narrativa é surpreendente pela seguinte reação da esposa à falsa explicação dada pelo marido:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "dúvida persistente"
+        },
+        {
+          "letra": "B",
+          "texto": "indiferença habitual"
+        },
+        {
+          "letra": "C",
+          "texto": "aceitação resignada"
+        },
+        {
+          "letra": "D",
+          "texto": "rejeição contundente"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Literatura"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "CRÔNICA “A MENTIRA”\nNesta crônica, João e Maria mentem para um casal de amigos, Luíza e Pedro. A mentira que eles contam tem uma característica comum a muitas outras.\nTal característica pode ser sintetizada pelo seguinte dito popular:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a mentira é sempre derrotada"
+        },
+        {
+          "letra": "B",
+          "texto": "a mentira é o tempero da verdade"
+        },
+        {
+          "letra": "C",
+          "texto": "a mentira é como uma bola de neve"
+        },
+        {
+          "letra": "D",
+          "texto": "a mentira é o degrau de todos os vícios"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Intertextualidade",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "CRÔNICA “O JARGÃO”\nNenhuma figura é tão fascinante quanto o Falso Entendido. É o cara que não sabe nada de nada mas sabe o jargão. E passa por autoridade no assunto. Um refinamento ainda maior da espécie é o tipo que não sabe nem o jargão. Mas inventa.\nO jargão pode ser definido como uma linguagem técnica comum a determinado grupo.\nNo comentário citado, o autor menciona outro uso do jargão que, em relação ao interlocutor, tem a finalidade de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "expor"
+        },
+        {
+          "letra": "B",
+          "texto": "insultar"
+        },
+        {
+          "letra": "C",
+          "texto": "satisfazer"
+        },
+        {
+          "letra": "D",
+          "texto": "persuadir"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Variação Linguística",
+        "Língua Portuguesa – Funções da Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "CRÔNICA “HOMEM QUE É HOMEM”\nHomem que é Homem [HQEH] não usa camiseta sem manga, a não ser para jogar basquete. Homem que é Homem não gosta de canapés, de cebolinhas em conserva ou de qualquer outra coisa que leve menos de trinta segundos para mastigar e engolir. (...) E o HQEH tem razão. Confesse, você está com ele. Você não quer que pensem que você é um primitivo, um retrógrado e um machista, mas lá no fundo você torce pelo HQEH. (...) HQEH acha que ainda há tempo de salvar o Brasil e já conseguiu a adesão de todos os Homens que são Homens que restam no país para uma campanha de regeneração do macho brasileiro.\nNa crônica, a expressão “Homem que é Homem” é definida sobretudo por meio do seguinte aspecto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "atributos físicos"
+        },
+        {
+          "letra": "B",
+          "texto": "traços de gênero"
+        },
+        {
+          "letra": "C",
+          "texto": "mensagens nacionalistas"
+        },
+        {
+          "letra": "D",
+          "texto": "atitudes de convencimento"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Sociologia – Estudos de Gênero"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "CRÔNICA “ESPELHOS”\nNão, não procure consolo no espelho tradicional, esse instrumento diabólico que há séculos destrói todas as nossas fantasias. Nossa esperança é a tecnologia: cedo ou tarde inventarão o espelho digital. Ele não refletirá a imagem, simplesmente. A captará e a transformará em impulsos eletrônicos que podem ser manipulados pelo usuário. No painel do espelho digital haverá duas teclas: “A Verdade” e “Escolha Você Mesmo”.\nCom base na situação apresentada, o enunciado “Escolha Você Mesmo” é um exemplo da seguinte figura de linguagem:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "antítese"
+        },
+        {
+          "letra": "B",
+          "texto": "hipérbole"
+        },
+        {
+          "letra": "C",
+          "texto": "eufemismo"
+        },
+        {
+          "letra": "D",
+          "texto": "personificação"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "CRÔNICA “A VERDADE”\nUma donzela estava um dia sentada à beira de um riacho, deixando a água do riacho passar por entre os seus dedos muito brancos, quando sentiu o seu anel de diamante ser levado pelas águas. Temendo o castigo do pai, a donzela contou em casa que fora assaltada por um homem no bosque e que ele arrancara o anel de diamante do seu dedo e a deixara desfalecida sobre um canteiro de margaridas.\nA donzela, personagem da crônica, diz que foi deixada “sobre um canteiro de margaridas”.\nApesar de sua aparente irrelevância, a inserção desse detalhe é importante para a história que ela conta, porque tem a função de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ocultar narrador"
+        },
+        {
+          "letra": "B",
+          "texto": "provocar catarse"
+        },
+        {
+          "letra": "C",
+          "texto": "delimitar enredo"
+        },
+        {
+          "letra": "D",
+          "texto": "reforçar verossimilhança"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Narratologia",
+        "Língua Portuguesa – Teoria da Literatura"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Antes de morrer, a donzela disse para o pescador:\n– A sua mentira era maior que a minha. Eles mataram pela minha mentira e vão matar pela sua. Onde está, afinal, a verdade?\nO pescador deu de ombros e disse:\n– A verdade é que eu achei o anel na barriga de um peixe. Mas quem acreditaria nisso? O pessoal quer violência e sexo, não história de pescador.\nNo diálogo entre os personagens, ao final da crônica, conclui-se que houve omissão da verdade.\nO pescador justifica essa omissão pelo seguinte motivo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "estilo do autor"
+        },
+        {
+          "letra": "B",
+          "texto": "destaque do fato"
+        },
+        {
+          "letra": "C",
+          "texto": "expectativa do receptor"
+        },
+        {
+          "letra": "D",
+          "texto": "organização da mensagem"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Análise do Discurso",
+        "Língua Portuguesa – Funções da Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "CRÔNICA “A VERDADE SOBRE O DIA PRIMEIRO DE ABRIL”\nO ano nem sempre foi como nós o conhecemos agora. Por exemplo: no antigo calendário romano, abril era o segundo mês do ano. E na França, até meados do século XVI, abril era o primeiro mês. Como havia o hábito de dar presentes no começo de cada ano, o primeiro dia de abril era, para os franceses da época, o que o Natal é para nós hoje, um dia de alegrias, salvo para quem ganhava meias ou uma água-de-colônia barata. Com a introdução do calendário gregoriano, em 1564, primeiro de janeiro passou a ser o primeiro dia do ano e, portanto, o dia dos presentes. E primeiro de abril passou a ser um falso Natal – o dia de não se ganhar mais nada. Por extensão, o dia de ser iludido. Por extensão, o Dia da Mentira.\nNesta crônica, o autor apresenta informações acerca do dia primeiro de abril como dia da mentira, induzindo o leitor, inicialmente, a acreditar que são verdadeiras.\nNesse caso, uma postura crítica do leitor envolve a identificação do seguinte problema de argumentação presente no trecho:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "alusão a fatos históricos sem fonte legitimada"
+        },
+        {
+          "letra": "B",
+          "texto": "uso de raciocínios dedutivos sem premissas válidas"
+        },
+        {
+          "letra": "C",
+          "texto": "menção a práticas culturais sem reconhecimento oficial"
+        },
+        {
+          "letra": "D",
+          "texto": "citação de dados comparativos sem contextualização suficiente"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Argumentação",
+        "Língua Portuguesa – Tipologia Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "The main topic developed throughout the article can be summarized as:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fear in animal-man relationship"
+        },
+        {
+          "letra": "B",
+          "texto": "human beings' control over animals"
+        },
+        {
+          "letra": "C",
+          "texto": "mother nature's power over animals"
+        },
+        {
+          "letra": "D",
+          "texto": "balance in nature-animal relationship"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "But are we actually more scared of them than they are of us? And do we perhaps have reason to be? (l. 3)\nIn relation to the second paragraph (l. 4-6), the fragment above fullfills the function below:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "detail theme"
+        },
+        {
+          "letra": "B",
+          "texto": "signal exception"
+        },
+        {
+          "letra": "C",
+          "texto": "present hypothesis"
+        },
+        {
+          "letra": "D",
+          "texto": "conclude argument"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto",
+        "Inglês – Análise do Discurso"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "According to the third paragraph (l. 7-13), a study was conducted about the impact of the perception of the human presence on predators.\nThe objective of this study was to determine the following aspect of this impact:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "existence"
+        },
+        {
+          "letra": "B",
+          "texto": "intensity"
+        },
+        {
+          "letra": "C",
+          "texto": "linearity"
+        },
+        {
+          "letra": "D",
+          "texto": "origin"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "But although wild animals will choose to run away most of the time, rather than standing against or going after us, this is not always the case. (l. 25-26)\nThe underlined pronoun refers to the following action:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "kill"
+        },
+        {
+          "letra": "B",
+          "texto": "hide"
+        },
+        {
+          "letra": "C",
+          "texto": "attack"
+        },
+        {
+          "letra": "D",
+          "texto": "escape"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Referência Pronominal"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "We might be the mighty super predator, but ultimately we are no match for Mother Nature when she chooses to fight back. (l. 29-30)\nThe underlined word is similar in meaning to:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as a rule"
+        },
+        {
+          "letra": "B",
+          "texto": "of course"
+        },
+        {
+          "letra": "C",
+          "texto": "in general"
+        },
+        {
+          "letra": "D",
+          "texto": "in the end"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Das dez avaliações aplicadas em um curso, um aluno, por motivos de saúde, faltou à nona e à décima. O professor decidiu então substituir a ausência de cada nota pela moda x das oito primeiras avaliações, conforme registrado a seguir.\nA média aritmética final desse aluno foi:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5,8"
+        },
+        {
+          "letra": "B",
+          "texto": "6,3"
+        },
+        {
+          "letra": "C",
+          "texto": "6,8"
+        },
+        {
+          "letra": "D",
+          "texto": "7,3"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Estatística"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Na compra de um eletrodoméstico, uma pessoa pagou o total de R$ 1.000,00 da seguinte forma: uma entrada de 10% desse valor total e o restante em cinco parcelas mensais. As cinco parcelas formaram uma progressão aritmética crescente de razão igual a R$ 40,00.\nO valor, em reais, da última parcela paga foi:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "200"
+        },
+        {
+          "letra": "B",
+          "texto": "230"
+        },
+        {
+          "letra": "C",
+          "texto": "260"
+        },
+        {
+          "letra": "D",
+          "texto": "290"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Progressão Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Observe a seguir a imagem de uma pirâmide quadrangular regular e a planificação de sua superfície total. Na planificação, o ponto A representa um vértice de uma face lateral e o ponto B o centro da base, sendo $\\overline{AB} = 16 \\text{ cm}$.\n\nSe a aresta da base dessa pirâmide mede 12 cm, seu volume, em $\\text{cm}^3$, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "384"
+        },
+        {
+          "letra": "B",
+          "texto": "376"
+        },
+        {
+          "letra": "C",
+          "texto": "364"
+        },
+        {
+          "letra": "D",
+          "texto": "356"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "A figura a seguir ilustra o deslocamento de uma partícula pelo percurso FGHI, partindo de F, sobre os arcos e sobre a reta, conforme a indicação abaixo.\nObserve:\n• $CD = r$ e $CE = 2r$;\n• $\\angle DCI = 30^{\\circ}$ e $\\angle ECF = 60^{\\circ}$;\n• as retas DE e HG são perpendiculares no ponto C;\n• os arcos de circunferência $\\widehat{DIH}$ e $\\widehat{EFG}$ possuem centro C.\nO comprimento total do percurso FGHI, feito pela partícula, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{2\\pi r}{3} + r$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{2\\pi r}{3} + 2r$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{\\pi r}{3} + 2r$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{\\pi r}{3} + r$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "A função quadrática f, definida por $f(x) = -\\frac{3}{2}x^2 + 6x + 4$, sendo x um número real, é representada graficamente pela seguinte parábola:\n\nNa parábola, o ponto P, que representa a interseção com o eixo das ordenadas, e o ponto Q formam o segmento PQ, paralelo ao eixo das abscissas.\nA distância entre os pontos P e Q mede:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{9}{2}$"
+        },
+        {
+          "letra": "B",
+          "texto": "4"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{7}{2}$"
+        },
+        {
+          "letra": "D",
+          "texto": "3"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Função Quadrática"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Em uma confeitaria recém-inaugurada, o preço de custo de uma barra de chocolate é de R$ 2,00 e o preço de venda, de cada barra, é de x reais, sendo x um número inteiro. Estima-se que (20 – x) barras serão vendidas por dia.\nDe acordo com essa estimativa, o lucro diário da venda dessas barras de chocolate, com o preço unitário de x reais, será igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$-x^2 + 18x - 32$"
+        },
+        {
+          "letra": "B",
+          "texto": "$-x^2 - 18x + 40$"
+        },
+        {
+          "letra": "C",
+          "texto": "$-x^2 - 22x + 32$"
+        },
+        {
+          "letra": "D",
+          "texto": "$-x^2 + 22x - 40$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Função Quadrática"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Para construir um alvo de dardos como o da figura 1, foram traçados dois círculos de centro D, um de raio r e outro de raio 2r, conforme ilustra a figura 2. Duas regiões são observadas no alvo: I, definida pelo círculo menor; II, a da coroa circular.\n\nConsidere que um dardo lançado por uma pessoa sempre atinge o alvo em qualquer ponto das regiões I ou II, sendo a probabilidade de acertar cada região diretamente proporcional à sua respectiva área.\nAssim, ao lançar um dardo, a probabilidade de essa pessoa acertar a região II é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{5}{6}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{2}{3}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{3}{4}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{1}{2}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Probabilidade",
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "A tabela de classificação periódica dos elementos, elaborada por Dimitri Mendeleiev (1834-1907), reúne informações sobre os diferentes elementos químicos.\nEm homenagem a esse cientista, o elemento químico de número atômico 101 foi nomeado como mendelévio, sendo representado pelo seguinte símbolo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Md"
+        },
+        {
+          "letra": "B",
+          "texto": "Mn"
+        },
+        {
+          "letra": "C",
+          "texto": "Mo"
+        },
+        {
+          "letra": "D",
+          "texto": "Mt"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Tabela Periódica"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "A creatina é uma molécula orgânica que age no tecido muscular, favorecendo o desempenho de atividades físicas.\nEssa ação da creatina no músculo decorre da disponibilidade de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "lactato"
+        },
+        {
+          "letra": "B",
+          "texto": "fosfato"
+        },
+        {
+          "letra": "C",
+          "texto": "mioglobina"
+        },
+        {
+          "letra": "D",
+          "texto": "hemoglobina"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Bioquímica",
+        "Biologia – Fisiologia Humana"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "A atividade humana provoca diversos impactos ambientais, dentre eles a redução da camada de ozônio, associada à extinção de várias espécies de anfíbios.\nA característica de todos os anfíbios adultos que os torna particularmente sensíveis a essa alteração atmosférica é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "circulação dupla"
+        },
+        {
+          "letra": "B",
+          "texto": "digestão simples"
+        },
+        {
+          "letra": "C",
+          "texto": "respiração cutânea"
+        },
+        {
+          "letra": "D",
+          "texto": "excreção ureotélica"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Zoologia",
+        "Biologia – Fisiologia Comparada"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Considere o gráfico abaixo, que representa a variação da corrente elétrica i, em ampères, em função do tempo t, em segundos, observada nos condutores X e Y.\n\nSabe-se que $Q_X$ e $Q_Y$ correspondem aos valores da carga elétrica que passa por uma seção transversal de cada condutor.\nQuando t = 5 s, o módulo da diferença entre $Q_X$ e $Q_Y$, em coulombs, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "22"
+        },
+        {
+          "letra": "B",
+          "texto": "20"
+        },
+        {
+          "letra": "C",
+          "texto": "18"
+        },
+        {
+          "letra": "D",
+          "texto": "16"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Eletrodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Segundo pesquisas recentes, algumas células da epiderme de larvas de peixes-zebra são capazes de se dividir rapidamente sem que haja duplicação do material genético. Essa ausência de duplicação resulta na redução do genoma de várias células novas e é explicada por uma modificação em uma das fases do ciclo celular.\nEssa fase é denominada:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "metáfase"
+        },
+        {
+          "letra": "B",
+          "texto": "intérfase"
+        },
+        {
+          "letra": "C",
+          "texto": "anáfase"
+        },
+        {
+          "letra": "D",
+          "texto": "prófase"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Citologia",
+        "Biologia – Ciclo Celular"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Observe, no gráfico a seguir, a relação entre a massa m de um corpo e a aceleração a que nele atua:\n\nNo gráfico, a área abaixo da curva representa a seguinte grandeza física:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "velocidade"
+        },
+        {
+          "letra": "B",
+          "texto": "trabalho"
+        },
+        {
+          "letra": "C",
+          "texto": "impulso"
+        },
+        {
+          "letra": "D",
+          "texto": "força"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Dinâmica",
+        "Física – Análise Gráfica"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Um dos animais de maior massa já identificado no planeta Terra é a baleia azul. Admita que uma baleia dessa espécie tenha massa de 90 toneladas e volume de $86,5 \\text{ m}^3$.\nA densidade dessa baleia, em $\\text{g/cm}^3$, é aproximadamente de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,36"
+        },
+        {
+          "letra": "B",
+          "texto": "1,04"
+        },
+        {
+          "letra": "C",
+          "texto": "0,95"
+        },
+        {
+          "letra": "D",
+          "texto": "0,88"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Densidade",
+        "Física – Conversão de Unidades"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "A cada batimento, o coração humano bombeia cerca de 85 g de sangue. Admita que a velocidade de saída do sangue bombeado pelo coração seja de 0,4 m/s.\nA quantidade de movimento do sangue, em $\\text{kg} \\cdot \\text{m/s}$, produzida pelo coração em um batimento, corresponde aproximadamente a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,064"
+        },
+        {
+          "letra": "B",
+          "texto": "0,048"
+        },
+        {
+          "letra": "C",
+          "texto": "0,034"
+        },
+        {
+          "letra": "D",
+          "texto": "0,018"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Quantidade de Movimento"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Para atrair indivíduos do sexo oposto, as fêmeas da mosca doméstica exalam um feromônio, cuja molécula é representada pela fórmula estrutural espacial a seguir.\n\nNessa molécula, observa-se a presença de isomeria espacial associada à insaturação entre dois carbonos.\nO isômero observado e as posições dos carbonos insaturados, na cadeia carbônica, estão indicados em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cis – 9 e 10"
+        },
+        {
+          "letra": "B",
+          "texto": "cis – 14 e 15"
+        },
+        {
+          "letra": "C",
+          "texto": "trans – 9 e 10"
+        },
+        {
+          "letra": "D",
+          "texto": "trans – 14 e 15"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Isomeria Geométrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "O Citrus x latifolia, fruto popularmente conhecido como limão-taiti, é uma espécie triploide que, na maior parte dos casos, não possui sementes. Trata-se de um híbrido natural, oriundo do cruzamento de duas espécies distintas.\n\nA ausência de sementes no limão-taiti é explicada, principalmente, por dificuldades na realização do seguinte processo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reprodução assexuada por brotamento"
+        },
+        {
+          "letra": "B",
+          "texto": "desenvolvimento hipertrófico do ovário"
+        },
+        {
+          "letra": "C",
+          "texto": "formação acelerada do endosperma diploide"
+        },
+        {
+          "letra": "D",
+          "texto": "pareamento adequado de cromossomos homólogos"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Genética",
+        "Biologia – Botânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Em um laboratório, com sistema fechado sob condições isobáricas, realizou-se o estudo da seguinte reação química:\n$3O_2(g) \\rightleftharpoons 2O_3(g)$\nAo longo do estudo, foram monitorados cinco parâmetros: volume, massa, pressão, quantidade de átomos e número de moléculas. Observe no gráfico a variação do volume em função do tempo:\n\nA variação do volume registrada decorre da redução do seguinte parâmetro monitorado:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "massa"
+        },
+        {
+          "letra": "B",
+          "texto": "pressão"
+        },
+        {
+          "letra": "C",
+          "texto": "quantidade de átomos"
+        },
+        {
+          "letra": "D",
+          "texto": "número de moléculas"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Cinética Química",
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Recentemente, a prefeitura de Maceió-AL decretou situação de emergência diante do iminente colapso em uma das minas de sal-gema do município. A exploração dessas minas envolve a escavação de poços até a camada de sal, que pode estar a mais de mil metros de profundidade. Então, injeta-se água para dissolver o sal-gema e formar uma solução saturada, que será trazida, por pressão, até a superfície.\nAdaptado de agenciabrasil.ebc.com.br, 03/12/2023.\nSabe-se que o principal componente do sal-gema é o cloreto de sódio, cuja solubilidade em água é de 36 g de $NaCl$ por 100 g de $H_2O$, à temperatura de $20^{\\circ}\\text{C}$.\nA essa mesma temperatura, a quantidade de matéria, em mols, de cloreto de sódio dissolvido em 2000 kg de água, formando uma solução saturada, corresponde aproximadamente a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12300"
+        },
+        {
+          "letra": "B",
+          "texto": "24600"
+        },
+        {
+          "letra": "C",
+          "texto": "36900"
+        },
+        {
+          "letra": "D",
+          "texto": "61500"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Soluções",
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Nelson Sargento – um compositor que pinta\nNelson Sargento (1924-2021), nome artístico de Nelson Mattos, foi compositor, cantor, pesquisador, artista plástico, ator e escritor. Morou no Morro da Mangueira, no Rio de Janeiro, desde os 12 anos. Notabilizou-se como um dos mais importantes sambistas da Estação Primeira de Mangueira, onde integrou e presidiu a Ala de Compositores, além de ter sido presidente de honra da escola. Ao contrário da arte musical que, segundo ele, fez parte de sua infância, a pintura aconteceu mais tarde: \"Comecei a pintar em 1973, utilizando um apanhado de massa plástica (que usava como pintor de parede), em cima de um caixote. Assim nasceu meu primeiro trabalho. Hoje, já tenho cerca de 300 obras espalhadas, principalmente entre meus amigos. Porém, faço questão de afirmar que sou um compositor que pinta, pois o meu reconhecimento como compositor está ajudando na divulgação de minha pintura\".\nMARCELO OLIVEIRA\nAdaptado de memoriaverderosa.com.br, 06/04/2023.\nVárias criações artísticas de Nelson Sargento fazem referência a patrimônios históricos da cidade do Rio de Janeiro.\nA pintura de sua autoria, acima reproduzida, enfatiza o seguinte aspecto desses patrimônios:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "caracterização de hierarquias sociais"
+        },
+        {
+          "letra": "B",
+          "texto": "existência de segregações territoriais"
+        },
+        {
+          "letra": "C",
+          "texto": "valorização de culturas afro-brasileiras"
+        },
+        {
+          "letra": "D",
+          "texto": "registro de manifestações tradicionalistas"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Arte – Arte Brasileira",
+        "História – Cultura Afro-Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "O documento cartográfico abaixo surgiu e se disseminou na época do III Reich alemão (1933-1945). A tradução de seu título é: “A raça nórdica e os germânicos como difusores de cultura”.\n\nConsiderando o contexto histórico da época, a disseminação do documento permite identificar o uso da cartografia com a seguinte finalidade principal:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "assegurar associação política"
+        },
+        {
+          "letra": "B",
+          "texto": "exercer regulação econômica"
+        },
+        {
+          "letra": "C",
+          "texto": "estabelecer liderança científica"
+        },
+        {
+          "letra": "D",
+          "texto": "fomentar propaganda ideológica"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Nazifascismo",
+        "Geografia – Cartografia Temática"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "A verdadeira história de “Peter Chicoteado”\nO filme Emancipation – uma história de liberdade conta a história real de “Peter Chicoteado” e sua jornada da escravidão ao Exército. Esse escravizado fugitivo posou de forma desafiadora para um retrato em 1863.\nNo auge da Guerra Civil dos Estados Unidos, a fotografia revelou a verdade inegável. Mostrava que “estas eram pessoas reais com experiências reais (...) – a história desse homem que entende que a Guerra Civil é uma oportunidade de literalmente tomar posse de seu corpo e de sua vida”, diz Barbara Krauthamer, historiadora da escravidão e emancipação dos E.U.A.\nO ator Will Smith, que protagonizou Gordon/”Peter Chicoteado”, disse a jornalistas no lançamento do filme: “Este não é outro filme de escravizados. Este é um filme de liberdade. Acho que é uma história que todos nós precisamos ver, ouvir e sentir.”\nCHELSEA BAILEY\nAdaptado de bbc.com, 13/12/2022.\nNos E.U.A., o fim da escravidão ocorreu no contexto da Guerra Civil (1861-1865). O filme Emancipation apresenta uma abordagem diferenciada dessa guerra por trazer como protagonista o homem retratado na fotografia.\nA história de “Peter Chicoteado” revela que a crise da escravidão nos E.U.A. esteve associada, dentre outros fatores, à denúncia da:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "naturalização da violência"
+        },
+        {
+          "letra": "B",
+          "texto": "precarização da imigração"
+        },
+        {
+          "letra": "C",
+          "texto": "propagação do republicanismo"
+        },
+        {
+          "letra": "D",
+          "texto": "desestruturação da agroexportação"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Escravidão nos EUA",
+        "História – Guerra Civil Americana"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Em 13 de dezembro de 1968, o governo militar brasileiro decretou o Ato Institucional nº 5. A notícia circulou no dia seguinte nos principais meios de comunicação do país.\nNos trechos destacados acima, da primeira página da edição do Jornal do Brasil que noticiou o fato, são identificados os seguintes aspectos daquela conjuntura política:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "consolidação da ordem autoritária – ampliação da censura"
+        },
+        {
+          "letra": "B",
+          "texto": "regulação do equilíbrio democrático – garantia da revolução"
+        },
+        {
+          "letra": "C",
+          "texto": "manutenção do preceito constitucional – defesa da legislatura"
+        },
+        {
+          "letra": "D",
+          "texto": "reestruturação da jurisprudência criminal – limitação do estatismo"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Ditadura Militar no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "EXPANSÃO DA AGLOMERAÇÃO URBANA DE BUENOS AIRES\n\nNa sequência de imagens, registra-se o seguinte processo socioespacial:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "colonização"
+        },
+        {
+          "letra": "B",
+          "texto": "verticalização"
+        },
+        {
+          "letra": "C",
+          "texto": "industrialização"
+        },
+        {
+          "letra": "D",
+          "texto": "metropolização"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Urbanização"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Sou uma preta (Kojo)\nSegundo meus professores,\nAgora sou uma afro-americana\nEles me tiram do meu nome.\nPRETA é um guarda-chuva aberto.\nSou uma Preta e Uma Preta para sempre.\nSou uma dos Pretos.\nEstamos aqui, estamos lá.\nAcontecemos no Brasil, na Nigéria, Gana,\nem Botsuana, Tanzânia, no Quênia,\nna Rússia, Austrália, no Haiti e Soweto,\nem Granada, em Cuba, no Panamá, Líbia\nna Inglaterra e Itália, França.\n(...)\nSou Kojo. No oeste da África, Kojo\nsignifica inconquistável. Meus pais\nme deram um nome no meu sétimo dia de vida\nNo espírito Preto, na fé Preta, na comunhão Preta.\nSou kojo. Sou Uma Preta.\nE capitalizo meu nome.\nNão me tirem o meu nome.\nGWENDOLYN BROOKS\nPRATES, Lubi (Org.). Você lembrará seus nomes: uma antologia de poetas negras dos Estados Unidos no século XX. Tradução de Maria C. Santos. Rio de Janeiro: Bazar do Tempo, 2023.\nGwendolyn Brooks (1917-2000) foi poeta, escritora e ativista dos direitos civis nos E.U.A. Em 1968, participou de ações de protesto por ocasião do assassinato de Martin Luther King. Em seu poema, ela critica a designação “afro-americana”, que recebe de professores.\nEssa crítica se baseia no reconhecimento da seguinte característica de sua identidade:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "nacionalidade"
+        },
+        {
+          "letra": "B",
+          "texto": "ancestralidade"
+        },
+        {
+          "letra": "C",
+          "texto": "territorialidade"
+        },
+        {
+          "letra": "D",
+          "texto": "multiculturalidade"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Sociologia – Identidade Cultural",
+        "Sociologia – Movimentos Sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "De fevereiro a abril de 2023, a mostra The Art Of Banksy: “Without Limits” (A arte de Banksy: “sem limites”) reuniu 150 obras de Banksy, com ingressos entre R$ 45 e R$ 130. Um dos ícones da arte de rua, Banksy é famoso por levantar questões com alto teor de crítica social, o que levou o artista brasileiro NEGRO M.I.A. a fazer uma intervenção durante o pré-lançamento da exposição.\n“Foi um manifesto para o mercado da arte compreender o que estão fazendo com a arte de rua. É muito grave. Estão transformando em produto e a arte de rua não é isso”, declarou NEGRO M.I.A., que pichou em cima de uma réplica de Swept It Under The Carpet (Varrido para baixo do tapete) a frase “Distanciamento social sempre existiu Bem vindos ao Brazil” para denunciar a contradição. E acrescentou: “É isso que querem esconder debaixo do tapete. (...) Porque uma exposição do Banksy, num dos shoppings mais caros de São Paulo, é muita contradição. E cobram a entrada num preço absurdo”.\nTHYAGO FURTADO\nAdaptado de vogue.globo.com, 06/02/2023.\nPara além da denúncia à mercantilização da arte de rua, a intervenção de NEGRO M.I.A. aponta para outra possível crítica.\nObservando suas declarações e a frase de intervenção junto à imagem de Banksy, conclui-se que essa crítica também está direcionada ao seguinte processo social marcante no Brasil:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "autoritarismo político"
+        },
+        {
+          "letra": "B",
+          "texto": "informalidade laboral"
+        },
+        {
+          "letra": "C",
+          "texto": "segregação urbana"
+        },
+        {
+          "letra": "D",
+          "texto": "assimilação cultural"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Sociologia – Desigualdade Social",
+        "Geografia – Segregação Socioespacial",
+        "Arte – Arte Urbana"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "O Complexo do Alemão é um dos bairros mais jovens do Rio de Janeiro. Localizado na zona da Leopoldina, foi instituído em 1993. Com uma população de cerca de 180 mil habitantes, o bairro, hoje, é formado por um conjunto de comunidades, incluindo o Morro do Alemão, que emprestou seu nome ao complexo.\nO Complexo tornou-se conhecido como um dos mais violentos da cidade. Foi alvo de uma das iniciativas do Programa de Aceleração do Crescimento (PAC), uma parceria entre o governo federal e o governo do estado do Rio de Janeiro, em que foram previstas melhorias de infraestrutura em geral, de modo a livrar o bairro e seus arredores da violência. Algumas chegaram a sair do papel, como o teleférico, e outras foram engavetadas.\nAdaptado de wikifavelas.com.br.\nA história do Complexo do Alemão se insere no processo de expansão da cidade do Rio de Janeiro, nos últimos setenta anos.\nNesse período, duas características desse processo foram:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "limitação de ações sanitárias – racionalização de projetos imobiliários"
+        },
+        {
+          "letra": "B",
+          "texto": "integração de áreas suburbanas – distribuição de atividades industriais"
+        },
+        {
+          "letra": "C",
+          "texto": "precarização de moradias populares – inadequação de políticas públicas"
+        },
+        {
+          "letra": "D",
+          "texto": "ocupação de reservas ambientais – suspensão de transportes ferroviários"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Urbanização Brasileira",
+        "Sociologia – Questão da Habitação"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "ANTROPOCENO - TEMPORADA FINAL\n\nLAERTE\nFolha de S. Paulo, 16/11/2023.\nNa charge de Laerte, evidencia-se um ponto de vista acerca do período geológico denominado Antropoceno.\nDe acordo com esse ponto de vista, o período é marcado pelo seguinte fator:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "progresso da indústria de automóveis"
+        },
+        {
+          "letra": "B",
+          "texto": "autodestruição da espécie humana"
+        },
+        {
+          "letra": "C",
+          "texto": "desertificação de recurso natural"
+        },
+        {
+          "letra": "D",
+          "texto": "equilíbrio de consumo de bens"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Questões Ambientais",
+        "Filosofia – Antropoceno"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "As duas imagens a seguir fazem uma crítica a práticas econômicas de grandes corporações. A primeira, de 1904, representa a empresa petrolífera Standard Oil, a maior do setor nos E.U.A. à época. A segunda, de 2018, refere-se a empresas do setor de alta tecnologia do mesmo país.\n\nCom base nas imagens e considerando as características históricas do capitalismo em cada um desses recortes temporais, identifica-se a seguinte diferença entre as práticas das grandes corporações nos dois momentos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "escala espacial de atuação"
+        },
+        {
+          "letra": "B",
+          "texto": "princípios morais de governança"
+        },
+        {
+          "letra": "C",
+          "texto": "níveis almejados de crescimento"
+        },
+        {
+          "letra": "D",
+          "texto": "margem percentual de lucratividade"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Capitalismo",
+        "Geografia – Globalização"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Constituição politica do Imperio do Brazil\n(de 25 de março de 1824)\nTITULO 5º\nDo Imperador\nCAPITULO I\nDo Poder Moderador\nArt. 98. O Poder Moderador é a chave de toda a organisação Politica, e é delegado privativamente ao Imperador, como Chefe Supremo da Nação, e seu Primeiro Representante, para que incessantemente vele sobre a manutenção da Independencia, equilibrio, e harmonia dos mais Poderes Politicos.\nArt. 99. A Pessoa do Imperador é inviolavel, e Sagrada: Elle não está sujeito a responsabilidade alguma.\nArt. 100. Os seus Titulos são “Imperador Constitucional, e Defensor Perpetuo do Brazil” e tem o Tratamento de Magestade Imperial.\nArt. 101. O Imperador exerce o Poder Moderador\nI. Nomeando os Senadores,(...).\nII. Convocando a Assembléa Geral extraordinariamente nos intervallos das Sessões, quando assim o pede o bem do Imperio.\nIII. Sanccionando os Decretos, e Resoluções da Assembléa Geral, para que tenham força de Lei: (...).\nIV. Approvando, e suspendendo interinamente as Resoluções dos Conselhos Provinciaes: (...).\nV. Prorogando, ou adiando a Assembléa Geral, e dissolvendo a Camara dos Deputados, nos casos, em que o exigir a salvação do Estado; convocando immediatamente outra, que a substitua.\nVI. Nomeando, e demittindo livremente os Ministros de Estado.\nVII. Suspendendo os Magistrados (...).\nVIII. Perdoando, e moderando as penas impostas e os Réos condemnados por Sentença.\nIX. Concedendo Amnistia em caso urgente, e que assim aconselhem a humanidade, e bem do Estado.\nbd.camara.leg.br\nA primeira constituição brasileira, que completou seu bicentenário em 25 de março de 2024, foi alvo de muitas disputas relacionadas à organização de um Estado independente. Como se observa no texto, essa constituição instituiu o Poder Moderador.\nCom base nas atribuições descritas no texto, conclui-se que o Poder Moderador tinha por objetivo legitimar a seguinte prática política:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ressignificação de direitos civis"
+        },
+        {
+          "letra": "B",
+          "texto": "equiparação de preceitos liberais"
+        },
+        {
+          "letra": "C",
+          "texto": "consolidação de ações absolutistas"
+        },
+        {
+          "letra": "D",
+          "texto": "concentração de decisões governamentais"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Brasil Império"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "O território é um espaço definido por e através de relações de poder. É importante que saibamos despir o conceito de território do manto de imponência com o qual se encontra, em geral, adornado. A palavra território normalmente evoca o “território nacional” e faz pensar no Estado. O território pode ser entendido também à escala nacional e em associação com o Estado como grande gestor. No entanto, ele não deve ser reduzido a essa escala ou à associação com a figura do Estado. Territórios existem e são construídos (e desconstruídos) nas mais diversas escalas espaciais, da mais acanhada à internacional; territórios são construídos (e desconstruídos) dentro de escalas temporais as mais diferentes: séculos, décadas, anos, meses ou dias.\nAdaptado de SOUZA, Marcelo L. de. O território: sobre espaço e poder, autonomia e desenvolvimento. Em: CASTRO, Iná e outros (Orgs.). Geografia: conceitos e temas. Rio de Janeiro: Bertrand Brasil, 1995.\nCom base no contexto brasileiro, a imagem que exemplifica a aplicação do conceito de território, evitando sua redução à escala nacional é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Conceitos da Geografia",
+        "Geografia – Território"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "No mapa 1, estão destacadas todas as áreas metropolitanas dos Estados Unidos; já no mapa 2, destacam-se apenas áreas metropolitanas nas quais o transporte público para ir ao trabalho é utilizado por uma parcela superior a 5% da população metropolitana.\nA partir da comparação entre os mapas 1 e 2, ambos de 2021, infere-se que a maioria das áreas metropolitanas do país apresenta a seguinte característica socioespacial:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "elevada poluição atmosférica"
+        },
+        {
+          "letra": "B",
+          "texto": "reduzida movimentação pendular"
+        },
+        {
+          "letra": "C",
+          "texto": "acentuada verticalização comercial"
+        },
+        {
+          "letra": "D",
+          "texto": "moderada suburbanização residencial"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Urbanização",
+        "Geografia – Análise de Mapas"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "O noticiário político foi tomado por discussões sobre a taxação dos brasileiros com maior renda no país, os “super-ricos”. A proposta de tributação impactaria 2 500 brasileiros que, juntos, acumulam patrimônio de R$ 756,8 bilhões. No último dia 30 de agosto, o recém-lançado Observatório Brasileiro das Desigualdades trouxe um dado extremamente contrastante: cerca de 7,6 milhões de brasileiros vivem com uma renda domiciliar per capita mensal menor do que R$ 150.\nEm outro dado do Observatório, é possível conferir os abismos, a partir do maior e do menor indicador: uma mulher negra, no estado de Alagoas, está oito vezes mais em situação de insegurança alimentar que um homem branco, em Brasília. Além de serem anticonstitucionais, injustas e potencialmente mortais, as desigualdades encontradas no país colocam em risco a própria democracia.\nMARGARIDA GORECKI\nAdaptado de nexojornal.com.br, 11/09/2023.\nO contexto socioeconômico brasileiro apresentado na notícia é um obstáculo à concretização de um princípio dos sistemas democráticos.\nEsse princípio é denominado:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "garantia de elegibilidade"
+        },
+        {
+          "letra": "B",
+          "texto": "liberdade de expressão"
+        },
+        {
+          "letra": "C",
+          "texto": "limitação de poderes"
+        },
+        {
+          "letra": "D",
+          "texto": "isonomia de direitos"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Sociologia – Desigualdade Social",
+        "Sociologia – Cidadania e Democracia"
+      ]
+    }
+  ]
+}

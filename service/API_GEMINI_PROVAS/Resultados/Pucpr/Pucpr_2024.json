@@ -1,0 +1,1215 @@
+{
+  "nomeUniversidade": "Pontifícia Universidade Católica do Paraná",
+  "siglaUniversidade": "PUCPR",
+  "nomeProva": "Vestibular de Verão",
+  "ano": 2024,
+  "qtdeQuestoes": 40,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "O texto a seguir é base para responder às questões 1 e 2.\n\n**Origens, características e efeitos do 'cancelamento' são tema de entrevista no Conexões**\n\nIssaaf Karhawi, pesquisadora em comunicação digital na USP, falou sobre o tema, em programa da Rádio UFMG Educativa\n\nCultura do cancelamento foi eleito o termo do ano, em 2019, pelo dicionário australiano Macquarie. No ano passado, foram inúmeros os casos de artistas e personalidades públicas que foram canceladas. O alto número de cancelamentos tem levado influenciadores a se posicionarem contra o que chamam de \"cultura do cancelamento\". Uma das justificativas é de que ela não funciona como uma forma eficaz de controle social e, além disso, ainda potencializa a polarização das discussões e o linchamento virtual, comprometendo o debate de temas relevantes e necessários.\n[...]\n\n**Cultura do cancelamento**\nAcerca da expressão \"cultura do cancelamento\", a pesquisadora adota uma postura mais crítica. Para Karhawi, essa parece ser uma expressão que se adequou bem aos anseios da mídia tradicional. \"É uma forma de generalizar, de dizer que estamos todos nessa cultura, talvez uma forma até mais fácil de traduzir o fenômeno\", pontuou. No entanto, ela considera importante refletir, de forma mais ampla, uma vez que o próprio fenômeno do cancelamento é também amplo. Dessa forma, é preciso pensar também sobre as relações do fenômeno com a nossa própria cultura e com características do digital.\n\"O cancelamento é intransigente. É binário: ou a pessoa está certa, ou errada, não existe meio termo. Ou a pessoa é fada sensata ou ela é cancelada. Isso tem a ver com a nossa cultura e tem relação direta também com o digital, que é um lugar de polarização, um lugar binário. O temido algoritmo, por exemplo, é uma forma de organizar a informação das redes e funciona por um código matemático simples (10101), ou seja, binário, ou tudo ou nada. As redes sociais replicam isso: curtir ou não curtir, comentar ou não comentar. E a gente vai trazendo essas características do digital e do algoritmo para as nossas relações sociais. A gente replica quase como um espelho do código do algoritmo nas nossas redes sociais: ou você está certo ou está errado, e fim\", analisou.\n[...]\n\nDisponível em: <https://ufmg.br/comunicacao/noticias/origens-caracteristicas-e-efeitos-do-cancelamento-sao-tema-de-entrevista-no-conexoes>. Acesso em: 15 ago. 2023.\n\nEm relação ao posicionamento da pesquisadora entrevistada, é CORRETO afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "é necessária uma reflexão acerca da cultura do cancelamento a partir da análise desse fenômeno em determinada cultura e meio de propagação."
+        },
+        {
+          "letra": "B",
+          "texto": "a cultura do cancelamento é um fenômeno próprio dos meios digitais."
+        },
+        {
+          "letra": "C",
+          "texto": "a expressão \"cultura do cancelamento” foi criada para atender aos anseios das mídias tradicionais."
+        },
+        {
+          "letra": "D",
+          "texto": "é preciso um posicionamento de artistas e personalidades públicas contra a cultura do cancelamento."
+        },
+        {
+          "letra": "E",
+          "texto": "o algoritmo determina o que será aceito ou cancelado nos meios digitais."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Releia o trecho.\n\n\"O alto número de cancelamentos tem levado influenciadores a se posicionarem contra o que chamam de 'cultura do cancelamento'. Uma das justificativas é de que ela não funciona como uma forma eficaz de controle social e, **além disso**, ainda potencializa a polarização das discussões e o linchamento virtual, comprometendo o debate de temas relevantes e necessários\".\n\nNele, o operador argumentativo em destaque exerce a função de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "oposição."
+        },
+        {
+          "letra": "B",
+          "texto": "explicação."
+        },
+        {
+          "letra": "C",
+          "texto": "ressalva."
+        },
+        {
+          "letra": "D",
+          "texto": "adição."
+        },
+        {
+          "letra": "E",
+          "texto": "conclusão."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia (Conectivos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Leia a tira a seguir.\n\nLEITE, Willian. Tiras, feias. Willtirando, 5 ago. 2023. Disponível em: <http://www.willtirando.com.br/>. Acesso em: 15 ago. 2023.\n\nA partir da observação da expressão facial da personagem e da análise do balão presentes no último quadro, é possível afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a personagem está satisfeita com os resultados de suas ações."
+        },
+        {
+          "letra": "B",
+          "texto": "há um resultado totalmente oposto ao previsto pela personagem no quadro dois."
+        },
+        {
+          "letra": "C",
+          "texto": "a personagem apresenta contentamento com o resultado de suas decisões."
+        },
+        {
+          "letra": "D",
+          "texto": "a reação da personagem no último quadro da tira já é esperada pelo leitor."
+        },
+        {
+          "letra": "E",
+          "texto": "a personagem apresenta pensamentos em conflito com as suas decisões nos quadros anteriores."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Linguagem Verbal e Não Verbal",
+        "Língua Portuguesa – Gêneros Textuais (Tiras)"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Leia o texto a seguir e observe o emprego do vocábulo em destaque.\n\nO tempo seco afeta a nossa saúde de várias formas, e os bebês e idosos são os que mais sofrem. Com a secura, podem surgir problemas de saúde, como narinas e olhos ressecados, cansaço, dor de cabeça e alergias respiratórias.\n\nO desconforto é ainda maior para pessoas que já têm doenças respiratórias como asma, rinite alérgica ou bronquite crônica, que ficam **propensas** ao agravamento dos quadros.\n\nDisponível em: <https://g1.globo.com/bemestar/viva-voce/noticia/2021/08/23/fuligem-e-tempo-seco-dor-de-cabeca-e-agravamento-de-quadros-respiratorios-sao-consequencias-saiba-como-evitar.ghtml>. Acesso em: 15 ago. 2023.\n\nSelecione a alternativa que substitui o vocábulo em destaque sem modificação ou duplicidade de sentido.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "favoráveis."
+        },
+        {
+          "letra": "B",
+          "texto": "adeptas."
+        },
+        {
+          "letra": "C",
+          "texto": "sujeitas."
+        },
+        {
+          "letra": "D",
+          "texto": "dispostas."
+        },
+        {
+          "letra": "E",
+          "texto": "desfavoráveis."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Semântica (Sinonímia)"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Leia um trecho de texto publicado no jornal on-line CNN Brasil.\n\n**Relatório de projeto que regula direitos autorais não contempla artistas e ameaça avanço da discussão no Congresso**\nParecer do relator foi divulgado na noite deste sábado (12), quatro dias depois de uma reunião em que artistas e empresas de comunicação fecharam um acordo com o presidente da Câmara, Arthur Lira (PP-AL)\n\nThais Arbex e Tainá Farfanda, da CNN\nBrasília\n14/08/2023 às 04:00\n\nO relatório do projeto de lei (PL) sobre direitos autorais na internet não contemplou uma das principais demandas de artistas, ameaçando o avanço da discussão no Congresso.\nO relator do projeto é o deputado Elmar Nascimento (União-BA).\nO parecer de Nascimento foi divulgado na noite deste sábado (12), quatro dias depois de uma reunião em que artistas e empresas de comunicação fecharam um acordo com o presidente da Câmara, Arthur Lira (PP-AL).\n[...]\n\nDisponível em: <https://www.cnnbrasil.com.br/politica/relatorio-de-projeto-que-regula-direitos-autorais-nao-contempla-artistas-e-ameaca-avanco-da-discussao-no-congresso/>. Acesso em: 15 ago. 2023.\n\nLevando em consideração a estrutura textual, a temática abordada e o local de publicação, o texto em análise corresponde ao gênero",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "notícia."
+        },
+        {
+          "letra": "B",
+          "texto": "carta do leitor."
+        },
+        {
+          "letra": "C",
+          "texto": "resenha."
+        },
+        {
+          "letra": "D",
+          "texto": "editorial."
+        },
+        {
+          "letra": "E",
+          "texto": "artigo de opinião."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Gêneros Textuais (Notícia)"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Analise uma imagem recortada de vídeo publicado no site G1.\n\nDisponível em: <https://g1.globo.com/pernambuco/vestibular-e-educacao/noticia/2013/10/variedade-linguistica-e-tema-de-redacao-no-projeto-educacao.html>. Acesso em: 15 ago. 2023.\n\nA imagem evidencia o fenômeno da variação linguística denominada de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "social."
+        },
+        {
+          "letra": "B",
+          "texto": "geográfica ou regional."
+        },
+        {
+          "letra": "C",
+          "texto": "etária."
+        },
+        {
+          "letra": "D",
+          "texto": "histórica."
+        },
+        {
+          "letra": "E",
+          "texto": "situacional."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Variação Linguística"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Assinale a alternativa CORRETA sobre a peça Anjo negro (1947), de Nelson Rodrigues.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O tempo empregado para o desenvolvimento da ação obedece à regra clássica segundo a qual a ação dramática não pode exceder a duração de um dia."
+        },
+        {
+          "letra": "B",
+          "texto": "A fala das personagens é construída em versos, imprimindo um ritmo poético aos diálogos, por se tratar de uma peça mítica."
+        },
+        {
+          "letra": "C",
+          "texto": "Um dos recursos empregados na construção da peça é a quebra da quarta parede, isto é, os personagens principais, Ismael e Virgínia, conversam com a plateia."
+        },
+        {
+          "letra": "D",
+          "texto": "As personagens são tipos sociais, não possuindo aprofundamento psicológico, pois se trata de uma peça que recorre a temas arquetípicos."
+        },
+        {
+          "letra": "E",
+          "texto": "A ação dramática na qual as personagens tomam parte se estrutura, em grande medida, a partir de um problema da sociedade brasileira: o racismo estrutural."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Modernismo – Teatro)"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Leia o poema retirado do livro Dentro da noite veloz (1975), de Ferreira Gullar.\n\n**Meu povo, meu poema**\n\nMeu povo e meu poema crescem juntos\ncomo cresce no fruto\na árvore nova\n\nNo povo meu poema vai nascendo\ncomo no canavial\nnasce verde o açúcar\n\nNo povo meu poema está maduro\ncomo o sol\nna garganta do futuro\n\nMeu povo em meu poema\nse reflete\ncomo a espiga se funde em terra fértil\n\nAo povo seu poema aqui devolvo\nmenos como quem canta\ndo que planta\n\nGULLAR, Ferreira. Dentro da noite veloz. In: ______. Toda poesia. Rio de Janeiro: José Olympio Editora, 1987, p. 217.\n\nTrata-se de um poema que revela uma",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "profissão de fé em nome do experimentalismo neoconcreto em detrimento da experiência social."
+        },
+        {
+          "letra": "B",
+          "texto": "defesa da poesia popular brasileira, adotando, inclusive, uma das formas fixas da literatura de cordel."
+        },
+        {
+          "letra": "C",
+          "texto": "concepção lírica que alinha engajamento social e trabalho poético."
+        },
+        {
+          "letra": "D",
+          "texto": "celebração da poesia concretista da qual Ferreira Gullar fez parte."
+        },
+        {
+          "letra": "E",
+          "texto": "visão de que poesia se alimenta da experiência com a linguagem e não da experiência social."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Poesia Pós-Moderna)"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "**Mais de 100 milhões de abelhas são mortas em MT devido aplicação errada de agrotóxico**\n\nPelo menos 600 colmeias foram intoxicadas. Os resultados das análises confirmaram a presença da substância fipronil como a causa da contaminação. O dono da fazenda foi multado em R$ 225 mil. O uso inadequado de um agrotóxico autorizado levou à morte de mais de 100 milhões de abelhas, há cerca de um mês. Muitas eram de espécies ameaçadas de extinção.\n\nDisponível em: <https://g1.globo.com/jornal-hoje/noticia/2023/07/19/cerca-de-600-colmeias-sao-intoxicadas-em-mt-apos-aplicacao-errada-de-agrotoxico.ghtml>. Acesso em: 25 jul. 2023.\n\nA extinção das abelhas pode comprometer a variabilidade genética das plantas, uma vez que as abelhas são polinizadoras. A população de plantas que pode estar em risco é a de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pinheiro do Paraná."
+        },
+        {
+          "letra": "B",
+          "texto": "musgos."
+        },
+        {
+          "letra": "C",
+          "texto": "samambaias."
+        },
+        {
+          "letra": "D",
+          "texto": "pepinos."
+        },
+        {
+          "letra": "E",
+          "texto": "pinus."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Ecologia (Relações Ecológicas - Polinização)",
+        "Biologia – Botânica (Angiospermas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "**Sífilis: entre janeiro e junho de 2022, Brasil registrou mais de 122 mil novos casos da doença**\n\nTeste rápido é ofertado gratuitamente nos serviços do SUS e o resultado sai em, no máximo, 30 minutos em 2021, foram registrados no Brasil mais de 167 mil novos casos de sífilis adquirida e 74 mil casos em gestantes. No mesmo ano, outras 27 mil ocorrências de sífilis congênita foram diagnosticadas, além de 192 óbitos por esse tipo de sífilis. Até junho de 2022, já haviam sido constatados 79,5 mil casos de sífilis adquirida, 31 mil registros de sífilis em gestantes e 12 mil ocorrências de sífilis congênita no país, totalizando mais de 122 mil novos casos da doença.\n\nDisponível em: <https://www.gov.br/saude/pt-br/assuntos/noticias/2023/fevereiro/sifilis-entre-janeiro-e-junho-de-2022-brasil-registrou-mais-de-122-mil-novos-casos-da-doenca#>. Acesso em: 26 jul. 2023.\n\nEm conformidade com o texto, pode se afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a maioria dos casos de sífilis no Brasil deve-se à baixa cobertura vacinal da população."
+        },
+        {
+          "letra": "B",
+          "texto": "o teste rápido tem por objetivo identificar na saliva dos pacientes os anticorpos contra o vírus causador."
+        },
+        {
+          "letra": "C",
+          "texto": "a maioria das pessoas afetadas por essa bactéria vem a falecer por causa da enfermidade."
+        },
+        {
+          "letra": "D",
+          "texto": "o aumento do número de casos pode estar relacionado diretamente ao aumento da temperatura do ambiente."
+        },
+        {
+          "letra": "E",
+          "texto": "até junho de 2022, já haviam sido constatados 12 mil casos de sífilis por contaminação vertical."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Saúde (Doenças Sexualmente Transmissíveis)"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "**A 'espetacular' nova espécie de aranha descoberta na Austrália**\n\nUma nova espécie de 'aranha de alçapão gigante' foi descoberta em uma floresta na Austrália.\nA \"aranha gigante de alçapão\", como animais do tipo são comumente chamados no país, foi encontrada em uma floresta de Queensland, no Nordeste da Austrália. Esse tipo de animal é considerado por especialistas como raro. A aranha pode crescer até atingir cinco centímetros de comprimento, tamanho apontado como \"grande para aranhas de alçapão\".\n\nDisponível em: <https://g1.globo.com/ciencia/noticia/2023/03/26/a-espetacular-nova-especie-de-aranha-descoberta-na-australia.ghtml>. Acesso em: 26 jul. 2023.\n\nQual dos animais listados a seguir tem maior grau de parentesco com a nova espécie de aranha de alçapão gigante que foi descoberta em uma floresta na Austrália?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ácaro."
+        },
+        {
+          "letra": "B",
+          "texto": "Borboleta."
+        },
+        {
+          "letra": "C",
+          "texto": "Abelha."
+        },
+        {
+          "letra": "D",
+          "texto": "Centopeia."
+        },
+        {
+          "letra": "E",
+          "texto": "Camarão."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Zoologia (Taxonomia de Artrópodes)"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "A Pegada Ecológica rastreia o uso de superfícies produtivas. Normalmente, essas áreas são: terras de cultivo, terras de pastagem, pesqueiros, terras construídas, áreas florestais e demanda de carbono na terra.\nDo lado da oferta, a biocapacidade de uma cidade, estado ou nação representa a produtividade de seus ativos ecológicos (incluindo terras agrícolas, pastagens, florestas, áreas de pesca e áreas construídas). Essas áreas, especialmente se não forem colhidas, também podem servir para absorver os resíduos que geramos, especialmente nossas emissões de carbono provenientes da queima de combustíveis fósseis. A Pegada Ecológica corresponde a uma metodologia de contabilidade ambiental que analisa a pressão de consumo da população humana sobre os recursos naturais. Expressa em hectares, pode confrontar diferentes padrões de consumo e avaliar quão sustentável é, ou não uma população.\n\nDisponível em: <https://www.footprintnetwork.org/our-work/ecological-footprint/>. Acesso em: 24 jul. 2023.\n\nSe a Pegada Ecológica de uma população exceder a biocapacidade da região, essa região terá",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "superávit de biocapacidade."
+        },
+        {
+          "letra": "B",
+          "texto": "um equilíbrio entre demanda e oferta."
+        },
+        {
+          "letra": "C",
+          "texto": "déficit de biocapacidade."
+        },
+        {
+          "letra": "D",
+          "texto": "uma demanda menor e uma oferta maior."
+        },
+        {
+          "letra": "E",
+          "texto": "manutenção dos ecossistemas equilibrados."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Ecologia (Sustentabilidade e Pegada Ecológica)"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Observe e analise a imagem.\n\nDisponível em: <https://evalobo.wixsite.com/blogdaloba/inicio/page/2>. Acesso em: 25 jul. 2023.\n\nA estrutura representada em forma de escada possui",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "base nitrogenada uracila."
+        },
+        {
+          "letra": "B",
+          "texto": "açúcar do tipo ribose."
+        },
+        {
+          "letra": "C",
+          "texto": "duas fitas paralelas e de mesmo sentido."
+        },
+        {
+          "letra": "D",
+          "texto": "ligações peptídicas."
+        },
+        {
+          "letra": "E",
+          "texto": "base nitrogenada timina."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Biologia Molecular (Estrutura do DNA)"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "A água de um lago em condições naturais tem o pH em torno de 6,5 – 7,0, podendo manter uma grande variedade de peixes, plantas e insetos, além de manter animais e aves que vivem no seu entorno e se alimentam no lago. O excesso de acidez na chuva pode provocar a acidificação de lagos, principalmente aqueles de pequeno porte. O pH em torno de 5,5 já pode matar larvas, pequenas algas e insetos, prejudicando também os animais que dependem desses organismos para se alimentar. No caso do pH da água chegar a 4,0 – 4,5, já pode ocorrer a intoxicação da maioria das espécies de peixes e levá-los até a morte.\n\nDisponível em: <https://www.usp.br/qambiental/chuva_acidafront.html>. Acesso em: 26 jul. 2023.\n\nO texto apresentado faz referência a algumas das consequências que podemos observar devido à ocorrência da variação do pH de um sistema aquático como um lago urbano, por exemplo. Essa variação pode ser decorrente de descartes inadequados no lago ou mais comumente devido à elevação da acidez da chuva devido à poluição. Com relação aos valores de pH, percebe-se CORRETAMENTE que a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "quantidade de íons $H^+$ disponíveis em meio aquoso com pH 4,0 é inferior que em um sistema com pH 6,5."
+        },
+        {
+          "letra": "B",
+          "texto": "variação do pH não interfere na quantidade íons $OH^-$ disponíveis em um sistema aquoso."
+        },
+        {
+          "letra": "C",
+          "texto": "quantidade de íons $OH^-$ em meio aquoso com pH 7,0 é inferior que em um sistema com pH 5,5."
+        },
+        {
+          "letra": "D",
+          "texto": "quantidade de íons $H^+$ disponíveis em meio aquoso com pH 4,0 é superior que em um sistema com pH 6,5."
+        },
+        {
+          "letra": "E",
+          "texto": "variação de um valor de pH 7,0 para um valor de pH 4,0 triplica a quantidade de íons $H^+$ disponíveis no sistema aquoso."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Físico-Química (pH e Equilíbrio Iônico)"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Os valores de referência da glicemia nos permitem identificar se estamos com concentrações saudáveis de glicose no sangue, se é preciso realizar exames extras ou, ainda, se já temos um quadro de diabetes presente no organismo. Também nos mostra a necessidade de cuidado, caso ela esteja abaixo dos valores de referência (apontando hipoglicemia).\n\nOs valores de referência atualmente, quando o exame é feito em jejum, são:\n\n- 70 mg/dL a 99 mg/dL: patamares normais;\n- abaixo de 70 mg/dL: hipoglicemia;\n- entre 100 mg/dL a 125 mg/dL: glicemia de jejum alterada;\n- a partir de 126 mg/dL: diagnóstico de diabetes.\n\nDisponível em: <https://ramosmedicinadiagnostica.com.br/entenda-os-valores-de-referencia-da-glicemia/>. Acesso em: 25 jul. 2023.\n\nConsiderando os valores apresentados, a concentração em mol/L da glicose ($C_6H_{12}O_6$) do dado inicial que indica o diagnóstico de glicemia de jejum alterada é\n\n- Massa molares em g/mol: H = 1,0; C = 12,0 e O = 16,0.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,000555 mol/L"
+        },
+        {
+          "letra": "B",
+          "texto": "0,007 mol/L"
+        },
+        {
+          "letra": "C",
+          "texto": "0,00555 mol/L"
+        },
+        {
+          "letra": "D",
+          "texto": "0,0007 mol/L"
+        },
+        {
+          "letra": "E",
+          "texto": "0,001 mol/L"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Estequiometria (Cálculo de Concentração)"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Você sabia que a radioatividade está presente em grande parte das suas refeições? Banana, castanha do Pará, cenoura, batata inglesa, carne, feijão e cerveja são alguns exemplos de alimentos que carregam, de forma natural, elementos radioativos.\nNão há como fugir, mas também não precisa se preocupar. \"Seria necessário que uma pessoa comesse toneladas de bananas por ano para atingir níveis inseguros\", afirma Márcio Tadeu Pereira, chefe do laboratório de Irradiação Gama do Centro de Desenvolvimento da Tecnologia Nuclear (CDTN), que fica na UFMG.\nA banana é rica em potássio, um elemento químico importante para o bom funcionamento do corpo humano. É justamente desse mineral que provém o potássio-40, um isótopo natural que, por sua vez, é radioativo, assim como o carbono-14, rádio e urânio, outros exemplos de elementos naturalmente radioativos, que são encontrados até mesmo no corpo humano.\n\nDisponível em: <https://www.ipen.br/portal_por/portal/interna.php?secao_id=40&campo=6929>. Acesso em: 24 jul. 2023.\n\nO texto base da questão faz referência a certos átomos que constituem as substâncias químicas dos alimentos que estão disponíveis em suas versões que emitem radiação. Essa radiação é inclusive um inicializador energético de alguns processos de divisão celular em nosso organismo.\nConsiderando os fenômenos radioativos, a constituição do átomo e sua distribuição eletrônica avalie as afirmações a seguir.\n\nI. O potássio-40 presente na banana é um isótopo do potássio-39 diferindo um átomo do outro pela quantidade de prótons existentes no núcleo.\nII. Potássio (Z = 19) e Rádio (Z = 88) são elementos químicos que pertencem a uma mesma família periódica.\nIII. O decaimento radioativo do urânio-238 (Z = 92) para o thório-234 (Z = 90) é decorrente da emissão de uma partícula alfa.\nIV. O decaimento radioativo do carbono-14 (Z = 6) para o nitrogênio-14 (Z = 7) é decorrente da emissão de uma partícula beta.\nV. Um outro conhecido elemento radioativo é o tecnécio (Z = 43) que é o elemento artificial de menor número atômico, os átomos neutros deste elemento possuem cinco elétrons na camada de valência.\n\nEm relação às afirmações apresentadas são CORRETAS",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas I e III."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas I e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas II, III e V."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas III, IV e V."
+        },
+        {
+          "letra": "E",
+          "texto": "apenas III e IV."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Radioatividade (Decaimento Alfa e Beta)",
+        "Química – Atomística (Isótopos e Estrutura Atômica)"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "As substâncias psicodélicas são aquelas que, de alguma forma, conseguem substituir as moléculas de serotonina nas sinapses neuronais. Dentre tantos outros fatores mais complexos de ação no organismo, essa interação acaba por ser a de principal contribuição para a alteração no comportamento do indivíduo que consumiu a substância que, na maioria dos casos, são ilegais e não recomendadas pelas autoridades sanitárias.\nA bufotenina é a substância química extraída das costas do sapo bufo (bufo alvarius), muito comum nos desertos do México, Estados Unidos e Austrália, e possui estrutura e composição química muito parecidas com a serotonina, como é possível perceber a seguir.\n\nConsiderando as duas estruturas apresentadas, avalie as afirmações a seguir.\n\nI. Serotonina e bufotenina são isômeras de cadeia.\nII. As duas substâncias possuem as classes funcionais fenol e amina.\nIII. As duas substâncias não apresentam isomeria óptica.\nIV. A serotonina possui maior capacidade de realizar interações de hidrogênio que a bufotenina.\nV. As duas substâncias apresentam quatro elétrons pi em sua estrutura.\n\nEm relação às afirmações apresentadas, são CORRETAS",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas I, II e IV."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas I, II e V."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas I, II e III."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas II, III e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "apenas II, III e V."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Química Orgânica (Funções Orgânicas, Isomeria, Ligações Intermoleculares)"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Uma reta será determinada sempre por um dos vértices de um retângulo e algum ponto que pertença ao outro lado de menor medida, do mesmo retângulo, de tal forma que o retângulo ficará dividido em dois polígonos, um triângulo e um trapézio, conforme indicado na figura a seguir.\n\nQuando a área do trapézio for exatamente igual ao triplo da área do triângulo, qual será a razão entre as medidas do menor lado do triângulo e do menor lado do retângulo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{1}{2}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{1}{3}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{1}{4}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{1}{6}$"
+        },
+        {
+          "letra": "E",
+          "texto": "3"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Plana (Área de Figuras Planas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Os dez quadrados da figura a seguir serão preenchidos de modo que a soma dos números em quaisquer três quadrados consecutivos seja sempre a mesma.\n\nDetermine o valor de $\\frac{x}{2}$ sabendo que, se preenchidos CORRETAMENTE, a soma de todos os dez números escritos nos quadrados será igual a 62.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        },
+        {
+          "letra": "E",
+          "texto": "5"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Sequências e Progressões"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Numa determinada pesquisa os entrevistados responderam se consumiam ou não os refrigerantes das marcas A ou B. Dentre aqueles que responderam à pesquisa, exatamente\n\n100 bebem refrigerantes da marca A.\n80 bebem apenas refrigerantes da marca B.\n60 bebem refrigerantes das duas marcas.\n20 não bebem refrigerante.\n\nAo todo, quantas pessoas responderam a essa pesquisa?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "140"
+        },
+        {
+          "letra": "B",
+          "texto": "150"
+        },
+        {
+          "letra": "C",
+          "texto": "200"
+        },
+        {
+          "letra": "D",
+          "texto": "260"
+        },
+        {
+          "letra": "E",
+          "texto": "300"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Teoria dos Conjuntos"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "As retas de equações $x - y = 3$ e $2x + y = m$ intersectam-se no vértice da parábola de equação $y = x^2 - 2x + n$. Determine o valor de $m - n$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "m = 1"
+        },
+        {
+          "letra": "B",
+          "texto": "m = 0"
+        },
+        {
+          "letra": "C",
+          "texto": "m = -1"
+        },
+        {
+          "letra": "D",
+          "texto": "m = 2"
+        },
+        {
+          "letra": "E",
+          "texto": "m = -2"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Analítica (Parábola)",
+        "Matemática – Funções do 2º Grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Em uma caixa havia exatamente seis dados indistinguíveis pelo tato: dois dados verdes, dois brancos e dois amarelos. De forma aleatória – um de cada vez e sem reposição – apenas dois desses dados foram retirados da caixa. Qual a probabilidade de que tenham sido retirados dados de cores diferentes?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,1"
+        },
+        {
+          "letra": "B",
+          "texto": "0,111..."
+        },
+        {
+          "letra": "C",
+          "texto": "0,2"
+        },
+        {
+          "letra": "D",
+          "texto": "0,5"
+        },
+        {
+          "letra": "E",
+          "texto": "0,8"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Análise Combinatória (Probabilidade)"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "A medida da altura de uma pirâmide regular, de base quadrada, é igual à medida da altura de um prisma regular cuja base tem $75 \\text{cm}^2$ e esses dois sólidos são equivalentes (eles têm volumes iguais). Determine a medida da aresta da base dessa pirâmide.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "25 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "$5\\sqrt{3}$ cm"
+        },
+        {
+          "letra": "D",
+          "texto": "$3\\sqrt{5}$ cm"
+        },
+        {
+          "letra": "E",
+          "texto": "225 cm"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Espacial (Volume de Sólidos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Uma lente biconvexa de vidro ($n_v = 1,5$) imersa no ar ($n_{ar} = 1$) fornece, de um pequeno objeto distante 15 cm de si, uma imagem nítida projetada numa tela que se encontra a 60 cm da lente, conforme mostrado na figura a seguir.\n\nConsidere as afirmativas a seguir.\n\nI. Considerando a velocidade da luz no vácuo igual a $3 \\cdot 10^8 \\text{m/s}$, no interior da lente a luz se propaga com velocidade igual a $2 \\cdot 10^8 \\text{m/s}$.\nII. A lente em questão exibe sempre comportamento convergente, mesmo que seja colocada num meio de maior índice de refração que o vidro.\nIII. Caso a lente seja afastada 45 cm do objeto, ficando a 15 cm da tela, também poderá ser observada na tela uma imagem nítida do objeto.\n\nÉ (São) CORRETA(S) apenas as afirmativas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II"
+        },
+        {
+          "letra": "B",
+          "texto": "II e III"
+        },
+        {
+          "letra": "C",
+          "texto": "I e III"
+        },
+        {
+          "letra": "D",
+          "texto": "I"
+        },
+        {
+          "letra": "E",
+          "texto": "III"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Óptica Geométrica (Lentes Esféricas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "A Mecânica Newtoniana é baseada em três princípios fundamentais, as chamadas Leis de Newton, estabelecidas pelo físico inglês em seu monumental livro “Princípios Matemáticos da Filosofia Natural”, publicado primeiramente em 1687. A respeito das Leis de Newton e suas aplicações, analise as afirmativas a seguir.\n\nI. De acordo com a 1ª Lei de Newton, ou Princípio da Inércia, um corpo tem a tendência de manter seu estado de repouso ou movimento retilíneo uniforme, a menos que seu estado seja alterado por uma ou mais forças.\nII. Conforme a 2ª Lei de Newton, em determinado instante de tempo, a velocidade de uma partícula possui sempre a mesma direção e sentido que a força resultante sobre ela nesse mesmo instante.\nIII. A força peso de um objeto e a força normal aplicada sobre ele por uma superfície de contato, podem, em algumas situações, formarem um par de ação e reação.\n\nÉ (São) CORRETA(S) apenas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II"
+        },
+        {
+          "letra": "B",
+          "texto": "I"
+        },
+        {
+          "letra": "C",
+          "texto": "I e III"
+        },
+        {
+          "letra": "D",
+          "texto": "II"
+        },
+        {
+          "letra": "E",
+          "texto": "II e III"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Mecânica (Leis de Newton)"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Considere uma barra longa obtida pela soldagem de outras duas barras menores de mesmas secções retas, feitas com dois materiais homogêneos, A e B, sendo que o comprimento da barra feita com o material A é maior do que o comprimento da feita com o material B. A barra longa é apoiada sobre uma cunha exatamente no ponto de junção dos diferentes materiais, conforme mostra a figura a seguir, e fica em equilíbrio nesta posição. A aceleração gravitacional é g e todo o conjunto se encontra a uma mesma temperatura $T_0$.\n\nA respeito do descrito, analise as afirmativas a seguir.\n\nI. Metade da massa da barra longa é devida ao material A, e a outra metade ao material B.\nII. O material B é mais denso do que o material A.\nIII. Se o material A possuir maior coeficiente de dilatação térmica que o material B e se considerarmos que o ponto de junção dos materiais continua sempre sobre a cunha, um aumento na temperatura da barra longa fará com que ela gire no sentido anti-horário.\n\nÉ(são) CORRETA(S) apenas a(s) afirmativa(s):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II e III"
+        },
+        {
+          "letra": "B",
+          "texto": "I"
+        },
+        {
+          "letra": "C",
+          "texto": "II"
+        },
+        {
+          "letra": "D",
+          "texto": "I e II"
+        },
+        {
+          "letra": "E",
+          "texto": "III"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Estática (Equilíbrio de Corpos Extensos)",
+        "Física – Termodinâmica (Dilatação Térmica)"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "O circuito elétrico representado na figura a seguir é composto por uma bateria ideal de força eletromotriz E, uma chave seletora (Ch), uma lâmpada (L) cuja resistência elétrica é $R_L$, um resistor comercial de resistência R e fios ideais para conectar esses elementos.\n\nInicialmente, a chave está aberta e a lâmpada dissipa potência P. Caso a chave seja fechada, a potência dissipada pela lâmpada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "continuará a mesma somente se $R = R_L$."
+        },
+        {
+          "letra": "B",
+          "texto": "aumentará se $R < R_L$."
+        },
+        {
+          "letra": "C",
+          "texto": "continuará a mesma, qualquer que seja o valor de R."
+        },
+        {
+          "letra": "D",
+          "texto": "diminuirá, qualquer que seja o valor de R."
+        },
+        {
+          "letra": "E",
+          "texto": "diminuirá somente se $R < R_L$."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Eletrodinâmica (Circuitos Elétricos e Potência)"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Desde pelo menos o fim da década de 1960, o conceito e as dimensões do que seria a política estavam em disputa. Nos anos pós-1968, data que assinalou uma revolução no pensamento ocidental, houve um alargamento das questões políticas a partir de novas perspectivas, que não mais as enxergariam apenas pela perspectiva das macroestruturas, mas também a partir das microestruturas, como o corpo, os afetos e as alianças jurídicas.\n\nGONÇALVES, Renato. Marina Lima: Fullgás. Rio de Janeiro: Cobogó, 2022, p. 36-37.\n\nA mudança que o texto menciona caracteriza-se pelo surgimento, na esfera política, de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aproximações diplomáticas entre EUA e URSS, marcando, assim, o fim do período histórico conhecido como guerra fria."
+        },
+        {
+          "letra": "B",
+          "texto": "disputas entre o capital e o trabalho, uma novidade no panorama socioeconômico do ocidente estabelecido desde o século XIX."
+        },
+        {
+          "letra": "C",
+          "texto": "líderes contrários ao capitalismo que, ao longo das décadas de 1970 e 1980, foram eleitos justamente em razão de suas agendas socialistas, como Thatcher e Reagan."
+        },
+        {
+          "letra": "D",
+          "texto": "questões identitárias, sobretudo em razão das atuações de movimentos sociais relacionados às temáticas ambientais, raciais, de gênero e de sexualidade."
+        },
+        {
+          "letra": "E",
+          "texto": "críticas à participação popular autônoma, com os partidos políticos institucionalizados aumentando sua legitimidade democrática perante as populações nacionais."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – História Contemporânea (Movimentos Sociais Pós-1968)"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Um título incômodo se colocou ao período: \"República Velha\". Se os primeiros anos da República foram mesmo violentos, também permitiram a abertura de um processo sem volta. É nesse contexto que se desenham os primeiros passos na constituição de uma sociedade cidadã e participativa. [...] Foram os governantes e intelectuais da Era Vargas que chamaram seu próprio momento de “Estado Novo”. Em movimento contínuo, jogaram para o período anterior a pecha de ultrapassado, velho. [...] Talvez por isso é melhor insistir no epíteto de Primeira República. Primeira, pois teve a coragem dos inícios e porque ensejou múltiplas formas de sonhar e exercitar a cidadania.\n\nSCHWARCZ, Lilia. Legado ambivalente. O Estado de S. Paulo, 16 nov. 2014, p. 121. Disponível em: >https://acervo.estadao.com.br/pagina/#!/20141116-44224-nac-121-ali-e3-not>. Acesso em: 09 ago. 2023.\n\nPara a autora, a expressão \"República Velha\" é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "inadequada, uma vez que deixa de considerar o autoritarismo que marcou os governos dos primeiros presidentes do país."
+        },
+        {
+          "letra": "B",
+          "texto": "desmesurada, dado que trata como antiquado um evento realizado em um passado relativamente próximo do presente."
+        },
+        {
+          "letra": "C",
+          "texto": "contraditória, no sentido de não demarcar enfaticamente o fim do período imperial com o início de um novo tipo de Estado."
+        },
+        {
+          "letra": "D",
+          "texto": "obsoleta, já que, com os acontecimentos do século XX, a proclamação perdeu seu significado para a história do Brasil."
+        },
+        {
+          "letra": "E",
+          "texto": "depreciativa, pois, cunhada por razões políticas, esconde os efeitos libertários do momento histórico a que se refere."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – História do Brasil (República Velha)"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Durante milhares de anos, as hijras – o terceiro gênero, composto por transgêneros, eunucos e intersexos – foram líderes espirituais e políticos que celebravam casamentos, abençoavam crianças e ocupavam posições de prestígio na justiça indiana. Elas estão presentes em textos sagrados do hinduísmo, como o Mahabharata e o Kama Sutra. Foi assim até que a Grã-Bretanha colonizou a Índia e adotou uma lei, em 1897, que estabelecia que ser hijra era um crime. Desde então elas foram marginalizadas e obrigadas a mendigar ou se prostituir para sobreviver [...].\n\nRevista Galileu, ed. 292, nov. 2015, p. 47. Disponível em: https://revistagalileu.globo.com/Revista/noticia/2016/05/tudo-o-que-voce-sabe-sobre-genero-esta-errado.html. Acesso em: 9 ago. 2023.\n\nNo contexto descrito no texto, a lei mencionada é um exemplo de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "adaptação do colonizador à cultura do colonizado."
+        },
+        {
+          "letra": "B",
+          "texto": "preservação das diferenças sociais em escala global."
+        },
+        {
+          "letra": "C",
+          "texto": "imposição de padrões identitários estranhos à realidade local."
+        },
+        {
+          "letra": "D",
+          "texto": "assimilação de particularidades étnicas pelo dominador."
+        },
+        {
+          "letra": "E",
+          "texto": "criação de peças jurídicas promotoras do respeito à diversidade."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História Geral (Imperialismo e Colonialismo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "A primeira mensagem do presidente George W. Bush aos americanos chocados e estupefatos diante da visão do desmoronamento das Torres Gêmeas foi para que todos “voltassem às compras\".\n\nBAUMAN, Zygmunt. 44 cartas do mundo líquido moderno. Rio de Janeiro: Zahar, 2011, p. 56.\n\nConsiderando a mensagem comentada no texto, pode-se concluir que, no capitalismo contemporâneo,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a prática cotidiana do consumo é entendida como sinônimo de normalidade."
+        },
+        {
+          "letra": "B",
+          "texto": "a produção industrial perde espaço para os serviços personalizados."
+        },
+        {
+          "letra": "C",
+          "texto": "situações extraordinárias geram escoamento acelerado dos estoques."
+        },
+        {
+          "letra": "D",
+          "texto": "o mercado torna-se mais dinâmico em razão da sensação de insegurança."
+        },
+        {
+          "letra": "E",
+          "texto": "os Estados nacionais privilegiam a segurança em detrimento da economia."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Sociologia – Sociedade de Consumo"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Segundo o Censo 2022, “em cento e cinquenta anos, o volume populacional brasileiro cresceu 193,1 milhões de habitantes. Em termos absolutos, os maiores incrementos foram observados entre 1970 e 1980 com um crescimento de 27,8 milhões de pessoas. Nos últimos 12 anos, a população recenseada aumentou em 12,3 milhões.\"\n\nDesde o fim do século XX, a população brasileira cresce num ritmo cada vez __________ reflexo do aumento da população __________ e consequente __________ da taxa de __________.\n\nAssinale a única alternativa que complementa CORRETA e ORDENADAMENTE a explicação acima sobre a evolução demográfica brasileira das últimas décadas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "menor – urbana – aumento – mortalidade."
+        },
+        {
+          "letra": "B",
+          "texto": "menor – urbana – redução – fecundidade."
+        },
+        {
+          "letra": "C",
+          "texto": "maior – urbana – redução – mortalidade."
+        },
+        {
+          "letra": "D",
+          "texto": "maior – rural – redução – natalidade."
+        },
+        {
+          "letra": "E",
+          "texto": "menor – rural – aumento – fecundidade."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Demografia (Transição Demográfica no Brasil)"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Os gráficos destacam a Temperatura Média de três capitais situadas na mesma Região brasileira.\n\nFonte: Instituto Nacional de Meteorologia. Disponível em: <https://clima.inmet.gov.br/GraficosClimatologicos/DF/83377>. Acesso em: 15 ago. 2023.\n\nAs temperaturas médias permitem constatar que os gráficos representam as cidades de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Belém, Manaus e Porto Velho."
+        },
+        {
+          "letra": "B",
+          "texto": "Campo Grande, Cuiabá e Goiânia."
+        },
+        {
+          "letra": "C",
+          "texto": "Belo Horizonte, Rio de Janeiro e Vitória."
+        },
+        {
+          "letra": "D",
+          "texto": "Maceió, Recife e Salvador."
+        },
+        {
+          "letra": "E",
+          "texto": "Curitiba, Florianópolis e Porto Alegre."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Climatologia (Climas do Brasil)"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Analise a seguir.\n\n**Emissão de $CO_2$ - em milhões de toneladas**\n\nFonte: Global Carbon Atlas. Disponível em: <https://globalcarbonatlas.org/emissions/carbon-emissions>. Acesso em: 15 ago. 2023.\n\nAo longo de quase 60 anos, os principais emissores de dióxido de carbono foram os países",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "predominantemente agrícolas."
+        },
+        {
+          "letra": "B",
+          "texto": "onde predominam desmatamentos por queimadas."
+        },
+        {
+          "letra": "C",
+          "texto": "menos desenvolvidos."
+        },
+        {
+          "letra": "D",
+          "texto": "industrializados, do Hemisfério Setentrional."
+        },
+        {
+          "letra": "E",
+          "texto": "industrializados, do Hemisfério Meridional."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Questões Ambientais (Emissões de GEE)",
+        "Geografia – Geografia Econômica (Industrialização)"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Analise a seguir.\n\n**Estimativas das principais reservas de Terras Raras e percentuais do total mundial (132.000.000 ton.)**\n\nApesar de possuir uma das maiores reservas de minerais Terras Raras (TR) do mundo, o Brasil tem produção quase inexpressiva de TR e é totalmente dependente da China para aquisição das baixas quantidades que consome, num momento em que se afirma que o grau de desenvolvimento de uma nação é medido pelo consumo de TR.\n\nAdaptado de SOUSA, P. C. de., GALAÇO, A. R. B. S., & SERRA, O. A. (2019). Terras raras: tabela periódica, descobrimento, exploração no Brasil e aplicações. Química Nova, 42 (10), 1208-1224.\n\nO aumento do consumo de Terras Raras pode indicar",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "superávit da balança comercial dependente do setor primário da economia."
+        },
+        {
+          "letra": "B",
+          "texto": "aumento das exportações de commodities minerais."
+        },
+        {
+          "letra": "C",
+          "texto": "investimentos em pesquisas para o desenvolvimento e confecção de produtos de tecnologia de ponta."
+        },
+        {
+          "letra": "D",
+          "texto": "maior participação do Terceiro Setor na produção de produtos de alta tecnologia."
+        },
+        {
+          "letra": "E",
+          "texto": "carência de políticas sólidas abarcando pesquisa, desenvolvimento e confecção de produtos tecnológicos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geopolítica e Recursos Naturais (Terras Raras)"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Leia o texto a seguir.\n\n\"O plural coletivo da afirmação 'Yes, we can' expressa precisamente o caráter de positividade da sociedade de desempenho. No lugar de proibição, mandamento ou lei, entram projeto, iniciativa e motivação. A sociedade disciplinar ainda está dominada pelo não. Sua negatividade gera loucos e delinquentes. A sociedade do desempenho, ao contrário, produz depressivos e fracassados”. (HAN, 2015, p. 14).\n\nA sociedade do desempenho ocasiona uma grave contradição mediante sua positividade, segundo Byung Chul Han. Assinale a alternativa que apresenta tal contradição.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A sociedade do desempenho gera indivíduos autossuficientes e empreendedores, o que gera desgaste físico, porém recompensas emocionais."
+        },
+        {
+          "letra": "B",
+          "texto": "A sociedade do desempenho gera uma busca excessiva pela positividade e produtividade em que o sujeito se torna carrasco de si mesmo, promovendo auto exploração, depressão e fracasso."
+        },
+        {
+          "letra": "C",
+          "texto": "A sociedade do desempenho ainda está dominada pelo não. Devido à auto exploração, ela acaba gerando loucos e depressivos."
+        },
+        {
+          "letra": "D",
+          "texto": "Sucesso, realização pessoal e liberdade são os princípios que movem a sociedade do desempenho e ajudam a evitar a auto exploração."
+        },
+        {
+          "letra": "E",
+          "texto": "A sociedade do desempenho, ao enfatizar a competição e o individualismo, promove uma busca constante por reconhecimento e sucesso, o que permite aos princípios meritocráticos reconhecer a justiça social e superar patologias."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Filosofia – Filosofia Contemporânea (Byung-Chul Han)"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Leia a citação a seguir.\n\n\"É uma velha e complicada história a do conflito entre a verdade e a política, e a simplificação ou a predicação moral de nada serviriam\". (ARENDT, 1967, p. 04)\n\nHannah Arendt destacou que a liberdade de informação sobre fatos é de fundamental importância para a promoção de um debate político, mas que a verdade de fato e a política podem promover conflitos.\n\nAssinale abaixo qual é o principal dilema abordado por Arendt em relação à \"verdade de fato\" e sua relação com a política.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A manipulação da verdade de fato para que possa atender fins políticos."
+        },
+        {
+          "letra": "B",
+          "texto": "A falta de fatos relevantes na política que promovam discussões e reflexões."
+        },
+        {
+          "letra": "C",
+          "texto": "A inexistência de fatos observáveis e comprováveis."
+        },
+        {
+          "letra": "D",
+          "texto": "O conflito entre liberdade de opinião e informação sobre fatos."
+        },
+        {
+          "letra": "E",
+          "texto": "A exclusão da opinião política dos debates públicos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Filosofia – Filosofia Política (Hannah Arendt)"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Read the comic strip and answer: Why are Jon and Garfield astonished?\n\nhttps://garfield-comic-strips.fandom.com/wiki/2023. Access: August, 2023.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Because Odie made a funny sound, and it scared them."
+        },
+        {
+          "letra": "B",
+          "texto": "Because the audio device knew Jon's and Garfield's name."
+        },
+        {
+          "letra": "C",
+          "texto": "Because they did not sleep well due to the technological noises."
+        },
+        {
+          "letra": "D",
+          "texto": "Because now all the articles are written by artificial intelligence."
+        },
+        {
+          "letra": "E",
+          "texto": "Because the artificial intelligence heard and answered them."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "According to the text, what is possible to infer?\n\n**China looks to limit children to two hours a day on their phones**\n\nHong Kong, Aug 2 (Reuters) - China's cyberspace regulator said on Wednesday children under the age of 18 should be limited to a maximum of two hours a day on their smartphones, sending shares in tech companies tumbling.\nThe Cyberspace Administration of China (CAC) said it wanted providers of smart devices to introduce so-called minor mode programmes that would bar users under 18 from accessing the internet on mobile devices from 10 p.m. to 6 a.m.\nProviders would also have to set time limits under the proposed reforms, the CAC said.\nUsers aged 16 to 18 would be allowed two hours a day, children aged eight to 16 would get one hour while children under eight would be allowed just eight minutes.\nBut the CAC said service providers should allow parents to opt out of the time limits for their youngsters.\nInvestors were not impressed.\nShares in Chinese tech firms mostly fell in afternoon trade in Hong Kong after the CAC published its draft guidelines, which it said were open to public feedback until Sept. 2.\n\nhttps://www.reuters.com/world/china/china-issues-draft-guidelines-tighten-limits-use-apps-by-minors-2023-08-02/ Access: August, 2023.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "In China, all children are not allowed to use their own phones."
+        },
+        {
+          "letra": "B",
+          "texto": "China's phone limitations include different people from all ages."
+        },
+        {
+          "letra": "C",
+          "texto": "China has not limited children to use their phones yet."
+        },
+        {
+          "letra": "D",
+          "texto": "China's new phone access policy has caused a lot of disagreement."
+        },
+        {
+          "letra": "E",
+          "texto": "China has a tradition of dictating what people can or cannot access."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Read the text and answer: What is its genre?\n\n**Jakarta: Living with asthma in the world's most polluted city**\n\nMultiple doctors have advised Farah Nurfirman to leave her hometown Jakarta for her health's sake.\nThe 22-year-old asthmatic often wears a mask and carries an inhaler, but the air quality in the city is not helping.\nThe Indonesian capital, which has long wrestled with air pollution, was ranked the most polluted city on global charts nearly every day last week.\nPresident Joko Widodo on Monday even mandated that all civil servants work from home amid worsening air quality.\nLast week, Jakarta saw its airborne concentration of the pollution particles known as PM2.5 outpace other heavily polluted cities such as Riyadh, Doha and Lahore, according to live data from Swiss air quality technology company IQAir. The company ranks pollution in major cities in real time every day.\nJakarta has also been consistently ranked among the 10 most polluted cities globally since May. The capital city and its surrounding region are home to about 30 million people.\n\nhttps://www.bbc.com/news/world-asia-66496992 Access: August, 2023.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Diary entry."
+        },
+        {
+          "letra": "B",
+          "texto": "Advertisement."
+        },
+        {
+          "letra": "C",
+          "texto": "Personal report."
+        },
+        {
+          "letra": "D",
+          "texto": "News article."
+        },
+        {
+          "letra": "E",
+          "texto": "Fairy tale."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Gêneros Textuais (Notícia)"
+      ]
+    }
+  ]
+}

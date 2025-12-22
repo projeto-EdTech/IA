@@ -1,0 +1,2439 @@
+{
+  "nomeUniversidade": "Universidade Católica de Pernambuco",
+  "siglaUniversidade": "UNICAP",
+  "nomeProva": "Vestibular UNICAP 2023",
+  "ano": 2023,
+  "qtdeQuestoes": 80,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "TEXTO 1\n\nNenhuma quantidade de álcool é saudável para pessoas com menos de 40 anos, diz estudo\n(Bernardo Yoneshigue, 15/07/2022)\n\nBeber, mesmo que pouco, pode prejudicar a saúde\n\nHá uma série de mitos e verdades que envolvem os riscos e possíveis benefícios no consumo de bebidas alcoólicas, embora pouco se saiba sobre as especificidades de cada faixa etária. Para compreender melhor esse cenário, um time de pesquisadores analisou dados do Estudo de Carga Global de Doenças, Lesões e Fatores de Risco (GBD), uma ampla pesquisa que envolveu dados de pessoas de 15 a 95 anos, de 204 países, coletados entre 1990 e 2020. Eles constataram que, para menores de 40 anos, nenhuma dose de álcool traz efeitos positivos. Por outro lado, para os mais velhos que não têm problemas de saúde subjacentes, uma quantidade limitada pode ajudar a reduzir os riscos de doenças cardiovasculares e diabetes.\n\nOs responsáveis pelo trabalho, publicado na revista científica The Lancet, defendem que as diretrizes em relação ao consumo de álcool deveriam, portanto, ser focadas nas idades de 15 a 39 anos, especialmente homens, que foi o público mais afetado pelos efeitos danosos da substância.\n\nO estudo é o primeiro do tipo a observar de forma tão ampla a ingestão de bebidas alcoólicas no mundo. Baseando-se em estimativas de cada um dos 204 países, os pesquisadores indicaram que 1,34 bilhão de pessoas consumiam quantidades consideradas danosas em 2020. Cerca de 60% tinham entre 15 e 39 anos e mais de 75% eram homens.\n\nA endocrinologista Paula Pires, da Sociedade Brasileira de Endocrinologia e Metabologia Regional São Paulo (SBEM - SP), destaca que além dos impactos já conhecidos na saúde, o início precoce do consumo também aumenta o risco para quadros de dependência ainda na juventude.\n\nDisponível em: https://oglobo.globo.com/saude/bem-estar - (Adaptado). Acesso em: 06/11/2022.\n\nLevando-se em consideração a estrutura utilizada no texto 1, pode-se afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "há uma intencionalidade predominantemente opinativa, já que o autor busca persuadir o interlocutor."
+        },
+        {
+          "letra": "B",
+          "texto": "fazendo uso de explicações de pesquisadores, o autor construiu um texto que pretende disseminar informações."
+        },
+        {
+          "letra": "C",
+          "texto": "se apresenta com uma sequência de fatos sobre juventude e alcoolismo, constituindo-se como uma narração sobre o tema."
+        },
+        {
+          "letra": "D",
+          "texto": "a finalidade maior é oferecer uma riqueza de detalhes sobre a ingestão de álcool, descrevendo os perigos desse consumo para a sociedade."
+        },
+        {
+          "letra": "E",
+          "texto": "o autor instrui e ordena regras para que a ingestão de álcool seja minimizada, o que caracteriza um texto predominantemente injuntivo."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Tipologia Textual",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Em \"Beber, mesmo que pouco, pode prejudicar a saúde\"; \"... embora pouco se saiba sobre as especificidades de cada faixa etária.” e em “o início precoce do consumo também aumenta o risco para quadros de dependência ainda na juventude\", os termos sublinhados expressam, respectivamente, uma ideia de",
+      "alternativas": null,
+      "opcaoCorreta": "ANULADA",
+      "conteudo": [
+        "Língua Portuguesa – Conjunções",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "TEXTO 2\n\nDisponível em https://extra.globo.com/noticias/saude-e-ciencia/. Acesso em: 04/11/2022.\n\nQuando se pensa em estruturas relativamente estáveis de composição, com as quais se realizam intervenções sociais, percebe-se que os textos 1 e 2",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "são de gêneros diferentes, mas com a mesma mensagem: criticar os adultos que oferecem bebida aos adolescentes."
+        },
+        {
+          "letra": "B",
+          "texto": "correspondem ao mesmo gênero e apresentam a mesma intenção: alertar os adolescentes quanto à ingestão de álcool."
+        },
+        {
+          "letra": "C",
+          "texto": "dizem respeito a gêneros iguais e ao uso do mesmo suporte – o ambiente jornalístico virtual."
+        },
+        {
+          "letra": "D",
+          "texto": "divergem no gênero escolhido e no objetivo, já que o primeiro limita o direcionamento aos pais dos adolescentes e o outro visa os jovens."
+        },
+        {
+          "letra": "E",
+          "texto": "constituem gêneros diferentes e servem de alerta para um problema social de comportamentos, tanto de jovens quanto de adultos."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Gêneros Textuais",
+        "Língua Portuguesa – Intertextualidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "TEXTO 3\nRecife recebe exposição inédita sobre João Cabral de Melo Neto com curadoria da filha dele\nMostra 'Afinal, o que é poesia?' homenageia o centenário do poeta pernambucano e pode ser visitada no Cais do Sertão, no Bairro do Recife, a partir de 23/09 até 20/11\n(Bruno Marinho, g1 PE, 22/09/2022)\n\nUm dos atrativos da exposição é uma linha do tempo da vida do escritor nascido no Recife em 9 de janeiro de 1920, mostrando desde a infância nos engenhos da família em São Lourenço da Mata e Moreno, no Grande Recife, passando pela experiência como jogador de futebol em times como América e Santa Cruz, até chegar à vida adulta, dividida entre a poesia e a atividade como diplomata.\n\nInez Cabral explicou de onde vem o título da exposição. \"Um poema dele começa exatamente assim, seria um repórter perguntando ao poeta: 'Afinal, o que é poesia?'. Aí eu achei o título ótimo para colocar o povo para pensar. O estilo de João Cabral, o jeito que ele escrevia, a parte literária do trabalho dele é muito estudada, mas ninguém fala do conteúdo. Para ativar novos leitores, a gente tem que falar do conteúdo\", declarou.\n\nNo que diz respeito à composição redacional, o uso dos elementos linguísticos “mostrando”, “passando” e “até chegar a”, presentes no texto 3, possibilita a afirmação de que eles",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "denotam uma subordinação de ideias."
+        },
+        {
+          "letra": "B",
+          "texto": "coordenam tempos verbais distintos."
+        },
+        {
+          "letra": "C",
+          "texto": "tornam as informações muito subjetivas."
+        },
+        {
+          "letra": "D",
+          "texto": "contribuem para uma relação de causa e consequência."
+        },
+        {
+          "letra": "E",
+          "texto": "conectam o sujeito homenageado a suas qualidades."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia",
+        "Língua Portuguesa – Coesão Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Sabe-se que o uso da vírgula auxilia na transmissão da mensagem e pode destacar partes do texto conforme a intenção de quem escreve. Nesse sentido, em \"Afinal, o que é poesia?”, “... pode ser visitada no Cais do Sertão, no Bairro do Recife, a partir de 23/09\" e na sequência “O estilo de João Cabral, o jeito que ele escrevia, a parte literária do trabalho dele é muito estudada\", o referido uso se justifica por, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "facilitar uma interrogação, salientar um espaço físico e omitir a presença de conectivos."
+        },
+        {
+          "letra": "B",
+          "texto": "separar ideias distintas, enfatizar uma localidade específica e salientar ações praticadas."
+        },
+        {
+          "letra": "C",
+          "texto": "ressaltar um conectivo, destacar um termo deslocado sintaticamente e separar termos enumerados."
+        },
+        {
+          "letra": "D",
+          "texto": "identificar o tópico frasal, especificar o local em que ocorre o evento e evitar a repetição de mesmo conectivo."
+        },
+        {
+          "letra": "E",
+          "texto": "dar ênfase a um ponto de vista, focalizar onde se encontra a Exposição e distinguir características de um autor."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Pontuação",
+        "Língua Portuguesa – Sintaxe"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Conforme se aprende na formação escolar, os autores que compõem a chamada terceira fase do Modernismo são Clarice Lispector, João Guimarães Rosa e João Cabral de Melo Neto. O que há em comum na produção deles são",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a flagrante crítica à forma parnasiana e a denúncia de um nordeste desamparado e invisível socialmente."
+        },
+        {
+          "letra": "B",
+          "texto": "a tendência de questionamento da própria linguagem e a temática de denúncia de impacto social."
+        },
+        {
+          "letra": "C",
+          "texto": "a denúncia de um racismo estrutural e a defesa de seres marginalizados socioeconomicamente."
+        },
+        {
+          "letra": "D",
+          "texto": "a propensão de valorizar as ideias da Semana de Arte Moderna e a predominância de temas nordestinos."
+        },
+        {
+          "letra": "E",
+          "texto": "a crítica a uma educação elitizada e a denúncia da fome que assolou o sertão nordestino."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Modernismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "O pernambucano Solano Trindade (1908-1974) foi poeta, cineasta, pintor e criador do Teatro Experimental Negro no Brasil. Ficou conhecido como o Poeta da Negritude, ao se firmar como um dos maiores expoentes na poesia negra brasileira. Ele abordou temas conturbados, expôs trajetórias inversas àquelas estereotipadas de que o povo negro é passivo, submisso, sem heroísmo. Da produção desse poeta, destaca-se Navio Negreiro, que busca retratar um dos principais aspectos da diáspora africana no cenário da escravização:\n\nTEXTO 4\nLá vem o navio negreiro\nLá vem sobre o mar\nLá vem o navio negreiro\nVamos minha gente olhar...\n\nLá vem o navio negreiro\nPor água brasiliana\nLá vem o navio negreiro\nTrazendo carga humana...\n\nLá vem o navio negreiro\nCheio de melancolia\nLá vem o navio negreiro\nCheinho de poesia...\n\nLá vem o navio negreiro\nCom carga de resistência\nLá vem o navio negreiro\nCheinho de inteligência...\n(Solano Trindade, 1961)\n\nA leitura do texto 4 permite afirmar-se que o eu lírico",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "destaca um quadro imaginário e, portanto, impossível de se admitir na realidade."
+        },
+        {
+          "letra": "B",
+          "texto": "contesta a existência da escravização contada pelos livros de História do Brasil."
+        },
+        {
+          "letra": "C",
+          "texto": "nega que os navios que chegavam às Américas traziam qualquer tipo de mercadoria."
+        },
+        {
+          "letra": "D",
+          "texto": "se contradiz ao apresentar uma carga humana valiosa, mas muito melancólica."
+        },
+        {
+          "letra": "E",
+          "texto": "se refere a uma carga humana resistente e valiosa na construção cultural do Brasil."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Análise de Poema"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "De maneira geral, na obra de Machado de Assis, expressões como “senhora minha”, “leitor curioso\", \"leitora amada\" são facilmente encontradas. Entretanto, essas formas de tratamento cordiais são dissolvidas com certo teor de ironia e de zombaria. Nessa perspectiva, observe o texto 5 a seguir.\n\nTEXTO 5\n\"... ou, mais propriamente, capítulo em que o leitor, desorientado, não pode combinar as tristezas de Sofia com a anedota do cocheiro. E pergunta confuso: — Então a entrevista da Rua da Harmonia, Sofia, Carlos Maria, esse chocalho de rimas sonoras e delinquentes é tudo calúnia? Calúnia do leitor e do Rubião, não do pobre cocheiro, que não proferiu nomes, não chegou sequer a contar uma anedota verdadeira. É o que terias visto, se lesses com pausa.\"\nQuincas Borba, cap. 106 – Machado de Assis, 1997, p. 100.\n\nA partir desse trecho, nota-se que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a interpretação dos fatos apresentados pode se dar de forma superficial, já que o narrador se nega a contar tudo o que acontece e espera que o leitor preencha os vazios das situações, o que gera um texto inacessível à maioria dos leitores atuais."
+        },
+        {
+          "letra": "B",
+          "texto": "o narrador consegue induzir o seu “ingênuo” leitor a uma conclusão, mas depois que os fatos são esclarecidos, ele simplesmente joga toda a culpa de criar pensamentos errôneos para o protagonista Rubião, e isenta o leitor."
+        },
+        {
+          "letra": "C",
+          "texto": "esse efeito criado no jogo de diálogo entre o narrador e o leitor contribui para que a narrativa cresça e se fortaleça justamente no espaço indeciso entre a verdade e a mentira, ambiguidade que é uma das maiores características do estilo machadiano."
+        },
+        {
+          "letra": "D",
+          "texto": "o narrador tira de suas mãos a responsabilidade de qualquer julgamento definitivo, delegando à rima entre os termos “Harmonia\", \"Sofia\", \"Carlos Maria\" e \"calúnia” toda a errônea interpretação dos fatos."
+        },
+        {
+          "letra": "E",
+          "texto": "os erros de cálculo e o desacordo entre o aparente e o real são incomuns ao personagem e aos leitores projetados pelo narrador, uma vez que essas manobras sutis e subterrâneas do texto são uma exceção ao longo de todo o livro."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Realismo",
+        "Língua Portuguesa – Análise de Narrativa"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "TEXTO 6\nVisíveis no facho de ouro jorrado porta adentro,\nmosquitinhos, grãos maiores de pó.\nA mãe no fogão atiça as brasas\ne acende na menina o nunca mais apagado da memória:\numa vez banqueteando-se, comeu feijão com arroz mais um facho de luz. Com toda fome.\n\"Registro\", in Bagagem, 2 ed., 1979.\n\nEm sua dissertação de mestrado intitulada “A poesia de Bagagem, de Adélia Prado\", a pesquisadora Maíra Carmo Marquez (USP, 2012) defende que o poema Registro repensa o tempo dos relógios, dando a este novos significados. Marquez destaca que, para o eu lírico, a memória é o banquete farto de um cotidiano repleto de sentido, projetado como tempo ideal para o futuro. Assim, a partir do poema (texto 6)e das observações da pesquisadora, pode-se perceber que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "no espaço familiar da memória, as coisas simples ('mosquitinhos', ‘pó', ‘arroz' e 'feijão') se misturam com objetos elevados ('ouro', 'banquete')."
+        },
+        {
+          "letra": "B",
+          "texto": "o fio condutor do poema é denotativamente a comida feita pela mãe (“A mãe no fogão atiça as brasas”), e não a construção da memória."
+        },
+        {
+          "letra": "C",
+          "texto": "o eu lírico desvaloriza o tempo presente, ao se dedicar a um tempo passado que jamais irá voltar."
+        },
+        {
+          "letra": "D",
+          "texto": "a cena simples e cotidiana ganha um imenso valor, a ponto de suplantar a memória e de ser um registro de uma mulher interiorana."
+        },
+        {
+          "letra": "E",
+          "texto": "o poema é uma denúncia da fome que assola o Brasil há tantos anos, situação que está na bagagem do eu lírico."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Análise de Poema"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "TEXTO 7\nEmbora as mulheres, de modo geral, tenham sido excluídas dos eventos da Semana de 22, três delas tiveram participação ativa na construção da identidade modernista nos anos seguintes: Anita Malfatti, com papel de destaque no evento centenário, Tarsila do Amaral, retrabalhando em suas pinturas os dilemas do movimento, e Pagu, que levou à vanguarda o engajamento social.\n\nTEXTO 8\nA participação feminina no mercado de trabalho tem se ampliado nos últimos anos, contudo, as condições de trabalho e a remuneração ainda precisam melhorar. Embora as mulheres possuam maior escolarização em relação aos homens, ainda recebem salários inferiores.\n\nNo Brasil, é crescente a participação da mulher no mercado de trabalho e é notório o aumento de sua importância na economia. É progressiva também a responsabilidade feminina no sustento da família e destaque profissional em diversos setores. Entretanto, as funções exercidas, os cargos e as remunerações dessas mesmas mulheres ainda se encontram em defasagem considerável quando comparados com os dos homens.\n\nAs mulheres brasileiras ainda recebem em média 70% do salário que os homens ganham para executar as mesmas tarefas, nos mesmos postos de trabalho. Além disso, as condições de trabalho e a hierarquia nas instituições ainda desfavorecem as mulheres em relação aos seus colegas do sexo masculino. Os cargos de chefia ainda são exercidos, na maioria dos setores, por homens, mesmo em profissões tidas como historicamente femininas.\n\nConsiderando os textos 7 e 8 acerca da participação de mulheres na sociedade, deduz-se que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "embora exista uma luta pelo reconhecimento e pelo respeito ao ser feminino, as ocupações socialmente relacionadas a elas são as que derivam do histórico papel social da “mulher cuidadora\"."
+        },
+        {
+          "letra": "B",
+          "texto": "a condição do ser feminino varia de acordo com o contexto histórico-social, uma vez que há muitos exemplos de reconhecimento do verdadeiro papel da mulher dentro de qualquer sociedade."
+        },
+        {
+          "letra": "C",
+          "texto": "a manutenção de atitudes desrespeitosas ao gênero feminino ocorreu porque, geralmente, há uma pouca consideração com posicionamentos de artistas e de jornalistas engajados com a causa do feminismo."
+        },
+        {
+          "letra": "D",
+          "texto": "o machismo no Brasil não tem limites, pois está até entre os artistas icônicos da Semana de Arte Moderna, cujo comportamento discriminatório interfere diretamente na defesa de um salário inferior para as mulheres."
+        },
+        {
+          "letra": "E",
+          "texto": "nem a luta de artistas como Anita Malfati, Pagu e Tarsila do Amaral conseguiu diminuir o machismo no Brasil, situação histórico-social que justifica a discriminação do gênero feminino em cargos importantes para o país."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Sociologia – Gênero e Sociedade"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "TEXT I\nAlways on my mind\nby Elvis Presley\nMaybe I didn't treat you\nQuite as good as I should have\nMaybe I didn't love you\nQuite as often as I could have\nLittle things I should have said and done\nI just never took the time\nYou were always on my mind\n(You were always on my mind)\nYou were always on my mind\n[...]\nAvailable on: https://www.letras.mus.br/elvis-presley/31393/. Access on:30/10/2022.\n\nIn the sentence “Maybe I didn't treat you”, “treat” means:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Take care of"
+        },
+        {
+          "letra": "B",
+          "texto": "Think"
+        },
+        {
+          "letra": "C",
+          "texto": "Feed"
+        },
+        {
+          "letra": "D",
+          "texto": "Dream"
+        },
+        {
+          "letra": "E",
+          "texto": "Sleep"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Vocabulário",
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "The sentence \"You were always on my mind\" talks about a situation that:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Happens in the present."
+        },
+        {
+          "letra": "B",
+          "texto": "Is not real."
+        },
+        {
+          "letra": "C",
+          "texto": "Will happen in the future."
+        },
+        {
+          "letra": "D",
+          "texto": "Occurred in the past times."
+        },
+        {
+          "letra": "E",
+          "texto": "Occurs right now."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Tempos Verbais",
+        "Inglês – Gramática"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "The sentence \"Quite as good as I should have\", indicates that:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "He treated his love pretty well."
+        },
+        {
+          "letra": "B",
+          "texto": "He could treat his love better."
+        },
+        {
+          "letra": "C",
+          "texto": "He did his best for his love."
+        },
+        {
+          "letra": "D",
+          "texto": "He doesn't care about his love."
+        },
+        {
+          "letra": "E",
+          "texto": "He's forgotten her birthday."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de Texto",
+        "Inglês – Modal Verbs"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "In the comic strip, Garfield means that:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "He doesn't like to plan ahead."
+        },
+        {
+          "letra": "B",
+          "texto": "He can do a lot of tasks during the day."
+        },
+        {
+          "letra": "C",
+          "texto": "He takes a lot of time to plan ahead to do nothing else during the day."
+        },
+        {
+          "letra": "D",
+          "texto": "He's sleeping."
+        },
+        {
+          "letra": "E",
+          "texto": "He's starving."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "In the last strip, \"If\" indicates:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Doubt"
+        },
+        {
+          "letra": "B",
+          "texto": "Denial"
+        },
+        {
+          "letra": "C",
+          "texto": "Impossibility"
+        },
+        {
+          "letra": "D",
+          "texto": "Condition"
+        },
+        {
+          "letra": "E",
+          "texto": "Certainty"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Conjunções",
+        "Inglês – Gramática"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "In the sentences below, fill in the blanks with at, in or on:\na) I wake up late ___ Sundays.\nb) Maggie's birthday is ___ November.\nc) Peter will visit me ___ night.\nd) What are you doing ___ the weekend?\n\nAlternatives:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "at - at - in - on"
+        },
+        {
+          "letra": "B",
+          "texto": "on - in - at - on"
+        },
+        {
+          "letra": "C",
+          "texto": "on - on - at - at"
+        },
+        {
+          "letra": "D",
+          "texto": "on - on - at - in"
+        },
+        {
+          "letra": "E",
+          "texto": "in - in - on - at"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Preposições"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "The sentence “John is younger than he looks” means:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "John is as old as he looks."
+        },
+        {
+          "letra": "B",
+          "texto": "John seems to be young."
+        },
+        {
+          "letra": "C",
+          "texto": "John is old."
+        },
+        {
+          "letra": "D",
+          "texto": "John isn't as old as he looks."
+        },
+        {
+          "letra": "E",
+          "texto": "John looks well."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Comparativos",
+        "Inglês – Gramática"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Choose the CORRECT word order for the sentences below:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Peter always is busy. He works a lot."
+        },
+        {
+          "letra": "B",
+          "texto": "What do you do usually?"
+        },
+        {
+          "letra": "C",
+          "texto": "I'm always losing things."
+        },
+        {
+          "letra": "D",
+          "texto": "Kate studies often English."
+        },
+        {
+          "letra": "E",
+          "texto": "I always am losing things."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Ordem das Palavras",
+        "Inglês – Advérbios de Frequência"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "In the sentence \"She ___ English very well\", fill in the blank with the best option below:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Speaking"
+        },
+        {
+          "letra": "B",
+          "texto": "Speak"
+        },
+        {
+          "letra": "C",
+          "texto": "Spoken"
+        },
+        {
+          "letra": "D",
+          "texto": "Speaks"
+        },
+        {
+          "letra": "E",
+          "texto": "Spiks"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Tempos Verbais",
+        "Inglês – Gramática"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Choose the best answer to the question: What are you doing at this moment?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I work everyday."
+        },
+        {
+          "letra": "B",
+          "texto": "I'm studying English now."
+        },
+        {
+          "letra": "C",
+          "texto": "I have spoken French fluently."
+        },
+        {
+          "letra": "D",
+          "texto": "I wrote a letter yesterday."
+        },
+        {
+          "letra": "E",
+          "texto": "I studied English."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Tempos Verbais",
+        "Inglês – Present Continuous"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Na Roma antiga, \"as festas estavam longe de significar apenas diversão. Todos os imperadores romanos [e outros governantes] sabiam da importância de difundir uma imagem positiva de si e do governo para garantir sua manutenção no cargo\"\nGonçalves, Ana Teresa Marques. Se quer festa vá a Roma. In: Revista de História da Biblioteca Nacional, ano 10, n. 110, nov. 2014, p. 58. Qual das festividades abaixo não existiu?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Em 15 de fevereiro começava o festival dos Lupercalia. Os Lupercos eram uma confraria de sacerdotes que se despiam durante a procissão em torno ao monte Palatino. Durante o trajeto, se flagelavam e algumas mulheres que acompanhavam esperavam para receber parte do sangue como garantia de fertilidade."
+        },
+        {
+          "letra": "B",
+          "texto": "Em abril iniciavam-se as festas de início do ano agrário. Essas celebrações tinham o objetivo de acionar as divindades para uma boa colheita. Os Parilia, os Cerialia e os Vinalia comemoravam o florecimento das parreiras e a produção vinícola com procissões alegres que cultuavam a divindade Ceres."
+        },
+        {
+          "letra": "C",
+          "texto": "Celebrada em 23 de agosto, a Volcanalia eram festas para louvar o deus Vulcano, que zelava pelos pescadores e artesãos. Lançavam-se pequenos peixes e outros animais ao fogo, em representação das vidas humanas a serem conservadas."
+        },
+        {
+          "letra": "D",
+          "texto": "Em fevereiro se celebrava a Carnavalia em honra à divindade baquiana. Tratava-se de uma festividade de inversão de papéis, onde tinha lugar a exaltação das utopias."
+        },
+        {
+          "letra": "E",
+          "texto": "Os jogos (Ludi) Gladiatoriais eram realizados nos anfiteatros, sendo o Coliseu o mais famoso. Celebravam-se corridas de cavalos, encenações teatrais, concursos de instrumentos musicais, dança, mímicas, recitações, etc."
+        }
+      ],
+      "opcaoCorreta": "ANULADA",
+      "conteudo": [
+        "História – Roma Antiga"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Foi durante a Idade Média que se desenvolveram",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as ideias ilustradas e liberais."
+        },
+        {
+          "letra": "B",
+          "texto": "as edificações de estilo barroco."
+        },
+        {
+          "letra": "C",
+          "texto": "as igrejas protestantes."
+        },
+        {
+          "letra": "D",
+          "texto": "as universidades."
+        },
+        {
+          "letra": "E",
+          "texto": "os estados-nação."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Idade Média"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Muitas das principais ideias que possibitaram o surgimento das sociedades liberais no século XIX brotaram de uma nova matriz discursiva elaborada no Século das Luzes. Assinale a alternativa cujas características correspondam ao Iluminismo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Século XVII, divisão de poderes, autoritarismo."
+        },
+        {
+          "letra": "B",
+          "texto": "Século XVI, direito divino dos reis, centralização."
+        },
+        {
+          "letra": "C",
+          "texto": "Século XVIII, divisão de poderes, sistema representativo."
+        },
+        {
+          "letra": "D",
+          "texto": "Século XV, penas proporcionais ao delito, direitos."
+        },
+        {
+          "letra": "E",
+          "texto": "Século XVIII, monarquia constitucional, absolutismo."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Iluminismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Existe uma determinada narrativa engessada e a-histórica que não contempla os processos históricos pelos quais os povos originários se viram envolvidos desde os primeiros contatos com os europeus até os nossos dias. Pensando no Brasil do século XIX, quais características a seguir correspondem ao período?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Resistência indígena ao espólio de suas terras, participações nas guerras de Independência, várias etnias."
+        },
+        {
+          "letra": "B",
+          "texto": "Genocídio total, distribuição das terras, modernização."
+        },
+        {
+          "letra": "C",
+          "texto": "Miscigenação, símbolos da nação, deputados indígenas."
+        },
+        {
+          "letra": "D",
+          "texto": "Política indigenista, Funai, extermínio."
+        },
+        {
+          "letra": "E",
+          "texto": "Caçadores e coletores, aversão ao trabalho, sem religião."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Brasil Império",
+        "História – Questão Indígena"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Este ano celebramos o bicentenário da Independência do Brasil. Sobre esse importante evento, ocorrido em 1822, marque a alternativa CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Foi um projeto deixado de pai para filho quando D. João VI regressou, em 1821, para o Reino de Portugal. Foi, nesse sentido, um complô dos braganças contra as Cortes lisboetas."
+        },
+        {
+          "letra": "B",
+          "texto": "Constituiu o rompimento dinástico, mas não político. Tanto que não houve guerra, tal como ocorrera na Independência das colônias britânicas na América."
+        },
+        {
+          "letra": "C",
+          "texto": "A Independência vinha sendo tramada desde, pelo menos, o século XVIII e significou o fim do período colonial. A partir de 1822, D. Pedro I passou a governar todas as províncias do antigo Reino Unido."
+        },
+        {
+          "letra": "D",
+          "texto": "Não houve uma independência de fato. Até hoje o Brasil luta pela conquista de sua independência, soberania e implementação de um regime representativo."
+        },
+        {
+          "letra": "E",
+          "texto": "Fruto de um processo que se desencadeou com a Revolução do Porto, a instauração das Cortes em Lisboa, e a posterior volta de D. João VI ao Reino de Portugal. E somente a partir desse momento e gradualmente que as relações entre o Rio de Janeiro e Lisboa foram se estremecendo. Não se tratou de uma ruptura por conta de uma vontade de recolonização, mas sim devido à defesa da manutenção de velhas prerrogativas alcançadas pelo Reino do Brasil."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Independência do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Considerando as principais características da Revolução Pernambucana de 1817, marque a alternativa INCORRETA?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Um projeto republicano, não separatista, e de ideias liberais."
+        },
+        {
+          "letra": "B",
+          "texto": "Durou aproximadamente 75 dias, duramente reprimida, incluindo a perda de Alagoas."
+        },
+        {
+          "letra": "C",
+          "texto": "Pernambuco foi o epicentro, vinha há tempos sendo tramada, e teve uma repercussão internacional."
+        },
+        {
+          "letra": "D",
+          "texto": "Separatista, espontânea e de repercussão apenas local."
+        },
+        {
+          "letra": "E",
+          "texto": "Contou com o apoio de uma ampla parcela da população pernambucana e de outras províncias, de caráter revolucionário e de grande contestação à manutenção da Corte."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Período Joanino",
+        "História – Revolução Pernambucana"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Se foi Colombo que chegou primeiro ao novo mundo, e não Américo Vespúcio, por que esse continente veio a se chamar de América ou Americano?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Foi realmente Vespúcio quem antecedeu a Colombo em sua expedição de 1492."
+        },
+        {
+          "letra": "B",
+          "texto": "Apesar de ter sido oficialmente a expedição colombina a primeira, a circulação dos escritos de Vespúcio levou a Martin Waldseemüller e Matthias Ringmann a homenagearem este último colocando seu nome no território, que, ao cabo, acabou popularizando-se."
+        },
+        {
+          "letra": "C",
+          "texto": "Não tem a ver com Vespúcio, mas sim porque aqui viviam as Americanas, um reino mítico, também conhecido por Amazonas, que governavam um extenso território rico em jazidas de ouro."
+        },
+        {
+          "letra": "D",
+          "texto": "Foi um erro cartorial, quando se assinou o Tratado de Tordesilhas."
+        },
+        {
+          "letra": "E",
+          "texto": "Deveria ter se chamado Terra Nostra devido ao patrocínio florentino e veneziano no empreendimento."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Grandes Navegações"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Guerras, revoltas, motins, rebeliões e revoluções, a História do Brasil está repleta de sucessos violentos e sangrentos. Entre 1864 e 1870, o Brasil integrou uma coalizão com a Argentina e o Uruguai contra qual país?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Chile"
+        },
+        {
+          "letra": "B",
+          "texto": "Venezuela"
+        },
+        {
+          "letra": "C",
+          "texto": "Bolívia"
+        },
+        {
+          "letra": "D",
+          "texto": "Peru"
+        },
+        {
+          "letra": "E",
+          "texto": "Paraguai"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Guerra do Paraguai"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Sobre a Ditadura Civil-Militar, a resposta INCORRETA é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Milhares de trabalhadores foram monitorados e demitidos por companhias privadas sob suspeita de envolvimento com o comunismo."
+        },
+        {
+          "letra": "B",
+          "texto": "Empresários chegaram a entregar \"listas\" com nomes de sindicalistas e outros opositores aos aparelhos de repressão do governo."
+        },
+        {
+          "letra": "C",
+          "texto": "O Departamento de Ordem Política e Social, no Rio de Janeiro, foi utilizado como centro de tortura entre os anos 1960 e 1980."
+        },
+        {
+          "letra": "D",
+          "texto": "Críticos e opositores ao regime ditatorial foram monitorados, perseguidos, censurados, reprimidos ou mortos."
+        },
+        {
+          "letra": "E",
+          "texto": "Revolução de salvação ao comunismo, erradicação da corrupção, desenvolvimento econômico e diminuição dos problemas sociais brasileiros."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Ditadura Militar no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Sobre a Segunda Guerra Mundial, a resposta CORRETA é?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Conflito entre a Inglaterra e a Alemanha de proporções europeias pelo controle dos recursos petrolíferos do báltico."
+        },
+        {
+          "letra": "B",
+          "texto": "Conflito entre as principais potências europeias divididas entre aliados e o eixo. Houve operações na Europa, África, Ásia e Oceania, e provocou a morte de aproximadamente 40 milhões de civis."
+        },
+        {
+          "letra": "C",
+          "texto": "Conflito entre os Estados Unidos e a União Soviética que deu início ao período conhecido por Guerra Fria."
+        },
+        {
+          "letra": "D",
+          "texto": "Conflito entre a Grã-Bretanha e Hitler por conta da ascenção do partido comunista em Berlim, que prontamente se converteria no partido nazista."
+        },
+        {
+          "letra": "E",
+          "texto": "Conflito entre a Alemanha e a União Soviética pelos territórios poloneses e ucranianos e o livre comércio no mar Báltico."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Segunda Guerra Mundial"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "“Definida como um todo, a população é uma coleção de seres humanos. Ela é um conjunto finito e, portanto, num dado momento ‘recenseável”.\nRAFESTIN, Claude. Por uma Geografia do Poder, p.67.1993.\n\nSobre as informações geradas pelo Censo Demográfico, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Só o Estado se beneficia dos dados obtidos."
+        },
+        {
+          "letra": "B",
+          "texto": "Os imigrantes não são contabilizados na população total."
+        },
+        {
+          "letra": "C",
+          "texto": "As informações geradas pelo Censo são irrelevantes na tomada de decisões das empresas."
+        },
+        {
+          "letra": "D",
+          "texto": "Dados da agropecuária também são coletados pelo Censo Demográfico."
+        },
+        {
+          "letra": "E",
+          "texto": "Auxilia no planejamento de políticas públicas por faixa etária."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Demografia",
+        "Geografia – Censo Demográfico"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "O consumo de fontes de energia não renováveis tem um custo ambiental elevado e a substituição por fontes renováveis constitui-se em grande desafio a ser superado pela humanidade. Sobre as fontes de energia renováveis no Brasil é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A disponibilidade de energia solar é invariável nas diferentes regiões do país."
+        },
+        {
+          "letra": "B",
+          "texto": "A energia eólica é a segunda fonte de geração de energia elétrica mais utilizada no país."
+        },
+        {
+          "letra": "C",
+          "texto": "A região Nordeste concentra a maior produção de etanol do Brasil."
+        },
+        {
+          "letra": "D",
+          "texto": "A produção de biomassa é livre de qualquer impacto ambiental."
+        },
+        {
+          "letra": "E",
+          "texto": "As hidrelétricas produzem energia sem causar impactos ambientais e humanos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Fontes de Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "O aumento no preço dos alimentos no Brasil,devido à alta inflação tem levado as famílias brasileiras a reduzirem ou substituírem o consumo de itens da cesta básica. Nesse contexto, empresas do setor de alimentos e comércio têm adotado estratégias como redução do conteúdo das embalagens, sem redução do preço, introdução no mercado de subprodutos com preços mais “atrativos”, desde ossos, peles de animais a soro de leite, como pode ser verificado na imagem a seguir. Uma consequência da situação descrita é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a manutenção dos padrões alimentares."
+        },
+        {
+          "letra": "B",
+          "texto": "a redução da fome."
+        },
+        {
+          "letra": "C",
+          "texto": "o agravamento da insegurança alimentar."
+        },
+        {
+          "letra": "D",
+          "texto": "a melhoria dos hábitos alimentares."
+        },
+        {
+          "letra": "E",
+          "texto": "a redução da obesidade."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geografia Econômica",
+        "Geografia – Insegurança Alimentar"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Entre os meses de maio e junho de 2022, chuvas intensas e concentradas atingiram o litoral nordestino e vitimaram mais de 100 pessoas na Região Metropolitana do Recife e Zona da Mata pernambucana, além de outros danos. Essas precipitações pluviométricas são decorrentes de um fenômeno meteorológico que provoca forte calor na região do Oceano Atlântico, próximo à costa da África, influenciando nos campos de ventos e pressão. Na costa de Pernambuco, isso chega empurrado e se traduz na formação de muitas nuvens com chuvas fortes no período que engloba o outono e inverno na região, ou seja entre maio e início de agosto\".\nCARVALHEIRA, R., 2022.\n\nAssinale a alternativa que contém o fenômeno meteorológico descrito.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ondas de Leste"
+        },
+        {
+          "letra": "B",
+          "texto": "Massa Equatorial Continental"
+        },
+        {
+          "letra": "C",
+          "texto": "Frente fria"
+        },
+        {
+          "letra": "D",
+          "texto": "Ventos alísios de Sudeste"
+        },
+        {
+          "letra": "E",
+          "texto": "La Niña"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "\"Quarenta e seis imigrantes foram encontrados mortos na segunda-feira (27/06) dentro e ao redor de um caminhão abandonado em uma rodovia de San Antonio, Texas informaram as autoridades. A descoberta macabra é uma das piores tragédias com imigrantes nos Estados Unidos nos últimos anos e aconteceu cinco anos após um incidente fatal com características similares na mesma cidade do Texas, que fica a poucas horas da fronteira com o México.\"\n\nCom base no texto e nos seus conhecimentos sobre migração contemporânea, assinale a alternativa CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A rígida política migratória dos EUA potencializa os fluxos migratórios ilegais sob condições que ameaçam a vida humana."
+        },
+        {
+          "letra": "B",
+          "texto": "A busca por melhores condições de trabalho é uma das principais razões para migração com destino aos países em desenvolvimento."
+        },
+        {
+          "letra": "C",
+          "texto": "Os problemas decorrentes da migração afetam exclusivamente os países receptores."
+        },
+        {
+          "letra": "D",
+          "texto": "Os Estados Unidos é um dos principais destinos migratórios devido a políticas de inclusão dos menos favorecidos."
+        },
+        {
+          "letra": "E",
+          "texto": "Estados Unidos e União Europeia são os principais destinos da migração internacional, porque não possuem fronteiras à migração."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Migrações"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "“O futuro passou: Pandemia faz Brasil envelhecer uma década mais cedo com mortes precoces e menos nascimentos, população vai começar a encolher no final de 2020 (...) A pandemia deixou sua marca, com quase 700 mil mortos, antecipando a redução populacional para o fim desta década”\n\nUma possível consequência da redução populacional, conforme apontada no texto é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mais despesas com a Educação Infantil."
+        },
+        {
+          "letra": "B",
+          "texto": "aumento da expectativa de vida."
+        },
+        {
+          "letra": "C",
+          "texto": "aumento na oferta de mão de obra."
+        },
+        {
+          "letra": "D",
+          "texto": "sobrecarga do sistema previdenciário."
+        },
+        {
+          "letra": "E",
+          "texto": "estreitamento no topo da pirâmide etária brasileira nos próximos anos."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Demografia",
+        "Geografia – Estrutura Etária"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "\"De acordo com o mais recente levantamento do Mapbiomas, que atualizou os dados de uso e cobertura da terra de 1985 a 2021, a Amazônia perdeu 12% da sua área de floresta em 37 anos. [...]. Além da perda da vegetação nativa, a Amazônia também está perdendo água. Em 20 anos, a Amazônia perdeu o equivalente a 1,7 Mha de superfície de água, uma diminuição de 14,5%.”\n\nA perda da superfície de água na Amazônia está associada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ao regime fluvial intermitente."
+        },
+        {
+          "letra": "B",
+          "texto": "ao uso desordenado dos recursos hídricos pelos ribeirinhos."
+        },
+        {
+          "letra": "C",
+          "texto": "à redução da cobertura vegetal."
+        },
+        {
+          "letra": "D",
+          "texto": "ao garimpo legal."
+        },
+        {
+          "letra": "E",
+          "texto": "à preservação das matas ciliares."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Meio Ambiente",
+        "Geografia – Desmatamento"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Observar a lua é um ato comum entre os indivíduos dos diferentes pontos da Terra. A contemplação desse satélite é ainda mais esperado durante os eclipses que podem ser lunar ou solar. Sobre o eclipse lunar é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os eclipses lunares ocorrem durante a lua nova."
+        },
+        {
+          "letra": "B",
+          "texto": "A órbita da Terra não interfere na ocorrência dos eclipses."
+        },
+        {
+          "letra": "C",
+          "texto": "Quando toda a Lua passa na umbra ocorre o eclipse parcial"
+        },
+        {
+          "letra": "D",
+          "texto": "Quando parte da Lua passa na penumbra ocorre o eclipse total."
+        },
+        {
+          "letra": "E",
+          "texto": "O eclipse lunar ocorre quando há o alinhamento do Sol da Terra e da Lua."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Astronomia"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "\"TSE decide uniformizar o horário de votação em todo o país nas eleições de 2022 - Estados terão que seguir o horário oficial de Brasília (8h às 17h) independente do fuso horário.”.\n\nSabendo-se que Brasília está no fuso GTM -3, os eleitores da cidade de Rio Branco, capital do Acre, que está no fuso GTM-5, e eleitores da ilha de Fernando de Noronha, que está no fuso GTM-2, vão poder iniciar a votação respectivamente a partir de qual horário?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "08h00 e 07h00"
+        },
+        {
+          "letra": "B",
+          "texto": "07h00 e 07h00"
+        },
+        {
+          "letra": "C",
+          "texto": "06h00 e 09h00"
+        },
+        {
+          "letra": "D",
+          "texto": "09h00 e 08h00"
+        },
+        {
+          "letra": "E",
+          "texto": "06h00 e 08h00"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Fusos Horários"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "O mapa a seguir retrata o número de mortos decorrentes de conflitos no campo brasileiro em 2021. Com base no mapa e em seus conhecimentos sobre a questão agrária brasileira, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os estados do Pará e Mato Grosso do Sul lideram os conflitos no campo."
+        },
+        {
+          "letra": "B",
+          "texto": "A expansão da agropecuária nas regiões Norte e Centro - Oeste é uma das responsáveis pelo aumento dos conflitos no campo da região."
+        },
+        {
+          "letra": "C",
+          "texto": "A maior incidência de conflitos no campo brasileiro coincide com áreas de produção de agricultura de subsistência."
+        },
+        {
+          "letra": "D",
+          "texto": "No estado do Pará, os índices de violência têm relação com a agricultura de subsistência."
+        },
+        {
+          "letra": "E",
+          "texto": "Não há conflitos nos territórios indígenas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Questão Agrária"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "O Princípio de Le Châtelier é um dos mais importantes fundamentos do estudo do Equilíbrio Químico. Nesse contexto o que estabelece tal regra:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Quando um sistema químico em equilíbrio é pertubardo, o sistema se desloca em um sentido que minimiza a perturbação."
+        },
+        {
+          "letra": "B",
+          "texto": "Quando um sistema químico em equilíbrio é deslocado, o sistema se perturba em um sentido que maximizar a perturbação."
+        },
+        {
+          "letra": "C",
+          "texto": "Quando um sistema químico em equilíbrio é pertubardo, o sistema se desloca nos dois sentidos para aumentar a pertubação."
+        },
+        {
+          "letra": "D",
+          "texto": "Quando um sistema químico em equilíbrio é deslocado, o sistema não se desloca em nenhum sentido que minimiza a pertubação."
+        },
+        {
+          "letra": "E",
+          "texto": "Todo o sistema em equilíbrio é estático, ou seja, não ocorre nenhuma transformação durante o estabelecimento do equilíbrio."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Equilíbrio Químico"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Considere a reação e indique as afirmações como verdadeiras ou falsas.\n\n$$N_2(g) + O_2(g) + Br_2(g) \\rightleftharpoons 2NOBr(g)$$\n\ni) Ao ser adicionado gás $N_2$, o equilíbrio será perturbado e formará mais gás NOBr.\nii) Ao ser retirado NOBr, o equilíbrio não será perturbado.\niii) Ao ser adicionado $Br_2$, o equilíbrio será perturbado e formará mais gás NOBr.\niv) Ao ser retirado gás $N_2$, o equilíbrio será perturbado e formará mais gás NOBr.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "i – V; ii – V; iii – V; iv - V"
+        },
+        {
+          "letra": "B",
+          "texto": "i – F; ii – V; iii – F; iv - V"
+        },
+        {
+          "letra": "C",
+          "texto": "i – V; ii – F; iii – V; iv - F"
+        },
+        {
+          "letra": "D",
+          "texto": "i – F; ii – F; iii – F; iv - F"
+        },
+        {
+          "letra": "E",
+          "texto": "i – F; ii – V; iii – V; iv - V"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Equilíbrio Químico",
+        "Química – Princípio de Le Châtelier"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Uma úlcera é uma lesão na parede do estômago ou do intestino delgado. Em circunstâncias normais, uma camada espessa de muco reveste a parede do estômago, protegendo-a contra o ácido clorídrico e outros sucos gástricos presentes no estômago.\nSobre as teorias ácido-base, marque a resposta CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Um ácido de Bronsted-Lowry aceita um próton e se torna uma base conjugada."
+        },
+        {
+          "letra": "B",
+          "texto": "Um ácido de Arrhenius é um receptor de pares de elétrons."
+        },
+        {
+          "letra": "C",
+          "texto": "A única base de Lewis é o OH-."
+        },
+        {
+          "letra": "D",
+          "texto": "Uma solução ácida apresenta pH maior que 7."
+        },
+        {
+          "letra": "E",
+          "texto": "Uma base de Bronsted-Lowry aceita um próton e se torna um ácido conjugado."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Ácidos e Bases"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "O cobre pode ser depositado no cátodo de uma célula eletroquímica pela meia reação:\n\n$$Cu^{2+}(aq) + 2e^- \\rightarrow Cu(s)$$\n\nQuanto tempo levará para que uma massa de 126 g de cobre (II) fosse depositada em uma corrente de 2 A?\n(Considere $m_{Cu} = 63 \\ g.mol^{-1}$, Faraday = 96.500 $C.mol^{-1}$)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$96 \\times 10^{-2} s$"
+        },
+        {
+          "letra": "B",
+          "texto": "$500 \\times 10^3 s$"
+        },
+        {
+          "letra": "C",
+          "texto": "$193 \\times 10^3 s$"
+        },
+        {
+          "letra": "D",
+          "texto": "$9 \\times 10^{-2} s$"
+        },
+        {
+          "letra": "E",
+          "texto": "$15 \\times 10^{-2} s$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Eletroquímica",
+        "Química – Eletrólise"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Indique a nomenclatura dos compostos orgânicos abaixo respectivamente.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I. pentanona, II. pentanal, III. 3,5,5-trimetil-hexanal, IV. 5-metil-hexan-2-ona"
+        },
+        {
+          "letra": "B",
+          "texto": "I. butanona, II. pentanal, III. 3,5,5-trimetil-hexanal, IV. 5-metil-hexan-3-ona"
+        },
+        {
+          "letra": "C",
+          "texto": "I. butanona, II. pentanal, III. 3,5,5-trimetil-hexanal, IV. 3-metil-hexan-2-ona"
+        },
+        {
+          "letra": "D",
+          "texto": "I. butanona, II. butanal, III. 3,6,5-trimetil-hexanal, IV. 4-metil-hexan-3-ona"
+        },
+        {
+          "letra": "E",
+          "texto": "I. pentanona, II. hexanal, III. 3,5,5-trimetil-hexanal, IV. 4-metil-hexan-2-ona"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Química Orgânica",
+        "Química – Nomenclatura IUPAC"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Todas as alternativas a seguir são referentes à velocidade das reações químicas. Assinale a única afirmativa FALSA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A incidência da radiação pode acelerar a velocidade de muitas reações."
+        },
+        {
+          "letra": "B",
+          "texto": "O aumento de temperatura eleva, unicamente, a velocidade das reações endotérmicas."
+        },
+        {
+          "letra": "C",
+          "texto": "O aumento da concentração eleva a velocidade de uma reação."
+        },
+        {
+          "letra": "D",
+          "texto": "O catalisador não interfere nas velocidades dos processos em equilíbrio."
+        },
+        {
+          "letra": "E",
+          "texto": "A diminuição da temperatura reduz a velocidade de uma reação."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Cinética Química"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "A partir das equações apresentadas na Tabela 1, determine a entalpia global da reação:\n\n$$C(s) + 2H_2(g) \\rightarrow CH_4(g) \\quad \\Delta H = ?$$",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$379,8 \\ kcal \\ mol^{-1}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$502,4 \\ kcal \\ mol^{-1}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$12,45 \\ kcal \\ mol^{-1}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$-17,3 \\ kcal \\ mol^{-1}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$39,3 \\ kcal \\ mol^{-1}$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Termoquímica",
+        "Química – Lei de Hess"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Informe a sequência CORRETA da hibridização esperada para os seguintes carbonos da molécula abaixo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$sp^2, sp^2, sp^3, sp$"
+        },
+        {
+          "letra": "B",
+          "texto": "$sp^3, sp^2, sp^3, sp$"
+        },
+        {
+          "letra": "C",
+          "texto": "$sp^3, sp^3, sp^2, sp^2$"
+        },
+        {
+          "letra": "D",
+          "texto": "$sp^3, sp^2, sp^3, sp^2$"
+        },
+        {
+          "letra": "E",
+          "texto": "$sp^3, sp^2, sp^2, sp^2$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Hibridização do Carbono"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Muitos reagentes armazenados nos almoxarifados de laboratórios são preparados na forma de soluções aquosas. Suponha que queremos preparar uma solução com volume de 50 mL e concentração 1 mol $L^{-1}$ de $CH_3COOH(aq)$, ácido acético. Dispomos de uma solução 10 mol $L^{-1}$ de $CH_3COOH(aq)$. Que volume dessa solução teríamos de usar?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "320 µL"
+        },
+        {
+          "letra": "B",
+          "texto": "4500 µL"
+        },
+        {
+          "letra": "C",
+          "texto": "700 µL"
+        },
+        {
+          "letra": "D",
+          "texto": "5 mL"
+        },
+        {
+          "letra": "E",
+          "texto": "0,0193 L"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Soluções",
+        "Química – Diluição"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Uma lei de velocidade é, com frequência, derivada de um mecanismo proposto, impondo-se à aproximação do estado estacionário. Para ser plausível, um mecanismo deve estar de acordo com a lei de velocidade experimental e a equação química da reação total (Atkins, P. 2022). No estudo da cinética química, a etapa que determina a velocidade da reação é?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Reação elementar"
+        },
+        {
+          "letra": "B",
+          "texto": "Etapa lenta"
+        },
+        {
+          "letra": "C",
+          "texto": "Intermediário de reação"
+        },
+        {
+          "letra": "D",
+          "texto": "Etapa rápida"
+        },
+        {
+          "letra": "E",
+          "texto": "Estado de transição"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Cinética Química"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Em um experimento de eletrostática, dois cubos, um de plástico carregado eletricamente, e outro metálico, descarregado, são aproximados de modo que eles se atraem mutuamente. Na Figura 1 abaixo, as setas representam as forças de atração mútua entre os dois cubos.\n\nRetira-se, então, o cubo 1 e aproxima-se do cubo 2 um terceiro cubo, de plástico com carga contrária à do cubo 1. Qual das figuras abaixo representa corretamente as forças entre os cubos 2 e 3?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I"
+        },
+        {
+          "letra": "B",
+          "texto": "II"
+        },
+        {
+          "letra": "C",
+          "texto": "III"
+        },
+        {
+          "letra": "D",
+          "texto": "IV"
+        },
+        {
+          "letra": "E",
+          "texto": "V"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Eletrostática",
+        "Física – Força Elétrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Um objeto é colocado perpendicularmente ao eixo principal de uma espelho côncavo de 60 cm de raio de curvatura, como mostrado esquematicamente na Figura 3.\n\nSabe-se que o objeto se localiza a 25 cm do vértice V do espelho côncavo (ver imagem). Qual a distância do objeto ao foco F do espelho côncavo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "15 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "25 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "35 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "45 cm"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Óptica Geométrica",
+        "Física – Espelhos Esféricos"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "A cidade de Garanhuns, localizada no agreste de Pernambuco, é conhecida pelo seu festival de inverno e também por apresentar baixas temperaturas durante o ano. Durante o festival, em julho deste ano, as temperaturas mínimas chegaram a 15 °C. Nesse clima, as pessoas usam agasalhos e casacos para inibir o frio. Os agasalhos servem a essa finalidade pois\n\nI – aquecem o corpo quando usados, visto que possuem mais calor que o ambiente;\nII – inibem a sensação de frio, pois dificultam o fluxo de calor do corpo para o ambiente;\nIII – inibem o fluxo de frio do ambiente para o corpo.\n\nSobre as sentenças acima, podemos afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas a sentença I é verdadeira."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas a sentença II é verdadeira."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas a sentença III é verdadeira."
+        },
+        {
+          "letra": "D",
+          "texto": "As sentenças I e II são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "As sentenças I e III são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Termologia",
+        "Física – Transferência de Calor"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Tomadas de uso geral (TUG) são utilizadas nas residências, agrupadas em circuitos para utilização de equipamentos/eletrodomésticos, tais como TV, geladeira, liquidificador, micro-ondas, etc. Por norma de segurança, a corrente máxima em uma tomada TUG é de 10 A. Numa residência em Recife, cuja tensão é de 220 V, estão ligados no mesmo circuito (onde só há tomadas TUG) uma geladeira, uma TV, um ventilador e um forno de micro-ondas. Se todos os aparelhos desse circuito estiverem ligados ao mesmo tempo, consumindo suas potências máximas (ver tabela 1 com valores de potência), qual deve ser a máxima potência do micro-ondas para que a corrente não exceda o valor máximo permitido numa TUG?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1100 W"
+        },
+        {
+          "letra": "B",
+          "texto": "1200 W"
+        },
+        {
+          "letra": "C",
+          "texto": "1300 W"
+        },
+        {
+          "letra": "D",
+          "texto": "1400 W"
+        },
+        {
+          "letra": "E",
+          "texto": "1600 W"
+        }
+      ],
+      "opcaoCorreta": "ANULADA",
+      "conteudo": [
+        "Física – Eletrodinâmica",
+        "Física – Potência Elétrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "Um pedreiro engenhoso e conhecedor de conceitos de mecânica desenvolveu um dispositivo para içar materiais em uma obra na qual trabalhava. O dispositivo é constituído de roldanas, cabo e uma base, cuja massa é de 40 kg. Um esquema do dispositivo é mostrado na Figura 4. Se o pedreiro de 80 kg pendurar-se na extremidade livre da corda, qual peso de material ele conseguirá equilibrar com seu dispositivo? Desconsidere o atrito nas roldanas e a massa da corda e das roldanas. Use $g = 10 \\ m/s²$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3200 N"
+        },
+        {
+          "letra": "B",
+          "texto": "3000 N"
+        },
+        {
+          "letra": "C",
+          "texto": "2800 N"
+        },
+        {
+          "letra": "D",
+          "texto": "320 N"
+        },
+        {
+          "letra": "E",
+          "texto": "280 N"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Mecânica",
+        "Física – Roldanas"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "Uma determinada massa de gás sofre uma transformação durante a qual recebe do meio externo 200 J de calor, enquanto se expande. Nessa expansão, 300 J de trabalho é realizado pelo gás. A variação de energia interna sofrida por esse gás é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "– 200 J"
+        },
+        {
+          "letra": "B",
+          "texto": "- 100 J"
+        },
+        {
+          "letra": "C",
+          "texto": "zero"
+        },
+        {
+          "letra": "D",
+          "texto": "100 J"
+        },
+        {
+          "letra": "E",
+          "texto": "200 J"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Termodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Um bloco de massa M é puxado com velocidade constante, $\\vec{V}$, sobre uma superfície plana com atrito, por uma corda que faz um ângulo $\\theta$ com a horizontal (ver Figura 5). Entre as ações abaixo, qual é a única que aumenta a força de atrito entre o bloco e a superfície?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Aumentar o ângulo $\\theta$."
+        },
+        {
+          "letra": "B",
+          "texto": "Diminuir a velocidade do bloco."
+        },
+        {
+          "letra": "C",
+          "texto": "Diminuir a área de contato entre o bloco e a superfície."
+        },
+        {
+          "letra": "D",
+          "texto": "Aumentar a área de contato entre o bloco e a superfície."
+        },
+        {
+          "letra": "E",
+          "texto": "Aumentar a massa do bloco."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Leis de Newton",
+        "Física – Força de Atrito"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "Em humanos, pode haver uma perda de audição relacionada ao envelhecimento. As pequenas células ciliadas morrem no ouvido interno, o que significa inicialmente que, na maioria dos casos, frequências particularmente altas não podem mais ser percebidas. Suponha que, devido à perda auditiva, uma pessoa idosa é capaz de ouvir sons entre 20 Hz e 5000 Hz, apenas. Sabendo que a velocidade do som no ar, a uma determinada temperatura, é de 320 m/s. O som mais agudo que pode ser ouvido por essa pessoa tem comprimento de onda igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "64 mm"
+        },
+        {
+          "letra": "B",
+          "texto": "64 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "64 dm"
+        },
+        {
+          "letra": "D",
+          "texto": "16 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "16 dm"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Ondulatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "No trânsito das grandes cidades, uma alternativa para facilitar o fluxo de veículos, em grandes avenidas, é a onda verde. Uma onda verde é uma sincronização dos tempos dos semáforos de forma a permitir que um veículo viajando numa determinada velocidade, constante, passe por todos os semáforos abertos.\nConsidere um trecho de avenida em que dois semáforos estão a 500 m de distância um do outro. Os tempos de ambos os semáforos são: 30 s verde, 10 s amarelo e 30 s vermelho. Um automóvel com velocidade v passa pelo primeiro semáforo, que está verde, no momento em que o segundo semáforo fica vermelho e, sem mudar sua velocidade, segue até passar pelo segundo semáforo no momento em que este fica verde. Qual é, em módulo, o valor da velocidade do automóvel?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "36 km/h"
+        },
+        {
+          "letra": "B",
+          "texto": "40 km/h"
+        },
+        {
+          "letra": "C",
+          "texto": "50 km/h"
+        },
+        {
+          "letra": "D",
+          "texto": "60 km/h"
+        },
+        {
+          "letra": "E",
+          "texto": "72 km/h"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Cinemática",
+        "Física – MRU"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Um extintor incêndio cilíndrico, contendo $CO_2$, combate o incêndio com abafamento, fazendo com que o gás de dióxido de carbono ($CO_2$) seja expelido, reduzindo dessa maneira a concentração de oxigênio no ar (o fogo deixa de existir com baixas concentrações de oxigênio no ar). Em um dado extintor de $CO_2$ a pressão interna mostrada em seu medidor inicialmente é de 12 MPa. O extintor precisa ser recarregado com o tempo, pois parte do gás escapa e o extintor perde pressão. Numa inspeção, um técnico percebe que a pressão mostrada pelo medidor do extintor é de 7,2 MPa. Considerando a baixa de pressão observada, qual percentual da massa inicial do gás ainda há no interior do extintor? (Considere o $CO_2$ um gás ideal e que a temperatura se manteve constante)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20%"
+        },
+        {
+          "letra": "B",
+          "texto": "40%"
+        },
+        {
+          "letra": "C",
+          "texto": "60%"
+        },
+        {
+          "letra": "D",
+          "texto": "80%"
+        },
+        {
+          "letra": "E",
+          "texto": "100%"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Gases Ideais"
+      ]
+    },
+    {
+      "numeroEnunciado": 61,
+      "enunciado": "A respeito do sistema circulatório nos vertebrados, marque a afirmativa CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Na circulação pulmonar (pequena circulação), o sangue sai venoso do coração pelas veias pulmonares, vai para os pulmões, onde é oxigenado, e retorna arterial ao coração pelas artérias pulmonares."
+        },
+        {
+          "letra": "B",
+          "texto": "Nos anfíbios, a circulação é completa, o coração é constituído por seio venoso, um átrio e dois ventrículos, ocorrendo a mistura de sangue venoso e arterial."
+        },
+        {
+          "letra": "C",
+          "texto": "Em todos os vertebrados tetrápodes, há dupla circulação: a pulmonar e a sistêmica. Nesses casos, o sangue passa duas vezes pelo coração em uma volta completa pelo corpo."
+        },
+        {
+          "letra": "D",
+          "texto": "Ao contrário dos demais répteis, o coração dos crocodilos possui dois átrios e um ventrículo, com isso, no lado direito do coração, há apenas sangue venoso e, no lado esquerdo, há apenas sangue arterial."
+        },
+        {
+          "letra": "E",
+          "texto": "Nas aves e nos mamíferos, o coração tem dois átrios e dois ventrículos, no entanto, o que os distingue é que a circulação das aves é aberta e a dos mamíferos é fechada."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Fisiologia Comparada",
+        "Biologia – Sistema Circulatório"
+      ]
+    },
+    {
+      "numeroEnunciado": 62,
+      "enunciado": "A gripe é uma infecção contagiosa, que afeta o trato respiratório, provocando coriza, tosse e cansaço. Dadas as seguintes alternativas abaixo relacionadas à gripe:\n\nI Pode ser transmitida pelo contato direto ou indireto, através da secreção de uma pessoa contaminada.\nII. O agente causador é o rinovírus, que é um grupo de vírus da família dos picornavirus, com genoma de RNA de sentido positivo simples.\nIII. Como prevenção, recomenda-se fazer a imunização, tomando a vacina a cada seis meses.\nIV. O vírus da influenza propaga-se facilmente e pode ser responsável por elevadas taxas de hospitalização.\nV. Para tratar a gripe, recomenda-se o uso de antibióticos que podem ajudar a diminuir os sintomas.\n\nVerifica-se que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas as alternativas I, IV e V estão corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas as alternativas I, II e III estão corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas as alternativas I e IV estão corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas as alternativas I e II estão corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as alternativas estão corretas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Virologia",
+        "Biologia – Saúde Humana"
+      ]
+    },
+    {
+      "numeroEnunciado": 63,
+      "enunciado": "Os ecossistemas aquáticos estão representados pelos oceanos, rios e lagos. Analise as alternativas abaixo:\n\nI. O ecossistema de água doce é também conhecido como ecossistema lêntico, caracterizado por águas em movimento, sendo representado por lagos e lagoas.\nII. Nos ecossistemas lóticos, como nos rios, a formação da corrente faz com que o ambiente seja mais homogêneo em termos de temperatura, oxigênio e nutrientes minerais.\nIII. Os bentos são seres vivos que vivem em associação no fundo dos ambientes aquáticos, podendo ser classificados em zoobentos e fitobentos.\nIV. As características dos organismos dos rios não dependem da velocidade das correntes de água. Em águas rápidas praticamente há uma grande quantidade de plânctons.\n\nCom base nas afirmativas acima, verifica-se que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas as alternativas II e III estão corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas as alternativas I, II e IV estão corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas as alternativas II, III e IV estão corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas as alternativas I e III estão corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as alternativas estão corretas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Ecologia",
+        "Biologia – Ecossistemas Aquáticos"
+      ]
+    },
+    {
+      "numeroEnunciado": 64,
+      "enunciado": "No processo de gametogênese, é INCORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ao redor dos túbulos seminíferos, estão as células intersticiais (células de Leydig), produtoras de testosterona."
+        },
+        {
+          "letra": "B",
+          "texto": "Na ovulogênese, ocorrem divisões mitóticas das células germinativas, formando as ovogônias que são células diplóides."
+        },
+        {
+          "letra": "C",
+          "texto": "A cada ciclo menstrual, inicia-se a maturação de um folículo formando o ovócito II que só completa a meiose II, se houver fecundação."
+        },
+        {
+          "letra": "D",
+          "texto": "As espermatogônias ficam inativas até o início da puberdade, normalmente entre os 13 e 16 anos."
+        },
+        {
+          "letra": "E",
+          "texto": "A espermatogênese é estimulada pelo hormônio sexual masculino chamado estrogênio."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Gametogênese",
+        "Biologia – Fisiologia Humana"
+      ]
+    },
+    {
+      "numeroEnunciado": 65,
+      "enunciado": "\"Leptospirose: casos prováveis sobem 80% em Pernambuco; oito pessoas morreram. Este ano, até 30 de julho, foram notificados 1.169 casos suspeitos, sendo 231 já confirmados.\n\nSobre o assunto relatado no texto acima, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A doença tem como agente etiológico os roedores que são os principais reservatórios entre os mamíferos."
+        },
+        {
+          "letra": "B",
+          "texto": "A transmissão ocorre principalmente por via indireta, mediante contato com água ou solo úmido contaminados pela urina infectadas com protozoários do gênero Lepstospira."
+        },
+        {
+          "letra": "C",
+          "texto": "Evitar ambientes abafados e com aglomerações de pessoas e isolar as pessoas contaminadas em hospitais especializados são medidas profiláticas eficazes para o combate à doença."
+        },
+        {
+          "letra": "D",
+          "texto": "A incidência da doença aumenta nos meses chuvosos, devido às enchentes e enxurradas que espalham o vírus presente na urina do rato."
+        },
+        {
+          "letra": "E",
+          "texto": "Em áreas metropolitanas de regiões tropicais, o rato de esgoto é considerado o mais importante transmissor da leptospirose para o homem."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Saúde Humana",
+        "Biologia – Bacteriologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 66,
+      "enunciado": "O desenvolvimento vegetal pode ser definido como o conjunto de processos de divisão, crescimento e diferenciação celular, que se organizam resultando na formação do corpo de uma planta adulta. A respeito da estrutura e funcionamento das angiospermas, analise as afirmativas a seguir e marque (V) para a afirmativa verdadeira e (F) para a afirmativa falsa.\n\n( ) O crescimento em comprimento da planta é chamado crescimento primário. Nessa fase, as células são grandes, muito especializadas e possuem paredes espessas.\n( ) O súber maduro, também conhecido como cortiça, é um tecido vegetal que tem como função proteção mecânica e impermeabilizante e substitui o córtex das plantas vasculares com crescimento secundário.\n( ) Os parênquimas com função de preenchimento são geralmente encontrados em órgãos que ficam expostos à luz e têm células ricas em cloroplastos, sendo os principais tecidos vegetais responsáveis pela fotossíntese.\n( ) O colênquima é um tecido de sustentação formado por células mortas, apresentam parede celular espessa constituída de celulose, pectina e contém lignina.\n\nA alternativa que contém a sequência CORRETA, de cima para baixo, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V, F, V, V"
+        },
+        {
+          "letra": "B",
+          "texto": "F, V, F, F"
+        },
+        {
+          "letra": "C",
+          "texto": "F, V, F, V"
+        },
+        {
+          "letra": "D",
+          "texto": "V, F, V, F"
+        },
+        {
+          "letra": "E",
+          "texto": "V, F, F, F"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Botânica",
+        "Biologia – Histologia Vegetal"
+      ]
+    },
+    {
+      "numeroEnunciado": 67,
+      "enunciado": "A história evolutiva entre alguns táxons dentro da ordem Carnívora está representada na árvore filogenética a seguir.\n\nCom base na árvore ilustrada na figura 1, considere as afirmativas a seguir:\n\nI - O ponto de ramificação 1 representa o ancestral comum mais recente de todos os membros da família Mustelidae, Felidae e Canidae.\nII - O ponto de ramificação 2 representa uma diversificação por cladogênese do ancestral comum a coiotes e lobos-cinzentos.\nIII - O leopardo e o texugo americano pertencem a táxons-irmãos.\n\nQuais estão corretas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas I"
+        },
+        {
+          "letra": "B",
+          "texto": "apenas II"
+        },
+        {
+          "letra": "C",
+          "texto": "apenas III"
+        },
+        {
+          "letra": "D",
+          "texto": "apenas II e III"
+        },
+        {
+          "letra": "E",
+          "texto": "apenas I e II"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Evolução",
+        "Biologia – Filogenia"
+      ]
+    },
+    {
+      "numeroEnunciado": 68,
+      "enunciado": "Ao longo do último século, a origem da vida começou a ser abordada cientificamente, por meio de experimentos de laboratório e estudo de processos teóricos. Ela se tornou um tema eminentemente interdisciplinar, envolvendo cosmologia, astrofísica, planetologia, geologia, química orgânica, biologia molecular, matemática e teoria de sistemas complexos. Nos últimos cinquenta anos, ela se desdobrou em diversos subtemas, alguns dos quais alcançaram progressos notáveis. Algumas questões fundamentais continuam, entretanto, sem solução.\nDamineli, A.; Damineli, D. S. C. Origens da vida. Estudos Avançados [online]. 2007, v. 21, n. 59.\n\nA respeito desse tema, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Miller e Urey montaram um experimento mimetizando os processos atmosféricos, em que um gás carbônico, monóxido de carbono e nitrogênio passavam por uma câmara onde havia descargas elétricas, depois eram condensados num recipiente de água e evaporados, novamente, num ciclo contínuo."
+        },
+        {
+          "letra": "B",
+          "texto": "De acordo com a evolução química, a vida teria surgido na Terra pelas associações entre as moléculas, formando substâncias cada vez mais complexas, que levaram ao surgimento dos primeiros seres vivos, os Coacervatos."
+        },
+        {
+          "letra": "C",
+          "texto": "Um passo importante para o surgimento do primeiro ser vivo foi o desenvolvimento da capacidade de se reproduzir. De acordo com a hipótese, no “mundo” do RNA, o DNA era o material genético primordial que originou o RNA."
+        },
+        {
+          "letra": "D",
+          "texto": "A descoberta de bactérias resistentes ao calor vivendo em fontes submarinas termais com profundidade superior a 2 mil metros reforçam a ideia de que os primeiros seres vivos que surgiram em nosso planeta eram quimioautotróficos."
+        },
+        {
+          "letra": "E",
+          "texto": "Segundo a hipótese heterotrófica, a partir dos primeiros seres fermentadores, teriam surgido os que realizavam respiração, depois os fotossintéticos e, por fim, os quimiossintetizantes."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Origem da Vida"
+      ]
+    },
+    {
+      "numeroEnunciado": 69,
+      "enunciado": "Por meio de técnicas in vitro de engenharia genética, é possível transformar microrganismos em pequenas fábricas para a produção de combustíveis, fármacos e hormônios humanos como a insulina. Os trabalhos de engenharia genética iniciam-se pela clonagem de um gene de interesse. A lista a seguir enumera uma sequência de eventos de uma clonagem gênica em uma bactéria.\n\n1. O DNA é clivado com enzimas de restrição, isolando o gene de interesse.\n2. As enzimas DNA-ligase unem o gene isolado ao plasmídeo retirado da bactéria.\n3. Reintroduz-se o plasmídeo nas bactérias.\n4. Replicação das moléculas de DNA recombinante.\n\nA sequência temporal correta dos eventos citados acima é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1, 2, 3 e 4"
+        },
+        {
+          "letra": "B",
+          "texto": "1, 3, 2 e 4"
+        },
+        {
+          "letra": "C",
+          "texto": "1, 2, 4 e 3"
+        },
+        {
+          "letra": "D",
+          "texto": "4, 2, 3 e 1"
+        },
+        {
+          "letra": "E",
+          "texto": "4, 3, 2 e 1"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Biotecnologia",
+        "Biologia – Engenharia Genética"
+      ]
+    },
+    {
+      "numeroEnunciado": 70,
+      "enunciado": "Na espécie humana, a calvície hereditária é uma característica influenciada pelo sexo e está diretamente associada à presença dos hormônios sexuais masculinos, de modo especial à presença da testosterona. Nos homens, o alelo C comporta-se como dominante e nas mulheres, como recessivo. Um casal heterozigoto para essa característica deseja saber os fenótipos esperados entre seus descendentes.\n\nCom base no texto, podemos afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas os filhos do sexo masculino apresentarão a calvície."
+        },
+        {
+          "letra": "B",
+          "texto": "os filhos portadores do gene em heterozigose para a calvície, seja do sexo masculino ou feminino, serão calvos."
+        },
+        {
+          "letra": "C",
+          "texto": "os filhos portadores do gene em heterozigose para a calvície, quando forem do sexo masculino, não serão calvos, mas, quando forem do sexo feminino, serão calvos."
+        },
+        {
+          "letra": "D",
+          "texto": "os filhos portadores do gene em heterozigose para a calvície, quando forem do sexo masculino, serão calvos; mas, quando forem do sexo feminino, não serão calvos."
+        },
+        {
+          "letra": "E",
+          "texto": "as filhas portadoras do alelo C em homozigose para a calvície não serão calvas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Genética",
+        "Biologia – Herança Influenciada pelo Sexo"
+      ]
+    },
+    {
+      "numeroEnunciado": 71,
+      "enunciado": "Uma caixa contém 6 bolas de mesmo tamanho e cada bola possui uma única letra escrita na sua superfície. Considerando que as letras utilizadas foram A-C-I-N-U-P, qual a probabilidade de, ao retirar as 6 bolas, aleatoriamente, uma por uma e, colocar uma ao lado da outra, formar a palavra UNICAP (figura 1)?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{1}{6!}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{1}{6^6}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{6}{6!}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{5!}{6^6}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{5!}{6!}$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Probabilidade",
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 72,
+      "enunciado": "Uma escada de 8 m é encostada no topo de um prédio, formando com ele um ângulo de 60°. Qual o valor da altura do prédio (figura 2)?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2\\sqrt{2} \\ m$"
+        },
+        {
+          "letra": "B",
+          "texto": "3 m"
+        },
+        {
+          "letra": "C",
+          "texto": "4 m"
+        },
+        {
+          "letra": "D",
+          "texto": "$3\\sqrt{2} \\ m$"
+        },
+        {
+          "letra": "E",
+          "texto": "6 m"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Trigonometria no Triângulo Retângulo"
+      ]
+    },
+    {
+      "numeroEnunciado": 73,
+      "enunciado": "Se preparando para as olimpíadas de robótica, um grupo de 10 alunos treinavam 6h por dia, durante 20 dias, para conseguir realizar todas as etapas da prova. Considerando o mesmo desempenho entre os alunos, quantas horas por dia, 8 alunos, durante 15 dias, devem treinar para realizar todas as etapas desta prova?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "8"
+        },
+        {
+          "letra": "C",
+          "texto": "10"
+        },
+        {
+          "letra": "D",
+          "texto": "12"
+        },
+        {
+          "letra": "E",
+          "texto": "15"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Regra de Três Composta"
+      ]
+    },
+    {
+      "numeroEnunciado": 74,
+      "enunciado": "O Faturamento, em milhões, de um parque de diversão nos primeiros 40 dias do ano de 2022 se dá pela função quadrática\n\n$$L(x) = -\\frac{1}{100}x(x-40), \\quad 0 < x \\le 40$$\n\nDe acordo com a função L(x), marque a alternativa CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O faturamento no décimo dia foi inferior a 3 milhões."
+        },
+        {
+          "letra": "B",
+          "texto": "O faturamento máximo ocorreu no trigésimo dia."
+        },
+        {
+          "letra": "C",
+          "texto": "L(x) > 0 para todo intervalo $0 < x \\le 40$."
+        },
+        {
+          "letra": "D",
+          "texto": "O faturamento máximo foi de 4 milhões."
+        },
+        {
+          "letra": "E",
+          "texto": "O faturamento máximo foi de 20 milhões."
+        }
+      ],
+      "opcaoCorreta": "ANULADA",
+      "conteudo": [
+        "Matemática – Função Quadrática"
+      ]
+    },
+    {
+      "numeroEnunciado": 75,
+      "enunciado": "No auditório da UNICAP, 341 pessoas estão participando de uma Palestra. Uma delas descobriu que vai ser feito um sorteio no final, e, num minuto, transmite a informação a quatro colegas; cada um destes transmite a informação a outros quatro, gastando também um minuto, e assim sucessivamente. O tempo mínimo necessário para que as 341 pessoas recebam a informação do sorteio a contar do instante em que a primeira pessoa recebeu é de?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 min"
+        },
+        {
+          "letra": "B",
+          "texto": "2 min"
+        },
+        {
+          "letra": "C",
+          "texto": "3 min"
+        },
+        {
+          "letra": "D",
+          "texto": "4 min"
+        },
+        {
+          "letra": "E",
+          "texto": "5 min"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Progressão Geométrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 76,
+      "enunciado": "Na figura 3, está representado o quadrado ABCD de lado 4cm, com E e F, respectivamente, os pontos médios dos lados BC e CD.\n\nA área do triângulo AEF, em $m^2$, mede:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "0,0006"
+        },
+        {
+          "letra": "C",
+          "texto": "4"
+        },
+        {
+          "letra": "D",
+          "texto": "0,0004"
+        },
+        {
+          "letra": "E",
+          "texto": "0,06"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Área de Figuras Planas"
+      ]
+    },
+    {
+      "numeroEnunciado": 77,
+      "enunciado": "O cubo e a pirâmide quadrangular regular foram construídos num sistema de coordenadas cartesianas tridimensional. Sabe-se que:\n\n- $\\overline{AB} = 4;$\n- $\\overline{OC} = \\frac{\\overline{OD}}{2}$\n\nSe o volume dos dois sólidos é igual, então a altura da pirâmide, em unidade de medida é (figura 4):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12"
+        },
+        {
+          "letra": "B",
+          "texto": "8"
+        },
+        {
+          "letra": "C",
+          "texto": "9"
+        },
+        {
+          "letra": "D",
+          "texto": "15"
+        },
+        {
+          "letra": "E",
+          "texto": "7"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Espacial",
+        "Matemática – Volume de Sólidos"
+      ]
+    },
+    {
+      "numeroEnunciado": 78,
+      "enunciado": "A magnitude (M) e a energia total (E) libertada por um determinado sismo satisfazem a equação:\n\n$$log_{10}(E) = 5,24 + 1,44M$$\n\nO sismo com maior intensidade registrado até hoje ocorreu no Chile (Valdivia) no dia 22 de maio de 1960, tendo este provocado um tsunami que alcançou as costas do Havaí e das Filipinas. Registrou uma magnitude 9,5 na escala Richter e estima-se que o número de mortes possa ter chegado a 5000.\nPara liberar uma energia total E=1011 kW/h, qual o valor da magnitude M de um sismo, na escala Richter?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "4"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "5"
+        },
+        {
+          "letra": "E",
+          "texto": "2"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Logaritmos"
+      ]
+    },
+    {
+      "numeroEnunciado": 79,
+      "enunciado": "Foi feita uma pesquisa com os alunos do curso de Engenharia da Complexidade, em três turmas diferentes, para saber a opinião de qual seleção seria a campeã da copa do mundo 2022. O resultado foi divulgado no gráfico 1 abaixo.\n\nBaseado nesta pesquisa, o percentual de alunos do curso que acredita que o Brasil será campeão da copa do mundo é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15%"
+        },
+        {
+          "letra": "B",
+          "texto": "22,5%"
+        },
+        {
+          "letra": "C",
+          "texto": "3,75%"
+        },
+        {
+          "letra": "D",
+          "texto": "35,7%"
+        },
+        {
+          "letra": "E",
+          "texto": "37,5%"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Porcentagem",
+        "Matemática – Análise de Gráficos"
+      ]
+    },
+    {
+      "numeroEnunciado": 80,
+      "enunciado": "A obesidade infantil é um problema que preocupa o mundo todo. A tabela 1 a seguir mostra a massa (em quilogramas) de um grupo de crianças da mesma faixa etária. Os dados foram agrupados e informados em intervalos.\n\nA média e a moda do peso (massa), em quilograma`, das crianças, respectivamente, valem:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "60 e 62"
+        },
+        {
+          "letra": "B",
+          "texto": "61,5 e 58"
+        },
+        {
+          "letra": "C",
+          "texto": "58,5 e 64"
+        },
+        {
+          "letra": "D",
+          "texto": "50 e 60"
+        },
+        {
+          "letra": "E",
+          "texto": "61,5 e 60"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Estatística",
+        "Matemática – Média e Moda"
+      ]
+    }
+  ]
+}

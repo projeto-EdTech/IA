@@ -1,0 +1,1565 @@
+{
+  "nomeUniversidade": "Pontifícia Universidade Católica de Goiás",
+  "siglaUniversidade": "PUC GOIÁS",
+  "nomeProva": "Vestibular de Medicina",
+  "ano": 2024,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Leia o fragmento do texto Documentário brasileiro em Cannes:\n\nAo longo de seis décadas, o cinema de Nelson Pereira dos Santos projetou o Brasil aos olhos do mundo. Nesta sexta-feira (19), o documentário sobre a vida e obra do cineasta, produzido pela MP2 Produções, em parceria com a Globo News, Globo Filmes e Canal Brasil, será exibido no Festival de Cannes, na França. Nelson Pereira dos Santos – Vida de Cinema concorre ao prêmio L'OEil D'or na Seção Cannes Classics [...]\nDirigido por Aída Marques e Ivelise Ferreira, viúva do cineasta, que morreu em 2018, o longa será lançado no Brasil no segundo semestre. Segundo Aída e Ivelise, o documentário exibe características marcantes de Nelson como cineasta, produtor e professor.\n\n(REDE GLOBO. Documentário brasileiro em Cannes. O Popular, Goiânia, 19 maio de 2023. Cinema.)\n\nConsidere o seguinte trecho do texto \"[...] o longa será lançado no Brasil no segundo semestre. Segundo Aída e Ivelise [...]”.\n\nMarque a única alternativa correta sobre o emprego do vocábulo segundo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Em “será lançado no segundo semestre”, o vocábulo, morfologicamente, é um numeral cardinal."
+        },
+        {
+          "letra": "B",
+          "texto": "Em \"Segundo Aída e Ivelise\", o vocábulo, morfologicamente, é uma preposição."
+        },
+        {
+          "letra": "C",
+          "texto": "Em ambos os empregos citados, o vocábulo, morfologicamente, é uma conjunção subordinativa conformativa."
+        },
+        {
+          "letra": "D",
+          "texto": "Em “será lançado no segundo semestre”, o vocábulo, morfologicamente, é um pronome."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Dom Quixote era um fidalgo espanhol que, depois de ler muitos livros, resolveu “para aumento de sua honra própria, como para proveito da república, fazer-se cavaleiro andante e ir-se por todo o mundo, com suas armas e cavalo, à cata de aventuras, [...] desfazendo todo o gênero de agravos, e pondo-se em ocasiões e perigos, donde, levando-os a cabo, cobrasse perpétuo nome e fama.\"\n\n(CERVANTES, Miguel de. D. Quixote de La Mancha – Primeira parte. Edição eBooksBrasil, 2005, p. 72. Disponível em: Don Quixote (Primeira Parte), files.cercomp.ufg.br/weby/up/4/o.quixote1.pdf. Acesso em: 03 jul. 2023.).\n\nO livro que narra a história de Dom Quixote é considerado um dos primeiros romances modernos da literatura ocidental, e a personagem central é uma paródia da cavalaria medieval.\n\nAcerca da transição para a Idade Moderna na Península Ibérica, assinale a única alternativa que está correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Tanto em Portugal quanto na Espanha, a decadência do sistema feudal foi caracterizada pela forte influência da Igreja Católica, que dificultava a centralização precoce do poder dos reis."
+        },
+        {
+          "letra": "B",
+          "texto": "Diferentemente da monarquia lusitana, que não conseguiu romper as relações entre suseranos e vassalos, na monarquia espanhola, a solidariedade dos reis com a nobreza facilitou a centralização dos poderes régios em Madri."
+        },
+        {
+          "letra": "C",
+          "texto": "Tanto em Portugal quanto na Espanha, houve grande intolerância com os judeus e com os islâmicos, e o Tribunal da Santa Inquisição foi utilizado como instrumento de centralização monárquica."
+        },
+        {
+          "letra": "D",
+          "texto": "Diferente da nobreza espanhola, que incentivou a expansão comercial marítima, os senhores feudais lusitanos resistiram às conquistas territoriais, o que levou os reis a centralizarem o projeto colonial português."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Formação dos Estados Modernos"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Na elaboração de três produtos, A, B e C, são utilizadas três substâncias: I, II e III. Uma unidade do produto A contém 1 g da substância I; 2 g da substância II e 5 g da substância III. Para o produto B são necessários 3 g da substância I; nada da II e 3 g da substância III. Para o produto C são necessários 2 g da substância I; 4 g da II e 10 g da III.\n\nProblema:\nSe são necessárias 26 unidades da substância I, 16 unidades da II e 58 da substância III para atender a uma demanda, quantas soluções inteiras e não nulas de quantidades de produtos A, B e C podem ser encontradas, dadas essas quantidades de substâncias I, II e III que as compõem?\n\nMarque a alternativa que corretamente indica a quantidade de soluções inteiras e não nulas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 soluções."
+        },
+        {
+          "letra": "B",
+          "texto": "4 soluções."
+        },
+        {
+          "letra": "C",
+          "texto": "5 soluções."
+        },
+        {
+          "letra": "D",
+          "texto": "6 soluções."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Sistemas Lineares"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Read carefully the fragment of the article about the history of ketchup:\n\nThe origin of ketchup dates back thousands of years to southeast Asia, where it did not resemble the hamburger condiment we love today. \"The story begins thousands of years ago, when people living along the coasts and rivers of southeast Asia and what is now southern China began to preserve local fish and shrimp, salting and fermenting it into rich savory pastes,\" says Dan Jurafsky, a professor of linguistics at Stanford University and the author of The Language of Food. These pastes were confined to the region until Emperor Wu of Han began to expand the nation around 200 B.C.\n\n(SYBERTZ, Alyssa. The surprising history of ketchup: Available in: https://www.rd.com/article/ketchup-origin/. Accessed on: July 18th, 2023.)\n\nConsider which of the following statements are related to the text:\n\nI - Ketchup history began in southeast Asia.\nII - Fermented pastes were a strategy of preserving fish and shrimp.\nIII - Fermented pastes were commonly found until Emperor Wu confined them to the southeast region.\nIV - Ketchup's origin dates thousands of years back, being very different from today's condiment.\n\nChoose the alternative with all correct statements:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II and III only."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II and IV only."
+        },
+        {
+          "letra": "C",
+          "texto": "I, III and IV only."
+        },
+        {
+          "letra": "D",
+          "texto": "II, III and IV only."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "De acordo com o último levantamento censitário, realizado em 2022, o Brasil ultrapassou o quantitativo de 200 milhões de habitantes. Entretanto, além de estar em queda desde 1960, foi a primeira vez que a taxa de crescimento anual ficou abaixo de 1%, desde que os registros começaram em 1872.\n\nCom base no enunciado e seus conhecimentos em demografia, marque a única alternativa que apresenta consequências socioeconômicas decorrentes dessa dinâmica demográfica:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Exigência de maior repasse financeiro para os municípios que tiveram maior envelhecimento da população."
+        },
+        {
+          "letra": "B",
+          "texto": "Dificuldade de manter a prestação de serviços especializados para uma população envelhecida, tendo em vista o predomínio de oferta para uma população jovem, numericamente maior."
+        },
+        {
+          "letra": "C",
+          "texto": "Capacidade produtiva e manutenção de serviços essenciais nos setores de educação, saúde e segurança, bem como previdência e assistência social."
+        },
+        {
+          "letra": "D",
+          "texto": "Redução das taxas de fecundidade e natalidade, o que resulta em menor capacidade de reposição populacional."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Dinâmica Populacional"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Para se aferir a temperatura corporal de uma pessoa, podem-se utilizar termômetros clínicos (mercúrio). Nesse processo, quando o termômetro é colocado em contato com o corpo, durante certo intervalo de tempo, ocorre o equilíbrio térmico entre o termômetro e o corpo. Quando o estado estacionário é atingido, faz-se a leitura da temperatura.\n\nProblema:\nSuponha que, em um laboratório de Física, você encontre um termômetro graduado em uma escala que não consegue reconhecer, denominada escala G. Ao verificar as temperaturas para o gelo em fusão e água em ebulição, encontra, respectivamente, 3 $^{\\circ}$G e 178 $^{\\circ}$G. Se a sua temperatura corporal, medida por um termômetro graduado na escala Celsius, for de 38 $^{\\circ}$C, ao utilizar o termômetro G, você encontrará qual valor?\n\nMarque a única resposta correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "42,3 $^{\\circ}$G."
+        },
+        {
+          "letra": "B",
+          "texto": "50,5 $^{\\circ}$G."
+        },
+        {
+          "letra": "C",
+          "texto": "69,5 $^{\\circ}$G."
+        },
+        {
+          "letra": "D",
+          "texto": "86,4 $^{\\circ}$G."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Termometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Em julho de 2023, o lançamento de um dos filmes mais esperados, Barbie, mostra na cena inicial um recorte interessante em relação à ruptura vivenciada pela sociedade. Ou seja, uma aurora da mulher. É possível estabelecer um paralelo com a cena inicial do filme “2001 – Uma Odisseia no Espaço”, de Stanley Kubrick, que corresponde à aurora da humanidade, simbolizada na cena em que os humanos aprendem a manusear os instrumentos e, por um ato de violência, surge a humanidade. Nesse momento, vê-se o paralelo com a cena inicial do filme Barbie, em que a menina pega a boneca antiga e a quebra. Surge então uma nova concepção de boneca que ela irá manusear e com a qual irá brincar. Outro aspecto observado é a música (Also sprach Zarathustra, Opera 30) presente nos dois filmes.\nEssas duas cenas nos reportam a um filósofo que foi inspiração para esse debate. Aliás, sua teoria filosófica serviu de inspiração para Stanley Kubrick idealizar a passagem da humanidade, em que o ser humano vai para aquela ideia de um Super-Homem, ou seja, para a ideia de que a sociedade progride.\n\nConsideradas essas informações, marque a alternativa que corresponde ao filósofo que serviu de inspiração para as duas cenas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Arthur Schopenhauer."
+        },
+        {
+          "letra": "B",
+          "texto": "Friedrick Nietzsche."
+        },
+        {
+          "letra": "C",
+          "texto": "Martin Heidegger."
+        },
+        {
+          "letra": "D",
+          "texto": "Michel Foucault."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Filosofia – Nietzsche"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Uma determinada espécie de rato de laboratório apresenta gametas normais que contêm 51 cromossomos.\n\nEntre as alternativas apresentadas a seguir, marque aquela que corresponde ao número de autossomos existentes em uma célula da pele desse animal:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "50."
+        },
+        {
+          "letra": "B",
+          "texto": "102."
+        },
+        {
+          "letra": "C",
+          "texto": "104."
+        },
+        {
+          "letra": "D",
+          "texto": "100."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Genética",
+        "Biologia – Citogenética"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Leia o fragmento do romance Iracema, de José de Alencar:\n\nUm dia, ao pino do sol, ela repousava em um claro da floresta. Banhava-lhe o corpo a sombra da oiticica, mais fresca do que o orvalho da noite. Os ramos da acácia silvestre esparziam flores sobre os úmidos cabelos. Escondidos na folhagem os pássaros ameigavam o canto.\nIracema saiu do banho: o aljôfar d'água ainda a roreja, como à doce mangaba que corou em manhã de chuva. Enquanto repousa, empluma das penas do gará as flechas de seu arco, e concerta com o sabiá da mata, pousado no galho próximo, o canto agreste.\nA graciosa ará, sua companheira e amiga, brinca junto dela. Às vezes sobe aos ramos da árvore e de lá chama a virgem pelo seu nome; outras remexe o uru de palha matizada, onde traz a selvagem seus perfumes, os alvos fios do crautá, as agulhas da juçara com que tece a renda, e as tintas de que matiza o algodão.\n\n(ALENCAR, José de. Iracema. 24 ed. São Paulo: Ática, 1991. Disponível em: www.dominiopublico.gov.br. Acessado em: 10 ago. 2023.)\n\nVocabulário:\n* Aljôfar = Gota de água com aspecto de pérola.\n* Roreja = Borrifa, orvalha.\n* Ará = Grande papagaio da América do Sul.\n* Crautá = Palmeira frutífera do sertão, a mesma que no Pará se chama açaí.\n\nDepois da independência, na busca por se adequar aos padrões impostos pela modernidade da época, o Brasil empenha-se para se afirmar como nação.\n\nMarque a alternativa que corresponde corretamente às marcas representativas do nacionalismo, evidenciadas pelo fragmento do romance de José de Alencar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Realismo naturalista."
+        },
+        {
+          "letra": "B",
+          "texto": "Romantismo indianista."
+        },
+        {
+          "letra": "C",
+          "texto": "Regionalismo modernista."
+        },
+        {
+          "letra": "D",
+          "texto": "Bucolismo arcadista."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Romantismo (Indianismo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Leia as informações a seguir sobre o acônito:\n\nO acônito (Aconitum napellus) é uma planta venenosa, muito utilizada em fármacos homeopáticos. Suas flores são azuis na forma de um elmo e encantam por sua beleza. O contato com a pele ou a sua ingestão podem causar problemas de saúde e até mesmo levar à morte do indivíduo. Dessa planta pode ser extraída a aconitina, um alcaloide que, em pequenas doses, tem aplicação na medicina, mas que, em alta concentração, é extremamente tóxico. A dose letal é de cerca de 3 mg de aconitina (que pode ser encontrada em 4 g de tubérculo fresco). A aconitina (de massa molar 646 gramas por mol) é um diéster formado por ácido acético e ácido benzoico e pela base aconina. Um alcaloide verdadeiro possui um anel heterocíclico com um átomo de nitrogênio e cuja biossíntese se dá através de um aminoácido.\n\nAnalise as afirmações a seguir, tendo como base seus conhecimentos e os dados apresentados no texto:\n\nI - Embora a aconitina tenha, em parte da sua estrutura, um anel heterocíclico com um átomo de nitrogênio, não se pode chamar esse grupo de amina, pois o nitrogênio faz parte de uma estrutura cíclica.\nII - Os ésteres orgânicos são compostos formados pela troca do hidrogênio presente na carboxila dos ácidos carboxílicos por um grupo alquila, ou arila, como o acetato de fenila.\nIII - Em cada grama de tubérculo fresco do acônito há aproximadamente 0,000001 mol de aconitina.\n\nMarque a única alternativa que corresponde a afirmações corretas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Funções Orgânicas",
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Leia o fragmento do texto Insônia infeliz e feliz de Clarice Lispector:\n\nDe repente os olhos bem abertos. E a escuridão toda escura. Deve ser noite alta. Acendo a luz da cabeceira e para o meu desespero são duas horas da noite. E a cabeça clara e lúcida. Ainda arranjarei alguém igual a quem eu possa telefonar às duas da noite e que não me maldiga. Quem? Quem sofre de insônia? E as horas não passam. Saio da cama, tomo café. [...] E o que se passa na luz acesa da sala? Pensa-se uma escuridão clara. Não, não se pensa. Sente-se. Sente-se uma coisa que só tem um nome: solidão. Ler? Jamais. Escrever? Jamais. Passa-se um tempo, olha-se o relógio, quem sabe são cinco horas. Nem quatro chegaram. Quem estará acordado agora? E nem posso pedir que me telefonem no meio da noite pois posso estar dormindo e não perdoar. Tomar uma pílula para dormir? Mas e o vício que nos espreita? Ninguém me perdoaria o vício. Então fico sentada na sala, sentindo. Sentindo o quê? O nada. E o telefone à mão.\nMas quantas vezes a insônia é um dom. De repente acordar no meio da noite e ter essa coisa rara: solidão. Quase nenhum ruído. Só o das ondas do mar batendo na praia. E tomo café com gosto, toda sozinha no mundo. Ninguém me interrompe o nada. É um nada a um tempo vazio e rico. E o telefone mudo, sem aquele toque súbito que sobressalta. Depois vai amanhecendo. As nuvens se clareando sob um sol às vezes pálido como uma lua, às vezes de fogo puro. Vou ao terraço e sou talvez a primeira do dia a ver a espuma branca do mar. O mar é meu, o sol é meu, a terra é minha. E sinto-me feliz por nada, por tudo. Até que, como o sol subindo, a casa vai acordando e há o reencontro com meus filhos sonolentos.\n\n(LIPESCTOR, Clarice. Insônia infeliz e feliz. Disponível em: https:// contobrasileiro.com.br/insonia-infeliz-e-feliz-clarice-lispector/. Acesso em: 10 ago. 2023.)\n\nAnalise as proposições a seguir sobre o texto:\n\nI - O texto Insônia infeliz e feliz é reflexivo, intimista e tem como sujeito do discurso a própria autora.\nII - Predominam no fragmento de texto de Clarice Lispector, as funções emotiva e poética da linguagem.\nIII - O texto é rico em recursos estilísticos e expressivos como metáforas, antíteses e personificação.\n\nMarque a única alternativa correspondente às proposições corretas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Funções da Linguagem",
+        "Língua Portuguesa – Figuras de Linguagem",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Em 1783, com a assinatura do Tratado de Paris, a Coroa Britânica reconheceu a independência das 13 colônias da América do Norte.\n\nMarque a única alternativa que identifica corretamente elementos inovadores que formaram o governo do primeiro país a romper com sua metrópole no continente americano:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O parlamentarismo, o federalismo e a economia escravista."
+        },
+        {
+          "letra": "B",
+          "texto": "O federalismo, o capitalismo e o despotismo esclarecido."
+        },
+        {
+          "letra": "C",
+          "texto": "O parlamentarismo, o capitalismo e a filosofia iluminista."
+        },
+        {
+          "letra": "D",
+          "texto": "O presidencialismo, o federalismo e a democracia representativa."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Independência dos EUA"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Dois dados, não viciados, foram lançados simultaneamente, e as faces voltadas para cima foram anotadas.\n\nMarque a resposta que corretamente apresenta a probabilidade de saírem números primos nos dois dados:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "50%."
+        },
+        {
+          "letra": "B",
+          "texto": "45%."
+        },
+        {
+          "letra": "C",
+          "texto": "33%."
+        },
+        {
+          "letra": "D",
+          "texto": "25%."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Probabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Choose the sentence that uses the present perfect tense correctly:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "She has been watching a movie last night."
+        },
+        {
+          "letra": "B",
+          "texto": "They had visited their grandparents house yesterday."
+        },
+        {
+          "letra": "C",
+          "texto": "I have studied Spanish since I was in high school."
+        },
+        {
+          "letra": "D",
+          "texto": "He will have finished his work tomorrow."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Tempos Verbais"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "A instituição de fusos horários decorre do fato de a superfície do nosso Planeta ser curva, havendo a necessidade de adaptação de horários locais com o movimento aparente do Sol.\n\nProblema:\nConsidere a seguinte situação: um avião parte da cidade de Rio Branco (AC) para Brasília (DF). A viagem possui duração de 3 horas e 10 minutos, com pouso no destino às 16 horas e 30 minutos.\n\nMarque a única alternativa que, corretamente, apresenta a hora local de decolagem dessa aeronave:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "11h20."
+        },
+        {
+          "letra": "B",
+          "texto": "12h40."
+        },
+        {
+          "letra": "C",
+          "texto": "11h40."
+        },
+        {
+          "letra": "D",
+          "texto": "12h20."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Fusos Horários"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "LED significa Diodo Emissor de Luz (Light Emissor Diode) e refere-se a componentes eletrônicos que conseguem emitir luz visível ao transformar energia elétrica em energia luminosa.\nUma lâmpada de LED é um dispositivo eletrônico capaz de gerar luz, com baixo consumo de energia e com uma vida útil longa. Em termos de equivalência de luminosidade, uma lâmpada fluorescente compacta de 20 W pode ser substituída por uma lâmpada de LED compacta de 9 W.\n\nProblema:\nConsidere uma residência que possui 3 lâmpadas fluorescentes de 20 W, cada uma, que permanecem ligadas durante 8 horas por noite. Considerando que o kWh cobrado pela Companhia Energética seja de R$ 0,85, qual será a economia gerada no final do mês pela substituição destas 3 lâmpadas por 3 lâmpadas compactas de LED?\n\nMarque a alternativa que corretamente responde ao problema proposto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 6,73."
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 9,28."
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 12,27."
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 18,91."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Eletrodinâmica (Potência e Energia Elétrica)"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Existem semelhanças e diferenças entre uma célula animal e uma vegetal.\n\nSobre as características da célula animal e vegetal, leia atentamente as proposições que se seguem:\n\nI - A presença de vacúolo central ocorre tanto na célula vegetal como na célula animal, e essa estrutura é responsável pelo armazenamento de lipídeos e pela síntese de proteínas.\nII - Os ribossomos participam do processo de síntese proteica e são visíveis com o auxílio de microscópio eletrônico, existindo tanto em células animais quanto em vegetais.\nIII - A síntese de amido ocorre nas células vegetais em organelas denominadas cloroplastos; nas células animais, a síntese de amido acontece nas células hepáticas.\n\nEntre as alternativas apresentadas a seguir, assinale a única que corresponde corretamente às características de células animal e vegetal:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III apenas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Citologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Leia o fragmento do soneto de Cláudio Manuel da Costa:\n\nEste é o rio, a montanha é esta,\nEstes os troncos, estes os rochedos;\nSão estes inda os mesmos arvoredos;\nEsta é a mesma rústica floresta.\n\nTudo cheio de horror se manifesta,\nRio, montanha, troncos e penedos;\nQue de amor nos suavíssimos enredos\nFoi cena alegre, e urna é já funesta.\n\nOh! quão lembrado estou de haver subido\nAquele monte, e às vezes que baixando\nDeixei do pranto o vale umedecido!\n\nTudo me está a memória retratando;\nQue da mesma saudade o infame ruído\nVem as mortas espécies despertando.\n\n(COSTA, Cláudio Manuel da. Soneto VIII. Apud in. FISCHER, Luís Augusto. Poesia brasileira: do Barroco ao Pré-Modernismo. Porto Alegre: Novo século, 2001, p. 44-45.)\n\nAnalise as proposições a seguir, considerando os dois tercetos desse soneto:\n\nI - Referência à natureza, faz alusão ao preceito latino do carpe diem.\nII - Descrição objetiva da natureza, sem referência aos sentimentos do eu lírico.\nIII - Traço neoclássico na ordem inversa utilizada no último verso do segundo terceto.\nIV - Lembrança que o eu lírico expressa do passado em \"as mortas espécies despertando\".\n\nEm relação às proposições analisadas, assinale a única alternativa cujos itens estão todos corretos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "III e IV apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e IV apenas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Arcadismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Leia o fragmento de texto, a seguir, sobre a produção de água:\n\nImagine acabar com toda a sede do mundo no laboratório! A ideia é simples: sabendo a fórmula da água, cientistas fariam o líquido em ambiente controlado para ser distribuído ou vendido às regiões mais necessitadas. É possível? Tecnicamente, sim. Mas os custos seriam tão altos que não chegam a ser uma opção.\nSegundo o químico Fernando Galembeck, professor da Unicamp, a ciência sabe como pegar dois hidrogênios e uni-los a um oxigênio para formar duas moléculas de água. A técnica existe. O problema, entretanto, está no custo da operação.\n\n(Disponível em: https://www.uol.com.br/tilt/noticias/ redacao/2022/03/10/se-sabemos-a-formula-da-agua-por-que- nao-a-produzimos-em-laboratorio.htm. Acesso em: 04 ago. 2023. Adaptado.)\n\nProblema:\nConsidere que um cientista, ao tentar produzir água no estado gasoso a partir dos elementos que a constituem no estado padrão, acabou gerando uma mistura com os dois reagentes e o produto. Ao final da reação, a uma pressão total de 1,5 atm, a fração em mols de oxigênio foi de 0,3 e a de hidrogênio 0,4. Qual o valor da constante de equilíbrio?\n\nMarque a alternativa que corretamente responde ao problema proposto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O valor numérico da constante de equilíbrio em termos de pressões parciais (K$_p$) será de 1,25."
+        },
+        {
+          "letra": "B",
+          "texto": "O valor numérico da constante de equilíbrio em termos de pressões parciais (K$_p$) será de 1,87."
+        },
+        {
+          "letra": "C",
+          "texto": "O valor numérico da constante de equilíbrio em termos de pressões parciais (K$_p$) será de 2,78."
+        },
+        {
+          "letra": "D",
+          "texto": "O valor numérico da constante de equilíbrio em termos de pressões parciais (K$_p$) será de 6,25."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Equilíbrio Químico"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Analise o fragmento do texto de Carlos Drummond:\n\nMarço, 12 - Tanto trabalho para redigir a carta de resposta a uma diretora de serviço público que me mandou observações sobre uma crônica que publiquei no Jornal do Brasil. Problema: achar o tom adequado, a palavra justa, a expressão medida e insubstituível nem mais nem menos. Chego à conclusão de que escritor é aquele que não sabe escrever, pois quem não sabe escreve sem esforço. Já Manoel Bandeira era de outra opinião: \"Se você faz uma coisa com dificuldade, é que não tem jeito para ela\". Duvido.\n\n(ANDRADE, Carlos Drummond de. O observador no escritório. 1 ed. São Paulo: Companhia das Letras, 2020, p. 199. Grifos do autor)\n\nAssinale a única alternativa correta que apresenta o principal problema abordado por Drummond nesse texto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O Autor afirma que, para conseguir uma adequação vocabular que garanta coerência e clareza no texto, é necessário empenho na seleção vocabular."
+        },
+        {
+          "letra": "B",
+          "texto": "O escritor afirma que tanto ele quanto Manoel Bandeira comungam das mesmas ideias sobre saber escrever qualquer que seja o tipo de escrita."
+        },
+        {
+          "letra": "C",
+          "texto": "O escritor sentiu-se ofendido com as observações feitas pela diretora de serviço público a uma crônica sua, publicada no Jornal do Brasil."
+        },
+        {
+          "letra": "D",
+          "texto": "O Autor expõe que o emprego das palavras é soberano, pois a servidão a elas é atenuada, sobretudo na área da literatura."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Por meio de decreto, em novembro de 1823, o primeiro imperador do Brasil dissolveu a assembleia que elaborava a constituição para o novo país. No ano seguinte, Dom Pedro I outorgou a primeira Carta Magna da nação brasileira.\n\nAcerca das características dessa Constituição, avalie as alternativas a seguir:\n\nI - A monarquia brasileira foi definida como um regime constitucional e hereditário.\nII - O tráfico de escravos seria extinto progressivamente e, depois, a própria escravidão.\nIII - Além dos três poderes – Legislativo, Executivo e Judiciário – foi instituído o poder Moderador, que permitia ao imperador atuar com a finalidade de equilibrar os demais poderes.\nIV - O voto seria universal para todos os homens livres, alfabetizados e maiores de 21 anos.\n\nMarque a alternativa cujas afirmações são todas corretas a respeito da Constituição de 1824:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I, II e IV apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, III e IV apenas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Brasil Império"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Devido à topologia do terreno, um laranjal está sendo plantado da seguinte maneira: na primeira fila, planta-se 1 muda de laranja; na segunda fila, plantam-se 6 mudas de laranja; na terceira fila, plantam-se 15 mudas de laranja e, assim, sucessivamente.\n\nMarque a alternativa que corretamente apresenta a quantidade de mudas de laranja, na vigésima fila, com a continuidade da aplicação dessa mesma lógica, descrita no enunciado desta questão:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "780 mudas de laranja."
+        },
+        {
+          "letra": "B",
+          "texto": "760 mudas de laranja."
+        },
+        {
+          "letra": "C",
+          "texto": "740 mudas de laranja."
+        },
+        {
+          "letra": "D",
+          "texto": "720 mudas de laranja."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Sequências e Progressões"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Identify the sentence with the correct subject-verb agreement:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "The company with several branches were experiencing difficulties."
+        },
+        {
+          "letra": "B",
+          "texto": "Neither of them are going to the party in Joseph's house."
+        },
+        {
+          "letra": "C",
+          "texto": "The coins of my collection was stolen."
+        },
+        {
+          "letra": "D",
+          "texto": "The group of friends is going on a trip together."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Concordância Verbal (Subject-Verb Agreement)"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "A teoria da Deriva Continental, proposta por Alfred Wegener, em 1912, foi de grande importância para a compreensão da formação e arranjo dos continentes. Apesar de forte resistência à época por parte da comunidade científica, associada à Tectônica, a Teoria da Deriva Continental permitiu melhor compreensão acerca da dinâmica interna da Terra e de como esta influencia na dinâmica da litosfera terrestre.\n\nConsiderando o exposto, marque a alternativa que apresenta uma das evidências em que se fundamentou Wegener para a formulação da teoria apresentada:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Semelhança entre os contornos das costas oeste na América do Sul e leste no continente Africano."
+        },
+        {
+          "letra": "B",
+          "texto": "Semelhança entre as formações vegetais distribuídas na região tropical da América do Sul, da África e do continente australiano."
+        },
+        {
+          "letra": "C",
+          "texto": "Correlação espacial na distribuição de fósseis de plantas extintas na África, América do Sul, Austrália e Antártica."
+        },
+        {
+          "letra": "D",
+          "texto": "Ocorrência de cadeias montanhosas no fundo oceânico, conhecidas como dorsais meso-oceânicas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geologia e Tectônica de Placas"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Os fluidos desempenham papel fundamental em vários aspectos da vida cotidiana, desde os líquidos que precisam ser ingeridos ou os que circulam pelo corpo de um animal até o ar que respiramos.\n\nA respeito da estática dos fluidos, analise as assertivas a seguir:\n\nI - Fluidos são substâncias que podem fluir, ou seja, líquidos e gases. Por não suportarem uma força tangente à sua superfície (tensão de cisalhamento), os fluidos se moldam aos contornos do recipiente onde estão contidos.\nII - Se a densidade da água do mar for de 1,05 g/cm³ e a densidade do gelo que constitui um iceberg for de 0,95 g/cm³, a relação entre o volume submerso do iceberg e seu volume total é de 0,1.\nIII - De acordo com o Princípio de Pascal, sempre que uma variação de pressão é aplicada em um fluido incompressível e fechado, essa variação é transmitida parcialmente por uma porção do fluido ou pelas paredes do recipiente.\n\nEm relação às assertivas analisadas, marque a única resposta correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III apenas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Hidrostática"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Uma lavoura de milho pode ser considerada um ecossistema, onde acontecem diversas relações ecológicas. Por exemplo, a lagarta-do-cartucho alimenta-se das folhas do milho e tem como um de seus predadores outro inseto, a tesourinha que, por sua vez, é predada por pássaros que pousam sobre a lavoura de milho em um esquema que pode ser observado como exposto a seguir:\n\nMilharal $\\rightarrow$ lagarta-do-cartucho $\\rightarrow$ tesourinha $\\rightarrow$ pássaro\n\nSobre essa cadeia trófica, marque, entre as alternativas, a única correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Na lagarta-do-cartucho existe maior energia disponível que no pássaro."
+        },
+        {
+          "letra": "B",
+          "texto": "No pássaro existe maior energia disponível que na tesourinha."
+        },
+        {
+          "letra": "C",
+          "texto": "Na tesourinha existe menor energia disponível que no pássaro."
+        },
+        {
+          "letra": "D",
+          "texto": "Na lagarta-do-cartucho existe a mesma energia disponível que no milharal."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Ecologia (Cadeias e Teias Alimentares)"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Leia o soneto Cárcere das almas, de Cruz e Sousa:\n\nAh! Toda a alma num cárcere anda presa,\nSoluçando nas trevas, entre as grades\nDo calabouço olhando imensidades,\nMares, estrelas, tardes, natureza.\n\nTudo se veste de uma igual grandeza\nQuando a alma entre grilhões as liberdades\nSonha e, sonhando, as imortalidades\nRasga no etéreo o Espaço da Pureza.\n\nÓ almas presas, mudas e fechadas\nNas prisões colossais e abandonadas,\nDa Dor no calabouço, atroz, funéreo!\n\nNesses silêncios solitários, graves,\nQue chaveiro do Céu possui as chaves\nPara abrir-vos as portas do Mistério?\n\n(CRUZ E SOUZA. Cárcere das almas. Apud in: JUNKES, Lauro. Simbolismo / seleção e prefácio Lauro Junkes. São Paulo: Global, 2006, p. 30. Coleção roteiro da poesia brasileira.)\n\nVocabulário:\n* Calabouço: prisão subterrânea; cárcere.\n* Grilhão: corrente que prende os condenados; cadeia, algema.\n* Funéreo: relativo à morte, aos mortos ou a coisas que com eles se relacionem.\n* Etéreo: sublime, puro, elevado; celeste, celestial.\n\nMarque a única alternativa que corretamente descreve os elementos formais e temáticos que se vinculam, nesse soneto, às características contextuais da estética simbolista especificamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Oposição ao objetivismo cientificista dos realistas/naturalistas."
+        },
+        {
+          "letra": "B",
+          "texto": "Escolha pelo tom lírico amoroso ao tratar de temáticas nacionalistas."
+        },
+        {
+          "letra": "C",
+          "texto": "Abordagem poética refinada, ao falar metafisicamente de temas universais."
+        },
+        {
+          "letra": "D",
+          "texto": "Explícita inquietação do eu lírico sobre a realidade social nas imagens poéticas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Simbolismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "A losartana é um medicamento indicado para tratar pressão alta e insuficiência cardíaca. Ela ajuda na dilatação dos vasos sanguíneos, o que facilita a circulação do sangue, diminuindo a pressão nas artérias e melhorando o funcionamento do coração. Na bula de um dos fabricantes, há a informação de que cada comprimido é composto de 50 mg de losartana potássica (massa molar 461 gramas por mol) e de excipientes: lactose monoidratada, celulose microcristalina, amido, croscarmelose sódica, dióxido de silício, estearato de magnésio, óleo vegetal hidrogenado, hipromelose, macrogol e dióxido de titânio.\n\nAnalise as afirmações apresentadas a seguir:\n\nI - Ao se dissolver um desses comprimidos em água, até completar 200 mL de solução, tem-se uma concentração (de losartana potássica) de aproximadamente 0,5 x 10⁻³ mol por litro ou 0,025% (massa por volume).\nII - Um dos excipientes descritos é o óleo vegetal que, ao passar por uma reação de adição, sofre a hidrogenação pela quebra das ligações $\\pi$ (Pi) entre átomos de carbono formando ligações $\\sigma$ (Sigma) entre hidrogênio e carbono. Dessa forma, as reações de hidrogenação de alcenos e alcinos são tão simples como nas duplas ligações de núcleos benzênicos.\nIII - A celulose é um carboidrato, assim como a lactose. Uma característica das oses é que elas podem sofrer a ciclização da molécula, quando o grupo aldeído ou cetona reage com uma hidroxila da própria molécula. Nesse caso, a hidroxila do carbono 1 (um) pode assumir uma posição cis ou trans em relação a outros grupos da molécula.\n\nConsiderando o texto lido e seus conhecimentos, marque a única alternativa que corresponde a afirmações corretas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Soluções",
+        "Química – Química Orgânica",
+        "Química – Bioquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Leia o poema, a seguir, de Mário Quintana:\n\nFLORESTA\nDédalo de dedos.\nLanterninhas súbitas.\nEscutam as orelhas-de-pau. Ssssio...\nO gigante deitado\nSe virou pro outro lado.\nA velha Carabô\nParou de pentear os cabelos.\nÉ o Vencido... São as duas mãos e a cabeça do\nVencido que se arrastam.\nQue se arrastam penosamente para o poço da Lua,\nPara o frescor da lua, para o leite da Lua!\nPara a lua da Lua!\n(Filha, onde teria ficado o resto do corpo?)\n\n(QUINTANA, Mário. Os melhores poemas de Mário Quintana/ seleção de Fausto Cunha. 12 ed. São Paulo: Global, 1998.)\n\nVocabulário:\n* Dédalo = emaranhado.\n\nAvalie as proposições a seguir sobre alguns fatos estilísticos e gramaticais empregados na construção desse poema:\n\nI - Há presença da musicalidade no uso da onomatopeia “Ssssio”.\nII - Há o uso das figuras fônicas de linguagem, aliteração e assonância em “Dédalo de dedos”.\nIII - No texto, o autor mobiliza recursos de linguagem que geram uma expressividade centrada no emprego da pontuação como “reticências”, “ponto de exclamação” e “ponto de interrogação”.\nIV - O autor constrói uma prosa poética com o predomínio da introspecção e do surrealismo.\n\nEm relação às assertivas analisadas, marque a única resposta correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "III e IV apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II, III e IV."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem",
+        "Língua Portuguesa – Modernismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Para homenagear o marinheiro João Cândido, líder na Revolta da Chibata (1910), João Bosco e Aldir Blanc compuseram uma música intitulada Mestre-sala dos mares. Sua letra diz: “Há muito tempo nas águas da Guanabara/ O dragão do mar reapareceu/ Na figura de um bravo feiticeiro/ A quem a história não esqueceu/ Conhecido como o Navegante Negro/ [...] Não esquecemos jamais/ Salve o Navegante Negro/ Que tem por monumento/ As pedras pisadas do cais [...].”\n\n(Disponível em: letras.mus.br/joao-bosco/663976. Acesso em: 03 jul. 2023.)\n\nSobre os motivos da referida revolta, marque a única resposta correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As práticas violentas que perduravam nas instituições militares com os pobres e subalternos, herdadas do trato com as pessoas escravizadas."
+        },
+        {
+          "letra": "B",
+          "texto": "A perseguição às crenças e práticas religiosas do povo negro, as quais haviam sido consideradas crime de feitiçaria no novo Código Penal."
+        },
+        {
+          "letra": "C",
+          "texto": "O monumento dedicado ao Almirante Tamandaré no cais do Rio de Janeiro que, apesar de ter sido herói na Guerra do Paraguai (1864-1870), era famoso pela violência contra os negros da Marinha brasileira."
+        },
+        {
+          "letra": "D",
+          "texto": "A utilização dos navios da Marinha brasileira para a pesca comercial e para capturar os grandes peixes da baía, chamados “dragões” pelos marujos, em contraposição aos baixos salários pagos pelo serviço."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – República Velha"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Do segmento de reta [0,1], retira-se o terço médio. Dos dois segmentos remanescentes retiram-se também os terços médios. Esse processo é repetido continuamente. Desse modo, a soma dos comprimentos dos segmentos remanescentes em cada etapa é dada da seguinte maneira: no início, um segmento de comprimento um. Em seguida, ao retirar o terço médio, a soma dos segmentos remanescentes é dois terços e, assim, sucessivamente, continuando esse processo ad infinitum.\n\nAnalise as seguintes afirmativas sobre a situação descrita no enunciado:\n\nI - O comprimento dos segmentos retirados, quando somados, é igual a um.\nII - O conjunto descrito possui infinitos segmentos.\nIII - O número um sexto pertence ao conjunto remanescente.\n\nMarque a única resposta cujos itens estão corretos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III apenas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Conjunto de Cantor (Fractais)",
+        "Matemática – Séries Geométricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Read the text fragment Surprising Benefits of Pequi:\n\nPequi is certainly one of these slightly mysterious fruits that people hear about, but rarely see. However, in central parts of Brazil and northern portions of Paraguay, pequis are as normal as apples and oranges. In fact, when fully ripe, a pequi is approximately the same size as an orange, although the color of a pequi shifts from purple to dark green to light green as it matures over its 5-6-month growth period.\n\n(Available in: https://www.organicfacts.net/health-benefits/fruit/ pequi.html. Accessed on: July 18th, 2023.)\n\nAccording to the text, choose the alternative with the correct characteristics of pequi:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Pequi has a dark green color when ripe."
+        },
+        {
+          "letra": "B",
+          "texto": "Pequi is a mysterious fruit that is normally found in the northern of Brazil."
+        },
+        {
+          "letra": "C",
+          "texto": "Pequi is a fruit with the same color and size as an orange."
+        },
+        {
+          "letra": "D",
+          "texto": "In the northern parts of Paraguay, it is normal to find pequi."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "O processo evolutivo do planeta Terra envolve o resfriamento de seus materiais constituintes, em que as camadas mais externas, como a Litosfera, encontram-se mais consolidadas, ao passo que Manto e Núcleo apresentam elevadas temperaturas.\n\nNesse contexto, marque a única alternativa que apresenta fontes de calor responsáveis, por exemplo, pelo grau geotérmico e pelas manifestações vulcânicas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Rotação do Núcleo externo em relação ao Manto Superior e colisão de corpos celestes no processo de acreção planetária."
+        },
+        {
+          "letra": "B",
+          "texto": "Energia remanescente desde o início do processo de acreção planetária e decaimento de radioisótopos com meias-vidas compatíveis com a idade da Terra."
+        },
+        {
+          "letra": "C",
+          "texto": "Fricção proporcionada pelo movimento da Crosta Terrestre em relação à Litosfera e rotação do Manto Inferior em relação ao Núcleo Externo."
+        },
+        {
+          "letra": "D",
+          "texto": "Fricção proporcionada pelos movimentos conservativo e convergente das placas tectônicas e processo de subducção sob cadeias montanhosas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geologia Geral"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Têm-se três caixas de massas: $m_1$ = 5 kg; $m_2$ = 3 kg e $m_3$ = 8 kg constituídas de um mesmo material, encostadas uma na outra. As caixas 1 e 3 encontram-se nas extremidades, enquanto a caixa 2 está no centro do conjunto. Essas caixas estão sendo empurradas em linha reta e com velocidade constante, sobre uma superfície de concreto, por uma força de 112 N aplicada sobre a terceira caixa. Adote g = 10 m/s².\n\nA partir das condições apresentadas, marque a única alternativa que corretamente aponta o coeficiente de atrito cinético entre as caixas e a superfície de concreto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,15."
+        },
+        {
+          "letra": "B",
+          "texto": "0,33."
+        },
+        {
+          "letra": "C",
+          "texto": "0,56."
+        },
+        {
+          "letra": "D",
+          "texto": "0,70."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Leis de Newton (Atrito)"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Em relação às características dos vegetais, analise atentamente as proposições a seguir:\n\nI - A fase duradoura de uma briófita (talo) é o gametófito que possui o núcleo de suas células haploide, sendo também o gametófito a estrutura fotossintetizante da planta.\nII - O endosperma nas sementes das angiospermas é obtido pela fecundação do gametângio feminino (arquegônio) no gineceu da flor pelo grão-de-pólen (gameta), gerando uma estrutura diploide.\nIII - Em uma samambaia, os esporos são produzidos nas folhas do esporófito e, ao germinarem, esses esporos vão originar o gametófito (protalo) que tem células haploides.\n\nMarque a única alternativa que apresenta corretamente as características dos vegetais:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Botânica (Ciclos Reprodutivos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Leia o fragmento do texto Aspectos da literatura brasileira, de Mário de Andrade:\n\nA Semana marca uma data, isso é inegável. Mas o certo é que a pré-consciência primeiro, e em seguida a convicção de uma arte nova, de um espírito novo, desde pelo menos seis anos viera se definindo... no sentimento de um grupinho de intelectuais paulistas. De primeiro foi um fenômeno estritamente sentimental, uma intuição divinatória, um... estado de poesia. Com efeito: educados na plástica “histórica”, sabendo quando muito da existência dos impressionistas principais, ignorando Cézanne; o que nos levou a aderir incondicionalmente à exposição de Anita Malfatti, que em plena guerra vinha nos mostrar quadros expressionistas e cubistas. Parece absurdo, mas aqueles quadros foram a revelação. E ilhados na enchente de escândalo que tomara a cidade, nós, três ou quatro, delirávamos de éxtase diante de quadros que se chamavam o “Homem Amarelo\", a Estudanta Russa\", a Mulher de Cabelos Verdes\". E a esse mesmo \"Homem Amarelo\" e de formas tão inéditas então, eu dedicava um soneto de forma parnasianíssima... Éramos assim.\n\n(ANDRADE, M. Aspectos da literatura brasileira. 5 ed. São Paulo: Martins, 1974, p. 232.)\n\nEm relação aos ideais defendidos pelos principais integrantes do movimento modernista brasileiro e, com base no texto lido, marque a única alternativa correta que indica o que a primeira fase desse movimento pretendia:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Fazer reverberar as regras das correntes literárias europeias, a fim de direcionar a produção literária brasileira do período."
+        },
+        {
+          "letra": "B",
+          "texto": "Sistematizar a produção literária brasileira, com base nos padrões da estética e temáticas europeias em vigor no início do século XX."
+        },
+        {
+          "letra": "C",
+          "texto": "Restaurar uma produção literária centrada nos moldes europeus e que estava em declínio desde o final do século XIX."
+        },
+        {
+          "letra": "D",
+          "texto": "Instaurar um movimento de combate aos resquícios de uma produção literária retrógrada, visando renovar a produção literária brasileira da época."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Modernismo (Primeira Fase)"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "O cobre é o metal não ferroso mais utilizado, depois do alumínio, por ser excelente condutor de eletricidade e calor.\nPara a produção do cobre, o minério precisa passar por várias etapas e, em determinado momento, são necessárias as seguintes reações:\n\n$$2 Cu_2S + 3 O_2 \\rightarrow 2 Cu_2O + 2 SO_2$$\n\n$$2 Cu_2O + Cu_2S \\rightarrow 6 Cu + SO_2$$\n\nAnalise as alternativas a seguir sobre as reações para a produção do cobre e marque a única correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Nas duas reações observa-se que o cobre é o oxidante."
+        },
+        {
+          "letra": "B",
+          "texto": "Nas duas reações observa-se que o oxigênio é o redutor."
+        },
+        {
+          "letra": "C",
+          "texto": "Nas duas reações observa-se que o enxofre é o redutor."
+        },
+        {
+          "letra": "D",
+          "texto": "Na primeira reação o oxigênio é o oxidante e na segunda é o enxofre."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Oxirredução"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Leia o fragmento do texto Amor e Liberdade, de Karla Jaime:\n\nMilênios de filosofia, literatura e arte nas mais variadas formas, ao que se somaram tentativas de dissecação científicas, e ainda tropeçamos em dois conceitos que nos fazem humanos. Amor e liberdade. Um não prescinde do outro, só pode amar quem é livre para a entrega e a troca sem dependência, e só pode ser livre aquele que ama, porque ninguém se torna o que é sozinho. Repito: ninguém se torna o que é sozinho. A frase é de Kate Kirkpatrick, na biografia Simone de Beauvoir – Uma Vida (Editora Planeta do Brasil, SP, 2020).\nComo qualquer pessoa, venho tentando calibrar a justa medida de amor e liberdade, para cultivar laços afetivos mais saudáveis, que permitam encontros menos conflituosos e mais abertos a descobertas e renovação. Laços sim, amarras não.\nMesmo nas relações mais exigentes de responsabilidade, zelo e cuidado com alguém mais frágil que demanda acompanhamento e ajuda, mesmo nessa situação em que a vida impõe limites e exigências que nos retêm, há que se encontrar brechas e respiro, o melhor tom para que o amor e com ele a liberdade de cada um nos conduzam em sintonia com o que somos e o que o outro é. Entrar no ritmo mais favorável para viver e compartilhar.\n[...]",
+      "alternativas": null,
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Depois de longo exílio na Europa, Juan Domingos Perón retornou para a Argentina em 1973. Foi reeleito presidente da república. Porém, a instabilidade política e econômica, acentuada por sua morte em 1974, acarretou na instalação da Ditadura Militar (1976-1983) naquele País.\n\nMarque a única alternativa que caracteriza corretamente o peronismo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Trata-se de uma adaptação do liberalismo norte-americano às condições sociais dos países da América do Sul, baseada na livre-iniciativa e no consumo das classes médias."
+        },
+        {
+          "letra": "B",
+          "texto": "Trata-se de um movimento formado pelas camadas populares e sindicatos trabalhistas que defendia o nacionalismo econômico e pode ser comparado ao populismo de Getúlio Vargas."
+        },
+        {
+          "letra": "C",
+          "texto": "Trata-se de um movimento político que, por influência de Evita Perón, baseou-se na igualdade entre os sexos e promoveu a rápida democratização das relações sociais e econômicas, mas acabou por despertar grande oposição dos militares."
+        },
+        {
+          "letra": "D",
+          "texto": "Trata-se de uma adaptação da ideologia dos regimes autoritários europeus que, fechando a economia argentina, e pelo grande incentivo ao agronegócio, gerou um alto nível de desenvolvimento social, podendo ser comparado ao fascismo de Benito Mussolini (1883-1945)."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Populismo na América Latina"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Sobre um prisma quadrangular regular de quatro metros de aresta da base e três metros de altura, ajusta-se uma pirâmide de altura de três metros na parte superior da pirâmide, determinando um recipiente. No seu vértice, faz-se um orifício de onde será despejado um líquido na vazão de dez metros cúbicos por hora.\n\nMarque a única alternativa que corretamente responde à questão: qual a altura da parte que a água não alcança (altura da parte que está seca), passadas seis horas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$3 \\sqrt[3]{\\frac{16}{4}}$ metros."
+        },
+        {
+          "letra": "B",
+          "texto": "$\\sqrt{27/4}$ metros."
+        },
+        {
+          "letra": "C",
+          "texto": "$3 \\sqrt[3]{27/4}$ metros."
+        },
+        {
+          "letra": "D",
+          "texto": "$\\sqrt{\\frac{16}{4}}$ metros."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Read the text about the butterfly species in Colombia:\n\nTo put Colombia's rich biodiversity into perspective, the 3,642 butterfly species found in Colombia can be compared to the 496 butterfly species found in Europe or the 4,000 butterfly species found in the entire African continent.\n\"More than 200 species of the butterflies in the checklist are unique to Colombia and not found anywhere else in the world, so if we lose them there is no back-up population and they are gone forever\", says Blanca, Senior Curator at the Museum and one of the authors of the list.\n\n(Available in: https://www.nhm.ac.uk/discover/news/2021/june/ colombia-has-the-most-butterflies-in-the-world.html. Accessed on: July 18th, 2023. Adapted.)\n\nAccording to the text, choose the alternative with the correct information:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Colombia has more butterfly species than those found in Europe and Africa's countries together."
+        },
+        {
+          "letra": "B",
+          "texto": "Colombia has unique species that are exclusive to the country."
+        },
+        {
+          "letra": "C",
+          "texto": "If Colombia loses their unique butterfly species, their population can be restored through back-up population."
+        },
+        {
+          "letra": "D",
+          "texto": "Colombia has over 3 million butterfly species."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Uma equipe de profissionais tem como objetivo a realização de uma viagem a campo com a finalidade de validar o mapeamento das formas de relevo. O trajeto a ser percorrido, grafado no mapa na escala 1:75.000, é representado por 5 (cinco) retas com as dimensões 25 cm, 70 cm, 34 cm, 92 cm e 102 cm.\n\nConsiderando que o veículo a ser utilizado na campanha apresenta consumo de combustível de 12 km/l, e que o preço do diesel é de R$ 5,89, marque a única alternativa que apresenta corretamente os custos, em R$, com o combustível para a viagem:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 125,00."
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 150,00."
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 118,90."
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 242,25."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Cartografia (Escalas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Uma famosa influencer digital anunciou nas redes sociais que, por ser míope, foram-lhe receitados óculos com lentes de 8,0 graus. O valor de 8,0 di para a vergência das lentes causou estranhamento e várias piadas por parte da influencer.\n\nMarque a alternativa que corretamente corresponde às lentes indicadas na receita do oftalmologista para a influencer:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Divergentes e com 0,125 cm de distância focal."
+        },
+        {
+          "letra": "B",
+          "texto": "Divergentes e com 12,5 cm de distância focal."
+        },
+        {
+          "letra": "C",
+          "texto": "Convergentes e com 0,125 cm de distância focal."
+        },
+        {
+          "letra": "D",
+          "texto": "Convergentes e com 12,5 cm de distância focal."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Óptica Geométrica (Lentes)"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Após a ingestão de alimentos, ocorre a digestão. Nesse processo, diversas substâncias nutritivas são quebradas em unidades menores que serão absorvidas e utilizadas pelo organismo.\n\nMarque a única alternativa que apresenta a correta resposta em relação ao processo digestório humano:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A enzima pepsina, em meio ácido, atua na degradação do amido em sua unidade básica, a frutose."
+        },
+        {
+          "letra": "B",
+          "texto": "A enzima sacarase, presente no suco pancreático, atua na síntese de sacarose por meio das moléculas de glicose e de frutose liberadas na digestão."
+        },
+        {
+          "letra": "C",
+          "texto": "A enzima amilase pancreática atua sobre as moléculas de amido, transformando-o em maltose."
+        },
+        {
+          "letra": "D",
+          "texto": "As enzimas peptidases rompem as ligações peptídicas das proteínas, resultando na liberação de pentoses, fosfatos e bases nitrogenadas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Fisiologia Humana (Sistema Digestório)"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Leia o fragmento do texto da Carta de Caminha:\n\nDe ponta a ponta é toda praia... muito chã e muito fremosa. [...] Nela até agora não pudemos saber que haja ouro nem prata... porém a terra em si é de muito bons ares assim frios e temperados como os de Entre-Doiro-e-Minho. Águas são muitas e infindas. E em tal maneira é graciosa que, querendo-a aproveitar, dar-se-á nela tudo por bem das águas que tem, porém o melhor fruto, que nela se pode fazer me parece que será salvar esta gente e esta deve ser a principal semente que vossa alteza em ela deve lançar.\n\n(CAMINHA, Pero Vaz de. Apud in: BOSI, Alfredo. História concisa da literatura brasileira. 52 ed. São Paulo: Cultrix, 2015, p. 15.)\n\nVocabulário:\n* Chã = área ou extensão plana de terra.\n* Fremosa = Variação arcaica da palavra “formosa”.\n\nO trecho retirado da Carta de Pero Vaz de Caminha ilustra as primeiras impressões da natureza exuberante e do povo encontrado na nova terra, levando a categorizar essas manifestações de literatura em solo brasileiro.\n\nMarque a única resposta que corretamente categoriza a literatura para textos como o fragmento da Carta de Caminha:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Relatos de viagem, poemas e peças teatrais com intenção catequética, cujo objetivo era informar sobre a nova terra."
+        },
+        {
+          "letra": "B",
+          "texto": "Romances sobre a vida do sertanejo, e sua luta contra as condições desfavoráveis impostas pela terra."
+        },
+        {
+          "letra": "C",
+          "texto": "Narrativas regionalistas de aspecto documental, pautadas na apresentação de elementos históricos e sociais."
+        },
+        {
+          "letra": "D",
+          "texto": "Epístolas de teor nacionalista, fora dos moldes lusitanos, indicando uma literatura pautada na nova terra."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Quinhentismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Leia os dois textos, a seguir, sobre coloides:\n\nTexto 1\nMuitas argilas do solo, ao serem carregadas pelas águas dos rios, coagulam-se e precipitam quando a água doce se encontra com a água salgada do mar. Esse fenômeno leva à formação de depósitos que se observam na foz de rios.\n\nTexto 2\nNos centros urbanos e regiões muito industrializadas, pode-se ter o aparecimento de smog, que é o acúmulo da poluição do ar e formação de uma grande neblina de fumaça no ambiente atmosférico próximo à superfície.\n\nSobre os coloides, analise as seguintes informações:\n\nI - O primeiro texto refere-se a um sistema coloidal sólido/líquido, também conhecido como sol; enquanto que o segundo, a um sistema coloidal sólido/gás, também conhecido como aerossol.\nII - Os sistemas dispersos como coloides e suspensões diferenciam-se em função do tamanho das partículas dispersas. Nas segundas, o tamanho é maior que nos primeiros. Como exemplo de suspensão, tem-se água e areia.\nIII - Partículas de macromoléculas como amido, macromoléculas com cargas como proteínas e aglomerados de átomos, moléculas ou íons como enxofre (S$_n$) podem formar suspensões coloidais.\n\nConsiderando as afirmações apresentadas a respeito dos textos 1 e 2 e seus conhecimentos, marque a única alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Coloides"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Leia o fragmento do texto Depressão, de Daladier Pessoa Cunha:\n\n[...]\nA depressão é uma das mais frequentes enfermidades mentais. Entre os países com maiores taxas de depressão, o Brasil está em quinto lugar. A pessoa com a doença tem comprometidas suas relações sociais, sua capacidade de trabalho e sua produtividade. Todos os anos, em torno de 12 mil brasileiros morrem por suicídio. Acontece que quase 90% dessas mortes poderiam ser evitadas, mediante o controle correto dos transtornos depressivos.\nSabe-se que a Pandemia da Covid19 agravou a prevalência das doenças mentais, especialmente da depressão. No mundo, apesar da pandemia, o número médio de suicídio caiu 30%, no período dos últimos 20 anos. Há poucos dias, li um relato do médico Humberto Corrêa, Professor Titular de Psiquiatria da UFMG, sobre dois de seus pacientes. Pessoas religiosas, ambos assim reagiram ao rigor do tratamento: “Doutor, sei que, se eu me matar, vou para o inferno. Mas minha vida aqui é pior do que o inferno”. E o Doutor Humberto chegou à conclusão: “A frase é reveladora da premência em conceituar a depressão como uma emergência médica. Uma questão de saúde pública agravada pela pandemia do coronavírus. A depressão é uma doença como qualquer outra e o suicídio, seu desfecho mais trágico, resulta, na maioria dos casos, da precariedade no manejo do distúrbio”. O diagnóstico no tempo certo e o tratamento correto garantem aos pacientes uma vida absolutamente normal.\n[...]\n[...] Uma recente pesquisa médica realizada na Universidade da Pensilvânia, na Filadélfia, na qual foram comparadas a recuperação de alguns pacientes que ficaram em uma sala com vistas para uma floresta, e outros, em sala com janelas para uma parede de tijolos. Foi verificado que os pacientes com visão para a floresta tinham melhor recuperação, com o uso muito menor de medicamentos. [...]\n\n(LIMA, Daladier Pessoa Cunha. Depressão. Disponível em: https:// tribunadonorte.com.br/coluna/09 ago. 2023. Acesso em: 12 ago. 2023. Adaptado.)\n\nAnalise as características composicionais, a função e o público alvo ao qual o texto se destina e marque a única alternativa correta sobre o gênero textual ao qual pertence:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Artigo de divulgação científica, pois torna públicos conhecimentos oriundos de pesquisas realizadas na área da ciência."
+        },
+        {
+          "letra": "B",
+          "texto": "Reportagem, pois informa determinado fato, acresce diferentes opiniões e versões de um mesmo acontecimento."
+        },
+        {
+          "letra": "C",
+          "texto": "Artigo de opinião, pois constrói uma opinião a respeito de uma questão controversa, cujo objetivo é refutar opiniões contrárias."
+        },
+        {
+          "letra": "D",
+          "texto": "Editorial, pois expressa o ponto de vista do veículo midiático no qual é publicado. Opina, analisa, clarifica, interpreta e esclarece o que é obscuro."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Gêneros Textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "O filme Oppenheimer (2023) “apresenta um estudo de caso, mergulhado na história de meados do século 20, de um dos gênios mais magnéticos, irritantes, enigmáticos e, em última análise, assombrosos daquele século. Mesmo a descrição abreviada de J. Robert Oppenheimer como 'o pai da bomba atômica' compele uma reação ambivalente, na melhor das hipóteses, uma grande reputação com ramificações problemáticas e até trágicas tanto para seu dono quanto para o mundo que ele ajudou a transformar de forma tão irrevogável.”\n\n(Disponível em: cnnbrasil.com.br/entretenimento/analise-por-que -oppenheimer-desafia-a-sabedoria-de- hollywood/#:~:text =Robert%20Oppenheimer%20como%20irrevogável. Acesso em: 27 jul. 2023. Adaptado.)\n\nSobre as transformações causadas pela fabricação e pelo lançamento das bombas atômicas na história contemporânea, avalie as afirmações a seguir:\n\nI - As bombas foram construídas com o intuito de encerrar a Guerra Fria, e iniciaram um conflito sem tiros entre os Estados Unidos da América e a União das Repúblicas Socialistas Soviéticas.\nII - A fabricação das armas atômicas relativizaram a importância da manutenção de grandes exércitos, transferindo a competição entre as nações para o campo tecnológico e científico.\nIII - Sob o efeito do grande poder de destruição causado pelas bombas lançadas no Japão, os países vencedores da Segunda Guerra Mundial criaram a Organização do Tratado do Atlântico Norte (OTAN) para controlar a produção de armas atômicas.\n\nA respeito do impacto da fabricação e utilização de armas atômicas, marque a única alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e III apenas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Guerra Fria"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "A função g(x) mede a área limitada pela função f(x) e o eixo x, considerando positiva a área acima do eixo x e negativa a área abaixo do eixo x, no intervalo de um até quatro, onde f(x) = (x – 1) . (x – 2) . (x – 3).\n\nMarque a única afirmação verdadeira sobre a função g(x):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "g(x) é decrescente no intervalo de um a dois e crescente no intervalo de três a quatro."
+        },
+        {
+          "letra": "B",
+          "texto": "g(x) é crescente no intervalo de dois a três e decrescente no intervalo de três a quatro."
+        },
+        {
+          "letra": "C",
+          "texto": "g(x) é crescente no intervalo de um a dois, decrescente no intervalo de dois a três e crescente no intervalo de três a quatro."
+        },
+        {
+          "letra": "D",
+          "texto": "g(x) é decrescente no intervalo de um a dois, crescente no intervalo de dois a três e decrescente no intervalo de três a quatro."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Funções",
+        "Matemática – Cálculo (Derivadas e Integrais)"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Choose the alternative that uses correctly the past continuous tense:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "He was listening to music when the phone rang."
+        },
+        {
+          "letra": "B",
+          "texto": "He is tired because he has been reading for two hours."
+        },
+        {
+          "letra": "C",
+          "texto": "They will play soccer next weekend."
+        },
+        {
+          "letra": "D",
+          "texto": "I read the book last year."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Tempos Verbais (Past Continuous)"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "No dia 23 de agosto de 2023, a Índia passou a fazer parte do seleto grupo de 4 nações que conseguiram pousar sondas em ambiente lunar. No entanto, para muitos, ainda persistem dúvidas acerca das razões pelas quais as disputas pela exploração lunar apresentaram um hiato entre os anos de 1972 e 2020, quando voltaram a se acirrar.\n\nConsiderando o exposto, assinale a alternativa que apresenta as outras três nações que conseguiram pousar equipamentos na Lua, bem como razões pelo hiato de quase 50 anos na exploração do satélite natural da Terra.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Estados Unidos, União Soviética e Japão; disputa pela hegemonia geopolítica pelo uso da tecnologia espacial."
+        },
+        {
+          "letra": "B",
+          "texto": "União Soviética, Estados Unidos e França; crises financeiras e consequente falta de investimento em tecnologia espacial."
+        },
+        {
+          "letra": "C",
+          "texto": "Estados Unidos, União Soviética e Alemanha; desafios tecnológicos impostos pela falta de materiais compósitos e distensionamento nas relações entre Estados Unidos e União Soviética."
+        },
+        {
+          "letra": "D",
+          "texto": "União Soviética, Estados Unidos e China; segurança das operações espaciais e redução das tensões entre Estados Unidos e União Soviética."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geopolítica (Corrida Espacial)"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Os fornos de micro-ondas emitem ondas eletromagnéticas com frequência de 2450 MHz (mesma frequência de ressonância das moléculas de água) geradas por um magnétron e irradiadas por uma antena metálica para o interior do compartimento onde estão os alimentos.\n\nProblema:\nConsidere que a velocidade de ondas eletromagnéticas vale 3.10⁵ km/s, no vácuo.\n\nMarque, a seguir, a resposta que corretamente apresenta a classificação e o comprimento de onda das ondas emitidas em um forno de micro-ondas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ionizantes e 122 cm."
+        },
+        {
+          "letra": "B",
+          "texto": "Ionizantes e 8,16 cm."
+        },
+        {
+          "letra": "C",
+          "texto": "Não ionizantes e 0,122 m."
+        },
+        {
+          "letra": "D",
+          "texto": "Não ionizantes e 8,16 m."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Ondulatória (Ondas Eletromagnéticas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Uma alimentação saudável e equilibrada é essencial para a saúde humana, pois, entre outros nutrientes, fornece vitaminas, cuja deficiência é responsável por uma série de distúrbios e doenças.\n\nAs alternativas apresentadas a seguir tratam de efeitos da deficiência de diferentes vitaminas no organismo. Marque a única resposta correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A deficiência de vitamina E pode causar o raquitismo e enfraquecimento dos ossos."
+        },
+        {
+          "letra": "B",
+          "texto": "A deficiência de vitamina A pode causar problemas na visão (cegueira noturna)."
+        },
+        {
+          "letra": "C",
+          "texto": "A deficiência de vitamina C pode causar a beribéri, uma inflamação e degeneração dos nervos."
+        },
+        {
+          "letra": "D",
+          "texto": "A deficiência de vitamina D pode causar hemorragias, dermatite e escorbuto."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Bioquímica (Vitaminas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Leia o poema Mal secreto, do poeta parnasiano Raimundo Correia:\n\nSe a cólera que espuma, a dor que mora\nN'alma, e destrói cada ilusão que nasce,\nTudo o que punge, tudo o que devora\nO coração, no rosto se estampasse;\n\nSe se pudesse, o espírito que chora,\nVer através da máscara da face,\nQuanta gente, talvez, que inveja agora\nNos causa, então piedade nos causasse!\n\nQuanta gente que ri, talvez, consigo\nGuarda um atroz, recôndito inimigo,\nComo invisível chaga cancerosa!\n\nQuanta gente que ri, talvez existe,\nCuja ventura única consiste\nEm parecer aos outros venturosa!\n\n(CORREIA, Raimundo. Mal secreto. Apud in: FISCHER, Luís Augusto. Poesia brasileira: do Barroco ao Pré-Modernismo. Porto Alegre: Novo século, 2001, p. 167.)\n\nVocabulário:\n* recôndito = que se esconde; encoberto, oculto, retirado.\n* ventura = sorte (boa ou má); fortuna, destino, acaso.\n\nO poema está condizente com a proposta parnasiana de rigor formal e uso da racionalidade para falar sobre como, muitas vezes, as dores e emoções são dissimuladas para não serem julgadas socialmente.\n\nSobre tal proposta, analise os itens que se seguem:\n\nI - Nos dois quartetos, o eu lírico afirma que as aparências escondem a essência.\nII - Os dois tercetos apresentam tom crítico e marca evidente da impessoalidade.\nIII - Ao falar de sentimentos, o poeta foge do egocentrismo da estética romântica.\nIV - O eu lírico claramente fala de seus próprios sentimentos e sofrimento íntimo.\n\nEm relação às proposições analisadas, assinale a única alternativa cujos itens estão todos corretos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e IV apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I e IV apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III apenas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Parnasianismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "Leia o texto a seguir sobre a produção de energia a partir do etanol e sua biomassa:\n\nSegundo a CONAB (2019), a produção nacional de cana-de-açúcar na safra de 2019/2020 foi de 620,4 milhões de toneladas, sendo que 44,4 milhões foram produzidas na região nordeste. A produção de etanol alcançou 33,14 bilhões de litros [...].\n[...]\nDa Silva et al. (2019) reportam que, para cada tonelada de cana-de-açúcar, são gerados em torno de 280 kg de bagaço e 260 kg de palha, e que esses resíduos podem ser usados para a cogeração de energia.\n[...]\nPara a palha de cana, o artigo da CONAB apresenta duas situações, a primeira utilizando o valor proposto por Lemos (2018), que sugere que as plantas típicas do setor geram uma média de 0,8 MWh (Megawatt-hora – MWh equivale a 1.000.000 Wh ou 3,6 × 10⁹ joules) de energia por tonelada de palha da operação de enfardamento.\n\n(Disponível em: https://www.revistasuninter.com/ revistameioambiente/index.php/meioAmbiente/article/view/963. Acesso em: 04 ago. 2023. Adaptado.)\n\nSe toda a safra de etanol (33,14 bilhões de litros) e de palha de 2019/2020 fosse utilizada para produção de energia pela sua queima completa, quanto de energia, em joule, seria possível obter? Para dar solução a esse problema, considere uma cal igual a quatro joules (j).\n\nDados do etanol: 46 g mol⁻¹, d = 0,8 g cm⁻³, ΔH (combustão completa) = −326 kcal mol⁻¹.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Aproximadamente 750 x 10¹⁵ j com o etanol e aproximadamente 580 x 10¹⁵ j com a palha."
+        },
+        {
+          "letra": "B",
+          "texto": "Aproximadamente 750 x 10¹³ kj com o etanol e aproximadamente 580 x 10¹² j com a palha."
+        },
+        {
+          "letra": "C",
+          "texto": "Aproximadamente 750 x 10¹⁵ kj com o etanol e aproximadamente 580 x 10¹⁵ kj com a palha."
+        },
+        {
+          "letra": "D",
+          "texto": "Aproximadamente 750 x 10¹³ j com o etanol e aproximadamente 580 x 10¹² kj com a palha."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Termoquímica",
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "Leia o texto a seguir:\n\nConsidere as linguagens verbal e não verbal empregadas na composição desse texto e analise as afirmativas a seguir:\n\nI - O autor empregou um neologismo como recurso linguístico na fala da personagem.\nII - O autor utilizou-se de um recurso estilístico – a prosopopeia – na figurativização da personagem.\nIII - O autor utilizou-se de uma apropriação linguística inadequada ao contexto discursivo da personagem.\n\nMarque a única alternativa cujos itens estão todos corretos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Linguagem Verbal e Não Verbal",
+        "Língua Portuguesa – Variação Linguística"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "A meiose é um processo de divisão celular fundamental para os organismos pluricelulares durante a formação dos gametas, possibilitando que uma célula-mãe diploide possa originar quatro células-filhas haploides.\n\nEntre as alternativas apresentadas a seguir, marque a única correta em relação aos eventos que ocorrem durante a meiose:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O fenômeno do crossing-over envolve cromossomos homólogos e ocorre durante a metáfase da segunda divisão meiótica."
+        },
+        {
+          "letra": "B",
+          "texto": "A separação dos cromossomos homólogos e a migração destes para os polos da célula em duplicação ocorrem na telófase da primeira divisão meiótica."
+        },
+        {
+          "letra": "C",
+          "texto": "A reorganização do núcleo, a desorganização do fuso e a redução do número de cromossomos da célula ocorrem na metáfase da segunda divisão meiótica."
+        },
+        {
+          "letra": "D",
+          "texto": "A duplicação dos centrômeros e a separação das cromátides-irmãs ocorrem na anáfase da segunda divisão meiótica."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Citologia (Divisão Celular - Meiose)"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "As escolas filosóficas pertencentes ao período helenístico priorizaram estabelecer um conjunto de preceitos racionais a fim de dirigir a vida de cada um e chegar à felicidade e ao bem-estar. É possível observar uma certa herança socrática em todas as escolas helenísticas.\nUma dessas escolas propõe suspender o juízo sobre a realidade, duvidando de que seja possível algum conhecimento seguro e estável. Portanto, a atitude coerente do sábio é a suspensão do juízo e aceitação com serenidade do fato de não poder discernir o verdadeiro do falso. Ou seja, não existe verdade certa. As coisas em si são indiferenciadas, incomensuráveis, indiscriminadas.\n\nMarque a alternativa que corretamente corresponde à escola helenística a que o enunciado desta questão se refere:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Aos céticos, como Pirro, envolvido com a ideia de desfrutar somente daquilo que os sentidos podem captar."
+        },
+        {
+          "letra": "B",
+          "texto": "Aos celetistas, como Diógenes, envolvido com a ideia de que o homem não pode dizer o que pensa."
+        },
+        {
+          "letra": "C",
+          "texto": "Aos estoicos, como Zênon, envolvido com o ideal de vida feliz advinda do prazer, evitando a dor."
+        },
+        {
+          "letra": "D",
+          "texto": "Aos epicuristas, como Séneca, envolvido com o ideal dos prazeres da alma, que são calmos e ternos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Filosofia – Helenismo (Ceticismo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "Leia o fragmento de texto, a seguir, sobre a produção de combustíveis sintéticos pela reação de Fischer-Tropsch:\n\nA síntese de Fischer-Tropsch é uma reação de polimerização do monóxido de carbono na qual o gás de síntese (mistura de gás hidrogênio e monóxido de carbono) reage na presença de um catalisador de ferro ou cobalto para produção de hidrocarbonetos e produtos oxigenados (Davis, 2003). A reação de Fischer-Tropsch pode ser expressa como:\n\n$$nCO + (2n + 1)H_2 \\rightarrow C_nH_{2n+2} + nH_2O$$\n\n[...]\nA maioria dos produtos da síntese de Fischer-Tropsch são hidrocarbonetos lineares, e o modo da formação destes é o foco da maioria dos estudos mecanísticos. É amplamente aceito que a reação de Fischer-Tropsch possa ser vista como uma polimerização de unidades de metileno [...].\n\n(Disponível em: https://repositorio.ufc.br/bitstream/ riufc/15750/1/2007_dis_femesquita.pdf. Acesso em: 04 ago. 2023. Adaptado.)\n\nConsidere as afirmações a seguir:\n\nI - As unidades de metileno são as unidades de monômero para a reação de polimerização global.\nII - A reação de Fischer-Tropsch dada não é considerada uma reação de oxirredução.\nIII - De acordo com a equação dada, na reação de um mol de monóxido de carbono com gás hidrogênio tem-se a formação de um mol de água.\n\nCom base no fragmento do texto lido e em seus conhecimentos, marque a alternativa que corresponde às afirmações corretas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III apenas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Reações Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Leia o fragmento do texto Culto ao coração partido, de Fabrícia Hamu:\n\nCulto ao coração partido\n\nAs cartas do tarô eram bonitas, traziam desenhos intrigantes e a taróloga falava com segurança e clareza. \"As previsões estão ótimas. Tem muita felicidade vindo por aí. No entanto, para desfrutar da bonança você terá de renunciar a isso, aqui”, disse ela apontando para um três de espadas. “O que significa?”, indaguei. “É o culto ao coração partido”, respondeu ela.\n\"Sabe quando você insiste em olhar para a dor e foca tanto nela, que deixa de prestar atenção nas surpresas agradáveis que a vida traz e na capacidade de regeneração que a gente tem? Você precisa ficar atenta. Às vezes, nos habituamos tanto à dor, que relutamos em deixá-la ir e permitir que a felicidade chegue. Ela bate na porta, mas precisamos abrir para que ela entre\", explicou a taróloga.\n[...]\nMesmo que pessoas bacanas entrem em nossa vida dispostas a partilhar cumplicidade, cuidado e sinceridade, preferimos direcionar a energia para o passado amargo e para quem nos feriu.\n[...]\nTodos os relacionamentos que nos ferem trazem grandes aprendizados. As lições devem permanecer. Os professores, não. Há outros que podem igualmente nos ensinar, não mais pela dor, mas pelo amor. [...]\nEm nome do pai, da fossa e da dor de cotovelo. Era essa minha oração diária em frente ao meu altar de dor. Não é mais. O coração partido precisa ceder lugar à esperança e ao amor. À fé na vida e em mim mesma. Na minha capacidade de amadurecer, ressignificar e deixar a vida fluir. Sagrados sejam o sorriso, a leveza, a presença e o abraço. Benditos sejam os recomeços. Amém.\n\n(HAMU, Fabrícia. Culto ao coração partido. Disponível em: https://Jornal O Popular, 1 de agosto de 2023. Acesso em: 11 ago. 2023. Adaptado.)\n\nAnalise as asserções em relação aos sentidos e expressões linguísticas do texto:\n\nI - As aspas presentes em expressões, no primeiro parágrafo, caracterizam a interlocução entre duas personagens.\nII - Na expressão “um três de espadas”, o vocábulo “três”, morfologicamente, tem valor de substantivo.\nIII - O segundo parágrafo do texto funciona como uma exemplificação do que foi dito no primeiro parágrafo.\nIV - O vocábulo “ressignificar” é formado pelo processo de derivação prefixal.\n\nMarque a alternativa cujos itens estão todos corretos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e III apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II, III e IV apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II, III e IV."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Morfologia",
+        "Língua Portuguesa – Formação de Palavras"
+      ]
+    }
+  ]
+}

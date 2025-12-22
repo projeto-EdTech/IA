@@ -1,0 +1,1185 @@
+{
+  "nomeUniversidade": "Universidade Federal do Paraná",
+  "siglaUniversidade": "UFPR",
+  "nomeProva": "Processo Seletivo",
+  "ano": 2025,
+  "qtdeQuestoes": 90,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Assinale a alternativa que corresponde ao maior número inteiro x que satisfaz a desigualdade $2x - 10 \\le -3x + 8$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-2"
+        },
+        {
+          "letra": "B",
+          "texto": "0"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        },
+        {
+          "letra": "E",
+          "texto": "5"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Inequação do 1º grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Em um campeonato de futebol, cada vitória vale 3 pontos, o empate vale apenas 1 ponto e a derrota, nenhum ponto. Um time perdeu apenas 2 dos 34 jogos que disputou e somou 78 pontos. Quantos empates ele obteve na competição?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "7"
+        },
+        {
+          "letra": "C",
+          "texto": "8"
+        },
+        {
+          "letra": "D",
+          "texto": "9"
+        },
+        {
+          "letra": "E",
+          "texto": "10"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Sistemas de Equações"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "No plano cartesiano, considere os pontos $P = (2a, 0)$ e $Q = (a + 1, a - 1)$, sendo $a$ um número real positivo. Sabendo que a distância entre $P$ e $Q$ é igual a $\\sqrt{8}$ cm, assinale a alternativa que corresponde ao valor de $a$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$1/2$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\sqrt{3}$"
+        },
+        {
+          "letra": "C",
+          "texto": "1"
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        },
+        {
+          "letra": "E",
+          "texto": "3"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Um quadrado $Q$ e um retângulo $R$ possuem, cada um, área de 25 cm$^2$. O comprimento de um dos lados do retângulo $R$ é igual à metade do comprimento do lado do quadrado $Q$. Qual é a medida, em cm, do lado de maior comprimento do retângulo $R$?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\sqrt{5}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\sqrt{10}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$5/2$"
+        },
+        {
+          "letra": "D",
+          "texto": "5"
+        },
+        {
+          "letra": "E",
+          "texto": "10"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "O gráfico da função $f(x) = x^2 + bx + c$ intersecta o eixo $x$ nos pontos $x = -1$ e $x = 3$. Determine o valor de $b + c$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-5"
+        },
+        {
+          "letra": "B",
+          "texto": "-4"
+        },
+        {
+          "letra": "C",
+          "texto": "-1"
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        },
+        {
+          "letra": "E",
+          "texto": "5"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Função do 2º Grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Três amigos vão viajar em um carro que possui cinco lugares. Durante a viagem, eles vão mudar de lugares, de modo que cada um ocupará, por vez, apenas um lugar no veículo. Como o lugar do condutor deve ser necessariamente ocupado e sabendo que eles vão se revezar na condução do carro durante a viagem, quantas configurações são possíveis?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9"
+        },
+        {
+          "letra": "B",
+          "texto": "12"
+        },
+        {
+          "letra": "C",
+          "texto": "18"
+        },
+        {
+          "letra": "D",
+          "texto": "36"
+        },
+        {
+          "letra": "E",
+          "texto": "120"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Sejam as funções $f(x) = 2^x$, $g(x) = 4x$ e $h(x) = \\log_8 x$. A função composta $u = h \\circ g \\circ f$ é uma função afim. Assinale a alternativa que corresponde ao coeficiente angular da função $u$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$1/3$"
+        },
+        {
+          "letra": "B",
+          "texto": "$2/3$"
+        },
+        {
+          "letra": "C",
+          "texto": "$4/3$"
+        },
+        {
+          "letra": "D",
+          "texto": "1"
+        },
+        {
+          "letra": "E",
+          "texto": "2"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Funções Compostas",
+        "Matemática – Logaritmos"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Sabendo que $\\sin x = 3/5$, assinale a alternativa que corresponde ao valor de $\\cos (2x)$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2/25$"
+        },
+        {
+          "letra": "B",
+          "texto": "$3/25$"
+        },
+        {
+          "letra": "C",
+          "texto": "$7/25$"
+        },
+        {
+          "letra": "D",
+          "texto": "$9/25$"
+        },
+        {
+          "letra": "E",
+          "texto": "$16/25$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Trigonometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Duas circunferências com raios de 1 cm e 3 cm são tangentes no ponto P. A reta r tangencia as duas circunferências nos pontos A e B. Assinale a alternativa que corresponde à distância, em cm, entre os pontos A e B.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\sqrt{3}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\sqrt{5}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$2\\sqrt{2}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$2\\sqrt{3}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$2\\sqrt{5}$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Atenção: em todas as questões, as medições são feitas por um referencial inercial. O módulo da aceleração gravitacional é representado por g. Quando for necessário, use $g = 10 \\text{ m/s}^2$ para o módulo da aceleração gravitacional.\nO texto a seguir é referência para as questões 10 a 12.\nUm objeto de massa constante $m = 0,2$ kg desloca-se em um movimento unidimensional ao longo de uma linha reta, e sua aceleração $a$ é medida em função do tempo $t$.\nConsiderando os dados expostos no enunciado, assinale a alternativa que apresenta corretamente a intensidade $F$ da força resultante aplicada sobre a partícula no instante $t = 30$ s.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$F = 0,0$ N"
+        },
+        {
+          "letra": "B",
+          "texto": "$F = 0,4$ N"
+        },
+        {
+          "letra": "C",
+          "texto": "$F = 0,8$ N"
+        },
+        {
+          "letra": "D",
+          "texto": "$F = 4,0$ N"
+        },
+        {
+          "letra": "E",
+          "texto": "$F = 8,0$ N"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Leis de Newton"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Atenção: em todas as questões, as medições são feitas por um referencial inercial. O módulo da aceleração gravitacional é representado por g. Quando for necessário, use $g = 10 \\text{ m/s}^2$ para o módulo da aceleração gravitacional.\nO texto a seguir é referência para as questões 10 a 12.\nUm objeto de massa constante $m = 0,2$ kg desloca-se em um movimento unidimensional ao longo de uma linha reta, e sua aceleração $a$ é medida em função do tempo $t$.\nSabe-se que a velocidade do objeto no instante $t = 40$ s vale $v_1 = 25$ m/s. Com base nos dados fornecidos no enunciado, assinale a alternativa que apresenta corretamente a velocidade $v_2$ do objeto no instante $t = 50$ s.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$v_2 = 35$ m/s"
+        },
+        {
+          "letra": "B",
+          "texto": "$v_2 = 45$ m/s"
+        },
+        {
+          "letra": "C",
+          "texto": "$v_2 = 55$ m/s"
+        },
+        {
+          "letra": "D",
+          "texto": "$v_2 = 65$ m/s"
+        },
+        {
+          "letra": "E",
+          "texto": "$v_2 = 75$ m/s"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Atenção: em todas as questões, as medições são feitas por um referencial inercial. O módulo da aceleração gravitacional é representado por g. Quando for necessário, use $g = 10 \\text{ m/s}^2$ para o módulo da aceleração gravitacional.\nO texto a seguir é referência para as questões 10 a 12.\nUm objeto de massa constante $m = 0,2$ kg desloca-se em um movimento unidimensional ao longo de uma linha reta, e sua aceleração $a$ é medida em função do tempo $t$.\nConsiderando os dados fornecidos no enunciado, assinale a alternativa que apresenta corretamente o valor do trabalho total $W$ realizado sobre o objeto entre os instantes $t = 60$ s e $t = 70$ s.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$W = -10$ J"
+        },
+        {
+          "letra": "B",
+          "texto": "$W = -5$ J"
+        },
+        {
+          "letra": "C",
+          "texto": "$W = 0$ J"
+        },
+        {
+          "letra": "D",
+          "texto": "$W = 5$ J"
+        },
+        {
+          "letra": "E",
+          "texto": "$W = 10$ J"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Trabalho e Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "O uso de múltiplos e submúltiplos de unidades de medida simplifica a escrita de números que, de outra forma, poderia se tornar muito extensa. Nesse sentido, considere que o diâmetro médio de fios de cabelo, em metros, vale $e = 0,000070$ m. Assinale a alternativa que expressa corretamente o valor do diâmetro médio de fios de cabelo usando múltiplos ou submúltiplos do metro.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$e = 0,70$ cm"
+        },
+        {
+          "letra": "B",
+          "texto": "$e = 0,70$ km"
+        },
+        {
+          "letra": "C",
+          "texto": "$e = 70$ mm"
+        },
+        {
+          "letra": "D",
+          "texto": "$e = 70 \\mu$m"
+        },
+        {
+          "letra": "E",
+          "texto": "$e = 70$ nm"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Notação Científica e Unidades de Medida"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Um aquecedor elétrico dissipa uma potência média $P = 4,4$ kW quando está ligado e sujeito a uma tensão $\\Delta V = 220$ V. Com base nesses dados, assinale a alternativa que apresenta corretamente o valor da intensidade da corrente elétrica $i$ que circula pelo aquecedor quando ele está operando na condição descrita.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$i = 20$ A"
+        },
+        {
+          "letra": "B",
+          "texto": "$i = 10$ A"
+        },
+        {
+          "letra": "C",
+          "texto": "$i = 5,0$ A"
+        },
+        {
+          "letra": "D",
+          "texto": "$i = \\sqrt{20}$ A"
+        },
+        {
+          "letra": "E",
+          "texto": "$i = 0,050$ A"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Eletrodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Uma fonte de ondas produz, em um dado meio, uma onda propagante periódica com velocidade de propagação $v$ e frequência $f$. Sabe-se que, para ondas em que $f = 25,0$ Hz, a distância entre duas cristas sucessivas da onda produzida vale $d = 4,00$ m. Com base nessas informações, assinale a alternativa que apresenta corretamente o valor da velocidade de propagação $v$ da onda produzida para a frequência indicada.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$v = 6,25$ m/s"
+        },
+        {
+          "letra": "B",
+          "texto": "$v = 12,5$ m/s"
+        },
+        {
+          "letra": "C",
+          "texto": "$v = 50,0$ m/s"
+        },
+        {
+          "letra": "D",
+          "texto": "$v = 100$ m/s"
+        },
+        {
+          "letra": "E",
+          "texto": "$v = 200$ m/s"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Ondulatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "O texto a seguir é referência para as questões 16 e 17.\nUma dada quantidade de gás ideal executa o processo termodinâmico, iniciando no ponto A e terminando no ponto B:\nConsidere que a temperatura do gás no ponto A vale $T_A$, e a temperatura no ponto B vale $T_B$. Com base nas informações fornecidas no enunciado, assinale a alternativa que apresenta corretamente o valor da razão $\\frac{T_B}{T_A}$ entre as temperaturas dos pontos B e A.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{T_B}{T_A} = \\frac{3}{4}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{T_B}{T_A} = \\frac{4}{3}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{T_B}{T_A} = \\frac{2}{3}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{T_B}{T_A} = \\frac{1}{2}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{T_B}{T_A} = \\frac{3}{2}$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Termodinâmica",
+        "Física – Gases Ideais"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "O texto a seguir é referência para as questões 16 e 17.\nUma dada quantidade de gás ideal executa o processo termodinâmico, iniciando no ponto A e terminando no ponto B:\nConsiderando os dados fornecidos no enunciado, assinale a alternativa que apresenta corretamente o valor do trabalho $W$ realizado pelo gás no processo AB.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$W = 20$ kJ"
+        },
+        {
+          "letra": "B",
+          "texto": "$W = 40$ kJ"
+        },
+        {
+          "letra": "C",
+          "texto": "$W = 80$ kJ"
+        },
+        {
+          "letra": "D",
+          "texto": "$W = 120$ kJ"
+        },
+        {
+          "letra": "E",
+          "texto": "$W = 160$ kJ"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Termodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Uma dada lente delgada convergente tem distância focal $f = 3,0$ cm. Um objeto luminoso puntiforme é colocado no eixo principal da lente a uma distância $p = 4,0$ cm do centro óptico da lente. Assinale a alternativa que apresenta corretamente a distância $p'$ em que ocorre a formação da imagem, medida a partir do centro óptico da lente.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$p' = -12,0$ cm"
+        },
+        {
+          "letra": "B",
+          "texto": "$p' = -6,0$ cm"
+        },
+        {
+          "letra": "C",
+          "texto": "$p' = +4,0$ cm"
+        },
+        {
+          "letra": "D",
+          "texto": "$p' = +6,0$ cm"
+        },
+        {
+          "letra": "E",
+          "texto": "$p' = +12,0$ cm"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Óptica Geométrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "As restrições de produção do período pandêmico e a alta demanda com o avanço da produção de carros elétricos impulsionaram os preços internacionais do cobre. Uma vez que os minerais possuem baixos teores desse metal, a produção do cobre é realizada a partir de uma série de etapas de enriquecimento, no qual a rocha do mineral é triturada e tratada em tanques de água contendo surfactantes, e, em seguida, essa mistura é submetida à aeração. Desse modo, a espuma gerada carrega as partículas contendo cobre para a superfície, formando uma pasta com maior teor desse metal.\nQual método de separação é descrito nesse processo de enriquecimento do metal?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Filtração"
+        },
+        {
+          "letra": "B",
+          "texto": "Flotação"
+        },
+        {
+          "letra": "C",
+          "texto": "Destilação"
+        },
+        {
+          "letra": "D",
+          "texto": "Decantação"
+        },
+        {
+          "letra": "E",
+          "texto": "Centrifugação"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Métodos de Separação de Misturas"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Recentemente, pesquisadores publicaram resultados sobre compostos de promécio (Pm), um dos elementos mais raros da tabela periódica. Estima-se que menos de um quilograma da substância pode ser encontrado naturalmente na crosta terrestre. A sua existência foi comprovada apenas em 1945, por meio da análise dos subprodutos da fissão do urânio. O promécio é produzido por bombardeamento de neodímio-146 por uma partícula (A), formando neodímio-147, que por sua vez decai a promécio-147.\nDriscoll, D. M. et al. Observation of a promethium complex in solution, Nature, n. 629, p. 819, 2024.\nO esquema a seguir ilustra esse processo:\n$$^{146}_{60}\\text{Nd} + \\text{A} \\rightarrow ^{147}_{60}\\text{Nd} \\rightarrow ^{147}_{61}\\text{Pm} + \\beta$$\nConsiderando as informações apresentadas, a espécie indicada por A, no esquema, corresponde a um(a):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "próton."
+        },
+        {
+          "letra": "B",
+          "texto": "elétron."
+        },
+        {
+          "letra": "C",
+          "texto": "fóton gama."
+        },
+        {
+          "letra": "D",
+          "texto": "partícula (radiação) alfa."
+        },
+        {
+          "letra": "E",
+          "texto": "nêutron."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Radioatividade"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Observações realizadas durante eclipses solares permitiram a constatação de uma emissão característica de cor verde na coroa solar. No século XIX, esse resultado levou a comunidade científica a acreditar na existência de um novo elemento químico, o qual foi denominado coronium, por causa da origem de sua descoberta. Apenas no início do século XX, evidências mostraram que esse elemento não existe, e a emissão verde, na realidade, deve-se à presença do íon de ferro altamente ionizado Fe$^{13+}$ (Fe, Z = 26). Considerando os valores de Z para Ne = 10, Ar = 18 e Kr = 36, a distribuição eletrônica de mais baixa energia desse íon altamente ionizado é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "[Ne] $3s^2 3p^1$"
+        },
+        {
+          "letra": "B",
+          "texto": "[Ne] $3s^2 3p^6 3d^5$"
+        },
+        {
+          "letra": "C",
+          "texto": "[Ar] $3d^6 4s^2$"
+        },
+        {
+          "letra": "D",
+          "texto": "[Ar] $3d^{10} 4s^2 4p^1$"
+        },
+        {
+          "letra": "E",
+          "texto": "[Kr] $5s^2 4d^1$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Distribuição Eletrônica"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Um dos pigmentos sintéticos mais antigos, encontrado em paredes de tumbas e templos egípcios, é o azul egípcio, de fórmula CaCuSi$_4$O$_{10}$. O azul egípcio é produzido pela mistura, moagem e aquecimento de um minério de cobre (Cu$_2$CO$_3$(OH)$_2$), areia (SiO$_2$) e calcário (CaCO$_3$), conforme representado na equação a seguir:\nCu$_2$CO$_3$(OH)$_2$ + 8SiO$_2$ + 2CaCO$_3$ $\\rightarrow$ 2CaCuSi$_4$O$_{10}$ + 3CO$_2$ + H$_2$O\nEm um experimento, foram misturados 221 gramas de Cu$_2$CO$_3$(OH)$_2$, 600 gramas de SiO$_2$ e 1000 gramas de CaCO$_3$.\nConsiderando as informações fornecidas e que a massa molar (g mol$^{-1}$) de Cu$_2$CO$_3$(OH)$_2$ é 221, a de SiO$_2$(s) é 60, a de CaCO$_3$ é 100 e a de CaCuSi$_4$O$_{10}$ é 376, qual será a massa de pigmento azul egípcio obtida, em gramas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "188"
+        },
+        {
+          "letra": "B",
+          "texto": "221"
+        },
+        {
+          "letra": "C",
+          "texto": "752"
+        },
+        {
+          "letra": "D",
+          "texto": "940"
+        },
+        {
+          "letra": "E",
+          "texto": "1821"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Em química orgânica, o conceito de hibridização (ou hibridação) de orbitais atômicos é amplamente utilizado em função dos ângulos de ligação dos compostos de carbono. Na figura a seguir, está uma representação espacial do diclorometano (CH$_2$Cl$_2$) que assume uma geometria tetragonal (hibridização sp$^3$) ao redor do átomo central, o carbono.\nConsiderando as informações apresentadas, qual é o valor de ângulo, para a molécula do diclorometano, entre as ligações H-C-H que mais se aproxima do observado experimentalmente?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30°"
+        },
+        {
+          "letra": "B",
+          "texto": "90°"
+        },
+        {
+          "letra": "C",
+          "texto": "110°"
+        },
+        {
+          "letra": "D",
+          "texto": "180°"
+        },
+        {
+          "letra": "E",
+          "texto": "360°"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Geometria Molecular"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "O ciclamato de sódio é um composto de fórmula Na(C$_6$H$_{11}$NHSO$_3$), empregado como adoçante artificial de baixa caloria para substituir o açúcar. Sua produção é realizada pela reação de neutralização do ácido ciclâmico (C$_6$H$_{11}$NHSO$_3$H) com o hidróxido de sódio (NaOH). Qual é o tipo de ligação entre o sódio e o ciclamato?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Metálica"
+        },
+        {
+          "letra": "B",
+          "texto": "Iônica"
+        },
+        {
+          "letra": "C",
+          "texto": "De hidrogênio"
+        },
+        {
+          "letra": "D",
+          "texto": "Covalente simples"
+        },
+        {
+          "letra": "E",
+          "texto": "Covalente múltipla"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Ligações Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Na busca por combustíveis menos danosos ao meio ambiente, a amônia (NH$_3$) tem sido considerada uma possível alternativa. Sua combustão no motor não libera gás carbônico para a atmosfera e produz bastante calor, como mostra a Reação 1:\n4NH$_3$ + 3O$_2$ $\\rightarrow$ 2N$_2$ + 6H$_2$O\n$\\Delta H_1 = –1268$ kJ (Reação 1)\nEntretanto, a adoção da amônia encontra vários obstáculos técnicos, como o fato de sua combustão também produzir óxidos de nitrogênio altamente tóxicos. A produção do óxido de nitrogênio mais simples (NO) é mostrada na Reação 2:\n4NH$_3$ + 5O$_2$ $\\rightarrow$ 4NO + 6H$_2$O\n$\\Delta H_2 = –904$ kJ (Reação 2)\nPor outro lado, o óxido de nitrogênio é produzido por qualquer motor de combustão interna a partir do nitrogênio atmosférico, como mostra a Reação 3:\nN$_2$ + O$_2$ $\\rightarrow$ 2NO\n$\\Delta H_3 = ?$ (Reação 3)\nUtilizando os dados fornecidos, assinale a alternativa que apresenta corretamente o valor da variação da entalpia da Reação 3 ($\\Delta H_3$), em kJ.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "182"
+        },
+        {
+          "letra": "B",
+          "texto": "364"
+        },
+        {
+          "letra": "C",
+          "texto": "728"
+        },
+        {
+          "letra": "D",
+          "texto": "1086"
+        },
+        {
+          "letra": "E",
+          "texto": "2172"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Termoquímica",
+        "Química – Lei de Hess"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Muitas moléculas orgânicas apresentam mais de uma função orgânica em sua estrutura, além das cadeias hidrocarbônicas inerentes a elas. Quando isso acontece, diz-se que a molécula apresenta função mista.\nConsiderando essas informações, qual das moléculas a seguir apresenta função mista?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Acetato de etila"
+        },
+        {
+          "letra": "B",
+          "texto": "Acetileno"
+        },
+        {
+          "letra": "C",
+          "texto": "Ácido cloroacético"
+        },
+        {
+          "letra": "D",
+          "texto": "Anidrido acético"
+        },
+        {
+          "letra": "E",
+          "texto": "Cloreto de acetila"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Funções Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "A partir do craqueamento do petróleo, obtêm-se diversas frações que contêm misturas de hidrocarbonetos, as quais têm aplicações para diferentes finalidades, desde a produção de combustíveis até a de plásticos. Suponha que uma determinada fração desse processo resultou em uma mistura de hidrocarbonetos contendo apenas compostos pertencentes à classe de alcenos e que todos possuem a mesma fórmula molecular C$_4$H$_8$.\nConsiderando a fórmula molecular indicada, quantos isômeros estão presentes nessa mistura de alcenos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12"
+        },
+        {
+          "letra": "B",
+          "texto": "8"
+        },
+        {
+          "letra": "C",
+          "texto": "6"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        },
+        {
+          "letra": "E",
+          "texto": "2"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Isomeria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "As doenças crônicas não transmissíveis (DCNT) atualmente constituem os principais problemas de saúde pública no Brasil e no mundo, causando grande número de mortes prematuras e perda de qualidade de vida. Muitas dessas doenças estão associadas a desequilíbrios metabólicos, detectáveis em exames laboratoriais.\n\nHOMA-IR: modelo matemático de avaliação da homeostase para resistência à insulina.\n\nReferências para análise dos resultados:\nGlicose normal: 70 a 99 mg/dL\nInsulina normal: 2 a 13 µU/mL\nHOMA-IR > 2,7 indica resistência à ação da insulina\n\nSobre a relação entre as variáveis apresentadas e as possíveis consequências para a saúde dos indivíduos apresentados, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O indivíduo 3 apresenta valores elevados de glicose e insulina devido à resistência insulínica, condição em que as células não respondem adequadamente a esse hormônio."
+        },
+        {
+          "letra": "B",
+          "texto": "No indivíduo 2, o valor de insulina abaixo do normal se deve ao valor de glicose alto, já que as duas variáveis são inversamente correlacionadas em indivíduos saudáveis."
+        },
+        {
+          "letra": "C",
+          "texto": "O valor de insulina obtido no indivíduo 3 indica a necessidade de tratamento com esse lipídio para normalizar a quantidade de glicose em jejum."
+        },
+        {
+          "letra": "D",
+          "texto": "Os valores das variáveis obtidos no indivíduo 1 sugerem que ele apresenta diabetes, doença causada por excesso de lipídios no sangue."
+        },
+        {
+          "letra": "E",
+          "texto": "O valor de insulina abaixo do normal no indivíduo 2 se deve à entrada da insulina nas células, fato que ocorre quando a quantidade de glicose está alta."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Fisiologia Humana",
+        "Biologia – Sistema Endócrino"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Em uma vasta região, há uma população de insetos com três variações de cor em suas carapaças: verde, marrom e amarelo. Essas cores conferem diferentes vantagens em três tipos distintos de ambientes: na floresta densa, os insetos verdes têm melhor camuflagem; nos prados abertos, os insetos marrons se misturam melhor com a vegetação seca; nas áreas de solo arenoso, os insetos amarelos são menos visíveis para os predadores. Com o tempo, um evento geológico separa essas regiões, criando barreiras físicas entre a floresta, os prados e as áreas arenosas.\nCom base no texto, assinale a alternativa correta em relação a possíveis consequências da ação da seleção natural.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A seleção natural disruptiva altera o código genético dos insetos verdes isolados em áreas de solo arenoso, fazendo com que se tornem amarelos."
+        },
+        {
+          "letra": "B",
+          "texto": "A seleção natural estabilizadora promove irradiação adaptativa ao longo das gerações ao favorecer a sobrevivência de insetos marrons nas áreas de prados abertos."
+        },
+        {
+          "letra": "C",
+          "texto": "A seleção natural direcional, atuando em cada tipo de ambiente, pode levar à diferenciação entre os insetos ao longo das gerações e à especiação alopátrica."
+        },
+        {
+          "letra": "D",
+          "texto": "A seleção natural estabilizadora induz os insetos a sofrerem mutações nos genes determinantes da cor da carapaça, podendo ocorrer especiação simpátrica."
+        },
+        {
+          "letra": "E",
+          "texto": "A seleção natural direcional, atuando nos três tipos de ambiente, promove alterações moleculares aleatórias na coloração dos insetos, podendo gerar novas adaptações."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Evolução",
+        "Biologia – Seleção Natural"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Sobre a função e o transporte da seiva nas plantas vasculares, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A seiva bruta transporta os nutrientes inorgânicos da fotossíntese, como carboidratos e aminoácidos, das folhas para outras partes da planta."
+        },
+        {
+          "letra": "B",
+          "texto": "O xilema é responsável pelo transporte da seiva elaborada, que é composta principalmente de água e carboidratos."
+        },
+        {
+          "letra": "C",
+          "texto": "A seiva bruta contém açúcares e nutrientes orgânicos, enquanto a seiva elaborada contém principalmente água e sais minerais."
+        },
+        {
+          "letra": "D",
+          "texto": "A seiva elaborada é produzida pelas folhas e transporta nutrientes orgânicos, como carboidratos, para diferentes partes da planta por meio do floema."
+        },
+        {
+          "letra": "E",
+          "texto": "A seiva elaborada se movimenta das raízes em direção às folhas, e a seiva bruta pode movimentar-se em várias direções, dependendo da necessidade da planta."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Botânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "A clonagem molecular e a tecnologia do DNA recombinante permitiram que pacientes com diabetes passassem a usar a insulina humana recombinada produzida por bactérias, que possui a vantagem de, em geral, não provocar reações imunológicas nos pacientes. Sobre esses processos, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A transcrição das moléculas de DNA recombinantes por meio da ação da enzima ligase gera muitas cópias dessas moléculas, e esse processo é necessário para otimizar a produção de insulina."
+        },
+        {
+          "letra": "B",
+          "texto": "A insulina é produzida pelas bactérias a partir da expressão de moléculas de DNA recombinantes, que possuem, além do genoma bacteriano, o gene da insulina humano."
+        },
+        {
+          "letra": "C",
+          "texto": "A tecnologia do DNA recombinante consiste na inserção do gene bacteriano de interesse no genoma humano; a partir disso, a insulina passa a ser produzida pelo paciente."
+        },
+        {
+          "letra": "D",
+          "texto": "A insulina recombinada combina insulina bacteriana e humana e, em geral, não provoca reações imunológicas porque a imunidade já foi adquirida por meio de vacina."
+        },
+        {
+          "letra": "E",
+          "texto": "A combinação de aminoácidos humanos e bacterianos gera as moléculas de DNA recombinantes que serão inseridas em um vetor que irá produzir a insulina."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Biotecnologia",
+        "Biologia – Engenharia Genética"
+      ]
+    },
+    {
+      "numeroEnunciado": 83,
+      "enunciado": "The following text is reference to questions 83 and 84.\n\nGlobal Female Leaders Summit\n\nJennifer Colpas\n\nCo-Founder and Executive Chair | Tierra Grata, Colombia\nJennifer Colpas is a 32-year-old Colombian, passionate about rural development, a specialist in Social Responsibility with more than seven years of experience in leading social development programs in Brazil and Colombia. She is a Chevening scholar and is a Master's in Social Development. She is Co-Founder and Executive Director of Tierra Grata, a social enterprise created by a group of young people with experience in social intervention, international cooperation and research. Colpas believes that the essentials are for everyone.\nTierra Grata was founded in April 2016 with the purpose of providing access to basic energy, water, and sanitation services to rural communities in Colombia. Colpas and Tierra Grata take part of youth networks and associations that are changing the world as Young Water Solutions and One Young World.\n\nAvailable in: https://www.globalfemaleleaders.com/speaker/jennifer-colpas.html. Adapted.\n\nAccording to the text, it is correct to say that Jennifer Colpas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "has founded the organization Tierra Grata on her own."
+        },
+        {
+          "letra": "B",
+          "texto": "is a female leader dedicated to the development of Colombian highly populated areas."
+        },
+        {
+          "letra": "C",
+          "texto": "is part of a middle-aged group of female leaders helping urban communities."
+        },
+        {
+          "letra": "D",
+          "texto": "is an influential young leader taking part in organizations that aim to change the world."
+        },
+        {
+          "letra": "E",
+          "texto": "believes everyone has access to the essentials."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 84,
+      "enunciado": "The following text is reference to questions 83 and 84.\n\nGlobal Female Leaders Summit\n\nJennifer Colpas\n\nCo-Founder and Executive Chair | Tierra Grata, Colombia\nJennifer Colpas is a 32-year-old Colombian, passionate about rural development, a specialist in Social Responsibility with more than seven years of experience in leading social development programs in Brazil and Colombia. She is a Chevening scholar and is a Master's in Social Development. She is Co-Founder and Executive Director of Tierra Grata, a social enterprise created by a group of young people with experience in social intervention, international cooperation and research. Colpas believes that the essentials are for everyone.\nTierra Grata was founded in April 2016 with the purpose of providing access to basic energy, water, and sanitation services to rural communities in Colombia. Colpas and Tierra Grata take part of youth networks and associations that are changing the world as Young Water Solutions and One Young World.\n\nAvailable in: https://www.globalfemaleleaders.com/speaker/jennifer-colpas.html. Adapted.\n\nAccording to the text, it is correct to say that:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Tierra Grata is a for profit organization dedicated to providing scholarships for young students."
+        },
+        {
+          "letra": "B",
+          "texto": "Jennifer Colpas has under seven years of experience focusing on social programs in all states of South America."
+        },
+        {
+          "letra": "C",
+          "texto": "sanitation services are one of the issues Tierra Grata is concerned about."
+        },
+        {
+          "letra": "D",
+          "texto": "Tierra Grata is devoted to the improvement of the quality of life for the younger female world population."
+        },
+        {
+          "letra": "E",
+          "texto": "Jennifer Colpas is a Brazilian female leader who has been part of youth networks and associations for over a decade."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 85,
+      "enunciado": "The following text is reference to questions 85 and 86.\n\nTierra Grata\n\nAbout us?\nWe provide access to clean energy, water and safe sanitation to rural communities through decentralized, affordable and non-polluting solutions.\nUsers subscribe to our services and through an interest-free credit acquire the different solutions through monthly payments adjusted to their income.\nWe accompany the services with a social intervention program that aims to generate capacities within the communities. With our Guardians program, we establish a management committee that becomes the technical team in charge of monitoring and repairing the installed solutions, guaranteeing long-term sustainability.\n\nAvailable in: https://tierragrata.org/en/about-us. Adapted.\n\nAccording to the text, it is correct to say that:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Tierra Grata offers free services for rural communities."
+        },
+        {
+          "letra": "B",
+          "texto": "the cost of services offered by Tierra Grata are priced according to users' income."
+        },
+        {
+          "letra": "C",
+          "texto": "Tierra Grata users pay for the services on a yearly basis."
+        },
+        {
+          "letra": "D",
+          "texto": "the Guardians establish the committee that selects users who subscribe for the program."
+        },
+        {
+          "letra": "E",
+          "texto": "the payments users make each month are calculated according to their earnings."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 86,
+      "enunciado": "The following text is reference to questions 85 and 86.\n\nTierra Grata\n\nAbout us?\nWe provide access to clean energy, water and safe sanitation to rural communities through decentralized, affordable and non-polluting solutions.\nUsers subscribe to our services and through an interest-free credit acquire the different solutions through monthly payments adjusted to their income.\nWe accompany the services with a social intervention program that aims to generate capacities within the communities. With our Guardians program, we establish a management committee that becomes the technical team in charge of monitoring and repairing the installed solutions, guaranteeing long-term sustainability.\n\nAvailable in: https://tierragrata.org/en/about-us. Adapted.\n\nConsider the following sentences:\n1. Safe, non-polluting and long-term are adjectives.\n2. The Guardians' program offers opportunities to people from outside the communities assisted by Tierra Grata.\n3. The Guardians are responsible for monitoring and repairing the services after installation.\n4. Affordable, subscribe and management are all verb forms in the text.\n\nMark the correct alternative.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Only affirmative 1 is correct."
+        },
+        {
+          "letra": "B",
+          "texto": "Only affirmatives 1 and 3 are correct."
+        },
+        {
+          "letra": "C",
+          "texto": "Only affirmatives 2 and 4 are correct."
+        },
+        {
+          "letra": "D",
+          "texto": "Only affirmatives 2, 3 and 4 are correct."
+        },
+        {
+          "letra": "E",
+          "texto": "Affirmatives 1, 2, 3 and 4 are correct."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Análise Gramatical"
+      ]
+    },
+    {
+      "numeroEnunciado": 87,
+      "enunciado": "The following text is reference to questions 87 and 88.\n\n\"Dune - Part I\" tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, who must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential – only those who can conquer their fear will survive.\n\nAvailable in: https://www.imdb.com/video/vi3986080537. Adapted.\n\nMark the alternative with the synonyms for the terms gifted, ensure and commodity found in the text.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "talented – guarantee – product"
+        },
+        {
+          "letra": "B",
+          "texto": "luckless – certify – component"
+        },
+        {
+          "letra": "C",
+          "texto": "unfit – destroy – merchandise"
+        },
+        {
+          "letra": "D",
+          "texto": "inept – neglect – asset"
+        },
+        {
+          "letra": "E",
+          "texto": "competent – ignore – goods"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 88,
+      "enunciado": "The following text is reference to questions 87 and 88.\n\n\"Dune - Part I\" tells the story of Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, who must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence - a commodity capable of unlocking humanity's greatest potential – only those who can conquer their fear will survive.\n\nAvailable in: https://www.imdb.com/video/vi3986080537. Adapted.\n\nAnalyze the following sentences:\n1. Paul Atreides completely understands his destiny towards the universe.\n2. The planet Paul Atreides must travel to is the supplier of a vital resource.\n3. The commodity found in the planet is the reason of conflicts.\n4. Malevolent forces in conflict exploded the planet's exclusive supply.\n\nMark the correct alternative, based on the text.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Only sentence 1 is correct."
+        },
+        {
+          "letra": "B",
+          "texto": "Only sentences 1 and 4 are correct."
+        },
+        {
+          "letra": "C",
+          "texto": "Only sentences 2 and 3 are correct."
+        },
+        {
+          "letra": "D",
+          "texto": "Only sentences 2, 3 and 4 are correct."
+        },
+        {
+          "letra": "E",
+          "texto": "Sentences 1, 2, 3 and 4 are correct."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 89,
+      "enunciado": "The following text is reference to questions 89 and 90.\n\nSurgery in space: Tiny remotely operated robot completes first simulated procedure at the sp\n\nBy Taylor Nicioli and Kristin Fisher, CNN February 13, 2024\n\nA tiny surgical robot in residence at the International Space Station completed its first surgery demo in zero gravity on Saturday.\nThe robot, known as spaceMIRA — which stands for Miniaturized In Vivo Robotic Assistant — performed several operations on simulated tissue at the orbiting laboratory while remotely operated by multiple-area surgeons from approximately 250 miles (400 kilometers) below in Lincoln, Nebraska.\nThe milestone is a step forward in developing technology that could have implications not just for successful long-term human space travel, where surgical emergencies could happen, but also for establishing access to medical care in remote areas on Earth, such as in rural areas or military battlefields.\nThe US goal of pushing exploration deeper into space includes the possibility of journeys that could take years – a round-trip to Mars, for example, could take about two years to complete, according to NASA.\nThe demonstration on Saturday called for the remote surgeon to control the robots' hands to provide tension to the simulated tissue made of rubber bands — and use the other hand to dissect the elastic tissue with scissors. A total of six surgeons performed remote tests with the robot, and each demonstration — dissecting the correct piece of tissue under pressure, a common surgical task, was considered successful.\nOne of the challenges when attempting to control a robot in space from Earth is latency, or the delay between the time the command is sent and the time the robot receives it. The delay was about 0.85 of a second, said Dr. Michael Jobst, a colorectal surgeon who was part of the demonstration with spaceMIRA on Saturday.\n\nAvailable in: https://edition.cnn.com/2024/02/13/world/mira-robot-first-surgery-in-space-scn/index.html. Adapted.\n\nBased on the information presented in the text, which is the main characteristic of the robot spaceMIRA?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "It is a remotely controlled robot that has completed its first surgery on board the International Space Station."
+        },
+        {
+          "letra": "B",
+          "texto": "It is an oversized robotic assistant that performed its first simulated operation on human tissue in space."
+        },
+        {
+          "letra": "C",
+          "texto": "It is remotely controlled by a team of colorectal surgeons that were in the International Space Station."
+        },
+        {
+          "letra": "D",
+          "texto": "It has rubber bands that allow more precision and fewer seconds of delay in performing the command given."
+        },
+        {
+          "letra": "E",
+          "texto": "It is part of a NASA project that will take about two years to make a trip around Mars."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 90,
+      "enunciado": "The following text is reference to questions 89 and 90.\n\nSurgery in space: Tiny remotely operated robot completes first simulated procedure at the sp\n\nBy Taylor Nicioli and Kristin Fisher, CNN February 13, 2024\n\nA tiny surgical robot in residence at the International Space Station completed its first surgery demo in zero gravity on Saturday.\nThe robot, known as spaceMIRA — which stands for Miniaturized In Vivo Robotic Assistant — performed several operations on simulated tissue at the orbiting laboratory while remotely operated by multiple-area surgeons from approximately 250 miles (400 kilometers) below in Lincoln, Nebraska.\nThe milestone is a step forward in developing technology that could have implications not just for successful long-term human space travel, where surgical emergencies could happen, but also for establishing access to medical care in remote areas on Earth, such as in rural areas or military battlefields.\nThe US goal of pushing exploration deeper into space includes the possibility of journeys that could take years – a round-trip to Mars, for example, could take about two years to complete, according to NASA.\nThe demonstration on Saturday called for the remote surgeon to control the robots' hands to provide tension to the simulated tissue made of rubber bands — and use the other hand to dissect the elastic tissue with scissors. A total of six surgeons performed remote tests with the robot, and each demonstration — dissecting the correct piece of tissue under pressure, a common surgical task, was considered successful.\nOne of the challenges when attempting to control a robot in space from Earth is latency, or the delay between the time the command is sent and the time the robot receives it. The delay was about 0.85 of a second, said Dr. Michael Jobst, a colorectal surgeon who was part of the demonstration with spaceMIRA on Saturday.\n\nAvailable in: https://edition.cnn.com/2024/02/13/world/mira-robot-first-surgery-in-space-scn/index.html. Adapted.\n\nThe term \"it\" in bold and underlined in the text refers to:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "one of the challenges."
+        },
+        {
+          "letra": "B",
+          "texto": "the command sent."
+        },
+        {
+          "letra": "C",
+          "texto": "a robot in space."
+        },
+        {
+          "letra": "D",
+          "texto": "the attempt."
+        },
+        {
+          "letra": "E",
+          "texto": "the planet Earth."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Referência Pronominal"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1647 @@
+{
+  "nomeUniversidade": "Universidade Federal do Amazonas",
+  "siglaUniversidade": "UFAM",
+  "nomeProva": "Processo Seletivo Contínuo - PSC 1ª Etapa",
+  "ano": 2024,
+  "qtdeQuestoes": 54,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Considere, a seguir, para responder às questões de 01 a 04, os excertos extraídos de umas das obras de Ailton Krenak e uma tira publicada em rede social:\n\n**O amanhã não está à venda**\nParei de andar mundo afora, cancelei compromissos. Estou com a minha família na aldeia Krenak, no médio rio Doce. Há quase um mês, nossa reserva indígena está isolada. Quem estava ausente regressou, e sabemos bem qual é o risco de receber pessoas de fora. Sabemos o perigo de ter contato com pessoas assintomáticas. Estamos todos aqui e até agora não tivemos nenhuma ocorrência.\n[...]\nVivemos hoje esta experiência de isolamento social, como está sendo definido o confinamento, em que todas as pessoas têm de se recolher. Se durante um tempo éramos nós, os povos indígenas, que estávamos ameaçados da ruptura ou da extinção do sentido da nossa vida, hoje estamos todos diante da iminência de a Terra não suportar a nossa demanda. Assistimos a uma tragédia de gente morrendo em diferentes lugares do planeta, a ponto de na Itália os corpos serem transportados para a incineração em caminhões. [...]\n*Fonte: Krenak, Ailton. O amanhã não está à venda. São Paulo: Companhia das Letras, 2020, p. 3.*\n\nNem todas as informações aparecem, de forma explícita, em um texto, mas podem ser inferidas. Tendo isso em conta, analise as afirmativas a seguir:\n\nI. Não é possível concluir, com as informações dadas, que os excertos do texto de Ailton Krenak estejam se referindo à pandemia da covid-19 nem que a tira deixe evidente que a pessoa a quem o personagem se dirige tenha conferido o bilhete da loteria.\nII. Não é possível concluir, com as informações dadas, que o texto de Ailton Krenak trate da pandemia da covid-19, mas, em relação à tira, é evidente que a pessoa a quem o personagem se dirige conferiu o bilhete da loteria.\nIII. Tanto as informações presentes nos excertos do texto de Ailton Krenak quanto as que compõem a tira permitem concluir que Ailton Krenak está tratando da pandemia da covid-19 e que a pessoa a quem o personagem da tira se dirige conferiu o bilhete da loteria.\nIV. Expressões/palavras como \"pessoas assintomáticas\", \"isolamento social\" e \"confinamento\", nos excertos do texto de Ailton Krenak, são marcas linguísticas que remetem à pandemia da covid-19. Por outro lado, na tira, a mera ausência – na cama – da pessoa a quem o personagem se dirige não é indício suficiente de que essa pessoa tenha conferido o bilhete da loteria.\nV. Informações como as que diziam respeito a pessoas mortas sendo transportadas em caminhões, na Itália, foram divulgadas durante períodos críticos da pandemia da covid-19, o que reforça ser esse um tema deduzível no texto de Ailton Krenak. Quanto à tira, além da ausência – na cama – da pessoa a quem o personagem se dirige, o guarda-roupa com cabides vazios e a carta sobre o travesseiro são indícios que, somados, evidenciam que essa pessoa não apenas conferiu o bilhete da loteria, mas também se apossou dele e foi embora.\n\nAssinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I, II e IV são verdadeiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I, II e V são verdadeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas III, IV e V são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I, III e IV são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, III e V são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Textos",
+        "Língua Portuguesa – Inferência"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Ailton Krenak alterna as pessoas do discurso ora usando a primeira pessoa do singular, ora a do plural. Com a conversão dos dois primeiros períodos dos excertos para a primeira pessoa do plural (mantidos tempo e modo verbais, mas na forma composta), a resposta CORRETA é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Tínhamos parado de andar mundo afora, tínhamos cancelado compromissos. Tínhamos estado com nossas famílias na aldeia Krenak, no médio rio Doce."
+        },
+        {
+          "letra": "B",
+          "texto": "Temos parado de andar mundo afora, temos cancelado compromissos. Temos estado com nossas famílias na aldeia Krenak, no médio rio Doce."
+        },
+        {
+          "letra": "C",
+          "texto": "Teríamos parado de andar mundo afora, teríamos cancelado compromissos. Teríamos estado com nossas famílias na aldeia Krenak, no médio rio Doce."
+        },
+        {
+          "letra": "D",
+          "texto": "Tivéssemos parado de andar mundo afora, tivéssemos cancelado compromissos. Tivéssemos estado com nossas famílias na aldeia Krenak, no médio rio Doce."
+        },
+        {
+          "letra": "E",
+          "texto": "Tenhamos parado de andar mundo afora, tenhamos cancelado compromissos. Tenhamos estado com nossas famílias na aldeia Krenak, no médio rio Doce."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Verbos",
+        "Língua Portuguesa – Tempos e Modos Verbais"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "A oração \"em que todas as pessoas têm de se recolher\" (no segundo parágrafo do texto de Ailton Krenak) é uma subordinada adjetiva. Mantido o tipo de oração, mas com a substituição do verbo pronominal \"recolher-se\" por \"ficar\", são propostas as adaptações a seguir:\n\nI. que todas as pessoas têm de ficar.\nII. onde todas as pessoas têm de ficar.\nIII. no qual todas as pessoas têm de ficar.\nIV. ao qual todas as pessoas têm de ficar.\nV. em cujo o qual todas as pessoas têm de ficar.\n\nEstão INCORRETAS:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente I, IV e V."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente I, II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente I, II e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente II, III e V."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente III, IV e V."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Pronomes Relativos"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Considere os seguintes trechos extraídos, respectivamente, do texto de Ailton Krenak e da tira: \"Assistimos a uma tragédia de gente morrendo em diferentes lugares do planeta [...]\" e \"Amor, você conferiu o bilhete da loteria?\". Substituindo-se o verbo assistir por presenciar e conferir por verificar, ficaria CORRETO o seguinte par de adaptações:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Presenciamos a uma tragédia de gente morrendo em diferentes lugares do planeta // Amor, você verificou o bilhete da loteria?"
+        },
+        {
+          "letra": "B",
+          "texto": "Presenciamos a uma tragédia de gente morrendo em diferentes lugares do planeta // Amor, você verificou ao bilhete da loteria?"
+        },
+        {
+          "letra": "C",
+          "texto": "Presenciamos uma tragédia de gente morrendo em diferentes lugares do planeta // Amor, você verificou ao bilhete da loteria?"
+        },
+        {
+          "letra": "D",
+          "texto": "Presenciamos uma tragédia de gente morrendo em diferentes lugares do planeta // Amor, você verificou o bilhete da loteria?"
+        },
+        {
+          "letra": "E",
+          "texto": "Presenciamos de uma tragédia de gente morrendo em diferentes lugares do planeta // Amor, você verificou ao bilhete da loteria?"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Regência Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Considere, para responder às questões de 05 a 08, o excerto a seguir, extraído da obra de Mary del Priore:\n\n**\"Ao cabo do mundo\": no início era o céu e a terra**\n\"Neste mesmo dia, à hora das vésperas, avistamos terra!\": era o dia 22 de abril de 1500, e um monte alto e redondo acusou solo novo no Atlântico meridional. Para os homens habituados a velejar ao norte do equador, o céu azul substituiu o esbranquiçado dos outonos e invernos. Em lugar dos campos cultivados, a capa verde da mata se espreguiçava ao longo das praias. O sol dourava a pele, em vez do astro frio que, salvo no verão, mal esquentava os corpos. Pássaros coloridos cruzavam os ares com sua música, diversa do grito estridente das aves marinhas. Do interior da massa verde de troncos e folhas se ouviam silvos, urros, sons de animais desconhecidos. A beleza da paisagem, que mais parecia uma visão do paraíso, interpelava os recém-chegados.\nNo aconchego do abrigo mais tarde batizado de baía Cabrália, as caravelas deixavam para trás a fronteira entre o medo e a miragem: o Atlântico. Um caminho de águas que transportava homens, armas e mercadorias a serviço da ambição da monarquia católica de encontrar uma passagem para as cobiçadas Índias. Mas seria mesmo nova a terra que se avistava? Certamente não. Os espanhóis já conheciam suas regiões ao norte, e é de se perguntar quantas vezes emissários de d. João II, filho de d. Henrique, o Navegador, depois de chegar à Madeira e aos Açores, não teriam se aproximado das costas brasileiras. À sua maneira, os portugueses dominavam a extensão, a cor e as vozes do mar, que os convidava a olhar além do horizonte. E agora, superadas as dificuldades da viagem, eram recompensados pela atração do sol, da luminosidade e... do lucro possível.\nNo início, para os aqui desembarcados, não era o Verbo, mas sim o nada. Apenas matas, medo e solidão. E um vasto litoral, desconhecido, que mais ameaçava do que acolhia. Um espaço aparentemente desabitado – a palavra já existia e designava o locus desérticos –, o lugar sem viva alma. Além das praias, o desconhecido gentio: escondido, armado e perigoso – e que, na maior parte das vezes, podia receber estranhos com uma chuva de flechas. E, no interior, terras incultas, cobertas de densas matas, difíceis de trabalhar. Frente à paisagem infinita, pairava a pergunta que lançara os portugueses à aventura ultramarina: que extraordinárias oportunidades os aguardavam?\n*Fonte: Del Priore, Mary. Histórias da gente brasileira: volume 1: colônia. São Paulo: LeYa, 2016, p. 13.*\n\nO trecho acima faz parte do Capítulo 1, que, por sua vez, compõe a Parte 1 do livro, intitulada Terra e trabalho. Em relação ao seu conteúdo e à sua forma de composição, considere as afirmativas a seguir:\n\nI. A autora defende a tese de que as terras avistadas pelos velejadores retratados no texto eram novas, embora outros discordem dessa posição.\nII. No trecho \"A beleza da paisagem, que mais parecia uma visão do paraíso, interpelava os recém-chegados\", a autora se apropria, como recurso estilístico, de uma personificação.\nIII. A autora – ao empregar, no título, a expressão \"no início era o céu e a terra\" e, mais adiante, \"No início, para os aqui desembarcados, não era o Verbo, mas sim o nada\" - dialoga, explicitamente, com o texto bíblico. Esse é um exemplo típico de intertextualidade.\nIV. Sabendo-se que é atribuída a Vasco da Gama a descoberta do caminho marítimo para as Índias, em 1498, pode-se concluir que a passagem \"Um caminho de águas que transportava homens, armas e mercadorias a serviço da ambição da monarquia católica de encontrar uma passagem para as cobiçadas Índias\", é coerente no contexto do trecho transcrito.\n\nAssinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e IV são verdadeiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e II são verdadeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas II e IV são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas III e IV são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II e III são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Textos",
+        "Língua Portuguesa – Figuras de Linguagem",
+        "Língua Portuguesa – Intertextualidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "No trecho \"E, no interior, terras incultas, cobertas de densas matas, difíceis de trabalhar\", considerando-se o contexto textual, o adjetivo incultas poderia ser CORRETAMENTE substituído pela palavra ou expressão a seguir:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "não cultivadas."
+        },
+        {
+          "letra": "B",
+          "texto": "incautas."
+        },
+        {
+          "letra": "C",
+          "texto": "sem erudição."
+        },
+        {
+          "letra": "D",
+          "texto": "infrutíferas."
+        },
+        {
+          "letra": "E",
+          "texto": "inférteis."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Sinônimos"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "O trecho \"Do interior da massa verde de troncos e folhas se ouviam silvos, urros, sons de animais desconhecidos\" estaria corretamente reescrito, mantendo-se a concordância verbal adequada e sem mudança do sentido geral, EXCETO em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ouviam-se silvos, urros, sons de animais desconhecidos do interior da massa verde de troncos e folhas."
+        },
+        {
+          "letra": "B",
+          "texto": "Do interior da massa verde de troncos e folhas eram ouvidos silvos, urros, sons de animais desconhecidos."
+        },
+        {
+          "letra": "C",
+          "texto": "Silvos, urros, sons de animais desconhecidos eram ouvidos do interior da massa verde de troncos e folhas."
+        },
+        {
+          "letra": "D",
+          "texto": "O interior da massa verde de troncos e folhas ouviam silvos, urros, sons de animais desconhecidos."
+        },
+        {
+          "letra": "E",
+          "texto": "Eram ouvidos silvos, urros, sons de animais desconhecidos do interior da massa verde de troncos e folhas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Concordância Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Os períodos \"Em lugar dos campos cultivados, a capa verde da mata se espreguiçava ao longo das praias. O sol dourava a pele, em vez do astro frio que, salvo no verão, mal esquentava os corpos.\" poderiam ser CORRETAMENTE associados, por meio de expressões/palavras de conexão, sem perda de coesão e de coerência, do seguinte modo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Em lugar dos campos cultivados, a capa verde da mata se espreguiçava ao longo das praias, porém o sol dourava a pele, em vez do astro frio que, salvo no verão, mal esquentava os corpos."
+        },
+        {
+          "letra": "B",
+          "texto": "Em lugar dos campos cultivados, a capa verde da mata se espreguiçava ao longo das praias e, além disso, o sol dourava a pele, em vez do astro frio que, salvo no verão, mal esquentava os corpos."
+        },
+        {
+          "letra": "C",
+          "texto": "Em lugar dos campos cultivados, a capa verde da mata se espreguiçava ao longo das praias, porque o sol dourava a pele, em vez do astro frio que, salvo no verão, mal esquentava os corpos."
+        },
+        {
+          "letra": "D",
+          "texto": "Em lugar dos campos cultivados, a capa verde da mata se espreguiçava ao longo das praias, embora o sol dourasse a pele, em vez do astro frio que, salvo no verão, mal esquentava os corpos."
+        },
+        {
+          "letra": "E",
+          "texto": "Em lugar dos campos cultivados, a capa verde da mata se espreguiçava ao longo das praias para que o sol dourasse a pele, em vez do astro frio que, salvo no verão, mal esquentava os corpos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Conectivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Considere, para responder às questões 09 e 10, esta espécie de banner postada em rede social:\n**ATENÇÃO AVISO**\n> Meu psiquiatra\n> disse para escrever\n> cartas para algumas\n> pessoas que me\n> fizeram mal e\n> depois queimá-las.\n> O que eu faço com\n> as cartas?\n\nÉ CORRETO afirmar que o texto do banner",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mostra que, embora a mensagem do psiquiatra não seja ambígua (foi apenas mal interpretada pelo paciente), ela poderia ter sido coesivamente mais adequada se ele tivesse usado, no lugar do pronome oblíquo, a expressão as cartas."
+        },
+        {
+          "letra": "B",
+          "texto": "não pode gerar um sentido humorístico, porque o pronome oblíquo somente pode se referir a cartas, havendo, portanto, um erro de interpretação do paciente."
+        },
+        {
+          "letra": "C",
+          "texto": "mostra que, embora a mensagem do psiquiatra não seja ambígua (foi apenas mal interpretada pelo paciente), ela poderia ter sido mais precisa se ele tivesse usado como recurso coesivo, no lugar do pronome oblíquo, uma expressão nominal do tipo tais documentos."
+        },
+        {
+          "letra": "D",
+          "texto": "mostra que a mensagem do psiquiatra é ambígua, mas poderia ter sido corrigida se ele tivesse usado como recurso coesivo, no lugar do pronome oblíquo, o pronome elas."
+        },
+        {
+          "letra": "E",
+          "texto": "tem um efeito de sentido humorístico, gerado linguisticamente, no caso, pela interpretação do pronome oblíquo como se referindo anaforicamente a pessoas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Textos",
+        "Língua Portuguesa – Ambiguidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "O trecho \"Meu psiquiatra disse para escrever cartas para algumas pessoas que me fizeram mal\", sem prejuízo para o sentido e sem comprometimentos de regência, poderia ser CORRETAMENTE reescrito do seguinte modo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Meu psiquiatra mim disse para eu escrever cartas para algumas pessoas que fizeram mal a mim."
+        },
+        {
+          "letra": "B",
+          "texto": "Meu psiquiatra disse para mim escrever cartas para algumas pessoas que fizeram mal a mim."
+        },
+        {
+          "letra": "C",
+          "texto": "Meu psiquiatra me disse para eu escrever cartas para algumas pessoas que fizeram mal a mim."
+        },
+        {
+          "letra": "D",
+          "texto": "Meu psiquiatra me disse para eu escrever cartas para algumas pessoas que mim fizeram mal."
+        },
+        {
+          "letra": "E",
+          "texto": "Meu psiquiatra disse para mim escrever cartas para algumas pessoas que mim fizeram mal."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia",
+        "Língua Portuguesa – Emprego de Pronomes"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Considere as seguintes afirmativas:\n\nI. Pero Vaz de Caminha escreveu a Carta de achamento do Brasil, que foi dirigida ao rei de Portugal, Dom Manuel, em maio de 1500. A carta tem o objetivo de dar ao monarca informações sobre a terra recém-descoberta.\nII. Os relatos dos viajantes ou relatos de viagens do século XVI sobre a terra \"recém-achada\" e batizada, inicialmente, como Ilha de Vera Cruz pelos portugueses, são textos informativos e podem ser caracterizados enquanto crônicas históricas.\nIII. Além da Carta de Pero Vaz de Caminha, há outros relatos de viagens sobre o Brasil no século XVI, a exemplo do Tratado da Terra do Brasil, escrito, provavelmente, em 1570, mas publicado apenas em 1826, de Pero Magalhães Gândavo; Tratado descritivo do Brasil (1587), de Gabriel Soares de Sousa; Duas viagens ao Brasil (1557), de Hans Staden.\n\nAssinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas II e III estão corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente a afirmativa I está correta."
+        },
+        {
+          "letra": "C",
+          "texto": "Todas as afirmativas estão corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I e III estão corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas I e II estão corretas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira – Quinhentismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Leia o texto a seguir para responder à questão sobre ele formulada:\n\n“Não há como digo entre eles nenhum Rei, nem Justiça, somente em cada aldeia tem um principal que é como capitão, ao qual obedecem por vontade e não por força; morrendo este principal fica seu filho no mesmo lugar; não serve de outra coisa se não de ir com eles à guerra, e aconselha-os como se hão de haver na peleja, mas não castiga seus erros nem manda sobre eles coisa alguma contra sua vontade. Este principal tem três, quatro mulheres, a primeira tem em mais conta, e faz dela mais caso que das outras. Isto tem por estado e por honra. Não adoram coisa alguma nem têm para si que há na outra vida glória para os bons, e pena para os maus, tudo cuidam que se acaba nesta e que as almas fenecem com os corpos, e assim vivem bestialmente sem ter conta, nem peso, nem medida.\"\n*(Gandavo, Pero de Magalhães. Tratado da Terra do Brasil: história da província Santa Cruz, a que vulgarmente chamamos Brasil. Brasília: Senado Federal, Conselho Editorial, 2008, p. 66)*\n\nSobre o trecho acima, é CORRETO afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ele não categoriza o índio enquanto um ser sem fé, sem lei e sem rei."
+        },
+        {
+          "letra": "B",
+          "texto": "o gênero do texto é epistolar, por isso a visão apresentada do indígena é a do \"bom selvagem\"."
+        },
+        {
+          "letra": "C",
+          "texto": "o texto de Pero de Magalhães descreve os indígenas como indivíduos capazes de governar as próprias terras e de controlar uns aos outros."
+        },
+        {
+          "letra": "D",
+          "texto": "como os índios acreditam na existência de outro mundo além da morte, vivem bestialmente nesta vida."
+        },
+        {
+          "letra": "E",
+          "texto": "está presente nele a ideia de que os indígenas não teriam qualquer religião, lei ou autoridade; que eles seriam destituídos de cobiça, do sentimento de propriedade, de hierarquia e até mesmo de religião."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira – Quinhentismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "As questões 13 e 14, a seguir, são baseadas em poemas de Gregório de Matos.\n\nOfendi-vos, Meu Deus, bem é verdade,\nÉ verdade, meu Deus, que hei delinquido,\nDelinquido vos tenho, e ofendido,\nOfendido vos tem minha maldade.\n\nMaldade, que encaminha à vaidade,\nVaidade, que todo me há vencido;\nVencido quero ver-me, e arrependido,\nArrependido a tanta enormidade.\n\nArrependido estou de coração,\nDe coração vos busco, dai-me os braços,\nAbraços, que me rendem vossa luz.\n\nLuz, que claro me mostra a salvação,\nA salvação pretendo em tais abraços,\nMisericórdia, Amor, Jesus, Jesus\n*(Obras completas de Gregório de Matos. Volume I. Salvador: Ed. Janaína, s/d, p. 46)*\n\nCom base na leitura do poema, assinale a alternativa INCORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O sentimento do \"eu lírico\" é de culpa e de conflito interior, por ter consciência dos seus pecados e da necessidade de salvação."
+        },
+        {
+          "letra": "B",
+          "texto": "Os desejos do \"eu lírico\" manifestados no poema são de ser perdoado e de ser salvo."
+        },
+        {
+          "letra": "C",
+          "texto": "O poema pertence à divisão sacro-lírica da poesia de Gregório de Matos, porque se sobressai, no texto, a temática renascentista da devoção ao sagrado e a do otimismo."
+        },
+        {
+          "letra": "D",
+          "texto": "Observa-se, no poema, oposição de ideias entre pecado e perdão; ofensa e arrependimento; matéria e espírito."
+        },
+        {
+          "letra": "E",
+          "texto": "O poema é um soneto, pertencente à temática sacra da poesia de Gregório Matos, cuja abordagem tipicamente barroca é a da culpa pela consciência do pecado."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira – Barroco"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "**Desenganos da Vida Humana Metaforicamente**\n\nÉ a vaidade, Fábio, nesta vida,\nRosa, que da manhã lisonjeada,\nPúrpuras mil, com ambição dourada,\nAirosa rompe, arrasta presumida.\n\nÉ planta, que de abril favorecida,\nPor mares de soberba desatada,\nFlorida galeota empavesada,\nSulca ufana, navega destemida.\n\nÉ nau enfim, que em breve ligeireza\nCom presunção de Fênix generosa,\nGalhardias apresta, alentos preza:\n\nMas ser planta, ser rosa, nau vistosa\nDe que importa, se aguarda sem defesa\nPenha a nau, ferro a planta, tarde a rosa?\n*(Obras completas de Gregório de Matos. Volume I. Salvador: Ed. Janaína, s/d.)*\n\nSobre o poema, é INCORRETO afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "na primeira estrofe, não é estabelecida uma relação da vaidade com a rosa, que se mostra elegante, ambiciosa."
+        },
+        {
+          "letra": "B",
+          "texto": "é um soneto cultista, em que o eu-lírico explica o que é a vaidade, utilizando-se das metáforas rosa, planta e nau."
+        },
+        {
+          "letra": "C",
+          "texto": "os temas barrocos presentes no soneto são a inevitabilidade da morte e o quanto a vida é passageira."
+        },
+        {
+          "letra": "D",
+          "texto": "o soneto pertence à divisão lírico-filosófica da poesia de Gregório de Matos, na qual ele faz considerações sobre a condição humana diante da instabilidade do mundo e das coisas que a circundam."
+        },
+        {
+          "letra": "E",
+          "texto": "No último terceto, é questionado se a vaidade vale a pena, já que a morte é inevitável."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira – Barroco"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Leia o fragmento abaixo, que pertence ao poema O Uraguai, de Basílio da Gama; em seguida, responda ao que é pedido nas questões 15 e 16.\n\nEntram enfim na mais remota e interna\nParte de antigo bosque, escuro e negro,\nOnde ao pé de uma lapa cavernosa\nCobre uma rouca fonte, que murmura,\nCurva latada de jasmins e rosas.\nEste lugar delicioso e triste,\nCansada de viver, tinha escolhido\nPara morrer a mísera Lindoia.\nLá reclinada, como que dormia,\nNa branda relva e nas mimosas flores,\nTinha a face na mão, e a mão no tronco\nDe um fúnebre cipreste, que espalhava\nMelancólica sombra. Mais de perto,\nDescobrem que se enrola no seu corpo\nVerde serpente, e lhe passeia, e cinge\nPescoço, e braços, e lhe lambe o seio.\nFogem de a ver assim sobressaltados\nE param cheios de temor ao longe;\nE nem se atrevem a chamá-la, e temem\nQue desperte assustada, e irrite o monstro,\nE fuja, e apresse, no fugir, a morte.\nPorém o destro Caitutu, que treme\nDo perigo da irmã, sem mais demora\nDobrou as pontas do arco, e quis três vezes\nSoltar o tiro, e vacilou três vezes\nEntre a ira e o temor. Enfim sacode\nO arco, e faz voar a aguda seta,\nQue toca o peito de Lindoia e fere\nA serpente na testa, e a boca e os dentes\nDeixou cravados no vizinho tronco.\n*(Gama, Basílio da. O Uraguai. Manaus: Valer, 2010.)*\n\nSobre a passagem acima e o seu autor, é CORRETO afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Basílio da Gama narra, em O Uraguai, o conflito entre espanhóis e brasileiros pela posse do Rio Grande do Sul."
+        },
+        {
+          "letra": "B",
+          "texto": "o poema é escrito em versos alexandrinos, pois possui 10 (dez) sílabas poéticas."
+        },
+        {
+          "letra": "C",
+          "texto": "a morte de Lindoia pertence ao quarto canto do poema, que, resumidamente, trata do casamento dela com Cacambo."
+        },
+        {
+          "letra": "D",
+          "texto": "o episódio refere-se à morte da personagem Lindoia, que ocorre no meio campestre, local \"delicioso e triste\". Delicioso, pois a idealização árcade está presente na descrição do ambiente; triste, porque será palco de um episódio de dor e morte."
+        },
+        {
+          "letra": "E",
+          "texto": "ainda que o poema tenha sido escrito no período literário do Arcadismo, traz características que o aproximam do Barroco, por causa do jogo de ideias presentes no fragmento."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira – Arcadismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Considere as seguintes afirmativas sobre o fragmento anterior de O Uraguai:\n\nI. Caitutu vacila em atirar a seta, pois tem medo de ferir a irmã, mas, ao mesmo tempo, desejava salvá-la da serpente.\nII. Lindoia desejava a morte, porque o seu marido (Cacambo) estava morto e ela não queria se casar com Baldeta.\nIII. No episódio narrado, percebem-se características aproximativas com o Romantismo, como a morte trágica de Lindoia, que prefere morrer a se casar com outro homem.\n\nAssinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente a afirmativa I é verdadeira."
+        },
+        {
+          "letra": "B",
+          "texto": "Todas as afirmativas são verdadeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas I e II são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I e III são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II e III são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira – Arcadismo",
+        "Língua Portuguesa – Interpretação de Texto Literário"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "“Não há história imóvel e a história também não é pura mudança, mas sim o estudo das mudanças significativas. A periodização é o principal instrumento de inteligibilidade das mudanças significativas.\" (Le Goff, Jacques. História e memória. Campinas: Unicamp, 1996, p. 47, apud Cotrim, Gilberto. História global 1. -- 3. ed. - São Paulo: Saraiva, 2016, p. 21)\nNo trecho citado, o historiador apresenta uma característica fundante da construção do conhecimento histórico, que é a noção de tempo, ou seja, evidenciam-se as relações que a História ou o historiador podem estabelecer entre presente e passado. Assim, pode-se afirmar que o tempo histórico:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "é um tempo fantasioso, em que não é preciso respeitar as regras do mundo real. No tempo histórico, podem ser trabalhadas lendas, arquétipos, seguir o fio que quiser."
+        },
+        {
+          "letra": "B",
+          "texto": "está relacionado ao dia e à noite, às variações do clima, às épocas de plantio e de colheita."
+        },
+        {
+          "letra": "C",
+          "texto": "é determinado pelo relógio; é esse instrumento que governa, em grande parte, o cotidiano do fazer histórico, ao ditar a hora de acordar, trabalhar, etc."
+        },
+        {
+          "letra": "D",
+          "texto": "não segue uma ordem linear, assim, o passado, o presente e futuro podem se misturar na narrativa e podem mudar a ordem dos acontecimentos."
+        },
+        {
+          "letra": "E",
+          "texto": "é composto de diferentes durações, que se relacionam com as ações e reflexões dos seres humanos, o tempo das criações culturais."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Teoria da História",
+        "História – Tempo Histórico"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "\"Assim, desde o mais remoto ancestral do gênero Homo, toda a aventura humana se confunde com a África. Apenas ali se pode acompanhar o processo completo de transformação dos primatas em homens.\" (Macedo, José Rivair. História da África. São Paulo: Edição Contexto, 2013, p. 15)\nO texto acima, ao evidenciar a centralidade do continente africano para a humanidade, trata do processo de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "expansão dos povos bantos, que se espalharam pela África e difundiram sua língua e formas de ser e viver."
+        },
+        {
+          "letra": "B",
+          "texto": "constituição das primeiras rotas de comércio transaarianas, que ligavam o Egito ao rio Níger."
+        },
+        {
+          "letra": "C",
+          "texto": "centralização do poder nas aldeias, pois com o crescimento da população, os chefes passaram a disputar entre si as melhores terras."
+        },
+        {
+          "letra": "D",
+          "texto": "hominização, marcado por migrações, invenções e descobertas engenhosas que permitiram a circulação de grupos humanos e que acumularam experiências transmitidas para os primeiros homens."
+        },
+        {
+          "letra": "E",
+          "texto": "conservação dos corpos dos primeiros humanos do continente africano, por meio da técnica de retirada do cérebro e das vísceras, além da desidratação."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Pré-História",
+        "História – Hominização"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Na Antiguidade, grandes civilizações desenvolveram-se na China, tendo registro das primeiras comunidades agrícolas há cerca de 12 mil anos. Por meio de guerras ou invasões de outros povos, os primeiros governos dinásticos foram surgindo no segundo milênio a.C. Os historiadores costumam dividir a história chinesa de acordo com as dinastias que se sucediam. Assim, a dinastia Shang (1750 a.C. – 1040 a.C.), por exemplo, teve como característica central:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o desenvolvimento dos primeiros registros da escrita e o domínio da metalurgia do bronze."
+        },
+        {
+          "letra": "B",
+          "texto": "o domínio da técnica de fabricação de cerâmica cozida e vitrificada para uso em túmulos."
+        },
+        {
+          "letra": "C",
+          "texto": "o pioneirismo na mineração de ouro e o controle desse comércio para todo o continente asiático."
+        },
+        {
+          "letra": "D",
+          "texto": "o desenvolvimento de uma técnica de cultivo de arroz denominada chinampas. Com essa técnica, os chineses criaram ilhas artificiais nos canais do lago Ming, utilizando material orgânico do fundo do lago."
+        },
+        {
+          "letra": "E",
+          "texto": "a construção da Grande Muralha que foi utilizada como controle de fronteira, permitindo a imposição de direitos sobre mercadorias transportadas ao longo da Rota da Seda."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História Antiga – China"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Outras importantes civilizações antigas se desenvolveram em algumas regiões da Ásia; habitavam o sul da Índia e apresentavam importantes características de desenvolvimento urbano. Nesse sentido, em torno do vale do rio Indo surgiu a chamada civilização védica, que se tornou a base dos diversos reinos que se formaram na região e tinham a religião como forma de organização da sociedade - o hinduísmo e, posteriormente, o bramanismo que marcava a divisão da sociedade indiana no sistema de castas. No século VI a.C., o príncipe Sidharta Gautama criou o budismo, que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pode ser definido como o conjunto de práticas rituais e ancestrais que tem como objetivo estabelecer contato com o mundo espiritual por intermédio da música e de ervas alucinógenas."
+        },
+        {
+          "letra": "B",
+          "texto": "se sustenta sobre os seguintes pilares: permanecer com Deus em mente todo o tempo e dividir tudo o que se tem com os necessitados."
+        },
+        {
+          "letra": "C",
+          "texto": "se tornou a religião nacional do Japão e se constituiu de crenças e práticas religiosas de tipo animista; não possui livro sagrado, dogmas ou código moral."
+        },
+        {
+          "letra": "D",
+          "texto": "surgiu como doutrina na cultura indiana em oposição à sociedade de castas e pregava a igualdade entre os seres humanos."
+        },
+        {
+          "letra": "E",
+          "texto": "entre suas principais leis e costumes, estão a desaprovação de modificações do corpo, o uso religioso da Cannabis e a abstenção do consumo de carne e de bebidas alcoólicas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – História Antiga – Índia"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Considere a notícia a seguir:\n\nO histórico conflito árabe-israelense no Oriente Médio que marcou o século XX, perdura até o tempo recente com novos episódios dramáticos de violência das lutas entre árabes e israelenses mobilizando diversos setores da sociedade mundial, como na cerimônia do Oscar de 2024, em que se reivindicou o fim da violência na Faixa de Gaza. A respeito do histórico conflito e tensão no Oriente Médio, o ano de 1967 presenciou mais um embate entre árabes e israelenses, que vem ocorrendo desde a fundação de Israel. No que tange a esse episódio, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A invasão do Kuwait por tropas de Israel, em 1967, foi uma ação militar que contou com o apoio dos Estados Unidos e que teve como consequência a conquista da Palestina."
+        },
+        {
+          "letra": "B",
+          "texto": "Em 1967, o conflito envolvendo Israel contra Irã e Líbano teve consequências diretas na Crise do Petróleo, que assolou a economia mundial."
+        },
+        {
+          "letra": "C",
+          "texto": "Em junho de 1967, foi deflagrada a chamada Guerra dos Seis Dias. Esse foi um conflito travado por Israel contra Egito, Síria e Jordânia. Foi após essa guerra que Israel conquistou a Faixa de Gaza, a Península do Sinai, Jerusalém Oriental, a Cisjordânia e as Colinas de Golã."
+        },
+        {
+          "letra": "D",
+          "texto": "Em 1967, com o apoio dos EUA, Israel invadiu o Afeganistão. O objetivo dessa invasão era a derrubada do governo Talibã e a destruição da Al-Qaeda."
+        },
+        {
+          "letra": "E",
+          "texto": "No contexto da Primavera Árabe (1967), a região do Oriente Médio foi abalada por uma série de conflitos, entre os quais o da invasão da Síria pelas tropas de Israel. O governo de Israel viu esse conflito como uma possibilidade de liquidar o poder do Hamas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História Contemporânea – Conflitos no Oriente Médio"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "\"Desenvolver relações amistosas entre as nações, baseadas no respeito ao princípio de igualdade de direitos e de autodeterminação dos povos, e tomar outras medidas apropriadas ao fortalecimento da paz universal.\" (Carta da ONU, 1945).\n\nO trecho em destaque trata de um dos objetivos expressos na Carta das Nações Unidas, criada oficialmente em 1945 e que, naquele contexto, teve como propósito:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a proibição expressa do uso da violência, da realização de guerra ofensiva ou de qualquer outra forma de hostilidade contra o Japão."
+        },
+        {
+          "letra": "B",
+          "texto": "a manutenção da paz mundial, tornando-se um fórum internacional contra o colonialismo, contribuindo para a disseminação das propostas defendidas pelos movimentos de descolonização e independência."
+        },
+        {
+          "letra": "C",
+          "texto": "a punição dos países derrotados na Segunda Guerra Mundial, de modo que a Alemanha foi obrigada a pagar indenização de guerra."
+        },
+        {
+          "letra": "D",
+          "texto": "a definição dos limites de exploração entre portugueses e espanhóis na América do Sul."
+        },
+        {
+          "letra": "E",
+          "texto": "o asseguramento da paz na Europa, com a cessão do território da Checoslováquia em prol de uma suposta paz entre França, Reino Unido, Itália e Alemanha."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História Contemporânea – Pós-Segunda Guerra Mundial",
+        "História – ONU"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Sobre a representação de um infográfico, é INCORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ele apresenta informações bem organizadas e/ou topicalizadas."
+        },
+        {
+          "letra": "B",
+          "texto": "ele mescla a linguagem verbal (uso de palavras) com a não verbal (uso de elementos visuais), sendo, portanto, multimodal."
+        },
+        {
+          "letra": "C",
+          "texto": "etimologicamente, a palavra vem dos termos em inglês information graphic, que significam “informação gráfica”."
+        },
+        {
+          "letra": "D",
+          "texto": "vários temas e assuntos podem ser representados em um único infográfico por meio de dados e de estatísticas."
+        },
+        {
+          "letra": "E",
+          "texto": "ele pode ser narrativo de espaço-tempo, isto é, pode mostrar acontecimentos que se sucederam no espaço ou no tempo."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Cartografia",
+        "Geografia – Infográficos"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Observe com atenção o gráfico abaixo e, em seguida, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os pardos compõem a maior parte da população do país com 45%."
+        },
+        {
+          "letra": "B",
+          "texto": "Menos de 10% da população brasileira é composta por pretos."
+        },
+        {
+          "letra": "C",
+          "texto": "Os menores percentuais do gráfico correspondem à população branca em território nacional."
+        },
+        {
+          "letra": "D",
+          "texto": "43,46% da população, no Brasil, é indígena."
+        },
+        {
+          "letra": "E",
+          "texto": "Os amarelos constituem 10,17% da população."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geografia Humana – Demografia do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Observe com atenção a figura a seguir, que representa a estrutura fundiária, e analise as assertivas que sobre ela são feitas.\n\nI. Em 80% desse tipo de propriedade, desenvolve-se a agricultura familiar.\nII. Cerca de 3% das propriedades rurais, no Brasil, são latifúndios com mais de mil hectares.\nIII. Nesse tipo de propriedade, trabalham mais de 10 milhões de pessoas.\nIV. No Mato Grosso, é comum esse tipo de estabelecimento rural.\nV. Caracteriza-se por ser uma propriedade improdutiva.\n\nAssinale a alternativa CORRETA, associando as assertivas dos algarismos romanos aos números da figura:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As fazendas 1 e 4 são descritas, respectivamente, pelas assertivas I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "As fazendas 2 e 4 são descritas, respectivamente, pelas assertivas I e III."
+        },
+        {
+          "letra": "C",
+          "texto": "As fazendas 1 e 2 são descritas, respectivamente, pelas assertivas I e V."
+        },
+        {
+          "letra": "D",
+          "texto": "As fazendas 1 e 3 são descritas, respectivamente, pelas assertivas I e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "As fazendas 2 e 3 são descritas, respectivamente, pelas assertivas II e III."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geografia Agrária – Estrutura Fundiária"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "A seguir é reproduzida uma projeção cartográfica conforme:\n\nÉ CORRETO afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ela é uma projeção equivalente cilíndrica."
+        },
+        {
+          "letra": "B",
+          "texto": "as áreas, nessa projeção, não são alteradas, conservando-se, assim, uma relação constante com a sua correspondência na superfície terrestre."
+        },
+        {
+          "letra": "C",
+          "texto": "os comprimentos, nesse tipo de projeção, são representados em escala uniforme."
+        },
+        {
+          "letra": "D",
+          "texto": "ela é uma projeção conforme cilíndrica."
+        },
+        {
+          "letra": "E",
+          "texto": "não há, nessa projeção, deformação dos ângulos em torno de quaisquer pontos."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Cartografia – Projeções Cartográficas"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "No dia 17 de abril, o Brasil comemora o Dia Nacional de Luta pela Reforma Agrária. Nessa data, em 1996, vinte e um trabalhadores sem-terra foram assassinados pela polícia do Pará e mais de cinquenta ficaram feridos, por reivindicarem o direito de acesso a um pedaço de terra no estado. Esse episódio ficou conhecido como:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Movimento dos Trabalhadores Rurais Sem-Terra."
+        },
+        {
+          "letra": "B",
+          "texto": "Massacre de Eldorado do Carajás."
+        },
+        {
+          "letra": "C",
+          "texto": "Associação Brasileiros Unidos Querendo Terra."
+        },
+        {
+          "letra": "D",
+          "texto": "Massacre de Paraupebas."
+        },
+        {
+          "letra": "E",
+          "texto": "Cabanagem."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geografia Agrária – Conflitos no Campo",
+        "História – História do Brasil – Nova República"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Assinale, a seguir, aquela que é uma EXCEÇÃO entre as principais economias emergentes da atualidade:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "México."
+        },
+        {
+          "letra": "B",
+          "texto": "Turquia."
+        },
+        {
+          "letra": "C",
+          "texto": "Austrália."
+        },
+        {
+          "letra": "D",
+          "texto": "Colômbia."
+        },
+        {
+          "letra": "E",
+          "texto": "África do Sul."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geografia Econômica – Economias Emergentes"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Responda às questões 29 e 30 com base na figura a seguir:\n\nA imagem representa uma célula com estruturas intracelulares indicadas pela sequência numérica de 1 a 5. A única estrutura intracelular desprovida de biomembranas é a de número",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5."
+        },
+        {
+          "letra": "B",
+          "texto": "1."
+        },
+        {
+          "letra": "C",
+          "texto": "2."
+        },
+        {
+          "letra": "D",
+          "texto": "3."
+        },
+        {
+          "letra": "E",
+          "texto": "4."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Citologia – Organelas Celulares"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "As modificações pós-traducionais de proteínas como produtos de secreção celular ocorrem principalmente no número:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2."
+        },
+        {
+          "letra": "B",
+          "texto": "3."
+        },
+        {
+          "letra": "C",
+          "texto": "4."
+        },
+        {
+          "letra": "D",
+          "texto": "5."
+        },
+        {
+          "letra": "E",
+          "texto": "1."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Citologia – Organelas Celulares"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Assinale a alternativa que contenha, respectivamente, o nome dos naturalistas que, no século XIX, visitaram os biomas amazônicos e a mata atlântica:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Jean-Baptiste de Lamarck e Charles Darwin."
+        },
+        {
+          "letra": "B",
+          "texto": "Alfred Russel Wallace e Charles Darwin."
+        },
+        {
+          "letra": "C",
+          "texto": "Isaac Newton e Jean-Baptiste de Lamarck."
+        },
+        {
+          "letra": "D",
+          "texto": "Carl von Linné e Jean-Baptiste de Lamarck."
+        },
+        {
+          "letra": "E",
+          "texto": "Jean-Baptiste de Lamarck e Alfred Russel Wallace."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Evolução – História do Pensamento Evolutivo"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "A principal contribuição de Carl von Linné para a ciência foi:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "elaborar uma teoria evolutiva alternativa com base nos mecanismos de seleção natural."
+        },
+        {
+          "letra": "B",
+          "texto": "propor a reformulação da teoria da seleção natural, o neodarwinismo."
+        },
+        {
+          "letra": "C",
+          "texto": "propor a lei do uso e desuso juntamente com Jean-Baptiste de Lamarck."
+        },
+        {
+          "letra": "D",
+          "texto": "criar as bases atuais para a classificação e taxonomia dos seres vivos."
+        },
+        {
+          "letra": "E",
+          "texto": "defender a teoria da evolução proposta por Darwin-Wallace."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Taxonomia – Sistema de Classificação de Lineu"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Durante a fotossíntese, a molécula que sofre fotólise e, com isso, provoca a liberação de oxigênio molecular é a(o):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "glicose."
+        },
+        {
+          "letra": "B",
+          "texto": "clorofila."
+        },
+        {
+          "letra": "C",
+          "texto": "água."
+        },
+        {
+          "letra": "D",
+          "texto": "adenosina trifosfato."
+        },
+        {
+          "letra": "E",
+          "texto": "gás carbônico."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Fisiologia Vegetal – Fotossíntese"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Na cadeia trófica, os fungos são considerados os principais:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mesopredadores."
+        },
+        {
+          "letra": "B",
+          "texto": "consumidores terciários."
+        },
+        {
+          "letra": "C",
+          "texto": "consumidores secundários."
+        },
+        {
+          "letra": "D",
+          "texto": "predadores topo de cadeia."
+        },
+        {
+          "letra": "E",
+          "texto": "decompositores."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Ecologia – Cadeias e Teias Alimentares"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Em 1909, Hans Geiger e Ernest Marsden realizaram o experimento, representado na figura abaixo, sob a supervisão de Ernest Rutherford, para investigar a estrutura do átomo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "núcleos de hélio, que colidiram com uma folha de metal e se espalharam."
+        },
+        {
+          "letra": "B",
+          "texto": "partículas $\\beta$, que colidiram com uma folha de metal e foram absorvidas."
+        },
+        {
+          "letra": "C",
+          "texto": "raios $\\gamma$, que colidiram com uma folha de metal e foram absorvidos."
+        },
+        {
+          "letra": "D",
+          "texto": "átomos de hélio, que colidiram com uma folha de metal e foram refletidos."
+        },
+        {
+          "letra": "E",
+          "texto": "partículas $\\mu$ (múons), que colidiram com uma folha de metal e se espalharam."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Modelos Atômicos – Modelo de Rutherford"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Os elementos químicos de uma mesma família possuem propriedades químicas similares.\nAssinale a alternativa que, CORRETAMETNE, corresponda à família de elementos que possui membros sólido, líquido e gasoso a $25^{\\circ}\\text{C}$ e pressão de 1 atm:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pictógenos (N – Bi)."
+        },
+        {
+          "letra": "B",
+          "texto": "metais alcalinos (Li – Cs)."
+        },
+        {
+          "letra": "C",
+          "texto": "calcogênios (O – Te)."
+        },
+        {
+          "letra": "D",
+          "texto": "halogênios (F – I)."
+        },
+        {
+          "letra": "E",
+          "texto": "metais alcalinos terrosos (Be – Ba)."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Tabela Periódica – Famílias e Propriedades"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "A Teoria das Colisões explica os choques entre átomos e moléculas presentes em um sistema e é um fator fundamental para a ocorrência de uma reação química. Considere as seguintes colisões, cada uma ocorrendo à mesma temperatura.\n\nAssinale o fator que explica por que a colisão I foi bem-sucedida enquanto a colisão II não foi bem-sucedida:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "catalisador."
+        },
+        {
+          "letra": "B",
+          "texto": "geometria."
+        },
+        {
+          "letra": "C",
+          "texto": "energia cinética."
+        },
+        {
+          "letra": "D",
+          "texto": "concentração."
+        },
+        {
+          "letra": "E",
+          "texto": "densidade."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Cinética Química – Teoria das Colisões"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Uma solução diluída de sulfato ferroso foi gradualmente adicionada ao béquer contendo solução de permanganato de potássio acidificado. A cor púrpura clara inicial da solução foi progressivamente desaparecendo até, finalmente, desaparecer.\nAssinale a alternativa que explica, CORRETAMENTE, o resultado da observação acima descrita:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o $KMnO_4$ é um composto instável e se decompõe na presença de $FeSO_4$ em um composto incolor."
+        },
+        {
+          "letra": "B",
+          "texto": "o $FeSO_4$ atua como agente oxidante e oxida o $KMnO_4$."
+        },
+        {
+          "letra": "C",
+          "texto": "a cor desaparece devido à diluição; nenhuma reação está envolvida."
+        },
+        {
+          "letra": "D",
+          "texto": "o $KMnO_4$ é um agente oxidante e oxida o $FeSO_4$."
+        },
+        {
+          "letra": "E",
+          "texto": "a cor desaparece porque ocorre uma reação de síntese entre o $KMnO_4$ e o $FeSO_4$."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Oxirredução"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "No composto A, 1,00 g de nitrogênio se combina a 0,57 g de oxigênio. No composto B, 2,00 g de nitrogênio se combinam com 2,24 g de oxigênio. E, no composto C, 3,00 g de nitrogênio se combinam com 5,11 g de oxigênio. Esses resultados obedecem à:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Lei da proporção recíproca."
+        },
+        {
+          "letra": "B",
+          "texto": "Lei da proporção constante."
+        },
+        {
+          "letra": "C",
+          "texto": "Lei das proporções múltiplas."
+        },
+        {
+          "letra": "D",
+          "texto": "Lei da pressão parcial de Dalton."
+        },
+        {
+          "letra": "E",
+          "texto": "Lei da conservação de massa."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Leis Ponderais"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Uma Estação de Tratamento de Água (ETA) é uma poderosa unidade para tratamento e purificação da água proveniente de diferentes fontes de abastecimento: poços artesianos, rios, lagos, açudes, represas e água de chuva. A missão de uma ETA é garantir o fornecimento de água potável para cidades e empresas. Em uma ETA, os produtos sulfato de alumínio e cal hidratada são adicionados na fase de coagulação, porque o sulfato de alumínio",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "auxilia na correção do pH e a cal hidratada confere o padrão de potabilidade da água."
+        },
+        {
+          "letra": "B",
+          "texto": "corrige o pH e a cal hidratada corrige a dureza."
+        },
+        {
+          "letra": "C",
+          "texto": "corrige o pH e a cal hidratada auxilia na remoção de produtos orgânicos."
+        },
+        {
+          "letra": "D",
+          "texto": "remove a turbidez e a cal hidratada auxilia na remoção de produtos orgânicos."
+        },
+        {
+          "letra": "E",
+          "texto": "tem a função de aglutinar as partículas (impurezas) para serem removidas pela decantação ou sedimentação e filtração, e a cal hidratada corrige o pH."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Química Ambiental – Tratamento de Água"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Nas questões em que forem necessárias, para o uso da aceleração da gravidade, adote $g = 10 \\text{ m/s}^2$, e adote a densidade da água igual a $1,0 \\text{ g/cm}^3$.\nQuando necessário, adote, ainda, os seguintes valores:\n$\\sin 30^{\\circ} = \\cos 60^{\\circ} = \\frac{1}{2} = 0,50$\n$\\sin 60^{\\circ} = \\cos 30^{\\circ} = \\frac{\\sqrt{3}}{2} \\approx 0,87$\n$\\sin 45^{\\circ} = \\cos 45^{\\circ} = \\frac{\\sqrt{2}}{2} \\approx 0,71$\n\nO gráfico a seguir representa o comportamento do movimento de um corpo em movimento harmônico simples. Nele encontra-se representada a sua posição x(t) (linha preta), velocidade v(t) (linha tracejada) e aceleração a(t) (linha cinza) em função do tempo.\n\nConsidere as afirmativas a seguir:\nI - O período do movimento é de 10s.\nII - O corpo partiu do repouso no início da contagem de tempo.\nIII - Nos extremos do movimento o objeto encontra-se parado.\nIV - Nos extremos do movimento a aceleração do corpo é máxima.\nV - A aceleração do objeto ao passar pelo ponto de equilíbrio é zero.\n\nConsiderando as afirmativas acima, pode-se concluir que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I, IV e V são incorretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas II, III e IV são incorretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente a afirmativa I é incorreta."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas II, III e V são incorretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as afirmativas são incorretas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Oscilações – Movimento Harmônico Simples"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Um fio condutor é enrolado formando um círculo de raio R (segmento $\\overline{OA}$), conforme ilustrado na figura desta questão. Outros dois fios iguais ao primeiro, mas retos (segmentos $\\overline{AC}$ e $\\overline{BD}$) foram soldados no fio circular cruzando exatamente no seu centro no ponto O.\n\nSendo $R_o$ a resistência elétrica do segmento de fio $\\overline{OA}$, é correto afirmar que a resistência equivalente entre os pontos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A e B, removendo-se o semicírculo $\\widehat{ADCB}$, é maior que $\\pi R_o/2$."
+        },
+        {
+          "letra": "B",
+          "texto": "A e C, removendo-se o semicírculo $\\widehat{ADC}$, é $2\\pi R_o/(2+\\pi)$."
+        },
+        {
+          "letra": "C",
+          "texto": "A e C, removendo-se os fios retos $\\overline{AC}$ e $\\overline{BD}$, é $\\pi R_o$."
+        },
+        {
+          "letra": "D",
+          "texto": "A e B, removendo-se os fios retos $\\overline{AC}$ e $\\overline{BD}$, é maior que $\\pi R_o/2$."
+        },
+        {
+          "letra": "E",
+          "texto": "A e O, removendo-se o semicírculo $\\widehat{ADCB}$, é maior que $\\pi R_o/2$."
+        }
+      ],
+      "opcaoCorreta": "ANULADA",
+      "conteudo": [
+        "Física – Eletrodinâmica – Resistência Elétrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Considerando-se que a Lua descreva uma órbita circular em torno da Terra (aproximação), assinale a opção que melhor representa a força resultante ($\\vec{F}_R$) sobre o satélite e a sua velocidade ($\\vec{v}$).",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A opção que mostra o vetor velocidade tangencial à órbita e o vetor força resultante apontando para o centro da órbita."
+        },
+        {
+          "letra": "B",
+          "texto": "A opção que mostra o vetor velocidade e o vetor força resultante ambos tangenciais à órbita."
+        },
+        {
+          "letra": "C",
+          "texto": "A opção que mostra o vetor velocidade apontando para fora da órbita e o vetor força resultante apontando para o centro."
+        },
+        {
+          "letra": "D",
+          "texto": "A opção que mostra o vetor velocidade tangencial à órbita e a força resultante igual a zero."
+        },
+        {
+          "letra": "E",
+          "texto": "A opção que mostra o vetor velocidade apontando para o centro da órbita e o vetor força resultante tangencial à órbita."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Dinâmica – Força Centrípeta",
+        "Física – Gravitação"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Um equipamento utiliza um sistema de refrigeração a ar ou água para evitar seu superaquecimento. A massa de ar $m_1$ e a massa de água $m_2$ sofrem a mesma variação de temperatura e proporcionam a mesma refrigeração ao equipamento. Nesse caso, a razão $m_1/m_2$ é:\nDados: calor específico da água = $1,0 \\text{ cal/g}^{\\circ}\\text{C}$; calor específico do ar = $0,25 \\text{ cal/g}^{\\circ}\\text{C}$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4."
+        },
+        {
+          "letra": "B",
+          "texto": "2,0."
+        },
+        {
+          "letra": "C",
+          "texto": "1,0."
+        },
+        {
+          "letra": "D",
+          "texto": "0,5."
+        },
+        {
+          "letra": "E",
+          "texto": "0,25."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Termologia – Calorimetria"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "O movimento de uma grande quantidade de máquinas e estruturas em hospitais pode ser representado através de movimentos planos. Com base nos conhecimentos sobre Cinemática, é correto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o movimento de uma partícula é completamente especificado, se sua velocidade é conhecida em cada instante de tempo."
+        },
+        {
+          "letra": "B",
+          "texto": "a velocidade vetorial média de uma partícula é definida como a razão entre a distância percorrida e o intervalo de tempo durante o qual essa distância é percorrida."
+        },
+        {
+          "letra": "C",
+          "texto": "em um gráfico da velocidade de uma partícula em função do tempo, a área sob a curva representa, numericamente, a aceleração por ela sofrida."
+        },
+        {
+          "letra": "D",
+          "texto": "se uma partícula realiza um movimento retilíneo com aceleração nula, então sua velocidade permanece constante em módulo, direção e sentido, tendo sua posição variando linearmente no tempo."
+        },
+        {
+          "letra": "E",
+          "texto": "quando a força atuante sobre uma partícula é constante, diz-se que a partícula está em equilíbrio dinâmico."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Cinemática – Movimento Retilíneo"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "A ação do homem sobre a natureza modifica o regime de chuvas e pode comprometer a geração de energia nas usinas hidrelétricas. Para gerar eletricidade com uma potência de 5,0kW, utilizando-se uma cachoeira de 5,0m de altura, é necessário que o volume mínimo de água derramado do alto da cachoeira, a cada segundo, em litros, seja igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "75."
+        },
+        {
+          "letra": "B",
+          "texto": "50."
+        },
+        {
+          "letra": "C",
+          "texto": "100."
+        },
+        {
+          "letra": "D",
+          "texto": "25."
+        },
+        {
+          "letra": "E",
+          "texto": "125."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Trabalho e Energia – Potência"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Suponha que, numa fábrica de calçados, o custo total da produção, em reais, é dado por $C(x) = x^2 - 40x + 500$, em que x é a quantidade de calçados produzidos. Nesse contexto, é CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a produção de 100 calçados é a que realiza o custo máximo da produção."
+        },
+        {
+          "letra": "B",
+          "texto": "a produção de 20 calçados é a que realiza o custo mínimo da produção."
+        },
+        {
+          "letra": "C",
+          "texto": "quando são produzidos 40 calçados, o custo total da produção é de R$ 1.600,00."
+        },
+        {
+          "letra": "D",
+          "texto": "o custo máximo da produção é de R$ 500,00."
+        },
+        {
+          "letra": "E",
+          "texto": "o custo mínimo da produção é de R$ 150,00."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Funções – Função Quadrática"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Considere o triângulo retângulo a seguir.\n\nSabendo-se que AB = BC = 2cm e $\\alpha = 120^{\\circ}$, então $2 \\cdot AD$ é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{4\\sqrt{6}}{3}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{4\\sqrt{3}}{3}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$-3\\sqrt{2}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{6\\sqrt{2}}{5}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$3\\sqrt{2}$"
+        }
+      ],
+      "opcaoCorreta": "ANULADA",
+      "conteudo": [
+        "Matemática – Geometria Plana – Trigonometria no Triângulo"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "A área de um retângulo é $50 \\text{ cm}^2$ e sua base excede em 5 cm sua altura. A altura desse retângulo, nesse caso, mede:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6 cm."
+        },
+        {
+          "letra": "B",
+          "texto": "4 cm."
+        },
+        {
+          "letra": "C",
+          "texto": "5 cm."
+        },
+        {
+          "letra": "D",
+          "texto": "7 cm."
+        },
+        {
+          "letra": "E",
+          "texto": "8 cm."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Plana – Área de Figuras Planas"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Um indivíduo aplicou R$ 50.000,00 à taxa de 2% a. m. - durante 6 meses - no regime de juros simples. Ao final dessa aplicação, o montante será de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 60.000,00"
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 52.000,00"
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 54.000,00"
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 58.000,00"
+        },
+        {
+          "letra": "E",
+          "texto": "R$ 56.000,00"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Matemática Financeira – Juros Simples"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Num triângulo ABC, uma reta r é paralela ao lado $\\overline{BC}$ e divide o lado $\\overline{AB}$ em dois segmentos de retas cujas medidas são 6 cm e 8 cm. Se o lado $\\overline{AC}$ do triângulo mede 21 cm, então as medidas dos segmentos de reta formados pela intersecção da reta r com a lado $\\overline{AC}$ são:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8 cm e 13 cm."
+        },
+        {
+          "letra": "B",
+          "texto": "6 cm e 15 cm."
+        },
+        {
+          "letra": "C",
+          "texto": "7 cm e 14 cm."
+        },
+        {
+          "letra": "D",
+          "texto": "9 cm e 12 cm."
+        },
+        {
+          "letra": "E",
+          "texto": "10 cm e 11 cm."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Plana – Teorema de Tales"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Uma turma de trabalhadores construiu $\\frac{2}{5}$ de uma obra em 15 dias. A partir desse momento, 6 trabalhadores deixaram a obra, que terminou com 4 dias de atraso. A quantidade de trabalhadores no início da obra era de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "40."
+        },
+        {
+          "letra": "B",
+          "texto": "28."
+        },
+        {
+          "letra": "C",
+          "texto": "30."
+        },
+        {
+          "letra": "D",
+          "texto": "32."
+        },
+        {
+          "letra": "E",
+          "texto": "21."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Razão e Proporção – Regra de Três Composta"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Seja $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ uma função tal $f(3x + 2) = 2x + 3$. Então $f(f(x))$ é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{4x+24}{9}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{x-2}{3}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{x+2}{3}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{2x-3}{7}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{3x+18}{7}$"
+        }
+      ],
+      "opcaoCorreta": "ANULADA",
+      "conteudo": [
+        "Matemática – Funções – Composição de Funções"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "A quadro a seguir apresenta quatro medições de uma determinada peça.\n\n| Medições | 0,24mm | 0,25mm | 0,23mm | 0,27mm |\n\nA média dessas medições é, aproximadamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,27mm."
+        },
+        {
+          "letra": "B",
+          "texto": "0,22mm."
+        },
+        {
+          "letra": "C",
+          "texto": "0,23mm."
+        },
+        {
+          "letra": "D",
+          "texto": "0,25mm."
+        },
+        {
+          "letra": "E",
+          "texto": "0,28mm."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Estatística – Média Aritmética"
+      ]
+    }
+  ]
+}

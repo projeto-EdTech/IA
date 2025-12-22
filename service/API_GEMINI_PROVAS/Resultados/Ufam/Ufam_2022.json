@@ -1,0 +1,1486 @@
+{
+  "nomeUniversidade": "Universidade Federal do Amazonas",
+  "siglaUniversidade": "UFAM",
+  "nomeProva": "Processo Seletivo Contínuo – PSC 2022 - 1ª Etapa",
+  "ano": 2022,
+  "qtdeQuestoes": 54,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Nas frases a seguir, o termo destacado em negrito tem a classe de palavra à qual pertence registrada entre parênteses:\n\nI. Na cota para o presente do chefe, qual o tanto que devo dar? (substantivo)\nII. Do meu novo livro, darei para a biblioteca da UFAM quantos exemplares a direção solicitar. (pronome indefinido)\nIII. Posso lhe pedir para não faltar à reunião, por tudo quanto lhe é mais sagrado? (adjetivo interrogativo)\nIV. Quanta gente compareceu à programação cultural da Prefeitura! (pronome indefinido)\nV. O novo cantor recebeu tantos aplausos que teve de bisar a última música. (pronome indefinido)\nVI. Nunca houve tantas mentiras na política como as que se divulgam agora – daí a minha descrença nas pessoas. (pronome relativo)\n\nAssinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as alternativas I, II e IV são verdadeiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as alternativas I, II, IV e V são verdadeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as alternativas I, III, V e VI são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as alternativas II, V e VI são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as alternativas III, V e VI são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia",
+        "Língua Portuguesa – Classes de Palavras"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Leia o poema intitulado \"Língua Portuguesa\", de autoria de Olavo Bilac:\n\n01 Última flor do Lácio, inculta e bela,\nÉs, a um tempo, esplendor e sepultura:\nOuro nativo que, na ganga impura,\n04 A bruta mina entre os cascalhos vela.\n\nAmo-te assim, desconhecida e obscura,\nTuba de alto clangor, lira singela,\nQue tens o trom e o silvo da procela,\n08 E o arrolo da saudade e da ternura!\n\nAmo o teu viço agreste e o teu aroma\nDe virgens selvas e de oceano largo!\n11 Amo-te, ó rude e doloroso idioma,\n\nEm que da voz materna ouvi: \"meu filho!\"\nE em que Camões chorou, no exílio amargo,\n14 O gênio sem ventura e o amor sem brilho!\n\nSobre o poema, leia agora as afirmativas a seguir:\n\nI. O Lácio (verso 01) é a região da península Ibérica onde a língua portuguesa nasceu, antes de ser trazida para o Brasil.\nII. Pode-se entender a referência ao “oceano largo\" (verso 10) como a expansão marítima de Portugal.\nIII. Apesar de não ser uma língua admirável, por ser contraditória (como se vê nos versos 07 e 08 – \"silvo da procela\" e \"ternura\"), o poeta a ama.\nIV. Ao dizer que a língua portuguesa é “esplendor e sepultura\" (verso 02), Ο poeta se refere, respectivamente, ao desenvolvimento de nosso idioma e ao latim.\n\nAssinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I, II e IV são verdadeiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e III são verdadeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas I, III e IV são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas II e III são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II e IV são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Textos Poéticos"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Em relação ao poema da questão anterior, fazem-se as seguintes afirmativas sobre aspectos linguísticos do texto. Assinale a alternativa INCORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Em \"saudade”, “ouro” e “chorou” observa-se a presença de ditongos."
+        },
+        {
+          "letra": "B",
+          "texto": "Existem dígrafos em palavras como “cascalhos\", \"clangor\" e \"ventura”."
+        },
+        {
+          "letra": "C",
+          "texto": "Em \"oceano”, “exílio” e “gênio” observa-se a presença de hiatos."
+        },
+        {
+          "letra": "D",
+          "texto": "\"A bruta mina” é o sujeito da última oração do primeiro período."
+        },
+        {
+          "letra": "E",
+          "texto": "\"Materna” é um adjetivo derivado, pois tem origem em outro vocábulo."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Fonologia",
+        "Língua Portuguesa – Sintaxe"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Complete as lacunas das frases com o pronome demonstrativo adequado:\n\nI. ______ camisa que estou usando não saiu nada barata.\nII. Gosto de João e de Rafael, mas ______ é mais amigo do que este.\nIII. Os nossos políticos estão longe de ser ______ que pede a ética social.\nIV. ______ menino que você carrega é seu filho?\nV. Os assuntos da reunião serão ______: férias e pedido de aumento.\n\nAssinale a alternativa que preenche CORRETAMENTE as lacunas das frases:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Esta - aquele – aquilo – Esse – estes"
+        },
+        {
+          "letra": "B",
+          "texto": "Essa – esse – isso - Este – esses"
+        },
+        {
+          "letra": "C",
+          "texto": "Esta – esse - aquilo – Aquele – esses"
+        },
+        {
+          "letra": "D",
+          "texto": "Essa - aquele – aquilo - Este – esses"
+        },
+        {
+          "letra": "E",
+          "texto": "Esta - aquele - isso - Aquele – estes"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia",
+        "Língua Portuguesa – Pronomes"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Tratando da reconquista da península Ibérica pelos cristãos, episódio fundamental no estudo da história do idioma português, Evanildo Bechara (na Gramática escolar da língua portuguesa, Rio de Janeiro: Lucerna, 2002, p. 689), escreveu o trecho a seguir transcrito:\n\nO processo de reconquista propagou um falar comum à Galiza e ao território portugalense, em direção ao sul, sobrepondo-se aos dialetos dos moçárabes aí correntes. Já com a ajuda de cruzados ingleses, alemães, franceses e flamengos, e sob a bandeira portuguesa, prosseguiu a reconquista de novas cidades do sul, tomadas aos muçulmanos.\n\nVerifica-se no texto a palavra \"moçárabes\", que deve ser necessariamente entendida por quem estuda o processo de formação de nossa língua. Assinale a alternativa que faz o registro CORRETO de seu significado:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Muçulmanos que divulgavam sua fé entre os cristãos."
+        },
+        {
+          "letra": "B",
+          "texto": "Bárbaros vindos do norte, cujas línguas se misturaram à portuguesa."
+        },
+        {
+          "letra": "C",
+          "texto": "Cristãos que viviam entre os mouros durante o domínio árabe."
+        },
+        {
+          "letra": "D",
+          "texto": "Visigodos e vândalos que vieram ajudar os cristãos na reconquista."
+        },
+        {
+          "letra": "E",
+          "texto": "Muçulmanos em fase de mudança de religião, convertendo-se ao Cristianismo."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Textos",
+        "Língua Portuguesa – Formação da Língua Portuguesa"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Assinale a alternativa na qual o emprego do hífen está INCORRETO:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Durante o Festival, os barcos no sentido Manaus-Parintins viajam sempre lotados."
+        },
+        {
+          "letra": "B",
+          "texto": "Muitos acidentes e assassinatos ainda continuam mal-explicados pela polícia."
+        },
+        {
+          "letra": "C",
+          "texto": "O time fechou-se na defesa, jogando apenas em contra-ataque."
+        },
+        {
+          "letra": "D",
+          "texto": "O para-quedas não abriu e, por isso, consumou-se a tragédia."
+        },
+        {
+          "letra": "E",
+          "texto": "O enredo da escola de samba para 2023 é \"Bahia de Todos-os-Santos\"."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Ortografia",
+        "Língua Portuguesa – Uso do Hífen"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Leia as frases a seguir, atentando para o coletivo que, entre parênteses, corresponde ao termo destacado em negrito:\n\nI. Apesar da educação obrigatória, o mundo continua cheio de desordeiros. (malta)\nII. Não tremi, apesar de os examinadores serem severos. (banca)\nIII. O clímax da comemoração foi o show dos aviões. (esquadrilha)\nIV. Os soldados, apesar de muitos, não conseguiram vencer a batalha. (falange)\nV. As religiões cristãs ensinam que há muitos anjos no céu. (falange)\nVI. Findo o curso, os estudantes sentirão saudades uns dos outros. (turma)\n\nAssinale a alternativa que registra os coletivos CORRETAMENTE expressos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente os coletivos constantes de I, II, IV e VI estão corretos."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente os coletivos constantes de I, III, V e VI estão corretos."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente os coletivos constantes de II, III, V e VI estão corretos."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente os coletivos constantes de III, IV e V estão corretos."
+        },
+        {
+          "letra": "E",
+          "texto": "Todos os coletivos estão corretos."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia",
+        "Língua Portuguesa – Substantivos Coletivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Leia as frases a seguir, atentando para a conjugação do verbo destacado em negrito:\n\nI. Você quer mesmo que nós damos a notícia à esposa do falecido?\nII. Ele manteu os seus propósitos mesmo diante das adversidades.\nIII. Espero que, mesmo com o acidente, não bloqueem as estradas.\nIV. Peço outra vez: averiguem como vai estar o tempo hoje à tarde.\nV. O professor interveio na briga dos alunos e levou todos para a diretoria.\n\nAssinale a alternativa que registra os verbos CORRETAMENTE conjugados:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente nas frases IV e V."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente nas frases II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente nas frases I, II e V."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente nas frases II, IV e V."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente nas frases I, III e IV."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia",
+        "Língua Portuguesa – Conjugação Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Assinale a alternativa em que a acentuação das palavras se encontra CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Não costumo assinar por extenso, colocando apenas minha rúbrica."
+        },
+        {
+          "letra": "B",
+          "texto": "Apesar de não acreditar no além-túmulo, fez uma visita a uma médium famosa."
+        },
+        {
+          "letra": "C",
+          "texto": "Os poetas românticos, pela aversão à sociedade, eram misântropos contumazes."
+        },
+        {
+          "letra": "D",
+          "texto": "O catéter é um tubo flexível de grande eficácia medicinal."
+        },
+        {
+          "letra": "E",
+          "texto": "Há dez anos moramos próximo ao Parque do Mindú, no Parque 10."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Ortografia",
+        "Língua Portuguesa – Acentuação Gráfica"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Assinale a alternativa INCORRETA quanto ao conceito emitido sobre a variação linguística:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A variação linguística não trabalha com a noção de erro, entendendo os desvios da norma culta como diferenças entre os falantes do mesmo idioma."
+        },
+        {
+          "letra": "B",
+          "texto": "A gíria, um tipo de variação linguística, é normalmente associada a grupos de jovens e a atletas, como os skatistas."
+        },
+        {
+          "letra": "C",
+          "texto": "O jargão é uma variação linguística que se verifica entre grupos profissionais, como o dos médicos, dos advogados, dos engenheiros."
+        },
+        {
+          "letra": "D",
+          "texto": "A variação linguística se estabelece principalmente no plano social, já que tem o propósito de melhorar o nível de fala da população inculta."
+        },
+        {
+          "letra": "E",
+          "texto": "Uma variação linguística muito comum no falar e mesmo na escrita é quanto à colocação dos pronomes, como se observa, por exemplo, em \"eu vi ela\"."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Variação Linguística",
+        "Língua Portuguesa – Sociolinguística"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "\"Fundamentalmente nós fazemos um tipo de conhecimento que incide sobre a produção da maneira como as pessoas pensam, sentem, agem, ou seja, incidimos diretamente sobre valores. Por isso, a história é um saber que tem a ver com a dimensão ética e política, isto é, a história está sempre remetendo à ética, à discussão de valores e à política, remetendo às nossas formas de perceber o mundo, de se comportar, de se colocar diante do outro, de se colocar em relação à sociedade em que nós estamos vivendo.\"\nALBUQUERQUE JÚNIOR, Durval Muniz de. História: métier e prazer. Revista Espacialidades. 2008, vol. 1, no.0. Disponível em: https://periodicos.ufrn.br/espacialidades/article/view/17592/11469. Acesso em: 07/09/2022.\n\nNo texto, o historiador Durval Muniz alerta-nos para a questão ética e política como elementos fundamentais do ofício do historiador no cenário contemporâneo. Nesse sentido, é CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os historiadores podem recorrer à imaginação para poderem criar fatos que deem suporte às suas pesquisas."
+        },
+        {
+          "letra": "B",
+          "texto": "ao interpretar as vivências humanas, os historiadores só devem utilizar como documentos as fontes escritas."
+        },
+        {
+          "letra": "C",
+          "texto": "os historiadores interpretam as experiências humanas ao longo do tempo. Logo, a leitura do passado ou a produção de uma interpretação específica dos acontecimentos é construída com base em vestígios, fontes e documentos."
+        },
+        {
+          "letra": "D",
+          "texto": "ao pesquisar e escrever sobre a trajetória da humanidade, o historiador é capaz de reconstituir fielmente o passado."
+        },
+        {
+          "letra": "E",
+          "texto": "os historiadores investigam a vida pública e privada em seus múltiplos aspectos (econômicos, políticos, etc.) e, a partir de então, estabelecem verdades absolutas e definitivas sobre os fatos pesquisados."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Teoria da História",
+        "História – Fontes Históricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Cotidianamente, diversos pesquisadores e pesquisadoras da humanidade têm problematizado que se deve ter em mente as limitações do termo \"Pré-história\". Essa ideia está ligada à noção, difundida na segunda metade do século XIX, de que a História não pode ser feita sem documentos, não se reconhecendo a importância dos registros ágrafos (não escritos). Sobre a crítica ao uso desse termo, é CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a Pré-história, por ter um marco inicial bem definido, abrange diversas culturas."
+        },
+        {
+          "letra": "B",
+          "texto": "as conquistas da humanidade anteriores à escrita, tais como a invenção da roda, o domínio do fogo e a prática da agricultura, não têm relevância para o estudo das sociedades posteriores."
+        },
+        {
+          "letra": "C",
+          "texto": "as pinturas e gravuras rupestres do neolítico não podem ser consideradas documentos, pois apenas expressavam o cotidiano dos grupos humanos desse período."
+        },
+        {
+          "letra": "D",
+          "texto": "existe apenas uma forma de se registrar o passado humano, e esse registro se dá pela escrita."
+        },
+        {
+          "letra": "E",
+          "texto": "o ser humano, desde seu surgimento, é um ser histórico, ainda que não faça uso da escrita."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Pré-História",
+        "História – Teoria da História"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "\"Terra dos faraós, das pirâmides, do papiro e da Esfinge, o Egito Antigo despertava grande interesse já entre seus contemporâneos. Situado no norte da África, recebeu sábios, comerciantes e artistas do mundo antigo que difundiram aspectos da cultura egípcia em vários pontos do mundo.\"\nCOTRIM, Gilberto. História global 1. 3a. ed. São Paulo: Saraiva, 2016. p.66.\n\nAssinale a alternativa que apresenta uma característica marcante em relação ao desenvolvimento da civilização egípcia:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A divisão da sociedade se dava entre os sátrapas e sacerdotes, que tinham grande influência na sustentação do poder imperial."
+        },
+        {
+          "letra": "B",
+          "texto": "A escrita egípcia se desenvolveu de três formas: hieroglífica, hierárquica e demótica."
+        },
+        {
+          "letra": "C",
+          "texto": "A religião estava fundada nos princípios do zoroastrismo."
+        },
+        {
+          "letra": "D",
+          "texto": "A sociedade estava fundamentada no sistema de castas, estando no topo os brâmanes e os xátrias."
+        },
+        {
+          "letra": "E",
+          "texto": "Os faraós tinham como filosofia os escritos de Confúcio, que viveu no século VI a.C.."
+        }
+      ],
+      "opcaoCorreta": "ANULADA",
+      "conteudo": [
+        "História – Egito Antigo"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "A civilização grega (ou helênica) desenvolveu características que produziram importantes influências nas civilizações contemporâneas ocidentais. Nesse sentido, a construção que representa esse esplendor cultural grego, além de ser reconhecidamente uma das maiores obras arquitetônicas da humanidade, é o(a):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ateneu Romeno, inaugurado em 1888."
+        },
+        {
+          "letra": "B",
+          "texto": "Muralha da China, que começou a ser construída em 220 a.C.."
+        },
+        {
+          "letra": "C",
+          "texto": "Farol de Alexandria, construído pelo Reino Ptolomaico entre 280 e 247 a.C.."
+        },
+        {
+          "letra": "D",
+          "texto": "Partenon, templo do século V a.C., localizado em Atenas."
+        },
+        {
+          "letra": "E",
+          "texto": "Muralha de Lima, que começou a ser construída no século XVII."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Grécia Antiga",
+        "História – Arte e Arquitetura na Antiguidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "No Império Bizantino predominava o grande interesse por questões religiosas, onde a Igreja funcionava em estreita ligação com o poder imperial. No entanto, uma série de conflitos teológicos e políticos entre os partidários dos imperadores bizantinos e o comando cristão papal, sediado em Roma, levaram à divisão do mundo cristão em duas igrejas, a Igreja Católica do Oriente e a Igreja Católica do Ocidente. É CORRETO afirmar que tais conflitos culminaram no(a):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Grande Cisma do Oriente, em 1054."
+        },
+        {
+          "letra": "B",
+          "texto": "Teocentrismo cultural."
+        },
+        {
+          "letra": "C",
+          "texto": "Batalha de Hastings, em 1066."
+        },
+        {
+          "letra": "D",
+          "texto": "Guerra dos Cem Anos, iniciada em 1337."
+        },
+        {
+          "letra": "E",
+          "texto": "Revolução de Avis, 1383-1385."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Idade Média",
+        "História – Império Bizantino",
+        "História – Cisma do Oriente"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "\"(...) o Renascimento não foi, nem poderia ser, um simples retorno à Antiguidade. Afinal, nenhuma cultura renasce fora de seu tempo, e quase todos os grandes renascentistas estavam profundamente marcados pelo cristianismo, ainda que desejassem transformá-lo. Isso se torna claro quando observamos o fundo cristão que persiste nas obras artísticas desse período. Além disso, houve uma renovação no tratamento de várias questões culturais, a partir de uma perspectiva humanista que, em boa medida, superou as ideias medievais com novas perguntas e novas possibilidades de ação.\"\nAdaptado de: COTRIM, Gilberto. História global 1. 3a. ed. São Paulo: Saraiva, 2016. p. 194.\n\nA partir da leitura do texto, é CORRETO afirmar que os dois fatores essenciais que possibilitaram a divulgação do trabalho de artistas e intelectuais renascentistas foram:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o fortalecimento da nobreza feudal e a crise da burguesia."
+        },
+        {
+          "letra": "B",
+          "texto": "a Igreja cristã, que patrocinou o trabalho de artistas e intelectuais renascentistas, e a ação dos senhores feudais."
+        },
+        {
+          "letra": "C",
+          "texto": "o desenvolvimento da imprensa e a ação dos mecenas."
+        },
+        {
+          "letra": "D",
+          "texto": "a crise das monarquias nacionais e o crescente poder e prestígio da Igreja entre os artistas e intelectuais renascentistas."
+        },
+        {
+          "letra": "E",
+          "texto": "o fortalecimento do feudalismo e o surgimento do capitalismo."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Idade Moderna",
+        "História – Renascimento Cultural"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "A fotogrametria aérea ou aerofotogrametria é uma subdivisão da fotogrametria na qual as fotografias do terreno são tomadas por uma câmara de precisão montada em uma aeronave (TOMMASELLI, A.M.G., Fotogrametria Básica – Introdução, 2009, p. 2). Os tipos de fotografia aérea, segundo a orientação do eixo óptico da câmara, podem ser verticais ou oblíquas. Observe a imagem da cidade de Manaus:\n\nFonte: https://www.alamy.com/stock-photo/foto-aerea-do-centro-de-manaus.html.\n\nA imagem representa uma foto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "oblíqua alta."
+        },
+        {
+          "letra": "B",
+          "texto": "oblíqua baixa."
+        },
+        {
+          "letra": "C",
+          "texto": "vertical."
+        },
+        {
+          "letra": "D",
+          "texto": "vertical alta."
+        },
+        {
+          "letra": "E",
+          "texto": "vertical perpendicular."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Cartografia",
+        "Geografia – Sensoriamento Remoto"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Em relação à Hidrovia Tocantins-Araguaia, é CORRETO afirmar que é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a principal hidrovia da região centro-norte do Brasil."
+        },
+        {
+          "letra": "B",
+          "texto": "importante via de ligação entre as regiões Centro-Oeste e Centro-Sul do Brasil."
+        },
+        {
+          "letra": "C",
+          "texto": "a principal hidrovia do Mercosul."
+        },
+        {
+          "letra": "D",
+          "texto": "o eixo fluvial mais extenso da América do Sul, abrangendo, além do Brasil, o Paraguai, a Argentina, o Uruguai e a Bolívia."
+        },
+        {
+          "letra": "E",
+          "texto": "a via mais econômica de ligação entre o Centro-Sul e o Nordeste do Brasil."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Hidrografia do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Com o tema Unindo o mundo para enfrentar as mudanças climáticas, a Conferência das Nações Unidas sobre as Mudanças Climáticas (COP26), realizada em Glasgow (Reino Unido), em novembro de 2021, reuniu representantes de cerca de 200 governos com o objetivo de acelerar a ação climática para cumprir o Acordo de Paris. De acordo com documento que contém as diretrizes de ação política acordadas por todos os países presentes, o pacto inclui os seguintes acordos, EXCETO:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Acelerar a transição para veículos não poluentes até 2040 e em mercados líderes até 2035."
+        },
+        {
+          "letra": "B",
+          "texto": "Eliminar o uso de carvão mineral entre as décadas de 2030 e 2040."
+        },
+        {
+          "letra": "C",
+          "texto": "Reduzir as emissões de gás metano."
+        },
+        {
+          "letra": "D",
+          "texto": "Reduzir em 2030 as emissões de dióxido nitroso em 45%, em relação aos níveis de 2010, e chegar a zero emissões líquidas em 2050."
+        },
+        {
+          "letra": "E",
+          "texto": "Zerar o desmatamento global até 2030."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Questões Ambientais",
+        "Geografia – Mudanças Climáticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Sobre os fusos horários nacionais, é INCORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a existência de quatro fusos no país associa-se às ilhas oceânicas como Fernando de Noronha."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas o fuso GMT -2 do arquipélago de Trindade é atrasado em relação a Greenwich; todos os outros são adiantados."
+        },
+        {
+          "letra": "C",
+          "texto": "as diferenças estabelecidas na demarcação do horário devem-se, sobretudo, à extensão no sentido Leste-Oeste do Brasil."
+        },
+        {
+          "letra": "D",
+          "texto": "as ilhas oceânicas – Trindade e Martin Vaz (ES), Fernando de Noronha e São Pedro e São Paulo (PE) e Atol das Rocas (RN) – adotam o horário GMT - 2."
+        },
+        {
+          "letra": "E",
+          "texto": "no Brasil existem os fusos horários GMT -2, GMT-3, GMT-4 e GMT - 5."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Cartografia",
+        "Geografia – Fusos Horários"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Sobre os focos de desmatamentos na Amazônia pode-se afirmar que:\n\nI. A cadeia produtiva dos frigoríficos para o comércio da carne é um dos principais motores desse processo.\nII. O Greenpeace não conseguiu identificar os crimes ambientais provocados por esse setor comercial.\nIII. Há mais de uma década os frigoríficos comprometeram-se em reduzir os danos ambientais da pecuária, porém nada foi feito.\nIV. Os frigoríficos locais cumprem rigorosamente todos os Termos de Ajustamento de Conduta, para evitar o avanço das queimadas.\nV. A pecuária é uma atividade que responde por cerca de 50% de todas as emissões brasileiras de gases do efeito estufa.\n\nAssinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I, II e V são verdadeiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I, III e IV são verdadeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas I, III e V são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas II, III e IV são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, IV e V são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Questões Ambientais",
+        "Geografia – Desmatamento na Amazônia"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Observe com atenção a imagem a seguir:\n\nAssinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A \"rocha mãe” é assim definida por conter o material de origem do solo."
+        },
+        {
+          "letra": "B",
+          "texto": "Denomina-se a primeira camada do solo de horizonte O, pois não contém compostos minerais-orgânicos."
+        },
+        {
+          "letra": "C",
+          "texto": "O horizonte A é composto de minerais em decomposição, tornando-se inativo às atividades agrícolas."
+        },
+        {
+          "letra": "D",
+          "texto": "No horizonte B, os fragmentos de rocha são praticamente inexistentes."
+        },
+        {
+          "letra": "E",
+          "texto": "Nos estudos do solo, ocasionalmente o horizonte C pode ser chamado de saprólito, ou de horizonte de transição."
+        }
+      ],
+      "opcaoCorreta": "ANULADA",
+      "conteudo": [
+        "Geografia – Pedologia",
+        "Geografia – Perfil do Solo"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "A fotomicrografia a seguir foi obtida a partir da camada mucosa do intestino de mamífero e deve ser utilizada para responder as questões 29, 30 e 31:\n\nCom relação à classificação do tecido histológico indicado pela seta preta, podemos afirmar que se trata de tecido:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "adiposo."
+        },
+        {
+          "letra": "B",
+          "texto": "cartilaginoso."
+        },
+        {
+          "letra": "C",
+          "texto": "conjuntivo propriamente dito denso modelado."
+        },
+        {
+          "letra": "D",
+          "texto": "epitelial cilíndrico simples."
+        },
+        {
+          "letra": "E",
+          "texto": "muscular estriado esquelético."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Histologia Animal",
+        "Biologia – Tecido Epitelial"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Sobre a classificação do tecido histológico indicado pela seta branca, podemos afirmar que se trata de tecido:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cartilaginoso."
+        },
+        {
+          "letra": "B",
+          "texto": "conjuntivo frouxo."
+        },
+        {
+          "letra": "C",
+          "texto": "epitelial pavimentoso simples."
+        },
+        {
+          "letra": "D",
+          "texto": "nervoso."
+        },
+        {
+          "letra": "E",
+          "texto": "ósseo."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Histologia Animal",
+        "Biologia – Tecido Conjuntivo"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Considerando o principal tipo celular encontrado no tecido histológico indicado pela seta preta, assinale a alternativa que contém as mais importantes especializações de membrana localizadas na região da célula:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Hemidesmossomos"
+        },
+        {
+          "letra": "B",
+          "texto": "Junções comunicantes"
+        },
+        {
+          "letra": "C",
+          "texto": "Lâmina basal"
+        },
+        {
+          "letra": "D",
+          "texto": "Microvilosidades"
+        },
+        {
+          "letra": "E",
+          "texto": "Porina"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Citologia",
+        "Biologia – Especializações da Membrana"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Sobre a respiração celular, é INCORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "na fermentação lática, tem-se como saldo energético apenas duas moléculas ATP por molécula de glicose oxidada."
+        },
+        {
+          "letra": "B",
+          "texto": "a via glicolítica tem como saldo energético apenas duas moléculas ATP por molécula de glicose oxidada."
+        },
+        {
+          "letra": "C",
+          "texto": "nos mamíferos, as hemácias não possuem mitocôndrias."
+        },
+        {
+          "letra": "D",
+          "texto": "na fermentação alcoólica há liberação de duas moléculas de $CO_2$ e formação de etanol."
+        },
+        {
+          "letra": "E",
+          "texto": "as células vegetais não respiram, apenas realizam fotossíntese."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Bioenergética",
+        "Biologia – Respiração Celular"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Considere as seguintes afirmativas sobre o código genético:\n\nI. O código genético possui três características importantes: especificidade, universalidade e degenerado/redundância.\nII. O códon iniciador corresponde à sequência UUU que fornece o quadro de leitura em que o RNA mensageiro será traduzido.\nIII. Entende-se por código genético a relação entre as bases nitrogenadas e os aminoácidos.\nIV. O anticódon corresponde ao grupo de três nucleotídeos do RNA transportador que se liga ao códon correspondente no RNA mensageiro através do pareamento de bases.\nV. O códon iniciador corresponde ao aminoácido triptofano carregado para o interior do ribossomo por um RNA transportador iniciador especial.\n\nAssinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são verdadeiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I, II e III são verdadeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas I, III e IV são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas II, III e IV são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas IV e V são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Genética Molecular",
+        "Biologia – Código Genético"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "As deficiências de vitaminas podem provocar várias enfermidades. Considere os seguintes sintomas causados por carência de vitaminas:\n\nI. Anemia perniciosa.\nII. Deficiência na coagulação sanguínea.\nIII. Raquitismo na infância.\nIV. Escorbuto.\n\nAssinale a alternativa que relaciona CORRETAMENTE os sintomas que estão associados às carências de vitaminas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I: vitamina B12; II: vitamina K; III: vitamina D; IV: vitamina C"
+        },
+        {
+          "letra": "B",
+          "texto": "I: vitamina B3; II: vitamina K; III: vitamina B7; IV: vitamina A"
+        },
+        {
+          "letra": "C",
+          "texto": "I: vitamina B1; II: vitamina A; III: vitamina B2; IV: vitamina C"
+        },
+        {
+          "letra": "D",
+          "texto": "I: vitamina C; II: vitamina D; III: vitamina A; IV: vitamina B6"
+        },
+        {
+          "letra": "E",
+          "texto": "I: vitamina A; II: vitamina C; III: biotina; IV: vitamina K"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Bioquímica",
+        "Biologia – Vitaminas"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "O petróleo cru, ou bruto, é levado para as refinarias, a fim de ser separado em vários componentes, que serão transformados em produtos derivados do petróleo. O petróleo bruto é separado em seus componentes por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "destilação fracionada."
+        },
+        {
+          "letra": "B",
+          "texto": "destilação simples."
+        },
+        {
+          "letra": "C",
+          "texto": "diferença de densidade."
+        },
+        {
+          "letra": "D",
+          "texto": "floculação."
+        },
+        {
+          "letra": "E",
+          "texto": "reação química."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Separação de Misturas"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Isótopos são átomos de um mesmo elemento químico que apresentam o mesmo valor do número atômico, mas se diferem no número da massa. No caso do elemento hidrogênio são conhecidos três isótopos, a saber:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "prótio, dicério e tricério."
+        },
+        {
+          "letra": "B",
+          "texto": "pródio, deutério e hélio."
+        },
+        {
+          "letra": "C",
+          "texto": "prótio, heparina e hélio."
+        },
+        {
+          "letra": "D",
+          "texto": "pródio, dicério e trítio."
+        },
+        {
+          "letra": "E",
+          "texto": "prótio, deutério e trítio."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Atomística",
+        "Química – Isótopos"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Na Tabela Periódica de Mendeleev, foram deixadas lacunas para os elementos a serem descobertos posteriormente. Assinale a alternativa que indica o elemento que posteriormente encontrou lugar em uma das lacunas da Tabela Periódica:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Cloro"
+        },
+        {
+          "letra": "B",
+          "texto": "Germânio"
+        },
+        {
+          "letra": "C",
+          "texto": "Oxigênio"
+        },
+        {
+          "letra": "D",
+          "texto": "Prata"
+        },
+        {
+          "letra": "E",
+          "texto": "Silício"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Tabela Periódica"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Considere os seguintes compostos:\n\nI. $NH_3$\nII. $BF_3$\nIII. $SCl_2$\nIV. $H_2O$\nV. $CO_2$\nVI. $CH_4$\n\nAssinale a alternativa que indica os compostos que têm a mesma geometria molecular:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente os compostos I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente os compostos I e VI."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente os compostos III e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente os compostos III e V."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente os compostos III, IV e V."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Geometria Molecular"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Na tabela a seguir são apresentados os produtos comerciais/industriais e as funções inorgânicas:\n\nProduto comercial/industrial\nI. Cal\nII. Detergente\nIII. Fertilizante\nIV. Leite de magnésia\nV. Mármore\nVI. Solução de bateria\n\nFunção inorgânica\n1. Ácido\n2. Base\n3. Óxido\n4. Sal\n\nConsiderando a substância ativa conhecida, correlacione, CORRETAMENTE, cada produto comercial/industrial com a respectiva função inorgânica:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I - 2; II - 3; III – 4; IV – 2; V – 1; VI – 4"
+        },
+        {
+          "letra": "B",
+          "texto": "I - 3; II – 2; III – 1; IV – 4; V – 3; VI – 4"
+        },
+        {
+          "letra": "C",
+          "texto": "I - 2; II - 3; III – 4; IV – 2; V – 3; VI – 1"
+        },
+        {
+          "letra": "D",
+          "texto": "I - 3; II - 2; III – 4; IV – 2; V – 4; VI – 1"
+        },
+        {
+          "letra": "E",
+          "texto": "I - 2; II - 3; III – 4; IV – 2; V – 1; VI – 4"
+        }
+      ],
+      "opcaoCorreta": "ANULADA",
+      "conteudo": [
+        "Química – Funções Inorgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Na reação de duplo deslocamento entre iodeto de potássio aquoso e nitrato de chumbo aquoso, forma-se um precipitado amarelo de iodeto de chumbo. Ao realizar uma atividade, se o nitrato de chumbo não estiver disponível, qual das seguintes substâncias pode ser usada no lugar do nitrato de chumbo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Acetato de chumbo"
+        },
+        {
+          "letra": "B",
+          "texto": "Sulfato de potássio"
+        },
+        {
+          "letra": "C",
+          "texto": "Nitrato de amônio"
+        },
+        {
+          "letra": "D",
+          "texto": "Sulfato de chumbo (insolúvel)"
+        },
+        {
+          "letra": "E",
+          "texto": "Nitrato de potássio"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Reações Inorgânicas",
+        "Química – Solubilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Nas questões em que for necessário o uso da aceleração da gravidade, adote $g = 10 m/s^2$.\nQuando necessário, utilize para a densidade da água o valor $\\rho = 1,00g/cm^3$.\nQuando necessário, adote os seguintes valores:\n$\\pi = 3$\n$\\sin{30^{\\circ}} = \\cos{60^{\\circ}} = \\frac{1}{2} = 0,50$\n$\\sin{60^{\\circ}} = \\cos{30^{\\circ}} = \\frac{\\sqrt{3}}{2} = 0,87$\n$\\sin{45^{\\circ}} = \\cos{45^{\\circ}} = \\frac{\\sqrt{2}}{2} = 0,71$\n\nFrequentemente usado para expressar distâncias astronômicas, o ano-luz é definido como a distância percorrida pela luz no vácuo em um ano. Considerando a velocidade da luz no vácuo igual a 300000 km/s, podemos afirmar que a ordem de grandeza de um ano-luz, em metros, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$10^{12}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$10^{13}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$10^{15}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$10^{16}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$10^{18}$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Cinemática",
+        "Física – Notação Científica",
+        "Física – Ordem de Grandeza"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "A expressão \"navegar é preciso, viver não é preciso\" é conhecida por conta do poeta português Fernando Pessoa (1888 – 1935). Navegar é o processo que permite uma embarcação ou aeronave alcançar um local específico. Assim, a correta orientação de uma embarcação é fator essencial quando se deseja atravessar um rio com correnteza. Dependendo da direção e sentido do movimento da embarcação, a correnteza irá desviá-la de sua trajetória num efeito conhecido como deriva. Considere a situação, típica da região amazônica, na qual uma canoa, equipada com um motor do tipo \"rabeta\", atravessa um trecho de rio com velocidade, em relação ao rio, de 4m/s numa direção perpendicular à correnteza. Se a largura do rio é de 800m e a velocidade da correnteza neste trecho é de 3m/s, podemos afirmar que o tempo de travessia e o deslocamento de deriva da canoa, em relação ao ponto oposto ao de partida na outra margem do rio, valem, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3min20s e 400m."
+        },
+        {
+          "letra": "B",
+          "texto": "4min20s e 300m."
+        },
+        {
+          "letra": "C",
+          "texto": "3min20s e 300m."
+        },
+        {
+          "letra": "D",
+          "texto": "4min20s e 600m."
+        },
+        {
+          "letra": "E",
+          "texto": "3min20s e 600m."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Cinemática Vetorial",
+        "Física – Composição de Movimentos"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Considere a situação na qual o goleiro, ao bater o tiro de meta, chuta a bola imprimindo-lhe uma velocidade inicial $\\vec{v}_0$, com vetor velocidade inicial formando com a horizontal um ângulo $30^{\\circ} < \\theta < 45^{\\circ}$. Considerando a bola como uma partícula e desprezando quaisquer efeitos de resistência do ar, podemos afirmar que no ponto mais alto da trajetória da bola:\n\nI. o vetor velocidade se anula.\nII. o valor da aceleração se anula.\nIII. o componente horizontal do vetor velocidade da bola possui o mesmo valor que o componente horizontal do vetor velocidade inicial $\\vec{v}_0$.\n\nAssinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente a afirmativa I é verdadeira."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente a afirmativa II é verdadeira."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente a afirmativa III é verdadeira."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I e II são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II e III são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Cinemática",
+        "Física – Lançamento Oblíquo"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Três blocos de massas $m_A = 2,0kg$, $m_B = 1,0kg$ e $m_C = 3,0kg$ estão dispostos sobre uma superfície horizontal sem atrito, com uma força $\\vec{F}$, de intensidade igual a 42N, atuando sobre o bloco C, conforme indicado na figura a seguir:\n\nA partir dessas informações, podemos afirmar que a intensidade da força de tensão na corda que conecta o bloco C com o bloco A, e a intensidade da força exercida pelo bloco B sobre o bloco A, valem, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "21N e 21N"
+        },
+        {
+          "letra": "B",
+          "texto": "14N e 7,0N"
+        },
+        {
+          "letra": "C",
+          "texto": "21N e 14N"
+        },
+        {
+          "letra": "D",
+          "texto": "14N e 14N"
+        },
+        {
+          "letra": "E",
+          "texto": "21N e 7,0N"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Dinâmica",
+        "Física – Leis de Newton"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Somente cinco planetas do sistema solar podem ser observados sem o auxílio de instrumentos. Esses planetas eram considerados por muitas culturas antigas como divinos ou emissários de deuses. Dos cinco planetas, Saturno é o mais distante da Terra, pertencendo ao grupo dos gigantes gasosos. Saturno possui cerca de 95 massas terrestres e orbita o Sol a uma distância média de 9,5 U.A., em que 1 U.A. (unidade astronômica) corresponde a distância média da Terra ao Sol. Aproximando esses valores, de modo que iremos considerar que Saturno tenha massa 100 vezes maior que a da Terra e que descreva uma órbita em torno do Sol a uma distância média de 10 U.A., podemos afirmar que a razão entre a intensidade da força gravitacional com que o Sol atrai Saturno e a intensidade da força gravitacional com que o Sol atrai a Terra é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,01."
+        },
+        {
+          "letra": "B",
+          "texto": "0,1."
+        },
+        {
+          "letra": "C",
+          "texto": "1."
+        },
+        {
+          "letra": "D",
+          "texto": "10."
+        },
+        {
+          "letra": "E",
+          "texto": "100."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Gravitação Universal"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Num experimento realizado no Laboratório de Física, um objeto de 500g foi liberado a partir do repouso, quando estava totalmente imerso em um líquido. Antes de liberar o objeto, os alunos determinaram a massa do líquido deslocado pelo objeto, obtendo o valor de 300g. A partir dessas informações e considerando que o arrasto exercido pelo líquido sobre o objeto foi desprezível, podemos afirmar que a distância que o objeto percorreu 200ms após ser liberado do repouso foi de ____ no sentido vertical para ____.\n\nAssinale a alternativa que preenche, CORRETAMENTE, as lacunas do texto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I: 8,0cm; II: baixo"
+        },
+        {
+          "letra": "B",
+          "texto": "I: 8,0cm; II: cima"
+        },
+        {
+          "letra": "C",
+          "texto": "I: 4,0cm; II: baixo"
+        },
+        {
+          "letra": "D",
+          "texto": "I: 16cm; II: cima"
+        },
+        {
+          "letra": "E",
+          "texto": "I: 16cm; II: baixo"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Hidrostática",
+        "Física – Empuxo",
+        "Física – Dinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Seja a função $f: \\mathbb{R} \\rightarrow \\mathbb{R}$, definida por $f(x) = x^2 - 6x + n$, onde $n \\in \\mathbb{R}$. Sabendo que $f(5) = 2$, então o valor de $f(3)$ deve ser igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "–4"
+        },
+        {
+          "letra": "B",
+          "texto": "–2"
+        },
+        {
+          "letra": "C",
+          "texto": "2"
+        },
+        {
+          "letra": "D",
+          "texto": "3"
+        },
+        {
+          "letra": "E",
+          "texto": "4"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Função Quadrática"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Uma empresa de publicidade planeja alocar R$ 329.000,00 entre pesquisa e propaganda, de modo que a razão entre as quantias seja 3 : 4. Logo, os valores alocados para pesquisa e propaganda deverão ser, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 129.000,00 e R$ 200.000,00"
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 163.000,00 e R$ 166.000,00"
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 134.000,00 e R$ 195.000,00"
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 141.000,00 e R$ 188.000,00"
+        },
+        {
+          "letra": "E",
+          "texto": "R$ 152.000,00 e R$ 177.000,00"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Razão e Proporção"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "O domínio da função $f(x) = \\log_{x-5}(x+3)$ é o conjunto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$D(f) = \\{x \\in \\mathbb{R} | x \\geq 3 \\text{ e } x \\neq -3\\}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$D(f) = \\{x \\in \\mathbb{R} | x > 5 \\text{ e } x \\neq 6\\}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$D(f) = \\{x \\in \\mathbb{R} | x \\geq 5 \\text{ e } x \\neq 6\\}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$D(f) = \\{x \\in \\mathbb{R} | x > 5 \\text{ e } x = -3\\}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$D(f) = \\{x \\in \\mathbb{R} | x > 3 \\text{ e } x \\neq 6\\}$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Funções",
+        "Matemática – Função Logarítmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Em um triângulo retângulo de ângulos agudos $\\alpha$ e $\\gamma$, a tangente de $\\alpha$ é igual a $\\frac{4}{3}$. Então o seno de $\\gamma$ será igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{4}{5}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{2}{5}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{1}{2}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{4}{3}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{3}{5}$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Trigonometria no Triângulo Retângulo"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Sejam a PA de razão $r = 20$ e 1º termo $a_1 = 200$, e a PG de razão $q = 3$ e 1º termo $b_1 = 2$. Logo, podemos afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$a_4 < b_4$."
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{a_8}{b_2} = 10 \\cdot a_4$."
+        },
+        {
+          "letra": "C",
+          "texto": "$b_3 = 2 \\cdot a_3$."
+        },
+        {
+          "letra": "D",
+          "texto": "$b_n > a_n$, para $n \\geq 6$."
+        },
+        {
+          "letra": "E",
+          "texto": "os termos da PA passam a ser menores que os termos da PG só a partir do 5º termo."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Progressão Aritmética",
+        "Matemática – Progressão Geométrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "O número de refeições servidas ao mês por determinado restaurante, em certo ano, pode ser descrito aproximadamente pela função $f(x) = 3000 \\cdot (1,2)^{x-2}$, em que x representa o mês do ano (para janeiro, por exemplo, $x=1$). A quantidade de refeições, aproximadamente, que foram servidas por esse restaurante em abril, foi de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2840 refeições."
+        },
+        {
+          "letra": "B",
+          "texto": "3280 refeições."
+        },
+        {
+          "letra": "C",
+          "texto": "4320 refeições."
+        },
+        {
+          "letra": "D",
+          "texto": "5430 refeições."
+        },
+        {
+          "letra": "E",
+          "texto": "6360 refeições."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Função Exponencial"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Durante a pandemia da Covid-19, uma fábrica resolveu investir no aumento da produção de máscaras de proteção respiratória. Quando a produção tinha 12 empregados, o total de máscaras produzidas diariamente era de 320.000 máscaras. Com o objetivo de atingir uma produção de 800.000 máscaras diárias, a quantidade necessária de empregados que deverão ser contratados será igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "18"
+        },
+        {
+          "letra": "B",
+          "texto": "20"
+        },
+        {
+          "letra": "C",
+          "texto": "28"
+        },
+        {
+          "letra": "D",
+          "texto": "30"
+        },
+        {
+          "letra": "E",
+          "texto": "40"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Regra de Três"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Uma locadora de carros anuncia uma promoção de aluguel de veículos na qual o locatário deve pagar uma taxa fixa de R$ 106,50, mais uma quantia proporcional à quantidade x de km rodados. Nessa promoção, para calcular o valor V a ser pago pelo aluguel de um veículo, utiliza-se a função $V = f(x) = 106,50 + 1,20x$. Nesse contexto, se um cliente pagou R$ 484,50 pelo aluguel de um veículo, então com esse veículo ele percorreu:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "105 km."
+        },
+        {
+          "letra": "B",
+          "texto": "180 km."
+        },
+        {
+          "letra": "C",
+          "texto": "252 km."
+        },
+        {
+          "letra": "D",
+          "texto": "270 km."
+        },
+        {
+          "letra": "E",
+          "texto": "315 km."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Função do 1º grau"
+      ]
+    }
+  ]
+}

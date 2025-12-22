@@ -1,0 +1,3748 @@
+{
+  "nomeUniversidade": "Universidade Estadual Paulista",
+  "siglaUniversidade": "UNESP",
+  "nomeVestibular": "Vestibular",
+  "ano": 2022,
+  "cursos": [
+    {
+      "nomeCurso": "Administração - Bacharelado",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Administração - Bacharelado",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Administração - Bacharelado",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Administração - Bacharelado",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Administração - Bacharelado",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Administração - Bacharelado",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Administração Pública - Bacharelado",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Administração Pública - Bacharelado",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Administração Pública - Bacharelado",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Administração Pública - Bacharelado",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Arquitetura e Urbanismo",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Arquitetura e Urbanismo",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Arquitetura e Urbanismo",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Arquitetura e Urbanismo",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Arquivologia",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Arquivologia",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Artes Cênicas - Bacharelado - Habilitação em Interpretação Teatral",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Artes Cênicas - Bacharelado - Habilitação em Interpretação Teatral",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Artes Visuais - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Artes Visuais - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 49
+    },
+    {
+      "nomeCurso": "Artes Visuais - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Artes Visuais - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Arte-Teatro - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Arte-Teatro - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Biblioteconomia",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Biblioteconomia",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Ciência da Computação - Bacharelado",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Ciência da Computação - Bacharelado",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Ciência da Computação - Bacharelado",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Ciência da Computação - Bacharelado",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Ciência da Computação - Bacharelado",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciência da Computação - Bacharelado",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Ciências Biológicas - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Ciências Biológicas - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Ciências Biológicas - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Ciências Biológicas - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Ciências Biológicas - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Ciências Biológicas - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Ciências Biológicas - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Ciências Biológicas - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Ciências Biológicas - Bacharelado em Biologia Marinha ou Gerenciamento Costeiro",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas - Bacharelado em Biologia Marinha ou Gerenciamento Costeiro",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Ciências Biológicas - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Ciências Biológicas - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Ciências Biológicas - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 26
+    },
+    {
+      "nomeCurso": "Ciências Biomédicas",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Ciências Biomédicas",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 56
+    },
+    {
+      "nomeCurso": "Ciências da Computação - Bacharelado",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Ciências da Computação - Bacharelado",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Ciências da Computação - Bacharelado",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Ciências da Computação - Bacharelado",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Ciências Econômicas - Bacharelado",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Econômicas - Bacharelado",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Econômicas - Bacharelado",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Econômicas - Bacharelado",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Ciências Sociais - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Ciências Sociais - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Ciências Sociais - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Ciências Sociais - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Ciências Sociais - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Ciências Sociais - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Ciências Sociais - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Ciências Sociais - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 26
+    },
+    {
+      "nomeCurso": "Comunicação: Rádio, Televisão e Internet",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Comunicação: Rádio, Televisão e Internet",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Design (Design Gráfico ou Design de Produto)",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Design (Design Gráfico ou Design de Produto)",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Design (Design Gráfico)",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Design (Design Gráfico)",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Direito",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Direito",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 52
+    },
+    {
+      "nomeCurso": "Direito",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Direito",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Ecologia",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Ecologia",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Educação Física - Bacharelado",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Educação Física - Bacharelado",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Educação Física - Bacharelado",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Educação Física - Bacharelado",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Educação Física - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Educação Física - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Educação Física - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Educação Física - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Educação Física - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Educação Física - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Educação Física - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Educação Física - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Educação Física - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Educação Física - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Engenharia Aeronáutica",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Aeronáutica",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Engenharia Biotecnológica",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Biotecnológica",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Engenharia Cartográfica e de Agrimensura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Engenharia Cartográfica e de Agrimensura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Engenharia de Alimentos",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia de Alimentos",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia de Bioprocessos e Biotecnologia",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia de Bioprocessos e Biotecnologia",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Engenharia de Bioprocessos e Biotecnologia",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Engenharia de Bioprocessos e Biotecnologia",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Engenharia de Biossistemas",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia de Biossistemas",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia de Controle e Automação",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia de Controle e Automação",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia de Energia",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Engenharia de Energia",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Engenharia de Materiais",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Engenharia de Materiais",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Engenharia de Pesca",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia de Pesca",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Engenharia de Produção Mecânica",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia de Produção Mecânica",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Engenharia Eletrônica e de Telecomunicações",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia Eletrônica e de Telecomunicações",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Engenharia Florestal",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia Florestal",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia Industrial Madeireira",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Engenharia Industrial Madeireira",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Estatística",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Estatística",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Filosofia - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Filosofia - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Física - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Física - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Física - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Física - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Física - Bacharelado em Física Biológica e Licenciatura em Física",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Física - Bacharelado em Física Biológica e Licenciatura em Física",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Física - Bacharelado em Física de Materiais e Licenciatura em Física",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Física - Bacharelado em Física de Materiais e Licenciatura em Física",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Física - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Física - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Física - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Física - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Física Médica",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Física Médica",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Fisioterapia",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Fisioterapia",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Fisioterapia",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Fisioterapia",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Fonoaudiologia",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Fonoaudiologia",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Geografia - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Geografia - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Geografia - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 26
+    },
+    {
+      "nomeCurso": "Geografia - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Geografia - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Geografia - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Geografia - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Geografia - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Geografia - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Geografia - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Geografia - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Geografia - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Geologia",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Geologia",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "História - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "História - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "História - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "História - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "História - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "História - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "História - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "História - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Jornalismo",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Jornalismo",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Jornalismo",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Jornalismo",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Letras - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Letras - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Letras - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Letras - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Letras - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Letras - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Letras - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Letras - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Letras Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Letras Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Letras - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Letras - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Letras - Tradutor - Bacharelado",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Letras - Tradutor - Bacharelado",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Licenciatura em Música",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Licenciatura em Música",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Matemática - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Matemática - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Matemática - Bacharelado e Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Matemática - Bacharelado e Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Matemática - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Matemática - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Matemática - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Matemática - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Matemática - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Matemática - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Matemática - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Matemática - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 26
+    },
+    {
+      "nomeCurso": "Matemática - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Matemática - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Matemática - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Matemática - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 62
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 78
+    },
+    {
+      "nomeCurso": "Medicina Veterinária",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Medicina Veterinária",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Medicina Veterinária",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Medicina Veterinária",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Medicina Veterinária",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Medicina Veterinária",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Meteorologia - Bacharelado",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Meteorologia - Bacharelado",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Música - Bacharelado - Habilitação em Canto",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Música - Bacharelado - Habilitação em Canto",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Música - Bacharelado - Habilitação em Composição",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Música - Bacharelado - Habilitação em Composição",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Música - Bacharelado - Habilitação em Instrumento: Cordas (Contrabaixo Acústico, Viola, Violino, Violoncelo)",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Música - Bacharelado - Habilitação em Instrumento: Cordas (Contrabaixo Acústico, Viola, Violino, Violoncelo)",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Música - Bacharelado - Habilitação em Instrumento: Percussão",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Música - Bacharelado - Habilitação em Instrumento: Percussão",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Música - Bacharelado - Habilitação em Instrumento: Sopros (Clarineta, Flauta, Instrumento Antigo - Flauta Doce, Oboé)",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Música - Bacharelado - Habilitação em Instrumento: Sopros (Clarineta, Flauta, Instrumento Antigo - Flauta Doce, Oboé)",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Música - Bacharelado - Habilitação em Instrumento: Teclados",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Música - Bacharelado - Habilitação em Instrumento: Teclados",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Música - Bacharelado - Habilitação em Instrumento: Violão",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Música - Bacharelado - Habilitação em Instrumento: Violão",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 26
+    },
+    {
+      "nomeCurso": "Música - Bacharelado - Habilitação em Regência",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 26
+    },
+    {
+      "nomeCurso": "Música - Bacharelado - Habilitação em Regência",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 26
+    },
+    {
+      "nomeCurso": "Nutrição",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 26
+    },
+    {
+      "nomeCurso": "Nutrição",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Pedagogia - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 56
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 47
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Química - Bacharelado em Química Ambiental e Licenciatura em Química",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Química - Bacharelado em Química Ambiental e Licenciatura em Química",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Química - Bacharelado em Química e em Química Tecnológica",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Química - Bacharelado em Química e em Química Tecnológica",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Química - Bacharelado em Química Tecnológica",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Química - Bacharelado em Química Tecnológica",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Química - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Química - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Química - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Química - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Química - Licenciatura",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Química - Licenciatura",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Relações Internacionais",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Relações Internacionais",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Relações Internacionais",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Relações Internacionais",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Relações Internacionais",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Relações Internacionais",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Relações Públicas",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Relações Públicas",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Serviço Social",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Serviço Social",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Serviço Social",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Serviço Social",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Sistemas de Informação - Bacharelado",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Sistemas de Informação - Bacharelado",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Terapia Ocupacional",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Terapia Ocupacional",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Treineiro",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Treineiro",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Turismo",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Turismo",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Zootecnia",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Zootecnia",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Zootecnia",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Zootecnia",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Zootecnia",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Zootecnia",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Zootecnia",
+      "modalidade": "SRVEBP e SRVEBP + PPI",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Zootecnia",
+      "modalidade": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 18
+    }
+  ]
+}

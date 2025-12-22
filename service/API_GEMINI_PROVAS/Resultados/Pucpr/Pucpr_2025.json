@@ -1,0 +1,1165 @@
+{
+  "nomeUniversidade": "Pontifícia Universidade Católica do Paraná",
+  "siglaUniversidade": "PUCPR",
+  "nomeProva": "Vestibular de Verão",
+  "ano": 2025,
+  "qtdeQuestoes": 40,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "O trecho a seguir é parte do livro Eu sou Malala: A história da garota que defendeu o direito à educação e foi baleada pelo Talibã, escrito por Malala Yousafzai com Christina Lamb, ele é base para responder à próxima questão.\n\nNo dia em que nasci, as pessoas da nossa aldeia tiveram pena de minha mãe, e ninguém deu os parabéns a meu pai. Vim ao mundo durante a madrugada, quando a última estrela se apaga. Nós, pachtuns, consideramos esse um sinal auspicioso. Meu pai não tinha dinheiro para o hospital ou para uma parteira; então uma vizinha ajudou minha mãe. O primeiro bebê de meus pais foi natimorto, mas eu vim ao mundo chorando e dando pontapés. Nasci menina num lugar onde rifles são disparados em comemoração a um filho, ao passo que as filhas são escondidas atrás de cortinas, sendo seu papel na vida apenas fazer comida e procriar.\n\nYOUSAFZAI, Malala. Eu sou Malala: A história da garota que defendeu o direito à educação e foi baleada pelo Talibã. Malala Yousafzai com Christina Lamb. São Paulo: Companhia das Letras, 2013.\n\nA partir das informações sobre autoria e características do texto, podemos afirmar que ele pertence ao gênero",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "biografia."
+        },
+        {
+          "letra": "B",
+          "texto": "romance."
+        },
+        {
+          "letra": "C",
+          "texto": "autobiografia."
+        },
+        {
+          "letra": "D",
+          "texto": "conto."
+        },
+        {
+          "letra": "E",
+          "texto": "crônica."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Gêneros Textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Analise o emprego dos argumentos no trecho da entrevista a seguir.\n\nCIÊNCIA HOJE: \"Ciência” é um conceito extremamente amplo, o que às vezes pode criar certo distanciamento entre aqueles que fazem ciência, os pesquisadores e cientistas, e a sociedade que se beneficia desse conhecimento e suas descobertas. O que é a ciência, afinal?\n\nHELENA NADER: A ciência tenta explicar e entender o mundo, em todas as suas esferas. E ela não é terminativa. A ciência se nutre das informações que existem para aprofundar ainda mais. Por isso criou também a chamada teoria, um conjunto de dados para explicar determinado ambiente ou fenômeno. Todo mundo entende e reconhece que Albert Einstein (1879-1955) é um cientista: ele desenvolveu a Teoria da Relatividade ao unir uma série de dados científicos. A ciência faz isso. É onde difere da religião, por exemplo. As duas podem e deveriam conviver sem problemas, porque uma não invalida a outra. Devem respeitar uma à outra, e não serem colocadas como inimigas frontais. No passado, séculos atrás, os grandes cientistas eram os religiosos. Eram eles importantes físicos, químicos, biólogos. E a ciência não busca dizer se Deus existe ou não. Ela interpreta o cosmos. Levou o homem à Lua. Tenta trazer fragmentos para entender Marte. Quer entender se somos únicos ou se existem outros semelhantes a nós. Veja quanta coisa a ciência fez em cem anos. No passado, uma pessoa de 40 anos já era considerada velha. Veja o número de medicamentos criados para curar dores e salvar pessoas, as tecnologias usadas na agricultura que transformaram o Brasil num grande produtor mundial de alimentos. O país parou de copiar o modelo da agricultura europeia e norte-americana, de locais frios, e começou a olhar para seu próprio clima, seu próprio solo. Graças à ciência. A ciência nos maravilha todo dia.\n\nAo mencionar Albert Einstein e os medicamentos criados para curar dores e salvar pessoas, a entrevistada recorre, de maneira semelhante, nos dois trechos, ao argumento de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "autoridade."
+        },
+        {
+          "letra": "B",
+          "texto": "comparação."
+        },
+        {
+          "letra": "C",
+          "texto": "causa e consequência."
+        },
+        {
+          "letra": "D",
+          "texto": "exemplificação."
+        },
+        {
+          "letra": "E",
+          "texto": "dados estatísticos."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Tipos de Argumento"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Leia o texto a seguir.\n\nAcidentes com escorpiões, aranhas, serpentes ou mesmo abelhas podem ter resultados fatais sem o tratamento adequado. Esses animais produzem e são capazes de inocular toxinas a fim de atingir diversos sistemas do corpo, como músculos e neurônios. A toxicidade depende de um fator. Segundo Flavia Oliveira, enfermeira do Centro de Informação e Assistência Toxicológica de SC, não há acidente mais grave entre um animal peçonhento e outro. \"Todos têm relevância média\". [...]\nO que determina a ação de cada veneno é o conjunto de moléculas, eminentemente proteínas, que o compõe. No caso das corais verdadeiras, o principal grupo de ação é formado por três dedos – o nome vem da estrutura molecular da proteína, com prolongamentos que se assemelham.\n\nEm relação aos referentes dos pronomes em destaque, o que se afirma em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O pronome todos refere-se a “animal peçonhento”; o pronome o retoma “proteínas”."
+        },
+        {
+          "letra": "B",
+          "texto": "O pronome todos refere-se a “não há acidente mais grave”; o pronome o retoma “conjunto de moléculas”."
+        },
+        {
+          "letra": "C",
+          "texto": "O pronome esses, em “esses animais”, retoma “escorpiões, aranhas, serpentes ou mesmo abelhas”; já o pronome todos refere-se a “animal peçonhento e outro”."
+        },
+        {
+          "letra": "D",
+          "texto": "O pronome esses, em “esses animais”, retoma “escorpiões, aranhas, serpentes ou mesmo abelhas”; já o pronome o retoma “conjunto de moléculas”."
+        },
+        {
+          "letra": "E",
+          "texto": "O pronome esses, em “esses animais”, retoma “escorpiões, aranhas, serpentes ou mesmo abelhas”; já o pronome o retoma “veneno”."
+        }
+      ],
+      "opcaoCorreta": "ANULADA",
+      "conteudo": [
+        "Língua Portuguesa – Coesão Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Leia a tira a seguir.\n\nÉ possível afirmar que a tira apresenta",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "propaganda velada de marcas de chocolate."
+        },
+        {
+          "letra": "B",
+          "texto": "conformidade com a indústria alimentícia."
+        },
+        {
+          "letra": "C",
+          "texto": "crítica à indústria alimentícia."
+        },
+        {
+          "letra": "D",
+          "texto": "saudosismo em relação aos antigos rótulos de produtos alimentícios."
+        },
+        {
+          "letra": "E",
+          "texto": "incentivo ao consumo de produtos sabor chocolate."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Linguagem Verbal e Não-Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Leia um trecho de reportagem.\n\nEstudante do curso de Artes Visuais visita escolas públicas de todo o Brasil para registrar histórias e contar sobre as experiências presenciais pós pandemia de covid-19\n\nNo tédio, no medo, na incerteza, na esperança. A arte pode surgir em momentos inesperados. Esse olhar levou Aria Baru, de 19 anos, a iniciar sua odisseia Sentimentos presenciais, um projeto que reúne fotografias, gravações e escritos que revelam impressões de estudantes, professores e funcionários de escolas públicas das cinco regiões do Brasil. Com uma câmera na mochila e um caderno para anotações, a agora estudante do curso de Artes Visuais da UnB percorreu, de novembro de 2021 até outubro de 2022, cinco estados, nove municípios e 29 escolas para \"capturar\" o que as pessoas sentiam. Os registros transformaram-se, então, em retrato vivo da educação pública brasileira no contexto recente.\n\nA partir da compreensão do contexto apresentado no texto, assinale a afirmativa CORRETA sobre o título Liberdade para sentir.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O título faz referência a um fato recente que retirou a liberdade da comunidade escolar e a possibilidade de ele ser ressignificado pela arte."
+        },
+        {
+          "letra": "B",
+          "texto": "O título ironiza a situação de reclusão que estudantes do ensino básico vivenciam na sua rotina escolar."
+        },
+        {
+          "letra": "C",
+          "texto": "O título evidencia a necessidade de discutir sobre sentimentos dentro e fora da escola."
+        },
+        {
+          "letra": "D",
+          "texto": "O título refere-se à liberdade que a comunidade escolar vivenciou em sua rotina nos últimos seis anos."
+        },
+        {
+          "letra": "E",
+          "texto": "O título evidencia um contexto de falta de empatia no contexto escolar, o qual pode ser mudado pela arte."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Leia o texto a seguir.\n\nO maior esforço para tentar salvar Juliana Marins, brasileira que caiu de um penhasco no Monte Rinjani, na Indonésia, não veio das autoridades locais, mas de um voluntário. Abdul Agan, alpinista experiente, largou tudo para organizar uma expedição de resgate por conta própria.\n\nAssinale o trecho em que a alteração da pontuação é empregada CORRETAMENTE.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O maior esforço para tentar salvar Juliana Marins – brasileira que caiu de um penhasco no Monte Rinjani na Indonésia –, não veio das autoridades locais, mas de um voluntário."
+        },
+        {
+          "letra": "B",
+          "texto": "Abdul Agan – alpinista experiente – largou tudo para organizar uma expedição de resgate por conta própria."
+        },
+        {
+          "letra": "C",
+          "texto": "Abdul Agan alpinista experiente largou tudo para organizar uma expedição de resgate por conta própria."
+        },
+        {
+          "letra": "D",
+          "texto": "O maior esforço para tentar salvar Juliana Marins, brasileira que caiu de um penhasco no Monte Rinjani na Indonésia, não veio das autoridades locais, mas de um voluntário."
+        },
+        {
+          "letra": "E",
+          "texto": "O maior esforço para tentar salvar Juliana Marins, brasileira que caiu de um penhasco no Monte Rinjani, na Indonésia, não veio das autoridades locais: mas de um voluntário."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Pontuação"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "O peixe Poecilia mexicana, conhecido como molinésia-do-sulfeto, é encontrado em rios com altas concentrações de sulfeto de hidrogênio ($H_2S$) e baixos níveis de oxigênio, como os da região das fontes termais do México. Esses ambientes extremos são tóxicos para a maioria dos organismos aquáticos, mas essa espécie desenvolveu adaptações fisiológicas, como a capacidade de oxidar o sulfeto e tolerar hipóxia, permitindo sua sobrevivência onde outras espécies não conseguem prosperar.\n\nConsiderando o texto que descreve essa condição, qual fator explica a predominância Poecilia mexicana nesses ambientes extremos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A ausência completa de competidores, garantindo-o como acesso exclusivo aos recursos disponíveis."
+        },
+        {
+          "letra": "B",
+          "texto": "A capacidade de produzir oxigênio por meio da fotossíntese, compensando a hipóxia da água."
+        },
+        {
+          "letra": "C",
+          "texto": "A metabolização do sulfeto de hidrogênio e a capacidade de sobreviver em situação de hipóxia."
+        },
+        {
+          "letra": "D",
+          "texto": "A migração frequente para áreas menos tóxicas, evitando a exposição prolongada ao sulfeto de hidrogênio."
+        },
+        {
+          "letra": "E",
+          "texto": "A simbiose com bactérias que convertem sulfeto em nutrientes, eliminando a necessidade de outras fontes de alimento."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Ecologia",
+        "Biologia – Adaptações de Seres Vivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Leia a seguir.\n\nTEXTO I\n\nA Caatinga brasileira apresenta solos caracterizados pela baixa fertilidade e alta salinização em algumas áreas, além de períodos prolongados de seca. Essas condições limitam a agricultura tradicional na região.\n\nTEXTO II\n\nO desenvolvimento da fruticultura irrigada no semiárido nordestino foi impulsionado por técnicas que permitem contornar as limitações naturais do solo e do clima, garantindo produtividade mesmo em condições adversas.\n\nNos textos são apresentados aspectos do processo de adaptação agrícola em um bioma brasileiro. Uma tecnologia que permite corrigir os limites impostos pelas condições naturais está indicada em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Hidroponia."
+        },
+        {
+          "letra": "B",
+          "texto": "Fertirrigação."
+        },
+        {
+          "letra": "C",
+          "texto": "Eutrofização."
+        },
+        {
+          "letra": "D",
+          "texto": "Rotação de cultura."
+        },
+        {
+          "letra": "E",
+          "texto": "Plantio Direto."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Biomas",
+        "Biologia – Agricultura"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Os peixes da família Channichthyidae, conhecidos como \"peixes-gelo\", habitam as águas geladas da Antártida. Diferentemente da maioria dos vertebrados, esses peixes não possuem hemoglobina em seu sangue, uma adaptação evolutiva ao ambiente extremamente frio e rico em oxigênio dissolvido. Seu metabolismo depende da captação direta de $O_2$ da água através da pele e brânquias, além de adaptações fisiológicas que evitam a formação de cristais de gelo em seus tecidos.\n\nConforme o descritivo, a adaptação desses animais em relação ao seu ambiente confere maior",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "absorção cutânea de $O_2$, compensando a ausência de hemoglobina."
+        },
+        {
+          "letra": "B",
+          "texto": "produção de anticongelantes naturais, prevenindo danos celulares."
+        },
+        {
+          "letra": "C",
+          "texto": "capacidade de armazenar $CO_2$ nos tecidos, facilitando a respiração anaeróbica."
+        },
+        {
+          "letra": "D",
+          "texto": "produção de substâncias que facilitam a solidificação da água."
+        },
+        {
+          "letra": "E",
+          "texto": "concentração de mioglobina muscular, aumentando a reserva de oxigênio."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Fisiologia Animal Comparada",
+        "Biologia – Evolução"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "A dengue e a febre amarela são arboviroses de grande impacto na saúde pública global, especialmente em regiões tropicais e subtropicais. Ambas são causadas por vírus e apresentam sintomas que podem variar de leves a graves, com potencial para óbito. Sua disseminação está intrinsecamente ligada a fatores ambientais e sociais, sendo que as estratégias de controle dependem de uma compreensão abrangente de seus ciclos de transmissão.\n\nUma medida profilática essencial e viável para prevenir a transmissão dessas duas doenças é o(a):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "tratamento da água para o consumo humano."
+        },
+        {
+          "letra": "B",
+          "texto": "vacinação em massa da população."
+        },
+        {
+          "letra": "C",
+          "texto": "uso de antibióticos, em casos de infecção."
+        },
+        {
+          "letra": "D",
+          "texto": "isolamento dos pacientes infectados."
+        },
+        {
+          "letra": "E",
+          "texto": "controle das populações do mosquito Aedes aegypti."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Saúde Pública",
+        "Biologia – Zoologia de Invertebrados"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Em javalis, o tipo de pelo pode ser liso ou áspero, sendo este último condicionado por gene recessivo. Outro gene, localizado em outro par cromossômico, determina a cor do focinho: escuro, se homozigoto recessivo, e claro, para os demais genótipos. apenas quando o genótipo é homozigoto recessivo bb, e claro nos demais casos.\n\nUm javali de pelos lisos e focinho claro foi cruzado com várias fêmeas genotipicamente iguais entre si e fenotipicamente iguais a ele. Entre as várias ninhadas, foram vendidos apenas os filhotes de pelos ásperos e focinhos escuros, que totalizavam 4.\n\nCom base nessas informações, e considerando os princípios da segregação gênica, esperam-se quantos filhotes genotipicamente idênticos ao pai, em relação aos genes aqui considerados?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4."
+        },
+        {
+          "letra": "B",
+          "texto": "12."
+        },
+        {
+          "letra": "C",
+          "texto": "16."
+        },
+        {
+          "letra": "D",
+          "texto": "36."
+        },
+        {
+          "letra": "E",
+          "texto": "64."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Genética Mendeliana"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "A adrenalina é o hormônio que provoca a liberação de moléculas de glicose extras em momentos de estresse ou de urgência. Uma solução de 1,25g de adrenalina em 70g de $CCl_4$ eleva o ponto de ebulição em $0,49^{\\circ}C$. Considere a adrenalina sendo um composto molecular e calcule a massa molar aproximada desse hormônio. (Constante ebulioscópica do $CCl_4 = 5,02^{\\circ}C/mol$)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,183g/mol."
+        },
+        {
+          "letra": "B",
+          "texto": "17g/mol."
+        },
+        {
+          "letra": "C",
+          "texto": "19,8g/mol."
+        },
+        {
+          "letra": "D",
+          "texto": "170g/mol."
+        },
+        {
+          "letra": "E",
+          "texto": "183 g/mol."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Propriedades Coligativas",
+        "Química – Ebuliometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "O coração humano, em um dia normal, bombeia mais de 7mil litros de sangue pelo sistema circulatório. Há mais de dois séculos, Luigi Galvani e Alessandro Volta descobriram que as contrações do coração são controladas por fenômenos elétricos da mesma forma que impulsos nervosos. Há muitas causas de arritmias cardíacas na população. Em alguns casos, há a necessidade de implantar um marca-passo artificial - dispositivo eletrônico que age substituindo o marcapasso natural. Os marcapassos consistem em uma bateria de iodo-lítio, um gerador de impulsos e eletrodos que conectam o marcapasso ao coração. Considere as semirreações a seguir:\n\n- $2Li^+ + 2e^- \\rightarrow 2Li \\quad E^\\circ = -3,05V$\n- $I_2 + 2e^- \\rightarrow 2I^- \\quad E^\\circ = +0,54V$\n\nSobre a bateria do marca-passo produzida com iodo-lítio, é CORRETO afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o íon iodo ($I^-$) sofrerá redução no cátodo, perdendo elétrons."
+        },
+        {
+          "letra": "B",
+          "texto": "a bateria é um dispositivo não-espontâneo."
+        },
+        {
+          "letra": "C",
+          "texto": "o lítio (Li) sofrerá oxidação no ânodo, perdendo elétrons."
+        },
+        {
+          "letra": "D",
+          "texto": "a diferença de potencial é – 3,59V."
+        },
+        {
+          "letra": "E",
+          "texto": "o iodo ($I_2$) sofrerá oxidação no ânodo, perdendo elétrons."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Eletroquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "A amoxicilina é um antibiótico do grupo das penicilinas. É capaz de combater infecções causadas por diversos tipos de bactérias, tanto exemplares gram-positivos (E. faecalis, S. pneumoniae, S. pyogenes, S. viridans, S. aureus, B. anthracis, L. monocytogenes etc.) quanto gram-negativos (H. influenzae, E. coli, P. mirabilis, B. pertussis, N. gonorrhoeae, N. meningitidis, P. septica etc.). A fórmula estrutural da amoxicilina encontra-se a seguir.\n\nCom relação à fórmula estrutural da amoxicilina, considere as afirmativas a seguir.\n\nI. Apresenta uma amina primária e uma amina terciária.\nII. Possui 7 carbonos híbridos sp³.\nIII. Dentre as funções oxigenadas, há a presença dos grupos funcionais álcool e ácido carboxílico.\nIV. Possui o grupo funcional amida, fenol e tiocomposto.\nV. Possui um total de 12 elétrons $\\pi$ em sua estrutura.\n\nEstão CORRETAS apenas as afirmações",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II, IV, V."
+        },
+        {
+          "letra": "B",
+          "texto": "II, IV, V."
+        },
+        {
+          "letra": "C",
+          "texto": "II, III, V."
+        },
+        {
+          "letra": "D",
+          "texto": "I, III, IV, V."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II, V."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Química Orgânica",
+        "Química – Funções Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Muitos pacientes com câncer, que recebem tratamentos por radiação, experimentam efeitos colaterais desagradáveis como fadiga, náusea, perda de cabelos e enfraquecimento do sistema imunológico. Uma pesquisa importante a respeito da radioterapia está sendo o desenvolvimento de novos medicamentos, que visam especificamente os tumores por meio de método chamado de captura de nêutrons. Considere a técnica de bombardeamento do boro-10 com o nêutron, descrita pela reação nuclear a seguir.\n$${}^{10}_{5}B + {}^{1}_{0}n \\rightarrow {}^{7}_{z}Li + {}^{A}_{2}X$$\nCom relação à equação nuclear e aos elementos químicos descritos, é CORRETO afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "X é um elemento localizado no terceiro período da tabela periódica e pertence à família dos halogênios."
+        },
+        {
+          "letra": "B",
+          "texto": "o elemento boro está localizado no 3° período da tabela periódica."
+        },
+        {
+          "letra": "C",
+          "texto": "o lítio (Li) possui número atômico 3 e está localizado no grupo dos metais alcalinos na tabela periódica."
+        },
+        {
+          "letra": "D",
+          "texto": "o número de massa do elemento representado por X é 11."
+        },
+        {
+          "letra": "E",
+          "texto": "o boro e o lítio estão localizados no mesmo grupo da tabela periódica."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Reações Nucleares"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Durante o fim de semana, um motorista de aplicativo realizou 40 corridas divididas entre três categorias:\n\n- Corridas básicas, que rendem R$ 8,00 cada;\n- Corridas premium, que rendem R$ 12,00 cada;\n- Corridas de longa distância, que rendem R$ 20,00 cada.\n\nSabe-se que o número de corridas premium foi o dobro do número de corridas longas, e que o motorista arrecadou R$ 460,00 no total.\n\nCom base nessas informações, o número de corridas básicas realizadas foi:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "14."
+        },
+        {
+          "letra": "B",
+          "texto": "16."
+        },
+        {
+          "letra": "C",
+          "texto": "17."
+        },
+        {
+          "letra": "D",
+          "texto": "18."
+        },
+        {
+          "letra": "E",
+          "texto": "19."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Sistemas de Equações Lineares"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Uma empresa monitora a trajetória de um drone que voa sobre uma área plana que pode ser representada pelo plano cartesiano, seguindo uma reta que passa pelos pontos A(0,0) e B(6,8).\nPara instalar uma torre de controle, a equipe deseja posicioná-la em um ponto P que esteja sobre a reta perpendicular à trajetória do drone passando pelo ponto A, e que esteja a exatamente 10 unidades de distância de A.\n\nQual das alternativas contém uma possível soma das coordenadas do ponto P?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0."
+        },
+        {
+          "letra": "B",
+          "texto": "2."
+        },
+        {
+          "letra": "C",
+          "texto": "4."
+        },
+        {
+          "letra": "D",
+          "texto": "6."
+        },
+        {
+          "letra": "E",
+          "texto": "8."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "No Sistema de Amortização Constante (SAC), o valor da amortização da dívida é sempre o mesmo em todas as parcelas, e os juros são calculados sobre o saldo devedor antes do pagamento de cada parcela. Como o saldo devedor diminui a cada parcela paga, os juros e o valor total das parcelas diminuem progressivamente.\nGeralmente, as parcelas são pagas mensalmente, com a primeira parcela paga 30 dias após a liberação do financiamento, a segunda parcela 60 dias depois, e assim sucessivamente.\nUm cliente realizou um financiamento de R$ 9.000,00 para ser pago em 3 parcelas mensais, utilizando o sistema SAC, com taxa de juros de 2% ao mês sobre o saldo devedor. Considerando que a primeira parcela será paga 30 dias após a liberação do financiamento, qual será o valor da segunda parcela, paga 60 dias após a liberação?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 2.880,00."
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 3.000,00."
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 3.120,00."
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 3.240,00."
+        },
+        {
+          "letra": "E",
+          "texto": "R$ 3.360,00."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Matemática Financeira"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Um grupo de teatro amador realiza apresentações em uma cidade do interior. O ingresso para cada apresentação é inicialmente fixado em R$ 40,00, e com esse valor espera-se um público de 200 pessoas. Estudos mostram que, para cada R$ 1,00 de desconto no valor do ingresso, o número de espectadores aumenta em 10 pessoas.\nSabendo que a receita total R, em reais, é dada pelo produto entre o preço do ingresso e o número de espectadores, qual é o valor da receita máxima que esse grupo pode obter?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 8.400."
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 8.500."
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 8.750."
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 8.960."
+        },
+        {
+          "letra": "E",
+          "texto": "R$ 9.000."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Funções do 2º Grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Um engenheiro analisa o movimento vertical de uma plataforma elevatória, que sobe e desce de forma periódica. Esse movimento é descrito pela função:\n$$h(t) = 3 \\cdot \\cos(\\frac{\\pi t}{6}) + 5$$\nonde h(t) representa a altura da plataforma (em metros) em relação ao solo, no instante t (em segundos), com $t \\ge 0$.\n\nCom base nessas informações, assinale a alternativa CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A função tem período de 12 segundos, e sua imagem é o intervalo [2, 8], correspondendo às alturas mínimas e máximas da plataforma."
+        },
+        {
+          "letra": "B",
+          "texto": "A função tem período de 6 segundos, e a altura da plataforma varia entre 0 e 10 metros."
+        },
+        {
+          "letra": "C",
+          "texto": "A imagem da função é (2, 8), pois os valores extremos não são alcançados em função da natureza periódica."
+        },
+        {
+          "letra": "D",
+          "texto": "A função tem período de 12 segundos, e atinge a altura máxima de 8 metros duas vezes em cada período."
+        },
+        {
+          "letra": "E",
+          "texto": "O conjunto imagem da função é R já que o cosseno pode assumir qualquer valor real."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Funções Trigonométricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Uma fábrica produz componentes eletrônicos, e a gerência quer entender quanto tempo, em média, seus funcionários levam para finalizar a montagem de cada componente. Durante uma semana, foram coletados os seguintes dados:\n\nTempo (min) | Número de funcionários\n---|---\n10 | 4\n12 | 4\n15 | 6\n18 | 6\n\nCom base nesses dados, qual é o tempo médio que um funcionário leva para montar um componente?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "14 minutos."
+        },
+        {
+          "letra": "B",
+          "texto": "14,3 minutos."
+        },
+        {
+          "letra": "C",
+          "texto": "15 minutos."
+        },
+        {
+          "letra": "D",
+          "texto": "15,2 minutos."
+        },
+        {
+          "letra": "E",
+          "texto": "15,5 minutos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Estatística",
+        "Matemática – Média Ponderada"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Em um trilho sem atrito, uma pequena bolinha de 100 g é lançada com velocidade inicial de 4,0 m/s do ponto A que está a 50 cm de altura ($h_A$), descendo por uma rampa e alcançando um looping, como mostra a figura.\n\nO ponto B representa a posição mais alta dentro do trecho circular e está a uma altura de 20 cm ($h_B$).\n\nConsiderando que a bolinha tem tamanho muito menor que as dimensões apresentadas e esta tem apenas seu movimento de translação considerado, qual é o valor da reação normal que atua nela quando está no ponto B?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10 N."
+        },
+        {
+          "letra": "B",
+          "texto": "12 N."
+        },
+        {
+          "letra": "C",
+          "texto": "21 N."
+        },
+        {
+          "letra": "D",
+          "texto": "22 N."
+        },
+        {
+          "letra": "E",
+          "texto": "a bolinha não tem energia suficiente para alcançar o ponto B."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Conservação de Energia",
+        "Física – Dinâmica do Movimento Circular"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Duas esferas condutoras, A e B, em que, inicialmente, A está neutra e B apresenta carga 10 µC e a relação entre seus raios é de $R_A / R_B = 4$. Em um segundo momento, são conectadas por um longo fio por um tempo suficientemente longo para que alcancem o equilíbrio eletrostático.\nPor fim, a ligação é desfeita e as esferas são dispostas em uma reta horizontal, orientada para a direita com a esfera A na posição 10 cm e B na posição 130 cm, como pode ser visualizado na figura a seguir.\n\nConsiderando que os raios das esferas são muito menores que as distâncias entre seus centros, que todas as etapas foram realizadas no vácuo e que apenas as esferas mencionadas estejam próximas da região descrita, analise as afirmativas a seguir:\n\nI. Após o contato e o equilíbrio eletrostático, ambas as esferas adquirem carga de 5 µC.\nII. O potencial elétrico das esferas após o equilíbrio eletrostático é o mesmo.\nIII. O potencial elétrico total é zero na posição x = 70 cm.\nIV. O campo elétrico é nulo na posição x = 90 cm.\n\nSão VERDADEIRAS apenas as afirmações",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III."
+        },
+        {
+          "letra": "C",
+          "texto": "III e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "II e IV."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Eletrostática"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Vivemos uma revolução no desenvolvimento e na utilização da inteligência artificial, o que nos traz muitas inseguranças e medos diante das possibilidades oferecidas por essa tecnologia. Entretanto, não é a primeira vez que enfrentamos algo tão transformador.\nEm meados do século XVIII, a utilização e desenvolvimento das máquinas térmicas impulsionaram a primeira grande revolução industrial, modificando profundamente as formas de produção agrícola e industrial.\nAté os dias de hoje, físicos e engenheiros buscam aperfeiçoar essas máquinas térmicas, para que possamos tirar o máximo proveito de suas aplicações.\n\nA respeito das transformações gasosas, máquinas térmicas e leis da termodinâmica, leia com atenção as afirmativas a seguir:\n\nI. As máquinas térmicas são dispositivos que convertem parte da energia térmica (calor) recebida de uma fonte quente em energia mecânica (trabalho).\nII. Sadi Carnot apresentou um ciclo termodinâmico que apresenta a possibilidade da integral conversão de calor em trabalho.\nIII. Espontaneamente, o calor flui do corpo de maior temperatura para o de menor temperatura. O fluxo contrário é possível apenas com a realização de trabalho realizado por uma máquina frigorífica ou bomba de calor.\nIV. As leis da termodinâmica demonstram a possibilidade da construção de um mecanismo que trabalhe sem a necessidade de que energia seja fornecida para seu funcionamento, chamado de moto-perpétuo.\n\nDas afirmativas, são VERDADEIRAS apenas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II e IV."
+        },
+        {
+          "letra": "B",
+          "texto": "I, III e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I e IV."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Termodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Após se formar em engenharia, uma jovem apaixonada por automobilismo inicia sua carreira no automobilismo profissional numa nova modalidade em que os carros são todos idênticos.\nAo planejar as estratégias de determinado circuito, ela encontra um trecho de uma curva entre duas retas perpendiculares entre si.\n\nConsiderando o trecho descrito como plano e horizontal e o coeficiente de atrito entre os pneus e a pista igual em todos os pontos, ela destaca duas trajetórias (A e B) em que cada curva perfaz um quarto de circunferência e faz as seguintes observações no seu tablet:\n\nI. A curva A, por ser mais fechada, permite que o carro tenha uma velocidade máxima maior que ao percorrer a curva B.\nII. As velocidades máximas que o carro pode descrever nas curvas das trajetórias A e B são iguais.\nIII. Ao percorrer o trajeto do trecho da curva, o carro fica sujeito as forças peso, reação normal entre o carro e a pista e a força de atrito.\nIV. Ao realizar a curva em movimento uniforme e com a velocidade máxima, sem que o carro derrape a força resultante depende do raio da curva e do coeficiente de atrito entre os pneus e a pista.\n\nDas afirmativas feitas, são VERDADEIRAS apenas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "III e IV."
+        },
+        {
+          "letra": "B",
+          "texto": "I e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III."
+        },
+        {
+          "letra": "D",
+          "texto": "I e III."
+        },
+        {
+          "letra": "E",
+          "texto": "II e IV."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Dinâmica",
+        "Física – Movimento Circular"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Leia o trecho a seguir.\n\n\"Queremos ser governados por nossas próprias leis e por representantes escolhidos por nós, sem submeter-nos a vontades estrangeiras que desconhecem nossa realidade e sacrificam nossos direitos em nome de um Rei ausente.\"\n\nProclamação de Independência de Cartagena, 11 de novembro de 1811. In: GÓMEZ, Germán Arciniegas (org.). Independencia de Colombia: documentos fundamentales. Bogotá: Editorial Universidad Nacional, 1985.\n\nCom base na fonte e no processo de independência da Colômbia, assinale a alternativa CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A proclamação demonstra o apoio das elites criollas ao retorno do rei Fernando VII ao trono espanhol, visto como símbolo da estabilidade e autonomia colonial frente à influência napoleônica."
+        },
+        {
+          "letra": "B",
+          "texto": "A Proclamação de Cartagena visava preservar os privilégios da administração colonial espanhola, defendendo a manutenção do vínculo com o vice-reinado da Nova Granada."
+        },
+        {
+          "letra": "C",
+          "texto": "A ruptura com a Espanha foi liderada por setores populares urbanos, organizados em milícias, enquanto as elites criollas resistiram à independência por medo de desordem social."
+        },
+        {
+          "letra": "D",
+          "texto": "O documento expressa a rejeição da interferência estrangeira e a defesa de autogoverno, refletindo a atuação das juntas revolucionárias formadas após o colapso da monarquia espanhola."
+        },
+        {
+          "letra": "E",
+          "texto": "A independência da atual Colômbia foi um processo pacífico, conduzido sob diretriz direta das cortes de Cádis e rapidamente aceito pelas autoridades espanholas locais."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Independências na América Espanhola"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Leia o texto a seguir.\n\nOs defensores são um dos três estados porque Deus quis que se mantivesse o mundo: e assim como aqueles que rogam a Deus pelo povo são chamados oradores e os que lavram a terra e fazem aquelas coisas que permitem aos homens viver e manter-se, são chamados lavradores, outrossim, os que têm de defender a todos são chamados defensores. Portanto, os antigos houveram por bem que os homens que fazem tal obra fossem muito escolhidos porque para defender são necessárias três coisas: esforço, honra e poderio.\n\nSANCHEZ, Maria Guadalupe Pedrero. História da Idade Média: textos e testemunhas. São Paulo: Editora UNESP, 2000, p. 99-100 apud Afonso X, o Sábio. Las Siete Partidas (II, t. XIII).\n\nSobre o período medieval, assinale a alternativa CORRETA.\n\nI. A sociedade medieval era dividida em três ordens: oradores, lavradores e defensores, cada qual com funções distintas legitimadas por uma visão religiosa do mundo.\nII. O texto atribui aos lavradores a função de governar e proteger os demais estamentos, destacando sua superioridade na ordem social.\nIII. Segundo o texto, a escolha dos defensores exigia critérios como esforço, honra e poder, indicando que a função militar era valorizada na estrutura social.\nIV. A citação mostra que a divisão da sociedade medieval era baseada em critérios econômicos e não em princípios religiosos ou simbólicos.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Estão corretas I, II e III."
+        },
+        {
+          "letra": "B",
+          "texto": "Estão corretas I, II e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "Estão corretas I e III."
+        },
+        {
+          "letra": "D",
+          "texto": "Estão corretas I e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "Estão todas corretas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História Medieval",
+        "História – Sociedade Feudal"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Leia o texto a seguir.\n\n\"Saiu pela brecha por onde tinha entrado o monstruoso corpo daquela desordem.\"\n\nA frase dita por Bernardo Pereira de Berredo, historiador e administrador colonial português, representa a situação de desagrado com o governador Francisco de Sá Meneses, representante direto do governo metropolitano português, principalmente pelo descaso em relação à miséria em que se encontrava o Estado do Maranhão, e as medidas implementadas pelo Governador Geral.\n\nCom base no trecho e no tema da Revolta de Beckman (1684), assinale a alternativa CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A revolta foi motivada principalmente pela resistência da elite agrária local à abolição da escravidão indígena promovida pela Companhia de Jesus, que havia deixado de atender aos interesses dos colonos do Maranhão."
+        },
+        {
+          "letra": "B",
+          "texto": "A revolta teve como consequência o fim da escravidão indígena no norte da colônia portuguesa, atendendo às exigências dos colonos e diminuindo o conflito com os missionários jesuítas."
+        },
+        {
+          "letra": "C",
+          "texto": "Entre os principais líderes da revolta estavam representantes diretos da Coroa portuguesa, que buscavam maior centralização administrativa e militar da região para garantir a segurança das rotas comerciais atlânticas."
+        },
+        {
+          "letra": "D",
+          "texto": "Resultado de um movimento articulado entre colonos, indígenas e religiosos, a revolta trouxe benefícios duradouros para a população local e foi aprovada pelas autoridades metropolitanas como exemplo de reorganização colonial."
+        },
+        {
+          "letra": "E",
+          "texto": "Os revoltosos reagiram contra o fortalecimento da Companhia Geral do Comércio do Maranhão, que monopolizava o abastecimento de gêneros e impunha altos preços, contribuindo para o agravamento da crise econômica na colônia."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Brasil Colônia",
+        "História – Revoltas Nativistas"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Analise o cartaz a seguir.\n\nO poster traz os seguintes dizeres em francês: \"sève nouvelle, vie meilleure: seiva nova, vida melhor - coopération inter-européenne: cooperação intereuropeia\". A respeito da reconstrução europeia após a Segunda Guerra Mundial, assinale a alternativa CORRETA.\n\nI. A metáfora visual da árvore que brota a partir da união de bandeiras europeias no cartaz simboliza o ideal da reconstrução continental por meio da cooperação interestatal, fundamento das instituições supranacionais que emergiram no pós-guerra, como a CECA e, mais tarde, a CEE, iniciativas que visavam à integração econômica e à superação de rivalidades históricas, especialmente entre França e Alemanha.\nII. A representação de diversas bandeiras nacionais no cartaz remete à tentativa de conciliar a manutenção das soberanias estatais com a criação de estruturas integradas, característica das primeiras etapas do processo de unificação europeia, cuja lógica era funcionalista: promover a interdependência econômica como meio de garantir a paz duradoura.\nIII. A ênfase na “coopération inter-européenne” expressa a rejeição ao envolvimento dos Estados Unidos na reconstrução europeia, posicionando-se contra o Plano Marshall e defendendo uma recuperação exclusivamente autônoma e endógena do continente, sem apoio de forças externas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas I está correta."
+        },
+        {
+          "letra": "B",
+          "texto": "Estão corretas II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "Estão corretas I e III."
+        },
+        {
+          "letra": "D",
+          "texto": "Estão corretas I e II."
+        },
+        {
+          "letra": "E",
+          "texto": "Estão todas corretas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – História Contemporânea",
+        "História – Guerra Fria"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Leia a seguir.\n\nPopulação da China cai pelo terceiro ano consecutivo\nDepartamento Nacional de Estatísticas disse que o número total de pessoas na China caiu 1,39 milhão\n\nA população da China caiu pelo terceiro ano consecutivo em 2024, com o número de mortes superando o aumento nos nascimentos, especialistas alertam que a tendência se acelerará nos próximos anos.\nO Departamento Nacional de Estatísticas disse que o número total de pessoas na China caiu em 1,39 milhão, com isso, a população foi de 1,409 bilhão em 2023, para 1,408 bilhão em 2024.\nOs dados reforçam as preocupações de que a segunda maior economia do mundo enfrentará dificuldades à medida que o número de trabalhadores e consumidores diminui.\n\nA redução da população chinesa é consequência do(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "queda da taxa de fecundidade."
+        },
+        {
+          "letra": "B",
+          "texto": "êxodo urbano."
+        },
+        {
+          "letra": "C",
+          "texto": "queda da taxa de mortalidade infantil."
+        },
+        {
+          "letra": "D",
+          "texto": "manutenção da política do filho único."
+        },
+        {
+          "letra": "E",
+          "texto": "crescimento vegetativo positivo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Demografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Analise as informações do gráfico a seguir.\n\nConsiderando os países listados, o gráfico destaca a redução",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "das pradarias."
+        },
+        {
+          "letra": "B",
+          "texto": "das florestas temperadas."
+        },
+        {
+          "letra": "C",
+          "texto": "da vegetação mediterrânea."
+        },
+        {
+          "letra": "D",
+          "texto": "das florestas boreais."
+        },
+        {
+          "letra": "E",
+          "texto": "das florestas tropicais."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Questões Ambientais",
+        "Geografia – Biomas"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Analise o gráfico que representa as principais fontes de geração de energia elétrica no Brasil, em 2023.\n\n*incluindo lenha, biodiesel e outras renováveis;\n**incluindo óleo combustível, gás de coqueria, outras secundárias e outras não renováveis.\n\nA matriz elétrica brasileira",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "é predominantemente não renovável."
+        },
+        {
+          "letra": "B",
+          "texto": "é muito dependente dos combustíveis fósseis."
+        },
+        {
+          "letra": "C",
+          "texto": "é predominantemente renovável."
+        },
+        {
+          "letra": "D",
+          "texto": "não é dependente das condições climáticas."
+        },
+        {
+          "letra": "E",
+          "texto": "tem baixa dependência do regime pluviométrico."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Fontes de Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Leia o texto a seguir e faça o que se pede.\n\nBatalha geopolítica sobre represa gigantesca que alterou rio Nilo\n\nA ______ confirmou que concluiu o enchimento do reservatório da sua nova barragem gigante, que utiliza água do Nilo. A Grande Barragem da Renascença fica no Nilo Azul, nas terras altas do norte da ______, de onde fluem 85% das águas do Nilo.\nA barragem fica a 30 quilômetros a sul da fronteira com o Sudão e é o maior projeto de barragem hidroelétrica da África. Tem mais de um quilômetro de comprimento e 145 metros de altura.\nÉ esperado que a obra duplique a produção de energia elétrica da ______ e permita um fornecimento constante de eletricidade às empresas e impulsione o desenvolvimento, incluindo o possível fornecimento de eletricidade aos seus países vizinhos - Sudão, Sudão do Sul, Quênia, Djibuti e Eritreia.\nOs vizinhos a jusante da ______ (Egito e Sudão) consideram a barragem como uma ameaça devido à sua dependência das águas do Nilo, e questionam se a ______ deixará fluir água suficiente para eles no futuro.\n\nOs espaços em branco referem-se ao (à)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Etiópia."
+        },
+        {
+          "letra": "B",
+          "texto": "África do Sul."
+        },
+        {
+          "letra": "C",
+          "texto": "Argélia."
+        },
+        {
+          "letra": "D",
+          "texto": "Marrocos."
+        },
+        {
+          "letra": "E",
+          "texto": "Somália."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "Geografia – Hidrografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Leia o trecho a seguir, extraído da obra Mulheres, raça e classe, de Angela Davis.\n\nNas plantações de algodão, tabaco, milho e cana-de-açúcar, as mulheres trabalhavam lado a lado com seus companheiros. Nas palavras de um ex-escravo: 'O sino toca às quatro horas da manhã e elas têm meia hora para ficar prontas. Homens e mulheres começam juntos, e as mulheres devem trabalhar com o mesmo afinco e realizar as mesmas tarefas que os homens'.\n\nDAVIS, Angela. Mulheres, raça e classe. Tradução de Heci Regina Candiani. São Paulo: Boitempo, 2016, p. 20.\n\nCom base no trecho e na leitura da obra, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A escravidão poupava as mulheres do esforço físico com base em uma distinção sexual do trabalho."
+        },
+        {
+          "letra": "B",
+          "texto": "O trabalho das mulheres negras foi moldado pelo ideal burguês de feminilidade."
+        },
+        {
+          "letra": "C",
+          "texto": "As mulheres eram poupadas do trabalho pesado durante a escravidão para proteger suas funções maternas."
+        },
+        {
+          "letra": "D",
+          "texto": "As tarefas das mulheres negras limitavam-se ao serviço doméstico e reprodutivo nas fazendas."
+        },
+        {
+          "letra": "E",
+          "texto": "A experiência das mulheres negras escravizadas foi marcada pela exigência de um trabalho físico equivalente ao dos homens."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Filosofia – Filosofia Social"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Leia o trecho a seguir:\n\nA tradição é o respeito por tudo o que merece ser levado em conta. E, dentro daquilo que, desde tempos imemoriais, foi transmitido, vemos uma sede do infinito: o sagrado.\n\nMAFFESOLI, M. A nostalgia do sagrado. Curitiba: PUCPRESS, 2024. p. 19.\n\nConsiderando o trecho, assinale a alternativa CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Maffesoli valoriza a tradição como fonte viva do sagrado e expressão de um enraizamento cultural."
+        },
+        {
+          "letra": "B",
+          "texto": "A tradição é descartada por Maffesoli como obstáculo ao progresso."
+        },
+        {
+          "letra": "C",
+          "texto": "O sagrado é definido como negação de toda memória histórica."
+        },
+        {
+          "letra": "D",
+          "texto": "O autor defende que o infinito deve ser compreendido apenas racionalmente."
+        },
+        {
+          "letra": "E",
+          "texto": "A sede do sagrado é substituída, segundo Maffesoli, pelo domínio técnico."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Filosofia – Filosofia da Cultura"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Leia a tirinha do personagem Zits, criada por Jerry Scott e Jim Borgman, e marque a alternativa que identifica o seu tema.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O preço cada vez mais elevado das assinaturas de serviços de streaming online."
+        },
+        {
+          "letra": "B",
+          "texto": "O desinteresse dos jovens pelas atividades culturais e esportivas do cotidiano."
+        },
+        {
+          "letra": "C",
+          "texto": "A diferença entre como as gerações passadas e atuais escolhem filmes para assistir."
+        },
+        {
+          "letra": "D",
+          "texto": "O confronto de opiniões entre pais e filhos sobre o uso de novas tecnologias."
+        },
+        {
+          "letra": "E",
+          "texto": "A percepção de que os filmes atuais são piores que os antigos porque há muitas opções."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Leia a introdução da notícia e marque a alternativa que melhor descreve o seu objetivo.\n\nThe rise of Al-Generated influencers: Are humans still needed?\nBy LDN Guest Post – 24 April 2025\n\nIn today's age of digital disruption, where not only is content king but where brand loyalty is becoming increasingly shaped by online experiences, there arises yet another force in influencer marketing - the Al-generated influencers. These complete virtual personas have proven their worth and have simply followed the advertisements, deals, and social media followers that they could gain just as human beings do. However, following such an ascent and capacity, the fundamental question is this: Are humans still necessary in the influencer space?\n\nArtificial intelligence has turned out to be at the crux of how quickly influencer landscapes will change by 2025. With a promise of regularity, creativity, and cost-effectiveness, brands are already harnessing the potential of Al virtual influencers, but with larger machine capabilities still, there remains a solid emotional and psychological attachment to human interaction.\n[...]",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Descrever como funcionam as inteligências artificiais no mercado de influenciadores digitais."
+        },
+        {
+          "letra": "B",
+          "texto": "Informar sobre o aumento do uso de influenciadores digitais gerados por inteligência artificial."
+        },
+        {
+          "letra": "C",
+          "texto": "Criticar o uso excessivo de inteligência artificial por empresas na indústria de marketing digital."
+        },
+        {
+          "letra": "D",
+          "texto": "Promover o uso de inteligência artificial nas redes sociais."
+        },
+        {
+          "letra": "E",
+          "texto": "Alertar sobre o alto custo energético de inteligências artificiais para o meio ambiente."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Releia a seguinte sentença do segundo parágrafo: \"Artificial intelligence has turned out to be at the crux of how quickly influencer landscapes will change by 2025”.\n\nThe rise of Al-Generated influencers: Are humans still needed?\nBy LDN Guest Post - 24 April 2025\n\nIn today's age of digital disruption, where not only is content king but where brand loyalty is becoming increasingly shaped by online experiences, there arises yet another force in influencer marketing - the Al-generated influencers. These complete virtual personas have proven their worth and have simply followed the advertisements, deals, and social media followers that they could gain just as human beings do. However, following such an ascent and capacity, the fundamental question is this: Are humans still necessary in the influencer space?\n\nArtificial intelligence has turned out to be at the crux of how quickly influencer landscapes will change by 2025. With a promise of regularity, creativity, and cost-effectiveness, brands are already harnessing the potential of Al virtual influencers, but with larger machine capabilities still, there remains a solid emotional and psychological attachment to human interaction.\n[...]\n\nNesse contexto, podemos inferir que a expressão “be at the crux of\" significa",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "estar na origem do problema, indicando que a inteligência artificial é um grande obstáculo para o futuro dos influenciadores."
+        },
+        {
+          "letra": "B",
+          "texto": "estar em um ponto de declínio, indicando que a inteligência artificial está perdendo espaço nesse mercado."
+        },
+        {
+          "letra": "C",
+          "texto": "representar uma solução imediata, apontando que a inteligência artificial resolverá todos os desafios enfrentados pelos influenciadores."
+        },
+        {
+          "letra": "D",
+          "texto": "ocupar uma posição central, sugerindo que a inteligência artificial é fator decisivo nas mudanças previstas."
+        },
+        {
+          "letra": "E",
+          "texto": "assumir um papel secundário, mostrando que a inteligência artificial tem pouca influência no cenário previsto para 20."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Vocabulário",
+        "Inglês – Expressões Idiomáticas"
+      ]
+    }
+  ]
+}

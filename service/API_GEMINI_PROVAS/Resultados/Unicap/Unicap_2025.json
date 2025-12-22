@@ -1,0 +1,1962 @@
+{
+  "nomeUniversidade": "Universidade Católica de Pernambuco",
+  "siglaUniversidade": "UNICAP",
+  "nomeProva": "Vestibular 2025.2",
+  "ano": 2025,
+  "qtdeQuestoes": 64,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "TEXTO 1\nO Ministério da Saúde, junto com ONGs deve investir em programas públicos que visem auxiliar os jovens dependentes do cigarro eletrônico com acompanhamento psicológico gratuito e eficiente, por meio de consultas gratuitas e virtuais, com o objetivo de reafirmar o direito presente na Constituição.\nDisponível em: observeotexto.com.br. Acesso em: 16/04/2025.\n\nNo que diz respeito ao texto 1, levando-se em consideração questões sintático-semânticas quanto ao uso da vírgula na primeira linha, pode-se concluir que o agente da ação proposta",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "é claramente o Ministério da Saúde."
+        },
+        {
+          "letra": "B",
+          "texto": "são explicitamente as ONGs."
+        },
+        {
+          "letra": "C",
+          "texto": "corresponde ora ao Ministério da Saúde, ora às ONGs."
+        },
+        {
+          "letra": "D",
+          "texto": "poderia ser ora o Ministério da Saúde, ora as ONGs."
+        },
+        {
+          "letra": "E",
+          "texto": "equivale a programas públicos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Pontuação (Uso da Vírgula)",
+        "Língua Portuguesa – Sintaxe (Análise Sintática)"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "TEXTO 2\nHipertexto\nInstituição: Centro Federal de Educação Tecnológica de Minas Gerais-CEFET-MG / Departamento de Linguagem e Tecnologia\n\nUm hipertexto é definido, mais comumente, na atualidade, e de forma muito simplificada, como o texto em ambiente digital. Do modo como vem sendo apresentado na internet, e mesmo em ambientes off-line, o hipertexto é construído de maneira que algumas de suas partes ou palavras sejam ligações com outros textos, isto é, com a indicação de links. Essa característica tem sido entendida como a não linearidade do texto on-line ou sua multilinearidade, já que, em tese, o leitor poderia escolher os links e trilhas que desejasse acessar. O hipertexto teria, então, necessariamente, natureza digital, somente existindo em ambientes como os computadores e o ciberespaço, ambiente virtual no qual os textos verbais e não verbais circulam.\nDisponível em: https://www.ceale.fae.ufmg.br/glossarioceale/verbetes/hipertexto. Autora: Ana Elisa Ribeiro, Acesso em: 16/05/2025.\n\nConforme essas informações apresentadas pelo Departamento de Linguagem e Tecnologia, o suporte em que ocorre o hipertexto corresponde a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "formas simplificadas de texto."
+        },
+        {
+          "letra": "B",
+          "texto": "ambientes off-line, destacadamente."
+        },
+        {
+          "letra": "C",
+          "texto": "links independentes entre si, sobretudo."
+        },
+        {
+          "letra": "D",
+          "texto": "sites com evidente multilinearidade."
+        },
+        {
+          "letra": "E",
+          "texto": "computadores e ciberespaço."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Gêneros Textuais (Hipertexto)",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "TEXTO 3\nO Superman como metáfora do imigrante\n(Willyan Bertotto – 03/02/2025)\n\nSuperman é a personificação do “sonho americano\" – alguém que, apesar de suas diferenças, usa seus dons para contribuir positivamente para a sociedade. Sua dualidade como Clark Kent, o jornalista humilde de Metrópolis, e como o herói poderoso que salva o mundo, simboliza a luta interna que muitos imigrantes enfrentam: equilibrar suas raízes culturais com a adaptação a um novo ambiente.\nA capa vermelha e o “S” no peito podem ser vistos como uma representação da identidade que ele não pode esconder, mesmo que tente. Apesar de ser aceito e amado por muitos, Superman também enfrenta desconfiança e medo, especialmente quando sua origem alienígena é destacada.\nDisponível em: https://terraverso.com.br/superman-imigrante-governo-dos-eua/. Acesso em: 17/05/2025.\n\nConsiderando o comportamento político-ideológico de determinadas sociedades, pode-se concluir, a partir do texto 3, que a conotação atribuída ao Superman quanto ao tratamento que ele recebe diz respeito à",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "personificação do “sonho americano” que encanta estrangeiros e lhes possibilita uma realização socioeconômica."
+        },
+        {
+          "letra": "B",
+          "texto": "forma como muitos estrangeiros são vistos, com uma mistura de curiosidade e, posteriormente, de preconceito."
+        },
+        {
+          "letra": "C",
+          "texto": "dualidade que se dispensa a jornalistas e a homens poderosos, os quais acabam recebendo fama de super-heróis."
+        },
+        {
+          "letra": "D",
+          "texto": "luta interna que os estadunidenses travam entre a peculiar cordialidade e a disputa por empregos com altos salários."
+        },
+        {
+          "letra": "E",
+          "texto": "desconfiança que os estrangeiros demonstram em relação a muitos estadunidenses e ao \"sonho americano\"."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Sociologia – Cultura e Identidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "TEXTO 4\nMaturidade\n(Oswald de Andrade)\n\nO Sr. e a Sra. Amadeu\nParticipam a V. Exa.\nO feliz nascimento\nDe sua filha\nGilberta\n(ANDRADE, Oswald de. Cadernos de poesia do aluno Oswald: poesias reunidas.)\n\nTEXTO 5\nPorta arrafas, (1914) de Marcel Duchamp\nDisponível em: https://www.artic.edu/articles/698/marcel-duchamps-bottle-rack. Acesso em: 14/04/2025.\n\nNo que diz respeito ao material que possibilita a construção dessas duas produções artísticas, pode-se afirmar que são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o gênero textual convite e o chamado ready-made."
+        },
+        {
+          "letra": "B",
+          "texto": "uma crítica à Colonização e outra à arte clássica."
+        },
+        {
+          "letra": "C",
+          "texto": "um poema modernista e uma obra dadaísta."
+        },
+        {
+          "letra": "D",
+          "texto": "um questionamento ao Parnasianismo e outro ao Academicismo."
+        },
+        {
+          "letra": "E",
+          "texto": "uma poesia iconoclasta e uma arte vanguardista."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Arte – Vanguardas Europeias (Dadaísmo e Ready-made)",
+        "Língua Portuguesa – Literatura (Modernismo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "TEXTO 6\nA princípio, o descaso governamental quanto ao cumprimento das leis ambientais atua como um empecilho à sustentabilidade. Embora esteja em vigor a Política Nacional dos Resíduos Sólidos - a qual busca pelo despejo adequado -, os artigos presentes em tal lei quase não são postos em prática, uma vez que ainda há diversos lixões a céu aberto nas cidades, o que propicia a contaminação dos lençóis freáticos e a reprodução dos vetores de doenças, como o mosquito da dengue. Nesse sentido, o cumprimento das legislações ambientais é imprescindível, para que a sociedade tenha suas garantias constitucionais afirmadas.\nDisponível em: https://www.produçãotextualderamos.com. Acesso em: 15/04/2025.\n\nTEXTO 7\nImagem: Isabelle Rieger / Sul21\nDisponível em: https://jornalismoemeioambiente.com/observatorio/. Acesso em: 15/04/2025.\n\nÉ possível afirmar que há uma semelhança entre os textos 6 e 7, em decorrência de que ambos",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "utilizam as mesmas estratégias comunicativas."
+        },
+        {
+          "letra": "B",
+          "texto": "apresentam um processo de exposição similar."
+        },
+        {
+          "letra": "C",
+          "texto": "revelam um olhar crítico de quem os produziu."
+        },
+        {
+          "letra": "D",
+          "texto": "informam as mesmas ideias de revolta popular."
+        },
+        {
+          "letra": "E",
+          "texto": "garantem a criação de políticas públicas urgentes."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Análise de Discurso",
+        "Língua Portuguesa – Interpretação Textual (Texto verbal e não verbal)"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "TEXTO 8\nDisponível em: https://jc.uol.com.br/charge-do-dia. Acesso em: 01/05/2025.\n\nDe forma global, a compreensão textual implica fazer conexões entre as ideias expressas no texto, saber o contexto, ter um conhecimento relevante anteriormente adquirido, perceber a intencionalidade comunicativa. Por esse ângulo, acerca do texto 8, afirma-se que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a compreensão é universal, uma vez que a mensagem não verbal é reforçada pelo uso da linguagem verbal."
+        },
+        {
+          "letra": "B",
+          "texto": "o contexto é fundamental para a inteira compreensão de qualquer mensagem, seja escrita, verbal ou visual."
+        },
+        {
+          "letra": "C",
+          "texto": "a ligação entre o texto e a realidade é verossímil, já que qualquer interlocutor consegue compreender a mensagem."
+        },
+        {
+          "letra": "D",
+          "texto": "o entendimento da mensagem de que o uso do celular transforma pessoas é evidente, pois o signo linguístico é muito claro."
+        },
+        {
+          "letra": "E",
+          "texto": "o ambiente contextual pode esclarecer qualquer mensagem, ainda que não haja conexão entre signos verbais e não verbais."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação Textual (Linguagem Verbal e Não-verbal)",
+        "Língua Portuguesa – Gêneros Textuais (Charge)"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "TEXTO 9\n'Lispectorante' finally entra em cartaz no Recife, cidade onde nasceu\n(André Guerra, 08/05/2025)\n\nAs memórias do Recife, do bairro da Boa Vista e de Clarice Lispector se entrelaçam pela nostalgia visualmente psicodélica de Lispectorante, novo longa da diretora pernambucana Renata Pinheiro (de Açúcar e Carro Rei), que entra em cartaz nesta quinta na cidade em que foi concebido, após rodagens prestigiadas no Festival do Rio e na Mostra Internacional de Cinema de São Paulo.\nA atriz paraibana Marcélia Cartaxo recebe _aqui_ uma oportunidade única de explorar não apenas a sua luminosidade inerente, mas também uma significativa sensualidade. _Na trama_, ela interpreta Glória Hartman, artista que volta à capital pernambucana a algumas semanas do carnaval para tentar se estabelecer novamente e, quando menos espera, conhece uma pessoa que balança seu coração. Ao descobrir uma fenda na casa em ruínas onde a escritora Clarice Lispector morou, a realidade e a fantasia começam a se confundir.\nDisponível em: https://www.diariodepernambuco.com.br/viver/2025/05/3893091-lispectorante-finalmente-entra-em-cartaz-no-recife-cidade-onde-nasceu.html. Acesso em: 08/05/2025.\n\nA coesão entre os termos de um texto garante uma sequência lógica, que estabelece a coerência. Assim, quem produz textos se utiliza de variadas estratégias, de procedimentos eficientes para garantir a progressão e a unidade textuais. Sob essa ótica, os termos sublinhados do texto 9 – \"aqui\" e \"Na trama” – têm, respectivamente, como referentes",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"bairro da Boa Vista” e “Lispectorante”."
+        },
+        {
+          "letra": "B",
+          "texto": "\"Recife” e “novo longa da diretora pernambucana\"."
+        },
+        {
+          "letra": "C",
+          "texto": "“São Paulo\" e \"novo longa da diretora pernambucana\"."
+        },
+        {
+          "letra": "D",
+          "texto": "\"Recife\" e \"Lispectorante”."
+        },
+        {
+          "letra": "E",
+          "texto": "\"Lispectorante\" e \"Lispectorante\"."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Coesão e Coerência",
+        "Língua Portuguesa – Elementos de Referenciação"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "TEXTO 10\nQuando formos robôs,\nMinha amada,\nEnviarei a ti somente\npoemas escritos\ncom ChatGPT.\n(Poeta Juliano Holanda – Disponível em: @julianoholanda. Acesso em: 16/04/2025)\n\nConforme o poeta mexicano Octavio Paz, a poesia é uma forma de conhecimento, de revelação e de revolução, com a capacidade de transformar o mundo através da linguagem e da imaginação. Tomando-se por base tal pensamento, pode-se deduzir do texto 10 que, para o eu lírico,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os chabots tendem a buscar uma linguagem peculiar, autoral."
+        },
+        {
+          "letra": "B",
+          "texto": "o texto poético está ligado a realidades vividas e experimentadas."
+        },
+        {
+          "letra": "C",
+          "texto": "a amada consegue entender somente a linguagem do ChatGPT."
+        },
+        {
+          "letra": "D",
+          "texto": "os robôs produzem uma poesia superior à de um poeta humano."
+        },
+        {
+          "letra": "E",
+          "texto": "o ChatGPT irá transformar o mundo através da linguagem."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura (Teoria da Literatura)",
+        "Língua Portuguesa – Interpretação de Poemas"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "TEXTO 11\nSenhor feudal\n(Oswald de Andrade)\n\nSe Pedro Segundo\nVier aqui\nCom história\nEu boto ele na cadeia.\n\nObservando os elementos linguísticos utilizados pelo eu lírico do poema de Oswald de Andrade, percebe-se que se trata de uma produção modernista porque há uma",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "crítica ao processo colonizador."
+        },
+        {
+          "letra": "B",
+          "texto": "contrariedade à gramática lusitana."
+        },
+        {
+          "letra": "C",
+          "texto": "referência ao monarca Pedro Segundo."
+        },
+        {
+          "letra": "D",
+          "texto": "omissão de momentos históricos."
+        },
+        {
+          "letra": "E",
+          "texto": "denúncia de questões políticas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura (Modernismo)",
+        "Língua Portuguesa – Variação Linguística"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "TEXTO 12\nUm bem-te-vi\n(Manuel de Barros)\n\nO leve e macio\nraio de sol\nse põe no rio.\nFaz arrebol...\nDa árvore evola\namarelo, do alto\nbem-te-vi-cartola\ne, de um salto\npousa envergado\nno bebedouro\na banhar seu louro\npelo enramado...\nDe arrepio, na cerca\njá se abriu e seca\n\nUma discussão muito comum nas aulas de literatura na educação básica é acerca da ideia de que poesia é para poucos, visto que é algo complexo na forma e no conteúdo. Por esse ponto de vista, quanto a \"Um bem-te-vi\", infere-se que o texto poético",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apresenta a mesma construção de um diálogo cotidiano."
+        },
+        {
+          "letra": "B",
+          "texto": "representa a negação de elementos acadêmicos e clássicos."
+        },
+        {
+          "letra": "C",
+          "texto": "pode tratar de temas simples, que contemplem a vida comum."
+        },
+        {
+          "letra": "D",
+          "texto": "realiza-se melhor quando trata de elementos da natureza."
+        },
+        {
+          "letra": "E",
+          "texto": "está diretamente vinculado à infância e à pureza dos seres."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura (Modernismo)",
+        "Língua Portuguesa – Interpretação de Poemas"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "TEXTO 13\nMuros da memória, de Eduardo Kobra\nDisponível em: https://www.eduardokobra.com/projeto/43/muro-das-memorias. Acesso em: 03/05/2025.\n\n\"Muros da Memória\" é uma série de murais criada em comemoração aos 455 anos da cidade de São Paulo. Essa obra projetou Eduardo Kobra, paulistano de nascimento, para o estrelato da arte contemporânea brasileira. O texto 13 é um mural com mil metros quadrados cujo objetivo principal é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "valorizar representações e registros visuais."
+        },
+        {
+          "letra": "B",
+          "texto": "mostrar que São Paulo acolhe vanguardas artísticas."
+        },
+        {
+          "letra": "C",
+          "texto": "tornar a cidade visualmente mais agradável."
+        },
+        {
+          "letra": "D",
+          "texto": "sugerir que São Paulo valorize o tempo presente."
+        },
+        {
+          "letra": "E",
+          "texto": "manter viva a história social de uma cidade."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Arte – Arte Urbana (Grafite)",
+        "Arte – Arte Contemporânea"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "TEXTO 14\n— Mas, mamãe, eu aceitei, porque precisava.\n— Disto! Ninguém precisa disto! Precisa-se de roupa e comida... Isto são tolices!\n— Eu precisava, sim senhora.\n— Como, você precisava?\n— Na o lhe contei que há meses, diversas vezes, quando passava, para ir à casa de dona Ludovina, diante do portão do capitão Albuquerque, os meninos gritavam: ó moleque! — ó moleque! — ó negro! — ó gibi? Não lhe contei?\n— Contou-me; e daí?\n— Por isso que quando o coronel me prometeu a fantasia, eu aceitei.\n— Que tem uma coisa a ver com a outra?\n— Queria amanhã passar por lá e meter medo aos meninos que me vaiaram.\n(Lima Barreto, 2010a, p.151)\n\nO texto 14 corresponde a um trecho do conto \"O moleque\", de Lima Barreto, publicado em 1920. O enredo é simples: Zeca é um menino negro que mora nos subúrbios de Inhaúma, em um barracão, com sua mãe. Um dia o garoto recebe de presente uma fantasia de diabo e decide vesti-la com o propósito de assustar os meninos que o ofendiam com xingamentos racistas. Esse panorama da obra permite afirmar-se que, para Zeca, o uso do termo \"precisar\" significa que o menino quer",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "garantir as necessidades básicas em uma sociedade racista."
+        },
+        {
+          "letra": "B",
+          "texto": "requisitar, em um ambiente racista e ameaçador, o direito de ser."
+        },
+        {
+          "letra": "C",
+          "texto": "revelar seu medo e sua insegurança diante de pessoas racistas."
+        },
+        {
+          "letra": "D",
+          "texto": "questionar as necessidades que seus ancestrais tiveram de enfrentar."
+        },
+        {
+          "letra": "E",
+          "texto": "demonstrar a submissão de uma etnia cruelmente oprimida."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura (Pré-Modernismo)",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "TEXTO 15\nHere's what you already know: at the 2025 Oscars, Demi Moore — the favorite for Best Actress, for her performance in The Substance — lost the award to Anora star Mikey Madison. It was a surprising result in an awards season that saw Moore win at the Golden Globes, the Screen Actors Guild Awards, and the Critics' Choice Awards. You already know that this was a heartbreaking finish for a woman who was at the center of Hollywood in the '90s but never received this level of acclaim. And, if you saw Coralie Fargeat's body-horror fable, you know how thoroughly Moore embodied the character of Elisabeth Sparkle, an actress turned television fitness instructor who loathed her aging body so much that she resorted to using an ominous treatment to create a younger, \"better\" version of herself — Margaret Qualley's Sue. You saw the tension in Moore's jaw when Madison's name was called and recognized that losing this most important award to a 25-year-old starlet must have stung — the very dynamic of The Substance brought to life.\nDisponível em: https://time.com/7277620/demi-moore-interview-time100-2025/. Acesso em: 01/05/2025.\n\nDe forma global, o texto 15 aborda",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a expectativa e as reações de Demi Moore com o Oscar de melhor atriz."
+        },
+        {
+          "letra": "B",
+          "texto": "o desentendimento entre Demi Moore e a atriz Mikey Madison."
+        },
+        {
+          "letra": "C",
+          "texto": "a contestação pública de Demi Moore quanto ao Oscar de melhor atriz."
+        },
+        {
+          "letra": "D",
+          "texto": "o péssimo desempenho da atriz Demi Moore no filme The Substance."
+        },
+        {
+          "letra": "E",
+          "texto": "as acusações da atriz Mikey Madison ao trabalho de Demi Moore."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "TEXTO 15\nHere's what you already know: at the 2025 Oscars, Demi Moore — the favorite for Best Actress, for her performance in The Substance — lost the award to Anora star Mikey Madison. It was a surprising result in an awards season that saw Moore win at the Golden Globes, the Screen Actors Guild Awards, and the Critics' Choice Awards. You already know that this was a heartbreaking finish for a woman who was at the center of Hollywood in the '90s but never received this level of acclaim. And, if you saw Coralie Fargeat's body-horror fable, you know how thoroughly Moore embodied the character of Elisabeth Sparkle, an actress turned television fitness instructor who loathed her aging body so much that she resorted to using an ominous treatment to create a younger, \"better\" version of herself — Margaret Qualley's Sue. You saw the tension in Moore's jaw when Madison's name was called and recognized that losing this most important award to a 25-year-old starlet must have stung — the very dynamic of The Substance brought to life.\nDisponível em: https://time.com/7277620/demi-moore-interview-time100-2025/. Acesso em: 01/05/2025.\n\nO uso constante do verbo \"To know\" no texto 15 sugere que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o jornalista sabe detalhes sobre a escolha do Oscar de melhor atriz."
+        },
+        {
+          "letra": "B",
+          "texto": "o receptor do texto conhece a carreira da atriz Demi Moore."
+        },
+        {
+          "letra": "C",
+          "texto": "o interlocutor viu os filmes que as atrizes candidatas ao Oscar fizeram."
+        },
+        {
+          "letra": "D",
+          "texto": "o leitor já tem conhecimento sobre o conteúdo da matéria publicada."
+        },
+        {
+          "letra": "E",
+          "texto": "o autor do texto usa a injunção para promover um envolvimento do leitor."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Análise de Discurso",
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "TEXTO 16\nGiven that a staggering 1,500 languages could disappear by the end of this century, some estimates say — close to a quarter of the world's total — some might find it obscene to even ask the question. English is certainly not on the list of endangered languages. As the only truly global language, it is most often labeled the exterminator, a hulking titanosaur unwittingly crushing lesser, hapless languages under its feet — or mother tongue.\nThe fact is, however, that no language has proven itself to be eternal. Subjects of the Roman or Egyptian empires may have assumed that their languages would endure forever, like their hegemony, but they were wrong.\nDisponível em: https://www.theguardian.com/books/2025/may/11/the-big-idea-could-the-english-language-die. Acesso em: 02/05/2025.\n\nO texto 16 fala sobre a possibilidade de muitas línguas desaparecem até o final deste século. Nessa perspectiva, no que diz respeito à língua inglesa, o texto aponta que o inglês",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "é eterno, que nunca nenhum povo irá subtrarir sua hegemonia."
+        },
+        {
+          "letra": "B",
+          "texto": "corresponde, massivamente, a um quarto mundial de falantes."
+        },
+        {
+          "letra": "C",
+          "texto": "certamente não está na lista das línguas ameaçadas de extinção."
+        },
+        {
+          "letra": "D",
+          "texto": "equivale a um titanossauro que destruirá todas as línguas do planeta."
+        },
+        {
+          "letra": "E",
+          "texto": "historicamente fez os idiomas romano e egípcio desaparecerem."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "TEXTO 16\nGiven that a staggering 1,500 languages could disappear by the end of this century, some estimates say — close to a quarter of the world's total — some might find it obscene to even ask the question. English is certainly not on the list of endangered languages. As the only truly global language, it is most often labeled the exterminator, a hulking titanosaur unwittingly crushing lesser, hapless languages under its feet — or mother tongue.\nThe fact is, however, that no language has proven itself to be eternal. Subjects of the Roman or Egyptian empires may have assumed that their languages would endure forever, like their hegemony, but they were wrong.\nDisponível em: https://www.theguardian.com/books/2025/may/11/the-big-idea-could-the-english-language-die. Acesso em: 02/05/2025.\n\nSemanticamente, o termo \"however\", no texto 16, estabelece uma ideia de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "soma."
+        },
+        {
+          "letra": "B",
+          "texto": "subtração."
+        },
+        {
+          "letra": "C",
+          "texto": "concordância."
+        },
+        {
+          "letra": "D",
+          "texto": "contrariedade."
+        },
+        {
+          "letra": "E",
+          "texto": "explicação."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Conectivos (Linking Words)"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Olinda recebeu o título de patrimônio da humanidade pela Unesco (Organização das Nações Unidas para Educação, Ciência e Cultura) no ano de 1982. O prêmio foi concedido à primeira capital de Pernambuco devido a sua rica história, pujante cultura e paisagem natural singular. A cidade possui a arquitetura colonial preservada e belos exemplares de igrejas barrocas e ricas manifestações culturais, sendo a mais famosa seu Carnaval multicultural. Todo esse conjunto arquitetônico, paisagístico e de manifestações da cultura popular faz parte da identidade pernambucana.\nAlto da Sé de Olinda durante o carnaval\n(Sumaia Villela/Agência Brasil)\nDisponível em: https://agenciabrasil.ebc.com.br/cultura/noticia/2017-02/super-herois-combatem-o-mau-humor-e-viram-estrelas-em-olinda. Acesso em: 28/03/2025.\n\nDe acordo com o texto verbal em diálogo com a imagem, esse importante patrimônio cultural da humanidade deve ser preservado",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "para que o frevo e o maracatu produzidos no século XX jamais sofram modificações."
+        },
+        {
+          "letra": "B",
+          "texto": "para atrair a especulação imobiliária e construírem grandes hotéis no seu centro histórico."
+        },
+        {
+          "letra": "C",
+          "texto": "por serem patrimônios, exclusivamente, materiais e protegidos."
+        },
+        {
+          "letra": "D",
+          "texto": "para reconhecer que Olinda se tornou cidade dormitória de Recife."
+        },
+        {
+          "letra": "E",
+          "texto": "para garantir que manifestações populares carnavalescas, preservação arquitetônica e beleza natural façam parte da identidade de Pernambuco."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Patrimônio Histórico e Cultural",
+        "Geografia – Cultura e Identidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Atenas não nasceu democrática, a democracia é uma construção histórica, tanto a democracia clássica grega quanto a nossa democracia contemporânea. Estudamos o berço da democracia no século V antes de Cristo, na Península da Ática, para compreendermos a democracia. Hoje somos o que fomos. O presente está carregado do passado. Enquanto a democracia grega era excludente, a nossa Constituição cidadã de 1988 se propõe inclusiva.\nAcerca das semelhanças e diferenças entre a democracia antiga e a moderna, pode-se concluir que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a democracia ateniense excluía mulheres, estrangeiros e escravos, por isso era indireta."
+        },
+        {
+          "letra": "B",
+          "texto": "a Constituição Brasileira de 1988 proíbe o voto dos analfabetos; nesta perspectiva, é elitista como a democracia grega."
+        },
+        {
+          "letra": "C",
+          "texto": "antes de se tornar uma democracia, Atenas possuía uma Gerúsia, conselho de anciãos equivalente ao nosso Senado."
+        },
+        {
+          "letra": "D",
+          "texto": "diferente da democracia ateniense, que era direta, a nossa democracia é representativa; portanto, indireta."
+        },
+        {
+          "letra": "E",
+          "texto": "antes de Atenas se tornar uma democracia, passou por uma fase de tirania. O conceito de tirania e o democracia não sofreram alteração com o tempo."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Grécia Antiga (Democracia Ateniense)",
+        "Filosofia – Filosofia Política (Democracia)"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "O Renascimento é um movimento histórico, nas artes e na ciência, que revolucionou a história humana. Seu legado é sentido até os dias atuais. Sem o Renascimento dos séculos XIV, XV E XVI, seria impossível a Revolução Industrial no século XVIII. Leonardo da Vinci conseguiu pertencer a ambos os movimentos, um gênio tanto na Arte quanto na Ciência, como é possível observar na imagem a seguir.\nEstudos de Anatomia de Da Vinci\nDisponível em: https://revistapesquisa.fapesp.br/wp-content/uploads/2012/08/072-077_Boias_198-6.jpg. Acesso em: 30/03/2025.\n\nSobre o legado artístico e científico deixado por esse intelectual, pode-se aferir que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o Renascimento é uma ruptura completa com a Idade Média não aproveitando em nada."
+        },
+        {
+          "letra": "B",
+          "texto": "Leonardo Da Vinci é, sobretudo, um pintor, sendo sua obra mais famosa Monalisa e seus estudos anatômicos são de menor valor."
+        },
+        {
+          "letra": "C",
+          "texto": "seus estudos foram revolucionários e influenciaram profundamente a Arte e a Ciência, desvendando detalhes do corpo."
+        },
+        {
+          "letra": "D",
+          "texto": "a perspectiva geométrica é observada nas suas famosas telas, como suas famosas Madonas, mas não nos estudos científicos."
+        },
+        {
+          "letra": "E",
+          "texto": "o contraste entre luz e sombra foi desconhecido pelos artistas do Renascimento sendo utilizado pouco tempo depois pelos mestres do Barroco."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Renascimento Cultural e Científico",
+        "Arte – Renascimento"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "O grande herói nacional no período do Império Brasileiro (1822-1889) foi Dom Pedro I, o qual, em sete de setembro de 1822, fez com que o Brasil ficasse independente do Reino Unido de Portugal, Brasil e Algarves, ou seja, o Brasil alcançou sua independência política. Décadas mais tarde, com a Proclamação da República (1889), não cabia um herói monarquista. Nesse contexto, a jovem República precisava de um novo herói e foi escolhido um militar, que foi brutalmente assassinado pela monarquia absolutista representada pela rainha de Portugal, Maria a Louca, a avó de Dom Pedro I, por se insubordinar.\nTela de Pedro Américo 1893\nDisponível em: https://m.folha.uol.com.br/ilustrada/2014/11/1544763-pinacoteca-expoe-pintura-historica-de-tiradentes-esquartejado.shtml?cmpid=menupe. Acesso em: 29/03/2025.\n\nCom base no texto verbal e na imagem da tela de Pedro Américo, a construção da identidade da nação brasileira permite afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os heróis nacionais são imutáveis, pois não se muda o passado."
+        },
+        {
+          "letra": "B",
+          "texto": "novos contextos políticos pedem a construção de novas narrativas heroicas da nação."
+        },
+        {
+          "letra": "C",
+          "texto": "Pedro Américo optou por representar Tiradentes esquartejado por ser monarquista."
+        },
+        {
+          "letra": "D",
+          "texto": "houve uma clara tentativa de cristianização da imagem de Dom Pedro I, enquanto Tiradentes é colocado como traidor ao lado do crucifixo."
+        },
+        {
+          "letra": "E",
+          "texto": "em nenhum momento da história, houve um apagamento da trajetória de Joaquim José da Silva Xavier, o Tiradentes."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História do Brasil (Construção de Heróis Nacionais)",
+        "Sociologia – Identidade Nacional"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Entre o período da Ditadura Vargas (1935-1945) e o período da Ditadura Militar (1964 -1985), observa-se na História do Brasil uma fase denominada de democracias populistas. Entre os presidentes desse período, destaca-se Juscelino Kubitschek, com sua propaganda de governo: \"Governar 50 anos em 5\", que era seu lema. Indubitavelmente, a maior obra de seu governo foi a construção de uma nova capital, Brasília. O governo JK também foi marcado pelo surgimento de um novo movimento cultural, chamado Bossa Nova, que ganhou admiradores no Brasil e mundo afora. Sobre esse movimento, é possível afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "foi caracterizado por compositores e intérpretes em sua maioria negros, pois o samba era sua base melódica."
+        },
+        {
+          "letra": "B",
+          "texto": "a Bossa Nova é o movimento cultural genuinamente brasileiro, sem influência de ritmos estrangeiros."
+        },
+        {
+          "letra": "C",
+          "texto": "esse novo movimento artístico brasileiro surgiu no Rio de Janeiro, com a proposta de modernizar nossa música, fazendo um sincretismo do samba com o jazz americano."
+        },
+        {
+          "letra": "D",
+          "texto": "os dois principais compositores da Bossa Nova foram Caetano Veloso e Gilberto Gil, ao misturar em ritmos nordestinos com guitarras de rock'n'roll."
+        },
+        {
+          "letra": "E",
+          "texto": "o maestro Tom Jobim e seu amigo Vinícius de Moraes são os cabeças do movimento e compuseram Garota de Ipanema em Brasília, com saudades do Rio de Janeiro."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Brasil República (Período Democrático e Governo JK)",
+        "Arte – Música Brasileira (Bossa Nova)"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "A Guerra Fria, período que se estendeu do fim da Segunda Guerra Mundial em 1945 até a queda do muro de Berlim em 1989, não foi tão fria assim. Nesse período, houve uma bipolarização do mundo entre duas superpotências, Estados Unidos e seu modelo capitalista e a União Soviética com seu modelo socialista. Essa disputa se dava em todas as esferas, nos esportes, na corrida atômica e na corrida espacial. Essa disputa também chegou aos quadrinhos.\nQuadrinhos do Capitão América (Marvel, 1954)\nDisponível em: https://www.canalcurtahistoria.com/conteudopda/capit%C3%A3o-am%C3%A9rica%3A-guerra-fria-e-anticomunista-nos-quadrinhos-da-marvel. Acesso em: 02/04/2025.\n\nAnalisando o texto verbal e a imagem, é possível concluir que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a Guerra Fria ter chegado aos quadrinhos foi uma tentativa de suavizar a tensão entre as duas superpotências."
+        },
+        {
+          "letra": "B",
+          "texto": "como não houve uma guerra direta entre Estados Unidos e União Soviética, as tensões foram superdimensionadas."
+        },
+        {
+          "letra": "C",
+          "texto": "a corrida espacial teve por característica que os Estados Unidos saíram na frente com o projeto Apollo 11, mas os russos venceram a corrida com o projeto Sputnik."
+        },
+        {
+          "letra": "D",
+          "texto": "durante a Guerra Fria, em todas as Olimpíadas, os Estados Unidos da América venceram a União Soviética no número de medalhas."
+        },
+        {
+          "letra": "E",
+          "texto": "o medo de um conflito direto atômico entre as superpotências gerou um clima de pânico Internacional que se desdobrava nas histórias em quadrinhos."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Guerra Fria (Aspectos Culturais e Propaganda)"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "A charge a seguir faz alusão a um debate científico sobre a atual época geológica que estamos vivenciando, chamada de Antropoceno, termo que foi popularizado pelo prêmio Nobel de Química (1995).\nPaul Crutzen. O IPCC (Painel Intergovernamental sobre Mudanças Climática) também defende essa classificação, apontando para a necessidade de mudanças urgentes na forma como os seres humanos se relacionam com o meio ambiente. Sobre o Antropoceno, essa época geológica é marcada pela",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "incapacidade humana de promover transformações no planeta."
+        },
+        {
+          "letra": "B",
+          "texto": "capacidade humana de provocar profundas transformações no planeta."
+        },
+        {
+          "letra": "C",
+          "texto": "capacidade de autorregulação do planeta, mantendo o meio ambiente em equilíbrio."
+        },
+        {
+          "letra": "D",
+          "texto": "especulação de ambientalistas alarmistas sobre o aquecimento global."
+        },
+        {
+          "letra": "E",
+          "texto": "atuação humana, associada às atividades vulcânicas e de maremotos, promovendo mudanças climáticas no planeta."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Meio Ambiente (Antropoceno e Mudanças Climáticas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "\"Eu perdi tudo. Da minha casa ficou só o chão”, diz José Alberto de Aguiar, 60 anos, auxiliar de topografia e morador de Jardim Monte Verde, no bairro do Ibura. A comunidade, que fica em área de morros na divisa do Recife com Jaboatão dos Guararapes (PE), foi a que mais registrou mortes durante as fortes chuvas de maio de 2022. José perdeu 12 familiares no desabamento de encostas, entre netos, irmãos, filhos, cunhada e sobrinhos. Somente em Jardim Monte Verde foram 44 mortos, segundo os moradores, sendo 17 vítimas fatais na mesma rua. Em todo o estado, foram 133 mortes. Os moradores contabilizam 754 famílias atingidas por perdas totais e/ou parciais dos imóveis. Só que até agora, mais de dois anos depois da tragédia, elas dizem que ninguém recebeu unidades habitacionais.\n(CORREIA, Mariama. Comunidade com mais mortes por chuvas ainda não recebeu novas moradias. 02/10/2024) Disponível em: https://apublica.org/2024/10/grande-recife-comunidade-devastada-por-chuva-em-2022. Acesso: 15/04/2025.\n\nA tragédia de 2022 foi classificada como a maior do século XXI em Pernambuco. A grande quantidade de mortos no morro de Jardim Monte Verde, Jaboatão dos Guararapes, está associada a (à)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "uma condição climática extrema, relacionada às mudanças climáticas, quando não há ações adaptativas capazes de amenizar seus efeitos."
+        },
+        {
+          "letra": "B",
+          "texto": "ocupação irregular das encostas íngremes de morros, apesar dos diversos alertas de riscos de deslizamento; ou seja, a população assume o risco."
+        },
+        {
+          "letra": "C",
+          "texto": "falta de planejamento urbano nas áreas de morro, fruto da ausência do Estado nessas localidades, o que resulta no barateamento do preço da terra e, consequentemente, na ocupação por parte da população de baixa renda."
+        },
+        {
+          "letra": "D",
+          "texto": "venda irregular de lotes nas áreas de encostas da RMR, onde empresas vendem os terrenos com uma infraestrutura de má qualidade e com fundações feitas de formas equivocadas."
+        },
+        {
+          "letra": "E",
+          "texto": "em movimento vertical de massa como condição natural dos morros da RMR, fato que explica os sucessivos eventos trágicos no outono/inverno."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geografia Urbana (Segregação Socioespacial e Riscos Ambientais)"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "O gráfico a seguir expressa a evolução do PIB do Brasil, Índia e China, de 1985 até 2024, o que permite a realização de uma análise comparativa sobre a trajetória de crescimento deste indicador econômico nos países listados.\n\nConforme o gráfico, a experiência chinesa se enquadra num modelo político-econômico de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Socialismo de Mercado."
+        },
+        {
+          "letra": "B",
+          "texto": "Socialismo Protecionista."
+        },
+        {
+          "letra": "C",
+          "texto": "Capitalismo Neoliberal."
+        },
+        {
+          "letra": "D",
+          "texto": "Capitalismo Keynesiano."
+        },
+        {
+          "letra": "E",
+          "texto": "Capitalismo liberal."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geopolítica (Economia da China)",
+        "História – História Contemporânea (Globalização)"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Valor do café sobe para nível mais alto em 28 anos, aponta levantamento\nCenário reflete safras prejudicada por seca, defasagem cambial e aumento das exportações\nPatrick Fuentes, colaboração para a CNN, São Paulo 30/01/2025 às 16:27 | Atualizado 30/01/2025 às 16:28\n\nO café atingiu a maior cotação em 28 anos, quando a série histórica do Centro de Estudos Avançados em Economia Aplicada (Cepea) da Escola Superior de Agricultura Luiz de Queiroz (Esalq/USP) passou a ser registrada. Segundo dados do Cepea, a commodity estava cotada, na média, em R$ 2.315,44 por saca, aumento de 6,9% em relação a dezembro do ano passado, na cotação de R$ 2.154,88.\nEm 2024, Brasil exportou 36,94 milhões de sacas, segundo o Conselho dos Exportadores de Café do Brasil (Cecafé). O volume é o maior da história para o grão arábica, equivale a 73,2% do total exportado no ano passado.\n(FUENTES, Patrick. Valos do café sobe para nível mais alto em 28 anos, aponta levantamento). Disponível em: https://www.cnnbrasil.com.br/economia/macroeconomia/valor-do-cafe-sobe-para-nivel-mais-alto-em-28-anos-aponta-levantamento/ Acesso em 12/05/2025.\n\nO aumento do preço do cafezinho impactou a rotina do povo brasileiro, que se viu em busca de alternativas para não ter problemas econômicos, como, por exemplo, a diminuição do consumo. Outra saída apresentada pela indústria do ultraprocessado foi o \"café fake\", que consiste em \"pó para bebida sabor café\", o que suscitou muita crítica pela quantidade de aromatizante artificial e de aditivos. Esse aumento está relacionado com a(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mudança de hábitos dos brasileiros, que estão consumindo mais chás, cevada torrada e chicória."
+        },
+        {
+          "letra": "B",
+          "texto": "mudanças climáticas adversas, que estão impactando o período de floração da safra, aumentando a produção de grãos."
+        },
+        {
+          "letra": "C",
+          "texto": "mudanças climáticas adversas, que reduziram a produção de café no Brasil, associadas à desvalorização do Real frente ao Dólar."
+        },
+        {
+          "letra": "D",
+          "texto": "desvalorização do Real frente ao Dólar, o que contribuiu para uma maior produção de café voltado para o mercado interno."
+        },
+        {
+          "letra": "E",
+          "texto": "produção brasileira de café, a qual está comprometida com o abastecimento interno do país, e esse aumento está relacionado à praga que atingiu a lavoura de São Paulo e de Minas Gerais."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Economia (Agropecuária e Commodities)",
+        "Geografia – Clima"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Este organismo internacional tem um papel crucial na condução da ordem econômica global, especialmente em tempos de guerra tarifária imposta pelos EUA, com a chegada de Trump ao poder presidencial. O chamado tarifaço estadunidense colocou em xeque o papel deste organismo, já que seu órgão de apelação para casos de litígios, como o que o mundo está vivenciando, está paralisado. Isso conduz a uma crise sem precedentes na governança de um sistema comercial global estável e previsível. As referidas informação tratam do seguinte organismo internacional:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Fundo Monetário Internacional (FMI)"
+        },
+        {
+          "letra": "B",
+          "texto": "Banco Mundial"
+        },
+        {
+          "letra": "C",
+          "texto": "Organização das Nações Unidas (ONU)"
+        },
+        {
+          "letra": "D",
+          "texto": "Organização Mundial do Comércio (OMC)"
+        },
+        {
+          "letra": "E",
+          "texto": "Banco Internacional para Reconstrução e Desenvolvimento (BIRD)"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geopolítica (Organizações Internacionais)"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "A emissora Globo lançou em 2019 uma campanha publicitária voltada para a popularização do papel do agronegócio na vida do brasileiro, chamada \"Agro é pop. Agro é tech. Agro é tudo\". Esse slogan suscitou uma série de críticas sobre qual modelo de agricultura é benéfico para a população.\n\nO tipo de modelo agrícola que garante o alimento na mesa do povo brasileiro corresponde à",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "agricultura de plantation."
+        },
+        {
+          "letra": "B",
+          "texto": "agricultura familiar."
+        },
+        {
+          "letra": "C",
+          "texto": "agricultura extensiva."
+        },
+        {
+          "letra": "D",
+          "texto": "agricultura moderna."
+        },
+        {
+          "letra": "E",
+          "texto": "agricultura intensiva."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geografia Agrária (Modelos de Agricultura)"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Inquestionável que a principal fonte do pensamento de Sócrates são os Diálogos com Platão:\" Uma vida não questionada não merece ser vivida\"\n(Platão, A República)\n\nEnquanto Sócrates teve foco na ética e na busca pelo conceito de virtudes usando a maiêutica como método, Platão, seu discípulo, compreende a filosofia para além da ética, trabalhando questões metafísicas e cosmológicas. O mito da caverna de Platão talvez seja a metáfora mais famosa de toda a filosofia clássica, e talvez no mundo contemporâneo nunca se tenha estado tão dentro da caverna, como se pode observar na imagem a seguir.\n\nSobre o pensamento de Platão em diálogo com a tirinha, é possível afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o mito da caverna de Platão é fruto de seu tempo e não tem diálogo com as novas tecnologias do mundo contemporâneo."
+        },
+        {
+          "letra": "B",
+          "texto": "o consumismo é denunciado na tirinha, e a solução para esse problema é encontrada na ideia de que as novas tecnologias trarão ordem e progresso."
+        },
+        {
+          "letra": "C",
+          "texto": "o mito da caverna é ressignificado, mas a essência de sua denúncia permanece. A tela do celular é a nova parede onde as sombras são projetadas."
+        },
+        {
+          "letra": "D",
+          "texto": "é incompatível estabelecer um paralelo entre a parede da caverna de Platão e o mundo das telas, pois isso seria um anacronismo."
+        },
+        {
+          "letra": "E",
+          "texto": "ficar aprisionado a uma rede social não tem relação alguma com mito da caverna, pois o mundo contemporâneo é uma ruptura com as sociedades antigas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Filosofia – Filosofia Antiga (Platão e o Mito da Caverna)"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Hannah Arendt é uma filósofa judia alemã que se exilou nos Estados Unidos durante o período em que o nazismo imperou na Alemanha. Escreveu muitos livros e artigos sobre a formação dos Estados Totalitários. Um dos seus conceitos mais utilizados nas Humanidades é o da \"banalização do mal”.\n\"O mal se torna possível, não somente por causa daqueles que o querem de forma consciente..., mas também por aqueles que o banalizam!\"\n(Hannah Arendt)\n\nSobre esse conceito tão importante para a compreensão da construção do nazifascismo, infere-se que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os nazistas julgados no Tribunal de Jerusalém eram pessoas com qualidades intelectuais excepcionais."
+        },
+        {
+          "letra": "B",
+          "texto": "o nazifascismo tem como premissa a construção de escolas para indivíduos críticos."
+        },
+        {
+          "letra": "C",
+          "texto": "só alcançaram os postos mais altos dos regimes fascistas as maiores inteligências identificadas nas melhores universidades."
+        },
+        {
+          "letra": "D",
+          "texto": "a banalidade do mal se dá pela incapacidade de julgar, e não por causa da natureza do caráter."
+        },
+        {
+          "letra": "E",
+          "texto": "Hannah Arendt percebeu o caráter diabólico e sombrio dos nazistas que ela observou no Tribunal de Jerusalém."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Filosofia – Filosofia Contemporânea (Hannah Arendt)",
+        "Sociologia – Sociologia Política (Totalitarismo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "O sociólogo, filósofo e antropólogo Émile Durkheim é considerado um dos pais da Sociologia Moderna. Ele defendia uma visão funcionalista da sociedade, pois a considerava um organismo complexo de partes interrelacionadas.\n\"O fato social é uma forma de agir, pensar ou sentir, externa ao indivíduo, que é generalizada em uma sociedade que exerce uma coerção exterior sobre o indivíduo\"\n(Émile Durkheim)\n\nSobre o conceito de fato social elaborado por Durkheim, pode-se concluir que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "defende a ideia do materialismo histórico que explica as relações sociais."
+        },
+        {
+          "letra": "B",
+          "texto": "está inspirado na dialética hegeliana: tese, antítese e síntese."
+        },
+        {
+          "letra": "C",
+          "texto": "corresponde às bases teóricas do diálogo da ética e do capitalismo."
+        },
+        {
+          "letra": "D",
+          "texto": "compreende o mundo através da subjetividade, motor da sociedade."
+        },
+        {
+          "letra": "E",
+          "texto": "evidencia que o que os indivíduos sentem, fazem ou pensam, independentemente de suas vontades, é o comportamento estabelecido pela sociedade."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Sociologia – Sociologia Clássica (Émile Durkheim e o Fato Social)"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Movimento estudantil é em sociologia estudada como um dos muitos movimentos sociais significativos no Brasil, a UNE (União Nacional dos Estudantes) é a entidade máxima dos estudantes brasileiros e representa aproximadamente seis milhões de universitários brasileiros. A UNE é uma instituição fundada em 1937 durante a Ditadura Vargas. Em vários momentos de autoritarismo no Brasil e no mundo, os estudantes, através de Diretórios Acadêmicos (DAs) e Diretórios Centrais de Estudantes (DCEs), se levantaram pela defesa da democracia e da cidadania.\nO fogo destrói o prédio da UNE na praia do Flamengo\nAgência O Globo – 01/04/1964\nDisponível em: https://oglobo.globo.com/politica/liderancas-estudantis-dos-anos-1960-relembram-incendio-na-sede-da-une-12054209. Acesso em: 29/03/2025.\n\nCom base no texto verbal e na imagem sobre esse importante movimento social, responda o que melhor o caracteriza.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Dos movimentos sociais, é o menos valorizado, devido à baixa renda de seus integrantes."
+        },
+        {
+          "letra": "B",
+          "texto": "Muitos líderes políticos importantes no Brasil e no mundo deram seus primeiros passos na vida pública no movimento estudantil."
+        },
+        {
+          "letra": "C",
+          "texto": "A principal atividade da UNE é fazer carteira de estudante para que os universitários tenham acesso à cultura."
+        },
+        {
+          "letra": "D",
+          "texto": "Os militares no início da Ditadura Militar de 1964 incendiaram a UNE por engano; na verdade, o partido comunista era o alvo."
+        },
+        {
+          "letra": "E",
+          "texto": "A revolução cultural de maio de 1968 na Universidade de Paris não reverberou no movimento estudantil brasileiro, devido à distância intercontinental."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Sociologia – Movimentos Sociais",
+        "História – Brasil República (Ditadura Militar)"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "A aplicação de tecnologias baseadas em ondas eletromagnéticas tem permitido avanços surpreendentes na exploração da Terra e de estruturas subterrâneas. Uma dessas tecnologias é o Radar de Abertura Sintética (SAR), um sistema que utiliza ondas eletromagnéticas para gerar imagens de alta resolução da superfície e, em alguns casos, de estruturas abaixo dela. O funcionamento do SAR envolve o envio de pulsos de ondas que se propagam, interagem com diferentes superfícies e retornam ao sensor. Com base no tempo de retorno e na intensidade do sinal refletido, é possível gerar imagens com precisão. Uma das aplicações recentes dessa tecnologia ocorreu no Egito, com o projeto Quéfren, que identificou possíveis estruturas subterrâneas no entorno das pirâmides de Gizé.\n\nCom base nos conhecimentos de ondulatória e nas informações fornecidas, o princípio físico envolvido no funcionamento do radar SAR consiste em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "utilizar ondas sonoras e o fenômeno de reflexão para criar imagens detalhadas da superfície terrestre."
+        },
+        {
+          "letra": "B",
+          "texto": "utilizar ondas de luz visível e o fenômeno de refração para detectar estruturas subterrâneas."
+        },
+        {
+          "letra": "C",
+          "texto": "utilizar ondas de rádio e o fenômeno de reflexão para criar imagens de alta resolução."
+        },
+        {
+          "letra": "D",
+          "texto": "utilizar ondas infravermelhas e o fenômeno de difração para penetrar através de obstáculos e criar imagens."
+        },
+        {
+          "letra": "E",
+          "texto": "utilizar ondas ultravioleta e o fenômeno de absorção para gerar imagens tridimensionais das estruturas subterrâneas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Ondulatória (Ondas Eletromagnéticas e Reflexão)"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Vendas de carros elétricos batem recorde no primeiro mês de 2024, diz ABVE\nEm janeiro, foram 12.026 veículos emplacados, 167% acima do mesmo mês do ano passado (4.503)\nDiego Mendes, da CNN, São Paulo\n07/02/2024 às 14:27 | Atualizado 07/02/2024 às 14:27\n\nOs carros elétricos estão ganhando espaço no Brasil nos últimos anos. Com a crescente preocupação ambiental, muitas pessoas buscam alternativas mais sustentáveis aos veículos movidos a combustíveis fósseis. Apesar dos altos preços, a oferta de modelos elétricos aumentou. Grandes montadoras já oferecem versões eletrificadas no mercado nacional. A infraestrutura de recarga ainda é limitada, mas tem avançado com a instalação de novos pontos. Incentivos fiscais e isenção de impostos ajudam a impulsionar as vendas. Além disso, os veículos elétricos oferecem baixo custo de manutenção e operação. O futuro da mobilidade no Brasil tende a ser cada vez mais elétrico e sustentável. Considera-se um carro elétrico que possui bateria com capacidade de 240 A.h e promove uma corrente elétrica contínua de 60 A durante seu funcionamento. Suponha que o carro parta de Recife com a bateria totalmente carregada e mantenha velocidade constante de 100 km/h durante todo o trajeto, sem paradas nem variações de consumo. Com base nas informações fornecidas e desprezando perdas energéticas por atrito, aclives ou consumo de outros sistemas, considerando o consumo total da bateria, a cidade mais distante de Recife que o carro conseguiria chegar seria",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "João Pessoa – 120 km"
+        },
+        {
+          "letra": "B",
+          "texto": "Maceió – 240 km"
+        },
+        {
+          "letra": "C",
+          "texto": "Natal – 300 km"
+        },
+        {
+          "letra": "D",
+          "texto": "Aracaju – 360 km"
+        },
+        {
+          "letra": "E",
+          "texto": "Salvador – 420 km"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Eletrodinâmica (Corrente Elétrica)",
+        "Física – Cinemática (Movimento Uniforme)"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Durante uma cerimônia simbólica realizada ao ar livre, duas velas são acesas simultaneamente e com suas chamas posicionadas ao longo do eixo vertical (eixo y) no instante t = 0, como mostra a figura a seguir. Sabe-se que a velocidade de queima da vela B é constante e possui módulo igual a 2 cm/h. Para que ambas as velas terminem de queimar ao mesmo tempo, ou seja, para que suas chamas alcancem o solo no mesmo instante, o módulo da velocidade de queima da vela A deve ser:\n(Considerar que ambas as velas queimem a taxas constantes.)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2,5 cm/h"
+        },
+        {
+          "letra": "B",
+          "texto": "3,0 cm/h"
+        },
+        {
+          "letra": "C",
+          "texto": "3,5 cm/h"
+        },
+        {
+          "letra": "D",
+          "texto": "4,0 cm/h"
+        },
+        {
+          "letra": "E",
+          "texto": "4,5 cm/h"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Cinemática (Movimento Uniforme)"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Durante uma Feira de Ciências em uma escola, um professor realiza dois experimentos com balões (bexigas) idênticos e com a mesma massa de 100 g de material no interior de cada um.\n• No primeiro experimento, ele enche uma bexiga com 100 g de areia seca, amarra, e a aproxima da chama de uma vela. Em frações de segundos, a bexiga estoura.\n• No segundo experimento, ele utiliza 100 g de água no interior de uma bexiga semelhante e, também, a aproxima da vela. Para surpresa dos alunos, a bexiga não estoura, mesmo após certo tempo em contato com a chama.\n\nEsse experimento simples, porém impressionante, pode ser explicado com base nos conceitos da calorimetria. Diante do exposto acima, o fenômeno observado se justifica, pois",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a areia possui maior densidade que a água, o que aumenta a pressão interna da bexiga e facilita sua ruptura."
+        },
+        {
+          "letra": "B",
+          "texto": "a água tem maior condutividade térmica que a areia, o que impede o superaquecimento da borracha da bexiga."
+        },
+        {
+          "letra": "C",
+          "texto": "a areia transfere calor mais rapidamente para a borracha do que a água, que possui menor calor específico."
+        },
+        {
+          "letra": "D",
+          "texto": "a água absorve mais calor da chama sem variar muito sua temperatura, devido ao seu maior calor específico."
+        },
+        {
+          "letra": "E",
+          "texto": "a chama da vela aquece o ar ao redor da bexiga com areia, aumentando sua temperatura interna rapidamente."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Termologia (Calorimetria e Calor Específico)"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Com o aumento dos custos logísticos no transporte rodoviário e marítimo internacional, empresas brasileiras têm buscado soluções criativas para o transporte de cargas pesadas em trechos regionais. Uma dessas soluções tem sido o uso de barcos cargueiros em rios navegáveis para escoamento de materiais de mineração até centros de distribuição. Uma empresa do setor extrativista pretende utilizar um pequeno barco cargueiro, cujo volume submersível máximo é de $28 \\text{ m}^3$ e massa do casco vazio é de 2000 kg, para transportar blocos de chumbo até o armazém fluvial mais próximo. O barco deve operar em segurança, ou seja, sem ultrapassar o limite de flutuação, o que significa que o peso total do conjunto (barco + carga) não pode exceder o peso do volume de água deslocado.\n(Considerar a densidade da água doce como $1,0 \\times 10^3 \\text{ kg/m}^3$ e a aceleração da gravidade como $10 \\text{ m/s}^2$).\n\nA massa máxima de chumbo (em kg) que pode ser transportada nesse barco sem que ele afunde será:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "22000"
+        },
+        {
+          "letra": "B",
+          "texto": "24000"
+        },
+        {
+          "letra": "C",
+          "texto": "26000"
+        },
+        {
+          "letra": "D",
+          "texto": "28000"
+        },
+        {
+          "letra": "E",
+          "texto": "30000"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Hidrostática (Empuxo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Um grupo de cientistas trabalha com um isótopo radioativo sintético chamado X-250, amplamente utilizado em terapias específicas de combate ao câncer. Em um experimento, os pesquisadores começaram com uma amostra de 320 g da substância. Esse isótopo sofre decaimento radioativo com uma meia-vida de 5 horas, ou seja, a cada 5 horas sua massa é reduzida pela metade. Para fins de segurança, os pesquisadores precisam saber após quantas horas restarão exatamente 5% da massa inicial da amostra, o que representa o limite seguro para o manuseio do material. Com base nisso, o tempo mínimo necessário, em horas, para que a massa fique menor ou igual a 5% é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15 horas"
+        },
+        {
+          "letra": "B",
+          "texto": "20 horas"
+        },
+        {
+          "letra": "C",
+          "texto": "25 horas"
+        },
+        {
+          "letra": "D",
+          "texto": "30 horas"
+        },
+        {
+          "letra": "E",
+          "texto": "35 horas"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Radioatividade (Meia-vida)",
+        "Física – Física Moderna (Decaimento Radioativo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Em um átomo, os elétrons distribuem-se em níveis e subníveis de energia de acordo com os princípios da mecânica quântica. Cada subnível comporta um número limitado de elétrons, determinado pelo número quântico secundário ($l$) e seus valores associados de $m_l$. Considera-se que um determinado átomo possui todos os orbitais do subnível 3d completamente preenchidos. Sabendo que cada elétron em um orbital deve ter um conjunto único de números quânticos, com base no número total de elétrons possíveis nesse subnível e na combinação de seus números quânticos, pode-se afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o subnível 3d pode comportar no máximo 5 elétrons, independentemente do spin."
+        },
+        {
+          "letra": "B",
+          "texto": "os valores possíveis de $m_l$ para o subnível 3d variam de -3 a +3."
+        },
+        {
+          "letra": "C",
+          "texto": "o subnível 3d pode conter no máximo 6 elétrons, pois há 3 orbitais d."
+        },
+        {
+          "letra": "D",
+          "texto": "no subnível 3d, cada valor de $m_l$ pode estar associado a 2 valores diferentes de $m_s$."
+        },
+        {
+          "letra": "E",
+          "texto": "em orbital com $l$ = 2 e $m_l$ = +3 faz parte do subnível 3d."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Atomística (Números Quânticos e Distribuição Eletrônica)"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Durante uma aula prática de química, um grupo de estudantes analisou a composição de quatro substâncias presentes em produtos do cotidiano: removedores de esmalte, essências artificiais, produtos de limpeza e solventes industriais. Após a identificação por cromatografia, os seguintes compostos foram encontrados:\nI. $CH_3-CH_2-C(=O)–H$ (presente no aroma de frutas)\nII. $CH_3–O–CH_2–CH_3$ (encontrado em solventes orgânicos)\nIII. $CH_3–CH_2–COOH$ (usado na fabricação de conservantes alimentares)\nIV. $CH_3–CH_2–C\\equiv N$ (intermediário na produção de polímeros)\n\nSabendo que esses compostos pertencem a diferentes funções orgânicas e considerando seus grupos funcionais, a função orgânica que corresponde a cada uma das substâncias apresentadas é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I - Aldeído\nII - Éster\nIII - Ácido carboxílico\nIV - Cetona"
+        },
+        {
+          "letra": "B",
+          "texto": "I - Cetona\nII - Éter\nIII - Ácido carboxílico\nIV - Nitrila"
+        },
+        {
+          "letra": "C",
+          "texto": "I - Álcool\nII - Éter\nIII - Ácido carboxílico\nIV - Nitrila"
+        },
+        {
+          "letra": "D",
+          "texto": "I - Aldeído\nII - Éter\nIII - Ácido carboxílico\nIV - Nitrila"
+        },
+        {
+          "letra": "E",
+          "texto": "I - Ácido carboxílico\nII - Éter\nIII - Aldeído\nIV - Amina"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Química Orgânica (Identificação de Funções Orgânicas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Durante um experimento em uma Feira de Ciências, um grupo de alunos decidiu investigar o motivo pelo qual determinados solventes conseguem remover manchas específicas com mais eficiência do que outros. Eles testaram três líquidos: água, etanol e hexano, aplicando cada um sobre diferentes tipos de manchas (tinta, gordura e café) em tecidos de algodão. Ao final, observaram que\n- a água removeu com maior eficiência as manchas de café.\n- o etanol teve desempenho intermediário, removendo parcialmente tinta e gordura.\n- o hexano foi eficaz na remoção de manchas de gordura, mas ineficiente para as demais.\n\nCom base nas observações, os alunos relacionaram os resultados às propriedades das substâncias envolvidas, especialmente quanto ao tipo de ligação química, às polaridade das moléculas e às forças intermoleculares predominantes. Isso os levou a revisar conceitos sobre interação entre moléculas polares e apolares, e sobre os tipos de ligações e interações que favorecem a solubilidade e a remoção de substâncias. Considerando essas informações, pode-se afirmar que o resultado observado no experimento ocorreu porque",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a água removeu o café, pois ambos são compostos apolares, com forças de dispersão atuando entre as moléculas."
+        },
+        {
+          "letra": "B",
+          "texto": "o hexano foi eficaz contra a gordura, pois ambos são apolares e interagem por forças dipolo-dipolo."
+        },
+        {
+          "letra": "C",
+          "texto": "a água é uma molécula polar com capacidade de formar pontes de hidrogênio, o que favorece a remoção de compostos polares como os do café."
+        },
+        {
+          "letra": "D",
+          "texto": "o etanol, por ser uma molécula apolar, consegue interagir igualmente com tinta e gordura, que são polares."
+        },
+        {
+          "letra": "E",
+          "texto": "a gordura é facilmente removida pela água devido à interação entre dipolos permanentes presentes nas moléculas de gordura."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Soluções (Polaridade e Solubilidade)",
+        "Química – Forças Intermoleculares"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Durante uma análise de solo em uma propriedade rural, constatou-se que o pH estava abaixo de 6,0, indicando acidez que poderia prejudicar o desenvolvimento de culturas como o feijão e o milho. O agricultor decidiu aplicar nitrato de sódio ($NaNO_3$), esperando corrigir essa acidez, mas não houve alteração significativa no pH. Em outra área, foi utilizado acetato de sódio ($CH_3COONa$), e observou-se aumento do pH, tornando o solo mais adequado ao plantio. Com base nos conceitos de química ácido-base e hidrólise salina, afirma-se que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o nitrato de sódio altera o pH do solo, porque é um sal básico, derivado de ácido fraco e base forte."
+        },
+        {
+          "letra": "B",
+          "texto": "o acetato de sódio não influencia o pH do solo, pois é um sal neutro que não sofre hidrólise."
+        },
+        {
+          "letra": "C",
+          "texto": "o nitrato de sódio não altera o pH, porque é um sal neutro, formado por ácido forte e base forte, e não sofre hidrólise."
+        },
+        {
+          "letra": "D",
+          "texto": "o cloreto de amônio elevaria o pH do solo, pois seu cátion forma íons $OH^-$ na água."
+        },
+        {
+          "letra": "E",
+          "texto": "o acetato de sódio reduz o pH do solo ao liberar íons $H_3O^+$ durante a hidrólise."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Equilíbrio Químico (Hidrólise Salina e pH)"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Durante estudos sobre a velocidade de uma reação entre dois reagentes, A e B, pesquisadores realizaram experimentos variando as concentrações iniciais das substâncias, mantendo a temperatura constante. A tabela a seguir mostra os dados obtidos:\n\n| Experimento | [A] ($mol·L^{-1}$) | [B] ($mol·L^{-1}$) | Velocidade Inicial ($mol·L^{-1}·s^{-1}$) |\n| :--- | :--- | :--- | :--- |\n| 1 | 0,10 | 0,10 | $1,0 \\times 10^{-3}$ |\n| 2 | 0,20 | 0,10 | $2,0 \\times 10^{-3}$ |\n| 3 | 0,10 | 0,30 | $9,0 \\times 10^{-3}$ |\n\nA lei da velocidade da reação e o valor da constante de velocidade k são:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$v = k[A]^1·[B]^2$ ; $k = 1,0 \\times 10^2 L^2 mol^{-2}·s^{-1}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$v = k[A]^2[B]^1$ ; $k = 1,0 \\times 10^1 L^2·mol^{-2}·s^{-1}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$v = k[A]^1[B]^1$ ; $k = 1,0 \\times 10^1 L·mol^{-1}·s^{-1}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$v = k[A]^2[B]^2$ ; $k = 1,0 \\times 10^1 L^3·mol^{-3}·s^{-1}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$v = k[A]^1[B]^2$ ; $k = 1,0 \\times 10^1 L^2·mol^{-2}·s^{-1}$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Cinética Química (Lei da Velocidade)"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "O fechamento dos vasos umbilicais e a subsequente necrose asséptica do cordão umbilical começam logo após o bebê respirar pela primeira vez. As artérias umbilicais se contraem; o fluxo sanguíneo é interrompido; e os tecidos do cordão, privados de suprimento sanguíneo, sofrem necrose asséptica. Após a morte das células umbilicais inicia o processo de autólise. Mais alguns dias e pronto. Ficará apenas a cicatriz umbilical.\nDisponível em: https://www.sciencedirect.com/topics/immunology-and-microbiology/umbilical-cord. Adaptado. Acesso em: 14/04/2025.\n\nDurante a autólise, haverá participação direta da organela celular denominada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Mitocôndria"
+        },
+        {
+          "letra": "B",
+          "texto": "Centríolos"
+        },
+        {
+          "letra": "C",
+          "texto": "Retículo Endoplasmático"
+        },
+        {
+          "letra": "D",
+          "texto": "Peroxissomos"
+        },
+        {
+          "letra": "E",
+          "texto": "Lisossomos"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Citologia (Organelas Celulares)"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "A doença celíaca é uma condição autoimune crônica causada pela intolerância ao glúten, presente no trigo, centeio, cevada e malte. Quando pessoas com doença celíaca consomem glúten, seu sistema imunológico reage exageradamente, causando inflamação no trato digestório, prejudicando a absorção dos nutrientes, devido aos danos causados nas microvilosidades. Os principais sintomas incluem diarreia, dor abdominal, inchaço, perda de peso, fadiga e anemia, e em crianças pode haver atraso no crescimento. Assim, ao ingerir glúten, uma pessoa com a doença celíaca terá complicações primariamente no",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Esôfago"
+        },
+        {
+          "letra": "B",
+          "texto": "Estômago"
+        },
+        {
+          "letra": "C",
+          "texto": "Intestino delgado"
+        },
+        {
+          "letra": "D",
+          "texto": "Intestino grosso"
+        },
+        {
+          "letra": "E",
+          "texto": "Fígado"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Fisiologia Humana (Sistema Digestório)"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Anvisa emitiu um alerta importante para profissionais de saúde que realizam procedimentos com injeção de toxina botulínica (popularmente conhecido como botox), seja para fins terapêuticos ou estéticos. O alerta também é voltado para pacientes sobre os riscos envolvidos na aplicação da toxina.\nDisponível em: https://www.gov.br/anvisa/pt-br/assuntos/noticias-anvisa/2025/anvisa-alerta-sobre-risco-de-botulismo-apos-administracao-de-toxina-botulinica. Acesso em: 03/04/2025.\n\nAlém dos cuidados envolvendo a injeção de toxina botulínica uma importante forma profilática para evitar o contágio com o microrganismo causador do botulismo é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a utilização de máscaras."
+        },
+        {
+          "letra": "B",
+          "texto": "não consumir enlatados estufados."
+        },
+        {
+          "letra": "C",
+          "texto": "o uso de repelentes."
+        },
+        {
+          "letra": "D",
+          "texto": "o emprego de camisinha."
+        },
+        {
+          "letra": "E",
+          "texto": "a injeção do soro anti-botulínico."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Microbiologia (Bactérias e Doenças)",
+        "Biologia – Saúde (Profilaxia)"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Um estudo recente revela que até 14.000 toneladas de filtros UV, compostos químicos que protegem contra os raios ultravioleta, são despejadas anualmente nos recifes de corais, colocando em risco a saúde dos ecossistemas marinhos. O principal composto químico identificado nos filtros UV é a benzofenona, substância classificada como persistente, bioacumulativa e tóxica. A benzofenona-3, também conhecida como oxibenzona, pode prejudicar diretamente a simbiose das algas e corais, além de interromper o ciclo reprodutivo desses animais.\nDisponível em: https://umsoplaneta.globo.com/biodiversidade/noticia/2025/02/18. Adaptado. Acesso em: 18/04/2025.\n\nAo atingir os recifes, os filtros solares contendo compostos químicos tóxicos",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "protegem os corais contra os impactos decorrentes das mudanças climáticas."
+        },
+        {
+          "letra": "B",
+          "texto": "levam ao branqueamento e, consequentemente, à morte da comunidade coralínea."
+        },
+        {
+          "letra": "C",
+          "texto": "afetam a comunidade de corais, mas não prejudicam outros animais marinhos."
+        },
+        {
+          "letra": "D",
+          "texto": "contribuem para a poluição dos oceanos, mas seu impacto é restrito às algas e aos corais."
+        },
+        {
+          "letra": "E",
+          "texto": "causam danos às algas que fazem simbiose com os corais, mas não afetam os corais."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Ecologia (Poluição e Relações Ecológicas)",
+        "Biologia – Zoologia (Cnidários)"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Célula: o master chef molecular\nSe compararmos o nosso genoma a um livro de receitas é como se cada receita fosse um gene. Como um chef habilidoso, a célula é capaz de selecionar e preparar as receitas certas para atender às demandas do organismo. Em cada receita há instruções para preparar um determinado prato. Assim produzimos diferentes proteínas e outras moléculas essenciais para o funcionamento do nosso corpo. Para começar a elaboração do prato, as células criam cópias da receita, conhecida como RNA. Isso evita danos e perda de informação genética no livro fonte, ou seja, no genoma. Agora imagine que nessas páginas hajam fotos ou mensagens que mesmo se forem retiradas após a sua cópia o prato poderá ser executado. Esse processo acontece em alguns genes de células eucariontes. Na prática, alguns RNA's passam por um amadurecimento. Finalmente chegou a última etapa. Com a receita pronta, o cozinheiro celular (ribossomo) adiciona os ingredientes (aminoácidos) e segui com muito cuidado o modo de preparo. Finalmente o prato está pronto e a proteína formada poderá desempenhar sua função. A expressão gênica, descrita no texto de forma lúdica, passa por alguns passos fundamentais. A etapa de amadurecimento do RNA é chamada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Replicação"
+        },
+        {
+          "letra": "B",
+          "texto": "Transcrição"
+        },
+        {
+          "letra": "C",
+          "texto": "Splicing"
+        },
+        {
+          "letra": "D",
+          "texto": "Tradução"
+        },
+        {
+          "letra": "E",
+          "texto": "Síntese proteica"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Biologia Molecular (Expressão Gênica)"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Um estudante empilhou 5 livros de matemática, com 64 cm de comprimento cada, (todos com o mesmo formato de caixas retangulares) sobre uma mesa, de modo que o livro posicionado no topo ficou com metade de seu comprimento encostado sobre a superfície do livro que estava logo abaixo, conforme a figura 1.\nConsiderando X a distância horizontal entre a extremidade esquerda do livro que está sobre a mesa e a extremidade direita do livro que está no topo, pode-se afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "X = 64 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "X = 80 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "X = 120 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "X = 124 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "X = 128 cm"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Progressão Geométrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Uma agência de publicidade digital planeja a venda de pacotes mensais de anúncios para pequenos empreendedores. A empresa estimou que o lucro líquido, em função da quantidade de pacotes vendidos no mês, pode ser representado pela função $f(x) = 150x - 300$, onde x é o número de pacotes vendidos e $f(x)$ o lucro líquido, em reais. Para que a empresa garanta um lucro de, no mínimo, R$ 600,00 no mês, é necessário vender pelo menos",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 pacotes"
+        },
+        {
+          "letra": "B",
+          "texto": "6 pacotes"
+        },
+        {
+          "letra": "C",
+          "texto": "7 pacotes"
+        },
+        {
+          "letra": "D",
+          "texto": "8 pacotes"
+        },
+        {
+          "letra": "E",
+          "texto": "9 pacotes"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Inequação do 1º Grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Dois amigos, Lucas (em Tóquio – GMT+9) e Júlia (em São Paulo – GMT-3), planejam se encontrar em Lisboa (GMT+1), e desejam que seus voos cheguem simultaneamente às 9h da manhã, horário local. Sabe-se que o voo de Tóquio até Lisboa dura 17 horas e o de São Paulo até Lisboa, 10 horas. Considerando os fusos horários e a duração dos voos, a hora local de partida de cada um deve ser:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Tóquio: 00h | São Paulo: 19h"
+        },
+        {
+          "letra": "B",
+          "texto": "Tóquio: 20h | São Paulo: 4h"
+        },
+        {
+          "letra": "C",
+          "texto": "Tóquio: 16h | São Paulo: 6h"
+        },
+        {
+          "letra": "D",
+          "texto": "Tóquio: 10h | São Paulo: 8h"
+        },
+        {
+          "letra": "E",
+          "texto": "Tóquio: 23h | São Paulo: 19h"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Fusos Horários",
+        "Matemática – Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Rampas de acessibilidade são projetadas de acordo com normas específicas de inclinação. Esta inclinação i, em porcentagem, é dada pela fórmula:\n$$i = \\frac{h}{c} \\times 100$$\nem que,\ni = inclinação da rampa em %.\nh = desnível vertical (altura a ser vencida).\nc = comprimento da base horizontal da rampa.\n\nPara vencer um desnível de 1,5 metros com uma inclinação constante de 5%, o comprimento mínimo da projeção horizontal da rampa deve ser de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10 metros."
+        },
+        {
+          "letra": "B",
+          "texto": "15 metros."
+        },
+        {
+          "letra": "C",
+          "texto": "20 metros."
+        },
+        {
+          "letra": "D",
+          "texto": "25 metros."
+        },
+        {
+          "letra": "E",
+          "texto": "30 metros."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Porcentagem",
+        "Matemática – Razão e Proporção"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Durante a cobertura de um grande evento internacional, uma emissora de televisão organiza uma mesa redonda com seis jornalistas especializados em diferentes editorias (política, economia, cultura, esportes, ciência e internacional). Para tornar o programa mais dinâmico, o diretor propõe alterar a disposição dos convidados a cada nova edição, levando em conta que a posição ao redor da mesa influencia nas trocas de fala e no tempo de câmera de cada participante. Considerando que as cadeiras estão dispostas em torno de uma mesa redonda simétrica, e que apenas a ordem relativa entre os jornalistas importa (ou seja, rotações da mesa não geram novas configurações distintas), o número total de disposições diferentes possíveis entre os seis jornalistas é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "720"
+        },
+        {
+          "letra": "B",
+          "texto": "360"
+        },
+        {
+          "letra": "C",
+          "texto": "60"
+        },
+        {
+          "letra": "D",
+          "texto": "120"
+        },
+        {
+          "letra": "E",
+          "texto": "240"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Análise Combinatória (Permutação Circular)"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Durante uma investigação criminal, uma equipe pericial é chamada para analisar vestígios de uma substância líquida encontrada na cena de um crime. A promotoria precisa de uma amostra padrão para comparação, que deverá ter exatamente 45% de teor alcoólico, pois esse é o valor médio entre os tipos de substâncias envolvidas no caso. O laboratório do Instituto de Criminalística possui duas soluções de referência: uma com 30% de álcool, usada como base para substâncias diluídas, e outra com 60%, que representa composições mais concentradas. O perito responsável decide preparar 100 ml da solução de 45%, utilizando apenas os dois tipos de soluções disponíveis. Para atender às exigências legais do processo, o volume da solução de 60% de álcool a ser utilizada na mistura deve ser de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "25 ml."
+        },
+        {
+          "letra": "B",
+          "texto": "30 ml."
+        },
+        {
+          "letra": "C",
+          "texto": "40 ml."
+        },
+        {
+          "letra": "D",
+          "texto": "45 ml."
+        },
+        {
+          "letra": "E",
+          "texto": "50 ml."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Porcentagem",
+        "Química – Soluções (Mistura de Soluções)"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "Durante a inspeção de materiais, um técnico encontra quatro seringas embaladas, mas sabe-se que uma delas está com defeito. Ao selecionar duas seringas ao acaso, a probabilidade de a seringa defeituosa estar entre as escolhidas é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1/4"
+        },
+        {
+          "letra": "B",
+          "texto": "1/6"
+        },
+        {
+          "letra": "C",
+          "texto": "1/3"
+        },
+        {
+          "letra": "D",
+          "texto": "1/2"
+        },
+        {
+          "letra": "E",
+          "texto": "2/3"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Probabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "Em centros logísticos, empilhar caixas de forma eficiente permite o melhor aproveitamento do espaço. Suponha que um depósito organize caixas cúbicas idênticas de maneira que cada fileira horizontal, a partir da segunda, possua um cubo a menos que aquela imediatamente abaixo, conforme a figura 2.\nConsiderando que nesse depósito chegaram 120 caixas cúbicas e que foram organizadas na mesma configuração da figura 2 (a última fileira possui apenas uma caixa), pode-se afirmar que o número de fileiras necessárias para organizar as caixas neste depósito é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10"
+        },
+        {
+          "letra": "B",
+          "texto": "12"
+        },
+        {
+          "letra": "C",
+          "texto": "15"
+        },
+        {
+          "letra": "D",
+          "texto": "20"
+        },
+        {
+          "letra": "E",
+          "texto": "25"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Progressão Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Em um projeto arquitetônico de revitalização de uma praça histórica, os arquitetos decidiram instalar colunas de concreto com design clássico, como mostrado na figura 3.\nA coluna é formada por um fuste cilíndrico liso com caneluras decorativas, apoiado sobre uma base quadrada e finalizado com um topo também quadrado. Para o cálculo da quantidade de concreto necessário, desconsideram-se os detalhes decorativos e assume-se que o corpo da coluna seja um cilindro maciço de 40 cm de altura e 14 cm de diâmetro. A equipe técnica precisa saber, com precisão, o volume de concreto utilizado apenas no corpo cilíndrico de cada coluna, para planejar o transporte do material.\nConsiderar:\n$\\pi \\approx 3,14$\n$1.000 \\text{ cm}^3 = 1 \\text{ litro}$\nCom base nessas informações, o volume aproximado de concreto, em litros, necessário para moldar o corpo cilíndrico de uma coluna é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6,16"
+        },
+        {
+          "letra": "B",
+          "texto": "5,20"
+        },
+        {
+          "letra": "C",
+          "texto": "7,35"
+        },
+        {
+          "letra": "D",
+          "texto": "4,90"
+        },
+        {
+          "letra": "E",
+          "texto": "8,00"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Espacial (Volume do Cilindro)"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "Em um hospital de médio porte, a equipe de enfermagem realiza um levantamento epidemiológico para acompanhar a evolução dos sintomas entre os pacientes internados. Durante esse monitoramento, observou-se que 60% dos 200 pacientes internados eram do sexo masculino. Além disso, 25% do total apresentou quadro febril nas últimas 24 horas, o que é um dado relevante para o controle de possíveis surtos. Após análise detalhada, verificou-se que 20 das pacientes do sexo feminino apresentaram febre. Com base nesses dados, a porcentagem de homens que apresentaram febre equivale a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10%."
+        },
+        {
+          "letra": "B",
+          "texto": "15%."
+        },
+        {
+          "letra": "C",
+          "texto": "18%."
+        },
+        {
+          "letra": "D",
+          "texto": "20%."
+        },
+        {
+          "letra": "E",
+          "texto": "25%."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "O jogo do NIM é um jogo matemático de raciocínio estratégico muito utilizado para desenvolver o pensamento lógico. Ele é jogado entre duas pessoas, que se alternam removendo objetos. Em uma versão simplificada, o jogo começa com um único bloco de 10 palitos (figura 4), e os competidores, em suas jogadas, podem retirar 1, 2 ou 3 palitos por vez. O competidor que retirar o último palito vence.\nSe, inicialmente, o primeiro competidor retira 2 palitos e, em seguida, o segundo competidor retira 3 palitos, a quantidade de palitos que o primeiro competidor deve retirar na sua segunda jogada para garantir a vitória no jogo do NIM, independente que qual seja a próxima jogada do segundo competidor, é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 palito."
+        },
+        {
+          "letra": "B",
+          "texto": "2 palitos."
+        },
+        {
+          "letra": "C",
+          "texto": "3 palitos."
+        },
+        {
+          "letra": "D",
+          "texto": "4 palitos."
+        },
+        {
+          "letra": "E",
+          "texto": "Não tem como o primeiro competidor ganhar."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Raciocínio Lógico"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Uma universidade realizou um levantamento sobre o número de artigos publicados por docentes de três áreas do conhecimento: Saúde, Exatas e Humanas, ao longo de um semestre. Os dados a seguir mostram o número de publicações por professor em cada área:\nSaúde: 5, 6, 7, 7, 7, 8, 9\nExatas: 3, 4, 4, 5, 5, 7, 9\nHumanas: 2, 2, 3, 4, 7, 10, 15\n\nCom base nesses dados, afirma-se que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a moda do setor de Saúde é 5, pois é o menor número de publicações."
+        },
+        {
+          "letra": "B",
+          "texto": "a mediana da área de Exatas é 9, pois é o valor central da distribuição."
+        },
+        {
+          "letra": "C",
+          "texto": "a média das publicações na área de Humanas é maior comparada com a da área de Exatas."
+        },
+        {
+          "letra": "D",
+          "texto": "a amplitude das publicações na área de Saúde é 6, pois é a diferença entre o máximo e o mínimo."
+        },
+        {
+          "letra": "E",
+          "texto": "não existe moda em nenhuma das três áreas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Estatística (Medidas de Tendência Central)"
+      ]
+    },
+    {
+      "numeroEnunciado": 61,
+      "enunciado": "Um aluno de física realizou um experimento com uma balança do tipo alavanca, na qual os braços da balança estão divididos em partes iguais, numeradas de 1 a 8 a partir do centro (ponto de apoio). Foi colocado um tijolo com 10 kg no lado esquerdo na posição 6 e outro tijolo no lado direito pesando 20 kg na posição 3 (ver figura 5 - a). Ao retirar os apoios de concreto, a balança se manteve equilibrada.\nNa figura 5-b, foi colocado um tijolo com 10 kg na posição 8 no lado esquerdo. Sabe-se que a balança estará em equilíbrio quando os momentos das forças (massa x distância ao ponto de apoio) forem iguais dos dois lados.\nPara manter o equilíbrio da balança, o aluno deve posicionar um tijolo de 20 kg na",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "posição 2 no lado direito."
+        },
+        {
+          "letra": "B",
+          "texto": "posição 3 no lado esquerdo."
+        },
+        {
+          "letra": "C",
+          "texto": "posição 4 no lado direito."
+        },
+        {
+          "letra": "D",
+          "texto": "posição 5 no lado esquerdo."
+        },
+        {
+          "letra": "E",
+          "texto": "posição 6 no lado direito."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Estática (Momento de uma Força ou Torque)"
+      ]
+    },
+    {
+      "numeroEnunciado": 62,
+      "enunciado": "Uma equipe de saúde pública realiza uma campanha de vacinação em uma comunidade ribeirinha. O imunizante utilizado tem apresentação em frascos-ampola de 10 ml, com concentração de 150 mg de princípio ativo por mililitro. Cada dose de vacina deve conter 450 mg do princípio ativo.\nDurante a campanha, cada profissional de saúde pode administrar vacinas em, no máximo, 40 pessoas por dia. Para otimizar o uso dos frascos e evitar desperdício, os profissionais devem calcular a quantidade total de frascos necessários para atender todas as 40 pessoas.\nBaseado nessas informações, a quantidade que deve ser disponibilizado para a equipe vacinar as 40 pessoas no dia equivale a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10 frascos"
+        },
+        {
+          "letra": "B",
+          "texto": "12 frascos"
+        },
+        {
+          "letra": "C",
+          "texto": "15 frascos"
+        },
+        {
+          "letra": "D",
+          "texto": "18 frascos"
+        },
+        {
+          "letra": "E",
+          "texto": "20 frascos"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Aritmética",
+        "Matemática – Razão e Proporção"
+      ]
+    },
+    {
+      "numeroEnunciado": 63,
+      "enunciado": "Um arquiteto projetou a maquete de um telhado em forma triangular, utilizando uma estrutura com base medindo 0,5 metros e altura medindo 0,4 metros. Na construção real, a proporção, em relação a maquete, é 10 vezes maior. Com base nas informações, qual a área, em metros quadrados, da estrutura triangular da construção real?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,1"
+        },
+        {
+          "letra": "B",
+          "texto": "10"
+        },
+        {
+          "letra": "C",
+          "texto": "1"
+        },
+        {
+          "letra": "D",
+          "texto": "20"
+        },
+        {
+          "letra": "E",
+          "texto": "0,2"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Geometria Plana (Área do Triângulo)",
+        "Matemática – Escalas"
+      ]
+    },
+    {
+      "numeroEnunciado": 64,
+      "enunciado": "Na figura 6 abaixo tem-se 4 mesas de bilhar retangulares, todas com a mesma largura de 10 unidades. Os comprimentos das mesas são:\nMesa A: 14 unidades\nMesa B: 16 unidades\nMesa C: 18 unidades\nMesa D: 20 unidades\nA bola de sinuca é jogada sempre do canto inferior esquerdo, percorrendo o caminho da poligonal como mostra a figura 6.\nSabendo que o primeiro segmento da poligonal de onde parte a bola de sinuca é uma bissetriz, pode-se afirmar que o número de vezes que a bola bate nas laterais da Mesa D antes de cair no \"buraco\" é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "13"
+        },
+        {
+          "letra": "B",
+          "texto": "14"
+        },
+        {
+          "letra": "C",
+          "texto": "15"
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        },
+        {
+          "letra": "E",
+          "texto": "1"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Geometria Plana (Reflexão)",
+        "Física – Óptica Geométrica (Reflexão)"
+      ]
+    }
+  ]
+}

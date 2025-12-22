@@ -1,0 +1,1281 @@
+{
+  "nomeUniversidade": "Instituto Militar de Engenharia",
+  "siglaUniversidade": "IME",
+  "nomeProva": "Concurso de Admissão ao Curso de Formação e Graduação",
+  "ano": 2025,
+  "qtdeQuestoes": 40,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Seja $D = \\{x | x \\in (-1,0) \\cup (0, 1)\\}$, $a \\in R^*$ e $f : D \\to R$, tal que $f(x) = \\sum_{k=1}^{100} ax^{k-1}$. Então, para $m \\in D$, $\\frac{f(m) + f(-m)}{f(m)f(-m)}$ é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{1}{a}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{2}{am^2}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{a}{2}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{2}{a}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$2am^2$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Séries e Somatórios",
+        "Matemática – Funções",
+        "Matemática – Álgebra"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Uma relação binária $R$ sobre um conjunto $S$ é dita antissimétrica se somente se para quaisquer $x$ e $y$ elementos de $S$, sempre que $(x,y) \\in R$ e $(y,x) \\in R$, então $x = y$. O número de relações binárias antissimétricas existentes sobre um conjunto com $n$ elementos é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2^n$"
+        },
+        {
+          "letra": "B",
+          "texto": "$2^{\\frac{n^2+n}{2}}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$2^n \\cdot 3^{\\frac{n^2}{2}}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$2^n \\cdot 3^{\\frac{n^2-n}{2}}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$2 \\cdot 3^{\\frac{n^2+n}{2}}$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Teoria dos Conjuntos",
+        "Matemática – Relações Binárias",
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Sabe-se que $i^2 = -1$. Determine o menor número inteiro positivo $n$ que satisfaça a expressão $$ \\left(\\frac{-\\sqrt{3}+i}{2}\\right)^n = \\left(\\frac{-\\sqrt{3}-i}{2}\\right)^n + 2i $$",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "5"
+        },
+        {
+          "letra": "E",
+          "texto": "7"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Números Complexos"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Sabe-se que $i^2 = -1$ e $\\arg(z)$ é o argumento do complexo $z$. Sejam $z_1 = 3+4i$ e $z_2 = 12+5i$. O complexo $z_3$ é tal que $|z_3 - z_2| = 5$ e $\\left|\\arg\\left(\\frac{z_3 - z_2}{z_1}\\right)\\right| = \\frac{\\pi}{2}$. O maior valor possível de $z_3 \\cdot \\overline{z_3}$ é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "82"
+        },
+        {
+          "letra": "B",
+          "texto": "128"
+        },
+        {
+          "letra": "C",
+          "texto": "260"
+        },
+        {
+          "letra": "D",
+          "texto": "306"
+        },
+        {
+          "letra": "E",
+          "texto": "320"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Números Complexos"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Sabe-se que $i^2 = -1$. A equação polinomial $x^5 + x^4 + 7x^3 + 26x^2 + 26x + 20 = 0$ possui uma raiz em $x = \\frac{-1+i\\sqrt{3}}{2}$. A quantidade de raízes reais dessa equação é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4"
+        },
+        {
+          "letra": "B",
+          "texto": "3"
+        },
+        {
+          "letra": "C",
+          "texto": "2"
+        },
+        {
+          "letra": "D",
+          "texto": "1"
+        },
+        {
+          "letra": "E",
+          "texto": "0"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Polinômios",
+        "Matemática – Números Complexos"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Qual desses produtos não pode ser escrito como a diferença de dois quadrados perfeitos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2023 \\cdot 2024$"
+        },
+        {
+          "letra": "B",
+          "texto": "$2023 \\cdot 2025$"
+        },
+        {
+          "letra": "C",
+          "texto": "$2024 \\cdot 2025$"
+        },
+        {
+          "letra": "D",
+          "texto": "$2024 \\cdot 2026$"
+        },
+        {
+          "letra": "E",
+          "texto": "$2025 \\cdot 2026$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Produtos Notáveis",
+        "Matemática – Álgebra"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Sejam $x, y$ e $z$ inteiros positivos tais que $x + y + z = 117$. Um possível valor do produto $x \\cdot y \\cdot z$ é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "60327"
+        },
+        {
+          "letra": "B",
+          "texto": "60117"
+        },
+        {
+          "letra": "C",
+          "texto": "59321"
+        },
+        {
+          "letra": "D",
+          "texto": "59319"
+        },
+        {
+          "letra": "E",
+          "texto": "59317"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Otimização",
+        "Matemática – Teoria dos Números"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Sejam as sequências crescentes $S_n$, $n \\in N^*$, formadas por $n$ ímpares consecutivos, tais que $S_1 = (1)$, $S_2 = (3,5)$ e $S_k$ inicia no menor ímpar que não pertence a $S_j$, para todo $j < k$. A soma de todos os termos de $S_{2025}$ é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2025^3$"
+        },
+        {
+          "letra": "B",
+          "texto": "$2024 \\cdot 2025^2$"
+        },
+        {
+          "letra": "C",
+          "texto": "$2025 \\cdot 2024^2$"
+        },
+        {
+          "letra": "D",
+          "texto": "$1012 \\cdot 2025^2$"
+        },
+        {
+          "letra": "E",
+          "texto": "$2024^3$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Sequências Numéricas",
+        "Matemática – Progressões Aritméticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Escolhe-se ao acaso 3 vértices de um cubo. A probabilidade desses vértices pertencerem a uma mesma face é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$3/7$"
+        },
+        {
+          "letra": "B",
+          "texto": "$3/8$"
+        },
+        {
+          "letra": "C",
+          "texto": "$1/3$"
+        },
+        {
+          "letra": "D",
+          "texto": "$3/10$"
+        },
+        {
+          "letra": "E",
+          "texto": "$1/4$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Análise Combinatória",
+        "Matemática – Probabilidade",
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Considere as matrizes com coeficientes reais $$ A = \\begin{pmatrix} x & 1 & 0 \\\\ 0 & 1 & 1 \\\\ 1 & 0 & 1 \\end{pmatrix}, B = \\begin{pmatrix} x+1 & 1 & 0 \\\\ 0 & 2 & 1 \\\\ 1 & 0 & 1 \\end{pmatrix} \\text{ e } C = \\begin{pmatrix} x+1 & 0 & 0 \\\\ 0 & x+1 & x \\\\ 1 & 0 & 1 \\end{pmatrix} $$ onde os determinantes de $A, B$ e $C$ formam, nesta ordem, uma progressão aritmética. A soma de todos os valores possíveis de $x$ é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-4"
+        },
+        {
+          "letra": "B",
+          "texto": "-1"
+        },
+        {
+          "letra": "C",
+          "texto": "1"
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        },
+        {
+          "letra": "E",
+          "texto": "4"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Matrizes",
+        "Matemática – Determinantes",
+        "Matemática – Progressão Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Considere o sistema de equações no qual $\\theta$ é um parâmetro real. $$ \\begin{cases} \\sin(\\theta)x - \\cos(\\theta)y - \\sin(\\theta)z = 2025 \\\\ \\cos(\\theta)x + \\sin(\\theta)y - \\cos(\\theta)z = 2026 \\\\ \\sin(\\theta)\\cos(\\theta)x + \\cos^2(\\theta)y + \\sin(\\theta)\\cos(\\theta)z = 2030 \\end{cases} $$ O conjunto de todos os valores de $\\theta$ que tornam o sistema impossível é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\{0\\}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\{k\\pi | k \\in Z\\}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\left\\{\\frac{k\\pi}{2} \\Big| k \\in Z\\right\\}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\left\\{\\frac{\\pi}{2} + \\frac{k\\pi}{4} \\Big| k \\in Z\\right\\}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\left\\{\\frac{\\pi}{2} + \\frac{k\\pi}{3} \\Big| k \\in Z\\right\\}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Sistemas Lineares",
+        "Matemática – Trigonometria",
+        "Matemática – Determinantes"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "O maior número real $A$ tal que $$ A \\le \\frac{\\log_{\\sqrt{e}}(x) - 2\\ln\\left(\\frac{x^8}{e}\\right) + 6}{3 - \\ln\\left(\\frac{x^8}{e}\\right) + \\sqrt{\\ln(x^4e^2)} - 2 } \\text{, para todo } x \\in [1,e) $$ onde $e$ denota o número de Euler é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{5}{2}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{8}{3}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{e}{2}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{8}{5}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{6\\sqrt{e}}{5}$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Logaritmos",
+        "Matemática – Funções",
+        "Matemática – Cálculo"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Considere a hipérbole dada pela equação $\\frac{x^2}{16} - \\frac{y^2}{9} = 1$. Sejam $F$ e $F'$ seus focos onde $F$ pertence ao semi-eixo positivo e $F'$ ao semi-eixo negativo. Seja $T$ o ponto simétrico ao foco $F$ em relação à assíntota de coeficiente angular positivo. O valor do raio do círculo inscrito ao triângulo $F'TF$ é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\sqrt{3}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\sqrt{7}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{3}{2}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\sqrt{6}$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Analítica",
+        "Matemática – Cônicas",
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "A imagem abaixo mostra um círculo de raio r, um quadrado de lado L e um retângulo. Os pontos em preto indicam o centro da circunferência e os locais de contato entre ela e as demais figuras. A área de interseção do quadrado com o retângulo abaixo é $11 u^2$. O valor, em unidade $u$, do raio $r$ da circunferência é: (A imagem mostra um círculo com raio 'r', um quadrado com lado 'L' e um retângulo. O texto da imagem inclui: \"L\", \"L\", \"r\")",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7"
+        },
+        {
+          "letra": "B",
+          "texto": "11"
+        },
+        {
+          "letra": "C",
+          "texto": "5"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\sqrt{11}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$2\\sqrt{11}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "$ABCDEF$ é um octaedro regular de aresta $a$, tal que suas diagonais são $AE, BF$ e $CD$. $M$ é o ponto sobre a aresta $AF$ tal que $FM = a/3$, $N$ é o ponto sobre a aresta $AD$ tal que $DN = a/3$ e $P$ é o ponto sobre a aresta $DB$ tal que $DP = a/3$. O ângulo $\\text{M}\\hat{N}\\text{P}$ é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{\\pi}{4}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{\\pi}{3}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{\\pi}{2}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{2\\pi}{3}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{3\\pi}{4}$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Espacial",
+        "Matemática – Vetores"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Num determinado instante, uma partícula de carga negativa está com velocidade horizontal ortogonal a um fio infinito, por onde circula uma corrente elétrica constante, provocando na posição dela nesse instante um campo magnético de módulo $B$. Sabe-se que a partícula vai passar por um dos 5 pontos indicados na figura.\nObservações:\n*   despreze os efeitos gravitacionais;\n*   as linhas tracejadas e o fio estão no mesmo plano;\n*   as linhas tracejadas desenhadas na figura definem 4 quadrados;\n*   caso o fio fosse substituído por um gerador de campo magnético constante de módulo $B$, ortogonal ao plano, a partícula descreveria uma circunferência de raio igual ao lado de cada quadrado.\n(A imagem mostra um fio vertical com corrente 'i' para cima, uma carga '-Q' com velocidade 'v' para a direita, e pontos A, B, C, D, E em uma grade de 4 quadrados ao redor da carga.)\nA partícula passará então pelo ponto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A"
+        },
+        {
+          "letra": "B",
+          "texto": "B"
+        },
+        {
+          "letra": "C",
+          "texto": "C"
+        },
+        {
+          "letra": "D",
+          "texto": "D"
+        },
+        {
+          "letra": "E",
+          "texto": "E"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Eletromagnetismo",
+        "Física – Força Magnética"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "O circuito da Figura 1 é empregado para medir a temperatura de um cômodo. Um dos componentes do circuito é o termistor, que é um resistor cuja resistência varia com a temperatura. Considerando o comportamento da resistência dado pelo gráfico da Figura 2 e o fato da potência fornecida pela fonte de $15 V$ ser de $22,5 W$, a temperatura do cômodo, em $°C$, é: (A Figura 1 mostra um circuito com uma fonte de 15 V, um resistor de $10 \\ \\Omega$, um termistor (representado como um resistor com um círculo) e um resistor de $4 \\ \\Omega$. Todos estão em série. A Figura 2 mostra um gráfico de $R(\\Omega)$ versus $T(°C)$. A curva vai de $R=30$ para $T=0$ até $R=5$ para $T=100$, linearmente decrescente.)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "100"
+        },
+        {
+          "letra": "B",
+          "texto": "80"
+        },
+        {
+          "letra": "C",
+          "texto": "60"
+        },
+        {
+          "letra": "D",
+          "texto": "40"
+        },
+        {
+          "letra": "E",
+          "texto": "20"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Circuitos Elétricos",
+        "Física – Termodinâmica",
+        "Física – Resistência Elétrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Considere duas máquinas térmicas onde a potência de acionamento de um ciclo de refrigeração é obtida integralmente através da potência disponibilizada por um ciclo motor.\nDados:\n*   temperatura de fonte quente do ciclo motor: $727 \\ °C$;\n*   temperatura de fonte fria do ciclo motor: $27 \\ °C$;\n*   temperatura de fonte quente do ciclo de refrigeração: $27 \\ °C$;\n*   taxa de calor rejeitado da fonte quente no ciclo motor: $800 \\ kJ/min$;\n*   taxa de calor rejeitado do ciclo de refrigeração para a fonte quente: $5040 \\ kJ/min$.\nObservação:\n*   admita que os dois ciclos são compostos por processos termodinamicamente reversíveis.\nNo contexto das informações acima, a temperatura da fonte fria do ciclo de refrigeração, em $°C$, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-1/3"
+        },
+        {
+          "letra": "B",
+          "texto": "9/2"
+        },
+        {
+          "letra": "C",
+          "texto": "22/3"
+        },
+        {
+          "letra": "D",
+          "texto": "-19/3"
+        },
+        {
+          "letra": "E",
+          "texto": "-5/2"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Termodinâmica",
+        "Física – Máquinas Térmicas",
+        "Física – Ciclo de Carnot"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Três partículas puntiformes de mesmas cargas positivas são fixadas, todas sobre o eixo $x$, no interior do círculo tracejado centrado em uma delas. Uma quarta partícula de carga negativa é fixada por uma haste isolante sobre o eixo $y$, seguindo a geometria indicada.\nDados:\n*   cargas das partículas positivas: $+Q$;\n*   carga da partícula negativa: $-Q$;\n*   constante eletrostática do meio: $k$.\nObservação:\n*   despreze as forças gravitacionais.\n(A imagem mostra um sistema de coordenadas x-y. Três cargas '+Q' estão no eixo x em posições -12a, -5a e 5a. Uma carga '-Q' está no eixo y em uma posição acima do 0, conectada por uma haste ao ponto (0,0). Um círculo tracejado está centrado na carga em -5a.)\nA força de compressão na haste é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$(1/12^2 + 24/13^3)(kQ^2/a^2)$"
+        },
+        {
+          "letra": "B",
+          "texto": "$(1/12^2 + 2/13^2)(kQ^2/a^2)$"
+        },
+        {
+          "letra": "C",
+          "texto": "$(1/12^2 + 5/13^3)(kQ^2/a^2)$"
+        },
+        {
+          "letra": "D",
+          "texto": "$(1/12^2 + 10/13^3)(kQ^2/a^2)$"
+        },
+        {
+          "letra": "E",
+          "texto": "$(1/12^2 + 12/13^3)(kQ^2/a^2)$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Eletrostática",
+        "Física – Lei de Coulomb",
+        "Física – Força Elétrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Devido à interação gravitacional com uma estrela, localizada no ponto $(0,0)$, um asteroide desloca-se ao longo da seguinte trajetória, indicada na figura: $$ y = \\frac{x^2}{2b} - \\frac{b}{2} $$ Dados:\n*   constante universal da gravitação: $G$;\n*   massa da estrela: $M$;\n*   massa do asteroide: $m$.\nObservações:\n*   $M \\gg m$ para que se possa considerar a estrela fixa em $(0,0)$;\n*   a circunferência de raio $b$ tem o mesmo raio de curvatura da parábola em seu vértice;\n*   a velocidade do asteroide para $y \\gg b$ é desprezível.\n(A imagem mostra uma trajetória parabólica com uma estrela na origem (0,0). A parábola abre para cima, com vértice em (0, -b/2). Um círculo de raio b está no vértice da parábola.)\nA velocidade escalar do asteroide quando ele passa pelo ponto mais próximo da estrela é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\sqrt{2GM/b}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$2\\sqrt{GM/b}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{1}{2}\\sqrt{GM/b}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\sqrt{GM/(2b)}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\sqrt{GM/b}$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Gravitação",
+        "Física – Energia Mecânica",
+        "Física – Órbitas"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Um tubo capilar de comprimento $5a$ é fechado em ambas as extremidades. Ele contém ar seco, que preenche o espaço no tubo não ocupado por uma coluna de mercúrio de densidade $d$ e comprimento $a$. Quando o tubo está na posição horizontal, as colunas de ar seco medem $2a$ cada. Levando lentamente o tubo para a posição vertical, sem que se passe ar de uma extremidade à outra, os comprimentos das colunas de ar tornam-se $a$ e $3a$. Nessas condições, considerando a temperatura constante e sendo $g$ a aceleração da gravidade, a pressão no tubo capilar, quando em posição horizontal (situação da Figura 1), é: (A Figura 1 mostra um tubo horizontal com uma coluna de mercúrio de comprimento 'a' no meio, ladeada por duas colunas de ar de comprimento '2a' cada. A Figura 2 mostra o tubo na vertical, com a coluna de mercúrio 'a' na parte inferior, uma coluna de ar 'a' acima dela e outra coluna de ar '3a' no topo.)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{1}{4}dga$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{1}{2}dga$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{3}{4}dga$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{3}{5}dga$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{2}{3}dga$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Termodinâmica",
+        "Física – Gases Ideais",
+        "Física – Fluidos"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Um engenheiro militar precisa estimar o número de cunhetes de munição que podem ser levados para uma operação anfíbia com um veículo blindado de 6 rodas. Na operação, serão empregados 11 militares e as dimensões externas do veículo são apresentadas nas figuras acima.\nDados:\n*   massa média dos militares (com equipamento individual de combate): $100 \\ kg$;\n*   massa total do veículo blindado: $15000 \\ kg$;\n*   massa de um cunhete de munição: $5 \\ kg$;\n*   massa específica da água: $1000 \\ kg/m^3$;\n*   aceleração da gravidade (vertical): $g = 10 \\ m/s^2$;\n*   $\\pi \\times 0,6^2 \\times 0,4 \\approx 0,45$;\n*   $0,8 \\times 6,6 \\times 2,7 \\approx 14,3$.\nObservações:\n*   desconsidere os movimentos do veículo com relação à água e as restrições volumétricas para o acondicionamento dos cunhetes de munição;\n*   o centro de massa do conjunto é tal que a linha limite indicada na figura esteja na horizontal e o ponto de aplicação do empuxo esteja na mesma vertical e acima do ponto de aplicação do peso.\n(A imagem mostra duas vistas de um veículo: uma vista lateral com dimensões de $120 \\text{cm}$ de altura e $620 \\text{cm}$ de comprimento, com um corte inclinado de $45°$ na parte traseira, e $80 \\text{cm}$ da base à linha d'água. Uma vista isométrica mostra $270 \\text{cm}$ de largura e $40 \\text{cm}$ da base. Há um vetor de gravidade $g$ e uma linha limite da água.)\nPara que o veículo flutue sem que a água atinja a linha limite indicada em sua vista lateral, o número máximo de cunhetes de munição a serem acondicionados no veículo deverá ser de, aproximadamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "160"
+        },
+        {
+          "letra": "B",
+          "texto": "180"
+        },
+        {
+          "letra": "C",
+          "texto": "200"
+        },
+        {
+          "letra": "D",
+          "texto": "220"
+        },
+        {
+          "letra": "E",
+          "texto": "240"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Hidrostática",
+        "Física – Empuxo",
+        "Física – Massa e Densidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Dois cursores se movem sem atrito pelos eixos cartesianos, mantendo as molas indicadas na figura paralelas a eles. Presa em uma das extremidades de cada mola, uma partícula de massa $m$ percorre portanto uma trajetória elíptica. Seja $E_x$ a energia potencial elástica da mola com cursor deslizante sobre o eixo $x$.\nDados:\n*   equação da trajetória: $4x^2 - 32x + 9y^2 – 54y + 109 = 0$ (todas as distâncias em metros);\n*   constante elástica de cada mola: $k$.\n(A imagem mostra uma partícula 'm' conectada a duas molas de constante 'k'. Uma mola está horizontal no eixo x, a outra vertical no eixo y. A partícula está descrevendo uma trajetória elíptica.)\nO valor máximo de $E_x$ é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2k$"
+        },
+        {
+          "letra": "B",
+          "texto": "$4k$"
+        },
+        {
+          "letra": "C",
+          "texto": "$9/2 k$"
+        },
+        {
+          "letra": "D",
+          "texto": "$9k$"
+        },
+        {
+          "letra": "E",
+          "texto": "$3/2 k$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Mecânica Clássica",
+        "Física – Energia Potencial Elástica",
+        "Física – Movimento Harmônico Simples"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Um material radioativo é colocado num compartimento que viaja a uma velocidade muito alta. Assim, seu tempo de meia vida aumenta em relação ao referencial inercial, embora não seja afetado no referencial do compartimento, como mostra o gráfico acima. Um experimento é realizado com duas amostras iguais A e B desse material, sendo A colocada dentro do compartimento e B estando no referencial inercial.\nDados:\n*   velocidade da luz no vácuo: $c$;\n*   tempo de meia vida do material radioativo no referencial inercial: $dt$.\n(O gráfico \"Tempo de meia vida x velocidade\" mostra o tempo de meia vida (eixo y) em múltiplos de 'dt' e a velocidade (eixo x) em múltiplos de 'c'. A curva começa em dt para v=0 e aumenta para ~3dt em v=0.9c. Pontos marcados incluem $0.1c, 0.3c, 0.5c, 0.7c, 0.9c$ no eixo x e $dt, 2dt, 3dt$ no eixo y.)\nA velocidade aproximada, estimada pelo gráfico, necessária para a viagem do compartimento de forma que a quantidade percentual da amostra A remanescente da desintegração exponencial seja o dobro se comparada com a percentual remanescente da desintegração da amostra B, após 5 vezes o tempo de meia vida em referencial inercial, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$0,50 \\ c$"
+        },
+        {
+          "letra": "B",
+          "texto": "$0,70 \\ c$"
+        },
+        {
+          "letra": "C",
+          "texto": "$0,90 \\ c$"
+        },
+        {
+          "letra": "D",
+          "texto": "$0,95 \\ c$"
+        },
+        {
+          "letra": "E",
+          "texto": "$0,60 \\ c$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Relatividade Restrita",
+        "Física – Dilatação do Tempo",
+        "Física – Decaimento Radioativo"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "A figura mostra duas roldanas presas ao teto por hastes verticais, duas partículas de massa $m$ e uma barra horizontal funcionando como uma “gangorra”. O sistema está inicialmente em repouso.\nDado:\n*   aceleração da gravidade: $g$.\nObservações:\n*   as hastes, roldanas e barra possuem massas desprezíveis;\n*   o fio que passa pelas roldanas é ideal e inextensível;\n*   os segmentos de fio desenhados na figura estão na vertical.\n(A imagem mostra duas roldanas, uma de raio 'r' (A) e outra de raio '2r' (B). A roldana A está suspensa, e uma massa 'm' pende dela. A roldana B está conectada a uma barra horizontal que atua como gangorra, com uma massa 'm' na ponta direita. A barra é pivotada. Distâncias de 2m e 5m são mostradas.)\nDe acordo com os dados listados, geometria apresentada e pelo princípio da conservação da energia, o sistema, ao ser liberado, provoca uma aceleração inicial instantânea para baixo na partícula da direita de aproximadamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$30/29 \\ g$"
+        },
+        {
+          "letra": "B",
+          "texto": "$5/7 \\ g$"
+        },
+        {
+          "letra": "C",
+          "texto": "$15/29 \\ g$"
+        },
+        {
+          "letra": "D",
+          "texto": "$5/21 \\ g$"
+        },
+        {
+          "letra": "E",
+          "texto": "$1/5 \\ g$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Dinâmica",
+        "Física – Roldanas",
+        "Física – Conservação de Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Um drone quadricóptero de massa $m$ é controlado por seu operador, de forma a executar uma trajetória vertical com aceleração constante para cima. De repente, seus quatro motores falham ao mesmo tempo e param bruscamente. Por conta de sua velocidade vertical já adquirida, o quadricóptero ainda continua sua trajetória para cima após a falha, atingindo ao final uma altura máxima $h$ após $\\Delta t$ desde a partida do chão. Sabe-se que a força vertical $F$ gerada por cada motor do drone é diretamente proporcional ao quadrado da velocidade angular $\\omega$ do mesmo propulsor.\nDados:\n*   massa do drone: $m = 190 \\ g$;\n*   altura máxima atingida pelo drone, incluindo aceleração e desaceleração: $h = 9 \\ m$;\n*   tempo de voo total do drone desde a saída do chão até atingir a altura máxima: $\\Delta t = 6 \\ s$;\n*   força vertical gerada por cada motor do drone: $F = C_T\\omega^2$;\n*   constante de proporcionalidade: $C_T = 5 \\times 10^{-7}N.s^2/rad^2$;\n*   aceleração da gravidade: $g = 10 \\ m/s^2$.\nObservação:\n*   considere que os propulsores atinjam suas velocidades angulares instantaneamente assim que comandados.\n(A imagem mostra um drone quadricóptero com quatro hélices. Há um vetor de gravidade 'g' apontando para baixo e setas indicando as hélices girando.)\nA velocidade angular dos propulsores imediatamente antes da falha, em $rad/s$, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$4 \\times 10^3$"
+        },
+        {
+          "letra": "B",
+          "texto": "$1 \\times 10^6$"
+        },
+        {
+          "letra": "C",
+          "texto": "$1 \\times 10^3$"
+        },
+        {
+          "letra": "D",
+          "texto": "$2 \\times 10^3$"
+        },
+        {
+          "letra": "E",
+          "texto": "$2 \\times 10^6$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Dinâmica",
+        "Física – Cinemática",
+        "Física – Força e Movimento"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "A figura ilustra uma cunha de massa $M$, cujo ângulo de inclinação em relação à horizontal é $\\alpha$, que repousa sobre a superfície do solo. Um bloco de massa $m$ é colocado sobre a cunha a uma altura arbitrária acima do solo. O sistema é liberado a partir do repouso.\nDado:\n*   aceleração da gravidade: $g$.\nObservação:\n*   despreze os atritos entre o bloco e a cunha e entre a cunha e o solo.\n(A imagem mostra uma cunha de massa 'M' em um plano horizontal, com um ângulo de inclinação 'alpha'. Um bloco de massa 'm' está no topo da cunha. Eixos x e y estão indicados.)\nA tangente do ângulo entre o vetor velocidade do bloco e o eixo $x$ é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\left(\\frac{M}{m+M}\\right) \\tan \\alpha$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\left(1+\\frac{m}{M}\\right) \\tan \\alpha$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\tan \\alpha$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\sqrt{1+\\frac{m}{M}} \\tan \\alpha$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\left(1+\\sqrt{\\frac{m}{M}}\\right) \\tan \\alpha$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Leis de Newton",
+        "Física – Dinâmica de Sistemas",
+        "Física – Conservação do Momento Linear"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Uma placa de vidro é revestida com uma camada de plástico transparente de índice de refração $n$ para que o reflexo no vidro de uma onda incidente quase ortogonalmente de comprimento de onda $\\lambda$ no ar seja eliminado por interferência.\nDados:\n*   índice de refração da camada de plástico: $n = 1,2$;\n*   máxima espessura permitida para a camada de plástico: $D = 1\\mu m$;\n*   comprimento de onda no ar da onda incidente: $\\lambda = 500 \\ nm$.\n(A imagem mostra uma luz incidente vindo do ar, passando por uma camada de plástico de espessura 'd' e índice de refração 'n', e depois para o vidro com índice de refração '$>n$'. Parte da luz é refletida na interface ar-plástico e parte na interface plástico-vidro. O ângulo de incidência é $\\theta$, com $\\sin(\\theta) \\approx 0$.)\nSe a espessura $d$ da camada de plástico não pode ser maior que $D$, o número de valores possíveis para $d$ que eliminem o reflexo é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        },
+        {
+          "letra": "E",
+          "texto": "5"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Óptica Ondulatória",
+        "Física – Interferência em Filmes Finos",
+        "Física – Índices de Refração"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Considere uma fonte sonora estacionária emitindo ondas de frequência $f_0 = 1000 \\ Hz$, a $20 \\ m$ de uma parede plana que se move afastando-se da fonte à velocidade constante $u = 34 \\ m/s$. Inicialmente, há um drone posicionado entre a fonte e a parede, a $15 \\ m$ da fonte, que também se afasta da fonte à velocidade $v = 17 \\ m/s$.\nDado:\n*   velocidade do som no ar: $340 \\ m/s$.\nObservação:\n*   as ondas sonoras são completamente refletidas pela superfície da parede, não havendo absorção.\n(A imagem mostra uma \"Fonte\" emitindo som, uma \"Parede\" que se afasta com velocidade 'u', e um \"Drone\" entre a fonte e a parede, afastando-se da fonte com velocidade 'v'. As distâncias e direções são indicadas.)\nA frequência de batimento percebida pelos sensores do drone devido à superposição entre os sons percebidos (direto da fonte e refletido na parede) é de, aproximadamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$132 \\ Hz$"
+        },
+        {
+          "letra": "B",
+          "texto": "$66 \\ Hz$"
+        },
+        {
+          "letra": "C",
+          "texto": "$81 \\ Hz$"
+        },
+        {
+          "letra": "D",
+          "texto": "$91 \\ Hz$"
+        },
+        {
+          "letra": "E",
+          "texto": "$101 \\ Hz$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Ondas Sonoras",
+        "Física – Efeito Doppler",
+        "Física – Batimentos"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Um objeto é colocado entre uma lente convergente e um espelho côncavo, conforme mostra a geometria da figura. A imagem do objeto no espelho e o próprio objeto geram duas imagens A e B na lente.\nDados:\n*   distância focal da lente: $3 \\ m$;\n*   distância focal do espelho: $6 \\ m$;\n*   distância entre a lente e o espelho: $9 \\ m$.\n(A imagem mostra uma lente convergente à esquerda e um espelho côncavo à direita. Um objeto está entre eles. A distância entre a lente e o espelho é de $9 \\ m$. A distância 'd' do objeto à lente é indicada.)\nA distância em metros entre $A$ e $B$, quando $d = 6 \\ m$, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,50"
+        },
+        {
+          "letra": "B",
+          "texto": "3,75"
+        },
+        {
+          "letra": "C",
+          "texto": "3,50"
+        },
+        {
+          "letra": "D",
+          "texto": "0"
+        },
+        {
+          "letra": "E",
+          "texto": "2,25"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Óptica Geométrica",
+        "Física – Lentes Esféricas",
+        "Física – Espelhos Esféricos"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Qual é, aproximadamente, o número de moléculas em $22,4 \\ litros$ de água, em $1 \\ atm$ e $4 \\ °C$?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$3,01 \\times 10^{23}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$6,02 \\times 10^{23}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$7,46 \\times 10^{26}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$1,20 \\times 10^{27}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$2,99 \\times 10^{25}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Estequiometria",
+        "Química – Propriedades da Água",
+        "Química – Constante de Avogadro"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "As transições de fase são acompanhadas por variações nas propriedades termodinâmicas. Dependendo do comportamento da entalpia $(H)$ com a temperatura $(T)$, é possível classificar as transições de fase como de primeira e de segunda ordem, conforme as representações abaixo.\n(Duas figuras mostram gráficos de H versus T. A primeira, \"Transição de fase de primeira ordem\", mostra H subindo, um salto vertical em H em $T_{trs}$, e depois subindo novamente. As fases $\\alpha$ e $\\beta$ estão indicadas. A segunda, \"Transição de fase de segunda ordem\", mostra H subindo e mudando de inclinação em $T_{trs}$, mas sem salto em H. As fases $\\alpha$ e $\\beta$ estão indicadas.)\nNa transição entre as fases $\\alpha$ e $\\beta$, considere que:\ni. $T_{trs}$ é a temperatura de transição;\nii. $\\Delta H$ é a variação de entalpia;\niii. $\\Delta S$ é a variação de entropia;\niv. $\\Delta G$ é a variação da energia de Gibbs.\nCom base nas informações apresentadas e nas relações termodinâmicas, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As transições de fase de primeira e de segunda ordem apresentam $\\Delta H \\ne 0$."
+        },
+        {
+          "letra": "B",
+          "texto": "Na transição de fase de primeira ordem $\\Delta G \\ne 0$."
+        },
+        {
+          "letra": "C",
+          "texto": "Na transição de fase de primeira ordem $\\Delta S = 0$."
+        },
+        {
+          "letra": "D",
+          "texto": "Na transição de fase de segunda ordem $\\Delta S \\ne 0$."
+        },
+        {
+          "letra": "E",
+          "texto": "Na transição de fase de segunda ordem $\\Delta G = \\Delta H = \\Delta S = 0$."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Termodinâmica",
+        "Química – Transições de Fase",
+        "Química – Entalpia, Entropia e Energia de Gibbs"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Considere as estruturas de células unitárias representadas a seguir:\n(Quatro figuras de células unitárias cúbicas são mostradas, rotuladas I, II, III, IV. Cada uma tem pontos pretos e brancos em diferentes posições (vértices, faces, centro, arestas).\nFigura I: Ponto branco no centro, pontos pretos nos 8 vértices.\nFigura II: Pontos brancos nos 8 vértices e no centro das 6 faces, pontos pretos no centro do cubo.\nFigura III: Ponto branco no centro do cubo, pontos pretos nos 8 vértices.\nFigura IV: Pontos brancos nos 8 vértices e no centro das 6 faces, pontos pretos em posições intersticulares dentro do cubo.)\nCom base nos raios iônicos $r$, indique quais das células unitárias podem corresponder, respectivamente, às estruturas do cloreto de césio e do cloreto de sódio.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e III."
+        },
+        {
+          "letra": "B",
+          "texto": "I e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III."
+        },
+        {
+          "letra": "D",
+          "texto": "II e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "III e IV."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Cristalografia",
+        "Química – Estruturas Iônicas",
+        "Química – Cloreto de Césio",
+        "Química – Cloreto de Sódio"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "O gráfico abaixo foi construído a partir da medida da velocidade de reação $(r_A)$ e da concentração $(C_A)$ de uma substância $A$ em dois momentos sucessivos, inicial (1) e final (2): (O gráfico mostra \"log $r_A$\" no eixo y e \"log $C_A$\" no eixo x. Há uma linha reta decrescente. O ponto (1) está à direita e abaixo do ponto (2). Ambos os eixos têm um \"0\" indicado.)\nAnalisando o gráfico, pode-se afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "essa reação é de ordem zero em relação à substância A."
+        },
+        {
+          "letra": "B",
+          "texto": "a substância A é um produto."
+        },
+        {
+          "letra": "C",
+          "texto": "essa reação é de ordem negativa em relação à substância A."
+        },
+        {
+          "letra": "D",
+          "texto": "a constante de velocidade dessa reação é negativa."
+        },
+        {
+          "letra": "E",
+          "texto": "essa reação é de ordem fracionária positiva em relação à substância A."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Cinética Química",
+        "Química – Ordem de Reação",
+        "Química – Leis de Velocidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Sabe-se que uma substância contém, em sua molécula, carbono e hidrogênio e, suspeita-se que também contenha oxigênio, descartando-se completamente a possibilidade da presença de outros átomos na sua estrutura. Nas CNTP, essa substância se encontra em estado gasoso com massa específica igual a $2,05 \\ g/L$. Quando $46 \\ g$ da substância são queimados com oxigênio em excesso, resultam $88 \\ g$ de dióxido de carbono e $54 \\ g$ de água.\nPode-se afirmar que a substância é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Etanol."
+        },
+        {
+          "letra": "B",
+          "texto": "Etano."
+        },
+        {
+          "letra": "C",
+          "texto": "Acetileno."
+        },
+        {
+          "letra": "D",
+          "texto": "Dimetil éter."
+        },
+        {
+          "letra": "E",
+          "texto": "Só pode ser determinada se for informado o valor do excesso de oxigênio empregado."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Estequiometria",
+        "Química – Reações de Combustão",
+        "Química – Química Orgânica",
+        "Química – Massa Molar de Gases"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "O aminoácido glicina $(\\text{NH}_2\\text{-CH}_2\\text{-COOH})$, em solução aquosa, pode receber e/ou liberar prótons e se converter em $\\text{NH}_3^+\\text{-CH}_2\\text{-COOH}$, $\\text{NH}_3^+\\text{-CH}_2\\text{-COO}^-$ e $\\text{NH}_2\\text{-CH}_2\\text{-COO}^-$. Essas espécies químicas podem participar das reações indicadas a seguir que possuem, respectivamente, $pK_1$ e $pK_2$: $$ \\text{NH}_3^+\\text{-CH}_2\\text{-COOH} \\rightleftharpoons \\text{H}^+ + \\text{NH}_3^+\\text{-CH}_2\\text{-COO}^- $$ $$ \\text{NH}_3^+\\text{-CH}_2\\text{-COO}^- \\rightleftharpoons \\text{H}^+ + \\text{NH}_2\\text{-CH}_2\\text{-COO}^- $$ Considerando as informações apresentadas, qual o pH do ponto isoelétrico da glicina?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7"
+        },
+        {
+          "letra": "B",
+          "texto": "$pK_1 \\cdot pK_2$"
+        },
+        {
+          "letra": "C",
+          "texto": "$(pK_1 \\cdot pK_2)^{1/2}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$2(pK_1+pK_2)$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{1}{2}(pK_1+pK_2)$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Eletroquímica",
+        "Química – Aminoácidos",
+        "Química – pH e pKa",
+        "Química – Ponto Isoelétrico"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "A hidrazina $(\\text{N}_2\\text{H}_4)$ é uma base diprótica fraca que pode formar vários sais anidros com ácido sulfúrico. Assinale a única alternativa que contém três fórmulas mínimas de sais anidros que podem, em teoria, ser formados.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\text{N}_2\\text{H}_6\\text{SO}_4$; $\\text{N}_4\\text{H}_{10}\\text{SO}_4$; $\\text{NH}_4\\text{SO}_4$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\text{N}_2\\text{H}_6\\text{SO}_4$; $\\text{N}_4\\text{H}_{10}\\text{SO}_4$; $\\text{NH}_2\\text{SO}_3$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\text{N}_2\\text{H}_6\\text{SO}_4$; $\\text{N}_4\\text{H}_8\\text{SO}_3$; $\\text{NH}_4\\text{SO}_4$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\text{N}_2\\text{H}_4\\text{SO}_3$; $\\text{N}_4\\text{H}_{10}\\text{SO}_4$; $\\text{NH}_2\\text{SO}_3$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\text{N}_2\\text{H}_4\\text{SO}_3$; $\\text{N}_4\\text{H}_8\\text{SO}_3$; $\\text{NH}_2\\text{SO}_3$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Química Inorgânica",
+        "Química – Reações Ácido-Base",
+        "Química – Sais"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "A budesonida é um esteroide glicocorticoide, usado no tratamento de rinite não infecciosa. Sua estrutura molecular está mostrada a seguir:\n(Uma imagem mostra a estrutura molecular da Budesonida, com vários anéis, grupos -OH e uma cadeia lateral complexa. Pontos de quiralidade são marcados com linhas tracejadas e sólidas para indicar estereoquímica.)\nConsiderando essa estrutura, são feitas as seguintes afirmações:\nI. A fórmula molecular da budesonida é $\\text{C}_{24}\\text{H}_{32}\\text{O}_6$.\nII. A molécula possui 8 carbonos quirais.\nIII. Cetona, ácido e éter são funções orgânicas encontradas na molécula.\nIV. Acusa resultado negativo quando submetida ao teste com Reagente de Tollens.\nCom base na análise das afirmações acima, assinale a opção correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Nenhuma afirmação é verdadeira."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas uma afirmação é verdadeira."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas duas afirmações são verdadeiras"
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas três afirmações são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as afirmações são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Química Orgânica",
+        "Química – Esteroides",
+        "Química – Isomeria Óptica",
+        "Química – Grupos Funcionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Um terço do calor padrão de reação liberado pela combustão completa de $1 \\ mol$ do gás sulfeto de carbonila, na presença de ar atmosférico, é transferido para $1 \\ kg$ de água, mantida no estado líquido sob pressão.\nConsidere:\n*   Composição molar do ar atmosférico: $21\\% \\text{ O}_2 / 79\\% \\text{ N}_2$\n*   Calor específico da água líquida: $4,2 \\ kJ/(kg\\cdot°C)$\n*   $\\Delta H_f^°$ do sulfeto de carbonila: $-142 \\ kJ/mol$\n*   $\\Delta H_f^°$ do dióxido de carbono: $-393 \\ kJ/mol$\n*   $\\Delta H_f^°$ do dióxido de enxofre: $-296 \\ kJ/mol$\nA variação de temperatura experimentada pela água, em $°C$, nessas condições, é de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "86"
+        },
+        {
+          "letra": "B",
+          "texto": "65"
+        },
+        {
+          "letra": "C",
+          "texto": "110"
+        },
+        {
+          "letra": "D",
+          "texto": "43"
+        },
+        {
+          "letra": "E",
+          "texto": "130"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Termoquímica",
+        "Química – Entalpia de Formação",
+        "Química – Calorimetria"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Durante uma pesquisa sobre metabolismo energético em organismos vivos, um bioquímico analisou diferentes tipos de lipídios presentes em amostras biológicas.\nSobre os lipídios, analise as afirmativas abaixo.\nI. Os lipídios, tais como os triacilgliceróis, os cerídeos e os esteroides, são moléculas orgânicas que não são solúveis em água e éter dimetílico, devido a sua natureza apolar.\nII. Os lipídios podem ser formados a partir da reação de ácidos graxos saturados como o ácido graxo de fórmula molecular $\\text{C}_{18}\\text{H}_{36}\\text{O}_2$ e o glicerol.\nIII. O ácido graxo de fórmula molecular $\\text{C}_{14}\\text{H}_{26}\\text{O}_2$ apresenta ponto de fusão mais alto que o ácido graxo de fórmula molecular $\\text{C}_{14}\\text{H}_{28}\\text{O}_2$ devido ao aumento das forças de dispersão de London.\nIV. Os triacilgliceróis são formados a partir de ésteres de ácidos carboxílicos, com cadeias carbônicas iguais ou diferentes, e glicerol. A sua hidrólise alcalina (saponificação) produz glicerol e sais de ácidos carboxílicos.\nAssinale a opção que apresenta APENAS afirmativas verdadeiras:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II"
+        },
+        {
+          "letra": "B",
+          "texto": "II e IV"
+        },
+        {
+          "letra": "C",
+          "texto": "II e III"
+        },
+        {
+          "letra": "D",
+          "texto": "III e IV"
+        },
+        {
+          "letra": "E",
+          "texto": "I e IV"
+        }
+      ],
+      "opcaoCorreta": "ANULADA",
+      "conteudo": [
+        "Química – Bioquímica",
+        "Química – Lipídios",
+        "Química – Química Orgânica"
+      ]
+    }
+  ]
+}

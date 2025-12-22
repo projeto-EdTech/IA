@@ -1,0 +1,924 @@
+{
+  "nomeUniversidade": "Universidade Estadual Paulista",
+  "siglaUniversidade": "UNESP",
+  "nomeProva": "Prova de Conhecimentos Gerais",
+  "ano": 2023,
+  "qtdeQuestoes": 90,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Examine a tirinha do cartunista Silva João, publicada em sua conta do Instagram em 26.09.2019.\n\nO efeito de humor da tirinha está centrado na ambiguidade do termo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"inspire\"."
+        },
+        {
+          "letra": "B",
+          "texto": "\"cheguei\"."
+        },
+        {
+          "letra": "C",
+          "texto": "\"bolso\"."
+        },
+        {
+          "letra": "D",
+          "texto": "\"acreditei\"."
+        },
+        {
+          "letra": "E",
+          "texto": "\"sonho\"."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Para responder às questões de 02 a 07, leia o trecho do conto \"A menina, as aves e o sangue\", do escritor moçambicano Mia Couto (1955- ).\n\nAconteceu, certa vez, uma menina a quem o coração batia só de quando em enquantos. A mãe sabia que o sangue estava parado pelo roxo dos lábios, palidez nas unhas. Se o coração estancava por demasia de tempo a menina começava a esfriar e se cansava muito. A mãe, então, se afligia: roía o dedo e deixava a unha intacta. Até que o peito da filha voltava a dar sinal:\n— Mãe, venha ouvir: está a bater!\nA mãe acorria, debruçando a orelha sobre o peito estreito que soletrava pulsação. E pareciam, as duas, presenciando pingo de água em pleno deserto. Depois, o sangue dela voltava a calar, resina empurrando a arrastosa vida.\nAté que, certa noite, a mulher ganhou para o susto. Foi quando ela escutou os pássaros. Sentou na cama: não eram só piares, chilreinações. Eram rumores de asas, brancos drapejos de plumas. A mãe se ergueu, pé descalço pelo corredor. Foi ao quarto da menina e joelhou-se junto ao leito. Sentiu a transpiração, reconheceu o seu próprio cheiro. Quando lhe ia tocar na fronte a menina despertou:\n— Mãe, que bom, me acordou! Eu estava sonhar pássaros.\nA mãe sortiu-se de medo, aconchegou o lençol como se protegesse a filha de uma maldição. Ao tocar no lençol uma pena se desprendeu e subiu, levinha, volteando pelo ar. A menina suspirou e a pluma, algodão em asa, de novo se ergueu, rodopiando por alturas do tecto. A mãe tentou apanhar a errante plumagem. Em vão, a pena saiu voando pela janela. A senhora ficou espreitando a noite, na ilusão de escutar a voz de um pássaro. Depois, retirou-se, adentrando-se na solidão do seu quarto. Dos pássaros selou-se o segredo, só entre as duas.[...]\nCom o tempo, porém, cada vez menos o coração se fazia frequente. Quase deixou de dar sinais à vida. Até que essa imobilidade se prolongou por consecutivas demoras. A menina falecera? Não se vislumbravam sinais dessa derradeiragem. Pois ela seguia praticando vivências, brincando, sempre cansadinha, resfriorenta. Uma só diferença se contava. Já à noite a mãe não escutava os piares.\n— Agora não sonha, filha?\n— Ai mãe, está tão escuro no meu sonho!\nSó então a mãe arrepiou decisão e foi à cidade:\n— Doutor, lhe respeito a permissão: queria saber a saúde de minha única. É seu peito... nunca mais deu sinal.\nO médico corrigiu os óculos como se entendesse rectificar a própria visão. Clareou a voz, para melhor se autorizar. E disse:\n— Senhora, vou dizer: a sua menina já morreu.\n— Morta, a minha menina? Mas, assim...?\n— Esta é a sua maneira de estar morta.\nA senhora escutou, mãos juntas, na educação do colo. Anuindo com o queixo, ia esbugalhando o médico. Todo seu corpo dizia sim, mas ela, dentro do seu centro, duvidava. Pode-se morrer assim com tanta leveza, que nem se nota a retirada da vida? E o médico, lhe amparando, já na porta:\n— Não se entristonhe, a morte é o fim sem finalidade.\nA mãe regressou à casa e encontrou a filha entoando danças, cantarolando canções que nem existem. Se chegou a ela, tocou-lhe como se a miúda inexistisse. A sua pele não desprendia calor.\n— Então, minha querida não escutou nada?\nEla negou. A mãe percorreu o quarto, vasculhou recantos. Buscava uma pena, o sinal de um pássaro. Mas nada não encontrou. E assim, ficou sendo, então e adiante.\nCada vez mais fria, a moça brinca, se aquece na torreira do sol. Quando acorda, manhã alta, encontra flores que a mãe depositou ao pé da cama. Ao fim da tarde, as duas, mãe e filha, passeiam pela praça e os velhos descobrem a cabeça em sinal de respeito.\nE o caso se vai seguindo, estória sem história. Uma única, silenciosa, sombra se instalou: de noite, a mãe deixou de dormir. Horas a fio a sua cabeça anda em serviço de escutar, a ver se regressam as vozearias das aves.\n(Mia Couto. A menina sem palavra, 2013.)\n\n\"E pareciam, as duas, presenciando pingo de água em pleno deserto.\" (3º parágrafo)\nNo contexto do conto, \"pingo de água\" e \"pleno deserto\" referem-se, metaforicamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à pulsação da filha e ao peito da filha, respectivamente."
+        },
+        {
+          "letra": "B",
+          "texto": "à filha e à mãe, respectivamente."
+        },
+        {
+          "letra": "C",
+          "texto": "ao peito da filha e à pulsação da filha, respectivamente."
+        },
+        {
+          "letra": "D",
+          "texto": "à orelha da mãe e ao peito da filha, respectivamente."
+        },
+        {
+          "letra": "E",
+          "texto": "à mãe e à filha, respectivamente."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Além da variedade de discursos diretos e indiretos, a narrativa de ficção, a partir das últimas décadas do século XIX, utiliza um tipo de discurso que consiste na combinação dos já existentes, misturando valores estilísticos de um e de outro: é o discurso indireto livre. O discurso indireto livre não deixa claro quem está com a palavra, se o narrador ou a personagem.\n(Nilce Sant’Anna Martins. Introdução à estilística, 1989. Adaptado.)\nConstitui exemplo de discurso indireto livre o seguinte trecho:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“— Ai mãe, está tão escuro no meu sonho!\" (9º parágrafo)"
+        },
+        {
+          "letra": "B",
+          "texto": "“A mãe, então, se afligia: roía o dedo e deixava a unha intacta.\" (1º parágrafo)"
+        },
+        {
+          "letra": "C",
+          "texto": "\"A senhora ficou espreitando a noite, na ilusão de escutar a voz de um pássaro.\" (6º parágrafo)"
+        },
+        {
+          "letra": "D",
+          "texto": "\"Pode-se morrer assim com tanta leveza, que nem se nota a retirada da vida?\" (16º parágrafo)"
+        },
+        {
+          "letra": "E",
+          "texto": "“— Morta, a minha menina? Mas, assim...?\" (14º parágrafo)"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Tipos de Discurso"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "O narrador recorre a um enunciado aparentemente paradoxal no seguinte trecho:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Quando acorda, manhã alta, encontra flores que a mãe depositou ao pé da cama.\" (21º parágrafo)"
+        },
+        {
+          "letra": "B",
+          "texto": "\"O médico corrigiu os óculos como se entendesse rectificar a própria visão.\" (12º parágrafo)"
+        },
+        {
+          "letra": "C",
+          "texto": "\"A mãe regressou à casa e encontrou a filha entoando danças, cantarolando canções que nem existem.\" (18º parágrafo)"
+        },
+        {
+          "letra": "D",
+          "texto": "\"Ao fim da tarde, as duas, mãe e filha, passeiam pela praça e os velhos descobrem a cabeça em sinal de respeito.\" (21º parágrafo)"
+        },
+        {
+          "letra": "E",
+          "texto": "\"A mãe se ergueu, pé descalço pelo corredor.\" (4º parágrafo)"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "A linguagem poética, o emprego de neologismos e as marcas de oralidade, que podem ser identificados no texto de Mia Couto, caracterizam também a prosa do seguinte escritor brasileiro:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Guimarães Rosa."
+        },
+        {
+          "letra": "B",
+          "texto": "Graciliano Ramos."
+        },
+        {
+          "letra": "C",
+          "texto": "Machado de Assis."
+        },
+        {
+          "letra": "D",
+          "texto": "Euclides da Cunha."
+        },
+        {
+          "letra": "E",
+          "texto": "Aluísio de Azevedo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Constitui exemplo de neologismo formado pelo processo de sufixação a palavra",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"inexistisse\" (18º parágrafo)."
+        },
+        {
+          "letra": "B",
+          "texto": "\"derradeiragem\" (7º parágrafo)."
+        },
+        {
+          "letra": "C",
+          "texto": "\"intacta\" (1º parágrafo)."
+        },
+        {
+          "letra": "D",
+          "texto": "\"descobrem\" (21º parágrafo)."
+        },
+        {
+          "letra": "E",
+          "texto": "\"imobilidade\" (7º parágrafo)."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Formação de Palavras"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Ocorre o pronome apassivador \"se\" no seguinte trecho:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“A mãe, então, se afligia: roía o dedo e deixava a unha intacta.\" (1º parágrafo)"
+        },
+        {
+          "letra": "B",
+          "texto": "\"Cada vez mais fria, a moça brinca, se aquece na torreira do sol.\" (21º parágrafo)"
+        },
+        {
+          "letra": "C",
+          "texto": "\"Clareou a voz, para melhor se autorizar.\" (12º parágrafo)"
+        },
+        {
+          "letra": "D",
+          "texto": "\"E o caso se vai seguindo, estória sem história.\" (22º parágrafo)"
+        },
+        {
+          "letra": "E",
+          "texto": "\"Não se vislumbravam sinais dessa derradeiragem.\" (7º parágrafo)"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Funções do 'se'"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Examine o cartum de Paul Noth, publicado pela revista The New Yorker em 18.02.2021.\n\n\"Of course you feel great. These things are loaded with antidepressants.\"\n\nO cartum ironiza, sobretudo, um problema de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "êxodo rural."
+        },
+        {
+          "letra": "B",
+          "texto": "degradação das áreas urbanas."
+        },
+        {
+          "letra": "C",
+          "texto": "saúde pública."
+        },
+        {
+          "letra": "D",
+          "texto": "desigualdade social."
+        },
+        {
+          "letra": "E",
+          "texto": "desequilíbrio ambiental."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Sociologia – Medicalização da Sociedade",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Leia o soneto \"Descreve o que era naquele tempo a cidade da Bahia\", do poeta Gregório de Matos (1636-1696), para responder às questões de 09 a 12.\n\nA cada canto um grande conselheiro,\nQue nos quer governar cabana e vinha;\nNão sabem governar sua cozinha,\nE podem governar o mundo inteiro.\n\nEm cada porta um bem frequente olheiro,\nQue a vida do vizinho e da vizinha\nPesquisa, escuta, espreita e esquadrinha,\nPara o levar à praça e ao terreiro.\n\nMuitos mulatos desavergonhados,\nTrazidos sob os pés os homens nobres¹,\nPosta nas palmas toda a picardia,\n\nEstupendas usuras nos mercados,\nTodos os que não furtam muito pobres:\nE eis aqui a cidade da Bahia.\n\n(Gregório de Matos. Poemas escolhidos, 2010.)\n\n¹ Trazidos sob os pés os homens nobres: na visão de Gregório de Matos, os mulatos em ascensão subjugam com esperteza os verdadeiros \"homens nobres\".\n\nO soneto de Gregório de Matos constitui um exemplo da sua poesia de teor",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "nostálgico."
+        },
+        {
+          "letra": "B",
+          "texto": "satírico."
+        },
+        {
+          "letra": "C",
+          "texto": "metalinguístico."
+        },
+        {
+          "letra": "D",
+          "texto": "místico."
+        },
+        {
+          "letra": "E",
+          "texto": "encomiástico."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Barroco"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "No soneto, o eu lírico enraíza na cidade da Bahia a figuração tradicional do desconcerto do mundo. No quadro da economia colonial, esse desconcerto do mundo mostra-se associado a um momento crítico da produção",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "do açúcar."
+        },
+        {
+          "letra": "B",
+          "texto": "da borracha."
+        },
+        {
+          "letra": "C",
+          "texto": "do ouro."
+        },
+        {
+          "letra": "D",
+          "texto": "do café."
+        },
+        {
+          "letra": "E",
+          "texto": "do algodão."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Brasil Colônia",
+        "Língua Portuguesa – Literatura Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "No soneto, o pronome \"o\" refere-se a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"mundo\"."
+        },
+        {
+          "letra": "B",
+          "texto": "\"terreiro\"."
+        },
+        {
+          "letra": "C",
+          "texto": "\"conselheiro”."
+        },
+        {
+          "letra": "D",
+          "texto": "\"olheiro\"."
+        },
+        {
+          "letra": "E",
+          "texto": "\"vizinho\"."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Coesão Textual",
+        "Língua Portuguesa – Pronomes"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "No soneto, verifica-se rima entre palavras de classes gramaticais diferentes",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "em \"vizinha”/“esquadrinha\" (2ª estrofe) e em \"nobres\"/\n\"pobres\" (3ª/4ª estrofes)."
+        },
+        {
+          "letra": "B",
+          "texto": "em \"vinha”/“cozinha” (1ª estrofe) e em “olheiro”/“terreiro”\n(2ª estrofe)."
+        },
+        {
+          "letra": "C",
+          "texto": "em \"conselheiro\"/\"inteiro\" (1ª estrofe) e em “olheiro\"/\n\"terreiro\" (2ª estrofe)."
+        },
+        {
+          "letra": "D",
+          "texto": "em \"conselheiro”/“inteiro” (1ª estrofe) e em “vizinha\"/\n\"esquadrinha” (2ª estrofe)."
+        },
+        {
+          "letra": "E",
+          "texto": "em \"desavergonhados”/“mercados\" (3ª/4ª estrofes) e em\n\"nobres\"/\"pobres\" (3ª/4ª estrofes)."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Versificação",
+        "Língua Portuguesa – Classes Gramaticais"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Examine a tirinha da cartunista Laerte, publicada em sua conta do Instagram em 28.03.2022.\n\nA se acreditar na narrativa do sapo,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os solstícios e os equinócios seriam consequência de uma espécie de disputa entre o pai e a mãe da Terra."
+        },
+        {
+          "letra": "B",
+          "texto": "a Lua permaneceria imóvel no céu, quando vista da superfície da Terra."
+        },
+        {
+          "letra": "C",
+          "texto": "o dia e a noite seriam consequência de uma espécie de disputa entre o pai e a mãe da Terra."
+        },
+        {
+          "letra": "D",
+          "texto": "as quatro estações seriam consequência de uma espécie de disputa entre o pai e a mãe da Terra."
+        },
+        {
+          "letra": "E",
+          "texto": "o Sol permaneceria imóvel no céu, quando visto da superfície da Terra."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Movimentos da Terra"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Para responder às questões de 14 a 19, leia o trecho de um ensaio de Michel de Montaigne (1533-1592).\n\nHá alguma razão em fazer o julgamento de um homem pelos aspectos mais comuns de sua vida; mas, tendo em vista a natural instabilidade de nossos costumes e opiniões, muitas vezes me pareceu que mesmo os bons autores estão errados em se obstinarem em formar de nós uma ideia constante e sólida. Escolhem um caráter universal e, seguindo essa imagem, vão arrumando e interpretando todas as ações de um personagem, e, se não conseguem torcê-las o suficiente, atribuem-nas à dissimulação. Creio mais dificilmente na constância dos homens do que em qualquer outra coisa, e em nada mais facilmente do que na inconstância. Quem os julgasse nos pormenores e separadamente, peça por peça, teria mais ocasiões de dizer a verdade.\nEm toda a Antiguidade é difícil escolher uma dúzia de homens que tenham ordenado sua vida num projeto definido e seguro, que é o principal objetivo da sabedoria. Pois para resumi-la por inteiro numa só palavra e abranger em uma só todas as regras de nossa vida, \"a sabedoria\", diz um antigo, \"é sempre querer a mesma coisa, é sempre não querer a mesma coisa\", \"eu não me dignaria\", diz ele, \"a acrescentar 'contanto que a tua vontade esteja certa', pois se não está certa, é impossível que sempre seja uma só e a mesma.\" Na verdade, aprendi outrora que o vício é apenas o desregramento e a falta de moderação; e, por conseguinte, é impossível o imaginarmos constante. É uma frase de Demóstenes, dizem, que \"o começo de toda virtude são a reflexão e a deliberação, e seu fim e sua perfeição, a constância”. Se, guiados pela reflexão, pegássemos certa via, pegaríamos a mais bela, mas ninguém pensa antes de agir: “O que ele pediu, desdenha; exige o que acaba de abandonar; agita-se e sua vida não se dobra a nenhuma ordem.\"\n(Michel de Montaigne. Os ensaios: uma seleção, 2010. Adaptado.)\n\nDe acordo com Montaigne, as ações humanas caracterizam-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pela volubilidade."
+        },
+        {
+          "letra": "B",
+          "texto": "pela arrogância."
+        },
+        {
+          "letra": "C",
+          "texto": "pelo egoísmo."
+        },
+        {
+          "letra": "D",
+          "texto": "pela dissimulação."
+        },
+        {
+          "letra": "E",
+          "texto": "pela obstinação."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Filosofia – Filosofia Moderna",
+        "Filosofia – Humanismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Do ponto de vista temático, o texto de Montaigne dialoga especialmente com a seguinte citação:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Sou um homem; não considero alheio a mim nada do que é humano.\" (Terêncio, 185-159 a.C.)"
+        },
+        {
+          "letra": "B",
+          "texto": "\"Não se deve indagar sobre tudo: é melhor que muitas coisas permaneçam ocultas.” (Sófocles, 486-406 a.C.)"
+        },
+        {
+          "letra": "C",
+          "texto": "\"Nunca acontece algo que, por natureza, não sejamos capazes de suportar.\" (Marco Aurélio, 121-180 d.C.)"
+        },
+        {
+          "letra": "D",
+          "texto": "“O hábito é o melhor mestre em todas as coisas.” (Plínio, 23-79 d.C.)"
+        },
+        {
+          "letra": "E",
+          "texto": "“E amanhã não seremos o que fomos, nem o que somos.\" (Ovídio, 43 a.C.-18 d.C.)"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Filosofia – Filosofia Moderna",
+        "Língua Portuguesa – Intertextualidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "No primeiro parágrafo, Montaigne ressalta que mesmo os bons autores tendem a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "adulterar a própria história de vida."
+        },
+        {
+          "letra": "B",
+          "texto": "manipular a biografia de um homem."
+        },
+        {
+          "letra": "C",
+          "texto": "enaltecer a própria história de vida."
+        },
+        {
+          "letra": "D",
+          "texto": "depreciar a própria história de vida."
+        },
+        {
+          "letra": "E",
+          "texto": "subestimar a biografia de um homem."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Filosofia – Interpretação de Texto Filosófico"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "No segundo parágrafo, depreende-se das reflexões de Montaigne a íntima relação entre",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "sabedoria e contradição."
+        },
+        {
+          "letra": "B",
+          "texto": "sabedoria e intemperança."
+        },
+        {
+          "letra": "C",
+          "texto": "ignorância e temperança."
+        },
+        {
+          "letra": "D",
+          "texto": "ignorância e inconstância."
+        },
+        {
+          "letra": "E",
+          "texto": "vício e constância."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Filosofia – Ética",
+        "Filosofia – Interpretação de Texto Filosófico"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Em \"eu não me dignaria [...] a acrescentar 'contanto que a tua vontade esteja certa', pois se não está certa, é impossível que sempre seja uma só e a mesma.” (2º parágrafo), a locução sublinhada pode ser substituída, sem prejuízo para o sentido do texto, por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "visto que."
+        },
+        {
+          "letra": "B",
+          "texto": "assim que."
+        },
+        {
+          "letra": "C",
+          "texto": "desde que."
+        },
+        {
+          "letra": "D",
+          "texto": "ainda que."
+        },
+        {
+          "letra": "E",
+          "texto": "de modo que."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Conjunções"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "\"o começo de toda virtude são a reflexão e a deliberação, e seu fim e sua perfeição, a constância\" (2º parágrafo)\nNesse trecho, a segunda vírgula é empregada com a finalidade de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "separar o vocativo."
+        },
+        {
+          "letra": "B",
+          "texto": "indicar a supressão de um verbo."
+        },
+        {
+          "letra": "C",
+          "texto": "separar dois objetos diretos."
+        },
+        {
+          "letra": "D",
+          "texto": "separar o sujeito de seu predicado."
+        },
+        {
+          "letra": "E",
+          "texto": "indicar a supressão do conectivo \"e\"."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Pontuação"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "The literary principle according to which the writing and criticism of poetry and drama were to be guided by rules and precedents derived from the best ancient Greek and Roman authors; a codified form of classicism that dominated French literature in the 17th and 18th centuries, with a significant influence on English writing, especially from c. 1660 to c. 1780. In a more general sense, often employed in contrast with romanticism, the term has also been used to describe the characteristic world-view or value-system of this \"Age of Reason\", denoting a preference for rationality, clarity, restraint, order, and decorum, and for general truths rather than particular insights.\n(Chris Baldick. The Concise Oxford Dictionary of Literary Terms, 2001.)\n\nO termo literário a que o texto se refere é o",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Renascimento."
+        },
+        {
+          "letra": "B",
+          "texto": "Barroco."
+        },
+        {
+          "letra": "C",
+          "texto": "Romantismo."
+        },
+        {
+          "letra": "D",
+          "texto": "Naturalismo."
+        },
+        {
+          "letra": "E",
+          "texto": "Neoclassicismo."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Interpretação de Texto",
+        "Arte – História da Arte"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Examine o gráfico e o mapa e leia o texto para responder às questões de 21 a 26.\n\nIn March 2022, parts of Antarctica have been 40 °C warmer than their March average\n\nThe Concordia research station is one of the most inhospitable places on Earth. At 3,000 m above sea level on the Antarctic Plateau, the temperature rarely rises above -25 °C even in the summer. In midwinter it can fall to around -80 °C. The air is painfully dry, and fingers, toes and noses can freeze in minutes. The dozen or so crew, mainly French and Italian, who live and work in the station would normally venture out only for essential work. But Concordia has recently experienced a heatwave. On March 18th the temperature reached a high of -11.8 °C — more than 40 °C warmer than the average for this time of year.\nSimilarly freakish weather was recorded across eastern Antarctica. Temperatures at the Russian-run Vostok research station rose to -17.7 °C, more than 15 °C above the previous record for March, set in 1967. Across the continent temperatures were 4.5 °C higher than usual (though in recent days they have returned to a normal range).\nMeteorologists have attributed the latest heatwave to an atmospheric \"river\" of warm, damp air blowing towards Antarctica from the Southern Ocean near Australia. It is difficult to know whether climate change is to blame for one-off weather events. But over the past 65 years or so there has been an increase in the number of \"high temperature\" days at Antarctic stations.\nMost regions of Antarctica have been spared global warming. In the late 20th century, a large hole opened up in the ozone layer above the South Pole. This has a regional cooling effect, which has offset much of the heating caused by rising concentrations of greenhouse gases in the atmosphere. Temperatures on the continent rarely climb above freezing, which preserves its vast ice sheets (although rising sea temperatures do threaten some areas). Even in the recent surge, temperatures stayed well below zero.\n(www.economist.com, 24.03.2022. Adaptado.)\n\nThe information presented by the graph, the map and the text show that in March 2022",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "there was a heatwave in Antarctica and temperature rose well above average."
+        },
+        {
+          "letra": "B",
+          "texto": "the temperature in eastern Antarctica was 17.7 °C warmer than usual."
+        },
+        {
+          "letra": "C",
+          "texto": "the South Pole reached the unusual temperature of 40 °C for one day in some areas."
+        },
+        {
+          "letra": "D",
+          "texto": "both Vostok and Concordia stations experienced low temperatures above zero."
+        },
+        {
+          "letra": "E",
+          "texto": "the minimum temperature reached -25 °C, as usual."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto",
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "As informações apresentadas pelo gráfico também podem ser encontradas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "no primeiro parágrafo do texto, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "no segundo parágrafo do texto, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "no terceiro parágrafo do texto e no mapa."
+        },
+        {
+          "letra": "D",
+          "texto": "no primeiro e no segundo parágrafos do texto."
+        },
+        {
+          "letra": "E",
+          "texto": "no segundo e no terceiro parágrafos do texto."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Based on your knowledge of geography, as well as on the information provided by the text, map and graph, Antarctica",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "is claimed to be a territory by countries such as Brazil, Argentina, Russia, United States and Australia."
+        },
+        {
+          "letra": "B",
+          "texto": "has a permanent native population as well as a population of thousands of scientists."
+        },
+        {
+          "letra": "C",
+          "texto": "is the native habitat of penguins, the only bird species in the continent."
+        },
+        {
+          "letra": "D",
+          "texto": "is a continent that does not belong to any country and has no government."
+        },
+        {
+          "letra": "E",
+          "texto": "is also called the boreal hemisphere due to its location."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "Geografia – Regiões Polares"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "No contexto apresentado pelo segundo parágrafo, o trecho \"(though in recent days they have returned to a normal range)\" indica que as temperaturas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "subiram devido ao fim de verão."
+        },
+        {
+          "letra": "B",
+          "texto": "aumentaram acima da média."
+        },
+        {
+          "letra": "C",
+          "texto": "voltaram a ficar mais baixas."
+        },
+        {
+          "letra": "D",
+          "texto": "chegaram a -17,7 °C."
+        },
+        {
+          "letra": "E",
+          "texto": "retornaram à faixa de 4,5 °C."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "According to the third paragraph, meteorologists associate the high temperature wave in Antarctica with",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a cycle of temperature peaks that happen every 65 years."
+        },
+        {
+          "letra": "B",
+          "texto": "the melting of the snow, which creates temporary rivers across the continent."
+        },
+        {
+          "letra": "C",
+          "texto": "an unusually hot summer in Australia."
+        },
+        {
+          "letra": "D",
+          "texto": "the inflow of warm and damp winds coming from the ocean."
+        },
+        {
+          "letra": "E",
+          "texto": "the abrupt weather changes in the Southern Ocean."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "No quarto parágrafo, afirma-se que um grande buraco se abriu na camada de ozônio acima do Polo Sul no final do século XX. Medidas para controlar esse fenômeno foram acordadas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "no Protocolo de Nagoia."
+        },
+        {
+          "letra": "B",
+          "texto": "no Protocolo de Montreal."
+        },
+        {
+          "letra": "C",
+          "texto": "no Tratado de Assunção."
+        },
+        {
+          "letra": "D",
+          "texto": "na Agenda 21."
+        },
+        {
+          "letra": "E",
+          "texto": "no Tratado de Maastricht."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Meio Ambiente",
+        "Química – Química Ambiental"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Leia o texto para responder às questões de 27 a 29.\n\nWorld’s happiest ranking goes to Finland for fifth year in a row\n\nFinland was crowned the happiest country in the world for the fifth consecutive year, with a score significantly ahead of its peers in the World Happiness Report 2022 ranking, published by a body linked to the United Nations. However, the authors detected, on average, a long-term moderate upward trend in stress, worry, and sadness in most countries, as well as “a slight long-term decline in the enjoyment of life,” they wrote.\nThe report uses global survey data to report on how people evaluate their own lives in more than 150 countries around the world, with the ranking based on a three-year average. Key variables that contribute to explaining people’s life evaluations include healthy life expectancy, generosity, social support, freedom to make life choices, perceptions of corruption, and the gross domestic product per capita (an indicator that measures a country’s economic output per person, that is calculated by dividing the total gross domestic product of a country by its population).\n“World leaders should take heed,” Jeffrey Sachs, director of the Center for Sustainable Development at Columbia University, said. “Politics should be directed as the great sages long ago insisted: to the well-being of the people, not the power of the rulers.”\n(Kati Pohjanpalo. www.bloomberg.com, 18.03.2022. Adaptado.)\n\nAccording to the text, the World Happiness Report 2022",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "defines \"enjoyment of life\" as the most significant feeling that contributes to happiness."
+        },
+        {
+          "letra": "B",
+          "texto": "is unreliable since it collected subjective data without scientifically established criteria."
+        },
+        {
+          "letra": "C",
+          "texto": "showed that Finland is a surprisingly happy country although its score is not so high."
+        },
+        {
+          "letra": "D",
+          "texto": "ranks countries based on global survey information on how people appraise their lives according to some key variables."
+        },
+        {
+          "letra": "E",
+          "texto": "identified a slight increase in happiness among the 150 countries surveyed."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "De acordo com o texto, uma das variáveis que ajuda a interpretar as avaliações das pessoas sobre a sua própria vida é o",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "PIB per capita."
+        },
+        {
+          "letra": "B",
+          "texto": "respeito à natureza."
+        },
+        {
+          "letra": "C",
+          "texto": "lazer."
+        },
+        {
+          "letra": "D",
+          "texto": "estresse."
+        },
+        {
+          "letra": "E",
+          "texto": "descontentamento."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Sociologia – Indicadores Sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "No trecho do terceiro parágrafo \"World leaders should take heed\"\", a expressão sublinhada pode ser substituída, sem alteração de sentido, por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "take risks."
+        },
+        {
+          "letra": "B",
+          "texto": "be prepared."
+        },
+        {
+          "letra": "C",
+          "texto": "lead by example."
+        },
+        {
+          "letra": "D",
+          "texto": "be polite."
+        },
+        {
+          "letra": "E",
+          "texto": "pay attention."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "From the comic strip, one can say that happiness",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "could not be a transitory state of mind."
+        },
+        {
+          "letra": "B",
+          "texto": "should be strongly sought."
+        },
+        {
+          "letra": "C",
+          "texto": "should not be compulsory."
+        },
+        {
+          "letra": "D",
+          "texto": "might be unbearable."
+        },
+        {
+          "letra": "E",
+          "texto": "comes and goes naturally in life."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    }
+  ]
+}

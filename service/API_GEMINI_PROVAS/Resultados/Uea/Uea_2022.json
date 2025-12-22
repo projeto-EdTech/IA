@@ -1,0 +1,2564 @@
+{
+  "nomeUniversidade": "Universidade do Estado do Amazonas",
+  "siglaUniversidade": "UEA",
+  "nomeProva": "Prova de Conhecimentos Gerais",
+  "ano": 2022,
+  "qtdeQuestoes": 84,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Considere a tirinha de Caco Galhardo.\n\nSegundo a tirinha, os três personagens",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "formam uma sequência evolutiva, na qual os mais recentes são consequência dos mais antigos."
+        },
+        {
+          "letra": "B",
+          "texto": "representam, cada um em seu tempo, características que os distinguem da maioria das pessoas."
+        },
+        {
+          "letra": "C",
+          "texto": "têm hábitos incompatíveis com a vida na sociedade das diferentes épocas em que vivem."
+        },
+        {
+          "letra": "D",
+          "texto": "opõem-se uns aos outros, na medida em que suas características individuais tornam inviáveis as características dos outros."
+        },
+        {
+          "letra": "E",
+          "texto": "simbolizam estereótipos de seres humanos pouco originais, que, em diferentes épocas, apenas seguem os hábitos da maioria."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Considere o poema de Luiz Bacellar, presente no livro Sol de feira, para responder às questões de 02 a 04.\n\nrondel da goiaba\n\nteu verde fruto\nentre a folhagem\nse denuncia\npelo perfume,\no doce sumo\nde tua polpa\nlembra a saliva\nde uma cabocla;\n\nse o vento passa\npela folhagem\nque é da tua cor\nse perfumando\nvai murmurando\ncanções de amor\n\n(Sol de feira, 2008.)\n\nNos versos do poema, o eu lírico",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "diz que a goiaba tem a mesma cor da vegetação."
+        },
+        {
+          "letra": "B",
+          "texto": "associa o perfume da goiaba a uma pessoa que ele conhece."
+        },
+        {
+          "letra": "C",
+          "texto": "afirma que a goiaba tem um perfume discreto."
+        },
+        {
+          "letra": "D",
+          "texto": "dedica o poema a uma pessoa específica."
+        },
+        {
+          "letra": "E",
+          "texto": "imagina a folhagem cantando."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Para efeito expressivo, na descrição que o eu lírico faz da goiaba, o autor recorre, sobretudo,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ao sarcasmo."
+        },
+        {
+          "letra": "B",
+          "texto": "à sinestesia."
+        },
+        {
+          "letra": "C",
+          "texto": "à ironia."
+        },
+        {
+          "letra": "D",
+          "texto": "ao eufemismo."
+        },
+        {
+          "letra": "E",
+          "texto": "à hipérbole."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "O livro Sol de feira",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "compõe um quadro fragmentado do ambiente amazônico a partir das características de uma série de vegetais locais, frequentemente lhes atribuindo traços humanos."
+        },
+        {
+          "letra": "B",
+          "texto": "retrata o ambiente amazônico de maneira idealizada, como um enorme conjunto de belezas vegetais que perde sua perfeição na presença desestabilizadora do ser humano."
+        },
+        {
+          "letra": "C",
+          "texto": "constitui uma crítica à produção literária amazônica, que estaria apenas preocupada em idealizar as belezas naturais ao mesmo tempo em que se esqueceria dos problemas sociais da região."
+        },
+        {
+          "letra": "D",
+          "texto": "constrói um universo amazônico fantasioso, com seres puramente ficcionais que dividiriam o espaço com a fauna e a flora que realmente estão presentes na região."
+        },
+        {
+          "letra": "E",
+          "texto": "compara, do ponto de vista de um habitante amazônico, diferentes lugares do território brasileiro a partir da descrição dos vegetais típicos das diferentes regiões."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Leia a crônica \"Enquanto mineiros jogavam\", de Carlos Drummond de Andrade, para responder às questões de 05 a 08.\n\nDomingo, à tarde, na forma do antigo costume, eu ia ver os bichos do Parque Municipal (cansado de lidar com gente nos outros dias da semana), quando avistei grande multidão parada na avenida Afonso Pena. Meu primeiro pensamento foi continuar no bonde; o segundo foi descer e perguntar as causas da aglomeração. Desci, e soube que toda aquela gente estava acompanhando, pelo telefone, o jogo dos mineiros na capital do país. Onze mineiros batiam bola no Rio de Janeiro; dois mil mineiros escutavam, em Belo Horizonte, o eco longínquo dessa bola e experimentavam uma patriótica emoção.\nQuando chegou a notícia da vitória dos nossos patrícios, depois de encerrado o expediente, isto é, depois de terminado o segundo tempo, vi, claramente visto, chapéus de palha que subiam para o ar e não voltavam, adjetivos que se chocavam no espaço com explosões inglesas de entusiasmo, botões que se desprendiam dos paletós, lenços que palpitavam como asas, enquanto gargantas enrouqueciam e outras perdiam o dom humano da palavra. Vi tudo isso e tive, não sei se inveja, se admiração ou se espanto pelos valentes chutadores de Minas, que surraram por 4 a 3 os bravos futebolistas fluminenses.\nNão posso atinar bem como uma bola, jogada à distância, alcance tanta repercussão no centro de Minas. Que um indivíduo se eletrize diante da bola e do jogador, quando este joga bem, é coisa de fácil compreensão. Mas contemplar, pelo fio, a parábola que a esfera de couro traça no ar, o golpe do center-half¹ investindo contra o zagueiro, a pegada soberba deste, e extasiar-se diante desses feitos, eis o que excede de muito a minha imaginação.\nPara mim, o melhor jogador do mundo, chutando fora do meu campo de visão, deixa-me frio e silencioso.\nOs meus patrícios, porém, rasgaram-se anteontem de gozo, imaginando os tiros de Nariz, e sentiram na espinha o frio clássico da emoção, quando o telefone anunciou que Carlos Brant, machucando-se no joelho, deixara o combate. Alguns pensaram em comprar iodo² para o herói e outros gritavam para Carazzo que não chutasse fora. A centenas de quilômetros, eles assistiam ao jogo sem pagar entrada. E havia quem reclamasse contra o juiz, acusando-o de venal. Um sujeito puxou-me pelo paletó, indignado, e declarou-me: “O senhor está vendo que pouca-vergonha. Aquela penalidade de Evaristo não foi marcada\". Eu olhei para os lados, à procura de Evaristo e da penalidade; vi apenas a multidão de cabeças e de entusiasmos; e fugi.\n\nMinas Gerais, 20-21/07/1931\n(Carlos Drummond de Andrade. Quando é dia de futebol, 2014.)\n\n¹ center-half: termo em inglês para designar uma posição do jogador em campo, equivalente, em português, a volante ou médio-volante.\n² iodo: produto químico às vezes utilizado em feridas com a função antisséptica.\n\nEm relação à cena que presencia, o narrador declara-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "orgulhoso por ser mineiro e poder festejar coletivamente a vitória futebolística da equipe local."
+        },
+        {
+          "letra": "B",
+          "texto": "contagiado pela emoção das pessoas, ainda que não tenha escutado o jogo que elas tinham acompanhado pelo telefone."
+        },
+        {
+          "letra": "C",
+          "texto": "desconcertado por não entender como as pessoas podem se emocionar com um jogo que não estão vendo."
+        },
+        {
+          "letra": "D",
+          "texto": "revoltado contra a alienação de uma população que se preocupa com algo tão desimportante quanto o futebol."
+        },
+        {
+          "letra": "E",
+          "texto": "curioso para saber o resultado do jogo, os detalhes sobre cada lance e a atuação de cada jogador."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "\"Alguns pensaram em comprar iodo para o herói\" (5º parágrafo)\nCom o termo \"o herói\", o narrador refere-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "especificamente a Carazzo."
+        },
+        {
+          "letra": "B",
+          "texto": "especificamente ao melhor jogador da equipe dos mineiros."
+        },
+        {
+          "letra": "C",
+          "texto": "genericamente a qualquer bom jogador de futebol."
+        },
+        {
+          "letra": "D",
+          "texto": "genericamente a qualquer jogador da equipe dos mineiros."
+        },
+        {
+          "letra": "E",
+          "texto": "especificamente a Carlos Brant."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Coesão e Coerência"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "\"... é coisa de fácil compreensão. Mas contemplar, pelo fio, a parábola que a esfera de couro traça no ar...\" (3º parágrafo)\nNo contexto em que está inserida, a palavra sublinhada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "introduz uma explicação para uma afirmação feita anteriormente."
+        },
+        {
+          "letra": "B",
+          "texto": "conecta duas ideias contrastantes, que se opõem."
+        },
+        {
+          "letra": "C",
+          "texto": "conecta duas ideias que se relacionam por um vínculo de causa e efeito."
+        },
+        {
+          "letra": "D",
+          "texto": "introduz uma ressalva para uma afirmação feita anteriormente."
+        },
+        {
+          "letra": "E",
+          "texto": "introduz uma condição para que o fato expresso anteriormente seja possível."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Morfossintaxe",
+        "Língua Portuguesa – Conectivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Com a expressão \"que pouca-vergonha\" (5º parágrafo), o sujeito que aborda o narrador insinua que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "um dos jogadores teria sido excessivamente individualista."
+        },
+        {
+          "letra": "B",
+          "texto": "o juiz da partida teria tido um comportamento exibicionista."
+        },
+        {
+          "letra": "C",
+          "texto": "o juiz da partida não teria a qualificação técnica necessária para atuar."
+        },
+        {
+          "letra": "D",
+          "texto": "o juiz da partida teria tomado uma decisão desonesta."
+        },
+        {
+          "letra": "E",
+          "texto": "um dos jogadores teria cometido um erro inacreditável."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Leia o texto para responder às questões de 09 a 12.\n\nUnderwater noise pollution could damage crucial ocean plants\n\nUnder the Mediterranean Sea lie meadows of Posidonia oceanica, a native seagrass species. It might not look like it’s doing much — just swaying back and forth with the current — but seagrass absorbs carbon dioxide, emits oxygen, protects coasts from erosion and provides habitat for fish.\nBut a new threat to seagrass beds has been detected: underwater noise pollution caused by humans. A team of European scientists reported in the journal Communications Biology that when P. oceanica is exposed to noise, organs in the plant that store energy and detect gravity are destroyed, adding to concern for this already-threatened species.\nAnthropogenic underwater noise is \"a big concern,\" said Nicola Quick, a marine biologist at Duke University, who was not involved in the study. There certainly have been natural subaquatic sounds from earthquakes and heavy rain, as well as from marine organisms, but humans have been adding noise to the soundscape from activities such as shipping, oil and gas extractions, and renewable energy development.\nDespite P. oceanica's seeming accessibility, it took the team six months to obtain the authorization needed to collect the protected species. After successfully acquiring the permits, the team collected 84 seagrass plants. They placed the samples in experimental tanks and played sounds with changing frequency from 50 to 400 Hz – the range that covers the noise generated by human activities. The noise level was around 157 dB underwater, equivalent to roughly 95 dB in the air, somewhere between a bass drum and a subway train.\nThe team discovered that two hours of noise exposure damaged a plant organ responsible for detecting gravity, meaning noise could affect the plant’s capacity to stay rooted. Moreover, the number of starch grains inside the organ decreased, which could affect the seagrass’s ability to store energy. The starch grains continued to disappear even after the noise stopped.\n\n(Karen Kwon. www.discovermagazine.com, 08.07.2021. Adaptado.)\n\nDe acordo com o texto, o barulho produzido por humanos",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "é mais danoso aos seres com sistema auditivo, apesar de afetar o ambiente marinho como um todo."
+        },
+        {
+          "letra": "B",
+          "texto": "pode comprometer a audição dos peixes e colocar em risco a comunicação entre algumas espécies."
+        },
+        {
+          "letra": "C",
+          "texto": "é prejudicial à vida marinha apenas em frequências que ultrapassam 400 Hz."
+        },
+        {
+          "letra": "D",
+          "texto": "pode causar, em uma espécie de erva marinha, danos aos órgãos responsáveis por armazenar energia e detectar a gravidade."
+        },
+        {
+          "letra": "E",
+          "texto": "é menos nocivo que problemas como poluição por resíduos plásticos, aumento da temperatura e acidificação."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "De acordo com o primeiro parágrafo, as ervas marinhas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ocupam uma pequena porção do fundo do mar."
+        },
+        {
+          "letra": "B",
+          "texto": "servem de alimento para animais marinhos."
+        },
+        {
+          "letra": "C",
+          "texto": "previnem o processo de desgaste dos solos litorâneos."
+        },
+        {
+          "letra": "D",
+          "texto": "fornecem terrenos de desova de peixes."
+        },
+        {
+          "letra": "E",
+          "texto": "limpam o oceano absorvendo nutrientes poluentes."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "No trecho do terceiro parágrafo \"as well as from marine organisms\", a expressão sublinhada indica",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "adição."
+        },
+        {
+          "letra": "B",
+          "texto": "explicação."
+        },
+        {
+          "letra": "C",
+          "texto": "condição."
+        },
+        {
+          "letra": "D",
+          "texto": "causa."
+        },
+        {
+          "letra": "E",
+          "texto": "finalidade."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Vocabulário",
+        "Inglês – Conectivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "No trecho do quinto parágrafo “Moreover, the number of starch grains inside the organ decreased\", o termo sublinhado equivale, em português, a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "por fim."
+        },
+        {
+          "letra": "B",
+          "texto": "além disso."
+        },
+        {
+          "letra": "C",
+          "texto": "todavia."
+        },
+        {
+          "letra": "D",
+          "texto": "consequentemente."
+        },
+        {
+          "letra": "E",
+          "texto": "deste modo."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Vocabulário",
+        "Inglês – Conectivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Analise as pinturas rupestres da Serrania de la Lindosa, na Amazônia colombiana, datadas de 12600 a 11800 a.C.\n\nOs arqueólogos estimaram a idade dessas pinturas a partir da presença, nas representações, de animais da Idade do Gelo, como o mastodonte, a palaeolama e a preguiça gigante. Acrescentando as representações de rituais xamânicos, dança, caça, hábitos alimentares, a análise do conjunto das pinturas rupestres demonstra",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a redução contínua do número de habitantes desses amplos territórios, segundo os relatos dos primeiros colonizadores europeus da Amazônia."
+        },
+        {
+          "letra": "B",
+          "texto": "a possibilidade de apreensão de aspectos de organizações sociais no espaço amazônico, graças à precisão das composições figurativas."
+        },
+        {
+          "letra": "C",
+          "texto": "a dependência social da economia de coleta natural, em prejuízo do desenvolvimento de formas culturais diversas."
+        },
+        {
+          "letra": "D",
+          "texto": "a excelência dos desenhos coloridos das mais antigas sociedades do perímetro amazônico, em oposição à ausência de arte nas tribos amazônicas coloniais."
+        },
+        {
+          "letra": "E",
+          "texto": "a dificuldade de fixação dos agrupamentos humanos complexos no grande vazio geográfico, devido à carência de meios de sobrevivência."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – América Pré-Colombiana",
+        "Arte – Arte Rupestre"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "No correr do século IV, [ocorrem] a transformação do cristianismo de religião perseguida em religião de Estado e a transformação de um deus rejeitado em um Deus oficial. Os homens e as mulheres que vivem na Europa ocidental passam, em poucos decênios, do culto de uma multiplicidade de deuses a um Deus único. [...] Quando chega o cristianismo, Deus assume um D maiúsculo. Isso marca com clareza a tomada de consciência da passagem para o monoteísmo.\n\n(Jacques Le Goff. O Deus da Idade Média, conversas com Jean-Luc Pouthier, 2017.)\n\nEssas transformações, descritas no excerto,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "implicaram as fusões do classicismo com a tradição religiosa de origem hebraica."
+        },
+        {
+          "letra": "B",
+          "texto": "inauguraram na história a tolerância política para com as crenças religiosas."
+        },
+        {
+          "letra": "C",
+          "texto": "resultaram na separação entre o poder político e as instituições religiosas."
+        },
+        {
+          "letra": "D",
+          "texto": "favoreceram as pequenas comunidades religiosas independentes em Roma."
+        },
+        {
+          "letra": "E",
+          "texto": "aboliram a concepção pagã da grande diferença entre deuses e homens."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História Antiga",
+        "História – Roma Antiga"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Leia o texto para responder às questões 15 e 16.\n\nAntes de 1492, parecia inconcebível que o Ocidente [...] chegasse a competir com a China ou a Índia. O afã de Colombo de encontrar rotas que levassem àqueles confins era um sinal da atração que exerciam e de como os europeus se sentiam inferiores quando os imaginavam ou liam sobre eles. Mas, quando os ocidentais acharam uma via de acesso privilegiada ao Novo Mundo, as perspectivas mudaram.\n\n(Felipe Fernández-Armesto. 1492: o ano em que o mundo começou, 2017.)\n\nAlguns fatores condicionaram e tornaram possíveis as viagens de Cristóvão Colombo, tais como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a modificação da teoria geográfica e da concepção formal do espaço terrestre."
+        },
+        {
+          "letra": "B",
+          "texto": "a procura de mão de obra escrava e de novos gêneros alimentícios."
+        },
+        {
+          "letra": "C",
+          "texto": "a absorção dos conhecimentos náuticos e o financiamento do governo de Veneza."
+        },
+        {
+          "letra": "D",
+          "texto": "a novidade dos saberes de astronomia e da centralidade do Sol no mapa estelar."
+        },
+        {
+          "letra": "E",
+          "texto": "a associação das monarquias e das burguesias mercantis ibéricas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História Moderna",
+        "História – Grandes Navegações"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "O descobrimento dessa \"via de aceso ao Novo Mundo\" provocou uma transformação histórica profunda no período da Idade Moderna, devido",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à importância dos produtos americanos para o domínio político e comercial do Ocidente sobre os impérios do extremo Oriente."
+        },
+        {
+          "letra": "B",
+          "texto": "à preservação dos patrimônios culturais das sociedades autóctones e das técnicas agrícolas dos povos pré-colombianos."
+        },
+        {
+          "letra": "C",
+          "texto": "à interrupção dos contatos dos europeus com o comércio de especiarias e de tecidos de seda do Oriente."
+        },
+        {
+          "letra": "D",
+          "texto": "ao desenvolvimento industrial das metrópoles europeias em decorrência da instalação de feitorias e do escambo entre europeus e ameríndios."
+        },
+        {
+          "letra": "E",
+          "texto": "à expansão do cristianismo no mundo conhecido com a catequização e a rápida conversão dos ameríndios."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – História Moderna",
+        "História – Colonização da América"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "As mudanças tecnológicas que denotamos por Revolução Industrial implicaram um rompimento muito mais drástico com o passado do que qualquer coisa desde a invenção da roda. [...] Enquanto, anteriormente, quase todos os custos da manufatura tinham sido variáveis — primordialmente formados por matérias-primas e mão de obra —, uma parcela cada vez maior do capital passou a ter que ser empatada em custos fixos de fabricação.\n\n(David S. Landes. Prometeu desacorrentado: transformação tecnológica e desenvolvimento industrial na Europa ocidental, 1994.)\n\nO texto alude a um aspecto essencial da economia industrial ao explicar, em certa medida, a concentração de riquezas em grupos socialmente restritos, por meio",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "do endividamento da burguesia industrial com o capital financeiro."
+        },
+        {
+          "letra": "B",
+          "texto": "da concentração de máquinas sofisticadas em grandes unidades fabris."
+        },
+        {
+          "letra": "C",
+          "texto": "do pagamento de salários elevados a uma massa de operários especializados."
+        },
+        {
+          "letra": "D",
+          "texto": "da dependência extrema de mercado consumidor de produtos de luxo."
+        },
+        {
+          "letra": "E",
+          "texto": "da facilidade de organização sindical de trabalhadores de grandes indústrias."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História Contemporânea",
+        "História – Revolução Industrial"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "A notícia da Independência do Brasil, proclamada em 7 de setembro de 1822, chegou à então capitania do Rio Negro em 9 de novembro de 1823. Esse fato demonstra a distância política da região para com o governo central do país. Durante o Segundo Reinado algumas decisões políticas procuraram atenuar esse isolamento, como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o incentivo estatal ao desenvolvimento da economia do látex e a modernização dos portos fluviais de exportação."
+        },
+        {
+          "letra": "B",
+          "texto": "a permissão de constituição de companhias de comércio de capital aberto e o fim das restrições à livre circulação de trabalhadores."
+        },
+        {
+          "letra": "C",
+          "texto": "a elevação da comarca do Alto Amazonas ao estatuto de província e a abertura do rio Amazonas à navegação internacional."
+        },
+        {
+          "letra": "D",
+          "texto": "a consciência dos riscos geopolíticos de manutenção de um espaço pouco povoado e a instalação de imigrantes na região."
+        },
+        {
+          "letra": "E",
+          "texto": "o retorno à política de reformas inspiradas no liberalismo iluminista e a abertura de cursos superiores na capital da província."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História do Brasil",
+        "História – Segundo Reinado"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "A Constituição [de 1891] estabeleceu os três poderes — o Executivo, o Legislativo e o Judiciário — \"harmônicos e independentes entre si\". [...] Para proceder às eleições, fixou-se o sistema de voto direto e universal, ou seja, suprimiu-se o censo econômico. Foram considerados eleitores [...] os cidadãos brasileiros maiores de 21 anos.\n\n(Boris Fausto. História do Brasil, 2012.)\n\nA ampliação do colégio eleitoral por essa Constituição implicou",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o aperfeiçoamento da democracia brasileira com a concessão do direito de voto às mulheres."
+        },
+        {
+          "letra": "B",
+          "texto": "a promoção de programas de alfabetização de adultos com a finalidade de melhoria do sistema político."
+        },
+        {
+          "letra": "C",
+          "texto": "o surgimento de poderes locais em diversas regiões com a manutenção do voto a descoberto."
+        },
+        {
+          "letra": "D",
+          "texto": "a transformação da sociedade brasileira com a proibição explícita da exploração do trabalho compulsório."
+        },
+        {
+          "letra": "E",
+          "texto": "a reação dos grupos sociais conservadores devido à ascensão política de candidatos populares."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História do Brasil",
+        "História – República Velha"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "As transformações sociais e culturais da Zona Franca em Manaus são bastante distintas daquelas que aconteceram durante o ciclo da borracha. Enquanto a cidade era a capital mundial da borracha, Manaus rapidamente se consolidou como centro urbano, e desenvolveu os primeiros sistemas de serviços públicos. [...] o desenvolvimento de Manaus durante o ciclo acompanhou o crescimento populacional, sem degradação de serviços. O oposto ocorreu com a Zona Franca de Manaus.\n\n(Márcio Souza. História da Amazônia: do período pré-colombiano aos desafios de século XXI, 2019.)\n\nO texto compara dois momentos do crescimento econômico da cidade de Manaus, ressaltando a diferença entre eles do ponto de vista do equipamento urbano. A situação atual da cidade deve-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à migração intensa de populações expulsas das áreas florestais devido à crise econômica das atividades extrativistas."
+        },
+        {
+          "letra": "B",
+          "texto": "ao grande afluxo de turistas do sudeste do país em busca de aparelhos eletrônicos vendidos a preços baixos."
+        },
+        {
+          "letra": "C",
+          "texto": "ao crescimento desordenado em consequência dos programas de desenvolvimento econômico do regime militar."
+        },
+        {
+          "letra": "D",
+          "texto": "aos efeitos sociais do milagre econômico brasileiro sobre a produção de insumos industriais florestais."
+        },
+        {
+          "letra": "E",
+          "texto": "aos deslocamentos sucessivos de nordestinos da região do semiárido em decorrência das secas periódicas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História do Brasil",
+        "Geografia – Geografia Urbana"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Um dos importantes agentes de socialização é a escola. A frequência na escola é um processo compulsório e formal em que os estudantes têm acesso apenas a alguns temas. Contudo as escolas são agentes de socialização em aspectos mais sutis por meio de um \"currículo oculto\". Os alunos devem ficar em silêncio em sala de aula, entregar os deveres sem atraso e cumprir as regras de disciplina da escola.\n\n(Anthony Giddens e Philip W. Sutton. Conceitos essenciais de sociologia, 2016.)\n\nO conceito de socialização é frequentemente empregado em análises de muitas escolas sociológicas. De maneira geral, o conceito é utilizado para o entendimento",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "das aquisições contínuas de valores coletivos pelos indivíduos."
+        },
+        {
+          "letra": "B",
+          "texto": "da incorporação de comportamentos racionais por jovens escolarizados."
+        },
+        {
+          "letra": "C",
+          "texto": "das formações de instituições culturais específicas às civilizações industriais."
+        },
+        {
+          "letra": "D",
+          "texto": "das pressões ideológicas das classes dominantes sobre os indivíduos."
+        },
+        {
+          "letra": "E",
+          "texto": "dos processos formais de passagem de indivíduos para a fase adulta."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Sociologia – Socialização"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Na origem de minha carreira profissional, pesquisei vanguardas artísticas, literárias e cinematográficas, atraído pelo movimento de inovação e pela curiosidade de compreender quais os recursos necessários para inovar. Isso me levou a estudar sociologia da arte. Uma das primeiras pesquisas que fiz envolveu o estabelecimento de correlações entre vanguardas artísticas e desenvolvimento econômico na Argentina, na década de 1970. Procurei estudar não apenas as vanguardas, mas suas implicações na sociedade. Há analogias entre os casos da Argentina e do Brasil.\n\n(Christina Queiroz. \"Néstor García Canclini. Antropólogo da contemporaneidade\". Revista Pesquisa Fapesp, julho de 2021.)\n\nO estudo sociológico das artes procura",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "entendê-las internamente, por meio da aproximação entre conteúdos e expressões formais."
+        },
+        {
+          "letra": "B",
+          "texto": "reduzi-las às determinações econômicas, por meio da análise dos sistemas de financiamento cultural."
+        },
+        {
+          "letra": "C",
+          "texto": "pensá-las como espelhos da realidade imediata, por meio da identificação de temas comuns."
+        },
+        {
+          "letra": "D",
+          "texto": "vinculá-las a processos históricos, por meio da aplicação de métodos rigorosos de pesquisa."
+        },
+        {
+          "letra": "E",
+          "texto": "relacioná-las às vidas dos artistas na sociedade de massa, por meio do estudo das biografias."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Sociologia – Sociologia da Cultura",
+        "Arte – História da Arte"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Estando a tratar com uma \"sociedade de consumo\", Oldenburg identifica-a com o \"artigo de consumo\" mais corrente, a comida: está implícito que a \"cultura de massa\" também é uma espécie de comida. O signo característico da coletividade americana, para Oldenburg, é a \"comida americana\", industrializada e padronizada: os hamburgers, os hot dogs, os ice creams que são diariamente introduzidos nos tubos digestivos de milhões de americanos. Os \"modelos\" das esculturas não são sequer essas comidas, mas sua publicidade em cores: claro na \"sociedade de consumo\" primeiro vem a imagem publicitária, depois a coisa.\n\n(Giulio Carlo Argan. Arte moderna, 1992.)\n\nClaes Oldenburg é um escultor norte-americano, de origem sueca, nascido em 1929. Ligado ao movimento da pop art, o tema de suas esculturas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "procura inspirar-se nos modelos da arte do neoclassicismo greco-romano."
+        },
+        {
+          "letra": "B",
+          "texto": "relaciona a crítica cultural à existência social altamente padronizada."
+        },
+        {
+          "letra": "C",
+          "texto": "opõe-se ao predomínio do comportamento individualista no mundo capitalista."
+        },
+        {
+          "letra": "D",
+          "texto": "reafirma a singularidade da cultura americana na contemporaneidade."
+        },
+        {
+          "letra": "E",
+          "texto": "abole o diálogo possível com o mundo da profusão de objetos descartáveis."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Arte – Arte Contemporânea",
+        "Arte – Pop Art"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "A pergunta fundamental da ética para Kant é: O que devo fazer? No livro A crítica da razão prática, Kant escreveu: \"Faça de tal modo que a sua vontade possa valer sempre e ao mesmo tempo como princípio de uma legislação universal\". Ou seja, para Kant, as normas morais devem, obrigatoriamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reconhecer a capacidade de cada indivíduo criar os seus próprios valores."
+        },
+        {
+          "letra": "B",
+          "texto": "ajustar-se de maneira precisa aos condicionamentos de um determinado momento histórico."
+        },
+        {
+          "letra": "C",
+          "texto": "aceitar as imposições das condições naturais dos homens."
+        },
+        {
+          "letra": "D",
+          "texto": "auxiliar cada indivíduo a alcançar plenamente a felicidade."
+        },
+        {
+          "letra": "E",
+          "texto": "aplicar-se às vontades de todos os seres racionais."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Filosofia – Ética Kantiana"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Recurso natural lentamente renovável formado pela ação do clima e dos organismos vivos sobre o material de origem, ao longo do tempo, modificado pela ação humana. É a base para a produção de alimentos, fibras, bioenergia e outros bens de consumo humano e animal e, por isso, sustenta a vida animal e vegetal. Também sustenta as edificações em áreas urbanas e rurais e a estrutura de transportes, abriga a biodiversidade e os ciclos biogeoquímicos, serve como transformador de resíduos e como filtro e armazém para a água da chuva.\n\n(https://estado.rs.gov.br, 15.04.2021. Adaptado.)\n\nDo ponto de vista geográfico, o excerto faz menção",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "às serapilheiras."
+        },
+        {
+          "letra": "B",
+          "texto": "aos aquíferos."
+        },
+        {
+          "letra": "C",
+          "texto": "às rochas."
+        },
+        {
+          "letra": "D",
+          "texto": "aos solos."
+        },
+        {
+          "letra": "E",
+          "texto": "aos relevos."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Pedologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Analise o mapa que apresenta o nível dos reservatórios das hidrelétricas brasileiras em 07.07.2021.\n\nConsiderando a análise do mapa e conhecimentos a respeito das bacias hidrográficas brasileiras, afirma-se que o nível dos reservatórios,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "na região Norte, está relacionado com a elevada precipitação diária que ocorre nas nascentes dos rios Madeira e Tapajós, ambos afluentes do rio Negro."
+        },
+        {
+          "letra": "B",
+          "texto": "na região Sul, está relacionado com o gradiente altimétrico na montante dos rios, que é resultado do relevo depressivo no baixo curso dos rios Uruguai e Paraíba do Sul."
+        },
+        {
+          "letra": "C",
+          "texto": "na região Nordeste, está relacionado com a perenidade das chuvas de inverno, que acontece no médio curso dos rios São Francisco e Doce."
+        },
+        {
+          "letra": "D",
+          "texto": "na região Norte, está relacionado com a drenagem dos rios, que é resultado do relevo planáltico em todo o percurso dos rios Amazonas e Xingu."
+        },
+        {
+          "letra": "E",
+          "texto": "nas regiões Centro-Oeste e Sudeste, está relacionado com a sazonalidade das chuvas entre o verão e o inverno, que interfere nos volumes do rios Paraná e Paraguai."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Hidrografia",
+        "Geografia – Fontes de Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Analise o mapa.\n\nAs áreas destacadas no mapa correspondem à intensidade da ocorrência de ____________ que impacta nas políticas ambientais mundiais por demandar ____________.\n\nAs lacunas são preenchidas, respectivamente, por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "desmatamento – ações para a redução da biodiversidade."
+        },
+        {
+          "letra": "B",
+          "texto": "extrativismo mineral – maior precaução com a utilização de metais pesados."
+        },
+        {
+          "letra": "C",
+          "texto": "incêndio florestal – maior preocupação com o aquecimento global."
+        },
+        {
+          "letra": "D",
+          "texto": "ilha de calor – o cumprimento das metas do Desenvolvimento Sustentável."
+        },
+        {
+          "letra": "E",
+          "texto": "chuva ácida – atenção à contaminação dos recursos hídricos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Questões Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Leia a sinopse do filme Rambo III, lançado no ano de 1988.\n\nVeterano da Guerra do Vietnã, Rambo, interpretado pelo ator Sylvester Stallone, refugia-se em um mosteiro budista, em busca de paz espiritual. O retiro é interrompido quando ele decide libertar seu mentor, que caiu nas mãos dos inimigos, durante a ocupação do Afeganistão.\n\n(www.microsoft.com. Adaptado.)\n\nConsiderando a imagem, a sinopse e conhecimentos sobre a dinâmica geopolítica mundial, afirma-se que o filme retrata o contexto",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "da Guerra Fria, que marcou a parceria entre os Estados Unidos e o grupo afegão que deu origem ao Talibã na luta contra o processo de invasão e ocupação soviética."
+        },
+        {
+          "letra": "B",
+          "texto": "da Revolução Islâmica, que destituiu a monarquia pró-Ocidente no Afeganistão para a instalação de um regime teocrático comandado pelos Aiatolás."
+        },
+        {
+          "letra": "C",
+          "texto": "da Segunda Guerra Mundial, que potencializou conflitos secundários de cunho separatista entre o Império Britânico e o grupo armado da Sharia."
+        },
+        {
+          "letra": "D",
+          "texto": "da Guerra do Yom Kippur, que resultou na aliança entre Israel e Estados Unidos no conflito contra o Egito, a Síria e o Afeganistão após a Crise do Petróleo em 1973."
+        },
+        {
+          "letra": "E",
+          "texto": "da Primavera Árabe, que consolidou a implantação dos princípios democráticos e do direito civil ao povo afegão, de maioria xiita."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "História – Guerra Fria"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Analise na imagem o perfil esquemático de um bioma.\n\nA biodiversidade desse bioma é muito rica, uma vez que concentra 45% das espécies de avifauna do Brasil. A imagem faz referência ao perfil esquemático do bioma",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Cerrado."
+        },
+        {
+          "letra": "B",
+          "texto": "Mata Atlântica."
+        },
+        {
+          "letra": "C",
+          "texto": "Pradaria."
+        },
+        {
+          "letra": "D",
+          "texto": "Amazônia."
+        },
+        {
+          "letra": "E",
+          "texto": "Pantanal."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Biomas Brasileiros"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Leia o tuíte publicado pela Agência Brasil em 20.08.2021.\n\nEssa nova política de filhos na China produzirá, neste país,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o aumento do crescimento populacional e a diminuição dos investimentos no setor previdenciário."
+        },
+        {
+          "letra": "B",
+          "texto": "o aumento da taxa de natalidade e o aumento do desequilíbrio na proporção dos sexos nos nascimentos."
+        },
+        {
+          "letra": "C",
+          "texto": "o alargamento da pirâmide etária e o aumento da população economicamente ativa."
+        },
+        {
+          "letra": "D",
+          "texto": "a redução do índice de envelhecimento e a ampliação da disponibilidade de pessoas no mercado de trabalho."
+        },
+        {
+          "letra": "E",
+          "texto": "a redução do crescimento vegetativo e o aumento das despesas com os setores de saúde e educação."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Demografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Moradias de iniciativa comunitária são práticas habitacionais criativas, coletivas e participativas com potencial para produzir alternativas dignas e acessíveis de moradia. Ao longo das últimas décadas, vulnerabilidades sociais frequentemente se materializaram na forma de habitações precárias e inseguras. O desemprego e a redução da renda em função da pandemia têm aumentado a insegurança habitacional, e o medo de despejos forçados e execuções hipotecárias faz parte da vida cotidiana em diversas cidades ao redor do mundo.\n\n(Thaisa Comelli et al. \"A importância das experiências de moradias de iniciativa comunitária\". https://diplomatique.org.br, 13.05.2021. Adaptado.)\n\nDe acordo com o excerto, a contradição presente no espaço urbano é materializada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pelo acesso à moradia e pela redução da especulação imobiliária."
+        },
+        {
+          "letra": "B",
+          "texto": "pela política pública e pelo desalento estrutural."
+        },
+        {
+          "letra": "C",
+          "texto": "pela dignidade habitacional e pela gentrificação."
+        },
+        {
+          "letra": "D",
+          "texto": "pela justiça social e pela exposição moral."
+        },
+        {
+          "letra": "E",
+          "texto": "pelo direito à cidade e pela exclusão socioespacial."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Geografia Urbana",
+        "Sociologia – Movimentos Sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "A indústria desempenha um papel estratégico no fortalecimento de todo o setor produtivo, mas no Brasil a dependência industrial e das tecnologias de países desenvolvidos denota fragilidade econômica.\n\n(www.portaldaindustria.com.br. Adaptado.)\n\nConsiderando o contexto apresentado, para promover o crescimento da indústria nacional seria necessário",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reduzir a implantação de projetos governamentais."
+        },
+        {
+          "letra": "B",
+          "texto": "expandir o uso de mão de obra terceirizada."
+        },
+        {
+          "letra": "C",
+          "texto": "diminuir a aplicação dos incentivos fiscais."
+        },
+        {
+          "letra": "D",
+          "texto": "ampliar os investimentos em pesquisas e desenvolvimento (P&D)."
+        },
+        {
+          "letra": "E",
+          "texto": "estimular a atuação das empresas transnacionais no setor extrativista."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Industrialização Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Examine o gráfico.\n\nO exame do gráfico e conhecimentos sobre a produção agropecuária brasileira permitem afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o agronegócio dos cereais é destinado ao abastecimento do mercado interno."
+        },
+        {
+          "letra": "B",
+          "texto": "as commodities são os gêneros agrícolas mais cultivados no espaço rural do país."
+        },
+        {
+          "letra": "C",
+          "texto": "a agricultura familiar é responsável por toda a produção dos gêneros agrícolas exportados."
+        },
+        {
+          "letra": "D",
+          "texto": "a produção da soja e do milho é realizada no país utilizando o sistema de agrofloresta."
+        },
+        {
+          "letra": "E",
+          "texto": "os produtos tropicais representam a maioria dos gêneros agrícolas do agronegócio nacional."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Agropecuária"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Analise as imagens de satélite que destacam o processo de expansão urbana da cidade de Manaus, respectivamente, nos anos de 1987 e 2020.\n\nUma possível consequência desse processo de expansão urbana da cidade de Manaus é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a impermeabilização do solo, que provoca a percolação das águas pluviais de forma acelerada."
+        },
+        {
+          "letra": "B",
+          "texto": "a redução da área verde, que altera a circulação geral da atmosfera local e promove o aquecimento global."
+        },
+        {
+          "letra": "C",
+          "texto": "a ocupação das várzeas dos rios, que compromete a mobilidade da cidade no período das chuvas."
+        },
+        {
+          "letra": "D",
+          "texto": "o equilíbrio socioambiental, que possibilita a preservação dos maiores extratos arbóreos."
+        },
+        {
+          "letra": "E",
+          "texto": "o processamento dos resíduos sólidos, que garante a qualidade e a maior turbidez dos rios urbanos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geografia Urbana",
+        "Geografia – Impactos Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "É um acordo internacional que visa a proteger a camada de Ozônio por meio da eliminação da produção e do consumo das substâncias responsáveis por sua destruição. A partir da Decisão XIX/6, em 2007, foi estabelecido um cronograma para a redução do consumo de hidroclorofluorcarbonos (HCFCs) no Brasil. Esse planejamento conta com três etapas e, até o ano de 2021, já obteve sucesso na redução de 51,6% do consumo de HCFCs em relação ao ano de base (2013). Calcula-se que a redução atingirá 100% até 2040.\n\n(www.ibama.gov.br, 30.04.2021. Adaptado.)\n\nO excerto faz menção",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ao Protocolo de Montreal."
+        },
+        {
+          "letra": "B",
+          "texto": "ao Protocolo de Kyoto."
+        },
+        {
+          "letra": "C",
+          "texto": "à Declaração das Partes."
+        },
+        {
+          "letra": "D",
+          "texto": "à Declaração de Cartagena."
+        },
+        {
+          "letra": "E",
+          "texto": "ao Tratado de Maastricht."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Questões Ambientais",
+        "Geografia – Relações Internacionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Em sua primeira reunião bilateral, os presidentes dos Estados Unidos, Joe Biden, e do México, Andrés Manuel López Obrador, enfatizaram a cooperação entre os dois países. Obrador afirmou que considera muito importante a integração econômica entre os países da América do Norte e que isso os fortalecerá. Em 2020, os dois países assinaram um acordo comercial com o Canadá. O pacto, conhecido pela sigla USMCA, substituiu o antigo Tratado Norte-Americano de Livre Comércio (Nafta, na sigla em inglês). Biden também se reuniu virtualmente com o primeiro-ministro canadense, Justin Trudeau.\n\n(\"Em 1ª reunião bilateral, Biden e Obrador enfatizam cooperação entre EUA e México\". www.correiobraziliense.com.br, 01.03.2021. Adaptado.)\n\nConforme o excerto e conhecimentos sobre esse novo acordo comercial assinado em 2020, afirma-se que o USMCA representa a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "substituição da zona de livre comércio pela união aduaneira entre os países-membros, todavia, aboliu a Tarifa Externa Comum (TEC)."
+        },
+        {
+          "letra": "B",
+          "texto": "modernização da zona de livre comércio entre os países-membros, contudo, implantou o fim da livre circulação de pessoas entre o México e os Estados Unidos."
+        },
+        {
+          "letra": "C",
+          "texto": "alteração da zona de livre comércio pela união monetária entre os países-membros, no entanto, liberou o uso da paridade monetária do dólar como moeda de referência."
+        },
+        {
+          "letra": "D",
+          "texto": "manutenção da zona de livre comércio entre os países-membros, entretanto, ampliou o protecionismo comercial dos Estados Unidos."
+        },
+        {
+          "letra": "E",
+          "texto": "ampliação da zona de livre comércio para países associados da América Central e Caribe, porém, manteve o embargo econômico em Cuba."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Blocos Econômicos",
+        "Geografia – Geopolítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "A figura ilustra dois tipos de células, uma eucariótica e outra procariótica.\n\nCom relação às atividades comuns que ocorrem nesses dois tipos de células, afirma-se que, em ambas,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a secreção ocorre por meio de vesículas."
+        },
+        {
+          "letra": "B",
+          "texto": "a digestão ocorre por meio de vacúolos."
+        },
+        {
+          "letra": "C",
+          "texto": "a duplicação do DNA ocorre no nucléolo."
+        },
+        {
+          "letra": "D",
+          "texto": "a produção de ATP ocorre nas organelas."
+        },
+        {
+          "letra": "E",
+          "texto": "a síntese de proteínas ocorre no citoplasma."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Citologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "O final do processo de divisão celular mitótico é caracterizado pela formação de duas novas células geneticamente idênticas à célula mãe. Para que as células filhas reiniciem suas atividades metabólicas, é necessária a ocorrência",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "da formação de fibras cromossômicas na citocinese."
+        },
+        {
+          "letra": "B",
+          "texto": "da síntese de enzimas na anáfase."
+        },
+        {
+          "letra": "C",
+          "texto": "da descondensação dos cromossomos na telófase."
+        },
+        {
+          "letra": "D",
+          "texto": "da reorganização da carioteca na metáfase."
+        },
+        {
+          "letra": "E",
+          "texto": "da multiplicação das organelas durante a prófase."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Citologia",
+        "Biologia – Divisão Celular"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "A figura ilustra dois tecidos presentes no fêmur, o osso mais longo e volumoso do corpo humano.\n\nConsiderando-se a organização estrutural do corpo humano, o fêmur é classificado como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "um órgão do sistema esquelético."
+        },
+        {
+          "letra": "B",
+          "texto": "um órgão do sistema conjuntivo."
+        },
+        {
+          "letra": "C",
+          "texto": "um sistema fisiológico do organismo."
+        },
+        {
+          "letra": "D",
+          "texto": "um tecido do sistema esquelético."
+        },
+        {
+          "letra": "E",
+          "texto": "um tecido do sistema conjuntivo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Histologia",
+        "Biologia – Sistema Esquelético"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "A contratura muscular, chamada popularmente de câimbra, ocorre quando alguns músculos ficam impossibilitados de relaxar, mantendo sua contração, o que causa dor e desconforto. Uma das causas conhecidas da ocorrência dessa contratura muscular está relacionada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ao excesso de hidratação muscular durante o exercício físico."
+        },
+        {
+          "letra": "B",
+          "texto": "ao acúmulo de ácido lático nas fibras musculares."
+        },
+        {
+          "letra": "C",
+          "texto": "ao acúmulo de cálcio nos tendões musculares."
+        },
+        {
+          "letra": "D",
+          "texto": "ao excesso de gás carbônico nos tecidos musculares."
+        },
+        {
+          "letra": "E",
+          "texto": "ao excesso de proteínas contráteis nos músculos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Fisiologia Humana",
+        "Biologia – Sistema Muscular"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "A figura ilustra os componentes do sangue humano.\n\nO sangue desempenha diversas funções no organismo humano, tais como o transporte de diversas substâncias, a defesa do organismo, a reparação de tecidos lesionados e a condução de calor.\n\nCom relação aos componentes do sangue e suas respectivas funções, afirma-se que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os glóbulos vermelhos transportam os nutrientes minerais, como o cálcio e o ferro."
+        },
+        {
+          "letra": "B",
+          "texto": "as plaquetas produzem as proteínas de defesa, os anticorpos."
+        },
+        {
+          "letra": "C",
+          "texto": "os glóbulos vermelhos realizam o processo de coagulação."
+        },
+        {
+          "letra": "D",
+          "texto": "o plasma é o principal veículo de transporte de gás oxigênio."
+        },
+        {
+          "letra": "E",
+          "texto": "os glóbulos brancos atuam no reconhecimento de corpos estranhos invasores."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Fisiologia Humana",
+        "Biologia – Sistema Circulatório"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "A epiglote, estrutura posicionada na garganta, atua como uma válvula, movendo-se para cima e para baixo, de forma a possibilitar que o ar siga para a laringe e os alimentos e líquidos sigam para o esôfago.\n\nA epiglote é formada por um tecido",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ósseo, que obstrui a traqueia durante a expiração."
+        },
+        {
+          "letra": "B",
+          "texto": "epitelial, que, quando dilatado, obstrui o esôfago."
+        },
+        {
+          "letra": "C",
+          "texto": "adiposo, que obstrui a traqueia durante a inspiração."
+        },
+        {
+          "letra": "D",
+          "texto": "cartilaginoso, que obstrui a laringe durante a deglutição."
+        },
+        {
+          "letra": "E",
+          "texto": "muscular, que, quando contraído, obstrui a faringe."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Fisiologia Humana",
+        "Biologia – Sistema Respiratório"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "O cordão umbilical humano é uma conexão entre a placenta materna e o feto. Em seu interior, há duas artérias e uma veia. As artérias transportam sangue fetal à placenta e a veia transporta sangue da placenta aos tecidos fetais em formação.\n\nUma característica desse transporte é o fato",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "das artérias conduzirem sangue rico em gás carbônico."
+        },
+        {
+          "letra": "B",
+          "texto": "das artérias conduzirem sangue rico em gás oxigênio."
+        },
+        {
+          "letra": "C",
+          "texto": "das artérias conduzirem sangue rico em nutrientes."
+        },
+        {
+          "letra": "D",
+          "texto": "da veia conduzir sangue rico em excretas nitrogenadas."
+        },
+        {
+          "letra": "E",
+          "texto": "da veia conduzir sangue rico em gás carbônico."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Embriologia",
+        "Biologia – Fisiologia Humana"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Periquitos australianos são caracterizados pela presença de dois pares de alelos responsáveis por condicionarem a coloração da plumagem, a qual pode apresentar os fenótipos verde, azul, amarelo e branco. Os periquitos verdes apresentam genótipo A_B_ e os brancos apresentam genótipo aabb.\n\nConsiderando cruzamentos entre animais duplo heterozigotos para esses alelos que segregam independentemente, a proporção obtida entre os fenótipos verde, azul, amarelo e branco, respectivamente, nos filhotes nascidos, é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3:3:1:1"
+        },
+        {
+          "letra": "B",
+          "texto": "1:1:1:1"
+        },
+        {
+          "letra": "C",
+          "texto": "1:3:3:9"
+        },
+        {
+          "letra": "D",
+          "texto": "9:3:3:1"
+        },
+        {
+          "letra": "E",
+          "texto": "1:3:1:3"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Genética"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "O processo de mapeamento genético consiste em localizar determinado gene ao longo da fita de DNA que compõe o cromossomo. Os primeiros estudos relacionados ao mapeamento cromossômico foram realizados por Thomas Morgan, no início do século XX, por meio",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "do cultivo de microrganismos em diferentes meios de cultura."
+        },
+        {
+          "letra": "B",
+          "texto": "da visualização direta dos cromossomos com o auxílio de microscópios eletrônicos."
+        },
+        {
+          "letra": "C",
+          "texto": "de cruzamentos entre moscas Drosophila melanogaster e da análise desses resultados."
+        },
+        {
+          "letra": "D",
+          "texto": "da preparação de lâminas com corantes específicos que evidenciavam o núcleo celular."
+        },
+        {
+          "letra": "E",
+          "texto": "da inoculação de vírus em células cultivadas em laboratório."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Genética"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Muitos casos de daltonismo, hemofilia e distrofia muscular são exemplos típicos de herança genética ligada ao sexo, caracterizados pela ocorrência mais provável em seres humanos do sexo masculino.\n\nOs genes relacionados aos casos de herança ligada ao sexo estão localizados",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "nos autossomos."
+        },
+        {
+          "letra": "B",
+          "texto": "no cromossomo Y."
+        },
+        {
+          "letra": "C",
+          "texto": "no DNA mitocondrial."
+        },
+        {
+          "letra": "D",
+          "texto": "nas moléculas de RNA."
+        },
+        {
+          "letra": "E",
+          "texto": "no cromossomo X."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Genética"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Analise a teia alimentar ilustrada a seguir.\n\nCom relação aos níveis tróficos ilustrados nessa teia alimentar,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o felino é um consumidor terciário."
+        },
+        {
+          "letra": "B",
+          "texto": "o inseto ocupa o segundo nível trófico."
+        },
+        {
+          "letra": "C",
+          "texto": "o veado ocupa o primeiro nível trófico."
+        },
+        {
+          "letra": "D",
+          "texto": "o esquilo é um consumidor secundário."
+        },
+        {
+          "letra": "E",
+          "texto": "o urubu ocupa o segundo nível trófico."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Uma relação ecológica facilmente observada é a estabelecida entre pássaros e bovinos. É bastante frequente a presença de pássaros no dorso de vacas e bois à procura de eventuais carrapatos.\n\nEssa relação descrita entre os pássaros e os bovinos é classificada como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cooperação, interespecífica harmônica."
+        },
+        {
+          "letra": "B",
+          "texto": "parasitismo, interespecífica desarmônica."
+        },
+        {
+          "letra": "C",
+          "texto": "comensalismo, intraespecífica harmônica."
+        },
+        {
+          "letra": "D",
+          "texto": "inquilinismo, intraespecífica harmônica."
+        },
+        {
+          "letra": "E",
+          "texto": "mutualismo, interespecífca desarmônica."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "As alturas de cinco livros formam uma progressão aritmética de razão 2. Se a soma de todas as alturas é 110 cm, a altura do menor livro é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20 cm."
+        },
+        {
+          "letra": "B",
+          "texto": "22 cm."
+        },
+        {
+          "letra": "C",
+          "texto": "24 cm."
+        },
+        {
+          "letra": "D",
+          "texto": "18 cm."
+        },
+        {
+          "letra": "E",
+          "texto": "16 cm."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Progressão Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "O resto da divisão do polinômio $p(x) = x^4 + mx^3 - x^2 + mx - 1$, sendo m um número real, por $(x - 1)$ é 3. O valor de $p(-1)$ é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1."
+        },
+        {
+          "letra": "B",
+          "texto": "-3."
+        },
+        {
+          "letra": "C",
+          "texto": "5."
+        },
+        {
+          "letra": "D",
+          "texto": "-5."
+        },
+        {
+          "letra": "E",
+          "texto": "3."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Polinômios"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Considere dois planos distintos e paralelos, $\\alpha$ e $\\beta$, uma reta r contida no plano $\\alpha$, um ponto Q pertencendo ao plano $\\alpha$, mas com Q não pertencendo à reta r, e um ponto P pertencendo ao plano $\\beta$, conforme mostra a figura.\n\nDe acordo com essas informações, afirma-se que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a distância do ponto Q ao ponto P é igual à distância do ponto Q ao plano $\\beta$."
+        },
+        {
+          "letra": "B",
+          "texto": "a projeção ortogonal da reta r sobre o plano $\\beta$ passará pelo ponto P."
+        },
+        {
+          "letra": "C",
+          "texto": "a distância do ponto Q ao plano $\\beta$ é igual à distância de qualquer ponto da reta r ao plano $\\beta$."
+        },
+        {
+          "letra": "D",
+          "texto": "ao se projetar ortogonalmente a reta r e o ponto Q sobre o plano $\\beta$, os pontos Q e P ficarão sobre a reta r."
+        },
+        {
+          "letra": "E",
+          "texto": "a distância entre o ponto Q e sua projeção ortogonal no plano $\\beta$ é igual à distância entre os pontos Q e P."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Em uma urna foram colocados dez cartões azuis, numerados de 1 a 10, e quatorze cartões amarelos, numerados de 1 a 14. Retirando-se aleatoriamente um cartão dessa urna, a probabilidade de sair um cartão com número ímpar que também seja múltiplo de três é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{1}{6}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{3}{8}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{1}{4}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{1}{12}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{1}{3}$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Probabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Um estudante fez três provas de matemática, $P_1$, $P_2$ e $P_3$, cujas notas, nessa ordem, formavam uma progressão geométrica de razão $\\frac{3}{2}$. Se a diferença entre a maior e a menor nota foi 5, então, a maior nota foi",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7,5."
+        },
+        {
+          "letra": "B",
+          "texto": "9,0."
+        },
+        {
+          "letra": "C",
+          "texto": "10,0."
+        },
+        {
+          "letra": "D",
+          "texto": "4,5."
+        },
+        {
+          "letra": "E",
+          "texto": "6,0."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Progressão Geométrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "A equação da circunferência de centro (2, 3) e raio 4 pode ser dada por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$(x - 2)^2 + (y - 3)^2 = 4$"
+        },
+        {
+          "letra": "B",
+          "texto": "$(x - 2)^2 + (y - 3)^2 = 2$"
+        },
+        {
+          "letra": "C",
+          "texto": "$(x + 2)^2 + (y + 3)^2 = 16$"
+        },
+        {
+          "letra": "D",
+          "texto": "$(x + 2)^2 + (y + 3)^2 = 4$"
+        },
+        {
+          "letra": "E",
+          "texto": "$(x - 2)^2 + (y - 3)^2 = 16$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "No polinômio $p(x) = x^3 - kx^2 - 5x + 3k$, com k um número real, $p(2) = -4$. O valor de $p(k - 3)$ é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8."
+        },
+        {
+          "letra": "B",
+          "texto": "6."
+        },
+        {
+          "letra": "C",
+          "texto": "4."
+        },
+        {
+          "letra": "D",
+          "texto": "10."
+        },
+        {
+          "letra": "E",
+          "texto": "12."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Polinômios"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "No plano cartesiano, as representações das funções reais $f(x) = ax + 2$ e $g(x)= -x + b$, com a e b números reais não nulos, passam pelo ponto P(2, 3).\n\nO valor de $f(-6) + g(2)$ é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4."
+        },
+        {
+          "letra": "B",
+          "texto": "3."
+        },
+        {
+          "letra": "C",
+          "texto": "2."
+        },
+        {
+          "letra": "D",
+          "texto": "1."
+        },
+        {
+          "letra": "E",
+          "texto": "5."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Funções do 1º grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "O ponto (0, 2) pertence à função trigonométrica $f(x) = a + \\cos x$, em que a é um número real. O valor de $f (2\\pi)$ é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "-2."
+        },
+        {
+          "letra": "B",
+          "texto": "-1."
+        },
+        {
+          "letra": "C",
+          "texto": "2."
+        },
+        {
+          "letra": "D",
+          "texto": "1."
+        },
+        {
+          "letra": "E",
+          "texto": "0."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Trigonometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "No triângulo retângulo ABC, de altura BH, AB = 6 cm e $B\\hat{C}A = \\alpha$, conforme mostra a figura.\n\nSabendo que $\\text{sen } \\alpha = 0,6$, o valor do segmento AH é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2,0 cm."
+        },
+        {
+          "letra": "B",
+          "texto": "3,6 cm."
+        },
+        {
+          "letra": "C",
+          "texto": "0,8 cm."
+        },
+        {
+          "letra": "D",
+          "texto": "1,5 cm."
+        },
+        {
+          "letra": "E",
+          "texto": "2,4 cm."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Trigonometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "A representação gráfica, no plano cartesiano, da função $f(x) = x^2 - bx + c$, em que b e c são números reais, passa pelos pontos A(0, 5), C(5, 0) e D.\n\nSabendo que os pontos A e D possuem a mesma ordenada, as coordenadas do ponto D são:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(5, 6)"
+        },
+        {
+          "letra": "B",
+          "texto": "(6, 0)"
+        },
+        {
+          "letra": "C",
+          "texto": "(5, 5)"
+        },
+        {
+          "letra": "D",
+          "texto": "(6, 5)"
+        },
+        {
+          "letra": "E",
+          "texto": "(6, 6)"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Funções do 2º grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Os pontos A(-3, y) e B(-1, 2) pertencem à função $f(x) = x^2 + 3x + m$, em que m é um número real. A equação da reta que passa pelos pontos A e B pode ser dada por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "y = -x + 3"
+        },
+        {
+          "letra": "B",
+          "texto": "y = x - 3"
+        },
+        {
+          "letra": "C",
+          "texto": "y = -x + 1"
+        },
+        {
+          "letra": "D",
+          "texto": "y = x + 1"
+        },
+        {
+          "letra": "E",
+          "texto": "y = -x - 1"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Analítica",
+        "Matemática – Funções"
+      ]
+    },
+    {
+      "numeroEnunciado": 61,
+      "enunciado": "A Nasa Space Power Facility é um laboratório que possui a maior câmara de vácuo do mundo. No interior dessa câmara foi conduzido um experimento utilizando uma bola de boliche e uma pena. Ambas foram erguidas a uma mesma altura e a câmara foi evacuada. Após esse procedimento, em ausência de ar, a bola de boliche e a pena foram abandonadas simultaneamente.\n\n(www.nasa.gov. Adaptado.)\n\nAo final desse experimento, observou-se que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a bola atingiu o solo primeiro por ter massa maior que a da pena, mesmo com a ausência de ar."
+        },
+        {
+          "letra": "B",
+          "texto": "a pena permaneceu parada onde estava e a bola atingiu o solo."
+        },
+        {
+          "letra": "C",
+          "texto": "a pena e a bola adquiriram uma aceleração, durante a queda, menor do que a da gravidade local."
+        },
+        {
+          "letra": "D",
+          "texto": "a pena, por ser menor que a bola, atingiu o solo primeiro."
+        },
+        {
+          "letra": "E",
+          "texto": "a bola e a pena atingiram o solo simultaneamente."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Cinemática",
+        "Física – Queda Livre"
+      ]
+    },
+    {
+      "numeroEnunciado": 62,
+      "enunciado": "Uma das maneiras de determinar se um ovo de galinha está bom ou estragado é mergulhá-lo em um copo com água. Caso esteja bom, o ovo permanecerá no fundo do copo, caso esteja estragado, o ovo boiará. Com base nessas informações, o ovo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "estragado possui massa maior e volume igual ao do ovo bom."
+        },
+        {
+          "letra": "B",
+          "texto": "bom possui densidade menor do que a da água."
+        },
+        {
+          "letra": "C",
+          "texto": "estragado possui densidade menor do que a do ovo bom."
+        },
+        {
+          "letra": "D",
+          "texto": "bom possui densidade menor do que a do ovo estragado."
+        },
+        {
+          "letra": "E",
+          "texto": "estragado possui densidade maior do que a da água."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Hidrostática"
+      ]
+    },
+    {
+      "numeroEnunciado": 63,
+      "enunciado": "Na construção civil, é comum utilizar uma mangueira com água para se determinar a posição de pontos que estejam sobre a mesma linha horizontal. Na imagem, duas pessoas estão realizando essa técnica para, posteriormente, instalarem interruptores nas paredes.\n\nNessa técnica, ambas as extremidades da mangueira ficam abertas. Quando a água no interior dessa mangueira atinge o equilíbrio, determina-se que as superfícies de água de cada lado da mangueira estão sobre a mesma linha horizontal. Na Física, a grandeza que melhor se relaciona com essa técnica é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a pressão."
+        },
+        {
+          "letra": "B",
+          "texto": "a área."
+        },
+        {
+          "letra": "C",
+          "texto": "a velocidade."
+        },
+        {
+          "letra": "D",
+          "texto": "a massa."
+        },
+        {
+          "letra": "E",
+          "texto": "o volume."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Hidrostática"
+      ]
+    },
+    {
+      "numeroEnunciado": 64,
+      "enunciado": "Analise, na imagem, as gotas de água que saem do cão ao se secar.\n\nConsidere que esse cão gira sua cabeça no eixo perpendicular ao plano da imagem, realizando, nesse momento, um movimento circular uniforme com sentido indicado na imagem. Considere também que as gotas de água possuem velocidade nula em relação aos pelos antes de abandoná-los. Desprezando-se a ação da gravidade, a seta que melhor representa a direção da velocidade da gota, destacada na imagem, após abandonar a orelha do cão, é a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1."
+        },
+        {
+          "letra": "B",
+          "texto": "3."
+        },
+        {
+          "letra": "C",
+          "texto": "2."
+        },
+        {
+          "letra": "D",
+          "texto": "5."
+        },
+        {
+          "letra": "E",
+          "texto": "4."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Cinemática",
+        "Física – Movimento Circular"
+      ]
+    },
+    {
+      "numeroEnunciado": 65,
+      "enunciado": "A Sibipiruna é uma árvore que produz frutos em formato de vagem, como os da imagem. Quando maduros, esses frutos estouram, lançando suas sementes para longe da árvore.\n\nEm um local onde $g = 10 \\text{ m/s}^2$, a 50 m de distância do tronco vertical de uma Sibipiruna e no mesmo plano horizontal, encontra-se um biólogo. Ele escuta o rompimento de um dos frutos e logo em seguida vê uma semente atingir o solo bem ao lado de seu pé.\n\nConsiderando que a semente foi ejetada de um fruto do centro da copa da árvore com uma velocidade horizontal de 25 m/s, esse biólogo estima que a altura (h) do fruto que lançou a semente para o lado de seu pé é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15 m."
+        },
+        {
+          "letra": "B",
+          "texto": "30 m."
+        },
+        {
+          "letra": "C",
+          "texto": "25 m."
+        },
+        {
+          "letra": "D",
+          "texto": "10 m."
+        },
+        {
+          "letra": "E",
+          "texto": "20 m."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Cinemática",
+        "Física – Lançamento Oblíquo"
+      ]
+    },
+    {
+      "numeroEnunciado": 66,
+      "enunciado": "Alguns relógios à prova d'água possuem uma impressão em seu mostrador informando a pressão ou a profundidade máxima que esses instrumentos suportam sob a água. Geralmente, essa informação se refere à pressão manométrica, ou seja, à pressão que somente o líquido exerce sobre o relógio. Na figura, observa-se a informação de que o relógio suporta até 3 atm de pressão.\n\nSabendo que $1 \\text{ atm} = 10^5 \\text{ Pa}$ e que a densidade da água é de $10^3 \\text{ kg/m}^3$, a profundidade máxima que se pode mergulhar com esse relógio, em uma região onde $g = 10 \\text{ m/s}^2$, sem que ele seja danificado, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15 m."
+        },
+        {
+          "letra": "B",
+          "texto": "150 m."
+        },
+        {
+          "letra": "C",
+          "texto": "3 m."
+        },
+        {
+          "letra": "D",
+          "texto": "30 m."
+        },
+        {
+          "letra": "E",
+          "texto": "0,3 m."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Hidrostática"
+      ]
+    },
+    {
+      "numeroEnunciado": 67,
+      "enunciado": "Um tipo de decoração utilizado em ambientes internos, como salas e corredores, é a aplicação de espelhos planos de grandes dimensões, podendo revestir toda uma parede, como o da imagem.\n\nUma das funções dessa decoração é causar a impressão de que o ambiente é maior do que realmente é. Na imagem, por exemplo, tem-se a impressão de que ali existe um corredor longo, sendo que, na verdade, ele acaba próximo ao vaso decorativo. Esse efeito ocorre porque espelhos planos conjugam imagens",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "atrás do espelho."
+        },
+        {
+          "letra": "B",
+          "texto": "reais."
+        },
+        {
+          "letra": "C",
+          "texto": "diante do espelho."
+        },
+        {
+          "letra": "D",
+          "texto": "maiores do que os objetos."
+        },
+        {
+          "letra": "E",
+          "texto": "mais distantes do que os objetos, em relação ao espelho."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Óptica Geométrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 68,
+      "enunciado": "Um guarda salva-vidas faz o seguinte trajeto com um jet-ski: primeiramente, ele sai da beira da praia em direção ao mar e depois volta pelo mesmo caminho que fez anteriormente. Tanto na ida quanto na volta, o jet-ski manteve a mesma velocidade constante em relação à areia da praia e a direção de seu movimento foi sempre perpendicular às ondas. O guarda salva-vidas nota que, durante o caminho de ida, a frequência com que o jet-ski atravessa as ondas é maior do que na volta, porém, em relação à praia, as ondas continuam com a mesma periodicidade. O efeito ondulatório que melhor explica essa constatação do salva-vidas é o efeito",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "de difração."
+        },
+        {
+          "letra": "B",
+          "texto": "de absorção."
+        },
+        {
+          "letra": "C",
+          "texto": "Doppler."
+        },
+        {
+          "letra": "D",
+          "texto": "de dispersão."
+        },
+        {
+          "letra": "E",
+          "texto": "de reflexão."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Ondulatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 69,
+      "enunciado": "A comunicação entre uma estação espacial e sua agência na superfície da Terra se viabiliza pelo uso de ondas eletromagnéticas. Quando a estação espacial envia uma mensagem para a Terra, as ondas eletromagnéticas transitam pelo vácuo e, ao penetrarem a atmosfera, experimentam diferentes índices de refração. Essas ondas, ao longo desse percurso,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "diminuem a sua frequência."
+        },
+        {
+          "letra": "B",
+          "texto": "mantêm o seu comprimento de onda."
+        },
+        {
+          "letra": "C",
+          "texto": "mantêm a sua velocidade de propagação."
+        },
+        {
+          "letra": "D",
+          "texto": "mantêm a sua frequência."
+        },
+        {
+          "letra": "E",
+          "texto": "aumentam o seu período."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Ondulatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 70,
+      "enunciado": "Uma pessoa decide construir uma lanterna caseira com um espelho côncavo gaussiano e uma pequena lâmpada que pode ser considerada uma fonte pontual de luz. Essa pessoa deseja que o cone de luz formado pela lanterna seja totalmente divergente, como representado na imagem.\n\nPara que a lanterna corresponda ao desejado, a lâmpada, que será colocada sobre o eixo principal do espelho, deve ser posicionada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "entre o foco e o centro de curvatura."
+        },
+        {
+          "letra": "B",
+          "texto": "entre o vértice e o foco."
+        },
+        {
+          "letra": "C",
+          "texto": "sobre o foco."
+        },
+        {
+          "letra": "D",
+          "texto": "sobre o centro de curvatura."
+        },
+        {
+          "letra": "E",
+          "texto": "além do centro de curvatura."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Óptica Geométrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 71,
+      "enunciado": "Em dias secos, é comum que nosso corpo fique eletrizado quando tiramos uma peça de roupa. Quando isso ocorre, se nos aproximarmos de um corpo condutor, como uma janela feita de metal, podemos sofrer um choque elétrico. Isso ocorre porque o sistema formado por nosso corpo e a janela funciona como um capacitor carregado. Ao ficarmos suficientemente perto da janela, o ar se torna condutor e nosso circuito capacitivo é descarregado. Considere uma situação em que uma carga de 0,2 nC foi totalmente transferida durante uma descarga e que a ddp entre o corpo e a janela era de 2500 V antes do choque. A capacitância do sistema corpo-janela, no momento desse choque, vale",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$4,0 \\times 10^{-14} \\text{ F}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$1,6 \\times 10^{-13} \\text{ F}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$2,5 \\times 10^{13} \\text{ F}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$8,0 \\times 10^{-14} \\text{ F}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$1,3 \\times 10^{12} \\text{ F}$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Eletrostática"
+      ]
+    },
+    {
+      "numeroEnunciado": 72,
+      "enunciado": "Uma pessoa possui três ímãs com formato de barra. Os ímãs não possuem marcações indicando quais são os nomes dos polos, sabendo-se somente que nas extremidades mais afastadas de cada ímã estão o polo Norte e polo o Sul. Essa pessoa então joga um pouco de limalha de ferro na região dos ímãs e observa as linhas formadas pela limalha. Na imagem está representada essa situação.\n\nCom base nas linhas formadas pela limalha, uma possível configuração para os polos $P_1$, $P_2$ e $P_3$, respectivamente, seria",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Sul, Norte, Sul."
+        },
+        {
+          "letra": "B",
+          "texto": "Sul, Norte, Norte."
+        },
+        {
+          "letra": "C",
+          "texto": "Norte, Sul, Sul."
+        },
+        {
+          "letra": "D",
+          "texto": "Norte, Sul, Norte."
+        },
+        {
+          "letra": "E",
+          "texto": "Sul, Sul, Norte."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Magnetismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 73,
+      "enunciado": "A formulação de pós faciais usados em maquiagens contém dois compostos inorgânicos sólidos, um deles constituído pelo cátion $\\text{Ca}^{2+}$ e o ânion $\\text{SO}_4^{2-}$ e o outro pelo cátion $\\text{Zn}^{2+}$ e o ânion $\\text{O}^{2-}$.\n\nAs fórmulas químicas dos compostos inorgânicos contidos em pós faciais são",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\text{CaSO}_3$ e $\\text{Zn}_2\\text{O}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\text{CaSO}_4$ e $\\text{ZnO}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\text{CaSO}_3$ e $\\text{ZnO}_2$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\text{CaSO}_2$ e $\\text{ZnO}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\text{CaSO}_4$ e $\\text{Zn}_2\\text{O}$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Ligações Químicas",
+        "Química – Fórmulas Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 74,
+      "enunciado": "As equações químicas apresentadas a seguir referem-se a reações que ocorrem na atmosfera de grandes centros urbanos, a partir da utilização de combustíveis fósseis contaminados com o enxofre, o que dá origem à chuva ácida.\n\n1. $\\text{S} + \\text{O}_2 \\rightarrow \\text{SO}_2$\n2. $\\text{SO}_2 + \\frac{1}{2}\\text{O}_2 \\rightarrow \\text{SO}_3$\n3. $\\text{SO}_3 + \\text{H}_2\\text{O} \\rightarrow \\text{H}_2\\text{SO}_4$\n\nEssas reações são classificadas como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reação de neutralização."
+        },
+        {
+          "letra": "B",
+          "texto": "reação de decomposição."
+        },
+        {
+          "letra": "C",
+          "texto": "reação de síntese."
+        },
+        {
+          "letra": "D",
+          "texto": "reação de simples troca."
+        },
+        {
+          "letra": "E",
+          "texto": "reação de deslocamento."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Reações Inorgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 75,
+      "enunciado": "Na reação de neutralização total do ácido clorídrico pelo hidróxido de magnésio que ocorre em um sistema fechado, sabe-se que 73 g do ácido reage com 58 g do hidróxido, produzindo 36 g de água e certa massa de cloreto de magnésio.\n\nConsiderando-se essas informações e utilizando a Lei de Lavoisier, a massa, em gramas, de cloreto de magnésio formada é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "95."
+        },
+        {
+          "letra": "B",
+          "texto": "131."
+        },
+        {
+          "letra": "C",
+          "texto": "109."
+        },
+        {
+          "letra": "D",
+          "texto": "167."
+        },
+        {
+          "letra": "E",
+          "texto": "37."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Leis Ponderais",
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 76,
+      "enunciado": "Um estudo de modelos explicativos das velocidades de transformações químicas foi feito usando-se pentóxido de dinitrogênio ($\\text{N}_2\\text{O}_5$), que dá origem ao dióxido de nitrogênio ($\\text{NO}_2$), de acordo com a equação:\n\n$$2\\text{N}_2\\text{O}_5 (\\text{g}) \\rightleftharpoons 4\\text{NO}_2 (\\text{g}) + \\text{O}_2 (\\text{g})$$\n\nO gráfico a seguir mostra a variação da concentração, em mol/L, do $\\text{N}_2\\text{O}_5$ em determinado intervalo de tempo.\n\nDe acordo com as informações do gráfico, a velocidade média de consumo do pentóxido de dinitrogênio na reação, no intervalo entre 0 e 20 minutos, é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$0,2 \\text{ mol} \\times \\text{L}^{-1} \\times \\text{min}^{-1}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$0,04 \\text{ mol} \\times \\text{L}^{-1} \\times \\text{min}^{-1}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$0,6 \\text{ mol} \\times \\text{L}^{-1} \\times \\text{min}^{-1}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$0,02 \\text{ mol} \\times \\text{L}^{-1} \\times \\text{min}^{-1}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$0,4 \\text{ mol} \\times \\text{L}^{-1} \\times \\text{min}^{-1}$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Cinética Química"
+      ]
+    },
+    {
+      "numeroEnunciado": 77,
+      "enunciado": "Os compostos orgânicos representados a seguir apresentam a fórmula molecular $\\text{C}_4\\text{H}_8$.\n\n$\\text{CH}_3-\\text{CH}=\\text{CH}-\\text{CH}_3$ $\\text{CH}_3-\\text{C}(\\text{CH}_3)=\\text{CH}_2$ $\\text{CH}_2=\\text{CH}-\\text{CH}_2-\\text{CH}_3$\n$\text{CH}_2-\\text{CH}_2-\\text{CH}_2-\\text{CH}_2$ (ciclobutano) $\\text{CH}_2-\\text{CH}(\\text{CH}_3)-\\text{CH}_2$ (metilciclopropano)\n\nOs tipos de isomeria observados entre esses compostos orgânicos são",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "função e compensação."
+        },
+        {
+          "letra": "B",
+          "texto": "tautomeria e função."
+        },
+        {
+          "letra": "C",
+          "texto": "compensação e posição."
+        },
+        {
+          "letra": "D",
+          "texto": "cadeia e tautomeria."
+        },
+        {
+          "letra": "E",
+          "texto": "cadeia e posição."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Isomeria"
+      ]
+    },
+    {
+      "numeroEnunciado": 78,
+      "enunciado": "A molécula responsável pelo aroma característico da canela, o cinamaldeído, é constituída pelos elementos carbono, hidrogênio e oxigênio. Sua massa molar é 132 g/mol.\nA combustão completa de 1 mol de cinamaldeído resultou em 9 mol de $\\text{CO}_2$ e 4 mol de $\\text{H}_2\\text{O}$, de acordo com a equação a seguir.\n\n$$C_xH_yO_z + 11O_2 \\rightarrow 9CO_2 + 4H_2O$$\n\nA fórmula molecular do cinamaldeído é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\text{C}_8\\text{H}_8\\text{O}_2$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\text{C}_9\\text{H}_8\\text{O}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\text{C}_9\\text{H}_9\\text{O}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\text{C}_8\\text{H}_9\\text{O}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\text{C}_9\\text{H}_8\\text{O}_2$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Estequiometria",
+        "Química – Fórmulas Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 79,
+      "enunciado": "A corrosão é um fenômeno que causa a degradação de estruturas metálicas e ocorre devido à reação do metal com o oxigênio do ar, conforme representado pela oxidação do ferro na equação a seguir.\n\n$$4\\text{Fe (s)} + 3\\text{O}_2 \\text{(g)} \\rightarrow 2\\text{Fe}_2\\text{O}_3 \\text{(s)}$$\n\nNuma reação de oxirredução, o agente oxidante provoca ___________ na espécie com a qual reage e ___________ seu próprio número de oxidação; e o agente redutor provoca ___________ na espécie com a qual reage e ___________ elétrons.\n\nAs lacunas são preenchidas, respectivamente, por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "oxidação – aumenta – redução – perde."
+        },
+        {
+          "letra": "B",
+          "texto": "redução - diminui – oxidação – ganha."
+        },
+        {
+          "letra": "C",
+          "texto": "oxidação – diminui – redução – perde."
+        },
+        {
+          "letra": "D",
+          "texto": "redução – aumenta – oxidação – ganha."
+        },
+        {
+          "letra": "E",
+          "texto": "oxidação – diminui – redução – ganha."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Eletroquímica",
+        "Química – Oxirredução"
+      ]
+    },
+    {
+      "numeroEnunciado": 80,
+      "enunciado": "O esquema apresenta uma pilha de Daniell. Cada um de seus compartimentos contém uma solução com íons do metal que é usado como eletrodo.\n\nO potencial da pilha é calculado de acordo com a seguinte equação:\n\n$$E_{\\text{pilha}} = E^\\circ_{\\text{cátodo}} - (E^\\circ_{\\text{ânodo}})$$\n\nA respeito dessa pilha, afirma-se que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o potencial de redução da reação que ocorre em R é maior do que o que ocorre em Q."
+        },
+        {
+          "letra": "B",
+          "texto": "o eletrodo R é o polo negativo."
+        },
+        {
+          "letra": "C",
+          "texto": "os elétrons fluem do polo positivo para o polo negativo."
+        },
+        {
+          "letra": "D",
+          "texto": "com seu funcionamento, a solução do cátion $\\text{R}^{x+}$ torna-se mais diluída."
+        },
+        {
+          "letra": "E",
+          "texto": "a oxidação ocorre em Q."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Eletroquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 81,
+      "enunciado": "Considere os mecanismos das reações representadas nas equações a seguir.\n\nEquação 1: $\\text{CH}_4 + \\text{Cl}_2 \\rightarrow \\text{CH}_3 – \\text{Cl} + \\text{HCl}$\nEquação 2: $\\text{CH}_2 = \\text{CH}_2 + \\text{H}_2 \\rightarrow \\text{CH}_3–\\text{CH}_3$\n\nOs tipos de reação apresentados nos mecanismos das equações 1 e 2 são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "substituição e adição."
+        },
+        {
+          "letra": "B",
+          "texto": "hidrogenação e substituição."
+        },
+        {
+          "letra": "C",
+          "texto": "substituição e eliminação."
+        },
+        {
+          "letra": "D",
+          "texto": "eliminação e adição."
+        },
+        {
+          "letra": "E",
+          "texto": "alquilação e hidrogenação."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Reações Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 82,
+      "enunciado": "Polímeros são macromoléculas orgânicas constituídos a partir de muitas unidades pequenas que se repetem, denominadas monômeros. Existem os polímeros sintéticos e os naturais.\n\nA alternativa que apresenta somente os polímeros naturais é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "borracha, proteína e PVC."
+        },
+        {
+          "letra": "B",
+          "texto": "celulose, proteína e PVC."
+        },
+        {
+          "letra": "C",
+          "texto": "plástico, borracha e teflon."
+        },
+        {
+          "letra": "D",
+          "texto": "amido, borracha e teflon."
+        },
+        {
+          "letra": "E",
+          "texto": "amido, proteína e celulose."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Polímeros"
+      ]
+    },
+    {
+      "numeroEnunciado": 83,
+      "enunciado": "Analise o gráfico de uma reação genérica: A + B $\\rightarrow$ C + D, que ocorre em uma única etapa.\n\nO valor da energia de ativação dessa reação genérica é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "+10 kcal/mol."
+        },
+        {
+          "letra": "B",
+          "texto": "-25 kcal/mol."
+        },
+        {
+          "letra": "C",
+          "texto": "-30 kcal/mol."
+        },
+        {
+          "letra": "D",
+          "texto": "+30 kcal/mol."
+        },
+        {
+          "letra": "E",
+          "texto": "-10 kcal/mol."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Termoquímica",
+        "Química – Cinética Química"
+      ]
+    },
+    {
+      "numeroEnunciado": 84,
+      "enunciado": "O gás tetróxido de dinitrogênio ($\\text{N}_2\\text{O}_4$) incolor se transforma em dióxido de nitrogênio ($\\text{NO}_2$) que tem coloração marrom. Essa reação é representada na equação de equilíbrio reacional a seguir.\n\n$$\\text{N}_2\\text{O}_4 \\text{(g)} \\rightleftharpoons 2\\text{NO}_2 \\text{(g)}$$\n\nEm um experimento, sob temperatura constante, quantidades iguais desses dois gases foram adicionadas em um compartimento fechado, provido de um êmbolo móvel. Na figura são representadas duas etapas do experimento. Em cada uma dessas etapas foi atingido o equilíbrio químico.\n\nNesse experimento, conclui-se que na passagem da etapa 1 para a etapa 2 a coloração da mistura gasosa passou de ___________ pois, com ___________ da pressão, o equilíbrio reacional foi deslocado para a ___________, favorecendo a formação de ___________\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "castanho claro para castanho escuro – a diminuição – direita – $\\text{NO}_2$"
+        },
+        {
+          "letra": "B",
+          "texto": "castanho escuro para castanho claro – o aumento – esquerda – $\\text{N}_2\\text{O}_4$"
+        },
+        {
+          "letra": "C",
+          "texto": "castanho escuro para castanho claro – a diminuição – direita – $\\text{NO}_2$"
+        },
+        {
+          "letra": "D",
+          "texto": "castanho claro para castanho escuro – o aumento – esquerda – $\\text{NO}_2$"
+        },
+        {
+          "letra": "E",
+          "texto": "castanho claro para castanho escuro – o aumento – esquerda – $\\text{N}_2\\text{O}_4$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Equilíbrio Químico"
+      ]
+    }
+  ]
+}

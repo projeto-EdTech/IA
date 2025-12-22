@@ -1,0 +1,1823 @@
+{
+  "nomeUniversidade": "Centro Universitário FEI",
+  "siglaUniversidade": "FEI",
+  "nomeProva": "Engenharia e Ciência da Computação",
+  "ano": 2022,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Leia o poema abaixo e responda às questões de 01 até 05:\n\nSONETO DA SEPARAÇÃO\n\n1.\nDe repente do riso fez-se o pranto\nSilencioso e branco como a bruma\nE das bocas unidas fez-se a espuma\nE das mãos espalmadas fez-se o espanto.\n\n5.\nDe repente da calma fez-se o vento\nQue dos olhos desfez a última chama\nE da paixão fez-se o pressentimento\nE do momento imóvel fez-se o drama.\n\nDe repente, não mais que de repente\n10. Fez-se de triste o que se fez amante\nE de sozinho o que se fez contente.\n\nFez-se do amigo próximo o distante\nFez-se da vida uma aventura errante\nDe repente, não mais que de repente.\n\n(Fonte: MORAIS, Vinicius de. Poesia Completa e Prosa. 2 ed. Rio de Janeiro: Nova Aguilar, 1981, p. 226)\n\nObservando o poema em relação à forma e ao conteúdo, é possível afirmar que:\n\nI- Trata-se de um soneto com versos decassílabos em duas quadras e dois tercetos, com rimas ABBA-ABAB-CDC-DDC.\nII- O poema trata da transformação gradual e lenta dos sentimentos de um par amoroso.\nIII- A expressão “de repente”, que se repete, denota mudanças repentinas dos sentimentos em uma relação amorosa.\nIV- A linguagem utilizada pelo autor, repleta de termos antigos e de significado desconhecido para o leitor comum, impede que o público se identifique com o relacionamento amoroso retratado no poema.\n\nEscolha a alternativa que indica apenas as afirmações verdadeiras:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II"
+        },
+        {
+          "letra": "B",
+          "texto": "II e III"
+        },
+        {
+          "letra": "C",
+          "texto": "I e III"
+        },
+        {
+          "letra": "D",
+          "texto": "I e IV"
+        },
+        {
+          "letra": "E",
+          "texto": "III e IV"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira (Modernismo)",
+        "Língua Portuguesa – Análise de Poemas"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "A oração \"que dos olhos desfez a última chama\" (verso 6) tem como sujeito da ação indicada pelo verbo “desfazer\":",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"vento\"."
+        },
+        {
+          "letra": "B",
+          "texto": "\"calma\"."
+        },
+        {
+          "letra": "C",
+          "texto": "\"mãos espalmadas\"."
+        },
+        {
+          "letra": "D",
+          "texto": "“paixão”."
+        },
+        {
+          "letra": "E",
+          "texto": "\"pressentimento\"."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe (Sujeito)"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Nos versos 09 e 14, a repetição do termo “de repente” indica:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Exageros nos sentimentos do eu lírico que sofre com a separação."
+        },
+        {
+          "letra": "B",
+          "texto": "Insensibilidade do eu lírico frente à crise no relacionamento."
+        },
+        {
+          "letra": "C",
+          "texto": "Ênfase na perspectiva do eu lírico em relação aos próprios sentimentos."
+        },
+        {
+          "letra": "D",
+          "texto": "Ênfase ao fato de que na percepção do eu lírico o que gerou a separação foi uma mudança repentina."
+        },
+        {
+          "letra": "E",
+          "texto": "Intensificação dos sentimentos expressos somente por paradoxo."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "O poema é estruturado por meio de quatro estrofes. Nas orações em que se observa a utilização da estrutura “fez-se”, é correto afirmar que:\n\nI- Essa estrutura aponta para uma transformação positiva na relação entre os amantes.\nII- O verbo \"fazer” e o pronome “se” indicam o caráter imutável da relação amorosa já constituída.\nIII- Utilizada repetidas vezes, indica que a relação era feliz até a mudança repentina que gerou o afastamento e a separação definitiva.\nIV- Não houve ação de nenhum dos amantes, pois as transformações foram inespecíficas e pouco expressivas.\n\nEscolha a alternativa que indica apenas as afirmações verdadeiras:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e III"
+        },
+        {
+          "letra": "B",
+          "texto": "I e II"
+        },
+        {
+          "letra": "C",
+          "texto": "I e IV"
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas II"
+        },
+        {
+          "letra": "E",
+          "texto": "Apenas III"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Poemas",
+        "Língua Portuguesa – Morfossintaxe"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "As relações antitéticas presentes nas oposições riso/pranto e próximo/distante indicam a radical transformação na relação amorosa, que culminou com a separação. Esses elementos antitéticos estão presentes também no seguinte par:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Silencioso/Bruma"
+        },
+        {
+          "letra": "B",
+          "texto": "Branco/Bruma"
+        },
+        {
+          "letra": "C",
+          "texto": "Olhos/Chama"
+        },
+        {
+          "letra": "D",
+          "texto": "Calma/Vento"
+        },
+        {
+          "letra": "E",
+          "texto": "Triste/Sozinho"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Semântica (Antônimos)",
+        "Língua Portuguesa – Interpretação de Poemas"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Leia o trecho do conto \"Vestida de Preto\", de Mário de Andrade, para responder às questões 6 e 7.\n\n1. Maria foi o meu primeiro amor. Não havia nada entre nós, está claro, ela como eu nos seus cinco anos apenas, mas não sei que divina melancolia nos tomava, se acaso nos achávamos juntos e sozinhos. A voz baixava de tom, e principalmente as palavras é que se tornaram mais raras, muito simples. Uma ternura imensa, firme e reconhecida, não exigindo nenhum gesto. Aquilo aliás durava pouco, porque logo a criançada chegava. Mas tínhamos então uma raiva impensada dos manos e dos primos, sempre exteriorizada em palavras ou modos de irritação. Amor apenas sensível naquele instinto de estarmos sós.\n\n(Fonte: Andrade, Mário de. O melhor de Mário de Andrade. 1 ed. Rio de Janeiro: Nova Fronteira, 2015, p.41)\n\nObserve o uso da conjunção coordenativa adversativa, na linha 02, e responda a que ideia se opõe a oração por ela iniciada:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Não havia nada entre nós\""
+        },
+        {
+          "letra": "B",
+          "texto": "\"Está claro\""
+        },
+        {
+          "letra": "C",
+          "texto": "\"ela como eu nos seus cinco anos apenas\""
+        },
+        {
+          "letra": "D",
+          "texto": "\"Maria foi meu primeiro amor\""
+        },
+        {
+          "letra": "E",
+          "texto": "\"nos achávamos juntos e sozinhos\""
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe (Conjunções)"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "A locução conjuntiva “se acaso\", na linha 03, pode ser substituída, conservando o sentido, por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "na condição que"
+        },
+        {
+          "letra": "B",
+          "texto": "conquanto"
+        },
+        {
+          "letra": "C",
+          "texto": "se porventura"
+        },
+        {
+          "letra": "D",
+          "texto": "contanto que"
+        },
+        {
+          "letra": "E",
+          "texto": "como"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe (Locuções Conjuntivas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Leia e observe a tirinha para responder as questões de 8 até 10.\n\n(Fonte: Dik Browne, Folha de S. Paulo, 05.05.2012)\n\nA tirinha possui elementos de humor que se apoiam nas linguagens verbal e não verbal de Helga e de seu marido Hagar. Escolha a alternativa que melhor explicita esses elementos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O casal está discutindo sobre a vida doméstica e Helga utiliza linguagem grosseira."
+        },
+        {
+          "letra": "B",
+          "texto": "A linguagem de Helga aponta sua insatisfação com o casamento, motivada pela situação de sobrecarga de trabalho doméstico."
+        },
+        {
+          "letra": "C",
+          "texto": "Hagar refuta fortemente a reflexão crítica da esposa."
+        },
+        {
+          "letra": "D",
+          "texto": "Helga reconhece a ausência constante de Hagar na relação."
+        },
+        {
+          "letra": "E",
+          "texto": "A linguagem de Helga é literal e pretende demonstrar que não há mais amor na relação."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto (Tirinhas)",
+        "Língua Portuguesa – Linguagem Verbal e Não-Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "O verbo \"conduzir\" utilizado na primeira fala pode ser substituído, sem prejuízo de sentido, por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Visar."
+        },
+        {
+          "letra": "B",
+          "texto": "Pilotar."
+        },
+        {
+          "letra": "C",
+          "texto": "Guiar."
+        },
+        {
+          "letra": "D",
+          "texto": "Administrar."
+        },
+        {
+          "letra": "E",
+          "texto": "Liderar."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Semântica (Sinônimos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "A oração “quando nos casamos” estabelece uma relação de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Causa"
+        },
+        {
+          "letra": "B",
+          "texto": "Tempo"
+        },
+        {
+          "letra": "C",
+          "texto": "Consequência"
+        },
+        {
+          "letra": "D",
+          "texto": "Modo"
+        },
+        {
+          "letra": "E",
+          "texto": "Lugar"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe (Orações Subordinadas Adverbiais)"
+      ]
+    },
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "O custo de fabricação de um produto é de 30 reais e ele é vendido por 42 reais. A razão entre o lucro e o preço de venda deste produto é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{5}{7}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{2}{5}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{5}{11}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{2}{7}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{1}{3}$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Razão e Proporção"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Um estacionamento para automóveis é organizado em filas. Na primeira fila há exatamente 5 vagas, na segunda 9 vagas, na terceira há 13 vagas e assim por diante, ou seja, o crescimento do número de vagas ocorre segundo uma progressão aritmética de razão 4. Sabe-se que em certo momento, o estacionamento teve todas as vagas lotadas da primeira fila até a décima (inclusive), não havendo carros nas filas seguintes. Desta forma, a quantidade de automóveis no estacionamento naquele momento foi de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "41"
+        },
+        {
+          "letra": "B",
+          "texto": "138"
+        },
+        {
+          "letra": "C",
+          "texto": "212"
+        },
+        {
+          "letra": "D",
+          "texto": "230"
+        },
+        {
+          "letra": "E",
+          "texto": "460"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Progressão Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Sabendo que $z = \\frac{2+i^6}{3-i}$, é correto afirmar que $z+\\bar{z}$ (sendo $\\bar{z}$ o conjugado de z) é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,2"
+        },
+        {
+          "letra": "B",
+          "texto": "0,3"
+        },
+        {
+          "letra": "C",
+          "texto": "0,4"
+        },
+        {
+          "letra": "D",
+          "texto": "0,5"
+        },
+        {
+          "letra": "E",
+          "texto": "0,6"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Números Complexos"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Oito homens e n mulheres participam de uma reunião. Com os presentes, podem ser formadas 1260 comissões de quatro pessoas, cada qual composta por dois homens e duas mulheres. Nestas condições, considerando os presentes na reunião, é correto afirmar que o número de comissões de três pessoas compostas por duas mulheres e um homem é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "360"
+        },
+        {
+          "letra": "B",
+          "texto": "420"
+        },
+        {
+          "letra": "C",
+          "texto": "511"
+        },
+        {
+          "letra": "D",
+          "texto": "634"
+        },
+        {
+          "letra": "E",
+          "texto": "720"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Análise Combinatória (Combinação)"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "No sistema cartesiano ortogonal xOy, a reta $2x+y-4=0$ intercepta os eixos coordenados nos pontos A e B. A equação da mediatriz do segmento AB é dada por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2x+y-4=0$"
+        },
+        {
+          "letra": "B",
+          "texto": "$2x-y=0$"
+        },
+        {
+          "letra": "C",
+          "texto": "$3x-2y+1=0$"
+        },
+        {
+          "letra": "D",
+          "texto": "$x+5y-11=0$"
+        },
+        {
+          "letra": "E",
+          "texto": "$x-2y+3=0$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Geometria Analítica (Reta)"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "O polinômio $p(x)=x^3-7x^2-5x+a$ é divisível por $(x-3)$. O valor de a é um número:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "par"
+        },
+        {
+          "letra": "B",
+          "texto": "múltiplo de 5"
+        },
+        {
+          "letra": "C",
+          "texto": "múltiplo de 17"
+        },
+        {
+          "letra": "D",
+          "texto": "primo"
+        },
+        {
+          "letra": "E",
+          "texto": "múltiplo de 7"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Polinômios"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Considere o sistema linear dado por $\\begin{pmatrix} 1 & -1 \\\\ \\alpha & -1 \\end{pmatrix} \\begin{pmatrix} x \\\\ y \\end{pmatrix} = \\begin{pmatrix} 2 \\\\ 3 \\end{pmatrix}$, com $\\alpha \\in \\mathbb{R}$, e analise as afirmações:\n\nI. Para $\\alpha=3$, o sistema admite infinitas soluções.\nII. O sistema linear é impossível para $\\alpha=2$.\nIII. O sistema linear não é homogêneo.\n\nClassificando as afirmações em verdadeiras (V) ou falsas (F) e considerando a ordem dada, a alternativa que apresenta a classificação correta é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "VVV"
+        },
+        {
+          "letra": "B",
+          "texto": "VFF"
+        },
+        {
+          "letra": "C",
+          "texto": "VFV"
+        },
+        {
+          "letra": "D",
+          "texto": "FFF"
+        },
+        {
+          "letra": "E",
+          "texto": "VVF"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Sistemas Lineares"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "A empresa A produziu 3000 computadores e a empresa B produziu 7000. Sabe-se que 10% dos computadores produzidos por A e 20% dos produzidos por B têm defeito. Sorteando ao acaso um computador fabricado por estas empresas e sabendo que ele não apresentou defeito, é correto afirmar que a probabilidade de ter sido fabricado pela empresa A é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{27}{100}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{3}{10}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{27}{83}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{14}{25}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{3}{17}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Probabilidade Condicional"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Aumentando em 10% o raio da base de um cone circular reto e reduzindo em 10% a sua altura, é correto afirmar que seu volume:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "não se altera"
+        },
+        {
+          "letra": "B",
+          "texto": "é multiplicado por 1,089"
+        },
+        {
+          "letra": "C",
+          "texto": "é multiplicado por 0,95"
+        },
+        {
+          "letra": "D",
+          "texto": "é multiplicado por 1,023"
+        },
+        {
+          "letra": "E",
+          "texto": "é multiplicado por 0,9"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Geometria Espacial (Cone)",
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Seja a função $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ tal que $f(x)=\\sin(2x)+1$. O período e a imagem dessa função são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\pi$ e $[0,2]$"
+        },
+        {
+          "letra": "B",
+          "texto": "$2\\pi$ e $[0,2]$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\pi$ e $[-1,1]$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\pi$ e $[1,2]$"
+        },
+        {
+          "letra": "E",
+          "texto": "$2\\pi$ e $[-1,1]$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Funções Trigonométricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Instruções: Se for necessário, use a aceleração da gravidade $g = 10 \\text{ m/s}^2$, $\\sin(30^\\circ) = 0.50$, $\\cos(30^\\circ) = 0.87$ e $\\sin(45^\\circ) = 0.71 = \\cos(45^\\circ)$.\n\nA agropecuária movimenta um mercado de trilhões de reais, em que os investimentos em tecnologia aumentam a cada ano. As questões 1 a 10 se referem a esse mundo no qual eficiência, alto rendimento e precisão são palavras-chaves.\n\nAgricultura de baixo carbono é um conjunto de práticas sustentáveis para mitigação da emissão dos gases de efeito estufa e para captura do carbono no solo. Uma das práticas é o reflorestamento de áreas rurais com o plantio de árvores que, para muitos proprietários, ainda geram o chamado crédito de carbono. Em média, cada árvore neutraliza 163,4 kg de $CO_2$. Na figura abaixo, é mostrada uma representação de uma área de reflorestamento onde são identificadas seis árvores recém-plantadas, cujas bases dos troncos são representadas pelos círculos. Os lados dos quadrados da grade medem 1 cm de comprimento. Na figura também são fornecidos três vetores, $\\vec{A}$, $\\vec{B}$ e $\\vec{C}$, que saem da origem do sistema cartesiano. Qual é a árvore que tem a posição central de seu tronco representada pelo vetor $3\\vec{A} + \\vec{B} - \\vec{C}$?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Árvore 1"
+        },
+        {
+          "letra": "B",
+          "texto": "Árvore 2"
+        },
+        {
+          "letra": "C",
+          "texto": "Árvore 3"
+        },
+        {
+          "letra": "D",
+          "texto": "Árvore 4"
+        },
+        {
+          "letra": "E",
+          "texto": "Árvore 5"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Vetores"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Um cano de irrigação cuja base está enterrada no chão ejeta água com uma velocidade inicial de 36 km/h. A saída do cano é apontada para cima, fazendo um ângulo de $30^\\circ$ com o solo. Qual é o tempo que a água fica no ar desde o instante do lançamento até tocar o solo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,25 s"
+        },
+        {
+          "letra": "B",
+          "texto": "0,50 s"
+        },
+        {
+          "letra": "C",
+          "texto": "1,00 s"
+        },
+        {
+          "letra": "D",
+          "texto": "1,25 s"
+        },
+        {
+          "letra": "E",
+          "texto": "1,50 s"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Cinemática (Lançamento Oblíquo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Na agricultura de precisão são utilizados veículos aéreos não tripulados (VANTs) que podem detectar mais facilmente a contaminação por pragas, proporcionar um maior controle sobre a produção da lavoura, permitir um mapeamento mais detalhado de toda a região e aplicar fertilizantes e defensivos de forma mais rápida e eficaz. Considere que um VANT está realizando uma trajetória circular de raio R = 1,0 km com velocidade constante. Suas asas estão inclinadas de um ângulo de $\\theta = 45^\\circ$ com a vertical. Na figura abaixo, estão mostradas as forças Peso ($\\vec{P}$) e de Sustentação ($\\vec{L}$), que atuam perpendicularmente à direção de voo da aeronave durante a curva. Qual é a velocidade do VANT?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "75 m/s"
+        },
+        {
+          "letra": "B",
+          "texto": "80 m/s"
+        },
+        {
+          "letra": "C",
+          "texto": "85 m/s"
+        },
+        {
+          "letra": "D",
+          "texto": "90 m/s"
+        },
+        {
+          "letra": "E",
+          "texto": "100 m/s"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Dinâmica (Força Centrípeta)"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Uma fazenda produtora de leite deve sempre fazer uma etapa de resfriamento após a ordenha da vaca. A temperatura do leite no momento da ordenha é de cerca de $35\\;^\\circ\\text{C}$ e é bastante favorável à multiplicação de bactérias. A temperatura de resfriamento é de $4\\;^\\circ\\text{C}$ e o processo deve ser realizado em até três horas. Considere que a densidade do leite é 1,0 g/ml e que o calor específico seja 4 kJ/(kg K). Qual é a potência necessária para resfriar 1000 L de leite em 3 horas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10,2 kW"
+        },
+        {
+          "letra": "B",
+          "texto": "11,5 kW"
+        },
+        {
+          "letra": "C",
+          "texto": "20,3 kW"
+        },
+        {
+          "letra": "D",
+          "texto": "37,3 kW"
+        },
+        {
+          "letra": "E",
+          "texto": "54,4 kW"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Termologia (Calorimetria)",
+        "Física – Termodinâmica (Potência Térmica)"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "A compactação do solo causada pelo uso intenso de máquinas agrícolas cada vez mais pesadas reduz a produtividade nas áreas rurais. A escolha dos pneus adequados pode ajudar a prevenir o problema da compactação. Analise as afirmações a seguir e escolha a alternativa correta que permite diminuir o problema da compactação:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Substituir os pneus antigos por pneus mais altos, pois isso aumenta a distância com o solo, reduzindo a pressão sobre o solo."
+        },
+        {
+          "letra": "B",
+          "texto": "Substituir os pneus antigos por pneus mais baixos, permitindo um controle visual das áreas mais afetadas pela compactação."
+        },
+        {
+          "letra": "C",
+          "texto": "Substituir os pneus antigos por pneus mais largos, causando uma diminuição na pressão sobre o solo."
+        },
+        {
+          "letra": "D",
+          "texto": "Substituir os pneus antigos por pneus mais finos, causando uma diminuição na força de atrito que gera a compactação do solo."
+        },
+        {
+          "letra": "E",
+          "texto": "Substituir os pneus antigos por pneus mais finos, permitindo uma diminuição no peso da máquina agrícola e consequentemente a diminuição da compactação do solo."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Dinâmica (Pressão)"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "A agricultura de precisão incorpora um GPS (Sistema de Posicionamento Global) em cada máquina agrícola. O dispositivo de GPS envia ondas eletromagnéticas com velocidade de $3,0 \\times 10^8 \\text{ m/s}$ na faixa do micro-ondas para um satélite que está a uma altura de $20 \\times 10^3 \\text{ km}$ em relação ao solo. Qual é a frequência da onda e qual o tempo de ida e volta do sinal emitido, sabendo que a onda eletromagnética possui comprimento de onda de 20 cm?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$1,5 \\times 10^9 \\text{ Hz}$ e 0,13 s"
+        },
+        {
+          "letra": "B",
+          "texto": "$1,5 \\times 10^8 \\text{ Hz}$ e 0,13 s"
+        },
+        {
+          "letra": "C",
+          "texto": "$1,5 \\times 10^9 \\text{ Hz}$ e 0,067 s"
+        },
+        {
+          "letra": "D",
+          "texto": "$1,5 \\times 10^6 \\text{ Hz}$ e 0,067 s"
+        },
+        {
+          "letra": "E",
+          "texto": "$1,5 \\times 10^{12} \\text{ Hz}$ e 0,067 s"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Ondulatória (Ondas Eletromagnéticas)",
+        "Física – Cinemática (MRU)"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Uma das etapas finais da produção agrícola é o beneficiamento de sementes, no qual as sementes de vários tipos são separadas em lotes homogêneos, segundo características definidas previamente. Uma forma de promover essa separação é fazer as sementes caírem por um filtro eletrostático vertical, como o mostrado na figura, em que o eletrodo vertical da esquerda é positivo e o eletrodo vertical da direita é negativo. Analise as afirmações a seguir e escolha a alternativa correta:\n\nI. As sementes brancas estão carregadas negativamente e as sementes pretas estão carregadas positivamente.\nII. As placas paralelas eletrizadas geram um campo elétrico na horizontal, que aponta da esquerda para direita.\nIII. Uma semente que não tivesse carga elétrica faria uma trajetória vertical sem sofrer desvios.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas a afirmação I é verdadeira"
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas a afirmação II é verdadeira"
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas as afirmações I e II são verdadeiras"
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas as afirmações I e III são verdadeiras"
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as afirmações são verdadeiras"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Eletrostática (Campo Elétrico)"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Em um sistema de irrigação com pivô central fixo, a água entra pela base, que fica no centro de uma área circular, e é aspergida por uma tubulação que passa por uma estrutura suspensa, o braço, apoiado em torres móveis como as mostradas na figura. Considere que as distâncias entre duas torres consecutivas, bem como da base à torre 1, são iguais a 70 m. Qual é a velocidade da torre 2 para que o pivô efetue uma volta completa em 12 horas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,005 m/s"
+        },
+        {
+          "letra": "B",
+          "texto": "0,100 m/s"
+        },
+        {
+          "letra": "C",
+          "texto": "0,015 m/s"
+        },
+        {
+          "letra": "D",
+          "texto": "0,020 m/s"
+        },
+        {
+          "letra": "E",
+          "texto": "0,025 m/s"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Cinemática (Movimento Circular Uniforme)"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Estufas agrícolas são estruturas construídas com material translúcido e utilizadas para reter o calor do Sol, com o objetivo de proteger as plantas contra o frio. Esse sistema permite a aceleração dos processos de fotossíntese e produção de oxigênio, possibilitando floração e frutificação melhores, maior velocidade no crescimento das plantas e aumento de produtividade. Em um projeto de laboratório foi montada uma pequena estufa móvel com o intuito de analisar o aquecimento e a perda de calor de 200 ml de água que estava dentro de um recipiente com temperatura inicial de $22 \\;^\\circ\\text{C}$. O gráfico mostra a temperatura da água em função do tempo. Inicialmente a estufa estava em um local ensolarado e, após 90 min (seta azul), foi levada para a sombra. Analise as afirmações a seguir e escolha a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Para evitar a convecção do ar, o interior da estufa é mantido em vácuo."
+        },
+        {
+          "letra": "B",
+          "texto": "O principal mecanismo de aquecimento da água na estufa é a condução térmica e o principal mecanismo de perda de calor é a radiação."
+        },
+        {
+          "letra": "C",
+          "texto": "Quando uma estufa é levada para a sombra, a temperatura em seu interior permanece inalterada."
+        },
+        {
+          "letra": "D",
+          "texto": "O principal mecanismo de aquecimento da água na estufa é a absorção de radiação solar e o principal mecanismo de perda de calor é a condução térmica."
+        },
+        {
+          "letra": "E",
+          "texto": "A convecção do ar é o principal mecanismo de aquecimento da água na estufa e o principal mecanismo de perda de calor."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Termologia (Transferência de Calor)"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Na safra 2020/2021, o Brasil se tornou o maior produtor mundial de soja, ultrapassando os EUA. A ferrugem-asiática da soja é considerada a doença mais severa dessa cultura, podendo causar perdas de até 90% de produtividade se não for controlada. Uma vez instalada na lavoura, é necessário vistoriar as folhas da plantação com frequência usando uma lupa. Considere uma lupa, um instrumento óptico formado por uma lente convergente, com distância focal de 10 cm. Ao utilizá-la, observa-se uma imagem virtual aumentada de 10 vezes em relação ao tamanho real. Qual é a distância entre a lupa e a folha de soja observada?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9,0 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "12 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "15 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "19 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "21 cm"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Óptica (Lentes Esféricas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Sejam os seguintes átomos:\n$^{24}_{12}X$\n$^{26}_{12}Y$\n$^{26}_{14}Z$\nÉ correto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os átomos X e Z representam o mesmo elemento químico"
+        },
+        {
+          "letra": "B",
+          "texto": "Os átomos X e Y são isóbaros"
+        },
+        {
+          "letra": "C",
+          "texto": "Os átomos X e Z são isótopos"
+        },
+        {
+          "letra": "D",
+          "texto": "Os átomos X e Z são isótonos"
+        },
+        {
+          "letra": "E",
+          "texto": "Os átomos Y e Z são isótopos"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Atomística (Isótopos, Isóbaros, Isótonos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Quais tipos de ligações atômicas estão presentes na molécula do Dióxido de Carbono ($CO_2$)?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Uma ligação covalente e uma ligação iônica"
+        },
+        {
+          "letra": "B",
+          "texto": "Duas ligações covalentes e nenhuma ligação iônica"
+        },
+        {
+          "letra": "C",
+          "texto": "Duas ligações covalentes e duas ligações iônicas"
+        },
+        {
+          "letra": "D",
+          "texto": "Três ligações covalentes e uma ligação iônica"
+        },
+        {
+          "letra": "E",
+          "texto": "Quatro ligações covalentes e nenhuma ligação iônica"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Ligações Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Para a reação de oxi-redução não balanceada:\n\n$Al + H_2SO_4 \\rightarrow Al_2(SO_4)_3 + H_2$\n\nForam formuladas as seguintes afirmações:\n\nI - Os mínimos coeficientes estequiométricos inteiros após o balanceamento desta reação serão: 2, 3, 1 e 3\nII - O agente oxidante é o alumínio\nIII - O agente redutor é o ácido sulfúrico\nIV - O número de oxidação (nox) do átomo de enxofre no ácido sulfúrico é igual a +6.\n\nEscolha a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Todas as afirmações são verdadeiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas as afirmações I, II e III são verdadeiras"
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas as afirmações I e IV são verdadeiras"
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas as afirmações II, III e IV são verdadeiras"
+        },
+        {
+          "letra": "E",
+          "texto": "Apenas as afirmações II e III são verdadeiras"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Oxirredução",
+        "Química – Balanceamento de Equações"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "O Biodiesel pode ser obtido como produto da reação de transesterificação entre:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Um ácido graxo e um óleo"
+        },
+        {
+          "letra": "B",
+          "texto": "Um álcool e um óleo"
+        },
+        {
+          "letra": "C",
+          "texto": "Um éster e um óleo"
+        },
+        {
+          "letra": "D",
+          "texto": "Um álcool e um ácido graxo"
+        },
+        {
+          "letra": "E",
+          "texto": "Um éster e um ácido graxo"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química Orgânica – Reações Orgânicas (Transesterificação)"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Na produção de PVC a partir do cloreto de vinila é utilizada a reação de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Friedel-Crafts"
+        },
+        {
+          "letra": "B",
+          "texto": "Neutralização"
+        },
+        {
+          "letra": "C",
+          "texto": "Aldolização"
+        },
+        {
+          "letra": "D",
+          "texto": "Copolimerização"
+        },
+        {
+          "letra": "E",
+          "texto": "Polimerização"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química Orgânica – Polímeros"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Um processo que é utilizado na despoluição de rios e lagos consiste na injeção de pequenas bolhas de ar no líquido. Essas bolhas aderem à superfície de impurezas sólidas em suspensão na água, tornando-as mais leves e fazendo-as flutuar, sendo posteriormente retiradas. Este processo é denominado de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Fermentação"
+        },
+        {
+          "letra": "B",
+          "texto": "Floculação"
+        },
+        {
+          "letra": "C",
+          "texto": "Flotação"
+        },
+        {
+          "letra": "D",
+          "texto": "Flutuação"
+        },
+        {
+          "letra": "E",
+          "texto": "Oxidação"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Separação de Misturas"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "A massa de água necessária para a preparação de 350 mL de uma solução aquosa de hidróxido de sódio a 20% em massa, com densidade de 1,2 g/mL, será igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "175 g"
+        },
+        {
+          "letra": "B",
+          "texto": "280 g"
+        },
+        {
+          "letra": "C",
+          "texto": "294 g"
+        },
+        {
+          "letra": "D",
+          "texto": "336 g"
+        },
+        {
+          "letra": "E",
+          "texto": "350 g"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Soluções (Concentração e Densidade)"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Escolha a alternativa que corresponde à solução com a menor temperatura de solidificação:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solução aquosa de $MgCl_2$ a 1 molar"
+        },
+        {
+          "letra": "B",
+          "texto": "Solução aquosa de $MgCl_2$ a 0,5 molar"
+        },
+        {
+          "letra": "C",
+          "texto": "Solução aquosa de $NaCl$ a 1 molar"
+        },
+        {
+          "letra": "D",
+          "texto": "Solução aquosa de $NaCl$ a 0,5 molar"
+        },
+        {
+          "letra": "E",
+          "texto": "Solução aquosa de sacarose a 1 molar"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Propriedades Coligativas (Crioscopia)"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Na reação entre uma amina e um ácido carboxílico, obtém-se como produto um(a):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Cetona"
+        },
+        {
+          "letra": "B",
+          "texto": "Amida"
+        },
+        {
+          "letra": "C",
+          "texto": "Éster"
+        },
+        {
+          "letra": "D",
+          "texto": "Alcano"
+        },
+        {
+          "letra": "E",
+          "texto": "Éter"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química Orgânica – Reações Orgânicas",
+        "Química Orgânica – Funções Nitrogenadas"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Na reação de combustão completa do etanol, foram produzidos 224 L de $CO_2$, medidos nas condições normais de temperatura e pressão (CNTP). A energia liberada durante esta reação foi igual a:\n\n$C_2H_5OH + 3 O_2 \\rightarrow 2 CO_2 + 3 H_2O \\quad \\Delta H^\\circ = -1.370 \\text{ kJ}$",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1.370 kJ"
+        },
+        {
+          "letra": "B",
+          "texto": "2.740 kJ"
+        },
+        {
+          "letra": "C",
+          "texto": "6.850 kJ"
+        },
+        {
+          "letra": "D",
+          "texto": "10.275 kJ"
+        },
+        {
+          "letra": "E",
+          "texto": "13.700 kJ"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Termoquímica",
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Parlamentarismo é um sistema de governo em que, diferentemente do presidencialismo, chefe de Estado e chefe de governo são funções separadas. O primeiro apenas representa o Estado; o segundo exerce o Poder Executivo. Na história política do Brasil, ocorreram dois momentos em que o país chegou a adotar o regime parlamentarista.\n\nEscolha a única alternativa correta sobre o tema:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Logo após a independência, foi instaurado o primeiro período parlamentar no Brasil; D. Pedro I, o imperador, acumulava as funções de monarca, de primeiro-ministro e exercia o poder Moderador previsto na Constituição de 1824."
+        },
+        {
+          "letra": "B",
+          "texto": "A República Parlamentarista foi uma fase do governo João Goulart, entre 1961 e 1963. Foi a segunda experiência parlamentarista vivida pelo Brasil, sendo a primeira durante o período do Segundo Reinado, entre 1847 e 1889."
+        },
+        {
+          "letra": "C",
+          "texto": "A República Parlamentarista, durante o Governo Provisório de Getúlio Vargas, teve início em 1930 e foi a segunda experiência parlamentarista vivida pelo Brasil, sendo a primeira durante o período do Segundo Reinado, entre 1847 e 1889."
+        },
+        {
+          "letra": "D",
+          "texto": "Durante o Segundo Reinado, a organização do sistema parlamentar teria sido uma cópia do modelo inglês. O imperador D. Pedro II, imbuído das atribuições concedidas pelo Poder Moderador, tinha total liberdade para escolher os integrantes do Conselho de Estado."
+        },
+        {
+          "letra": "E",
+          "texto": "Nos anos finais da ditadura militar, a Emenda Constitucional Dante de Oliveira previa a implantação do sistema parlamentarista no Brasil, porém a proposta não foi aprovada pelo Congresso Nacional."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História do Brasil (República e Segundo Reinado)"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "A Revolução Francesa significou o fim do Antigo Regime, que dominava a França desde o século XV. Tornou-se assim um importante marco histórico, iniciando a Idade Contemporânea.\n\nLeia as afirmações relacionadas ao tema:\n\nI- Os ideais iluministas, que denunciavam as desigualdades e os abusos da nobreza, influenciaram o desejo por reformas políticas e econômicas.\nII- Divergências entre as três classes sociais (Clero, Nobreza e Povo) em relação aos pagamentos de impostos culminaram na criação da Assembleia Nacional Constituinte.\nIII- Um dos mais importantes legados da Revolução Francesa foi a Constituição Civil do Clero, documento que determinava, teoricamente, que todos os homens seriam iguais perante a lei.\nIV- A Queda da Bastilha, como ficou conhecida a tomada da prisão mais temida pela população parisiense, marcou o início da Revolução Francesa e espalhou o fervor revolucionário pelo país.\n\nEscolha a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas as afirmações I e IV estão corretas"
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas as afirmações II e III estão corretas"
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas as afirmações III e IV estão corretas"
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas as afirmações I, II e IV estão corretas"
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as afirmações estão corretas"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – História Geral (Revolução Francesa)"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "A Primeira Guerra Mundial foi um conflito que ocorreu entre 1914 e 1918 e ficou muito conhecida em razão dos combates que aconteciam nas trincheiras. Foi a primeira guerra do século XX e o primeiro conflito em estado de guerra total, aquele em que uma nação mobiliza todos os seus recursos para viabilizar o combate.\n\nEntre as causas e consequências deste conflito, assinale a única alternativa incorreta sobre o momento histórico destacado:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A Organização das Nações Unidas (ONU) foi criada pelo Tratado de Versalhes em 1919. Tinha como objetivo reunir todas as nações da Terra e manter a paz e a ordem no mundo por meio de mediação e arbitragem entre os países."
+        },
+        {
+          "letra": "B",
+          "texto": "A Europa vivia um clima de insegurança, com alianças e acordos que dividiam o continente a fim de garantir proteção e apoio militar mútuo em caso de guerra: a Tríplice Aliança (Império Alemão, Império Austro-Húngaro e Itália) se contrapunha à Tríplice Entente (França, Reino Unido e Império Russo)."
+        },
+        {
+          "letra": "C",
+          "texto": "A questão nacionalista mais complexa, que envolvia os Bálcãs, culminou com a morte do herdeiro do trono austríaco Francisco Fernando e sua esposa em um atentado em Sarajevo, no dia 28 de junho de 1914."
+        },
+        {
+          "letra": "D",
+          "texto": "O expansionismo alemão e a transformação da Alemanha em uma das maiores potências industriais da Europa no início do século XX levaram a uma rivalidade com as demais potências europeias, incluindo França, Inglaterra e Rússia."
+        },
+        {
+          "letra": "E",
+          "texto": "O conflito encerrou-se como resultado do esfacelamento das forças da Tríplice Aliança: Bulgária, Áustria-Hungria e Império Otomano renderam-se e, em seguida, o Império Alemão, arrasado pela guerra, também se rendeu após uma revolução no país terminar com a monarquia alemã."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História Geral (Primeira Guerra Mundial)"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "O processo de colonização portuguesa no Brasil teve um caráter semelhante a outras colonizações europeias: A exploração tem início com a retirada do Pau-brasil, na sequência, vieram os ciclos da cana de açúcar e do ouro. Durante este período ocorreram as chamadas Revoltas Nativistas. Nas alternativas abaixo estão as principais revoltas e suas respectivas causas. Escolha a única alternativa que não corresponde ao período:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Revolta de Beckman, causada pelo descontentamento com o monopólio exercido pela Companhia Geral de Comércio do Estado do Maranhão, criada pela coroa portuguesa."
+        },
+        {
+          "letra": "B",
+          "texto": "Guerra dos Emboabas, conflito em Minas Gerais causado pela disputa de exploração do ouro entre os bandeirantes paulistas e colonos vindos de outras regiões brasileiras ou de Portugal."
+        },
+        {
+          "letra": "C",
+          "texto": "Guerra dos Mascates, causada pela disputa política entre os senhores de engenho de Olinda e os mascates (comerciantes portugueses) pelo controle de Pernambuco."
+        },
+        {
+          "letra": "D",
+          "texto": "Revolta de Filipe dos Santos, causada pelo descontentamento com a cobrança, pela coroa portuguesa, de impostos elevados sobre a exploração de ouro no Brasil."
+        },
+        {
+          "letra": "E",
+          "texto": "Revolta de Canudos, causada pela falta de terras, pela miséria e pelo abandono das populações rurais do interior do país por parte da coroa portuguesa."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – História do Brasil (Brasil Colônia)"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Para responder à questão, leia o texto a seguir:\n\nAFINAL, O QUE É O POPULISMO?\n\n\"Segundo o dicionário, o populismo é uma prática que busca a simpatia das classes sociais mais baixas, defendendo seus interesses através de políticas paternalistas e assistencialistas. Mas por que será que esse é um termo tão polêmico e debatido? Outras definições vêm para dividir ainda mais as opiniões. Segundo Cas Mudde, professor da Universidade da Geórgia (EUA), o populismo é uma ideologia rasa que considera que a sociedade se divide em dois grupos antagônicos, o 'povo' e a 'elite corrupta\".\nFonte: https://www.politize.com.br/populismo-o-que-e/\n\nSobre o populismo no Brasil, escolha a alternativa incorreta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Juscelino Kubitschek e Jânio Quadros estão entre os Presidentes da República que caracterizaram seus governos por práticas populistas."
+        },
+        {
+          "letra": "B",
+          "texto": "O populismo no Brasil, iniciado após a Revolução de 1930, termina com o suicídio de Getúlio Vargas em 1954."
+        },
+        {
+          "letra": "C",
+          "texto": "No Brasil, o representante máximo do populismo foi Getúlio Vargas, que dominou a cena política de 1930 a 1954."
+        },
+        {
+          "letra": "D",
+          "texto": "O discurso populista de Getúlio Vargas defendia a união das massas e a conciliação das classes sociais, colocando o líder no papel de representante da nação e não dos interesses de uma classe específica."
+        },
+        {
+          "letra": "E",
+          "texto": "No Brasil, o populismo se caracterizou pelo surgimento de políticos carismáticos, que criavam em torno de si uma rede clientelista de troca de favores."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História do Brasil (República Populista)"
+      ]
+    },
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Na região sul do Brasil, a atividade mineradora se faz pouco presente devido à escassez deste tipo de recurso. Porém, ocorre a exploração de um recurso mineral que não é explorado em nenhuma outra área do nosso país. Ainda que este recurso seja de qualidade inferior ao de países como Austrália, Rússia, China e EUA, sua exploração contribui para a economia nacional. Escolha a alternativa que indica corretamente qual é este recurso e sua área de ocorrência.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Trata-se do carvão mineral. A bacia carbonífera brasileira é explorada principalmente em Santa Catarina, sendo a cidade de Criciúma símbolo desta atividade."
+        },
+        {
+          "letra": "B",
+          "texto": "Trata-se do nióbio, recurso mineral importante encontrado principalmente na região dos pampas gaúchos e que é tratado por muitos como o minério que representa o progresso."
+        },
+        {
+          "letra": "C",
+          "texto": "Trata-se do petróleo, que é encontrado em águas profundas na camada do pré-sal do litoral gaúcho, na região do porto de Rio Grande."
+        },
+        {
+          "letra": "D",
+          "texto": "Trata-se do estanho, que é encontrado no norte do estado do Paraná, próximo à divisa com o Mato Grosso do Sul."
+        },
+        {
+          "letra": "E",
+          "texto": "Trata-se do urânio, que é encontrado no litoral paranaense; a exploração deste recurso é dificultada pelo fato desta área possuir muitas unidades de conservação ambiental."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geografia do Brasil (Recursos Minerais)"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Observe as pirâmides etárias abaixo, que representam as mudanças demográficas do Japão, e escolha a alternativa que explica corretamente o processo pelo qual este país vem passando.\n\nFonte: Statistics Bureau, MIC; Ministry of Health, Labour and welfare",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Percebe-se uma tendência ao aumento da população rural em detrimento da urbana, fenômeno que leva ao envelhecimento da população por causa da melhor qualidade de vida no campo."
+        },
+        {
+          "letra": "B",
+          "texto": "Trata-se do êxito do planejamento demográfico adotado pelos governos japoneses, em que a política do filho único imposta às famílias se mostrou eficaz em diminuir o elevado crescimento demográfico que o país vivia."
+        },
+        {
+          "letra": "C",
+          "texto": "Trata-se do aumento da taxa de natalidade e da expectativa de vida a partir do início do século XXI, que é um processo comum em países desenvolvidos que estão na terceira fase demográfica."
+        },
+        {
+          "letra": "D",
+          "texto": "Há uma nítida tendência de crescimento populacional, o que preocupa a autoridades japonesas, uma vez que o país possui limitações territoriais por ser um arquipélago em uma região de intensa atividade sísmica."
+        },
+        {
+          "letra": "E",
+          "texto": "Nota-se um envelhecimento da população, o que impacta diretamente a economia japonesa, visto que desde o final da Segunda Guerra Mundial houve acelerado crescimento econômico até o início dos anos 1990."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Demografia (Pirâmides Etárias)"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "É uma região do Brasil que se caracteriza por ser a maior produtora e exportadora nacional de frangos e suínos. Escolha a alternativa que apresenta a região com as características descritas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Norte"
+        },
+        {
+          "letra": "B",
+          "texto": "Sul"
+        },
+        {
+          "letra": "C",
+          "texto": "Nordeste"
+        },
+        {
+          "letra": "D",
+          "texto": "Sudeste"
+        },
+        {
+          "letra": "E",
+          "texto": "Centro-Oeste"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geografia do Brasil (Agropecuária)"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Compare os dois mapas de rede ferroviária a seguir e leia afirmações sobre a modalidade de transporte nos continentes africano e europeu e sua importância econômica.\n\nFonte: https://redeforgeo.wordpress.com/2012/06/05/tracado-das-ferrovias-nos-continentes-africano-e- europeu/amp/\n\nI - A diferença que vemos na presença de ferrovias nos dois continentes está ligada apenas ao atraso tecnológico africano que, portanto, possui menos vias de transporte para interligar seus países, diferentemente do que ocorre na Europa.\nII - As ferrovias na Europa servem prioritariamente para conectar o continente com o restante do mundo, uma vez que ligam suas áreas industriais aos portos exportadores, com destaque para o de Roterdã na Holanda.\nIII - A baixa ocorrência de ferrovias na África está ligada à presença de grandes áreas de desertos como o Saara ou de florestas tropicais densas como a floresta do Congo, que impedem a ocupação e construção nessas regiões. Já a Europa pode aproveitar o predomínio de planícies que historicamente facilitaram a ocupação humana.\nIV - As ferrovias europeias conectam diversas partes do continente, interligando os países europeus e facilitando a circulação de pessoas e mercadorias, o que corrobora para a existência da União Europeia.\nV - As ferrovias africanas são obras do imperialismo europeu, por isso possuem o caráter interior-litoral, ou seja, servem fundamentalmente para a exploração dos recursos naturais destinando-os ao exterior.\n\nEscolha a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As afirmações II, III, IV e V são verdadeiras"
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas as afirmações II e V são verdadeiras"
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas as afirmações I e III são verdadeiras"
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas as afirmações IV e V são verdadeiras"
+        },
+        {
+          "letra": "E",
+          "texto": "Apenas as afirmações III, IV e V são verdadeiras"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Transportes",
+        "Geografia – Geopolítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "É um país que conecta dois oceanos, porém divide o continente. Escolha a alternativa que identifica corretamente o país descrito.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Trata-se do México, uma vez que tem acesso tanto ao Oceano Pacífico como ao Atlântico. Porém, serve como barreira entre a América desenvolvida e a América subdesenvolvida, simbolizada pelo muro na fronteira com seu vizinho do norte."
+        },
+        {
+          "letra": "B",
+          "texto": "Trata-se da África do Sul, pois é o único país africano a ter acesso a dois oceanos (Índico e Atlântico), mas é também o único país de economia desenvolvida no continente."
+        },
+        {
+          "letra": "C",
+          "texto": "Trata-se do Panamá, que possui um canal de navegação que conecta o mar do Caribe com o Oceano Pacífico. Porém, o Panamá não possui estradas em sua fronteira com a Colômbia, dificultando assim a conexão entre América do Sul com o resto do continente."
+        },
+        {
+          "letra": "D",
+          "texto": "Trata-se do Reino Unido, que segue sendo importante para a navegação transatlântica. Porém, desde que saiu da União Europeia, fragmentou o bloco, diminuindo assim seu peso na economia mundial."
+        },
+        {
+          "letra": "E",
+          "texto": "Trata-se do Japão. Desde o final da Segunda Guerra Mundial, o país do Sol nascente foi o único da região a passar por forte ocidentalização de sua cultura, se diferenciando de seus vizinhos orientais. Porém, continua sendo uma rota comercial importante entre o Oceano Índico e o Pacífico."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geografia Geral (Países e Continentes)"
+      ]
+    },
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Public investment in basic research will pay for itself.\n\nThe pandemic has rolled back decades of economic progress and wrought havoc on public finances. To build back better and fight climate change, sizable public investment needs to be sustainably financed. Boosting long-term growth—and thereby tax revenue¹-has rarely felt more pressing.\n\nBut what are the drivers of long-term growth? Productivity-the ability to create more outputs with the same inputs—is an important one. In our latest World Economic Outlook, we emphasize the role of innovation in stimulating long-term productivity growth. Surprisingly, productivity growth has been declining for decades in advanced economies despite steady increases in research and development (R&D), a proxy for innovation effort.\n\nOur analysis suggests that the composition of R&D matters for growth. We find that basic scientific research affects more sectors², in more countries and for a longer time than applied research (commercially oriented R&D by firms), and that for emerging market and developing economies, access to foreign research is especially important. Easy technology transfer, cross-border scientific collaboration and policies that fund basic research can foster the kind of innovation we need for long-term growth.\n\nFonte: https://blogs.imf.org\n\nAccording to the title, the investments the government make in basic research will",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "take years to bring profits to the population."
+        },
+        {
+          "letra": "B",
+          "texto": "amount to the public debt."
+        },
+        {
+          "letra": "C",
+          "texto": "turn out to be meaningless for the economic recovery."
+        },
+        {
+          "letra": "D",
+          "texto": "be worthwhile because of the outcomes they will bring."
+        },
+        {
+          "letra": "E",
+          "texto": "be deviated at the expense of the pandemic."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "The word thereby in the sentence thereby tax revenue (referência 1) has the function of expressing:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "consequence."
+        },
+        {
+          "letra": "B",
+          "texto": "contrast."
+        },
+        {
+          "letra": "C",
+          "texto": "opposition."
+        },
+        {
+          "letra": "D",
+          "texto": "exemplification."
+        },
+        {
+          "letra": "E",
+          "texto": "excuse."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Vocabulário (Conectivos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "De acordo com o segundo parágrafo, produtividade seria o resultado de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mais exportação."
+        },
+        {
+          "letra": "B",
+          "texto": "maior investimento estrangeiro."
+        },
+        {
+          "letra": "C",
+          "texto": "mais criação de postos de trabalho."
+        },
+        {
+          "letra": "D",
+          "texto": "maiores demandas frente às ofertas."
+        },
+        {
+          "letra": "E",
+          "texto": "melhores resultados com os mesmos investimentos."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "O que parece surpreendente, de acordo com o segundo parágrafo, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o aumento da produtividade, apesar dos gastos com a pandemia."
+        },
+        {
+          "letra": "B",
+          "texto": "o avanço das pesquisas, apesar do pouco interesse nas ciências."
+        },
+        {
+          "letra": "C",
+          "texto": "o baixo retorno na produtividade, apesar dos investimentos em pesquisa."
+        },
+        {
+          "letra": "D",
+          "texto": "o aumento do desenvolvimento, apesar da baixa escolaridade."
+        },
+        {
+          "letra": "E",
+          "texto": "o retorno da produtividade, apesar dos baixos investimentos em tecnologia."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "The sentence basic scientific research affects more sectors (referência 2) in the passive voice should be:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "basic scientific research is affected by more sectors."
+        },
+        {
+          "letra": "B",
+          "texto": "affected sectors are basic scientific research."
+        },
+        {
+          "letra": "C",
+          "texto": "more sectors affect basic scientific research."
+        },
+        {
+          "letra": "D",
+          "texto": "more sectors have affected basic scientific research."
+        },
+        {
+          "letra": "E",
+          "texto": "more sectors are affected by basic scientific research."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Gramática (Voz Passiva)"
+      ]
+    },
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "A teia alimentar, também chamada rede alimentar, é um conjunto de cadeias alimentares interligadas e que representa as muitas relações entre os organismos de um ecossistema. Considere a teia alimentar a seguir e responda qual desses organismos ocupa o nível trófico mais elevado:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "gavião"
+        },
+        {
+          "letra": "B",
+          "texto": "vegetais"
+        },
+        {
+          "letra": "C",
+          "texto": "sapo"
+        },
+        {
+          "letra": "D",
+          "texto": "preá"
+        },
+        {
+          "letra": "E",
+          "texto": "sabiá"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Ecologia (Cadeias e Teias Alimentares)"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "“O spillover (termo em inglês que pode ser traduzido como transbordamento), é usado em Ecologia para dizer que um vírus ou micróbio conseguiu se adaptar e ir de um hospedeiro para o outro. E foi assim, migrando dos morcegos para os seres humanos (tendo talvez, os pangolins como intermediários) que o SARS-CoV-2 atingiu esses números impressionantes”\nFonte: (Jornal da USP. Disponível em: www.jornal.usp.br. Acesso em: 29 out. 2021).\n\nOs morcegos são os únicos mamíferos voadores e estão cada vez mais adaptados ao espaço urbano. Isso acontece em decorrência das mudanças climáticas e da intervenção humana em áreas de preservação, que alteram o habitat natural de várias espécies. Em relação aos morcegos, é INCORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Além de ser um possível transmissor do vírus SARS-CoV-2, os morcegos podem transmitir a raiva quando estão contaminados pelo agente causador dessa doença."
+        },
+        {
+          "letra": "B",
+          "texto": "Os morcegos exercem papéis importantes nos ecossistemas, pois polinizam as flores, dispersam sementes das angiospermas e atuam no controle populacional de muitas espécies de insetos."
+        },
+        {
+          "letra": "C",
+          "texto": "Todos os morcegos se alimentam exclusivamente de sangue de mamíferos e aves."
+        },
+        {
+          "letra": "D",
+          "texto": "O agente da raiva é um vírus que pode ser transmitido pela saliva dos morcegos hematófagos."
+        },
+        {
+          "letra": "E",
+          "texto": "As asas presentes nos morcegos são consideradas evidências do processo evolutivo, pois revelam a adaptação ao ambiente aéreo como consequência da ação da seleção natural."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Zoologia (Mamíferos)",
+        "Biologia – Virologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Os fungos são organismos que pertencem ao Reino Fungi. Dentro desse reino, são conhecidas mais de 144 mil espécies, entre elas os bolores, cogumelos e leveduras. Os fungos, apesar de apresentarem alguns aspectos semelhantes aos das plantas, diferem bastante dos organismos pertencentes ao Reino Plantae.\n\nSobre os fungos, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Todos são autótrofos e procariontes, podendo ser unicelulares, como as leveduras, ou pluricelulares, como os cogumelos."
+        },
+        {
+          "letra": "B",
+          "texto": "A forma mais comum de reprodução dos fungos é a produção de esporos, geralmente disseminados pelo vento. Os esporos são estruturas microscópicas e são dotados de paredes resistentes, permitindo a sua sobrevivência em diversos ambientes."
+        },
+        {
+          "letra": "C",
+          "texto": "A parede celular das células presentes nos fungos é formada basicamente por colágeno e água, e tais células se caracterizam pela ausência de cílios e flagelos, de modo que não apresentam mobilidade."
+        },
+        {
+          "letra": "D",
+          "texto": "Os fungos não participam da decomposição da matéria orgânica, mas destacam-se por suas associações mutualísticas na formação de líquens e sapróbias."
+        },
+        {
+          "letra": "E",
+          "texto": "Os fungos, exceto as leveduras, são exclusivamente patogênicos, podendo causar doenças conhecidas como micoses (pé de atleta) ou ainda infecções como a candidíase."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Reino Fungi"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "A eritroblastose fetal é um tipo de anemia hemolítica causada pela transmissão transplacentária de anticorpos maternos direcionados às hemácias fetais. Dessa forma, o sistema imunológico da mãe \"ataca\" o feto por ter o sistema Rh diferente. Um homem que apresentou eritroblastose fetal ao nascer casou-se com uma mulher que não manifestou a doença e o casal teve dois filhos homens. O parto do primeiro filho aconteceu normalmente, mas no segundo parto a criança apresentou eritroblastose, assim como o pai. Diante desse contexto, são feitas as seguintes afirmações:\n\nI. A mãe é certamente Rh-.\nII. O segundo filho é Rh+.\nIII. O pai das crianças é Rh+.\nIV. O primeiro filho pode ter provocado a sensibilização da mãe.\n\nEscolha a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "todas as afirmações são verdadeiras."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas as afirmações I e II são verdadeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas as afirmações II e III são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas a afirmação I é verdadeira."
+        },
+        {
+          "letra": "E",
+          "texto": "nenhuma das afirmações é verdadeira."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Genética (Sistema Sanguíneo Rh)"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "A figura apresenta o esquema de uma comunidade marinha. Os indivíduos A e B representados na figura poderiam ser, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "um peixe herbívoro e um peixe carnívoro."
+        },
+        {
+          "letra": "B",
+          "texto": "um peixe herbívoro e uma alga azul."
+        },
+        {
+          "letra": "C",
+          "texto": "uma alga planctônica e um microcrustáceo."
+        },
+        {
+          "letra": "D",
+          "texto": "um microcrustáceo e um peixe herbívoro."
+        },
+        {
+          "letra": "E",
+          "texto": "um peixe carnívoro e um microcrustáceo."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Ecologia (Relações Ecológicas)",
+        "Biologia – Fisiologia (Fotossíntese e Respiração)"
+      ]
+    }
+  ]
+}

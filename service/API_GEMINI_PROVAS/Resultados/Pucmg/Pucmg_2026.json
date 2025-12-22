@@ -1,0 +1,1088 @@
+{
+  "nomeUniversidade": "Pontifícia Universidade Católica de Minas Gerais",
+  "siglaUniversidade": "PUC Minas",
+  "nomeProva": "Vestibular 1º Semestre Demais Cursos",
+  "ano": 2026,
+  "qtdeQuestoes": 40,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Podemos dizer que há paradoxo da xenofobia no seguinte trecho retirado do texto anterior:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A criação do Fórum de Lideranças Migrantes, Refugiadas e Apátridas (FOMIGRA) em abril deste ano é um marco nesse sentido. A iniciativa promove o diálogo e a participação direta dessas populações na formulação de políticas públicas."
+        },
+        {
+          "letra": "B",
+          "texto": "Entre os anos de 2021 e 2022, as denúncias de xenofobia cresceram 874%, superando as acusações de intolerância religiosa, racismo, LGBTfobia, misoginia e neonazismo registradas no mesmo período."
+        },
+        {
+          "letra": "C",
+          "texto": "No Brasil, país historicamente moldado pela diversidade cultural e pela acolhida de diferentes povos, a xenofobia – expressão de ódio e discriminação com base na origem, cultura ou nacionalidade – se manifesta como uma das formas mais nocivas de discurso de ódio."
+        },
+        {
+          "letra": "D",
+          "texto": "Nos EUA, a xenofobia dirige-se, sobretudo, aos imigrantes de origem latino-americana, e no continente europeu aos imigrantes africanos ou de regiões de conflito no Oriente Médio\"."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Coerência Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Neste texto, foram destacadas as seguintes práticas de xenofobia, EXCETO:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Declarações públicas contra determinadas religiões praticadas por pessoas de outra nacionalidade."
+        },
+        {
+          "letra": "B",
+          "texto": "Impedimento de participação de pessoas de uma determinada nacionalidade e raça em determinados contextos ou ambientes."
+        },
+        {
+          "letra": "C",
+          "texto": "Práticas que visam de maneira desproporcional indivíduos de algumas origens étnicas ou nacionais para revistas e interrogatórios."
+        },
+        {
+          "letra": "D",
+          "texto": "Violência física, em que há agressão ao imigrante empurrando-o ou causando lhe qualquer tipo de dano corporal."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Releia o título do texto: \"Xenofobia: o ódio que divide o tecido social e incita violações de direitos contra povos e culturas\". Em seguida, analise a alternativa que MELHOR explica tal título:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Constata-se uma prática atual que nega a própria origem da nação."
+        },
+        {
+          "letra": "B",
+          "texto": "Há amnésia social indicando o esquecimento da própria condição de imigrante dos antepassados."
+        },
+        {
+          "letra": "C",
+          "texto": "Observa-se uma hipocrisia social enfatizando um discurso contraditório entre identidade e prática."
+        },
+        {
+          "letra": "D",
+          "texto": "Verifica-se aversão a pessoas estrangeiras ou de culturas diferentes, rompendo com as relações humanas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Em relação à semântica do subtítulo \"Interseccionalidades”, verificamos relação DIRETA com ele, no trecho:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"A criação do Fórum de Lideranças Migrantes, Refugiadas e Apátridas (FOMIGRA) em abril deste ano é um marco nesse sentido. A iniciativa promove o diálogo e a participação direta dessas populações na formulação de políticas públicas.\""
+        },
+        {
+          "letra": "B",
+          "texto": "\"[...] a importância de considerar as múltiplas identidades dos migrantes (raça, gênero, religião etc.) no desenvolvimento de políticas.\""
+        },
+        {
+          "letra": "C",
+          "texto": "\"Em outra frente, a Operação Acolhida, do Governo Federal, atua em Roraima oferecendo suporte a populações refugiadas e migrantes, numa resposta humanitária às demandas que chegam ao Brasil pela fronteira da Venezuela.\""
+        },
+        {
+          "letra": "D",
+          "texto": "\"Parte integrante do Ministério dos Direitos Humanos e da Cidadania (MDHC), a coordenação-geral de Promoção dos Direitos das Pessoas Migrantes, Refugiadas e Apátridas (CGMRA) tem intensificado esforços para enfrentar o discurso de ódio e promover a inclusão social.\""
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Sobre o uso de pontuação, estão corretas as justificativas, EXCETO em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"a produção de conteúdo de forma acelerada e instantânea faz com que seja muito difícil, quando não impossível, responsabilizar o produtor de dado conteúdo” → usam-se duas vírgulas para separar um aposto, esclarecendo o termo anterior."
+        },
+        {
+          "letra": "B",
+          "texto": "\"Em um mundo cada vez mais conectado, o deslocamento humano é constante” → usa-se a vírgula para separar um constituinte que, na ordem neutra, deveria estar ao final do período."
+        },
+        {
+          "letra": "C",
+          "texto": "\"superando as acusações de intolerância religiosa, racismo, LGBTfobia, misoginia e neonazismo registradas no mesmo período\" → usam-se vírgulas para separar palavras da mesma categoria."
+        },
+        {
+          "letra": "D",
+          "texto": "\"Xenofobia: o ódio que divide o tecido social e incita violações de direitos contra povos e culturas\" → Usam-se os dois pontos porque o título principal é seguido por uma expansão do tema."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Pontuação"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "\"Cientistas japoneses trabalham na criação de um novo tipo de célula: híbrida entre planta e animal. Com células de hamsters, o novo tipo de célula realiza fotossíntese e tem potencial para transformar a engenharia de tecidos orgânicos\".\n(Trecho retirado do Jornal Exame, publicado em novembro de 2024, disponível no link: https://exame.com/tecnologia/cientistas-japoneses-criam-novo-tipo-de-vida-hibrido-entre-planta-e-animal/)\n\nSão substâncias consideradas produtos da reação química mencionada no trecho acima:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Água e gás carbônico."
+        },
+        {
+          "letra": "B",
+          "texto": "Água e glicose."
+        },
+        {
+          "letra": "C",
+          "texto": "Oxigênio e gás carbônico."
+        },
+        {
+          "letra": "D",
+          "texto": "Oxigênio e glicose."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Bioquímica",
+        "Biologia – Fotossíntese"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Um estudo realizado em 25 artigos a respeito da doença celíaca identificou que, além de acometer os órgãos do sistema digestório, essa doença também tem repercussões em vários sistemas, como o reprodutor, o cardiovascular e o endócrino, além de transtornos psicológicos, qualidade de vida e problemas de crescimento.\nFonte: CRUZ, M. P.; SILVA, C. S. F.; PRETTO, A. D. B. (2025). Efeitos da doença celíaca em diferentes sistemas orgânicos. RBONE - Revista Brasileira de Obesidade, Nutrição e Emagrecimento, 19(119), p. 420-437. Disponível em https://www.rbone.com.br/index.php/rbone/article/view/2681. Acesso em 28/08/2025.\n\nA alternativa que explica o principal motivo desses acometimentos sistêmicos a partir da doença celíaca é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A destruição das microvilosidades intestinais diminui a absorção de nutrientes pelo organismo."
+        },
+        {
+          "letra": "B",
+          "texto": "A formação de placas e coágulos na corrente sanguínea dificulta o transporte do oxigênio para os diferentes órgãos do corpo."
+        },
+        {
+          "letra": "C",
+          "texto": "A ingestão do açúcar e sua absorção pela corrente sanguínea provocam reações alérgicas em diferentes partes do corpo."
+        },
+        {
+          "letra": "D",
+          "texto": "A reação alérgica que ocorre no estômago dificulta a digestão dos alimentos e provoca consequente desnutrição."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Fisiologia Humana",
+        "Biologia – Sistema Digestório"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Diferentes estratégias garantem o sucesso reprodutivo de espécies que ocupam o planeta Terra atualmente.\nAs alternativas abaixo relacionam corretamente estratégias reprodutivas com o sucesso adaptativo de alguns seres vivos, EXCETO:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Fecundação externa de mosquitos como o Aedes aegypti que coloca seus ovos na água parada."
+        },
+        {
+          "letra": "B",
+          "texto": "Formação do ovo amniótico em espécies de lagartos que vivem no deserto do Atacama."
+        },
+        {
+          "letra": "C",
+          "texto": "Liberação de centenas de óvulos em espécies de anfibios anuros como o sapo-cururu."
+        },
+        {
+          "letra": "D",
+          "texto": "Produção de milhares de grãos de pólen em pinheiros do gênero Pinus."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Zoologia",
+        "Biologia – Estratégias Reprodutivas"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "O Instituto Butantan sediou o IV Encontro Nacional de Vigilância e Controle dos Acidentes por Animais Peçonhentos. Encabeçado pelo Ministério da Saúde, o evento reuniu gestores, pesquisadores e profissionais da saúde de todo o Brasil para discutir e atualizar planos e estratégias intersetoriais, tendo como foco a melhoria da assistência às vítimas de picadas de animais.\nFonte: Pinelli, Natasha. IV Encontro Nacional de Vigilância e Controle dos Acidentes por Animais Peçonhentos. Disponível em: https://butantan.gov.br/noticias/butantan-sedia-encontro-nacional-para-discutir-vigilancia-e-reforcar-controle-de-acidentes-por-animais-peconhentos. Acesso em 23/08/2025.\n\nA partir da leitura do enunciado apresentado e de seus conhecimentos, indique qual desses animais NÃO pode ser considerado peçonhento:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Aranhas."
+        },
+        {
+          "letra": "B",
+          "texto": "Escorpiões."
+        },
+        {
+          "letra": "C",
+          "texto": "Sapos."
+        },
+        {
+          "letra": "D",
+          "texto": "Serpentes."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Zoologia",
+        "Biologia – Animais Peçonhentos"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Doenças de transmissão vetorial são bastante preocupantes do ponto de vista da saúde pública. A leishmaniose é uma dessas doenças, e pode ser caracterizada pelo seguinte vetor e agente etiológico:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "doença transmitida pelo barbeiro Triatoma infestans, provocada por um protozoário."
+        },
+        {
+          "letra": "B",
+          "texto": "doença transmitida pelo caramujo Biomphalaria glabrata, provocada por uma bactéria."
+        },
+        {
+          "letra": "C",
+          "texto": "doença transmitida pelo mosquito Aedes aegypti, provocada por um vírus."
+        },
+        {
+          "letra": "D",
+          "texto": "doença transmitida pelo mosquito-palha ou birigui Lutzomyia longipalpis, provocada por um protozoário."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Parasitologia",
+        "Biologia – Doenças Vetoriais"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Considere as seguintes espécies:\n\n1 – $H_2O$\n2 – $CH_3Cl$\n3 – $NH_4^+$\n\nQual (is) dela(s) pode(m) formar ligações de hidrogênio com outras iguais?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente 1."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente 1 e 2."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente 1 e 3."
+        },
+        {
+          "letra": "D",
+          "texto": "1, 2 e 3."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Ligações Químicas",
+        "Química – Ligações Intermoleculares"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "O diagrama é uma visão microscópica de uma imagem instantânea de um material em equilíbrio. Os círculos representam as moléculas e as setas, as velocidades das moléculas.\nAssinale a alternativa que contém uma substância que pode estar representada pelo diagrama.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$H_2O$ (l)"
+        },
+        {
+          "letra": "B",
+          "texto": "NaCl(s)"
+        },
+        {
+          "letra": "C",
+          "texto": "$NH_3$(g)"
+        },
+        {
+          "letra": "D",
+          "texto": "$PH_3$(v)"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Estados da Matéria",
+        "Química – Equilíbrio Físico"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Qual das alternativas a seguir contém espécies com o mesmo número de elétrons?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$Be^{2+}$, $Mg^{2+}$ e $Ca^{2+}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$Fe^{2+}$, $Co^{2+}$ e $Ni^{2+}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$K^{+}$, $Cl^{-}$ e $S^{2-}$"
+        },
+        {
+          "letra": "D",
+          "texto": "Na, K e Rb"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Estrutura Atômica",
+        "Química – Espécies Isoeletrônicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Os pontos de ebulição dos halogênios $F_2$, $Cl_2$, $Br_2$ e $I_2$ aumentam nessa ordem. Isso é melhor atribuído às forças",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "coligativas das moléculas."
+        },
+        {
+          "letra": "B",
+          "texto": "das ligações covalentes."
+        },
+        {
+          "letra": "C",
+          "texto": "de dipolo permanente."
+        },
+        {
+          "letra": "D",
+          "texto": "de dispersão de London."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Ligações Químicas",
+        "Química – Forças Intermoleculares"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Considere a reação:\n\n$4HBr(g) + O_2(g) \\rightarrow 2H_2O(g) + 2Br_2(g)$\n\nCalculando o $\\Delta H$ para essa reação, encontra-se o valor, em kJ:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "– 276."
+        },
+        {
+          "letra": "B",
+          "texto": "276."
+        },
+        {
+          "letra": "C",
+          "texto": "434."
+        },
+        {
+          "letra": "D",
+          "texto": "– 434."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Termoquímica",
+        "Química – Variação de Entalpia"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "A Astronomia permite compreender como ocorrem diversos fenômenos envolvendo planetas e satélites no Sistema Solar. O planeta Júpiter, por exemplo, é o maior do sistema e possui dezenas de luas naturais, sendo as quatro maiores conhecidas como luas galileanas: Io, Europa, Ganimedes e Calisto. Elas foram observadas por Galileu Galilei em 1610 e orbitam Júpiter em planos quase alinhados com o equador do planeta.\nA lua Io leva aproximadamente 1,8 dias terrestres para completar uma órbita em torno de Júpiter e Ganimedes leva cerca de 7,2 dias terrestres. O movimento de translação das luas em torno do planeta, bem como o de Júpiter em torno do Sol, permite a ocorrência de eclipses solares e lunares.\n\nCom base nas informações fornecidas, analise as afirmativas sobre a frequência de eclipses nas luas de Júpiter. Todas estão corretas, EXCETO:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As luas galileanas, por orbitarem no mesmo plano, favorecem a ocorrência de eclipses regulares entre si."
+        },
+        {
+          "letra": "B",
+          "texto": "Como Ganimedes possui um período orbital maior, promove menos eclipses solares em um mesmo intervalo de tempo que Io."
+        },
+        {
+          "letra": "C",
+          "texto": "Em Júpiter, é possível que ocorra um eclipse solar causado por Io e, simultaneamente, um eclipse lunar causado em Ganimedes."
+        },
+        {
+          "letra": "D",
+          "texto": "Por estar mais próxima de Júpiter, Ganimedes promove mais eclipses do que Io ao longo de um mês terrestre."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Astronomia",
+        "Física – Leis de Kepler"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Durante a Revolução Industrial, diversas invenções impulsionaram o crescimento da indústria e da mineração. Entre essas, destaca-se a máquina de Savery, desenvolvida no final do século XVII e considerada uma das primeiras máquinas a vapor. Seu funcionamento baseava-se na condensação do vapor de água em um recipiente, o que criava vácuo e fazia com que a pressão atmosférica impulsionasse a água de minas para o interior do sistema.\nEssa máquina operava com vapor aquecido a cerca de $110^{\\circ}C$ e usava água a $20^{\\circ}C$ como fonte fria para condensação. Como toda máquina térmica, parte da energia térmica absorvida da fonte quente era convertida em trabalho útil, e o restante era rejeitado para a fonte fria.\nSuponha que, em cada ciclo, a máquina receba 2000 J de calor da fonte quente, realizando um trabalho de 600J a cada 10 segundos.\nDessa forma, considerando o funcionamento da máquina, qual interpretação CORRETA pode ser feita sobre sua eficiência e seu desempenho energético?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A máquina opera com rendimento térmico inferior a 30% e desenvolve uma potência útil inferior a 40 watts."
+        },
+        {
+          "letra": "B",
+          "texto": "No caso considerado, a máquina possui rendimento térmico de 30%, o que resulta em uma potência útil de 60 watts."
+        },
+        {
+          "letra": "C",
+          "texto": "A potência útil desenvolvida pela máquina é de 200 watts, o que indica que quase toda a energia térmica foi convertida em trabalho."
+        },
+        {
+          "letra": "D",
+          "texto": "O rendimento da máquina é de 60%, pois mais da metade da energia fornecida é transformada em trabalho mecânico."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Termodinâmica",
+        "Física – Máquinas Térmicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Os fogareiros a gás são equipamentos portáteis que funcionam pela queima de gases combustíveis, como butano ou propano, e são amplamente utilizados em acampamentos e cozinhas externas. A energia térmica gerada pela queima do gás é transferida por convecção e radiação para a base da panela, e assim aquece os alimentos. Contudo, essa transferência não é perfeita: parte da energia térmica se perde para o ambiente. Um modelo típico de fogareiro libera 2.000 watts de potência térmica contínua, mas apenas 35% dessa energia é efetivamente transferida para o alimento, enquanto o restante se perde principalmente por aquecimento do ar ao redor e da estrutura metálica.\nDurante uma atividade ao ar livre, uma pessoa deseja cozinhar uma porção de arroz que, segundo testes laboratoriais, requer 105 kJ de energia para ser completamente cozida. O cozimento será feito com o fogareiro descrito, utilizando uma panela adequada, sem tampa, exposta ao vento moderado.\n\nCom base nessas informações, pode-se inferir que o tempo mínimo de exposição contínua ao fogareiro necessário para cozinhar completamente o alimento, em segundos, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "150s"
+        },
+        {
+          "letra": "B",
+          "texto": "100s"
+        },
+        {
+          "letra": "C",
+          "texto": "75s"
+        },
+        {
+          "letra": "D",
+          "texto": "30s"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Termologia",
+        "Física – Potência e Energia Térmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Durante um projeto de implantação de painéis solares em uma região semiárida, engenheiros ambientais precisam avaliar a resistividade elétrica do solo local. Essa informação é essencial para determinar o tipo de aterramento elétrico a ser utilizado na instalação, garantindo segurança e eficiência. Para isso, adotam um método de campo em que fincam dois eletrodos metálicos no solo, separados por uma distância conhecida. Entre esses eletrodos, aplicam uma diferença de potencial e medem a corrente que circula pelo solo, além de estimar a área efetiva da seção transversal pela qual a corrente elétrica se distribui.\nEm um ensaio de resistividade do terreno de implantação dos painéis, os técnicos aplicam uma tensão de 120 V entre dois eletrodos separados por 300 metros, medem uma corrente de 6 mA e estimam uma seção transversal efetiva de $4,5 m^2$. Utilizando esses dados, os engenheiros determinam a resistividade elétrica do solo e comparam com uma tabela de materiais típicos. A partir disso, eles avaliam que o solo local tem características próximas de um dos seguintes materiais:\n\nCom base nas informações do experimento, o solo analisado é mais provavelmente composto por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Areia seca."
+        },
+        {
+          "letra": "B",
+          "texto": "Argila expandida."
+        },
+        {
+          "letra": "C",
+          "texto": "Basalto compacto."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo areno-argiloso úmido."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Eletrodinâmica",
+        "Física – Segunda Lei de Ohm"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Um bloco de massa m está em repouso sobre uma mesa horizontal dentro de um trem que se move com velocidade de módulo constante. Considere que a mesa sempre está em repouso em relação ao trem e que não há atrito entre o bloco e a mesa.\n\nSobre o estado do bloco, é CORRETO afirmar que, durante uma",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pequena aceleração, o bloco se moveria para frente em relação à mesa."
+        },
+        {
+          "letra": "B",
+          "texto": "pequena desaceleração, o bloco não se moveria em relação à mesa."
+        },
+        {
+          "letra": "C",
+          "texto": "trajetória curvilínea, o bloco se movimentaria em relação à mesa."
+        },
+        {
+          "letra": "D",
+          "texto": "trajetória retilínea, o bloco moveria lateralmente em relação à mesa."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Mecânica",
+        "Física – Leis de Newton"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Em um triângulo retângulo, os ângulos internos estão em progressão aritmética. Sabendo que a medida do menor lado desse triângulo é 6 centímetros, podemos afirmar que o perímetro do triângulo, em centímetros, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12"
+        },
+        {
+          "letra": "B",
+          "texto": "36"
+        },
+        {
+          "letra": "C",
+          "texto": "$18 + 6\\sqrt{3}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$12 + 6\\sqrt{2}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Progressão Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Uma equipe de engenheiros está desenvolvendo um suporte triangular para equipamentos médicos, utilizando uma chapa metálica em formato de triângulo equilátero. Inicialmente, o triângulo tem lados medindo 17 cm. Após testes, foi decidido que o novo suporte terá lados com o dobro do comprimento do triângulo anterior.\nCom base nessa mudança, é CORRETO afirmar que o novo triângulo terá",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o dobro da área e o dobro do perímetro do triângulo original."
+        },
+        {
+          "letra": "B",
+          "texto": "o dobro do perímetro e quatro vezes a área do triângulo original."
+        },
+        {
+          "letra": "C",
+          "texto": "o quádruplo do perímetro e o dobro da área do triângulo original."
+        },
+        {
+          "letra": "D",
+          "texto": "o triplo do perímetro e o triplo da área do triângulo original."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Áreas e Perímetros"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Durante um experimento em um laboratório farmacêutico, uma pesquisadora analisa a trajetória de uma gota de substância liberada por um dos equipamentos. A gota se move em uma trajetória parabólica e sua altura, em centímetros, é modelada por uma função quadrática da forma:\n\n$h(t) = at^2 + bt + c$\n\nem que a, b e c são números reais, $a < 0$ e t dado em segundos.\n\nSabe-se que a altura da gota é 0 cm quando t = 0 (instante em que o movimento é iniciado) e quando t = 6 segundos (tempo gasto para a gota retornar à superfície da mesa). Sabe-se, também, que a altura máxima atingida pela gota é 9 cm.\n\nCom base nessas informações, podemos afirmar que a + b + c é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5"
+        },
+        {
+          "letra": "B",
+          "texto": "6"
+        },
+        {
+          "letra": "C",
+          "texto": "10"
+        },
+        {
+          "letra": "D",
+          "texto": "15"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Funções",
+        "Matemática – Função Quadrática"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Durante uma aula de matemática, a professora propôs uma discussão sobre os diferentes conjuntos numéricos e o que acontece quando realizamos operações entre números racionais e irracionais. Para estimular o raciocínio dos alunos, ela apresentou as seguintes afirmações:\n\nI. A soma de um número racional e um número irracional é sempre um número racional.\nII. O produto de um número racional com um número irracional é sempre irracional.\nIII. A soma de dois números irracionais é sempre um número irracional.\nIV. O produto de dois números irracionais pode ser um número racional.\nV. A diferença entre um número racional e um número irracional é sempre irracional.\n\nCom base nas propriedades dos conjuntos numéricos e das operações entre seus elementos, são VERDADEIRAS apenas as afirmações:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e V."
+        },
+        {
+          "letra": "B",
+          "texto": "III e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "III, IV e V."
+        },
+        {
+          "letra": "D",
+          "texto": "IV e V."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Conjuntos Numéricos"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Um cliente decidiu comprar um televisor em uma loja virtual pelo valor anunciado de R$ 5.000,00. Ao efetuar o login no site da loja, recebeu automaticamente um desconto de 20% sobre o valor do produto e o produto foi adicionado em seu carrinho de compras com o desconto aplicado. Ao finalizar a compra, optou por pagar com o cartão de crédito da própria loja, o que lhe garantiu um desconto adicional de 10% sobre o valor do item no carrinho. O cliente escolheu então dividir o valor final em 5 parcelas iguais.\nApós pagar a primeira parcela, decidiu adiantar o pagamento das 4 parcelas restantes. Pela política de adiantamento de parcelas da operadora do cartão de crédito, recebeu um desconto de 3% sobre cada uma das quatro parcelas restantes.\n\nCom base nessas informações, o cliente pagou, no total, pelo televisor",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 3.350,00"
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 3.421,25"
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 3.492,00"
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 3.513,60"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Matemática Financeira",
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "What sentence is correct according to the text?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "All internet activity is concentrated on a small number of large platforms in various languages."
+        },
+        {
+          "letra": "B",
+          "texto": "By studying YouTube, we can easily understand the platform as a whole, noticing big swaths of it."
+        },
+        {
+          "letra": "C",
+          "texto": "More research will make it possible to restructure the way we think about the services that control the web."
+        },
+        {
+          "letra": "D",
+          "texto": "The internet's topmost platforms are not as problematic to study as we would usually consider."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "The use of the word So in the sentence “So, most of the internet remains out of sight, on the other side of a language filter” (paragraph 1) indicates that this sentence will bring",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a conclusion to the previous ones."
+        },
+        {
+          "letra": "B",
+          "texto": "a purpose to explain the previous ones."
+        },
+        {
+          "letra": "C",
+          "texto": "additional ideas to the previous ones."
+        },
+        {
+          "letra": "D",
+          "texto": "opposing ideas to the previous ones."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Vocabulário",
+        "Inglês – Conectivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "By reading the text, we can infer that",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Most people always expect music, literature, cuisine and the internet to vary between cultures."
+        },
+        {
+          "letra": "B",
+          "texto": "Users, creators, academics, educators, parents, teachers and policymakers should study all internet platforms."
+        },
+        {
+          "letra": "C",
+          "texto": "When we talk about internet platforms, we are essentially talking about just a slight piece of it."
+        },
+        {
+          "letra": "D",
+          "texto": "When you go online, you tend to access all the world's information regardless of language and culture."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto",
+        "Inglês – Inferência"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "What does the word “its” in paragraph 6 refer to?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "To iceberg."
+        },
+        {
+          "letra": "B",
+          "texto": "To language bias."
+        },
+        {
+          "letra": "C",
+          "texto": "To popular videos."
+        },
+        {
+          "letra": "D",
+          "texto": "To YouTube."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Gramática",
+        "Inglês – Referência Pronominal"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "As the major technology companies are based in the US, we tend to think that",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "English internet is representative of the rest of the world."
+        },
+        {
+          "letra": "B",
+          "texto": "Information about anything can be found all over the world."
+        },
+        {
+          "letra": "C",
+          "texto": "Most internet activity is focused on independent platforms."
+        },
+        {
+          "letra": "D",
+          "texto": "Research about YouTube has an English-speaking impartiality."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Segundo o Censo Demográfico de 2023 (IBGE, 2023), no Brasil, são 1.693.535 pessoas que se declaram indígenas, pertencentes a 305 etnias. Desses indígenas, 36,73% (ou 621,1 mil) residem em terras indígenas e 63,27% (ou 1.1 milhão) estão fora delas. Esses dados são reveladores de que não é mais possível pensar os povos indígenas apenas como parte da população rural ou somente como povos da floresta.\n\nSobre o que os dados nos revelam, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os dados atentam para os indígenas brasileiros no espaço e composição, imperando a necessidade de se pensar para além dos estereótipos."
+        },
+        {
+          "letra": "B",
+          "texto": "Os espaços urbanos cresceram e se lançaram sobre as aldeias indígenas tradicionais, aproximando a cidade das florestas harmonicamente."
+        },
+        {
+          "letra": "C",
+          "texto": "Os indígenas não são mais importantes para preservação do meio ambiente, já que estão espalhados também em áreas urbanas."
+        },
+        {
+          "letra": "D",
+          "texto": "Os residentes indígenas nas cidades perderam suas identidades como povos originários e tornaram-se, assim, cidadãos e citadinos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História do Brasil",
+        "História – Povos Originários"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "\"Sobrevivi... posso contar\", é nome do livro lançado em 1994 por Maria da Penha (que deu nome à Lei Maria da Penha) com a narrativa das violências sofridas por ela e pelas três filhas. O apoio por ela recebido, após o livro, levou às ações no Centro pela Justiça e o Direito Internacional e Comitê Latino Americano e do Caribe para Defesa dos Direitos da Mulher que, posteriormente, encaminharam o caso à OEA, que condenou o estado brasileiro por omissão e negligência em 2002 e levou ao estabelecimento da lei que combate a violência doméstica e ampara todas as pessoas que se identifiquem com o sexo feminino, sendo heterossexuais, homossexuais e mulheres transexuais (Lei nº 11.340, de 7 de agosto de 2006).\n\nSobre o trecho acima e a problematização que ele suscita, ressalta-se a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "dificuldade de definir e estabelecer limites sobre sexo biológico e gênero na sociedade contemporânea atual."
+        },
+        {
+          "letra": "B",
+          "texto": "importância de dar voz e visibilidade aos grupos vulneráveis na luta por violações de direitos e violência."
+        },
+        {
+          "letra": "C",
+          "texto": "incompetência do Estado Brasileiro como ente para lidar com a proteção de mulheres, sejam adultas ou crianças."
+        },
+        {
+          "letra": "D",
+          "texto": "necessidade de exposição das pessoas vítimas de violência para que se sensibilize, pela dor, a sociedade."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História do Brasil Contemporâneo",
+        "História – Direitos Humanos"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "O início do período regencial ficou marcado, nas Minas, por uma das mais violentas revoltas de escravizados que aconteceu em Curato de São Tomé das Letras (freguesia de Carrancas), em maio de 1833. No dia 13 de maio, Gabriel Francisco de Andrade Junqueira, que tomava conta das terras do pai, foi assassinado por um grupo de escravizados revoltosos enquanto supervisionava o trabalho na roça. O grupo de revoltosos se deslocou para a fazenda Bela Cruz, pertencente também a um membro da mesma família e assassinou com muita violência todos os membros da propriedade, incluindo crianças e um bebê. A revolta foi duramente reprimida.\nOs escravizados participaram de muitas revoltas em espaços e momentos que atravessaram o período regencial. No mesmo contexto, fizeram suas rebeliões motivadas e realizadas numa sociedade brasileira caracterizada pela dominação e pela violência. No caso específico de Carrancas, a revolta acompanhava a disputa que ocorria entre as facções políticas locais e seu final levou ao recrudescimento das punições criminais no país.\n\nDiante dessas informações e problematizando as rebeliões escravas como a de Carrancas, é CORRETO afirmar que as revoltas revelam:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a capacidade de se organizar dos escravizados no combate à dominação e à violência e de fazer a leitura e interpretar seu tempo e espaço."
+        },
+        {
+          "letra": "B",
+          "texto": "a modalidade da luta dos cativos pela liberdade e seu sucesso, poucos meses depois, com a extinção da escravidão pela Lei Áurea."
+        },
+        {
+          "letra": "C",
+          "texto": "a selvageria do mundo do escravizado que contrastava com o mundo civilizado dos brancos que foi herdado e construído pelos europeus."
+        },
+        {
+          "letra": "D",
+          "texto": "o desequilíbrio do sistema escravista brasileiro que dependia da força dos escravos, aumentando seu contingente ao longo do século XIX e tornando-os uma ameaça."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História do Brasil Imperial",
+        "História – Período Regencial",
+        "História – Escravidão"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "O historiador E. P. Thompson, no livro Costumes em Comum, analisa a cultura popular a partir de costumes bem diferentes que faziam parte do mundo dos trabalhadores ingleses, nos séculos 18 e 19. O aprendizado na cultura popular, feito por meio das narrativas e anedotas e passado de geração a geração, desenha formas mais conservadoras da tradição como costume. As normas dessa cultura popular não eram as mesmas proclamadas pela Igreja ou pelas autoridades – elas eram definidas como pertencimento e como tradição e estabelecidas dentro da própria cultura plebeia, aplicando rituais de desonra contra alguém que transgredisse as regras ou apresentasse uma ação a ser denunciada. Na Inglaterra, a atribuição de uma cultura de formas conservadoras pelos grupos populares, recorrendo aos costumes tradicionais, consistiu numa busca de reforçar a tradição diante das insatisfações e das tensões que marcaram a mudança brusca nas relações pelo estabelecimento da nova ordem moderna e seus impactos.\n\nDiante do que foi descrito sobre o conflito entre a tradição dos costumes e as tensões advindas da modernidade, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A cultura medieval mostrou-se vívida e permanente com a configuração da cultura popular, colocando em xeque as inovações e os padrões trazidos pelas sociedades modernas."
+        },
+        {
+          "letra": "B",
+          "texto": "A insubordinação da plebe, em nome dos costumes, se voltava contra as inovações impostas pela nova ordem moderna e proclamada pela Igreja ou pelas autoridades."
+        },
+        {
+          "letra": "C",
+          "texto": "A manutenção dos costumes levou à desqualificação dos grupos que viviam nas cidades como produtores de cultura, precisando recorrer às tradições antigas herdadas."
+        },
+        {
+          "letra": "D",
+          "texto": "A sociedade capitalista levou à perda de poder dos antigos senhores feudais, e os costumes, na forma conservadora, consistiram numa tentativa de recuperar esse poder."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História Moderna",
+        "História – Cultura Popular",
+        "História – Historiografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Hoje em dia, ninguém é uma coisa só. Rótulos como indiano, mulher, muçulmano ou americano não passam de pontos de partida que, seguindo-se uma experiência concreta, mesmo que breve, logo ficam para trás. O imperialismo consolidou a mescla de culturas e identidades numa escala global. Mas seu pior e mais paradoxal legado foi permitir que as pessoas acreditassem que eram apenas, sobretudo, exclusivamente brancas, pretas, ocidentais ou orientais. É mais compensador – e mais difícil – pensar sobre os outros em termos concretos, empáticos, contrapontísticos, do que pensar apenas sobre “nós”. Mas isso também significa não tentar dominar os outros, não tentar classificá-los nem os hierarquizar e, sobretudo, não repetir constantemente o quanto \"nossa cultura ou país é melhor (ou não é o melhor, também).\n(SAID, Edward E. Cultura e imperialismo. Trad. Denise BotMann. São Paulo: Companhia de Bolso, 2013. p. 510. Adaptado)\n\nSobre o imperialismo, a cultura e as identidades, o trecho de Edward Said:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "justifica o momento atual de guerra cultural, pela hierarquização social imposta pelas nações ricas e influentes, durante o imperialismo, na defesa de uma única cultura “melhor\" e global como modelo."
+        },
+        {
+          "letra": "B",
+          "texto": "problematiza o imperialismo a partir da noção de governo econômico mundial, que é decorrente da ação das potências industriais e de seus impactos nos países ocidentais e orientais não industrializados."
+        },
+        {
+          "letra": "C",
+          "texto": "reforça a necessidade da promoção e do respeito pela diversidade, reconhecendo no imperialismo um momento importante da mescla de culturas e, também nele, o estabelecimento das desigualdades entre elas."
+        },
+        {
+          "letra": "D",
+          "texto": "traduz o imperialismo como o encontro entre os diferentes seres humanos e a integração de fronteiras de forma harmoniosa, buscando adequar o movimento crescente de globalização que o seguiu."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História Contemporânea",
+        "História – Imperialismo",
+        "História – Estudos Pós-coloniais"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "As frentes atmosféricas são zonas de transição entre duas massas de ar com características diferentes. Estudar esse fenômeno é importante para a previsão do tempo, pois ajuda a entender como as massas de ar interagem e como podem afetar as condições atmosféricas em diferentes lugares. Observe a figura a seguir, ela ilustra o choque entre duas massas de ar e a formação da frente fria.\n\nA partir das informações contidas na ilustração, analise as afirmações que se seguem.\n\nI. A massa de ar quente, ao se chocar com a massa de ar frio, se eleva, por ser mais densa e concentrada.\nII. O choque das massas de ar produz zona de instabilidade, o que pode ocasionar em ocorrência de precipitação.\nIII. A temperatura na dianteira de uma massa de ar frio apresenta-se mais baixa que no seu interior.\n\nÉ CORRETO apenas o que se afirma em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I."
+        },
+        {
+          "letra": "B",
+          "texto": "II."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geografia Física",
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "As cartas topográficas são representações da superfície terrestre que retratam os elementos naturais do relevo, da hidrografia e da cobertura vegetal, e os elementos culturais, como construções, rodovias e vias de acesso.\nOs recortes abaixo são de cartas topográficas de Belo Horizonte elaboradas em escala cartográfica distintas.\n\nA partir das informações acima e de seu conhecimento sobre o assunto, é CORRETO o que se afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A carta de 1:250.000 é considerada uma carta com escala grande por apresentar maior nível de detalhamento em comparação com a carta de 1:50.000."
+        },
+        {
+          "letra": "B",
+          "texto": "As duas cartas topográficas são da mesma região com a mesma escala cartográfica, os diferentes níveis de detalhamento são atribuídos ao recorte temporal das cartas."
+        },
+        {
+          "letra": "C",
+          "texto": "É possível identificar arruamentos e demais detalhes do adensamento urbano em uma carta de maior escala como a de 1:50.000."
+        },
+        {
+          "letra": "D",
+          "texto": "Não é possível comparar duas representações cartográficas, ainda que retratem a mesma região, devido à ausência de escala gráfica nas cartas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Cartografia",
+        "Geografia – Escala Cartográfica"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Povos e comunidades tradicionais fazem parte da diversidade étnica e cultural da população brasileira e são reconhecidos pelo Governo Brasileiro através do Decreto Federal 6.040/2007.\nFonte: Brasil. Povos e Comunidades Tradicionais. Disponível em: https://www.gov.br/mma/pt-br/assuntos/povos-e-comunidades-tradicionais. Acesso em: 10 ago. 2025. Adaptado.\n\nA respeito desse assunto, analise as afirmações que se seguem.\n\nI. Quilombolas são constituídos por comunidades remanescentes dos quilombos, que buscam preservar as tradições culturais de ancestralidade negra e com identidade constituída por lutas pela liberdade e pela manutenção de suas tradições.\nII. Os geraizeiros são considerados uma comunidade tradicional por preservarem a cultura italiana, estando localizados em partes do Sudeste e do Sul do Brasil e por sua origem estar ligada às crises econômicas e políticas na Itália e ao incentivo à migração italiana promovido pelo Brasil após a abolição da escravidão.\nIII. Constituídos majoritariamente por povos guaranis e tupis e, por isso, considerados comunidades homogêneas, os povos indígenas representam os habitantes originários do Brasil antes da chegada dos colonizadores europeus.\n\nÉ CORRETO apenas o que se afirma em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I."
+        },
+        {
+          "letra": "B",
+          "texto": "II."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geografia Humana",
+        "Geografia – Populações Tradicionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "No âmbito das relações internacionais, países firmam alianças e parcerias visando à cooperação econômica e ao desenvolvimento mútuo. Nesse sentido, o Brasil é um dos países integrantes do BRICS.\n\nA respeito desse assunto, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Além do Brasil, são integrantes permanentes do BRICS, o Canadá, o México e a Argentina, e a Venezuela e a África do Sul são considerados países-parceiros."
+        },
+        {
+          "letra": "B",
+          "texto": "Como o Mercosul, o BRICS se constitui como bloco econômico que visa aumentar o protagonismo dos países em desenvolvimento no cenário global."
+        },
+        {
+          "letra": "C",
+          "texto": "Encontra-se em fase de implantação uma moeda única que deverá facilitar as transações comerciais entre os países membros do BRICS."
+        },
+        {
+          "letra": "D",
+          "texto": "O BRICS busca fortalecer a cooperação entre países do Sul Global, por meio do estímulo às transações comerciais e à integração econômica."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "Geografia – Organizações Internacionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Analise o infográfico a seguir que trata sobre a matriz energética brasileira.\n\nConsiderando as informações acima e seu conhecimento sobre o assunto, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A demanda energética brasileira ainda é altamente dependente do petróleo, do carvão mineral e do gás natural, todas consideradas fontes renováveis."
+        },
+        {
+          "letra": "B",
+          "texto": "A principal fonte de energia do Brasil, embora renovável, provoca impactos ambientais, como alterações nos ecossistemas aquáticos e a redução da biodiversidade local."
+        },
+        {
+          "letra": "C",
+          "texto": "Fontes alternativas, como solar, eólica e biomassa, representam juntas menos de 15% da matriz energética brasileira, o que sugeriria uma estagnação dessas fontes."
+        },
+        {
+          "letra": "D",
+          "texto": "Há um incentivo governamental para a diversificação do parque energético no Brasil, sendo priorizados investimentos em usinas nucleares e eólicas, principalmente na região Sul."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geografia Econômica",
+        "Geografia – Matriz Energética"
+      ]
+    }
+  ]
+}

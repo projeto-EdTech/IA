@@ -1,0 +1,1634 @@
+{
+  "nomeUniversidade": "Faculdade de Tecnologia",
+  "siglaUniversidade": "FATEC",
+  "nomeProva": "VESTIBULAR 2º SEM/2023",
+  "ano": 2023,
+  "qtdeQuestoes": 54,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Ao aprender a cozinhar, os homens da pré-História deram um dos passos evolutivos mais importantes da nossa espécie. Estudos recentes sugerem que hominídeos já cozinhavam alimentos há cerca de 780 mil anos. Antes desses estudos, a evidência mais antiga de comida cozida era de cerca de 170 mil anos atrás, com os primeiros Homo sapiens e Neandertais usando fogo para cozinhar legumes e carne. Cozinhar torna a carne, o peixe e os vegetais mais fáceis de digerir, permitindo o crescimento do corpo e do cérebro de forma muito mais eficiente do que ao comer alimentos crus. O cozimento também torna os alimentos mais seguros, pois mata potenciais patógenos. <https://tinyurl.com/2p9c5w66> Acesso em: 09.03.2023. Adaptado.\n\nAssinale a alternativa que apresenta corretamente uma das conclusões do estudo citado no texto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As evidências disponíveis são insuficientes para identificar o período em que os hominídeos começaram a cozinhar os alimentos."
+        },
+        {
+          "letra": "B",
+          "texto": "As evidências coletadas pelo estudo sugerem que a agricultura e a pecuária eram praticadas pelos hominídeos há 780 mil anos."
+        },
+        {
+          "letra": "C",
+          "texto": "Os alimentos cozidos permitiram o crescimento do corpo e do cérebro humanos, contribuindo para a evolução de nossa espécie."
+        },
+        {
+          "letra": "D",
+          "texto": "Os hominídeos cozinhavam alimentos há cerca de 780 mil anos, mas os Homo sapiens e os Neandertais preferiam os alimentos crus."
+        },
+        {
+          "letra": "E",
+          "texto": "O tamanho do cérebro dos Homo sapiens e dos Neandertais é um fator evolutivo insignificante em relação aos primeiros hominídeos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Pré-História"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Uma alimentação saudável e variada, em que se come tudo nas quantidades adequadas, considerando as necessidades diárias de carboidratos, proteínas, gorduras, minerais, fibras e água, pode ajudar a prevenir doenças, dar mais disposição, melhorar a qualidade do sono e favorecer o bem-estar.\nSem os nutrientes certos, muitas das nossas reações bioquímicas deixam de acontecer como deveriam e isso pode resultar em doenças graves.\nCom base no texto, pode-se afirmar corretamente que é benéfico à saúde",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "consumir defumados ou embutidos ricos em gorduras e em sódio, pois diminuem a pressão arterial, o colesterol e o risco de alguns tipos de câncer."
+        },
+        {
+          "letra": "B",
+          "texto": "consumir, nas refeições, apenas alimentos industrializados e altamente processados, pois garantem o aumento da imunidade e a prevenção contra vírus e bactérias."
+        },
+        {
+          "letra": "C",
+          "texto": "preferir suplementos alimentares industrializados de vitaminas ou de proteínas, pois são mais saudáveis e não colocam a saúde do corpo em risco, ao contrário da ingestão de alimentos naturais."
+        },
+        {
+          "letra": "D",
+          "texto": "optar por temperos naturais, como ervas aromáticas e especiarias, que contêm vitaminas, minerais e antioxidantes, em vez de temperos industrializados, com alto teor de sódio e conservantes."
+        },
+        {
+          "letra": "E",
+          "texto": "optar por alimentos ricos em gorduras trans, que não se depositam em nossas artérias e que foram desenvolvidas pela indústria alimentícia para manter alimentos mais tempo sem estragar."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Nutrição e Saúde"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Existe o mito de que a beterraba cura a anemia devido a sua coloração vermelha, que é associada ao sangue. Por isso, muitas pessoas acham que a beterraba contém muito ferro. Isso é um erro.\nAs melhores fontes de ferro de origem vegetal são os vegetais verde-escuros, as leguminosas e os grãos integrais.\nComo a vitamina C potencializa a absorção de ferro no organismo, é aconselhável consumir alimentos com alto teor dessa vitamina junto a alimentos que contêm ferro.\nExistem alimentos como chás escuros, café, refrigerantes à base de cola, chocolate e alimentos ricos em cálcio, como leite e derivados, que inibem a absorção de ferro, portanto deve-se evitar consumi-los durante ou logo após as refeições.\nFonte dos dados: <https://tinyurl.com/4mvxer26> Acesso em: 17.03.2023. Adaptado.\n\nCom base no texto, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a carne vermelha e a carne de peixe in natura são excelentes fontes de vitamina C."
+        },
+        {
+          "letra": "B",
+          "texto": "a absorção de ferro é inibida pelo consumo de café quando este é consumido logo após as refeições."
+        },
+        {
+          "letra": "C",
+          "texto": "a coloração avermelhada da beterraba é uma evidência da abundância de ferro nesse vegetal."
+        },
+        {
+          "letra": "D",
+          "texto": "o consumo de ovos, ricos em vitamina C, elimina a anemia, doença que afeta grande parte da humanidade."
+        },
+        {
+          "letra": "E",
+          "texto": "o leite é um alimento rico em cálcio que potencializa a absorção de ferro pelo organismo quando consumido logo após as refeições."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Nutrição e Sais Minerais"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Os sais inorgânicos desempenham variadas funções nos organismos de todos os seres vivos.\nAssinale a alternativa que associa corretamente o elemento químico presente no sal às respectivas funções que desempenha nos organismos humanos.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Cálcio: ajuda a formar o esqueleto, atua na contração muscular e na coagulação sanguínea."
+        },
+        {
+          "letra": "B",
+          "texto": "Cloro: faz parte dos hormônios da tireoide, que controlam o metabolismo, e atua na formação dos ossos e dos dentes."
+        },
+        {
+          "letra": "C",
+          "texto": "Ferro: está presente nas estruturas que realizam a transferência de energia dentro da célula (ATP e ADP) e nos ácidos nucleicos."
+        },
+        {
+          "letra": "D",
+          "texto": "Fósforo: participa da constituição da hemoglobina e de enzimas da respiração celular."
+        },
+        {
+          "letra": "E",
+          "texto": "Iodo: participa da produção da melanina, pigmento que dá cor à pele, e do funcionamento do sistema nervoso."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Bioquímica Celular"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Durante a mastigação de um alimento sólido, os dentes molares de uma pessoa adulta podem exercer uma pressão aproximada de 5 kgf/cm² sobre o alimento.\nSabendo que kgf/cm² equivale à unidade de medida bar, assinale a alternativa que apresenta corretamente a pressão exercida pelos molares de uma pessoa adulta em N/m² (ou Pa).\n\nConsidere:\n1 bar = 100 000 Pa",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$5,0 \\times 10^6$"
+        },
+        {
+          "letra": "B",
+          "texto": "$5,0 \\times 10^5$"
+        },
+        {
+          "letra": "C",
+          "texto": "$5,0 \\times 10^4$"
+        },
+        {
+          "letra": "D",
+          "texto": "$1,0 \\times 10^5$"
+        },
+        {
+          "letra": "E",
+          "texto": "$1,0 \\times 10^6$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Pressão"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Leia o texto para responder às questões 06 e 07.\n\nEm Minas Gerais, os municípios da Serra da Canastra se destacam pela produção artesanal de queijo.\nOs portugueses trouxeram o conhecimento da produção de queijos para o Brasil Colônia. À região da Canastra, ele chegou há dois séculos. Lá, o pasto que alimenta a vaca determina o teor de proteína e de gordura do leite. As bactérias e leveduras do ambiente são responsáveis pelo sabor forte, levemente ácido e picante.\nPara que as bactérias façam seu trabalho, é essencial que a produção aconteça direto do leite tirado da vaca, sem pasteurização. O líquido é despejado em um tanque e filtrado. Depois, a produtora adiciona coalho, contendo enzimas que interagem com proteínas do leite, chamadas caseínas. A artesã acrescenta também o fermento lácteo natural, conhecido como “pingo”, um soro cheio de bactérias que pingou do queijo de uma produção anterior.\nNa etapa seguinte, o papel do sal é fundamental, porque quanto mais água no queijo, mais bactérias. O sal dá início ao processo de cura (desidratação), que permite exterminar as bactérias do queijo.\nAo longo do processo, as bactérias consomem o açúcar do leite. Conforme o açúcar vai acabando, as bactérias morrem. É a morte dos micro-organismos (ou seja, o rompimento das células deles) que libera substâncias responsáveis por reforçar o aroma e o sabor.\nNa serra, nos sítios de produção familiar, quem em geral faz o queijo são as mulheres. O isolamento da Serra da Canastra sempre dificultou as oportunidades para a economia da região. Os produtores, enfrentando a concorrência da indústria, vendiam seus produtos a preços irrisórios para fábricas de pão de queijo. Nos últimos anos, os produtores se uniram para valorizar seu queijo.\n<https://tinyurl.com/mr2brpfz> Acesso em: 09.03.2023. Adaptado.\n\nSegundo o texto,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o isolamento geográfico da Serra da Canastra, aliado a condições ambientais desfavoráveis, como a má qualidade do pasto, prejudicam a qualidade do queijo ali produzido e, consequentemente, diminuem as oportunidades econômicas da região."
+        },
+        {
+          "letra": "B",
+          "texto": "as indústrias de pão de queijo instaladas na região provocaram a extinção dos modos de produção artesanal, o que valorizou o queijo da Serra da Canastra nos mercados interno e externo."
+        },
+        {
+          "letra": "C",
+          "texto": "nos últimos anos, a produção de queijo, na Serra da Canastra, adotou tecnologia de ponta para mecanizar a indústria, o que provocou a valorização do produto no mercado internacional."
+        },
+        {
+          "letra": "D",
+          "texto": "os saberes envolvidos na produção do queijo foram trazidos ao Brasil Colônia pelos portugueses e chegaram à Serra da Canastra há duzentos anos, sendo preservados principalmente pelas mulheres."
+        },
+        {
+          "letra": "E",
+          "texto": "o diferencial do queijo da Serra da Canastra é a utilização de leite pasteurizado que, submetido aos processos tradicionais de fermentação, produz um queijo de sabor ímpar."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – História do Brasil",
+        "Geografia – Economia Regional"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Leia o texto para responder às questões 06 e 07.\n\nEm Minas Gerais, os municípios da Serra da Canastra se destacam pela produção artesanal de queijo.\nOs portugueses trouxeram o conhecimento da produção de queijos para o Brasil Colônia. À região da Canastra, ele chegou há dois séculos. Lá, o pasto que alimenta a vaca determina o teor de proteína e de gordura do leite. As bactérias e leveduras do ambiente são responsáveis pelo sabor forte, levemente ácido e picante.\nPara que as bactérias façam seu trabalho, é essencial que a produção aconteça direto do leite tirado da vaca, sem pasteurização. O líquido é despejado em um tanque e filtrado. Depois, a produtora adiciona coalho, contendo enzimas que interagem com proteínas do leite, chamadas caseínas. A artesã acrescenta também o fermento lácteo natural, conhecido como “pingo”, um soro cheio de bactérias que pingou do queijo de uma produção anterior.\nNa etapa seguinte, o papel do sal é fundamental, porque quanto mais água no queijo, mais bactérias. O sal dá início ao processo de cura (desidratação), que permite exterminar as bactérias do queijo.\nAo longo do processo, as bactérias consomem o açúcar do leite. Conforme o açúcar vai acabando, as bactérias morrem. É a morte dos micro-organismos (ou seja, o rompimento das células deles) que libera substâncias responsáveis por reforçar o aroma e o sabor.\nNa serra, nos sítios de produção familiar, quem em geral faz o queijo são as mulheres. O isolamento da Serra da Canastra sempre dificultou as oportunidades para a economia da região. Os produtores, enfrentando a concorrência da indústria, vendiam seus produtos a preços irrisórios para fábricas de pão de queijo. Nos últimos anos, os produtores se uniram para valorizar seu queijo.\n<https://tinyurl.com/mr2brpfz> Acesso em: 09.03.2023. Adaptado.\n\nA produção dos queijos da Serra da Canastra se caracteriza, principalmente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pelo emprego de leite não pasteurizado e que, portanto, não apresenta os micro-organismos naturais responsáveis pelas reações bioquímicas de fabricação desses produtos."
+        },
+        {
+          "letra": "B",
+          "texto": "pela adição do coalho, conhecido como “pingo”, cheio de bactérias que atuam na coagulação do leite devido à hidrólise das caseínas."
+        },
+        {
+          "letra": "C",
+          "texto": "pela adição de sal no processo de cura, que acelera a multiplicação de bactérias e de leveduras no soro, o qual é totalmente eliminado da massa do queijo."
+        },
+        {
+          "letra": "D",
+          "texto": "pela ação das leveduras, que são fungos autotróficos, responsáveis pela produção da lactose e de outros açúcares do leite."
+        },
+        {
+          "letra": "E",
+          "texto": "pela degradação do açúcar do leite devido à ação das bactérias, que são micro-organismos fundamentais para a formação do sabor e do aroma característicos desse tipo de queijo."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Microbiologia e Fermentação"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "A pecuária consiste na criação de animais para a comercialização, principalmente para a obtenção de matérias-primas, como a carne, o leite, o couro, entre outras. Dentro da pecuária, destaca-se a existência de dois sistemas de criação: o extensivo e o intensivo.\n<https://tinyurl.com/3y6rf989> Acesso em: 26.03.2023. Adaptado.\n\nO sistema extensivo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "consiste na criação do gado solto em grandes áreas, e a dieta dos animais é baseada majoritariamente em pastagem e suplementos minerais."
+        },
+        {
+          "letra": "B",
+          "texto": "usa métodos avançados de preparo do solo e de cultivo das forrageiras de modo que a exploração deste recurso se dá por um tempo maior."
+        },
+        {
+          "letra": "C",
+          "texto": "possui uma estratégia nutricional avançada, que, combinada a outras tecnologias alimentares, melhora a produtividade do rebanho."
+        },
+        {
+          "letra": "D",
+          "texto": "cria os animais em um sistema de confinamento, colocando o maior número de cabeças de gado no menor espaço possível."
+        },
+        {
+          "letra": "E",
+          "texto": "utiliza inseminação artificial, maquinários computadorizados, agrotóxicos e fertilizantes de alto desempenho."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Agropecuária"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Leia o texto para responder às questões 09 e 10.\n\nAgroforestry is the interaction of agriculture and trees, including the agricultural use of trees. This comprises trees on farms and in agricultural landscapes, farming in forests and along forest margins and tree-crop production, including cocoa, coffee, rubber and oil palm. Interactions between trees and other components of agriculture may be important at a range of scales: in fields (where trees and crops are grown together), on farms (where trees may provide fodder for livestock, fuel, food, shelter or income from products including timber) and landscapes (where agricultural and forest land uses combine in determining the provision of ecosystem services).\nAgroforestry is agricultural and forestry systems that try to balance various needs:\n1) to produce trees for timber and other commercial purposes;\n2) to produce a diverse, adequate supply of nutritious foods both to meet global demand and to satisfy the needs of the producers themselves; and\n3) to ensure the protection of the natural environment so that it continues to provide resources and environmental services to meet the needs of the present generations and those to come.\n<https://tinyurl.com/pnv4wjx8> Acesso em: 04.03.2023.\n\nDe acordo com o texto, o equilíbrio pretendido entre agricultura e floresta, no sistema chamado de Agroforestry, prevê",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mais árvores em fazendas para sombrear a cultura de café."
+        },
+        {
+          "letra": "B",
+          "texto": "reflorestamento e plantações, mas sem a produção de carne."
+        },
+        {
+          "letra": "C",
+          "texto": "proteção ambiental com a retirada do pasto e da criação de gado."
+        },
+        {
+          "letra": "D",
+          "texto": "plantio de alimentos orgânicos, mas sem extração de madeira."
+        },
+        {
+          "letra": "E",
+          "texto": "proteção dos ecossistemas pela coexistência entre plantações e árvores."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Leia o texto para responder às questões 09 e 10.\n\nAgroforestry is the interaction of agriculture and trees, including the agricultural use of trees. This comprises trees on farms and in agricultural landscapes, farming in forests and along forest margins and tree-crop production, including cocoa, coffee, rubber and oil palm. Interactions between trees and other components of agriculture may be important at a range of scales: in fields (where trees and crops are grown together), on farms (where trees may provide fodder for livestock, fuel, food, shelter or income from products including timber) and landscapes (where agricultural and forest land uses combine in determining the provision of ecosystem services).\nAgroforestry is agricultural and forestry systems that try to balance various needs:\n1) to produce trees for timber and other commercial purposes;\n2) to produce a diverse, adequate supply of nutritious foods both to meet global demand and to satisfy the needs of the producers themselves; and\n3) to ensure the protection of the natural environment so that it continues to provide resources and environmental services to meet the needs of the present generations and those to come.\n<https://tinyurl.com/pnv4wjx8> Acesso em: 04.03.2023.\n\nNa sentença destacada em negrito no texto, a expressão “so that” expressa a ideia de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "causa."
+        },
+        {
+          "letra": "B",
+          "texto": "contrariedade."
+        },
+        {
+          "letra": "C",
+          "texto": "ênfase."
+        },
+        {
+          "letra": "D",
+          "texto": "exemplificação."
+        },
+        {
+          "letra": "E",
+          "texto": "finalidade."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Conjunções e Conectivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "No Recife, em Pernambuco, há quase 500 anos, originou-se uma avançada “civilização do açúcar\", forjada na mão de obra de negros escravizados sobre os massapés da Zona da Mata, onde açúcar e frutas nativas andam de mãos dadas.\nCaju, umbu, ubaia, pitanga, guabiraba e muitas outras frutas podem ser comidas frescas, mas viram doces, licores e compotas, “tudo à moda de Pernambuco\". Caju é doce de praia, feito em calda ou em passa. Umbu ou imbu é doce sertanejo e a fruta dá até uma bebida: a saborosa umbuzada feita com leite. Da guabiraba, frutinha cada vez mais rara na Zona da Mata, faz-se o doce que só se come uma vez por ano, por conta da safra curta. Existem até doces de Carnaval.\nO São João é o palco principal de todos os bolos, doces e afins: canjica, munguzá, bolo pé-de-moleque, manuê, bolo de macaxeira, bolos de milho de todos os jeitos, arroz-doce e mais uma infinidade de guloseimas.\n<https://tinyurl.com/mrywcm7k> Acesso em: 09.03.2023. Adaptado.\n\nA partir das informações apresentadas no texto, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o consumo de açúcar em Pernambuco ocorre uma vez por ano, durante a celebração a São João, quando a população tem acesso aos doces de festa."
+        },
+        {
+          "letra": "B",
+          "texto": "a “civilização do açúcar” surgiu após a abolição da mão de obra escravizada na Zona da Mata, devido ao volume de produção de frutas nativas."
+        },
+        {
+          "letra": "C",
+          "texto": "a necessidade de produzir e de consumir doces fez com que os pernambucanos inventassem uma forma de extrair açúcar a partir das frutas nativas, como o caju e a guabiraba."
+        },
+        {
+          "letra": "D",
+          "texto": "a “civilização do açúcar” foi construída a partir da utilização de mão de obra negra escravizada, que produzia o açúcar na região litorânea de Pernambuco, conhecida como Zona da Mata."
+        },
+        {
+          "letra": "E",
+          "texto": "o cultivo de açúcar, na Zona da Mata, foi responsável pelo esgotamento do solo, que teve como consequência a extinção da guabiraba, fruta de safra curta cujo doce só se come uma vez por ano."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Brasil Colônia"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "No comércio de alimentação, a embalagem compõe a identidade visual do produto. Um exemplo disso é a clássica caixinha de entrega de comida chinesa.\nA figura apresenta a vista lateral, a vista da parte inferior e a vista da parte superior desse tipo de embalagem.\n\nLeia o texto e assinale a alternativa cujos termos completam, correta e respectivamente, as lacunas.\n\nCom base nas vistas fornecidas, é correto afirmar que a embalagem tem o formato de um (I) e que a área total de material necessário para a confeccionar pode ser estimada em cerca de (II) cm², sem levar em consideração as dobras de fechamento e de colagem.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "prisma | 680"
+        },
+        {
+          "letra": "B",
+          "texto": "tronco de pirâmide | 680"
+        },
+        {
+          "letra": "C",
+          "texto": "prisma | 1220"
+        },
+        {
+          "letra": "D",
+          "texto": "tronco de pirâmide | 1220"
+        },
+        {
+          "letra": "E",
+          "texto": "prisma | 1280"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Três ex-alunas de marketing da FATEC montam um ensaio fotográfico com algumas frutas. Para isso, utilizam uma lâmpada de LED como iluminação de apoio. Essa lâmpada de LED tem um dispositivo eletrônico que permite controlar a emissão de luz em diferentes comprimentos de onda, apresentados em angström (Å), e diferentes frequências, apresentadas em terahertz, conforme apresentado no quadro.\nPara esse ensaio fotográfico, as alunas selecionaram separadamente morangos, bananas e limões maduros. Além disso, elas restringiram a variação de cores da luz da lâmpada de LED para realçar as cores apenas desses alimentos nas imagens produzidas.\nAssim, podemos afirmar corretamente que, durante a produção das diferentes imagens, a lâmpada emitiu ondas eletromagnéticas que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "operavam na faixa de 384 THz a 659 THz."
+        },
+        {
+          "letra": "B",
+          "texto": "vibravam na faixa de 482 THz a 800 THz."
+        },
+        {
+          "letra": "C",
+          "texto": "oscilavam na faixa de 4920 Å a 7 800 Å."
+        },
+        {
+          "letra": "D",
+          "texto": "estavam na faixa de 3900 Å a 5970 Å."
+        },
+        {
+          "letra": "E",
+          "texto": "giravam na faixa de 384 THz a 3 900 Å."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Ondulatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Observe o mapa que apresenta as rotas de difusão de um produto alimentício.\n\nFonte das Informações: FERRÃO, J. E. M.; A aventura das plantas e os descobrimentos portugueses. Lisboa: Instituto de Investigação Científica Tropical, 2005. p.287.\n\nO processo histórico que explica o fenômeno expresso no mapa é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a expansão chinesa no Sudeste da Ásia que, há cerca de 5000 anos, resultou no desenvolvimento da cultura do arroz, principal alimento da região até a atualidade."
+        },
+        {
+          "letra": "B",
+          "texto": "o transporte de pimenta, produzida na Índia, para as Américas e para a Europa, realizado pelas companhias comerciais holandesas e inglesas, no século XVIII."
+        },
+        {
+          "letra": "C",
+          "texto": "o envio de mudas de café da Etiópia para o Iêmen, onde ele passou a ser produzido comercialmente por volta de 575 d.C., principalmente para consumo interno."
+        },
+        {
+          "letra": "D",
+          "texto": "a ampliação da cultura persa, na Ásia e na África, levando à popularização do consumo de gergelim nas regiões da Malásia e da Indonésia, a partir de 4300 a.C."
+        },
+        {
+          "letra": "E",
+          "texto": "a difusão do cacau por grande parte do mundo a partir do século XVI, devido à atividade comercial realizada pelos colonizadores espanhóis da América."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Grandes Navegações e Colonização"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Leia o texto e o gráfico para responder às questões de 15 a 17.\n\nSegundo estudiosos, pode ter sido em São Paulo que a pizza assumiu a cara de um prato familiar que pode servir mais de uma pessoa, sendo caracterizado, normalmente, como um disco de 35 cm de diâmetro; ao contrário da pizza de Nápoles, sua ancestral, que é um prato individual feito com um diâmetro médio de 28,5 cm.\nO gráfico mostra as preferências dos paulistanos em relação à pizza.\n\nAdmita que, em um sábado, 45 % dos paulistanos pediram uma pizza da sua cobertura predileta.\nPode-se dizer que, nesse dia, a cada 100 paulistanos, aproximadamente N pessoas pediram uma pizza cuja cobertura predileta é portuguesa.\nAssinale a alternativa que apresenta o número inteiro que mais se aproxima de N.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "5"
+        },
+        {
+          "letra": "C",
+          "texto": "8"
+        },
+        {
+          "letra": "D",
+          "texto": "11"
+        },
+        {
+          "letra": "E",
+          "texto": "13"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Leia o texto e o gráfico para responder às questões de 15 a 17.\n\nSegundo estudiosos, pode ter sido em São Paulo que a pizza assumiu a cara de um prato familiar que pode servir mais de uma pessoa, sendo caracterizado, normalmente, como um disco de 35 cm de diâmetro; ao contrário da pizza de Nápoles, sua ancestral, que é um prato individual feito com um diâmetro médio de 28,5 cm.\nO gráfico mostra as preferências dos paulistanos em relação à pizza.\n\nAo analisar os dados numéricos do gráfico, é correto afirmar, sobre eles, que a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "média é maior que a moda."
+        },
+        {
+          "letra": "B",
+          "texto": "moda é igual a 17,7 %."
+        },
+        {
+          "letra": "C",
+          "texto": "moda é maior que a mediana."
+        },
+        {
+          "letra": "D",
+          "texto": "mediana é igual a 14,7 %."
+        },
+        {
+          "letra": "E",
+          "texto": "mediana é maior que a média."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Estatística"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Leia o texto e o gráfico para responder às questões de 15 a 17.\n\nSegundo estudiosos, pode ter sido em São Paulo que a pizza assumiu a cara de um prato familiar que pode servir mais de uma pessoa, sendo caracterizado, normalmente, como um disco de 35 cm de diâmetro; ao contrário da pizza de Nápoles, sua ancestral, que é um prato individual feito com um diâmetro médio de 28,5 cm.\nO gráfico mostra as preferências dos paulistanos em relação à pizza.\n\nAo se comparar a área de um disco de pizza de São Paulo à área de um disco de pizza de Nápoles, percebemos que o primeiro excede o segundo.\nAdotando $\\pi = 3$, é possível concluir corretamente que a diferença entre as áreas calculadas é, em cm², aproximadamente, de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6,51."
+        },
+        {
+          "letra": "B",
+          "texto": "9,75."
+        },
+        {
+          "letra": "C",
+          "texto": "19,50."
+        },
+        {
+          "letra": "D",
+          "texto": "103,19."
+        },
+        {
+          "letra": "E",
+          "texto": "309,56."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Em uma feira livre, um cliente percebeu que os feirantes organizaram suas barracas numerando-as.\nNa primeira barraca, era comercializada banana; na segunda, vendia-se coco; a terceira ainda estava sendo montada; na quarta, negociavam-se especiarias; e, na quinta, revendiam-se flores.\nConsidere que as barracas, nessa feira, distribuíram os produtos comercializados seguindo uma sequência lógica e que nenhuma barraca vende o mesmo produto que a outra.\nÉ correto afirmar que, dentre as opções relacionadas nas alternativas e obedecendo a sequência lógica mencionada, os produtos que poderiam ser comercializados pela terceira barraca são",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "abacaxis."
+        },
+        {
+          "letra": "B",
+          "texto": "doces."
+        },
+        {
+          "letra": "C",
+          "texto": "hortaliças."
+        },
+        {
+          "letra": "D",
+          "texto": "legumes."
+        },
+        {
+          "letra": "E",
+          "texto": "tubérculos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Raciocínio Lógico"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Uma especialidade da gastronomia brasileira é o acarajé: bolinho feito de massa de feijão fradinho, cebola, sal e outros temperos, frito no azeite de dendê. Ele é considerado por muitos como uma comida sagrada. Por este motivo, sua receita, além de não poder ser modificada, deve ser preparada pelas filhas-de-santo.\n<https://tinyurl.com/5e7ydhww> Acesso em: 09.03.2023. Adaptado.\n\nO bolinho e a religiosidade relacionada a ele remetem",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à vinda de povos árabes que, no final do século XIX, fugiram de perseguições religiosas e tornaram-se mascates nas grandes cidades e nas fazendas do interior do país."
+        },
+        {
+          "letra": "B",
+          "texto": "à chegada do primeiro grupo de imigrantes japoneses, no início do século XX, na fazenda Santo Antônio, onde se cultivava feijão para a produção de bolinhos doces e salgados."
+        },
+        {
+          "letra": "C",
+          "texto": "aos deslocamentos dos tropeiros, que percorriam as estradas transportando carne seca para os moradores das regiões de extração de ouro e diamantes em Minas Gerais."
+        },
+        {
+          "letra": "D",
+          "texto": "à escravização de pessoas africanas para a produção de açúcar, a mineração de ouro e o plantio de café, entre outros, nos períodos colonial e imperial da história do Brasil."
+        },
+        {
+          "letra": "E",
+          "texto": "à intensa imigração de mexicanos, em 1848, motivada pelo Tratado de Guadalupe Hidalgo, que trouxe para o Brasil pratos típicos à base de feijão, como o taco."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Cultura Afro-Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Todos os dias, Alex e sua família consomem, exatamente, 500 mililitros de leite no café da manhã e 250 mililitros durante o lanche da tarde. Visando economizar, eles decidiram comprar, em um mercado, uma embalagem fechada contendo 12 unidades de leite, cada unidade com 1 litro.\nEm uma segunda-feira, antes do café da manhã, Alex descobriu que o leite tinha acabado e, então, decidiu abrir a embalagem adquirida no mercado.\nAssinale a alternativa que apresenta, corretamente, o dia da semana em que a família terminará de consumir todas as unidades de leite da embalagem comprada.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Sexta-feira"
+        },
+        {
+          "letra": "B",
+          "texto": "Sábado"
+        },
+        {
+          "letra": "C",
+          "texto": "Domingo"
+        },
+        {
+          "letra": "D",
+          "texto": "Segunda-feira"
+        },
+        {
+          "letra": "E",
+          "texto": "Terça-feira"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Leia o texto para responder às questões de 21 a 23.\n\nFoi um tempo difícil. Meu pai se referia àquele período como (I) a pior seca desde 1932. Aquele também foi o último ano em que vi uma plantação extensa de arroz naquelas terras. O arroz, dependente de água, foi o primeiro a secar com a estiagem. Depois secaram a cana, as vagens de feijão, os umbuzeiros, os pés de tomates, de quiabo e de abóbora. Havia uma reserva de grãos guardada em casa e no galpão da fazenda. Com a seca, veio o medo de que nos mandassem embora por (II) falta de trabalho. Depois veio o medo mais imediato da fome. Os grãos passaram a rarear, o feijão acabou antes do arroz, e do arroz restava muito pouco. Havia um razoável suprimento de farinha de mandioca que algumas famílias fabricavam e trocavam por outros alimentos. Agora, mais que antes, seguíamos quase todos os dias para (III) os rios para pescar, e a cada pescaria só conseguíamos capturar peixes cada vez menores, que só serviam para dar um gosto ao angu de farinha. (...)\nDisputamos a palma com o gado da fazenda. Havia uma parcela de terra destinada ao seu plantio. O cacto que (IV) se destinava à nossa alimentação estava em nossos quintais. Quem não foi previdente em ter sua própria plantação de palma, que acabaria com o passar dos meses, tinha que contar com a solidariedade de um vizinho para (V) garantir o cortado na mesa, guisado no azeite de dendê.\nVieira Jr., Itamar. Torto arado. Todavia, pp. 67-68. [versão e-reader]. Adaptado.\n\nHá, na passagem apresentada, diversos elementos de coesão responsáveis pela conexão das informações contidas no texto.\nÉ correto afirmar, após analisar os conectivos destacados no texto, que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“como” (I) é conjunção e expressa relação de causa, podendo ser substituída por “conforme”."
+        },
+        {
+          "letra": "B",
+          "texto": "“por” (II) é preposição e expressa relação de consequência, podendo ser substituída por “por causa de”."
+        },
+        {
+          "letra": "C",
+          "texto": "“para” (III) é preposição e expressa ideia de origem, podendo ser substituída por “de”."
+        },
+        {
+          "letra": "D",
+          "texto": "“que” (IV) é pronome e retoma o substantivo “o cacto”, podendo ser substituído por “cujo”."
+        },
+        {
+          "letra": "E",
+          "texto": "“para” (V) é preposição e expressa finalidade, podendo ser substituída por “a fim de”."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Coesão e Coerência"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Leia o texto para responder às questões de 21 a 23.\n\nFoi um tempo difícil. Meu pai se referia àquele período como (I) a pior seca desde 1932. Aquele também foi o último ano em que vi uma plantação extensa de arroz naquelas terras. O arroz, dependente de água, foi o primeiro a secar com a estiagem. Depois secaram a cana, as vagens de feijão, os umbuzeiros, os pés de tomates, de quiabo e de abóbora. Havia uma reserva de grãos guardada em casa e no galpão da fazenda. Com a seca, veio o medo de que nos mandassem embora por (II) falta de trabalho. Depois veio o medo mais imediato da fome. Os grãos passaram a rarear, o feijão acabou antes do arroz, e do arroz restava muito pouco. Havia um razoável suprimento de farinha de mandioca que algumas famílias fabricavam e trocavam por outros alimentos. Agora, mais que antes, seguíamos quase todos os dias para (III) os rios para pescar, e a cada pescaria só conseguíamos capturar peixes cada vez menores, que só serviam para dar um gosto ao angu de farinha. (...)\nDisputamos a palma com o gado da fazenda. Havia uma parcela de terra destinada ao seu plantio. O cacto que (IV) se destinava à nossa alimentação estava em nossos quintais. Quem não foi previdente em ter sua própria plantação de palma, que acabaria com o passar dos meses, tinha que contar com a solidariedade de um vizinho para (V) garantir o cortado na mesa, guisado no azeite de dendê.\nVieira Jr., Itamar. Torto arado. Todavia, pp. 67-68. [versão e-reader]. Adaptado.\n\nSobre o texto, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o armazenamento de alimentos perecíveis, como grãos, junto à certeza da permanência no emprego, garantiu a sobrevivência e o bem-estar dos trabalhadores."
+        },
+        {
+          "letra": "B",
+          "texto": "a crise enfrentada fez com que os moradores do local esgotassem as riquezas naturais da floresta, levando, consequentemente, à exaustão das águas de rios e mares."
+        },
+        {
+          "letra": "C",
+          "texto": "a narrativa segue a ordem cronológica e retrata o agravamento da crise cujo ápice se dá quando se recorre ao consumo de alimento destinado aos animais."
+        },
+        {
+          "letra": "D",
+          "texto": "o narrador, que não participa da história, retrata um momento difícil da vivência de sua comunidade devido à fome gerada pela seca."
+        },
+        {
+          "letra": "E",
+          "texto": "a produção de feijão e umbu, por ser destinada ao consumo doméstico dos trabalhadores, resistiu ao período de estiagem."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Leia o texto para responder às questões de 21 a 23.\n\nFoi um tempo difícil. Meu pai se referia àquele período como (I) a pior seca desde 1932. Aquele também foi o último ano em que vi uma plantação extensa de arroz naquelas terras. O arroz, dependente de água, foi o primeiro a secar com a estiagem. Depois secaram a cana, as vagens de feijão, os umbuzeiros, os pés de tomates, de quiabo e de abóbora. Havia uma reserva de grãos guardada em casa e no galpão da fazenda. Com a seca, veio o medo de que nos mandassem embora por (II) falta de trabalho. Depois veio o medo mais imediato da fome. Os grãos passaram a rarear, o feijão acabou antes do arroz, e do arroz restava muito pouco. Havia um razoável suprimento de farinha de mandioca que algumas famílias fabricavam e trocavam por outros alimentos. Agora, mais que antes, seguíamos quase todos os dias para (III) os rios para pescar, e a cada pescaria só conseguíamos capturar peixes cada vez menores, que só serviam para dar um gosto ao angu de farinha. (...)\nDisputamos a palma com o gado da fazenda. Havia uma parcela de terra destinada ao seu plantio. O cacto que (IV) se destinava à nossa alimentação estava em nossos quintais. Quem não foi previdente em ter sua própria plantação de palma, que acabaria com o passar dos meses, tinha que contar com a solidariedade de um vizinho para (V) garantir o cortado na mesa, guisado no azeite de dendê.\nVieira Jr., Itamar. Torto arado. Todavia, pp. 67-68. [versão e-reader]. Adaptado.\n\nNo texto, o vegetal utilizado como alimento para humanos e animais, durante o período da estiagem, caracteriza-se por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "possuir hastes parecidas com as de outros grãos, como aveia, e se adaptar bem a ambientes aquáticos."
+        },
+        {
+          "letra": "B",
+          "texto": "possuir folhas modificadas que evitam a perda de água por transpiração, adaptando-se bem a ambientes secos."
+        },
+        {
+          "letra": "C",
+          "texto": "fornecer sombra devido à copa frondosa e armazenar, em suas raízes, até mil litros de água, sendo seu fruto conhecido como umbu."
+        },
+        {
+          "letra": "D",
+          "texto": "ser um arbusto, cujas raízes, com tecido interno branco ou amarelado, podem ser consumidas ou utilizadas na fabricação de farinha."
+        },
+        {
+          "letra": "E",
+          "texto": "ser uma gramínea com troncos fortes, que podem alcançar até cinco metros de altura e que podem ser utilizados na fabricação de açúcar."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Botânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Analise a charge.\n<https://tinyurl.com/y2c99r6m> Acesso em: 10.03.2023. Original colorido.\n\nA charge utiliza a linguagem verbal e não verbal na construção de uma",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "narrativa sintética, pois estão implícitas as ações desempenhadas pelo personagem cuja biografia representa o sucesso das políticas sociais do país."
+        },
+        {
+          "letra": "B",
+          "texto": "crítica social, pois tematiza a fome na sociedade brasileira, evidenciada pelo prato vazio no lugar da esfera celeste da bandeira nacional."
+        },
+        {
+          "letra": "C",
+          "texto": "descrição mimética, devido à caracterização fiel da realidade vivenciada por cidadãos pobres ao redor do mundo."
+        },
+        {
+          "letra": "D",
+          "texto": "crônica reflexiva, já que o autor evidencia um posicionamento imparcial sobre o aumento da segurança alimentar no Brasil."
+        },
+        {
+          "letra": "E",
+          "texto": "caricatura, pois há uma distorção exagerada de uma realidade individual amplificada grotescamente para gerar humor no leitor."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Gêneros Textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "A partir do século XIV, os períodos de más colheitas tornaram-se frequentes e longos. As fortes chuvas, em quase todas as regiões da Europa, destruíram muitas plantações. O período mais crítico foi de 1314 a 1319. Como consequência, houve um rápido aumento dos preços dos alimentos, principalmente do trigo. Assim, o temido fantasma da fome voltou a ameaçar a população europeia.\nEm Flandres, cerca de 10% da população morreu por inanição. Em Winchester, na Inglaterra, as mortes ocorridas em 1317 atingiram o dobro das registradas em 1310. Na região do Baixo Reno, na França, um cronista relatou que as populações chegaram a se alimentar de animais mortos por doenças, o que teria dado origem a pestes epidêmicas.\nARARIBÁ PLUS: História. 4ª ed. São Paulo: Moderna, 2014. p. 99-100. Adaptado.\n\nSegundo o texto,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a estiagem ocorrida entre 1314 e 1319 possibilitou o aumento da produção e promoveu o desenvolvimento econômico do continente."
+        },
+        {
+          "letra": "B",
+          "texto": "o início do século XIV marcou o fim dos períodos de más colheitas e as fortes chuvas provocaram um aumento da produção agrícola."
+        },
+        {
+          "letra": "C",
+          "texto": "em Winchester, os efeitos da fome não foram sentidos, já que o número de mortos manteve-se o mesmo nos anos de 1310 e 1317."
+        },
+        {
+          "letra": "D",
+          "texto": "em Flandres, um quinto da população morreu por inanição devido ao rápido aumento dos preços dos alimentos, principalmente do trigo."
+        },
+        {
+          "letra": "E",
+          "texto": "na França, a falta de alimentos deu origem a epidemias, já que parte da população se alimentou de animais que morreram doentes."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Idade Média"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Leia o texto para responder às questões de 26 a 28.\n\nWhat is hunger?\nHunger is an uncomfortable or painful physical sensation caused by insufficient consumption of dietary energy. It becomes chronic when the person does not consume a sufficient amount of calories (dietary energy) on a regular basis to lead a normal, active and healthy life. For decades, Food and Agriculture Organization (FAO) has used the Prevalence of Undernourishment indicator to estimate the extent of hunger in the world, thus “hunger” may also be referred to as undernourishment.\nWhat is food insecurity?\nA person is food insecure when they lack regular access to enough safe and nutritious food for normal growth and development and an active and healthy life. This may be due to unavailability of food and/or lack of resources to obtain food. Food insecurity can be experienced at different levels of severity. FAO measures food insecurity using the Food Insecurity Experience Scale (FIES) shown below:\n\nSegundo a Organização das Nações Unidas para a Agricultura e Alimentação (FAO),",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a falta de alimentos nutritivos eleva a fome."
+        },
+        {
+          "letra": "B",
+          "texto": "“fome” e “insegurança alimentar” são sinônimos."
+        },
+        {
+          "letra": "C",
+          "texto": "“fome” e “desnutrição” definem o mesmo conceito."
+        },
+        {
+          "letra": "D",
+          "texto": "a alimentação de baixa caloria leva à insegurança alimentar."
+        },
+        {
+          "letra": "E",
+          "texto": "o comprometimento alimentar implica acesso diário ao alimento."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Leia o texto para responder às questões de 26 a 28.\n\nWhat is hunger?\nHunger is an uncomfortable or painful physical sensation caused by insufficient consumption of dietary energy. It becomes chronic when the person does not consume a sufficient amount of calories (dietary energy) on a regular basis to lead a normal, active and healthy life. For decades, Food and Agriculture Organization (FAO) has used the Prevalence of Undernourishment indicator to estimate the extent of hunger in the world, thus “hunger” may also be referred to as undernourishment.\nWhat is food insecurity?\nA person is food insecure when they lack regular access to enough safe and nutritious food for normal growth and development and an active and healthy life. This may be due to unavailability of food and/or lack of resources to obtain food. Food insecurity can be experienced at different levels of severity. FAO measures food insecurity using the Food Insecurity Experience Scale (FIES) shown below:\n\nConsiderando o infográfico, a insegurança alimentar severa se caracteriza por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "sensação de fome e de desconforto por um dia."
+        },
+        {
+          "letra": "B",
+          "texto": "sensação de desconforto e baixa ingestão de alimentos."
+        },
+        {
+          "letra": "C",
+          "texto": "falta de acesso ao alimento por um dia inteiro várias vezes ao ano."
+        },
+        {
+          "letra": "D",
+          "texto": "baixa ingestão de calorias e ocorrência de apenas uma refeição diária."
+        },
+        {
+          "letra": "E",
+          "texto": "incerteza de ingestão de alimentos calóricos em horários padronizados."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Leia o texto para responder às questões de 26 a 28.\n\nWhat is hunger?\nHunger is an uncomfortable or painful physical sensation caused by insufficient consumption of dietary energy. It becomes chronic when the person does not consume a sufficient amount of calories (dietary energy) on a regular basis to lead a normal, active and healthy life. For decades, Food and Agriculture Organization (FAO) has used the Prevalence of Undernourishment indicator to estimate the extent of hunger in the world, thus “hunger” may also be referred to as undernourishment.\nWhat is food insecurity?\nA person is food insecure when they lack regular access to enough safe and nutritious food for normal growth and development and an active and healthy life. This may be due to unavailability of food and/or lack of resources to obtain food. Food insecurity can be experienced at different levels of severity. FAO measures food insecurity using the Food Insecurity Experience Scale (FIES) shown below:\n\nO vocábulo “lack”, na sentença destacada em negrito no texto, significa",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“ter”."
+        },
+        {
+          "letra": "B",
+          "texto": "“trazer”."
+        },
+        {
+          "letra": "C",
+          "texto": "“manter”."
+        },
+        {
+          "letra": "D",
+          "texto": "“penar”."
+        },
+        {
+          "letra": "E",
+          "texto": "“faltar”."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Leia os provérbios.\nI. Resto de uns, comida de outros.\nII. Quando a comida tarda, a fome é boa mostarda.\nIII. O amor morre mais de indigestão do que de fome.\nIV. A fome é o melhor tempero.\nV. A fome faz sair o lobo do covil.\nAnalisando-os, pode concluir-se corretamente que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "são todos formados por construções nominais cujo sentido se articula por análise do contexto de ocorrência."
+        },
+        {
+          "letra": "B",
+          "texto": "são todos construídos de forma prolixa, usando o presente do indicativo para expressar ações habituais do cotidiano brasileiro."
+        },
+        {
+          "letra": "C",
+          "texto": "os provérbios I e III, embora usem vocabulário relacionado ao universo da alimentação, são metáforas sobre o excesso de expressões sentimentais."
+        },
+        {
+          "letra": "D",
+          "texto": "o provérbio V pode ser parafraseado pela máxima “farinha pouca, meu pirão primeiro”, ambos expressando a cautela necessária em momentos de dificuldades."
+        },
+        {
+          "letra": "E",
+          "texto": "os provérbios II e IV são semelhantes, pois a expressão “comida tarda” aproxima-se semanticamente de “fome” e “boa mostarda”, de “melhor tempero”."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Considere que:\n• oferta é a quantidade de um produto que está disponível para compra, e\n• demanda é a quantidade desse mesmo produto que os consumidores estão dispostos a comprar.\n\nUma pesquisa de mercado definiu duas equações que descrevem matematicamente a oferta e a demanda por um determinado produto:\n• a equação de oferta determinada foi $q_o = 3p + 50$ e relaciona o número de unidades ($q_o$) que vendedores estão dispostos a comercializar em função do preço ($p$), em reais, desse produto; e\n• a equação de demanda foi descrita pela expressão por $q_d = -2p + 500$ que relaciona o número de unidades ($q_d$) que consumidores estão propensos a adquirir em função do mesmo preço ($p$), em reais, desse produto.\n\nO preço que iguala a quantidade ofertada e a quantidade demandada de um produto é denominado preço de equilíbrio de mercado, ou seja, quando $q_o$ e $q_d$ se igualam.\nAssinale a alternativa que apresenta, correta e respectivamente, o preço de equilíbrio de mercado do produto e sua quantidade nessa situação.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 90,00 e 280 unidades"
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 90,00 e 320 unidades"
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 90,00 e 380 unidades"
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 110,00 e 320 unidades"
+        },
+        {
+          "letra": "E",
+          "texto": "R$ 110,00 e 380 unidades"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Funções do 1º grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Um dos componentes do café é a cafeína (fórmula: $C_8H_{10}N_4O_2$), cuja ingestão diária de 9,9 g é letal para adultos. Considere que um adulto ingere diariamente n xícaras de café e que cada xícara contém 180 mg de cafeína.\nCom base no texto, é correto afirmar que o número de elementos químicos presentes na molécula de cafeína e o valor mínimo de n, para que a dose letal seja atingida, são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4 e 55."
+        },
+        {
+          "letra": "B",
+          "texto": "4 e 125."
+        },
+        {
+          "letra": "C",
+          "texto": "24 e 55."
+        },
+        {
+          "letra": "D",
+          "texto": "24 e 125."
+        },
+        {
+          "letra": "E",
+          "texto": "24 e 160."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Grandezas Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "O quadro relaciona algumas variedades de café à quantidade de cafeína contida em cada uma.\nConsidere que uma variedade de café de massa 500 g foi analisada e apresentou 11 g de cafeína.\nCom base no quadro fornecido, é correto afirmar que a variedade de café analisada é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Coffea arabica."
+        },
+        {
+          "letra": "B",
+          "texto": "Coffea excelsa."
+        },
+        {
+          "letra": "C",
+          "texto": "Coffea liberica."
+        },
+        {
+          "letra": "D",
+          "texto": "Coffea canephora."
+        },
+        {
+          "letra": "E",
+          "texto": "Coffea robusta."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Porcentagem em Massa"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "A acidez é uma das características usadas para determinar a qualidade dos diferentes tipos de café. Para definir a acidez dessa bebida, pode-se usar o pH, denominado potencial hidrogeniônico.\nA escala apresenta valores aproximados do pH de diversos materiais a 25 °C.\n\nConsidere que:\n• $pH = -\\log[H^+]$\n• $[H^+] = 10^{-pH}$, sendo $[H^+]$ a concentração em mol/L dos íons $[H^+]$ em solução aquosa\n\nPor exemplo: o ovo tem caráter básico, pois apresenta pH = 8,0. Logo, a $[H^+] = 10^{-8}$ mol/L.\nAnalisando duas amostras de café A e B, constatou-se que a amostra A apresenta $[H^+] = 10^{-4,8}$ mol/L, enquanto a amostra B apresenta $[H^+] = 10^{-4}$ mol/L.\n\nDiante do exposto, pode-se concluir corretamente que a amostra",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "B possui pH = 4,0, sendo mais ácida que o limão."
+        },
+        {
+          "letra": "B",
+          "texto": "B possui pH = 4,8, sendo mais ácida que o tomate."
+        },
+        {
+          "letra": "C",
+          "texto": "A possui pH = 4,0, sendo mais ácida que o leite."
+        },
+        {
+          "letra": "D",
+          "texto": "A possui pH = 4,8, sendo mais ácida que o tomate."
+        },
+        {
+          "letra": "E",
+          "texto": "A possui pH = 4,8, sendo mais ácida que o leite."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – pH e pOH"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "As algas podem ser encontradas nos mais variados ambientes, como em oceanos, rios, lagos e até em troncos de árvores onde se associam com outros seres vivos para garantir a sua sobrevivência. Elas são utilizadas na fabricação de bebidas, tintas, fertilizantes, rações para animais, cosméticos e outros produtos.\nNa alimentação, as algas são consideradas alimentos funcionais, pois são fontes de minerais, de vitaminas, de ácidos graxos ômega-3 e de fibras alimentares solúveis, além de compostos bioativos com potencial efeito na saúde.\nNo setor agroalimentar, o cultivo das algas oceânicas oferece uma série de vantagens sobre plantas terrestres, pois\n• as algas crescem e se multiplicam rapidamente;\n• não precisam de fertilizantes artificiais, já que absorvem nutrientes resultantes da decomposição de matéria orgânica existente na água;\n• absorvem, por meio da fotossíntese, o dióxido de carbono da água, sendo uma das principais fontes do gás oxigênio presente na atmosfera; e\n• ajudam a combater a acidificação dos oceanos.\nUmas das preocupações com o aumento do consumo das algas é a possibilidade de elas acumularem metais pesados, presentes no ambiente aquático contaminado, e que são altamente tóxicos para os organismos, como arsênio, chumbo, cádmio e mercúrio.\nBaseado no texto, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as algas, apesar de seu elevado valor nutricional, não servem de alimento para os seres vivos, pois são tóxicas e atuam na decomposição da matéria orgânica dos oceanos."
+        },
+        {
+          "letra": "B",
+          "texto": "as algas se multiplicam lentamente, dependem de fertilizantes artificiais para se desenvolverem e possuem grande capacidade de absorver dióxido de carbono do ar atmosférico."
+        },
+        {
+          "letra": "C",
+          "texto": "o cultivo de algas oceânicas não precisa de terras férteis, ao contrário da agricultura tradicional, pois as algas obtêm da água os nutrientes necessários para o desenvolvimento delas."
+        },
+        {
+          "letra": "D",
+          "texto": "as algas oceânicas usam os metais pesados, provenientes do meio ambiente, para realizar a síntese de compostos orgânicos de elevado valor nutricional e para liberar o gás oxigênio no ambiente."
+        },
+        {
+          "letra": "E",
+          "texto": "o cultivo de algas ricas em metais pesados, cujo consumo é essencial ao organismo humano, tende a aumentar, porque elas são importantes fontes de vitaminas, minerais, arsênio, chumbo, mercúrio e ácidos graxos ômega-3."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Algas e Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Em uma cesta básica, há 10 itens:\n+ 4 tipos de grãos (feijão, arroz, milho e lentilha);\n+ 3 tipos de farináceos (fubá, farinha de trigo e farinha de mandioca);\n+ 2 doces (gelatina e goiabada); e\n+ 1 sal.\nÉ correto afirmar que, se uma pessoa retirar, ao acaso e sem olhar, apenas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4 itens, 2 pertencerão à categoria grãos."
+        },
+        {
+          "letra": "B",
+          "texto": "5 itens, pelo menos um deles será um farináceo."
+        },
+        {
+          "letra": "C",
+          "texto": "6 itens, teremos produtos de três categorias diferentes."
+        },
+        {
+          "letra": "D",
+          "texto": "7 itens, pelo menos um deles será um grão."
+        },
+        {
+          "letra": "E",
+          "texto": "8 itens, pelo menos um deles será um doce."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Princípio da Casa dos Pombos"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Leia o texto para responder às questões 36 e 37.\n\nNo Brasil, a Instrução Normativa – IN Nº 95, de 8 de outubro de 2020, estabelece os requisitos técnicos para declaração da rotulagem nutricional nos alimentos embalados. Estão presentes, nos anexos desta resolução, os valores diários de referência de nutrientes de declaração obrigatória, apresentados parcialmente na tabela 1. Esses valores indicam a quantidade máxima recomendada de ingestão de um determinado nutriente em um dia.\nA tabela 2 apresenta os valores nutricionais de uma porção do milho painço.\n\nLeia o texto e assinale a alternativa cujos termos completam, correta e respectivamente, as lacunas.\n\nAo consumir uma porção de milho painço, uma pessoa ingere substâncias relacionadas ao armazenamento de energia, (I), que agem como um importante isolante térmico. Nessa porção, elas correspondem a, aproximadamente, (II) % do total diário recomendado.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Proteínas | 10,8"
+        },
+        {
+          "letra": "B",
+          "texto": "Carboidratos | 10,0"
+        },
+        {
+          "letra": "C",
+          "texto": "Gorduras | 10,8"
+        },
+        {
+          "letra": "D",
+          "texto": "Carboidratos | 2,8"
+        },
+        {
+          "letra": "E",
+          "texto": "Gorduras | 2,8"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Bioquímica e Nutrição"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Leia o texto para responder às questões 36 e 37.\n\nNo Brasil, a Instrução Normativa – IN Nº 95, de 8 de outubro de 2020, estabelece os requisitos técnicos para declaração da rotulagem nutricional nos alimentos embalados. Estão presentes, nos anexos desta resolução, os valores diários de referência de nutrientes de declaração obrigatória, apresentados parcialmente na tabela 1. Esses valores indicam a quantidade máxima recomendada de ingestão de um determinado nutriente em um dia.\nA tabela 2 apresenta os valores nutricionais de uma porção do milho painço.\n\nA quantidade de energia que os alimentos digeridos no tubo digestório humano fornecem ao organismo é, geralmente, medida em quilocalorias (kcal).\nPara o cálculo da quantidade de quilocalorias de alguns alimentos, é importante saber que 1 g de carboidrato ou de proteína fornece cerca de 4 kcal, enquanto 1 g de lipídio fornece cerca de 9 kcal.\nLogo, a quantidade de energia, em kcal, que uma pessoa obtém, ao ingerir uma porção de milho painço igual à descrita na Tabela 2, corresponde a cerca de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "158."
+        },
+        {
+          "letra": "B",
+          "texto": "176."
+        },
+        {
+          "letra": "C",
+          "texto": "185."
+        },
+        {
+          "letra": "D",
+          "texto": "299."
+        },
+        {
+          "letra": "E",
+          "texto": "308."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Termoquímica",
+        "Biologia – Metabolismo Energético"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Em 2023, a Organização das Nações Unidas promove o Ano Internacional do Milho Painço (IYM 2023). Ele é fonte de alimentação para milhões de pessoas no mundo.\nEspera-se que o IYM 2023 seja uma oportunidade para promover a produção do milho painço e destacar seu potencial para criar um mercado sustentável.\nAssinale a alternativa que contém a negação lógica da frase destacada em negrito no texto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "não promover a produção do milho painço ou não destacar seu potencial para criar um mercado sustentável."
+        },
+        {
+          "letra": "B",
+          "texto": "não promover a produção do milho painço e não destacar seu potencial para criar um mercado sustentável."
+        },
+        {
+          "letra": "C",
+          "texto": "não promover a produção do milho painço ou destacar seu potencial para criar um mercado sustentável."
+        },
+        {
+          "letra": "D",
+          "texto": "não promover a produção do milho painço e destacar seu potencial para criar um mercado sustentável."
+        },
+        {
+          "letra": "E",
+          "texto": "promover a produção do milho painço ou não destacar seu potencial para criar um mercado sustentável."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Lógica Proposicional"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Considere a imagem de uma embalagem para responder às questões de 39 a 41.\n\nSample Label for Frozen Lasagna\nNutrition Facts\n4 servings per container\nServing size 1 cup (227 g)\nAmount per serving\nCalories 280\n% Daily Value*\nTotal Fat 9 g 12%\nSaturated Fat 4.5 g 23%\nTrans Fat 0 g\nCholesterol 35 mg 12%\nSodium 850 mg 37%\nTotal Carbohydrate 34 g 12%\nDietary Fiber 4 g 14%\nTotal Sugars 6 g\nIncludes 0 g Added Sugars 0%\nProtein 15 g\nVitamin D 0 mg 0%\nCalcium 320 mg 25%\nIron 1.6 mg 8%\nPotassium 510 mg 10%\n*The % Daily Value (DV) tells you how much a nutrient in a serving of food contributes to a daily diet 2,000 calories a day is used for general nutrition advice.\n\n(1) Serving Information\n(2) Calories\n(3) Quick Guide to percent Daily Value (% DV)\n• 5% or less is low\n• 20% or less is high\n(4) Nutrients\n\nA partir da leitura da imagem, pode concluir-se corretamente que uma porção desse produto",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "possui alto teor de açúcar, sódio e nutrientes."
+        },
+        {
+          "letra": "B",
+          "texto": "corresponde a 454 g do alimento."
+        },
+        {
+          "letra": "C",
+          "texto": "possui uma quantidade baixa de gorduras saturadas."
+        },
+        {
+          "letra": "D",
+          "texto": "oferece todas as vitaminas para uma dieta diária saudável."
+        },
+        {
+          "letra": "E",
+          "texto": "possui teor de sódio superior ao recomendado."
+        }
+      ],
+      "opcaoCorreta": "ANULADA",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Considere a imagem de uma embalagem para responder às questões de 39 a 41.\n\nEm uma tabela nutricional, como a apresentada, a quantidade de energia expressa em calorias é obtida, experimentalmente, utilizando-se um recipiente denominado “calorímetro de combustão” (figura).\nPara que isso ocorra, uma certa amostra do alimento (ou seja, uma massa) entra em combustão dentro de uma cápsula fechada, imersa em um recipiente termicamente isolado, o qual contém um termômetro e uma determinada massa de água pura. Durante a combustão há transferência de energia para a água (calor). Consequentemente, observa-se a variação de temperatura da água por meio dos dados do calor específico (c) da água, de sua massa (m), sendo possível prever a quantidade (Q) de energia trocada.\nSuponha que, para a construção da tabela nutricional apresentada, o experimento foi montado utilizando uma massa de água pura que é igual à massa da porção do alimento da tabela.\nConsiderando as informações descritas e os dados contidos na tabela nutricional, assinale a alternativa que apresenta, correta e aproximadamente, a variação de temperatura ($\\Delta\\Theta$), em °C, observada no termômetro.\nLembre-se de que:\n$Q = m \\cdot c \\cdot \\Delta\\Theta$\n$c_{H_2O} = 1 \\text{ cal/g} \\cdot \\text{°C}$",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,50"
+        },
+        {
+          "letra": "B",
+          "texto": "1,23"
+        },
+        {
+          "letra": "C",
+          "texto": "1,00"
+        },
+        {
+          "letra": "D",
+          "texto": "0,81"
+        },
+        {
+          "letra": "E",
+          "texto": "0,60"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Calorimetria"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "A lasanha apresenta, em sua composição, os cátions sódio ($Na^+$), cálcio ($Ca^{2+}$), ferro ($Fe^{3+}$) e potássio ($K^+$).\nA respeito desses cátions, é correto afirmar que\n\nConsidere que\nElemento Químico | Número Atômico (Z) | Número de massa (A)\nNa | 11 | 23\nCa | 20 | 40\nFe | 26 | 56\nK | 19 | 40",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o número de elétrons do $Ca^{2+}$ é o mesmo do $K^+$."
+        },
+        {
+          "letra": "B",
+          "texto": "o número de nêutrons do $Fe^{3+}$ é 29."
+        },
+        {
+          "letra": "C",
+          "texto": "o número de elétrons do $Na^+$ é 11."
+        },
+        {
+          "letra": "D",
+          "texto": "o número de massa do $K^+$ é 19."
+        },
+        {
+          "letra": "E",
+          "texto": "o número atômico do $Ca^{2+}$ é o mesmo do $K^+$."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Atomística"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Há uma variedade de técnicas, amplamente utilizadas na indústria, que conservam os alimentos por mais tempo. Essas técnicas são métodos de conservação, pois impedem as alterações microbianas, enzimáticas, químicas e físicas dos produtos nutricionais.\n<https://tinyurl.com/2p94rdkt> Acesso em: 07.03.2023. Adaptado.\n\nEm relação a essas técnicas, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a pasteurização expõe os alimentos à fumaça, produzida pela combustão incompleta da madeira, a fim de inibir a ação de micro-organismos patogênicos."
+        },
+        {
+          "letra": "B",
+          "texto": "o branqueamento reduz o pH, conferindo um gosto ácido aos alimentos, o que provoca a desnaturação das proteínas e dificulta o desenvolvimento microbiano."
+        },
+        {
+          "letra": "C",
+          "texto": "a liofilização é a desidratação de alimentos por congelamento, processo em que o gelo formado é sublimado, aumentando o tempo de conservação do produto pela retirada da água."
+        },
+        {
+          "letra": "D",
+          "texto": "a fermentação é um tratamento químico dos alimentos, no qual se eleva a temperatura a mais de 100 °C e, posteriormente, os alimentos são resfriados a fim de eliminar os micro-organismos."
+        },
+        {
+          "letra": "E",
+          "texto": "a defumação consiste na imersão do alimento em água fervente para promover um cozimento rápido, e, em seguida, sua imersão em um recipiente com água gelada."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Tecnologia de Alimentos",
+        "Química – Conservação de Alimentos"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Leia o texto para responder às questões 43 e 44.\n\nO sal e o açúcar são agentes conservantes utilizados em produtos que consumimos.\nA conservação pelo uso do açúcar é empregada em frutas ao preparar geleias, conservas e cristalizações. Em alta concentração, esse composto possui efeito desidratante, pois ocasiona aumento da pressão osmótica no interior da fruta, o que dificulta o desenvolvimento de bactérias, bolores e leveduras.\nDo mesmo modo, soluções com altas concentrações salinas fazem os micro-organismos presentes morrerem por desidratação. Este processo é conhecido por salga ou salmoura e é eficiente do ponto de vista microbiológico, porém não evita a degradação química. Em alguns alimentos, como na carne seca, com o passar do tempo, ocorrem reações de oxidação das gorduras que conferem sabor de ranço ao alimento.\n<https://tinyurl.com/3mbdv42>. Acesso em: 05.03.2023. Adaptado.\n\nDe acordo com o texto, é correto afirmar que, quando entram em contato com soluções cujas concentrações salinas são altas, os micro-organismos",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "perdem água por osmose, pois o meio externo é hipertônico."
+        },
+        {
+          "letra": "B",
+          "texto": "perdem água por osmose, pois o meio externo é hipotônico."
+        },
+        {
+          "letra": "C",
+          "texto": "perdem água por difusão, pois o meio externo é hipertônico."
+        },
+        {
+          "letra": "D",
+          "texto": "ganham água por difusão, pois o meio externo é hipotônico."
+        },
+        {
+          "letra": "E",
+          "texto": "ganham água por difusão, pois o meio externo é hipertônico."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Osmose",
+        "Biologia – Biologia Celular"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "A imagem apresenta um enigma, no qual cada palavra destacada em negrito no texto está representada em uma linha horizontal; e, nele, os símbolos iguais indicam letras iguais.\nAo solucionar o enigma, uma palavra relacionada à alimentação surgirá na coluna em destaque.\nAssinale a alternativa que contém a versão correta, em inglês, da palavra formada na coluna destacada.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "comid"
+        },
+        {
+          "letra": "B",
+          "texto": "food"
+        },
+        {
+          "letra": "C",
+          "texto": "meet"
+        },
+        {
+          "letra": "D",
+          "texto": "meat"
+        },
+        {
+          "letra": "E",
+          "texto": "sugar"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "As evoluções tecnológicas estão transformando a maneira como a agricultura tem sido praticada. Um desses exemplos é o uso de sensores digitais. Por intermédio deles, pulverizadores podem atingir alvos, como, por exemplo, plantas daninhas, evitando o desperdício de princípio ativo em plantas não alvo.\nO monitoramento de pulverização tratorizada por GPS permite a pulverização certeira e evita a sobreposição de pulverização na mesma área, e já é uma realidade na agricultura brasileira.\nJá se usam, no Brasil, sensores de colheita que monitoram a produtividade do que está sendo colhido em tempo real, gerando mapas de produtividade. Esses mapas podem ser cruzados com mapas de análise de solo, e auxiliar nas tomadas de decisão sobre o uso de fertilizantes para as próximas safras.\n<https://tinyurl.com/7r7e47em> Acesso em: 24.03.2023. Adaptado.\n\nSobre o uso das tecnologias nos processos produtivos agrícolas, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o gado de corte, no Rio Grande do Sul, é abatido com base nos sensores de umidade do solo presos aos cascos dos animais."
+        },
+        {
+          "letra": "B",
+          "texto": "o monitoramento da irrigação é fundamental para as plantações de trigo, no Acre, devido à escassez de água nesse estado."
+        },
+        {
+          "letra": "C",
+          "texto": "já é possível, no Brasil, saber o quanto está sendo colhido em tempo real, utilizando-se de sensores de colheita."
+        },
+        {
+          "letra": "D",
+          "texto": "as lavouras de subsistência, no interior do Nordeste, utilizam o GPS e os drones para a pulverização de agrotóxicos."
+        },
+        {
+          "letra": "E",
+          "texto": "já se utilizavam, no Brasil Colônia, os sensores eletrônicos para pulverizar as lavouras de cana-de-açúcar."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Agricultura de Precisão"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "A técnica da calagem é utilizada para diminuir a acidez do solo, ou seja, aumentar seu pH, além de fornecer cálcio e magnésio para as plantas.\nEssa técnica consiste em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pulverizar as plantas com herbicidas."
+        },
+        {
+          "letra": "B",
+          "texto": "misturar cloreto de sódio ao adubo."
+        },
+        {
+          "letra": "C",
+          "texto": "aumentar o uso de cloro no solo."
+        },
+        {
+          "letra": "D",
+          "texto": "incorporar antioxidantes à terra."
+        },
+        {
+          "letra": "E",
+          "texto": "adicionar calcário ao solo."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Solos e Agricultura",
+        "Química – Química do Solo"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "O Frontier é o novo computador mais rápido do mundo. Equipado com processadores AMD EPYC 64C 2 GHz e somando 8 730 112 núcleos, o sistema atingiu pontuação de 1 102 exaflop/s no benchmark HPL (High Performance Linpack). Esses números tornam o Frontier a primeira máquina efetivamente “exascale” da história, já que é capaz de executar a marca de um quintilhão de cálculos por segundo.\n<https://tinyurl.com/yp67dtv8> Acesso em: 15.02.2023.\n\nEm computação e sistemas, flop/s ou FLOPS (Floating-point Operations Per Second) é uma unidade de medida usada para analisar desempenho de máquinas como a exemplificada no texto.\nCom base nos conceitos da Física, é correto afirmar que a unidade de medida FLOPS refere-se à grandeza física conhecida como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aceleração."
+        },
+        {
+          "letra": "B",
+          "texto": "frequência."
+        },
+        {
+          "letra": "C",
+          "texto": "precisão."
+        },
+        {
+          "letra": "D",
+          "texto": "radiação."
+        },
+        {
+          "letra": "E",
+          "texto": "velocidade."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Grandezas Físicas e Unidades"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Leia o texto para responder às questões 48 e 49.\n\nPara se aprofundar nos estudos, um estudante do curso de Análise e Desenvolvimento de Sistemas da FATEC resolve testar uma ferramenta de Inteligência Artificial (IA) interativa, pré-treinada e geradora de respostas. Ele pede à IA que elabore um exercício de Física que envolve sustentabilidade e entrega de comida.\nA IA, então, retorna para o estudante um determinado enunciado cujas informações são apresentadas no quadro.\n• Tempo médio percorrido para a entrega: t = 15 minutos = 900 segundos\n• Velocidade escalar média da moto elétrica do entregador: v = 10 m/s\n• Carga elétrica da bateria da moto: Q = 20 kWh\n\nApós receber o exercício, o estudante identifica um erro.\nAnalisando os dados, é correto afirmar que o erro identificado se refere",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ao fato de que motos elétricas não usam baterias elétricas."
+        },
+        {
+          "letra": "B",
+          "texto": "à unidade de medida da carga elétrica da bateria."
+        },
+        {
+          "letra": "C",
+          "texto": "ao fato de que a velocidade de uma moto elétrica é medida em km/h."
+        },
+        {
+          "letra": "D",
+          "texto": "à conversão da unidade de 15 minutos para 900 segundos."
+        },
+        {
+          "letra": "E",
+          "texto": "ao fato de entregadores não usarem motos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Eletricidade e Unidades de Medida"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Leia o texto para responder às questões 48 e 49.\n\nPara se aprofundar nos estudos, um estudante do curso de Análise e Desenvolvimento de Sistemas da FATEC resolve testar uma ferramenta de Inteligência Artificial (IA) interativa, pré-treinada e geradora de respostas. Ele pede à IA que elabore um exercício de Física que envolve sustentabilidade e entrega de comida.\nA IA, então, retorna para o estudante um determinado enunciado cujas informações são apresentadas no quadro.\n• Tempo médio percorrido para a entrega: t = 15 minutos = 900 segundos\n• Velocidade escalar média da moto elétrica do entregador: v = 10 m/s\n• Carga elétrica da bateria da moto: Q = 20 kWh\n\nO estudante percebeu que, apesar do erro, poderia ainda utilizar os dados fornecidos pela IA para determinar a distância percorrida pelo entregador.\nApós fazer os cálculos, ele descobriu que, no tempo apresentado, o entregador percorreu, em km, a distância de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15,0."
+        },
+        {
+          "letra": "B",
+          "texto": "13,5."
+        },
+        {
+          "letra": "C",
+          "texto": "10,0."
+        },
+        {
+          "letra": "D",
+          "texto": "9,0."
+        },
+        {
+          "letra": "E",
+          "texto": "2,0."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Ciência e Tecnologia de Alimentos (CTA) é a área do conhecimento voltada para o processamento dos alimentos, da colheita ou do abate até à prateleira do supermercado. Ela lida com o desenvolvimento dos produtos, a escolha do material no qual serão embalados, os aditivos que devem ou não ser utilizados, a análise da qualidade dos alimentos e a data de vencimento.\nCom o incremento cada vez maior das indústrias alimentícias e das técnicas de produção, a avaliação da qualidade da comida servida à população passou a demandar processos mais sofisticados e desenvolvidos, os quais impedem que alimentos sem qualidade parem na mesa da população. Muitas das questões dessa ciência estão relacionadas à Agronomia, à Nutrição e à Medicina e, hoje, esse conhecimento é essencial à saúde pública. A maioria dos países possui órgãos especialmente dedicados à regulamentação alimentícia.\n<https://tinyurl.com/3x9vfcy2> Acesso em: 16.03.2023. Adaptado.\n\nDe acordo com o texto, é correto afirmar que a CTA",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "contribui para a diminuição do número de indústrias alimentícias presentes no Brasil."
+        },
+        {
+          "letra": "B",
+          "texto": "impede que produtos sem qualidade cheguem à mesa dos brasileiros, livrando-os da fome."
+        },
+        {
+          "letra": "C",
+          "texto": "assumiu a responsabilidade sobre a saúde pública no Brasil, em substituição ao Ministério da Saúde."
+        },
+        {
+          "letra": "D",
+          "texto": "é uma área do conhecimento a qual pensa sobre a qualidade dos alimentos consumidos pelas pessoas."
+        },
+        {
+          "letra": "E",
+          "texto": "rivaliza com a Medicina e com a Agronomia, pois questiona pesquisas consolidadas dessas áreas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Tecnologia de Alimentos"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "O azeite de oliva é um óleo extraído da polpa da azeitona, que é um fruto oriundo da oliveira. As oliveiras são árvores cultivadas desde aproximadamente 3 500 a.C.. Egípcios, gregos e romanos utilizaram o azeite não apenas como alimento, mas também como combustível em lamparinas e como oferendas em rituais.\nNo azeite de oliva, encontramos diversos tipos de ácidos graxos insaturados.\nÁcidos graxos insaturados são ácidos carboxílicos de cadeia longa que apresentam ligação dupla (insaturação) entre átomos de carbono.\nO principal ácido graxo insaturado encontrado no azeite é o ácido oleico, cuja fórmula estrutural apresenta:\n• 18 átomos de carbono; e\n• uma insaturação entre os carbonos 9 e 10, contados a partir do átomo de carbono que está localizado na ponta da cadeia e que está ligado aos átomos de oxigênio.\nCom base no texto, assinale a alternativa que apresenta corretamente o período histórico mencionado no texto e a fórmula estrutural do ácido oleico.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Idade Antiga\n$CH_3-CH_2-CH_2-CH_2-CH_2-CH_2-CH_2-CH_2-CH=CH-CH_2-CH_2-CH_2-CH_2-CH_2-CH_2-CH_2-C(O)OH$"
+        },
+        {
+          "letra": "B",
+          "texto": "Idade Antiga\n$CH_3-CH=CH-CH_2-CH_2-CH_2-CH_2-CH_2-CH_2-CH_2-CH_2-CH_2-CH_2-CH_2-CH_2-CH_2-CH_2-C(O)OH$"
+        },
+        {
+          "letra": "C",
+          "texto": "Idade Antiga\n$CH_3-CH_2-CH_2-CH_2-CH_2-CH_2-CH=CH-CH_2-CH_2-CH_2-CH_2-CH_2-CH_2-CH_2-C(O)OH$"
+        },
+        {
+          "letra": "D",
+          "texto": "Idade Média\n$CH_3-CH_2-CH_2-CH_2-CH_2-CH_2-CH_2-CH=CH-CH_2-CH_2-CH_2-CH_2-CH_2-CH_2-C(O)OH$"
+        },
+        {
+          "letra": "E",
+          "texto": "Idade Média\n$CH_3-CH_2-CH_2-CH_2-CH_2-CH_2-CH_2-CH_2-CH=CH-CH_2-CH_2-CH_2-CH_2-CH_2-CH_2-CH_2-C(O)OH$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Química Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Para a produção de sementes de soja de alta qualidade fisiológica, o ideal é que a temperatura média local, durante as fases de maturação e de colheita, seja igual ou inferior a 22 °C. Tais condições não são facilmente encontradas em regiões tropicais. Em regiões com latitudes maiores do que 24° S, as condições climáticas são mais propícias.\n<https://tinyurl.com/c583wypa> Acesso em: 24.03.2023. Adaptado.\n\nCom base no texto, a região brasileira que melhor se encaixa nas especificações dadas é a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Centro-Oeste."
+        },
+        {
+          "letra": "B",
+          "texto": "Nordeste."
+        },
+        {
+          "letra": "C",
+          "texto": "Sudeste."
+        },
+        {
+          "letra": "D",
+          "texto": "Norte."
+        },
+        {
+          "letra": "E",
+          "texto": "Sul."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Clima e Agricultura no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Em uma barraca de feira, há estas frutas: jaca, jabuticaba, morango e manga. Elas podem ser grandes ou pequenas, doces ou azedas. Sobre elas, pode constatar-se que:\n• toda jaca é grande;\n• algumas frutas pequenas são jabuticabas;\n• alguns morangos são azedos;\n• nenhuma fruta azeda é uma jabuticaba;\n• toda manga é doce; e\n• toda fruta grande é doce.\nCom base nessas informações, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Alguma fruta azeda é uma manga."
+        },
+        {
+          "letra": "B",
+          "texto": "Algum morango é pequeno."
+        },
+        {
+          "letra": "C",
+          "texto": "Toda fruta grande é um jaca."
+        },
+        {
+          "letra": "D",
+          "texto": "Alguma jabuticaba é azeda."
+        },
+        {
+          "letra": "E",
+          "texto": "Toda manga é grande."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Lógica Proposicional"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Leia os quadrinhos.\n\nAnalisando os quadrinhos, pode concluir-se corretamente que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os termos “fibras”, “vitaminas” e “antioxidantes” associam propriedades positivas à ação de descascar os alimentos."
+        },
+        {
+          "letra": "B",
+          "texto": "as interjeições “criatura”, “olhaí” e “psiu” expressam a reação de ambos os personagens diante de uma situação inesperada."
+        },
+        {
+          "letra": "C",
+          "texto": "o personagem usa de linguagem violenta para impor sua vontade à mulher, opondo-se ao tema abordado no texto: equidade de gênero."
+        },
+        {
+          "letra": "D",
+          "texto": "o pronome “essa”, no último quadrinho, é empregado segundo a norma culta, pois aponta para a casca que está nas mãos do interlocutor."
+        },
+        {
+          "letra": "E",
+          "texto": "a intromissão constante de um dos personagens, apesar de causar irritação, tematiza um tópico relevante à sociedade: o desperdício dos alimentos."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    }
+  ]
+}

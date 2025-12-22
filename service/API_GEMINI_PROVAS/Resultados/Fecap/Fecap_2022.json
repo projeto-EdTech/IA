@@ -1,0 +1,1052 @@
+{
+  "nomeUniversidade": "Fundação Escola de Comércio Álvares Penteado",
+  "siglaUniversidade": "FECAP",
+  "nomeProva": "Prova de Conhecimentos Gerais",
+  "ano": 2022,
+  "qtdeQuestoes": 40,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Leia a letra da música para responder às questões de números 01 e 02.\n\nLevanta e Anda.\n\nQuem costuma vir de onde eu sou\nÀs vezes não tem motivos pra seguir!\nEntão levanta e anda, vai, levanta e anda\nVai, levanta e anda\nMas eu sei que vai, que o sonho te traz\nCoisas que te faz prosseguir!\nVai, levanta e anda, vai, levanta e anda\nVai, levanta e anda, vai levanta e anda\nIrmão, você não percebeu\nQue você é o único representante\nDo seu sonho na face da terra\nSe isso não fizer você correr, chapa\nEu não sei o que vai\nEu sei (sei!), cansa\nQuem morre ao fim do mês\nNossa grana ou nossa esperança\nDelírio é, equilíbrio\nEntre nosso martírio e nossa fé\nFoi difícil contar migalha nos escombro\nLona preta esticadas, enxada no ombro\nE nada vim, nada enfim\nRecria sozinho\nCom alma cheia de mágoa e as panela vazia\nSonho imundo, só água na geladeira\nE eu querendo salvar o mundo\nNo fundo é tipo David Blaine*\nA mãe assume, o pai some de costume\nNo máximo, é um sobrenome\nSou o terror dos clone\nEsses boy conhece Marx\nNós conhece a fome\nEntão cerra os punho, sorria\nE jamais volte pra sua quebrada de mão e mente vazia\n(Emicida e Rael da Rima. Disponível em https://www.letras.mus.br/emicida/levanta-e-anda/ Acesso: 03/10/2021. Excerto adaptado)\n\n* David Blaine: mágico, ilusionista e artista americano.\n\nOs compositores da música utilizaram a variante linguística própria daquele grupo social para",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "tornar a linguagem mais compreensível, adequando--a à norma-padrão da língua portuguesa."
+        },
+        {
+          "letra": "B",
+          "texto": "buscar identificação, por meio da linguagem, a fim de atingir os jovens da periferia."
+        },
+        {
+          "letra": "C",
+          "texto": "estabelecer uma linguagem direta com a intenção de ter um aproveitamento completo da informação."
+        },
+        {
+          "letra": "D",
+          "texto": "deixar evidente que falante e ouvintes pertencem ao mesmo meio sociocultural."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Variação Linguística"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Considere os seguintes trechos da letra da música Levanta e Anda:\n\n“Irmão, você não percebeu” e “Se isso não fizer você correr, chapa\".\nNesses trechos, os autores expressam-se em linguagem __________ querendo demonstrar __________.\nAssinale a alternativa que preenche, correta e respectivamente, as lacunas do texto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "coloquial ... desprezo"
+        },
+        {
+          "letra": "B",
+          "texto": "rebuscada ... indignação"
+        },
+        {
+          "letra": "C",
+          "texto": "culta ... admiração"
+        },
+        {
+          "letra": "D",
+          "texto": "informal ... consideração"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Variação Linguística"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Nos trechos \"Recria sozinho\" e \"nossa esperança\", as palavras em destaque apresentam, respectivamente, um prefixo e um sufixo que têm o mesmo significado em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reinventar e açucareiro."
+        },
+        {
+          "letra": "B",
+          "texto": "refazer e lutador."
+        },
+        {
+          "letra": "C",
+          "texto": "retroceder e vingança."
+        },
+        {
+          "letra": "D",
+          "texto": "recarregar e mudança."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Assinale a alternativa que atende a norma-padrão de concordância.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Contavam migalha nos escombro, com lona preta esticadas e enxada no ombro, recriavam com a alma cheia de mágoa e as panela vazia."
+        },
+        {
+          "letra": "B",
+          "texto": "Contavam migalha nos escombros, com lonas pretas esticadas e enxada no ombro, recriavam com a alma cheia de mágoa e a panela vazia."
+        },
+        {
+          "letra": "C",
+          "texto": "Contava migalha nos escombros, com lonas pretas esticadas e enxada no ombro, recriavam com a alma cheia de mágoa e as panelas vazia."
+        },
+        {
+          "letra": "D",
+          "texto": "Contavam migalha nos escombro, com lonas preta esticadas e enxada no ombro, recriava com a alma cheia de mágoa e a panela vazia."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe (Concordância)"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Leia o trecho seguinte para responder à questão de número 05.\n\nE Jesus, vendo este deitado, e sabendo que estava neste estado havia muito tempo, disse-lhe: Queres ficar são?\nO enfermo respondeu-lhe: Senhor, não tenho homem algum que, quando a água é agitada, me ponha no tanque; mas, enquanto eu vou, desce outro antes de mim.\nJesus disse-lhe: Levanta-te, toma o teu leito, e anda.\n(João 5:6-8)\n\nNa música do Emicida e Rael, a produção de sentido do refrão \"Vai, levanta e anda, vai, levanta e anda\" se dá com a utilização de um discurso semelhante a um popular discurso bíblico. Quando um gênero textual assume elementos formais ou semânticos de textos já produzidos, ocorre",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "discurso indireto livre."
+        },
+        {
+          "letra": "B",
+          "texto": "intertextualidade."
+        },
+        {
+          "letra": "C",
+          "texto": "discurso direto."
+        },
+        {
+          "letra": "D",
+          "texto": "recurso estilístico."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Intertextualidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Considere a passagem a seguir para responder à questão.\n\nLevanta-te, toma o teu leito, e anda.\n\nAssinale a alternativa em que estão corretas a classificação do período composto e a relação que as orações estabelecem.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "coordenação / adição."
+        },
+        {
+          "letra": "B",
+          "texto": "subordinação / condição."
+        },
+        {
+          "letra": "C",
+          "texto": "coordenação / conclusão."
+        },
+        {
+          "letra": "D",
+          "texto": "subordinação /consequência."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe (Período Composto)"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Leia o poema para responder às questões de números 07 a 10.\n\nIrene no céu\nIrene preta\nIrene boa\nIrene sempre de bom humor.\nImagino Irene entrando no céu:\n– Licença, meu branco!\nE São Pedro bonachão:\n– Entra, Irene. Você não precisa pedir licença.\n(BANDEIRA, Manuel. Estrela da Vida Inteira. 4ª ed., Rio de Janeiro: José Olympio, 1973.)\n\nDe acordo com a leitura e compreensão do poema, é correto afirmar que Irene, no verso \"– Licença, meu branco!\", demonstra ter com São Pedro uma relação de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "desacato."
+        },
+        {
+          "letra": "B",
+          "texto": "indocilidade."
+        },
+        {
+          "letra": "C",
+          "texto": "submissão."
+        },
+        {
+          "letra": "D",
+          "texto": "arrogância."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Considere os enunciados:\n\n• Irene sempre de bom humor.\n• E São Pedro bonachão:\n• Você não precisa pedir licença.\n\nConsiderando-se a forma como os termos se relacionam e organizam as informações, os termos destacados nos trechos classificam-se, correta e respectivamente, como:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "substantivo, adjetivo, artigo, verbo."
+        },
+        {
+          "letra": "B",
+          "texto": "advérbio, adjetivo, pronome, substantivo."
+        },
+        {
+          "letra": "C",
+          "texto": "adjetivo, substantivo, advérbio, substantivo."
+        },
+        {
+          "letra": "D",
+          "texto": "artigo, verbo, preposição, interjeição."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Morfossintaxe"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "A estilística é uma área dos estudos da linguagem que foca na função expressiva dos discursos e recursos estilísticos. Pode-se percebê-la no poema Irene no céu pelo uso",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "da metáfora, pela qual o poeta compara São Pedro com Irene."
+        },
+        {
+          "letra": "B",
+          "texto": "do eufemismo, empregando uma palavra mais suave, no lugar de outra desagradável."
+        },
+        {
+          "letra": "C",
+          "texto": "da ironia, ao dizer \"você não precisa pedir licença”, quando, na verdade, queria dizer o contrário."
+        },
+        {
+          "letra": "D",
+          "texto": "da anáfora, na qual, pela repetição de uma palavra, o poeta evidencia a figura central do poema."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Assinale a alternativa correta quanto ao uso da vírgula e à classificação correta da oração.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Não precisa pedir licença, você é de casa, entra. (orações coordenadas)"
+        },
+        {
+          "letra": "B",
+          "texto": "Irene entra no céu, mas não pede licença. (orações subordinadas)"
+        },
+        {
+          "letra": "C",
+          "texto": "São Pedro bonachão disse, que você não precisa pedir licença. (orações coordenadas)"
+        },
+        {
+          "letra": "D",
+          "texto": "Para mostrar respeito com São Pedro Irene pediu licença. (orações coordenadas)"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe (Pontuação)"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Leia o texto para responder às questões de números 11 a 15.\n\n\"Lembro-me de que certa noite – eu teria uns quatorze anos, quando muito – encarregaram-me de segurar uma lâmpada elétrica à cabeceira da mesa de operações, enquanto um médico fazia os primeiros curativos num pobre-diabo que soldados da Polícia Municipal haviam 'carneado'*. [...] Apesar do horror e da náusea, continuei firme onde estava, talvez pensando assim: se esse caboclo pode aguentar tudo isso sem gemer, por que não hei de poder ficar segurando esta lâmpada para ajudar o doutor a costurar esses talhos e salvar essa vida? [...]\nDesde que, adulto, comecei a escrever romances, tem--me animado até hoje a ideia de que o menos que o escritor pode fazer, numa época de atrocidades e injustiças como a nossa, é acender a sua lâmpada, fazer luz sobre a realidade de seu mundo, evitando que sobre ele caia a escuridão, propícia aos ladrões, aos assassinos e aos tiranos. Sim, segurar a lâmpada, a despeito da náusea e do horror. Se não tivermos uma lâmpada elétrica, acendamos o nosso toco de vela ou, em último caso, risquemos fósforos repetidamente, como um sinal de que não desertamos nosso posto\".\n(VERÍSSIMO, Érico. Solo de clarineta. Porto Alegre: Globo, 1978)\n\n* Carneado: palavra empregada com sentido figurado – verbo carnear – abater e esquartejar o boi, abater o gado e preparar as carnes para secar.\n\nObserve as passagens:\n\n• Numa época de atrocidades e injustiças como a nossa\n• Sim, segurar a lâmpada, a despeito da náusea e do horror.\n\nConsiderando o contexto, assinale a alternativa que apresenta, correta e respectivamente, os sinônimos dos termos destacados:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "generosidades; a respeito da."
+        },
+        {
+          "letra": "B",
+          "texto": "benevolências; de acordo com."
+        },
+        {
+          "letra": "C",
+          "texto": "perversidades; apesar da."
+        },
+        {
+          "letra": "D",
+          "texto": "sensibilidades; por causa da."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Semântica (Sinonímia)"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Apesar da _________ e da _________ continuei firme onde estava, talvez pensando assim: se esse caboclo pode aguentar tudo isso sem gemer, por que não hei de poder ficar segurando esta _________ para ajudar o doutor a costurar essas _________ e salvar essa vida?\nEm conformidade com a norma-padrão, as lacunas do texto devem ser preenchidas, respectivamente, com as palavras:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "averção ... repulguinância ... luminária ... fisuras"
+        },
+        {
+          "letra": "B",
+          "texto": "averssão ... repugnância ... luminaria ... fisuras"
+        },
+        {
+          "letra": "C",
+          "texto": "averção ... repugnancia ... luminária ... fiçuras"
+        },
+        {
+          "letra": "D",
+          "texto": "aversão ... repugnância ... luminária ... fissuras"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Ortografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Leia o trecho a seguir.\n\nSe não tivermos uma lâmpada elétrica, acendamos o nosso toco de vela ou, em último caso, risquemos fósforos repetidamente, como um sinal de que não desertamos nosso posto.\n\nCom relação às palavras em destaque e de acordo com a norma-padrão, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A palavra “lâmpada” integra o sentido de ‘tivermos’, classifica-se como um adjunto adverbial e possui uma função secundária na oração."
+        },
+        {
+          "letra": "B",
+          "texto": "O sujeito da forma verbal “acendamos” está implícito em sua desinência, por isso não se trata de um termo essencial para oração, classificando-se como sujeito simples."
+        },
+        {
+          "letra": "C",
+          "texto": "“Repetidamente” tem a função de adjunto adverbial, sendo um termo acessório, logo não essencial para a estrutura sintática da oração."
+        },
+        {
+          "letra": "D",
+          "texto": "O trecho “Acendamos o nosso toco de vela” traz uma declaração sobre o sujeito, portanto classifica--se como um predicado nominal."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe (Análise Sintática)"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Considerando o emprego e a colocação pronominal e fazendo as adaptações necessárias, assinale a alternativa em que o termo entre parênteses substitui, corretamente, a palavra/expressão em destaque nas frases adaptadas do texto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Riquemos fósforos repetidamente, como um sinal de que não desertamos nosso posto. (Riquemo-los)"
+        },
+        {
+          "letra": "B",
+          "texto": "como um sinal de que não desertamos nosso posto. (desertamos-lhe)"
+        },
+        {
+          "letra": "C",
+          "texto": "Se não tivermos uma lâmpada elétrica... (tivermos-la)"
+        },
+        {
+          "letra": "D",
+          "texto": "Fazer luz sobre a realidade de seu mundo, evitando que sobre ele caia a escuridão. (evitando que caia--lhe)"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe (Colocação Pronominal)"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Leia a tira para responder à questão de número 15.\n\nPreenche-se, correta e respectivamente, as lacunas no diálogo com:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a ... à ... as"
+        },
+        {
+          "letra": "B",
+          "texto": "à ... a ... as"
+        },
+        {
+          "letra": "C",
+          "texto": "a ... a ... às"
+        },
+        {
+          "letra": "D",
+          "texto": "à ... a ... às"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe (Crase)"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "A professora Elza pediu a seus alunos que assinalassem a alternativa na qual os números $\\sqrt{35}$; 3; $\\frac{11}{2}$; –4; –7, estivessem na ordem crescente, ou seja, do menor para o maior. Os alunos que acertaram assinalaram a alternativa",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{11}{2}$; $\\sqrt{35}$; 3; –4; –7."
+        },
+        {
+          "letra": "B",
+          "texto": "–7; –4; 3; $\\sqrt{35}$; $\\frac{11}{2}$"
+        },
+        {
+          "letra": "C",
+          "texto": "–7; –4; 3; $\\frac{11}{2}$; $\\sqrt{35}$."
+        },
+        {
+          "letra": "D",
+          "texto": "–4; –7; 3; $\\sqrt{35}$; $\\frac{11}{2}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Conjuntos Numéricos"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "A ONU divulgou recentemente que a população mundial está em cerca de 7 bilhões e 600 milhões de habitantes, aproximadamente. Esse número expresso em notação científica corresponde a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$7,6 \\times 10^6$."
+        },
+        {
+          "letra": "B",
+          "texto": "$7,6 \\times 10^7$."
+        },
+        {
+          "letra": "C",
+          "texto": "$7,6 \\times 10^8$."
+        },
+        {
+          "letra": "D",
+          "texto": "$7,6 \\times 10^9$."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Potenciação e Notação Científica"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Augusto abastece seu veículo diariamente com R$ 130,00. O litro de combustível custa R$ 6,50 na bomba, porém, pagando por um aplicativo, o preço do litro é R$ 5,50. Utilizando o aplicativo, o número de litros de gasolina que ele consegue a mais com os R$ 130,00 é de, aproximadamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3,63."
+        },
+        {
+          "letra": "B",
+          "texto": "3,93."
+        },
+        {
+          "letra": "C",
+          "texto": "4,13."
+        },
+        {
+          "letra": "D",
+          "texto": "4,33."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Débora pretende calcular o seu Índice de Massa Corpórea (IMC) usando a fórmula $IMC = \\frac{P}{h^2}$, em que P é sua massa em kg e h é a altura em metros. Após calcular seu IMC, considerando que a balança acusou 75 kg e sendo sua altura de 1,50 m, comparou seu IMC com as informações abaixo:\n\n$IMC < 18,5$, abaixo do peso.\n$18,5 \\leq IMC \\leq 24,9$, peso ideal.\n$25 \\leq IMC < 30$, acima do peso.\n$IMC \\geq 30$, obesidade.\n\nDébora concluiu corretamente que está",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "abaixo do peso."
+        },
+        {
+          "letra": "B",
+          "texto": "com o peso ideal."
+        },
+        {
+          "letra": "C",
+          "texto": "acima do peso."
+        },
+        {
+          "letra": "D",
+          "texto": "com obesidade."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Fórmulas e Equações"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Júlia tem quatro camisetas nas cores rosa, amarela, vermelha e verde. Tem três calças: jeans, moletom e de algodão. Tem também cinco pares de calçados, todos diferentes. Para ir a um passeio, ela deverá vestir uma dessas camisetas, uma calça e um par de calçado. O número total de opções que ela tem é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12."
+        },
+        {
+          "letra": "B",
+          "texto": "20."
+        },
+        {
+          "letra": "C",
+          "texto": "60."
+        },
+        {
+          "letra": "D",
+          "texto": "80."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "O gráfico a seguir representa o aproveitamento em matemática de uma turma do 9º ano.\n\nA nota média dessa turma em matemática supera a nota modal em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,2."
+        },
+        {
+          "letra": "B",
+          "texto": "0,8."
+        },
+        {
+          "letra": "C",
+          "texto": "0,5."
+        },
+        {
+          "letra": "D",
+          "texto": "0,2."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Estatística"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Analise o mapa a seguir.\n\nO mapa mostra que a Av. Afonso Pena e a Av. Bias Fortes são paralelas e que a Av. Amazonas intercepta essas duas avenidas, conforme esquema abaixo:\n\nSabendo-se que o ângulo $\\Omega$ formado entre as Avenidas Bias Fortes e Amazonas é de 125°, o complemento do ângulo $\\delta$ é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "35°."
+        },
+        {
+          "letra": "B",
+          "texto": "45°."
+        },
+        {
+          "letra": "C",
+          "texto": "55°."
+        },
+        {
+          "letra": "D",
+          "texto": "65°."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Plana (Ângulos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Marisa deve tomar um medicamento, que é vendido em frasco com 150 ml, em doses de 4 ml, três vezes ao dia, durante 7 dias. Após completar esse tratamento, a quantidade de remédio que sobrou no frasco, em relação ao total do frasco, corresponde à razão",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{11}{25}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{11}{15}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{66}{84}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{14}{75}$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Frações"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Um pintor de paredes, trabalhando 8 horas por dia, durante 5 dias, consegue pintar 40 metros quadrados de parede. Para pintar 60 metros quadrados de parede trabalhando 6 horas por dia, sempre no mesmo ritmo, o número de dias que ele precisa trabalhar é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5,6."
+        },
+        {
+          "letra": "B",
+          "texto": "7,2."
+        },
+        {
+          "letra": "C",
+          "texto": "8."
+        },
+        {
+          "letra": "D",
+          "texto": "10."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Razão e Proporção (Regra de Três)"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Meire recebeu de seus pais sua mesada de outubro. Ela gastou 20% de sua mesada em um passeio e 10% na cantina da escola. Após esses gastos, ela ainda tinha R$ 280,00. Quanto ela gastou nesse passeio?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 40,00."
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 60,00."
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 80,00."
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 100,00."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Uma janela de ferro é formada por losangos que medem 40 cm na diagonal maior e 20 cm na diagonal menor, conforme a figura.\n\nA área de vidro necessária para envidraçar essa janela, em metros quadrados, é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,80."
+        },
+        {
+          "letra": "B",
+          "texto": "0,96."
+        },
+        {
+          "letra": "C",
+          "texto": "1,28."
+        },
+        {
+          "letra": "D",
+          "texto": "1,60."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Plana (Áreas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Thiago afirmou que o quadrado de sua idade menos 12 vezes a sua idade é igual a 45 anos. Em seguida, afirmou que seu irmão tem um terço de sua idade. Dessa forma, a idade de Thiago mais a idade de seu irmão é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "18."
+        },
+        {
+          "letra": "B",
+          "texto": "20."
+        },
+        {
+          "letra": "C",
+          "texto": "24."
+        },
+        {
+          "letra": "D",
+          "texto": "27."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Equações do 2º Grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Um jogo consiste em sair do ponto X, dar uma volta na circunferência (1) com 8 metros de diâmetro, em seguida percorrer três lados do quadrado de 20 metros de lado, e, finalmente, dar uma volta na circunferência (2), terminando em Y.\n\nDado $\\pi = 3,1$\n\nA distância, em metros, percorrida nesse trajeto é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "72,4."
+        },
+        {
+          "letra": "B",
+          "texto": "109,6."
+        },
+        {
+          "letra": "C",
+          "texto": "129,6."
+        },
+        {
+          "letra": "D",
+          "texto": "150,2."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Geometria Plana (Perímetro e Comprimento)"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Observe o triângulo retângulo a seguir:\n\nOs valores de sen$\\alpha$; cos$\\beta$ e tg$\\alpha$, respectivamente, valem",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{24}{25}$; $\\frac{24}{25}$; $\\frac{24}{7}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{24}{31}$; $\\frac{7}{31}$; $\\frac{24}{7}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{7}{25}$; $\\frac{24}{25}$; $\\frac{7}{24}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{24}{25}$; $\\frac{7}{25}$; $\\frac{24}{25}$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Trigonometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Um empregador precisa pagar seus três funcionários. Ele deve a Carlos R$ 2.000,00, a Eduardo R$ 3.000,00 e a Rogério R$ 5.000,00. Dispondo de apenas R$ 6.000,00, ele pagará a cada um deles valores proporcionais ao que deve a cada um. Dessa forma, Eduardo receberá",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 1.200,00."
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 1.800,00."
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 2.300,00."
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 3.000,00."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Razão e Proporção (Divisão Proporcional)"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Ao longo da história, várias doenças têm afetado a saúde das pessoas em diferentes épocas e lugares. Em nosso país, isso não é diferente: doenças diversas, como a febre amarela, a gripe espanhola, a tuberculose, a malária, a doença de Chagas e a dengue, têm atingido os brasileiros e causado muitas mortes.\n\nConsiderando a forma de transmissão e o agente causador, a associação correta está indicada em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pessoa para pessoa e bactéria, responsáveis pelas doenças febre amarela e tuberculose."
+        },
+        {
+          "letra": "B",
+          "texto": "pessoa para pessoa e vírus, responsáveis pelas doenças gripe espanhola e dengue."
+        },
+        {
+          "letra": "C",
+          "texto": "picada de inseto e bactéria, responsáveis pelas doenças malária e doença de Chagas."
+        },
+        {
+          "letra": "D",
+          "texto": "picada de inseto e vírus, responsáveis pelas doenças febre amarela e dengue."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Saúde e Doenças"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "As abelhas surgiram há cerca de 125 milhões de anos, provavelmente evoluindo a partir de uma vespa ancestral. Devido ao aparecimento de novas formas de alimento oferecidos por vegetais originados um pouco antes, há 140 milhões de anos, as abelhas encontraram um ambiente favorável ao seu desenvolvimento.\n\nCom relação aos seres vivos citados no texto, é correto afirmar que, entre as abelhas e os vegetais do grupo das",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "angiospermas, há uma relação mutualista, representada pelo processo de polinização."
+        },
+        {
+          "letra": "B",
+          "texto": "gimnospermas, há uma relação comensalista, representada pelo processo de dispersão dos frutos."
+        },
+        {
+          "letra": "C",
+          "texto": "pteridófitas, há uma relação de inquilinismo, representada pelo processo de fecundação das sementes."
+        },
+        {
+          "letra": "D",
+          "texto": "briófitas, há uma relação de predação, representada pelos esporos que servem de alimento a esses insetos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Ecologia (Relações Ecológicas)",
+        "Biologia – Botânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "A matriz energética representa todas as fontes que produzem energia em um país. A matriz elétrica representa o conjunto de fontes de energia responsáveis pela geração de eletricidade. No Brasil, uma informação sobre a matriz elétrica, de acordo com o Ministério de Minas e Energia, está indicada no quadro a seguir.\n\nAs fontes renováveis que fazem parte da matriz elétrica brasileira têm como exemplos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "gás natural e carvão vegetal."
+        },
+        {
+          "letra": "B",
+          "texto": "bagaço de cana e gás natural."
+        },
+        {
+          "letra": "C",
+          "texto": "solar e eólica."
+        },
+        {
+          "letra": "D",
+          "texto": "carvão mineral e lenha."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Fontes de Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "O potássio (K) é um elemento químico pertencente ao grupo dos metais alcalinos. Além de suas aplicações nas indústrias, também é utilizado para a determinação da idade dos fósseis, pois uma das ocorrências desse elemento químico é na forma radioativa. Os elementos químicos radioativos perdem, ao longo do tempo, essa radioatividade, transformando-se em elementos mais estáveis do que os equivalentes radioativos. Na ilustração a seguir, o potássio é representado em sua forma mais estável (1), na sua forma radioativa instável (2) e no elemento que ele origina ao perder sua radioatividade (3).\n(1) $_{19}^{39}K$ (2) $_{19}^{40}K$ (3) $_{18}^{40}Ar$\n\nEm relação às propriedades dos elementos citados, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 e 2 têm o mesmo número atômico."
+        },
+        {
+          "letra": "B",
+          "texto": "2 e 3 têm o mesmo número atômico."
+        },
+        {
+          "letra": "C",
+          "texto": "1 e 2 têm a mesma massa atômica."
+        },
+        {
+          "letra": "D",
+          "texto": "2 e 3 têm massas atômicas diferentes."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Atomística"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Ao longo da história, uma parte do gás carbônico emitida pela ação humana foi parar no oceano. Quando a água e o gás se encontram, é formado o ácido carbônico que se dissocia no mar, originando compostos que acidificam o ambiente, conforme a representação a seguir.\n$CO_2 + H_2O \\rightleftharpoons H_2CO_3 \\rightleftharpoons H^+ + HCO_3^-$\nO aumento do nível de acidez se dá por meio do aumento da quantidade do produto H+ presente em uma solução, nesse caso, a água do mar. O produto em questão, em relação ao hidrogênio, é um",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "isóbaro."
+        },
+        {
+          "letra": "B",
+          "texto": "cátion."
+        },
+        {
+          "letra": "C",
+          "texto": "ânion."
+        },
+        {
+          "letra": "D",
+          "texto": "isótopo."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Equilíbrio Químico",
+        "Química – Íons"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "A questão está relacionada à pirâmide etária apresentada a seguir.\n\nAssinale a alternativa que apresenta, corretamente, características da pirâmide etária.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Trata-se de um país desenvolvido com amplo controle de natalidade e predomínio de população adulta que garante grande mão de obra disponível; a expectativa de vida é alta."
+        },
+        {
+          "letra": "B",
+          "texto": "O país representado é considerado subdesenvolvido devido as altas taxas de natalidade mostradas na base da pirâmide; a população idosa é grande indicando alta expetativa de vida."
+        },
+        {
+          "letra": "C",
+          "texto": "A população adulta é predominante na pirâmide porque as baixas taxas de natalidade reduzem a população jovem; a população idosa tende a crescer nos próximos anos."
+        },
+        {
+          "letra": "D",
+          "texto": "Mostra a estrutura da população por idades de um país que apresenta tendência à redução da taxa de natalidade; há predomínio de população jovem e baixa esperança de vida."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Demografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "A expansão do processo de urbanização no Brasil e no mundo tem promovido mudanças e até mesmo impactos sobre o meio ambiente. Observe a figura a seguir.\n\nA figura destaca a ocorrência do fenômeno",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "chuva ácida mais presente nas áreas centrais onde há concentração de edificações; os elementos químicos na água de chuva destroem as árvores."
+        },
+        {
+          "letra": "B",
+          "texto": "ilha de calor, situação típica das áreas centrais, onde há excesso de construções, poluição atmosférica e reduzidas áreas verdes."
+        },
+        {
+          "letra": "C",
+          "texto": "inversão térmica, frequente nos meses de inverno quando as frentes polares promovem aumento da velocidade dos ventos nas áreas centrais."
+        },
+        {
+          "letra": "D",
+          "texto": "efeito estufa, geralmente associado à ausência de parques e árvores nas áreas centrais, o que torna o ar atmosférico mais seco e poluído."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geografia Urbana",
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Leia os itens para responder à questão.\nI. É a segunda região mais populosa do Brasil, e a que forneceu durante décadas o maior número de migrantes para outras regiões. Apresenta agricultura diversificada e com áreas de modernização recente.\nII. A partir da segunda metade do século XX, a região passou a ser ocupada por numerosos migrantes de outras regiões interessados em expandir a agropecuária, principalmente com cultivos destinados à exportação.\n\nOs itens I e II referem-se, respectivamente, às regiões",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Nordeste e Centro-Oeste."
+        },
+        {
+          "letra": "B",
+          "texto": "Sul e Sudeste."
+        },
+        {
+          "letra": "C",
+          "texto": "Centro-Oeste e Norte."
+        },
+        {
+          "letra": "D",
+          "texto": "Sudeste e Norte."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geografia do Brasil (Regiões)"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "De 1760 às primeiras décadas do século XIX, a Revolução Industrial praticamente esteve restrita à Inglaterra para, em seguida, se expandir para outros países do mundo.\n\nEsse processo histórico",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "possibilitou o aumento da produção de bens manufaturados por um custo mais baixo, o que tornou possível ampliar o mercado consumidor."
+        },
+        {
+          "letra": "B",
+          "texto": "introduziu a maquinofatura que gerou milhares de empregos que privilegiaram as mulheres, até então dedicadas apenas aos trabalhos domésticos."
+        },
+        {
+          "letra": "C",
+          "texto": "ampliou o número de manufaturas cada vez mais diversificadas que passaram a empregar aprendizes que se tornariam operários qualificados."
+        },
+        {
+          "letra": "D",
+          "texto": "deu ênfase às atividades pesadas, como as siderúrgicas e metalúrgicas em detrimento das indústrias de bens de consumo como as têxteis."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Revolução Industrial"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "O fim da monarquia no Brasil, em 1889, foi resultado da ruptura das relações do governo com diferentes setores da sociedade que lhe davam sustentação. Um desses setores provocou a questão",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "industrial devido ao descontentamento dos empresários brasileiros que se sentiram prejudicados com a redução dos impostos sobre os produtos industriais ingleses, concorrentes dos nacionais."
+        },
+        {
+          "letra": "B",
+          "texto": "militar que se tornou mais evidente após o término da guerra do Paraguai quando os militares passaram a exigir uma carreira militar e a divisão das forças entre a marinha e o exército."
+        },
+        {
+          "letra": "C",
+          "texto": "religiosa que foi resultado dos atritos entre a monarquia e a Igreja católica que passou a não aceitar a interferência da maçonaria nas irmandades religiosas apoiadas pelo imperador."
+        },
+        {
+          "letra": "D",
+          "texto": "latifundiária que passou a exigir novas leis que protegessem a grande propriedade rural e também que garantissem aos fazendeiros disporem da mão de obra livre sem custos elevados."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História do Brasil (Império)"
+      ]
+    }
+  ]
+}

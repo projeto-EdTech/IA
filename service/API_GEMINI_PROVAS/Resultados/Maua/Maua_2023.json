@@ -1,0 +1,1394 @@
+{
+  "nomeUniversidade": "Instituto Mauá de Tecnologia",
+  "siglaUniversidade": "MAUÁ",
+  "nomeProva": "Vestibular 2023 – Verão – Online",
+  "ano": 2023,
+  "qtdeQuestoes": 46,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "As questões de 01 a 06 referem-se ao texto abaixo\n\nIa a entrar na sala de visitas, quando ouvi proferir o meu nome e escondi-me atrás da porta. A casa era a da Rua de Mata-cavalos, o mês novembro, o ano é que é um tanto remoto, mas eu não hei de trocar as datas à minha vida só para agradar às pessoas que não amam histórias velhas; o ano era de 1857.\n- D. Glória, a senhora persiste na ideia de meter o nosso Bentinho no seminário? É mais que tempo, e já agora pode haver uma dificuldade.\n- Que dificuldade?\n- Uma grande dificuldade. Minha mãe não quis saber o que era. José Dias, depois de alguns instantes de concentração, veio ver se havia alguém no corredor; não deu por mim, voltou e, abafando a voz, disse que a dificuldade estava na casa ao pé, a gente do Pádua.\n- A gente do Pádua?\n- Há algum tempo estou para lhe dizer isto, não me atrevia. Não me parece bonito que o nosso Bentinho ande metido nos cantos com a filha do Tartaruga, e esta é a dificuldade, porque se eles pegam de namoro, a senhora terá que lutar para separá-los.\n- Não acho. Metidos nos cantos?\n- É um modo de falar. Em segredinhos, sempre juntos. Bentinho quase que não sai de lá. A pequena é uma desmiolada; o pai faz que não vê; tomara ele que as cousas corressem de maneira, que... Compreendo o seu gesto; a senhora não crê em tais cálculos, parece-lhe que todos têm a alma cândida.\n\nMachado de Assis.\n\nAs personagens do texto figuram no romance intitulado",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "D. Casmurro."
+        },
+        {
+          "letra": "B",
+          "texto": "Helena."
+        },
+        {
+          "letra": "C",
+          "texto": "Quincas Borba."
+        },
+        {
+          "letra": "D",
+          "texto": "Esaú e Jacó."
+        },
+        {
+          "letra": "E",
+          "texto": "Memorial de Aires."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Antônimo do termo remoto, empregado pelo narrador, referindo-se ao ano de 1857, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "próximo."
+        },
+        {
+          "letra": "B",
+          "texto": "apartado."
+        },
+        {
+          "letra": "C",
+          "texto": "distanciado."
+        },
+        {
+          "letra": "D",
+          "texto": "longínquo."
+        },
+        {
+          "letra": "E",
+          "texto": "distante."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "A expressão que traduz a primeira reação de D. Glória ao relato de José Dias é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "desconsiderou o relato."
+        },
+        {
+          "letra": "B",
+          "texto": "saiu da sala."
+        },
+        {
+          "letra": "C",
+          "texto": "chamou o Bentinho."
+        },
+        {
+          "letra": "D",
+          "texto": "cancelou a promessa."
+        },
+        {
+          "letra": "E",
+          "texto": "envergonhou-se do ocorrido."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Os pronomes ele e lhes, presentes no último parágrafo, se referem, respectivamente, às seguintes personagens:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Tartaruga – D. Glória."
+        },
+        {
+          "letra": "B",
+          "texto": "Bentinho – filha do Tartaruga."
+        },
+        {
+          "letra": "C",
+          "texto": "José Dias – D. Glória."
+        },
+        {
+          "letra": "D",
+          "texto": "Tartaruga – José Dias."
+        },
+        {
+          "letra": "E",
+          "texto": "Bentinho – D. Glória."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Está correta apenas a frase",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Sugiro que se analisem melhor os fatos e se tomem depois as providências, disse D. Glória."
+        },
+        {
+          "letra": "B",
+          "texto": "Sugiro que se analise melhor os fatos e se tome depois as providências, disse D. Glória."
+        },
+        {
+          "letra": "C",
+          "texto": "Sugiro que se analize melhor os fatos e se tome depois as providências, disse D. Glória."
+        },
+        {
+          "letra": "D",
+          "texto": "Sugiro que se analizem melhor os fatos e se tomem depois as providências, disse D. Glória."
+        },
+        {
+          "letra": "E",
+          "texto": "Sugiro que se analisem melhor os fatos e se tome depois as providências, disse D. Glória."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Ortografia e Sintaxe"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Na frase: e já agora pode haver uma dificuldade, a palavra em destaque exerce a função de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "objeto direto."
+        },
+        {
+          "letra": "B",
+          "texto": "complemento nominal."
+        },
+        {
+          "letra": "C",
+          "texto": "objeto indireto."
+        },
+        {
+          "letra": "D",
+          "texto": "adjunto adnominal."
+        },
+        {
+          "letra": "E",
+          "texto": "sujeito do verbo haver."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Read the following text and answer questions 7-10.\n\nBrazil and India share a long history of friendship and political and economic bonds. Yet much of Brazil's society, economy, history, creative thinking and arts, to name a few dimensions, are not as widely known here as they could be. To celebrate 200 years of Brazilian independence this year, the Embassy of Brazil held a series of events in partnership with Indian organizations to showcase the diversity and quality of the country's contributions to the world in various fields. Three exhibitions, which started in New Delhi between February and April and will later move to other major cities in India, are the visual expression of the program.\n\nBuilding Brazil 1822-2022 is an exhibition with more than 200 photographs currently on display at the India Habitat Centre, Delhi. Later this year, the exhibition will also travel to Kolkata. It provides a unique insight on the quality and diversity of Brazilian culture expressed in its buildings. Two masters of Brazilian photography were invited and presented some of their most beautiful recent photographs.\n\nA photographic essay by Cristiano Mascaro covers Neo-Classic, Eclectic and Art-Deco construction in Brazil from 1822 to the 1930s. From the 1930s to present days, Leonardo Finotti's pictures showcase some of the symbols of modernist and contemporary architecture in Brazil. All photographs are recent and show a Brazil you can witness today.\n\nAndré Aranha Corrêa do Lago. Apr 21, 2022. Adapted from https://www.stirworld.com/think-opinions-brazil-1822-2022-celebrating-two-hundred-years-of-the-nation-s-independence-in-india\n\nAccording to the text, what is the main objective of the events arranged by the Embassy of Brazil and Indian organizations?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Publicize Brazil's potential relevance in the contemporary societies."
+        },
+        {
+          "letra": "B",
+          "texto": "Exhibit 200 photographs at the Indian Habitat Centre, in Delhi."
+        },
+        {
+          "letra": "C",
+          "texto": "Organize a seminar with two masters of Brazilian photography."
+        },
+        {
+          "letra": "D",
+          "texto": "Display traditional Brazilian crafts to enhance the visual expression of the program."
+        },
+        {
+          "letra": "E",
+          "texto": "Present the symbols of modernist and contemporary architecture in Brazil."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "What is mentioned about the image of Brazil and its large dimensions?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "It should be well publicized."
+        },
+        {
+          "letra": "B",
+          "texto": "It should be openly criticized."
+        },
+        {
+          "letra": "C",
+          "texto": "It should be differently structured."
+        },
+        {
+          "letra": "D",
+          "texto": "It should be carefully revisited."
+        },
+        {
+          "letra": "E",
+          "texto": "It should be properly examined."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "What is the meaning of the underlined word in the sentence below?\n\n\"Brazil and India share a long history of friendship and political and economic bonds.\"",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Relations."
+        },
+        {
+          "letra": "B",
+          "texto": "Growth."
+        },
+        {
+          "letra": "C",
+          "texto": "Development."
+        },
+        {
+          "letra": "D",
+          "texto": "Issues."
+        },
+        {
+          "letra": "E",
+          "texto": "Policies."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "In the sentence \"Yet much of Brazil's society, economy, history (...) are not as widely known here as they could be\", the underlined discourse marker can be substituted by",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "nevertheless."
+        },
+        {
+          "letra": "B",
+          "texto": "furthermore."
+        },
+        {
+          "letra": "C",
+          "texto": "as well as."
+        },
+        {
+          "letra": "D",
+          "texto": "due to."
+        },
+        {
+          "letra": "E",
+          "texto": "provided that."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Conectivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Read the text below and answer questions 11-12 which follow.\n\nChristmas and other celebrations create a lot of waste, but do they have to? BBC Future looks at some of the traditional gift giving practices around the world that might reduce the excesses of consumerism.\n\nIn the days leading up to the Christmas of 1999, my brother and I sat puzzling. It would soon be the turn of the millennium, and we wanted to do something special for our parents, other than our usual hand-drawn cards.\n\nBut as newly minted teens, we neither had the cash to flash, nor the freedom to venture to the shops unsupervised. After a bout of brainstorming, we settled on what we believed to be an ingenious idea — a wall calendar. On A3 drawing paper, we penciled in upcoming dates, tracing the large numbers over with glue before carefully covering them with bits of materials collected from around the house. Each month featured a special theme, and the materials varied accordingly. There were origami stars, paperclips, toothpicks, and pop-tops, fabric from old clothes, and – in my favorite month – dried soybeans, barley seeds, and peanut shells. The final product was far too heavy and impractical for use, but that didn't stop my parents from declaring it a true masterpiece and displaying it over my dad's desk at work.\n\nThese days, my brother and I live on different continents and our gift crafting days have long passed. Our family reunites every Christmas, but we now purchase our presents. Store-bought items save time, offering both convenience and plenty of options to pick out a gift that will actually be used. But Christmas is also a time when mass consumerism, and its associated waste, becomes appallingly apparent.\n\nSandy Ong. December 20, 2021. Accessed on July 25, 2022. Adapted from https://www.bbc.com/future/article/20211208-how-to-make-diy-gifts-that-children-will-love\n\nWhat does the sentence “The final product was far too heavy and impractical for use” refer to?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "The wall calendar the kids decided to make for their parents as a Christmas gift."
+        },
+        {
+          "letra": "B",
+          "texto": "The first project they made for their world Christmas business."
+        },
+        {
+          "letra": "C",
+          "texto": "Their manifesto against Christmas time excessive consumerism."
+        },
+        {
+          "letra": "D",
+          "texto": "Their art craft involving recycled materials from the stationary industry."
+        },
+        {
+          "letra": "E",
+          "texto": "The handmade card they made for their parents as a wedding anniversary gift."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "In the sentence \"BBC Future looks at some of the traditional gift giving practices around the world that might reduce the excesses of consumerism\", what is the meaning of the underlined word might?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "It means a vague possibility of reduction of consumerism."
+        },
+        {
+          "letra": "B",
+          "texto": "It emphasizes the very possible reduction of consumerism."
+        },
+        {
+          "letra": "C",
+          "texto": "It shows the reduction of consumerism will certainly happen."
+        },
+        {
+          "letra": "D",
+          "texto": "It means a reduction of consumerism is necessary."
+        },
+        {
+          "letra": "E",
+          "texto": "It shows there is no possible reduction of consumerism."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Gramática"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Observe a imagem.\n\nLeia o texto.\n\n\"a abstração da liberdade faz desaparecer no sujeito o que se opõe a ela, ou seja, faz dissipar tudo aquilo que o sujeito possa apontar como objetividade”.\n\nFonte: ADORNO, Theodor. Dialética Negativa. Madrid: Taurus, 1984, p. 234.\n\nNa concepção de Theodor Adorno, um dos grandes expoentes da Escola de Frankfurt, a liberdade está relacionada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ao exercício de uma razão não-instrumental."
+        },
+        {
+          "letra": "B",
+          "texto": "à sistematização da razão instrumental."
+        },
+        {
+          "letra": "C",
+          "texto": "à negativa da razão crítica."
+        },
+        {
+          "letra": "D",
+          "texto": "à identificação dos prejuízos da razão não instrumentalizada."
+        },
+        {
+          "letra": "E",
+          "texto": "à antinomia da razão crítica."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Filosofia – Escola de Frankfurt"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "A base da economia brasileira no II Reinado foi a cultura cafeeira. O ciclo do café produziu uma drástica alteração no eixo econômico do país. Entre as mudanças observadas destaca-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a transferência maciça de escravos da região Nordeste para o Sul e Sudeste do país e a chegada de centenas de milhares de imigrantes europeus para trabalharem como colonos."
+        },
+        {
+          "letra": "B",
+          "texto": "a interiorização da população na região das Minas Gerais, local em que o solo era propício ao cultivo do café."
+        },
+        {
+          "letra": "C",
+          "texto": "a reforma agrária, descentralizando a posse de terras, facilitando sua aquisição pelos imigrantes que chegavam da Europa."
+        },
+        {
+          "letra": "D",
+          "texto": "o grande avanço social em relação ao sistema escravocrata, já que os contratos assinados pelos colonos, antes de partir da Europa, vinculando-os a determinado fazendeiro, pagava o transporte e alimentação até o local de trabalho. Esse empréstimo seria ressarcido por meio do trabalho."
+        },
+        {
+          "letra": "E",
+          "texto": "a introdução de um ciclo virtuoso social e econômico, com a exploração dos recursos naturais e a instauração de oportunidades de desenvolvimento."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Brasil Império"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Observe o mapa.\n\nO mapa representa a Ásia de Monções, que tem por característica",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as massas de ar se deslocarem do continente para o mar, e toda a região permanecer seca durante o inverno. No fim da primavera, os ventos passam a soprar do mar para o continente, o que se acentua no verão, quando as chuvas são abundantes e alcançam os maiores índices pluviométricos do planeta."
+        },
+        {
+          "letra": "B",
+          "texto": "os ventos soprarem do mar para o continente, causando chuvas torrenciais e enchentes durante o inverno. Quando as águas baixam o solo está bastante fértil, propício à plantação, que é colhida durante o verão, período de seca."
+        },
+        {
+          "letra": "C",
+          "texto": "sofrerem enchentes durante o período do inverno, o que tem ocasionado imensos prejuízos de ordem material e humana em países cuja infraestrutura não está adequada ao atendimento do fenômeno, como é o caso da Índia e Bangladesh que, no decorrer das monções de 2022, tiveram 41 casos fatais."
+        },
+        {
+          "letra": "D",
+          "texto": "o desenvolvimento da vegetação de gramínea nas ilhas da Indonésia, devido à chuva abundante e ao clima temperado predominante."
+        },
+        {
+          "letra": "E",
+          "texto": "baixa densidade demográfica, por apresentar obstáculos para a fixação da vida humana, devido à oscilação entre períodos de seca e cheia e à dificuldade de cultivo do solo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Observe a imagem.\n\nLeia o texto.\n\nNos Estados Unidos, o feminismo não surgiu das mulheres que são mais vitimizadas pela opressão machista, das mulheres agredidas todos os dias, mental, física e espiritualmente — as que são impotentes para mudar sua condição na vida. Estas são a maioria silenciosa.\n\nUma marca de sua condição de vítimas é o fato de aceitarem sua sina na vida sem questionamento visível, sem protesto organizado, sem fúria ou raiva coletivas.\n\nFonte: HOOKS, bell. Mulheres Negras: moldando a teoria feminista. Revista Brasileira de Ciência Política. Brasília, n. 16, 2015, p. 193. (Adaptado).\n\nO papel feminino tem sido definido por normas e expectativas sociais, as quais se naturalizam nas estruturas e explicam o injustificável. Diante disso, a citação corrobora a interpretação da imagem na medida em que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "se espera que as mulheres assumam a maior parte das responsabilidades da divisão dos serviços domésticos."
+        },
+        {
+          "letra": "B",
+          "texto": "a mulher, em perspectiva biológica, é mais vulnerável que o homem, precisa, portanto, assumir maior número das atividades domésticas."
+        },
+        {
+          "letra": "C",
+          "texto": "por mais atividades que homens e mulheres assumam fora de casa, faz parte da condição feminina ater-se às demandas da casa."
+        },
+        {
+          "letra": "D",
+          "texto": "o papel feminino é condicionado às suas capacidades cognitivas e físicas."
+        },
+        {
+          "letra": "E",
+          "texto": "a sociedade está fincada numa estrutura machista onde as mulheres vivem em condição de vítimas, em que se rebelar seria perda de tempo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Sociologia – Gênero e Sociedade"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Observe as obras:\n\nSão exemplos do movimento artístico denominado Barroco Mineiro, acerca do qual, na década de 1920, Mário de Andrade e vários outros modernistas, em excursão às cidades históricas de Minas Gerais, ressaltaram-lhes a relevância histórica e estética.\n\n\"Mário propõe a proteção do patrimônio cultural brasileiro e orienta a criação do Serviço do Patrimônio Histórico e Artístico Nacional (Sphan, hoje Iphan), que ocorre a 30 de novembro de 1937, por ato do presidente Getúlio Vargas. Com inspiração modernista, o patrimônio histórico e artístico nacional passa a ser definido como o \"conjunto de bens móveis e imóveis existentes no país e cuja preservação seja de interesse público, seja por sua vinculação a fatos memoráveis da História do Brasil, quer por seu excepcional valor arqueológico ou etnográfico, bibliográfico ou artístico\". O Sphan pesquisou em todo o Brasil, começando pelas cidades e igrejas históricas mineiras, as primeiras a serem tombadas\" [...]\n\nWERKEMA, Mauro. Minas Gerais e os fundamentos do Modernismo Brasileiro, 07/02/2022.\n\nTal tombamento justifica-se pelo Barroco Mineiro caracterizar-se como um movimento",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "de raízes culturais originalmente brasileiras, diferenciando-se do das cidades litorâneas, que sofriam claras influências de raízes europeias, em especial, portuguesas, anteriores ao surto artístico mineiro."
+        },
+        {
+          "letra": "B",
+          "texto": "de inspiração religiosa, com elementos originários da Reforma, trazidos ao Brasil pela Companhia de Jesus, e difundidos na região de Minas Gerais."
+        },
+        {
+          "letra": "C",
+          "texto": "em que a simplicidade das formas e ausência de detalhes tinham a intenção de levar à reflexão e aproximar o homem de Deus, o que estava presente principalmente na arquitetura das igrejas e casarões mineiros."
+        },
+        {
+          "letra": "D",
+          "texto": "que tinha como temática a vida cotidiana dos brasileiros de Minas Gerais, por isso foi exaltado pelos modernistas como sendo tipicamente nacional, e serviu de inspiração para a ruptura desejada em relação à forma imposta pela arte europeia."
+        },
+        {
+          "letra": "E",
+          "texto": "que se utilizou de materiais e tintas artesanais, na construção de obras em que a ênfase em figuras geométricas pode ser amplamente observada."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Arte – Barroco Brasileiro",
+        "História – Patrimônio Cultural"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "A floresta está viva. Só vai morrer se os brancos insistirem em destruí-la. Se conseguirem, os rios vão desaparecer debaixo da terra, o chão vai se desfazer, as árvores vão murchar e as pedras vão rachar de calor. A terra ressecada ficará vazia e silenciosa. Os espíritos xapiri, que descem da montanha para brincar na floresta em seus espelhos, fugirão para muito longe. Seus pais, os xamãs, não poderão mais chamá-los e fazê-los dançar para nos proteger. Não serão capazes de espantar as fumaças de epidemia que nos devoram. Não conseguirão mais conter os malefícios, que transformarão a floresta num caos. Então morreremos, um atrás do outro, tanto os brancos quanto nós. Todos os xamãs vão acabar morrendo. Quando não houver mais nenhum deles vivo para sustentar o céu, ele vai desabar.\n\nKOPENAWA, Davi; ALBERT, Bruce. A Queda do Céu: palavras de um xamã yanomami. São Paulo: Companhia das Letras, 2010, p. 6.\n\nO relato de Davi Kopenawa é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "crítica à postura predatória da cultura ocidental, capitalista, eurocêntrica que trata as florestas como meios para fins comerciais."
+        },
+        {
+          "letra": "B",
+          "texto": "apologia ao socialismo, uma vez que pressupõe igualdade entre todos os moradores das Américas."
+        },
+        {
+          "letra": "C",
+          "texto": "exaltação à cultura indígena em relação aos valores dos brancos, logo a fala é etnocêntrica."
+        },
+        {
+          "letra": "D",
+          "texto": "alerta aos malefícios que o subdesenvolvimento proporciona a uma sociedade."
+        },
+        {
+          "letra": "E",
+          "texto": "proselitismo religioso, ao defender sua cultura."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Sociologia – Questões Indígenas e Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Analise a charge.\n\nO eixo que estrutura a interpretação da charge está em torno da",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ética."
+        },
+        {
+          "letra": "B",
+          "texto": "epistemologia."
+        },
+        {
+          "letra": "C",
+          "texto": "hermenêutica."
+        },
+        {
+          "letra": "D",
+          "texto": "fenomenologia."
+        },
+        {
+          "letra": "E",
+          "texto": "empiria."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Filosofia – Ética"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Na Antiguidade o território grego era dividido em cidades-estado, entre as quais destacavam-se como mais importantes Atenas e Esparta. Comparando-se a organização de ambas, constata-se que,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "do ponto de vista político, enquanto em Esparta a sociedade era voltada para a manutenção do status quo, altamente hierarquizada e visando à perpetuação dos guerreiros dórios no poder, em Atenas foi abolido o monopólio do poder pela aristocracia e instituído um sistema de participação que tinha por base a riqueza dos cidadãos."
+        },
+        {
+          "letra": "B",
+          "texto": "na óptica social, em Esparta os comerciantes (periecos) eram homens livres e realizavam atividades que os demais espartanos não poderiam realizar e tinham a possibilidade de ascender à classe de guerreiros. Já em Atenas, os comerciantes (thetas) podiam, por meio do voto, participar do governo."
+        },
+        {
+          "letra": "C",
+          "texto": "em Esparta, a assembleia (Eclésia) era composta por 400 membros, na proporção de 100 membros por tribo. Por outro lado, em Atenas a assembleia (Gerúsia) era composta por 28 cidadãos acima de 60 anos, com mandato vitalício."
+        },
+        {
+          "letra": "D",
+          "texto": "devido à localização geográfica das duas cidades e seus objetivos político-militares, a atividade econômica espartana voltou-se à exploração da mineração, enquanto a de Atenas tornou-se uma economia agrária voltada à exportação de grãos."
+        },
+        {
+          "letra": "E",
+          "texto": "o papel das mulheres nas duas sociedades era diverso. Enquanto em Esparta elas eram mantidas no mundo doméstico, submetidas aos pais e aos maridos, em Atenas tinham direito de participação na vida política e eram valorizadas pelo papel de gerar as crianças que futuramente defenderiam a cidade."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Grécia Antiga"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Nos anos 1970, um dos temas mais presentes nos debates políticos e econômicos era a necessidade de o Brasil se industrializar. O significado disso vinha da constatação de que o subdesenvolvimento brasileiro, responsável pela baixa renda por habitante e pela pobreza, decorria de o país ter focado sua economia na agricultura, enquanto o setor industrial era considerado pequeno, atrasado e primário.\n\nEm contrapartida, \"inteligência artificial\", \"robótica\", \"nuvem\" e \"internet das coisas” são termos que há alguns anos não eram conhecidos, e atualmente fazem parte do cotidiano de todos nós. São tecnologias que se relacionam a um conceito bem familiar no setor industrial: a Indústria 4.0.\n\nAdaptado de https://www.gazetadopovo.com.br/opiniao/editoriais/industrializacao-e-desindustrializacao/ e de https://www.portaldaindustria.com.br/industria-de-a-z/industria-4-0/\n\nO processo de industrialização e o desenvolvimento de tecnologias sempre foram duas faces da mesma moeda. Nesse sentido,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as modificações no mundo do trabalho exigem a formação de um novo profissional, para desenvolvimento de produtos em larga escala, com eficiência e impacto significativo na produtividade, de forma a integrar o Brasil em escalas globais de valor."
+        },
+        {
+          "letra": "B",
+          "texto": "a Indústria 4.0 pressupõe a linha de montagem sem desperdício, com a instalação de parques industriais próximos às zonas produtoras de matéria prima."
+        },
+        {
+          "letra": "C",
+          "texto": "no novo contexto tecnológico de trabalho informatizado, faz-se necessário um maior controle do tempo que cada trabalhador passa na empresa e do uso que faz de sua força de trabalho."
+        },
+        {
+          "letra": "D",
+          "texto": "entende-se que a Indústria 4.0 está inserida no capitalismo tardio, com possibilidade de turnover, já que o importante são os processos de produção e não o funcionário que o realiza."
+        },
+        {
+          "letra": "E",
+          "texto": "para fins de atendimento a um mercado cada vez mais exigente, busca-se a padronização dos produtos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Sociologia – Mundo do Trabalho",
+        "História – Industrialização"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Observe o mapa.\n\nA região destacada da Crimeia tem sido objeto de disputa entre a Rússia e a Ucrânia. Considerando que as razões de tal disputa têm raízes históricas, analise as afirmações.\n\nI. Na Crimeia localiza-se o porto de Sebastopol que é o único porto que permanece livre de gelo durante todo o ano. Sob o ponto de vista militar, ele proporciona acesso ao Mar Negro, e sob o ponto de vista econômico, possibilita a entrada de bens importantes.\n\nII. A região fazia parte do Império Otomano e foi anexada à Rússia depois de sua derrota pelas tropas de Catarina, a Grande.\n\nIII. Em 1954, o líder soviético Nikita Khrushchev, de origem ucraniana, transferiu o território, no qual vive uma maioria de etnia russa, para o controle de Kiev. À época, esse fato teve pouca relevância, já que a região continuou a fazer parte da União das Repúblicas Socialistas Soviéticas.\n\nIV. Em 2014, Putin anexou o território à Rússia após um plebiscito e ampla consulta popular aos habitantes da região que são, em sua maioria, de etnia russa.\n\nEstá correto o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e III apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "II, III e IV apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "I, II e IV apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, III e IV apenas."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II, III e IV."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geopolítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Considere o triângulo com vértices nos pontos $P_1 = (0, 1)$, $P_2 = (2, 2)$ e $P_3 = (3, \\frac{3}{2})$ do sistema de coordenadas cartesianas.\n\nÉ correto afirmar que a área e o perímetro do triângulo valem, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$1$ e $\\frac{\\sqrt{37}+3\\sqrt{5}}{2}$"
+        },
+        {
+          "letra": "B",
+          "texto": "1 e 10"
+        },
+        {
+          "letra": "C",
+          "texto": "$6$ e $\\frac{\\sqrt{37}+3\\sqrt{5}}{2}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$2$ e $\\frac{\\sqrt{37}+2\\sqrt{5}}{4}$"
+        },
+        {
+          "letra": "E",
+          "texto": "2 e 7"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Na Figura 1 temos a vista lateral de um copo cilíndrico, de 14 cm de altura e 6 cm de diâmetro, e um filtro de barro, cuja extremidade inferior da torneira se encontra a 10 cm da superfície de apoio. Esse copo foi inclinado, para coletar a água do filtro, de acordo com a Figura 2.\n\nSabendo que os pontos A e B estão alinhados verticalmente, o volume máximo de água coletada, em cm³, sem o transbordamento, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$99\\pi$"
+        },
+        {
+          "letra": "B",
+          "texto": "$63\\pi$"
+        },
+        {
+          "letra": "C",
+          "texto": "$297\\pi$"
+        },
+        {
+          "letra": "D",
+          "texto": "$396\\pi$"
+        },
+        {
+          "letra": "E",
+          "texto": "$126\\pi$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Durante um período de 60 dias, o número de organismos $N(t)$ dobra a cada três dias obedecendo à seguinte função:\n\n$N(t) = A \\cdot 10^{\\alpha t}$\n\nem que $A$ é a quantidade inicial de organismos, o tempo $t$ em dias e $\\alpha$ uma constante positiva.\n\nConsiderando $\\log(2) = 0,3$; $\\log(3) = 0,5$ e $\\log(5) = 0,7$ e que no dia 3 há 2 organismos, o número de dias, para que a quantidade seja de 10000 organismos, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "40."
+        },
+        {
+          "letra": "B",
+          "texto": "42."
+        },
+        {
+          "letra": "C",
+          "texto": "39."
+        },
+        {
+          "letra": "D",
+          "texto": "14."
+        },
+        {
+          "letra": "E",
+          "texto": "13."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Logaritmos",
+        "Matemática – Funções Exponenciais"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Um tanque cilíndrico com base de raio $R$, é preenchido com água até um certo nível, conforme ilustrado na Figura 1.\n\nA Figura 2 ilustra uma esfera de aço mergulhada neste tanque, indicando um aumento no nível da água de $\\frac{9}{16}R$.\n\nNa situação apresentada o raio da esfera é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{1}{2}R$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{9}{16}R$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{3}{4}R$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{27}{32}R$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{2}{3}R$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Um site de projeções calculou as probabilidades de resultados dos jogos do Brasil na fase de grupos da Copa do Mundo FIFA 2022. Para a seleção garantir a classificação para a próxima fase, sem depender de outros resultados, é necessário obter pelo menos 7 pontos, sendo que a vitória garante 3 pontos, o empate 1 ponto e a derrota nenhum ponto.\n\nConsiderando que a probabilidade de\n\n- vitória do Brasil é 7/10\n- empate do Brasil é 1/10\n- derrota do Brasil é 2/10\n\ncontra quaisquer seleções de seu grupo, a probabilidade, de o Brasil garantir a classificação para a próxima fase, é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "49 %"
+        },
+        {
+          "letra": "B",
+          "texto": "14,7 %"
+        },
+        {
+          "letra": "C",
+          "texto": "70 %"
+        },
+        {
+          "letra": "D",
+          "texto": "50 %"
+        },
+        {
+          "letra": "E",
+          "texto": "34,3 %"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Probabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Numa olimpíada de robótica, uma equipe precisa programar o seu robô para percorrer, sequencialmente, os segmentos $AB$, $BC$, $CD$ e $DA$. Essas trajetórias estão envolvidas numa circunferência $\\alpha$ de centro $O$, de acordo com a figura abaixo.\n\nA medida do ângulo $\\hat{ABC}$ é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "24°"
+        },
+        {
+          "letra": "B",
+          "texto": "48°"
+        },
+        {
+          "letra": "C",
+          "texto": "61°"
+        },
+        {
+          "letra": "D",
+          "texto": "58°"
+        },
+        {
+          "letra": "E",
+          "texto": "32°"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "A condição para que $x \\in \\mathbb{R}$ seja solução do sistema $\\begin{cases} x^2 - 7x + 10 < 0 \\\\ x^2 \\ge 1 \\end{cases}$ é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\{x \\in \\mathbb{R} \\| 2 < x < 5\\}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\{x \\in \\mathbb{R} \\| x \\le -1 \\text{ ou } x \\ge 1\\}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\{x \\in \\mathbb{R} \\| x \\le -1 \\text{ ou } 2 \\le x \\le 5\\}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\{\\}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\mathbb{R}$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Inequações"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Considere na figura abaixo:\n\n- a circunferência com equação $x^2 + y^2 = 1$;\n- a reta t, tangente à circunferência no ponto P;\n- a reta s, a bissetriz dos quadrantes ímpares.\n\nO comprimento do segmento $MN$ é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\sqrt{2} - 1$"
+        },
+        {
+          "letra": "B",
+          "texto": "$1 + \\frac{\\sqrt{2}}{2}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{\\sqrt{2}}{2}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\sqrt{3} - 1$"
+        },
+        {
+          "letra": "E",
+          "texto": "1"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "O telescópio James Webb, lançado em dezembro de 2021, é cem vezes mais sensível que seu antecessor (Hubble), caracterizando uma revolução na astronomia. Ele orbita o Sol em um ponto em que a força gravitacional da estrela e da Terra se anulam. Como a massa do Sol é muito superior à da Terra, esse ponto de equilíbrio, chamado ponto de Lagrange 2 ou L2, está mais próximo do nosso planeta. Para se determinar esse ponto, é necessário resolver um conjunto de equações de balanços de força gravitacional entre os três corpos. Existem infinitas soluções para o problema de três corpos, sendo necessário resolver equações polinomiais de ordem 12 a 15. Utilizando intuição física, é possível reduzir a ordem desses polinômios. Por exemplo, o polinômio $P(x)$ poderia ser considerado\n\n$P(x) = 2x^5 + x^4 - 2x - 1$\n\nSe $x = -\\frac{1}{2}$ é solução de $P(x) = 0$, a soma de todas as raízes do polinômio é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$-\\frac{1}{2}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{1}{2}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$-\\frac{1}{2} + i\\frac{\\sqrt{2}}{2}$"
+        },
+        {
+          "letra": "D",
+          "texto": "0"
+        },
+        {
+          "letra": "E",
+          "texto": "i"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Polinômios"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Em um torneio de tiro ao prato, desprezando a resistência do ar, as trajetórias de um projétil e de um prato, são representadas pelos gráficos das funções\n\n$g(x) = x + 6$ e $f(x) = -\\frac{1}{4}x^2 + 3x + 7$,\n\nrespectivamente.\n\nO prato é atingido em seu movimento descendente, conforme ilustra a figura acima.\n\nA coordenada x no momento do impacto é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$4 + 2\\sqrt{5}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$5 + 2\\sqrt{5}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$-4 + 2\\sqrt{3}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$5 + 2\\sqrt{3}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{11}{2} + \\frac{\\sqrt{209}}{2}$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Funções Quadráticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Uma empresa possui dois tanques de mesmo diâmetro, dispostos em área retangular de 6 m x 8 m, conforme mostra a figura. Deseja-se avaliar a distância entre os tanques para estudo do tráfego de veículos de apoio.\n\nA menor distância entre os tanques ($d$), em m, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2\\sqrt{5} - 4$"
+        },
+        {
+          "letra": "B",
+          "texto": "$2\\sqrt{5}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$2\\sqrt{5} - 2$"
+        },
+        {
+          "letra": "D",
+          "texto": "6"
+        },
+        {
+          "letra": "E",
+          "texto": "2"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "O preço à vista de um computador é R$ 3.310,00, ou em três parcelas fixas, sendo a primeira na entrada e as outras para 30 e 60 dias. Considerando a taxa de juros de 10 % ao mês, o valor de cada parcela é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 1.210,00"
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 1.324,00"
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 1.468,54"
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 1.335,03"
+        },
+        {
+          "letra": "E",
+          "texto": "R$ 1.213,67"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Matemática Financeira"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Leia o trecho adaptado da reportagem publicada no site do SEADE — Fundação Sistema Estadual de Análise de Dados, em julho de 2021, intitulada: \"Mortalidade por AIDS registra expressiva redução no estado de São Paulo\".\n\n\"As estatísticas indicam expressiva redução da mortalidade por AIDS no estado de São Paulo, com diminuição no volume de óbitos e das taxas de mortalidade nos últimos 35 anos. Em 2019, foram registrados 2.049 óbitos por AIDS no estado de São Paulo. O maior número de óbitos por AIDS ocorreu em 1995 (7.739), quando a taxa de mortalidade atingiu 22,9 óbitos por 100 mil habitantes.\"\n\nFonte: https://www.seade.gov.br\n\nO decréscimo na mortalidade por AIDS é atribuído especialmente",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ao tratamento com antirretrovirais, que controlam a replicação do vírus, proporcionando uma melhor qualidade de vida ao paciente."
+        },
+        {
+          "letra": "B",
+          "texto": "à descoberta de novos tratamentos, como o transplante de medula, que começaram a ser utilizados em larga escala a partir de 1995."
+        },
+        {
+          "letra": "C",
+          "texto": "ao uso de preservativos masculinos e femininos por grande parte da população sexualmente ativa."
+        },
+        {
+          "letra": "D",
+          "texto": "ao aumento da realização de testes sorológicos para a verificação da presença de anticorpos."
+        },
+        {
+          "letra": "E",
+          "texto": "a maior eficácia dos testes sorológicos, que reduziram o período em que a infecção não pode ser identificada (janela imunológica)."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Saúde e Doenças"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Leia o trecho adaptado do texto publicado no site do Instituto Butantan, em 01/06/2022, intitulado \"Veja as diferenças entre a varíola monkeypox e a varíola humana e como elas afetam os humanos\".\n\n\"Apesar de terem algumas semelhanças, os agentes causadores monkeypox, conhecido como varíola dos macacos, e o smallpox, da varíola comum, são diferentes. Isso porque ambos têm distinções na sua estrutura, na forma de transmissão e no potencial de gravidade e letalidade, que diferencia a maneira como ela afeta os humanos.\n\n\"Os dois vírus são da mesma família, que é a Poxviridae, e do mesmo gênero Orthopoxvirus, e têm uma identidade genética bastante grande, de quase 90%. Porém existem diferenças que fazem que o smallpox infecte apenas os seres humanos, e o monkeypox tenha outros tipos de hospedeiros, que seriam os primatas não humanos e os roedores\", explica a diretora do Laboratório de Virologia do Instituto Butantan, Viviane Botosso.\"\n\nFonte: https://butantan.gov.br/\n\nCom relação à varíola humana, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a transmissão da varíola acontece, na maioria das vezes, por inalação de gotículas, contendo o agente causador, expelidas pela pessoa doente ao falar, tossir ou espirrar."
+        },
+        {
+          "letra": "B",
+          "texto": "os primeiros sintomas da doença são febre alta e surgimento de erupções na pele."
+        },
+        {
+          "letra": "C",
+          "texto": "o tratamento com antibióticos específicos para o agente causador da doença foi responsável pela sua erradicação no planeta, colocando fim aos anos de mortes e sequelas irreversíveis."
+        },
+        {
+          "letra": "D",
+          "texto": "o agente causador da varíola é uma bactéria, da família Poxviridae e do gênero Orthopoxvirus."
+        },
+        {
+          "letra": "E",
+          "texto": "a doença apresenta duas formas clínicas, ambas com altas taxas de mortalidade humana, se não tratadas adequadamente."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Virologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Com relação à eutrofização, analise as afirmativas:\n\nI. A eutrofização pode ter causas naturais ou pode decorrer de atividades humanas, como o uso de fertilizantes na agricultura.\n\nII. Uma das causas da eutrofização é o lançamento de efluentes industriais, contendo metais tóxicos, nos rios e lagos.\n\nIII. O lançamento de esgotos domésticos sem o devido tratamento pode causar eutrofização em rios e lagos.\n\nIV. A eutrofização ocorre em ambientes unicamente de água doce, pois a alta salinidade dos mares impede a sua ocorrência.\n\nV. A eutrofização pode prejudicar a fotossíntese, reduzindo as concentrações de oxigênio em rios e lagos, o que leva à redução da biodiversidade.\n\nEstá correto o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, III e V, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e III, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "III, IV e V, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II, IV e V, apenas."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e IV, apenas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "A onça é o maior felino das Américas e o único representante do gênero Panthera no continente. É encontrada em quase todos os biomas brasileiros, exceto nos Pampas. A floresta Amazônica é a região com maior incidência desse animal, enquanto a Mata Atlântica é o bioma com menor, possivelmente devido à sua fragmentação pelo desmatamento.\n\nEm termos de taxonomia, Felidae, Carnivora, Chordata e Animalia associam-se, respectively, a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "família, ordem, filo e reino."
+        },
+        {
+          "letra": "B",
+          "texto": "família, filo, classe e ordem."
+        },
+        {
+          "letra": "C",
+          "texto": "subfamília, ordem, classe e filo."
+        },
+        {
+          "letra": "D",
+          "texto": "ordem, classe, filo e reino."
+        },
+        {
+          "letra": "E",
+          "texto": "subfamília, classe, filo e ordem."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Taxonomia"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Uma resistência elétrica de 10 ohms está submersa em recipiente termicamente isolado, contendo 1,0 kg de água. Durante 7 minutos, passa pelo resistor uma corrente de 2,0 A. Sabendo que o calor específico da água é $c = 1,0 \\text{ cal/g}^{\\circ}\\text{C}$ e que 1 cal = 4,2 J, é correto afirmar que a variação da temperatura da água vale",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4 °C"
+        },
+        {
+          "letra": "B",
+          "texto": "400 °C"
+        },
+        {
+          "letra": "C",
+          "texto": "0,06 °C"
+        },
+        {
+          "letra": "D",
+          "texto": "4,2 °C"
+        },
+        {
+          "letra": "E",
+          "texto": "60 °C"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Eletrodinâmica",
+        "Física – Calorimetria"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Uma partícula com carga positiva $q$ penetra numa região de campo magnético $\\vec{B}$, cuja direção é perpendicular ao plano da figura, e o sentido aponta para dentro.\n\nSendo a trajetória da partícula circular, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o raio da trajetória é proporcional ao valor da velocidade e inversamente proporcional ao valor do campo B."
+        },
+        {
+          "letra": "B",
+          "texto": "o raio da trajetória é proporcional ao valor do campo B e inversamente proporcional ao valor da velocidade."
+        },
+        {
+          "letra": "C",
+          "texto": "o trabalho realizado pela força magnética é proporcional ao valor do campo B."
+        },
+        {
+          "letra": "D",
+          "texto": "o valor da carga da partícula não interfere no valor do raio da trajetória."
+        },
+        {
+          "letra": "E",
+          "texto": "o valor do período do movimento é proporcional ao valor da velocidade v."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Eletromagnetismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Os engenheiros de uma montadora automotiva coletaram dados da posição e da velocidade em função do tempo de um dos seus automóveis durante teste de largada, visando melhorar o desempenho do veículo.\n\nA partir dos gráficos, a equação horária da posição $s(t)$, que melhor representa o movimento, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$s(t) = 200 + 5t^2$"
+        },
+        {
+          "letra": "B",
+          "texto": "$s(t) = 5t^2$"
+        },
+        {
+          "letra": "C",
+          "texto": "$s(t) = 200 + 10t^2$"
+        },
+        {
+          "letra": "D",
+          "texto": "$s(t) = 10t^2$"
+        },
+        {
+          "letra": "E",
+          "texto": "$s(t) = 200t + 5t^2$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "No círculo Polar Ártico, durante a época da guerra fria, os soviéticos iniciaram a construção do que é hoje o maior poço construído pelo homem, com 12,5 km de comprimento. Apesar da distância atingida, a perfuração sequer se aproxima do final da crosta terrestre.\n\nFonte: https://www.bbc.com/portuguese/vert-fut-48330248.\n\nUm pequeno objeto é liberado do repouso, por um pesquisador, do topo do poço citado. Sabendo que a resistência do ar pode ser desprezada, e adotando a velocidade do som igual a 340 m/s e a aceleração da gravidade igual a $10 \\text{ m/s}^2$, o tempo entre o início do experimento e a percepção do som emitido pela colisão com o fundo do poço é de, aproximadamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "86,8 s."
+        },
+        {
+          "letra": "B",
+          "texto": "50 s."
+        },
+        {
+          "letra": "C",
+          "texto": "36,8 s."
+        },
+        {
+          "letra": "D",
+          "texto": "100 s."
+        },
+        {
+          "letra": "E",
+          "texto": "32,5 s."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Alguns compostos orgânicos insaturados, isto é, que possuem ligação dupla ou tripla, podem sofrer reações de hidratação em meio ácido. Nessa reação, também conhecida como reação de adição de água, a ligação pi ($\\pi$) do composto é rompida, e um produto de função orgânica oxigenada é formado.\n\nCaso o propeno sofra reação de adição de água em meio ácido, o produto principal será",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "propan-2-ol, um álcool."
+        },
+        {
+          "letra": "B",
+          "texto": "propan-1-ol, um álcool."
+        },
+        {
+          "letra": "C",
+          "texto": "propanona, uma cetona."
+        },
+        {
+          "letra": "D",
+          "texto": "propanal, um aldeído."
+        },
+        {
+          "letra": "E",
+          "texto": "metoxietano, um éter."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Química Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "O Novo Rio Pinheiros é um programa do Governo de São Paulo sob a coordenação da Secretaria de Infraestrutura e Meio Ambiente, que visa à despoluição do rio até dezembro de 2022, integrando-o de volta à cidade e ao dia a dia de seus moradores.\n\nEm entrevistas realizadas com 422 moradores, trabalhadores e comerciantes da Vila Joaniza, localizada na bacia do córrego Zavuvus, para avaliar o impacto local das obras de despoluição dos córregos da região promovidas pelo programa, 40% citaram a redução do mau cheiro como um dos principais benefícios.\n\nFonte: adaptado de https://www.infraestruturameioambiente.sp.gov.br\n\nÉ correto afirmar que o mau cheiro proveniente do rio ocorre",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pela liberação de sulfeto de hidrogênio, especialmente em dia mais quentes, quando a elevação da temperatura da água diminui a solubilidade dos gases."
+        },
+        {
+          "letra": "B",
+          "texto": "pela presença de gás sulfídrico, que é resultado da decomposição aeróbia da matéria orgânica presente nos esgotos lançados sem o devido tratamento."
+        },
+        {
+          "letra": "C",
+          "texto": "pelas emissões de metano, como resultado da decomposição anaeróbia da matéria orgânica."
+        },
+        {
+          "letra": "D",
+          "texto": "pela redução da DBO (Demanda Bioquímica de Oxigênio) e lançamento de esgotos sem o devido tratamento, o que causa a redução das concentrações de OD (Oxigênio Dissolvido)."
+        },
+        {
+          "letra": "E",
+          "texto": "devido à presença de altas concentrações de nutrientes dissolvidos, consequência do lançamento de esgotos sem o devido tratamento."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Química Ambiental"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Considere a seguinte equação química não balanceada:\n\n$FeCl_3 + KSCN \\rightarrow Fe(SCN)_3 + KCl$\n\nSabendo que, em uma reação, 324,6 g de $FeCl_3$ e 583,2 g de $KSCN$ reagiram, formando 447,6 g de $KCl$, analise as afirmações a seguir:\n\nI. De acordo com a lei de Lavoisier, 460,2 g de $Fe(SCN)_3$ foram formadas.\n\nII. De acordo com a lei de Proust, a proporção constante entre $Fe(SCN)_3$ e $FeCl_3$ é 0,7.\n\nIII. Para cada 1 mol de $FeCl_3$ reagido, 3 mols de $KCl$ serão formados.\n\nEstá correto o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e III, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "I e II, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III, apenas."
+        },
+        {
+          "letra": "E",
+          "texto": "III, apenas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Considere o quadro abaixo:\n\n| Substância | Fórmula | Ponto de fusão (°C) | Ponto de ebulição (°C) |\n| :--- | :--- | :--- | :--- |\n| Iodeto de cálcio | $CaI_2$ | 779 | 1100 |\n| Cafeína | (Estrutura química) | 236 | Decompõe-se antes da ebulição |\n| Propano | $H_3C-CH_2-CH_3$ | -188 | -42 |\n\nÉ correto afirmar que, em temperatura de 25°C,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "iodeto de cálcio apresenta-se como sólido iônico, cafeína como sólido que faz ligações covalentes e propano como gás que faz ligações covalentes."
+        },
+        {
+          "letra": "B",
+          "texto": "iodeto de cálcio apresenta-se como sólido covalente, cafeína como sólido que faz ligações iônicas e propano como gás que faz ligações covalentes."
+        },
+        {
+          "letra": "C",
+          "texto": "iodeto de cálcio apresenta-se como sólido iônico, cafeína como líquido, sofrendo decomposição, que faz ligações covalentes, e propano como gás que faz ligações covalentes."
+        },
+        {
+          "letra": "D",
+          "texto": "iodeto de cálcio apresenta-se como líquido covalente, cafeína como sólido, sofrendo decomposição, que faz ligações iônicas, e propano como líquido que faz ligações iônicas."
+        },
+        {
+          "letra": "E",
+          "texto": "iodeto de cálcio apresenta-se como líquido iônico, cafeína como líquido que faz ligações covalentes e propano como líquido que faz ligações iônicas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Ligações Químicas",
+        "Química – Estados da Matéria"
+      ]
+    }
+  ]
+}

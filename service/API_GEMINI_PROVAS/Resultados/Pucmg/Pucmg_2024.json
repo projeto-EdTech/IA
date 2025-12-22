@@ -1,0 +1,1039 @@
+{
+  "nomeUniversidade": "Pontifícia Universidade Católica de Minas Gerais",
+  "siglaUniversidade": "PUC Minas",
+  "nomeProva": "Vestibular 1º/2024 - Direito e Psicologia",
+  "ano": 2024,
+  "qtdeQuestoes": 40,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "INSTRUÇÃO: Para as questões 01 e 02, leia o texto retirado da Revista Língua Portuguesa, n. 19, p. 38 e 29, set. 2013.\n\nA LINGUAGEM JURÍDICA COMO ESCUDO\n\nOS EXAGEROS DO MUNDO DO DIREITO SÃO EXEMPLOS DE QUANDO A LINGUAGEM É USADA PARA PREJUDICAR O ENTENDIMENTO.\n\nPor Rogério Feijó (assessor do Tribunal de Justiça do Rio Grande do Sul)\n\nÉ notório tanto que o uso do jargão é uma necessidade insuperável dos profissionais de certas áreas quanto que toda profissão tem seus próprios termos técnicos. Quem atua em determinado campo do conhecimento lida com um tipo de linguagem a ele pertinente e que tende \"encurtar caminho\", dizer a esclarecer com um termo aquilo para o qual, sem o termo técnico, necessitaríamos de uma frase inteira.\nContudo, há excessos, sempre. No caso do ramo jurídico, em particular, o abuso é evidente. Não raro os chamados \"operadores do Direito\" (advogados, juízes, procuradores) fazem uso de uma terminologia que, embora não seja técnica – virtualmente, muitos desses termos poderiam ser aplicados a qualquer ramo do conhecimento – é muito singular, muito própria e muito estranha para quem não é “do ramo\". Não se cuida do ramo do jargão; trata-se de uma utilização que seria \"normal\" do idioma pátrio, porém, realizada de forma singular, muito particular, distanciada da linguagem usual. A questão é agravada quando se considera que poucas profissões precisam tanto da palavra escrita como aquelas do Direito. Talvez por isso, a busca pela \"originalidade\", de parte, sobretudo, dos subscritores das petições, bem como o gosto pelos neologismos e por termos em desuso ainda encontrarem lugar em nossos foros.\n\nALGUNS EXEMPLOS\n\nSegundo exemplos retirados de petições diversas, constatamos, por exemplo, que o advogado disse que seu adversário X, na ação de usucapião, não foi \"negligente”; foi \"indiligente\". Ainda que o significado do termo seja de fácil compreensão, ele não é de uso regular – e sequer consta do dicionário Aurélio. Verificamos, noutro caso, que a sentença do juiz não foi “impugnada\" pela parte; em vez disso, foi pedida a \"modificação da sentença objurgada\". Mais uma vez, o meio mais difícil para se expressar foi eleito: vale notar que objurgado é palavra de raríssimo uso e, mais uma vez, não consta no dicionário Aurélio.\nDo mesmo modo, constou de outra petição a descrição de um advogado inconformado a respeito do comportamento de determinada pessoa: “como sói acontecer, Y não atendeu aos termos do decisório vergastado\".\nTraduzindo: como de hábito, Y não cumpriu a decisão judicial. A vergasta (vara fina, de açoitar) deve ter sido bem utilizada...\nÉ certo que nosso idioma oferta incontáveis variantes terminológicas. A riqueza e a variedade de sinônimos são grandes e podem ser usadas seja como um fator de estipulação de um estilo pessoal como marca própria, subjetiva - seja para evitar repetições aborrecidas - Z alegou..., alegou ainda que..., alegou, também. De outro lado, uma faceta dessa variedade é o uso para dificultar o acesso, deliberadamente, do que poderia ou haveria de ser fácil, talvez pelo sentimento geral de que a informação dificilmente compreendida é erudita ou valiosa. É o uso da palavra como escudo, como barreira, ao oposto do seu fito primeiro, que é exatamente derrubar barreiras interpessoais e promover a comunicação.\n\nUSO CONSTANTE\n\nHá mais. A insistência no uso do latim ainda permanece, nas petições. Ainda que isso advenha do costume, também parece uma forma de alienar o leitor dito \"comum\". E isso ocorre mesmo que se considere que o Código do processo Civil diz, em seu artigo 156, que \"em todos os atos e termos do processo é obrigatório o uso do vernáculo\".\nQue o jargão se use quando necessário, parece-me perfeito, quando feito de modo oportuno. Mas o exagero ao lançar mão, de forma desnecessária, de termos incomuns, estranhos ou mesmo inexistentes caracteriza mais do que um estilo pessoal: oculta a intenção de alienar o outro, sobretudo o leitor \"comum\", menos acostumado com tais termos. Caracteriza o uso da palavra como barreira, detrás da qual se colocam os profissionais pelos mais diversos motivos. Não é um objetivo nobre, certamente. Utilizar-se da linguagem, no processo judicial, como escudo apenas contribui para disseminar uma noção popular segundo a qual, de regra, “não dá para entender nada\" do que está numa petição jurídica. Se um processo judicial não é, por natureza, leitura popular, nem por isso deve-se contribuir para que seja antipopular.\n\nO texto em análise apresenta diversas estratégias que concorrem para comprovar o que se coloca no título: A LINGUAGEM JURÍDICA COMO ESCUDO, EXCETO:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Há mais. A insistência no uso do latim ainda permanece, nas petições. Ainda que isso advenha do costume, também parece uma forma de alienar o leitor dito \"comum\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Não raro os chamados \"operadores do Direito\" (advogados, juízes, procuradores) fazem uso de uma terminologia que, embora não seja técnica – virtualmente, muitos desses termos poderiam ser aplicados a qualquer ramo do conhecimento – é muito singular, muito própria e muito estranha para quem não é “do ramo\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Quem atua em determinado campo do conhecimento lida com um tipo de linguagem a ele pertinente e que tende a \"encurtar caminho\", a esclarecer com um termo aquilo para o qual, sem o termo técnico, necessitaríamos de uma frase inteira."
+        },
+        {
+          "letra": "D",
+          "texto": "Segundo exemplos retirados de petições diversas, constatamos, por exemplo, que o advogado disse que seu adversário X, na ação de usucapião, não foi \"negligente\"; foi \"indiligente\". Ainda que o significado do termo seja de fácil compreensão, ele não é de uso regular – e sequer consta do dicionário Aurélio."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "O texto \"A LINGUAGEM JURÍDICA COMO ESCUDO - OS EXAGEROS DO MUNDO DO DIREITO SÃO EXEMPLOS DE QUANDO A LINGUAGEM É USADA PARA PREJUDICAR O ENTENDIMENTO.” é um artigo de opinião porque:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apresenta dados no estilo formal, além da progressão temática que responde a questões tais como 'o quê?', 'quem?', 'como?', 'quando?', 'por quê?' e 'para quê?'."
+        },
+        {
+          "letra": "B",
+          "texto": "consta de acontecimentos sociais e culturais e predominam os sentimentos e impressões do enunciador, ficando evidente a expressão do sujeito que dá vazão a emoções relativamente ao incômodo com a linguagem jurídica."
+        },
+        {
+          "letra": "C",
+          "texto": "estrutura-se em torno de um ponto de vista e de uma argumentação que afirmam que a linguagem jurídica é constituída de formas que dificultam a compreensão, especialmente a do leitor 'comum'."
+        },
+        {
+          "letra": "D",
+          "texto": "há um estilo de comunicação informal dirigida a um público determinado e uma procura por estabelecer uma interlocução com um destinatário ausente."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Gêneros Textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "INSTRUÇÃO: Leia o excerto a seguir retirado do livro ‘História da felicidade', de Peter N. Stearns, para responder às questões 03 e 04:\n\nDefinição básica\n\nOs psicólogos têm tentado ir além da proposição bastante óbvia de que pessoas felizes “se sentem bem\". Uma pessoa feliz consegue maximizar certas emoções de apoio ou positivas, como alegria e orgulho, e minimizar emoções mais dolorosas. Mas essa conclusão, embora verdadeira, não necessariamente contribui para o entendimento.\nEm geral, a felicidade envolve uma combinação de circunstâncias externas e internas e reações pessoais. Esse é um dos motivos pelos quais as emoções variam tanto de uma pessoa para outra. Algumas veem suas vidas dominadas pelo azar ou por um infortúnio específico, enquanto outras constroem estratégias ativas de enfrentamento. Um estudo examinou trabalhadores que faziam movimentos repetitivos em uma linha de montagem, reproduzindo sem cessar procedimentos que poderiam ser extremamente tediosos. Algumas dessas pessoas, em vez de ceder ao tédio, continuavam testando movimentos de mão mais eficientes ou desenvolviam um orgulho por exceder o ritmo esperado e ficavam muito felizes com o resultado. “É melhor do que qualquer outra coisa”, relatou um trabalhador. “É melhor do que assistir TV”. Na verdade, essa é uma visão bem antiga, pois os filósofos vêm trabalhando nela há muito tempo, diferenciando felicidade \"hedônica” de \"eudaimônica\". O argumento hedônico vê a felicidade simplesmente como potencializar o prazer e evitar o máximo possível de sofrimento. Como cada indivíduo tem suas próprias definições de prazer e dor, essa visão é bastante subjetiva. Na visão de felicidade eudaimônica, no entanto, há algumas condições objetivas que fazem parte do verdadeiro sentido da felicidade, a despeito do gosto individual de uma pessoa. Assim, relacionamentos positivos com outras pessoas e atividades virtuosas são alguns exemplos. Muitos psicólogos, assim como muitos filósofos antes deles, acabam vendo a felicidade como uma combinação de ambas as visões.\nNas últimas décadas, diversos psicólogos, tentando tornar a felicidade mais mensurável em termos objetivos, introduziram a ideia de \"bem-estar subjetivo\", ou BES. Essa visão permite que se dê alguma atenção a circunstâncias objetivas, como o número de amigos de uma pessoa ou o quanto ela é saudável, mas se concentra em relatos das próprias pessoas, ou seja, o que elas dizem sobre sua felicidade ou o quanto um determinado tipo de experiência as torna felizes (o que ajuda a explicar a empolgação com os dados de pesquisas de opinião, que, afinal de contas, dependem principalmente de as pessoas declararem que estão felizes). Pesquisadores dessa linha admitem todos os tipos de problemas sobre a autodeclaração: as pessoas podem ter lembranças imprecisas, podem tentar agradar ao pesquisador (um problema crucial em culturas que dão muito valor a parecer ser alegre) ou seu humor pode variar de maneira imprevisível. Mas, em síntese, essa visão afirma que as declarações das pessoas sobre o quanto elas são felizes representam uma característica inescapável da pesquisa sobre felicidade.\n(STEARNS, Peter N. História da Felicidade. São Paulo, Contexto, 2022, p. 30-31)\n\nO texto em análise apresenta diversas estratégias que concorrem para provocar e/ou fazer o leitor refletir sobre o tema abordado, EXCETO:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O uso de outras vozes, tal como se observa com a presença dos enunciados como “É melhor do que qualquer outra coisa” e “É melhor do que assistir TV\"."
+        },
+        {
+          "letra": "B",
+          "texto": "O recurso a questões retóricas com o intuito de promover o desencadeamento de ideias."
+        },
+        {
+          "letra": "C",
+          "texto": "A utilização e explicação de termos eruditos, por exemplo “hedônica” e “eudaimônica\", a fim de garantir a legitimidade ao texto."
+        },
+        {
+          "letra": "D",
+          "texto": "A construção de um texto com entrelaçamento de ideias divergentes e convergentes sobre a felicidade."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Coesão e Coerência"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "De acordo com o texto \"Definição básica\", pode-se afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A felicidade hedônica estimula o prazer como finalidade da vida humana e o desvio do sofrimento."
+        },
+        {
+          "letra": "B",
+          "texto": "O número de amigos que um indivíduo tem determina o seu bem-estar; quanto mais, maior é a felicidade."
+        },
+        {
+          "letra": "C",
+          "texto": "Os psicólogos admitem uma única forma de mensurar a felicidade."
+        },
+        {
+          "letra": "D",
+          "texto": "Uma pessoa que trabalha realizando movimentos repetitivos tem maior tendência à felicidade porque não cede ao tédio."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "INSTRUÇÃO: Leia:\n\n'O Cortiço', romance escrito por Aluísio Azevedo, foi publicado em 1890 e faz parte do movimento naturalista do Brasil. A obra revela as condições estruturais e higiênicas do Brasil apresentando pelo menos dois espaços. O primeiro é o cortiço, amontoado de casebres mal-arranjados, onde os pobres vivem. Esse espaço representa a mistura de raças e a promiscuidade das classes baixas. O segundo espaço, que fica ao lado do cortiço, é o sobrado aristocratizante do comerciante Miranda e de sua família. O sobrado representaria a burguesia ascendente do século XIX.\n\nEm seguida, para responder às questões 05, leia dois excertos de um artigo científico que analisa o romance 'O Cortiço', de Aloísio de Azevedo:\n\nO autor (Aloísio de Azevedo) sugere que as doenças infecciosas, uma vez contraídas devido a esses \"descuidos”, espalhavam-se com facilidade nas habitações coletivas malcheirosas, mal iluminadas e com altos índices de promiscuidade, nas quais os regulamentos sanitários e de segurança geralmente não eram respeitados. Além disso, a alta natalidade parecia pretender a manutenção do que o autor denominou \"pobreza hereditária\":\nAugusta ficara com a família numa destas casinhas do segundo andar, à direita; estava grávida outra vez; e à noite via-se o Alexandre, sempre muito circunspecto, a passear ao comprido da varanda, acalentando uma criancinha ao colo, enquanto a mulher dentro de casa cuidava de outras. A filharada crescia-lhes, que metia medo. 'Era um no papo, outro no saco'! (AZEVEDO, Aluísio. O Cortiço. São Paulo: Biblioteca Zero Hora, 1998, p. 81)\nRetirado de SANTOS, Daniela Soares dos. O Cortiço: higienização de casas e formação de almas. História e Perspectivas, Uberlândia (34): 261-294, jan./jun. 2006.\n\nE naquela terra encharcada e fumegante, naquela umidade quente e lodosa, começou a minhocar, a esfervilhar, a crescer um mundo, uma coisa viva, uma geração, que parecia brotar espontânea, ali mesmo, daquele lameiro, e multiplicar-se como larvas no esterco (AZEVEDO, Aluísio. O Cortiço. São Paulo: Biblioteca Zero Hora, 1998, p. 22.)\nOs administradores da corte começaram a notar a existência de cortiços na cidade do Rio de Janeiro, segundo Sidney Chalhoub, na década de 1850, após uma epidemia de febre amarela, neste ano, e outra de cólera, em 1855. Além de terem contribuído para a elevação das taxas de mortalidade, essas epidemias levantaram uma polêmica em torno das condições sanitárias da cidade, e sobretudo das habitações coletivas: \"[...] aí, todos os anos, irrompiam epidemias mais ou menos mortíferas, variando os índices de morbidade e mortalidade conforme a sinergia a um só tempo biológica e social dos viventes que se concatenavam no curso de cada doença.\" A República instaurada em 1889 alterou a Constituição do Estado, mas não a constituição das cidades. Seguindo a acepção astronômica da palavra, em detrimento da social, a revolução constituíra-se em um movimento circular no plano político, sem grandes modificações na instância social, proporcionando a manutenção, remanejada, dos \"donos do poder.\" A abolição da escravatura, por sua vez, havia modificado algumas estruturas, sobretudo no que dizia respeito ao aumento do número de desempregados e encortiçados. Os defensores desta bandeira não haviam pensado no destino dos libertos analfabetos, sem qualificação para o trabalho, sem moradia e fonte de renda.\nA promiscuidade, a alta natalidade, os surtos epidêmicos apontados pelo autor eram utilizados por políticos e intelectuais para justificar suas incursões aos cortiços e o combate às moradias populares. Os “saberes médicos”, investidos de plenos poderes pelos governantes, ordenou a destruição de vários cortiços, mas a exemplo do que acontecia com as casas de cômodo, a cada estalagem destruída, aumentava-se o número de moradores em outras, que tinham diminuídas suas condições higiênicas e de habitabilidade. A modernização empreendida pela elite brasileira a fim de tornar a capital da república mais atraente para turistas, imigrantes e investidores, deixou milhares de trabalhadores sem casa e outros tantos em habitações cada vez mais precárias e insalubres.\nRetirado de SANTOS, Daniela Soares dos. O Cortiço: higienização de casas e formação de almas. História e Perspectivas, Uberlândia (34): 261-294, jan./jun. 2006.\n\nA partir do que foi trazido anteriormente, analise as assertivas:\n\nI. As doenças infecciosas, surgidas no final do século XIX e início do século XX, estavam relacionadas prioritariamente à manutenção de uma população que vivia amontoada em casas de poucos e pequenos cômodos.\nII. As habitações coletivas favoreciam altos índices de promiscuidade e, com isso, alta natalidade e crescimento de uma população que vivia vulnerável à contração de enfermidades.\nIII. O fato de doenças e mortes decorrentes do padrão social e político do final do século XIX concentrarem-se nas populações de baixa renda contribuía para o aumento da elite.\nIV. No excerto 'começou a minhocar, a esfervilhar, a crescer um mundo, uma coisa viva, uma geração, que parecia brotar espontânea, ali mesmo, daquele lameiro, e multiplicar-se como larvas no esterco', o autor dá ideia de que o cortiço tem vida própria.\n\nEstão CORRETAS, apenas as assertivas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "I, II e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "II e IV."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura (Naturalismo)",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Os Objetivos do Desenvolvimento Sustentável (ODS) representam um plano de ação global para eliminar a pobreza extrema e a fome, oferecer educação de qualidade ao longo da vida para todos, proteger o planeta e promover sociedades pacíficas e inclusivas até 2030. Para que as crianças e os adolescentes possam herdar um planeta mais sustentável, os ODS requerem a integração das políticas de mudanças climáticas nas estratégias e nos planos nacionais e a garantia de acesso a serviços de energia acessíveis, confiáveis e modernos para todos até 2030.\nÉ uma ação voltada para a sustentabilidade, por meio de políticas relacionadas à energia:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Diversificar as fontes de energia, dando prioridade àquelas menos dependentes de tecnologia como a queima do carvão mineral."
+        },
+        {
+          "letra": "B",
+          "texto": "Intensificar o uso de energias não renováveis."
+        },
+        {
+          "letra": "C",
+          "texto": "Nunca utilizar a energia nuclear e eólica, pois elas representam perigo para o meio ambiente."
+        },
+        {
+          "letra": "D",
+          "texto": "Otimizar o uso da energia produzida, gerando menos despedício e utilizando menos recursos do planeta."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Ecologia (Desenvolvimento Sustentável)"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "A caatinga é um bioma brasileiro encontrado principalmente na região Nordeste e que ocupa uma área equivalente a 11% do território nacional. Rico em biodiversidade, o bioma abriga 178 espécies de mamíferos, 591 de aves, 177 de répteis, 79 espécies de anfíbios, 241 de peixes e 221 de abelhas. O clima encontrado na região é o tropical semiárido, com médias de temperaturas anuais elevadas, geralmente superiores a 25°C, em alguns lugares superior a 32°C, e por chuvas escassas e irregulares com longos períodos de seca. Da área total original da caatinga, de 1,1 milhão de km², cerca de 800 mil km² sofreram processo de desertificação e salinização do solo. Apesar da sua importância, o bioma tem sido desmatado de forma acelerada, especialmente nos últimos anos, devido principalmente ao consumo de lenha nativa, explorada de forma ilegal e insustentável, para fins domésticos e industriais e a conversão do território para pastagens e agricultura. Essa destruição ocasionou, inclusive, o desaparecimento das populações de ararinhas-azuis que eram encontradas por ali. A ararinha-azul é uma espécie que se alimenta de frutos, castanhas e sementes, costuma fazer seus ninhos em troncos ocos, colocando de três a quatro ovos por ninhada.\n(Texto adaptado do Portal do Ministério do Meio Ambiente)\n\nA quantidade de populações de vertebrados encontradas na Caatinga é de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5."
+        },
+        {
+          "letra": "B",
+          "texto": "6."
+        },
+        {
+          "letra": "C",
+          "texto": "1266."
+        },
+        {
+          "letra": "D",
+          "texto": "1487."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Ecologia (Biomas)",
+        "Biologia – Zoologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "As caravelas-portuguesas são animais marinhos pertencentes ao grupo das águas-vivas. Elas são compostas por vários indivíduos diferentes, cada qual especializado em uma função e são ligados uns aos outros de tal forma que não podem viver separados.\nDesse modo, os indivíduos responsáveis pela defesa do grupo são alongados e possuem tentáculos com células urticantes. Os indivíduos que cuidam da alimentação apresentam um sistema digestório bastante rudimentar. Há também aqueles que são responsáveis pela liberação das células para a reprodução. E há ainda os que são cheios de ar e flutuam. Os animais que compõem o grupo das caravelas não se movimentam de forma independente; mas são levados, conjuntamente, pelas correntes.\n\nhttps://www.uol.com.br/vivabem/noticias/redacao/2020/01/02/caravelas-portuguesas-surgem-no-litoral-de-sp-saiba-riscos-ao-toca-las.htm\n\nPode-se afirmar que as caravelas-portuguesas estabelecem entre os indivíduos uma relação",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "interespecífica harmônica denominada mutualismo."
+        },
+        {
+          "letra": "B",
+          "texto": "interespecífica harmônica denominada sociedade."
+        },
+        {
+          "letra": "C",
+          "texto": "intraespecífica desarmônica denominada comensalismo."
+        },
+        {
+          "letra": "D",
+          "texto": "intraespecífica harmônica denominada colônia."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Ecologia (Relações Ecológicas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "No filme \"Procurando Nemo\", os ovos com os embriões são devorados por uma barracuda, restando apenas o ovo que dá origem ao Nemo.\n\nA respeito do processo de formação dos embriões nesses peixes, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Normalmente possuem uma grande liberação de gametas masculinos e femininos, pois a fecundação é interna."
+        },
+        {
+          "letra": "B",
+          "texto": "O desenvolvimento dos embriões ocorre dentro de ovos que ficam protegidos dentro do corpo da mãe."
+        },
+        {
+          "letra": "C",
+          "texto": "São animais ovíparos com fecundação externa, o que diminui as chances de sobrevivência de cada embrião."
+        },
+        {
+          "letra": "D",
+          "texto": "São animais vivíparos e, por isso, são mais susceptíveis a ataques ou mudanças no meio."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Zoologia (Reprodução Animal)"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "O sistema de sonar próprio da natureza é denominado ecolocalização e ocorre quando um animal emite uma onda sonora que rebate em um objeto, produzindo um eco que fornece informações sobre a distância e o tamanho desse objeto. Mais de mil espécies empregam a ecolocalização, incluindo a maioria dos morcegos. Alguns morcegos usam esse sistema para capturar mariposas. Contudo, algumas espécies de mariposas são capazes de emitir um ultrassom que atrapalha o sonar desses animais, impedindo o retorno do som de forma apropriada para seus ouvidos. Como consequência dos ultrassons produzidos por essas mariposas, os predadores realizam ataques atrapalhados e confusos, tentando agarrar suas presas em lugares errados, onde não há nada, demonstrando que as indicações do sistema de ecolocalização podem falhar.\n\nFonte: https://www.nationalgeographicbrasil.com/animais/2021/02/veja-como-funciona-a-ecolocalizacao-o-sonar-inerente-da-natureza\n\nConsidere uma equipe de pesquisadores que construiu um grande espaço fechado e controlado e inseriu, além dos morcegos, dois tipos de mariposa:\n\n• Tipo 1: mariposas que emitem ultrassons;\n• Tipo 2: mariposas \"silenciosas\", que não emitem ultrassons.\n\nApós realizarem um monitoramento ao longo da noite, chegaram aos seguintes resultados sobre a porcentagem de captura das mariposas pelos morcegos:\n\nDe acordo com as informações apresentadas, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A mariposa tipo A é aquela que emite ultrassons e uma conclusão do experimento é que a emissão de ultrassons beneficia tanto o predador como a presa."
+        },
+        {
+          "letra": "B",
+          "texto": "A mariposa tipo A é aquela que emite ultrassons e uma conclusão do experimento é que a emissão de ultrassons beneficia apenas o predador."
+        },
+        {
+          "letra": "C",
+          "texto": "A mariposa tipo B é aquela que emite ultrassons e uma conclusão do experimento é que a emissão de ultrassons beneficia apenas o predador."
+        },
+        {
+          "letra": "D",
+          "texto": "A mariposa tipo B é aquela que emite ultrassons e uma conclusão do experimento é que a emissão de ultrassons não beneficia o predador nem a presa."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Ecologia (Relações Ecológicas)",
+        "Biologia – Análise de Experimentos"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Uma amostra de 20 mL de HCl 0,15 mol/L foi totalmente neutralizada por 10 mL de uma amostra de hidróxido de magnésio, Mg(OH)2. A equação não balanceada da reação é\n\n$$HCl + Mg(OH)_2 \\rightarrow MgCl_2 + H_2O$$\n\nA concentração inicial do hidróxido usado é, em $mol \\cdot L^{-1}$:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,15"
+        },
+        {
+          "letra": "B",
+          "texto": "0,3"
+        },
+        {
+          "letra": "C",
+          "texto": "0,6"
+        },
+        {
+          "letra": "D",
+          "texto": "0,75"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Estequiometria",
+        "Química – Soluções (Titulação)"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "O gás etano ($C_2H_6$) reage com oxigênio ($O_2$) de acordo com a equação:\n\n$$C_2H_6 + 7/2 O_2 \\rightarrow 2 CO_2 + 3 H_2O$$\n\nEssa combustão libera aproximadamente 3267 kJ de energia para cada mol de etano consumido.\nEm relação ao esse fenômeno, é CORRETO dizer que a reação é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "endotérmica e os produtos possuem mais energia potencial química que os reagentes."
+        },
+        {
+          "letra": "B",
+          "texto": "endotérmica e os produtos possuem menos energia potencial química que os reagentes."
+        },
+        {
+          "letra": "C",
+          "texto": "exotérmica e os produtos possuem mais energia potencial química que os reagentes."
+        },
+        {
+          "letra": "D",
+          "texto": "exotérmica e os produtos possuem menos energia potencial química que os reagentes."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Termoquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "No diagrama a seguir, a curva X representa o volume de oxigênio obtido na decomposição de 100 mL de $H_2O_2$ (peróxido de hidrogênio) 20 volumes catalisado por dióxido de manganês $MnO_2$.\n\nPara se obter a curva Y a partir dos dados já informados, é necessário:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Aumentar a concentração do catalisador."
+        },
+        {
+          "letra": "B",
+          "texto": "Aumentar a temperatura do sistema."
+        },
+        {
+          "letra": "C",
+          "texto": "Adicionar mais peróxido de hidrogênio."
+        },
+        {
+          "letra": "D",
+          "texto": "Diminuir a pressão do sistema."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Cinética Química"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Em relação aos dois compostos apresentados a seguir,\n\né CORRETO afirmar que ambos apresentam",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 carbonos e o II é um isômero E."
+        },
+        {
+          "letra": "B",
+          "texto": "3 carbonos e o II é um isômero Z."
+        },
+        {
+          "letra": "C",
+          "texto": "5 carbonos e o II é um isômero Cis."
+        },
+        {
+          "letra": "D",
+          "texto": "5 carbonos e o II é um isômero Trans."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Isomeria Geométrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Considere o esquema e a tabela fornecida.\n\nEquação de Redução | E°(red) V a 25 °C\n---|---\n$Cu^{2+}_{(aq)} + 2e^- \\rightarrow Cu_{(s)}$ | + 0,34\n$Pb^{2+}_{(aq)} + 2e^- \\rightarrow Pb_{(s)}$ | - 0,13\n$Ni^{2+}_{(aq)} + 2e^- \\rightarrow Ni_{(s)}$ | - 0,25\n$Fe^{2+}_{(aq)} + 2e^- \\rightarrow Fe_{(s)}$ | - 0,44\n$Zn^{2+}_{(aq)} + 2e^- \\rightarrow Zn_{(s)}$ | - 0,76\n$Mg^{2+}_{(aq)} + 2e^- \\rightarrow Mg_{(s)}$ | - 2,36\n\nA alternativa que apresenta uma reação espontânea em que haverá deposito na placa conforme o esquema apresentado é:",
+      "alternativas": null,
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Eletroquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Cobertores espaciais consistem em uma fina camada metálica, comumente de alumínio, e tipicamente são empregados em naves espaciais para controle térmico. Também são usados por pessoas contra o frio em situações de emergência devido ao seu baixo preço e à fácil portabilidade.\n\nSobre o cobertor espacial, NÃO é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Funciona como cobertor devido à sua baixa condutividade térmica."
+        },
+        {
+          "letra": "B",
+          "texto": "O uso do cobertor evita grande parte da emissão de calor por radiação térmica."
+        },
+        {
+          "letra": "C",
+          "texto": "Pode ser usado para se defender de raios solares."
+        },
+        {
+          "letra": "D",
+          "texto": "Uma pessoa embrulhada no cobertor estaria numa gaiola de Faraday."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Termologia (Transmissão de Calor)"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "As turbulências que se sente durante uma viagem de carro, muitas vezes, são causadas pelas imperfeições no terreno, que causam vibrações no automóvel.\nConsidere uma estrada hipotética sem irregularidades e um carro que viaja por essa estrada sem nenhuma vibração.\nUm passageiro viajando nesse carro estaria sempre em repouso em relação ao veículo caso se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a mudança de velocidade em relação à Terra fosse constante durante o trajeto."
+        },
+        {
+          "letra": "B",
+          "texto": "o carro não fizesse curvas e nem mudasse o módulo da sua velocidade em relação à Terra."
+        },
+        {
+          "letra": "C",
+          "texto": "o carro não mudasse muito o módulo da sua velocidade em relação à Terra."
+        },
+        {
+          "letra": "D",
+          "texto": "o carro não subisse ou descesse morros e nem mudasse o módulo da sua velocidade em relação à Terra."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Cinemática (Referencial)"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "O termômetro de mercúrio ($Hg$) tradicional, denominado também como termômetro de líquido, tem como princípio a dilatação volumétrica desse líquido de acordo com a temperatura a que ele é submetido.\n\nConsidere o gráfico de volume x temperatura da água a seguir:\n\nSe uma pessoa no Rio de Janeiro quiser projetar um termômetro líquido, sensível no alcance de 0°C a 20°C, o líquido NÃO poderia ser água porque",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a água começaria a congelar quando a temperatura se aproximasse de 0°C."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas elementos metálicos dilatam sob pequenas mudanças de temperatura."
+        },
+        {
+          "letra": "C",
+          "texto": "não seria possível distinguir entre temperaturas abaixo e acima de 4°C."
+        },
+        {
+          "letra": "D",
+          "texto": "o volume da água depende linearmente da temperatura."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Termologia (Dilatação Anômala da Água)"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "As ondas de rádio podem propagar-se pelo vácuo na velocidade da luz, podendo ser usadas para transportar uma grande quantidade de informações para antenas de rádio, televisão, GPS, telefonia móvel e outros. As ondas de rádio produzidas artificialmente são geradas mediante a aceleração de cargas elétricas, no interior de antenas transmissoras.\nOndas de rádio são usadas para comunicação entre dois pontos não conectados fisicamente. Quando as ondas são captadas por um aparelho, uma pequena força eletromotriz é induzida no circuito da antena receptora desse equipamento devido à variação do campo magnético. A força eletromotriz é, então, amplificada e as informações originais, contidas nas ondas de rádio, são recuperadas e apresentadas de uma maneira que possa ser entendida, como na forma de som, em um alto-falante por exemplo.\nObservando as informações do texto e com base nos conhecimentos de ondas, podemos afirmar que as ondas de rádio e as ondas sonoras são, respectivamente, de natureza",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "eletromagnética e eletromagnética."
+        },
+        {
+          "letra": "B",
+          "texto": "eletromagnética e mecânica."
+        },
+        {
+          "letra": "C",
+          "texto": "mecânica e eletromagnética."
+        },
+        {
+          "letra": "D",
+          "texto": "mecânica e mecânica."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Ondulatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "\"A intensidade do campo gravitacional no interior de um planeta com densidade uniforme é proporcional à distância radial a partir de seu centro e atinge seu valor máximo na superfície. Do lado de fora, ela é inversamente proporcional ao quadrado da distância até o centro do planeta\".\nObserve a figura.\n\nConsiderando que o planeta Terra tenha densidade uniforme e que o valor do campo gravitacional em sua superfície seja de $10N/kg$, pode-se afirmar que o valor do campo gravitacional na distância de 2 raios terrestres é, em N/kg, de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2,5"
+        },
+        {
+          "letra": "B",
+          "texto": "5,0"
+        },
+        {
+          "letra": "C",
+          "texto": "10"
+        },
+        {
+          "letra": "D",
+          "texto": "20"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Gravitação Universal"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Para repor o teor de cálcio de seu corpo, uma criança entre 1 e 3 anos deve ingerir, aproximadamente, 725 mg de cálcio por dia. Considere que um litro de leite integral contém 1250 mg de cálcio.\nCom base nesses dados, é CORRETO afirmar que a quantidade de leite integral, medida em mL, que uma criança dessa faixa etária deve ingerir diariamente, a fim de repor o teor de cálcio de seu corpo, é aproximadamente igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "580 mL"
+        },
+        {
+          "letra": "B",
+          "texto": "650 mL"
+        },
+        {
+          "letra": "C",
+          "texto": "710 mL"
+        },
+        {
+          "letra": "D",
+          "texto": "820 mL"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Proporcionalidade",
+        "Matemática – Regra de Três"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "O dispositivo que controla a temperatura T de certa estufa é acionado a cada meia hora, ficando ligado durante 10 minutos. A temperatura T, medida em graus centígrados, passa a ser regulada em função do tempo t, contado em minutos, de acordo com a lei $T(t) = -t^2 + 9t - 8$, com $0 \\le t \\le 10$.\nCom base nessas informações, no intervalo em que o dispositivo estiver ativo, a temperatura na estufa será maior que ou igual a $6^\\circ C$ durante:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 minutos."
+        },
+        {
+          "letra": "B",
+          "texto": "3 minutos."
+        },
+        {
+          "letra": "C",
+          "texto": "4 minutos."
+        },
+        {
+          "letra": "D",
+          "texto": "5 minutos."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Inequação do 2º grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "O índice pluviométrico, calculado em milímetros, refere-se à quantidade de chuva por metro quadrado em determinado local e em determinado período. Certa cidade é dividida em três setores: o setor Sul, com 15 km², o setor Central, com 10 km² e o setor Norte, com 25 km². A tabela abaixo traz o índice pluviométrico verificado em cada um desses setores, divulgado após um final de semana.\n\nCom base nos dados exibidos, é CORRETO afirmar que o índice pluviométrico nesse final de semana na cidade inteira foi igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "19 mm"
+        },
+        {
+          "letra": "B",
+          "texto": "25 mm"
+        },
+        {
+          "letra": "C",
+          "texto": "26 mm"
+        },
+        {
+          "letra": "D",
+          "texto": "29 mm"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Média Ponderada"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "De uma tela retangular de base 3m e altura 2m, deve-se recortar um quadrado de lado x e um trapézio isósceles, conforme a figura. A área da parte sombreada a ser retirada mede a metade da área total desta tela.\n\nCom base nesses dados, é CORRETO afirmar que o valor de x, em metros, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,0"
+        },
+        {
+          "letra": "B",
+          "texto": "1,5"
+        },
+        {
+          "letra": "C",
+          "texto": "2,0"
+        },
+        {
+          "letra": "D",
+          "texto": "2,5"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Plana (Áreas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Pelos programas de controle da febre amarela, sabe-se que o risco R de infecção dessa doença se comporta de acordo com o modelo $R(t) = R_0 \\cdot 2^{-0,5t}$, sendo Ro o risco de infecção no início da contagem do tempo t, medido em anos. Em certa região, o risco de infecção, em 2020, era de 2%.\nCom base nessas informações, é CORRETO estimar que, em 2026, o risco de infecção deverá cair para aproximadamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,20%"
+        },
+        {
+          "letra": "B",
+          "texto": "0,25%"
+        },
+        {
+          "letra": "C",
+          "texto": "0,33%"
+        },
+        {
+          "letra": "D",
+          "texto": "0,66%"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Função Exponencial"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "READ THE FOLLOWING TEXT AND CHOOSE THE OPTION WHICH BEST COMPLETES EACH QUESTION ACCORDING TO THE TEXT:\n\nBrand-backed influencer campaigns can be hard to spot.\n\nNearly three-quarters of Generation Z (people born between 1996 and 2010) follow at least one influencer on social media platforms and 44% buy things based on influencers' recommendations. This age group is estimated to include as much as 30% of the global population, so marketers sit up and take notice when influencers become popular among this age group. Having a popular influencer talk about your product on social media can make your brand go viral. Companies understand this and many are prepared to readjust their marketing plans to collaborate with influencers to boost brand awareness and sales. But it's reasonable to be suspicious of such collaborations.\nSome research shows 45% of marketers want to control the content and aesthetics of this type of influencer post. However, part of the appeal of an influencer is that they are supposed to be a real-life person trying out a product and giving their natural reaction. So followers typically expect influencers to provide genuine information rather than to succumb to the control of a brand. Obvious promotion of unrealistic or unsustainable lifestyles, or the misrepresentation of facts by influencers, could result in a flood of unfollows.\nOur research shows Gen Z consumers are more intolerant towards influencer campaigns perceived to be explicitly marketer-controlled versus more natural recommendations by social media personalities. And people are more likely to \"punish” social media influencers with larger follower numbers for sharing biased and fake campaigns, according to it. Companies sponsoring the campaigns are not protected from the fury of the followers either. We found that brands seen to be sponsoring these campaigns can suffer as a result.\nOf course, some posts are clearly marked as ads for a brand. Some influencers will even sign up to be an official spokesperson for a brand, but it's not always very clear that an influencer is a front for a corporate campaign. The UK Advertising Standards Agency (ASA) provides guidance for influencers, but its research shows social media users still struggle to tell advertising content apart from non-advertising content on social media. To keep their followers happy and engaged, influencers need to remain real and give their unbiased opinions. They should always make it clear when they are partnering for a campaign or risk losing followers not to mention customers for the brand. Voluntarily disclosing partnerships could even help build brand credibility. Followers trust these influencers and engage with them, and this trust should be protected.\n(From: https://theconversation.com. Access: 09/18/2023. Adapted.)\n\nWhich of the sentences below is CORRECT, according to the text?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "If a popular influencer frequently mentions your product on social media, there is no strong probability that it may go viral."
+        },
+        {
+          "letra": "B",
+          "texto": "It is absolutely irrational to be suspicious of collaborations made by influencers on social media platforms."
+        },
+        {
+          "letra": "C",
+          "texto": "Marketers tend to pay attention when influencers on social media platforms become popular among people from Generation Z."
+        },
+        {
+          "letra": "D",
+          "texto": "The majority of people who are following influencers on social media platforms always buy things based on their recommendations."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "What does the word their in “... part of the appeal of an influencer is that they are supposed to be a real-life person trying out a product and giving their natural reaction.” refer to?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "To fictitious people."
+        },
+        {
+          "letra": "B",
+          "texto": "To influencers."
+        },
+        {
+          "letra": "C",
+          "texto": "To natural reactions."
+        },
+        {
+          "letra": "D",
+          "texto": "To products."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Referência Pronominal"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "In the following sentence “The UK Advertising Standards Agency (ASA) provides guidance for influencers, but its research shows social media users still struggle to tell advertising content apart from non-advertising content on social media.”, the use of the word but conveys an idea of",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Cause."
+        },
+        {
+          "letra": "B",
+          "texto": "Comparison."
+        },
+        {
+          "letra": "C",
+          "texto": "Conclusion."
+        },
+        {
+          "letra": "D",
+          "texto": "Contrast."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Conjunções"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "What does the use of the word should in “They should always make it clear when they are partnering for a campaign” indicate?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A permission."
+        },
+        {
+          "letra": "B",
+          "texto": "A prohibition."
+        },
+        {
+          "letra": "C",
+          "texto": "A restriction."
+        },
+        {
+          "letra": "D",
+          "texto": "A suggestion."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Verbos Modais"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "What is the main idea of the text?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Brands seen to be sponsoring campaigns recognized as marketer-controlled may suffer some retaliation."
+        },
+        {
+          "letra": "B",
+          "texto": "Fake campaigns tend to be particularly profitable when there are more specific recommendations from influencers."
+        },
+        {
+          "letra": "C",
+          "texto": "Gen Z consumers are usually more prejudiced towards more natural recommendations by social media personalities."
+        },
+        {
+          "letra": "D",
+          "texto": "Influencer campaigns clearly recognized as marketer-controlled make Gen Z consumers extremely receptive."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Ideia Central do Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Leia com atenção os trechos a seguir:\n\nI.\nPara Alencar [o escritor José de Alencar, deputado em 1871], o fim da escravidão teria de ser um \"fato natural, como foi a sua origem e desenvolvimento. Nenhuma lei a decretou; nenhuma lei pode derrogá-la\" (adaptado de ALONSO, Ângela. Flores, Votos e Balas: o movimento abolicionista brasileiro (1968-88). São Paulo: Companhia das Letras, 2015. p. 62)\n\nII.\nAndrade Figueira [também deputado em 1871] afirmava que a \"grande inconveniência de legislar-se sem dados, que só a estatística podia fornecer, e que talvez, por si sós bastassem para demonstrar a possibilidade de uma solução lenta e suave, sem abalo da riqueza pública e particular, respeitando todos os direitos. [...] Além do que, a situação de escravidão produziria indivíduos incapazes, precisados de regramento e orientação. Deus criara a sociedade com uns no topo e outros na base, o fim de uma hierarquia apenas iniciaria outra” (adaptado de ALONSO, Ângela. Flores, Votos e Balas: o movimento abolicionista brasileiro (1968-88). São Paulo: Companhia das Letras, 2015, p. 63)\n\nIII.\nA história da escravidão africana na América é um abismo de degradação e miséria que não pode sondar, e, infelizmente, essa é a história do crescimento do Brasil. No ponto a que chegamos, olhando para o passado, nós, brasileiros, descendentes ou da raça que escreveu essa triste página da humanidade ou da raça com cujo sangue ela foi escrita, ou da fusão de uma e de outra, não devemos perder tempo a envergonhar-nos desse longo passado que não podemos lavar. [...] Devemos fazer convergir todos os nossos esforços para o fim de eliminar a escravidão do nosso organismo (extraído de O abolicionismo, de Joaquim Nabuco e citado por BEIGUELMAN, Paula. Joaquim Nabuco. São Paulo: Editora Perspectiva, 1999. p. 69)\n\nOs trechos acima tratam de opiniões divergentes sobre o fim da escravidão: os autores dos trechos I e o II são deputados contrários à extinção da instituição da escravidão e o autor do trecho III vai defender a extinção da escravidão. Diante disso, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O trecho III inclui os escravizados na luta pela abolição do escravismo no Brasil, tratando-os como soldados ativos que deveriam se rebelar."
+        },
+        {
+          "letra": "B",
+          "texto": "Os discursos indicam o principal espaço da luta pelo fim do escravismo: o poder legislativo. Quando aprovadas, as leis são sempre cumpridas."
+        },
+        {
+          "letra": "C",
+          "texto": "Os trechos exaltam ideias pró e contra a escravidão sob a ótica da desigualdade ou violência entre as raças e como questão humanitária."
+        },
+        {
+          "letra": "D",
+          "texto": "Nenhum dos três trechos defende a escravidão, mas os dois primeiros colocam entraves ao fim dela, tratando-a como natural e necessária."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Brasil Império (Abolicionismo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Os anos de 2022 e 2023 foram marcados pela discussão do Marco Temporal das Terras Indígenas. Marco Temporal é uma tese jurídica segundo a qual os povos indígenas têm direito de ocupar apenas as terras que ocupavam ou já disputavam em 5 de outubro de 1988, data de promulgação da Constituição. Parece questão recente, entretanto, a discussão territorial das Terras Indígenas já aparecia no Decreto 426, de 1845, durante o Império Brasílico. Leia o trecho que trata do Decreto 426:\n\nO Decreto nº 426 era composto por 11 (onze) artigos e 70 (setenta) parágrafos, que discorriam sobre variados assuntos. O Regulamento revelava-se como um projeto governamental de civilização do índio ao mesmo tempo em que valorizava a administração leiga dos Diretores e assim os poderes da província, e destacava o papel primordial do elemento religioso para o desenvolvimento das políticas do Império, com as catequeses e a preservação do sistema de aldeamento adotado desde o século XVI pelos colonizadores. Propunha a criação de escolas para crianças nas aldeias, o incentivo ao desenvolvimento dos ofícios e artes mecânicas, o estímulo à produção de alimentos nas terras das aldeias [...] a prática da propriedade coletiva (terras, ferramentas, roças). Entretanto, a política de criação de benefícios se dirigia somente aos índios aldeados, ou seja, àqueles índios que colaboravam com as diretrizes impostas pelas determinações dos aldeamentos, que implicavam manter-se em paz com os preceitos governamentais. Para a concessão de terras aos indígenas, necessitar-se-ia da demarcação destas pelo próprio governo, representado pelo Diretor Geral, que irá - propôr ao Presidente da Provincia a demarcação, que devem ter os districtos das Aldêas, e fazer demarcar as terras [...] que forem dadas aos Indios. Se a Aldêa já estiver estabelecida, e existir em lugar povoado, o districto não se estenderá além dos limites das terras [...], conforme art. 1º, §11º do Decreto nº 426 de 1845.\n(Adaptado de MELO, Vinicius Holanda. LIMA, Martonio Mont'Alverne Barreto. Políticas indigenistas no brasil colonial, imperial e republicano: a evolução do ordenamento jurídico brasileiro. Revista do Programa de Pós-Graduação em Direito. Salvador. v. 32, p. 1-27, 2022, Data de publicação. 08/01/2023. Disponível em https://periodicos.ufba.br/index.php/rppgd/article/download/43473/28391/206983. Consulta em: 27 set. 2023).\n\nSobre a regulamentação da questão indígena e das terras indígenas no Império Brasílico, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A percepção de que o índio e sua terra precisavam ser regulados no império estava ligada à expansão territorial e à preocupação de controlar as terras indígenas e os indígenas em si mesmos."
+        },
+        {
+          "letra": "B",
+          "texto": "A questão civilizatória é a justificativa corrente para a decisão da demarcação das terras. Indígenas que se ocupassem de trabalhar, de serem úteis ao progresso e ao Estado, teriam suas terras demarcadas."
+        },
+        {
+          "letra": "C",
+          "texto": "A territorialização indígena era um problema menor a ser resolvido, o importante é que, uma vez aldeados, tornavam-se aliados na proteção dos colonos brancos de invasões estrangeiras e por outros indígenas inimigos."
+        },
+        {
+          "letra": "D",
+          "texto": "O Império Brasílico se voltava para a aculturação dos povos indígenas por meio da catequese, a partir da missão da Igreja em levar a fé católica para as Américas e garantir a salvação dos gentios."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Brasil Império (Questão Indígena)"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Ainda falando de direitos no Império Brasílico, o texto da Constituição Brasileira de 1824 começa assim:\n\nCARTA DA LEI DE 25 DE MARÇO DE 1824\n\nManda observar a Constituição Política do Império, oferecida e jurada por sua Majestade o Imperador\n\nDom Pedro Primeiro, por Graça de Deus e unânime aclamação dos povos, Imperador Constitucional e Defensor Perpétuo do Brasil: Fazemos saber a todos os nossos súditos que tendo-nos requerido os povos deste Império, juntos em Câmaras, que nós quanto antes jurássemos e devêssemos jurar o Projeto de Constituição que havíamos oferecido às suas observações para serem depois presentes à nova Assembleia Constituinte; mostrando o grande desejo, que tinham, de que ele se observasse já como Constituição do Império, por lhes merecer a mais plena aprovação, e dele esperarem a sua individual e geral felicidade política. Nós juramos o sobredito. Projeto para observarmos e fazermos observar como Constituição, que de ora em diante fica sendo deste império, a qual é do teor seguinte: Em Nome da Santíssima Trindade (Preâmbulo da Constituição Brasileira de 1824)\n\nSobre o preâmbulo e a Constituição de 1824, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Define o modelo de governo adotado pela monarquia imperial brasileira: uma monarquia unitária autônoma, rompida com o processo colonizador português na inauguração de uma nação livre, democrática e igualitária."
+        },
+        {
+          "letra": "B",
+          "texto": "Materializa o projeto de nação das elites, na ação pela Independência, que incorpora a noção de que o Brasil era uma monarquia constitucional, moderna e apoiada nos valores contratualistas do século XIX e na Fé Católica."
+        },
+        {
+          "letra": "C",
+          "texto": "Não limitava o poder de D. Pedro I e essa foi sua intenção desde o início, explícita no ato de dissolver a Assembleia Constituinte de 1823, ignorando o processo democrático que legitimou o poder aos deputados eleitos."
+        },
+        {
+          "letra": "D",
+          "texto": "No preâmbulo, a Carta afirma ser em nome do requerimento dos povos, colocando-se à sua plena aprovação, entretanto, não ocorreu nenhuma consulta ou sua tentativa. O texto também tem caráter autoritário do início ao fim."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Brasil Império (Constituição de 1824)"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "O ano de 2023 mais uma vez trouxe a marca da Guerra: Rússia X Ucrânia, Hamas X Israel. A Cultura da Guerra está na História humana, mas existem questões interessantes e esperançosas a dividir.\n\nLeia a notícia a seguir\n\nO 'milagre' em que alemães e britânicos saíram das trincheiras para cantar juntos em plena guerra\n7 maio 2021\n\nA Primeira Guerra Mundial foi um dos conflitos mais mortíferos da história. Muitas de suas batalhas mais longas e violentas foram travadas em trincheiras abertas em campos da França e da Bélgica, onde milhões de soldados perderam suas vidas. [...] Mas no Natal de 1914, ocorreu um pequeno milagre. Soldados alemães e britânicos interromperam os combates, e juntos, cantaram canções de Natal, trocaram presentes e jogaram futebol.\nA trégua espontânea no dia de Natal de 1914 foi observada em vários pontos das frentes de batalha, mas durou pouco, e logo os violentos combates foram retomados. Mas ela se tornou um poderoso símbolo da boa vontade entre os povos e do ideal de convivência pacífica.\n[...] Na véspera do Natal, aconteceu algo inesperado em uma dessas trincheiras, perto da cidade francesa de Armentiéres, próxima da fronteira com a Bélgica, como recordou, anos mais tarde, no programa Witness History, da BBC, o então jovem soldado britânico Graham Williams.\n\"Eu estava de sentinela nesta noite, olhando para as linhas alemãs do outro lado. E fiquei pensando em como esse Natal seria diferente dos anteriores. A essa altura, lá em casa, a gente teria preparado a árvore de Natal e as decorações típicas. De repente, apareceram luzes nas trincheiras alemãs. Eu pensei, que coisa engraçada... Aí os alemães começaram a cantar Noite Feliz, Noite de Paz. Eu acordei os outros sentinelas, eles acordaram outros soldados. Todos queriam ver o que estava acontecendo.\"[...] respondemos cantando The First Noel.\" [...] A gente cantava nossas canções, e eles respondiam cantando as deles. Até a gente cantar Come o Ye Faithful, quando os alemães imediatamente começaram a cantar junto a mesma música com a letra em latim, Adeste Fidelis. [...] Duas nações cantando junto a mesma canção natalina no meio da guerra.\nCenas como essas descrita pelo soldado Williams foram vistas em vários pontos da frente de batalha. Homens que por meses tentaram matar um ao outro emergiram cautelosamente de suas posições, apertaram as mãos, começaram a conversar, dividiram rações e beberam juntos. Em algumas partes da \"Terra de Ninguém\", como era chamado o território entre as trincheiras, houve até partidas de futebol. Uma delas terminou Alemanha 3, Inglaterra 2.\n(Disponível em: https://www.bbc.com/portuguese/geral-56292269. Consulta em: 08 out. 2023)\n\nA Primeira Grande Guerra (1924-1918) colocou em lados opostos homens que lutavam por suas nações, mobilizados por um nacionalismo moderno e agressivo.\nSobre nacionalismo e a reportagem, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A afronta a uma nação é a resposta suficiente para que os homens ataquem uns aos outros. Para esses homens, considerados como soldados, a obediência e a manutenção da ordem servem de orientação para lutar sem questionamento."
+        },
+        {
+          "letra": "B",
+          "texto": "As guerras se encerram sozinhas, como indica a reportagem: num momento faz sentido lutar, no outro, não faz mais e nem se sabe por que se entrou na guerra. Se as pessoas se conhecessem umas às outras antes, não haveria guerra."
+        },
+        {
+          "letra": "C",
+          "texto": "Na configuração nacional do fim do século XIX e início do século XX, as disputas respondiam à soberania dentro da Europa, assim, lutar para garantir terras e sobrevivência a longo prazo estimulava o egoísmo dos homens a lutar pelo seu futuro."
+        },
+        {
+          "letra": "D",
+          "texto": "O nacionalismo como motivação que orientou a Guerra colocou uma fração da humanidade contra outra. Apesar de falarem outra língua e das suas especificidades históricas, sociais e culturais, os europeus não eram tão diferentes assim."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Primeira Guerra Mundial"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Veja a reportagem da 1ª Edição da Revista Alterosa, que circulou em Belo Horizonte, em agosto de 1930:\n\nParte superior: \"O América dispensa especial carinho para com seu Departamento Feminino. As senhorias que compõem, todas da melhor sociedade mineira, exercitam no estádio rubro todos os esportes e, recentemente, foi realizado um festival interno de atletismo. Dessa forma, ALTEROSA registra em suas páginas os flagrantes \"passe-partout\", onde se veem as moças do clube rubro saltando obstáculos e dando saída às maratonas em volta do estádio \"Otacílio Negrão\".\nParte inferior: Os flagrantes dessa competição atlética do Departamento feminino do América foram apanhados especialmente para a ALTEROSA.\n\nAnalisando a reportagem e o contexto da época, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A descrição na reportagem de que eram todas “senhorias que compõem o melhor da sociedade mineira\" indica o lugar social da mulher, distanciando-se muito da ideia de feminismo atual."
+        },
+        {
+          "letra": "B",
+          "texto": "A revista dá destaque, mostrando a valorização das mulheres na capital mineira e comprovando que elas estavam crescendo em participação na cidade independentemente da classe social."
+        },
+        {
+          "letra": "C",
+          "texto": "O feminismo estava em alta na capital mineira, já que foram lançadas competições femininas nos clubes recreativos da cidade, indicando que, nos esportes, havia igualdade de gênero."
+        },
+        {
+          "letra": "D",
+          "texto": "O foco na saúde física tem relação com o contexto da Era Vargas marcado por um \"culto ao corpo\" como reforma e como direito e aí está a sua relação com o feminismo como luta."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Era Vargas (Feminismo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Leia o trecho abaixo e faça o que se pede:\n\nAmazônia vive seca devastadora: 'Natureza não tem tempo de se adaptar'\n\nA Amazônia enfrenta uma seca que pode bater recordes e superar as estiagens mais devastadoras já registradas. Só no estado do Amazonas, 24 municípios estão em situação de emergência, e 34 em alerta, segundo boletim divulgado na terça. [...] A seca atual pode superar a megasseca de 2005, que, segundo Sampaio, foi a mais intensa na região sudoeste da Amazônia. Naquela época, o estado do Amazonas entrou em calamidade pública devido ao baixo nível dos rios. Faltaram alimentos, combustível, energia e água. Houve novas estiagens severas em 2010, 2015 e 2016.\nDisponível em: https://noticias.uol.com.br/meio-ambiente/ultimas-noticias/redacao/2023/10/04/seca-historica-regiao-norte.htm?cmpid=copiaecola Acesso em: 04 out. 2023.\n\nDe acordo com pesquisadores, prevê-se que a região da Amazônia poderá enfrentar a maior seca de sua história, cujos efeitos devem ser sentidos até meados de 2024. Tal evento poderá causar uma tragédia tanto humana quanto ambiental na região, com consequências para o clima em outras partes do país.\n\nLeia a seguir duas afirmativas referentes a essa questão e faça o que se pede:\n\nAfirmativa I – O El Niño é o fenômeno apontado como o grande responsável pela seca na Amazônia, entretanto, ele não é o principal agente neste momento pela estiagem severa no Sudoeste amazônico, mas sim, a sua combinação com o aquecimento excepcional do Oceano Atlântico Tropical Norte.\n\nPorque...\n\nAfirmativa II - Com águas oceânicas mais quentes, o padrão de circulação atmosférica intensifica-se. O ar quente do oceano ascende com mais vigor e, ao se deslocar, desce com força sobre a terra. Esse fenômeno resulta em um sistema de alta pressão atmosférica que, por compressão, aquece o ar e inibe a formação de nuvens e, consequentemente, de chuva.\n\nSobre essas duas afirmativas, é CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a primeira é falsa, enquanto a segunda é verdadeira."
+        },
+        {
+          "letra": "B",
+          "texto": "a primeira é verdadeira, e a segunda é falsa."
+        },
+        {
+          "letra": "C",
+          "texto": "as duas são verdadeiras, e a segunda é uma justificativa correta da primeira."
+        },
+        {
+          "letra": "D",
+          "texto": "as duas são verdadeiras, mas não estabelecem relação entre si."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Climatologia (Fenômenos Climáticos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "\"Dois terços da população mundial vivem em contextos de baixa fecundidade, incluindo o Brasil, mostra relatório do Fundo de População das Nações Unidas (UNFPA). [...] Segundo a publicação intitulada “8 Bilhões de Vidas, Infinitas Possibilidades\", 66% da humanidade vivem em países com taxa de fecundidade abaixo do nível de reposição, que é de 2,1 filhos por mulher. O Brasil está entre eles: o país registrou queda em sua taxa de fecundidade, que no relatório é estimada em 1,6, o menor índice já registrado.\"\nDisponível em: https://brazil.unfpa.org/pt-br/news/dois-tercos-da-populacao-mundial-vive-em-contextos-de-baixa-fecundidade-incluindo-o-brasil Acesso em: agosto de 2023.\n\nAs baixas taxas de fecundidade parece ser o destino da sociedade contemporânea. Como procedência da Redução da Taxa de Fecundidade Total no Brasil, tem-se que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As transformações econômicas e sociais intensificadas na primeira metade do século XX, motivadas pela necessidade de mão de obra no campo, incluindo a das mulheres, levaram o país ao status de agrário-exportador, impactando as taxas de fecundidade."
+        },
+        {
+          "letra": "B",
+          "texto": "O processo de urbanização intensificado a partir de meados do século XX promove mudanças no modo de vida da população brasileira e as mulheres, principalmente devido às dificuldades de conciliar trabalho, vida social e familiar, têm optado por ter menos filhos."
+        },
+        {
+          "letra": "C",
+          "texto": "No século XXI, beneficiada com normas sociais favoráveis, como flexibilidade no trabalho e equiparação salarial em relação aos homens, a mulher passou a optar por ter um número menor de filhos para poder se dedicar a uma vida social mais intensa."
+        },
+        {
+          "letra": "D",
+          "texto": "No século XXI, percebe-se uma tendência de um mercado de trabalho menos competitivo e exigente, o que resultou em uma diminuição dos gastos do Estado com questões sociais. Isso permitiu que políticas públicas voltadas para a população fossem mais efetivas, impactando diretamente na taxa de fecundidade."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Demografia (Taxa de Fecundidade)"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "\"O tema da revitalização urbana aponta um modo de pensar praticamente a cidade, isto é, a cidade enquanto prática socioespacial, o que coloca desafios. Em primeiro lugar, a intervenção nos \"lugares da metrópole\", através de processos de revitalização/requalificação, aponta uma relação complexa entre o Estado e o espaço, na medida em que, não se pode esquecer, o poder político tem possibilidade de intervir, permitir ou coordenar a intervenção no espaço, como é que ocorre no caso das revitalizações. Esta também se trata de uma ação que se realiza produzindo contradições\".\n(CARLOS, Ana F. A. O Espaço Urbano: Novos Escritos sobre a Cidade. São Paulo: FFLCH, 2007. p. 87).\n\nA partir da problemática levantada pela autora, e sobre o papel dos agentes envolvidos na produção/reprodução do espaço urbano, é INCORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O Estado é o agente responsável por elaborar normas de zoneamento e código de obras."
+        },
+        {
+          "letra": "B",
+          "texto": "O Estado, responsável em prover o espaço urbano de serviços públicos, age com imparcialidade, independente dos interesses individuais de outros agentes envolvidos."
+        },
+        {
+          "letra": "C",
+          "texto": "O conflito agudo e violento que se desenvolve no e pelo espaço encontra-se entre o espaço que se transforma em valor de troca e o espaço que conserva valor de uso;"
+        },
+        {
+          "letra": "D",
+          "texto": "A grande contradição na produção/reprodução do espaço urbano está na subordinação dos espaços à dominação da troca para investimento do capital ignorando que o espaço urbano também representa um valor uso."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geografia Urbana (Produção do Espaço)"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Leia o trecho da reportagem sobre terremoto que atingiu o Marrocos.\n\n“O Marrocos, país do norte da África, foi atingido por um terremoto com magnitude de 6.8 graus na última sexta-feira, dia 8 de setembro. O abalo sísmico ocorreu perto da cidade marroquina de Oukaimeden, a uma profundidade de 26 quilômetros, de acordo com o Serviço Geológico dos Estados Unidos (USGS, na sigla em inglês), instituição considerada referência mundial na área. O número de mortos e feridos continua aumentando enquanto as equipes de resgate trabalham nos locais afetados\"\nDisponível em: https://www.nationalgeographicbrasil.com/meio-ambiente/2023/09/terremoto-no-marrocos-por-que-os-abalos-sismicos-no-pais-nao-sao-raros. Acesso em: setembro de 2023.\n\nAinda de acordo com a reportagem, o Marrocos é uma região propensa a terremotos. Esse fenômeno pode ser explicado pela posição geográfica do país, que se encontra na junção da Placa Euroasiática com a Placa Africana. O recente terremoto tem sua origem associada a uma falha oblíqua reversa rasa nas montanhas do Alto Atlas. Vale ressaltar que a Cordilheira do Atlas está situada justamente na confluência destas placas, tornando-a uma zona de atividades sísmicas. Conforme análise do serviço geológico americano, nesta região, a Placa Africana apresenta um movimento anual aproximado de 3,6 milímetros na direção oeste-sudoeste, em relação à Placa Euroasiática.\n\nCom base na reportagem sobre a atividade sísmica em Marrocos e em seus conhecimentos sobre tectônica de placas, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A origem da atividade sísmica, próxima à cidade de Oukaimeden, indica que os eventos sísmicos em Marrocos não estão restritos apenas às fronteiras tectônicas, mas também podem ocorrer devido a falhas intraplacas."
+        },
+        {
+          "letra": "B",
+          "texto": "A Cordilheira do Atlas, por sua posição geológica na junção das Placas Euroasiática e Africana, poderia ser considerada uma barreira natural que previne a ocorrência de terremotos em áreas mais internas de Marrocos."
+        },
+        {
+          "letra": "C",
+          "texto": "As placas litosféricas deslocam-se rapidamente, a uma taxa de alguns metros por ano, resultando em tensões que se acumulam em vários locais, especialmente nas proximidades de suas bordas."
+        },
+        {
+          "letra": "D",
+          "texto": "Terremotos são mais comuns em regiões onde as placas tectônicas estão estáticas e não se movimentam, pois a ausência de movimento gera uma maior acumulação de energia."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geologia (Tectônica de Placas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "\"Ao longo do período de uma vida, cerca de 40 anos, ocorreram mais da metade das emissões de $CO_2$ da humanidade. [...] Cerca de 86% das emissões de dióxido de carbono do mundo vêm da queima de combustíveis fósseis para a produção de energia e materiais. As primeiras eras da industrialização foram dominadas pela queima de carvão vegetal. Só no final do século 19 começam a aumentar as emissões por petróleo e gás natural. E, no final do século 20, as emissões pela produção de cimento e pela chama um dispositivo de combustão de gases inflamáveis usado na indústria, se tornam mais significativas. [...] Uma nova pesquisa sobre acumulado histórico de emissões de $CO_2$ põe o Brasil entre os maiores poluidores do mundo'.\nFonte: Disponível em: https://www.bbc.com/portuguese/geral-59013520\n\nObserve o gráfico abaixo e faça o que se pede:\n\nTodas as afirmações podem ser verificadas no gráfico, EXCETO:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Em 2019, o dado mais recente apresentado no gráfico mostra que o mundo emitiu 36,4 bilhões de toneladas de $CO_2$."
+        },
+        {
+          "letra": "B",
+          "texto": "A maior parte da queima de combustíveis fósseis ocorreu após o fim da Segunda Guerra Mundial, atingindo seu pico em 2019."
+        },
+        {
+          "letra": "C",
+          "texto": "Aproximadamente 52,74% das emissões globais de $CO_2$ aconteceram a partir de 1990, indicando que mais da metade das emissões ocorreu nos últimos 30 anos."
+        },
+        {
+          "letra": "D",
+          "texto": "Após a Revolução Industrial, a emissão de $CO_2$ aumentou exponencialmente até meados do século 20."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Meio Ambiente (Emissões de Carbono)",
+        "Geografia – Análise de Gráficos"
+      ]
+    }
+  ]
+}

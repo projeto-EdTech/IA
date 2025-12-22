@@ -1,0 +1,1789 @@
+{
+  "nomeUniversidade": "Universidade Federal do Paraná",
+  "siglaUniversidade": "UFPR",
+  "nomeProva": "Processo Seletivo",
+  "ano": 2022,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "The following text refers to questions 01 to 03.\n\nThe surprising history of India's vibrant sari tradition\n\nSouth Asian women have draped themselves in colorful silks and cottons for eons. The ways they're made and worn are dazzling and diverse.\nThe word \"sari\" means \"strip of cloth\" in Sanskrit. But for the Indian women — and a few men — who have been wrapping themselves in silk, cotton, or linen for millennia, these swaths of fabric are more than just simple garments. They're symbols of national pride, ambassadors for traditional (and cutting-edge) design and craftsmanship, and a prime example of the rich differences in India's 29 states.\n\"The sari both as symbol and reality has filled the imagination of the subcontinent, with its appeal and its ability to conceal and reveal the personality of the person wearing it,\" says Delhi-based textile historian Rta Kapur Chishti, author of Saris of India: Tradition and Beyond and co-founder of Taanbaan, a fabric company devoted to reviving and preserving traditional Indian spinning and weaving methods.\nThe first mention of saris (alternately spelled sarees) is in the Rig Veda, a Hindu book of hymns dating to 3,000 B.C.; draped garments show up on Indian sculptures from the first through sixth centuries, too. What Delhi-based textile historian Rta Kapur Chishti calls the \"magical unstitched garment\" is ideally suited to India's blazingly hot climate and the modest-dress customs of both Hindu and Muslim communities. Saris also remain traditional for women in other South Asian countries including Pakistan, Bangladesh, and Nepal.\n\nSari, which in Sanskrit means \"strip of cloth\", represents more than a piece of clothing in India. In relation to the different meaning(s) attributed to the sari, consider the following affirmatives:\n\n1. It stands for both up-to-date and conventional patterns.\n2. People wear it in different ways.\n3. Both men and women can wear it.\n4. People cannot avoid an arrogant attitude when they put it on.\n\nMark the affirmative(s) that is/are present in the text.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "4 only."
+        },
+        {
+          "letra": "b",
+          "texto": "1 and 3 only."
+        },
+        {
+          "letra": "c",
+          "texto": "2 and 4 only."
+        },
+        {
+          "letra": "d",
+          "texto": "1, 2 and 3 only."
+        },
+        {
+          "letra": "e",
+          "texto": "1, 2, 3 and 4."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "In the first sentence of the text, the underlined and in bold type word \"eons\" means:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "the last few years."
+        },
+        {
+          "letra": "b",
+          "texto": "an extremely long period of time."
+        },
+        {
+          "letra": "c",
+          "texto": "many years to come."
+        },
+        {
+          "letra": "d",
+          "texto": "special occasions."
+        },
+        {
+          "letra": "e",
+          "texto": "Indian women."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "In the fourth paragraph, Delhi-based textile historian Rta Kapur Chishti calls the sari the \"unstitched garment\" because it:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "is made of silk."
+        },
+        {
+          "letra": "b",
+          "texto": "preserves traditional spinning techniques."
+        },
+        {
+          "letra": "c",
+          "texto": "is not sewed."
+        },
+        {
+          "letra": "d",
+          "texto": "can be easily untangled."
+        },
+        {
+          "letra": "e",
+          "texto": "falls in loose folds."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Consider the following piece of news:\n\nCoal fire crackdown and London mosque stabbing\n\nThe headline in a British newspaper refers to:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "severe measures against specific fuel fires and a knife attack at a temple in London."
+        },
+        {
+          "letra": "b",
+          "texto": "the lack of coal supplies for the coming winter and the persecution of a Londoner in a church."
+        },
+        {
+          "letra": "c",
+          "texto": "the shortage of coal for heating ovens and the attack in a fair in London."
+        },
+        {
+          "letra": "d",
+          "texto": "some restrictions imposed on coal to heat both houses and Muslim temples in London."
+        },
+        {
+          "letra": "e",
+          "texto": "a huge explosion and the destruction of a church in London."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Na espécie A, linhagens puras de plantas com flores brancas cruzadas com plantas de flores vermelhas produziram apenas plantas com flores vermelhas. Essas plantas com flores vermelhas cruzadas entre si produziram $\\frac{3}{4}$ de plantas com flores vermelhas e $\\frac{1}{4}$ de plantas com flores brancas. Na espécie B, linhagens puras de plantas com flores brancas cruzadas com plantas de flores vermelhas produziram apenas plantas com flores cor-de-rosa. Essas plantas com flores cor-de-rosa cruzadas entre si produziram $\\frac{1}{4}$ de plantas com flores vermelhas, $\\frac{1}{2}$ de plantas com flores cor-de-rosa e $\\frac{1}{4}$ de plantas com flores brancas.\n\nPara esse caso, considerando o padrão de herança e as interações alélicas dos genes que determinam a cor da flor nas espécies A e B, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Nas espécies A e B, os alelos para cor de flor vermelha são codominantes em relação aos alelos que condicionam flores brancas."
+        },
+        {
+          "letra": "b",
+          "texto": "Na espécie A, a proporção observada na geração F2 evidencia que o alelo que condiciona flores brancas apresenta dominância incompleta."
+        },
+        {
+          "letra": "c",
+          "texto": "Na espécie B, a proporção observada na geração F2 evidencia dominância completa do alelo que condiciona flores vermelhas."
+        },
+        {
+          "letra": "d",
+          "texto": "Na espécie A, o alelo para flores vermelhas é completamente dominante, enquanto na espécie B o alelo para flores vermelhas apresenta dominância incompleta."
+        },
+        {
+          "letra": "e",
+          "texto": "Nas espécies A e B, o alelo para cor de flor vermelha é incompletamente dominante em relação ao alelo que condiciona flores brancas."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Biologia – Genética Mendeliana",
+        "Biologia – Interações Alélicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Além da presença de glândulas mamárias, são características exclusivas da classe Mammalia:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "dentes diferenciados, placenta e córion."
+        },
+        {
+          "letra": "b",
+          "texto": "coração com quatro cavidades, diafragma e alantoide."
+        },
+        {
+          "letra": "c",
+          "texto": "pelos, alantoide e dentes diferenciados."
+        },
+        {
+          "letra": "d",
+          "texto": "córion, dentes diferenciados e coração com quatro cavidades."
+        },
+        {
+          "letra": "e",
+          "texto": "diafragma, placenta e pelos."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Biologia – Zoologia de Vertebrados"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Microbiologia do solo é o estudo de organismos vivos no solo, de suas funções e de como eles afetam as propriedades do solo. No solo, é possível encontrar grupos de bactérias, fungos, algas, vírus e protozoários que formam a microbiota do solo. A respeito do assunto, considere as seguintes afirmativas:\n\n1. Os microrganismos atuam na ciclagem de nutrientes, melhorando a estrutura do solo e degradando poluentes orgânicos.\n2. Uma importante relação dos microrganismos do solo com as plantas é a fixação biológica de nitrogênio.\n3. A microbiota do solo promove a redução da capacidade de absorção de água do solo, melhorando sua estrutura.\n4. Os microrganismos do solo diminuem a capacidade tampão do solo, favorecendo os plantios agrícolas.\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Somente a afirmativa 3 é verdadeira."
+        },
+        {
+          "letra": "b",
+          "texto": "Somente as afirmativas 1 e 2 são verdadeiras."
+        },
+        {
+          "letra": "c",
+          "texto": "Somente as afirmativas 3 e 4 são verdadeiras."
+        },
+        {
+          "letra": "d",
+          "texto": "Somente as afirmativas 1, 2 e 4 são verdadeiras."
+        },
+        {
+          "letra": "e",
+          "texto": "As afirmativas 1, 2, 3 e 4 são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Biologia – Ecologia",
+        "Biologia – Microbiologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Espécime, população biológica e espécie são conceitos relacionados e muito importantes para o estudo da biodiversidade. A respeito desses conceitos, assinale a afirmativa correta.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Uma população biológica é constituída por espécimes da mesma espécie que vivem em uma mesma área geográfica."
+        },
+        {
+          "letra": "b",
+          "texto": "Populações biológicas são grupos de espécies semelhantes, formadas por diferentes espécimes da mesma área geográfica."
+        },
+        {
+          "letra": "c",
+          "texto": "Uma população biológica é formada por diferentes espécies que habitam áreas geográficas semelhantes."
+        },
+        {
+          "letra": "d",
+          "texto": "Um espécime é um tipo de espécie que se distribui em diferentes populações biológicas ao longo de áreas geográficas distintas."
+        },
+        {
+          "letra": "e",
+          "texto": "Espécimes são grupos de espécies semelhantes constituídas por populações biológicas da mesma área geográfica."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Biologia – Ecologia de Populações"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "No que diz respeito aos mecanismos de transporte transmembranar, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "No epitélio intestinal dos animais, as especializações da membrana chamadas de microvilosidades reduzem a área de absorção, evitando o transporte por endocitose."
+        },
+        {
+          "letra": "b",
+          "texto": "Na difusão simples, a passagem de substâncias através da membrana ocorre a favor do gradiente de concentração, com gasto de ATP."
+        },
+        {
+          "letra": "c",
+          "texto": "Nos neurônios, o potencial de repouso da membrana é mantido pela difusão facilitada chamada de bomba sódio-potássio."
+        },
+        {
+          "letra": "d",
+          "texto": "A região dos pelos radiculares das plantas tem maior concentração de solutos que a água do solo, de modo que a água entra no interior das raízes por osmose."
+        },
+        {
+          "letra": "e",
+          "texto": "O transporte ativo é caracterizado pela passagem de substâncias a favor do gradiente de concentração, com o auxílio de proteínas carreadoras chamadas de permeases."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Biologia – Citologia",
+        "Biologia – Fisiologia Celular"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Em relação ao processo de fotossíntese nas plantas, é correto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "somente gimnospermas e angiospermas são capazes de realizar fotossíntese, pois são plantas vasculares e com sementes."
+        },
+        {
+          "letra": "b",
+          "texto": "as briófitas possuem estruturas clorofiladas, mas são incapazes de realizar fotossíntese por não possuírem vasos condutores."
+        },
+        {
+          "letra": "c",
+          "texto": "as pteridófitas possuem folhas com células ricas em cloroplastos, relacionadas com a realização da fotossíntese."
+        },
+        {
+          "letra": "d",
+          "texto": "desde que interrompam o processo de respiração celular, plantas avasculares podem fazer fotossíntese."
+        },
+        {
+          "letra": "e",
+          "texto": "nas plantas vasculares, a fotossíntese é interrompida durante a respiração celular devido ao ponto de compensação fótica."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Biologia – Botânica",
+        "Biologia – Fisiologia Vegetal"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Após pagar o valor da conta da pizzaria, Ana, Beatriz e Carlos voltaram para casa. No caminho, ninguém se recordava de quanto foi exatamente o valor da conta. Ana lembrava que a conta deu um valor inteiro e menor que 200 reais. Beatriz lembrava que deu um valor maior que 50 reais. Carlos lembrou que a soma dos algarismos do valor da conta dava 6. Admitindo que todos estavam certos, quantos são os valores possíveis para a conta?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "6."
+        },
+        {
+          "letra": "b",
+          "texto": "7."
+        },
+        {
+          "letra": "c",
+          "texto": "8."
+        },
+        {
+          "letra": "d",
+          "texto": "9."
+        },
+        {
+          "letra": "e",
+          "texto": "10."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Matemática – Aritmética",
+        "Matemática – Resolução de Problemas"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Na figura ao lado, considere os segmentos de reta AE e CD, e os triângulos retângulos ABC e BDE. Suponha que o comprimento de AB é igual a x, e que o comprimento de AC é igual a y. Considerando que os segmentos AC e BD têm o mesmo comprimento, qual das alternativas abaixo corresponde ao valor do comprimento do segmento DE?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "$\\frac{y}{\\sqrt{x^2-y^2}}$"
+        },
+        {
+          "letra": "b",
+          "texto": "$\\frac{\\sqrt{x^2-y^2}}{y}$"
+        },
+        {
+          "letra": "c",
+          "texto": "$y\\sqrt{(x^2 - y^2)}$"
+        },
+        {
+          "letra": "d",
+          "texto": "$\\frac{y^2}{\\sqrt{x^2-y^2}}$"
+        },
+        {
+          "letra": "e",
+          "texto": "$\\frac{\\sqrt{x^2-y^2}}{y^2}$"
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Teorema de Pitágoras"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "No plano cartesiano, considere o triângulo ABC com $A = (8,6)$, $B = (3, -4)$ e $C = (-1, 2)$. Seja D o ponto de intersecção do segmento AB com o eixo x. Se r é a reta que passa por D, sendo essa reta paralela à reta que passa por B e C, assinale a alternativa que corresponde à equação de r.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "$3x + 2y = 15$."
+        },
+        {
+          "letra": "b",
+          "texto": "$2x + 3y = 10$."
+        },
+        {
+          "letra": "c",
+          "texto": "$3x + 2y = 8$."
+        },
+        {
+          "letra": "d",
+          "texto": "$3x + 2y = 3$."
+        },
+        {
+          "letra": "e",
+          "texto": "$2x + 3y = 2$."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Na figura ao lado, temos uma circunferência de raio r>0 com centro na origem do plano complexo e, ao longo da circunferência, temos 6 números complexos: $z_1, z_2, z_3, z_4, z_5, z_6$. Supondo que os 6 números complexos são vértices de um hexágono regular e que $z_1$ está no eixo x, considere as seguintes equações:\n\n1. $z_2 + z_6 = r^2$\n2. $z_3 = \\bar{z_5}$\n3. $z_2 \\cdot z_3 = z_4$\n4. $\\frac{z_5}{z_6} = r$\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Somente a equação 3 é verdadeira."
+        },
+        {
+          "letra": "b",
+          "texto": "Somente as equações 1 e 3 são verdadeiras."
+        },
+        {
+          "letra": "c",
+          "texto": "Somente as equações 2 e 4 são verdadeiras."
+        },
+        {
+          "letra": "d",
+          "texto": "Somente as equações 1, 2 e 4 são verdadeiras."
+        },
+        {
+          "letra": "e",
+          "texto": "As equações 1, 2, 3 e 4 são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Matemática – Números Complexos"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Uma fábrica de calçados possui um custo fixo mensal de R$ 20.000,00 relacionado a pagamentos de salários, aluguel e outras despesas fixas. Sabendo que, a cada par de calçados produzido, essa fábrica fatura R$ 28,00, a expressão que descreve o lucro mensal, em reais, em função do número x de calçados produzidos é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "$20.000x – 28$."
+        },
+        {
+          "letra": "b",
+          "texto": "$28x-20.000$."
+        },
+        {
+          "letra": "c",
+          "texto": "$28x + 20.000$."
+        },
+        {
+          "letra": "d",
+          "texto": "$-28x + 20.000$."
+        },
+        {
+          "letra": "e",
+          "texto": "$-20.000x + 28$."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Matemática – Funções do 1º grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Considere a seguinte matriz:\n$$A = \\begin{pmatrix} \\sin\\theta & 7 & -\\cos\\theta \\\\ \\cos\\theta & 7 & \\sin\\theta \\\\ \\sin\\theta & 13 & \\cos\\theta \\end{pmatrix}$$\nAssinale a alternativa que corresponde à soma dos valores de $\\theta \\in [0, \\pi]$ que satisfazem $\\det A = -13$.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "$\\frac{\\pi}{4}$"
+        },
+        {
+          "letra": "b",
+          "texto": "$\\frac{2\\pi}{3}$"
+        },
+        {
+          "letra": "c",
+          "texto": "$\\frac{3\\pi}{4}$"
+        },
+        {
+          "letra": "d",
+          "texto": "$2\\pi$"
+        },
+        {
+          "letra": "e",
+          "texto": "$4\\pi$"
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Matemática – Matrizes",
+        "Matemática – Trigonometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Leia o seguinte excerto:\n\nO choque da morte de Maomé foi uma das mais sérias crises que a comunidade muçulmana teve de enfrentar. Até então, Maomé guiara cada um de seus passos. Como então poderiam continuar sem ele? [...] Alguns muçulmanos mais comprometidos também ficaram imaginando se a morte de Maomé pusera mesmo fim à sua empreitada, e os que desejavam apontar um sucessor dividiram-se imediatamente em grupos rivais.\n(ARMSTRONG, Karen. Maomé: uma biografia do profeta. Tradução Andréia Guerini, Fabiano Seixas Fernandes, Walter Carlos Costa. São Paulo: Companhia das Letras, 2002, p. 288-289.)\n\nConsiderando o excerto acima, é correto afirmar que a crise acarretada pela morte de Maomé teve como resultado:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "a separação da comunidade muçulmana entre duas capitais distintas: Meca e Bagdá."
+        },
+        {
+          "letra": "b",
+          "texto": "a divisão da comunidade muçulmana entre sunitas e xiitas."
+        },
+        {
+          "letra": "c",
+          "texto": "o estabelecimento de duas dinastias muçulmanas rivais: os Almorávidas e os Almôadas."
+        },
+        {
+          "letra": "d",
+          "texto": "o surgimento de vertentes religiosas como o sufismo e o ismaelismo."
+        },
+        {
+          "letra": "e",
+          "texto": "o aparecimento de comunidades muçulmanas independentes, como as taifas e os emirados."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "História – História Geral",
+        "História – Islamismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Leia o seguinte excerto:\n\n[...] o acúmulo de agressões que atingiram as populações do Ocidente de 1348 ao começo do século XVIII criou, de alto a baixo do corpo social, um abalo psíquico profundo [...]. Constitui-se um 'país do medo' no interior do qual uma civilização se sentiu 'pouco à vontade' e povoou de fantasmas mórbidos.\n(DELUMEAU, J. História do Medo no Ocidente: 1300-1800, Uma Cidade Sitiada. Tradução Maria Lucia Machado. São Paulo: Companhia das Letras, 2009, p. 43.)\n\nDe acordo com os conhecimentos sobre a Europa no século XIV, são duas das principais \"agressões\" relacionadas ao excerto acima:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "a crise do sistema mercantilista e as revoltas burguesas."
+        },
+        {
+          "letra": "b",
+          "texto": "a querela das investiduras e as controvérsias iconoclastas."
+        },
+        {
+          "letra": "c",
+          "texto": "a chamada caça às bruxas e as expedições cruzadas."
+        },
+        {
+          "letra": "d",
+          "texto": "a guerra das Duas Rosas e as invasões dos hunos."
+        },
+        {
+          "letra": "e",
+          "texto": "a epidemia de peste bubônica e as ondas de fome."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "História – História Geral",
+        "História – Baixa Idade Média"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Leia o seguinte excerto:\n\n[...] essa foi a única revolta de escravos bem-sucedida da História, e as dificuldades que tiveram de superar colocam em evidência a magnitude dos interesses envolvidos.\n(JAMES, C. J. R. Os Jacobinos Negros. Tradução Afonso Teixeira Filho. São Paulo: Boitempo, 2010, p. 15.)\n\nO excerto acima se refere à/ao:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Revolução Haitiana."
+        },
+        {
+          "letra": "b",
+          "texto": "Revolta dos Malês."
+        },
+        {
+          "letra": "c",
+          "texto": "Revolução Cubana."
+        },
+        {
+          "letra": "d",
+          "texto": "Levante da Costa Alemã de 1811."
+        },
+        {
+          "letra": "e",
+          "texto": "Revolta dos Angolares."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "História – História da América",
+        "História – Revolução Haitiana"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Considerando os eventos da Reforma Protestante (iniciada em 1517) e seus desdobramentos na Idade Moderna, uma concepção religiosa reforçada pelos seguidores da Reforma em relação ao cristianismo vigente na época foi a:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "exaltação da simonia, que almejava trazer os cristãos afastados para o cotidiano da igreja."
+        },
+        {
+          "letra": "b",
+          "texto": "ênfase na justificação pela fé, que visava eliminar intermediários humanos na relação com a divindade."
+        },
+        {
+          "letra": "c",
+          "texto": "importância do celibato, que intentava preservar o clero regular da corrupção de bens religiosos."
+        },
+        {
+          "letra": "d",
+          "texto": "renovação das obras de caridade, que pretendia reforçar o engajamento dos cristãos na vida social."
+        },
+        {
+          "letra": "e",
+          "texto": "adoção da peregrinação, que procurava aproximar os fiéis de diferentes partes da Europa."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "História – História Geral",
+        "História – Reforma Protestante"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Considere o seguinte trecho de uma carta enviada pelo rei do Congo ao rei de Portugal em 1526:\n\nOs comerciantes estão sequestrando o nosso povo dia após dia - filhos deste país, filhos de nossos nobres e vassalos, mesmo as pessoas de nossa própria família [...]. Essa corrupção e depravação estão tão generalizadas que a nossa terra é inteiramente despovoada. [...] Precisamos neste reino só de sacerdotes e professores, e nenhuma mercadoria, a menos que seja vinho e farinha para o santo sacramento [...]. É nosso desejo que este reino não seja um lugar para o comércio ou transporte de escravos.\n(MEREDITH, Martin. O Destino da África: cinco mil anos de riquezas, ganância e desafios. Tradução Marlene Suano. Rio de Janeiro: Zahar, 2017, p. 122.)\n\nCom base no texto acima e nos conhecimentos acerca dos contatos entre sociedades africanas e europeias no início da Idade Moderna, é correto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "o tráfico de pessoas escravizadas por parte de Portugal visava o despovoamento do Reino do Congo como estratégia para uma futura colonização."
+        },
+        {
+          "letra": "b",
+          "texto": "a cristianização do Reino do Congo se deu através da presença militar e da construção de feitorias portuguesas na costa africana."
+        },
+        {
+          "letra": "c",
+          "texto": "o Reino do Congo buscava, através da diplomacia, estabelecer suas próprias leis para a regulação do tráfico de pessoas escravizadas."
+        },
+        {
+          "letra": "d",
+          "texto": "as influências políticas e culturais de Portugal eram recebidas com hostilidade pelo Reino do Congo porque entravam em conflito com tradições locais."
+        },
+        {
+          "letra": "e",
+          "texto": "as tensões decorrentes do tráfico de pessoas escravizadas ocasionaram a Primeira Guerra Luso-Portuguesa."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "História – História da África",
+        "História – Expansão Marítima Europeia"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Em relação à história do Brasil no século XX, assinale a alternativa que apresenta uma ocorrência de governo parlamentarista e sua respectiva razão de implantação.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "O governo do presidente Fernando Henrique Cardoso, entre 1995 e 1999, foi implantado devido à vitória do parlamentarismo no plebiscito sobre regimes de governo em 1993."
+        },
+        {
+          "letra": "b",
+          "texto": "O governo do presidente Washington Luís, entre 1926 e 1930, foi implantado devido ao desgaste da política do café-com-leite e à ascensão do movimento da Aliança Liberal."
+        },
+        {
+          "letra": "c",
+          "texto": "O governo do presidente Eurico Gaspar Dutra, entre 1950 e 1951, foi implantado devido aos planos de instauração de uma ditadura militar com auxílio da Arena (Aliança Renovadora Nacional)."
+        },
+        {
+          "letra": "d",
+          "texto": "O governo do presidente João Goulart, entre 1961 e 1963, foi implantado devido à articulação de setores militares e conservadores para limitar os poderes presidenciais."
+        },
+        {
+          "letra": "e",
+          "texto": "O governo do presidente Café Filho, entre 1954 e 1955, foi implantado devido à crise política decorrente do suicídio de Getúlio Vargas e da mobilização do Partido Comunista para tomar o poder."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "História – História do Brasil República"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "O texto a seguir é referência para as questões 23 a 28.\n\nEm todas as questões, as medições são feitas por um referencial inercial. O módulo da aceleração gravitacional é representado por g. Onde for necessário, use $g = 10 \\, m/s^2$ para o módulo da aceleração gravitacional.\n\nA figura ao lado apresenta o comportamento gráfico da posição x em função do tempo t para os objetos A (linha cheia) e B (linha tracejada), que se movem ao longo de duas pistas retas, paralelas e de origens coincidentes.\n\nConsiderando os dados apresentados no enunciado e no gráfico, considere as seguintes afirmativas:\n\n1. O objeto A tem uma velocidade constante, de módulo v = 2 m/s.\n2. Os objetos se encontram no instante t = 15 s.\n3. O objeto B está parado.\n4. O objeto A inicia o movimento em $x_0 = 0$ m.\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Somente a afirmativa 2 é verdadeira."
+        },
+        {
+          "letra": "b",
+          "texto": "Somente as afirmativas 1 e 3 são verdadeiras."
+        },
+        {
+          "letra": "c",
+          "texto": "Somente as afirmativas 2 e 4 são verdadeiras."
+        },
+        {
+          "letra": "d",
+          "texto": "Somente as afirmativas 1, 3 e 4 são verdadeiras."
+        },
+        {
+          "letra": "e",
+          "texto": "As afirmativas 1, 2, 3 e 4 são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Física – Cinemática",
+        "Física – Análise de Gráficos"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Ao realizar manipulações com grandezas físicas, é importante se ter ideia das ordens de grandeza envolvidas numa dada situação. Com base no exposto, assinale a alternativa que apresenta corretamente a ordem de grandeza da espessura de um telefone celular.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "$10^{-9} \\, m$."
+        },
+        {
+          "letra": "b",
+          "texto": "$10^{-6} \\, m$."
+        },
+        {
+          "letra": "c",
+          "texto": "$10^{-2} \\, m$."
+        },
+        {
+          "letra": "d",
+          "texto": "$10^{1} \\, m$."
+        },
+        {
+          "letra": "e",
+          "texto": "$10^{3} \\, m$."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Física – Grandezas Físicas e Medidas"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "O comportamento gráfico para o módulo do campo elétrico E numa dada região do espaço, em função da posição x dentro dessa região, é linear e está representado na figura ao lado.\n\nConsiderando as informações apresentadas no enunciado e na figura, assinale a alternativa que apresenta corretamente o valor do módulo da força elétrica F produzida por esse campo sobre uma carga $Q = 1,6 \\, \\mu C$ colocada na posição x = 4 cm.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "$F = 8,0 \\, N$."
+        },
+        {
+          "letra": "b",
+          "texto": "$F = 6,4 \\, N$."
+        },
+        {
+          "letra": "c",
+          "texto": "$F = 4,8 \\, N$."
+        },
+        {
+          "letra": "d",
+          "texto": "$F = 3,2 \\, N$."
+        },
+        {
+          "letra": "e",
+          "texto": "$F = 1,6 \\, N$."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Física – Eletrostática",
+        "Física – Campo Elétrico"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Um bloco de massa m constante foi colocado num plano inclinado de ângulo de inclinação $\\theta$, conforme mostra a figura ao lado.\n\nHá atrito entre o plano inclinado e o bloco, sendo que o coeficiente de atrito estático vale $\\mu_e$ e o coeficiente de atrito cinético vale $\\mu_c$. O bloco está sujeito à ação gravitacional além da força de reação normal e da força de atrito geradas pelo plano inclinado. Na situação em que o bloco esteja estático, mas na iminência de começar a deslizar, de modo que a força de atrito estática é máxima, vale a relação:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "$\\mu_e = \\tan \\theta$."
+        },
+        {
+          "letra": "b",
+          "texto": "$\\mu_e = \\cos \\theta$."
+        },
+        {
+          "letra": "c",
+          "texto": "$\\mu_e = \\sin \\theta$."
+        },
+        {
+          "letra": "d",
+          "texto": "$\\mu_e = \\sec \\theta$."
+        },
+        {
+          "letra": "e",
+          "texto": "$\\mu_e = \\cot \\theta$."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Física – Dinâmica",
+        "Física – Forças de Atrito"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Uma certa quantidade de gás ideal executa o ciclo termodinâmico ABCDA no sentido horário, conforme ilustrado na figura abaixo.\n\nConsiderando os dados apresentados na figura e no enunciado, assinale a alternativa que apresenta corretamente o valor do trabalho total W realizado pelo gás ao longo de todo o ciclo ABCDA.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "$W = -200 \\, kJ$."
+        },
+        {
+          "letra": "b",
+          "texto": "$W = -100 \\, kJ$."
+        },
+        {
+          "letra": "c",
+          "texto": "$W = 100 \\, kJ$."
+        },
+        {
+          "letra": "d",
+          "texto": "$W = 200 \\, kJ$."
+        },
+        {
+          "letra": "e",
+          "texto": "$W = 400 \\, kJ$."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Física – Termodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Um calorímetro ideal contém 200 g de água a uma temperatura $T_0 = 20 \\, ^\\circ C$ ao nível do mar. Uma certa quantidade de calor correspondendo a 48 kJ é transferida à água, que atinge uma temperatura T. Supondo que todo o calor transferido foi absorvido pela água, sabendo que o calor específico da água vale $c = 1 \\, \\text{cal/g} \\, ^\\circ C$ e considerando a conversão $1 \\, \\text{cal} = 4 \\, J$, assinale a alternativa que apresenta corretamente o valor da temperatura final da água, que se mantém líquida em todo o processo.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "$T = 60 \\, ^\\circ C$."
+        },
+        {
+          "letra": "b",
+          "texto": "$T = 70 \\, ^\\circ C$."
+        },
+        {
+          "letra": "c",
+          "texto": "$T = 80 \\, ^\\circ C$."
+        },
+        {
+          "letra": "d",
+          "texto": "$T = 90 \\, ^\\circ C$."
+        },
+        {
+          "letra": "e",
+          "texto": "$T = 100 \\, ^\\circ C$."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Física – Calorimetria"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "O texto a seguir é referência para as questões 29 a 32.\n\nO Tempo Livre e o Novo Feitiço do Capital\nNathan Caixeta\n\nA \"queda do zap” na última segunda-feira (04/10) atinou com desaviso a inquietante e cada vez mais esquecida forma de viver, forçando o distanciamento compulsório das redes sociais e das inúmeras formas de conexão virtual que consomem a atenção das pessoas. Estima-se que as ações do Facebook tenham caído em quase 5%, enquanto os operadores da empresa se esforçavam para corrigir a falha técnica. Contudo, a paralisação de parte do mundo virtual em questão de horas forneceu um interessante experimento social, levando as pessoas a perceberem a existência do próprio real desnudo da celeridade virtual que encobre, seja para arrancar os cabelos ao efetuarem pagamentos virtuais não compensados, ou para solucionarem a questão do que fazer com o próprio tempo-livre, uma vez que sua instância de captura imediata fixou-se em um limbo que retrocedeu as eras: do tempo das relações virtuais para a época já imperceptível das relações pessoais. Embora tenha sido apenas um \"susto\" passageiro, o fenômeno abre espaço para observar as conexões entre a valorização do capital cujos desdobramentos comerciais, produtivos e financeiros são parciais, ou integralmente conectados ao mundo virtual e a disposição, captura e transformação do tempo-livre dos indivíduos em valor de troca. Conforme insiste Eduardo Mariutti, professor da Unicamp, a esfera do virtual não se opõe à realidade, mas se expressa pelo transbordamento do \"possível\", isto é, pelo conjunto de possibilidades acessíveis à imaginação humana. O virtual transforma os fragmentos criados pela imaginação humana em um universo construído, potencialmente ilimitado, mas restrito ao conjunto de percepções humanas em dado momento do tempo.\n\nAssinale a alternativa em que ambos os verbos destacados indicam atitude mental.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "...atinou com desaviso a inquietante... (linha 1) / Estima-se que as ações do Facebook... (linha 3)"
+        },
+        {
+          "letra": "b",
+          "texto": "...que consomem a atenção das pessoas... (linha 2) / ...ao efetuarem pagamentos... (linha 6)"
+        },
+        {
+          "letra": "c",
+          "texto": "...em questão de horas forneceu um interessante... (linha 4) / ... solucionarem a questão... (linha 6)"
+        },
+        {
+          "letra": "d",
+          "texto": "...o fenômeno abre espaço para observar as conexões entre a valorização do capital... (linha 9)"
+        },
+        {
+          "letra": "e",
+          "texto": "...conforme insiste Eduardo Mariuti... (linha 11) / ... mas se expressa pelo transbordamento... (linha 12)"
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia Verbal",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Considere as seguintes afirmativas, com relação ao texto de Caixeta:\n\n1. O sujeito de \"forçando o distanciamento compulsório das redes sociais\" (linha 2) é \"A \"queda do zap” na última segunda-feira (04/10) atinou com desaviso a inquietante e cada vez mais esquecida forma de viver\" (linha 1).\n2. O \"interessante experimento social\" (linhas 4-5) refere-se às pessoas que foram levadas a \"perceberem a existência do próprio real desnudo da celeridade virtual que encobre\" (linha 5).\n3. \"A queda do zap\" pode permitir a observação da relação entre a transformação do tempo-livre dos indivíduos em valor de troca e a valorização do capital com desdobramentos financeiros e comercias ligados ao mundo virtual.\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Somente a afirmativa 1 é verdadeira."
+        },
+        {
+          "letra": "b",
+          "texto": "Somente a afirmativa 2 é verdadeira."
+        },
+        {
+          "letra": "c",
+          "texto": "Somente as afirmativas 1 e 3 são verdadeiras."
+        },
+        {
+          "letra": "d",
+          "texto": "Somente as afirmativas 2 e 3 são verdadeiras."
+        },
+        {
+          "letra": "e",
+          "texto": "As afirmativas 1, 2 e 3 são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Sintaxe"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Segundo o texto, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "A estimativa da queda das ações do Facebook em torno de 5% levou os técnicos da empresa a tentarem corrigir essa falha."
+        },
+        {
+          "letra": "b",
+          "texto": "O distanciamento das redes sociais caiu num limbo provocado pelo retorno a eras mais remotas."
+        },
+        {
+          "letra": "c",
+          "texto": "Sem saber o que fazer com o tempo livre, as pessoas ficaram desorientadas e arrancaram os cabelos pela \"queda do zap\"."
+        },
+        {
+          "letra": "d",
+          "texto": "As pessoas se deram conta da existência do real a partir da interrupção do mascaramento da vida nas redes sociais."
+        },
+        {
+          "letra": "e",
+          "texto": "Segundo Eduardo Mariutti, UNICAMP, o mundo virtual não se opõe ao mundo real, mas o contradiz, fragmentando-o."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Considerando as seguintes sequências extraídas do texto: \"forçando o distanciamento compulsório\"; \"a existência do próprio real desnudo da celeridade virtual\"; e \"uma vez que sua instância de captura imediata\", assinale a alternativa cujos termos podem substituir, respectivamente, os vocábulos grifados das expressões citadas, na acepção que lhes confere o texto.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "inviável, ligeireza, alçada."
+        },
+        {
+          "letra": "b",
+          "texto": "obrigatório, rapidez, foro."
+        },
+        {
+          "letra": "c",
+          "texto": "opcional, importância, campo."
+        },
+        {
+          "letra": "d",
+          "texto": "imperioso, notoriedade, localidade."
+        },
+        {
+          "letra": "e",
+          "texto": "transitório, morosidade, domínio."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Sinonímia"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "O texto a seguir é referência para as questões 33 a 36.\n\nDa Violência\nHannah Arendt\n\nEstas reflexões foram causadas pelos eventos e debates dos últimos anos comparados com o background do século vinte, que se tornou realmente, como Lênin tinha previsto, um século de guerras e revoluções; um século daquela violência que se acredita comumente ser o denominador comum destas guerras e revoluções. Há, todavia, um outro fator na situação atual que, embora não previsto por ninguém, é pelo menos de igual importância. O desenvolvimento técnico dos implementos da violência chegou a tal ponto que nenhum objetivo político concebível poderia corresponder ao seu potencial destrutivo, ou justificar seu uso efetivo num conflito armado. Assim, a arte da guerra - desde tempos imemoriais o impiedoso árbitro final em disputas internacionais – perdeu muito de sua eficácia e quase todo seu fascínio. O \"apocalíptico” jogo de xadrez entre as superpotências, ou seja, entre os que manobram no plano mais alto de nossa civilização, está sendo jogado segundo a regra \"se qualquer um 'ganhar' é o fim de ambos\"; é um embate sem qualquer semelhança com os outros embates militares precedentes. Seu objetivo \"racional” é intimidação e não vitória, e a corrida armamentista, já não sendo uma preparação para a guerra, só pode ser justificada agora pela ideia de que quanto mais intimidação houver maior é a garantia de paz.\n\nAssinale a alternativa que recupera a tese central do texto de H. Arendt.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Para a filósofa Arendt, o século XX, de guerras e revoluções como previu Lênin, foi o século mais violento da humanidade."
+        },
+        {
+          "letra": "b",
+          "texto": "Para a autora, a resolução dos conflitos armados dispensa objetivos políticos que não justifiquem o uso de material bélico tecnológico."
+        },
+        {
+          "letra": "c",
+          "texto": "Segundo a filósofa, a arte da guerra perdeu sua eficácia porque ficou esquecida pelos tempos imemoriais e consequentemente perdeu seu fascínio."
+        },
+        {
+          "letra": "d",
+          "texto": "As superpotências internacionais são responsáveis, segundo a pensadora, por garantir a civilização no seu plano mais alto."
+        },
+        {
+          "letra": "e",
+          "texto": "Segundo a filósofa alemã, Hannah Arendt, o que move os embates violentos contemporâneos é a demonstração de força por intimidação."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Filosofia – Filosofia Política",
+        "Filosofia – Hannah Arendt"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Observe as seguintes afirmativas, relacionadas ao texto:\n\n1. A autora não concorda com o político russo, Lênin, acerca da avaliação que ele fez a respeito da violência do século XX.\n2. Segundo Arendt, existe um fator relativo à belicosidade e à violência na atualidade que não foi considerado pelo político russo.\n3. Há, no jogo de poder das superpotências, um objetivo político cuja racionalidade é a corrida armamentista e a busca da superioridade majoritária.\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Somente a afirmativa 1 é verdadeira."
+        },
+        {
+          "letra": "b",
+          "texto": "Somente a afirmativa 2 é verdadeira."
+        },
+        {
+          "letra": "c",
+          "texto": "Somente a afirmativa 3 é verdadeira."
+        },
+        {
+          "letra": "d",
+          "texto": "Somente as afirmativas 2 e 3 são verdadeiras."
+        },
+        {
+          "letra": "e",
+          "texto": "As afirmativas 1, 2 e 3 são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Filosofia – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Assinale a alternativa correta quanto à interpretação dos recursos ortográficos presentes no texto.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Os travessões da linha 6 destacam o aposto de 'a arte da guerra'."
+        },
+        {
+          "letra": "b",
+          "texto": "O emprego de itálico em 'background' (linha 1) equivale, como recurso, às aspas duplas em \"apocalíptico\" (linha 7)."
+        },
+        {
+          "letra": "c",
+          "texto": "Todas as ocorrências de aspas duplas são empregadas para destacar a ironia."
+        },
+        {
+          "letra": "d",
+          "texto": "As aspas duplas em \"apocalíptico\" (linha 7) e \"racional\" (linha 9) foram empregadas para marcar incerteza."
+        },
+        {
+          "letra": "e",
+          "texto": "O emprego de itálico em 'background' (linha 1) não é correto, pois o termo deveria vir entre aspas."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Língua Portuguesa – Pontuação"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Acerca dos relatores de coesão presentes no texto, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "O termo grifado em \"um século daquela violência que se acredita\" (linha 2) é conjunção integrante com valor aditivo."
+        },
+        {
+          "letra": "b",
+          "texto": "O vocábulo \"assim\" (linha 6) tem valor adversativo, de oposição ao período precedente."
+        },
+        {
+          "letra": "c",
+          "texto": "Na linha 7, a locução \"ou seja\" tem o mesmo valor semântico de \"quer seja\"."
+        },
+        {
+          "letra": "d",
+          "texto": "O valor semântico de \"embora\" (linha 3) corresponde a \"por mais que\"."
+        },
+        {
+          "letra": "e",
+          "texto": "A locução “já não” (linha 10) tem valor concessivo equivalente a \"ainda que\"."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Língua Portuguesa – Coesão Textual",
+        "Língua Portuguesa – Conectivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Leia a seguir a primeira estrofe do poema \"O meu sepulcro\", de Gonçalves Dias.\n\nQuando, os olhos cerrando à luz da vida,\nO extremo adeus soltar às esperanças,\nQue na terra nos guiam, nos confortam\nE espaçam do porvir a senda estreita;\nQuando, isento de míseros cuidados,\nDisser adeus às ilusões douradas,\nMas com elas também às dores cruas\nDa existência - aos espinhos pontiagudos,\nCom que a verdade o coração nos roça;\nQuando tocada não sentir minha alma\nDa luz, dos sons, das cores, das magias,\nQue a natureza pródiga derrama\nNo regaço da terra - mais ditoso\nSerei acaso então? – Quando o meu corpo\nÀ terra, mãe comum, pedindo abrigo\nDos sepulcros no vale em paz descanse;\nHei de ser mais feliz porque mo cobre\nPomposo mausoléu, em vez da pedra\nSem nome, - em vez do túmulo de céspedes,\nQue s'ergue junto à estrada, e ao viandante,\nAo que ali passa, uma oração suplica?\nOh! não! – ao encalmado é grata a sombra;\nGrato descanso aos membros fatigados\nPresta igualmente a relva das campinas\nE os torrões pelo sol enrijecidos.\nComo o trabalhador que a sesta aguarda,\nO meu termo fatal sem medo espero!\nEu então pedirei silêncio à morte,\nE fresca sombra à sepultura humilde,\nQue me receba, - e a cuja superfície\nMorram sem eco da existência as vagas. [...]\n(DIAS, Gonçalves. Poesia e prosa completas: volume único. Org.: Alexei Bueno. Rio de Janeiro: Nova Aguillar, 1998. p. 491-2.)\n\nO auto de Natal pernambucano Morte e Vida Severina, de João Cabral de Melo Neto, apresenta algumas semelhanças temáticas com a estrofe acima transcrita, parte integrante do livro Últimos Cantos. Assinale a alternativa em que estão corretas as aproximações entre as duas obras.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "A esperança e as dores da existência, mencionadas nos versos 2 e 7 (acima), estão presentes na obra de João Cabral no nascimento de uma criança: \"E não há melhor resposta / que o espetáculo da vida: / vê-la desfiar seu fio, / que também se chama vida, / ver a fábrica que ela mesma, / teimosamente, se fabrica, / vê-la brotar como há pouco / em nova vida explodida\"."
+        },
+        {
+          "letra": "b",
+          "texto": "O ato do eu-lírico de se despedir das ilusões e das dores da vida, nos versos 5 a 8 (acima), também é encenado pelo retirante Severino, quando ele comunica a decisão de se suicidar: \"- Seu José, mestre carpina, / que diferença faria / se em vez de continuar / tomasse a melhor saída: / a de saltar, numa noite, / fora da ponte e da vida?\"."
+        },
+        {
+          "letra": "c",
+          "texto": "A natureza benfazeja, mencionada nos versos 10 a 13 (acima), foi representada por João Cabral nesta imagem de satisfação das necessidades humanas: \"Cedo aprenderá a caçar: / primeiro, com as galinhas, / que é catando pelo chão / tudo o que cheira a comida; / depois aprenderá com / outras espécies de bichos: / com os porcos nos monturos, / com os cachorros no lixo\"."
+        },
+        {
+          "letra": "d",
+          "texto": "O eu-lírico opina, nos versos 17 a 21 (acima), que ricos e pobres se tornam iguais quando morrem; a mesma ideia foi apresentada nos seguintes versos de João Cabral: \"- Não é cova grande, / é cova medida, / é a terra que querias / ver dividida. [...] É uma cova grande / para tua carne pouca, / mas a terra dada / não se abre a boca\"."
+        },
+        {
+          "letra": "e",
+          "texto": "A morte é representada como descanso merecido, nos versos 22 a 25 (acima), como também nesta fala de um coveiro, em Morte e Vida Severina: \"- E esse povo lá de riba / de Pernambuco, da Paraíba, / que vem buscar no Recife / poder morrer de velhice, / encontra só, aqui chegando / cemitérios esperando. / [...] aí está o seu erro: / vêm é seguindo seu próprio enterro\"."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Comparada",
+        "Língua Portuguesa – Intertextualidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "O fragmento abaixo é parte do segundo canto de \"O Uraguai\", poema épico de Basílio da Gama publicado em 1769.\n\nEu, desarmado e só, buscar-te venho.\nTanto espero de ti. E enquanto as armas\nDão lugar à razão, senhor, vejamos\nSe se pode salvar a vida e o sangue\nDe tantos desgraçados. Muito tempo\nPode ainda tardar-nos o recurso\nCom o largo oceano de permeio,\nEm que os suspiros dos vexados povos\nPerdem o alento. O dilatar-se a entrega\nEstá nas nossas mãos, até que um dia\nInformados os reis nos restituam\nA doce antiga paz. Se o rei de Espanha\nAo teu rei quer dar terras com mão larga\nQue lhe dê Buenos Aires, e Correntes\nE outras, que tem por estes vastos climas;\nPorém não pode dar-lhes os nossos povos.\n\nA respeito desse poema, considere as seguintes afirmativas:\n\n1. Atendendo as regras de composição da epopeia clássica, Basílio da Gama inspirou-se num fato histórico acontecido séculos antes da escrita e narrou-o em versos metrificados e rimados.\n2. Em vez de dar voz a um pastor, como é frequente na poesia do Arcadismo, o poeta deu voz a líderes militares portugueses e aos indígenas que habitavam a região dos Sete Povos das Missões.\n3. Como elementos de nativismo, aparecem as personagens Cacambo, guerreiro capaz de argumentar sobre o direito dos povos indígenas à terra, e a feiticeira Tanajura, que representa o aspecto mítico da cultura desses povos.\n4. Abalada pela morte de Cacambo e auxiliada por Tanajura, Lindoia tem um sonho no qual vê com detalhes a destruição dos Sete Povos das Missões, em consequência da expulsão dos jesuítas do Brasil.\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Somente a afirmativa 2 é verdadeira."
+        },
+        {
+          "letra": "b",
+          "texto": "Somente as afirmativas 1 e 4 são verdadeiras."
+        },
+        {
+          "letra": "c",
+          "texto": "Somente as afirmativas 2 e 3 são verdadeiras."
+        },
+        {
+          "letra": "d",
+          "texto": "Somente as afirmativas 1, 3 e 4 são verdadeiras."
+        },
+        {
+          "letra": "e",
+          "texto": "As afirmativas 1, 2, 3 e 4 são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Arcadismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Considere o trecho abaixo, do romance de Lima Barreto:\n\nPenetrou naquela vetusta parte da cidade, hoje povoada de lôbregas hospedarias, mas que já passou por sua época de relativo realce e brilho. Os botequins e tascas estavam povoados do que há de mais sórdido na nossa população. Aqueles becos escuros, guarnecidos, de um e outro lado, por altos sobrados, de cujas janelas pendiam peças de roupa a enxugar, mal varridos, pouco transitados, formavam uma estranha cidade à parte, onde se iam refugiar homens e mulheres que haviam caído na mais baixa degradação e jaziam no último degrau da sociedade. Escondiam, na sombra daquelas betesgas coloniais, nas alcovas sem luz daqueles sobrados, nos fundos caliginosos das sórdidas tavernas daquele tristonho quarteirão, a sua miséria, o seu opróbrio, a sua infinita infelicidade de deserdados de tudo deste mundo. Entre os homens, porém, ainda havia alguns com ocupação definida; marítimos, carregadores, soldados; mas as mulheres que ali se viam, haviam caído irremissivelmente na última degradação. Sujas, cabelos por pentear, descalças, umas, de chinelos e tamancos, outras. Todas metiam mais pena que desejo. Como em toda e qualquer seção da nossa sociedade, aquele agrupamento de miseráveis era bem um índice dela. Havia negras, brancas, mulatas, caboclas, todas niveladas pelo mesmo relaxamento e pelo seu triste fado.\n(BARRETO, Lima. Clara dos Anjos. São Paulo: FTD, 2016. p.153-154.)\n\nNesse trecho extraído do nono capítulo do romance Clara dos Anjos, o ambiente descrito é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "um recanto arruinado do Rio de Janeiro, cuja pobreza perturba os planos amorosos de Cassi e Clara."
+        },
+        {
+          "letra": "b",
+          "texto": "um espaço público na capital do país, em que uma mulher embriagada acusa Cassi de tê-la desonrado."
+        },
+        {
+          "letra": "c",
+          "texto": "um arruamento irreconhecível para o protagonista, devido ao brilho e realce das hospedarias coloniais."
+        },
+        {
+          "letra": "d",
+          "texto": "uma vizinhança arruinada e miscigenada onde morava Marramaque, com quem Cassi tinha uma dívida."
+        },
+        {
+          "letra": "e",
+          "texto": "um subúrbio formado por favelas, que eram habitadas por trabalhadores pobres e mulheres degradadas."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Pré-Modernismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Leia o seguinte texto:\n\nAntes de sair da aldeia, diante da minha recusa em ser batizado, Gersila se aproximou de mim, entre ofendida e irônica, e me jogou na cara que eu era como todos os brancos, que os abandonaria, nunca mais voltaria à aldeia, nunca mais pensaria neles. Jurei que não. Estava apavorado com o que pudessem fazer comigo (nada além de me cobrir de penas e me dar um nome e uma família da qual nunca mais poderia me desvencilhar). O meu medo era visível. Fiz um papel pífio. E eles riram da minha covardia. Jurei que não me esqueceria deles. E os abandonei, como todos os brancos.\n(CARVALHO, Bernardo. Nove noites. São Paulo: Companhia das Letras, 2006, p. 98.)\n\nCom base no fragmento acima transcrito e na leitura integral de Nove noites, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "O fragmento transcrito é parte da narração do antropólogo Buell Quain, cujo suicídio, ocorrido em 1939, é o fato que motiva a investigação do narrador principal e que conduz toda a narrativa."
+        },
+        {
+          "letra": "b",
+          "texto": "O fragmento destoa da visão positiva sobre os resultados dos encontros entre diferentes culturas que predomina em Nove noites, pois traz o depoimento de alguém para quem o convívio entre índios e brancos tende sempre à desarmonia."
+        },
+        {
+          "letra": "c",
+          "texto": "O fragmento é parte de uma das cartas do engenheiro Manoel Perna e reforça suas advertências para que o narrador principal tome muito cuidado ao buscar a verdade sobre a morte de Buell Quain."
+        },
+        {
+          "letra": "d",
+          "texto": "O fragmento exemplifica a obsessão do narrador por buscar a verdade sobre a morte de Buell Quain, característica que desloca Nove noites, que se parece com obras ficcionais, para os campos da reportagem e da não ficção."
+        },
+        {
+          "letra": "e",
+          "texto": "O fragmento é parte da narração do jornalista e narrador principal que, adulto, volta a passar por situações de medo e terror, algo que já havia sentido quando, ainda criança, visitara o Xingu na companhia de seu pai."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira Contemporânea"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "O hexafluoreto de tungstênio é empregado na indústria de semicondutores para formar filmes metálicos de tungstênio que servem de condutores elétricos. O composto é apropriado para tal aplicação por ser um gás nas condições ambientes e reagir na presença do silício de dispositivos semicondutores.\n\nA estrutura do hexafluoreto de tungstênio que melhor explica as propriedades citadas é a de:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "estrutura polimérica ligada covalentemente."
+        },
+        {
+          "letra": "b",
+          "texto": "flúor e tungstênio formando ligação metálica."
+        },
+        {
+          "letra": "c",
+          "texto": "fluoreto e tungstênio formando ligação iônica."
+        },
+        {
+          "letra": "d",
+          "texto": "tungstênio metálico dopado com átomos de flúor."
+        },
+        {
+          "letra": "e",
+          "texto": "molécula discreta formada por ligações covalentes."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Química – Ligações Químicas",
+        "Química – Propriedades da Matéria"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "A perovskita $CH_3NH_3PbI_3$ é um material que, pelas suas propriedades fotovoltaicas, é considerado promissor para geração de eletricidade a partir da luz solar. O composto foi sintetizado em três etapas, descritas pelas equações químicas a seguir.\n\n$Pb(NO_3)_2 + 2KI \\rightarrow PbI_2 + 2KNO_3$\n$CH_3NH_2 + HI \\rightarrow CH_3NH_3I$\n$PbI_2 + CH_3NH_3I \\rightarrow CH_3NH_3PbI_3$\n\nOs seguintes reagentes foram empregados na síntese: 0,6 mol de $Pb(NO_3)_2$; 0,8 mol de KI; 0,7 mol de $CH_3NH_2$; e 0,8 mol de HI. Nessas condições, qual será a quantidade máxima da perovskita $CH_3NH_3PbI_3$ produzida?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "0,4 mol."
+        },
+        {
+          "letra": "b",
+          "texto": "0,6 mol."
+        },
+        {
+          "letra": "c",
+          "texto": "0,7 mol."
+        },
+        {
+          "letra": "d",
+          "texto": "0,8 mol."
+        },
+        {
+          "letra": "e",
+          "texto": "1,0 mol."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Química – Estequiometria",
+        "Química – Reagente Limitante"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "O Prêmio Nobel de Química de 2021 foi concedido aos pesquisadores Benjamin List e David MacMillan, que desenvolveram estratégias simples e elegantes para a síntese de compostos orgânicos quirais opticamente ativos. A abordagem de List consiste na utilização da prolina (estrutura química mostrada ao lado), um composto orgânico natural e estruturalmente simples, que atua como indutor de assimetria nos produtos.\n\nConsiderando os conhecimentos em química orgânica, a prolina é classificada como:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "amino éster."
+        },
+        {
+          "letra": "b",
+          "texto": "carboxi amida."
+        },
+        {
+          "letra": "c",
+          "texto": "amino ácido."
+        },
+        {
+          "letra": "d",
+          "texto": "carboxi anilina."
+        },
+        {
+          "letra": "e",
+          "texto": "amino álcool."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Química – Química Orgânica",
+        "Química – Funções Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Muitas substâncias orgânicas são responsáveis pelo aroma característico de especiarias que utilizamos no preparo de alimentos. Exemplos dessas substâncias são o eugenol, extraído do cravo-da-índia, o isoeugenol, presente na noz-moscada, e a vanilina, obtida a partir da baunilha. Essas e outras substâncias de origem natural podem ser submetidas a transformações que levarão a produtos que terão as mais diversas aplicações.\n\nEntre as substâncias mostradas acima, qual(is) pode(m) ser transformada(s) em um produto com fórmula $C_{10}H_{14}O_2$ quando submetida(s) às condições de reação de redução de alquenos (gás hidrogênio na presença de metal – Pt ou Pd)?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Apenas o eugenol."
+        },
+        {
+          "letra": "b",
+          "texto": "Apenas o isoeugenol."
+        },
+        {
+          "letra": "c",
+          "texto": "Apenas a vanilina."
+        },
+        {
+          "letra": "d",
+          "texto": "Vanilina e eugenol."
+        },
+        {
+          "letra": "e",
+          "texto": "Eugenol e isoeugenol."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Química – Química Orgânica",
+        "Química – Reações de Redução"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Conforme Pesquisa Nacional de Saneamento Básico, realizada pelo IBGE, edição de 2017, os resíduos sólidos domiciliares da metade dos municípios brasileiros são destinados a lixões abertos e praticamente um quarto para aterros controlados e aterros sanitários. Nos aterros sanitários, pautados nas normas da Associação Brasileira de Normas Técnicas (ABNT), o solo é previamente tratado, nivelado e selado com argila e manta de polietileno de alta densidade (PEAD). O resíduo aterrado é coberto por argila compactada. A função da selagem com argila e manta de PEAD no aterro sanitário é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "permitir a reciclagem ou o reuso do resíduo."
+        },
+        {
+          "letra": "b",
+          "texto": "permitir acesso ao resíduo pelos decompositores."
+        },
+        {
+          "letra": "c",
+          "texto": "promover condições para a incineração do resíduo."
+        },
+        {
+          "letra": "d",
+          "texto": "impedir o vazamento do chorume e a contaminação de lençóis freáticos."
+        },
+        {
+          "letra": "e",
+          "texto": "drenar o gás metano e o gás carbônico produzidos na decomposição do resíduo."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Química – Química Ambiental",
+        "Geografia – Meio Ambiente"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "A manipulação do clima tem sido usada por décadas sobre Pequim e regiões agrícolas, na China, para promover a chuva, diminuir a poluição de particulados no ar e evitar o granizo e a destruição de plantações. Essa manipulação se baseia na semeadura de chuvas pela dispersão de sais, como iodeto de prata, que atuam como sementes ou núcleos de condensação.\n\nEsse processo de manipulação se baseia na propriedade de o iodeto de prata:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "ser bastante solúvel e possuir um valor de entalpia de dissolução negativa."
+        },
+        {
+          "letra": "b",
+          "texto": "ser cristalino e induzir a cristalização do gelo na sua superfície."
+        },
+        {
+          "letra": "c",
+          "texto": "ser reativo e atuar como catalisador do processo de precipitação."
+        },
+        {
+          "letra": "d",
+          "texto": "ser formado por íons e promover descargas elétricas nas nuvens."
+        },
+        {
+          "letra": "e",
+          "texto": "ser sensível à radiação solar e provocar a fotólise da água."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Química – Propriedades da Matéria",
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Há em toda república dois humores diversos, quais sejam, aquele do povo e aquele dos grandes, (...) todas as leis que são feitas em favor da liberdade nascem desta desunião.\n(MAQUIAVEL. Discursos sobre a Primeira década de Tito Livio. Seleção de textos, tradução e notas Carlo Gabriel Kzsam Pancera. In: MARÇAL, J. (org.) Antologia de textos filosóficos, SEED, 2009, p. 432.)\n\nDe acordo com a passagem acima e com a obra de que foi extraída, é correto afirmar que, segundo Maquiavel:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "as leis nascem do conflito e levam à sua superação, produzindo harmonia social."
+        },
+        {
+          "letra": "b",
+          "texto": "as leis não passam de um instrumento de dominação do povo pelos grandes."
+        },
+        {
+          "letra": "c",
+          "texto": "para que haja liberdade, as leis devem ser feitas pelo povo, que é soberano."
+        },
+        {
+          "letra": "d",
+          "texto": "o conflito entre os grandes e o povo é o motor da vida política, o que produz e aperfeiçoa as leis."
+        },
+        {
+          "letra": "e",
+          "texto": "cabe aos grandes fazer as leis, mas sem retirar a liberdade do povo."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Filosofia – Filosofia Política",
+        "Filosofia – Maquiavel"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Ampliando suas investigações para além de suas capacidades, e deixando seus pensamentos vagarem em profundezas, a tal ponto de lhes faltar apoio seguro para o pé, não é de admirar que os homens levantem questões e multipliquem disputas acerca de assuntos insolúveis, servindo apenas para prolongar e aumentar suas dúvidas, e para confirmá-los ao fim num perfeito ceticismo.\n(LOCKE. Ensaio acerca do entendimento humano. Trad. Anoar Aiex. Coleção Os Pensadores, vol. XVIII. São Paulo: Victor Civita, 1973, introdução, p. 147.)\n\nConsiderando a passagem acima e a obra de que foi extraída, segundo Locke, os homens tornam-se céticos porque:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "são capazes de obter apenas um conhecimento provável acerca das coisas."
+        },
+        {
+          "letra": "b",
+          "texto": "não limitam suas investigações ao que é possível conhecer."
+        },
+        {
+          "letra": "c",
+          "texto": "dependem da experiência sensível para conhecer, sendo essa experiência enganosa."
+        },
+        {
+          "letra": "d",
+          "texto": "não são capazes de encontrar um apoio seguro para os seus pensamentos."
+        },
+        {
+          "letra": "e",
+          "texto": "encontram prazer na mera disputa."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Filosofia – Filosofia Moderna",
+        "Filosofia – John Locke"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Segundo Hannah Arendt, \"para os gregos, forçar alguém mediante violência, ordenar ao invés de persuadir, eram modos pré-políticos de lidar com as pessoas, típicos da vida fora da polis, característicos do lar e da vida em família, na qual o chefe da casa imperava com poderes incontestes e despóticos\".\n(ARENDT, Hannah. A Condição Humana. Trad. Celso Lafer. Rio de Janeiro: Forense Universitária, 1997, p. 36.)\n\nConsiderando a passagem acima e a obra de que foi extraída, segundo H. Arendt, para os gregos antigos:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "a família era considerada um tipo inferior de associação política."
+        },
+        {
+          "letra": "b",
+          "texto": "não havia igualdade política, posto que havia dominação no âmbito familiar."
+        },
+        {
+          "letra": "c",
+          "texto": "as mulheres, apesar de dominadas no âmbito familiar, eram livres para participar da esfera pública."
+        },
+        {
+          "letra": "d",
+          "texto": "a comunidade política (a polis) deveria persuadir o chefe de família a abdicar de seus poderes despóticos."
+        },
+        {
+          "letra": "e",
+          "texto": "a comunidade doméstica (a família) e a comunidade política (a polis) eram entendidas como formas de associação fundamentalmente distintas."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Filosofia – Filosofia Política",
+        "Filosofia – Hannah Arendt"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "No diálogo Hípias Maior, de Platão, Sócrates declara: \"Recentemente, alguém me pôs em grande apuro, numa discussão em que eu rejeitava determinadas coisas como feias e elogiava outras por serem belas, havendo me perguntado em tom sarcástico, o interlocutor: qual é o critério, Sócrates, para reconheceres o que é belo e o que é feio? Vejamos, poderás dizer-me o que seja o belo?\".\n\nConsiderando a passagem acima e a obra de que foi extraída, é correto afirmar que, de acordo com Sócrates:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "só é possível dizer o que é o belo depois de se ter identificado determinadas coisas como belas."
+        },
+        {
+          "letra": "b",
+          "texto": "a dificuldade se coloca para os juízos sobre a beleza, mas não para os juízos de verdade, tais como \"isto é uma mesa\"."
+        },
+        {
+          "letra": "c",
+          "texto": "para identificar algo como belo, é preciso antes conhecer o que é o belo."
+        },
+        {
+          "letra": "d",
+          "texto": "o critério para distinguir entre o belo e o feio varia segundo as pessoas."
+        },
+        {
+          "letra": "e",
+          "texto": "não há distinção entre o belo e as coisas belas."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Filosofia – Filosofia Antiga",
+        "Filosofia – Platão"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "\"Ao contrário do que os brasileiros pensam, a Amazônia não é deles, mas de todos nós\" (Al Gore, senador e vice-presidente dos EUA, 1989). \"O Brasil precisa aceitar uma soberania relativa sobre a Amazônia\" (François Mitterrand, presidente da França, 1989). \"O Brasil deve delegar parte dos seus direitos sobre a Amazônia aos organismos internacionais competentes\" (Mikhail Gorbachev, presidente da URSS, 1992).\n(Citados por BECKER, B. K. Por que não perderemos a soberania sobre a Amazônia? In: ALBUQUERQUE, E. S. (org.). Que país é esse? Pensando o Brasil contemporâneo. São Paulo: Globo, 2005, p. 257.)\n\nCom base no enunciado e nos conhecimentos de geografia política e de meio ambiente, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Foi durante a Rio-92 que os representantes dos países amazônicos assinaram os tratados que estabeleceram a gestão internacional compartilhada dos recursos florestais da região para preservar a biodiversidade."
+        },
+        {
+          "letra": "b",
+          "texto": "As pressões nacionais e internacionais para preservar a Amazônia se intensificaram a partir de meados dos anos 1980 devido à divulgação das imagens de queimadas na região e do assassinato do líder seringueiro Chico Mendes."
+        },
+        {
+          "letra": "c",
+          "texto": "A justificativa para a internacionalização da floresta amazônica é o seu papel na absorção de carbono em escala global, característica que a tornou conhecida nos meios científicos como o \"pulmão do mundo\"."
+        },
+        {
+          "letra": "d",
+          "texto": "O enfrentamento das mudanças climáticas requer uma estratégia geopolítica para estabelecer a soberania global sobre o bioma amazônico."
+        },
+        {
+          "letra": "e",
+          "texto": "O setor financeiro é resistente ao esforço internacional de preservação da Amazônia, visto que o Banco Mundial concede financiamento a projetos de infraestrutura na região considerando a lucratividade."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Geografia – Geografia Política",
+        "Geografia – Meio Ambiente"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Muitas vezes usamos as palavras sociedade, povo, nação e país como sinônimos; mas essas palavras, apesar de terem sentidos bem parecidos, não significam exatamente a mesma coisa.\n(VESENTINI, J. W.; VLACH, V. Geografia crítica: o espaço social e o espaço brasileiro. 30. Ed. São Paulo: Ática, 2004, v. 2, p. 2.)\n\nSobre o tema, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Povo é um agrupamento de pessoas que se organizam sob a forma de Estado para defender um território e seus recursos."
+        },
+        {
+          "letra": "b",
+          "texto": "Nação é um grupo de pessoas que apresenta homogeneidade de características físicas e que partilha de uma história comum."
+        },
+        {
+          "letra": "c",
+          "texto": "País é o espaço econômico organizado por um governo ou por uma associação de governos, como ocorre no exemplo da União Europeia."
+        },
+        {
+          "letra": "d",
+          "texto": "Sociedade é um agrupamento de indivíduos que vivem juntos num certo espaço e que se relacionam de acordo com determinadas regras, como se vê na sociedade das formigas, das abelhas e na sociedade humana."
+        },
+        {
+          "letra": "e",
+          "texto": "Países com unidade territorial e organização econômica estável são aqueles que representam um único povo, na medida em que a homogeneidade cultural evita pressões separatistas e conflitos internos."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Geografia – Geografia Política",
+        "Sociologia – Conceitos Fundamentais"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Nos últimos dois séculos, houve uma forte redução da taxa de extrema pobreza em escala mundial, sendo considerada como linha de pobreza a renda per capita de US$ 1,90 por dia (valor ajustado pela inflação e pelo poder de compra do dólar em cada país). Por esse critério, no ano de 1800, a população classificada como extremamente pobre abrangia 85% da população mundial, ao passo que, em 2017, essa taxa havia caído para 9%. E esse processo se acelerou a partir de 1950, ano em que a população extremamente pobre abrangia pouco mais de 60% da população total, o que implica dizer que a redução da pobreza ocorrida nos últimos 67 anos do período analisado foi muito maior do que a redução ocorrida ao longo dos 150 anos precedentes.\n(ROSLING, H. Factfulness: o hábito libertador de só ter opiniões baseadas em fatos. 2. ed. Rio de Janeiro: Record, 2019.)\n\nCom base no enunciado e nos conhecimentos de geografia geral, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "A diminuição do percentual de pobres se acelera após 1949 devido à instituição da Lei do Filho Único na China, tendo em vista a grande participação desse país no total da população pobre do mundo até aquele ano."
+        },
+        {
+          "letra": "b",
+          "texto": "A redução da proporção de pobres não fez a pobreza extrema diminuir em termos absolutos porque a população mundial passou de 1 para 7,8 bilhões entre 1800 e 2017, o que fez o número de pobres crescer."
+        },
+        {
+          "letra": "c",
+          "texto": "A elevação da renda per capita em um país não melhora as condições de saúde, educação e de saneamento básico se não houver diminuição da concentração de renda."
+        },
+        {
+          "letra": "d",
+          "texto": "A queda do percentual de pessoas extremamente pobres se acelera no período marcado pela intensificação dos processos de industrialização, modernização da agricultura e urbanização."
+        },
+        {
+          "letra": "e",
+          "texto": "A pobreza extrema diminui a partir de 1800 porque esse período histórico se caracteriza pelo processo de descolonização, o qual permitiu a generalização da democracia e do modelo de Estado do Bem-Estar."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Geografia – Geografia da População",
+        "Geografia – Desenvolvimento Socioeconômico"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "O Oriente Médio é a região do mundo atual onde se travam as disputas mais intensas por território, motivadas por questões religiosas, étnicas e de controle sobre recursos estratégicos, como petróleo e água.\n\nSobre os conflitos no Oriente Médio, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "O sunismo é a vertente fundamentalista do islamismo, e os xiitas correspondem a cerca de metade da população do Oriente Médio, situação que gera conflitos religiosos em diversos países da região."
+        },
+        {
+          "letra": "b",
+          "texto": "A soberania sobre Jerusalém é um dos pivôs dos conflitos no Oriente Médio devido à posição estratégica dessa cidade para o controle das áreas de extração de petróleo que ficam entre o rio Jordão e o mar Mediterrâneo."
+        },
+        {
+          "letra": "c",
+          "texto": "A intensidade dos conflitos entre árabes e judeus foi reduzida após a assinatura do Tratado de Oslo, no qual os palestinos reconheceram a soberania de Israel sobre os territórios de Gaza e da Cisjordânia."
+        },
+        {
+          "letra": "d",
+          "texto": "A separação entre Estado e religião é uma característica da cultura ocidental que não pode ser reproduzida no Oriente Médio devido às tradições culturais da região e aos preceitos do judaísmo e do islamismo."
+        },
+        {
+          "letra": "e",
+          "texto": "Em 1947, a ONU estabeleceu a divisão da Palestina em um Estado Árabe e um Estado Israelense, sendo que os palestinos declararam guerra aos israelenses por não concordarem com essa forma de partilha."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Geografia – Conflitos no Oriente Médio",
+        "História – Conflitos no Oriente Médio"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "O conceito de \"cidade global\" surgiu nos anos 1980 para o estudo das relações entre os processos de globalização e de urbanização. Sobre esse tema, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "As metrópoles classificadas como cidades globais são aquelas que apresentam grande relevância como centros financeiros, de serviços modernos e como sedes de empresas multinacionais."
+        },
+        {
+          "letra": "b",
+          "texto": "As metrópoles de países subdesenvolvidos tornam-se cidades globais quando suas populações superam 10 milhões de habitantes, pois assim os mercados dessas metrópoles alcançam relevância no comércio mundial."
+        },
+        {
+          "letra": "c",
+          "texto": "A globalização da economia tornou os territórios nacionais interdependentes e pacificou as relações entre países, de modo que as capitais nacionais perderam proeminência para os grandes centros econômicos."
+        },
+        {
+          "letra": "d",
+          "texto": "As cidades globais formam uma rede que concentra a maior parte da produção industrial do mundo, o que lhes confere proeminência no comércio internacional de produtos."
+        },
+        {
+          "letra": "e",
+          "texto": "O processo de urbanização completou-se na Europa antes do que nos demais continentes, razão pela qual as metrópoles europeias não atingem o mínimo de 10 milhões de habitantes necessários para serem classificadas como cidades globais."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Geografia – Geografia Urbana",
+        "Geografia – Globalização"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Entre a Primeira República e a Era Vargas, de 1889 e 1945, quando a intolerância religiosa era institucionalizada no Brasil por um Código Penal que definia como crime a 'prática do espiritismo, da magia e seus sortilégios', pelo menos 519 peças de religiões de matriz africana foram apreendidas pela Polícia em terreiros de candomblé e umbanda no Rio de Janeiro. Essa era uma época em que o samba e a capoeira também davam cadeia no Brasil.\n(Disponível em: https://www.bbc.com/portuguese/brasil-55018196. Acesso em: 05/11/2021.)\n\nA notícia acima demonstra que nem os governantes nem a opinião pública tinham dimensão da ou interesse na pluralidade de religiões no país. Esse fato demonstra o desafio para convivência entre pessoas de diferentes crenças, cujo debate evidencia que:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "as noções de preconceito, discriminação e segregação são inseparáveis."
+        },
+        {
+          "letra": "b",
+          "texto": "o conhecimento religioso foi superado pelo conhecimento produzido pela ciência."
+        },
+        {
+          "letra": "c",
+          "texto": "o Estado brasileiro mantém a laicidade como princípio legal desde a primeira Constituição."
+        },
+        {
+          "letra": "d",
+          "texto": "a religião se resume ao sobrenatural ou ao incompreensível, e a ciência é a principal forma democrática de prática cidadã."
+        },
+        {
+          "letra": "e",
+          "texto": "a religião não pode ser identificada apenas com o monoteísmo e que, no Brasil, há historicamente uma diversificação das práticas religiosas."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Sociologia – Cultura e Religião",
+        "História – História do Brasil República"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "A idade avançada e os problemas de saúde de uma empregada doméstica de 63 anos não a impediam de percorrer semanalmente 120 km de sua casa humilde em Miguel Pereira, no sul fluminense, até o apartamento onde trabalhava no Alto Leblon, bairro da zona sul do Rio que tem o metro quadrado mais valorizado do país...\n(Disponível em: https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/03/19/primeira-vitima-do-rj-era-domestica-e-pegou-coronavirus-da-patroa.htm?cmpid=copiaecola. Acesso em: 05/11/2021.)\n\nA notícia do site UOL retrata a primeira morte registrada na pandemia do novo coronavírus no Brasil. Uma senhora de 63 anos contraiu o vírus de sua patroa que voltava da Itália para o Rio de Janeiro. O exemplo dessa fatalidade, com uma mulher negra e empregada doméstica, revela um processo mais amplo, que vai além da pandemia e simboliza um cenário marcado por:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "injustiças sociais, em que determinados grupos sofrem desproporcionalmente as crises sanitárias, ambientais e econômicas."
+        },
+        {
+          "letra": "b",
+          "texto": "uma injustiça ambiental, que não pode ser associada às dimensões de injustiça econômica ou racial."
+        },
+        {
+          "letra": "c",
+          "texto": "injustiças socioambientais, em que a tragédia revela que apenas a população de baixa renda foi vítima, refém de uma fragilidade do sistema de saúde."
+        },
+        {
+          "letra": "d",
+          "texto": "um racismo estrutural, em que as políticas públicas conseguiram reverter os indicadores de desigualdade social."
+        },
+        {
+          "letra": "e",
+          "texto": "um racismo conjuntural, em que os reflexos sociais e sanitários da pandemia podem ser identificados."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Sociologia – Desigualdade Social"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "A jornalista filipina Maria Ressa e o jornalista russo Dmitry Muratov ganharam o prêmio Nobel da Paz de 2021 por seus esforços para defender a liberdade de expressão frente à crescente repressão à mídia. Fenômenos como a disseminação do uso das mídias sociais, as fakenews e os discursos de ódio podem ser vistos à luz da sociologia. Sobre esses fenômenos contemporâneos, considere as seguintes afirmativas:\n\n1. Durkheim afirma que as atividades profissionais devem ter uma moral própria e que, apesar dos egoísmos particulares e da aparente anarquia econômica, a sociedade não tem razão de ser se não aportar um pouco de paz e harmonia aos homens.\n2. O processo de produção de informações e notícias verdadeiras ou falsas não se relaciona com os diferentes níveis de socialização; a construção das narrativas e a formação moral são uma expressão da liberdade de opinião, independentemente de regras sociais.\n3. A produção das ideias está ligada à atividade material e econômica para Karl Marx, e a ideologia toma forma de uma \"falsa consciência\" na medida em que as representações estão sempre relacionadas a uma classe social ou a uma posição na luta de classes.\n4. Pode-se compreender com naturalidade as fakenews se levarmos em conta as três características da modernidade para Max Weber, que são o processo de encantamento, a redução das esferas de racionalidade e a ampliação de relações baseadas no afeto.\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Somente a afirmativa 2 é verdadeira."
+        },
+        {
+          "letra": "b",
+          "texto": "Somente as afirmativas 1 e 3 são verdadeiras."
+        },
+        {
+          "letra": "c",
+          "texto": "Somente as afirmativas 2 e 4 são verdadeiras."
+        },
+        {
+          "letra": "d",
+          "texto": "Somente as afirmativas 1, 3 e 4 são verdadeiras."
+        },
+        {
+          "letra": "e",
+          "texto": "As afirmativas 1, 2, 3 e 4 são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Sociologia – Sociologia Clássica",
+        "Sociologia – Mídia e Sociedade"
+      ]
+    }
+  ]
+}

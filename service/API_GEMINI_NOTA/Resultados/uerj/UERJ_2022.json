@@ -1,0 +1,1708 @@
+{
+  "nomeUniversidade": "UNIVERSIDADE DO ESTADO DO RIO DE JANEIRO",
+  "siglaUniversidade": "UERJ",
+  "nomeVestibular": "VESTIBULAR ESTADUAL",
+  "ano": 2022,
+  "cursos": [
+    {
+      "nomeCurso": "Administração (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 56.5
+    },
+    {
+      "nomeCurso": "Administração (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Administração (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Administração (RIO)",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Arqueologia (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 48.5
+    },
+    {
+      "nomeCurso": "Arqueologia (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40.5
+    },
+    {
+      "nomeCurso": "Arquitetura e Urbanismo (PETRÓPOLIS)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 58
+    },
+    {
+      "nomeCurso": "Arquitetura e Urbanismo (PETRÓPOLIS)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40.5
+    },
+    {
+      "nomeCurso": "Arquitetura e Urbanismo (PETRÓPOLIS)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 46.5
+    },
+    {
+      "nomeCurso": "Artes Visuais (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 55.5
+    },
+    {
+      "nomeCurso": "Artes Visuais (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35.5
+    },
+    {
+      "nomeCurso": "Artes Visuais (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Ciência da Computação (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 66
+    },
+    {
+      "nomeCurso": "Ciência da Computação (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Ciência da Computação (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Ciências Atuariais (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 39.5
+    },
+    {
+      "nomeCurso": "Ciências Atuariais (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 49
+    },
+    {
+      "nomeCurso": "Ciências Biológicas (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 59.5
+    },
+    {
+      "nomeCurso": "Ciências Biológicas (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35.5
+    },
+    {
+      "nomeCurso": "Ciências Biológicas (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Ciências Biológicas (SÃO GONÇALO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Ciências Biológicas (SÃO GONÇALO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Ciências Contábeis (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 47
+    },
+    {
+      "nomeCurso": "Ciências Contábeis (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Ciências Contábeis (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Ciências Econômicas (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 56.5
+    },
+    {
+      "nomeCurso": "Ciências Econômicas (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Ciências Econômicas (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35.5
+    },
+    {
+      "nomeCurso": "Ciências Sociais (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Ciências Sociais (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38.5
+    },
+    {
+      "nomeCurso": "Ciências Sociais (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Ciências Sociais (RIO)",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 50.5
+    },
+    {
+      "nomeCurso": "Design (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 63
+    },
+    {
+      "nomeCurso": "Design (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 49.5
+    },
+    {
+      "nomeCurso": "Design (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Direito (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 67.5
+    },
+    {
+      "nomeCurso": "Direito (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Direito (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Direito (RIO)",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37.5
+    },
+    {
+      "nomeCurso": "Educação Física (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 53
+    },
+    {
+      "nomeCurso": "Educação Física (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Educação Física (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 31.5
+    },
+    {
+      "nomeCurso": "Educação Física (RIO)",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Enfermagem (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 60
+    },
+    {
+      "nomeCurso": "Enfermagem (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 49
+    },
+    {
+      "nomeCurso": "Enfermagem (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental e Sanitária (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental e Sanitária (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Engenharia Cartográfica (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Engenharia Cartográfica (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Engenharia Civil (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Engenharia Civil (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35.5
+    },
+    {
+      "nomeCurso": "Engenharia Civil (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Engenharia de Computação (NOVA FRIBURGO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 56.5
+    },
+    {
+      "nomeCurso": "Engenharia de Produção (RESENDE)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Engenharia de Produção (RESENDE)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 36.5
+    },
+    {
+      "nomeCurso": "Engenharia de Produção (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 57.5
+    },
+    {
+      "nomeCurso": "Engenharia de Produção (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Engenharia de Produção (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 41.5
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica (NOVA FRIBURGO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 33.5
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica (NOVA FRIBURGO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 58
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica (RESENDE)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 36.5
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 59.5
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 39.5
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica (RIO)",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 53.5
+    },
+    {
+      "nomeCurso": "Engenharia Química (RESENDE)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Engenharia Química (RESENDE)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 39.5
+    },
+    {
+      "nomeCurso": "Engenharia Química (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 59
+    },
+    {
+      "nomeCurso": "Engenharia Química (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Engenharia Química (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Estatística (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Filosofia (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32.5
+    },
+    {
+      "nomeCurso": "Filosofia (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 47.5
+    },
+    {
+      "nomeCurso": "Filosofia (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38.5
+    },
+    {
+      "nomeCurso": "Física (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Física (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 43.5
+    },
+    {
+      "nomeCurso": "Física (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Geografia (DUQUE DE CAXIAS)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Geografia (DUQUE DE CAXIAS)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 51.5
+    },
+    {
+      "nomeCurso": "Geografia (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 45.5
+    },
+    {
+      "nomeCurso": "Geografia (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Geografia (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Geografia (SÃO GONÇALO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Geologia (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Geologia (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 55
+    },
+    {
+      "nomeCurso": "História (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 57.5
+    },
+    {
+      "nomeCurso": "História (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "História (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35.5
+    },
+    {
+      "nomeCurso": "História (SÃO GONÇALO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "História (SÃO GONÇALO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "História da Arte (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 47.5
+    },
+    {
+      "nomeCurso": "História da Arte (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40.5
+    },
+    {
+      "nomeCurso": "História da Arte (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 44.5
+    },
+    {
+      "nomeCurso": "Jornalismo (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 64.5
+    },
+    {
+      "nomeCurso": "Jornalismo (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 48.5
+    },
+    {
+      "nomeCurso": "Jornalismo (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42.5
+    },
+    {
+      "nomeCurso": "Letras (SÃO GONÇALO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 33.5
+    },
+    {
+      "nomeCurso": "Letras (SÃO GONÇALO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 47.5
+    },
+    {
+      "nomeCurso": "Letras (SÃO GONÇALO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Letras: Inglês/Literaturas (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 53
+    },
+    {
+      "nomeCurso": "Letras: Inglês/Literaturas (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Letras: Inglês/Literaturas (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Letras: Português/Alemão (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 39.5
+    },
+    {
+      "nomeCurso": "Letras: Português/Espanhol (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37.5
+    },
+    {
+      "nomeCurso": "Letras: Português/Espanhol (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37.5
+    },
+    {
+      "nomeCurso": "Letras: Português/Francês (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 47
+    },
+    {
+      "nomeCurso": "Letras: Português/Francês (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 44.5
+    },
+    {
+      "nomeCurso": "Letras: Português/Francês (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Letras: Português/Grego (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Letras: Português/Italiano (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Letras: Português/Italiano (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Letras: Português/Japonês (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 49.5
+    },
+    {
+      "nomeCurso": "Letras: Português/Latim (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Letras: Português/Literatura (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 50
+    },
+    {
+      "nomeCurso": "Letras: Português/Literatura (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Letras: Português/Literatura (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 50
+    },
+    {
+      "nomeCurso": "Matemática (DUQUE DE CAXIAS)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38.5
+    },
+    {
+      "nomeCurso": "Matemática (DUQUE DE CAXIAS)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40.5
+    },
+    {
+      "nomeCurso": "Matemática (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Matemática (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38.5
+    },
+    {
+      "nomeCurso": "Matemática (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 39.5
+    },
+    {
+      "nomeCurso": "Matemática (SÃO GONÇALO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Medicina (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 90
+    },
+    {
+      "nomeCurso": "Medicina (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 80
+    },
+    {
+      "nomeCurso": "Medicina (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 71.5
+    },
+    {
+      "nomeCurso": "Medicina (RIO)",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 63
+    },
+    {
+      "nomeCurso": "Nutrição (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 60
+    },
+    {
+      "nomeCurso": "Nutrição (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 43
+    },
+    {
+      "nomeCurso": "Nutrição (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Nutrição (RIO)",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38.5
+    },
+    {
+      "nomeCurso": "Oceanografia (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 47.5
+    },
+    {
+      "nomeCurso": "Oceanografia (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38.5
+    },
+    {
+      "nomeCurso": "Odontologia (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 67.5
+    },
+    {
+      "nomeCurso": "Odontologia (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 49
+    },
+    {
+      "nomeCurso": "Odontologia (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 42
+    },
+    {
+      "nomeCurso": "Odontologia (RIO)",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 57
+    },
+    {
+      "nomeCurso": "Pedagogia (DUQUE DE CAXIAS)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Pedagogia (DUQUE DE CAXIAS)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Pedagogia (DUQUE DE CAXIAS)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 41.5
+    },
+    {
+      "nomeCurso": "Pedagogia (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Pedagogia (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Pedagogia (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35.5
+    },
+    {
+      "nomeCurso": "Pedagogia (RIO)",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 47.5
+    },
+    {
+      "nomeCurso": "Pedagogia (SÃO GONÇALO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 32.5
+    },
+    {
+      "nomeCurso": "Pedagogia (SÃO GONÇALO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35.5
+    },
+    {
+      "nomeCurso": "Pedagogia (SÃO GONÇALO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40.5
+    },
+    {
+      "nomeCurso": "Psicologia (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 68.5
+    },
+    {
+      "nomeCurso": "Psicologia (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 53.5
+    },
+    {
+      "nomeCurso": "Psicologia (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 47
+    },
+    {
+      "nomeCurso": "Psicologia (RIO)",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Química (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 48.5
+    },
+    {
+      "nomeCurso": "Química (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 37.5
+    },
+    {
+      "nomeCurso": "Química (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Relações Internacionais (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 68
+    },
+    {
+      "nomeCurso": "Relações Internacionais (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Relações Internacionais (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Relações Públicas (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 53.5
+    },
+    {
+      "nomeCurso": "Relações Públicas (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Relações Públicas (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 36.5
+    },
+    {
+      "nomeCurso": "Serviço Social (RIO)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 44.5
+    },
+    {
+      "nomeCurso": "Serviço Social (RIO)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Serviço Social (RIO)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 34.5
+    },
+    {
+      "nomeCurso": "Serviço Social (RIO)",
+      "modalidadeConcorrencia": "PESSOAS COM DEFICIÊNCIA/FILHOS DE POLICIAIS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 38.5
+    },
+    {
+      "nomeCurso": "Turismo (TERESÓPOLIS)",
+      "modalidadeConcorrencia": "NÃO-RESERVADAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 43.5
+    },
+    {
+      "nomeCurso": "Turismo (TERESÓPOLIS)",
+      "modalidadeConcorrencia": "REDE PÚBLICA",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 35.5
+    },
+    {
+      "nomeCurso": "Turismo (TERESÓPOLIS)",
+      "modalidadeConcorrencia": "NEGROS/INDÍGENAS",
+      "vagas": 0,
+      "inscritos": 0,
+      "ausentes": 0,
+      "convocadosSegundaFase": 0,
+      "convocadosPorVaga": 0,
+      "notaCorte": 40
+    }
+  ]
+}

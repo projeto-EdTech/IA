@@ -1,0 +1,1409 @@
+{
+  "nomeUniversidade": "Instituto Mauá de Tecnologia",
+  "siglaUniversidade": "MAUÁ",
+  "nomeProva": "Vestibular Mauá Verão 2025",
+  "ano": 2025,
+  "qtdeQuestoes": 46,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Leia a tirinha.\n\nMAS POR QUE CHAMAM ELE DE \"LOBO MAU\"?\nPORQUE QUER COMER OS PORQUINHOS, O DESALMADO!\nAGORA VEM FAZER O LANCHE!\nO PÃO COM PRESUNTO TÁ EM CIMA DA MESA!\n\nHá, no texto, exemplo de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "paradoxo. Figura de linguagem que se caracteriza pelo desajustamento entre a função gramatical e a função lógica das palavras."
+        },
+        {
+          "letra": "B",
+          "texto": "sarcasmo. Figura de estilo, em que é expressa a tranquilidade ao convidar “Armandinho” a comer presunto, produto suíno."
+        },
+        {
+          "letra": "C",
+          "texto": "hipálage. Figura sintática, pois há a transposição das relações naturais de dois elementos em uma proposição."
+        },
+        {
+          "letra": "D",
+          "texto": "pleonasmo. Figura de construção, deixando a frase mais expressiva e elegante, através da inversão na ordem das frases."
+        },
+        {
+          "letra": "E",
+          "texto": "zeugma. Figura de sintaxe, uma vez que há omissão de termos na oração, evitando, assim, a repetição desnecessária do verbo."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Na tirinha, há deslize gramatical,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "no emprego de mau, ao invés de mal."
+        },
+        {
+          "letra": "B",
+          "texto": "no uso de por que, e não de porque."
+        },
+        {
+          "letra": "C",
+          "texto": "usando o verbo vem, na segunda pessoa, quando deveria usar venha, terceira pessoa."
+        },
+        {
+          "letra": "D",
+          "texto": "ao usar o pronome pessoal ele, cuja função é subjetiva."
+        },
+        {
+          "letra": "E",
+          "texto": "na colocação do adjetivo desalmado no final da frase, quando deveria colocá-lo no início."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Gramática"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Leia o texto para responder às questões 3 e 4.\n\nRazão, irmã do Amor e da Justiça,\nMais uma vez escuta a minha prece,\nÉ a voz d'um coração que te apetece,\nDuma alma livre, só a ti submissa.\n\nPor ti é que a poeira movediça\nDe astros e sóis e mundos permanece;\nE é por ti que a virtude prevalece,\nE a flor do heroísmo medra e viça.\n\nPor ti, na arena trágica, as nações\nBuscam a liberdade, entre clarões;\nE os que olham o futuro e cismam, mudos,\n\nPor ti, podem sofrer e não se abatem,\nMãe de filhos robustos, que combatem\nTendo o teu nome escrito em seus escudos!\n\nAntero de Quental\n\nO uso das figuras de linguagem como recursos estilísticos e semânticos amplia a capacidade comunicativa dos textos. Nos versos É a voz d'um coração que te apetece / Duma alma livre, só a ti submissa, a ideia central desenvolvida no soneto é apoiada inicialmente pelo emprego de um desses recursos denominado",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "paradoxo, pois se estabelece a noção de que a alma só alcança a liberdade após sujeitar-se à razão."
+        },
+        {
+          "letra": "B",
+          "texto": "antítese, porque a oposição entre \"livre\" e \"submissa\" mostra que a alma está sempre presa à dualidade."
+        },
+        {
+          "letra": "C",
+          "texto": "metonímia, uma vez que indivíduo, representado pelo coração, desafia a razão para alcançar a liberdade."
+        },
+        {
+          "letra": "D",
+          "texto": "eufemismo, já que a submissão da alma a que se refere o eu lírico é, na verdade, a escravidão racional."
+        },
+        {
+          "letra": "E",
+          "texto": "redução, porque a vida do indivíduo fica limitada a uma busca pela liberdade calcada nos desígnios da razão."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura",
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Esse texto de Antero de Quental, importante poeta português da segunda metade do século XIX, fazia apologia a uma nova forma de pensamento que procurava superar a estética literária até então vigente. Nessa perspectiva, de acordo com a temática, o soneto analisado carrega características",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "modernas, na busca pela liberdade de expressão e pela prevalência da virtude racional nas obras de arte."
+        },
+        {
+          "letra": "B",
+          "texto": "parnasianas, no apreço a uma linguagem culta e puramente racional, livre de qualquer traço emotivo."
+        },
+        {
+          "letra": "C",
+          "texto": "simbolistas, na utilização de imagens oníricas para exaltar a razão e fazê-la o motor da vida humana."
+        },
+        {
+          "letra": "D",
+          "texto": "românticas, na súplica à razão para guiar as nações a um equilíbrio entre liberdade e justiça social."
+        },
+        {
+          "letra": "E",
+          "texto": "realistas, na exaltação da razão como fundamento das virtudes, das lutas sociais e do próprio mundo."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Literatura – Realismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Leia o texto.\n\nCanto de regresso à pátria\n\nMinha terra tem palmares\nOnde gorjeia o mar\nOs passarinhos daqui\nNão cantam como os de lá\nMinha terra tem mais rosas\nE quase que mais amores\nMinha terra tem mais ouro\nMinha terra tem mais terra\nOuro terra amor e rosas\nEu quero tudo de lá\nNão permita Deus que eu morra\nSem que volte para lá\nNão permita Deus que eu morra\nSem que volte pra São Paulo\nSem que veja a Rua 15\nE o progresso de São Paulo.\n\nEsse poema, de Oswald de Andrade, parodia",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“Uma Canção”, de Mário Quintana, em que o autor brinca com o texto original, chamando de aves invisíveis as que cantam nas palmeiras que não há..."
+        },
+        {
+          "letra": "B",
+          "texto": "“Europa, França e Bahia\", de Carlos Drummond de Andrade, com cais bolorentos de livros judeus..."
+        },
+        {
+          "letra": "C",
+          "texto": "“Canção do Exílio\", de Gonçalves Dias. Nele o autor recria um novo texto, utilizando a paráfrase, com caráter humorístico."
+        },
+        {
+          "letra": "D",
+          "texto": "“Canção do Exílio\", de Casimiro de Abreu, uma preciosidade do Romantismo brasileiro."
+        },
+        {
+          "letra": "E",
+          "texto": "“Nova Canção do Exílio\", de Ferreira Gullar, representante do Modernismo brasileiro."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura – Modernismo",
+        "Língua Portuguesa – Intertextualidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Leia o texto.\n\nGoza, goza da flor da mocidade,\nQue o tempo trota a toda ligeireza,\nE imprime em toda flor sua pisada.\nOh, não aguardes, que a madura idade\nTe converta essa flor, essa beleza,\nEm terra, em cinza, em pó, em sombra, em\nnada.\n\nGregório de Matos\n\nOs tercetos acima apresentam",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "conceptismo e cultismo, expressões da poesia barroca, em um imaginário bucólico."
+        },
+        {
+          "letra": "B",
+          "texto": "oposição entre Reforma e Contrarreforma, dilema no plano religioso."
+        },
+        {
+          "letra": "C",
+          "texto": "caráter de jogo verbal próprio da poesia lírica do séc. XVI, sustentando uma crítica à preocupação feminina com a beleza."
+        },
+        {
+          "letra": "D",
+          "texto": "jogo metafórico do Barroco, a respeito da fugacidade da vida, exaltando gozo do momento."
+        },
+        {
+          "letra": "E",
+          "texto": "estilo pedagógico da poesia neoclássica, ratificando as reflexões do poeta a respeito das mulheres maduras."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Literatura – Barroco"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Read the extract below and answer questions 7-10.\n\nMoxie: How This Al Robot Is Designed to Teach Kids Emotional Intelligence\n\nBruce Y. Lee\nFeb 18, 2024,03:07pm EST, Updated Feb 20, 2024, 11:19am EST\n\nWhen you first talk to Moxie, this artificial intelligence (AI)-powered robot may let out a big yawn, stretching out its robot arms in the process. It's not because you are boring. It's not because the robot really needs to increase blood flow throughout its body. No, yawning is just what young kids may do when you wake them from sleep. So, a yawn makes sense since Embodied, Inc. has been trying to make Moxie as life-like as possible to serve as a companion for kids.\n\nThis small robot from Embodied is the literal embodiment of what's been a longtime passion project for Paolo Pirjanian, PhD, the CEO and Founder of Embodied: to develop a robot with emotional intelligence that can play with and teach five-to-10-year-old kids. In an earlier phase of his career, Pirjanian had designed robots that went to space and Mars. But in 2016, he founded Embodied that would address a different space on this planet: helping kids overcome social anxiety and loneliness.\n\nWithin six months of its founding, the company already had a working robot prototype up and running. The company then proceeded with Moxie. In 2021, they started testing this robot with children on the autism spectrum. Since then the company has been progressively expanding the robot's features to fill an increasingly wider range of different emotional, social, physical and educational needs for kids.\n\nMind you, Moxie doesn't simply stand there and yawn at you. The robot uses Al to interact with you and go through different conversations that aim to improve problem-solving, critical thinking, creative thinking, emotional intelligence, and physical activity.\n\nMoxie already has a lot of characteristics aimed at making you forget that you are talking to a collection of circuits, metal, and plastic. That's because the robot and its Al algorithms not only hear and process what you have to say but can detect your facial expressions and tone of voice. This will result in responses from Moxie to your comments and questions, along with accompanying arm, eyebrow and mouth movements. (Sorry, Moxie has no nose.) The robot will also try to maintain eye contact as you can see in the following video from Embodied:\n\nThe conversations aren't always completely fluid. There can be some delay in responses as the Al algorithms “ponder” what you have said. But during demos, Moxie seemed to be able to maintain conversation in various topics.:12\n\nThe latest iteration of Moxie can remember past conversations so that you don't have to say, “Come on, I told you that a week ago” or keep reminding the robot about that Hawaii vacation a few months ago when you know you know what happened.\n\nAdapted from https://www.forbes.com/sites/brucelee/2024/02/18/...Accessed on Oct. 03rd, 2024.\n\nAccording to the text, what was Paolo Pirjanian's main wish when he created Moxie?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "He wanted to lighten up parents' responsibility for emotionally healthy children who would become better citizens."
+        },
+        {
+          "letra": "B",
+          "texto": "He came up with an intelligent robot that could help kids at school and make them better scientists and astronauts."
+        },
+        {
+          "letra": "C",
+          "texto": "Moxie was created to talk to kids about many different themes their parents are not able to handle."
+        },
+        {
+          "letra": "D",
+          "texto": "Moxie was originally manufactured to go on space missions to other planets to help astronauts."
+        },
+        {
+          "letra": "E",
+          "texto": "He wanted an emotionally intelligent robot to play with and teach children to deal with social anxiety and loneliness."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "What skills does Moxie help children develop through interaction and conversations?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Problem-solving, critical thinking, creative thinking."
+        },
+        {
+          "letra": "B",
+          "texto": "Mathematical skills, resilience and physical strength."
+        },
+        {
+          "letra": "C",
+          "texto": "Creative writing, emotional intelligence, and reading skills."
+        },
+        {
+          "letra": "D",
+          "texto": "Problem-solving, scientific thinking, and emotional intelligence."
+        },
+        {
+          "letra": "E",
+          "texto": "Critical thinking, creative writing, and physical strength."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "What is the use of the underlined idiom MIND YOU in the excerpt below?\n\n“Mind you, Moxie doesn't simply stand there and yawn at you. The robot uses Al to interact with you and go through different conversations that aim to (...).”",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "The author uses MIND YOU to call the readers attention to the fact that the robot can yawn, which is an important feature in the development of children."
+        },
+        {
+          "letra": "B",
+          "texto": "The author uses MIND YOU to give stress to one of the fun features of the Al robot while it is listening to the kids."
+        },
+        {
+          "letra": "C",
+          "texto": "The author uses MIND YOU to give stress to the fact that Moxie can do much more than simply yawn at you, which is reinforced by the following statement."
+        },
+        {
+          "letra": "D",
+          "texto": "MIND YOU is an old expression used to show the author's sarcast opinion about the ude of the robot to educate kids."
+        },
+        {
+          "letra": "E",
+          "texto": "The author uses MIND YOU to ask readers to pay attention to what s(he) is saying about the impolite behavior shown by the robot."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Vocabulário",
+        "Inglês – Expressões Idiomáticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "In the fragment “There can be some delay in responses as the Al algorithms ponder what you have said.”, the underlined verb can be substituted by",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "disapprove of."
+        },
+        {
+          "letra": "B",
+          "texto": "reflect on."
+        },
+        {
+          "letra": "C",
+          "texto": "forget."
+        },
+        {
+          "letra": "D",
+          "texto": "disregard."
+        },
+        {
+          "letra": "E",
+          "texto": "ignore."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Read the extract below and answer questions 11-12.\n\nBody Acceptance respects the fact that not everyone will like what they see when they look in the mirror and that feeling positive in your body is impossible and unrealistic to expect and achieve, all of the time. Body acceptance invites people to explore why they might feel dissatisfied and uncomfortable in that moment and instead of reacting to those uncomfortable feelings in a typical way, which often involves turning on themselves and their body, encourages people to work through negative feelings in a compassionate and accepting way.\nBody acceptance is a process and a lifelong practice. Interesting fact: Body Acceptance arose from the reality that in western society bodies are not treated equally and that the body positivity movement had lost its way and wasn't feeling inclusive to all bodies and individuals.\n\nAdapted from https://butterfly.org.au/positive-body-image-navigating-the-terms/Accessed on Oct. 08th, 2024.\n\nAccording to the excerpt, what does Body Acceptance incentivize people to do?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "To understand why people in Western countries look so much unhappier than in the Eastern side of the world."
+        },
+        {
+          "letra": "B",
+          "texto": "To accept that all bodies are fine and that the body positivity movement has been launched and is a reality everyone should experience now."
+        },
+        {
+          "letra": "C",
+          "texto": "To explore why they might feel unhappy and uncomfortable when they look in the mirror and to deal with those feelings in a self-compassionate way."
+        },
+        {
+          "letra": "D",
+          "texto": "To join the body positivity movement in order to show compassion for others and to learn how to deal with differences."
+        },
+        {
+          "letra": "E",
+          "texto": "To learn how to achieve their goals in relation to social expectations towards shapes and sizes."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "In the fragment “(...) and wasn't feeling inclusive to all bodies and individuals.”, what does the underlined expression mean?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Including."
+        },
+        {
+          "letra": "B",
+          "texto": "Contributing."
+        },
+        {
+          "letra": "C",
+          "texto": "Being compassionate."
+        },
+        {
+          "letra": "D",
+          "texto": "Offering equity."
+        },
+        {
+          "letra": "E",
+          "texto": "Cherishing."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Leia o texto.\n\nA obra de Max Weber (1864-1920) representou uma inegável contribuição à pesquisa sociológica, abrangendo os mais variados temas, como o direito, a economia, a história, a religião, a política, a arte (...). A sua importante reflexão sobre a metodologia a ser utilizada nas ciências sociais foi elaborada a partir de sua intensa atividade de pesquisa (...).\n\nMARTINS, Carlos Benedito. O que é Sociologia. São Paulo: Brasiliense, p. 66-67.\n\nAssinale a alternativa que apresenta o objeto de estudo da teoria sociológica de Weber.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Fato Social, caracterizado por ser geral, exterior e coercitivo aos indivíduos."
+        },
+        {
+          "letra": "B",
+          "texto": "A Teoria dos Três Estados, que divide o desenvolvimento do pensamento humano em três estágios: teológico, metafísico e positivo."
+        },
+        {
+          "letra": "C",
+          "texto": "O materialismo dialético e os conceitos de Infraestrutura e Superestrutura."
+        },
+        {
+          "letra": "D",
+          "texto": "O Socialismo Utópico, a partir do modelo de \"industrialismo\"."
+        },
+        {
+          "letra": "E",
+          "texto": "Ação Social, dividida em quatro categorias: racional, visando aos fins; racional, visando aos valores; afetiva e tradicional."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Sociologia – Max Weber"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Observe as imagens a seguir.\n\nAs imagens acima apresentam duas importantes esculturas: uma realizada no período chamado Paleolítico Superior; outra, na Grécia Antiga. Enquanto a Vênus grega tem esse nome por provavelmente ser a representação da deusa homônima, a peça encontrada em Willendorf recebeu seu nome posteriormente, a partir de uma nomenclatura estabelecida pelas Ciências Humanas para denominar as estatuetas de mulheres nuas.\n\nComparando as duas peças, pode-se concluir que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ambas as estátuas recebem o nome de Vênus por se tratar de duas representações de deusas pagãs."
+        },
+        {
+          "letra": "B",
+          "texto": "a representação do corpo da mulher segue as motivações intrínsecas aos contextos; na Vênus, de Willendorf, a estatueta provavelmente seria um amuleto de fertilidade; no caso da estátua do Louvre, um ídolo pagão esculpido conforme a estética helenística."
+        },
+        {
+          "letra": "C",
+          "texto": "o padrão de beleza da Vênus grega é mais agradável e equilibrado, enquanto a Vênus paleolítica, devido à ausência de técnica sofisticada, possui uma representação distorcida e incompleta do corpo."
+        },
+        {
+          "letra": "D",
+          "texto": "a nudez das estátuas, o uso da pedra e do mármore e a ausência dos braços caracterizam essas duas peças como “Vênus esteatopígicas”."
+        },
+        {
+          "letra": "E",
+          "texto": "a ausência dos braços na Vênus de Milo é uma referência à peça Paleolítica, numa clara demonstração do uso do cânone de representação do corpo da mulher pelos artistas gregos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Arte – História da Arte"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Leia o texto.\n\nNão, não vai ser hoje o dia em que conhecerei minha morte. Nem hoje, nem nunca. Morrerei para os outros, sem jamais me ver morrer. Fechei de novo os olhos, mas sem poder recuperar o sonho. Por que a morte se intrometeu outra vez em meus sonhos? Ela ronda, sinto que ronda. Por quê? Nunca soube que ia morrer. Criança, acreditei em Deus. Um vestido brando e suas asas flamejantes me aguardavam nos vestiários do céu [...].\n\nBEAUVOIR, Simone de. Os Mandarins. Rio de Janeiro: Editora Nova Fronteira, 2017, p. 30.\n\nObserve a imagem.\n\nA corrente filosófica que aproxima o texto à imagem é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a metafísica, ao enfatizar a natureza divina na condição humana."
+        },
+        {
+          "letra": "B",
+          "texto": "o liberalismo, por enfatizar a condição de escolha do sujeito em relação à vida."
+        },
+        {
+          "letra": "C",
+          "texto": "o onírico, ao entrelaçar sonho e realidade."
+        },
+        {
+          "letra": "D",
+          "texto": "o existencialismo, na busca de sentido em um mundo sem valores ou significados intrínsecos."
+        },
+        {
+          "letra": "E",
+          "texto": "o materialismo histórico, à medida que estabelece critérios concretos para a vida e suas contingências."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Filosofia – Existencialismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Observe a imagem.\n\nLeia o texto.\n\nQuando falo de humanidade não estou falando só do Homo sapiens, me refiro a uma imensidão de seres que nós excluímos desde sempre: caçamos baleia, tiramos barbatana de tubarão, matamos leão e o penduramos na parede para mostrar que somos mais bravos que ele. Além da matança de todos os outros humanos que a gente achou que não tinha nada, que estavam aí só para nos suprir com roupa, comida, abrigo. Somos a praga do planeta, uma espécie de ameba gigante. Ao longo da história, os humanos, aliás, esse clube exclusivo da humanidade – que está na Declaração Universal dos Direitos Humanos e nos protocolos das instituições- foram devastando tudo ao seu redor. É como se tivessem elegido uma casta, a humanidade, e todos que estão fora dela são a sub-humanidade. Não são só os caiçaras, quilombolas e povos indígenas, mas toda vida que deliberadamente largamos à margem do caminho. E o caminho é o progresso: essa ideia prospectiva de que estamos indo para algum lugar. Há um horizonte, estamos indo para lá, e vamos largando no percurso tudo que não interessa, o que sobra, a sub-humanidade – alguns de nós fazemos parte dela.\n\nKRENAK, Ailton. A vida não é útil. São Paulo: Companhia das Letras, 2020, p. 10.\n\nTanto a Charge como o texto de Ailton Krenak suscitam uma crítica",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à Declaração Universal dos Direitos Humanos, que estabelece o ocidente como padrão de humanidade."
+        },
+        {
+          "letra": "B",
+          "texto": "à indústria farmacêutica que tem impactado sensivelmente o meio ambiente e as demais formas de vida."
+        },
+        {
+          "letra": "C",
+          "texto": "às guerras em busca das riquezas naturais, marcadas pela polarização da sociedade."
+        },
+        {
+          "letra": "D",
+          "texto": "ao liberalismo, sendo o antropoceno o meio pelo qual a humanidade poderia enfrentar os percalços contemporâneos."
+        },
+        {
+          "letra": "E",
+          "texto": "ao progresso predatório que exclui não apenas outros humanos marginalizados, mas também a biodiversidade e as demais formas de vida no planeta."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Questões Socioambientais",
+        "Sociologia – Sociedade e Meio Ambiente"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Leia o texto.\n\nA cartografia, ciência e arte de representar o conhecimento da superfície terrestre através de mapas e cartas, possui uma longa história. Representações cartográficas podem ser encontradas na Antiguidade, no período medieval e no Oriente. É, contudo, na Era Moderna que a cartografia conhece um progresso imenso com os descobrimentos portugueses, com a elaboração dos primeiros mapas em escala mundial. Uma figura de destaque nesse sentido é Mercator (1512-1594), um geógrafo, astrônomo e matemático flamengo, considerado o pai da cartografia moderna. Em 1578, Mercator corrigiu e publicou uma versão atualizada dos 27 mapas da obra de Ptolomeu, com os quais compôs a primeira parte da sua nova coleção de mapas. Mercator atribuiu o nome de \"Atlas\" a sua primeira coleção de mapas em 1578, em homenagem ao Titã Atlas, da mitologia grega, que foi condenado por Zeus a carregar eternamente em seus ombros o peso da Terra e da abóbada celeste. A Cartografia, produzida naquela época, é uma cartografia de primeira categoria, que passou a ser conhecida na história, como a “Idade de ouro da cartografia\".\n\nFonte: https://pt.wikipedia.org/wiki/Cartografia (adaptado)\n\nNa Era Moderna, popularizou-se o uso de um tipo específico de mapa, que auxiliava os navegadores no sucesso de suas expedições, proporcionando, assim, o êxito das empreitadas comerciais.\n\nEsses mapas foram chamados de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Portulanos."
+        },
+        {
+          "letra": "B",
+          "texto": "Mapas T. O (Orbis terrarum)."
+        },
+        {
+          "letra": "C",
+          "texto": "Mapas Psalter (Salmos)."
+        },
+        {
+          "letra": "D",
+          "texto": "Ptolomaicos."
+        },
+        {
+          "letra": "E",
+          "texto": "Projeções de Peters."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – História da Cartografia",
+        "História – Grandes Navegações"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "A gravura abaixo, do artista alemão Lucas Cranach, no século XI, é intitulada Anticristo. Ela mostra a venda de indulgências pelo papa.\n\nA gravura está inserida no contexto da Reforma Luterana, realizada em 1517 por Martinho Lutero. Naquele ano, o monge condenou fortemente a venda de indulgências, escrevendo um documento conhecido por 95 Teses, em que manifestou publicamente suas críticas à Igreja e ao papa.\n\nNa Alemanha do período, havia outro grupo que estava profundamente descontente com a Igreja Católica, particularmente poderosa no Sacro Império:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a Companhia de Jesus, que pretendia lucrar com as conquistas da Reforma Luterana."
+        },
+        {
+          "letra": "B",
+          "texto": "os anglicanos, favoráveis à dissolução do casamento, considerado pela Igreja Católica Sacramento e, portanto, indissolúvel."
+        },
+        {
+          "letra": "C",
+          "texto": "a nobreza alemã, ansiosa para diminuir a influência da instituição, além de cobiçar as propriedades da Igreja."
+        },
+        {
+          "letra": "D",
+          "texto": "os anabatistas, influenciadores da criação das Teses de Lutero."
+        },
+        {
+          "letra": "E",
+          "texto": "os huguenotes, comandados por João Calvino, defensores da Reforma."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Reforma Protestante"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Observe a imagem.\n\nA construção de Brasília, a nova capital do país, teve início em 1957. Sua inauguração ocorreu em 21 de abril de 1960, revelando uma cidade inteiramente modelada conforme plano urbanístico de Lúcio Costa, projetos arquitetônicos de Oscar Niemeyer, engenharia de Joaquim Cardozo e o árduo trabalho dos operários migrantes, chamados de Candangos. Brasília transformou-se em \"meta-síntese\" do governo de Juscelino Kubitschek, o “presidente Bossa-Nova\", cujo governo muitas vezes é lembrado como um período que aliou tranquilidade política e prosperidade econômica, ao mesmo tempo que gerou uma enorme dívida externa. Sua plataforma política foi marcada pelos seguintes pontos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "forte propaganda anticorrupção; promoção de corte nos gastos do governo; retirada dos subsídios à importação de trigo e de petróleo; proibição de brigas de galo, do uso de biquíni nas praias e de lança-perfume."
+        },
+        {
+          "letra": "B",
+          "texto": "projeto de modernização do país, com estímulo ao capital internacional e incentivo ao desenvolvimento das indústrias, inclusive aquelas multinacionais e automobilísticas; criação do Plano de Metas, abrangendo cinco setores: energia, transporte, indústria, alimentação e educação."
+        },
+        {
+          "letra": "C",
+          "texto": "adoção de medidas nacionalistas, chamadas de Reformas de Base; defesa da Reforma Agrária; distribuição de renda."
+        },
+        {
+          "letra": "D",
+          "texto": "aversão à intervenção estatal na economia, aliando-se abertamente aos Estados Unidos. Abertura da economia às importações, criação do Plano Salte, que procurou estimular o crescimento da indústria brasileira com investimentos estatais em saúde, educação, energia e transportes."
+        },
+        {
+          "letra": "E",
+          "texto": "criação da Petrobrás e da Eletrobrás, com forte comprometimento com o nacionalismo. Apesar disso, proporcionou o investimento estrangeiro no país."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Brasil República",
+        "História – Governo JK"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "As guerras ainda assolam a humanidade, de modo que é possível colocar do mesmo lado Estado Unidos da América, França, Alemanha, Itália e Reino Unido, e do outro lado Afeganistão, Egito, Marrocos, Síria, Catar, Argélia e Irã, referindo-se à situação entre",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Rússia e Ucrânia."
+        },
+        {
+          "letra": "B",
+          "texto": "Iêmen e Venezuela."
+        },
+        {
+          "letra": "C",
+          "texto": "Rússia e Japão."
+        },
+        {
+          "letra": "D",
+          "texto": "Israel e Palestina."
+        },
+        {
+          "letra": "E",
+          "texto": "França e Espanha."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "História – Conflitos Contemporâneos"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "A Escola Austríaca ganhou destaque por suas contribuições no campo da economia, com os teóricos Ludwig von Mises e Friedrich Hayek.\n\nDentre os conceitos defendidos por eles estão:\nI - Praxeologia, que considera o comportamento econômico manifestação de escolhas racionais feitas pelos indivíduos.\nII - Teoria dos ciclos Econômicos, seja de expansão ou de recessão, causados pela intervenção governamental.\nIII - Planificação da economia como estratégia de enfrentamento às taxas de juros e estabilização social.\nIV - Neutralidade da moeda, devido à sua condição de imparcialidade diante das mudanças econômicas que afetam a sociedade.\nV - Ordem espontânea, sugerindo que o mercado, sem intervenção do Estado, tende a organizar-se de maneira eficiente por meio de ação descentralizada dos indivíduos.\n\nEstão corretas as afirmativas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e V apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II, III, IV e V."
+        },
+        {
+          "letra": "C",
+          "texto": "I, III e V apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "II, III e IV apenas."
+        },
+        {
+          "letra": "E",
+          "texto": "II, III e V apenas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Filosofia – Filosofia Econômica",
+        "Sociologia – Pensamento Econômico"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Observe a figura.\n\nA imagem se refere a um evento histórico que marcou o fim de uma relação de mais de 40 anos entre o Reino Unido e a União Europeia, cujo impacto econômico, político e social permanece até nossos dias, tanto para o Reino Unido quanto para a Europa.\n\nEsse fato se refere",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à Zona do Euro."
+        },
+        {
+          "letra": "B",
+          "texto": "à Crise dos Refugiados."
+        },
+        {
+          "letra": "C",
+          "texto": "à Anexação da Crimeia."
+        },
+        {
+          "letra": "D",
+          "texto": "ao Brexit."
+        },
+        {
+          "letra": "E",
+          "texto": "à Ampliação da União Europeia."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "História – Tempo Presente"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Em 2024, o governo brasileiro ampliou a isenção do imposto de renda para indivíduos que ganham até dois salários mínimos.\nSuponha que o salário mínimo seja de R$ 1.500,00 por mês. Uma pessoa que ganha R$ 3.000,00 por mês (dois salários mínimos) agora está isenta do imposto de renda, enquanto anteriormente pagava 7,5% sobre a renda acima de R$ 2.500,00. A economia anual que essa pessoa terá com a nova isenção é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 37,50"
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 187,50"
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 450,00"
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 225,00"
+        },
+        {
+          "letra": "E",
+          "texto": "R$ 2.250,00"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Na figura abaixo, temos o recorte de um quadrado de lado 8.000 km, em alto mar, e um navio de cruzeiro, navegando sobre a sua diagonal. Em um dos vértices do quadrado está a ilha de Madagascar, e, a 2.000 km dela, as Ilhas Maurício, sobre o lado do quadrado. Num certo momento, o navio para e duas embarcações menores vão, em linha reta, para as duas ilhas.\n\nCalcule a menor distância, em quilômetros, entre Navio/Madagascar + Navio/Ilhas Maurício.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12.000"
+        },
+        {
+          "letra": "B",
+          "texto": "10.000"
+        },
+        {
+          "letra": "C",
+          "texto": "10.600"
+        },
+        {
+          "letra": "D",
+          "texto": "16.200"
+        },
+        {
+          "letra": "E",
+          "texto": "14.000"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Geometria Analítica",
+        "Matemática – Teorema de Pitágoras"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Uma empresa está analisando o custo de produção C(x) de novo produto. O custo total de produzir x unidades do produto é modelado pela seguinte função quadrática:\n\n$C(x) = 100 - 2x + 0,04x^2$\n\nOs termos dessa função representam diferentes tipos de custos unitários, como o Custo Fixo Médio, que é constante, o Custo Variável Médio, que muda com a quantidade de unidade produzida, e o Custo Marginal, que aumenta após certo ponto devido às limitações de capacidade e ineficiências.\n\nO número de unidades que devem ser produzidas, para minimizar o custo total dessa empresa é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "25"
+        },
+        {
+          "letra": "B",
+          "texto": "50"
+        },
+        {
+          "letra": "C",
+          "texto": "44"
+        },
+        {
+          "letra": "D",
+          "texto": "144"
+        },
+        {
+          "letra": "E",
+          "texto": "Não há mínimo, pois $x < 0$."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Funções do 2º Grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Numa Competição de Projetos de Engenharia Sustentável, os 8 finalistas sentaram-se em volta de uma grande mesa circular, para debaterem suas ideias.\n\nConsiderando iguais as disposições por rotação, a quantidade de maneiras, em que os competidores poderiam sentar-se em volta da mesa, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$8!$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{8!}{2}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{8!}{2}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$2 \\cdot 4!$"
+        },
+        {
+          "letra": "E",
+          "texto": "$7!$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Em um ambiente virtual de metaverso, um desenvolvedor está criando cidade digital que representa uma cidade do mundo real. A cidade digital é reduzida pelo fator de 1:500. A cidade do mundo real cobre uma área de 2.000 quilômetros quadrados, e o edifício mais alto da cidade tem 300 metros de altura.\n\nA área da cidade digital e a altura do edifício mais alto no metaverso terão, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8 km² e 0,6 m"
+        },
+        {
+          "letra": "B",
+          "texto": "4 km² e 0,6 m"
+        },
+        {
+          "letra": "C",
+          "texto": "8.000 m² e 0,6 m"
+        },
+        {
+          "letra": "D",
+          "texto": "4.000 m² e 0,6 m"
+        },
+        {
+          "letra": "E",
+          "texto": "4.000 m² e 600 m"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Escalas",
+        "Matemática – Conversão de Unidades"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Um arquiteto está projetando novo parque público e inclui grande fonte decorativa como centro das atenções. A fonte é composta de uma base cilíndrica com cúpula hemisférica no topo. A estrutura será feita de concreto, e a superfície será laminada para dar um toque de modernidade.\n\nA parte cilíndrica da fonte tem a altura de 1 metro e raio de 0,5 metro. A cúpula hemisférica no topo tem diâmetro de 3 metros. O arquiteto quer saber a área total visível da fonte, para poder encomendar a quantidade adequada de material para laminá-la.\n\nA área total da superfície externa da fonte, excluindo as bases do cilindro e a parte interna da semiesfera, em metros quadrados, é, aproximadamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "31,4"
+        },
+        {
+          "letra": "B",
+          "texto": "59,7"
+        },
+        {
+          "letra": "C",
+          "texto": "29,8"
+        },
+        {
+          "letra": "D",
+          "texto": "17,3"
+        },
+        {
+          "letra": "E",
+          "texto": "14,1"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Ana e Beatriz estavam brincando de adivinhar números inteiros.\n- Pensei em um número par de 3 algarismos distintos - disse Ana.\n- É o número 136? – disse Beatriz.\n- Não é 136, tente novamente – disse Ana.\n\nA probabilidade de Beatriz acertar na próxima tentativa é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1/420"
+        },
+        {
+          "letra": "B",
+          "texto": "1/327"
+        },
+        {
+          "letra": "C",
+          "texto": "1/405"
+        },
+        {
+          "letra": "D",
+          "texto": "1/360"
+        },
+        {
+          "letra": "E",
+          "texto": "1/328"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Probabilidade",
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "A dona de uma microempresa de bolos contratou um matemático para ajudá-la a aumentar os lucros. O especialista analisou vários dados e constatou que o número n de bolos, vendidos semanalmente, dependia do preço x de cada bolo, cujo gasto unitário com ingredientes era de 12 reais.\n\nA função encontrada foi $n(x) = 120 - 3x$.\n\nO valor de x, para que o lucro semanal da microempresa seja máximo, é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 13,00"
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 40,00"
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 12,00"
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 28,00"
+        },
+        {
+          "letra": "E",
+          "texto": "R$ 26,00"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Funções do 2º Grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "O uso de drones, para apresentações com voos sincronizados e efeitos de luzes, está se tornando cada vez mais comum. Uma cidade está planejando um show de drones, controlados remotamente, para grande evento. Em um dos movimentos, os produtores querem que o drone suba na forma de hélice com raio de 1 metro, como mostrado na figura a seguir.\n\nNo planejamento da trajetória, é necessário descrever a posição do drone em função do tempo, para cada eixo coordenado (x, y, z). O drone sobe em movimento helicoidal, e o raio da hélice é de 1 metro, e a altura aumenta linearmente com o tempo.\n\nCom base nessa situação, as funções que descrevem as coordenadas x(t) e y(t), em função do tempo, são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\begin{cases} x(t) = \\text{sen}(t) \\\\ y(t) = \\cos(t) \\end{cases}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\begin{cases} x(t) = \\cos(t) \\\\ y(t) = \\text{sen}(t) \\end{cases}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\begin{cases} x(t) = \\sqrt{1 - t^2} \\\\ y(t) = \\sqrt{1 - t^2} \\end{cases}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\begin{cases} x(t) = \\sqrt{1 - y(t)} \\\\ y(t) = \\sqrt{1 - x(t)} \\end{cases}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\begin{cases} x(t) = t, -1 \\le t \\le 1 \\\\ y(t) = t, -1 \\le t \\le 1 \\end{cases}$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Trigonometria",
+        "Matemática – Equações Paramétricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "No plano cartesiano da figura, o automóvel com velocidade constante de 90 km/h, numa estrada retilínea (eixo x), está saindo da cobertura da estação de rádio “Nova Mauá”, transmitida pela antena A. Mas, logo receberá, novamente, a mesma transmissão pela antena B.\nAs equações das circunferências de cobertura são $x^2 + y^2 - 8x - 6y = 0$ e $x^2 + y^2 - 32x - 4y + 244 = 0$.\nAdmitindo que os raios das circunferências acima, com centros em A e B, das antenas, representem o alcance de transmissão da rádio Nova Mauá, o tempo que o automóvel ficará sem receber o sinal será de, aproximadamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7 minutos"
+        },
+        {
+          "letra": "B",
+          "texto": "5 minutos"
+        },
+        {
+          "letra": "C",
+          "texto": "8 minutos"
+        },
+        {
+          "letra": "D",
+          "texto": "3 minutos"
+        },
+        {
+          "letra": "E",
+          "texto": "6 minutos"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Durante suas férias num Resort, a engenheira Andressa precisou calcular o diâmetro de uma piscina circular. Como não dispunha de instrumentos adequados, apenas mediu dois segmentos AB = 3,6 m e CD = 0,6 m. Sabendo que D é ponto médio de AB e $CD \\perp AB$, a medida do diâmetro será de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7,2 m"
+        },
+        {
+          "letra": "B",
+          "texto": "4,2 m"
+        },
+        {
+          "letra": "C",
+          "texto": "6,0 m"
+        },
+        {
+          "letra": "D",
+          "texto": "7,0 m"
+        },
+        {
+          "letra": "E",
+          "texto": "6,5 m"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "O barulho, mesmo não sendo muito forte, é interpretado pelo organismo como prenúncio de perigo. Para que a pessoa tenha energia para defender-se, suas reservas de açúcar e gordura são liberadas. As pessoas começam a perder a audição, quando são expostas, por períodos prolongados e repetidos, a sons a partir de 85 decibéis (dB), o equivalente ao ruído de um liquidificador.\n\nSabe-se que o nível de intensidade sonora I, em decibéis (dB), é dado pela fórmula\n$I = 10 \\log_{10}(\\frac{P}{P_0})$\nonde P é a potência do som em watts, e $P_0$ é uma potência de referência.\n\nUm aspirador de pó produz som com uma potência de $3,16 \\times 10^{-5}$ Watts, equivalente a 75 dB. Sabendo que um liquidificador produz um som de 85 dB, a potência da onda sonora emitida pelo liquidificador é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$4,22 \\times 10^{-5}$ Watts"
+        },
+        {
+          "letra": "B",
+          "texto": "$3,58 \\times 10^{-4}$ Watts"
+        },
+        {
+          "letra": "C",
+          "texto": "$2,37 \\times 10^{-4}$ Watts"
+        },
+        {
+          "letra": "D",
+          "texto": "$2,79 \\times 10^{-4}$ Watts"
+        },
+        {
+          "letra": "E",
+          "texto": "$3,16 \\times 10^{-4}$ Watts"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Acústica",
+        "Matemática – Logaritmos"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "O policarbonato, cuja unidade de repetição está representada a seguir, é polímero termoplástico de engenharia, com temperatura de fusão em torno de 265°C. Ele é largamente utilizado devido às suas características de liberdade de design, transparência e ductilidade, boa estabilidade térmica e resistência à corrosão.\n\nDe acordo com a estrutura apresentada, conclui-se que o policarbonato",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "é formado a partir de reações de condensação."
+        },
+        {
+          "letra": "B",
+          "texto": "encontra-se no estado líquido em temperaturas abaixo de 265°C."
+        },
+        {
+          "letra": "C",
+          "texto": "possui uma ramificação etil em cada unidade de repetição."
+        },
+        {
+          "letra": "D",
+          "texto": "é um polímero que possui cadeia alifática."
+        },
+        {
+          "letra": "E",
+          "texto": "apresenta ligações de hidrogênio entre as cadeias."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Polímeros"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "O gráfico a seguir apresenta a variação de entalpia da reação de formação da água líquida, a partir dos gases hidrogênio e oxigênio.\nA reação de formação da água é $H_2(g) + \\frac{1}{2} O_2(g) \\rightarrow H_2O(l)$.\nTal reação é exemplo de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "decomposição, e ocorre com liberação de energia."
+        },
+        {
+          "letra": "B",
+          "texto": "eletrólise, e ocorre com liberação de energia."
+        },
+        {
+          "letra": "C",
+          "texto": "oxirredução, e ocorre com absorção de energia."
+        },
+        {
+          "letra": "D",
+          "texto": "combustão, e ocorre com liberação de energia."
+        },
+        {
+          "letra": "E",
+          "texto": "análise, e ocorre com absorção de energia."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Termoquímica",
+        "Química – Classificação de Reações"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "O urânio é elemento presente em quase 100 minerais, sendo transportado a partir da lixiviação de rochas para leitos aquáticos. Nas águas superficiais e subterrâneas oxidantes, ocorre o transporte de urânio como íons uranila ($UO_2^{2+}$), sob a forma de vários compostos solúveis com os ânions comumente dissolvidos. Em condições ácidas, os principais compostos da uranila são formados com o fosfato ($PO_4^{3-}$), e em condições alcalinas são formados com o carbonato ($CO_3^{2-}$).\n\nNo íon uranila, o urânio apresenta um número de oxidação igual a __________, sendo que o composto formado desse íon em águas subterrâneas com pH 8,5 possui fórmula __________.\n\nAs lacunas presentes no texto são preenchidas, respectivamente, por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "+4 — $UO_2CO_3$."
+        },
+        {
+          "letra": "B",
+          "texto": "+6 — $UO_2CO_3$."
+        },
+        {
+          "letra": "C",
+          "texto": "+6 — $(UO_2)_3(PO_4)_2$."
+        },
+        {
+          "letra": "D",
+          "texto": "+4 — $UO_2PO_4$."
+        },
+        {
+          "letra": "E",
+          "texto": "+2 — $(UO_2)_3(PO_4)_2$."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Número de Oxidação",
+        "Química – Fórmulas Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Para analisar a composição de uma amostra de hidróxido de cálcio, $Ca(OH)_2$, e bicarbonato de sódio, $NaHCO_3$, um químico adicionou a essa mistura 200 mL de solução aquosa 0,2 mol/L de ácido clorídrico (HCl), até completa neutralização. Considere que o volume molar do $CO_2$, nas condições do experimento, é 24,5 L/mol.\n\nAo final da análise, foram recolhidos 735 mL de dióxido de carbono ($CO_2$), o que leva a concluir que as quantidades de matéria, em mol, de hidróxido de cálcio e bicarbonato de sódio na mistura eram, respectivamente, iguais a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,005 e 0,03."
+        },
+        {
+          "letra": "B",
+          "texto": "0,01 e 0,03."
+        },
+        {
+          "letra": "C",
+          "texto": "0,02 e 0,04."
+        },
+        {
+          "letra": "D",
+          "texto": "0,005 e 0,04."
+        },
+        {
+          "letra": "E",
+          "texto": "0,02 e 0,03."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Considere as transformações químicas balanceadas, numeradas de 1 a 5, equacionadas a seguir.\n\n1: $C_9H_{20} + 14 O_2 \\rightarrow 9 CO_2 + 10 H_2O$\n2: $Zn(OH)_2 + HCN \\rightarrow H_2O + ZnOHCN$\n3: $2 H_3PO_4 + 3 Ca(OH)_2 \\rightarrow Ca_3(PO_4)_2 + 6 H_2O$\n4: $2 C_6H_6 + 9 O_2 \\rightarrow 12 CO + 6 H_2O$\n5: $Zn + 2 HCl \\rightarrow ZnCl_2 + H_2$\n\nRepresentam reações de combustão, oxirredução e neutralização parcial, respectively, as equações",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1, 5 e 3."
+        },
+        {
+          "letra": "B",
+          "texto": "1, 3 e 2."
+        },
+        {
+          "letra": "C",
+          "texto": "3, 4 e 2."
+        },
+        {
+          "letra": "D",
+          "texto": "4, 5 e 3."
+        },
+        {
+          "letra": "E",
+          "texto": "4, 1 e 2."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Classificação de Reações"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Dextroanfetamina, cuja estrutura é representada a seguir, é uma droga sintética que estimula o sistema nervoso central, sendo empregada com finalidade terapêutica em casos de narcolepsia e distúrbios, envolvendo hiperatividade.\n\nÉ correto dizer que a dextroanfetamina é uma amina",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "secundária, que interage com a luz plano-polarizada, desviando-a para a direita."
+        },
+        {
+          "letra": "B",
+          "texto": "aromática, que interage com a luz plano-polarizada, desviando-a para a direita."
+        },
+        {
+          "letra": "C",
+          "texto": "primária, cujo grupo funcional atua como base, segundo a teoria de Brønsted-Lowry."
+        },
+        {
+          "letra": "D",
+          "texto": "que interage por ligação de hidrogênio e cujo grupo funcional atua como ácido, segundo a teoria de Brønsted-Lowry."
+        },
+        {
+          "letra": "E",
+          "texto": "que possui isômero óptico levógiro, sendo um caso de isomeria de compensação."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Química Orgânica",
+        "Química – Funções Nitrogenadas"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Paramecium, representado na imagem a seguir, é um gênero de protozoário que habita água marinha, doce ou salobra, podendo ser encontrado em ambientes com água parada.\n\nSobre o Paramecium, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "é protista, procarionte e se locomove, na água, com auxílio dos cílios que cobrem sua superfície."
+        },
+        {
+          "letra": "B",
+          "texto": "é eucarionte, heterotrófico, e possui cílios que auxiliam sua locomoção na água."
+        },
+        {
+          "letra": "C",
+          "texto": "pertence ao reino protista, é autótrofo, eucarionte, unicelular e ciliado."
+        },
+        {
+          "letra": "D",
+          "texto": "é unicelular, heterotrófico, e se locomove com auxílio dos flagelos que cobrem sua superfície."
+        },
+        {
+          "letra": "E",
+          "texto": "pertence ao reino protista, é procarionte, autótrofo e flagelado."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Reino Protista"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "O cariótipo com banda G é exame genético, cujo resultado permite analisar os cromossomos presentes no DNA de um indivíduo.\nUma imagem de cariótipo é apresentada a seguir.\nO cariótipo apresentado mostra um par de cromossomos sexuais XXY.\nO padrão cromossômico acima é compatível com um indivíduo portador da síndrome de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Turner."
+        },
+        {
+          "letra": "B",
+          "texto": "Down."
+        },
+        {
+          "letra": "C",
+          "texto": "Patau."
+        },
+        {
+          "letra": "D",
+          "texto": "Edwards."
+        },
+        {
+          "letra": "E",
+          "texto": "Klinefelter."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Genética",
+        "Biologia – Mutações Cromossômicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Um carrinho de brinquedo se move em pista estreita, com laterais elevadas, capazes de controlar sua trajetória. Uma das construções possíveis para essa pista envolve a montagem de um looping com raio de 10 cm, que deve ser completado pelo carrinho, que tem massa de 50 g.\n\nPara lançar o carrinho, utiliza-se um sistema com mola comprimida, de constante elástica igual a 45 N/m, deformada em 10 cm.\n\nA força normal entre o carrinho e o ponto mais alto do looping é de (Considere: g = 10 N/kg)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,5 N"
+        },
+        {
+          "letra": "B",
+          "texto": "500 N"
+        },
+        {
+          "letra": "C",
+          "texto": "0,002 N"
+        },
+        {
+          "letra": "D",
+          "texto": "2 N"
+        },
+        {
+          "letra": "E",
+          "texto": "2,5 N"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Dinâmica",
+        "Física – Conservação de Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Em um campo aberto, há duas caixas acústicas, separadas por 3 m, ligadas ao mesmo amplificador. As caixas foram ligadas com as polaridades corretas, de modo a produzir sons em fase. Um ouvinte posiciona-se, a 4 m de distância, bem em frente a uma das caixas.\n\nA menor frequência para a qual o ouvinte perceberá interferência destrutiva é de\n\n(Adote: velocidade do som = 340 m/s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "85 Hz"
+        },
+        {
+          "letra": "B",
+          "texto": "113 Hz"
+        },
+        {
+          "letra": "C",
+          "texto": "170 Hz"
+        },
+        {
+          "letra": "D",
+          "texto": "340 Hz"
+        },
+        {
+          "letra": "E",
+          "texto": "97 Hz"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Ondulatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "O pneu de um automóvel foi calibrado, de acordo com o manual do proprietário, com pressão de 35 psi. Quando foi feita a calibragem, a temperatura ambiente era de 17°C. Ao rodar com o automóvel no período da tarde, a temperatura dos pneus elevou-se para 43°C.\n\nConsiderando que a variação de volume do pneu foi desprezível, a pressão aproximada dos pneus será de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "38 psi"
+        },
+        {
+          "letra": "B",
+          "texto": "88 psi"
+        },
+        {
+          "letra": "C",
+          "texto": "61 psi"
+        },
+        {
+          "letra": "D",
+          "texto": "35 psi"
+        },
+        {
+          "letra": "E",
+          "texto": "32 psi"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Termodinâmica",
+        "Física – Gases Ideais"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Um alto falante possui funcionamento análogo ao de um motor elétrico: certa quantidade de fio, submetida a um campo magnético, sofre ação de força magnética, quando percorrida por corrente elétrica. Um alto falante típico é composto por uma bobina que totaliza 30 m de fio, de resistência elétrica $8 \\Omega$ que se encontra sob ação de um campo magnético de 1,5 T perpendicular ao fio.\n\nA força magnética sobre o fio, quando a bobina é ligada a um amplificador que produz 12 V em seus terminais, é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2,25 N"
+        },
+        {
+          "letra": "B",
+          "texto": "18 N"
+        },
+        {
+          "letra": "C",
+          "texto": "54 N"
+        },
+        {
+          "letra": "D",
+          "texto": "36 N"
+        },
+        {
+          "letra": "E",
+          "texto": "67,5 N"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Eletromagnetismo"
+      ]
+    }
+  ]
+}

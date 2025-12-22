@@ -1,0 +1,1456 @@
+{
+  "nomeUniversidade": "UNIVERSIDADE FEDERAL DO AMAZONAS",
+  "siglaUniversidade": "UFAM",
+  "nomeProva": "PROCESSO SELETIVO CONTÍNUO – PSC 2021 - 1ª Etapa",
+  "ano": 2021,
+  "qtdeQuestoes": 54,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "A língua latina era falada na região do Lácio, onde ficava Roma. Foi graças à invasão dos romanos a outras terras que se formaram novas línguas, devido à mistura do latim aos idiomas primitivos dos povos conquistados. Na história da língua portuguesa, observa-se, portanto, que ela não foi a única derivada do latim. Tendo em vista essa informação, assinale o idioma que NÃO se formou a partir do latim:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "basco"
+        },
+        {
+          "letra": "B",
+          "texto": "catalão"
+        },
+        {
+          "letra": "C",
+          "texto": "galego"
+        },
+        {
+          "letra": "D",
+          "texto": "provençal"
+        },
+        {
+          "letra": "E",
+          "texto": "romeno"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Formação da Língua Portuguesa"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Em 1919, o poeta modernista Manuel Bandeira lançou o seu segundo livro, intitulado Carnaval. Nele consta o poema \"Arlequinada\", do qual se reproduzem as estrofes a seguir:\n\nTeus seios têm treze anos.\nDão os dois uma mancheia...\nE essa inocência incendeia,\nFaz cinza de desenganos...\n\nO teu pequenino queixo\n– Símbolo do teu capricho –\nÉ dele que mais me queixo,\nQue por ele assim me espicho!\n\nTua cabeleira rara\nTambém ela é de criança:\nDará uma escassa trança,\nOnde eu mal me estrangulara!\n\nObserva-se que, no último verso (“Onde eu mal me estrangulara!\"), Bandeira usou \"estrangular\" num modo e num tempo não usuais, criando uma licença poética exigida pela rima (rara / estrangulara). Esse verbo, para ficar mais bem conjugado em relação ao restante do enunciado, deveria estar no:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pretérito perfeito do indicativo."
+        },
+        {
+          "letra": "B",
+          "texto": "futuro do subjuntivo."
+        },
+        {
+          "letra": "C",
+          "texto": "pretérito imperfeito do indicativo."
+        },
+        {
+          "letra": "D",
+          "texto": "futuro do pretérito do indicativo."
+        },
+        {
+          "letra": "E",
+          "texto": "pretérito imperfeito do subjuntivo."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Verbos (Tempos e Modos Verbais)"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Leia o seguinte trecho do livro Raízes do Brasil, de Sérgio Buarque de Holanda (Companhia das Letras, 2016, p. 97):\n\n\"O insucesso da experiência holandesa no Brasil é, em verdade, mais uma justificativa para a opinião, hoje corrente entre alguns antropologistas, de que os europeus do Norte são incompatíveis com as regiões equatoriais\".\n\nNas palavras “insucesso”, “holandesa”, “corrente”, \"incompatíveis\" e \"equatoriais\", constatamos qual sequência de letras e fonemas, respectivamente?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9 – 7; 9 – 7; 8 – 7; 13 – 12; 11 – 11"
+        },
+        {
+          "letra": "B",
+          "texto": "9 – 8; 9 – 7; 8 – 7; 13 – 11; 11 – 10"
+        },
+        {
+          "letra": "C",
+          "texto": "9 – 7; 9 – 8; 8 – 8; 13 – 12; 11 – 10"
+        },
+        {
+          "letra": "D",
+          "texto": "9 – 8; 9 – 8; 8 – 7; 13 – 12; 11 – 11"
+        },
+        {
+          "letra": "E",
+          "texto": "9 – 7; 9 – 7; 8 – 6; 13 – 11; 11 – 11"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Fonologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Leia o texto a seguir:\n\nO tungstênio é, sob condições padrão, um metal de cor branco cinza. Ele é encontrado na natureza combinado a outros elementos. Foi identificado como um novo elemento em 1781, e isolado pela primeira vez como metal em 1783. O tungstênio é o único metal da terceira série de transição que se sabe ocorrer em biomoléculas, usadas por algumas espécies de bactérias. É o elemento mais pesado utilizado por seres vivos. Porém, o tungstênio interfere com os metabolismos do molibdênio e do cobre e é algo tóxico para a vida animal.\n\nTirado e adaptado do site da Wikipédia, verbete \"Tungstênio\". Acesso em 02/06/2020.\n\nSobre o texto, foram feitas as afirmativas a seguir:\n\nI. A palavra \"tóxico” apresenta um dífono.\nII. \"Bactérias\", \"molibdênio\" e \"espécies” são vocábulos acentuados segundo a mesma regra.\nIII. A separação silábica de \"tungstênio” é \"tungs-tê-ni-o\" e a de \"biomoléculas\" é \"bi-o-mo-lé-cu-las\".\nIV. Em \"sob condições padrão\", a palavra \"padrão” deveria concordar em número com o substantivo \"condições”.\n\nAssinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são verdadeiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e III são verdadeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas II e III são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas II e IV são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas III e IV são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Fonologia",
+        "Língua Portuguesa – Acentuação Gráfica",
+        "Língua Portuguesa – Concordância Nominal"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Indique o grau do adjetivo, nas frases que seguem, usando este código:\n\nCIF: Comparativo de inferioridade\nCIG: Comparativo de igualdade\nSRS: Superlativo relativo de superioridade\nSAA: Superlativo absoluto analítico\nSAS: Superlativo absoluto sintético\n\nI. A enchente deste ano foi tão violenta quanto a do ano passado.\nII. A floresta amazônica é a mais bela de todo o planeta.\nIII. Não se pode negar que a floresta amazônica é belíssima.\nIV. A enchente deste ano foi bastante violenta.\nV. O clima amazônico é menos quente que o saariano.\n\nAssinale a alternativa que apresenta a sequência CORRETA de cima para baixo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "SRS – SAS – CIF – SAA – CIG"
+        },
+        {
+          "letra": "B",
+          "texto": "CIG – SRS – SAS – SAA – CIF"
+        },
+        {
+          "letra": "C",
+          "texto": "SRS – SAS – SAA – CIF – CIG"
+        },
+        {
+          "letra": "D",
+          "texto": "CIG – SAS – SRS – CIF – SAA"
+        },
+        {
+          "letra": "E",
+          "texto": "SAS – SRS – CIF – CIG – SAA"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Graus do Adjetivo"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Leia o texto a seguir, tirado e adaptado do livro Amazônia: as vozes do rio, de Ana Pizarro (Editora da UFMG, 2012, p. 79):\n\nO mito do Eldorado não é uma excessão cultural. Ele é um dos mais populares da América, atravessando os séculos até o dia de hoje, pois ainda há expedições de aventureiros que percorrem os espaços amazônicos em busca de Manoa, a capital desse reino fabuloso. É um mito que, bastante pesquizado, incrivelmente ainda se encontra no imaginário da população – um exemplo disso está no documentário \"O Areal\", de 2003, filmado na aldeia de Itancoã, no Pará.\nEsse mito, que contribue para um enfoque distorcido sobre nossa realidade, é a concretização do desejo de enriquecimento europeu na América. Ele teve sua origem neste continente e foi transmitido pelos indígenas aos trabalhadores do caucho e da seringa. A origem dessa obcessão dos soldados da conquista teria a ver, como sustento da fábula, com os imensos tesouros que, segundo era voz corrente, havia nas terras dos índios chibchas.\n\nAssinale a alternativa que registra, dentre as palavras em negrito, aquela que está CORRETAMENTE escrita:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "obcessão"
+        },
+        {
+          "letra": "B",
+          "texto": "pesquizado"
+        },
+        {
+          "letra": "C",
+          "texto": "caucho"
+        },
+        {
+          "letra": "D",
+          "texto": "excessão"
+        },
+        {
+          "letra": "E",
+          "texto": "contribue"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Ortografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Assinale a alternativa em que o hífen NÃO foi empregado de forma CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Podemos dizer agora que o terreno está circum-murado, pois ele rodeou o local de tijolos."
+        },
+        {
+          "letra": "B",
+          "texto": "Os vírus que têm importunado a humanidade são micro-organismos extremamente nocivos."
+        },
+        {
+          "letra": "C",
+          "texto": "Os animais, por serem frágeis frente ao homem, são espécies mal-afortunadas; por isso, tenho pena deles."
+        },
+        {
+          "letra": "D",
+          "texto": "Antes do almoço, comemos salada de cenoura, feijão-verde e alface."
+        },
+        {
+          "letra": "E",
+          "texto": "Há pessoas que obtêm diplomas, mas, na verdade, são semi-analfabetas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Ortografia (Uso do Hífen)"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Assinale a alternativa em que a utilização (ou a ausência) da vírgula NÃO está CORRETA, contrariando as regras de pontuação:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A extração da borracha se processava mediante feridas ou cortes paralelos feitos no tronco da seringueira."
+        },
+        {
+          "letra": "B",
+          "texto": "Se os carros não voarem no futuro, ou se não houver um helicóptero na garagem, será impossível dirigir até o trabalho."
+        },
+        {
+          "letra": "C",
+          "texto": "Quando se popularizou o computador não se mostrou a utopia com que todos sonhavam, pois acabou tornando o homem um escravo do tempo."
+        },
+        {
+          "letra": "D",
+          "texto": "O trabalho dos operários consistia em pegar barras de metal que vinham deslizando sobre uma esteira e colocá-las lá embaixo."
+        },
+        {
+          "letra": "E",
+          "texto": "Acredita-se, sobretudo entre os linguistas, que, devido à globalização, apenas alguns poucos idiomas conseguirão se manter vivos."
+        }
+      ],
+      "opcaoCorreta": "ANULADA",
+      "conteudo": [
+        "Língua Portuguesa – Pontuação (Uso da Vírgula)"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Leia as afirmativas a seguir, feitas sobre variação linguística:\n\nI. A variação linguística é um fenômeno que amplia os conteúdos impostos pela gramática normativa, com o objetivo de torná-la acessível à população carente.\nII. A expressão “umborimbora, maninha”, muito usada pelos amazonenses, se caracteriza como uma variante que deve ser aceita sem preconceito, por registrar uma particularidade regional do idioma.\nIII. A variação linguística existe em face de as línguas serem dinâmicas e não ficarem estáticas no tempo, admitindo mudanças que a alteram.\nIV. Há diferença entre \"gíria” e “jargão\", sendo a primeira usada por jovens e determinados grupos sociais, enquanto o segundo é empregado por profissionais (médicos e professores, por exemplo).\nV. Um exemplo de mudança mediante a variação geográfica (ou diacrônica) se constata no uso de \"Vossa Mercê”, que passou sucessivamente a \"vosmecê”, “você” e “cê”.\n\nAssinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I, II e V são verdadeiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I, III e IV são verdadeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas I, IV e V são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas II, III e IV são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, III e V são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Variação Linguística"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Poucos I assistiram à II de canto do III artista.\n\nAssinale a alternativa que preenche CORRETAMENTE as lacunas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I: espectadores; II: seção; III: privilegiado"
+        },
+        {
+          "letra": "B",
+          "texto": "I: espectadores; II: sessão; III: privilegiado"
+        },
+        {
+          "letra": "C",
+          "texto": "I: expectadores; II: sessão; III: privilegiado"
+        },
+        {
+          "letra": "D",
+          "texto": "I: expectadores; II: cessão; III: previlegiado"
+        },
+        {
+          "letra": "E",
+          "texto": "I: expectadores; II: seção; III: previlegiado"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Ortografia",
+        "Língua Portuguesa – Semântica (Parônimos e Homônimos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Considere o seguinte texto relacionado ao método de trabalho do historiador:\n\n\"À semelhança do cientista no laboratório, o historiador se faz perguntas, as quais consegue ou não responder a partir dos documentos que encontra. E muitas vezes, em função mesmo dos documentos que encontra, precisa refazer suas perguntas, o que incide sobre aquilo que descobre.\"\n\nFERREIRA, Marieta de Moraes e OLIVEIRA, Margarida Maria Dias de. Dicionário de ensino de história. Rio de Janeiro: FGV Editora, 2009, p. 107.\n\nEm relação ao texto, vê-se que destaca o dinamismo do trabalho do historiador, que se distingue de outras formas de conhecimento do passado pela utilização:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "de deduções e adivinhações."
+        },
+        {
+          "letra": "B",
+          "texto": "do passado para prever o futuro."
+        },
+        {
+          "letra": "C",
+          "texto": "de fontes históricas."
+        },
+        {
+          "letra": "D",
+          "texto": "da literatura como expressão do real."
+        },
+        {
+          "letra": "E",
+          "texto": "de técnicas agrícolas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Teoria da História"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "A partir de 508 a.C., Atenas sofreu uma série de reformas no campo político e social. Estas foram importantes para a instituição da democracia. Com as reformas nas leis atenienses, todos os cidadãos, ricos ou pobres, puderam participar diretamente do governo. Sobre esse período é CORRETO afirmar que o responsável por essas reformas, sendo considerado o \"pai da democracia\", foi:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Aristóteles."
+        },
+        {
+          "letra": "B",
+          "texto": "Clístenes."
+        },
+        {
+          "letra": "C",
+          "texto": "Heráclito."
+        },
+        {
+          "letra": "D",
+          "texto": "Platão."
+        },
+        {
+          "letra": "E",
+          "texto": "Sócrates."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Grécia Antiga (Democracia Ateniense)"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "A Alta Idade Média (século V ao X) se caracterizou pela formação e consolidação do feudalismo, essa estrutura econômica, social, política e cultural foi predominante na Europa ocidental.\n\nAdaptado de VICENTINO, C.; VICENTINO, B. Olhares da História: Brasil e mundo 1. São Paulo: Scipione, 2016. p. 235.\n\nSobre algumas das características gerais do sistema feudal, é CORRETO afirmar que o poder político era:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "descentralizado e a sociedade estava dividida em três ordens: clero, nobreza e servos."
+        },
+        {
+          "letra": "B",
+          "texto": "descentralizado e a homenagem era um juramento de fidelidade que o servo deveria fazer ao seu senhor."
+        },
+        {
+          "letra": "C",
+          "texto": "centralizado e a Igreja Católica tinha muito poder nessa sociedade."
+        },
+        {
+          "letra": "D",
+          "texto": "centralizado e a economia era baseada na agricultura."
+        },
+        {
+          "letra": "E",
+          "texto": "exclusivo do rei e não havia divisão social."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Idade Média (Feudalismo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "O período da Idade Média, na Europa Cristã, em que o monopólio cultural e a valorização da religiosidade empreitada pela Igreja refletiu sobre as artes e mentalidade da época, ficou conhecido como:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "antropocentrismo cultural."
+        },
+        {
+          "letra": "B",
+          "texto": "geocentrismo."
+        },
+        {
+          "letra": "C",
+          "texto": "renascimento cultural."
+        },
+        {
+          "letra": "D",
+          "texto": "heliocentrismo."
+        },
+        {
+          "letra": "E",
+          "texto": "teocentrismo cultural."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Idade Média (Cultura e Mentalidade)"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Na região amazônica, pesquisadores encontraram diversos vestígios das primeiras migrações para o nosso território e um destes exemplos é a confecção de objetos feitos de cerâmica produzida na atual cidade de Santarém, uma das artes mais antigas das Américas, que ficou conhecida como:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Cultura Bantu."
+        },
+        {
+          "letra": "B",
+          "texto": "Cultura Berbere."
+        },
+        {
+          "letra": "C",
+          "texto": "Cultura Maori."
+        },
+        {
+          "letra": "D",
+          "texto": "Cultura Marajoara."
+        },
+        {
+          "letra": "E",
+          "texto": "Cultura dos Orixás."
+        }
+      ],
+      "opcaoCorreta": "ANULADA",
+      "conteudo": [
+        "História – América Pré-Colombiana (Culturas Amazônicas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "“O fortalecimento gradual do poder dos reis entre os séculos XI e XVI é conhecido como processo de formação do Estado Moderno. Em cada país da Europa esse processo teve tempo e ritmos próprios.”\n\nBOULOS JÚNIOR, A. História sociedade & cidadania, 1. São Paulo: FTD, 2016. p. 240.\n\nEm Portugal e na Espanha, a formação dos Estados Nacionais esteve inserida no contexto de lutas entre cristãos e muçulmanos pelo controle dos territórios. Assim, o surgimento da monarquia nacional na península Ibérica esteve ligado ao processo da chamada:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Guerra de Reconquista."
+        },
+        {
+          "letra": "B",
+          "texto": "Guerra do Ópio."
+        },
+        {
+          "letra": "C",
+          "texto": "Guerra das Duas Rosas."
+        },
+        {
+          "letra": "D",
+          "texto": "Guerra dos Cem Anos."
+        },
+        {
+          "letra": "E",
+          "texto": "Guerra do Paraguai."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Formação dos Estados Modernos (Península Ibérica)"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Responda à questão com base na figura a seguir:\n\nO grave problema ambiental representado na figura é o(a):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "contaminação das nuvens."
+        },
+        {
+          "letra": "B",
+          "texto": "manutenção isotérmica."
+        },
+        {
+          "letra": "C",
+          "texto": "efeito estufa."
+        },
+        {
+          "letra": "D",
+          "texto": "modificação do ciclo hidrológico."
+        },
+        {
+          "letra": "E",
+          "texto": "redução do índice de precipitação."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Meio Ambiente (Efeito Estufa)"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Durante o ano de 2021, o presidente Jair Bolsonaro esteve no Amazonas, mais precisamente no Alto Rio Negro. Dentre outras atividades visitou terras indígenas a fim de legalizar reservas minerais. Neste cenário de políticas governamentais, qual é a reserva mineral que o presidente do Brasil tem interesse em comercializar?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Cassiterita"
+        },
+        {
+          "letra": "B",
+          "texto": "Estanho"
+        },
+        {
+          "letra": "C",
+          "texto": "Ferro"
+        },
+        {
+          "letra": "D",
+          "texto": "Nióbio"
+        },
+        {
+          "letra": "E",
+          "texto": "Potássio"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Recursos Minerais do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Compõem o bioma Amazônia planícies, depressões e planaltos. No Planalto Residual Norte-Amazônico, localiza-se a parte mais elevada do Brasil com a denominação de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Monte dos Sinos"
+        },
+        {
+          "letra": "B",
+          "texto": "Planalto Peruano"
+        },
+        {
+          "letra": "C",
+          "texto": "Pico da Neblina"
+        },
+        {
+          "letra": "D",
+          "texto": "Serra do Sol"
+        },
+        {
+          "letra": "E",
+          "texto": "Pico Urubamba"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Relevo do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Responda à questão com base na figura a seguir:\n\nA camada B representa o Horizonte:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "constituído por material não consolidado, tem cor escura devido a presença de húmus."
+        },
+        {
+          "letra": "B",
+          "texto": "de acumulação de materiais provenientes dos horizontes superiores, principalmente argilas."
+        },
+        {
+          "letra": "C",
+          "texto": "com predominância de restos orgânicos, também chamado de serrapilheira."
+        },
+        {
+          "letra": "D",
+          "texto": "mineralógico do solo, composto de material de origem mineral proveniente da rocha-mãe."
+        },
+        {
+          "letra": "E",
+          "texto": "de rocha alterada, denominado saprólito."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Pedologia (Horizontes do Solo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "A Bacia Hidrográfica do __________ corresponde a 10,8% do território brasileiro, abrangendo seis estados: Goiás, Tocantins, Pará, Maranhão, Mato Grosso e Distrito Federal. Nesta Bacia, estão presentes os biomas do(a) __________ ao norte e noroeste, e do(a) __________ nas demais áreas.\n\nAssinale a sequência que completa, CORRETAMENTE, as lacunas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Tocantins-Araguaia; Amazônia; Cerrado"
+        },
+        {
+          "letra": "B",
+          "texto": "Paraguai; Pantanal mato-grossense; Mata Atlântica"
+        },
+        {
+          "letra": "C",
+          "texto": "Parnaíba; Amazônia; Caatinga"
+        },
+        {
+          "letra": "D",
+          "texto": "Tocantins-Araguaia; Pantanal mato-grossense; Cerrado"
+        },
+        {
+          "letra": "E",
+          "texto": "Paraguai; Cerrado; Amazônia"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Hidrografia do Brasil",
+        "Geografia – Biomas do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Observe a projeção cartográfica a seguir:\n\nUma das vantagens dessa projeção é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "representar as áreas polares."
+        },
+        {
+          "letra": "B",
+          "texto": "visualizar bem toda a crosta continental em conjunto."
+        },
+        {
+          "letra": "C",
+          "texto": "calcular com precisão as distâncias intercontinentais."
+        },
+        {
+          "letra": "D",
+          "texto": "representar as placas tectônicas."
+        },
+        {
+          "letra": "E",
+          "texto": "indicar a distribuição de indústrias no mundo."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Cartografia (Projeções Cartográficas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Considere as seguintes afirmativas sobre os tecidos biológicos fundamentais:\n\nI. No tecido muscular, as células musculares também são conhecidas como miofibrilas.\nII. O tecido conjuntivo frouxo é vascularizado e a matriz intersticial é constituída por proteínas fibrosas e substância fundamental amorfa.\nIII. O tecido epitelial caracteriza-se pela elevada vascularização e pelo amplo espaço intercelular.\nIV. O tecido epitelial é um componente tecidual básico simples, que se caracteriza pela ausência de vasos sanguíneos.\n\nAssinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são verdadeiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e III são verdadeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas II e IV são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas III e IV são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as afirmativas são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Histologia Animal"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Considere as seguintes afirmativas sobre a organização estrutural e funções dos componentes celulares:\n\nI. Além das proteínas fibrosas como o colágeno, as biomembranas são constituídas principalmente por três classes de lipídeos: glicogênio, quitina e celulose.\nII. Os canais iônicos constituem um tipo especial de sistema de transporte ativo.\nIII. As microvilosidades são especializações que diminuem a área de superfície da membrana plasmática.\nIV. Os ribossomos são organelas membranosas associadas à digestão intracelular.\n\nAssinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são verdadeiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e III são verdadeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas II e III são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas III e IV são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as afirmativas são falsas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Citologia (Membrana Plasmática e Organelas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Sobre as bases da biologia molecular, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A quitina, o principal componente da parede celular dos fungos e do exoesqueleto dos artrópodes, é uma proteína de cadeia longa e insolúvel em água."
+        },
+        {
+          "letra": "B",
+          "texto": "As proteínas são macromoléculas formadas pela união de unidades de glicose que se apresentam em dois níveis estruturais: primário e secundário."
+        },
+        {
+          "letra": "C",
+          "texto": "O colecalciferol, tocoferol, ácido ascórbico e cianocobalamina são exemplos de vitaminas lipossolúveis."
+        },
+        {
+          "letra": "D",
+          "texto": "O ácido desoxirribonucleico (DNA) apresenta diferentes conformações (tipos), porém as mais comuns são denominadas como A-DNA, B-DNA e Z-DNA."
+        },
+        {
+          "letra": "E",
+          "texto": "O código genético é a organização responsável pela ordem dos aminoácidos que formam o DNA e a sequência dos aminoácidos que compõe o RNA."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Bioquímica Celular (Ácidos Nucleicos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Como parte do processo evolutivo comum, os seres vivos guardam semelhanças e diferenças estruturais. Considere o quadro a seguir:\n\nAssinale a alternativa que preenche CORRETAMENTE os componentes encontrados em células bacterianas, fúngicas, vegetais e animais:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I: Não; II: Não; III: Não; IV: Sim"
+        },
+        {
+          "letra": "B",
+          "texto": "I: Sim; II: Sim; III: Sim; IV: Sim"
+        },
+        {
+          "letra": "C",
+          "texto": "I: Não; II: Não; III: Sim; IV: Sim"
+        },
+        {
+          "letra": "D",
+          "texto": "I: Sim; II: Não; III: Sim; IV: Sim"
+        },
+        {
+          "letra": "E",
+          "texto": "I: Não; II: Sim; III: Sim; IV: Sim"
+        }
+      ],
+      "opcaoCorreta": "ANULADA",
+      "conteudo": [
+        "Biologia – Citologia Comparada"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "São exemplos de tecido conjuntivo especiais (especializados), EXCETO o tecido:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "conjuntivo propriamente dito."
+        },
+        {
+          "letra": "B",
+          "texto": "ósseo."
+        },
+        {
+          "letra": "C",
+          "texto": "cartilaginoso."
+        },
+        {
+          "letra": "D",
+          "texto": "sanguíneo."
+        },
+        {
+          "letra": "E",
+          "texto": "adiposo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Histologia Animal (Tecido Conjuntivo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Sobre as divisões da Biologia, analise os conceitos a seguir:\n\nI. Estuda os aspectos ultraestruturais e funcionais das células e seus componentes.\nII. Estuda a estrutura microscópica, composição, organização e função dos tecidos vivos.\nIII. Estuda os processos e mecanismos físicos e químicos que ocorrem nas células, tecidos, órgãos e sistemas nos organismos vivos.\nIV. Estuda as relações entre os seres vivos, bem como procura entender como os seres vivos relacionam-se com o ambiente em que vivem.\n\nAssinale a alternativa que relaciona CORRETAMENTE os conceitos citados anteriormente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I: Fisiologia; II: Geologia; III: Ecologia; IV: Fisiologia"
+        },
+        {
+          "letra": "B",
+          "texto": "I: Genética; II: Ecologia; III: Fisiologia; IV: Citologia"
+        },
+        {
+          "letra": "C",
+          "texto": "I: Ecologia; II: Genética; III: Ecologia; IV: Fisiologia"
+        },
+        {
+          "letra": "D",
+          "texto": "I: Fisiologia; II: Genética; III: Citologia; IV: Ecologia"
+        },
+        {
+          "letra": "E",
+          "texto": "I: Citologia; II: Histologia; III: Fisiologia; IV: Ecologia"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Divisões da Biologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Os alquimistas eram os cientistas que utilizaram os procedimentos de alquimia. Qual cientista famoso também foi um alquimista?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Freeman Dyson"
+        },
+        {
+          "letra": "B",
+          "texto": "Johannes Kepler"
+        },
+        {
+          "letra": "C",
+          "texto": "Isaac Newton"
+        },
+        {
+          "letra": "D",
+          "texto": "Le Chatelier"
+        },
+        {
+          "letra": "E",
+          "texto": "Richard Bube"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – História da Química"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Considere as seguintes afirmativas sobre o modelo do átomo de Bohr:\n\nI. Um elétron pode permanecer em uma órbita particular, desde que absorva continuamente a radiação de uma frequência definida.\nII. As órbitas de menor energia são aquelas mais próximas do núcleo.\nIII. Um elétron pode saltar da camada K (n = 1, nível de energia principal) para a camada M (n = 3, nível de energia principal), emitindo radiação de uma frequência definida.\n\nAssinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente a afirmativa I é verdadeira."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente a afirmativa II é verdadeira."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente a afirmativa III é verdadeira."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I e II são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II e III são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Modelos Atômicos (Bohr)"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Considere as seguintes afirmativas relacionadas aos méritos e deméritos da estruturação da Tabela Periódica (disposição horizontal) dos elementos:\n\nI. A classificação é baseada na propriedade fundamental dos elementos, ou seja, no número atômico.\nII. A posição do hidrogênio na tabela não está resolvida.\nIII. Não consegue acomodar lantanídeos e actinídeos no corpo principal da tabela.\nIV. Relaciona a posição de um elemento à sua configuração eletrônica na camada de valência e, portanto, os elementos possuem propriedades químicas semelhantes.\n\nAssinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "São méritos as afirmativas I e IV e, deméritos, as afirmativas II e III."
+        },
+        {
+          "letra": "B",
+          "texto": "São méritos as afirmativas I e II e, deméritos, as afirmativas III e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "São méritos as afirmativas I e III e, deméritos, as afirmativas II e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "São méritos as afirmativas II e III e, deméritos, as afirmativas I e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "São méritos as afirmativas II e IV e, deméritos, as afirmativas I e III."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Tabela Periódica"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Assinale a alternativa que apresenta a descrição CORRETA da representação de Lewis (ligações químicas) para o cianeto de hidrogênio:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Uma ligação simples entre C e H, uma ligação dupla entre C e N, um par de elétrons isolado no átomo C e um par de elétrons isolado no átomo N."
+        },
+        {
+          "letra": "B",
+          "texto": "Uma ligação simples entre C e H, uma ligação simples entre C e N, dois pares de elétrons isolados no átomo C e três pares de elétrons isolados no átomo N."
+        },
+        {
+          "letra": "C",
+          "texto": "Uma ligação tripla entre C e N, uma ligação simples entre C e H e um par de elétrons isolados no átomo N."
+        },
+        {
+          "letra": "D",
+          "texto": "Duas ligações duplas e dois pares de elétrons isolados no átomo N."
+        },
+        {
+          "letra": "E",
+          "texto": "Uma ligação tripla entre C e N, uma ligação simples entre N e H e dois pares de elétrons isolados no átomo C."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Ligações Químicas (Estrutura de Lewis)"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "A calcantita, popularmente conhecida também por vitríolo-azul e caparrosa-azul, é um mineral pouco comum que cristaliza no sistema triclínico e pertence à classe dos sais inorgânicos hidratados (contém moléculas de água na sua estrutura). É produzido sinteticamente e muito usado como fungicida. Assinale a alternativa que representa o sal (na forma anidro):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Carbonato de sódio"
+        },
+        {
+          "letra": "B",
+          "texto": "Nitrato de cálcio"
+        },
+        {
+          "letra": "C",
+          "texto": "Cloreto de cálcio"
+        },
+        {
+          "letra": "D",
+          "texto": "Sulfato de cobre"
+        },
+        {
+          "letra": "E",
+          "texto": "Cromato de potássio"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Funções Inorgânicas (Sais)"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Considere a reação que ocorre entre o zinco metálico e ácido nítrico:\n\n$Zn + HNO_3 \\rightarrow Zn(NO_3)_2 + N_2O + H_2O$\n\nQuando se acertam os coeficientes estequiométricos, usando o menor conjunto adequado de coeficientes inteiros, o valor da soma de todos os coeficientes nesta reação de oxirredução é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10"
+        },
+        {
+          "letra": "B",
+          "texto": "13"
+        },
+        {
+          "letra": "C",
+          "texto": "20"
+        },
+        {
+          "letra": "D",
+          "texto": "23"
+        },
+        {
+          "letra": "E",
+          "texto": "24"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Oxirredução (Balanceamento)"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Nas questões em que for necessário o uso da aceleração da gravidade, adote $g = 10 m/s^2$.\nQuando necessário, utilize para a densidade da água o valor $\\rho = 1,00g/cm^3$.\nQuando necessário, adote os seguintes valores:\n$$\\pi = 3$$\n$$\\sin{30^{\\circ}} = \\cos{60^{\\circ}} = \\frac{1}{2} = 0,50$$\n$$\\sin{60^{\\circ}} = \\cos{30^{\\circ}} = \\frac{\\sqrt{3}}{2} = 0,87$$\n$$\\sin{45^{\\circ}} = \\cos{45^{\\circ}} = \\frac{\\sqrt{2}}{2} = 0,71$$\n\nO diâmetro médio das células do corpo de uma pessoa adulta é da ordem de $10\\mu m$. Tratando-se de uma estimativa, podemos aproximar uma célula como um pequeno cubo de aresta igual a $10\\mu m$, de modo que seu volume é igual ao valor da aresta elevado ao cubo. Para estimar o volume de um adulto podemos aproximá-lo como um prisma de altura igual a 1,70m e base retangular de lados iguais a 30cm e 20cm, cujo volume é dado pelo produto dos três valores citados. Com base nessas informações, podemos afirmar que a ordem de grandeza da quantidade de células no corpo de um adulto é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$10^{12}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$10^{14}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$10^{16}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$10^{17}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$10^{18}$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Ordem de Grandeza"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Nas questões em que for necessário o uso da aceleração da gravidade, adote $g = 10 m/s^2$.\nQuando necessário, utilize para a densidade da água o valor $\\rho = 1,00g/cm^3$.\nQuando necessário, adote os seguintes valores:\n$$\\pi = 3$$\n$$\\sin{30^{\\circ}} = \\cos{60^{\\circ}} = \\frac{1}{2} = 0,50$$\n$$\\sin{60^{\\circ}} = \\cos{30^{\\circ}} = \\frac{\\sqrt{3}}{2} = 0,87$$\n$$\\sin{45^{\\circ}} = \\cos{45^{\\circ}} = \\frac{\\sqrt{2}}{2} = 0,71$$\n\nConsidere a situação na qual uma pequena esfera de chumbo é deixada cair, a partir do repouso, de um trapiche 5,0m acima da água de um lago. Desprezando quaisquer efeitos de resistência do ar sobre a esfera durante sua queda e, considerando que ela afunda no lago com velocidade constante e igual àquela com a qual colidiu com a água e, finalmente, que a pequena esfera chega ao fundo do lago 3,0s após ter sido solta, podemos afirmar que a profundidade do lago no trecho em que ela caiu é de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10m"
+        },
+        {
+          "letra": "B",
+          "texto": "15m"
+        },
+        {
+          "letra": "C",
+          "texto": "20m"
+        },
+        {
+          "letra": "D",
+          "texto": "25m"
+        },
+        {
+          "letra": "E",
+          "texto": "30m"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Cinemática (Queda Livre e MRU)"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Nas questões em que for necessário o uso da aceleração da gravidade, adote $g = 10 m/s^2$.\nQuando necessário, utilize para a densidade da água o valor $\\rho = 1,00g/cm^3$.\nQuando necessário, adote os seguintes valores:\n$$\\pi = 3$$\n$$\\sin{30^{\\circ}} = \\cos{60^{\\circ}} = \\frac{1}{2} = 0,50$$\n$$\\sin{60^{\\circ}} = \\cos{30^{\\circ}} = \\frac{\\sqrt{3}}{2} = 0,87$$\n$$\\sin{45^{\\circ}} = \\cos{45^{\\circ}} = \\frac{\\sqrt{2}}{2} = 0,71$$\n\nConsidere a situação na qual um marinheiro está trabalhando no alto do mastro de um barco e que, em dado momento, ele deixa cair um molho de chaves próximo ao mastro. Desprezando quaisquer efeitos da resistência do ar durante a queda do molho de chaves, podemos afirmar que:\n\nI. se o barco estiver movendo-se em linha reta com velocidade constante, uma pessoa em repouso fora do barco irá ver o molho de chaves cair em um ponto afastado da base do mastro, na direção da popa.\nII. se o barco estiver movendo-se em linha reta com velocidade constante, tanto para uma pessoa em repouso fora do barco, quanto para um marinheiro que esteja próximo ao local de queda no convés do barco, o molho de chaves irá cair exatamente ao pé do mastro.\nIII. para uma pessoa em repouso fora do barco, a trajetória de queda do molho de chaves é retilínea, independentemente de o barco estar em repouso ou movendo-se em linha reta com velocidade constante.\n\nAssinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente a afirmativa I é verdadeira."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente a afirmativa II é verdadeira."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas I e II são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I e III são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II e III são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Cinemática (Princípio da Inércia e Referencial)"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Nas questões em que for necessário o uso da aceleração da gravidade, adote $g = 10 m/s^2$.\nQuando necessário, utilize para a densidade da água o valor $\\rho = 1,00g/cm^3$.\nQuando necessário, adote os seguintes valores:\n$$\\pi = 3$$\n$$\\sin{30^{\\circ}} = \\cos{60^{\\circ}} = \\frac{1}{2} = 0,50$$\n$$\\sin{60^{\\circ}} = \\cos{30^{\\circ}} = \\frac{\\sqrt{3}}{2} = 0,87$$\n$$\\sin{45^{\\circ}} = \\cos{45^{\\circ}} = \\frac{\\sqrt{2}}{2} = 0,71$$\n\nOs gafanhotos possuem o terceiro par de pernas bem desenvolvido, musculoso e com fêmures mais robustos que os demais, permitindo que realizem grandes saltos. Considere a situação na qual um gafanhoto adulto alcança 90cm de altura num salto, com o vetor velocidade inicial do gafanhoto formando um ângulo de 45° com a direção horizontal. Desprezando o arrasto do gafanhoto com o ar, bem como a força de sustentação aerodinâmica durante o salto, podemos afirmar que o módulo do vetor velocidade do gafanhoto, no instante em que saltou, era de aproximadamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6 km/h"
+        },
+        {
+          "letra": "B",
+          "texto": "12 km/h"
+        },
+        {
+          "letra": "C",
+          "texto": "15 km/h"
+        },
+        {
+          "letra": "D",
+          "texto": "22 km/h"
+        },
+        {
+          "letra": "E",
+          "texto": "24 km/h"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Cinemática (Lançamento Oblíquo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Nas questões em que for necessário o uso da aceleração da gravidade, adote $g = 10 m/s^2$.\nQuando necessário, utilize para a densidade da água o valor $\\rho = 1,00g/cm^3$.\nQuando necessário, adote os seguintes valores:\n$$\\pi = 3$$\n$$\\sin{30^{\\circ}} = \\cos{60^{\\circ}} = \\frac{1}{2} = 0,50$$\n$$\\sin{60^{\\circ}} = \\cos{30^{\\circ}} = \\frac{\\sqrt{3}}{2} = 0,87$$\n$$\\sin{45^{\\circ}} = \\cos{45^{\\circ}} = \\frac{\\sqrt{2}}{2} = 0,71$$\n\nUm perito foi chamado para investigar um acidente numa construção no qual um cabo de aço se rompeu enquanto o guindaste estava erguendo uma carga de 4.500kg. Ele iniciou a investigação verificando que o guindaste foi projetado para não exceder a velocidade de 3,0m/s ou a aceleração de $1,0m/s^2$ enquanto ergue cargas. Verificou, também, que o fabricante do cabo de aço indica que ele pode ser submetido a uma tensão máxima de 50.000N. A partir dessas informações, considere as seguintes afirmativas que o perito poderá, CORRETAMENTE, colocar em seu relatório:\n\nI. O cabo de aço estava defeituoso, pois ao iniciar o procedimento de erguer a carga de 4.500kg com aceleração de $1,0m/s^2$, a tensão no cabo de aço estava 500N abaixo do valor máximo indicado pelo fabricante.\nII. O operador do guindaste excedeu a tensão máxima indicada pelo fabricante do cabo de aço ao iniciar o procedimento de erguer a carga de 4.500kg com aceleração de $1,0m/s^2$.\nIII. No momento em que a velocidade da carga que estava sendo erguida atingiu o valor constante de 3,0m/s, a tensão no cabo de aço ultrapassou o valor máximo de 50.000N.\n\nAssinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente a afirmativa I é verdadeira."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente a afirmativa II é verdadeira."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente a afirmativa III é verdadeira."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I e II são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas I e III são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Dinâmica (Leis de Newton)"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Nas questões em que for necessário o uso da aceleração da gravidade, adote $g = 10 m/s^2$.\nQuando necessário, utilize para a densidade da água o valor $\\rho = 1,00g/cm^3$.\nQuando necessário, adote os seguintes valores:\n$$\\pi = 3$$\n$$\\sin{30^{\\circ}} = \\cos{60^{\\circ}} = \\frac{1}{2} = 0,50$$\n$$\\sin{60^{\\circ}} = \\cos{30^{\\circ}} = \\frac{\\sqrt{3}}{2} = 0,87$$\n$$\\sin{45^{\\circ}} = \\cos{45^{\\circ}} = \\frac{\\sqrt{2}}{2} = 0,71$$\n\nNum experimento realizado no Laboratório de Física, uma bola de isopor, com 5,0g de massa, foi liberada a partir do repouso, quando estava totalmente imersa em um recipiente com água. Foi verificado que a massa de água deslocada pela bola quando estava totalmente imersa era igual a 50g. Desprezando a força de arrasto exercida pela água sobre a bola de isopor, podemos afirmar que, no momento em que foi liberada, a intensidade da força resultante sobre a bola de isopor era de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$4,5 \\times 10^{-3}N$"
+        },
+        {
+          "letra": "B",
+          "texto": "$5,5 \\times 10^{-2}N$"
+        },
+        {
+          "letra": "C",
+          "texto": "$4,5 \\times 10^{-2}N$"
+        },
+        {
+          "letra": "D",
+          "texto": "$5,5 \\times 10^{-1}N$"
+        },
+        {
+          "letra": "E",
+          "texto": "$4,5 \\times 10^{-1}N$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Hidrostática (Empuxo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Carlos e João receberam bolsa de iniciação científica de mesmo valor. No final do mês, Carlos havia gasto $\\frac{1}{3}$ do valor total de sua bolsa, João havia gasto $\\frac{2}{5}$ do valor total de sua bolsa, sendo que Carlos ficou com R$100,00 a mais que João. O valor da bolsa era de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 360,00"
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 380,00"
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 400,00"
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 450,00"
+        },
+        {
+          "letra": "E",
+          "texto": "R$ 480,00"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Frações",
+        "Matemática – Equações do 1º Grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Sejam as funções $f: \\mathbb{R} \\rightarrow \\mathbb{R}$; $f(x) = 4x + 2k$ e $g: \\mathbb{R} \\rightarrow \\mathbb{R}$; $g(x) = -3x + 2$, onde $k \\in \\mathbb{R}$. Sabendo que $2 \\cdot g(1) - f(1) = 6$, então o valor de $k$ deve ser igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7"
+        },
+        {
+          "letra": "B",
+          "texto": "8"
+        },
+        {
+          "letra": "C",
+          "texto": "12"
+        },
+        {
+          "letra": "D",
+          "texto": "-4"
+        },
+        {
+          "letra": "E",
+          "texto": "-6"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Funções do 1º Grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "As medidas dos lados de um triângulo retângulo formam uma Progressão Aritmética de razão 6. Então as medidas dos lados desse triângulo, em cm, são:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "(18, 24, 30)"
+        },
+        {
+          "letra": "B",
+          "texto": "(6, 12, 18)"
+        },
+        {
+          "letra": "C",
+          "texto": "(12, 18, 24)"
+        },
+        {
+          "letra": "D",
+          "texto": "(24, 30, 36)"
+        },
+        {
+          "letra": "E",
+          "texto": "(30, 36, 42)"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Progressão Aritmética",
+        "Matemática – Teorema de Pitágoras"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "A solução da equação $2^{x+2} + 2^{x-1} = 36$ é dada por um número:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "menor do que 2"
+        },
+        {
+          "letra": "B",
+          "texto": "maior do que 6"
+        },
+        {
+          "letra": "C",
+          "texto": "par"
+        },
+        {
+          "letra": "D",
+          "texto": "primo entre 5 e 11"
+        },
+        {
+          "letra": "E",
+          "texto": "menor do que 4"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Equação Exponencial"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Chama-se custo médio de fabricação $C_{me}(x)$ o valor de fabricação de um produto de um lote de x produtos. Assim, o custo médio é calculado dividindo-se o custo total pelo número de produtos fabricados: $C_{me}(x) = \\frac{C(x)}{x}$. Se o custo médio de fabricação de x unidades fabricadas é dado por $C_{me}(x) = -x + 4 + \\frac{20}{x}$ e a função receita é dado por $R(x) = 13x - 2x^2$ (x é dado em milhares), então número de produtos a serem fabricados para que o lucro seja máximo deve ser de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 milhares"
+        },
+        {
+          "letra": "B",
+          "texto": "3,5 milhares"
+        },
+        {
+          "letra": "C",
+          "texto": "4 milhares"
+        },
+        {
+          "letra": "D",
+          "texto": "4,5 milhares"
+        },
+        {
+          "letra": "E",
+          "texto": "6 milhares"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Funções do 2º Grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Subtraindo-se 16 unidades de um número real positivo, seu logaritmo em base 5 diminui uma unidade. Então esse número deve ser igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20"
+        },
+        {
+          "letra": "B",
+          "texto": "34"
+        },
+        {
+          "letra": "C",
+          "texto": "48"
+        },
+        {
+          "letra": "D",
+          "texto": "56"
+        },
+        {
+          "letra": "E",
+          "texto": "60"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Logaritmos"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "A administradora de um prédio residencial observou que o valor da taxa de condomínio tem aumentado, ano a ano, segundo uma Progressão Geométrica de razão $\\frac{3}{2}$. Se há um ano a taxa era de R$ 350,00 então o valor da taxa daqui a três anos será de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 960,40"
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 1344,56"
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 1545,66"
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 1882,84"
+        },
+        {
+          "letra": "E",
+          "texto": "R$ 1920,80"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Progressão Geométrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Uma piscina tem 30 m de comprimento, 15 m de largura e 2 m de profundidade. A distância que uma pessoa deva nadar na superfície, em linha reta, de um canto ao canto oposto dessa piscina, deve ser de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20 m"
+        },
+        {
+          "letra": "B",
+          "texto": "$12\\sqrt{6}$ m"
+        },
+        {
+          "letra": "C",
+          "texto": "25 m"
+        },
+        {
+          "letra": "D",
+          "texto": "$15\\sqrt{5}$ m"
+        },
+        {
+          "letra": "E",
+          "texto": "30 m"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Teorema de Pitágoras",
+        "Matemática – Geometria Plana"
+      ]
+    }
+  ]
+}

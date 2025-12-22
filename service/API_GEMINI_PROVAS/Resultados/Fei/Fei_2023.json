@@ -1,0 +1,1835 @@
+{
+  "nomeUniversidade": "Centro Universitário FEI",
+  "siglaUniversidade": "FEI",
+  "nomeProva": "Processo Seletivo de Engenharia e Ciência da Computação",
+  "ano": 2023,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Leia as afirmações abaixo sobre o texto acima e, a seguir, assinale a alternativa verdadeira.\n\nI. No texto, há a construção de uma narrativa que passa a ser aceita por todos os personagens menos por sua veracidade e mais pela preservação da autoimagem.\nII. No conto, as vontades e receios individuais ganham mais importância que as vontades e receios coletivos.\nIII. Enquanto as outras pessoas eram levadas a concordar com o rei para preservarem imagens positivas de si, a criança representa a única voz livre da vaidade geral.\nIV. A frase \"Uma mentira dita mil vezes torna-se verdade”, de Joseph Goebbels, ministro da propaganda da Alemanha nazista, pode ser usada como possibilidade de moral para o conto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente a afirmação I é verdadeira."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmações II e IV são verdadeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente a afirmação III é verdadeira."
+        },
+        {
+          "letra": "D",
+          "texto": "Todas as afirmações são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as afirmações são falsas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Com o constante crescimento da vida digital e o acesso facilitado a muitos meios de comunicação, fomos submetidos à exposição das fake news, ou seja, à propagação de notícias fraudulentas que circulam deliberadamente sem a verificação de veracidade.\n\nQual alternativa abaixo melhor relaciona essa realidade contemporânea com o conto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Caso a notícia falsa seja acreditada por um número grande de pessoas, sua falseabilidade pode ser refutada."
+        },
+        {
+          "letra": "B",
+          "texto": "Os personagens do conto corroboraram a narrativa falsa por repetirem a mentira em vez de buscarem e exporem a verdade."
+        },
+        {
+          "letra": "C",
+          "texto": "Os personagens do conto não sabiam que estavam espalhando notícias falsas, portanto não corroboraram para a dinâmica da fake news."
+        },
+        {
+          "letra": "D",
+          "texto": "Não podemos considerar a problemática do conto como fake news, pois os personagens do conto não estavam inseridos no meio digital."
+        },
+        {
+          "letra": "E",
+          "texto": "O conceito de veracidade e falseabilidade de dados é sempre subjetivo e dependerá da pessoa que o interpreta."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Intertextualidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Na 5ª linha do conto, o termo presunção pode ser substituído sem prejuízo de sentido pelo termo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Vaidade"
+        },
+        {
+          "letra": "B",
+          "texto": "Modéstia"
+        },
+        {
+          "letra": "C",
+          "texto": "Austereza"
+        },
+        {
+          "letra": "D",
+          "texto": "Comedimento"
+        },
+        {
+          "letra": "E",
+          "texto": "Timidez"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "A criança, ao desvelar a verdade na frente de todos, desempenha um papel importantíssimo no desfecho do conto. Qual tríade abaixo melhor qualifica o papel da criança no conto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Honestidade, generosidade e simpatia"
+        },
+        {
+          "letra": "B",
+          "texto": "Confiança, amabilidade e sensibilidade"
+        },
+        {
+          "letra": "C",
+          "texto": "Ingenuidade, bondade e simpatia"
+        },
+        {
+          "letra": "D",
+          "texto": "Audácia, raiva e amabilidade"
+        },
+        {
+          "letra": "E",
+          "texto": "Honestidade, clareza e ímpeto"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Leia as afirmações abaixo sobre o desejo expresso pelo advérbio quando repetidamente usado pelo autor ao longo do texto 2.\n\nI. A possibilidade de vivenciar uma experiência passada.\nII. Experimentar outras vivências e outras perspectivas.\nIII. Negar a realidade e viver exclusivamente da fantasia.\nIV. Brincar com o passado e com o presente por via da imaginação.\nV. Restringir-se à realidade das coisas sem nenhuma possibilidade imaginativa.\n\nAssinale a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas as afirmações I, IV e V são verdadeiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas as afirmações I, II e IV são verdadeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente a afirmação III é verdadeira."
+        },
+        {
+          "letra": "D",
+          "texto": "Todas as afirmações são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as afirmações são falsas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Morfologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Ao final do texto 2, linhas 19 a 21, temos a seguinte frase: \"por tudo isso que eu não gostasse de botar data na existência. Por que o tempo não anda pra trás. Ele só andasse pra trás botando a palavra quando de suporte.\" No contexto construído pelo conto, os verbos gostasse e andasse são colocados no pretérito imperfeito do subjuntivo com qual provável intenção?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Pois se trata de tempo verbal que reconta com precisão os eventos ocorridos no passado do falante."
+        },
+        {
+          "letra": "B",
+          "texto": "Pois se trata de tempo verbal que fala sobre uma ação que ocorreu antes de outra ação no passado do falante."
+        },
+        {
+          "letra": "C",
+          "texto": "Pois se trata de tempo verbal que expressa desejos, possibilidades, imaginação e/ou sentimentos do falante."
+        },
+        {
+          "letra": "D",
+          "texto": "Pois se trata de tempo verbal que enuncia uma ação que pode ocorrer num momento futuro do falante."
+        },
+        {
+          "letra": "E",
+          "texto": "Pois se trata de tempo verbal que afirma a realidade do falante, tornando impossível que a ação desejada aconteça."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Morfossintaxe",
+        "Língua Portuguesa – Verbos"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Na linha 16 há uma descrição que se utiliza do verbo “cubando\". Pelo contexto dado na cena construída pelo poeta, o verbo cubar pode ter seu sentido inferido como:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ignorar"
+        },
+        {
+          "letra": "B",
+          "texto": "Grunhir"
+        },
+        {
+          "letra": "C",
+          "texto": "Escapar"
+        },
+        {
+          "letra": "D",
+          "texto": "Aborrecer"
+        },
+        {
+          "letra": "E",
+          "texto": "Admirar"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Variação Linguística"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Em todas as imagens há um jogo comparativo, ainda que na esfera do não-verbal. O comparatismo se torna claro por meio da:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Oposição entre estruturas do passado e estruturas do presente."
+        },
+        {
+          "letra": "B",
+          "texto": "Oposição entre cores claras e cores escuras."
+        },
+        {
+          "letra": "C",
+          "texto": "Oposição entre os campos da filosofia e da história."
+        },
+        {
+          "letra": "D",
+          "texto": "Oposição entre moralidade e imoralidade."
+        },
+        {
+          "letra": "E",
+          "texto": "Oposição entre verbal e não-verbal."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Linguagem Verbal e Não-Verbal",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Na IMAGEM 2, os conceitos pensar e clicar poderiam ser substituídos, respectivamente, sem prejuízo do sentido pretendido pelo artista, pelos conceitos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Questionar e carregar"
+        },
+        {
+          "letra": "B",
+          "texto": "Querer e acessar"
+        },
+        {
+          "letra": "C",
+          "texto": "Refletir e apertar"
+        },
+        {
+          "letra": "D",
+          "texto": "Calcular e tencionar"
+        },
+        {
+          "letra": "E",
+          "texto": "Supor e espremer"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Na IMAGEM 1 há a oposição entre a famosa afirmação do filósofo grego Sócrates, “Só sei que nada sei\" e a falsa pretensão de conhecimento universal oferecida pela internet. Uma importante diferença entre as duas frases é o uso do pronome eu, que falta na primeira e está presente na imagem representativa da contemporaneidade. Com essa mudança, o artista reitera e reafirma a ideia de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Individualidade"
+        },
+        {
+          "letra": "B",
+          "texto": "Resignação"
+        },
+        {
+          "letra": "C",
+          "texto": "Autoridade"
+        },
+        {
+          "letra": "D",
+          "texto": "Inteligência"
+        },
+        {
+          "letra": "E",
+          "texto": "Representatividade"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Morfologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Marcos recebeu uma herança de 40 000 reais e investiu esse valor em dois tipos de aplicação: A e B. Após um ano, recebeu um total de 4600 reais de juros pelas duas aplicações. Sabe-se que a aplicação A rendeu 15% ao ano e a aplicação B rendeu 10% ao ano. O valor que Marcos investiu na aplicação A foi, em reais, igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "28 000"
+        },
+        {
+          "letra": "B",
+          "texto": "15 000"
+        },
+        {
+          "letra": "C",
+          "texto": "13 400"
+        },
+        {
+          "letra": "D",
+          "texto": "12 000"
+        },
+        {
+          "letra": "E",
+          "texto": "11 750"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Porcentagem",
+        "Matemática – Sistemas Lineares"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Uma esfera de 9 cm de raio é seccionada por um plano distante 6 cm do seu centro. O valor da área da secção, em centímetros quadrados, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "45 $\\pi$"
+        },
+        {
+          "letra": "B",
+          "texto": "36 $\\pi$"
+        },
+        {
+          "letra": "C",
+          "texto": "25 $\\pi$"
+        },
+        {
+          "letra": "D",
+          "texto": "13 $\\pi$"
+        },
+        {
+          "letra": "E",
+          "texto": "9 $\\pi$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Marcos, Márcia, Rosa, Ricardo e Gabriel desejam criar uma sigla com cinco símbolos, considerando a primeira letra de seus nomes como cada símbolo. É correto afirmar que a quantidade total de siglas será igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "120"
+        },
+        {
+          "letra": "B",
+          "texto": "60"
+        },
+        {
+          "letra": "C",
+          "texto": "30"
+        },
+        {
+          "letra": "D",
+          "texto": "15"
+        },
+        {
+          "letra": "E",
+          "texto": "10"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Seja a matriz $$A=\\begin{pmatrix} 1 & 2 & 0 \\\\ 3 & 0 & -1 \\\\ 1 & x & 1 \\end{pmatrix}$$. Considerando o determinante de A igual a zero, é correto afirmar que x é um número:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "negativo"
+        },
+        {
+          "letra": "B",
+          "texto": "múltiplo de 5"
+        },
+        {
+          "letra": "C",
+          "texto": "menor do que 4"
+        },
+        {
+          "letra": "D",
+          "texto": "par"
+        },
+        {
+          "letra": "E",
+          "texto": "divisível por 3"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Matrizes e Determinantes"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Considere a função $h(t)=-5t^2+mt+30$, que representa a altura, em metros, de uma bola lançada verticalmente para cima, de uma altura inicial de 30 m, t segundos após o lançamento. Sabe-se que ela atinge a altura máxima para t=2 segundos. É correto afirmar que o valor de m que atende a essa condição é um número:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ímpar"
+        },
+        {
+          "letra": "B",
+          "texto": "menor do que 22"
+        },
+        {
+          "letra": "C",
+          "texto": "primo"
+        },
+        {
+          "letra": "D",
+          "texto": "divisível por 3"
+        },
+        {
+          "letra": "E",
+          "texto": "múltiplo de 7"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Funções do 2º grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "O domínio da função $f(x) = \\frac{\\log(-x^2+ 9)}{\\sqrt{x-2}}$ é dado por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "{x$\\in$R/ x>2}"
+        },
+        {
+          "letra": "B",
+          "texto": "{x$\\in$R/ 2<x<3}"
+        },
+        {
+          "letra": "C",
+          "texto": "{x$\\in$R/ 0<x$\\le$3}"
+        },
+        {
+          "letra": "D",
+          "texto": "{x$\\in$R/ -3<x<3}"
+        },
+        {
+          "letra": "E",
+          "texto": "{x$\\in$R/ 2<x<9}"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Funções Logarítmicas",
+        "Matemática – Domínio de Funções"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Três bolsas de estudo serão sorteadas entre 10 estudantes, sendo 4 do primeiro ano e 6 do segundo ano e, de acordo com as regras do sorteio, nenhum estudante poderá ser contemplado com duas bolsas. A probabilidade de que haja entre os sorteados no máximo um estudante do segundo ano é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{4}{5}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{1}{10}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{3}{10}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{1}{4}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{1}{3}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Probabilidade",
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Considere os números complexos $z_1=3(\\cos\\frac{\\pi}{6} + i \\sin\\frac{\\pi}{6})$ e $z_2=2(\\cos\\frac{\\pi}{3} + i \\sin\\frac{\\pi}{3})$. A forma algébrica do produto $z_1 \\cdot z_2$ é dada por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5i"
+        },
+        {
+          "letra": "B",
+          "texto": "3+2i"
+        },
+        {
+          "letra": "C",
+          "texto": "6+6i"
+        },
+        {
+          "letra": "D",
+          "texto": "5+5i"
+        },
+        {
+          "letra": "E",
+          "texto": "6i"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Números Complexos"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Em uma progressão geométrica (PG), o segundo termo vale $\\frac{1}{9}$ e o quinto termo vale 81.\nEm relação a essa progressão, classifique as afirmações em verdadeiras (V) ou falsas (F) e, em seguida, selecione a alternativa que fornece a classificação correta na ordem dada.\n\nI) A razão dessa PG vale 3\nII) O primeiro termo dessa PG vale 1\nIII) A PG é crescente\nIV) A PG tem termos negativos\n\nA alternativa correta é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "FVVV"
+        },
+        {
+          "letra": "B",
+          "texto": "FFVV"
+        },
+        {
+          "letra": "C",
+          "texto": "FFVF"
+        },
+        {
+          "letra": "D",
+          "texto": "FVFF"
+        },
+        {
+          "letra": "E",
+          "texto": "FVVF"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Progressão Geométrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "A equação da reta paralela ao eixo y que passa pelo centro da circunferência dada por $x^2+y^2+6x-4y+12=0$ é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "x = - 3"
+        },
+        {
+          "letra": "B",
+          "texto": "x = $\\frac{y}{2}$"
+        },
+        {
+          "letra": "C",
+          "texto": "x = 3"
+        },
+        {
+          "letra": "D",
+          "texto": "y = - 3"
+        },
+        {
+          "letra": "E",
+          "texto": "x = $\\frac{y-1}{3}$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Uma esfera com massa de 2 kg é lançada para cima, atingindo uma altura máxima de 5 m em relação ao solo. Considere que durante o movimento não ocorrem perdas pela resistência do ar. Assinale a alternativa correta:\n\nInstruções: Se for necessário, use a aceleração da gravidade $g = 10 \\text{ m/s}^2$, $\\sin(30^\\circ) = 0,50$, $\\cos(30^\\circ) = 0,87$ e $\\sin(45^\\circ) = 0,71 = \\cos(45^\\circ)$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O movimento da esfera ocorreu com energia potencial gravitacional constante."
+        },
+        {
+          "letra": "B",
+          "texto": "O movimento da esfera foi retilíneo e uniforme."
+        },
+        {
+          "letra": "C",
+          "texto": "O movimento da esfera ocorreu com energia cinética constante."
+        },
+        {
+          "letra": "D",
+          "texto": "O movimento da esfera ocorreu com velocidade constante."
+        },
+        {
+          "letra": "E",
+          "texto": "O movimento da esfera ocorreu com energia mecânica constante."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Conservação de Energia Mecânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Em um treino para uma competição, uma ciclista sai do repouso e atinge a velocidade de 18 km/h em 2 s. Considere que o movimento foi realizado com aceleração constante e que a massa total da ciclista e da bicicleta é de 76 kg. Determine o valor da potência média da ciclista durante este movimento.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "475 W"
+        },
+        {
+          "letra": "B",
+          "texto": "920 W"
+        },
+        {
+          "letra": "C",
+          "texto": "2100 W"
+        },
+        {
+          "letra": "D",
+          "texto": "4388 W"
+        },
+        {
+          "letra": "E",
+          "texto": "6156 W"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Cinemática",
+        "Física – Trabalho e Potência"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Um calorímetro de capacidade térmica igual a 80 cal/°C está em equilíbrio térmico a 70 °C com 400 g de água em seu interior. Em seguida, é acrescentada uma massa m de gelo a 0 °C e o sistema atinge uma temperatura de equilíbrio de 20 °C. Sabendo que o calor específico da água é 1,0 cal/g °C e o calor latente de fusão do gelo é 80cal/g, qual é a massa m de gelo que foi acrescentada ao calorímetro?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "222 g"
+        },
+        {
+          "letra": "B",
+          "texto": "240 g"
+        },
+        {
+          "letra": "C",
+          "texto": "268 g"
+        },
+        {
+          "letra": "D",
+          "texto": "320 g"
+        },
+        {
+          "letra": "E",
+          "texto": "340 g"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Calorimetria"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Na figura, são mostradas duas partículas de massa 0,23 g, eletrizadas com carga iguais e suspensas por dois fios de mesmo comprimento L. As partículas estão em equilíbrio a 30 cm uma da outra. Determine a carga de uma das partículas, sabendo que a constante eletrostática k é dada por $9 \\times 10^9 \\text{ (N} \\cdot \\text{m}^2) / \\text{C}^2$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,2 x $10^{-7}$ C"
+        },
+        {
+          "letra": "B",
+          "texto": "1,7 x $10^{-7}$ C"
+        },
+        {
+          "letra": "C",
+          "texto": "2,0 x $10^{-7}$ C"
+        },
+        {
+          "letra": "D",
+          "texto": "3,8 x $10^{-7}$ C"
+        },
+        {
+          "letra": "E",
+          "texto": "4,0 x $10^{-7}$ C"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Eletrostática",
+        "Física – Estática"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Um circuito elétrico é composto por uma fonte de tensão V, um amperímetro ideal A e três resistores $R_1 = 20 \\Omega$, $R_2 = 80 \\Omega$ e $R_3 = 90 \\Omega$, como mostrado na figura. Se o amperímetro registra uma corrente elétrica de 100 mA, qual é o valor de tensão na fonte?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10,6 V"
+        },
+        {
+          "letra": "B",
+          "texto": "12,7 V"
+        },
+        {
+          "letra": "C",
+          "texto": "13,8 V"
+        },
+        {
+          "letra": "D",
+          "texto": "15,5 V"
+        },
+        {
+          "letra": "E",
+          "texto": "19,0 V"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Circuitos Elétricos"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Um ímã com massa de 100 g foi pendurado em uma mola com constante elástica de 200 N/m. Embaixo desse primeiro imã, foi colocado um segundo imã, conforme mostra a figura. O módulo da força magnética produzido entre os dois ímãs foi de 3 N. Considerando o sistema em equilíbrio, qual é a deformação total da mola gerada pela ação das forças peso e magnética?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,2 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "0,5 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "1,1 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "1,7 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "2,0 cm"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Leis de Newton",
+        "Física – Força Elástica",
+        "Física – Magnetismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Em uma aula de Laboratório de Física cujo tema era colisão mecânica, um grupo de estudantes verifica que os dois corpos utilizados no experimento sofreram uma colisão inelástica. Assinale a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Na colisão, houve conservação da energia cinética e do momento linear."
+        },
+        {
+          "letra": "B",
+          "texto": "Na colisão, a energia cinética foi conservada, mas o momento linear não foi conservado."
+        },
+        {
+          "letra": "C",
+          "texto": "Na colisão, não houve conservação nem da energia cinética nem do momento linear."
+        },
+        {
+          "letra": "D",
+          "texto": "Na colisão, a energia cinética não foi conservada, mas o momento linear foi conservado."
+        },
+        {
+          "letra": "E",
+          "texto": "Nenhuma das alternativas está correta."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Colisões"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Uma criança está sentada em uma cadeira de uma roda gigante que tem um diâmetro de 10 m. A criança possui massa de 15 kg e a roda gigante gira com uma velocidade constante de 5 m/s. Qual é a força que o assento exerce sobre a criança no ponto mais alto da roda gigante?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "35 N"
+        },
+        {
+          "letra": "B",
+          "texto": "60 N"
+        },
+        {
+          "letra": "C",
+          "texto": "75 N"
+        },
+        {
+          "letra": "D",
+          "texto": "112 N"
+        },
+        {
+          "letra": "E",
+          "texto": "225 N"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Movimento Circular"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Um homem que está na janela do segundo andar de uma casa arremessa uma chave para uma amiga que está passando na rua. O homem está a uma altura de 4 m acima do solo e joga a chave para cima, fazendo um ângulo de 45° acima da horizontal, com uma velocidade de 8 m/s. Desprezando a resistência do ar, qual é a altura máxima em relação ao solo atingida pela chave?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3,2 m"
+        },
+        {
+          "letra": "B",
+          "texto": "5,1 m"
+        },
+        {
+          "letra": "C",
+          "texto": "5,6 m"
+        },
+        {
+          "letra": "D",
+          "texto": "6,4 m"
+        },
+        {
+          "letra": "E",
+          "texto": "7,3 m"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Lançamento Oblíquo"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Um gás ideal, em seu estado inicial, possui uma pressão de 2 atm e está a uma temperatura de 27 °C. Em seguida, passa por uma transformação isocórica, na qual sua pressão é reduzida para um terço do valor inicial. Qual é a temperatura final do gás?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "– 273 °C"
+        },
+        {
+          "letra": "B",
+          "texto": "- 173 °C"
+        },
+        {
+          "letra": "C",
+          "texto": "- 27 °C"
+        },
+        {
+          "letra": "D",
+          "texto": "3 °C"
+        },
+        {
+          "letra": "E",
+          "texto": "9 °C"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Termodinâmica",
+        "Física – Gases Ideais"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Foram colocados 20 g de um elemento radioativo dentro de um recipiente. Depois de 10 horas, sua massa foi reduzida para 1,25 g, em virtude de desintegração. Conclui-se que o tempo de meia vida desse elemento, em horas, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,6"
+        },
+        {
+          "letra": "B",
+          "texto": "2,0"
+        },
+        {
+          "letra": "C",
+          "texto": "2,5"
+        },
+        {
+          "letra": "D",
+          "texto": "3,3"
+        },
+        {
+          "letra": "E",
+          "texto": "3,9"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Radioatividade"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Sobre a reação de oxi-redução:\n$$P_4 + HNO_3 + H_2O \\rightarrow H_3PO_4 + NO$$\nleia as seguintes afirmações:\n\nI) Após o balanceamento desta reação, a soma dos coeficientes estequiométricos mínimos inteiros é igual a 63.\nII) O agente oxidante é o $HNO_3$.\nIII) O fósforo ($P_4$) está sofrendo oxidação.\n\nEscolha a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As afirmações I, II e III são verdadeiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas as afirmações I e II são verdadeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas as afirmações II e III são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas as afirmações I e III são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Apenas a afirmação II é verdadeira."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Oxirredução"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Escolha a alternativa que apresenta a mistura com a menor temperatura de solidificação.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Solução aquosa de NaCl a 1 molar"
+        },
+        {
+          "letra": "B",
+          "texto": "Solução aquosa de NaCl a 2 molar"
+        },
+        {
+          "letra": "C",
+          "texto": "Solução aquosa de NaCl a 3 molar"
+        },
+        {
+          "letra": "D",
+          "texto": "Solução aquosa de NaCl a 4 molar"
+        },
+        {
+          "letra": "E",
+          "texto": "Solução aquosa de NaCl a 5 molar"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Propriedades Coligativas"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Na reação entre o ácido nítrico e o fenol, será(ão) obtido(s) como produto(s) o:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "meta nitrofenol, somente"
+        },
+        {
+          "letra": "B",
+          "texto": "meta nitrofenol e o para nitrofenol"
+        },
+        {
+          "letra": "C",
+          "texto": "meta nitrofenol e o orto nitrofenol"
+        },
+        {
+          "letra": "D",
+          "texto": "orto nitrofenol e o para nitrofenol"
+        },
+        {
+          "letra": "E",
+          "texto": "orto nitrofenol, somente"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química Orgânica – Reações de Substituição Aromática"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Escolha a alternativa que apresenta apenas compostos orgânicos que possuem o grupo funcional carbonila em sua estrutura.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Éster, éter, aldeído"
+        },
+        {
+          "letra": "B",
+          "texto": "Cetona, éster, éter"
+        },
+        {
+          "letra": "C",
+          "texto": "Éster, cetona, amina"
+        },
+        {
+          "letra": "D",
+          "texto": "Éter, cetona, amida"
+        },
+        {
+          "letra": "E",
+          "texto": "Amida, éster, aldeído"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química Orgânica – Funções Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Qual das seguintes ligações é a mais polar?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "H – N"
+        },
+        {
+          "letra": "B",
+          "texto": "H – C"
+        },
+        {
+          "letra": "C",
+          "texto": "H – S"
+        },
+        {
+          "letra": "D",
+          "texto": "H – F"
+        },
+        {
+          "letra": "E",
+          "texto": "C – C"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Ligações Químicas",
+        "Química – Polaridade"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "O volume de água que deve ser adicionada em uma solução de ácido sulfúrico a 6 molar para se obter 3 L de uma solução a 2 molar é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2,0 L"
+        },
+        {
+          "letra": "B",
+          "texto": "1,5 L"
+        },
+        {
+          "letra": "C",
+          "texto": "1,2 L"
+        },
+        {
+          "letra": "D",
+          "texto": "1,0 L"
+        },
+        {
+          "letra": "E",
+          "texto": "0,6 L"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Soluções",
+        "Química – Diluição"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Considere as seguintes reações exotérmicas:\n\n$C_{(s)} + O_{2(g)} \\rightarrow CO_{2(g)}$   $\\Delta H = -94 \\text{ kcal}$\n\n$H_{2(g)} + \\frac{1}{2} O_{2(g)} \\rightarrow H_2O_{(l)}$   $\\Delta H = -68 \\text{ kcal}$\n\n$CH_{4(g)} + 2 O_{2(g)} \\rightarrow CO_{2(g)} + 2 H_2O_{(l)}$   $\\Delta H = -220 \\text{ kcal}$\n\nA quantidade de energia liberada na reação de 20 g de hidrogênio gasoso, de acordo com a reação:\n\n$C_{(s)} + 2 H_{2(g)} \\rightarrow CH_{4(g)}$\n\nserá igual a:\n\nPA: O= 16; C=12; H=1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10 kcal"
+        },
+        {
+          "letra": "B",
+          "texto": "50 kcal"
+        },
+        {
+          "letra": "C",
+          "texto": "162 kcal"
+        },
+        {
+          "letra": "D",
+          "texto": "382 kcal"
+        },
+        {
+          "letra": "E",
+          "texto": "405 kcal"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Termoquímica",
+        "Química – Lei de Hess"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "O ácido sulfúrico, o hidróxido de cálcio e o hipoclorito de sódio apresentam, respectivamente, as seguintes fórmulas moleculares:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$H_2SO_4$, $Ca(OH)_2$ e $NaClO_3$"
+        },
+        {
+          "letra": "B",
+          "texto": "$H_2SO_4$, CaOH e NaClO"
+        },
+        {
+          "letra": "C",
+          "texto": "$H_2SO_4$, $Ca(OH)_2$ e NaClO"
+        },
+        {
+          "letra": "D",
+          "texto": "$H_2SO_3$, CaOH e $NaClO_3$"
+        },
+        {
+          "letra": "E",
+          "texto": "$H_2SO_3$, $Ca(OH)_2$ e NaClO"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Nomenclatura de Compostos Inorgânicos"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Para se reduzir o volume de um gás ideal à metade de seu volume inicial, sob temperatura constante, deve-se:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Dobrar sua pressão"
+        },
+        {
+          "letra": "B",
+          "texto": "Quadruplicar sua pressão"
+        },
+        {
+          "letra": "C",
+          "texto": "Reduzir sua pressão pela metade"
+        },
+        {
+          "letra": "D",
+          "texto": "Reduzir sua pressão para 1/4 da pressão inicial"
+        },
+        {
+          "letra": "E",
+          "texto": "Reduzir sua pressão para 1/8 da pressão inicial"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Gases Ideais",
+        "Física – Gases Ideais"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Em 2022 comemorou-se o bicentenário da independência do Brasil.\nNossa independência não foi um processo pacífico, resumindo-se ao grito à beira do Ipiranga, como muitos imaginam. Muito pelo contrário, ocorreram conflitos antes, durante e depois do processo da proclamação de independência.\n\nSobre as guerras e movimentos que culminaram com a independência do Brasil, escolha a alternativa incorreta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Na Revolução Pernambucana de 1817, movimento de caráter separatista e republicano, manifestou-se a insatisfação local com o controle de Portugal sobre a região e com as desigualdades sociais existentes."
+        },
+        {
+          "letra": "B",
+          "texto": "Nas províncias do Norte, formadas pelo Maranhão, Piauí e pelo Grão-Pará, somente em 28 de julho de 1823 ocorreu a expulsão dos portugueses."
+        },
+        {
+          "letra": "C",
+          "texto": "A Convenção de Beberibe, de 1821, foi um movimento armado que culminou com a expulsão dos exércitos portugueses de Pernambuco. Os conflitos marcam o início da Guerra da Independência do Brasil."
+        },
+        {
+          "letra": "D",
+          "texto": "Na Bahia ocorreram as batalhas de Cabrito, Pirajá e o bloqueio marítimo de Salvador. Em 2 de julho de 1823, os portugueses, derrotados, embarcaram com o que restava de suas tropas de volta a Portugal."
+        },
+        {
+          "letra": "E",
+          "texto": "A Inconfidência Mineira ou Conjuração Mineira foi um movimento de caráter separatista que tinha como único objetivo separar o Brasil de Portugal. Foi o movimento que deu início ao processo de emancipação da colônia."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Brasil Colônia",
+        "História – Independência do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "A história da União Soviética começou com a Revolução de 1917, numa tentativa de implementar o socialismo marxista na prática. Seu primeiro líder, Vladimir Lenin, não teve muito tempo de saborear as mudanças de regime, pois governou a Rússia Soviética somente de 1917 a 1924. Mais tarde, a URSS tornou-se um Estado policial sob o comando de Stálin, por cerca de 30 anos.\nSímbolo de um período histórico de transição, Mikhail Gorbachev, foi o último presidente da União Soviética, que faleceu em 30 de agosto de 2022, aos 91 anos, após uma doença prolongada.\nSobre a importância de Mikhail Gorbachev e suas realizações, escolha a alternativa incorreta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Gorbachev ganhou o Prêmio Nobel da Paz de 1990 por seu papel no fim da Guerra Fria e passou seus últimos anos colecionando elogios e prêmios em diversas regiões do mundo."
+        },
+        {
+          "letra": "B",
+          "texto": "O acidente nuclear de Chernobyl, na Ucrânia, que provocou uma onda de radiação por toda a Europa, ocorreu durante seu mandato à frente da URSS."
+        },
+        {
+          "letra": "C",
+          "texto": "Sob a liderança de Mikhail Gorbachev, a Perestroika promoveu a abertura gradual e controlada da economia soviética ao mercado capitalista mundial."
+        },
+        {
+          "letra": "D",
+          "texto": "No contexto do fim da Guerra Fria, as medidas tomadas pelo líder soviético Mikhail Gorbachev, a Glasnost e a Perestroika, fortaleceram ainda mais a geopolítica do socialismo da URSS."
+        },
+        {
+          "letra": "E",
+          "texto": "A Glasnost, ou transparência política, era considerada essencial para mudar a mentalidade social e reduzir o poder do aparato burocrático, incluindo campanhas contra a corrupção e a ineficiência administrativa."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Guerra Fria"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "O que aconteceria se todos os países adotassem a mesma moeda?\nPor um lado, haveria muitas vantagens. O comércio internacional se intensificaria - afinal, é muito mais prático comprar e vender na mesma moeda.\nMas nem tudo são flores: sem liberdade para guiar a própria política monetária - alterando as taxas de juros, por exemplo os países perderiam o poder de reagir a crises de acordo com as particularidades locais, o que dificultaria a recuperação.\nO Dólar americano é a moeda mais utilizada no mundo, tanto que é considerada a principal moeda de reserva mundial. Desde a sua independência, os americanos nunca trocaram sua moeda.\nNos últimos anos, o Brasil vem mantendo uma certa estabilidade quanto a sua moeda, o Real, implantada durante o governo de Itamar Franco.\nSobre a economia e as moedas já utilizadas no Brasil, escolha a única alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "No total já foram utilizadas 7 moedas desde a independência, sendo o Real a de maior período vigente, pois já são 35 anos desde sua implantação, em 1987."
+        },
+        {
+          "letra": "B",
+          "texto": "Desde a primeira moeda, o Real português ou Réis, já foram utilizadas 12 moedas. O Cruzeiro e Cruzeiro Real foram, respectivamente, as duas últimas moedas antes da atual, o Real."
+        },
+        {
+          "letra": "C",
+          "texto": "O Cruzeiro Real foi a moeda com menor período de vigência, 1 de agosto de 1993 a 30 de junho de 1994, menos de um ano. Foi instituída por Fernando Collor após o lançamento do Plano Collor."
+        },
+        {
+          "letra": "D",
+          "texto": "O Cruzeiro foi o padrão monetário do Brasil de 1966 a 1967 e de 1970 a 1985. Sua adoção se deu pela primeira vez em 1966, durante a ditadura civil-militar."
+        },
+        {
+          "letra": "E",
+          "texto": "No total, já tivemos 9 trocas de moedas, sendo o Cruzado e o Cruzado Novo, respectivamente, as duas últimas antes do atual Real."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História do Brasil República"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Carlos Frederico Werneck Lacerda (1914-1977), jornalista e político, por sua atuação política ao longo dos anos, recebeu a alcunha de \"Demolidor de Presidentes\".\nLeia as afirmações abaixo sobre Carlos Lacerda:\n\nI- Em sua coluna no jornal A Tribuna da Imprensa, Lacerda fazia constantes ataques a Getúlio Vargas e seus auxiliares, acusando-os de corrupção. Após o episódio do \"Atentado da rua Tonelero\", Vargas não resiste às pressões e comete suicídio.\nII- Nas eleições de 1955, Lacerda acusa Juscelino Kubitschek de ser esquerdista e inicia a tentativa de golpe para impedir sua posse. O Marechal Lott, então ministro da Guerra, garante a posse de JK, no que ficou conhecido como golpe preventivo.\nIII- A renúncia do presidente Jânio Quadros, em 1961, teria ocorrido após perseguições de Carlos Lacerda, que na noite anterior à renúncia, afirmou que Jânio Quadros estava tramando um golpe de Estado.\nIV- Carlos Lacerda foi um dos apoiadores da \"Marcha da Família com Deus pela Liberdade\", com o objetivo de dar apoio aos militares, contrários às reformas de base propostas pelo então presidente da República, João Goulart.\n\nEscolha a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Todas as afirmações são verdadeiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas as afirmações I, II e III são verdadeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas as afirmações II, III e IV são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas as afirmações I, II e IV são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Apenas as afirmações II e IV são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História do Brasil República"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "O final da Segunda Guerra Mundial também significou o fim da hegemonia econômica e militar europeia no mundo. Destroçados, os países europeus já não podiam manter seus impérios coloniais e tem início o processo de descolonização, especialmente nos continentes asiático e africano.\n\nAssinale a alternativa incorreta sobre a temática:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os Estados Unidos e a União Soviética apoiaram os movimentos de independência com objetivo de influenciar os novos governos e a população, atraindo-os para seus respectivos blocos."
+        },
+        {
+          "letra": "B",
+          "texto": "Os movimentos nacionalistas das colônias foram reforçados pela Carta das Nações Unidas, que considerava a autodeterminação dos povos um direito básico."
+        },
+        {
+          "letra": "C",
+          "texto": "No continente asiático, ocorreram dois tipos de movimentos pela independência: os movimentos pacíficos, como na Índia, e os movimentos violentos, como no Vietnã."
+        },
+        {
+          "letra": "D",
+          "texto": "No continente africano, ao norte, a Argélia obteve de forma pacífica sua independência junto à França; o mesmo ocorreu na África portuguesa, visto que Angola e Moçambique conquistaram suas independências através de acordos pacíficos."
+        },
+        {
+          "letra": "E",
+          "texto": "Na África Subsaariana, a independência da maioria das colônias foi, em geral, pacífica e determinada por meio de pactos. Contudo, o estabelecimento das fronteiras não levou em conta as divisões étnicas, o que tem acarretado trágicos problemas decorrentes das lutas entre as etnias."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Descolonização Afro-Asiática"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Leia estes trechos de notícia publicada em maio de 2023:\n\n\"Réus pelos assassinatos de Bruno e Dom falam pela primeira vez à Justiça.\"\n\n\"Justiça Federal vai decidir se réus vão a júri popular.\"\n\n\"O indigenista Bruno Pereira e o jornalista britânico Dom Phillips foram mortos a tiros em 5 de junho de 2022, em uma emboscada no Rio Itacoaí, em Atalaia do Norte, no Amazonas.\"\n\nFonte: https://g1.globo.com/jornal-nacional/noticia/2023/05/08/reus-pelos-assassinatos-de-bruno-e-do m-falam-pela-primeira-vez-a-justica.ghtml\n\nO assassinato brutal de Bruno e Dom ocorreu no Vale do Javari. Assinale a alternativa que indica corretamente os interesses econômicos e sociais nesta área do bioma amazônico brasileiro:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "É uma área de disputa entre arrozeiros e indígenas da aldeia Raposa Serra do Sol, no estado de Roraima, o que aumenta a especulação de que o assassinato tenha ocorrido a mando desses agricultores. Os rizicultores enxergam nos indigenistas e na imprensa um obstáculo para a expansão de suas fazendas."
+        },
+        {
+          "letra": "B",
+          "texto": "É uma área remota e de difícil acesso, com a presença de grupos indígenas isolados ou com pouco contato com a sociedade urbana-industrial brasileira. Por ser uma região com presença de pesca e garimpo ilegais, acredita-se que o crime tenha sido cometido para intimidar a presença da imprensa e de agentes fiscalizadores do governo."
+        },
+        {
+          "letra": "C",
+          "texto": "É uma área conhecida como arco do desmatamento e acredita-se que grupos de madeireiros e pecuaristas estejam ligados ao assassinato, pois estão constantemente avançando de maneira ilegal sobre terras indígenas."
+        },
+        {
+          "letra": "D",
+          "texto": "O crime ocorreu próximo à usina hidrelétrica de Belo Monte, no estado do Pará. Desde a construção deste colossal empreendimento, os conflitos entre indígenas e grileiros têm sido intensos. Sem proteção policial, Bruno e Dom teriam sido vítimas circunstanciais desse conflito."
+        },
+        {
+          "letra": "E",
+          "texto": "O crime ocorreu em área de fronteira com a Colômbia, o que levanta fortes suspeitas de que grupos de guerrilheiros e narcotraficantes tenham participado do assassinato. Isso se explicaria pelo isolamento da região e presença apenas de povos indígenas, não havendo interesses econômicos nesta área."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Questão Indígena no Brasil",
+        "Geografia – Amazônia"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "O nome vem do idioma tupi e significa mata branca. É o único bioma totalmente brasileiro e vem sofrendo impacto ambiental com a agricultura irrigada, que provoca a salinização do solo. Trata-se do seguinte bioma:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Mata de Araucária"
+        },
+        {
+          "letra": "B",
+          "texto": "Cerrado"
+        },
+        {
+          "letra": "C",
+          "texto": "Manguezais"
+        },
+        {
+          "letra": "D",
+          "texto": "Caatinga"
+        },
+        {
+          "letra": "E",
+          "texto": "Pampas"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Biomas Brasileiros"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Com a desconcentração industrial relativa que se fortaleceu no Brasil nas últimas três décadas, a região Nordeste vem passando por um aumento na contribuição do PIB industrial brasileiro. Sobre o tema e com a observação do mapa abaixo, escolha a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O Meio Norte (região 1) se destaca pela indústria pesada automotiva localizada no interior do Maranhão na cidade de Alcântara."
+        },
+        {
+          "letra": "B",
+          "texto": "O Sertão (região 2) não possui nenhuma indústria devido ao seu clima semiárido, que dificulta esta atividade."
+        },
+        {
+          "letra": "C",
+          "texto": "A Zona da Mata (região 4), apesar de ser a mais populosa e possuir grandes cidades, como Salvador, não se dedica à atividade industrial, mas sim ao setor de serviços."
+        },
+        {
+          "letra": "D",
+          "texto": "O Agreste (região 3) se destaca no setor industrial pelas indústrias de tecidos e alimentícia, tendo um grande polo têxtil em Pernambuco, em cidades como Caruaru, Toritama e Santa Cruz do Capibaribe."
+        },
+        {
+          "letra": "E",
+          "texto": "A indústria petrolífera não é destaque no Nordeste, mas tem uma certa relevância devido à extração de petróleo no Sertão (região 3)."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Regiões do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "As Olimpíadas de 2020 foram disputadas efetivamente em 2021, devido à pandemia de Covid 19. Nesse evento, pudemos ver não somente a delegação da República Popular da China, mas também a de Taiwan, que é chamada de Taipé Chinês. Houve a participação da delegação de Hong Kong, que é uma província chinesa, totalizando então 3 delegações de um mesmo país. Sobre esse tema, considere as afirmações a seguir e escolha a alternativa correta.\n\nI - Taiwan é uma ilha que se colocou contra a Revolução Maoista e hoje é considerada uma província rebelde pela China.\nII - Hong Kong esteve até o ano de 1997 sob domínio inglês, o que foi fruto do imperialismo britânico do século XIX. Apesar de ter sido reintegrada à China, essa região tem leis especiais de autonomia, o que permitiu que tivesse uma delegação olímpica própria.\nIII - Hong Kong, localizada na região do Shijiang, sofre intensa perseguição religiosa, que obrigou seu líder religioso a viver exilado desde a Revolução Maoista.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Todas as afirmações são verdadeiras"
+        },
+        {
+          "letra": "B",
+          "texto": "Todas as afirmações são falsas"
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas as afirmações I e II são verdadeiras"
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas as afirmações I e III são verdadeiras"
+        },
+        {
+          "letra": "E",
+          "texto": "Apenas as afirmações II e III são verdadeiras"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geopolítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Com a guerra na Ucrânia, a Europa passa por uma crise energética, fazendo com que usinas de carvão mineral fossem religadas em países como a Alemanha.\n\nSobre este assunto, analise as afirmações a seguir:\n\nI - Após o desastre nuclear de Fukushima, a Alemanha planejou o desligamento de suas centrais nucleares, aumentando ainda mais a necessidade de importação do gás natural vindo da Rússia.\nII - Antes da guerra na Ucrânia, a Europa vinha desativando termoelétricas a carvão mineral. A queima desse combustível provoca bastante poluição, com emissão de material particulado, e por isso representa um obstáculo para o combate às mudanças climáticas.\nIII - Para depender menos dos recursos obtidos com a venda de gás natural para a Europa, o governo russo vem construindo gasodutos em direção à China, que é uma economia pujante e uma potencial compradora do gás natural da Rússia.\n\nEscolha a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas as afirmações I e III são verdadeiras"
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas as afirmações II e III são verdadeiras"
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas as afirmações I e II são verdadeiras"
+        },
+        {
+          "letra": "D",
+          "texto": "Todas as afirmações são verdadeiras"
+        },
+        {
+          "letra": "E",
+          "texto": "Nenhuma das afirmações é verdadeira"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "Geografia – Fontes de Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Mark the alternative that keeps the same idea of the following sentence taken from the text: \"Everyone seems to be more interested in the metaverse than ever, even though not many people even seem to know what it is\" (paragraph 1).",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Despite the fact that not many people even seem to know what metaverse is, everyone seems to be more interested in it than ever."
+        },
+        {
+          "letra": "B",
+          "texto": "Everyone seems to be more interested in the metaverse than ever, therefore, not many people even seem to know what it is."
+        },
+        {
+          "letra": "C",
+          "texto": "Besides seeming to be more interested in the metaverse than ever, not many people even seem to know what it is."
+        },
+        {
+          "letra": "D",
+          "texto": "However everyone seems to be more interested in the metaverse than ever, not many people even seem to know what it is."
+        },
+        {
+          "letra": "E",
+          "texto": "Not only does everyone seem to be more interested in the metaverse than ever, but also not many people even seem to know what it is."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto",
+        "Inglês – Conjunções"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "The sentence \"This technological marvel has been taking the world by storm\" (paragraph 2) conveys the idea of:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "worry."
+        },
+        {
+          "letra": "B",
+          "texto": "regret."
+        },
+        {
+          "letra": "C",
+          "texto": "success."
+        },
+        {
+          "letra": "D",
+          "texto": "sorrow."
+        },
+        {
+          "letra": "E",
+          "texto": "nuisance."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto",
+        "Inglês – Expressões Idiomáticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "The word its in the sentence \"Microsoft has confirmed plans to jump into the metaverse with its own development team\" (paragraph 3) refers to:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Meta."
+        },
+        {
+          "letra": "B",
+          "texto": "team."
+        },
+        {
+          "letra": "C",
+          "texto": "plans."
+        },
+        {
+          "letra": "D",
+          "texto": "metaverse."
+        },
+        {
+          "letra": "E",
+          "texto": "Microsoft."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Gramática",
+        "Inglês – Pronomes"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "A leitura do texto esclarece a ideia de que essa nova perspectiva tecnológica chamada de Metaverso possibilitaria todas as alternativas abaixo, EXCETO:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "expressão individual."
+        },
+        {
+          "letra": "B",
+          "texto": "experiências imersivas."
+        },
+        {
+          "letra": "C",
+          "texto": "entretenimento interativo."
+        },
+        {
+          "letra": "D",
+          "texto": "interação física."
+        },
+        {
+          "letra": "E",
+          "texto": "desenvolvimento de criatividade."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "Segundo o último parágrafo, as incertezas econômicas e o isolamento durante a pandemia geraram:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o desejo de escapismo."
+        },
+        {
+          "letra": "B",
+          "texto": "a necessidade de amizades."
+        },
+        {
+          "letra": "C",
+          "texto": "a busca por novas terapias."
+        },
+        {
+          "letra": "D",
+          "texto": "a fuga das irresponsabilidades."
+        },
+        {
+          "letra": "E",
+          "texto": "o descontentamento profissional."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "De acordo com uma notícia publicada na revista Exame em 05/12/2022, o Brasil registrou 27.087 casos e 105 mortes em 24 horas por covid-19, segundo o boletim epidemiológico divulgado pelo Ministério da Saúde. Em 31 de dezembro de 2019, a Organização Mundial da Saúde (OMS) foi alertada sobre vários casos de pneumonia na cidade de Wuhan, província de Hubei, na República Popular da China. Tratava-se de uma nova cepa (tipo) de coronavirus, que não havia sido identificada antes em seres humanos. Desde então, cientistas do mundo inteiro trabalharam para desenvolver uma vacina que fosse eficaz e pudesse conter a proliferação desenfreada do vírus. Além da covid-19, muitas outras doenças graves são causadas por vírus, como a AIDS, a dengue ou a hepatite. Em relação aos vírus, assinale a alternativa incorreta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os vírus são organismos acelulares, isto é, não possuem membrana plasmática, citoplasma nem organelas."
+        },
+        {
+          "letra": "B",
+          "texto": "Os vírus são parasitas intracelulares obrigatórios, pois não possuem enzimas metabólicas nem conseguem produzir proteínas, sendo necessário parasitar uma célula para conseguir realizar a sua reprodução."
+        },
+        {
+          "letra": "C",
+          "texto": "Os vírus apresentam uma estrutura relativamente simples, sendo formados por um ácido nucleico (DNA, RNA ou os dois) envolto por uma cápsula de proteína."
+        },
+        {
+          "letra": "D",
+          "texto": "São autossuficientes, possuem metabolismo próprio e se multiplicam ao se dividir."
+        },
+        {
+          "letra": "E",
+          "texto": "O material genético dos vírus pode sofrer mutação ou recombinação, produzindo variabilidade genética."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Virologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Nos seres humanos, o genótipo é formado por uma combinação entre os genes do pai e da mãe. O albinismo, por exemplo, é uma característica genética expressa em função dos genótipos dos pais. Considere um casal com o seguinte genótipo:\n\nHomem: Aa Bb CC dd e Mulher: aa Bb cc Dd\n\nQual é a probabilidade desse casal ter um filho do sexo masculino e portador dos genes bb?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1/4"
+        },
+        {
+          "letra": "B",
+          "texto": "1/8"
+        },
+        {
+          "letra": "C",
+          "texto": "1/2"
+        },
+        {
+          "letra": "D",
+          "texto": "3/4"
+        },
+        {
+          "letra": "E",
+          "texto": "1/32"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Genética Mendeliana"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "Na década de 1990, o Brasil passou por muitos problemas ambientais que viraram manchete, o que chamou atenção para a gravidade dos problemas decorrentes da irresponsabilidade do homem:\n\n\"Brasil é rota da sucata de chumbo.\" (Jornal do Brasil - 28/03/94)\n\"Poluição põe Cubatão em emergência.\" (Folha de São Paulo - 02/09/94)\n\"Redução de ozônio aumenta casos de câncer de pele.\" (Jornal do Brasil - 02/09/94)\n\nDesde então, muitas medidas foram tomadas para tentar minimizar os impactos ambientais, mas apesar de muitos esforços, a questão da sustentabilidade ainda é um assunto que merece bastante atenção em âmbito mundial. Considere as afirmações abaixo sobre a problemática ambiental que assombrou o Brasil nos anos 1990 e escolha a alternativa correta:\n\nI. O chumbo, como outros metais pesados provenientes das indústrias, acumula-se nas cadeias alimentares, gerando um problema chamado magnificação trófica.\nII. A inversão térmica, fenômeno natural que ocorre principalmente no inverno, não traria graves problemas se não interferisse na dispersão dos poluentes.\nIII. O aquecimento global do planeta (efeito estufa) é fruto da intensa atividade industrial e da contínua queima de combustíveis.\nIV. A liberação excessiva de metano na atmosfera destrói de forma irreversível a camada de ozônio.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas as afirmações I e II são verdadeiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Todas as afirmações são verdadeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas as afirmações I, II e III são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas as afirmações II e IV são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Apenas a afirmação IV é verdadeira."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Ecologia",
+        "Biologia – Poluição"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "Considerando o metabolismo celular, sabe-se que algumas organelas presentes em células específicas são capazes de produzir moléculas de ATP e outras aproveitam e utilizam esse ATP produzido para realizar a síntese orgânica a partir do $CO_2$. Essa afirmação se refere, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aos lisossomos e aos cloroplastos."
+        },
+        {
+          "letra": "B",
+          "texto": "às mitocôndrias e ao complexo de Golgi."
+        },
+        {
+          "letra": "C",
+          "texto": "às mitocôndrias e aos cloroplastos."
+        },
+        {
+          "letra": "D",
+          "texto": "aos lisossomos e às mitocôndrias"
+        },
+        {
+          "letra": "E",
+          "texto": "às mitocôndrias e aos lisossomos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Citologia",
+        "Biologia – Metabolismo Energético"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "O estudo da microbiologia atual só se tornou possível com a criação do primeiro microscópio em 1674, pelo neerlandês Antony Van Leeuwenhoek. Nesse mesmo ano, Leeuwenhoek escreveu diversas cartas para a Royal Society, uma importante sociedade científica britânica, descrevendo os seres que ele via através de seu pequeno microscópio. Foram essas cartas que deram início à microbiologia, pois permitiram que se tomasse conhecimento da existência destes pequenos seres microscópicos. Tal descoberta fez surgir duas teorias controversas: a teoria da abiogênese (geração espontânea) e a teoria da biogênese, que era muito defendida pelo cientista francês Louis Pasteur. Escolha a alternativa que melhor representa a teoria da biogênese:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os organismos surgem por meio de mutações espontâneas."
+        },
+        {
+          "letra": "B",
+          "texto": "os organismos surgem por geração espontânea."
+        },
+        {
+          "letra": "C",
+          "texto": "os organismos descendem de outros organismos preexistentes."
+        },
+        {
+          "letra": "D",
+          "texto": "a biogênese fundamenta a lei do uso e do desuso defendida por Lamarck."
+        },
+        {
+          "letra": "E",
+          "texto": "a biogênese contraria a teoria da evolução de Darwin."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Origem da Vida"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,942 @@
+{
+  "nomeUniversidade": "Faculdade de Medicina de São José do Rio Preto",
+  "siglaUniversidade": "FAMERP",
+  "nomeProva": "Prova de Conhecimentos Gerais",
+  "ano": 2022,
+  "qtdeQuestoes": 80,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Leia o poema \"Vaso chinês”, de Alberto de Oliveira, para responder às questões de 01 a 03.\n\nVaso chinês\n\nEstranho mimo aquele vaso! Vi-o.\nCasualmente, uma vez, de um perfumado\nContador¹ sobre o mármor² luzidio,\nEntre um leque e o começo de um bordado.\n\nFino artista chinês, enamorado,\nNele pusera o coração doentio\nEm rubras flores de um sutil lavrado,\nNa tinta ardente, de um calor sombrio.\n\nMas, talvez por contraste à desventura,\nQuem o sabe?... de um velho mandarim\nTambém lá estava a singular figura;\n\nQue arte em pintá-la! a gente acaso vendo-a,\nSentia um não sei quê com aquele chim³\nDe olhos cortados à feição de amêndoa.\n(www.academia.org.br)\n\n¹contador: armário, penteadeira.\n²mármor: mármore.\n³chim: chinês.\n\nO eu lírico manifesta dúvida em relação",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a quem teria pintado o vaso."
+        },
+        {
+          "letra": "B",
+          "texto": "ao sentido que teria a figura do mandarim no vaso."
+        },
+        {
+          "letra": "C",
+          "texto": "à circunstância exata em que viu o vaso."
+        },
+        {
+          "letra": "D",
+          "texto": "a como o vaso teria chegado ao local onde estava."
+        },
+        {
+          "letra": "E",
+          "texto": "ao significado das flores pintadas no vaso."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto Poético"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Leia o poema \"Vaso chinês”, de Alberto de Oliveira, para responder às questões de 01 a 03.\n\nVaso chinês\n\nEstranho mimo aquele vaso! Vi-o.\nCasualmente, uma vez, de um perfumado\nContador¹ sobre o mármor² luzidio,\nEntre um leque e o começo de um bordado.\n\nFino artista chinês, enamorado,\nNele pusera o coração doentio\nEm rubras flores de um sutil lavrado,\nNa tinta ardente, de um calor sombrio.\n\nMas, talvez por contraste à desventura,\nQuem o sabe?... de um velho mandarim\nTambém lá estava a singular figura;\n\nQue arte em pintá-la! a gente acaso vendo-a,\nSentia um não sei quê com aquele chim³\nDe olhos cortados à feição de amêndoa.\n(www.academia.org.br)\n\n¹contador: armário, penteadeira.\n²mármor: mármore.\n³chim: chinês.\n\nSão características do poema que o identificam com o Parnasianismo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o misticismo e o elogio idealizado às sociedades orientais."
+        },
+        {
+          "letra": "B",
+          "texto": "o predomínio do tom descritivo e o desinteresse por questões políticas."
+        },
+        {
+          "letra": "C",
+          "texto": "a narrativa de grandes feitos do passado e a expressão intensa dos sentimentos."
+        },
+        {
+          "letra": "D",
+          "texto": "o culto à forma poética perfeita e a defesa de uma arte comprometida com as questões sociais."
+        },
+        {
+          "letra": "E",
+          "texto": "a transgressão formal e a tematização do sofrimento do artista."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura (Parnasianismo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Leia o poema \"Vaso chinês”, de Alberto de Oliveira, para responder às questões de 01 a 03.\n\nVaso chinês\n\nEstranho mimo aquele vaso! Vi-o.\nCasualmente, uma vez, de um perfumado\nContador¹ sobre o mármor² luzidio,\nEntre um leque e o começo de um bordado.\n\nFino artista chinês, enamorado,\nNele pusera o coração doentio\nEm rubras flores de um sutil lavrado,\nNa tinta ardente, de um calor sombrio.\n\nMas, talvez por contraste à desventura,\nQuem o sabe?... de um velho mandarim\nTambém lá estava a singular figura;\n\nQue arte em pintá-la! a gente acaso vendo-a,\nSentia um não sei quê com aquele chim³\nDe olhos cortados à feição de amêndoa.\n(www.academia.org.br)\n\n¹contador: armário, penteadeira.\n²mármor: mármore.\n³chim: chinês.\n\nA sinestesia é a figura de linguagem na qual duas ou mais sensações associadas a diferentes órgãos dos sentidos se mesclam numa mesma expressão. Ocorre sinestesia em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Fino artista chinês, enamorado,\nNele pusera o coração doentio\" (2ª estrofe)"
+        },
+        {
+          "letra": "B",
+          "texto": "\"Em rubras flores de um sutil lavrado,\nNa tinta ardente, de um calor sombrio.\" (2ª estrofe)"
+        },
+        {
+          "letra": "C",
+          "texto": "\"Estranho mimo aquele vaso! Vi-o.” (1ª estrofe)"
+        },
+        {
+          "letra": "D",
+          "texto": "\"Mas, talvez por contraste à desventura,\nQuem o sabe?... de um velho mandarim\" (3ª estrofe)"
+        },
+        {
+          "letra": "E",
+          "texto": "\"De olhos cortados à feição de amêndoa.\" (4ª estrofe)"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "(João Montanaro. www.folha.fotografia.uol.com.br)\n\nConsidere os textos dos quatro jornais. Ocorre voz passiva",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "nos três primeiros, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "em todos eles."
+        },
+        {
+          "letra": "C",
+          "texto": "no segundo e no quarto, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas no quarto."
+        },
+        {
+          "letra": "E",
+          "texto": "apenas no segundo."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe (Vozes Verbais)"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Leia o trecho do romance Memórias póstumas de Brás Cubas, de Machado de Assis, para responder às questões de 05 a 07.\n\nA propósito das botas\n\nMeu pai, que não me esperava, abraçou-me cheio de ternura e agradecimento. \"— Agora é deveras?, disse ele. Posso enfim...?\"\nDeixei-o nessa reticência, e fui descalçar as botas, que estavam apertadas. Uma vez aliviado, respirei à larga, e deitei-me a fio comprido, enquanto os pés, e todo eu atrás deles, entrávamos numa relativa bem-aventurança. Então considerei que as botas apertadas são uma das maiores venturas da Terra, porque, fazendo doer os pés, dão azo ao prazer de as descalçar. Mortifica os pés, desgraçado, desmortifica-os depois, e aí tens a felicidade barata, ao sabor dos sapateiros e de Epicuro¹. [...] Quatro ou cinco dias depois, saboreava esse rápido, inefável e incoercível momento de gozo, que sucede a uma dor pungente, a uma preocupação, a um incômodo... Daqui inferi eu que a vida é o mais engenhoso dos fenômenos, porque só aguça a fome, com o fim de deparar a ocasião de comer, e não inventou os calos, senão porque eles aperfeiçoam a felicidade terrestre. Em verdade vos digo que toda a sabedoria humana não vale um par de botas curtas.\nTu, minha Eugênia, é que não as descalçaste nunca; foste aí pela estrada da vida, manquejando da perna e do amor, triste como os enterros pobres, solitária, calada, laboriosa, até que vieste também para esta outra margem...\n(Memórias póstumas de Brás Cubas, 2008.)\n\n¹Epicuro: Filósofo grego (341 a.C. – 271 a.C.).\n\nO trecho exemplifica um procedimento típico de Machado de Assis:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o cientificismo, em que o narrador defende uma tese com argumentos de caráter científico."
+        },
+        {
+          "letra": "B",
+          "texto": "o mistério, em que o narrador faz afirmações pouco claras, produzindo uma reflexão de sentido obscuro."
+        },
+        {
+          "letra": "C",
+          "texto": "o sarcasmo, em que o narrador fere a sensibilidade de outros personagens com a sua zombaria."
+        },
+        {
+          "letra": "D",
+          "texto": "a metalinguagem, em que o narrador faz considerações sobre a linguagem e a construção do livro."
+        },
+        {
+          "letra": "E",
+          "texto": "a digressão, em que o narrador se afasta do fluxo da narrativa para fazer uma reflexão sobre temas diversos."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Literatura (Realismo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Leia o trecho do romance Memórias póstumas de Brás Cubas, de Machado de Assis, para responder às questões de 05 a 07.\n\nA propósito das botas\n\nMeu pai, que não me esperava, abraçou-me cheio de ternura e agradecimento. \"— Agora é deveras?, disse ele. Posso enfim...?\"\nDeixei-o nessa reticência, e fui descalçar as botas, que estavam apertadas. Uma vez aliviado, respirei à larga, e deitei-me a fio comprido, enquanto os pés, e todo eu atrás deles, entrávamos numa relativa bem-aventurança. Então considerei que as botas apertadas são uma das maiores venturas da Terra, porque, fazendo doer os pés, dão azo ao prazer de as descalçar. Mortifica os pés, desgraçado, desmortifica-os depois, e aí tens a felicidade barata, ao sabor dos sapateiros e de Epicuro¹. [...] Quatro ou cinco dias depois, saboreava esse rápido, inefável e incoercível momento de gozo, que sucede a uma dor pungente, a uma preocupação, a um incômodo... Daqui inferi eu que a vida é o mais engenhoso dos fenômenos, porque só aguça a fome, com o fim de deparar a ocasião de comer, e não inventou os calos, senão porque eles aperfeiçoam a felicidade terrestre. Em verdade vos digo que toda a sabedoria humana não vale um par de botas curtas.\nTu, minha Eugênia, é que não as descalçaste nunca; foste aí pela estrada da vida, manquejando da perna e do amor, triste como os enterros pobres, solitária, calada, laboriosa, até que vieste também para esta outra margem...\n(Memórias póstumas de Brás Cubas, 2008.)\n\n¹Epicuro: Filósofo grego (341 a.C. – 271 a.C.).\n\nA partir da imagem das botas apertadas, o narrador constrói a ideia de que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o fim de uma situação incômoda pode gerar uma sensação de prazer que justifica o sofrimento."
+        },
+        {
+          "letra": "B",
+          "texto": "o mundo seria melhor se houvesse pequenos prazeres cotidianos disponíveis a todas as pessoas."
+        },
+        {
+          "letra": "C",
+          "texto": "algumas pessoas têm dificuldade de enxergar soluções simples para problemas cotidianos."
+        },
+        {
+          "letra": "D",
+          "texto": "a vida possui uma espécie de senso de justiça que distribui os prazeres igualmente a todas as pessoas."
+        },
+        {
+          "letra": "E",
+          "texto": "alguns homens se colocam em situações desagradáveis com a finalidade de se fortalecerem moralmente."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Leia o trecho do romance Memórias póstumas de Brás Cubas, de Machado de Assis, para responder às questões de 05 a 07.\n\nA propósito das botas\n\nMeu pai, que não me esperava, abraçou-me cheio de ternura e agradecimento. \"— Agora é deveras?, disse ele. Posso enfim...?\"\nDeixei-o nessa reticência, e fui descalçar as botas, que estavam apertadas. Uma vez aliviado, respirei à larga, e deitei-me a fio comprido, enquanto os pés, e todo eu atrás deles, entrávamos numa relativa bem-aventurança. Então considerei que as botas apertadas são uma das maiores venturas da Terra, porque, fazendo doer os pés, dão azo ao prazer de as descalçar. Mortifica os pés, desgraçado, desmortifica-os depois, e aí tens a felicidade barata, ao sabor dos sapateiros e de Epicuro¹. [...] Quatro ou cinco dias depois, saboreava esse rápido, inefável e incoercível momento de gozo, que sucede a uma dor pungente, a uma preocupação, a um incômodo... Daqui inferi eu que a vida é o mais engenhoso dos fenômenos, porque só aguça a fome, com o fim de deparar a ocasião de comer, e não inventou os calos, senão porque eles aperfeiçoam a felicidade terrestre. Em verdade vos digo que toda a sabedoria humana não vale um par de botas curtas.\nTu, minha Eugênia, é que não as descalçaste nunca; foste aí pela estrada da vida, manquejando da perna e do amor, triste como os enterros pobres, solitária, calada, laboriosa, até que vieste também para esta outra margem...\n(Memórias póstumas de Brás Cubas, 2008.)\n\n¹Epicuro: Filósofo grego (341 a.C. – 271 a.C.).\n\n\"Daqui inferi eu que a vida é o mais engenhoso dos fenômenos, porque só aguça a fome, com o fim de deparar a ocasião de comer\" (2º parágrafo)\n\nEm relação ao trecho que a precede, a palavra sublinhada introduz uma oração que expressa",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "uma finalidade."
+        },
+        {
+          "letra": "B",
+          "texto": "uma explicação."
+        },
+        {
+          "letra": "C",
+          "texto": "uma condição."
+        },
+        {
+          "letra": "D",
+          "texto": "uma conclusão."
+        },
+        {
+          "letra": "E",
+          "texto": "uma consequência."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe (Período Composto)"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Leia o texto de Eduardo Bueno para responder às questões de 08 a 10.\n\nNo Brasil, como no restante do Novo Mundo, o que separa a história da pré-história é mais do que um mero prefixo. Existe, entre os dois períodos, um abismo de desconhecimento e incompreensão. Embora o trabalho dos arqueólogos literalmente se aprofunde cada vez mais, restam ainda imensas lacunas a respeito dos habitantes que, em tempos remotos, ocuparam o território que viria a ser o Brasil. O que já se sabe, porém, permite afirmar que a herança \"pré-histórica” — ou seja, o legado dos povos que por no mínimo dez milênios aqui viveram — é bem mais sólida e está muito mais presente do que o senso comum em geral supõe.\nÉ preciso não esquecer, afinal, que, por pelo menos cem séculos, esses povos ancestrais — cuja própria origem ainda não pôde ser inteiramente esclarecida — testaram um repertório de alternativas e um leque de possibilidades alimentares, ecológicas e logísticas que os conquistadores europeus, sob risco de colocarem em perigo a própria sobrevivência, não puderam descartar desde o instante em que desembarcaram no então \"novo\" e desconhecido território, oficialmente em abril de 1500.\nPode-se afirmar que as trilhas e os caminhos pelos quais o país se expandiu, os sítios onde se erguem suas grandes cidades, inúmeros produtos agrícolas que hoje saciam a fome da nação, bem como vários hábitos e costumes nacionais, são fruto direto de um conhecimento milenar — que, embora esteja dessa forma preservado, na essência se perdeu. É preciso ter em mente, portanto, que uma compreensão mais plena do Brasil impõe um mergulho no passado – e que esse passado é muito mais profundo do que apenas os últimos cinco séculos.\n(Brasil: uma história: cinco séculos de um país em construção, 2012.)\n\nSegundo o autor,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a cultura dos povos nativos era útil para a sobrevivência no ambiente inóspito, mas incompatível com a construção de uma civilização europeia no Brasil."
+        },
+        {
+          "letra": "B",
+          "texto": "a cultura dos europeus tinha mais recursos para explorar o território do que a cultura dos povos nativos, o que levou à expansão europeia no território brasileiro."
+        },
+        {
+          "letra": "C",
+          "texto": "o encontro entre os povos nativos e os europeus que chegaram ao Brasil produziu um intercâmbio cultural que beneficiou ambos os grupos."
+        },
+        {
+          "letra": "D",
+          "texto": "os europeus, ao chegarem ao Brasil, a fim de melhor se adaptarem às condições locais, incorporaram conhecimentos e hábitos dos povos nativos."
+        },
+        {
+          "letra": "E",
+          "texto": "os povos nativos tinham uma rica cultura que, apesar da riqueza, foi descartada pelos europeus que chegaram ao Brasil e acabou por desaparecer."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Brasil Pré-Colonial",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Leia o texto de Eduardo Bueno para responder às questões de 08 a 10.\n\nNo Brasil, como no restante do Novo Mundo, o que separa a história da pré-história é mais do que um mero prefixo. Existe, entre os dois períodos, um abismo de desconhecimento e incompreensão. Embora o trabalho dos arqueólogos literalmente se aprofunde cada vez mais, restam ainda imensas lacunas a respeito dos habitantes que, em tempos remotos, ocuparam o território que viria a ser o Brasil. O que já se sabe, porém, permite afirmar que a herança \"pré-histórica” — ou seja, o legado dos povos que por no mínimo dez milênios aqui viveram — é bem mais sólida e está muito mais presente do que o senso comum em geral supõe.\nÉ preciso não esquecer, afinal, que, por pelo menos cem séculos, esses povos ancestrais — cuja própria origem ainda não pôde ser inteiramente esclarecida — testaram um repertório de alternativas e um leque de possibilidades alimentares, ecológicas e logísticas que os conquistadores europeus, sob risco de colocarem em perigo a própria sobrevivência, não puderam descartar desde o instante em que desembarcaram no então \"novo\" e desconhecido território, oficialmente em abril de 1500.\nPode-se afirmar que as trilhas e os caminhos pelos quais o país se expandiu, os sítios onde se erguem suas grandes cidades, inúmeros produtos agrícolas que hoje saciam a fome da nação, bem como vários hábitos e costumes nacionais, são fruto direto de um conhecimento milenar — que, embora esteja dessa forma preservado, na essência se perdeu. É preciso ter em mente, portanto, que uma compreensão mais plena do Brasil impõe um mergulho no passado – e que esse passado é muito mais profundo do que apenas os últimos cinco séculos.\n(Brasil: uma história: cinco séculos de um país em construção, 2012.)\n\nNo contexto em que se encontra o trecho \"em que desembarcaram no então \"novo” e desconhecido território, oficialmente em abril de 1500\" (2º parágrafo), as aspas em torno da palavra \"novo\"",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "insinuam que, diferente do que conta a história, os europeus já teriam chegado ao Brasil antes de abril de 1500."
+        },
+        {
+          "letra": "B",
+          "texto": "ressaltam que o território brasileiro era uma novidade à época, mas agora, mais de 500 anos depois, não pode mais ser considerado novo."
+        },
+        {
+          "letra": "C",
+          "texto": "enfatizam que o território em questão, que era uma novidade para os europeus, não o era para os povos nativos."
+        },
+        {
+          "letra": "D",
+          "texto": "reforçam para o leitor a ideia de que, para os europeus, o território encontrado era inteiramente desconhecido."
+        },
+        {
+          "letra": "E",
+          "texto": "advertem o leitor sobre a relatividade do tempo histórico, coletivo, quando comparado ao tempo de vida de um indivíduo."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Pontuação"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Leia o texto de Eduardo Bueno para responder às questões de 08 a 10.\n\nNo Brasil, como no restante do Novo Mundo, o que separa a história da pré-história é mais do que um mero prefixo. Existe, entre os dois períodos, um abismo de desconhecimento e incompreensão. Embora o trabalho dos arqueólogos literalmente se aprofunde cada vez mais, restam ainda imensas lacunas a respeito dos habitantes que, em tempos remotos, ocuparam o território que viria a ser o Brasil. O que já se sabe, porém, permite afirmar que a herança \"pré-histórica” — ou seja, o legado dos povos que por no mínimo dez milênios aqui viveram — é bem mais sólida e está muito mais presente do que o senso comum em geral supõe.\nÉ preciso não esquecer, afinal, que, por pelo menos cem séculos, esses povos ancestrais — cuja própria origem ainda não pôde ser inteiramente esclarecida — testaram um repertório de alternativas e um leque de possibilidades alimentares, ecológicas e logísticas que os conquistadores europeus, sob risco de colocarem em perigo a própria sobrevivência, não puderam descartar desde o instante em que desembarcaram no então \"novo\" e desconhecido território, oficialmente em abril de 1500.\nPode-se afirmar que as trilhas e os caminhos pelos quais o país se expandiu, os sítios onde se erguem suas grandes cidades, inúmeros produtos agrícolas que hoje saciam a fome da nação, bem como vários hábitos e costumes nacionais, são fruto direto de um conhecimento milenar — que, embora esteja dessa forma preservado, na essência se perdeu. É preciso ter em mente, portanto, que uma compreensão mais plena do Brasil impõe um mergulho no passado – e que esse passado é muito mais profundo do que apenas os últimos cinco séculos.\n(Brasil: uma história: cinco séculos de um país em construção, 2012.)\n\nConsidere o trecho:\n\nPode-se afirmar que as trilhas ____________ o país percorreu são fruto de um conhecimento milenar.\n\nA lacuna da frase é preenchida, com correção gramatical, por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "onde."
+        },
+        {
+          "letra": "B",
+          "texto": "das quais."
+        },
+        {
+          "letra": "C",
+          "texto": "que."
+        },
+        {
+          "letra": "D",
+          "texto": "às quais."
+        },
+        {
+          "letra": "E",
+          "texto": "o qual."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe (Pronomes Relativos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Leia o texto para responder às questões de 11 a 17.\n\nYou may want to skip the toppings on your next hot dog, or skip it altogether: Health researchers at the University of Michigan have found that eating a single hot dog could take 36 minutes off your life. In their study, researchers looked at 5,853 foods in the US diet and measured their effects in minutes of healthy life gained or lost. \"We wanted to make a health-based evaluation of the beneficial and detrimental impacts of the food in the entire diet,\" Olivier Jolliet, professor of environmental health sciences at the university and senior author of the paper, told CNN.\nThe team came up with an index that calculates the net beneficial or detrimental health burden in minutes of healthy life associated with a serving of food. It's based on a study called the Global Burden of Disease, which measures morbidity associated with a person's food choices. \"For example, 0.45 minutes are lost per gram of processed meat, or 0.1 minutes are gained per gram of fruit. We then look at the composition of each food and then multiplied this number by the corresponding food profiles that we previously developed,\" said the professor.\nOne of the foods researchers measured was a standard beef hot dog on a bun. Its 61 grams of processed meat resulted in the loss of 27 minutes of healthy life, Jolliet said — but when ingredients like sodium and trans fatty acids were factored in, the final value was 36 minutes lost. Consumption of foods such as nuts, legumes, seafood, fruits and non-starchy vegetables, on the other hand, have positive effects on health, the study found. \"The index is primarily there to help aid in selecting and using calories consumed on a daily basis to tweak a minimum of habits and make the minimum of change to obtain a maximum benefit for health and the environment from our food experience,\" Jolliet said.\n(Lauren M. Johnson. https://edition.cnn.com, 27.08.2021. Adaptado.)\n\nAccording to the text, the study highlights",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "the diseases caused by a junk food-based diet."
+        },
+        {
+          "letra": "B",
+          "texto": "the foods that lengthen and shorten lifespan."
+        },
+        {
+          "letra": "C",
+          "texto": "the secret side effects of eating fast food."
+        },
+        {
+          "letra": "D",
+          "texto": "the myths about food and nutrition."
+        },
+        {
+          "letra": "E",
+          "texto": "the foods that increase people's metabolism."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Leia o texto para responder às questões de 11 a 17.\n\nYou may want to skip the toppings on your next hot dog, or skip it altogether: Health researchers at the University of Michigan have found that eating a single hot dog could take 36 minutes off your life. In their study, researchers looked at 5,853 foods in the US diet and measured their effects in minutes of healthy life gained or lost. \"We wanted to make a health-based evaluation of the beneficial and detrimental impacts of the food in the entire diet,\" Olivier Jolliet, professor of environmental health sciences at the university and senior author of the paper, told CNN.\nThe team came up with an index that calculates the net beneficial or detrimental health burden in minutes of healthy life associated with a serving of food. It's based on a study called the Global Burden of Disease, which measures morbidity associated with a person's food choices. \"For example, 0.45 minutes are lost per gram of processed meat, or 0.1 minutes are gained per gram of fruit. We then look at the composition of each food and then multiplied this number by the corresponding food profiles that we previously developed,\" said the professor.\nOne of the foods researchers measured was a standard beef hot dog on a bun. Its 61 grams of processed meat resulted in the loss of 27 minutes of healthy life, Jolliet said — but when ingredients like sodium and trans fatty acids were factored in, the final value was 36 minutes lost. Consumption of foods such as nuts, legumes, seafood, fruits and non-starchy vegetables, on the other hand, have positive effects on health, the study found. \"The index is primarily there to help aid in selecting and using calories consumed on a daily basis to tweak a minimum of habits and make the minimum of change to obtain a maximum benefit for health and the environment from our food experience,\" Jolliet said.\n(Lauren M. Johnson. https://edition.cnn.com, 27.08.2021. Adaptado.)\n\nNo trecho do primeiro parágrafo \"a single hot dog could take 36 minutes off your life”, a expressão destacada pode ser substituída, sem alteração de sentido, por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "may perhaps take 36 minutes off your life."
+        },
+        {
+          "letra": "B",
+          "texto": "would definitely take 36 minutes off your life."
+        },
+        {
+          "letra": "C",
+          "texto": "shall definitely take 36 minutes off your life."
+        },
+        {
+          "letra": "D",
+          "texto": "should certainly take 36 minutes off your life."
+        },
+        {
+          "letra": "E",
+          "texto": "will surely take 36 minutes off your life."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Gramática (Modal Verbs)"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Leia o texto para responder às questões de 11 a 17.\n\nYou may want to skip the toppings on your next hot dog, or skip it altogether: Health researchers at the University of Michigan have found that eating a single hot dog could take 36 minutes off your life. In their study, researchers looked at 5,853 foods in the US diet and measured their effects in minutes of healthy life gained or lost. \"We wanted to make a health-based evaluation of the beneficial and detrimental impacts of the food in the entire diet,\" Olivier Jolliet, professor of environmental health sciences at the university and senior author of the paper, told CNN.\nThe team came up with an index that calculates the net beneficial or detrimental health burden in minutes of healthy life associated with a serving of food. It's based on a study called the Global Burden of Disease, which measures morbidity associated with a person's food choices. \"For example, 0.45 minutes are lost per gram of processed meat, or 0.1 minutes are gained per gram of fruit. We then look at the composition of each food and then multiplied this number by the corresponding food profiles that we previously developed,\" said the professor.\nOne of the foods researchers measured was a standard beef hot dog on a bun. Its 61 grams of processed meat resulted in the loss of 27 minutes of healthy life, Jolliet said — but when ingredients like sodium and trans fatty acids were factored in, the final value was 36 minutes lost. Consumption of foods such as nuts, legumes, seafood, fruits and non-starchy vegetables, on the other hand, have positive effects on health, the study found. \"The index is primarily there to help aid in selecting and using calories consumed on a daily basis to tweak a minimum of habits and make the minimum of change to obtain a maximum benefit for health and the environment from our food experience,\" Jolliet said.\n(Lauren M. Johnson. https://edition.cnn.com, 27.08.2021. Adaptado.)\n\nIn the excerpt from the second paragraph \"which measures morbidity associated with a person's food choices\", the underlined word refers to",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "food."
+        },
+        {
+          "letra": "B",
+          "texto": "team."
+        },
+        {
+          "letra": "C",
+          "texto": "minutes."
+        },
+        {
+          "letra": "D",
+          "texto": "index."
+        },
+        {
+          "letra": "E",
+          "texto": "study."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Gramática (Pronouns)"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Leia o texto para responder às questões de 11 a 17.\n\nYou may want to skip the toppings on your next hot dog, or skip it altogether: Health researchers at the University of Michigan have found that eating a single hot dog could take 36 minutes off your life. In their study, researchers looked at 5,853 foods in the US diet and measured their effects in minutes of healthy life gained or lost. \"We wanted to make a health-based evaluation of the beneficial and detrimental impacts of the food in the entire diet,\" Olivier Jolliet, professor of environmental health sciences at the university and senior author of the paper, told CNN.\nThe team came up with an index that calculates the net beneficial or detrimental health burden in minutes of healthy life associated with a serving of food. It's based on a study called the Global Burden of Disease, which measures morbidity associated with a person's food choices. \"For example, 0.45 minutes are lost per gram of processed meat, or 0.1 minutes are gained per gram of fruit. We then look at the composition of each food and then multiplied this number by the corresponding food profiles that we previously developed,\" said the professor.\nOne of the foods researchers measured was a standard beef hot dog on a bun. Its 61 grams of processed meat resulted in the loss of 27 minutes of healthy life, Jolliet said — but when ingredients like sodium and trans fatty acids were factored in, the final value was 36 minutes lost. Consumption of foods such as nuts, legumes, seafood, fruits and non-starchy vegetables, on the other hand, have positive effects on health, the study found. \"The index is primarily there to help aid in selecting and using calories consumed on a daily basis to tweak a minimum of habits and make the minimum of change to obtain a maximum benefit for health and the environment from our food experience,\" Jolliet said.\n(Lauren M. Johnson. https://edition.cnn.com, 27.08.2021. Adaptado.)\n\nNo trecho do segundo parágrafo \"For example, 0.45 minutes are lost per gram of processed meat\", a expressão \"for example\" pode ser substituída, sem alteração de sentido, por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "furthermore."
+        },
+        {
+          "letra": "B",
+          "texto": "to summarize."
+        },
+        {
+          "letra": "C",
+          "texto": "in fact."
+        },
+        {
+          "letra": "D",
+          "texto": "moreover."
+        },
+        {
+          "letra": "E",
+          "texto": "for instance."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Leia o texto para responder às questões de 11 a 17.\n\nYou may want to skip the toppings on your next hot dog, or skip it altogether: Health researchers at the University of Michigan have found that eating a single hot dog could take 36 minutes off your life. In their study, researchers looked at 5,853 foods in the US diet and measured their effects in minutes of healthy life gained or lost. \"We wanted to make a health-based evaluation of the beneficial and detrimental impacts of the food in the entire diet,\" Olivier Jolliet, professor of environmental health sciences at the university and senior author of the paper, told CNN.\nThe team came up with an index that calculates the net beneficial or detrimental health burden in minutes of healthy life associated with a serving of food. It's based on a study called the Global Burden of Disease, which measures morbidity associated with a person's food choices. \"For example, 0.45 minutes are lost per gram of processed meat, or 0.1 minutes are gained per gram of fruit. We then look at the composition of each food and then multiplied this number by the corresponding food profiles that we previously developed,\" said the professor.\nOne of the foods researchers measured was a standard beef hot dog on a bun. Its 61 grams of processed meat resulted in the loss of 27 minutes of healthy life, Jolliet said — but when ingredients like sodium and trans fatty acids were factored in, the final value was 36 minutes lost. Consumption of foods such as nuts, legumes, seafood, fruits and non-starchy vegetables, on the other hand, have positive effects on health, the study found. \"The index is primarily there to help aid in selecting and using calories consumed on a daily basis to tweak a minimum of habits and make the minimum of change to obtain a maximum benefit for health and the environment from our food experience,\" Jolliet said.\n(Lauren M. Johnson. https://edition.cnn.com, 27.08.2021. Adaptado.)\n\nNo trecho do segundo parágrafo “We then look at the composition of each food and then multiplied this number by the corresponding food profiles that we previously developed\", os termos sublinhados indicam",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "causa."
+        },
+        {
+          "letra": "B",
+          "texto": "comparação."
+        },
+        {
+          "letra": "C",
+          "texto": "efeito."
+        },
+        {
+          "letra": "D",
+          "texto": "sequência."
+        },
+        {
+          "letra": "E",
+          "texto": "conclusão."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Leia o texto para responder às questões de 11 a 17.\n\nYou may want to skip the toppings on your next hot dog, or skip it altogether: Health researchers at the University of Michigan have found that eating a single hot dog could take 36 minutes off your life. In their study, researchers looked at 5,853 foods in the US diet and measured their effects in minutes of healthy life gained or lost. \"We wanted to make a health-based evaluation of the beneficial and detrimental impacts of the food in the entire diet,\" Olivier Jolliet, professor of environmental health sciences at the university and senior author of the paper, told CNN.\nThe team came up with an index that calculates the net beneficial or detrimental health burden in minutes of healthy life associated with a serving of food. It's based on a study called the Global Burden of Disease, which measures morbidity associated with a person's food choices. \"For example, 0.45 minutes are lost per gram of processed meat, or 0.1 minutes are gained per gram of fruit. We then look at the composition of each food and then multiplied this number by the corresponding food profiles that we previously developed,\" said the professor.\nOne of the foods researchers measured was a standard beef hot dog on a bun. Its 61 grams of processed meat resulted in the loss of 27 minutes of healthy life, Jolliet said — but when ingredients like sodium and trans fatty acids were factored in, the final value was 36 minutes lost. Consumption of foods such as nuts, legumes, seafood, fruits and non-starchy vegetables, on the other hand, have positive effects on health, the study found. \"The index is primarily there to help aid in selecting and using calories consumed on a daily basis to tweak a minimum of habits and make the minimum of change to obtain a maximum benefit for health and the environment from our food experience,\" Jolliet said.\n(Lauren M. Johnson. https://edition.cnn.com, 27.08.2021. Adaptado.)\n\nNo contexto em que se insere, um trecho que expressa ideia de contraste é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"researchers looked at 5,853 foods in the US diet and measured their effects\" (1º parágrafo)."
+        },
+        {
+          "letra": "B",
+          "texto": "\"61 grams of processed meat resulted in the loss of 27 minutes of healthy life\" (3º parágrafo)."
+        },
+        {
+          "letra": "C",
+          "texto": "\"You may want to skip the toppings on your next hot dog, or skip it altogether\" (1º parágrafo)."
+        },
+        {
+          "letra": "D",
+          "texto": "\"nuts, legumes, seafood, fruits and non-starchy vegetables, on the other hand, have positive effects\" (3º parágrafo)."
+        },
+        {
+          "letra": "E",
+          "texto": "\"One of the foods researchers measured was a standard beef hot dog on a bun\" (3º parágrafo)."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Leia o texto para responder às questões de 11 a 17.\n\nYou may want to skip the toppings on your next hot dog, or skip it altogether: Health researchers at the University of Michigan have found that eating a single hot dog could take 36 minutes off your life. In their study, researchers looked at 5,853 foods in the US diet and measured their effects in minutes of healthy life gained or lost. \"We wanted to make a health-based evaluation of the beneficial and detrimental impacts of the food in the entire diet,\" Olivier Jolliet, professor of environmental health sciences at the university and senior author of the paper, told CNN.\nThe team came up with an index that calculates the net beneficial or detrimental health burden in minutes of healthy life associated with a serving of food. It's based on a study called the Global Burden of Disease, which measures morbidity associated with a person's food choices. \"For example, 0.45 minutes are lost per gram of processed meat, or 0.1 minutes are gained per gram of fruit. We then look at the composition of each food and then multiplied this number by the corresponding food profiles that we previously developed,\" said the professor.\nOne of the foods researchers measured was a standard beef hot dog on a bun. Its 61 grams of processed meat resulted in the loss of 27 minutes of healthy life, Jolliet said — but when ingredients like sodium and trans fatty acids were factored in, the final value was 36 minutes lost. Consumption of foods such as nuts, legumes, seafood, fruits and non-starchy vegetables, on the other hand, have positive effects on health, the study found. \"The index is primarily there to help aid in selecting and using calories consumed on a daily basis to tweak a minimum of habits and make the minimum of change to obtain a maximum benefit for health and the environment from our food experience,\" Jolliet said.\n(Lauren M. Johnson. https://edition.cnn.com, 27.08.2021. Adaptado.)\n\nIn the excerpt from the third paragraph \"The index is primarily there to help aid in selecting and using calories consumed on a daily basis to tweak a minimum of habits\", the underlined word can be replaced, without meaning change, by",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "avoid."
+        },
+        {
+          "letra": "B",
+          "texto": "change."
+        },
+        {
+          "letra": "C",
+          "texto": "learn."
+        },
+        {
+          "letra": "D",
+          "texto": "describe."
+        },
+        {
+          "letra": "E",
+          "texto": "acquire."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Leia o infográfico para responder às questões 18 e 19.\n\n(https://blog.standardprocess.com. Adaptado.)\n\nAs informações apresentadas pelo infográfico constituem uma representação visual de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "dados estatísticos."
+        },
+        {
+          "letra": "B",
+          "texto": "comportamentos compulsivos."
+        },
+        {
+          "letra": "C",
+          "texto": "comparações imparciais."
+        },
+        {
+          "letra": "D",
+          "texto": "condutas escusáveis."
+        },
+        {
+          "letra": "E",
+          "texto": "ações ineficazes."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto (Infográfico)"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Leia o infográfico para responder às questões 18 e 19.\n\n(https://blog.standardprocess.com. Adaptado.)\n\nDe acordo com o infográfico,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "60% do refrigerante produzido nos EUA é consumido por adolescentes."
+        },
+        {
+          "letra": "B",
+          "texto": "70% dos americanos consomem alimentos processados."
+        },
+        {
+          "letra": "C",
+          "texto": "os americanos gastam 10% de sua renda com fast food."
+        },
+        {
+          "letra": "D",
+          "texto": "10% dos americanos consomem fast food todos os dias."
+        },
+        {
+          "letra": "E",
+          "texto": "mais da metade dos americanos adultos são obesos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto (Infográfico)"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "(https://www.gocomics.com)\n\nAs falas do homem de azul podem ser associadas ao seguinte provérbio:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Better late than never.\""
+        },
+        {
+          "letra": "B",
+          "texto": "\"Don’t judge a book by its cover.\""
+        },
+        {
+          "letra": "C",
+          "texto": "\"The early bird catches the worm.\""
+        },
+        {
+          "letra": "D",
+          "texto": "\"All that glitters is not gold.\""
+        },
+        {
+          "letra": "E",
+          "texto": "\"Do as I say, not as I do.\""
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Expressões Idiomáticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Surpreende que os ritos vassálicos ponham em jogo três categorias de elementos: a palavra, os gestos, os objetos.\nO senhor e o vassalo pronunciam palavras, fazem gestos, dão ou recebem objetos que, além da impressão que comunicam aos sentidos, fazem-nos conhecer algo mais.\n(Jacques Le Goff. Para um novo conceito de Idade Média, 1980. Adaptado.)\n\nO excerto apresenta o ritual de vassalagem, presente no Ocidente medieval, e identifica",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a inexistência de hierarquia política entre o monarca e os senhores feudais."
+        },
+        {
+          "letra": "B",
+          "texto": "os componentes simbólicos que estabeleciam o vínculo e a forma de relação entre membros da nobreza."
+        },
+        {
+          "letra": "C",
+          "texto": "a isonomia de funções econômicas e de condição social nos setores eclesiásticos."
+        },
+        {
+          "letra": "D",
+          "texto": "as estratégias legais que definiam as relações profissionais entre proprietários de terras e trabalhadores."
+        },
+        {
+          "letra": "E",
+          "texto": "a constituição jurídica formal da tripartição da sociedade entre nobres, clérigos e trabalhadores."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Idade Média (Feudalismo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Guinéus e negros tomados pela força, outros legitimamente adquiridos por contrato de compra foram trazidos ao reino, onde em grande número se converteram à fé católica, o que esperamos progrida até a conversão do povo ou ao menos de muitos mais. [...] Por isso nós, tudo pensando com devida ponderação, por outras cartas nossas concedemos ao dito rei Afonso [de Portugal] a plena e livre faculdade, entre outras, de invadir, conquistar, subjugar quaisquer sarracenos e pagãos, inimigos de Cristo, suas terras e bens, a todos reduzir à servidão e tudo aplicar em utilidade própria e dos seus descendentes.\n(Apud: Ynaê Lopes dos Santos. História da África e do Brasil afrodescendente, 2017.)\n\nO excerto, extraído de uma bula emitida pelo Papa Nicolau V em 1454, revela",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o interesse econômico da Igreja católica nos negócios do tráfico atlântico de africanos escravizados."
+        },
+        {
+          "letra": "B",
+          "texto": "o repúdio da máxima autoridade da Igreja católica às formas de trabalho servil e assalariado."
+        },
+        {
+          "letra": "C",
+          "texto": "a aliança político-militar entre o Papado e o reino de Portugal na defesa da conquista europeia da África."
+        },
+        {
+          "letra": "D",
+          "texto": "o endosso oficial da Igreja católica à escravização de africanos, com a finalidade de catequizá-los."
+        },
+        {
+          "letra": "E",
+          "texto": "a tentativa de impedir a escravização dos nativos das colônias por meio do estímulo à escravização de africanos."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Expansão Marítima Europeia"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "A difusão do uso desses machados [de ferro] em substituição aos de pedra aumentou imensamente a produtividade do trabalho, reduzindo em mais de dez vezes o tempo para a derrubada dos troncos [de pau-brasil]. Não é pois de admirar que no século XVI mais de dois milhões de árvores tenham sido derrubadas e reduzidas a toras. Mas é também certo que os nativos souberam aproveitar a tecnologia dos instrumentos europeus para benefício próprio, incluindo machados e facas de metal quer nas suas guerras, quer nas atividades de subsistência.\n(Ronaldo Vainfas (org.). Dicionário do Brasil colonial (1500-1808), 2000.)\n\nO excerto caracteriza",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a preocupação com o replantio das árvores pelos nativos e portugueses, no primeiro século da colonização."
+        },
+        {
+          "letra": "B",
+          "texto": "a assimilação de novas técnicas pelos indígenas, a partir do contato com os portugueses no primeiro século da colonização."
+        },
+        {
+          "letra": "C",
+          "texto": "a sofisticação técnica do plantio e da exploração de pau-brasil, desde o início da colonização portuguesa da América."
+        },
+        {
+          "letra": "D",
+          "texto": "a otimização da produção agrícola desenvolvida pelos portugueses durante a colonização brasileira."
+        },
+        {
+          "letra": "E",
+          "texto": "a submissão da mão de obra nativa à escravidão na atividade econômica da extração de madeira tintorial."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Brasil Colônia (Período Pré-Colonial)"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Durante o período de domínio holandês no nordeste brasileiro, no século XVII, houve",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apoio às iniciativas exploradoras do sertão e descoberta das primeiras jazidas de ouro e pedras preciosas na colônia."
+        },
+        {
+          "letra": "B",
+          "texto": "aumento da presença de protestantes na colônia e perseguição sistemática aos judeus e aos católicos."
+        },
+        {
+          "letra": "C",
+          "texto": "estímulo à vinda de naturalistas e pintores e produção de acervo iconográfico e documental sobre a vida na colônia."
+        },
+        {
+          "letra": "D",
+          "texto": "ampliação dos investimentos na produção açucareira e supressão das formas de trabalho compulsório na colônia."
+        },
+        {
+          "letra": "E",
+          "texto": "acirramento dos conflitos da colônia com as áreas vizinhas da América e união dos reinos de Portugal e da Espanha."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Brasil Colônia (Invasões Holandesas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Em 1791, a escritora francesa Olympe de Gouges publicou a Declaração dos Direitos da Mulher e da Cidadã. Esse documento",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "defendia a participação da mulher na vida política e civil em condição de igualdade com os homens."
+        },
+        {
+          "letra": "B",
+          "texto": "baseou-se na noção de papel social das mulheres proposta na Declaração de Independência dos Estados Unidos."
+        },
+        {
+          "letra": "C",
+          "texto": "sustentava a importância das atividades femininas no ambiente doméstico e na liderança da estrutura familiar."
+        },
+        {
+          "letra": "D",
+          "texto": "consolidou a igualdade de gêneros como um dos princípios defendidos pelos revolucionários franceses."
+        },
+        {
+          "letra": "E",
+          "texto": "embasou a ascensão das mulheres ao primeiro escalão governamental na França revolucionária."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Idade Contemporânea (Revolução Francesa)"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Privado o Brasil do mercado geral das nações e, por conseguinte, da sua concorrência, que encarecia as compras e abarataria as vendas, nenhum outro recurso lhe restava senão mandar suas mercadorias aos portos da metrópole e estimular assim, cada vez mais, a sórdida cobiça e prepotência de seus tiranos.\n(Apud: Miriam Dolhnikoff. História do Brasil Império, 2019.)\n\nO excerto, retirado de um manifesto enviado pelo príncipe-regente D. Pedro às nações amigas em 6 de agosto de 1822,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "defende a formação de um império luso-brasileiro como alternativa à condição colonial."
+        },
+        {
+          "letra": "B",
+          "texto": "contesta a liderança política e comercial dos Estados Unidos no continente americano."
+        },
+        {
+          "letra": "C",
+          "texto": "valoriza os princípios do mercantilismo como balizas da política econômica imperial."
+        },
+        {
+          "letra": "D",
+          "texto": "identifica o pacto colonial como um instrumento de opressão e exploração."
+        },
+        {
+          "letra": "E",
+          "texto": "expressa o repúdio do governo português no Brasil à hegemonia britânica no comércio mundial."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Brasil Império (Independência do Brasil)"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Dez anos! Caramba! O tempo metralha os dias como a cinta de uma arma automática! Vai para uma década que se realizou em São Paulo, [naquele momento] o estado líder da Federação, a Revolução intelectual do Brasil.\n(Apud: Marcos Augusto Gonçalves. 1922: a semana que não terminou, 2012.)\n\nO excerto faz parte de um artigo de Menotti del Picchia, publicado na Folha da Manhã, em 1932, sobre a Semana de Arte Moderna. Nele, del Picchia",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "associa o evento ao poder financeiro paulista e a um projeto de ampla renovação estética."
+        },
+        {
+          "letra": "B",
+          "texto": "atesta a falência do ideário estético do evento cultural, que estava sendo arduamente criticado."
+        },
+        {
+          "letra": "C",
+          "texto": "enfatiza o caráter regionalista do evento, que provocou desinteresse no resto do país pelas novas ideias."
+        },
+        {
+          "letra": "D",
+          "texto": "ressalta a relação direta entre o evento e a Revolução constitucionalista paulista."
+        },
+        {
+          "letra": "E",
+          "texto": "destaca a fluidez da passagem do tempo, que rapidamente tornou obsoleto o projeto político do evento."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Brasil República (República Velha)",
+        "Arte – Modernismo no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Observe a charge de Henfil, publicada em 1984.\n\n(https://enciclopedia.itaucultural.org.br)\n\nRelacionando-se a charge, publicada durante a campanha Diretas Já!, com a conjuntura política daquele ano, observa-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o contraste entre as reivindicações populares e a decisão do poder judiciário de proibir as eleições diretas."
+        },
+        {
+          "letra": "B",
+          "texto": "o contraponto entre os movimentos de mobilização popular e a estratégia gradual de redemocratização empregada pelo governo."
+        },
+        {
+          "letra": "C",
+          "texto": "a falta de unidade da mobilização pelas Diretas, que era capitaneada por partidos políticos antagônicos entre si."
+        },
+        {
+          "letra": "D",
+          "texto": "o predomínio do poder legislativo, que monopolizava as decisões e as escolhas políticas durante o período ditatorial."
+        },
+        {
+          "letra": "E",
+          "texto": "a violência da repressão policial, que impediu a realização de grandes comícios e ações em defesa das eleições diretas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Brasil República (Ditadura Militar)"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Observe as duas imagens para responder às questões 29 e 30.\n\n(https://brasil.elpais.com)\n\nA imagem 1 mostra os destroços da cidade japonesa de Hiroshima, em 1945. A explosão da bomba atômica",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "definiu a hegemonia militar dos Estados Unidos no Oceano Pacífico e a centralidade norte-americana no panorama unilateral do pós-guerra."
+        },
+        {
+          "letra": "B",
+          "texto": "resultou da disputa entre Estados Unidos e União Soviética pelo domínio de zonas de influência durante a Segunda Guerra Mundial."
+        },
+        {
+          "letra": "C",
+          "texto": "evitou o domínio da tecnologia nuclear pelo Japão e o predomínio político-militar japonês no continente asiático."
+        },
+        {
+          "letra": "D",
+          "texto": "impediu a adesão do Japão à aliança estratégica dos países do Eixo no contexto da Segunda Guerra Mundial."
+        },
+        {
+          "letra": "E",
+          "texto": "consolidou a vitória dos Estados Unidos no conflito contra o Japão e a posição norte-americana no cenário geoestratégico do pós-guerra."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Idade Contemporânea (Segunda Guerra Mundial)"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Observe as duas imagens para responder às questões 29 e 30.\n\n(https://brasil.elpais.com)\n\nA imagem 2 mostra manifestantes em Berlim, em 2020, com máscaras de Donald Trump e Vladimir Putin. O manifesto",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "condena a assinatura de um acordo de colaboração militar pelos governos dos Estados Unidos e da Rússia."
+        },
+        {
+          "letra": "B",
+          "texto": "destaca o papel mediador da Alemanha na assinatura de acordos militares que eliminam a produção de armas nucleares."
+        },
+        {
+          "letra": "C",
+          "texto": "alerta para o possível reinício de uma corrida armamentista entre algumas das principais potências da atualidade."
+        },
+        {
+          "letra": "D",
+          "texto": "relembra o emprego de armas nucleares pelos Estados Unidos e pela União Soviética na Segunda Guerra Mundial."
+        },
+        {
+          "letra": "E",
+          "texto": "celebra o fim da concorrência tecnológica e armamentista entre Estados Unidos e Rússia."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Idade Contemporânea (Guerra Fria e Ordem Atual)"
+      ]
+    },
+    {
+      "numeroEnunciado": 79,
+      "enunciado": "A figura mostra os gráficos das funções f e g, definidas de IR em IR, dadas por $f(x) = 2^x - 8$ e $g(x) = \\frac{1}{2^x} - 4$. O ponto P indica a intersecção dos gráficos dessas funções.\n\nA abscissa x, do ponto P, é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$log_2(2+\\sqrt{5})$"
+        },
+        {
+          "letra": "B",
+          "texto": "$log_2(2+\\sqrt{2})$"
+        },
+        {
+          "letra": "C",
+          "texto": "$log_2(1+2\\sqrt{2})$"
+        },
+        {
+          "letra": "D",
+          "texto": "$log_2(3+\\sqrt{3})$"
+        },
+        {
+          "letra": "E",
+          "texto": "$log_2(3+\\sqrt{5})$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Funções Exponenciais",
+        "Matemática – Logaritmos"
+      ]
+    }
+  ]
+}

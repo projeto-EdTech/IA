@@ -1,0 +1,1829 @@
+{
+  "nomeUniversidade": "Universidade de Fortaleza",
+  "siglaUniversidade": "UNIFOR",
+  "nomeProva": "Processo Seletivo 2022.1 - Medicina",
+  "ano": 2022,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Ana possui uma pequena lanchonete onde vende coxinha. No dia 3 de outubro, ela aumentou o preço da coxinha em 30%; no dia 20 de outubro, ela aumentou o preço da coxinha em 10%. Se P era o preço da coxinha no dia primeiro de outubro, qual será o preço da coxinha após os dois aumentos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,43P"
+        },
+        {
+          "letra": "B",
+          "texto": "1,4P"
+        },
+        {
+          "letra": "C",
+          "texto": "0,43P"
+        },
+        {
+          "letra": "D",
+          "texto": "0,4P"
+        },
+        {
+          "letra": "E",
+          "texto": "P+4"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Um artesão produz embalagens para presentes com o formato de um cilindro circular reto de três tamanhos diferentes: pequena, média e grande. A pequena possui raio da base igual a metade do raio da base da embalagem média e a mesma altura desta; a embalagem grande tem o mesmo raio da base que a embalagem média e altura igual ao dobro da altura desta. Se Vp, Vm e Vg representam os volumes das embalagens pequena, média e grande, respectivamente, podemos afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Vp=Vm/2 e Vg=2Vm."
+        },
+        {
+          "letra": "B",
+          "texto": "Vp=Vm/2 e Vg=4Vm."
+        },
+        {
+          "letra": "C",
+          "texto": "Vp=Vm/4 e Vg=2Vm."
+        },
+        {
+          "letra": "D",
+          "texto": "Vp=Vm/4 e Vg=4Vm."
+        },
+        {
+          "letra": "E",
+          "texto": "Vp=Vg/4."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Ana, Bia e Pedro amam correr. Durante o período de isolamento social rígido, correram separados dentro do condomínio onde moram, seguindo os trajetos mostrados na figura abaixo.\nO percurso feito por Ana consistia em ir do ponto P ao ponto S e de lá para P, seguindo o mesmo trajeto, duas vezes. O percurso feito por Bia consistia em ir do ponto P ao ponto Q e de lá retornar para Q, pelo mesmo trajeto, quatro vezes. Já o percurso feito por Pedro consistia em ir do ponto P ao ponto R e de lá retornar para P, pelo mesmo trajeto, três vezes. Em um determinado dia Ana, Bia e Pedro fizeram os seus respectivos percursos com velocidade constante de 1,6 m/s, 2 m/s e 2,1 m/s, respectivamente. Sendo $T_A$, $T_B$ e $T_P$ o tempo gasto por Ana, Bia e Pedro, respectivamente, para completar seu treino nesse dia, é correto afirmar que\n(Use $\\sqrt{13} = 3,6$)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$T_A < T_B < T_P$."
+        },
+        {
+          "letra": "B",
+          "texto": "$T_P < T_B < T_A$."
+        },
+        {
+          "letra": "C",
+          "texto": "$T_B < T_A < T_P$."
+        },
+        {
+          "letra": "D",
+          "texto": "$T_A < T_P < T_B$."
+        },
+        {
+          "letra": "E",
+          "texto": "$T_B = T_P < T_A$."
+        }
+      ],
+      "opcaoCorreta": "X",
+      "conteudo": [
+        "Física – Cinemática",
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "A temática da tirinha são os números racionais e os números irracionais, sobre os quais podemos afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "existem números que são racionais e irracionais ao mesmo tempo, chamados números perfeitos."
+        },
+        {
+          "letra": "B",
+          "texto": "tanto dízimas periódicas quanto dízimas não periódicas podem ser representadas na forma de fração."
+        },
+        {
+          "letra": "C",
+          "texto": "somente os números racionais podem ser escritos na forma de fração ou de dízimas periódicas."
+        },
+        {
+          "letra": "D",
+          "texto": "a soma de dois números irracionais é sempre um número irracional."
+        },
+        {
+          "letra": "E",
+          "texto": "os números irracionais não fazem parte do conjunto dos números reais."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Conjuntos Numéricos"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Ana comprou um terreno formado pela união dos três quadrados ABFE, BCGF e CDHG e dos dois triângulos retângulos isósceles ABI e EFJ, conforme na figura abaixo.\nSe o comprimento do segmento FD é $\\sqrt{80}$ m, a área do terreno de Ana é.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "48 $m^2$."
+        },
+        {
+          "letra": "B",
+          "texto": "5$\\sqrt{80}$ $m^2$."
+        },
+        {
+          "letra": "C",
+          "texto": "64 $m^2$."
+        },
+        {
+          "letra": "D",
+          "texto": "8$\\sqrt{10}$ $m^2$."
+        },
+        {
+          "letra": "E",
+          "texto": "80 $m^2$."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Um artista plástico produz suas obras a partir de materiais recicláveis. Ele dispunha de quatro pedaços de madeira, todos com o formato de um triângulo retângulo isósceles com hipotenusa medindo 10 cm de comprimento. Com o intuito de minimizar o desperdício de material, de cada triângulo ele extraiu o maior disco possível e construiu o painel mostrado abaixo.\nA área total coberta pelos quatro discos é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$100\\pi (3-2\\sqrt{2})$ $cm^2$."
+        },
+        {
+          "letra": "B",
+          "texto": "$100\\pi (2-\\sqrt{2})$ $cm^2$."
+        },
+        {
+          "letra": "C",
+          "texto": "$100\\pi\\sqrt{2}$ $cm^2$."
+        },
+        {
+          "letra": "D",
+          "texto": "$100\\pi (2+ \\sqrt{2})$ $cm^2$."
+        },
+        {
+          "letra": "E",
+          "texto": "$100 (3+2\\sqrt{2})$ $cm^2$."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Todos os anos, em 25 de abril, durante a noite, pessoas se reúnem em torno de um anjo fixado no topo de um pedestal de pedra na cidade de Chernobyl, no norte da Ucrânia, para relembrar o pior acidente nuclear do mundo, que começou à 1:24 da manhã do dia 26 de abril de 1986, na usina nuclear de Chernobyl. Na noite do aniversário do desastre, um grupo formado por moradores, trabalhadores e alguns visitantes de fora da cidade se reúne para celebrar um evento tão complexo e com tantos impactos duradouros que ainda é difícil compreender mesmo após 35 anos. Naquele dia, a explosão do reator lançou dezenas de toneladas de materiais radioativos, entre eles césio-137 e estrôncio-90. Essas substâncias possuem meia-vida, que é o tempo que leva para reduzir a radioatividade pela metade, de 30 anos.\nDisponível em: www. https://www.nationalgeographicbrasil. com. Acesso em 15 de out. 2021. (Adaptado)\nNo centésimo aniversário do acidente, a porcentagem de radioatividade devida ao césio-137 e ao estrôncio-90 será de, aproximadamente,\n(Use $\\sqrt[3]{2}=1,26$)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0% da que havia logo após o acidente."
+        },
+        {
+          "letra": "B",
+          "texto": "10% da que havia logo após o acidente."
+        },
+        {
+          "letra": "C",
+          "texto": "15% da que havia logo após o acidente."
+        },
+        {
+          "letra": "D",
+          "texto": "18% da que havia logo após o acidente."
+        },
+        {
+          "letra": "E",
+          "texto": "25% da que havia logo após o acidente."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Funções Exponenciais",
+        "Química – Radioatividade"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Devido ao elevado valor da tarifa energética Ana resolveu trocar as lâmpadas fluorescentes compactas da sua casa por lâmpadas de LED, mantendo a mesma luminosidade na residência. A casa possui 8 lâmpadas fluorescentes de 15 W que ficam ligadas em média 4h por dia, cada uma, e 2 lâmpadas fluorescentes de 20 W, que ficam diariamente ligadas por 6h, cada uma. A tabela abaixo mostra a equivalência entre lâmpadas fluorescentes compactas e lâmpadas de LED.\n\nTabela de equivalência Abilumi (2020)\nPotência da lâmpada fluorescente (em watts = W): Compacta 10W, Fluxo luminoso equivalente (em Lúmens = Lm): 600, Potência da lâmpada LED (em watts = W): 7W\nPotência da lâmpada fluorescente (em watts = W): Compacta 15W, Fluxo luminoso equivalente (em Lúmens = Lm): 850, Potência da lâmpada LED (em watts = W): 9W\nPotência da lâmpada fluorescente (em watts = W): Compacta 20W, Fluxo luminoso equivalente (em Lúmens = Lm): 1200, Potência da lâmpada LED (em watts = W): 12W\nPotência da lâmpada fluorescente (em watts = W): Compacta 25W, Fluxo luminoso equivalente (em Lúmens = Lm): 1500, Potência da lâmpada LED (em watts = W): 15W\n\nDisponível em: <www.abilumi.org.br>. Acesso em 13 de out. 2021. (Adaptado)\n\nSe o custo da energia é R$ 0,85 por quilowatt-hora, em um mês (30 dias) após a troca de todas as lâmpadas, ela terá economizado, aproximadamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 5,62."
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 7,34."
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 8,92."
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 11,02."
+        },
+        {
+          "letra": "E",
+          "texto": "R$ 18,36."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Eletrodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "A Residência Médica foi instituída no Brasil por meio do Decreto n° 80.281, de 5 de setembro de 1997 e, de acordo com o Ministério da Educação, esta é uma modalidade de ensino de pós-graduação voltada aos médicos, sob a forma de um curso de especialização, oferecido por Instituições de Saúde, sob orientação e supervisão de profissionais médicos de elevada qualificação ética e profissional, sendo considerada o \"padrão ouro” da especialização médica. Ana, Beatriz e Carla fazem residência médica em um dos melhores hospitais de Fortaleza e escolheram áreas diferentes no programa de residência médica do hospital. Uma delas faz a especialização em pediatria, a outra em cardiologia e a outra em neurologia. Sabe-se que\n• ou Ana faz a especialização em pediatria, ou Carla faz a especialização em pediatria;\n• ou Ana faz a especialização em cardiologia, ou Beatriz faz a especialização em neurologia;\n• ou Carla faz a especialização em neurologia, ou Beatriz faz a especialização em neurologia;\n• ou Beatriz faz a especialização em cardiologia, ou Carla faz a especialização em cardiologia.\nCom essas informações, conclui-se que as especializações escolhidas por Ana e Carla são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pediatria e cardiologia."
+        },
+        {
+          "letra": "B",
+          "texto": "pediatria e neurologia."
+        },
+        {
+          "letra": "C",
+          "texto": "cardiologia e pediatria."
+        },
+        {
+          "letra": "D",
+          "texto": "neurologia e cardiologia."
+        },
+        {
+          "letra": "E",
+          "texto": "cardiologia e neurologia."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Raciocínio Lógico"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "As consequências da pandemia para o corpo são visíveis e, como tudo está interligado, o aspecto emocional impacta diretamente na saúde física. Levantamento do Ipsos Global Advisor aponta que o brasileiro foi o que mais ganhou peso ao longo da pandemia, na comparação com outros países. Enquanto na média global 31% dos indivíduos engordaram, no Brasil, esse índice chega a 52% da população.\n(fonte: https://www.em.com.br/app/noticia/bem-viver/2021/09/19/interna_bem_viver,1305962).\nA pandemia não acabou, mas, por conta do avanço da vacinação, aos poucos, a vida que se levava antes de 2020 começa a ser retomada. Com a liberação para práticas de atividades físicas em Fortaleza, Paulo decidiu nadar no clube, regularmente, de quatro em quatro dias. Começou a nadar em um sábado; nadou pela segunda vez na quarta-feira seguinte, depois no domingo e assim por diante. Nesse caso, na centésima vez em que Paulo for nadar, será",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "segunda-feira."
+        },
+        {
+          "letra": "B",
+          "texto": "terça-feira."
+        },
+        {
+          "letra": "C",
+          "texto": "quarta-feira."
+        },
+        {
+          "letra": "D",
+          "texto": "quinta-feira."
+        },
+        {
+          "letra": "E",
+          "texto": "sexta-feira."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "O Ceará voltou a se destacar na região Nordeste e também no País pelos altos preços da gasolina na última semana. De acordo com a Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP), o produto foi encontrado a R$ 6,99 o litro na Capital cearense entre os dias 26 de setembro e 2 de outubro.\n(Fonte: https://diariodonordeste. verdesmares.com.br/negocios/gasolina-no- ceara-chega-a-r-699-o-litro-a-mais-cara-do- nordeste-1.3143530).\nAntônio possui um carro a álcool que consome 1 litro de combustível a cada 10 km percorridos, enquanto José possui um carro a gasolina cujo consumo é de 12 km por litro. Sabendo-se que o litro de álcool custa R$ 5,70 e o litro de gasolina R$ 6,90, e que José dispõe de uma quantia em dinheiro igual a R$ 48,00 a mais que a quantia em dinheiro que Antônio possui, quantos quilômetros irá percorrer José, tendo em vista que Antônio percorreu 400 km?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "420 km"
+        },
+        {
+          "letra": "B",
+          "texto": "430 km"
+        },
+        {
+          "letra": "C",
+          "texto": "460 km"
+        },
+        {
+          "letra": "D",
+          "texto": "480 km"
+        },
+        {
+          "letra": "E",
+          "texto": "500 km"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Sistemas de Equações"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "O Mundo Unifor é o maior evento de disseminação científica, cultural, artística e de humanidades da região Nordeste promovido pela Universidade de Fortaleza. De 18 a 23 de outubro, a Universidade de Fortaleza realizou a 10ª edição do Mundo Unifor. O tradicional evento reuniu arte, ciência e inovação com programação gratuita aberta ao público. Suponha que os códigos de inscrição de uma parcela dos inscritos no evento sejam números inteiros de três algarismos que satisfazem simultaneamente as seguintes condições:\n• menor que 800;\n• maior que 199;\n• possuir todos os dígitos distintos;\n• ser par.\nA quantidade de inscritos cujos códigos de inscrição satisfazem as condições acima é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "200."
+        },
+        {
+          "letra": "B",
+          "texto": "216."
+        },
+        {
+          "letra": "C",
+          "texto": "232."
+        },
+        {
+          "letra": "D",
+          "texto": "300."
+        },
+        {
+          "letra": "E",
+          "texto": "320."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "A tabela abaixo corresponde às quantidades de atendimentos realizados por especialização na emergência de um determinado hospital, nos anos considerados\n\nQuantidades de Atendimentos\nEspecialização: Neurologista; 2018: 1.180 + y; 2019: 2.400 + z; 2020: 1.401 + y; Total: 4.995\nEspecialização: Cardiologista; 2018: 224 + y; 2019: 851 + 2z; 2020: 1.132 - z; Total: 2.215\nEspecialização: Gastroenterologista; 2018: 12; 2019: 790 + w; 2020: 969; Total: 1.779\nEspecialização: Ortopedista; 2018: 700; 2019: 617; 2020: 310; Total: 1.627\nEspecialização: Total; 2018: 3.848 - 20x; 2019: 4.500 + 2x; 2020: $1.967 + 0,25x^2$; Total: 10.616\n\nConsiderando essa tabela e sabendo que, em 2019, foram realizados mais de 4.600 atendimentos, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$x + 2z = 10y + 3w + 6$."
+        },
+        {
+          "letra": "B",
+          "texto": "$x > 5y + 10z + 6w$."
+        },
+        {
+          "letra": "C",
+          "texto": "$x + z < y+ w$."
+        },
+        {
+          "letra": "D",
+          "texto": "$5z + 10w > 2x + y$."
+        },
+        {
+          "letra": "E",
+          "texto": "$x + 5z = y + 10w$."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Sistemas de Equações"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Com o retorno das torcidas aos estádios de futebol, Paulo, Edno e Ricardo combinaram de assistir um jogo de clássico rei. No dia do jogo, os três encontram-se perdidos, uns dos outros, no meio da multidão. Cada um está parado em um ponto, gritando o mais alto possível, para que os outros possam localizá-lo. Há um único ponto em que é possível ouvir simultaneamente Paulo e Ricardo, um outro único ponto (diferente daquele) em que é possível ouvir simultaneamente Ricardo e Edno, e há, ainda, um outro único ponto (diferente dos outros dois) em que é possível ouvir simultaneamente Edno e Paulo. Ricardo encontra-se, em linha reta, a 100 metros do ponto onde se encontra Paulo. Paulo, por sua vez, está a 80 metros, também em linha reta, do ponto onde está Edno. Paulo grita o suficiente para que seja possível ouvi-lo em qualquer ponto até uma distância de 40 metros de onde ele se encontra. Portanto, a distância em linha reta, em metros, entre os pontos em que se encontram Ricardo e Edno é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "60."
+        },
+        {
+          "letra": "B",
+          "texto": "70."
+        },
+        {
+          "letra": "C",
+          "texto": "80."
+        },
+        {
+          "letra": "D",
+          "texto": "90."
+        },
+        {
+          "letra": "E",
+          "texto": "100."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "O Projeto Jovem Voluntário da Universidade de Fortaleza, vinculado à Vice-Reitoria de Extensão e Comunidade Universitária, tem como objetivo sensibilizar os alunos a contribuírem para melhoria da comunidade, formar jovens para que exerçam a cidadania, melhorando a qualidade de vida dos assistidos, dessa forma incentivando-os ao desenvolvimento de uma cultura de voluntariado, na intenção de minimizar a dor e o desconforto dos pacientes e cuidadores. O Projeto proporciona momentos de alegria e descontração através de leituras, contações de estórias, brincadeiras, fantoches, jogos educativos, pinturas, trabalhos de artes etc. Os voluntários atuam uma vez por semana no período de quatro horas nas seguintes instituições parceiras: Hospital Infantil Albert Sabin, Núcleo de Atenção Médica Integrada, Casa Sol Nascente, Associação Peter Pan e Lar Torres de Melo. Ao fim do semestre, o voluntário que cumprir a carga horária exigida recebe um certificado de 80 horas e o monitor de 100 horas. Suponha que um grupo de voluntários que atuam em uma das instituições parceiras é composto por x homens e y mulheres. Sabe-se que o máximo divisor comum entre x e y é igual a 6, que o mínimo múltiplo comum desses números x e y é igual a 36, que existem mais mulheres que homens nesse grupo e que o número de homens é superior a 10. Nesse caso, podemos afirmar que o número de mulheres no grupo é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12."
+        },
+        {
+          "letra": "B",
+          "texto": "18."
+        },
+        {
+          "letra": "C",
+          "texto": "24."
+        },
+        {
+          "letra": "D",
+          "texto": "27."
+        },
+        {
+          "letra": "E",
+          "texto": "36."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Aritmética",
+        "Matemática – MDC e MMC"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Em um experimento realizado por alunos de Física do professor Descobertônio, no laboratório, um pêndulo, composto de fio inextensível e massa, oscila do ponto A ao ponto B, no mesmo nível horizontal (nível III) e no plano vertical. Despreze as forças dissipativas. Em dado momento, um dos alunos intercepta a trajetória de oscilação colocando o dedo no ponto C (nível II) na posição indicada na figura abaixo, atingindo apenas o fio, impedindo que a massa atinja o ponto B. Conforme descrito acima (a massa, saindo do ponto A, com a intercepção pelo dedo do aluno ao fio no ponto C), marque a opção que indica o nível horizontal indicado na imagem abaixo que será atingido por último pela massa.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I"
+        },
+        {
+          "letra": "B",
+          "texto": "II"
+        },
+        {
+          "letra": "C",
+          "texto": "III"
+        },
+        {
+          "letra": "D",
+          "texto": "IV"
+        },
+        {
+          "letra": "E",
+          "texto": "V"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Conservação de Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Um asteroide chamado 16 Psyche, descoberto pelo astrônomo italiano Annibale de Gasparis em 1852 é majoritariamente composto por metais, entre eles ouro e platina. Esse asteroide, recentemente, voltou a chamar atenção por ter sido avaliado em aproximadamente 52,30 quintilhões de Reais, valor esse que é quase um milhão de vezes maior que o PIB brasileiro em 2020.\nDisponível em: <https://www.istoedinheiro. com.br/asteroide-metalico-16-psyche-pode- valer-r-523-quintilhoes/ >. Acesso em 20 Out 2021.\nDiante da grave crise econômica, comentários como \"gostaria que esse asteroide caísse no meu quintal\" passaram a serem vistos constantemente nas redes sociais. O 16 Psyche é disforme e mede aproximadamente 280 km de comprimento, 230 km de largura, 90 km de altura e orbita o Sol no cinturão de asteroides entre Marte e Júpiter com uma velocidade de 17 km/s. Considerando o asteroide na forma de um paralelepípedo com densidade de 4000 $kg/m^3$, a energia liberada pela queda desse asteroide na Terra, desconsiderando quaisquer tipos de perdas por atrito e resistência, equivaleria a quantas bombas de hidrogênio (bombas H), sabendo que uma bomba H libera uma energia de 20 megatons?\nDados: 1 megaton de TNT equivale a $4 \\cdot 10^{15}$ J\nDisponível em: <https://3d-asteroids.space/ asteroids/16-Psyche>. Acesso em: 25 Out 2021.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$3 \\cdot 10^{27}$ bombas H"
+        },
+        {
+          "letra": "B",
+          "texto": "$4 \\cdot 10^{10}$ bombas H"
+        },
+        {
+          "letra": "C",
+          "texto": "$8 \\cdot 10^{11}$ bombas H"
+        },
+        {
+          "letra": "D",
+          "texto": "$2 \\cdot 10^{20}$ bombas H"
+        },
+        {
+          "letra": "E",
+          "texto": "$6 \\cdot 10^{15}$ bombas H"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Energia Cinética",
+        "Física – Densidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Durante um jogo de futebol de campo, o árbitro assinala uma falta de frente e central ao gol do time infrator. Arthur Melo é o jogador que irá bater essa falta. A barreira é montada a 9,5 m à frente da bola e composta por cinco jogadores, todos com 1,8 m de altura. O goleiro, com 1,8 m de altura, posiciona-se a 7,5 m atrás da barreira de jogadores e 2,0 m à frente do centro do gol.\nAdmita as seguintes condições:\nSe os jogadores na barreira pularem, alcançam um altura máxima de 2,3 m.\nSe o goleiro saltar, alcança uma altura máxima de 2,5 m.\nSe o goleiro apenas levantar os braços alcança um altura máxima de 2,2 m.\nA trave do gol tem altura interna de 2,4 m.\nBola, barreira de jogadores, goleiro e centro do gol estão no mesmo plano vertical.\nArthur Melo bateu na bola, saindo esta a 54 km/h com um ângulo de 37º com a horizonal (campo de futebol).\nDespreze a resitência do ar e a rotação da Terra.\nConsidere a bola um ponto material.\nConsidere a aceleração da gravidade local igual a $10,0 m/s^2$, $\\cos(37^{\\circ}) = 0,8$ e $\\sin(37^{\\circ}) = 0,6$.\nAssinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Arthur Melo não fez o gol, pois a bola passou por cima da trave."
+        },
+        {
+          "letra": "B",
+          "texto": "A barreira de jogadores interceptou a bola, pois saltaram."
+        },
+        {
+          "letra": "C",
+          "texto": "O goleiro levantou os braços e evitou o gol, segurando a bola."
+        },
+        {
+          "letra": "D",
+          "texto": "Arthur Melo conseguiu fazer o gol, mesmo tendo o goleiro saltado."
+        },
+        {
+          "letra": "E",
+          "texto": "Arthur Melo não fez o gol, pois a bola caiu no pé do goleiro."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Lançamento Oblíquo"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Os pulmões humanos comportam certa quantidade de ar atmosférico e da mesma forma têm um limite para expirar. O volume corrente (VC) é o volume obtido em uma respiração normal, sem forçar, sendo, portanto, o volume de ar que entra e sai dos pulmões a cada inspiração e expiração. Em um paciente saudável, o volume corrente está em torno de 500 mL.\nFonte: https://blog.jaleko.com.br/volumes-pulmonares/\nSe a massa de ar pudesse ser tratada como um gás perfeito, qual seria a massa aproximada, em mg, de gás oxigênio que entra nos pulmões humanos durante uma respiração normal, estando em um ambiente com pressão de 1 atm e temperatura de 27°C?\nDados: 1 atm = $10^5$ Pa\nConstante universal dos gases perfeitos: R = 8,31 J/mol.K\nMassa molar do átomo de oxigênio: $M_O= 16$ g/mol",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "320"
+        },
+        {
+          "letra": "B",
+          "texto": "320000"
+        },
+        {
+          "letra": "C",
+          "texto": "640"
+        },
+        {
+          "letra": "D",
+          "texto": "134"
+        },
+        {
+          "letra": "E",
+          "texto": "67"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Termodinâmica",
+        "Química – Gases Ideais"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Um engenheiro está projetando uma rodovia federal plana para trânsito de veículos de passeio, com um dos leitos elevado de um ângulo $\\theta$, com raio da curva de 441,0 m. Adotando a aceleração da gravidade local como $10,0 m/s^2$, $\\sin\\theta = 0,20$ e $\\cos\\theta = 0,98$, determine, em km/h, a velocidade escalar máxima para que esses veículos possam realizar o trajeto sem necessidade da força de atrito.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "108"
+        },
+        {
+          "letra": "B",
+          "texto": "126"
+        },
+        {
+          "letra": "C",
+          "texto": "90"
+        },
+        {
+          "letra": "D",
+          "texto": "54"
+        },
+        {
+          "letra": "E",
+          "texto": "72"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Dinâmica do Movimento Circular"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "A linguagem química é caracterizada por fazer uso de fórmulas, símbolos, estruturas, equações, que auxiliam na descrição do comportamento da matéria e suas interações. Considere a seguinte sequência de sais de potássio: carbonato, nitrato, sulfato e cromato. A opção que contém a sequência de fórmulas corretas destes sais é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$KCO_3$, $KNO_3$, $KSO_3$ e $K_2CrO_4$."
+        },
+        {
+          "letra": "B",
+          "texto": "$K_2CO_2$, $K_2NO_3$, $K_2SO_4$ e $K_2Cr_2O_7$."
+        },
+        {
+          "letra": "C",
+          "texto": "$K_2CO_3$, $KNO_3$, $K_2SO_4$ e $K_2CrO_4$."
+        },
+        {
+          "letra": "D",
+          "texto": "$KCO_2$, $K_3NO_3$, $K_2SO_4$ e $K_2Cr_2O_7$."
+        },
+        {
+          "letra": "E",
+          "texto": "$KCO_2$, $K_2NO_2$, $K_2SO_3$ e $K_2Cr_2O_7$."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Nomenclatura Inorgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Um determinado elemento químico pode possuir entre 14, 15 ou 16 neutrons. Seus isótopos são: $^{28}X$ (92,23%) com massa atômica igual a 27,977 u; $^{29}X$ (4,68%) com massa atômica igual a 28,9767 u e $^{30}X$ (3,09%) com massa atômica igual a 29,974 u.\nNesse, contexto, pode-se afirmar que o elemento químico em questão",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "tem peso atômico 28,1 u e encontra-se na coluna 14 da tabela periódica, sendo ele um semimetal."
+        },
+        {
+          "letra": "B",
+          "texto": "tem peso atômico 29,1 u e encontra-se na coluna 6A da tabela periódica, sendo ele um semimetal."
+        },
+        {
+          "letra": "C",
+          "texto": "tem peso atômico 30,01 u e encontra-se na coluna 7A da tabela periódica, sendo ele um metal."
+        },
+        {
+          "letra": "D",
+          "texto": "tem peso atômico 30,01 u e encontra-se na coluna 4A da tabela periódica, sendo ele um ametal."
+        },
+        {
+          "letra": "E",
+          "texto": "tem peso atômico 28,1 u e encontra-se na coluna 6A da tabela periódica, sendo ele um ametal."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Estrutura Atômica",
+        "Química – Tabela Periódica"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Ao adicionarmos um soluto não volátil a um solvente puro, observamos mudanças em algumas das suas propriedades. Foram preparadas três soluções aquosas de sacarose, $C_{12}H_{22}O_{11}$, com concentração distintas:\nSolução A = 1,0 % em massa\nSolução B = 1,0 mol/L\nSolução C = $X(C_{12}H_{22}O_{11}) = 0,25$\nEm relação às soluções preparadas, podemos afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a solução A apresenta maior pressão de vapor da água."
+        },
+        {
+          "letra": "B",
+          "texto": "a solução B apresenta menor ponto de ebulição."
+        },
+        {
+          "letra": "C",
+          "texto": "a solução C apresenta menor ponto de congelamento."
+        },
+        {
+          "letra": "D",
+          "texto": "a solução A apresenta maior pressão osmótica."
+        },
+        {
+          "letra": "E",
+          "texto": "a solução C apresenta maior pressão de vapor."
+        }
+      ],
+      "opcaoCorreta": "X",
+      "conteudo": [
+        "Química – Propriedades Coligativas"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "O pH é definido como potencial hidrogeniônico, que é uma escala logarítmica que indica, com valores de 0 a 14, se a solução é ácida, neutra ou básica. Considere as seguintes soluções aquosas:\nSolução I - de 0,005 mol/L de ácido sufúrico\nSolução II - de ácido acético 0,001 mol/L\nEm relação ao pH destas soluções, podemos afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o pH da solução I é maior em relação a solução II."
+        },
+        {
+          "letra": "B",
+          "texto": "o pH da solução II é maior que 7,0."
+        },
+        {
+          "letra": "C",
+          "texto": "o pH da solução I é praticamente igual ao pH da solução II."
+        },
+        {
+          "letra": "D",
+          "texto": "o pH da solução I é igual a 2,0."
+        },
+        {
+          "letra": "E",
+          "texto": "o pH da solução II é menor que 3,0."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Equilíbrio Químico",
+        "Química – pH e pOH"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Álcool isopropílico e isopropanol são as denominações usuais para o propan-2-ol, uma substância química incolor e de forte odor, sendo o mais simples exemplo de um álcool secundário. É isômero de posição do propanol ou n-propanol. É composta por carbono, hidrogênio e oxigênio, desconsiderando possíveis contaminantes e interferentes intramoleculares. A combustão de 0,255 g de álcool isopropílico gera 0,561 g de dióxido de carbono e 0,306 g de agua. A fórmula mínima do álcool isopropílico bem como a razão molar mais próxima (não corrigida) para a composição desta formula mínima a partir destes valores será",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$C_3H_8O$ e tem razão molar não corrigida: 2,98:7,91:1,00."
+        },
+        {
+          "letra": "B",
+          "texto": "$C_4H_8O$ e tem razão molar não corrigida: 3,92:7,91:1,10."
+        },
+        {
+          "letra": "C",
+          "texto": "$C_4H_9O$ e tem razão molar não corrigida: 3,92:9,1:1,10."
+        },
+        {
+          "letra": "D",
+          "texto": "$C_3H_8O$ e tem razão molar não corrigida: 3,01:7,5:1,00."
+        },
+        {
+          "letra": "E",
+          "texto": "$C_3H_8O$ e tem razão molar não corrigida: 2,76:7,91:1,00."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Estequiometria",
+        "Química – Fórmulas Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "As parasitoses intestinais fazem parte da lista da Organização Mundial da Saúde (OMS) de doenças negligenciadas. De acordo com a definição da instituição, elas persistem em condições de pobreza, áreas rurais remotas, favelas urbanas ou zonas de conflito e contribuem para a manutenção da desigualdade. A escassez ou ausência de políticas públicas e a falta de estatísticas robustas tornam o enfrentamento dessas doenças ainda mais difícil. As parasitoses intestinais, assim como as demais doenças negligenciadas, contam com investimentos reduzidos em pesquisas, produção de medicamentos e estratégias de controle.\nFonte: https://www.cnnbrasil.com.br/saude/por-que-as-doencas-intestinais-causadas-por-vermes-ainda-persistem-no-brasil/.\nAcesso em: 17 out. 2021.\nSobre as parasitoses intestinais, avalie as informações a seguir.\nI. Na ascaridíase, os ovos lançados pelas fêmeas, Ascaris lumbicoides, eclodem no estômago humano liberando as larvas.\nII. As larvas dos Ascaris lumbricoides, antes de se instalarem no intestino delgado, migram pelo corpo, passando pelo fígado, coração, pulmão, traqueia e sofrem várias mudanças à medida que se transformam em adultos.\nIII. A pessoa com ancilostomose fica pálida, cansada, com fraqueza, tontura, desânimo e, à medida que a anemia avança, surge, falta de ar.\nIV. O ciclo de vida do agente causador da ancilostomose é semelhante ao da ascaridíase, com a diferença de que as larvas na ancilostomose penetram ativamente no corpo do hospedeiro.\nV. O lançamento de excrementos humanos ou animais no solo pode transmitir a oxiurose e a ascaridíase; assim, andar sempre calçado previne ambas as parasitoses.\nÉ correto apenas o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e III."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "II, III e V."
+        },
+        {
+          "letra": "D",
+          "texto": "II, III e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "I, III e IV"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Parasitologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "\"Apesar da redução, Brasil ainda tem 19 mil grávidas entre 10 e 14 anos por ano\"\nA manchete acima, publicada em de setembro do presente ano, no portal extra.globo.com, relata a fecundidade específica na adolescência, mostrando que em nosso país a gravidez na adolescência está acima da média mundial. São 53 adolescentes grávidas a cada mil, enquanto no mundo são 41, demonstrando um \"rejuvenescimento da fecundidade\".\nFonte: https://extra.globo.com/noticias/brasil/apesar-da-reducao-brasil-ainda-tem-19-mil-gravidas-entre-10-14-anos- por-ano-25212273.html. acesso em: 15/10/2021.\nRefletindo sobre o texto acima, avalie as afirmativas a seguir.\nI. No caso das meninas com menos de 15 anos que engravidam, o componente da vulnerabilidade a diversos tipos de violência é importante de ser considerado.\nII. Prevenir a gravidez precoce é essencial para cumprir a promessa da Agenda 2030 de Desenvolvimento Sustentável, de não deixar ninguém para trás e de garantir que as meninas possam alcançar seu maior potencial e exercer seus direitos humanos.\nIII. O acesso a informações é muito importante neste contexto, porque ajuda adolescentes a tomarem decisões informadas e responsáveis sobre seus corpos e suas vidas, contudo ainda é irrelevante na prevenção da gravidez precoce.\nIV. O abuso sexual e a violência como causa potencial dessas gestações constituem um problema de saúde e de direitos humanos, com consequências biológicas, psicológicas e sociais significativas.\nÉ correto apenas o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e III."
+        },
+        {
+          "letra": "B",
+          "texto": "II e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "III e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e IV."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Saúde Pública",
+        "Sociologia – Direitos Humanos"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Na visão de Jack Schultz – professor da Divisão de Ciências Vegetais da Universidade de Missouri, nos Estados Unidos, plantas são \"como animais muito lentos\": conseguem ver, ouvir, cheirar e até têm comportamentos. Segundo o cientista, as plantas lutam por território, procuram alimentos, evitam predadores e fazem armadilhas para suas presas. Logo, estão vivas no mesmo sentido que os animais e, assim como eles, exibem condutas.\nFonte: https://www.bbc.com/portuguese/vert-earth-38655422 Acesso em 06 de nov. 2020.\nE, de acordo com Karban e colaboradores (2016), os desafios essenciais enfrentados por plantas e animais são bastante semelhantes - os indivíduos devem obter recursos suficientes para crescer, evitar se tornar alimentos de predadores, parasitas e patógenos e transmitir com sucesso seus genes para as gerações subsequentes.\nFonte: Karban, R. et al. A comparison of plants and animals in their responses to risk of consumption. Current Opinion in Plant Biology, 32, 1-8, 2016.\nDentro dessa análise comparativa entre animais e vegetais, analise os itens a seguir e indique, para cada característica descrita, se refere-se a um vegetal (“V”), a um animal (\"A\") ou a ambos (“D”).\n1. ( ) Seu desenvolvimento envolve etapas como: diferenciação, morfogênese e crescimento.\n2. ( ) Durante a divisão celular, a citocinese ocorre mediante formação de um anel contrátil.\n3. ( ) Presença de células indiferenciadas para reposição e regeneração celular, por exemplo.\n4. ( ) Presença de ribossomos maiores e mais complexos (tipo 80S), formado por 2 subunidades (40S e 60S).\n5. ( ) São capazes de produzir colesterol para, por exemplo, compor suas membranas celulares.\n6. ( ) Possui arquitetura modular com tecidos mais descentralizados.\nA sequência correta das letras “V”, “A” e “D”, referentes, respectivamente, a características vegetais, animais e ambos é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1-D, 2-A, 3-A, 4-D, 5-D, 6-D."
+        },
+        {
+          "letra": "B",
+          "texto": "1-D, 2-A, 3-D, 4-D, 5-A, 6-V."
+        },
+        {
+          "letra": "C",
+          "texto": "1-A, 2-V, 3-D, 4-A, 5-D, 6-D."
+        },
+        {
+          "letra": "D",
+          "texto": "1-V, 2-D, 3-V, 4-A, 5-D, 6-D."
+        },
+        {
+          "letra": "E",
+          "texto": "1-A, 2-V, 3-A, 4-A, 5-А, 6-V."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Citologia Comparada"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Pesquisadores, observando uma população de grilos com diferentes tonalidades – alguns mais claros, outros de cor intermediária e outros mais escuros – que se estabeleceu em determinado ecossistema, verificaram que, durante o dia, os indivíduos mais claros conseguiam camuflar-se melhor em certas áreas do ambiente e, assim, evitar a predação; já os indivíduos mais escuros se camuflavam melhor durante a noite; por fim, os grilos de tonalidade intermediária não conseguiam, de maneira eficaz, evitar a predação nem durante o dia nem durante a noite.\nObserva-se, na situação descrita, uma clara pressão da seleção natural que pode ser representada por um dos 3 gráficos a seguir.\nOs cientistas ainda verificaram que, apesar de todos os grilos habitarem o mesmo ambiente, com o passar do tempo, os indivíduos mais claros estavam cruzando apenas entre si, assim como os grilos mais escuros cruzavam somente entre si.\nNesse contexto, o tipo de seleção natural que está ocorrendo nestas espécies de grilos, o gráfico que melhor representa esse tipo de seleção e o tipo de especiação que está se estabelecendo nessa população são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Disruptiva – Gráfico B – Alopátrica."
+        },
+        {
+          "letra": "B",
+          "texto": "Direcional – Gráfico C – Alopátrica."
+        },
+        {
+          "letra": "C",
+          "texto": "Disruptiva – Gráfico C – Simpátrica."
+        },
+        {
+          "letra": "D",
+          "texto": "Direcional – Gráfico A – Alopátrica."
+        },
+        {
+          "letra": "E",
+          "texto": "Estabilizadora – Gráfico A – Simpátrica."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Evolução",
+        "Biologia – Ecologia de Populações"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Os camelos são animais muito conhecidos e famosos pelas suas habilidades de sobrevivência em ambientes extremos, especialmente em termos de aridez. Ao contrário da lenda, os camelos não armazenam água em suas corcovas, que consistem, na verdade, em um grande depósito de gordura.\nContudo, esse depósito de gordura pode servir de fonte de água, uma vez que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a oxidação completa de gordura, tal como a armazenada nas corcovas, libera um grande volume de água metabólica."
+        },
+        {
+          "letra": "B",
+          "texto": "a gordura presente nas corcovas tem caráter hidrofílico, ligando-se a moléculas de água que podem ali ficar depositadas."
+        },
+        {
+          "letra": "C",
+          "texto": "caracteriza-se como reserva energética para manter o funcionamento de bombas que realizam o transporte de água para os tecidos."
+        },
+        {
+          "letra": "D",
+          "texto": "forma uma camada lipídica que inibe a desidratação excessiva durante os longos períodos de seca."
+        },
+        {
+          "letra": "E",
+          "texto": "atua como isolante térmico, reduzindo áreas de superfície de contato dos camelos nas quais pode ocorrer transpiração."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Fisiologia Animal"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Mother, Daughter, Doll. Arte de Boushra Almutawakel.\nRelacionando as fotografias acima e o extremismo do grupo Talibã no Afeganistão, que retornou ao poder após a retirada das tropas norte-americanas em agosto de 2021, analise as assertivas.\nI. As fotografias sugerem uma crítica ao uso das vestimentas como forma de expressão cultural e religiosa.\nII. Durante o comando talibã no Afeganistão nos anos 1990, as mulheres eram proibidas de estudar, trabalhar e até de sair de casa desacompanhadas ou com rostos descobertos. Mulheres vestidas em desacordo com as regras eram sujeitas a açoitamento.\nIII. Durante o comando talibã no Afeganistão nos anos 1990, mulheres acusadas de adultério eram apedrejadas em execuções públicas. Meninas eram tiradas de suas famílias e obrigadas a se casar com homens muito mais velhos. Maridos podiam obrigar suas mulheres a fazer sexo, com permissão para matá-las de fome caso se recusassem.\nIV. Durante o comando talibã no Afeganistão nos anos 1990, também havia restrições válidas para os homens: qualquer pessoa flagrada com livros proibidos poderia ser executada; todas as pessoas com nomes não-islâmicos deveriam mudar sua identificação, passando a adotar nomes islâmicos; homens eram obrigados a usar barba; o acesso à internet era proibido a todos.\nV. Com base na experiência anterior do comando do talibã, a comunidade internacional teme a violação de direitos humanos das mulheres e de outras minorias sociais. Há o receio de que as mulheres se tornem, novamente, essencialmente invisíveis na vida pública, (como sugerem as fotografias acima), em função de uma interpretação extremista do Islã.\nÉ correto a penas o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II, III, IV e V."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II, IV e V."
+        },
+        {
+          "letra": "C",
+          "texto": "II, III, IV e V."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "II, III e IV."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História Contemporânea",
+        "Sociologia – Direitos Humanos"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "A respeito da ditadura militar no Brasil, observe a imagem abaixo e o texto que segue.\nFoto: Evandro Teixeira.\nDisponível em: <https://www.politize.com.br/wp-content/ uploads/2017/03/ditadura-militar-brasil-manifestante- policia.jpeg>. Acesso em 28 Out 2021.\nA ditadura militar no Brasil durou 21 anos e teve 5 mandatos militares. Nesse período, houve restrição às liberdades individuais, suspensão do direito de impetrar habeas corpus para crimes políticos, repressão aos opositores do regime, fechamento do Congresso Nacional, cassação de mandatos parlamentares e censura dos meios de comunicação. Tudo isso foi respaldado nos 16 atos institucionais, normas amplamente utilizadas no regime.\nOs atos institucionais e a força exercida pelo regime militar levantam discussões acerca da legitimidade e da legalidade dos atos do governo na época. Enquanto o conceito de legalidade se situa num domínio exclusivamente formal, técnico e jurídico (no sentido de enquadramento das ações do governo às normas vigentes à época), a legitimidade reside em uma questão de consentimento, obediência popular sem o uso da força. A este respeito, é possível afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a legitimidade diz respeito ao reconhecimento, ao consentimento e à aceitação do povo, de modo que, sempre que há legitimidade, haverá legalidade no governo."
+        },
+        {
+          "letra": "B",
+          "texto": "quanto maior o uso da força, maior a legalidade."
+        },
+        {
+          "letra": "C",
+          "texto": "sempre que um governo é legal, é legítimo; mas nem todo governo legítimo é legal."
+        },
+        {
+          "letra": "D",
+          "texto": "quanto menor a necessidade do uso da força para manutenção do poder, mais legítimo este governo será."
+        },
+        {
+          "letra": "E",
+          "texto": "legalidade e legitimidade são conceitos sinônimos e indissociáveis."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Ditadura Militar no Brasil",
+        "Sociologia – Política"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "A respeito da evolução histórica das diferentes concepções de Estado, avalie as assertivas.\nI. No Estado grego, havia a centralização do poder e a unificação da administração pública, que ficavam concentradas nas mãos do rei.\nII. No Estado medieval, a organização social e jurídica concentrava-se no âmbito de cada feudo.\nIII. Com o fim do Estado Medieval, houve o fortalecimento de regimes absolutistas e de Estados unitários na Europa.\nIV. Com o advento do Estado Liberal, ideias como a separação de poderes e a limitação dos poderes estatais foram incorporadas às constituições escritas.\nV. Durante o desenvolvimento do Estado Social (ou Welfare State), o mercado se desenvolvia livremente, sem intervenção estatal.\nÉ correto apenas o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II, III e IV."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III."
+        },
+        {
+          "letra": "D",
+          "texto": "I, IV e V."
+        },
+        {
+          "letra": "E",
+          "texto": "II, III e V."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Formação do Estado Moderno",
+        "Filosofia – Filosofia Política"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "\"Os ingleses, franceses, espanhóis, portugueses e holandeses encenavam a posse de terras novas a partir dos rituais, cerimônias, crenças e conhecimentos que lhes eram familiares, com certeza, porém também foram obrigados a reescrever constantemente esse roteiro.\" (MONTEIRO, 1998, p. 265)\nFonte: MONTEIRO, John. Rituais de Ocupação: Revisitando as diferenças entre colonizadores. Anuário Antropológico, v. 22, n. 1, p. 259-265, 1998. Disponível em https://dialnet. unirioja.es/servlet/articulo?codigo=7419133 Acesso em 28 Out 2021.\nSobre as diferenças entre a colonização portuguesa e inglesa, marque a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Na América Portuguesa, os índios foram submetidos a um processo de doutrinação religiosa. Contudo, isso não aconteceu com os indígenas da América inglesa."
+        },
+        {
+          "letra": "B",
+          "texto": "As \"cerimônias de posse\" dos colonizadores por si só já demonstram restritamente a diferença de colonização portuguesa e inglesa."
+        },
+        {
+          "letra": "C",
+          "texto": "Os índios das colônias portuguesas e inglesas foram submetidos ao processo de mestiçagem."
+        },
+        {
+          "letra": "D",
+          "texto": "Os ingleses que ocuparam faixas da América do Norte não se mostraram preocupados, desde cedo, com a demarcação da propriedade privada e com a construção de cercas."
+        },
+        {
+          "letra": "E",
+          "texto": "Os índios portugueses resistiram, como os indígenas da América inglesa, às doenças trazidas pelos brancos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Colonização da América"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Segundo Hannah Arendt, o totalitarismo pode ser conceituado como um regime de governo no qual prevalece “a dominação permanente de todos os indivíduos em toda e qualquer esfera da vida\" (Origens do totalitarismo. São Paulo: Companhia das Letras, 1989, p. 375). Um dos regimes totalitários existentes na história mundial é o fascismo. A respeito deste regime, analise as assertivas.\nI. O fascismo é a forma radical do espectro político ligado à direita conservadora. Utiliza-se de retórica populista ao explorar temas como a corrupção endêmica nacional, crises econômicas ou \"declínio dos valores tradicionais e morais\" da sociedade, apresentando-se como a alternativa possível para acabar com este mal.\nII. O termo \"fascismo” pode ser usado para referir-se também à ideologia nazista, bem como a outros regimes que surgiram entre a Primeira e a Segunda Guerras Mundiais inspirados ideologicamente no fascismo italiano, como o salazarismo, em Portugal, e o franquismo espanhol.\nIII. Exaltação dos \"valores tradicionais\" em detrimento de valores considerados \"modernos”, mobilização das massas e forte nacionalismo são características do fascismo.\nIV. A defesa do liberalismo político e econômico é característica essencial de regimes fascistas.\nÉ correto apenas o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "B",
+          "texto": "II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "II, III e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "I e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II, III e IV."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Filosofia – Filosofia Política",
+        "História – Regimes Totalitários"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Observe a imagem e o texto a seguir.\n\"A viagem da corte portuguesa estendeu-se por 54 dias, e, no dia 22 de janeiro de 1808, a embarcação de d. João chegou a Salvador. Da antiga capital do Brasil, D. João já tomou a primeira medida que mudaria o curso da história brasileira: ele decretou a abertura dos portos às nações amigas, no dia 28 de janeiro.\nDepois de uma breve estadia em Salvador, D. João foi para o Rio de Janeiro, chegando lá no dia 8 de março. As outras embarcações foram chegando nos dias seguintes (uma tempestade havia separado elas). A chegada da corte ao Brasil inaugurou o Período Joanino, durante o qual D. João esteve no Brasil. A abertura dos portos foi apenas a primeira de várias medidas tomadas pelo regente português e que mudaram radicalmente a história brasileira.\"\nFonte: Vinda da família real para o Brasil. 2013 (pág. 5), disponível em <http://fabiopestanaramos.blogspot.com/2010/12/ instalacao-da-corte-portuguesa-e.html> Acesso em 28 Out 2021.\nSobre a vinda da família real para o Brasil e o período em questão, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A transferência da corte portuguesa para o Brasil teve relação indireta com os acontecimentos da Revolução Francesa e do período napoleônico."
+        },
+        {
+          "letra": "B",
+          "texto": "A transferência da Família Real para o Brasil se deu pela recusa de Portugal em obedecer às ordens da França e aderir ao Bloqueio Continental, instituído com o objetivo de prejudicar os ingleses, em 1806."
+        },
+        {
+          "letra": "C",
+          "texto": "Em 1801, houve a Guerra das Laranjas entre Portugal e França."
+        },
+        {
+          "letra": "D",
+          "texto": "Nessa época, ocorreu a integração das elites políticas regionais, para a formação de um projeto político separatista de cunho republicano."
+        },
+        {
+          "letra": "E",
+          "texto": "O letramento de mulatos e imigrantes era importante para as necessidades do trabalho na cidade durante os anos de 1808 a 1810."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Período Joanino no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Observe a figura e leia o texto a seguir:\n\"Enquanto as batalhas selvagens da nobreza feudal dominante preenchiam a Idade Média com seu ruído, o trabalho silencioso das classes oprimidas minava o sistema feudal por toda a Europa Ocidental, criando as condições nas quais estava cada vez menos espaço para os senhores feudais. É verdade que, no campo, os nobres senhores seguiam seu modo de ser, atormentando servos, chafurdando no seu suor, cavalgando sobre suas plantações, estuprando suas esposas e filhas” (ENGELS, 2020, p. 288)\nFonte: ENGELS, Friedrich et al. ENGELS, Friedrich; O declínio do feudalismo e a ascensão da burguesia. Verinotio-Revista on- line de Filosofia e Ciências Humanas, v. 26, n. 2, p. 288-298, 2020.\nSobre o sistema tratado na figura e no trecho acima, marque a opção correta",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O feudalismo ocorreu na Idade Moderna da sociedade humana."
+        },
+        {
+          "letra": "B",
+          "texto": "O trabalho das classes oprimidas foi de encontro ao desmoronamento do sistema feudal."
+        },
+        {
+          "letra": "C",
+          "texto": "A burguesia da cidade tinha dinheiro e isso era uma poderosa arma contra o feudalismo, pois, no padrão econômico feudal do início da Idade Média, quase não havia lugar para o dinheiro."
+        },
+        {
+          "letra": "D",
+          "texto": "No auge do sistema feudal, pode-se dizer que existiam trocas comerciais entre os feudos."
+        },
+        {
+          "letra": "E",
+          "texto": "Após o declínio do sistema feudal, observou-se o sistema autossuficiente de economia camponês cristão."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Feudalismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Sócrates, filósofo grego que viveu entre 470 e 399 a.C., é mundialmente conhecido não só por suas ideias, mas também pelo seu método de ensinar a pensar: a maiêutica. Em linhas gerais, a parturição das ideias propunha relacionar o nascimento do saber com o nascimento de uma criança. Ou seja, assim como é preciso trazer a vida ao mundo, se faz necessário trazer à luz o saber que está dentro da alma dos homens, superando, então, desejos e caprichos.\nDisponível em: <https://brasilescola.uol. com.br/biografia/socrates-biografia.htm>. Acesso em 28 Out 2021.\nSobre Sócrates, assim como seu método de ensinar a pensar, assinale a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O discípulo de Aristóteles nos prova que mentiras e verdades são sinônimas. Todavia, o homem justo jamais deveria seguir este caminho."
+        },
+        {
+          "letra": "B",
+          "texto": "O pai da Filosofia ensina que é preciso pensar antes de agir. Logo, faz-se necessário ter um olhar organizacional sobre todas as nossas atitudes."
+        },
+        {
+          "letra": "C",
+          "texto": "O filósofo ateniense tinha por meta ensinar por meio da dúvida. Ou seja, seria preciso questionar nossas opiniões para encontrar a verdade."
+        },
+        {
+          "letra": "D",
+          "texto": "Sócrates importunava as pessoas fazendo insistentes perguntas. Desta maneira, jovens e adultos atenienses se mantiveram afastados dele."
+        },
+        {
+          "letra": "E",
+          "texto": "O mestre de Platão ensina que é preciso ironizar para ensinar algo para alguém. Com isso, passou a vida rindo e debochando de todos ao seu redor."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Filosofia – Filosofia Antiga"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "De acordo com os registros históricos, foi a partir do século XI que diversas cidades europeias se tornaram importante entroncamento das rotas comerciais. Produtos caros, e altamente requisitados, oriundos do Oriente, se fizeram presentes na Europa. Os comerciantes da época, mesmo transportando em pouca quantidade, obtiveram altas taxas de lucro.\nVICENTINO, Cláudio. Olhares da história: Brasil e mundo. 1ª ed. São Paulo: Scipione, 2017, p. 182\nDe acordo com as informações acima, qual era a mais importante e lucrativa rota comercial que conectava a Europa ao Oriente?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O antigo caminho romano, que interligava o mar Mediterrâneo ao continente africano, em direção ao rio Nilo, e depois, Jerusalém."
+        },
+        {
+          "letra": "B",
+          "texto": "O tradicional caminho das Cruzadas, que partia de Gênova e Veneza rumo aos centros comerciais do Mediterrâneo oriental."
+        },
+        {
+          "letra": "C",
+          "texto": "A antiga rota greco-romana, no caminho do norte da África, passando pelo Egito, em direção ao sul da Pérsia, no oriente próximo."
+        },
+        {
+          "letra": "D",
+          "texto": "A rota marítima no oceano Atlântico, margeando a África, em direção ao sul, no intuito de chegar até o litoral da Índia e da Oceania."
+        },
+        {
+          "letra": "E",
+          "texto": "A nova rota traçada no leste europeu: partia de Paris, França, em direção ao reino saxão, norte, até chegar ao oriente médio."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Baixa Idade Média",
+        "História – Renascimento Comercial"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Quando pensamos na expansão marítima, geralmente lembramos, em primeiro lugar, de Cristóvão Colombo (1451-1506), o qual inovou ao chegar nas Américas. Porém, pouco é dito sobre o imperador chinês Zhong Di (1360-1424), da Dinastia Ming, o qual liderou poderoso império. Por ordem do imperador, foram construídos por volta de 300 ba chuans, navios gigantescos para a época, tendo mais de 135 metros de comprimento cada um.\nVICENTINO, Cláudio. Olhares da história: Brasil e mundo. 1ª ed. São Paulo: Scipione, 2017, p. 61.\nGraças a essa grande empreitada, uma frota imperial chinesa, em 1421, conseguiu realizar excursão com o dobro do caminho e setenta anos antes da viagem de Colombo. Qual foi a rota percorrida?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Partiram de Nanquim, atravessando o oceano Índico, depois pela costa da África, chegando até a porção sul do referido continente, já no Atlântico."
+        },
+        {
+          "letra": "B",
+          "texto": "Não se sabe ao certo de qual porto saíram, porém, em direção ao oceano Pacífico, passaram pela região das Polinésias, até chegarem a Austrália."
+        },
+        {
+          "letra": "C",
+          "texto": "Após zarparem de uma colônia chinesa (Japão), dirigiram-se para o Norte, atravessando o estreito de Bering, chegando ao norte do atual Canadá."
+        },
+        {
+          "letra": "D",
+          "texto": "Rumo ao Pacífico e sem precisar parar em uma única ilha no caminho, chegaram finalmente ao Havaí, criando raízes até o presente momento."
+        },
+        {
+          "letra": "E",
+          "texto": "Após saírem do litoral da atual Coréia do Norte, dirigiram-se para o oceano Índico, de ilha em ilha, até chegarem na costa leste da Nova Zelândia."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Expansão Marítima"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Durante a última década as mulheres conquistaram posições importantes na sociedade, tanto em termos legais como profissionais. Paralelamente a essa escalada de poder, porém, aumentaram os distúrbios ligados à alimentação, as cirurgias plásticas, a pornografia e a necessidade artificialmente provocada de corresponder a um modelo idealizado de mulher, em que a velhice e a obesidade, mais do que pecados, são motivos para a estigmatização. Em O mito da beleza Naomi Wolf enfrenta o que ela acredita ser a única trincheira ainda por derrubar para que a mulher possa obter sua igualdade em todos os campos. Para mostrar como a indústria da beleza e o culto à bela fêmea manipulam imagens que minam a resistência psicológica e material femininas, reduzindo as conquistas de 20 anos de lutas a meras ilusões, Naomi escreveu um livro forte, com dados estatísticos contundentes e fúria temperada aqui e ali por humor e lirismo.\nWOLF, Naomi. O Mito da Beleza. Como as imagens de beleza são usadas contra as mulheres. Tradução de Waldéa Barcellos. Rocco: Rio de Janeiro, 1992\nDe acordo com o texto, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as mulheres conseguiram posições importantes na sociedade somente em termos legais."
+        },
+        {
+          "letra": "B",
+          "texto": "o termo \"paralelamente\" pode ser substituído por \"divergente\" sem alterar o sentido no texto."
+        },
+        {
+          "letra": "C",
+          "texto": "para consolidação de sua conquista profissional, a mulher priorizou cuidar da saúde e da imagem."
+        },
+        {
+          "letra": "D",
+          "texto": "a mulher, para obter igualdade em todos os campos, deve superar o mito da beleza."
+        },
+        {
+          "letra": "E",
+          "texto": "há uma necessidade real de a mulher corresponder ao mito da beleza."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "RACISMO MATA. RACISMO É CRIME. Todas as vozes contra o racismo. Todas as leis contra os racistas.\nDisponível em: <http://www.bahia.ba.gov.br/wp-content/uploads/2021/08/Campanha-publicitaria-696x482.jpeg>. Acesso em: 13 Out 2021.\nConsiderando essa campanha publicitária, pode-se afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o texto não verbal expressa a importância de proferir palavras contra o racismo."
+        },
+        {
+          "letra": "B",
+          "texto": "o texto não verbal expressa uma voz contra o racismo, em consonância com o trecho do texto verbal \"Todas as vozes contra o racismo\"."
+        },
+        {
+          "letra": "C",
+          "texto": "o texto verbal, em \"racismo mata, racismo é crime”, está interligado de modo coerente com o sentido do texto não verbal."
+        },
+        {
+          "letra": "D",
+          "texto": "o texto não verbal apresenta uma figura que diz respeito à luta pela tolerância na sociedade."
+        },
+        {
+          "letra": "E",
+          "texto": "o texto visa informar aos leitores sobre os benefícios do porte de armas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Linguagem Verbal e Não Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Só os loucos sabem\nCharlie Brown Jr.\nAgora eu sei\nExatamente o que fazer\nBom recomeçar, poder contar com você\nPois eu me lembro de tudo irmão\nEu estava lá também\nUm homem quando está em paz\nNão quer guerra com ninguém\nSegurei minhas lágrimas\nPois não queria demonstrar a emoção\nJá que estava ali só pra observar\nE aprender um pouco mais sobre a percepção\nEles dizem que é impossível encontrar o amor\nSem perder a razão\nMas pra quem tem pensamento forte\nO impossível é só questão de opinião\nE disso os loucos sabem\nSó os loucos sabem\nDisso os loucos sabem\nSó os loucos sabem\nToda positividade eu desejo a você\nPois precisamos disso\nNos dias de luta\nO medo cega os nossos sonhos\nO medo cega os nossos sonhos\nMenina linda eu quero morar na sua rua\nVocê deixou saudade\nVocê deixou saudade\nQuero te ver outra vez\nQuero te ver outra vez\nVocê deixou saudade\nAgora eu sei\nExatamente o que fazer\nBom recomeçar, poder contar com você\nPois eu me lembro de tudo irmão\nEu estava lá também\nUm homem quando está em paz\nNão quer guerra com ninguém\n\nNo trecho \"O impossível é só questão de opinião / E disso os loucos sabem\", dessa música de Charlie Brown Jr., o autor utiliza o termo \"loucos\" para se referir às pessoas que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "são desequilibradas."
+        },
+        {
+          "letra": "B",
+          "texto": "têm alguma alteração patológica na saúde mental."
+        },
+        {
+          "letra": "C",
+          "texto": "são extravagantes."
+        },
+        {
+          "letra": "D",
+          "texto": "superam limites."
+        },
+        {
+          "letra": "E",
+          "texto": "têm opinião formada sobre vários assuntos."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Conotação e Denotação"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "O que a morte nos ensina sobre a vida\nSocorro Acioli\nA escritora Noemi Jaffe, quando perdeu sua mãe, começou a escrever uma longa carta, honesta e forte, sobre a força de sua presença. (...) Um dos momentos mais comoventes do texto é quando a autora relembra uma mensagem da sua mãe que ficou gravada no celular: \"queria te dar um beijo, estou com saudades\". O registro dessa voz, armazenado em um aparelho eletrônico, reproduzido por vários, salvo em uma nuvem, transforma-se no som mais precioso do mundo. (...) A tecnologia avança e alcança feitos inimagináveis, mas estamos sempre lidando com as mesmas emoções, a condição humana, a saudade, o amor e a dor.\nDisponível em: <https://diariodonordeste. verdesmares.com.br/opiniao/colunistas/socorro-acioli/ o-que-a-morte-nos-ensina-sobre-a-vida-1.3133433>. Acesso em: 9 Out 2021.\nInfere-se, do artigo de opinião acima, que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a expressão “sobre a força de sua presença” remete à ideia de que a presença da mãe está mais forte na carta do que nas mensagens do celular."
+        },
+        {
+          "letra": "B",
+          "texto": "o registro da voz da mãe de Noemi, salvo no celular, garante que a presença dela permaneça forte e real."
+        },
+        {
+          "letra": "C",
+          "texto": "o registro da voz da mãe de Noemi mostra-se precioso simplesmente por poder ser armazenado em nuvens, tornando-se mais seguro aos perigos de perda de dados na Internet."
+        },
+        {
+          "letra": "D",
+          "texto": "a tecnologia é poderosa para acabar com as dores do coração."
+        },
+        {
+          "letra": "E",
+          "texto": "a tecnologia é aliada no alívio da saudade, porém não é capaz de zerar esse sentimento."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Janela\nJanela, palavra linda\nJanela é o bater das asas da borboleta amarela.\nAbre pra fora as suas folhas de madeira à toa pintada,\njanela jeca, de azul.\nEu pulo você pra dentro e pra fora, monto a cavalo em você,\nmeu pé esbarra no chão.\nJanela sobre o mundo aberta, por onde vi\no casamento da Anita esperando neném, a mãe\ndo Pedro Cisterna urinando na chuva, por onde vi\nmeu bem chegar de bicicleta e dizer a meu pai:\nminhas intenções com sua filha são as melhores possíveis.\nÔ janela com tramela, brincadeira de ladrão,\nclaraboia na minha alma,\nolho no meu coração.\nPRADO. A. Poesia Reunida. Rio de Janeiro: Record, 2017\nNesse poema, o eu-lírico celebra a janela. Sobre esse objeto poético no texto, considere as assertivas a seguir.\nI. O elogio do objeto janela se revela a partir do próprio signo linguístico.\nII. A janela da afeição do eu-lírico é a de cor amarela como a da borboleta.\nIII. A janela no poema sugere o movimento dialético da própria vida.\nIV. A janela é denotativa e conotativamente um lugar de registro dos eventos da vida.\nÉ correto o que se afirma apenas em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II, III e IV."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "I, III e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "II, III e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "III e IV."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Análise de Poema"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "\"EU NÃO EXISTI\"\nMinha vida durante e depois da Covid-19\nQuando penso no que é a vida, recordo os versos pentassílabos de Gonçalves Dias, na Canção do Tamoio.\n\"Não chores, meu filho;\nNão chores, que a vida\nÉ luta renhida:\nViver é lutar.\nA vida é combate,\nQue os fracos abate,\nQue os fortes, os bravos\nSó pode exaltar.\"\nNuma quarta-feira, 8 de abril de 2020, eu fui intubado em decorrência de complicações trazidas pela Covid-19. (...) Sou diabético, hipertenso e fumei durante boa parte da vida. As lembranças que guardo são turvas. Dos dias de internação, antes de perder a consciência, me lembro de pouco. Sei que não tinha ânimo para ler nem para conversar, que sentia cansaço. E apaguei. Para usar uma expressão médica que ouvi muito, meus \"sensórios” estavam \"embotados\". Eu não sonhei, não me lembro de nada. Eu não existi. Minha memória mais concreta depois dessa internação data de quase um ano depois, o início de 2021. Nesse tempo todo, tive alta e voltei a ser internado três vezes. (...). Eu havia perdido a noção do tempo.(...) Tive receio de que a minha memória, que é excepcional, fosse afetada pela doença. Mas felizmente ela continua igual.\nSergio Bermudes\nDisponível em: <https://piaui.folha.uol.com.br/materia/eu-nao-existi/>. Acesso em: 11 Out 2021.\nCom base na leitura do depoimento de Sérgio Bermudes, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o verso \"viver é lutar\", de Gonçalves Dias, remonta, de forma direta, à ideia do trecho \"Eu havia perdido a noção do tempo\"."
+        },
+        {
+          "letra": "B",
+          "texto": "o verso \"viver é lutar\", de Gonçalves Dias, apresenta relação de contrariedade com \"Nesse tempo todo, tive alta e voltei a ser internado três vezes\"."
+        },
+        {
+          "letra": "C",
+          "texto": "os versos \"Que os fortes, os bravos, só pode exaltar\" correspondem ao trecho \"Tive receio de que a minha memória, que é excepcional, fosse afetada pela doença. Mas felizmente ela continua igual\"."
+        },
+        {
+          "letra": "D",
+          "texto": "os versos \"A vida é combate/ Que os fracos abate\" corresponde a “mas felizmente ela continua igual\"."
+        },
+        {
+          "letra": "E",
+          "texto": "a palavra \"embotados\" aparece no texto com sentido de firmes."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Intertextualidade",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "AMOR LÍQUIDO\nSobre a fragilidade dos laços humanos\nA era da modernidade líquida em que vivemos — um mundo repleto de sinais confusos, propenso a mudar com rapidez e de forma imprevisível - é fatal para nossa capacidade de amar, seja esse amor direcionado ao próximo, nosso parceiro ou a nós mesmos. Zygmunt Bauman, um dos mais originais e perspicazes sociólogos ainda em atividade, investiga aqui de que forma nossas relações tornam-se cada vez mais \"flexíveis\", gerando níveis de insegurança sempre maiores. Uma vez que damos prioridade a relacionamentos em \"redes\", as quais podem ser tecidas ou desmanchadas com igual facilidade e frequentemente sem que isso envolva nenhum contato além do virtual —, não sabemos mais manter laços a longo prazo. E não apenas relações amorosas e vínculos familiares são afetados: Bauman verifica ainda que nossa capacidade de tratar um estranho com humanidade é prejudicada. Como exemplo, ele examina a crise na atual política imigratória de diversos países da União Europeia e a forma como a sociedade tende a creditar seus medos, sempre crescentes, a estrangeiros e refugiados. Sensível e brilhante como de hábito, Zygmunt Bauman faz deste Amor líquido mais que uma mera e triste constatação, um alerta revigorante.\nBAUMAN, Zygmunt. Amor líquido: sobre a fragilidade dos laços humanos. Rio de Janeiro: Jorge Zahar, 2004.\nEm relação ao texto, considere as afirmações abaixo.\nI. O termo \"amor líquido\" alude a um conceito sobre a fragilidade das relações humanas.\nII. As relações se caracterizam pela solidez com tendência ao compromisso.\nIII. Na era da modernidade, o amor se tornou líquido e flui com vínculos afetivos estáveis.\nIV. As relações via \"redes” convertem-se em modelo que abrange a vida real.\nÉ correto apenas o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I."
+        },
+        {
+          "letra": "B",
+          "texto": "II."
+        },
+        {
+          "letra": "C",
+          "texto": "I e II."
+        },
+        {
+          "letra": "D",
+          "texto": "I e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "II e III."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Sociologia – Sociologia Contemporânea"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Pré-História\nMurilo Mendes\nMamãe vestida de rendas\nTocava piano no caos.\nUma noite abriu as asas\nCansada de tanto som,\nEquilibrou-se no azul,\nDe tonta não mais olhou\nPara mim, para ninguém:\nCai no álbum de retratos.\n\nCom base na leitura do poema Pré-História de Murilo Mendes, poeta brasileiro surrealista, pode-se inferir que o tema do poema é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a dupla jornada da mulher de acordo com o verso \"Tocava piano no caos\"."
+        },
+        {
+          "letra": "B",
+          "texto": "a emancipação da mulher, segundo o verso \"Uma noite abriu as asas\"."
+        },
+        {
+          "letra": "C",
+          "texto": "o abandono da família, conforme os versos “de tonta não mais olhou/Para mim, para ninguém\"."
+        },
+        {
+          "letra": "D",
+          "texto": "a decepção, de acordo com o verso \"Cansada de tanto som\"."
+        },
+        {
+          "letra": "E",
+          "texto": "a morte, segundo o verso \"Cai no álbum de retratos\""
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Análise de Poema",
+        "Literatura – Modernismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "A Sinédoque é o primeiro festival exclusivamente dedicado ao documentário brasileiro em curta-metragem do país. Com uma linguagem ágil e de impacto, de forma totalmente online, gratuita e independente, a Sinédoque tem a cara do seu tempo: democrática, acessível, inclusiva e diversa. Nossa missão é celebrar e popularizar o documentário brasileiro em curta-metragem.\nNo texto, ainda faz comparação da figura de linguagem Sinédoque ao ofício d@ documentarista, que representa o mundo pelo seu ponto de vista.\nDisponível em: <https://www.sinedoque.com.br/>. Acesso em: 28 Out 2021.\nDe acordo com o conteúdo exposto acima, a definição de sinédoque é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "figura de linguagem que apresenta o uso de uma palavra no lugar de outra, com a qual haja uma relação de sentido."
+        },
+        {
+          "letra": "B",
+          "texto": "figura de linguagem usada para atenuar algo grave de ser dito."
+        },
+        {
+          "letra": "C",
+          "texto": "figura de comparação explícita."
+        },
+        {
+          "letra": "D",
+          "texto": "figura de linguagem que faz uma comparação implícita, sem o elemento comparativo."
+        },
+        {
+          "letra": "E",
+          "texto": "figura de linguagem que faz a substituição de um termo por outro, ocorrendo redução ou ampliação do sentido."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "\"Quando resulta de descuidos ou de ignorância do verdadeiro sentido das palavras, o pleonasmo constitui defeito abominável. Entretanto, empregado com habilidade, realça sobremaneira a expressão das ideias.\"\nGARCIA, Othon M. Comunicação em Prosa Moderna Rio de Janeiro: FGV, 2010.\nA partir dessa explicação, pode-se dizer que há pleonasmo intencional para realçar a expressão das ideias em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"E rir meu riso e derramar meu pranto.\" (Vinicius de Moraes)"
+        },
+        {
+          "letra": "B",
+          "texto": "Havia uma multidão de pessoas no salão."
+        },
+        {
+          "letra": "C",
+          "texto": "“É preciso amor / Pra poder pulsar / É preciso paz pra poder sorrir / É preciso a chuva para florir\" (Tocando em Frente Almir Sater)"
+        },
+        {
+          "letra": "D",
+          "texto": "\"Por você eu largo tudo / Vou mendigar, roubar, matar / Até nas coisas mais banais / Pra mim é tudo ou nunca mais” (Exagerado - Cazuza)"
+        },
+        {
+          "letra": "E",
+          "texto": "Choveu uma chuva forte."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Leia o seguinte trecho.\n\"... era um refinado mentiroso, pronto a enganar qualquer um com a sua língua bífida, que, neste caso, segundo o dicionário privado do narrador desta história, significa traiçoeira, pérfida, aleivosa, desleal e outras lindezas semelhantes.\"\nSARAMAGO, J. Caim. São Paulo: Companhia das Letras, 2017.\nNesse trecho, o autor explica ao leitor a palavra por ele utilizada. Essa função da linguagem é conhecida como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "referencial"
+        },
+        {
+          "letra": "B",
+          "texto": "fática"
+        },
+        {
+          "letra": "C",
+          "texto": "emotiva"
+        },
+        {
+          "letra": "D",
+          "texto": "poética"
+        },
+        {
+          "letra": "E",
+          "texto": "metalinguística"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Funções da Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Dois Cavalos atravessa a ponte devagar, à velocidade mínima autorizada, para dar ao espanhol tempo de admirar a beleza das paisagens de terra e mar, e também a grandiosa obra de engenharia que liga as duas margens do rio, esta construção, falamos da frase, é perifrástica, usámo-la só para não repetirmos a palavra ponte, de que resultaria solecismo, da espécie pleonástica ou redundante.\nSARAMAGO, J. In: A jangada de Pedra. São Paulo: Companhia das Letras, 1988.\n*grafia preservada do português de Portugal.\nA partir dos esclarecimentos acerca da escrita nesse fragmento, pode-se dizer que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ao esclarecer o termo \"construção\", o autor evita uma ambiguidade."
+        },
+        {
+          "letra": "B",
+          "texto": "ao substituir a palavra \"ponte\", o autor usou a catáfora como recurso coesivo."
+        },
+        {
+          "letra": "C",
+          "texto": "ao optar por não repetir a palavra \"ponte\", o autor rompe com a ênfase da frase."
+        },
+        {
+          "letra": "D",
+          "texto": "ao evitar solecismo na frase, o autor demonstra domínio das técnicas da narrativa."
+        },
+        {
+          "letra": "E",
+          "texto": "ao justificar a frase perifrástica, o autor revela cuidado apenas com o conteúdo da frase."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Coesão e Coerência"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Numa era conturbada, onde a tecnologia testa os limites da ciência e uma pandemia pôs o planeta em xeque, Manes convida à introspecção: “A maior força para o presente e para o futuro não é o computador mais sofisticado ou ter dinheiro ou poder, e sim pensarmos como humanos para combater a mudança climática, a desigualdade e enfrentar os grandes desafios da humanidade\".\nDisponível em: <https://brasil.elpais.com/ciencia/2021-09-29/ em-cinco-anos-passar-o-dia-no-whatsapp-sera-tao- mal-visto-quanto-fumar-num-aviao.html?ssm=IG_BR_ CM&utm_campaign=later-linkinbio-elpaisbrasil&utm_ content=later21143817&utm_medium=social&utm_source=linkin.bio >. Acesso em: 11 Out 2021.\nA respeito do uso do \"onde\" no trecho, marque a opção correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Está adequado porque se refere a um período em que a tecnologia reina."
+        },
+        {
+          "letra": "B",
+          "texto": "Está inadequado porque não apresenta antecedente locativo."
+        },
+        {
+          "letra": "C",
+          "texto": "Está inadequado porque há erro de grafia. O adequado seria \"aonde”."
+        },
+        {
+          "letra": "D",
+          "texto": "Está adequado porque está sendo usado como pronome relativo."
+        },
+        {
+          "letra": "E",
+          "texto": "Está inadequado porque não aparece como advérbio de lugar."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Gramática",
+        "Língua Portuguesa – Pronomes Relativos"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Em Defesa dos Adjetivos\nMuitas vezes nos mandam cortar nossos adjetivos. O bom estilo, conforme dizem, sobrevive perfeitamente sem eles; bastariam o resistente arco dos substantivos e a flecha dinâmica e onipresente dos verbos. Contudo, um mundo sem adjetivos é triste como um hospital no domingo. A luz azul se infiltra pelas janelas frias, as lâmpadas fluorescentes emitem um murmúrio débil.\nSubstantivos e verbos bastam apenas a soldados e líderes de países totalitários. Pois o adjetivo é o imprescindível avalista da individualidade de pessoas e coisas. [...]\nO adjetivo está para a língua assim como a cor para a pintura. [...]\n[...]\nVida longa ao adjetivo! Pequeno ou grande, esquecido ou corrente. Precisamos de você, esbelto e maleável adjetivo que repousa delicadamente sobre coisas e pessoas e cuida para que elas não percam o gosto revigorante da individualidade. [...]\n[...] A memória é feita de adjetivos. Uma rua comprida, um dia abrasador de agosto, o portão rangente que dá para um jardim e ali, em meio aos pés de groselha cobertos pelo pó do verão, os teus dedos despachados... (tudo bem, teus é pronome possessivo).\nAdam Zagajewski\nPoeta, ensaísta e romancista polonês, publicou Another Beauty, sem edição no Brasil.\nDisponível em: https://piaui.folha.uol.com.br/ materia/em-defesa-dos-adjetivos/\nO adjetivo pode exercer diferentes funções sintáticas. Assinale a alternativa em que o adjetivo destacado está corretamente classificado.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Um mundo sem adjetivos é triste como um hospital no domingo.\" (Adjunto adnominal)"
+        },
+        {
+          "letra": "B",
+          "texto": "Aquele rapaz triste foi ao hospital no domingo. (Predicativo do sujeito)"
+        },
+        {
+          "letra": "C",
+          "texto": "“A luz azul se infiltra pelas janelas frias” (Adjunto adnominal)"
+        },
+        {
+          "letra": "D",
+          "texto": "As noites frias são agradáveis. (Predicativo do sujeito)"
+        },
+        {
+          "letra": "E",
+          "texto": "Aquela luz é azul. (Adjunto adnominal)"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Classes de Palavras"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "Leia o texto a seguir:\nIt was evening. Francisco was very nervous. It was his graduation day. Yes, the ceremony was ___1 12th December. He was extremely happy because it was going to be ___2 a Saturday, his relatives were going to be there. He woke up early ___3 the morning, checked the invitations, arrived ___4 Unifor ___5 6:00 p.m, talked to his professors and friends and enjoyed the celebration. What a night!\nA opção que preenche corretamente as lacunas, quando necessário, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "on1; over2; in³; at4; at5"
+        },
+        {
+          "letra": "B",
+          "texto": "at1; in²; on³; on4; in5"
+        },
+        {
+          "letra": "C",
+          "texto": "in1; in²; on3 ; ___4; at5"
+        },
+        {
+          "letra": "D",
+          "texto": "___1; on2; at3; in4; in5"
+        },
+        {
+          "letra": "E",
+          "texto": "on1; on2; in3; at4; at5"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Preposições"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "Leia os versos de Easy on Me a seguir.\nThere ain't no gold in this river\nThat I've been washing my hands in forever\nI know there is hope in these waters\nBut I can't bring myself to swim\nWhen I am drowning in the silence...\nDe acordo com os versos de Easy on Me, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A música apresenta sua vontade de continuar a lutar por sua felicidade e ver o brilho da vida."
+        },
+        {
+          "letra": "B",
+          "texto": "A música apresenta a esperança em novos rumos nas águas douradas onde lavava suas mãos no passado."
+        },
+        {
+          "letra": "C",
+          "texto": "Embora tenha esperança em momentos melhores, a cantora não se sente apta a lutar por sua felicidade no momento de dor."
+        },
+        {
+          "letra": "D",
+          "texto": "A letra mostra a vontade de seguir em frente, porém a inabilidade de nadar impede a cantora de seguir."
+        },
+        {
+          "letra": "E",
+          "texto": "A música apresenta o mergulho nas águas douradas do verão e o medo de se afogar silenciosamente."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Ainda considerando a música Easy on Me, analise o seguinte trecho:\nI can't bring myself to swim\nYou can't deny how hard I've tried\nA opção que melhor expressa o uso de CAN'T desses versos da canção é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ausência de obrigação."
+        },
+        {
+          "letra": "B",
+          "texto": "Ausência de Intenção."
+        },
+        {
+          "letra": "C",
+          "texto": "Ausência de planos."
+        },
+        {
+          "letra": "D",
+          "texto": "Impossibilidade."
+        },
+        {
+          "letra": "E",
+          "texto": "Proibição."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Verbos Modais"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "Leia a tirinha e marque a resposta correta.\n\"I will walk with you forever.\"\nO uso do verbo modal “will” (I will walk...) na sentença acima significa:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Plano."
+        },
+        {
+          "letra": "B",
+          "texto": "Conselho."
+        },
+        {
+          "letra": "C",
+          "texto": "Promessa."
+        },
+        {
+          "letra": "D",
+          "texto": "Permissão."
+        },
+        {
+          "letra": "E",
+          "texto": "Probabilidade."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Verbos Modais"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "Leia o texto Skyscraper Constructione a seguir.\nSkyscrapers start with a very large hole in the ground which will contain the foundations, several floors, and possibly even a metro or subway station. The type of foundations depend on the nature of the ground. Usually they are made by drilling narrow, deep holes and filling them with reinforced concrete to form piles. Another method is to drive steel piles, as much as twenty meters in length, into the ground. A thick raft of concrete is laid on top of the piles.\nVertical steel columns are bolted to the foundations. Each column rests on a platform of steel to spread the load. Steel girders are fixed horizontally from column to column by Steel Erectors to form a strong framework. Metal decking is laid across the girders and filled with lightweight liquid concrete which is pumped up from the ground. When it sets, it forms the floors.\nDucts are installed below the floors to carry all services: electricity, water, drains. All exposed metalwork is fireproofed. If a fire happens, it is important that the structure can withstand high temperatures without buckling.\nThe same process is repeated as the building rises. In some construction methods, entire floors are built at ground level and hoisted in position by cranes.\nThe outside of the building is covered in cladding. This consists of prefabricated panels of materials such as stainless steel, aluminium, and glass.\nApós sua leitura, pode-se concluir que o texto",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "trata da apresentação dos métodos seguidos na construção das fundações de um prédio."
+        },
+        {
+          "letra": "B",
+          "texto": "apresenta os principais processos seguidos na construção de um prédio – da escavação da fundação até o processo da construção do último andar."
+        },
+        {
+          "letra": "C",
+          "texto": "descreve a importância do material usado, das vigas de aço e do uso de cimento, no planejamento de cada andar."
+        },
+        {
+          "letra": "D",
+          "texto": "apresenta a importância de lajes pré-fabricadas para proteção dos operários da construção e aceleração da obra."
+        },
+        {
+          "letra": "E",
+          "texto": "descreve o trabalho desenvolvido por uma empresa de engenharia na construção de mais um prédio."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "The Nobel Prize in Chemistry 2021 Goes to Benjamin List and David W. C. MacMillan\nJesse Stanchak(2 weeks ago)\nThe Nobel Prize in Chemistry 2021 is awarded jointly to Benjamin List and David W. C. MacMillan for their work in \"the development of asymmetric organocatalysis,\" a method that uses small organic molecules as catalysts instead of enzymes or metals. This innovation in molecular construction has led to catalysts that are less expensive and more environmentally friendly, while also opening up new pathways in pharmaceutical research.\n\"Asymmetric organocatalysis offers a new way of thinking and a more sustainable way of carrying out crucial chemical reactions,\" said ACS President H. N. Cheng. \"In the big picture, the ability to create new compounds to address human problems is the strength of chemistry. Chemists are like magicians, and with asymmetric organocatalysis, we have a new magic wand for making important drugs.\"\nBoth winners have long histories with the ACS. List has been a member of ACS for 21 years; MacMillan for 26. List has been honored by the ACS with both the 2022 Herbert C. Brown Award for Creative Research in Synthetic Methods and the Arthur C. Cope Scholar Award in 2014. MacMillan won the Gabor A. Somorjai Award for Creative Research in Catalysis in 2018, the ACS Award for Creative Work in Synthetic Organic Chemistry in 2011, the Arthur C. Cope Scholar Award in 2007, and the Elias J. Corey Award for Outstanding Original Contribution in Organic Synthesis by a Young Investigator in 2005.\nBenjamin List and David W. C. MacMillan have each published many articles in ACS Publications journal over the years. The following articles from each of the laureates will be made free-to-read for 30 days, starting October 6, 2021, in honor of their win....\nhttps://axial.acs.org/2021/10/06/the-nobel-prize-in-chemistry-2021-goes-to-benjamin-list-and-david-w-c-macmillan/?gclid=CjwKCAjw2bmLBhBREiwAZ6ugo2x7mgD7\nDe acordo com o texto, analise as afirmativas a seguir:\nI. O grande feito da pesquisa é a substituição dos catalizadores (enzimas ou metais) por pequenas moléculas orgânicas para desempenhar a mesma função.\nII. List e MacMillian foram membros da ACS por 21 anos e 26 anos, respectivamente.\nIII. Os dois laureados já conquistaram o mesmo número de prêmios.\nIV. Os laureados publicaram muitos artigos para a ACS há um longo tempo atrás.\nV. O período de disponibilidade dos artigos dos dois autores para leitura sem pagamento: 06 de outubro à 06 de novembro.\nÉ correto apenas o que se afirma em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e V."
+        },
+        {
+          "letra": "B",
+          "texto": "II, III e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "I, III e V."
+        },
+        {
+          "letra": "D",
+          "texto": "II e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "I, IV e V."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    }
+  ]
+}

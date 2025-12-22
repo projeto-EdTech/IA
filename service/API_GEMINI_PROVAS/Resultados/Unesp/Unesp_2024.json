@@ -1,0 +1,616 @@
+{
+  "nomeUniversidade": "Universidade Estadual Paulista",
+  "siglaUniversidade": "UNESP",
+  "nomeProva": "Prova de Conhecimentos Gerais",
+  "ano": 2024,
+  "qtdeQuestoes": 90,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Para responder às questões de 01 a 05, leia a crônica \"Despedida\", de Carlos Drummond de Andrade (1902-1987), publicada originalmente no Jornal do Brasil em 05.06.1971, e a resposta de Edson Arantes do Nascimento (1940-2022), o Pelé, publicada no mesmo jornal em 29.06.1971.\n\nPelé despede-se em julho da Seleção Brasileira. Decidiu, está decidido. Querem que ele continue, mas sua educação esportiva se dilata em educação moral, e Pelé dá muito apreço à sua palavra. Se atender aos apelos, ficará bem com todo o mundo e mal consigo. Pelé não quer brigar com Pelé. Não abandonará de todo o futebol, pois continuará jogando pelo seu clube. Não vejo contradição nisto. Faz como um grande proprietário de terras, que trocasse a fazenda pela miniatura de um sítio: continua a ter águas, plantas, criação, a mesma luminosidade das horas — menos a imensidão, que acaba cansando. Ou como o leitor de muitos livros, que passasse a ler um só que contém o resumo de tudo. Pelé quer cultivar sua vida a seu gosto, ele que a vivia tanto ao gosto dos outros. Sua municipalização voluntária me encanta. Não é só pelo ato de sabedoria, que é sair antes que exijam a nossa saída. Uma atitude destas indica mais cautela do que desprendimento. É pelo ato de escolha — de escolher o mais simples, envolvendo renúncia e gentileza. As massas brasileiras e internacionais não poderão chamá-lo de ingrato, pois continuarão a vê-lo, aqui e no estrangeiro, em seu jogo de astúcia e arte. Mas ele passará a jogar como particular, um famoso incógnito, que não aspira às glórias de um quarto campeonato mundial. E com isso, dará lugar a outro, ou a outros, que por mais que caprichassem ficavam sempre um tanto encobertos pela sombra de Pelé — a sombra de que espontaneamente se desfaz. Bela jogada, a sua: a de não jogar como campeão, sendo campeoníssimo.\n(Carlos Drummond de Andrade. Quando é dia de futebol, 2014.)\n\nEstou comovido. Entre tantas coisas que dizem a meu respeito, generosas ou menos boas, suas palavras tiveram a rara virtude de se lembrarem do homem, da pessoa humana que quero ser, demonstrando compreensão e carinho por essa condição fundamental. Recortei sua crônica, não porque fala de mim, mas porque traduz, no primor de seu estilo, um apoio que me incentiva e me conforta.\n(Pelé apud Carlos Drummond de Andrade. Quando é dia de futebol, 2014.)\n\nDe acordo com Drummond, Pelé",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "contribuiria para a educação moral dos brasileiros, se renunciasse à sua vida pessoal."
+        },
+        {
+          "letra": "B",
+          "texto": "seria chamado de ingrato, se trocasse seu clube pela Seleção Brasileira."
+        },
+        {
+          "letra": "C",
+          "texto": "deveria priorizar sua vida pessoal, abandonando definitivamente o futebol."
+        },
+        {
+          "letra": "D",
+          "texto": "ficaria mal consigo mesmo, se atendesse aos apelos da torcida brasileira."
+        },
+        {
+          "letra": "E",
+          "texto": "poderia jogar em seu clube, sem precisar abandonar a Seleção Brasileira."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Para responder às questões de 01 a 05, leia a crônica \"Despedida\", de Carlos Drummond de Andrade (1902-1987), publicada originalmente no Jornal do Brasil em 05.06.1971, e a resposta de Edson Arantes do Nascimento (1940-2022), o Pelé, publicada no mesmo jornal em 29.06.1971.\n\nPelé despede-se em julho da Seleção Brasileira. Decidiu, está decidido. Querem que ele continue, mas sua educação esportiva se dilata em educação moral, e Pelé dá muito apreço à sua palavra. Se atender aos apelos, ficará bem com todo o mundo e mal consigo. Pelé não quer brigar com Pelé. Não abandonará de todo o futebol, pois continuará jogando pelo seu clube. Não vejo contradição nisto. Faz como um grande proprietário de terras, que trocasse a fazenda pela miniatura de um sítio: continua a ter águas, plantas, criação, a mesma luminosidade das horas — menos a imensidão, que acaba cansando. Ou como o leitor de muitos livros, que passasse a ler um só que contém o resumo de tudo. Pelé quer cultivar sua vida a seu gosto, ele que a vivia tanto ao gosto dos outros. Sua municipalização voluntária me encanta. Não é só pelo ato de sabedoria, que é sair antes que exijam a nossa saída. Uma atitude destas indica mais cautela do que desprendimento. É pelo ato de escolha — de escolher o mais simples, envolvendo renúncia e gentileza. As massas brasileiras e internacionais não poderão chamá-lo de ingrato, pois continuarão a vê-lo, aqui e no estrangeiro, em seu jogo de astúcia e arte. Mas ele passará a jogar como particular, um famoso incógnito, que não aspira às glórias de um quarto campeonato mundial. E com isso, dará lugar a outro, ou a outros, que por mais que caprichassem ficavam sempre um tanto encobertos pela sombra de Pelé — a sombra de que espontaneamente se desfaz. Bela jogada, a sua: a de não jogar como campeão, sendo campeoníssimo.\n(Carlos Drummond de Andrade. Quando é dia de futebol, 2014.)\n\nEstou comovido. Entre tantas coisas que dizem a meu respeito, generosas ou menos boas, suas palavras tiveram a rara virtude de se lembrarem do homem, da pessoa humana que quero ser, demonstrando compreensão e carinho por essa condição fundamental. Recortei sua crônica, não porque fala de mim, mas porque traduz, no primor de seu estilo, um apoio que me incentiva e me conforta.\n(Pelé apud Carlos Drummond de Andrade. Quando é dia de futebol, 2014.)\n\nNo contexto da crônica, referem-se à Seleção Brasileira, em termos figurados, as seguintes expressões:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"grande proprietário de terras\" e \"leitor de muitos livros\"."
+        },
+        {
+          "letra": "B",
+          "texto": "\"fazenda\" e \"imensidão”."
+        },
+        {
+          "letra": "C",
+          "texto": "\"miniatura\" e \"resumo\"."
+        },
+        {
+          "letra": "D",
+          "texto": "\"fazenda\" e \"sítio\"."
+        },
+        {
+          "letra": "E",
+          "texto": "\"miniatura\" e \"imensidão”."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Para responder às questões de 01 a 05, leia a crônica \"Despedida\", de Carlos Drummond de Andrade (1902-1987), publicada originalmente no Jornal do Brasil em 05.06.1971, e a resposta de Edson Arantes do Nascimento (1940-2022), o Pelé, publicada no mesmo jornal em 29.06.1971.\n\nPelé despede-se em julho da Seleção Brasileira. Decidiu, está decidido. Querem que ele continue, mas sua educação esportiva se dilata em educação moral, e Pelé dá muito apreço à sua palavra. Se atender aos apelos, ficará bem com todo o mundo e mal consigo. Pelé não quer brigar com Pelé. Não abandonará de todo o futebol, pois continuará jogando pelo seu clube. Não vejo contradição nisto. Faz como um grande proprietário de terras, que trocasse a fazenda pela miniatura de um sítio: continua a ter águas, plantas, criação, a mesma luminosidade das horas — menos a imensidão, que acaba cansando. Ou como o leitor de muitos livros, que passasse a ler um só que contém o resumo de tudo. Pelé quer cultivar sua vida a seu gosto, ele que a vivia tanto ao gosto dos outros. Sua municipalização voluntária me encanta. Não é só pelo ato de sabedoria, que é sair antes que exijam a nossa saída. Uma atitude destas indica mais cautela do que desprendimento. É pelo ato de escolha — de escolher o mais simples, envolvendo renúncia e gentileza. As massas brasileiras e internacionais não poderão chamá-lo de ingrato, pois continuarão a vê-lo, aqui e no estrangeiro, em seu jogo de astúcia e arte. Mas ele passará a jogar como particular, um famoso incógnito, que não aspira às glórias de um quarto campeonato mundial. E com isso, dará lugar a outro, ou a outros, que por mais que caprichassem ficavam sempre um tanto encobertos pela sombra de Pelé — a sombra de que espontaneamente se desfaz. Bela jogada, a sua: a de não jogar como campeão, sendo campeoníssimo.\n(Carlos Drummond de Andrade. Quando é dia de futebol, 2014.)\n\nEstou comovido. Entre tantas coisas que dizem a meu respeito, generosas ou menos boas, suas palavras tiveram a rara virtude de se lembrarem do homem, da pessoa humana que quero ser, demonstrando compreensão e carinho por essa condição fundamental. Recortei sua crônica, não porque fala de mim, mas porque traduz, no primor de seu estilo, um apoio que me incentiva e me conforta.\n(Pelé apud Carlos Drummond de Andrade. Quando é dia de futebol, 2014.)\n\nEm sua resposta, Pelé mostra-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "constrangido por ter sido objeto de uma crônica de um dos maiores escritores brasileiros."
+        },
+        {
+          "letra": "B",
+          "texto": "emocionado pelo fato de Drummond ter enaltecido sua grandeza como jogador."
+        },
+        {
+          "letra": "C",
+          "texto": "sensibilizado pelo fato de Drummond ter sabido separar o homem do esportista."
+        },
+        {
+          "letra": "D",
+          "texto": "consternado por Drummond ter deliberadamente ignorado sua vida pessoal."
+        },
+        {
+          "letra": "E",
+          "texto": "surpreso pelo fato de Drummond evitar demovê-lo de sua decisão de abandonar o futebol."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Para responder às questões de 01 a 05, leia a crônica \"Despedida\", de Carlos Drummond de Andrade (1902-1987), publicada originalmente no Jornal do Brasil em 05.06.1971, e a resposta de Edson Arantes do Nascimento (1940-2022), o Pelé, publicada no mesmo jornal em 29.06.1971.\n\nPelé despede-se em julho da Seleção Brasileira. Decidiu, está decidido. Querem que ele continue, mas sua educação esportiva se dilata em educação moral, e Pelé dá muito apreço à sua palavra. Se atender aos apelos, ficará bem com todo o mundo e mal consigo. Pelé não quer brigar com Pelé. Não abandonará de todo o futebol, pois continuará jogando pelo seu clube. Não vejo contradição nisto. Faz como um grande proprietário de terras, que trocasse a fazenda pela miniatura de um sítio: continua a ter águas, plantas, criação, a mesma luminosidade das horas — menos a imensidão, que acaba cansando. Ou como o leitor de muitos livros, que passasse a ler um só que contém o resumo de tudo. Pelé quer cultivar sua vida a seu gosto, ele que a vivia tanto ao gosto dos outros. Sua municipalização voluntária me encanta. Não é só pelo ato de sabedoria, que é sair antes que exijam a nossa saída. Uma atitude destas indica mais cautela do que desprendimento. É pelo ato de escolha — de escolher o mais simples, envolvendo renúncia e gentileza. As massas brasileiras e internacionais não poderão chamá-lo de ingrato, pois continuarão a vê-lo, aqui e no estrangeiro, em seu jogo de astúcia e arte. Mas ele passará a jogar como particular, um famoso incógnito, que não aspira às glórias de um quarto campeonato mundial. E com isso, dará lugar a outro, ou a outros, que por mais que caprichassem ficavam sempre um tanto encobertos pela sombra de Pelé — a sombra de que espontaneamente se desfaz. Bela jogada, a sua: a de não jogar como campeão, sendo campeoníssimo.\n(Carlos Drummond de Andrade. Quando é dia de futebol, 2014.)\n\nEstou comovido. Entre tantas coisas que dizem a meu respeito, generosas ou menos boas, suas palavras tiveram a rara virtude de se lembrarem do homem, da pessoa humana que quero ser, demonstrando compreensão e carinho por essa condição fundamental. Recortei sua crônica, não porque fala de mim, mas porque traduz, no primor de seu estilo, um apoio que me incentiva e me conforta.\n(Pelé apud Carlos Drummond de Andrade. Quando é dia de futebol, 2014.)\n\nDo ponto de vista semântico, opõem-se os termos que compõem a seguinte expressão:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"famoso incógnito\" (Drummond)."
+        },
+        {
+          "letra": "B",
+          "texto": "\"pessoa humana\" (Pelé)."
+        },
+        {
+          "letra": "C",
+          "texto": "\"condição fundamental\" (Pelé)."
+        },
+        {
+          "letra": "D",
+          "texto": "\"rara virtude\" (Pelé)."
+        },
+        {
+          "letra": "E",
+          "texto": "\"educação moral” (Drummond)."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Para responder às questões de 01 a 05, leia a crônica \"Despedida\", de Carlos Drummond de Andrade (1902-1987), publicada originalmente no Jornal do Brasil em 05.06.1971, e a resposta de Edson Arantes do Nascimento (1940-2022), o Pelé, publicada no mesmo jornal em 29.06.1971.\n\nPelé despede-se em julho da Seleção Brasileira. Decidiu, está decidido. Querem que ele continue, mas sua educação esportiva se dilata em educação moral, e Pelé dá muito apreço à sua palavra. Se atender aos apelos, ficará bem com todo o mundo e mal consigo. Pelé não quer brigar com Pelé. Não abandonará de todo o futebol, pois continuará jogando pelo seu clube. Não vejo contradição nisto. Faz como um grande proprietário de terras, que trocasse a fazenda pela miniatura de um sítio: continua a ter águas, plantas, criação, a mesma luminosidade das horas — menos a imensidão, que acaba cansando. Ou como o leitor de muitos livros, que passasse a ler um só que contém o resumo de tudo. Pelé quer cultivar sua vida a seu gosto, ele que a vivia tanto ao gosto dos outros. Sua municipalização voluntária me encanta. Não é só pelo ato de sabedoria, que é sair antes que exijam a nossa saída. Uma atitude destas indica mais cautela do que desprendimento. É pelo ato de escolha — de escolher o mais simples, envolvendo renúncia e gentileza. As massas brasileiras e internacionais não poderão chamá-lo de ingrato, pois continuarão a vê-lo, aqui e no estrangeiro, em seu jogo de astúcia e arte. Mas ele passará a jogar como particular, um famoso incógnito, que não aspira às glórias de um quarto campeonato mundial. E com isso, dará lugar a outro, ou a outros, que por mais que caprichassem ficavam sempre um tanto encobertos pela sombra de Pelé — a sombra de que espontaneamente se desfaz. Bela jogada, a sua: a de não jogar como campeão, sendo campeoníssimo.\n(Carlos Drummond de Andrade. Quando é dia de futebol, 2014.)\n\nEstou comovido. Entre tantas coisas que dizem a meu respeito, generosas ou menos boas, suas palavras tiveram a rara virtude de se lembrarem do homem, da pessoa humana que quero ser, demonstrando compreensão e carinho por essa condição fundamental. Recortei sua crônica, não porque fala de mim, mas porque traduz, no primor de seu estilo, um apoio que me incentiva e me conforta.\n(Pelé apud Carlos Drummond de Andrade. Quando é dia de futebol, 2014.)\n\n• \"Ou como o leitor de muitos livros, que passasse a ler um só que contém o resumo de tudo.\" (Drummond)\n• \"E com isso, dará lugar a outro, ou a outros, que por mais que caprichassem ficavam sempre um tanto encobertos pela sombra de Pelé — a sombra de que espontaneamente se desfaz.\" (Drummond)\n\nOs termos sublinhados referem-se, respectivamente, a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"livros\" e \"Pelé”."
+        },
+        {
+          "letra": "B",
+          "texto": "\"um\" e \"sombra\"."
+        },
+        {
+          "letra": "C",
+          "texto": "\"livros\" e \"sombra\"."
+        },
+        {
+          "letra": "D",
+          "texto": "\"um\" e \"Pelé”."
+        },
+        {
+          "letra": "E",
+          "texto": "\"leitor\" e \"Pelé”."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Coesão Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Examine a tirinha da cartunista Laerte.\n\n(Laerte. O voo da Lola, 2021.)\n\nNa construção de sua tirinha, Laerte mobiliza fundamentalmente o seguinte recurso expressivo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "hipérbole."
+        },
+        {
+          "letra": "B",
+          "texto": "redundância."
+        },
+        {
+          "letra": "C",
+          "texto": "ambiguidade."
+        },
+        {
+          "letra": "D",
+          "texto": "intertextualidade."
+        },
+        {
+          "letra": "E",
+          "texto": "eufemismo."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Intertextualidade",
+        "Língua Portuguesa – Gêneros Textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Para responder às questões 07 e 08, leia a letra da canção \"Foi um rio que passou em minha vida\", de Paulinho da Viola, gravada em 1970.\n\nSe um dia\nMeu coração for consultado\nPara saber se andou errado\nSerá difícil negar\nMeu coração tem mania de amor\nAmor não é fácil de achar\nA marca dos meus desenganos ficou, ficou\nSó um amor pode apagar\n\nPorém\nHá um caso diferente\nQue marcou um breve tempo\nMeu coração para sempre\nEra dia de carnaval\nEu carregava uma tristeza\nNão pensava em novo amor\nQuando alguém que não me lembro anunciou\nPortela ¹, Portela\nO samba trazendo alvorada\nMeu coração conquistou\n\nAh, minha Portela\nQuando vi você passar\nSenti meu coração apressado\nTodo o meu corpo tomado\nMinha alegria a voltar\nNão posso definir aquele azul\nNão era do céu\nNem era do mar\nFoi um rio que passou em minha vida\nE meu coração se deixou levar\n(www.paulinhodaviola.com.br)\n\n¹ Grêmio Recreativo Escola de Samba Portela (ou simplesmente Portela): escola de samba brasileira da cidade do Rio de Janeiro que adota como símbolo a águia e as cores azul e branco.\n\nNa canção, o eu lírico",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "tem consciência de que a Portela também se caracteriza como um novo desengano."
+        },
+        {
+          "letra": "B",
+          "texto": "acredita que um novo amor, por se assemelhar a um rio, mostra-se volúvel."
+        },
+        {
+          "letra": "C",
+          "texto": "acredita que um novo amor seja capaz de apagar uma antiga desilusão amorosa."
+        },
+        {
+          "letra": "D",
+          "texto": "tem consciência de que a Portela, por sua inconstância, será um novo amor efêmero."
+        },
+        {
+          "letra": "E",
+          "texto": "acredita que a Portela, por ser indefinível, não se caracteriza como um novo amor."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Para responder às questões 07 e 08, leia a letra da canção \"Foi um rio que passou em minha vida\", de Paulinho da Viola, gravada em 1970.\n\nSe um dia\nMeu coração for consultado\nPara saber se andou errado\nSerá difícil negar\nMeu coração tem mania de amor\nAmor não é fácil de achar\nA marca dos meus desenganos ficou, ficou\nSó um amor pode apagar\n\nPorém\nHá um caso diferente\nQue marcou um breve tempo\nMeu coração para sempre\nEra dia de carnaval\nEu carregava uma tristeza\nNão pensava em novo amor\nQuando alguém que não me lembro anunciou\nPortela ¹, Portela\nO samba trazendo alvorada\nMeu coração conquistou\n\nAh, minha Portela\nQuando vi você passar\nSenti meu coração apressado\nTodo o meu corpo tomado\nMinha alegria a voltar\nNão posso definir aquele azul\nNão era do céu\nNem era do mar\nFoi um rio que passou em minha vida\nE meu coração se deixou levar\n(www.paulinhodaviola.com.br)\n\n¹ Grêmio Recreativo Escola de Samba Portela (ou simplesmente Portela): escola de samba brasileira da cidade do Rio de Janeiro que adota como símbolo a águia e as cores azul e branco.\n\nConsiderando o contexto em que se insere, está reescrito em ordem direta o seguinte verso da canção:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Meu coração conquistou\" (2ª estrofe) → conquistou meu coração"
+        },
+        {
+          "letra": "B",
+          "texto": "\"Meu coração for consultado\" (1ª estrofe) → for consultado meu coração"
+        },
+        {
+          "letra": "C",
+          "texto": "“Só um amor pode apagar\" (1ª estrofe) → pode apagar só um amor"
+        },
+        {
+          "letra": "D",
+          "texto": "“Há um caso diferente\" (2ª estrofe) → um caso diferente há"
+        },
+        {
+          "letra": "E",
+          "texto": "\"Senti meu coração apressado\" (3ª estrofe) → meu coração senti apressado"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Analise o meme publicado pelo perfil \"Classical Damn” no Instagram em 02.07.2021.\n\nRomans: \"Can we copy your god?\"\nGreeks: \"Yeah just change it up a bit so it doesn’t look obvious you copied\"\nRomans: \"Ok\"\n\nA análise do meme permite caracterizar",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os romanos como extravagantes."
+        },
+        {
+          "letra": "B",
+          "texto": "os gregos como intransigentes."
+        },
+        {
+          "letra": "C",
+          "texto": "os gregos como distraídos."
+        },
+        {
+          "letra": "D",
+          "texto": "os romanos como inventivos."
+        },
+        {
+          "letra": "E",
+          "texto": "os romanos como preguiçosos."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Gêneros Textuais",
+        "História – Roma Antiga",
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Para responder às questões de 10 a 12, leia a fábula árabe \"Um cachorro e um abutre\", cuja autoria é desconhecida.\n\nCerta feita, um cachorro roubou um naco de carne de um abatedouro e correu em direção ao rio, em cujas águas viu o reflexo do naco de carne, bem maior do que o naco que carregava. Largou-o então, e um abutre desceu e agarrou a carne, enquanto o cachorro corria atrás do naco maior, mas nada encontrou. Retornou para pegar a carne que antes carregava, mas também não a encontrou. Pensou então: “A ilusão me fez perder o bom senso, e acabei sem aquilo que eu já tinha por ir atrás daquilo que eu não alcançaria.\"\n(Mamede Jarouche (org.). Fábulas árabes: do período pré-islâmico ao século XVII, 2021.)\n\nImplícito à fábula está um elogio",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ao altruísmo."
+        },
+        {
+          "letra": "B",
+          "texto": "ao devaneio."
+        },
+        {
+          "letra": "C",
+          "texto": "à resiliência."
+        },
+        {
+          "letra": "D",
+          "texto": "à temperança."
+        },
+        {
+          "letra": "E",
+          "texto": "à ambição."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Para responder às questões de 10 a 12, leia a fábula árabe \"Um cachorro e um abutre\", cuja autoria é desconhecida.\n\nCerta feita, um cachorro roubou um naco de carne de um abatedouro e correu em direção ao rio, em cujas águas viu o reflexo do naco de carne, bem maior do que o naco que carregava. Largou-o então, e um abutre desceu e agarrou a carne, enquanto o cachorro corria atrás do naco maior, mas nada encontrou. Retornou para pegar a carne que antes carregava, mas também não a encontrou. Pensou então: “A ilusão me fez perder o bom senso, e acabei sem aquilo que eu já tinha por ir atrás daquilo que eu não alcançaria.\"\n(Mamede Jarouche (org.). Fábulas árabes: do período pré-islâmico ao século XVII, 2021.)\n\n\"Pensou então: 'A ilusão me fez perder o bom senso [...].\"\n\nAo se transpor esse trecho para o discurso indireto, os termos sublinhados assumem, respectivamente, as seguintes formas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"o\" e \"faria\"."
+        },
+        {
+          "letra": "B",
+          "texto": "\"o\" e \"fizera\"."
+        },
+        {
+          "letra": "C",
+          "texto": "\"lhe\" e \"fizesse\"."
+        },
+        {
+          "letra": "D",
+          "texto": "\"te\" e \"faz”."
+        },
+        {
+          "letra": "E",
+          "texto": "\"lhe\" e \"fazia”."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Discurso Direto e Indireto"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Para responder às questões de 10 a 12, leia a fábula árabe \"Um cachorro e um abutre\", cuja autoria é desconhecida.\n\nCerta feita, um cachorro roubou um naco de carne de um abatedouro e correu em direção ao rio, em cujas águas viu o reflexo do naco de carne, bem maior do que o naco que carregava. Largou-o então, e um abutre desceu e agarrou a carne, enquanto o cachorro corria atrás do naco maior, mas nada encontrou. Retornou para pegar a carne que antes carregava, mas também não a encontrou. Pensou então: “A ilusão me fez perder o bom senso, e acabei sem aquilo que eu já tinha por ir atrás daquilo que eu não alcançaria.\"\n(Mamede Jarouche (org.). Fábulas árabes: do período pré-islâmico ao século XVII, 2021.)\n\nNo trecho \"em cujas águas viu o reflexo do naco de carne\", o termo sublinhado pertence à mesma classe gramatical daquele sublinhado em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"mas também não a encontrou\"."
+        },
+        {
+          "letra": "B",
+          "texto": "\"um cachorro roubou um naco de carne\"."
+        },
+        {
+          "letra": "C",
+          "texto": "\"enquanto o cachorro corria atrás do naco maior\"."
+        },
+        {
+          "letra": "D",
+          "texto": "\"Largou-o então\"."
+        },
+        {
+          "letra": "E",
+          "texto": "\"Retornou para pegar a carne\"."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Leia o soneto do poeta português Manuel Maria Barbosa du Bocage, para responder às questões de 13 a 16.\n\nOlha, Marília, as flautas dos pastores,\nQue bem que soam, como estão cadentes!\nOlha o Tejo a sorrir-se! Olha: não sentes\nOs Zéfiros¹ brincar por entre as flores?\n\nVê como ali, beijando-se, os Amores\nIncitam nossos ósculos ² ardentes!\nEi-las de planta em planta as inocentes,\nAs vagas borboletas de mil cores!\n\nNaquele arbusto o rouxinol suspira;\nOra nas folhas a abelhinha para.\nOra nos ares, sussurrando, gira.\n\nQue alegre campo! Que manhã tão clara!\nMas ah!, tudo o que vês, se eu não te vira,\nMais tristeza que a noite me causara.\n(Manuel Maria Barbosa du Bocage. Poemas escolhidos, 1974.)\n\n¹ Zéfiro: vento que sopra do ocidente.\n² ósculo: beijo.\n\nA paisagem retratada no soneto constitui um tópico recorrente na poesia",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "realista."
+        },
+        {
+          "letra": "B",
+          "texto": "romântica."
+        },
+        {
+          "letra": "C",
+          "texto": "naturalista."
+        },
+        {
+          "letra": "D",
+          "texto": "arcádica."
+        },
+        {
+          "letra": "E",
+          "texto": "simbolista."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Literatura"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Leia o soneto do poeta português Manuel Maria Barbosa du Bocage, para responder às questões de 13 a 16.\n\nOlha, Marília, as flautas dos pastores,\nQue bem que soam, como estão cadentes!\nOlha o Tejo a sorrir-se! Olha: não sentes\nOs Zéfiros¹ brincar por entre as flores?\n\nVê como ali, beijando-se, os Amores\nIncitam nossos ósculos ² ardentes!\nEi-las de planta em planta as inocentes,\nAs vagas borboletas de mil cores!\n\nNaquele arbusto o rouxinol suspira;\nOra nas folhas a abelhinha para.\nOra nos ares, sussurrando, gira.\n\nQue alegre campo! Que manhã tão clara!\nMas ah!, tudo o que vês, se eu não te vira,\nMais tristeza que a noite me causara.\n(Manuel Maria Barbosa du Bocage. Poemas escolhidos, 1974.)\n\n¹ Zéfiro: vento que sopra do ocidente.\n² ósculo: beijo.\n\nNo soneto, a capacidade de transfigurar a paisagem retratada é atribuída pelo eu lírico",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aos Amores."
+        },
+        {
+          "letra": "B",
+          "texto": "à noite."
+        },
+        {
+          "letra": "C",
+          "texto": "a Marília."
+        },
+        {
+          "letra": "D",
+          "texto": "à tristeza."
+        },
+        {
+          "letra": "E",
+          "texto": "aos pastores."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Leia o soneto do poeta português Manuel Maria Barbosa du Bocage, para responder às questões de 13 a 16.\n\nOlha, Marília, as flautas dos pastores,\nQue bem que soam, como estão cadentes!\nOlha o Tejo a sorrir-se! Olha: não sentes\nOs Zéfiros¹ brincar por entre as flores?\n\nVê como ali, beijando-se, os Amores\nIncitam nossos ósculos ² ardentes!\nEi-las de planta em planta as inocentes,\nAs vagas borboletas de mil cores!\n\nNaquele arbusto o rouxinol suspira;\nOra nas folhas a abelhinha para.\nOra nos ares, sussurrando, gira.\n\nQue alegre campo! Que manhã tão clara!\nMas ah!, tudo o que vês, se eu não te vira,\nMais tristeza que a noite me causara.\n(Manuel Maria Barbosa du Bocage. Poemas escolhidos, 1974.)\n\n¹ Zéfiro: vento que sopra do ocidente.\n² ósculo: beijo.\n\nAo longo do soneto, o eu lírico recorre reiteradamente ao seguinte recurso retórico:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "metalinguagem."
+        },
+        {
+          "letra": "B",
+          "texto": "ironia."
+        },
+        {
+          "letra": "C",
+          "texto": "pleonasmo."
+        },
+        {
+          "letra": "D",
+          "texto": "personificação."
+        },
+        {
+          "letra": "E",
+          "texto": "antítese."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Leia o soneto do poeta português Manuel Maria Barbosa du Bocage, para responder às questões de 13 a 16.\n\nOlha, Marília, as flautas dos pastores,\nQue bem que soam, como estão cadentes!\nOlha o Tejo a sorrir-se! Olha: não sentes\nOs Zéfiros¹ brincar por entre as flores?\n\nVê como ali, beijando-se, os Amores\nIncitam nossos ósculos ² ardentes!\nEi-las de planta em planta as inocentes,\nAs vagas borboletas de mil cores!\n\nNaquele arbusto o rouxinol suspira;\nOra nas folhas a abelhinha para.\nOra nos ares, sussurrando, gira.\n\nQue alegre campo! Que manhã tão clara!\nMas ah!, tudo o que vês, se eu não te vira,\nMais tristeza que a noite me causara.\n(Manuel Maria Barbosa du Bocage. Poemas escolhidos, 1974.)\n\n¹ Zéfiro: vento que sopra do ocidente.\n² ósculo: beijo.\n\nNa linguagem literária, visando obter maior expressividade, pode-se empregar um tempo verbal em lugar de outro. É o que ocorre nos seguintes versos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Olha o Tejo a sorrir-se! Olha: não sentes / Os Zéfiros brincar por entre as flores?\" (1ª estrofe)"
+        },
+        {
+          "letra": "B",
+          "texto": "\"Ora nas folhas a abelhinha para. / Ora nos ares, sussurrando, gira.\" (3ª estrofe)"
+        },
+        {
+          "letra": "C",
+          "texto": "\"Mas ah!, tudo o que vês, se eu não te vira, / Mais tristeza que a noite me causara.\" (4ª estrofe)"
+        },
+        {
+          "letra": "D",
+          "texto": "\"Olha, Marília, as flautas dos pastores, / Que bem que soam, como estão cadentes!\" (1ª estrofe)"
+        },
+        {
+          "letra": "E",
+          "texto": "“Vê como ali, beijando-se, os Amores / Incitam nossos ósculos ardentes!\" (2ª estrofe)"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia",
+        "Língua Portuguesa – Estilística"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Examine a charge do cartunista Angeli.\n\n(Angeli. O lixo da história, 2013.)\n\nA charge ironiza os bastidores da invasão do Iraque em 2003. Depreende-se da análise da charge que, para o cartunista, a invasão do Iraque se caracterizava como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "necessária."
+        },
+        {
+          "letra": "B",
+          "texto": "arbitrária."
+        },
+        {
+          "letra": "C",
+          "texto": "urgente."
+        },
+        {
+          "letra": "D",
+          "texto": "ambígua."
+        },
+        {
+          "letra": "E",
+          "texto": "refletida."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História Contemporânea",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Para responder às questões de 18 a 20, leia a crônica de Luis Fernando Verissimo.\n\nEsta ideia para um conto de terror é tão terrível que, logo depois de tê-la, me arrependi. Mas já estava tida, não adiantava mais. Você, leitor, no entanto, tem uma escolha. Pode parar aqui, e se poupar, ou ler até o fim e provavelmente nunca mais dormir. Vejo que decidiu continuar. Muito bem, vamos em frente. Talvez, posta no papel, a ideia perca um pouco do seu poder de susto. Mas não posso garantir nada. É assim:\nUm casal de velhos mora sozinho numa casa. Já criaram os filhos, os netos já estão grandes, só lhes resta implicar um com o outro. Retomam com novo fervor uma discussão antiga. Ela diz que ele ronca quando dorme, ele diz que é mentira.\n— Ronca.\n— Não ronco.\n— Ele diz que não ronca — comenta ela, impaciente, como se falasse com uma terceira pessoa.\nMas não existe outra pessoa na casa. Os filhos raramente visitam. Os netos, nunca. A empregada vem de manhã, faz o almoço, deixa o jantar feito e sai cedo. Ficam os dois sozinhos.\n— Eu devia gravar os seus roncos, pra você se convencer — diz ela. E em seguida tem a ideia infeliz. — É o que eu vou fazer! Esta noite, quando você dormir, vou ligar o gravador e gravar os seus roncos.\n— Humrfm — diz o velho.\nVocê, leitor, já deve estar sentindo o que vai acontecer. Pare de ler, leitor. Eu não posso parar de escrever. As ideias não podem ser desperdiçadas, mesmo que nos custem amigos, a vida ou o sono. Imagine se Shakespeare tivesse se horrorizado com suas próprias ideias e deixado de escrevê-las, por puro comedimento. Não que eu queira me comparar a Shakespeare. Shakespeare era bem mais magro. Tenho que exercer este ofício, esta danação. Você, no entanto, não é obrigado a me acompanhar, leitor. Vá passear, vá tomar sol. Uma das maneiras de controlar a demência solta no mundo é deixar os escritores falando sozinhos, exercendo sozinhos a sua profissão malsã, o seu vício solitário. Você ainda está lendo. Você é pior do que eu, leitor. Você tinha escolha.\nSozinhos. Os velhos sozinhos na casa. Os dois vão para a cama. Quando o velho dorme, a velha liga o gravador. Mas em poucos minutos a velha também dorme. O gravador fica ligado, gravando. Pouco depois a fita acaba.\nNa manhã seguinte, certa do seu triunfo, a velha roda a fita. Ouvem-se alguns minutos de silêncio. Depois, alguém roncando.\n— Rará! — diz a velha, feliz.\nPouco depois ouve-se o ronco de outra pessoa. A velha também ronca!\n— Rará! — diz o velho, vingativo.\nE em seguida, por cima do contraponto de roncos, ouve-se um sussurro. Uma voz sussurrando, leitor. Uma voz indefinida. Pode ser de homem, de mulher ou de criança. A princípio — por causa dos roncos — não se distingue o que ela diz. Mas aos poucos as palavras vão ficando claras. São duas vozes. É um diálogo sussurrado.\n\"Estão prontos?\"\n\"Não, acho que ainda não...\"\n\"Então vamos voltar amanhã...\"\n(Luis Fernando Verissimo. O suicida e o computador, 1992.)\n\nEm sua crônica, o autor caracteriza o ofício de escrever como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "prescindível."
+        },
+        {
+          "letra": "B",
+          "texto": "estimulante."
+        },
+        {
+          "letra": "C",
+          "texto": "fortuito."
+        },
+        {
+          "letra": "D",
+          "texto": "insondável."
+        },
+        {
+          "letra": "E",
+          "texto": "irresistível."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Para responder às questões de 18 a 20, leia a crônica de Luis Fernando Verissimo.\n\nEsta ideia para um conto de terror é tão terrível que, logo depois de tê-la, me arrependi. Mas já estava tida, não adiantava mais. Você, leitor, no entanto, tem uma escolha. Pode parar aqui, e se poupar, ou ler até o fim e provavelmente nunca mais dormir. Vejo que decidiu continuar. Muito bem, vamos em frente. Talvez, posta no papel, a ideia perca um pouco do seu poder de susto. Mas não posso garantir nada. É assim:\nUm casal de velhos mora sozinho numa casa. Já criaram os filhos, os netos já estão grandes, só lhes resta implicar um com o outro. Retomam com novo fervor uma discussão antiga. Ela diz que ele ronca quando dorme, ele diz que é mentira.\n— Ronca.\n— Não ronco.\n— Ele diz que não ronca — comenta ela, impaciente, como se falasse com uma terceira pessoa.\nMas não existe outra pessoa na casa. Os filhos raramente visitam. Os netos, nunca. A empregada vem de manhã, faz o almoço, deixa o jantar feito e sai cedo. Ficam os dois sozinhos.\n— Eu devia gravar os seus roncos, pra você se convencer — diz ela. E em seguida tem a ideia infeliz. — É o que eu vou fazer! Esta noite, quando você dormir, vou ligar o gravador e gravar os seus roncos.\n— Humrfm — diz o velho.\nVocê, leitor, já deve estar sentindo o que vai acontecer. Pare de ler, leitor. Eu não posso parar de escrever. As ideias não podem ser desperdiçadas, mesmo que nos custem amigos, a vida ou o sono. Imagine se Shakespeare tivesse se horrorizado com suas próprias ideias e deixado de escrevê-las, por puro comedimento. Não que eu queira me comparar a Shakespeare. Shakespeare era bem mais magro. Tenho que exercer este ofício, esta danação. Você, no entanto, não é obrigado a me acompanhar, leitor. Vá passear, vá tomar sol. Uma das maneiras de controlar a demência solta no mundo é deixar os escritores falando sozinhos, exercendo sozinhos a sua profissão malsã, o seu vício solitário. Você ainda está lendo. Você é pior do que eu, leitor. Você tinha escolha.\nSozinhos. Os velhos sozinhos na casa. Os dois vão para a cama. Quando o velho dorme, a velha liga o gravador. Mas em poucos minutos a velha também dorme. O gravador fica ligado, gravando. Pouco depois a fita acaba.\nNa manhã seguinte, certa do seu triunfo, a velha roda a fita. Ouvem-se alguns minutos de silêncio. Depois, alguém roncando.\n— Rará! — diz a velha, feliz.\nPouco depois ouve-se o ronco de outra pessoa. A velha também ronca!\n— Rará! — diz o velho, vingativo.\nE em seguida, por cima do contraponto de roncos, ouve-se um sussurro. Uma voz sussurrando, leitor. Uma voz indefinida. Pode ser de homem, de mulher ou de criança. A princípio — por causa dos roncos — não se distingue o que ela diz. Mas aos poucos as palavras vão ficando claras. São duas vozes. É um diálogo sussurrado.\n\"Estão prontos?\"\n\"Não, acho que ainda não...\"\n\"Então vamos voltar amanhã...\"\n(Luis Fernando Verissimo. O suicida e o computador, 1992.)\n\nNa composição de sua crônica, Luis Fernando Verissimo lança mão dos seguintes procedimentos estilísticos que caracterizam a prosa madura do escritor Machado de Assis:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "inclusão do leitor na narrativa e recurso à metalinguagem."
+        },
+        {
+          "letra": "B",
+          "texto": "estilo digressivo e discurso apoiado em argumentos científicos."
+        },
+        {
+          "letra": "C",
+          "texto": "discurso socialmente engajado e recurso à intertextualidade."
+        },
+        {
+          "letra": "D",
+          "texto": "argumentação de teor moralizante e interlocução explícita com o leitor."
+        },
+        {
+          "letra": "E",
+          "texto": "discurso de caráter místico e recurso ao sobrenatural."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Estilística",
+        "Língua Portuguesa – Literatura"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Para responder às questões de 18 a 20, leia a crônica de Luis Fernando Verissimo.\n\nEsta ideia para um conto de terror é tão terrível que, logo depois de tê-la, me arrependi. Mas já estava tida, não adiantava mais. Você, leitor, no entanto, tem uma escolha. Pode parar aqui, e se poupar, ou ler até o fim e provavelmente nunca mais dormir. Vejo que decidiu continuar. Muito bem, vamos em frente. Talvez, posta no papel, a ideia perca um pouco do seu poder de susto. Mas não posso garantir nada. É assim:\nUm casal de velhos mora sozinho numa casa. Já criaram os filhos, os netos já estão grandes, só lhes resta implicar um com o outro. Retomam com novo fervor uma discussão antiga. Ela diz que ele ronca quando dorme, ele diz que é mentira.\n— Ronca.\n— Não ronco.\n— Ele diz que não ronca — comenta ela, impaciente, como se falasse com uma terceira pessoa.\nMas não existe outra pessoa na casa. Os filhos raramente visitam. Os netos, nunca. A empregada vem de manhã, faz o almoço, deixa o jantar feito e sai cedo. Ficam os dois sozinhos.\n— Eu devia gravar os seus roncos, pra você se convencer — diz ela. E em seguida tem a ideia infeliz. — É o que eu vou fazer! Esta noite, quando você dormir, vou ligar o gravador e gravar os seus roncos.\n— Humrfm — diz o velho.\nVocê, leitor, já deve estar sentindo o que vai acontecer. Pare de ler, leitor. Eu não posso parar de escrever. As ideias não podem ser desperdiçadas, mesmo que nos custem amigos, a vida ou o sono. Imagine se Shakespeare tivesse se horrorizado com suas próprias ideias e deixado de escrevê-las, por puro comedimento. Não que eu queira me comparar a Shakespeare. Shakespeare era bem mais magro. Tenho que exercer este ofício, esta danação. Você, no entanto, não é obrigado a me acompanhar, leitor. Vá passear, vá tomar sol. Uma das maneiras de controlar a demência solta no mundo é deixar os escritores falando sozinhos, exercendo sozinhos a sua profissão malsã, o seu vício solitário. Você ainda está lendo. Você é pior do que eu, leitor. Você tinha escolha.\nSozinhos. Os velhos sozinhos na casa. Os dois vão para a cama. Quando o velho dorme, a velha liga o gravador. Mas em poucos minutos a velha também dorme. O gravador fica ligado, gravando. Pouco depois a fita acaba.\nNa manhã seguinte, certa do seu triunfo, a velha roda a fita. Ouvem-se alguns minutos de silêncio. Depois, alguém roncando.\n— Rará! — diz a velha, feliz.\nPouco depois ouve-se o ronco de outra pessoa. A velha também ronca!\n— Rará! — diz o velho, vingativo.\nE em seguida, por cima do contraponto de roncos, ouve-se um sussurro. Uma voz sussurrando, leitor. Uma voz indefinida. Pode ser de homem, de mulher ou de criança. A princípio — por causa dos roncos — não se distingue o que ela diz. Mas aos poucos as palavras vão ficando claras. São duas vozes. É um diálogo sussurrado.\n\"Estão prontos?\"\n\"Não, acho que ainda não...\"\n\"Então vamos voltar amanhã...\"\n(Luis Fernando Verissimo. O suicida e o computador, 1992.)\n\nEm \"As ideias não podem ser desperdiçadas, mesmo que nos custem amigos, a vida ou o sono.\" (9º parágrafo), a oração subordinada expressa ideia de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "consequência."
+        },
+        {
+          "letra": "B",
+          "texto": "causa."
+        },
+        {
+          "letra": "C",
+          "texto": "concessão."
+        },
+        {
+          "letra": "D",
+          "texto": "condição."
+        },
+        {
+          "letra": "E",
+          "texto": "comparação."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe"
+      ]
+    }
+  ]
+}

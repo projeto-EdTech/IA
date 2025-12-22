@@ -1,0 +1,1868 @@
+{
+  "nomeUniversidade": "Universidade Estadual Paulista",
+  "siglaUniversidade": "UNESP",
+  "nomeVestibular": "Vestibular",
+  "ano": 2023,
+  "cursos": [
+    {
+      "nomeCurso": "Administração",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Administração",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Administração",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Administração",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Administração",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Administração",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Administração Pública",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Administração Pública",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Administração Pública",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Administração Pública",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Arquitetura e Urbanismo",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Arquitetura e Urbanismo",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Arquitetura e Urbanismo",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Arquitetura e Urbanismo",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Arquivologia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Arquivologia",
+      "modalidadeConcorrencia": "Ampla Concorrencia",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Artes Cênicas",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Artes Cênicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Artes Visuais",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Artes Visuais",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 49
+    },
+    {
+      "nomeCurso": "Artes Visuais",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Artes Visuais",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Arte-Teatro",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Arte-Teatro",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Biblioteconomia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Biblioteconomia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 54
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 26
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 53
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Ciências Biológicas em Biologia Marinha ou Gerenciamento Costeiro",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas em Biologia Marinha ou Gerenciamento Costeiro",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Ciências Biomédicas",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Ciências Biomédicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 52
+    },
+    {
+      "nomeCurso": "Ciências da Computação",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Ciências da Computação",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 59
+    },
+    {
+      "nomeCurso": "Ciências da Computação",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Ciências da Computação",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 50
+    },
+    {
+      "nomeCurso": "Ciências Econômicas",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Ciências Econômicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Ciências Econômicas",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Econômicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Comunicação: Rádio, Televisão e Internet",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Comunicação: Rádio, Televisão e Internet",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Design (Design Gráfico ou Design de Produto)",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Design (Design Gráfico ou Design de Produto)",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Design (Design Gráfico)",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Design (Design Gráfico)",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Direito",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Direito",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 53
+    },
+    {
+      "nomeCurso": "Direito",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Direito",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 47
+    },
+    {
+      "nomeCurso": "Ecologia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Ecologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Aeronáutica",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Engenharia Aeronáutica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 54
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Agronômica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Engenharia Biotecnológica",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Engenharia Biotecnológica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Engenharia Cartográfica e de Agrimensura",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia Cartográfica e de Agrimensura",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia de Alimentos",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia de Alimentos",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia de Bioprocessos e Biotecnologia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Engenharia de Bioprocessos e Biotecnologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Engenharia de Bioprocessos e Biotecnologia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Engenharia de Bioprocessos e Biotecnologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Engenharia de Biossistemas",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia de Biossistemas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Engenharia de Controle e Automação",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia de Controle e Automação",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia de Energia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Engenharia de Energia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Engenharia de Materiais",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia de Materiais",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Engenharia de Pesca",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Engenharia de Pesca",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Industrial-Madeira",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Industrial-Madeira",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Engenharia Eletrônica e de Telecomunicações",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Engenharia Eletrônica e de Telecomunicações",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Engenharia Florestal",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia Florestal",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Estatística",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Estatística",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 39
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 47
+    },
+    {
+      "nomeCurso": "Filosofia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Filosofia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Física",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Física",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Física",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Física",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Física",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Física",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Física",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Física",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Física",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Física",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Física",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 27
+    },
+    {
+      "nomeCurso": "Física",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Física Médica",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Física Médica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Fisioterapia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Fisioterapia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Fisioterapia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Fisioterapia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Fonoaudiologia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Fonoaudiologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Geologia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Geologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Jornalismo",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Jornalismo",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Jornalismo",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Jornalismo",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Letras",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Letras",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Letras",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Letras",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Letras",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Letras",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Letras",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Letras",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Letras",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Letras",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Letras",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Letras",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Letras-Tradução",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Letras-Tradução",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Licenciatura em Música",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Licenciatura em Música",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 29
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 26
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 26
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 60
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 77
+    },
+    {
+      "nomeCurso": "Medicina Veterinária",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Medicina Veterinária",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Medicina Veterinária",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Medicina Veterinária",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Medicina Veterinária",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Medicina Veterinária",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Meteorologia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Meteorologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Música",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Música",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Música",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Música",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Música",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Música",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Música",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Música",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Música",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Música",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Música",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Música",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Música",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Música",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Música",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Música",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Nutrição",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Nutrição",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 47
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 57
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 54
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 47
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 26
+    },
+    {
+      "nomeCurso": "Relações Internacionais",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Relações Internacionais",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 44
+    },
+    {
+      "nomeCurso": "Relações Internacionais",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Relações Internacionais",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 49
+    },
+    {
+      "nomeCurso": "Relações Internacionais",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Relações Internacionais",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 48
+    },
+    {
+      "nomeCurso": "Relações Públicas",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Relações Públicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Serviço Social",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Serviço Social",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Serviço Social",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Serviço Social",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Sistemas de Informação",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Sistemas de Informação",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 50
+    },
+    {
+      "nomeCurso": "Terapia Ocupacional",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Terapia Ocupacional",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Turismo",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Turismo",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Zootecnia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Zootecnia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Zootecnia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Zootecnia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Zootecnia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Zootecnia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 19
+    },
+    {
+      "nomeCurso": "Zootecnia",
+      "modalidadeConcorrencia": "Cota SRVEBP e PPI",
+      "notaCorte": 18
+    },
+    {
+      "nomeCurso": "Zootecnia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "notaCorte": 18
+    }
+  ]
+}

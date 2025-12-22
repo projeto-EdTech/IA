@@ -1,0 +1,2453 @@
+{
+  "nomeUniversidade": "ESPM",
+  "siglaUniversidade": "ESPM",
+  "nomeProva": "VESTIBULAR",
+  "ano": 2024,
+  "qtdeQuestoes": 80,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Leia o texto abaixo para as questões de 1 a 3:\n\n(...) O país do absurdo\n\nAlgo é certo: esperança não tenho em relação ao futuro de um país que não somente é tão desigual, mas também primitivo, complexado, ignorante. Nestas condições, o resultado é tão fatal quanto inelutável. Fiquemos, no entanto, no curto espaço das nossas vidas. Desde o início, cometeu-se o pecado original ao seguir pelo caminho da conciliação: por aqui se destina simplesmente às desavenças entre as elites na hora de cortar o bolo do poder. Refiro-me à minoria rica a habitar a casa-grande, enquanto os pobres, maioria fluvial de comportas rompidas, haverão de se conformar com sua miséria de largo espectro. Daí sermos aferrados à Idade Média da casa-grande e da senzala, ainda e implacavelmente de pé.\n\nNão é, certamente, responsabilidade da natureza a irrefreável decadência do país dono de outro destino. Culpados [são] seus governantes no galope do tempo sempre a favor da minoria gananciosa, com o contraponto esquálido da maioria faminta, frequentemente obrigada a viver ao relento pelas calçadas das metrópoles, ou debaixo de pontes e viadutos, intérprete involuntária de uma tragédia. (...)\n\nO erro era a escolha da política conciliatória, primeira fonte das desgraças atuais. O País é vítima de si mesmo. Ao povo, em lugar de um Estado do Bem-Estar Social, deram-se as migalhas caídas da mesa dos poderosos, chamou-se Bolsa Família e serviu para enganar por algum tempo os beneficiários. Ao mesmo tempo, o governo não conseguia emergir de uma vetusta maneira de fazer política.\n\nE, em nome do status quo, encarava como prova de máxima esperteza a eventual aliança com os inimigos. (...) Algo neste instante constrange mais do que outros fatos, pelo menos aos meus olhos: os índices de baixíssima escolaridade a nos colocar em situações de penúria intelectual muito além das aparências. Quanto à violência e ao ódio a caracterizarem este momento, não esqueçamos que os governos do Brasil nunca puniram a ferocidade da ditadura nos porões da tortura e, mesmo à luz do dia, onde quer que a oportunidade de sustar até a mais tênue tentativa de resistência. (...)\n\n(Mino Carta, revista Carta Capital, 16/ago/2023)\n\nSegundo o texto, a desesperança do autor em relação ao futuro do país deve-se, principalmente, ao fato de:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "haver uma profunda má distribuição de renda entre as classes dominadoras e dominadas."
+        },
+        {
+          "letra": "b",
+          "texto": "ocorrer um conflito entre segmentos das elites brasileiras na 'hora de cortar o bolo do poder\"."
+        },
+        {
+          "letra": "c",
+          "texto": "ostentar, no território nacional, um cenário ainda medieval de casa-grande e senzala."
+        },
+        {
+          "letra": "d",
+          "texto": "não ter ocorrido punição, por parte da justiça, às torturas empreendidas pela ditadura."
+        },
+        {
+          "letra": "e",
+          "texto": "existir um conjunto de fatores depreciativos invencíveis que vão além da desigualdade social."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Todas as passagens abaixo se referem diretamente, no contexto do artigo, à imensa camada desfavorecida da população, EXCETO uma. Assinale-a:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "“maioria fluvial de comportas rompidas”"
+        },
+        {
+          "letra": "b",
+          "texto": "“contraponto esquálido da maioria faminta''"
+        },
+        {
+          "letra": "c",
+          "texto": "“intérprete involuntária de uma tragédia.”"
+        },
+        {
+          "letra": "d",
+          "texto": "“migalhas caídas da mesa dos poderosos”"
+        },
+        {
+          "letra": "e",
+          "texto": "''situações de penúria intelectual muito além das aparências.”"
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Sobre o Bolsa Família, o autor considera um benefício:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "insuficiente, porém uma maneira moderna de fazer política."
+        },
+        {
+          "letra": "b",
+          "texto": "suficiente, pois faz parte de um plano de Bem-Estar Social."
+        },
+        {
+          "letra": "c",
+          "texto": "ínfimo, bem como ilusório, para os respectivos recebedores."
+        },
+        {
+          "letra": "d",
+          "texto": "possível, ante a decadência da realidade econômica brasileira."
+        },
+        {
+          "letra": "e",
+          "texto": "fundamental, principalmente para se atingir um status quo."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Observe o cartaz abaixo para as questões 4 e 5:\n\nO cartaz acima, que frequentou redes sociais, manifestações públicas e outros espaços, trabalha com um jogo de palavras denominado, no campo das figuras de linguagem,:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "paronomásia"
+        },
+        {
+          "letra": "b",
+          "texto": "anáfora"
+        },
+        {
+          "letra": "c",
+          "texto": "perífrase"
+        },
+        {
+          "letra": "d",
+          "texto": "oxímoro"
+        },
+        {
+          "letra": "e",
+          "texto": "pleonasmo"
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Se no cartaz houvesse um pedido para o interlocutor se livrar das armas, na terceira pessoal do singular, a forma verbal seria:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "livrem-se"
+        },
+        {
+          "letra": "b",
+          "texto": "livre-se"
+        },
+        {
+          "letra": "c",
+          "texto": "livra-te"
+        },
+        {
+          "letra": "d",
+          "texto": "livre-te"
+        },
+        {
+          "letra": "e",
+          "texto": "livrem-nos"
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Língua Portuguesa – Verbos"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Um processo de formação de palavras denominado Derivação Imprópria acontece quando há uma troca de classe de palavras. Levando em conta os termos em destaque, esse processo está presente em:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "“Onde nasci, morri. Onde morri, existo.” (CDA)"
+        },
+        {
+          "letra": "b",
+          "texto": "“Eu não dei por esta mudança, / Tão simples, tão certa, tão fácil: / — Em que espelho ficou perdida / a minha face? (Cecília Meireles)"
+        },
+        {
+          "letra": "c",
+          "texto": "... primeira é que eu não sou propriamente um autor defunto, mas um defunto autor, para quem a campa foi outro berço;'' (M. de Assis)"
+        },
+        {
+          "letra": "d",
+          "texto": "“Eu moro em mim mesmo / Não faz mal que o quarto seja pequeno. / É bom, assim tenho menos lugares para perder as minhas coisas.” (M.Quintana)"
+        },
+        {
+          "letra": "e",
+          "texto": "“Perdi-me dentro de mim / Porque eu era labirinto /E hoje, quando me sinto / É com saudades de mim.” (Sá-Carneiro)"
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Língua Portuguesa – Processos de Formação de Palavras"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Leia:\n\nDesde outubro do ano passado, as embalagens de alimentos industrializados começaram a apresentar informações sobre a presença de alto teor de gordura, sódio e açúcar.\n\nO problema, porém, é que há hoje uma falha de comunicação entre as ações de políticas públicas legislativas e o que há de consenso científico. “É claro que a rotulagem é importante, mas não adianta rotular um litro de óleo de soja como 'alto em teor de gordura' porque é da natureza dele ter gordura. Precisamos ampliar a discussão para, por exemplo, a atual inclusão de ultraprocessados na cesta básica'', explica a pesquisadora da UERJ Daniela Canella.\n\n(Ana Bottallo, Folha de S.Paulo, 30/08/2023)\n\nIndique a afirmação INCORRETA no que se refere à pontuação do texto acima:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "A primeira vírgula do texto separa adjunto adverbial deslocado."
+        },
+        {
+          "letra": "b",
+          "texto": "A conjunção “porém” está entre vírgulas por ocorrer de forma intercalada na oração."
+        },
+        {
+          "letra": "c",
+          "texto": "As aspas duplas se justificam pelo fato de o texto jornalístico fazer citação de um trecho pertencente à pesquisadora da UERJ."
+        },
+        {
+          "letra": "d",
+          "texto": "As aspas simples, na expressão 'alto teor de gordura', deve-se ao fato de, na origem, já haver aspas duplas."
+        },
+        {
+          "letra": "e",
+          "texto": "As vírgulas, separando a expressão “por exemplo”, deve-se ao fato de ser uma oração explicativa intercalada."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Língua Portuguesa – Pontuação"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Em uma das manchetes abaixo, constata-se ambiguidade. Assinale-a:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Presidente tenta adiar crise do diesel para acalmar os caminhoneiros de olho na eleição."
+        },
+        {
+          "letra": "b",
+          "texto": "Sob forte pressão, contratos temporários aumentam na gestão pública."
+        },
+        {
+          "letra": "c",
+          "texto": "Montadoras brasileiras desejam que governo limite a importação de carros elétricos provenientes da China."
+        },
+        {
+          "letra": "d",
+          "texto": "Entenda a alta de preços do diesel e como ela afeta a economia."
+        },
+        {
+          "letra": "e",
+          "texto": "Cientistas ingleses usam I.A. para detectar, pelo som das teclas, o que as pessoas digitam."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Ambiguidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Somente em uma das alternativas abaixo, a norma culta permite a vírgula antes do conectivo \"E\". Assinale-a:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Governo de SP reforça segurança e amplia transporte público durante o show."
+        },
+        {
+          "letra": "b",
+          "texto": "Favelas se expandem na Argentina e brasileiros ensinam empreendedorismo social a vizinhos."
+        },
+        {
+          "letra": "c",
+          "texto": "Após venda da Kopenhagen e da Brasil Cacau para a Nestlé, número de lojas deve triplicar."
+        },
+        {
+          "letra": "d",
+          "texto": "Companhias aéreas retraçam rotas dos voos para poupar combustível e reduzir poluição."
+        },
+        {
+          "letra": "e",
+          "texto": "A Embraer estuda propostas para aeronaves comerciais com propulsão híbrida e elétrica capazes de transportar entre 19 e 30 passageiros."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Língua Portuguesa – Pontuação"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Assinale a alternativa em que o vocábulo em destaque estabeleça uma relação de causa:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Como o título indica, a obra compila 50 relatos de pessoas que, à época da ditadura chilena, eram crianças ou adolescentes."
+        },
+        {
+          "letra": "b",
+          "texto": "Como país, deveríamos reconhecê-los, contar suas histórias, num esforço para evitar que isso ocorra com outras crianças e adolescentes. (Karen Trajtemberg)"
+        },
+        {
+          "letra": "c",
+          "texto": "Não glamorizo o passado como sendo melhor: o melhor vive na nossa imaginação e nas lembranças que permitimos adulterar. (Becky Korich)"
+        },
+        {
+          "letra": "d",
+          "texto": "Como acham que vão sofrer preconceito, muitas mulheres gestantes negras evitam procurar serviços médicos."
+        },
+        {
+          "letra": "e",
+          "texto": "Avaliação de gastos vai permitir uma orientação sobre o que revisar, onde revisar e como revisar as políticas dos ministérios."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Conectivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Leia o soneto que segue para responder às questões de 11 a 13:\n\nA cada canto um grande conselheiro, Que nos quer governar a cabana, e vinha, (1) Não sabem governar sua cozinha, E podem governar o mundo inteiro.\n\nEm cada porta um bem frequente olheiro, (2) Que a vida do vizinho, e da vizinha Pesquisa, escuta, espreita e esquadrinha, Para a levar à praça, e ao terreiro.\n\nMuitos mulatos desavergonhados, Trazidos pelos pés os homens nobres, Posta nas palmas toda a picardia. (3)\n\nEstupendas usuras nos mercados, (4) Todos os que não furtam muito pobres: E eis aqui a cidade da Bahia.\n\n(MATOS, Gregório de. Poemas escolhidos - Seleção de José Miguel Wisnik. 2a ed. São Paulo: Cultrix, [s.d.])\n\n1. Casa e trabalho.\n2. Observador, fofoqueiro.\n3. Refere-se aos escravos que o poeta considerava malandros, tratados na palma da mão pelos nobres e sem respeito nenhum pelos donos.\n4. Juros exagerados, abusos excessivos nos mercados.\n\nNa primeira estrofe, o soneto apresenta denúncia relacionada à",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "tirania contra os pobres;"
+        },
+        {
+          "letra": "b",
+          "texto": "incompetência política;"
+        },
+        {
+          "letra": "c",
+          "texto": "vaidade excessiva;"
+        },
+        {
+          "letra": "d",
+          "texto": "ambição desmedida;"
+        },
+        {
+          "letra": "e",
+          "texto": "prepotência moral."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira – Barroco"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "A segunda estrofe trata diretamente de",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "curiosidades sobre a vida política;"
+        },
+        {
+          "letra": "b",
+          "texto": "solidariedade na vida em comunidade;"
+        },
+        {
+          "letra": "c",
+          "texto": "comportamento bisbilhoteiro e maledicente;"
+        },
+        {
+          "letra": "d",
+          "texto": "retrato dos costumes em vida social regrada;"
+        },
+        {
+          "letra": "e",
+          "texto": "atitudes relacionadas ao trabalho social."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira – Barroco"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Nos tercetos, fica evidente que",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "o eu lírico simpatiza com os indivíduos que eram descendentes de escravos e, por isso, protege-os."
+        },
+        {
+          "letra": "b",
+          "texto": "os homens nobres maltratavam os mulatos, atribuindo a eles a alcunha de “desavergonhados”."
+        },
+        {
+          "letra": "c",
+          "texto": "o mercado é vítima de estupendas “usuras”, ou seja, não consegue saldar suas dívidas por causa dos juros altos."
+        },
+        {
+          "letra": "d",
+          "texto": "o eu lírico sugere que a riqueza dos homens nobres é fruto de atitudes ilícitas."
+        },
+        {
+          "letra": "e",
+          "texto": "a cidade da Bahia é um quadro lamentável, no qual todos são pobres; e poucos, honestos."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira – Barroco"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Leia o fragmento que segue para responder às questões 14 e 15:\n\nMissa do galo\n\nNunca pude entender a conversação que tive com uma senhora, há muitos anos, contava eu dezessete, ela trinta. Era noite de Natal. Havendo ajustado com um vizinho irmos à missa do galo, preferi não dormir; combinei que eu iria acordá-lo à meia-noite.\n\nA casa em que eu estava hospedado era a do escrivão Meneses, que fora casado, em primeiras núpcias, com uma de minhas primas. A segunda mulher, Conceição, e a mãe desta acolheram-me bem quando vim de Mangaratiba para o Rio de Janeiro, meses antes, a estudar preparatórios. Vivia tranquilo, naquela casa assobradada da Rua do Senado, com os meus livros, poucas relações, alguns passeios. A família era pequena, o escrivão, a mulher, a sogra e duas escravas.\n\nCostumes velhos. Às dez horas da noite toda a gente estava nos quartos; às dez e meia a casa dormia. Nunca tinha ido ao teatro, e mais de uma vez, ouvindo dizer ao Meneses que ia ao teatro, pedi-lhe que me levasse consigo. Nessas ocasiões, a sogra fazia uma careta, e as escravas riam à socapa¹; ele não respondia, vestia-se, saía e só tornava na manhã seguinte. Mais tarde é que eu soube que o teatro era um eufemismo em ação. Meneses trazia amores com uma senhora, separada do marido, e dormia fora de casa uma vez por semana. Conceição padecera, a princípio, com a existência da comborça²; mas afinal, resignara-se, acostumara-se, e acabou achando que era muito direito.\n\n(Machado de Assis)\n\n(1) à socapa: com disfarce, furtivamente\n(2) comborça: amante\n\nO antológico conto Missa do Galo, de Machado de Assis, revela características típicas desse escritor que é considerado um dos grandes gênios da prosa brasileira do século XIX. Sabendo disso, releia o trecho e assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Um aspecto evidente do estilo literário machadiano é o realismo fantástico que, no fragmento, fica evidente na passagem: Vivia tranquilo, naquela casa assobradada da Rua do Senado (...)."
+        },
+        {
+          "letra": "b",
+          "texto": "Em consonância com o estilo investigativo do autor, o trecho apresenta um narrador onisciente que tudo sabe, perscrutando a alma das personagens."
+        },
+        {
+          "letra": "c",
+          "texto": "A ironia, marca maior do escritor, revela-se na passagem em que o narrador relata como descobriu que o Meneses não ia ao teatro; mas, sim, à casa de uma amante."
+        },
+        {
+          "letra": "d",
+          "texto": "O título do conto é um forte indício do quanto Machado de Assis era um escritor comprometido com temáticas religiosas, tão em voga em sua época."
+        },
+        {
+          "letra": "e",
+          "texto": "O final do trecho apresentado comprova o quanto o autor estava influenciado por teorias científico-filosóficas, as quais fundamentavam o estilo naturalista."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira – Realismo",
+        "Língua Portuguesa – Machado de Assis"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Considerando o ponto de vista do narrador, só NÃO se pode inferir que:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "O episódio a ser relatado ocorreu em um passado não muito recente, entretanto ainda é presente na memória do personagem narrador."
+        },
+        {
+          "letra": "b",
+          "texto": "O narrador provavelmente era cristão, porque preservava hábitos referentes ao catolicismo como frequentar a Missa do Galo."
+        },
+        {
+          "letra": "c",
+          "texto": "No momento da cena narrada, o protagonista encontra-se na casa de um primo cuja mãe e cuja esposa o receberam quando o narrador se mudou para Mangaratiba, no Rio de Janeiro."
+        },
+        {
+          "letra": "d",
+          "texto": "O narrador, ao revelar os horários em que todos se recolhiam para dormir, considera que a família que o recebera cultivava hábitos antigos."
+        },
+        {
+          "letra": "e",
+          "texto": "O narrador descobre que o dono da casa tinha uma amante, e também sugere que essa situação era sabida por todos, inclusive pela esposa do Meneses."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Leia o poema que segue para responder às questões 16 e 17:\n\nCARNAL E MÍSTICO\n\nPelas regiões tenuíssimas¹ da bruma Vagam as Virgens e as Estrelas raras... Como que o leve aroma das searas² Todo o horizonte em derredor perfuma.\n\nNuma evaporação de branca espuma Vão diluindo as perspectivas claras... Com brilhos crus e fúlgidos³ de tiaras⁴ As Estrelas apagam-se uma a uma.\n\nE então, na treva, em místicas dormências, Desfila, com sidéreas lactescências⁵, Das Virgens o sonâmbulo cortejo...\n\nÓ Formas vagas, nebulosidades! Essência das eternas virgindades! Ó intensas quimeras⁶ do Desejo...\n\n(SOUSA, João da Cruz e, 1861-1898 Broquéis. Rio de Janeiro, Magalhães, 1893.)\n\n1. levíssimas, delicadas, frágeis\n2. campo com plantação pronta para a colheita.\n3. brilhante, incandescente.\n4. referente aos chapéus altos dos religiosos, como o papa e bispos.\n5. celestes líquidos da cor do leite.\n6. fantasias, ideias absurdas.\n\nO Simbolismo possui muitos pontos em comum com o Parnasianismo, entretanto NÃO é característica simbolista:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Vocabulário raro e rimas ricas."
+        },
+        {
+          "letra": "b",
+          "texto": "Gosto pela forma fixa, o soneto."
+        },
+        {
+          "letra": "c",
+          "texto": "Ausência de temas sociopolíticos."
+        },
+        {
+          "letra": "d",
+          "texto": "Versos na medida nova (decassílabos)."
+        },
+        {
+          "letra": "e",
+          "texto": "Metalinguagem descritiva e arte pela arte."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira – Simbolismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "O poema de Cruz e Sousa contém características típicas do estilo do autor e da escola literária a que ele pertence, o Simbolismo. Sabendo disso, leia as afirmações que sugerem uma interpretação sobre o texto apresentado:\n\nI) No primeiro quarteto, prevalecem vocábulos vagos, maiúsculas alegorizantes e o sentido olfativo tão recorrente, este, nos poemas simbolistas.\n\nII) No segundo quarteto, chama atenção a obsessão pela cor branca e pelo brilho nas imagens elaboradas, aspectos que evidenciam o caráter simbolista de Cruz e Sousa.\n\nIII) A dualidade do título do poema corresponde, respectivamente, às ideias descritas nos tercetos que, por um lado, revelam o misticismo por meio do vocabulário litúrgico; mas, por outro, apelam para a sensualidade explícita.\n\nEstá CORRETO o que se afirma:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Nos itens I e II."
+        },
+        {
+          "letra": "b",
+          "texto": "Nos itens I e III."
+        },
+        {
+          "letra": "c",
+          "texto": "Nos itens II e III."
+        },
+        {
+          "letra": "d",
+          "texto": "No item III apenas."
+        },
+        {
+          "letra": "e",
+          "texto": "Em todos os itens."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira – Simbolismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Leia o fragmento de crítica literária a seguir:\n\nEnquanto conceito periodológico, o Realismo tem uma origem francesa relativamente bem determinada e conexiona-se de forma diversa com o Romantismo e com o Naturalismo: com o Romantismo, essa relação é de confronto e de superação, tanto no plano ideológico doutrinário como, obviamente, no das práticas literárias; com o Naturalismo, essa relação é de convergência parcial, uma vez que o realismo funda e consolida procedimentos técnico-literários depois reajustados e ideologicamente refinados, em contexto e com propósito naturalista.\n\n(REIS, Carlos. O conhecimento da literatura: introdução aos estudos literários. EDIPUCRS, Porto Alegre. 2013.)\n\nSegundo o crítico, a relação que o estilo realista estabelece com o Romantismo e com o Naturalismo pode ser considerada diversa, pois no primeiro caso seria de “confronto e de superação”; no segundo, de “convergência parcial”. Assim, duas obras literárias que poderiam exemplificar, respectivamente, essas conexões seriam:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "''O Cortiço”,de Aluísio Azevedo/“Memórias de um Sargento de Milícias”, de Manuel Antônio de Almeida."
+        },
+        {
+          "letra": "b",
+          "texto": "''O Ateneu'', de Raul Pompeia'' e ''Senhora'', de José de Alencar."
+        },
+        {
+          "letra": "c",
+          "texto": "“Amor de Perdição”, de Camilo Castelo Branco/ ''O Crime do Padre Amaro'', de Eça de Queirós."
+        },
+        {
+          "letra": "d",
+          "texto": "''A Cidade e as Serras”, de Eça de Queirós/ “Viagens na Minha Terra”, de Almeida Garrett."
+        },
+        {
+          "letra": "e",
+          "texto": "''Iracema”, de José de Alencar/ “Dom Casmurro'', de Machado de Assis."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira – Realismo",
+        "Língua Portuguesa – Literatura Brasileira – Romantismo",
+        "Língua Portuguesa – Literatura Brasileira – Naturalismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Leia o fragmento de um artigo sobre \"fluxo de consciência” e “monólogo interior”, em seguida assinale a única alternativa que NÃO contemple qualquer um desses recursos estilísticos:\n\nEnquanto o fluxo de consciência é a liberdade da mente do personagem encontrando espaço para correr livre no texto de ficção, o monólogo interior é necessariamente um diálogo do personagem consigo mesmo, que transcorre em palavras que coincidem com o pensamento; no caso do monólogo interior, o personagem está dizendo algo (para si mesmo ou para um interlocutor imaginário), encadeando ideias, construindo um discurso, estando, desse modo, contido nas possibilidades de utilização do fluxo de consciência que não se restringe a monólogos interiores, mas a toda e qualquer sensação do personagem mesmo aquela que ele não consegue verbalizar para si mesmo, como na construção de imagens, por exemplo.\n\n(CRUZ, Felipe. In: Anais do XIII Congresso Internacional da ABRALIC: Internacionalização do Regional. Julho/2013. Disponível em: https://www.editorarealize.com.br/artigo/visualizar/4292)\n",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Assaltam-me dúvidas idiotas. Estarei à porta de casa ou já terei chegado à repartição? Em que ponto do trajeto me acho? Não tenho consciência dos movimentos, sinto-me leve. Ignoro quanto tempo fico assim. (Graciliano Ramos, in Angústia)"
+        },
+        {
+          "letra": "b",
+          "texto": "Aconteceu-me alguma coisa que eu, pelo fato de não a saber como viver, vivi uma outra? A isso quereria chamar desorganização, e teria a segurança de me aventurar porque saberia depois para onde voltar: para a organização anterior. (Clarice Lispector, in A paixão segundo G.H)"
+        },
+        {
+          "letra": "c",
+          "texto": "Com certeza havia um erro no papel do branco. Não se descobriu o erro, e Fabiano perdeu os estribos. Passar a vida inteira assim no toco, entregando o que era dele de mão beijada! Estava direito aquilo? Trabalhar como negro e nunca arranjar carta de alforria! (Graciliano Ramos, in Vidas Secas)"
+        },
+        {
+          "letra": "d",
+          "texto": "Mas por que se afligia, por fim? Quantas invejariam a sua desgraça! O que havia de infeliz em abandonar a sua vida estreita entre quatro paredes, passada a examinar róis de cozinha e a fazer croché, e partir com um homem novo e amado, ir para Paris! Para Paris! (Eça de Queirós, in O primo Basílio)."
+        },
+        {
+          "letra": "e",
+          "texto": "Supõe tu um campo de batatas e duas tribos famintas. As batatas apenas chegam para alimentar uma das tribos (...); mas, se as duas tribos dividem em paz as batatas do campo, não chegam a nutrir-se suficientemente e morrem de inanição. (Machado de Assis, in Quincas Borba)"
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira – Modernismo",
+        "Língua Portuguesa – Estilos Narrativos"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Leia os textos que seguem para responder à questão 20:\n\nTexto I\n\nNa minha experiência pessoal fui verificando que o meu esforço consciente só resultava em insatisfação, ao passo que o que me saía do subconsciente, numa espécie de transe ou assombramento, tinha ao menos a virtude de me deixar aliviado de minhas angústias.\n\n(Manuel Bandeira, Itinerário de Pasárgada)\n\nTexto II\n\nVou-me embora pra Pasárgada Aqui eu não sou feliz Lá a existência é uma aventura De tal modo inconsequente Que Joana a Louca de Espanha Rainha e falsa demente Vem a ser contraparente Da nora que nunca tive\n\nBANDEIRA, M., Bandeira a Vida Inteira, Editora Alumbramento, Rio de Janeiro, 1986\n\nTanto no fragmento de Itinerário de Pasárgada, quanto na estrofe extraída do poema Vou-me embora pra Pasárgada, fica revelado que o poeta Manuel Bandeira:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Utilizou-se das técnicas impressionistas que foram amplamente defendidas pelo Dadaísmo."
+        },
+        {
+          "letra": "b",
+          "texto": "Experimentou a técnica da múltipla perspectiva da realidade, inspirada nas formas geométricas do Cubismo."
+        },
+        {
+          "letra": "c",
+          "texto": "Expressou-se por meio do dinamismo e da ideia de progresso impostos pelo Futurismo."
+        },
+        {
+          "letra": "d",
+          "texto": "Inspirou-se no pessimismo e na distorção da realidade, temas desenvolvidos pelo Expressionismo"
+        },
+        {
+          "letra": "e",
+          "texto": "Libertou-se ao experimentar o universo onírico e a técnica da escrita automática do Surrealismo."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira – Modernismo",
+        "Língua Portuguesa – Vanguarda Europeia"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Para uma conferência sobre profissões do futuro, um colégio reuniu 2 classes no auditório da escola. Uma delas tinha 45 alunos, dos quais 20% eram meninas; e a outra tinha 36 alunos, sendo metade de meninas. Podemos afirmar que, do total de alunos que assistiram à conferência, a quantidade de meninas foi:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "30%"
+        },
+        {
+          "letra": "b",
+          "texto": "$\\frac{1}{4}$"
+        },
+        {
+          "letra": "c",
+          "texto": "35%"
+        },
+        {
+          "letra": "d",
+          "texto": "$\\frac{2}{5}$"
+        },
+        {
+          "letra": "e",
+          "texto": "$\\frac{1}{3}$"
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Matemática – Porcentagem",
+        "Matemática – Razão e Proporção"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Entre as expressões numéricas abaixo:\n\n• $2-2\\times2:2+2=2$\n• $(2-2)\\times2:2+2=2$\n• $2-(2\\times2):2+2=2$\n• $2-2\\times(2:2)+2=2$\n• $2-2\\times2:(2+2)=2$\n\nEstá(ão) correta(s):",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "apenas uma"
+        },
+        {
+          "letra": "b",
+          "texto": "apenas duas"
+        },
+        {
+          "letra": "c",
+          "texto": "apenas três"
+        },
+        {
+          "letra": "d",
+          "texto": "apenas quatro"
+        },
+        {
+          "letra": "e",
+          "texto": "todas"
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Matemática – Expressões Numéricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "A linha tracejada divide o terreno representado abaixo em duas partes de mesma área. A distância x é de:\n\nObs: todos os ângulos são retos",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "10,7 m"
+        },
+        {
+          "letra": "b",
+          "texto": "12,5 m"
+        },
+        {
+          "letra": "c",
+          "texto": "13,2 m"
+        },
+        {
+          "letra": "d",
+          "texto": "14 m"
+        },
+        {
+          "letra": "e",
+          "texto": "11,5 m"
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Matemática – Geometria Plana – Área"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Para $x > 0$ e $y > 0$, o valor da expressão $\\sqrt[5]{x^5 + y^5}$ é igual a:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "$\\sqrt[5]{xy}$"
+        },
+        {
+          "letra": "b",
+          "texto": "$x^5 + y^5$"
+        },
+        {
+          "letra": "c",
+          "texto": "$x^5 - y^5$"
+        },
+        {
+          "letra": "d",
+          "texto": "$xy$"
+        },
+        {
+          "letra": "e",
+          "texto": "$\\sqrt{x} + \\sqrt{y}$"
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Matemática – Álgebra – Radicais"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "A figura abaixo representa 4 balanças perfeitamente equilibradas. O valor do peso x é igual a:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "28"
+        },
+        {
+          "letra": "b",
+          "texto": "32"
+        },
+        {
+          "letra": "c",
+          "texto": "23"
+        },
+        {
+          "letra": "d",
+          "texto": "34"
+        },
+        {
+          "letra": "e",
+          "texto": "25"
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Matemática – Raciocínio Lógico"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "O algarismo colocado em cada vértice da malha abaixo indica o número de maneiras de se chegar a ele, percorrendo os caminhos apenas nos sentidos indicados pelas setas, a partir de A. O número que se deve colocar no vértice B é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "18"
+        },
+        {
+          "letra": "b",
+          "texto": "20"
+        },
+        {
+          "letra": "c",
+          "texto": "16"
+        },
+        {
+          "letra": "d",
+          "texto": "15"
+        },
+        {
+          "letra": "e",
+          "texto": "19"
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Ana quer presentear suas amigas com bombons que ela mesma fez e, para isso, comprou uma caixa decorada para cada uma. Se ela colocar 8 bombons em cada caixa, sobrarão 3 bombons. Se ela colocar 9 bombons em cada caixa, faltará 1 bombom. Sendo a o número de amigas e b o número de bombons, podemos concluir que $a + b$ é igual a:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "37"
+        },
+        {
+          "letra": "b",
+          "texto": "40"
+        },
+        {
+          "letra": "c",
+          "texto": "35"
+        },
+        {
+          "letra": "d",
+          "texto": "42"
+        },
+        {
+          "letra": "e",
+          "texto": "39"
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Matemática – Sistemas de Equações do 1º Grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Um arquiteto projetou uma faixa decorativa para ser construída ao longo de uma parede de 4,60 m de comprimento, usando ladrilhos quadrados de 10 cm de lado, em duas cores: uma mais clara e outra mais escura. A faixa deve seguir o padrão mostrado na figura abaixo, até o seu final.\n\nSupondo que não existam vãos entre os ladrilhos, o número de ladrilhos escuros será igual a:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "90"
+        },
+        {
+          "letra": "b",
+          "texto": "88"
+        },
+        {
+          "letra": "c",
+          "texto": "87"
+        },
+        {
+          "letra": "d",
+          "texto": "91"
+        },
+        {
+          "letra": "e",
+          "texto": "89"
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Matemática – Raciocínio Lógico",
+        "Matemática – Sequências"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "O conjunto solução da equação $\\log x + \\log (x - 4) = \\log 45$ é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "{9}"
+        },
+        {
+          "letra": "b",
+          "texto": "{-5,9}"
+        },
+        {
+          "letra": "c",
+          "texto": "{6,9}"
+        },
+        {
+          "letra": "d",
+          "texto": "{-5, 6}"
+        },
+        {
+          "letra": "e",
+          "texto": "{}"
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Matemática – Logaritmos"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Uma caixa contém 5 bolas brancas, 4 bolas pretas e 3 bolas vermelhas. Se 8 bolas forem retiradas dessa caixa, podemos ter certeza de que:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "pelo menos uma é vermelha"
+        },
+        {
+          "letra": "b",
+          "texto": "pelo menos uma é preta"
+        },
+        {
+          "letra": "c",
+          "texto": "pelo menos uma é branca"
+        },
+        {
+          "letra": "d",
+          "texto": "duas delas serão pretas"
+        },
+        {
+          "letra": "e",
+          "texto": "nenhuma delas será vermelha"
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Matemática – Análise Combinatória – Princípio da Casa dos Pombos"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Uma reta passa pelo ponto $(8, 0)$ e forma, com os eixos coordenados do plano cartesiano, um triângulo de área 24. A distância dessa reta até a origem $(0, 0)$ é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "3,6"
+        },
+        {
+          "letra": "b",
+          "texto": "5"
+        },
+        {
+          "letra": "c",
+          "texto": "4,2"
+        },
+        {
+          "letra": "d",
+          "texto": "4,8"
+        },
+        {
+          "letra": "e",
+          "texto": "6"
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Matemática – Geometria Analítica – Reta",
+        "Matemática – Geometria Plana – Área"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "A figura abaixo mostra a planta de um salão comercial ligado a um mezanino por meio de uma escada. Mostra também um detalhe de cada degrau. A proporção entre as medidas do espelho e do piso do degrau é de 2:3.\n\nPodemos concluir que a altura do piso do mezanino em relação ao piso do salão é de:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "2,34 m"
+        },
+        {
+          "letra": "b",
+          "texto": "2,46 m"
+        },
+        {
+          "letra": "c",
+          "texto": "2,38 m"
+        },
+        {
+          "letra": "d",
+          "texto": "2,48 m"
+        },
+        {
+          "letra": "e",
+          "texto": "2,52 m"
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Matemática – Razão e Proporção",
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Com 30 palitos de sorvete, um menino construiu x triângulos e y quadrados, conforme a figura. Sendo $x > y$, o valor de $x + y$ é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "7"
+        },
+        {
+          "letra": "b",
+          "texto": "8"
+        },
+        {
+          "letra": "c",
+          "texto": "9"
+        },
+        {
+          "letra": "d",
+          "texto": "10"
+        },
+        {
+          "letra": "e",
+          "texto": "11"
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Matemática – Sistemas de Equações do 1º Grau",
+        "Matemática – Raciocínio Lógico"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Se os números reais $x - 1$, $\\sqrt{x}$ e $x + 1$ são termos consecutivos de uma PG, nessa ordem, o valor de x é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "$\\frac{1 + \\sqrt{5}}{2}$"
+        },
+        {
+          "letra": "b",
+          "texto": "$\\frac{3-\\sqrt{5}}{2}$"
+        },
+        {
+          "letra": "c",
+          "texto": "$\\frac{\\sqrt{5}-1}{2}$"
+        },
+        {
+          "letra": "d",
+          "texto": "$\\frac{2\\sqrt{5}-1}{2}$"
+        },
+        {
+          "letra": "e",
+          "texto": "$\\frac{4-\\sqrt{5}}{2}$"
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Matemática – Progressão Geométrica",
+        "Matemática – Equações Irracionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "O próximo termo da sequência $(25, 53, 36, 64, ......)$ é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "72"
+        },
+        {
+          "letra": "b",
+          "texto": "39"
+        },
+        {
+          "letra": "c",
+          "texto": "75"
+        },
+        {
+          "letra": "d",
+          "texto": "58"
+        },
+        {
+          "letra": "e",
+          "texto": "47"
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Matemática – Sequências Numéricas",
+        "Matemática – Raciocínio Lógico"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Uma rã está no início de uma faixa elástica de 2 metros de comprimento. Para chegar ao final da faixa ela dá sucessivos saltos de 1 metro de distância, mas, após cada salto da rã, a faixa sofre um alongamento de 1 metro. Dessa forma podemos concluir que:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "ela alcançará o final da faixa após 2 saltos."
+        },
+        {
+          "letra": "b",
+          "texto": "ela alcançará o final da faixa após 3 saltos."
+        },
+        {
+          "letra": "c",
+          "texto": "ela alcançará o final da faixa após 4 saltos."
+        },
+        {
+          "letra": "d",
+          "texto": "ela alcançará o final da faixa após 5 saltos."
+        },
+        {
+          "letra": "e",
+          "texto": "ela nunca alcançará o final da faixa."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Matemática – Sequências Numéricas",
+        "Matemática – Raciocínio Lógico"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Dados 2 números reais positivos $x$ e $y$, definimos:\n\n$A(x, y) = \\frac{x + y}{2}$ como média aritmética entre $x$ e $y$\n\n$G(x, y) = \\sqrt{xy}$ como média geométrica entre $x$ e $y$\n\n$H(x, y) = \\frac{2xy}{x + y}$ como média harmônica entre $x$ e $y$\n\nPode-se afirmar, então, que a média geométrica entre a média aritmética e a média harmônica entre dois números reais positivos é igual:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "à média aritmética entre eles."
+        },
+        {
+          "letra": "b",
+          "texto": "à média geométrica entre eles."
+        },
+        {
+          "letra": "c",
+          "texto": "à média harmônica entre eles."
+        },
+        {
+          "letra": "d",
+          "texto": "ao produto deles."
+        },
+        {
+          "letra": "e",
+          "texto": "à soma deles."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Matemática – Médias"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Numa classe, 40% dos alunos são do sexo feminino; 70% dos homens são morenos e 80% das mulheres não são morenas. A porcentagem de pessoas morenas dessa classe é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "58%"
+        },
+        {
+          "letra": "b",
+          "texto": "66%"
+        },
+        {
+          "letra": "c",
+          "texto": "60%"
+        },
+        {
+          "letra": "d",
+          "texto": "74%"
+        },
+        {
+          "letra": "e",
+          "texto": "50%"
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Seja $y = f(x)$ uma função do primeiro grau tal que $f(0) = 1$ e $f(f(1)) = 1$. O gráfico que melhor representa essa função é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "y^ | 1  |---2---x"
+        },
+        {
+          "letra": "b",
+          "texto": "y^ | 1  |--1--x"
+        },
+        {
+          "letra": "c",
+          "texto": "y^ | 1  |-----x"
+        },
+        {
+          "letra": "d",
+          "texto": "y^ | 1  |--1--x"
+        },
+        {
+          "letra": "e",
+          "texto": "y^ | 1  |--(-2)--x"
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Matemática – Funções – Função Afim"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "A figura abaixo representa uma praça de forma triangular, sendo que o ângulo $\\hat{A}$ é reto. Duas pessoas percorrem o contorno da praça a partir do ponto A, mas em sentidos contrários, até se encontrarem num ponto P do lado BC. Sabendo-se que elas percorreram distâncias iguais, podemos concluir que a distância do ponto P ao ponto A, em linha reta é de, aproximadamente:\n\n(adote $\\sqrt{5} = 2,25$)",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "22 m"
+        },
+        {
+          "letra": "b",
+          "texto": "25 m"
+        },
+        {
+          "letra": "c",
+          "texto": "27 m"
+        },
+        {
+          "letra": "d",
+          "texto": "30 m"
+        },
+        {
+          "letra": "e",
+          "texto": "32 m"
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Matemática – Geometria Plana – Triângulos",
+        "Matemática – Teorema de Pitágoras"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "INGLÊS\n\nCan Nature Lie?\n\nThe lying that we humans do requires a more sophisticated kind of cognition than a bird, flower, or fungus can muster.\n\nBy Robin Marantz Henig\n\nAnalyzing animals to better understand Homo sapiens has become a sub-genre in the field of science writing. Sometimes this works well, as when Sabrina Imbler uses a purple octopus, starving to death while incubating her eggs, as a metaphor for disordered eating in How Far the Light Reaches. But other times, the enterprise feels downright Procrustean: An author amasses a wide swath of animal activities, even down to the level of the cell, and describes them in ways that might give the impression that some human quality has an analogue out there in the biosphere.\n\nThe compression is most strained when the activity being explained is complex and quintessentially human, such as deception. This makes the enterprise of writing The Liars of Nature and the Nature of Liars, a recent book by Lixing Sun, especially difficult. Sun, a professor of animal behavior, ecology, and evolution at Central Washington University, presents a string of entertaining facts about the many ways plants and animals use trickery to survive. But the language is too casually anthropomorphic, undermining the points he's trying to make about cheating in the natural world. At the outset, Sun acknowledges that ascribing intentionality to animal behavior is 'neither easy nor necessary,'' and admits that deceptive adaptations arise from the unplanned march of evolution. “Cheating flourishes in nature as a direct result of natural selection, '' he writes. It also \"serves as a potent selective force that drives evolution on its own.'' But his word choices and awkward phrasing often leave the reader with only a partial understanding of how flora and fauna actually “lie” and “deceive.'”\n\nThe behavior we think of as lying requires a more sophisticated kind of cognition than telling the truth does—and certainly a more sophisticated kind of cognition than a bird, flower, or fungus can muster. Years ago, when I was reporting an article about the science of deception, the psychologist Paul Ekman told me that a liar needs three qualities to succeed: the ability to think strategically, like a good chess player; the ability to read the needs of others, like a talented therapist; and the ability to manage emotions, like a grown-up. In other words, a good liar needs a high level of both cognitive and emotional intelligence.\n\nAnd though lying—at least in humans—might be an ingenious skill, the evolution through which cheating arises in the natural world is not smart in the least. The way Sun describes each example makes it seem that plants and animals develop particular traits of fakery or mimicry out of some sort of mischievous, cunning impulse. But there's nothing deliberate about evolutionary adaptation, which is the perpetuation of traits, arising randomly, that improve an organism's chance of staying alive, reproducing, and passing along the same advantageous traits to the next generation. It's a stupid process, lacking not only intentionality but also any kind of end goal beyond helping a particular organism survive and reproduce.\n\nSun knows this; he's a biology professor, after all. But the diction he deploys suggest otherwise. Sun, like others, falls into the science-writing trap of stretching biological phenomena to fit the contours of human understanding. As a result, the reader can be forgiven for coming away with the impression that cheating fauna and flora—right down to the level of bacteria—are clever enough to always have, as he puts it in one of his many awkward attempts to be engaging, a few new 'tricks up their sleeves.”\n\nHis colorful word choices-no doubt employed to make his writing more accessible and fun-seem to elide randomness altogether. He uses terms such as imposters, hustlers, and con artists to describe the book's animals, including Pacific tree frogs, and talks of the 'tricks” that were “invented” by the duplicitous cuckoo. He uses words like these to characterize cheats that don't even have nervous systems, such as the South American passion flower. It has evolved spots on its leaves that resemble the eggs of the Heliconius butterfly, which cause the butterfly to avoid laying its clutch there and instead move on to a plant that looks unoccupied—a handy deflection, what Sun calls a “most peculiar form of plant mimicry,'' because newly hatched Heliconius caterpillars can be quite destructive to the passion flower. As Sun chooses to describe it, those yellow spots arose because 'these plants can 'read the mind' of Heliconius butterflies.” But in truth, no plant ESP is involved; those fake-out butterfly eggs are the result of a random mutation in leaf coloration that turned out to have a benefit for the mutant plant. And using scare quotes around 'read the mind'' doesn't get the author off the hook.\n\nIf you're looking for a compilation of weird facts about the splendors of the natural world—something that's been called the 'gee-whiz'' approach to science writing—this book delivers. It is an often-enlightening collection of some stunning acts of animal trickery that have evolved in the brutal Darwinian struggle for survival. Dropping some of the tidbits you picked up here would make you the hit of the cocktail party. Did you know, for instance, that the stripes of a zebra create a confusing effect called \"razzle dazzle,'' and that their advantage may be in keeping away tsetse flies?\n\nIn the last chapters of the book, Sun tries to draw a straight line from these many organisms to humans. We can, he writes, “use our newly acquired evolutionary understanding of how cheaters operate to design novel strategies to combat cheating in our society.'' Sun's desire to draw lessons from the natural world about human lies has a subtler danger: Other living things are not just furry or feathered little proto-people, and comparing their behavior to ours risks underappreciating them as the amazing organisms they are. The astounding variety of the biosphere, evolved through random mutations over the course of eons, is reason enough to marvel at all the ways that certain surprising conduct has helped plants and animals thrive. So my recommendation is to read The Liars of Nature and the Nature of Liars for its great cocktail-party fodder, and to leave lessons about human deception to the psychologists, neuroscientists, and philosophers.\n\nRobin Marantz Henig is a freelance science writer whose books include The Monk in the Garden, Pandora's Baby, and Twentysomething.\n\nhttps://www.theatlantic.com/books/archive/2023/07/evolution-liars-of-nature-lixing-sun-review/674808/\nAcesso em 26/07/2023.\n\nWhat kind of text is the one above (Can Nature Lie?)?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "A narrative;"
+        },
+        {
+          "letra": "b",
+          "texto": "A review;"
+        },
+        {
+          "letra": "c",
+          "texto": "An essay;"
+        },
+        {
+          "letra": "d",
+          "texto": "A study;"
+        },
+        {
+          "letra": "e",
+          "texto": "A report."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "In the subtitle of the text, the verb do (boldfaced) could be best replaced by:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "lie;"
+        },
+        {
+          "letra": "b",
+          "texto": "tell;"
+        },
+        {
+          "letra": "c",
+          "texto": "say;"
+        },
+        {
+          "letra": "d",
+          "texto": "make;"
+        },
+        {
+          "letra": "e",
+          "texto": "engage in."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Inglês – Vocabulário",
+        "Inglês – Gramática"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "From the reading of the text, we can assert that Sabrina Imbler, Robin Marantz Henig and Lixing Sun:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "are all professors;"
+        },
+        {
+          "letra": "b",
+          "texto": "are American writers;"
+        },
+        {
+          "letra": "c",
+          "texto": "rely on science as a support for their cited writings;"
+        },
+        {
+          "letra": "d",
+          "texto": "have similar beliefs and convictions;"
+        },
+        {
+          "letra": "e",
+          "texto": "can hardly agree with one another."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "The main criticism of Henig to Sun's book (The Liars of Nature and the Nature of Liars) is about:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Sun's embellished wording;"
+        },
+        {
+          "letra": "b",
+          "texto": "His lack of knowlegde;"
+        },
+        {
+          "letra": "c",
+          "texto": "His ironies throughout the book;"
+        },
+        {
+          "letra": "d",
+          "texto": "His deceptive language;"
+        },
+        {
+          "letra": "e",
+          "texto": "His subtle emphasis on the dissimilarities."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "According to Henig, readers' understanding that cheating fauna and flora are clever enough to always have a few new “tricks up their sleeves” is misleading. This is true for all of the reasons below except:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "In nature, evolution is a mindless process, with no plan, no direction, nothing except the coincidence of a selective advantage generated by a completely arbitrary genetic blow;"
+        },
+        {
+          "letra": "b",
+          "texto": "There is no intentionality involved in the evolution of animals;"
+        },
+        {
+          "letra": "c",
+          "texto": "There is no deliberateness to animal or plant behavior, but having “tricks up their sleeves” suggests differently;"
+        },
+        {
+          "letra": "d",
+          "texto": "In nature, traits such as trickery, dishonesty and deception have given rise to wondrous diversity;"
+        },
+        {
+          "letra": "e",
+          "texto": "Nature's mindless evolution relies on accidental genetic advantages."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Henig mentions the example of the Heliconius butterfly to illustrate:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Sun's savvy perception of the animal's cleverness;"
+        },
+        {
+          "letra": "b",
+          "texto": "The mutant plant benefits from the fake butterfly eggs, which arise due to an arbitrary mutation in leaf coloration;"
+        },
+        {
+          "letra": "c",
+          "texto": "Passion flowers are indeed the most suitable places to hatch Heliconius' eggs;"
+        },
+        {
+          "letra": "d",
+          "texto": "How nonrandom the evolution process among plants is;"
+        },
+        {
+          "letra": "e",
+          "texto": "That cheating, a catalyst for social intelligence, matters so much in evolution."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "As mentioned by Henig, reading The Liars of Nature and the Nature of Liars is worthwhile for one reason. It is:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "It describes deceptions from a scientific point of view;"
+        },
+        {
+          "letra": "b",
+          "texto": "Readers will have a more sophisticated perception of the nature development;"
+        },
+        {
+          "letra": "c",
+          "texto": "It is very well written, despite the inexact content;"
+        },
+        {
+          "letra": "d",
+          "texto": "There is no room for fakery;"
+        },
+        {
+          "letra": "e",
+          "texto": "Its tales may amuse people in gatherings."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Henig states that drawing parallels between other living beings' behavior and ours may lead to undervaluing the astonishing organisms they truly are. This is because:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "We may underestimate their cognitive development throughout evolution;"
+        },
+        {
+          "letra": "b",
+          "texto": "We must recognize that other living beings are mere hairy or feathered prototypes of humans;"
+        },
+        {
+          "letra": "c",
+          "texto": "The remarkable diversity of the biosphere, shaped by countless random mutations over countless ages is enough reason to praise them;"
+        },
+        {
+          "letra": "d",
+          "texto": "Unlike human beings, other living beings rely on cheating and deceiving in order to adapt;"
+        },
+        {
+          "letra": "e",
+          "texto": "Human parameters are rather accurate when employed to depict other living beings' behavior."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "The following comics are jokes because of ambiguities. These ambiguities happen:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "in the way both use the verb lie/lies;"
+        },
+        {
+          "letra": "b",
+          "texto": "due to their verb choices;"
+        },
+        {
+          "letra": "c",
+          "texto": "in their negatives;"
+        },
+        {
+          "letra": "d",
+          "texto": "in their characters' representations;"
+        },
+        {
+          "letra": "e",
+          "texto": "in their use of the prepositions (out and ahead)."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Inglês – Gramática – Ambiguidade",
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "I didn't lie: I told my mum I was going to hang out with my best friend...\n\n\"What lies ahead? Oh, I don't know, but I daresay there'll be a few.\"\n\nIn the second comic:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "The question is grammatically incorrect, but as it is a speech, informal language is fully acceptable;"
+        },
+        {
+          "letra": "b",
+          "texto": "The question is grammatically correct under one specific interpretation;"
+        },
+        {
+          "letra": "c",
+          "texto": "The auxiliary verb is necessarily missing in the question;"
+        },
+        {
+          "letra": "d",
+          "texto": "'lies', in the question, can only be read as a verb;"
+        },
+        {
+          "letra": "e",
+          "texto": "'lies', in the question, can only be read as a noun."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Inglês – Gramática – Ambiguidade",
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "HUMANIDADES E CULTURA GERAL CONTEMPORÂNEA\n\nAs reformas promovidas por Clístenes, em Atenas, levaram à instituição do ostracismo que implicava:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "a criação do cargo de legislador, magistrado encarregado de propor leis."
+        },
+        {
+          "letra": "b",
+          "texto": "a ampliação do direito de voto e participação política a todo cidadão com mais de 30 anos."
+        },
+        {
+          "letra": "c",
+          "texto": "a expulsão dos estrangeiros considerados perigosos para a cultura ateniense."
+        },
+        {
+          "letra": "d",
+          "texto": "o exílio por dez anos de qualquer cidadão considerado perigoso para a democracia."
+        },
+        {
+          "letra": "e",
+          "texto": "o banimento para sempre do atingido, o qual perdia seus direitos políticos, mas poderia manter suas propriedades."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "História – História Antiga – Grécia"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Quanto ao movimento cruzadista, é correto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "o movimento cruzadista refletiu a unidade da Igreja Católica Romana, que convocou, liderou e demonstrou sua autoridade indiscutível sobre toda a cristandade."
+        },
+        {
+          "letra": "b",
+          "texto": "o movimento cruzadista, organizado sob forte caráter sagrado, nada teve de relação com interesses comerciais."
+        },
+        {
+          "letra": "c",
+          "texto": "as Cruzadas foram uma contraofensiva cristã diante do avanço árabe-muçulmano no Mediterrâneo e no sul da Europa."
+        },
+        {
+          "letra": "d",
+          "texto": "o movimento cruzadista envolveu a participação da Igreja Católica Romana e da nobreza e não contou com a presença de fiéis das mais baixas camadas sociais."
+        },
+        {
+          "letra": "e",
+          "texto": "o movimento cruzadista foi um completo sucesso, tendo em conta a recuperação de Jerusalém e da Terra Santa no século XIII."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "História – História Medieval – Cruzadas"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Com a expansão marítima, comercial e colonial europeia, a organização de toda a produção colonial se fez de acordo com a política econômica do mercantilismo. A violência adotada na colonização da América incluiu a prática da mita, que consistia:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "num procedimento de origem inca, utilizado pelos espanhóis no trabalho compulsório das comunidades indígenas na economia mineradora."
+        },
+        {
+          "letra": "b",
+          "texto": "numa espécie de servidão do indígena para o trabalho agrícola, em vastas extensões de terras apropriadas pelo conquistador espanhol."
+        },
+        {
+          "letra": "c",
+          "texto": "em medida adotada pela coroa espanhola para preservar os costumes indígenas e evitar a desfiguração cultural."
+        },
+        {
+          "letra": "d",
+          "texto": "numa iniciativa da Igreja Católica Romana, desenvolvida nas Missões religiosas, empenhada que estava na evangelização."
+        },
+        {
+          "letra": "e",
+          "texto": "numa unidade social que existia entre os incas e que dava permissão, ao membro da comunidade indígena, de trabalhar em sua terra."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "História – História da América – Colonização Espanhola",
+        "História – História do Brasil – Período Colonial"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Sedição frustrada, severamente reprimida pela Coroa portuguesa, ocorrida em Salvador em meados de 1798, com a participação de diversos indivíduos pobres e destituídos tocados pelas ideias da Revolução Francesa.\n\nO enunciado trata da:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Conjuração dos Suassunas."
+        },
+        {
+          "letra": "b",
+          "texto": "Conjuração Baiana ou dos Alfaiates."
+        },
+        {
+          "letra": "c",
+          "texto": "Revolta dos Malês."
+        },
+        {
+          "letra": "d",
+          "texto": "Sabinada."
+        },
+        {
+          "letra": "e",
+          "texto": "Revolta da Cachaça ou do Barbalho."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "História – História do Brasil – Período Colonial",
+        "História – Revoltas Nativistas"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "Em um tempo, o século XIX, em que as mulheres ainda não dispunham de maior visibilidade, Maria Quitéria conheceu glória efêmera em vida e somente na posteridade passou a integrar um lugar entre os grandes nomes da História do Brasil.\n\nMaria Quitéria foi:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "uma religiosa que morreu defendendo a clausura do Convento da Lapa contra a invasão de soldados portugueses na guerra de independência."
+        },
+        {
+          "letra": "b",
+          "texto": "a primeira mulher a fazer o curso de parto na Faculdade de Medicina do Rio de Janeiro e a primeira a ser aceita como sócia da Academia Imperial de Medicina."
+        },
+        {
+          "letra": "c",
+          "texto": "a preceptora daquele que viria a ser o imperador D. Pedro II, instruindo o príncipe e comandando o séquito de funcionários e agregados da corte."
+        },
+        {
+          "letra": "d",
+          "texto": "compositora e maestrina, uma das precursoras da música popular brasileira, além de participar intensamente do maior movimento social de seu tempo, a luta pela abolição da escravidão."
+        },
+        {
+          "letra": "e",
+          "texto": "a moça que, com enorme bravura, combateu na guerra de independência como \"soldado Medeiros”, tendo, após a vitória final, sido condecorada pelo próprio imperador com a Ordem do Cruzeiro."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "História – História do Brasil – Período Imperial"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "Criada por lei de 18 de agosto de 1831, no Brasil Imperial, ao tempo da Regência, a Guarda Nacional:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "surgiu para garantir uma participação democrática dos mais variados setores da sociedade brasileira."
+        },
+        {
+          "letra": "b",
+          "texto": "baseava sua atuação no município, subordinada diretamente aos juízes de paz."
+        },
+        {
+          "letra": "c",
+          "texto": "foi concebida com o intuito centralizador, pois desde a sua criação era subordinada ao regente."
+        },
+        {
+          "letra": "d",
+          "texto": "substituiu o exército, que deixou de existir durante o Período Regencial."
+        },
+        {
+          "letra": "e",
+          "texto": "não exigia comprovação de renda entre os critérios utilizados para ingressar na instituição."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "História – História do Brasil – Período Regencial"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Reuniu-se em Viena (1814-1815), após a derrota de Napoleão, um Congresso das potências europeias para elaborar um acordo de paz.\n\nQuanto ao Congresso de Viena, é CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "foi conduzido por Metternich, representante da Áustria, intransigente adepto do liberalismo."
+        },
+        {
+          "letra": "b",
+          "texto": "puniu a França, considerando-a culpada pela guerra, retirando parte considerável de seus territórios."
+        },
+        {
+          "letra": "c",
+          "texto": "não estabeleceu punição à França, que foi dispensada do pagamento de qualquer indenização."
+        },
+        {
+          "letra": "d",
+          "texto": "entre as suas decisões constava a supressão das ideias liberais e a repressão de manifestações revolucionárias."
+        },
+        {
+          "letra": "e",
+          "texto": "concedeu apoio ao nacionalismo, ao avaliar que era um tipo de ideologia cuja força garantia a solidez de impérios como a Áustria dos Habsburgos."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "História – História Geral – Idade Contemporânea",
+        "História – História Geral – Congresso de Viena"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "A comunidade livre de Belo Monte representava uma alternativa para o tradicional regime de exploração a que estavam submetidas, há séculos, as populações sertanejas; portanto sua existência era vista como uma ameaça pelos poderosos (...).\nAlém disso, o líder sertanejo criticava abertamente a ordem republicana.\n\n(Vicentino, Cláudio. História do Brasil. São Paulo: Scipione, 1997)\n\nO texto remete ao conflito:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "do Quilombo de Palmares."
+        },
+        {
+          "letra": "b",
+          "texto": "da Guerra do Contestado."
+        },
+        {
+          "letra": "c",
+          "texto": "da Guerra de Canudos."
+        },
+        {
+          "letra": "d",
+          "texto": "da Revolta de Juazeiro."
+        },
+        {
+          "letra": "e",
+          "texto": "do massacre da Pedra Bonita ou Pedra do Reino."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "História – História do Brasil – República Velha",
+        "História – Guerra de Canudos"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "Em 1923 a República de Weimar enfrentava graves dificuldades. A França havia ocupado a região industrial do Ruhr, o número de desempregados chegou a cinco milhões de pessoas, a inflação desvalorizou o marco (dinheiro alemão) ao ponto de um dólar valer oito bilhões de marcos.\n\n(Leonel Itaussu Mello e Luís Cesar Costa. História Moderna e Contemporânea. São Paulo: Scipione, 1988)\n\nA situação descrita no texto resultou, em 1923,:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "no Putsch (golpe) de Munique promovido pelos nazistas."
+        },
+        {
+          "letra": "b",
+          "texto": "na Revolução Espartaquista promovida pelos comunistas."
+        },
+        {
+          "letra": "c",
+          "texto": "no incêndio do Reichstag (Parlamento) praticado pelos comunistas."
+        },
+        {
+          "letra": "d",
+          "texto": "na Kristallnacht (Noite dos Cristais) promovida pelos nazistas."
+        },
+        {
+          "letra": "e",
+          "texto": "na Conferência de Wannsee organizada pelos nazistas."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "História – História Geral – Entreguerras",
+        "História – Alemanha Nazista"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "A obra em questão é de autoria de um dos mais famosos artistas do século XX. Ele é reconhecido por famoso mural sobre a Guerra Civil Espanhola e, sendo um dos fundadores do Cubismo, tornou-se quase um mito da pintura de vanguarda.\n\nO artista em questão é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Salvador Dalí."
+        },
+        {
+          "letra": "b",
+          "texto": "Juan Miró."
+        },
+        {
+          "letra": "c",
+          "texto": "René Magritte."
+        },
+        {
+          "letra": "d",
+          "texto": "George Braque."
+        },
+        {
+          "letra": "e",
+          "texto": "Pablo Picasso."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Arte – Artes Plásticas",
+        "Arte – Vanguarda Europeia – Cubismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 61,
+      "enunciado": "Analise o texto:\n\nCrescimento e distribuição espacial da população\n\nSegundo os primeiros resultados do Censo Demográfico 2022, a população recenseada alcançou a marca de 203 062 512 habitantes na data de referência, dia 31 de julho de 2022. A série de censos brasileiros mostrou que\n\nFonte - IBGE. Censo demográfico 2022. Rio de Janeiro, IBGE, 2023.\n\nA alternativa que encerra corretamente a continuidade do texto divulgado pelo IBGE, em 2023, é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "a tendência de redução do número total de habitantes no país deve prosseguir nas amostragens seguintes, confirmando o que já ocorrera em relação ao Censo anterior."
+        },
+        {
+          "letra": "b",
+          "texto": "houve uma pequena redução da população absoluta brasileira em relação ao censo anterior, após o país experimentar sucessivos aumentos em seu contingente, tendo crescido continuamente desde o primeiro recenseamento realizado em 1920."
+        },
+        {
+          "letra": "c",
+          "texto": "a população residente no Brasil experimentou sucessivos aumentos em seu contingente, tendo crescido mais de 20 vezes nos últimos 150 anos, desde o primeiro recenseamento realizado no Brasil em 1872."
+        },
+        {
+          "letra": "d",
+          "texto": "a taxa de crescimento natural voltou a aumentar depois de um período de queda."
+        },
+        {
+          "letra": "e",
+          "texto": "a população residente no Brasil não apresentou aumento em relação ao Censo de 2010, revelando uma surpreendente estagnação demográfica."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Geografia – Demografia",
+        "Geografia – População Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 62,
+      "enunciado": "Observe a imagem a seguir:\n\nEla está relacionada à energia:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Eólica."
+        },
+        {
+          "letra": "b",
+          "texto": "Termelétrica."
+        },
+        {
+          "letra": "c",
+          "texto": "Maremotriz."
+        },
+        {
+          "letra": "d",
+          "texto": "Solar."
+        },
+        {
+          "letra": "e",
+          "texto": "Nuclear."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Geografia – Fontes de Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 63,
+      "enunciado": "Observe a tabela que retrata um dos principais produtos da pauta de exportação brasileira.\n\nA commodity em questão é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Minério de ferro."
+        },
+        {
+          "letra": "b",
+          "texto": "Navios."
+        },
+        {
+          "letra": "c",
+          "texto": "Petróleo."
+        },
+        {
+          "letra": "d",
+          "texto": "Laranja."
+        },
+        {
+          "letra": "e",
+          "texto": "Aviões."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Geografia – Economia Brasileira",
+        "Geografia – Comércio Exterior"
+      ]
+    },
+    {
+      "numeroEnunciado": 64,
+      "enunciado": "O MapBiomas, em seu Relatório divulgado em 2023, informa que o desmatamento no Brasil cresceu 22,3% em relação ao ano anterior, e os dois biomas mais atingidos representam juntos 90,1% de todo desmatamento brasileiro. Os biomas mais desmatados que também são os dois maiores em área foram:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Amazônia e Mata Atlântica."
+        },
+        {
+          "letra": "b",
+          "texto": "Cerrado e Mata Atlântica."
+        },
+        {
+          "letra": "c",
+          "texto": "Amazônia e Cerrado."
+        },
+        {
+          "letra": "d",
+          "texto": "Cerrado e Caatinga."
+        },
+        {
+          "letra": "e",
+          "texto": "Amazônia e Mata das Araucárias."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Geografia – Meio Ambiente",
+        "Geografia – Biomas Brasileiros"
+      ]
+    },
+    {
+      "numeroEnunciado": 65,
+      "enunciado": "Há alguns tipos de trabalhadores rurais temporários, com remuneração diária, cuja denominação regional varia pelo território nacional. Podemos citar como exemplo dessa condição:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "boias-frias."
+        },
+        {
+          "letra": "b",
+          "texto": "gatos."
+        },
+        {
+          "letra": "c",
+          "texto": "arrendatário."
+        },
+        {
+          "letra": "d",
+          "texto": "posseiro."
+        },
+        {
+          "letra": "e",
+          "texto": "parceiro."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Geografia – População e Trabalho",
+        "Geografia – Setor Primário"
+      ]
+    },
+    {
+      "numeroEnunciado": 66,
+      "enunciado": "A OTAN, a mais importante organização de defesa do mundo, criada em 1949 por doze países, hoje conta com trinta e um membros. Durante a Guerra da Ucrânia, em 2022, ao contrário do que pretendia a Rússia, a organização conheceu uma expansão anunciando o ingresso de dois novos membros de países:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "ibéricos."
+        },
+        {
+          "letra": "b",
+          "texto": "nórdicos."
+        },
+        {
+          "letra": "c",
+          "texto": "latinos."
+        },
+        {
+          "letra": "d",
+          "texto": "eslavos."
+        },
+        {
+          "letra": "e",
+          "texto": "orientais."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "História – História Geral – Guerra Fria",
+        "História – Conflitos Atuais"
+      ]
+    },
+    {
+      "numeroEnunciado": 67,
+      "enunciado": "Somália, Etiópia, Djibuti, Eritreia são países que compõem a região a seguir. Assinale a alternativa que a identifica e também a caracteriza corretamente.\n\nFonte - Adaptado de IBGE, 2019.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "África subsaariana, caracterizada por secas constantes."
+        },
+        {
+          "letra": "b",
+          "texto": "Magreb, área majoritariamente árabe."
+        },
+        {
+          "letra": "c",
+          "texto": "África Austral de forte diversidade étnica."
+        },
+        {
+          "letra": "d",
+          "texto": "Chifre Africano, caracterizado por longas estiagens."
+        },
+        {
+          "letra": "e",
+          "texto": "África Ocidental, área mais úmida do continente."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Geografia – Geografia Regional – África"
+      ]
+    },
+    {
+      "numeroEnunciado": 68,
+      "enunciado": "Na geografia agrária internacional, são países que se destacam pela prática da rizicultura tradicional:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Alemanha, Inglaterra, França."
+        },
+        {
+          "letra": "b",
+          "texto": "Austrália, Rússia, Canadá."
+        },
+        {
+          "letra": "c",
+          "texto": "China, Índia, Vietnã."
+        },
+        {
+          "letra": "d",
+          "texto": "Brasil, Noruega, Argentina."
+        },
+        {
+          "letra": "e",
+          "texto": "França, Japão, Inglaterra."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Geografia – Setor Primário – Agricultura",
+        "Geografia – Geografia Agrária"
+      ]
+    },
+    {
+      "numeroEnunciado": 69,
+      "enunciado": "Observe o texto:\n\nÉ um organismo ligado à ONU, que procura promover o crescimento dos países em desenvolvimento por meio do comércio mundial, contribuindo para que participem do comércio global em condições de equidade. Esse organismo acredita que o comércio internacional é um fator de combate ao subdesenvolvimento, pois, apesar de a globalização ter contribuído para minimizar a pobreza, o ideal de um mundo menos desigual continua distante.\n\nFonte - Multiversos. Ciências Humanas, FTD, 2020.\n\nA instituição em questão é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "OMC"
+        },
+        {
+          "letra": "b",
+          "texto": "União Europeia"
+        },
+        {
+          "letra": "c",
+          "texto": "Unctad"
+        },
+        {
+          "letra": "d",
+          "texto": "OMS"
+        },
+        {
+          "letra": "e",
+          "texto": "OCDE"
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Geografia – Organizações Internacionais",
+        "Geografia – Globalização"
+      ]
+    },
+    {
+      "numeroEnunciado": 70,
+      "enunciado": "Sobre o país abaixo, está CORRETO afirmar que em 2023:\n\n",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Consolidou sua posição de maior potência demográfica mundial."
+        },
+        {
+          "letra": "b",
+          "texto": "Na última cúpula do BRICS, realizada na África do Sul, anunciou sua saída do grupo, o que o enfraqueceu sobremaneira."
+        },
+        {
+          "letra": "c",
+          "texto": "Manteve as altas taxas de crescimento econômico que o caracterizam desde 1978, aumentando as exportações com elevação do preço de bens e serviços sempre em alta."
+        },
+        {
+          "letra": "d",
+          "texto": "Anunciou um amplo programa de privatização e a retirada do Estado da economia, dinamizando suas exportações e restringindo a entrada de produtos importados."
+        },
+        {
+          "letra": "e",
+          "texto": "Depois de décadas de êxito, apresentou diminuição do crescimento econômico anual e vem conhecendo lenta recuperação econômica no período pós-covid 19."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Geografia – Geografia Regional – Ásia",
+        "Geografia – Economia Mundial"
+      ]
+    },
+    {
+      "numeroEnunciado": 71,
+      "enunciado": "Nos últimos anos, o Supremo Tribunal Federal tornou-se assunto mais presente no cotidiano do cidadão brasileiro, fato raro em épocas anteriores. Sobre essa instância do poder judiciário, em 2023:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "O mais novo ministro do Supremo, Cristiano Zanin, confirmou sua tendência esquerdista logo nas primeiras votações como no caso da descriminalização das drogas no país."
+        },
+        {
+          "letra": "b",
+          "texto": "Após o fim do mandato do ex-presidente Jair Bolsonaro, os dois ministros por ele indicados passaram a tomar decisões progressistas."
+        },
+        {
+          "letra": "c",
+          "texto": "Com o terceiro mandato do presidente Lula, o STF passou a ter maioria de indicados por gestões petistas com novos nomes que vieram somar a indicados anteriores como Gilmar Mendes e Dias Toffoli."
+        },
+        {
+          "letra": "d",
+          "texto": "Com a aposentadoria da ministra Rosa Weber, a distribuição por gêneros na corte ficará ainda mais desigual, caso se confirme a escolha por um ministro homem, restando como única presença feminina, a ministra Cármen Lúcia."
+        },
+        {
+          "letra": "e",
+          "texto": "O Ministro Alexandre de Moraes tornou-se condescendente com práticas criminosas, até então combatidas com veemência como o arquivamento do caso das joias desviadas e o dos atos golpistas do oito de janeiro."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Sociologia – Instituições Políticas Brasileiras",
+        "História – Brasil Contemporâneo"
+      ]
+    },
+    {
+      "numeroEnunciado": 72,
+      "enunciado": "Uma das prioridades do novo governo eleito, o denominado \"Arcabouço Fiscal\" tomou grande parte do noticiário político brasileiro nesse segundo semestre. Sobre esse mecanismo, é correto afirmar que se trata de:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "um regime que condiciona maiores gastos do governo ao cumprimento de metas fiscais, buscando conter o endividamento do Estado simultaneamente à busca de crescimento econômico."
+        },
+        {
+          "letra": "b",
+          "texto": "drástico corte de gasto e investimento nas áreas sociais e transferência da prioridade para a área produtiva e desenvolvimentista."
+        },
+        {
+          "letra": "c",
+          "texto": "maior presença do Estado na economia, com confisco de grandes fortunas e redução da taxa de juros para coibir a transferência de investimento da área produtiva para a área financeira."
+        },
+        {
+          "letra": "d",
+          "texto": "retomada da política conhecida como Teto de Gastos, que reconhece a necessidade de investimento em áreas sociais, mas prioriza a redução da dívida fiscal, mesmo que áreas da saúde e educação sejam comprometidas em prol do equilíbrio fiscal."
+        },
+        {
+          "letra": "e",
+          "texto": "busca da sustentabilidade fiscal com forte política de incentivo em investimento, inspirado na teoria do Estado investidor na economia, para atacar as mazelas sociais do país."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Geografia – Economia Brasileira",
+        "Sociologia – Políticas Públicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 73,
+      "enunciado": "Leia o texto:\n\nO grupo representa cerca de 40% da população mundial e em torno de 31% do seu Produto Interno Bruto. A reunião será uma das mais importantes tanto para os membros, como para o futuro desenho da governança global. A competição hegemônica entre os Estados Unidos e a China ganha novos contornos a cada dia. A crise climática se agrava. E muitos países emergentes não estão satisfeitos com os mecanismos associados à ordem liberal do pós-Segunda Guerra Mundial, especialmente a dependência do dólar na economia global.\n\nFonte - https://www.dn.pt/opcao/a-cupula-dos-bric--e-os-desafios-da-governanca-global-16889659.html.\nAcesso: 26/08/2023.\n\nO texto diz respeito ao encontro realizado em Johanesburgo, África do Sul, em agosto de 2023, pelo grupo:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "OSCE"
+        },
+        {
+          "letra": "b",
+          "texto": "OCDE"
+        },
+        {
+          "letra": "c",
+          "texto": "OTAN"
+        },
+        {
+          "letra": "d",
+          "texto": "G7"
+        },
+        {
+          "letra": "e",
+          "texto": "BRICS"
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Geografia – Organizações Internacionais",
+        "Geografia – Geopolítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 74,
+      "enunciado": "Observe a imagem e o texto a seguir.\n\nA repercussão dos ataques racistas no Campeonato Espanhol mostra que este não é um fato isolado. Nos últimos anos, foram vários os casos de racismo contra atletas brasileiros no futebol europeu, dentro e fora de campo, mas que não se limitam ao Velho Continente. Eles também avançaram no Brasil.\n\nFonte - Agência Brasil, 24/05/2023,\n\nConsiderando o contexto exposto no enunciado, é correto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Os episódios de racismo restringem-se ao continente europeu onde os países limitam cada vez mais a entrada de estrangeiros, potencializando os ataques."
+        },
+        {
+          "letra": "b",
+          "texto": "Os casos recorrentes de racismo ocorrem na Europa, enquanto na América do Sul tais práticas são isoladas devido à menor incidência de racismo estrutural no subcontinente."
+        },
+        {
+          "letra": "c",
+          "texto": "O episódio refere-se ao caso de Vinícius Júnior que atua no futebol espanhol, país que tem apresentado diversos casos de racismo e presença de partidos ultranacionalistas de extrema-direita."
+        },
+        {
+          "letra": "d",
+          "texto": "Diversos jogadores brasileiros foram vítimas de racismo na Europa, como Vinícius Júnior e Richarlison, devido a esses jogadores atuarem em países com baixa presença de imigrantes, sendo, portanto, minorias, logo, alvos de agressões."
+        },
+        {
+          "letra": "e",
+          "texto": "A América do Sul, tal qual a Europa, apresenta casos de intolerância étnica, exceção feita ao Brasil que devido à miscigenação intensa superou seu racismo estrutural, não ocorrendo episódios similares em território nacional."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Sociologia – Desigualdades Sociais",
+        "Sociologia – Racismo",
+        "Geografia – Globalização"
+      ]
+    },
+    {
+      "numeroEnunciado": 75,
+      "enunciado": "Oito países que compõem a Organização do Tratado de Cooperação da Amazônia (OTCA) reuniram-se em Belém, no Pará, em agosto de 2023. A Cúpula da Amazônia gerou a Declaração de Belém que se notabilizou pela ausência de um tema que foi a (o):",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "redução do desmatamento."
+        },
+        {
+          "letra": "b",
+          "texto": "compromisso com a erradicação da extração ilegal de recursos."
+        },
+        {
+          "letra": "c",
+          "texto": "veto à exploração de petróleo em áreas sensíveis da região amazônica."
+        },
+        {
+          "letra": "d",
+          "texto": "criação de mecanismos para combater o crime organizado."
+        },
+        {
+          "letra": "e",
+          "texto": "compromisso com os direitos dos povos indígenas."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Geografia – Meio Ambiente – Amazônia",
+        "Geografia – Organizações Internacionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 76,
+      "enunciado": "A revolta dos membros do Grupo Wagner em junho de 2023, na Rússia, e a queda do avião que provocou a morte de Yevguêni Prigojin, líder do grupo, em 23 de agosto, chamaram a atenção para a terceirização dos exércitos.\n\nFonte - www.observatoriodaimprensa.com.br/guerra/a-terceirizacao-dos-exercitos/\n\nQuanto ao Grupo Wagner, é correto assinalar que:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "atua especificamente na Ucrânia a serviço da Rússia."
+        },
+        {
+          "letra": "b",
+          "texto": "seus combatentes atuam como forças regulares russas dentro dos limites legais."
+        },
+        {
+          "letra": "c",
+          "texto": "as ações de seus combatentes ocorrem no âmbito de operações convencionais de forças regulares de terra, mar e ar."
+        },
+        {
+          "letra": "d",
+          "texto": "é uma milícia paramilitar (composta por mercenários, ex-militares, criminosos condenados), a qual não está sujeita a qualquer controle institucional e normas internacionais."
+        },
+        {
+          "letra": "e",
+          "texto": "a Rússia é o único país que recorre aos serviços de combatentes como os desse grupo, pois esse submundo bélico não encontra abrigo em outros países."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "História – Conflitos Atuais",
+        "Geografia – Geopolítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 77,
+      "enunciado": "Relatório do Conselho Empresarial Brasil-China (CEBC) divulgado, em 29 de agosto de 2023, apresenta dados do investimento da China no Brasil em 2022.\n\nInvestimento da China no Brasil\nInvestimento chinês no Brasil despenca em 2022\nEm US$ bilhões\n\nOs dados do relatório e o gráfico revelam que:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "os investimentos da China no Brasil alcançaram, em 2022, o maior número."
+        },
+        {
+          "letra": "b",
+          "texto": "os investimentos da China no Brasil apresentaram uma tendência de alta no período entre 2010 e 2022."
+        },
+        {
+          "letra": "c",
+          "texto": "o Brasil continua sendo o principal destino dos investimentos chineses no mundo."
+        },
+        {
+          "letra": "d",
+          "texto": "a política externa de Jair Bolsonaro e declarações do então Ministro da Economia, Paulo Guedes, contribuíram para atrair investimentos chineses."
+        },
+        {
+          "letra": "e",
+          "texto": "os investimentos da China no Brasil declinaram e alcançaram o menor nível desde 2010, com US$ 1,3 bilhão."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Geografia – Economia Brasileira",
+        "Geografia – Relações Internacionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 78,
+      "enunciado": "Faleceu em seis de julho, em São Paulo, uma referência do teatro no Brasil. Diretor, ator, dramaturgo e encenador brasileiro formou o Teatro Oficina, sua maior obra e templo das artes cênicas brasileiras. Seu teatro era encarado como orgiástico e antropofágico.\n\nO enunciado se refere a:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Aderbal Freire Filho."
+        },
+        {
+          "letra": "b",
+          "texto": "Milton Gonçalves."
+        },
+        {
+          "letra": "c",
+          "texto": "José Celso Martinez Corrêa."
+        },
+        {
+          "letra": "d",
+          "texto": "Sábato Magaldi."
+        },
+        {
+          "letra": "e",
+          "texto": "Antônio Pedro."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Arte – Teatro Brasileiro"
+      ]
+    },
+    {
+      "numeroEnunciado": 79,
+      "enunciado": "A missão Chandrayaan-3 conseguiu pousar com sucesso na superfície da lua nesta quarta-feira (23).A alunissagem bem-sucedida torna a Índia o quarto país a realizar o feito.\n\nFonte - Folha de São Paulo, 24/08/2023.\nCorrida espacial\n\nOs países que antecederam a Índia no feito em questão foram:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Rússia (então União Soviética); Estados Unidos; China."
+        },
+        {
+          "letra": "b",
+          "texto": "Rússia (então União Soviética); Estados Unidos; Grã-Bretanha."
+        },
+        {
+          "letra": "c",
+          "texto": "Rússia (então União Soviética); Estados Unidos; França."
+        },
+        {
+          "letra": "d",
+          "texto": "Rússia (então União Soviética); Estados Unidos; Alemanha."
+        },
+        {
+          "letra": "e",
+          "texto": "Rússia (então União Soviética); Estados Unidos; Japão."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Geografia – Exploração Espacial",
+        "Geografia – Relações Internacionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 80,
+      "enunciado": "Israel diz ter capturado complexo militar do Hamas e destruído 450 postos do grupo.\n\nAtaques noturnos deixaram 252 mortos, segundo Ministério da Saúde palestino; forças israelenses devem começar incursão em 48h, segundo a imprensa local\n\nFonte - O Globo. 06/11/2023\n\nO conflito relatado na matéria tornou-se grande destaque internacional. Sobre o grupo mencionado é correto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "é um grupo fundamentalista xiita que atua no Sul do Líbano realizando ataques a Israel."
+        },
+        {
+          "letra": "b",
+          "texto": "é um partido político e simultaneamente um grupo extremista que controla a Cisjordânia."
+        },
+        {
+          "letra": "c",
+          "texto": "é um grupo sunita, que venceu as eleições palestinas de 2006 e controla a Faixa de Gaza."
+        },
+        {
+          "letra": "d",
+          "texto": "é um grupo extremista judeu que atua na Faixa de Gaza e na Cisjordânia"
+        },
+        {
+          "letra": "e",
+          "texto": "é um grupo extremista palestino xiita, aliado do também xiita Irã, país que apoia o Hamas, por meio de armamentos."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "História – Conflitos Atuais",
+        "Geografia – Geopolítica"
+      ]
+    }
+  ]
+}

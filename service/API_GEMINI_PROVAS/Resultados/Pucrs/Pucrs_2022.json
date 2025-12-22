@@ -1,0 +1,1667 @@
+{
+  "nomeUniversidade": "Pontifícia Universidade Católica do Rio Grande do Sul",
+  "siglaUniversidade": "PUCRS",
+  "nomeProva": "Concurso Vestibular - Medicina",
+  "ano": 2022,
+  "qtdeQuestoes": 63,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "INSTRUÇÃO: Responder às questões de 1 a 8 com base no texto 1.\n\nTEXTO 1\n\nThe Oscars' new diversity rules are all well and good, but will they make any difference?\nSteve Rose - 9 Sep 2020\n\n01 The Academy has made a set of rules for best picture\n02 nominees that almost every film already meets. So\n03 will they lead to any actual change? Under the new\n04 regulations, which will come into effect for the 2025\n05 Oscars, entries for best picture must satisfy two of\n06 four criteria to be eligible. The headline criterion is on-\n07 screen representation: at least one lead character in\n08 the movie must be from \"an underrepresented racial\n09 or ethnic group\"; at least 30% of the general ensemble\n10 cast must be from at least two underrepresented\n11 groups (women, racial, ethnic, LGBTQ+, or people\n12 with disabilities); or the movie's subject must concern\n13 one of those groups.\n14 Predictably, the backlash has already begun. The\n15 Academy's announcement was greeted on its own\n16 website by comments including: “You ruined the\n17 Oscars. It's no longer about a cinema as a genre of\n18 art. Now it's totally about politics,” and “forced rules on\n19 diversity lower quality of the product”.\n20 The real question, though, is whether these criteria\n21 will really change anything at all. Especially when\n22 you look at the other inclusion categories. On-screen\n23 representation is one of the four categories: “standard\n24 A”. The others call for similar representation behind the\n25 camera: in key crew members and department heads\n26 (standard B), in studios and distributors' apprenticeship\n27 schemes (C), and for representation in marketing,\n28 publicity and distribution (D).\n29 __________ Standard B, for example, covers 14\n30 key positions. Some of those are still white and male-\n31 dominated, such as director and cinematographer;\n32 others are already mostly done by women. According\n33 to Women in Hollywood's statistics for movies released\n34 in 2018, a total of 84% of costume designers were\n35 women, as were 83% of casting directors, 78% of hair\n36 department heads and 76% of makeup department\n37 heads.\n38 The overwhelming majority in each case were white\n39 women. So to tick box B, most movies would not\n40 have to change a thing. Categories C and D are not\n41 necessarily difficult to satisfy either: most major studios\n42 and films do already. So as long as you tick two of\n43 the other boxes, you could still theoretically\n44 an all-white, all-male remake of Birth of a Nation and\n45 certify. Which would at least __________ some of the\n46 culture warriors.\n47 The new inclusion standards were partly inspired\n48 __________ a similar initiative launched by the British\n49 Film Institute in 2014, which demanded that films\n50 meet certain diversity standards __________ race and\n51 gender inclusion to get BFI funding. A report on the\n52 results __________ the initiative, however, found that\n53 little progress had been made __________ discrimination\n54 against black, Asian and minority ethnic professionals,\n55 before or behind the camera.\n56 Far from suggesting the BFI's initiative was a failure,\n57 these findings prove how much they are needed.\n58 They are evidence that those structural inequalities\n59 exist, and that they are resistant to change. The\n60 word “underrepresented” is often glossed over as a\n61 meaningless descriptor when in fact it is a literal and\n62 accurate one.\n\nAdapted from: https://www.theguardian.com/ film/2020/sep/09/oscars-diversity-rules-hollywood\n\nThe first sentence of paragraph 4 was taken out. Choose the right sentence below to fill in that blank.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Hollywood is no stranger to vanity, after all."
+        },
+        {
+          "letra": "B",
+          "texto": "These are easy hoops for most modern movies to jump through."
+        },
+        {
+          "letra": "C",
+          "texto": "The Academy is gently wheeling out the old white guys and welcoming in some diverse new blood."
+        },
+        {
+          "letra": "D",
+          "texto": "If movies like these can succeed without the inclusion standards, the new rules might not be needed."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "The two words missing at the end of paragraph 5 are, respectively,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "enroll – deceive"
+        },
+        {
+          "letra": "B",
+          "texto": "register – cease"
+        },
+        {
+          "letra": "C",
+          "texto": "sort – block"
+        },
+        {
+          "letra": "D",
+          "texto": "submit – silence"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Some prepositions were taken out from paragraph 6. Place them back, respectively.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "about – into – on – by"
+        },
+        {
+          "letra": "B",
+          "texto": "to – in – from – at"
+        },
+        {
+          "letra": "C",
+          "texto": "in – at – into – of"
+        },
+        {
+          "letra": "D",
+          "texto": "by – on – of – in"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Gramática"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Which question below is NOT answered in Text 1?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "For the next Oscar, is the Academy demanding any changes concerning the new rules?"
+        },
+        {
+          "letra": "B",
+          "texto": "Are there any positions in Hollywood movies that are dominated by women?"
+        },
+        {
+          "letra": "C",
+          "texto": "Will the new criteria result in higher quality movies?"
+        },
+        {
+          "letra": "D",
+          "texto": "Was the BFI's initiative successful?"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Read the following sentences.\n\n1. Investment advisory firms routinely use __________ to safeguard the assets they manage for their clients.\n\n2. We're waiting for recommendations from the __________.\n\n3. __________ should summarize the main facts about their performance.\n\nThe alternative that shows the correct sequence of words to fill in the blanks in the sentences above is",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "nominees – committees – appraisees"
+        },
+        {
+          "letra": "B",
+          "texto": "sublessees – advisees – warrantees"
+        },
+        {
+          "letra": "C",
+          "texto": "warrantees – signees – sublessees"
+        },
+        {
+          "letra": "D",
+          "texto": "committees – appointees – signees"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "The same relation between “criteria” and “criterion” (line 06) is found, in the same order, in __________ and __________.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "louse – lice"
+        },
+        {
+          "letra": "B",
+          "texto": "larva – larvae"
+        },
+        {
+          "letra": "C",
+          "texto": "nucleus – nuclei"
+        },
+        {
+          "letra": "D",
+          "texto": "ellipses – ellipsis"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Gramática"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "The word “backlash” (line 14) is related to a state of",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "repentance and animosity"
+        },
+        {
+          "letra": "B",
+          "texto": "annoyance and grievance"
+        },
+        {
+          "letra": "C",
+          "texto": "loathing and weariness"
+        },
+        {
+          "letra": "D",
+          "texto": "hostility and conviction"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "The alternative below in which the word “lower” has the same meaning as “lower” in line 19 is",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "The lower the asking price the worse for the business."
+        },
+        {
+          "letra": "B",
+          "texto": "There was growing pressure to lower interest rates."
+        },
+        {
+          "letra": "C",
+          "texto": "A lower court had put the execution on hold."
+        },
+        {
+          "letra": "D",
+          "texto": "Consider the lower levels of the structure."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "INSTRUÇÃO: Responder à questão 9 com base no texto 2.\n\nTEXTO 2\n\nThe Oscars’ new diversity rules are sweeping but safe\n\n01 (...) Given that, will anything truly change? Yes, but\n02 it’s something far harder to measure: perception. Even\n03 if the new guidelines allow ample workarounds, they\n04 will probably spur filmmakers, financiers and studio\n05 executives to take the issue of diversity more seriously,\n06 and could especially be a boon to department heads\n07 of color.\n08 And now that the issue is on the table, Oscar voters\n09 may be interested to learn just how specifically a\n10 contender’s diversity standards were met, and which\n11 films skated by with a handful of interns.\n\nFrom: https://www.nytimes.com/2020/09/09/movies/oscars-best-picture-diversity.html\n\nThe main idea of Text 2 is:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Although perception is difficult to measure, Oscar voters will be concerned with choosing films that meet diversity standards."
+        },
+        {
+          "letra": "B",
+          "texto": "Temporary jobs will be offered to meet the diversity standards of film production so that alternative solutions are allowed."
+        },
+        {
+          "letra": "C",
+          "texto": "Filmmakers, financiers, studio executives and Oscar voters may become more concerned about diversity in filmmaking."
+        },
+        {
+          "letra": "D",
+          "texto": "Color department heads will benefit from the new guidelines, which will help Oscar voters in their work."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "INSTRUÇÃO: Responder à questão 10 com base nos textos 1 e 2.\n\nConsider Text 1 and Text 2 and mark T (true) or F (false).\n\n( ) “The aperture must widen to reflect our diverse global population in both the creation of motion pictures and in the audiences who connect with them.” This idea is present in Text 1, paragraph 3.\n\n( ) “If these new guidelines say anything loud and clear, it’s that a lack of diversity isn’t just the Oscars’ problem.” This idea is present in Text 1, paragraph 7.\n\n( ) At the very least, all this is a tacit admission that the Academy is not a passive participant when it comes to diversity in Hollywood. This idea is present in Text 2.\n\nThe top-down order of the answers above is",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "F – T – T"
+        },
+        {
+          "letra": "B",
+          "texto": "F – T – F"
+        },
+        {
+          "letra": "C",
+          "texto": "T – F – T"
+        },
+        {
+          "letra": "D",
+          "texto": "T – F – F"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Dois amigos, Carlos e João, iniciaram uma competição de jogo de bilhar. A figura abaixo mostra a mesa de bilhar retangular ABCD, com 6 caçapas, 4 nos cantos A, B, C, D e 2 nos pontos centrais dos maiores lados, representadas pelos pontos E e F. A bola branca foi colocada no ponto G, como indicado na figura, sendo AG=1,50m e GB=0,90m. Carlos deu uma tacada na bola branca fazendo com que ela se deslocasse em linha reta colidindo com o lado AD no ponto H, formando o ângulo GĤA de 60°, sendo rebatida com o mesmo ângulo e seguindo em linha reta até a caçapa C. De acordo com as informações, determine o comprimento dos lados menores da mesa, em metros.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{15\\sqrt{3}}{30}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{24\\sqrt{3}}{30}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{13\\sqrt{3}}{10}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{24\\sqrt{3}}{10}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Trigonometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Rubens ganhou uma herança no valor de R$ 800.000,00 e decidiu investir parte do dinheiro na poupança e parte em renda fixa com o objetivo de garantir um rendimento líquido de pelo menos R$ 24.000,00 após um ano. O rendimento da poupança é de 2,5% ao ano, livre de tributos. Já a renda fixa tem rendimentos de 4% ao ano, que serão tributados em 17,5% ao ano. Desse modo, a parte da herança, em reais, investida na renda fixa deve ser igual ou maior do que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "500.000,00"
+        },
+        {
+          "letra": "B",
+          "texto": "480.000,00"
+        },
+        {
+          "letra": "C",
+          "texto": "360.000,00"
+        },
+        {
+          "letra": "D",
+          "texto": "300.000,00"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Matemática Financeira",
+        "Matemática – Inequações"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Um casal contratou um escritório de arquitetura para fazer o projeto de duas piscinas circulares no sítio da família. Na primeira reunião, a arquiteta responsável fez um esboço da planta das piscinas utilizando como referência um plano cartesiano. A borda da piscina maior passa pelos pontos (0, 4) e (0, 0), e a piscina menor está centrada em (-1, 5). As bordas das piscinas se tangenciam no ponto (0, 4). Dessa forma, assinale a alternativa que apresenta a área da piscina maior.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2\\pi$"
+        },
+        {
+          "letra": "B",
+          "texto": "$2\\sqrt{2}\\pi$"
+        },
+        {
+          "letra": "C",
+          "texto": "$8\\pi$"
+        },
+        {
+          "letra": "D",
+          "texto": "$16\\pi$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Uma indústria que produz um tipo de lâmpada tem lucro mensal, em reais, dado por $L(x) = -x^2 + Dx+E$, em que x é a quantidade vendida desse tipo de lâmpada em milhares de unidades. Sabendo que a indústria tem lucro apenas quando vende entre 4 mil e 10 mil unidades, e prejuízo na venda de outras quantidades, qual é o lucro máximo mensal?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5.000,00"
+        },
+        {
+          "letra": "B",
+          "texto": "6.500,00"
+        },
+        {
+          "letra": "C",
+          "texto": "7.000,00"
+        },
+        {
+          "letra": "D",
+          "texto": "9.000,00"
+        }
+      ],
+      "opcaoCorreta": "ANULADA",
+      "conteudo": [
+        "Matemática – Funções do 2º grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Uma loja de artigos de festa vende velas dos tipos I, II e III a preços, em reais, de x, y e z, respectivamente. Os resultados de suas vendas, ao longo de três dias consecutivos, estão representados na tabela a seguir.\n1º dia: Quantidade de velas do tipo I: 2, Quantidade de velas do tipo II: 3, Quantidade de velas do tipo III: 4, Total (R$): 20,00.\n2º dia: Quantidade de velas do tipo I: 3, Quantidade de velas do tipo II: 3, Quantidade de velas do tipo III: 5, Total (R$): 25,00.\n3º dia: Quantidade de velas do tipo I: 4, Quantidade de velas do tipo II: 2, Quantidade de velas do tipo III: 2, Total (R$): 20,00.\nO preço, em reais, da vela do tipo II e o preço, em reais, da vela do tipo III são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,00 e 2,00"
+        },
+        {
+          "letra": "B",
+          "texto": "1,00 e 3,00"
+        },
+        {
+          "letra": "C",
+          "texto": "2,00 e 1,00"
+        },
+        {
+          "letra": "D",
+          "texto": "2,00 e 2,00"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Sistemas Lineares"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "O brilho das estrelas pode ser expresso por uma escala de magnitudes. Nesse sistema, as estrelas recebem classificação de 1 a 6: as mais brilhantes são classificadas com magnitude $m = 1$, as um pouco menos brilhantes do que as primeiras são as de $m = 2$, e assim sucessivamente até as estrelas de menor brilho, $m = 6$. O brilho de uma estrela com $m = 1$ é 100 vezes maior do que o brilho de uma estrela com $m = 6$.\nAo observar uma estrela a partir da Terra, o brilho é a magnitude aparente (m) e, se estivesse localizada a uma distância de 10 parsecs, a estrela teria magnitude absoluta (M). Conhecer as magnitudes, aparente e absoluta, das estrelas é útil para determinar sua distância em relação à Terra. Essa relação é dada pela fórmula $m-M=5\\cdot\\log(d\\cdot 10^{-1})$, em que d é a distância da estrela em relação à Terra em parsecs.\nSupondo que uma estrela tem magnitude aparente 2,3 e magnitude absoluta 4,8, a distância aproximada, em parsecs, dessa estrela em relação à Terra será de _____. (Considere $\\sqrt{2}=1,4$ e $\\sqrt{5}=2,2$)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,6"
+        },
+        {
+          "letra": "B",
+          "texto": "2,9"
+        },
+        {
+          "letra": "C",
+          "texto": "3,1"
+        },
+        {
+          "letra": "D",
+          "texto": "3,9"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Logaritmos"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Um atleta, em treinamento de resistência muscular, fez séries abdominais, cada uma com 30 repetições. A primeira série foi finalizada em 15 segundos, mas, devido à fadiga muscular, o tempo de duração das séries seguintes foi sempre 25% maior do que o tempo gasto para fazer a série imediatamente anterior. Sabendo que a última série teve a duração de 5 minutos, qual foi a quantidade de abdominais realizados, somando todas as séries? (Considere $\\log 5 = 0,7$ e $\\log 2 = 0,3$)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "420"
+        },
+        {
+          "letra": "B",
+          "texto": "450"
+        },
+        {
+          "letra": "C",
+          "texto": "480"
+        },
+        {
+          "letra": "D",
+          "texto": "510"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Progressão Geométrica",
+        "Matemática – Logaritmos"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Uma confeiteira produz chocolates. O mais vendido é uma mistura de chocolate meio amargo com coco e tem o formato de uma pirâmide de base quadrada com 18 cm de altura. Um cliente dividiu o chocolate em duas partes, uma na forma de uma pirâmide e outra na forma de um tronco de pirâmide. Ele, cuidadosamente, cortou a ponta da pirâmide gerando uma secção paralela à base e distante do vértice $\\frac{1}{3}$ da altura. Sabendo que o perímetro da secção é 20 cm, encontre o volume, em $\\text{cm}^3$, de chocolate no tronco da pirâmide.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1.250"
+        },
+        {
+          "letra": "B",
+          "texto": "1.300"
+        },
+        {
+          "letra": "C",
+          "texto": "1.625"
+        },
+        {
+          "letra": "D",
+          "texto": "1.800"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Uma rede de farmácias fez uma pesquisa de mercado com consumidores para descobrir suas preferências em relação a dois tipos de analgésicos, tipo 1 e tipo 2. Os resultados da pesquisa indicam que\n\n- 190 pessoas compram o analgésico do tipo 1;\n- 130 pessoas compram o analgésico do tipo 2;\n- 60 pessoas compram os dois tipos de analgésicos;\n- 230 pessoas não compram nenhum dos dois tipos.\n\nDe acordo com essas informações, o número de entrevistados foi",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "230"
+        },
+        {
+          "letra": "B",
+          "texto": "320"
+        },
+        {
+          "letra": "C",
+          "texto": "490"
+        },
+        {
+          "letra": "D",
+          "texto": "610"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Teoria dos Conjuntos"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Sem a manutenção necessária, a caixa d’água de uma escola infantil estava danificada com fissuras, permitindo que microrganismos entrassem no reservatório, contaminando a água. Sabe-se que apenas 4 pessoas ingeriram a água e que 60% das pessoas que consomem a água contaminada com esses microrganismos têm problemas intestinais. A probabilidade de que, no máximo, duas das quatro pessoas tenham problemas intestinais é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{312}{625}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{328}{625}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{528}{625}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{544}{625}$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Probabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "INSTRUÇÃO: Responder às questões de 21 a 24 com base no texto 1.\n\nTEXTO 1\n\nEU EXISTO!\n\nMuito prazer, sou a jornalista que estacionou o carro de Caetano no Leblon\n\nElisangela Roxo\n\n01 Caro Caetano Veloso,\n02 Espero que esta carta encontre você e sua família\n03 em perfeita saúde. Que todos estejam seguros nestes\n04 tempos tão sombrios... Escrevo por um bom motivo.\n05 Depois de amanhã, __________ dez anos de um curioso\n06 e desconcertante fenômeno: o dia em que a internet\n07 ficou odara e eu virei lenda (sim, uma lenda, embora\n08 você não saiba disso). Muita gente ainda se lembra\n09 da reportagem que publiquei no portal Terra em 10 de\n10 março de 2011, com um título longuíssimo: Caetano\n11 Veloso Passeia pelo Leblon e Estaciona o Carro. Era\n12 uma notícia nada noticiosa, sem dúvida, mas acabou\n13 se transformando num marco do jornalismo brasileiro.\n14 A matéria – banal como um bichinho de avenca,\n15 poderia dizer o Nelson Rodrigues – __________\n16 apenas 49 palavras e saiu sem assinatura. Pois bem...\n17 Eu existo! Sou a autora daquelas mal traçadas linhas\n18 e chegou a hora de você conhecer os bastidores do\n19 elo invisível que nos conecta há uma década. Prazer,\n20 meu nome é Elisangela.\n[...]\n21 __________ a minha petulância com sua\n22 imagem, Caetano, mas eu precisava rir de mim mesma\n23 naquela atividade tão carente de sentido. Precisava\n24 me satirizar enquanto satirizava o jornalismo sobre\n25 o nada, entende? Olhei para dentro e dei de cara\n26 com minha porção jornalista que sonhava entrar\n27 para a história graças a reportagens sensíveis e bem\n28 escritas. Olhei para fora e lá estava eu, solitária, em\n29 frente ao computador, já tarde da noite, numa gaiola\n30 envidraçada, com vista panorâmica para a Marginal\n31 Pinheiros. Imaginei que apenas meia dúzia de gatos-\n32 pingados (e insones) iria ver a nota. Minha gracinha\n33 certamente desapareceria em meio a tantas outras\n34 pérolas publicadas por nós.\n\nAdaptado de: https://abre.ai/cA92. Acesso em 13 abr. 2021.\n\nAssinale a alternativa que completa, correta e respectivamente, as lacunas do texto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "completa-se – somava – Desculpa"
+        },
+        {
+          "letra": "B",
+          "texto": "completa-se – somavam – Desculpem"
+        },
+        {
+          "letra": "C",
+          "texto": "completam-se – somava – Desculpe"
+        },
+        {
+          "letra": "D",
+          "texto": "completam-se – somavam – Desculpa"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Concordância Verbal e Nominal"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "INSTRUÇÃO: Para responder à questão 22, analise as possibilidades de inserção de recursos coesivos no texto 1, sem alteração do sentido original.\n\nI. “Já que” – depois de “bom motivo” na linha 04, com consequente adequação de pontuação e mudança de letra maiúscula para minúscula da oração que segue.\n\nII. “tão” – antes de “banal” (linha 14).\n\nIII. “Quando” – antes de “Olhei” (linha 28), com consequente mudança da letra maiúscula desse verbo para minúscula.\n\nEstão corretas as afirmativas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Coesão e Coerência"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Assinale a alternativa correta sobre o emprego dos sinais de pontuação no texto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O ponto final da linha 03, depois de “saúde”, está separando duas orações sintaticamente completas."
+        },
+        {
+          "letra": "B",
+          "texto": "Os dois-pontos da linha 06 introduzem discurso direto."
+        },
+        {
+          "letra": "C",
+          "texto": "As reticências das linhas 04 e 16 equivalem a etc."
+        },
+        {
+          "letra": "D",
+          "texto": "As vírgulas das linhas 01 e 22 isolam um vocativo."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Pontuação"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Todas as palavras e/ou expressões a seguir têm como referente a notícia sobre Caetano Veloso publicada pela autora no ano de 2011, EXCETO",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“elo invisível” (linha 19)."
+        },
+        {
+          "letra": "B",
+          "texto": "“minha petulância com sua imagem” (linhas 21 e 22)."
+        },
+        {
+          "letra": "C",
+          "texto": "“minha porção jornalista” (linha 26)."
+        },
+        {
+          "letra": "D",
+          "texto": "“Minha gracinha” (linha 32)."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "INSTRUÇÃO: Responder às questões de 25 a 29 com base no texto 2.\n\nTEXTO 2\n\nMaria Homem, viúva de Contardo Calligaris, lembra a relação com ele\n\n01 Na conversação que era nossa vida, o grego, a\n02 filosofia, o teatro, enfim, as ideias e práticas antigas\n03 sempre estiveram presentes. Transmitimos um pouco\n04 disso nos dois livros que fizemos. Até escolhemos uma\n05 expressão em grego para eu fazer uma tatuagem,\n06 que a pandemia adiou. Como tantas coisas que ela\n07 adiou. Enfim, com grego, latim, italiano, inglês, francês,\n08 português... A embocadura e as palavras podiam ser\n09 salvadoras. O que seria de mim sem você?\n10 Até que um dia, esses dias, eu repeti a minha\n11 pergunta, e num outro tom: “O que vai ser de mim\n12 sem você?”. Já tínhamos tido, claro, longas conversas\n13 sobre o futuro e essa espera angustiante da morte.\n14 Com humor, com tranquilidade, com lágrimas absur-\n15 das. Às vezes com revolta, às vezes com aceitação\n16 radical (c’est la vie).\n17 Cada um vive a morte à sua maneira. A inexora-\n18 velmente solitária forma de cada um ter seu corpo e\n19 seu ser sendo atravessados pela morte. A morte de\n20 quem morre e a morte de quem fica. Na véspera, a\n21 pergunta era séria e talvez sem resposta: o que vai ser\n22 de mim sem você? Você estava consciente, olhou no\n23 meu olho e disse: “Vai ser o que você quiser”. Parei de\n24 chorar naquele instante. Olhei atônita: você conseguia\n25 ser analista até debaixo d’água. Você ofertava ao outro\n26 uma palavra para ele seguir. E conseguia ser fiel ao\n27 seu mais caro princípio até o final: crie sua vida. Esse\n28 é o sentido que ela tem e que você criará para ela.\n29 No dia seguinte, naqueles instantes que ficarão\n30 para sempre inesquecíveis, falei na sua orelha tudo\n31 o que eu quis. Até que ficou tudo calmo. Sozinha no\n32 quarto, continuei deitada ao seu lado, e continuei\n33 falando. Ainda não sei o que vou querer ou o que\n34 vou conseguir inventar de mim mesma. Sei que a\n35 tatuagem e as cicatrizes serão inevitáveis, e o que\n36 te falei seguirá valendo.\n\nAdaptado de: https://bit.ly/3uAD39q. Acesso em 08 abr. 2021.\n\nINSTRUÇÃO: Para responder à questão 25, considere as opções para inserção no texto do parágrafo a seguir.\n\nVocê respondia: “Onde você estava que não te achei antes? Diz, diz”.\n\nO trecho em que o parágrafo pode ser inserido corretamente, mantendo a coesão e a coerência com os demais, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "entre o título e a linha 01, antes do primeiro parágrafo."
+        },
+        {
+          "letra": "B",
+          "texto": "entre as linhas 09 e 10, depois do primeiro parágrafo."
+        },
+        {
+          "letra": "C",
+          "texto": "entre as linhas 16 e 17, depois do segundo parágrafo."
+        },
+        {
+          "letra": "D",
+          "texto": "entre as linhas 28 e 29, depois do terceiro parágrafo."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Coesão e Coerência"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "INSTRUÇÃO: Para responder à questão 26, analise as afirmações sobre o emprego dos tempos verbais no texto.\n\nI. O emprego de “era” (linha 01) traz a noção de duração do evento.\n\nII. A locução “vai ser” (linha 11) expressa a concretização do futuro hipotético marcado pela forma verbal “seria” na linha 09.\n\nIII. O emprego do imperativo na linha 27 – “crie” – expressa um conselho do enunciador.\n\nEstão corretas as afirmativas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Tempos e Modos Verbais"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "As palavras e/ou expressões a seguir têm sentido figurado no texto, EXCETO",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "atravessados (linha 19)"
+        },
+        {
+          "letra": "B",
+          "texto": "debaixo d’água (linha 25)"
+        },
+        {
+          "letra": "C",
+          "texto": "tatuagem (linha 35)"
+        },
+        {
+          "letra": "D",
+          "texto": "cicatrizes (linha 35)"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Assinale a alternativa cuja pergunta NÃO pode ser respondida apenas pela leitura do texto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Que temas faziam parte das conversas entre Maria Homem e Contardo Calligaris?"
+        },
+        {
+          "letra": "B",
+          "texto": "Qual foi a causa da morte do companheiro da autora?"
+        },
+        {
+          "letra": "C",
+          "texto": "Como se caracteriza a “morte de quem fica”?"
+        },
+        {
+          "letra": "D",
+          "texto": "Quando “ficou tudo calmo”?"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Numere a segunda coluna de acordo com a primeira, estabelecendo a correta relação entre o segmento destacado na palavra e o seu significado.\n\n1. filosofia (linha 02)\n2. inexoravelmente (linhas 17 e 18)\n3. consciente (linha 22)\n4. inesquecíveis (linha 30)\n\n( ) Que sabe\n( ) Que é amigo de\n( ) Que se compadece\n( ) Que pode ser\n\nA sequência correta de preenchimento dos parênteses, de cima para baixo, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 – 4 – 3 – 1"
+        },
+        {
+          "letra": "B",
+          "texto": "3 – 4 – 1 – 2"
+        },
+        {
+          "letra": "C",
+          "texto": "1 – 2 – 3 – 4"
+        },
+        {
+          "letra": "D",
+          "texto": "3 – 1 – 2 – 4"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Formação de Palavras",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "INSTRUÇÃO: Responder à questão 30 com base nos textos 1 e 2.\n\nSobre os textos, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a frase “Eu existo!” (linha 17), no texto 1, demonstra a necessidade da autora de ser uma jornalista conhecida."
+        },
+        {
+          "letra": "B",
+          "texto": "a autora, no texto 2, reflete sobre como a morte de seu parceiro impactou a sua vida."
+        },
+        {
+          "letra": "C",
+          "texto": "o emprego de “você”, em ambos os textos, indica que dialogam diretamente com o leitor."
+        },
+        {
+          "letra": "D",
+          "texto": "há, tanto no texto 1 quanto no texto 2, trechos que citam obras de outros autores."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Duas partículas idênticas A e B encontram-se em repouso nos pontos 1 e 2 da figura a seguir. A partícula A parte do repouso pela superfície sem atrito da pista e colide com a partícula B. Após a colisão, ambas partem unidas e atingem a altura máxima no ponto 3. Considere desprezível a resistência do ar nessa situação.\n\nCom base nas informações apresentadas, considere as seguintes afirmativas:\n\nI. Não há perda de energia pela partícula A antes de colidir com a B.\nII. A quantidade de movimento do sistema, logo após a colisão, é conservada.\nIII. Há conservação de energia mecânica após a colisão até as partículas atingirem a altura máxima.\n\nEstá/Estão correta(s) a(s) afirmativa(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "ANULADA",
+      "conteudo": [
+        "Física – Conservação de Energia",
+        "Física – Colisões"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "O gráfico a seguir indica a temperatura em função do tempo para uma determinada massa de água contida em um recipiente aberto que é aquecida por meio de uma fonte térmica de potência constante. Não há perdas de calor entre as paredes do recipiente e o meio externo.\nA partir do começo da ebulição, quanto tempo (em minutos) levará para que toda a água desapareça do recipiente? Despreze a evaporação antes da fervura, considere o calor latente de vaporização da água igual a 540 cal/g, o calor específico da água como 1cal/(g.°C) e saiba que o fenômeno ocorre nas CNTP.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "54"
+        },
+        {
+          "letra": "B",
+          "texto": "62"
+        },
+        {
+          "letra": "C",
+          "texto": "73"
+        },
+        {
+          "letra": "D",
+          "texto": "81"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Calorimetria"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "A figura que segue apresenta dois recipientes com capacidades máximas de 1000 mL, contendo cada um, respectivamente, 700 mL de água e 700 mL de azeite. Duas bolinhas idênticas de isopor são postas a flutuar nesses recipientes e estão em equilíbrio estático.\nA partir das condições apresentadas, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "No recipiente 1, a maior parte da bolinha está para fora da água, pois o módulo empuxo é maior do que o peso da bolinha."
+        },
+        {
+          "letra": "B",
+          "texto": "O nível do recipiente 2 está mais elevado do que o do 1, pois o peso da bolinha é maior do que o módulo do empuxo exercido sobre ela."
+        },
+        {
+          "letra": "C",
+          "texto": "O nível do recipiente 2 está mais elevado, pois o azeite é mais denso do que a água."
+        },
+        {
+          "letra": "D",
+          "texto": "Nas duas situações, o peso da bolinha é igual ao módulo do empuxo exercido sobre ela."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Hidrostática"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Duas crianças gêmeas, Clarice e Lúcia, relatam a um professor da Escola de Medicina da PUCRS, acompanhado por quatro estudantes, as seguintes sensações visuais:\n\nClarice: Enxergo tranquilamente de perto. De longe, fica difícil.\n\nLúcia: Eu sou ao contrário. Não consigo ver bem as coisas em minhas mãos. Quando estão longe, eu enxergo bem.\n\nO professor solicita aos quatro estudantes que escrevam em uma folha os possíveis diagnósticos e as soluções em relação aos problemas de visão apresentados pelas irmãs.\n\nEstudante W: Clarice tem presbiopia e precisa de lentes cilíndricas. Lúcia tem astigmatismo e precisa de lentes divergentes.\n\nEstudante X: Clarice tem miopia e precisa usar lentes divergentes. Lúcia possui hipermetropia e precisa de lentes convergentes.\n\nEstudante Y: Clarice tem astigmatismo e deve usar lentes divergentes. Lúcia apresenta hipermetropia e precisa de lentes cilíndricas.\n\nEstudante Z: Clarice tem hipermetropia e precisa de lentes divergentes. Lúcia possui miopia e deve usar lentes convergentes.\n\nQual foi o estudante que apresentou o diagnóstico e a solução corretos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "W"
+        },
+        {
+          "letra": "B",
+          "texto": "X"
+        },
+        {
+          "letra": "C",
+          "texto": "Y"
+        },
+        {
+          "letra": "D",
+          "texto": "Z"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Óptica da Visão"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Em uma aula de eletromagnetismo do currículo básico dos cursos de Engenharia da Escola Politécnica da PUCRS, o professor de Física apresentou a figura a seguir.\nEm seguida, o professor descreveu a situação:\n\"Temos aqui um amperímetro ligado a um solenoide. Existe a presença de um ímã estacionário na vizinhança, com o polo sul mais próximo do solenoide e o eixo norte-sul do ímã perpendicular ao plano do solenoide. O medidor indica a presença de uma corrente elétrica da esquerda para a direita do solenoide. O que há de errado com a figura?\"\nAssinale a alternativa que apresenta a resposta correta para a pergunta do professor.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O sentido da corrente elétrica deveria ser o oposto ao descrito pelo professor."
+        },
+        {
+          "letra": "B",
+          "texto": "O ponteiro deveria estar inclinado para a direita."
+        },
+        {
+          "letra": "C",
+          "texto": "O ponteiro deveria indicar que a intensidade da corrente elétrica é zero."
+        },
+        {
+          "letra": "D",
+          "texto": "Não há nada de errado com a figura."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Eletromagnetismo",
+        "Física – Indução Eletromagnética"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Substâncias radioativas podem emitir radiações alfa, beta, gama e nêutrons. Na pesquisa sobre a natureza e a propagação dessas radiações, usam-se campos magnéticos, entre outros recursos. O campo magnético pode influir na trajetória das radiações __________ e __________. Se, durante a trajetória dessas partículas, o módulo da velocidade (não relativística) dobrar, a energia cinética delas irá __________.\nAs palavras que preenchem corretamente as lacunas, na ordem em que aparecem no texto, são",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "alfa – gama – aumentar duas vezes"
+        },
+        {
+          "letra": "B",
+          "texto": "alfa – beta – aumentar quatro vezes"
+        },
+        {
+          "letra": "C",
+          "texto": "gama – nêutron – aumentar duas vezes"
+        },
+        {
+          "letra": "D",
+          "texto": "gama – nêutron – aumentar quatro vezes"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Radioatividade",
+        "Física – Eletromagnetismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Na tabela periódica, de modo opcional, as letras s, p, d e f podem ser usadas para distinguir diferentes blocos de elementos. Segundo a IUPAC (União Internacional de Química Pura e Aplicada), um elemento de transição é um elemento cujo átomo apresenta uma subcamada d incompleta ou que origina um cátion, ou cátions, com uma subcamada d incompleta.\nObservando a posição dos elementos químicos na tabela periódica, de acordo com a definição da IUPAC, conclui-se que são classificados como de transição os elementos dos grupos",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 e 2"
+        },
+        {
+          "letra": "B",
+          "texto": "3 ao 11"
+        },
+        {
+          "letra": "C",
+          "texto": "3 ao 12"
+        },
+        {
+          "letra": "D",
+          "texto": "13 ao 18"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Tabela Periódica"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "A síntese industrial do ácido nítrico, aqui representada, é realizada em três etapas:\n1ª etapa: $4 \\text{NH}_{3(g)} + 5 \\text{O}_{2(g)} \\xrightarrow{\\text{Pt}} 4 \\text{NO}_{(g)} + 6 \\text{H}_2\\text{O}_{(g)}$; $\\Delta H = -1175,6 \\text{ kJ}$\n2ª etapa: $2 \\text{NO}_{(g)} + \\text{O}_{2(g)} \\Leftrightarrow 2 \\text{NO}_{2(g)}$; $\\Delta H = -114 \\text{ kJ}$\n3ª etapa: $3 \\text{NO}_{2(g)} + \\text{H}_2\\text{O}_{(l)} \\Leftrightarrow 2 \\text{HNO}_{3(l)} + \\text{NO}_{(g)}$; $\\Delta H = -316,4 \\text{ kJ}$\nCom o objetivo de aumentar a quantidade de $\\text{HNO}_3$ formado, alguns fatores são alterados no processo de obtenção. Em relação a essas alterações, para aumentar o rendimento da reação, é adequado\nI. utilizar o metal platina como catalisador na 1ª etapa.\nII. remover o calor dos gases na 2ª etapa.\nIII. usar altas pressões na 3ª etapa.\nEstá/ Estão correta(s) a(s) afirmativa(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "III, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Equilíbrio Químico"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "INSTRUÇÃO: Responder às questões de 39 a 40 com base no texto, figura e dados a seguir.\nAs células a combustível hidrogênio/oxigênio são sistemas de conversão de energia química em energia elétrica. Uma vantagem desse tipo de célula é que os produtos gerados pelo seu funcionamento são essencialmente não contaminantes. Nas células a combustível alcalinas, ou AFC (alkaline fuel cell), utiliza-se, como eletrólito, uma solução de hidróxido de potássio.\nO esquema de uma célula a combustível hidrogênio/oxigênio é aqui representado:\nDados: $E^°_{red}$\n$2 \\text{H}_2\\text{O} + 2e^- \\rightarrow \\text{H}_2 + 2 \\text{OH}^- \t -0,83 \\text{ V}$\n$\\text{H}_2\\text{O} + 1/2 \\text{O}_2 + 2e^- \\rightarrow 2 \\text{OH}^- \t +0,40 \\text{ V}$\nNa célula de combustível do tipo AFP, o cátodo, o ânodo e a diferença de potencial gerados em condições padrão são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\text{O}_2 \t \\text{H}_2 \t 0,43 \\text{ V}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\text{H}_2 \t \\text{O}_2 \t 0,43 \\text{ V}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\text{O}_2 \t \\text{H}_2 \t 1,23 \\text{ V}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\text{H}_2 \t \\text{O}_2 \t 1,23 \\text{ V}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Eletroquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Uma solução de hidróxido de potássio usada em uma célula de combustível alcalina é de concentração 5,6% m/m e de densidade $1,0 \\text{ g mL}^{-1}$. A concentração em $\\text{mol L}^{-1}$ e o pH dessa solução são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 e 14"
+        },
+        {
+          "letra": "B",
+          "texto": "1 e 0"
+        },
+        {
+          "letra": "C",
+          "texto": "0,56 e 13"
+        },
+        {
+          "letra": "D",
+          "texto": "0,56 e 0"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Soluções",
+        "Química – pH e pOH"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "“No estado atual de desenvolvimento, as células a combustível alcalinas são as que apresentam os melhores desempenhos. Porém, são afetadas pela contaminação com $\\text{CO}_2$ atmosférico, que reage com o eletrólito formando um sal”.\n\nFonte: VILLULLAS, H. Mercedes; TICIANELLI Edson A.; GONZÁLEZ, Ernesto R. Células a Combustível. Química Nova na Escola Nº 15, MAIO 2002.\n\nA fórmula e o caráter do sal formado na neutralização total entre o hidróxido de potássio e o dióxido de carbono são, respectivamente, __________ e __________.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\text{KHCO}_3$ – neutro"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\text{K}_2\\text{CO}_3$ – neutro"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\text{K}_2\\text{CO}_3$ – alcalino"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\text{KHCO}_3$ – ácido"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Reações Inorgânicas",
+        "Química – Sais"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Algumas doenças físicas e psiquiátricas estão relacionadas à falta de vitamina D no corpo. Essa vitamina é um nutriente com função de hormônio e pode ajudar a melhorar o sistema imunológico. Vitamina D é o nome geral de dois compostos, o ergocalciferol (D₂) e o colecalciferol (D₃), cujas fórmulas são dadas a seguir.\n\nCom base nas fórmulas, são feitas as seguintes afirmações:\n\nI. Na vitamina D₂, o átomo de carbono identificado com a letra (a) é classificado como carbono terciário.\n\nII. A vitamina D₂ e a D₃ são opticamente ativas.\n\nIII. As vitaminas D₂ e D₃ são solúveis em água e em benzeno.\n\nEstá/Estão correta(s) apenas a(s) afirmativa(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Química Orgânica",
+        "Química – Isomeria Óptica"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Ésteres são compostos orgânicos usados como flavorizantes, conferindo sabor a alimentos. O etanoato de propila, por exemplo, tem sabor artificial de pera.\nOs compostos __________ e __________ ao reagirem entre si, resultam na formação do composto etanoato de propila e água.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "propanal – etanol"
+        },
+        {
+          "letra": "B",
+          "texto": "ácido propanoico – etanol"
+        },
+        {
+          "letra": "C",
+          "texto": "ácido etanoico – propanol"
+        },
+        {
+          "letra": "D",
+          "texto": "etanal – ácido propanoico"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Funções Orgânicas",
+        "Química – Reações Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "A proteína Spike é a molécula presente no capsídeo do coronavírus (SARS-CoV-2), que se liga à célula hospedeira por meio de receptores de membrana ACE 2. A partir dessa interação proteína-receptor, espera-se que a infecção viral se inicie com a entrada do vírus na célula que será parasitada por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "osmose."
+        },
+        {
+          "letra": "B",
+          "texto": "pinocitose."
+        },
+        {
+          "letra": "C",
+          "texto": "endocitose."
+        },
+        {
+          "letra": "D",
+          "texto": "clasmocitose."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Citologia",
+        "Biologia – Virologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Sabe-se que os pulmões são órgãos diretamente afetados pelo SARS-CoV-2. Assim, em casos de Covid-19, pacientes podem desenvolver sequelas resultantes de inflamações pulmonares graves. A inflamação se dá pela infecção das células alveolares. Sobre os alvéolos, afirma-se:\n\nI. São estruturas pulmonares, em forma de sáculos, no interior das quais ocorrem as trocas gasosas.\nII. Têm seu colabamento impedido por substância surfactante liberada em seu interior.\nIII. Localizam-se na porção final dos bronquíolos terminais, envolvidos por capilares sanguíneos.\n\nEstá/Estão correta(s) a(s) afirmativa(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "III, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "II e III, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Fisiologia Humana",
+        "Biologia – Sistema Respiratório"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "A afirmação “os seres humanos e os macacos possuem um ancestral comum” corrobora a ideia da especiação por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "anagênese."
+        },
+        {
+          "letra": "B",
+          "texto": "cladogênese."
+        },
+        {
+          "letra": "C",
+          "texto": "partenogênese."
+        },
+        {
+          "letra": "D",
+          "texto": "convergência evolutiva."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Evolução"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Observe a reação que segue.\n\nSobre a reação, afirma-se que\nI. se trata de uma síntese por desidratação.\nII. a ligação que se produz entre as moléculas é do tipo fosfodiéster.\nIII. explicaria a formação dos primeiros peptídeos em solo argiloso pós-resfriamento da Terra primitiva.\n\nEstá/Estão correta(s) apenas a(s) afirmativa(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II."
+        },
+        {
+          "letra": "B",
+          "texto": "III."
+        },
+        {
+          "letra": "C",
+          "texto": "I e II."
+        },
+        {
+          "letra": "D",
+          "texto": "I e III."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Bioquímica",
+        "Biologia – Evolução"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "O representante mais basal do Filo Chordata corresponde à(ao)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ascídia."
+        },
+        {
+          "letra": "B",
+          "texto": "anfioxo."
+        },
+        {
+          "letra": "C",
+          "texto": "feiticeira."
+        },
+        {
+          "letra": "D",
+          "texto": "lampreia."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Zoologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Cães da raça Beagle, portadores do gene Sᵖ, apresentam, pelo menos, 10 fenótipos relacionados à pelagem. O conceito genético que explica o fenômeno é o da",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "penetrância completa."
+        },
+        {
+          "letra": "B",
+          "texto": "dominância completa."
+        },
+        {
+          "letra": "C",
+          "texto": "expressividade variável."
+        },
+        {
+          "letra": "D",
+          "texto": "dominância incompleta."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Genética"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "As folhas dos pinheiros, ao caírem, sofrem o processo de decomposição, o qual acidifica o solo. Assim, é comum que o crescimento de gramíneas embaixo dessas árvores seja prejudicado. Trata-se de um caso de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "sinfilia."
+        },
+        {
+          "letra": "B",
+          "texto": "alelopatia."
+        },
+        {
+          "letra": "C",
+          "texto": "predatismo."
+        },
+        {
+          "letra": "D",
+          "texto": "competição."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "No desenvolvimento da história política das cidades gregas da Antiguidade, Atenas ocupou um papel importante na formulação de novos conceitos e formas de organização do poder. A chamada época de Péricles representa um momento crucial da vida política grega. Faz(em) parte do(s) aspecto(s) do contexto social e político dessa época a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "elaboração de reformas legais totalmente excludentes e valorativas do poder oligárquico."
+        },
+        {
+          "letra": "B",
+          "texto": "implantação de um sistema exclusivamente oligárquico, mas sem participação na Bulé."
+        },
+        {
+          "letra": "C",
+          "texto": "construção e afirmação da democracia, mas com exclusão política das mulheres."
+        },
+        {
+          "letra": "D",
+          "texto": "formação e expansão dos princípios da cidadania na Res Publica Imperial."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Grécia Antiga"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "As funções sociais urbanas e a imagem das cidades, durante a Idade Média, encontravam-se intimamente vinculadas às transformações econômicas da Revolução Comercial. No decorrer dos séculos XI, XII e XIII, os novos núcleos urbanos do Ocidente Medieval representaram os espaços primordiais para as modificações ocorridas na estrutura social e nas relações econômicas. A imagem da iluminura que segue constitui testemunho histórico importante dessas transformações sociais e econômicas.\nSobre o contexto histórico abordado, as informações do texto e o significado da imagem apresentada, afirma-se:\nI. A imagem apresentada no texto refere-se ao início do crescimento econômico e da vida social da Alta Idade Média.\nII. A imagem apresentada evidencia que as transformações econômicas e sociais da Idade Média tiveram relação direta com o aparecimento dos mercadores e com o advento do comércio.\nIII. As trocas de mercadorias no Mediterrâneo, o aumento da circulação e o crescimento do eixo de trocas nas regiões do Norte da Europa só foram possíveis a partir da Liga Hanseática no século XIV.\nIV. Os intercâmbios econômicos produzidos pelas trocas entre as regiões das feiras de Champagne e o eixo comercial do Mediterrâneo foram decisivos para o desenvolvimento dos mercadores e para as transformações da estrutura social.\nEstão corretas apenas as afirmativas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II e III."
+        },
+        {
+          "letra": "B",
+          "texto": "II e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "I, II e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "I, III e IV."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Idade Média"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "A obra “Escola de Atenas”, do pintor Rafael Sanzio (1509-1510), constitui uma importante representação artística alusiva à história do pensamento filosófico e humanista da cultura helênica antiga, em que estão retratados vários pensadores como Platão, Aristóteles, Pitágoras, Epicuro, dentre outros.\nConsiderando o contexto histórico, o texto e a imagem apresentados, o movimento cultural e artístico relacionado a este afresco de Rafael é o __________, caracterizado pela __________.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Renascimento – valorização do legado clássico e do mecenato burguês"
+        },
+        {
+          "letra": "B",
+          "texto": "Renascimento – valorização exclusiva do teocentrismo e do naturalismo"
+        },
+        {
+          "letra": "C",
+          "texto": "Barroco – valorização do antropocentrismo e dos ideais epicuristas"
+        },
+        {
+          "letra": "D",
+          "texto": "Barroco – valorização exclusiva do racionalismo e do antropocentrismo grego"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Renascimento Cultural",
+        "Arte – Renascimento"
+      ]
+    },
+    {
+      "numeroEnunciado": 61,
+      "enunciado": "Durante o século XIX, o Brasil viveu uma experiência diferente do resto da América, configurando o mais extenso Império do continente, tanto do ponto de vista territorial, quanto temporal. Destaca-se, nesse contexto, o reinado de Dom Pedro II (1840-1889), que teve entre suas características uma estabilidade política baseada no controle do Imperador sobre o regime parlamentarista. Em relação a esse período, as alternativas a seguir são causas da transição da Monarquia para a República, EXCETO:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As mudanças econômicas ocorridas, ao longo do século XIX, que levaram à passagem do trabalho escravo para o assalariado, retirando o apoio da oligarquia cafeicultora fluminense ao governo imperial."
+        },
+        {
+          "letra": "B",
+          "texto": "A monarquia brasileira era considerada atrasada pela maioria da população, uma vez que Dom Pedro II era contrário a medidas de modernização, como a introdução de ferrovias, a industrialização e o fim da escravidão."
+        },
+        {
+          "letra": "C",
+          "texto": "Os diversos conflitos envolvendo a monarquia no final do Império, como a Questão Abolicionista, a Questão Militar e a Questão Religiosa, que contaram com a participação de importantes setores da sociedade brasileira."
+        },
+        {
+          "letra": "D",
+          "texto": "O esgotamento do sistema de poder fundamentado na articulação do Imperador com os partidos Conservador e Liberal, que não eram mais suficientes para representar os setores dinâmicos da sociedade brasileira."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Brasil Império"
+      ]
+    },
+    {
+      "numeroEnunciado": 62,
+      "enunciado": "O período da História Brasileira iniciado com a Revolução de 1930 e terminado com o fim do Estado Novo, em 1945, também conhecido como Primeiro Governo Vargas, foi marcado por mudanças profundas no país, tanto do ponto de vista econômico, quanto social, político e cultural. Sobre esse período, afirma-se:\nI. Ocorreu um processo de industrialização interna motivado pela falta de importação de manufaturados – devido às restrições derivadas da Crise de 29 e, posteriormente, da Segunda Guerra Mundial – e pela ação estatal em setores estratégicos da economia, como o siderúrgico.\nII. Foi uma época de extremismos ideológicos (comunistas X integralistas) e de crise da democracia liberal, com institucionalização do autoritarismo como sistema político na Constituição de 1937, base legal do Estado Novo.\nIII. Do ponto de vista cultural, houve um grande dinamismo da mídia brasileira, com o aumento da tiragem dos jornais, avanço da radiodifusão, incentivo ao cinema nacional e às primeiras transmissões televisivas no país, sob o controle estatal.\nIV. Em termos educacionais, houve a chamada Reforma Capanema – Lei Orgânica do Ensino Secundário (09 de abril de 1942) –, que dividiu o Ensino Secundário em um ciclo inicial de 4 anos (Ginasial) e um ciclo final de 3 anos (Científico ou Clássico).\nEstão corretas apenas as afirmativas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "III e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "I, II e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "I, III e IV."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Era Vargas"
+      ]
+    },
+    {
+      "numeroEnunciado": 63,
+      "enunciado": "A segunda metade dos anos de 1980 foi marcada pelo retorno do Brasil à democracia política, com a promulgação de uma nova Constituição (1988) e a retomada das eleições diretas para a Presidência da República. Nesse processo, os dois primeiros presidentes democraticamente eleitos foram Fernando Collor de Melo (1990-1992) e Fernando Henrique Cardoso (1994-2001), que, apesar de suas diferenças em termos partidários, enfrentaram problemas comuns, como a alta inflação. Sobre esses governos, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O governo de Collor foi caracterizado por uma grande instabilidade política, que levou ao impeachment do presidente; já a gestão de Cardoso, apesar de ele ter sido eleito por dois mandatos consecutivos, teve uma relação conturbada com o Congresso Nacional."
+        },
+        {
+          "letra": "B",
+          "texto": "Uma importante diferença entre ambos deu-se no combate à alta inflação, uma vez que Collor fracassou em controlar definitivamente o problema, ao passo que Cardoso obteve maior sucesso com o Plano Cruzado, alcançando a estabilidade monetária no país."
+        },
+        {
+          "letra": "C",
+          "texto": "Devido às suas políticas econômicas, ambos os presidentes tiveram sempre a oposição dos movimentos sociais e dos sindicatos de trabalhadores, como o Movimento dos Trabalhadores Rurais Sem Terra (MST), a Central Única dos Trabalhadores (CUT) e a Força Sindical (FS)."
+        },
+        {
+          "letra": "D",
+          "texto": "Apesar dos resultados econômicos distintos, ambos os presidentes se caracterizaram por adotar medidas de liberalização da economia brasileira com abertura ao exterior, política que foi iniciada por Collor e mantida por Cardoso."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Brasil Contemporâneo"
+      ]
+    },
+    {
+      "numeroEnunciado": 64,
+      "enunciado": "Uma das características mais importantes do final do século XX foi o chamado processo de “globalização”, que, embora tivesse como eixo a integração mundial da economia, não ficou restrito a ela, envolvendo também mudanças culturais, políticas, sociais e até ambientais. O início do século XXI foi, assim, marcado pelas principais consequências desse processo ainda em curso. Sobre isso, assinale V (verdadeiro) ou F (falso) para as afirmações.\n\n( ) O processo de globalização econômica correspondeu a uma ampla integração dos mercados, com equivalente liberdade legal de circulação de capital, de mercadorias e de trabalhadores.\n\n( ) Uma das heranças da globalização é a maior difusão de movimentos sociais e culturais, como a repercussão mundial de protestos políticos que iniciam em um país e rapidamente se espalham pelo planeta, como o Black Lives Matter (EUA/2020).\n\n( ) A globalização tem como um dos seus efeitos a virtualização das relações sociais e interpessoais, possibilitando a uma pessoa estabelecer redes de relações mundiais pela internet, ainda que desconheça os indivíduos que moram fisicamente próximos.\n\n( ) A globalização do conhecimento faz com que os procedimentos tecnológicos na área da saúde se difundam rapidamente pelo mundo, possibilitando, de forma homogênea, o combate de problemas como a pandemia de Covid 19.\n\nO correto preenchimento dos parênteses, de cima para baixo, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V – F – F – F"
+        },
+        {
+          "letra": "B",
+          "texto": "V – F – F – V"
+        },
+        {
+          "letra": "C",
+          "texto": "F – V – V – V"
+        },
+        {
+          "letra": "D",
+          "texto": "F – V – V – F"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Globalização"
+      ]
+    },
+    {
+      "numeroEnunciado": 65,
+      "enunciado": "INSTRUÇÃO: Responder às questões 65 e 66 com base no texto que segue.\n\nUm avião parte de um ponto sobre a linha do Equador ao meio-dia, deslocando-se sobre esta mesma linha e em sentido contrário ao da rotação terrestre. No instante em que atinge a maior velocidade, o sol está exatamente no ponto mais alto do céu. A partir deste momento, o avião voa a uma velocidade tal que, a cada uma hora, cruza 15 meridianos. Depois de 6 horas de voo com velocidade e altura constantes, o piloto informa sua longitude à torre de comando para preparação do pouso.\n\nEm relação à descrição anterior, qual é a alternativa correta?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O avião voou rumo ao Oeste, percorrendo uma distância longitudinal de 90° e com o sol sempre na mesma posição em relação ao seu corpo."
+        },
+        {
+          "letra": "B",
+          "texto": "O avião voou rumo ao Leste, percorrendo uma distância longitudinal de 90° e com o sol sempre na mesma posição em relação ao seu corpo."
+        },
+        {
+          "letra": "C",
+          "texto": "O avião voou rumo ao Leste, percorrendo uma distância longitudinal de 90° e com o sol se pondo à sua frente no instante do pouso."
+        },
+        {
+          "letra": "D",
+          "texto": "O avião voou rumo ao Oeste, percorrendo uma distância longitudinal de 90° e com o sol se pondo às suas costas no instante do pouso."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Cartografia",
+        "Geografia – Fusos Horários"
+      ]
+    },
+    {
+      "numeroEnunciado": 66,
+      "enunciado": "INSTRUÇÃO: Responder às questões 65 e 66 com base no texto que segue.\n\nUm avião parte de um ponto sobre a linha do Equador ao meio-dia, deslocando-se sobre esta mesma linha e em sentido contrário ao da rotação terrestre. No instante em que atinge a maior velocidade, o sol está exatamente no ponto mais alto do céu. A partir deste momento, o avião voa a uma velocidade tal que, a cada uma hora, cruza 15 meridianos. Depois de 6 horas de voo com velocidade e altura constantes, o piloto informa sua longitude à torre de comando para preparação do pouso.\n\nO voo ocorreu no dia __________.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "do solstício de verão do hemisfério Sul"
+        },
+        {
+          "letra": "B",
+          "texto": "do solstício de inverno do hemisfério Sul"
+        },
+        {
+          "letra": "C",
+          "texto": "do equinócio de verão do hemisfério Sul"
+        },
+        {
+          "letra": "D",
+          "texto": "do equinócio de primavera do hemisfério Sul"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Movimentos da Terra",
+        "Geografia – Estações do Ano"
+      ]
+    },
+    {
+      "numeroEnunciado": 67,
+      "enunciado": "Pesquisadores da Embrapa identificaram a cidade mais chuvosa do Brasil: o município de Calçoene, no Amapá, com uma precipitação média anual de 4.165 milímetros. [...] Segundo o pesquisador, dados anteriores indicavam a região da Serra do Mar, entre Paranapiacaba e Itapanhaú, em São Paulo, como o local mais chuvoso do país, com uma precipitação média anual de 3.600 mm. O município amapaense, no entanto, já chegou a 7 mil mm, no ano 2000. A precipitação é três vezes maior que na cidade de São Paulo, por exemplo.\n\nOs itens de I a V apresentam argumentos para explicar as chuvas do município de Calçoene, no Amapá.\n\nI. Localização em região de baixa pressão equatorial.\nII. Ocorrência do fenômeno da friagem.\nIII. Alta taxa de evapotranspiração.\nIV. Presença marcante de chuvas convectivas.\nV. Chuvas orográficas a barlavento da Cordilheira dos Andes.\n\nEstão corretos apenas os itens",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e IV."
+        },
+        {
+          "letra": "B",
+          "texto": "I, III e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "II, III e V."
+        },
+        {
+          "letra": "D",
+          "texto": "I, III, IV e V."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 68,
+      "enunciado": "A __________ abriga o maior número de refugiados no mundo: perto de 4,1 milhões, incluindo 3,7 milhões de pessoas vindas do/da __________ e quase 400.000 solicitantes de asilo e refugiados de outras nacionalidades. Especialistas em migração concordam que a iniciativa de receber tantos imigrantes é motivada principalmente pela falta de apoio internacional para lidar com a crise dos refugiados e pela crescente pressão doméstica sobre essa questão. “É impossível assumir o fardo dos refugiados por conta própria e de outro êxodo adicional do norte do país vizinho, portanto tomou-se uma decisão emocional e abriu suas fronteiras no que só pode ser descrito como um ato de desespero”, disse à Xinhua, Didem Isci, especialista dos Estudos de Migração do Bósforo (EMB).\n\nObserve o mapa a seguir.\n\nOs países que completam corretamente as lacunas, na ordem em que aparecem no texto, e os seus respectivos números no mapa são",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Síria(2) – Afeganistão(3)"
+        },
+        {
+          "letra": "B",
+          "texto": "Síria(1) – Turquia(4)"
+        },
+        {
+          "letra": "C",
+          "texto": "Turquia(1) – Síria(2)"
+        },
+        {
+          "letra": "D",
+          "texto": "Turquia(6) – Síria(3)"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "Geografia – Demografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 69,
+      "enunciado": "Leia um trecho da entrevista do professor Giorgio Romano acerca do bloqueio do canal de Suez, no Egito, ocorrido no mês de março de 2021.\n\nSobre o bloqueio que durou seis dias e fez parar mais de 400 navios com milhares de contêineres, as consequências não foram as piores possíveis, segundo o professor. “Foi um episódio superado relativamente rápido. Poderia ter demorado duas semanas ou quem sabe até mais, mas vai demorar ainda algumas semanas até normalizar. Porque o comércio é planejado com um determinado ritmo e fluxo. E isso acontece num momento em que o mundo está impactado pela pandemia. E a própria pandemia já mostra como o mundo está dependente de cadeias de suprimento com pouquíssima flexibilidade”, analisa o professor, que explica que 12% do comércio mundial passa pela rota.\n\nDe acordo com o texto, fica evidente que os impactos gerados pelo bloqueio do canal de Suez são desdobramentos causados",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pela formação de Holdings como modelo de gestão fabril."
+        },
+        {
+          "letra": "B",
+          "texto": "pelo emprego do Just in Time como modelo de gestão fabril."
+        },
+        {
+          "letra": "C",
+          "texto": "pela formação de Holdings como modelo de articulação internacional."
+        },
+        {
+          "letra": "D",
+          "texto": "pelo emprego do Just in Time como modelo de articulação internacional."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Comércio Mundial",
+        "Geografia – Globalização"
+      ]
+    },
+    {
+      "numeroEnunciado": 70,
+      "enunciado": "O alumínio é um metal largamente utilizado no cotidiano, especialmente devido à sua leveza e resistência à corrosão. Embora seja observado em rochas __________, não é encontrado na natureza na forma pura, mas em conjunto com hidróxidos. Esse agregado chama-se __________. Essas formações podem estar localizadas em regiões temperadas, porém a maior parte encontra-se em regiões tropicais e, em geral, é produto do/da __________. Quimicamente falando, algumas rochas se decompõem em contato com o/a __________, dissolvendo a maior parte da sílica e formando crostas superficiais compostas principalmente de óxido de ferro e alumina hidratada.\n\nOs conceitos e termos que completam as lacunas, na ordem em que se encontram no texto, são",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "magmáticas – cassiterita – laterização – ar"
+        },
+        {
+          "letra": "B",
+          "texto": "magmáticas – bauxita – laterização – água"
+        },
+        {
+          "letra": "C",
+          "texto": "sedimentares – bauxita – laterização – água"
+        },
+        {
+          "letra": "D",
+          "texto": "sedimentares – cassiterita – intemperismo – ar"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Recursos Minerais",
+        "Geografia – Geomorfologia"
+      ]
+    }
+  ]
+}

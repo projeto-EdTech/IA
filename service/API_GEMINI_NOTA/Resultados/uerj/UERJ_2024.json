@@ -1,0 +1,2118 @@
+{
+  "nomeUniversidade": "Universidade do Estado do Rio de Janeiro",
+  "siglaUniversidade": "UERJ",
+  "nomeVestibular": "Vestibular Estadual",
+  "ano": 2024,
+  "cursos": [
+    {
+      "nomeCurso": "Administração",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Administração",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Administração",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Administração",
+      "modalidadeConcorrencia": "Cota PCD/Filhos de Policiais",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22.25
+    },
+    {
+      "nomeCurso": "Arqueologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 53.5
+    },
+    {
+      "nomeCurso": "Arqueologia",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29.75
+    },
+    {
+      "nomeCurso": "Arquitetura e Urbanismo",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 65.75
+    },
+    {
+      "nomeCurso": "Arquitetura e Urbanismo",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35.5
+    },
+    {
+      "nomeCurso": "Arquitetura e Urbanismo",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25.5
+    },
+    {
+      "nomeCurso": "Artes Visuais",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 59.25
+    },
+    {
+      "nomeCurso": "Artes Visuais",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33.25
+    },
+    {
+      "nomeCurso": "Artes Visuais",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24.75
+    },
+    {
+      "nomeCurso": "Artes Visuais",
+      "modalidadeConcorrencia": "Cota PCD/Filhos de Policiais",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 47.25
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 83.25
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 52
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36.5
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "Cota PCD/Filhos de Policiais",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44.5
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 40
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 26
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32.75
+    },
+    {
+      "nomeCurso": "Ciência da Computação",
+      "modalidadeConcorrencia": "Cota PCD/Filhos de Policiais",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33.5
+    },
+    {
+      "nomeCurso": "Ciências Ambientais",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21.5
+    },
+    {
+      "nomeCurso": "Ciências Ambientais",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Ciências Atuariais",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 46.5
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20.5
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27.25
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Ciências Biológicas",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20.5
+    },
+    {
+      "nomeCurso": "Ciências Contábeis",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35.5
+    },
+    {
+      "nomeCurso": "Ciências Contábeis",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21.5
+    },
+    {
+      "nomeCurso": "Ciências Contábeis",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21.5
+    },
+    {
+      "nomeCurso": "Ciências Econômicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 71.25
+    },
+    {
+      "nomeCurso": "Ciências Econômicas",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21.5
+    },
+    {
+      "nomeCurso": "Ciências Econômicas",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 26.25
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 47
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Ciências Sociais",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 26.25
+    },
+    {
+      "nomeCurso": "Design",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 82.25
+    },
+    {
+      "nomeCurso": "Design",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 65.75
+    },
+    {
+      "nomeCurso": "Design",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 57.25
+    },
+    {
+      "nomeCurso": "Direito",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 74.5
+    },
+    {
+      "nomeCurso": "Direito",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41.25
+    },
+    {
+      "nomeCurso": "Direito",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42.5
+    },
+    {
+      "nomeCurso": "Direito",
+      "modalidadeConcorrencia": "Cota PCD/Filhos de Policiais",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32.25
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 30.25
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Educação Física",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20.5
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41.5
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 30.75
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25.5
+    },
+    {
+      "nomeCurso": "Enfermagem",
+      "modalidadeConcorrencia": "Cota PCD/Filhos de Policiais",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25.75
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental e Sanitária",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental e Sanitária",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37.5
+    },
+    {
+      "nomeCurso": "Engenharia Ambiental e Sanitária",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Engenharia Cartográfica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23.5
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24.5
+    },
+    {
+      "nomeCurso": "Engenharia Civil",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20.5
+    },
+    {
+      "nomeCurso": "Engenharia de Computação",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 76
+    },
+    {
+      "nomeCurso": "Engenharia de Computação",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27.75
+    },
+    {
+      "nomeCurso": "Engenharia de Computação",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Engenharia de Materiais",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21.25
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28.75
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 77.75
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29.75
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23
+    },
+    {
+      "nomeCurso": "Engenharia de Produção",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31.75
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24
+    },
+    {
+      "nomeCurso": "Engenharia Elétrica",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24.75
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20.25
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 62
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22.25
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21.75
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 77
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 42.5
+    },
+    {
+      "nomeCurso": "Engenharia Mecânica",
+      "modalidadeConcorrencia": "Cota PCD/Filhos de Policiais",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Engenharia Metalúrgica",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21.5
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22.25
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27.75
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 67.25
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Engenharia Química",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Estatística",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21.5
+    },
+    {
+      "nomeCurso": "Estatística",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Estatística",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23.75
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 46
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Farmácia",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Filosofia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20.75
+    },
+    {
+      "nomeCurso": "Filosofia",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Física",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21.5
+    },
+    {
+      "nomeCurso": "Física",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Física",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27.75
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24.75
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 26.25
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31.5
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 50.5
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24.75
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 30.5
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Cota PCD/Filhos de Policiais",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 53
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23.5
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "Geografia",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33.25
+    },
+    {
+      "nomeCurso": "Geologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34.5
+    },
+    {
+      "nomeCurso": "Geologia",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28.5
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23.5
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 69.5
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 47.25
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24.5
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21.5
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 26.25
+    },
+    {
+      "nomeCurso": "História",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31.5
+    },
+    {
+      "nomeCurso": "História da Arte",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "História da Arte",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "História da Arte",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31.5
+    },
+    {
+      "nomeCurso": "Jornalismo",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 71.75
+    },
+    {
+      "nomeCurso": "Jornalismo",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 49.75
+    },
+    {
+      "nomeCurso": "Jornalismo",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 53.25
+    },
+    {
+      "nomeCurso": "Letras",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20.25
+    },
+    {
+      "nomeCurso": "Letras",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29.75
+    },
+    {
+      "nomeCurso": "Letras",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23.25
+    },
+    {
+      "nomeCurso": "Letras: Inglês/Literaturas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 66.25
+    },
+    {
+      "nomeCurso": "Letras: Inglês/Literaturas",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 43.5
+    },
+    {
+      "nomeCurso": "Letras: Português/Alemão",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37.25
+    },
+    {
+      "nomeCurso": "Letras: Português/Espanhol",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Letras: Português/Espanhol",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21.25
+    },
+    {
+      "nomeCurso": "Letras: Português/Espanhol",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23.75
+    },
+    {
+      "nomeCurso": "Letras: Português/Francês",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 30.5
+    },
+    {
+      "nomeCurso": "Letras: Português/Francês",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 37
+    },
+    {
+      "nomeCurso": "Letras: Português/Francês",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Letras: Português/Grego",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20.5
+    },
+    {
+      "nomeCurso": "Letras: Português/Grego",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 38
+    },
+    {
+      "nomeCurso": "Letras: Português/Italiano",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23.75
+    },
+    {
+      "nomeCurso": "Letras: Português/Italiano",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33.5
+    },
+    {
+      "nomeCurso": "Letras: Português/Japonês",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44.25
+    },
+    {
+      "nomeCurso": "Letras: Português/Japonês",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 57.5
+    },
+    {
+      "nomeCurso": "Letras: Português/Japonês",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 58
+    },
+    {
+      "nomeCurso": "Letras: Português/Latim",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28.25
+    },
+    {
+      "nomeCurso": "Letras: Português/Latim",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Letras: Português/Latim",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41.25
+    },
+    {
+      "nomeCurso": "Letras: Português/Literatura",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 59.5
+    },
+    {
+      "nomeCurso": "Letras: Português/Literatura",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 30
+    },
+    {
+      "nomeCurso": "Letras: Português/Literatura",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27.25
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20.25
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28.5
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28.5
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24.5
+    },
+    {
+      "nomeCurso": "Matemática",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 45
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 78.5
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 61.25
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 55.75
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Cota PCD/Filhos de Policiais",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 60.25
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 82.5
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 70.25
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 68.5
+    },
+    {
+      "nomeCurso": "Medicina",
+      "modalidadeConcorrencia": "Cota PCD/Filhos de Policiais",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 65.75
+    },
+    {
+      "nomeCurso": "Nutrição",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 47.75
+    },
+    {
+      "nomeCurso": "Nutrição",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 29.25
+    },
+    {
+      "nomeCurso": "Nutrição",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22.5
+    },
+    {
+      "nomeCurso": "Oceanografia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31
+    },
+    {
+      "nomeCurso": "Oceanografia",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 34
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 55
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33.5
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21
+    },
+    {
+      "nomeCurso": "Odontologia",
+      "modalidadeConcorrencia": "Cota PCD/Filhos de Policiais",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 35
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20.75
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27.75
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25.5
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 28.5
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20.25
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20.75
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Cota PCD/Filhos de Policiais",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 25
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21.75
+    },
+    {
+      "nomeCurso": "Pedagogia",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21.25
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 71.5
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 56.5
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 49.5
+    },
+    {
+      "nomeCurso": "Psicologia",
+      "modalidadeConcorrencia": "Cota PCD/Filhos de Policiais",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23.25
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 23.5
+    },
+    {
+      "nomeCurso": "Química",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32.75
+    },
+    {
+      "nomeCurso": "Relações Internacionais",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 84.75
+    },
+    {
+      "nomeCurso": "Relações Internacionais",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 65.75
+    },
+    {
+      "nomeCurso": "Relações Internacionais",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 61.75
+    },
+    {
+      "nomeCurso": "Relações Internacionais",
+      "modalidadeConcorrencia": "Cota PCD/Filhos de Policiais",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 53.25
+    },
+    {
+      "nomeCurso": "Relações Públicas",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 61
+    },
+    {
+      "nomeCurso": "Relações Públicas",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 44.5
+    },
+    {
+      "nomeCurso": "Relações Públicas",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 33.75
+    },
+    {
+      "nomeCurso": "Serviço Social",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 41
+    },
+    {
+      "nomeCurso": "Serviço Social",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 22.5
+    },
+    {
+      "nomeCurso": "Serviço Social",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21.25
+    },
+    {
+      "nomeCurso": "Tecnol. em Análise e Desenv. de Sistema",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 31.25
+    },
+    {
+      "nomeCurso": "Tecnol. em Análise e Desenv. de Sistema",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 24.75
+    },
+    {
+      "nomeCurso": "Tecnol. em Análise e Desenv. de Sistema",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 27.25
+    },
+    {
+      "nomeCurso": "Tecnologia em Construção Naval",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 21.75
+    },
+    {
+      "nomeCurso": "Turismo",
+      "modalidadeConcorrencia": "Ampla Concorrência",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 36.75
+    },
+    {
+      "nomeCurso": "Turismo",
+      "modalidadeConcorrencia": "Cota Rede Pública",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 32
+    },
+    {
+      "nomeCurso": "Turismo",
+      "modalidadeConcorrencia": "Cota Negros/Indígenas",
+      "vagas": null,
+      "inscritos": null,
+      "ausentes": null,
+      "convocadosSegundaFase": null,
+      "convocadosPorVaga": null,
+      "notaCorte": 20.25
+    }
+  ]
+}

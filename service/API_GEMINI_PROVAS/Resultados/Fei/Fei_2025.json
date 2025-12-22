@@ -1,0 +1,1805 @@
+{
+  "nomeUniversidade": "Centro Universitário FEI",
+  "siglaUniversidade": "FEI",
+  "nomeProva": "Processo Seletivo 1°2025 - Prova de Engenharia, Ciência da Computação, Ciência de Dados e Inteligência Artificial",
+  "ano": 2025,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Leia os textos abaixo para responder às questões de 01 a 04.\n\nTexto 1 - Poema \"No Meio do Caminho\", de Carlos Drummond de Andrade.\n\nNo meio do caminho tinha uma pedra\ntinha uma pedra no meio do caminho\ntinha uma pedra\nno meio do caminho tinha uma pedra.\n\nNunca me esquecerei desse acontecimento\nna vida de minhas retinas tão fatigadas.\nNunca me esquecerei que no meio do caminho\ntinha uma pedra\ntinha uma pedra no meio do caminho\nno meio do caminho tinha uma pedra.\n\nTexto 2 - Charge do cartunista Eduardo Arruda via @eduardobarruda\n\nO poema \"No Meio do Caminho\", de Carlos Drummond de Andrade, inspirou diversas releituras ao longo dos anos. O fenômeno da intertextualidade, exemplificado pelo diálogo entre os textos acima, ocorre quando um texto dialoga com outro, direta ou indiretamente, por meio de citação, alusão, paródia ou até referência implícita.\n\nCom base nesse conceito, escolha a alternativa que apresenta um exemplo correto de intertextualidade:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Uma crônica que recria de forma humorística a estrutura e os temas de um poema clássico, adaptando-o a uma situação cotidiana."
+        },
+        {
+          "letra": "B",
+          "texto": "Uma reportagem que utiliza ideias semelhantes às de um livro, mas sem reconhecer explicitamente essa influência."
+        },
+        {
+          "letra": "C",
+          "texto": "Um ensaio crítico que copia parágrafos inteiros de outra obra sem mencionar a fonte, apropriando-se do conteúdo."
+        },
+        {
+          "letra": "D",
+          "texto": "Uma peça publicitária que utiliza fatos históricos para promover um produto."
+        },
+        {
+          "letra": "E",
+          "texto": "Um romance que aborda o mesmo tema de outras obras, mas não estabelece nenhum tipo de diálogo com seus enredos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Intertextualidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Uma das formas de recriar textos literários é por meio de charges, como a de Eduardo Arruda, que dialoga com o poema de Carlos Drummond de Andrade ao transformar e transpor a sua mensagem.\n\nCom base nessa definição e na relação entre o poema e a charge, escolha a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A charge faz uma paródia do poema ao imitar o conteúdo e a forma sem modificações."
+        },
+        {
+          "letra": "B",
+          "texto": "A intertextualidade da charge com o poema ocorre por meio da preservação exata do tema central, sem reinterpretá-lo."
+        },
+        {
+          "letra": "C",
+          "texto": "A charge de Eduardo Arruda realiza uma recriação crítica do poema, adaptando-o ao contexto contemporâneo e a uma linguagem visual."
+        },
+        {
+          "letra": "D",
+          "texto": "A relação entre os dois baseia-se no fato de que a charge reproduz literalmente a mensagem do poema, apenas mudando o meio."
+        },
+        {
+          "letra": "E",
+          "texto": "A intertextualidade está ausente, pois a charge não mantém elementos formais do poema, como a repetição das palavras."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Intertextualidade",
+        "Língua Portuguesa – Gêneros Textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Embora o poema de Carlos Drummond de Andrade tenha sido publicado no ano de 1928, o chargista Eduardo Arruda consegue preservar a atualidade do poema original, adicionando outra camada de sentido, diretamente relacionada ao contexto contemporâneo.\n\nEscolha a alternativa que melhor interpreta a camada de contemporaneidade adicionada pelo chargista:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Segundo a charge, o mentor é uma figura essencial para a vida moderna, pois promove o desenvolvimento pessoal e melhora a abordagem aos desafios diários."
+        },
+        {
+          "letra": "B",
+          "texto": "A charge aponta que, na atualidade, a poesia é superada por discursos motivacionais, pois estes respondem melhor às demandas do mundo contemporâneo."
+        },
+        {
+          "letra": "C",
+          "texto": "A charge sugere que a interpretação motivacional é mais adequada que a poética, indicando que Drummond oferece uma visão ultrapassada dos obstáculos."
+        },
+        {
+          "letra": "D",
+          "texto": "A charge transforma o poema em uma crítica à linguagem motivacional moderna, revelando como a figura do mentor e o discurso de fácil superação viraram clichês contemporâneos."
+        },
+        {
+          "letra": "E",
+          "texto": "A charge indica que a combinação de reflexão poética e abordagens práticas enriquece a compreensão dos desafios da vida moderna."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Na oração \"Você precisa de mentoria!\", o tempo verbal utilizado é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Futuro do presente"
+        },
+        {
+          "letra": "B",
+          "texto": "Imperativo afirmativo."
+        },
+        {
+          "letra": "C",
+          "texto": "Futuro do Subjuntivo."
+        },
+        {
+          "letra": "D",
+          "texto": "Presente do Subjuntivo."
+        },
+        {
+          "letra": "E",
+          "texto": "Presente do Indicativo."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia (Tempos e Modos Verbais)"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Leia o texto abaixo para responder às questões de 05 a 10.\n\nTexto 3 – Crônica “É preciso saber para passar no vestibular!”, de Rubem Alves.\n\nMinha neta estava lendo um lindo livro de biologia. Ah! Como a biologia é fascinante! A vida! Mas não havia entusiasmo no seu rosto. Nem nada que se parecesse com curiosidade. Era mais uma expressão de tédio. Sei o que é isso. Há textos que reduzem o leitor a uma panqueca que se arrasta pelo chão. Arrasta-se porque tem que ler mas não quer ler. É por causa desses textos que Barthes disse que a preguiça é parte essencial da experiência escolar. Perguntei o que ela estava lendo. Ela me mostrou um parágrafo com o dedo. Era isso que estava escrito: \"Além da catálase, existem nos peroxissomos enzimas que participam da degradação de outras substâncias tóxicas, como o etanol e certos radicais livres. Células vegetais possuem glioxissomos, peroxissomos especializados e relacionados com a conversão das reservas de lipídios em carboidratos. O citosol (ou hialoplasma) é um coloide... No ciosol das células eucarióticas, existe um citoesqueleto constituído fundamentalmente por microfilamentos e microtúbulos, responsável pela ancoragem de organoides... Os microtúbulos têm paredes formadas por moléculas de tubulina...\". Encontrei ainda palavras que nunca lera: \"retículo sarcoplasmático, complexo de Golgi, pinocitose, fagossomo, fragmoplasto, o padrão do axonema é constituído por 9+2, uma referência aos 9 pares de microtúbulos em torno de um par central\". Parece-me que essa última afirmação tem a ver com o rabo do espermatozoide, mas nesse momento os meus pensamentos já estavam tão confusos que não posso garantir. Não posso imaginar minha neta conversando sobre essas palavras com suas amigas ou seu namorado. Ele, eu acho, só vai se interessar pelo rabo do espermatozoide... Fico curioso: o que é que o professor que escreveu esse texto imaginava que os adolescentes iriam fazer com ele? Li esse texto para um erudito professor de biologia. Sua reação foi: \"Não entendi nada...\".\n(Fonte: ALVES, Rubem. É preciso saber para passar no vestibular! In: Ostra feliz não faz pérola. São Paulo: Editora Planeta do Brasil, 2008.\n\nConsiderando a natureza e o propósito da crônica como gênero literário, qual a principal função desse tipo de texto, conforme exemplificado no texto de Rubem Alves?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Explicar conceitos científicos complexos com precisão técnica e formulações objetivas."
+        },
+        {
+          "letra": "B",
+          "texto": "Relatar eventos históricos de maneira imparcial, preservando a exatidão dos fatos."
+        },
+        {
+          "letra": "C",
+          "texto": "Estimular reflexões críticas e subjetivas sobre aspectos do cotidiano, com abordagem leve e acessível."
+        },
+        {
+          "letra": "D",
+          "texto": "Apresentar argumentos filosóficos formais sobre a educação contemporânea e os desafios da aprendizagem."
+        },
+        {
+          "letra": "E",
+          "texto": "Narrar acontecimentos extraordinários por meio de uma linguagem poética e subjetiva."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Gêneros Textuais",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Em seu livro O Prazer do Texto, o escritor francês Roland Barthes discute a relação entre ócio e tédio na leitura em suas reflexões sobre a experiência do leitor. Ele argumenta que a leitura deve ser um ato prazeroso e que a ausência de envolvimento pode levar ao tédio, o que resulta em uma experiência de leitura insatisfatória. Barthes considera a leitura como um espaço de liberdade no qual o leitor deve se sentir estimulado e curioso, em vez de ser reduzido a um estado de passividade ou obrigação.\n\nQual a intenção de Rubem Alves ao estabelecer um intertexto com a teoria de Barthes em sua crônica?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Criticar a forma como o conhecimento é frequentemente apresentado nas escolas, mostrando que isso pode levar à falta de interesse e ao tédio."
+        },
+        {
+          "letra": "B",
+          "texto": "Defender a ideia de que a leitura deve ser uma atividade rigorosa e disciplinada, em que o aluno deve se submeter ao conhecimento científico."
+        },
+        {
+          "letra": "C",
+          "texto": "Enfatizar a necessidade de uma abordagem formal na educação, na qual o ócio é rejeitado."
+        },
+        {
+          "letra": "D",
+          "texto": "Celebrar a complexidade dos textos acadêmicos, retratando o tédio como um componente natural e necessário ao aprendizado."
+        },
+        {
+          "letra": "E",
+          "texto": "Sugerir que a leitura é uma atividade intrinsecamente complexa e, por isso, deve ser restrita a um público limitado, não sendo acessível a todos."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Intertextualidade",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Para fundamentar sua crítica ao sistema educacional, qual é o principal argumento utilizado por Rubem Alves em sua crônica?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O autor utiliza trechos da teoria de Roland Barthes para fundamentar sua crônica filosoficamente, estabelecendo um diálogo entre a experiência da leitura e a reflexão crítica."
+        },
+        {
+          "letra": "B",
+          "texto": "Rubem Alves defende a linguagem narrativa como uma abordagem necessária para reverter a apatia dos alunos em relação à leitura, enfatizando a importância do envolvimento emocional."
+        },
+        {
+          "letra": "C",
+          "texto": "O autor propõe a abordagem poética como meio de transformar o aprendizado em uma experiência mais envolvente e conectada à realidade dos alunos."
+        },
+        {
+          "letra": "D",
+          "texto": "O autor sustenta sua tese ao apresentar exemplos de uma linguagem excessivamente técnica, que dificulta a compreensão do conteúdo e afasta o leitor do prazer da leitura."
+        },
+        {
+          "letra": "E",
+          "texto": "A crônica não apresenta argumentos coerentes, baseando-se apenas em experiências pessoais, sem uma fundamentação consistente."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Argumentação",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "A última linha da crônica de Rubem Alves, que menciona a reação de um professor erudito ao afirmar \"não entendi nada\", apoia a tese principal do texto. De acordo com a crônica, como o conteúdo é apreendido na educação voltada para o vestibular?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Através da compreensão."
+        },
+        {
+          "letra": "B",
+          "texto": "Através da memorização."
+        },
+        {
+          "letra": "C",
+          "texto": "Através da comparação."
+        },
+        {
+          "letra": "D",
+          "texto": "Através da vivência."
+        },
+        {
+          "letra": "E",
+          "texto": "Através da experimentação."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Na frase “É preciso saber para passar no vestibular”, a expressão \"para passar\" exerce a função de um complemento verbal, mais especificamente, é um complemento de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "lugar."
+        },
+        {
+          "letra": "B",
+          "texto": "tempo."
+        },
+        {
+          "letra": "C",
+          "texto": "causa."
+        },
+        {
+          "letra": "D",
+          "texto": "finalidade."
+        },
+        {
+          "letra": "E",
+          "texto": "condição."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe (Termos da Oração)"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "No texto de Rubem Alves, uma metáfora é utilizada para ilustrar a sua crítica e reflexão. Assinale a alternativa que identifica corretamente essa metáfora:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"A vida! Mas não havia entusiasmo no seu rosto.\""
+        },
+        {
+          "letra": "B",
+          "texto": "\"Era mais uma expressão de tédio.\""
+        },
+        {
+          "letra": "C",
+          "texto": "\"Li esse texto para um erudito professor de biologia.\""
+        },
+        {
+          "letra": "D",
+          "texto": "\"Células vegetais possuem glioxissomos, peroxissomos especializados.\""
+        },
+        {
+          "letra": "E",
+          "texto": "\"A panqueca que se arrasta pelo chão.”"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Tendo como referência a função do 2º grau $f(x)=-x^2-4x$, leia as afirmações seguintes:\n\nI. O gráfico da função f(x) é côncavo para baixo.\nII. O gráfico da função f(x) intercepta o eixo das ordenadas no ponto (0,0).\nIII. O gráfico da função f(x) não intercepta o eixo das abscissas.\nIV. O vértice do gráfico da função f(x) é um ponto de mínimo.\n\nEscolha a alternativa que ordena corretamente as classificações de cada afirmação como verdadeira (V) ou falsa (F):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "VVVV"
+        },
+        {
+          "letra": "B",
+          "texto": "FVVF"
+        },
+        {
+          "letra": "C",
+          "texto": "VVFF"
+        },
+        {
+          "letra": "D",
+          "texto": "FVFF"
+        },
+        {
+          "letra": "E",
+          "texto": "VVVF"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Funções do 2º grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Pretende-se dividir R$ 1140,00 entre as pessoas A, B e C de maneira diretamente proporcional às suas idades. Sabe-se que a soma das idades das três pessoas é igual a 57 anos. A pessoa A é 5 anos mais jovem do que a pessoa B e a idade da pessoa C, adicionada de treze anos, é igual à soma das idades das pessoas A e B. Escolha a única alternativa incorreta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A pessoa A possui 15 anos"
+        },
+        {
+          "letra": "B",
+          "texto": "A pessoa B possui 20 anos"
+        },
+        {
+          "letra": "C",
+          "texto": "A pessoa C possui 23 anos"
+        },
+        {
+          "letra": "D",
+          "texto": "A pessoa C deve receber R$ 440,00"
+        },
+        {
+          "letra": "E",
+          "texto": "A pessoa B deve receber R$ 400,00"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Razão e Proporção",
+        "Matemática – Sistemas de Equações"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Leia as quatro afirmações seguintes relativas à função $f(x)= \\log_3 (x+1)$:\n\nI. O domínio mais amplo possível é $Df = \\{x \\in \\mathbb{R} / x \\ge 1\\}$.\nII. A função é crescente.\nIII. A inversa da função é $f(x)=3x – 1$.\nIV. f(8)=1.\n\nEscolha a alternativa que ordena corretamente as classificações de cada afirmação como verdadeira (V) ou falsa (F).",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "VFFV"
+        },
+        {
+          "letra": "B",
+          "texto": "FVVV"
+        },
+        {
+          "letra": "C",
+          "texto": "FVVF"
+        },
+        {
+          "letra": "D",
+          "texto": "VVVF"
+        },
+        {
+          "letra": "E",
+          "texto": "FVFF"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Função Logarítmica",
+        "Matemática – Função Inversa"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Uma empresa decide oferecer um de seus produtos em três embalagens diferentes: A, B e C. Após alguns meses, a empresa realiza uma pesquisa com 225 pessoas, para identificar a aceitação do produto nas novas embalagens. Os resultados foram os seguintes: 25 pessoas não optaram por qualquer embalagem; 110 optaram pela A, 110 optaram pela B; 140 optaram pela C; 60 escolheram A e B; 70 escolheram A e C e 80 optaram por B e C. Deduz-se que o número de entrevistados que escolheram as três embalagens, simultaneamente, corresponde a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "50"
+        },
+        {
+          "letra": "B",
+          "texto": "40"
+        },
+        {
+          "letra": "C",
+          "texto": "30"
+        },
+        {
+          "letra": "D",
+          "texto": "20"
+        },
+        {
+          "letra": "E",
+          "texto": "15"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Conjuntos"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Em um sistema de coordenadas ortogonais x0y, são marcados os pontos E = (0,7) e F = (4,3). O valor do coeficiente angular da reta que contém os dois pontos é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "-1"
+        },
+        {
+          "letra": "C",
+          "texto": "-3"
+        },
+        {
+          "letra": "D",
+          "texto": "2"
+        },
+        {
+          "letra": "E",
+          "texto": "-2"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Geometria Analítica (Equação da Reta)"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Um estudante, explorando o uso da calculadora, adiciona quatro números consecutivos de uma progressão aritmética crescente, e o resultado gerado é -6. Em seguida, ele multiplica o primeiro e o quarto números da progressão aritmética e obtém -54. Com base nestas informações é correto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O primeiro número vale 2"
+        },
+        {
+          "letra": "B",
+          "texto": "O segundo número vale 6"
+        },
+        {
+          "letra": "C",
+          "texto": "A soma entre o terceiro e o quarto vale 5"
+        },
+        {
+          "letra": "D",
+          "texto": "O terceiro número vale 1"
+        },
+        {
+          "letra": "E",
+          "texto": "O quarto número somado ao primeiro resulta em 4"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Progressão Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Dadas as matrizes quadradas de 2ª ordem:\n$A=\\begin{pmatrix} 1 & 2 \\\\ 2 & 3 \\end{pmatrix}$, $B=\\begin{pmatrix} 0 & 5 \\\\ 3 & 7 \\end{pmatrix}$, $C=\\begin{pmatrix} 1 & 7 \\\\ -1 & 2 \\end{pmatrix}$ e $D= \\begin{pmatrix} x & z \\\\ y & w \\end{pmatrix}$, o determinante da matriz D, sendo $D+A=B-C$, vale:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0"
+        },
+        {
+          "letra": "B",
+          "texto": "1"
+        },
+        {
+          "letra": "C",
+          "texto": "2"
+        },
+        {
+          "letra": "D",
+          "texto": "3"
+        },
+        {
+          "letra": "E",
+          "texto": "5"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Matrizes",
+        "Matemática – Determinantes"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "No trapézio retângulo ABCD, a bissetriz de um dos ângulos de 90° forma um ângulo de 110° com a bissetriz do ângulo agudo do trapézio. A medida do maior ângulo do trapézio é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "115°"
+        },
+        {
+          "letra": "B",
+          "texto": "120°"
+        },
+        {
+          "letra": "C",
+          "texto": "125°"
+        },
+        {
+          "letra": "D",
+          "texto": "130°"
+        },
+        {
+          "letra": "E",
+          "texto": "140°"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Plana (Quadriláteros)"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "A expressão $C_{n,p}= \\frac{n!}{p!(n-p)!}$ é usada para o cálculo do número de combinações possíveis de n elementos escolhidos p a p. O valor para n que satisfaz a igualdade $C_{n,5}=4C_{n-1,4}$ é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20"
+        },
+        {
+          "letra": "B",
+          "texto": "21"
+        },
+        {
+          "letra": "C",
+          "texto": "22"
+        },
+        {
+          "letra": "D",
+          "texto": "23"
+        },
+        {
+          "letra": "E",
+          "texto": "25"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Análise Combinatória (Combinação)"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Uma microempresa fabrica e comercializa certo produto. Seu proprietário deseja determinar o número mínimo de unidades do produto que precisam ser vendidas para que se obtenha lucro. Sabe-se que ele gasta R$ 1,20 por unidade produzida e possui uma despesa fixa de R$ 4.000,00, independentemente da quantidade produzida. Se ele pretende vender cada unidade do produto por R$ 2,00, o número mínimo de unidades a partir do qual ele terá lucro corresponde a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3001"
+        },
+        {
+          "letra": "B",
+          "texto": "5001"
+        },
+        {
+          "letra": "C",
+          "texto": "4001"
+        },
+        {
+          "letra": "D",
+          "texto": "6001"
+        },
+        {
+          "letra": "E",
+          "texto": "7001"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Funções do 1º grau",
+        "Matemática – Inequações"
+      ]
+    },
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Instruções: Se for necessário, use a aceleração da gravidade $g = 10 \\text{ m/s}^2$, $\\cos(30^\\circ) = 0,87$, $\\sin(30^\\circ) = 0,50$ e $\\sin(45^\\circ) = \\cos(45^\\circ) = 0,71$.\n\nAs medidas de velocidade v, posição s e tempo t relativas ao movimento retilíneo com aceleração constante de um corpo estão mostradas na tabela abaixo. Após a análise da tabela, escolha a alternativa que melhor descreve o movimento:",
+      "alternativas": null,
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Cinemática (MRUV)"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Instruções: Se for necessário, use a aceleração da gravidade $g = 10 \\text{ m/s}^2$, $\\cos(30^\\circ) = 0,87$, $\\sin(30^\\circ) = 0,50$ e $\\sin(45^\\circ) = \\cos(45^\\circ) = 0,71$.\n\nA pressão p no interior de um líquido homogêneo em equilíbrio varia com a profundidade h de acordo com o gráfico. Qual é a densidade do líquido?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$430 \\text{ kg/m}^3$"
+        },
+        {
+          "letra": "B",
+          "texto": "$500 \\text{ kg/m}^3$"
+        },
+        {
+          "letra": "C",
+          "texto": "$950 \\text{ kg/m}^3$"
+        },
+        {
+          "letra": "D",
+          "texto": "$1000 \\text{ kg/m}^3$"
+        },
+        {
+          "letra": "E",
+          "texto": "$1667 \\text{ kg/m}^3$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Hidrostática (Pressão)"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Instruções: Se for necessário, use a aceleração da gravidade $g = 10 \\text{ m/s}^2$, $\\cos(30^\\circ) = 0,87$, $\\sin(30^\\circ) = 0,50$ e $\\sin(45^\\circ) = \\cos(45^\\circ) = 0,71$.\n\nUm submarino emite uma onda sonora na direção de um obstáculo e detecta o retorno do sinal após um intervalo de 5 segundos. Considerando que a velocidade de propagação do som na água é de 1600 m/s, qual é a distância entre o submarino e o obstáculo? Suponha que o submarino está em repouso em relação ao obstáculo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2500 m"
+        },
+        {
+          "letra": "B",
+          "texto": "3000 m"
+        },
+        {
+          "letra": "C",
+          "texto": "4000 m"
+        },
+        {
+          "letra": "D",
+          "texto": "8000 m"
+        },
+        {
+          "letra": "E",
+          "texto": "9000 m"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Acústica (Eco)"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Instruções: Se for necessário, use a aceleração da gravidade $g = 10 \\text{ m/s}^2$, $\\cos(30^\\circ) = 0,87$, $\\sin(30^\\circ) = 0,50$ e $\\sin(45^\\circ) = \\cos(45^\\circ) = 0,71$.\n\nUm ferro elétrico consome uma potência de 2000 W quando submetido a uma diferença de potencial de 127 V. Qual é o valor de sua resistência elétrica?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$5,0 \\ \\Omega$"
+        },
+        {
+          "letra": "B",
+          "texto": "$6,3 \\ \\Omega$"
+        },
+        {
+          "letra": "C",
+          "texto": "$7,7 \\ \\Omega$"
+        },
+        {
+          "letra": "D",
+          "texto": "$8,1 \\ \\Omega$"
+        },
+        {
+          "letra": "E",
+          "texto": "$9,0 \\ \\Omega$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Eletrodinâmica (Potência Elétrica)"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Instruções: Se for necessário, use a aceleração da gravidade $g = 10 \\text{ m/s}^2$, $\\cos(30^\\circ) = 0,87$, $\\sin(30^\\circ) = 0,50$ e $\\sin(45^\\circ) = \\cos(45^\\circ) = 0,71$.\n\nUm bloco cuja massa é de 500 kg encontra-se em equilíbrio em um sistema de polias. O sistema é composto por uma polia fixa e três polias móveis. Os pontos A, B e C são os pontos em que cada fio são fixados ao teto. Quais são os valores das forças nos fios nos pontos A, B e C, respectivamente? Suponha que as polias e os fios são ideais.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "62,5 N, 125 N e 250 N"
+        },
+        {
+          "letra": "B",
+          "texto": "125 N, 250 N e 500 N"
+        },
+        {
+          "letra": "C",
+          "texto": "500 N, 250 N e 125 N"
+        },
+        {
+          "letra": "D",
+          "texto": "625 N, 1250 N e 2500 N"
+        },
+        {
+          "letra": "E",
+          "texto": "2500 N, 1250 N e 625 N"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Dinâmica (Polias)",
+        "Física – Estática"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Instruções: Se for necessário, use a aceleração da gravidade $g = 10 \\text{ m/s}^2$, $\\cos(30^\\circ) = 0,87$, $\\sin(30^\\circ) = 0,50$ e $\\sin(45^\\circ) = \\cos(45^\\circ) = 0,71$.\n\nUm automóvel com massa de 1500 kg descreve uma trajetória circular com raio de 10 m mantendo sua velocidade constante. Qual é a aceleração centrípeta do automóvel, sabendo que a sua energia cinética durante o movimento é de 150 kJ?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$20 \\text{ m/s}^2$"
+        },
+        {
+          "letra": "B",
+          "texto": "$22 \\text{ m/s}^2$"
+        },
+        {
+          "letra": "C",
+          "texto": "$25 \\text{ m/s}^2$"
+        },
+        {
+          "letra": "D",
+          "texto": "$26 \\text{ m/s}^2$"
+        },
+        {
+          "letra": "E",
+          "texto": "$28 \\text{ m/s}^2$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Dinâmica (Movimento Circular)",
+        "Física – Energia Cinética"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Instruções: Se for necessário, use a aceleração da gravidade $g = 10 \\text{ m/s}^2$, $\\cos(30^\\circ) = 0,87$, $\\sin(30^\\circ) = 0,50$ e $\\sin(45^\\circ) = \\cos(45^\\circ) = 0,71$.\n\nO funcionamento de equipamentos eletrônicos é viabilizado pela passagem de corrente elétrica. Escolha a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A corrente elétrica é gerada pelo movimento organizado dos átomos no interior do fio."
+        },
+        {
+          "letra": "B",
+          "texto": "Em materiais condutores, a corrente elétrica flui com facilidade devido à presença de elétrons livres; em materiais isolantes, a corrente é quase nula, pois os elétrons estão fortemente ligados aos átomos e não se deslocam livremente."
+        },
+        {
+          "letra": "C",
+          "texto": "Um bom condutor é um material elétrico que permite a passagem de corrente elétrica com facilidade, apresentando simultaneamente alta resistividade e baixa condutividade."
+        },
+        {
+          "letra": "D",
+          "texto": "Em um fio metálico submetido a uma diferença de potencial, os elétrons se deslocam no sentido da corrente elétrica."
+        },
+        {
+          "letra": "E",
+          "texto": "A corrente elétrica pode existir em um fio metálico sem a aplicação de uma diferença de potencial, porque o material é um condutor."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Eletrodinâmica (Corrente Elétrica)"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Instruções: Se for necessário, use a aceleração da gravidade $g = 10 \\text{ m/s}^2$, $\\cos(30^\\circ) = 0,87$, $\\sin(30^\\circ) = 0,50$ e $\\sin(45^\\circ) = \\cos(45^\\circ) = 0,71$.\n\nNa figura abaixo estão mostrados quatro vetores $\\vec{A}$, $\\vec{B}$, $\\vec{C}$ e $\\vec{D}$ que possuem a mesma origem O e possuem o mesmo tamanho de 5,0 cm. Analise a figura e escolha a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O vetor $\\vec{A} + \\vec{B} + \\vec{C} + \\vec{D}$ possui módulo nulo."
+        },
+        {
+          "letra": "B",
+          "texto": "Os vetores $(\\vec{A} + \\vec{B})$ e $(\\vec{C} + \\vec{D})$ possuem o mesmo módulo, direção e sentido."
+        },
+        {
+          "letra": "C",
+          "texto": "O vetor $\\vec{A} + \\vec{B} + \\vec{C}$ possui módulo de 15 cm."
+        },
+        {
+          "letra": "D",
+          "texto": "O vetor $\\vec{A} + \\vec{B}$ possui módulo de $5 \\sqrt{3}$ cm."
+        },
+        {
+          "letra": "E",
+          "texto": "O vetor $\\vec{A} – \\vec{C}$ possui módulo nulo."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Vetores"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Instruções: Se for necessário, use a aceleração da gravidade $g = 10 \\text{ m/s}^2$, $\\cos(30^\\circ) = 0,87$, $\\sin(30^\\circ) = 0,50$ e $\\sin(45^\\circ) = \\cos(45^\\circ) = 0,71$.\n\nUm bloco com massa de 10 kg, inicialmente em repouso, desliza sobre um plano inclinado de 45° em relação à horizontal. Os coeficientes de atrito estático e cinético entre o bloco e a superfície são 0,40 e 0,20, respectivamente. Qual é a velocidade do bloco após percorrer uma distância de 3,2 m a partir do momento em que começou a se mover?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2,82 m/s"
+        },
+        {
+          "letra": "B",
+          "texto": "5,22 m/s"
+        },
+        {
+          "letra": "C",
+          "texto": "6,03 m/s"
+        },
+        {
+          "letra": "D",
+          "texto": "8,05 m/s"
+        },
+        {
+          "letra": "E",
+          "texto": "9,10 m/s"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Dinâmica (Plano Inclinado)",
+        "Física – Trabalho e Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Instruções: Se for necessário, use a aceleração da gravidade $g = 10 \\text{ m/s}^2$, $\\cos(30^\\circ) = 0,87$, $\\sin(30^\\circ) = 0,50$ e $\\sin(45^\\circ) = \\cos(45^\\circ) = 0,71$.\n\nDuas placas planas e paralelas, carregadas com cargas de sinais opostos, estão separadas por uma distância de 10 cm no vácuo. Entre as placas, há um campo elétrico uniforme com intensidade de $5 \\times 10^7$ N/C. Uma carga de prova de $2 \\ \\mu C$ e massa de $5 \\times 10^{-6}$ kg é liberada em repouso a partir da superfície da placa positiva. Considerando que a força gravitacional é desprezível, qual é a velocidade da carga de prova ao atingir a placa negativa?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,0 km/s"
+        },
+        {
+          "letra": "B",
+          "texto": "1,5 km/s"
+        },
+        {
+          "letra": "C",
+          "texto": "2,0 km/s"
+        },
+        {
+          "letra": "D",
+          "texto": "2,5 km/s"
+        },
+        {
+          "letra": "E",
+          "texto": "3,0 km/s"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Eletrostática (Campo Elétrico Uniforme)"
+      ]
+    },
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Qual das configurações eletrônicas a seguir corresponde à configuração do elemento químico argônio, cujo número atômico é 18?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$1s^2 1p^6 2s^2 2p^6 3s^1$"
+        },
+        {
+          "letra": "B",
+          "texto": "$1s^2 1p^6 2s^2 2p^6 3s^2$"
+        },
+        {
+          "letra": "C",
+          "texto": "$1s^2 2s^2 2p^6 3s^1 3p^6$"
+        },
+        {
+          "letra": "D",
+          "texto": "$1s^2 2s^2 2p^6 3s^2 3p^6$"
+        },
+        {
+          "letra": "E",
+          "texto": "$1s^2 2s^2 2p^6 3s^2 3p^7$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Estrutura Atômica (Distribuição Eletrônica)"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Um técnico de laboratório deve preparar 5 L de solução de HCl a 2 molar, diluindo uma solução de HCl a 10 molar em água. O volume de água que o técnico deve adicionar na solução concentrada para obter a solução desejada deve ser igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 L"
+        },
+        {
+          "letra": "B",
+          "texto": "2 L"
+        },
+        {
+          "letra": "C",
+          "texto": "3 L"
+        },
+        {
+          "letra": "D",
+          "texto": "4 L"
+        },
+        {
+          "letra": "E",
+          "texto": "5 L"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Soluções (Diluição)"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Na neutralização total do ácido clorídrico com o hidróxido de sódio há a formação de um sal e água. Escolha a alternativa que apresenta a fórmula química correta deste sal:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "NaCl"
+        },
+        {
+          "letra": "B",
+          "texto": "$NaCl_2$"
+        },
+        {
+          "letra": "C",
+          "texto": "$Na_2Cl$"
+        },
+        {
+          "letra": "D",
+          "texto": "$Na_3Cl_2$"
+        },
+        {
+          "letra": "E",
+          "texto": "$Na_2Cl_3$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Reações Inorgânicas (Neutralização)"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Considere a reação de oxi-redução não balanceada:\n$HNO_3 + Zn \\rightarrow Zn(NO_3)_2 + NO + H_2O$\n\nTendo em vista essa reação, leia as seguintes afirmações:\n\nI - A soma dos coeficientes estequiométricos mínimos inteiros na equação balanceada é igual a 20\nII - O agente oxidante é $HNO_3$\nIII - O agente redutor é Zn\nIV - O número de oxidação (NOX) do átomo de nitrogênio no $HNO_3$ é igual a +5\n\nEscolha a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Nenhuma das afirmações é verdadeira"
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas as afirmações I, II e III são verdadeiras"
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas as afirmações II, III e IV são verdadeiras"
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas as afirmações I, III e IV são verdadeiras"
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as afirmações são verdadeiras"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Eletroquímica (Reações de Oxi-Redução)"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "O propanal e a propanona representam, respectivamente, exemplos de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Um álcool e um aldeído"
+        },
+        {
+          "letra": "B",
+          "texto": "Um álcool e uma cetona"
+        },
+        {
+          "letra": "C",
+          "texto": "Um aldeído e uma cetona"
+        },
+        {
+          "letra": "D",
+          "texto": "Um aldeído e uma éster"
+        },
+        {
+          "letra": "E",
+          "texto": "Um éster e uma cetona"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Química Orgânica (Funções Oxigenadas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "O cloro gasoso ($Cl_2$) é produzido pela eletrólise da salmoura segundo a reação não balanceada:\n$NaCl + H_2O \\rightarrow NaOH + Cl_2 + H_2$\n\nO volume de cloro gasoso produzido, nas condições normais de temperatura e pressão (CNTP), a partir da reação de 234 g de NaCl, considerando reação completa, será igual a:\n\nPA: Cl = 35,5; Na = 23; O = 16; H = 1",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "89,6 L"
+        },
+        {
+          "letra": "B",
+          "texto": "67,2 L"
+        },
+        {
+          "letra": "C",
+          "texto": "78,4 L"
+        },
+        {
+          "letra": "D",
+          "texto": "44,8 L"
+        },
+        {
+          "letra": "E",
+          "texto": "22,4 L"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Estequiometria",
+        "Química – Eletrólise"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "A pilha eletroquímica formada pelos metais ferro e cobre pode ser representada por $Fe / FeSO_4 // CuSO_4 / Cu$. Sabendo-se que o ferro apresenta potencial de oxidação maior do que o cobre, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O cobre é anodo e sofre corrosão"
+        },
+        {
+          "letra": "B",
+          "texto": "O cobre é anodo e sofre oxidação"
+        },
+        {
+          "letra": "C",
+          "texto": "O cobre é anodo e sofre deposição"
+        },
+        {
+          "letra": "D",
+          "texto": "O cobre é catodo e sofre oxidação"
+        },
+        {
+          "letra": "E",
+          "texto": "O cobre é catodo e sofre redução"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Eletroquímica (Pilhas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Foram adicionados inicialmente 2 mols de $Cl_2$ e 2 mols de $H_2$ em um recipiente fechado e de volume constante. Após o consumo de parte dos reagentes e quando o sistema entrou em equilíbrio, obtiveram-se 2 mols de HCl.\n\n$H_2 + Cl_2 \\rightleftharpoons 2 HCl$\n\nA constante de equilíbrio do sistema será igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4"
+        },
+        {
+          "letra": "B",
+          "texto": "3"
+        },
+        {
+          "letra": "C",
+          "texto": "2"
+        },
+        {
+          "letra": "D",
+          "texto": "1"
+        },
+        {
+          "letra": "E",
+          "texto": "0"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Equilíbrio Químico"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Quando da adição de um soluto não volátil em um solvente, deve-se esperar que a solução resultante apresente, em relação ao solvente puro:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Redução na temperatura de ebulição e aumento na temperatura de solidificação"
+        },
+        {
+          "letra": "B",
+          "texto": "Aumento na temperatura de ebulição e redução na temperatura de solidificação"
+        },
+        {
+          "letra": "C",
+          "texto": "Aumento nas temperaturas de ebulição e de solidificação"
+        },
+        {
+          "letra": "D",
+          "texto": "Redução nas temperaturas de ebulição e de solidificação"
+        },
+        {
+          "letra": "E",
+          "texto": "Nenhuma alteração nas temperaturas de ebulição e de solidificação"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Propriedades Coligativas"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Assinale a alternativa correta sobre a variação da entalpia em reações químicas que absorvem ou liberam calor:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Reações endotérmicas liberam calor e apresentam $\\Delta H > 0$"
+        },
+        {
+          "letra": "B",
+          "texto": "Reações endotérmicas liberam calor e apresentam $\\Delta H < 0$"
+        },
+        {
+          "letra": "C",
+          "texto": "Reações endotérmicas absorvem calor e apresentam $\\Delta H > 0$"
+        },
+        {
+          "letra": "D",
+          "texto": "Reações exotérmicas absorvem calor e apresentam $\\Delta H < 0$"
+        },
+        {
+          "letra": "E",
+          "texto": "Reações exotérmicas liberam calor e apresentam $\\Delta H > 0$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Termoquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "A Revolução de 1930 não só marca o fim da República Velha, como também deu fim às articulações políticas entre as oligarquias regionais do Brasil, que sobrepunham seus interesses particulares aos interesses do Estado e da Nação como um todo.\n\nAnalise as afirmações:\n\nI - O movimento que levou à Revolução de 1930 foi impulsionado a partir de 1929, quando o presidente Washington Luís, contrariando os acordos da \"política do café com leite\", indicou como seu sucessor o paulista Júlio Prestes.\nII - Para confrontar Washington Luís nas urnas, os mineiros passam a organizar a Aliança Liberal, partido formado por políticos de outros estados, como Rio Grande do Sul e Paraíba.\nIII - O estopim da Revolução foi a vitória de Getúlio Vargas nas eleições de 1930, que contou com o apoio dos Tenentes após o assassinato de João Pessoa na Paraíba.\nIV - Tropas do exército e da marinha depuseram Washington Luís no Rio de Janeiro no final de outubro e uma junta militar transferiu o poder para Getúlio Vargas no início de novembro.\n\nEscolha a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas as afirmações III e IV são verdadeiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas as afirmações I e IV são verdadeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas as afirmações II e III são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas as afirmações I e II são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Apenas as afirmações I, II e IV são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – História do Brasil (Revolução de 1930)"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "A primeira Constituição do Brasil, outorgada pelo imperador Dom Pedro I em 25 de março de 1824, foi a mais duradoura de nossa história, tendo permanecido em vigor durante 65 anos.\n\nAnalise as afirmações sobre as Constituições que já vigoraram no Brasil:\n\nI - Ao longo de sua história o Brasil já passou por sete Constituições, sendo que a atual, chamada de Constituição Cidadã, entrou em vigor em 1988.\nII - Duas constituições marcaram os períodos autoritários no Brasil: a de 1937, conhecida como \"Polaca\", outorgada pelo então presidente Getúlio Vargas, e a de 1967, promulgada durante a ditadura militar após pouco mais de um mês de discussão sobre o projeto apresentado ao Congresso Nacional pelo governo de Artur da Costa e Silva.\nIII - Em 1934, uma nova Constituição dava amplos poderes aos Estados, instituiu o voto secreto, o voto feminino, além da criação da Justiça Eleitoral e do Trabalho.\n\nEscolha a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas as afirmações I e II são verdadeiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas as afirmações I e III são verdadeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas as afirmações II e III são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "Todas as afirmações são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as afirmações são falsas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – História do Brasil (Constituições)"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "As reformas religiosas que ocorreram durante o século XVI culminaram com a criação de novas doutrinas religiosas e na diminuição do poder da Igreja Católica. Elas são divididas em dois momentos: a Reforma Protestante e a Contrarreforma.\n\nEscolha a alternativa incorreta sobre o tema.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O luteranismo surgiu no início do século XVI a partir das pregações do monge alemão Martinho Lutero. Dizia Lutero que a salvação seria justificada unicamente pela fé e questionava as indulgências cobradas pela Igreja Católica."
+        },
+        {
+          "letra": "B",
+          "texto": "O calvinismo é uma religião cristã que se baseia na predestinação, na valorização dos bons costumes e na defesa do trabalho e do lucro."
+        },
+        {
+          "letra": "C",
+          "texto": "A Contrarreforma foi uma reação da Igreja Católica ao avanço do islamismo na Europa, no século XVI, tendo como motivador o avanço do Islã na Península Ibérica."
+        },
+        {
+          "letra": "D",
+          "texto": "O Concílio de Trento tomou várias decisões para combater o protestantismo. Algumas das suas determinações foram: proibir a cobrança de indulgências e a circulação de livros contrários às normas da Igreja."
+        },
+        {
+          "letra": "E",
+          "texto": "O anglicanismo surgiu num período de tensões religiosas e políticas e pelo desejo do rei Henrique VIII de estabelecer uma igreja nacional independente da autoridade papal."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História Geral (Reformas Religiosas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "A Revolução Industrial foi um processo de grandes transformações tecnológicas, sociais e econômicas transformando a vida cotidiana e acelerando o processo de urbanização.\n\nLeia as seguintes afirmações.\n\nI - A Primeira Revolução Industrial, ocorrida na segunda metade do século XVIII e iniciada na Inglaterra, teve como marco a mecanização dos processos, ou seja, a invenção de máquinas para acelerar e substituir o trabalho humano.\nII - O surgimento da eletricidade e petróleo como novas formas de energia e avanços nas indústrias química e siderúrgica, a partir de meados de 1870, deu início à Segunda Revolução Industrial, que transformou a Alemanha e os Estados Unidos da América em potências industriais.\nIII - Na área industrial, a Terceira Revolução Industrial trouxe a invenção dos automóveis e de máquinas que operam de forma automática, além do modo de produção chamado de Fordismo.\nIV - A Quarta Revolução Industrial, chamada de Indústria 4.0, tem como principal característica a interconexão de todas as etapas da produção, a digitalização das informações e a utilização dos dados para tornar a indústria mais eficiente.\n\nEscolha a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas as afirmações I e III são verdadeiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas as afirmações I e II são verdadeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas as afirmações II e IV são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas as afirmações I, II e IV são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as afirmações são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – História Geral (Revoluções Industriais)"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "A Semana de Arte Moderna foi uma manifestação artístico-cultural que ocorreu em São Paulo durante a chamada República Velha. O evento reuniu diversas apresentações de dança, música, recital de poesias, exposição de obras - pintura e escultura - e palestras. Foi ali que se iniciou a construção do movimento modernista brasileiro.\n\nIndique a única alternativa incorreta sobre o período em destaque:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os artistas envolvidos tinham como principal objetivo revolucionar a arte brasileira. Buscavam chocar o público que ainda estava envolvido com o conservadorismo da arte e que seguia padrões tradicionais europeus."
+        },
+        {
+          "letra": "B",
+          "texto": "O movimento, libertário e revolucionário, buscava se afastar do intelectualismo da Bossa Nova e foi liderado por Caetano Veloso, Gilberto Gil e Gal Costa."
+        },
+        {
+          "letra": "C",
+          "texto": "Os artistas buscaram valorizar a identidade e a cultura brasileiras, explorando o território nacional como fonte de inspiração cultural. Entre os destaques do movimento estão: Tarsila do Amaral, Anita Malfatti e Di Cavalcanti."
+        },
+        {
+          "letra": "D",
+          "texto": "A maioria dos artistas do movimento tinha possibilidades financeiras para viajar e estudar na Europa e trouxe para o país diversas tendências artísticas em voga na Europa na época."
+        },
+        {
+          "letra": "E",
+          "texto": "Houve um rompimento com a arte acadêmica, com crítica ao modelo parnasiano de literatura e com influência das vanguardas artísticas europeias."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História do Brasil (República Velha)",
+        "Arte – Modernismo no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "A tragédia climática ocorrida no Rio Grande do Sul teve como principal consequência a perda de centenas de vidas humanas. Além disso, impactou diretamente o setor primário da economia brasileira, principalmente com relação ao mercado interno. Isso ocorre porque:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A região sul concentra a maior produção de soja do país, principalmente na região denominada de MaToPiBa o que gerou forte desabastecimento do produto e de seus derivados nos mercados de todo o país."
+        },
+        {
+          "letra": "B",
+          "texto": "O setor primário responde principalmente pela atividade turística. Como o aeroporto de Porto Alegre, o 8º mais movimentado do país, permaneceu interditado por meses, houve impacto negativo nesta atividade e, consequentemente, na participação do turismo no PIB."
+        },
+        {
+          "letra": "C",
+          "texto": "O Rio Grande do Sul é responsável por mais de 70% da rizicultura brasileira. Com as intensas chuvas, a produção foi fortemente prejudicada, encarecendo o arroz em praticamente todo território nacional."
+        },
+        {
+          "letra": "D",
+          "texto": "A produção industrial do Rio Grande do Sul foi muito impactada. Por se tratar da segunda região mais industrializada do país, muitas atividades econômicas de outras regiões que necessitam de produtos fabricados naquele estado precisaram reduzir momentaneamente o ritmo de produção."
+        },
+        {
+          "letra": "E",
+          "texto": "O mercado do futebol, que pertence ao setor primário da economia, foi fortemente impactado, pois a cidade possui dois importantes clubes que tiveram suas instalações afetadas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geografia do Brasil (Economia Agrária)"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "O mapa abaixo retrata a distribuição espacial no território brasileiro de uma importante fonte de energia.\n\nEscolha a alternativa que indica corretamente a qual tipo de energia o mapa está se referindo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Energia solar"
+        },
+        {
+          "letra": "B",
+          "texto": "Energia termonuclear"
+        },
+        {
+          "letra": "C",
+          "texto": "Energia eólica"
+        },
+        {
+          "letra": "D",
+          "texto": "Energia hidráulica"
+        },
+        {
+          "letra": "E",
+          "texto": "Energia térmica"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geografia do Brasil (Fontes de Energia)"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Os EUA possuem grande produção agrícola, sendo a nação onde surgiu a chamada revolução verde. Escolha a alternativa que indica corretamente a que se refere a revolução verde.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Priorização para a produção de grãos, como milho e trigo, uma vez que as técnicas modernas de silagem permitem melhor conservação dos grãos, tornando-os commodities agrícolas."
+        },
+        {
+          "letra": "B",
+          "texto": "Disseminação de técnicas de agricultura orgânica, que podem tornar a produção agrícola menos danosa para o meio ambiente."
+        },
+        {
+          "letra": "C",
+          "texto": "Utilização do sistema de belts para aproveitar as características climáticas de cada região."
+        },
+        {
+          "letra": "D",
+          "texto": "Implementação de tecnologias como fertilizantes sintéticos, agrotóxicos, mecanização e sementes híbridas."
+        },
+        {
+          "letra": "E",
+          "texto": "Implementação dos sistemas intermodais para o transporte de produtos agrícolas, agilizando assim o escoamento da produção."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geografia Agrária (Revolução Verde)"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "A respeito da Rússia, assinale a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Por estar em dois continentes (Ásia e Europa, separadas pelos Montes Urais), possui dois governos. Esta descentralização é uma das causas para a dificuldade em vencer a guerra que trava contra a vizinha Ucrânia."
+        },
+        {
+          "letra": "B",
+          "texto": "Possui a maior floresta do mundo, abundantes recursos naturais, como gás natural e petróleo, e mantém relações diplomáticas com países distantes entre si, como Japão e Alemanha."
+        },
+        {
+          "letra": "C",
+          "texto": "Apesar de ser o maior país do mundo em território, sua geopolítica está totalmente voltada para a Europa, fazendo com que seus vizinhos orientais tenham pouca relação econômica com a Rússia."
+        },
+        {
+          "letra": "D",
+          "texto": "Apesar de ser o maior país do mundo em território, não há muita diversidade étnica, religiosa, linguística ou cultural no país."
+        },
+        {
+          "letra": "E",
+          "texto": "A Rússia é uma monarquia parlamentarista desde o final da URSS, tendo como liderança política há mais de duas décadas o primeiro ministro Vladimir Putin, que governa o país com mão de ferro, sofrendo críticas da comunidade internacional."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geografia Política (Rússia)"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "O Brasil vem passando por períodos de intensa seca em grande parte do seu território, o que contribui para a propagação de queimadas, intencionais ou naturais, que devastam biomas e áreas de conservação, piorando a qualidade do ar que se respira em diversas cidades brasileiras, como São Paulo. As mudanças climáticas também são apontadas como fator preponderante para a intensificação de outro fenômeno climático que reduz as temperaturas das águas do Oceano Pacífico, alterando a dinâmica climática em diversas regiões do Brasil.\nEscolha a alternativa que indica respectively o nome do menor bioma brasileiro, que vem sendo intensamente afetado pelas secas e queimadas, e o nome do fenômeno climático mencionado acima:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Cerrado e El Niño"
+        },
+        {
+          "letra": "B",
+          "texto": "Amazônia e La Niña"
+        },
+        {
+          "letra": "C",
+          "texto": "Cerrado e La Niña"
+        },
+        {
+          "letra": "D",
+          "texto": "Pantanal e El Niño"
+        },
+        {
+          "letra": "E",
+          "texto": "Pantanal e La Niña"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Geografia do Brasil (Biomas)",
+        "Geografia – Climatologia (Fenômenos Climáticos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Vaping Health Risks: Study Suggests Nearly 20% Increased Threat Of Heart Disease From E-Cigarette Use\nArianna Johnson\nApr 2, 2024,08:00am EDT\nVapes containing nicotine may increase the risk of heart failure, according to a new study, adding on to previous research that found vaping may increase the risk of heart disease, worsen blood pressure and heart rate, and cause several lung-related health issues.\nParticipants who used e-cigarettes (or vapes) containing nicotine at any point in their lives had a 19% higher chance of developing heart failure compared to those who never used vapes, according to a new study published Tuesday by the American College of Cardiology.\nThe researchers found the increased risk associated with vaping was more prominent in a type of heart failure called heart failure with preserved ejection fraction, which causes the heart muscle to become stiff and not properly fill with blood between each beat.\nThe researchers tracked 175,667 participants—over 60% female with an average age of 52—over the course of 45 months using health records from the National Institutes of Health.\nOf those participants, 3,242 developed heart failure within the 45-month period, and the study found no evidence to suggest other factors—including age, sex or whether they smoked cigarettes—impacted the study.\n\"More and more studies are linking e-cigarettes to harmful effects and finding that it might not be as safe as previously thought,\" Yakubu Bene-Alhasan, the study's lead author and a resident physician at MedStar Health in Baltimore, said in a statement. \"We don't want to wait too long to find out eventually that it might be harmful, and by that time a lot of harm might already have been done.\"\nhttps://www.forbes.com/sites/ariannajohnson/2024/04/02/vaping-health-risks-study-suggests-nearly-20-increased-threat-of-heart-disease-from-e-cigarette-use/\n\nThe word worsen in the sentence \"vaping may increase the risk of heart disease, worsen blood pressure and heart rate” (paragraph 1) has the same meaning as:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "deteriorate"
+        },
+        {
+          "letra": "B",
+          "texto": "improve"
+        },
+        {
+          "letra": "C",
+          "texto": "maintain"
+        },
+        {
+          "letra": "D",
+          "texto": "better"
+        },
+        {
+          "letra": "E",
+          "texto": "soothe"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto",
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "De acordo com o segundo parágrafo, a pesquisa realizada pela American College of Cardiology indica que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "metade dos fumantes de cigarros eletrônicos desenvolverão problemas cardíacos por causa da nicotina."
+        },
+        {
+          "letra": "B",
+          "texto": "19% dos participantes da pesquisa tiveram ataques cardíacos após fumarem cigarros eletrônicos por mais de um ano."
+        },
+        {
+          "letra": "C",
+          "texto": "a nicotina, presente tanto em cigarros eletrônicos quanto em cigarros convencionais, potencializa problemas renais."
+        },
+        {
+          "letra": "D",
+          "texto": "fumantes de cigarros convencionais têm 19% mais chance de terem problemas cardíacos do que fumantes de cigarros eletrônicos."
+        },
+        {
+          "letra": "E",
+          "texto": "fumantes de cigarros eletrônicos têm mais chance de desenvolver problemas cardíacos do que aqueles que nunca tiveram essa experiência."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "The word which in the third paragraph refers to:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "heart."
+        },
+        {
+          "letra": "B",
+          "texto": "vaping."
+        },
+        {
+          "letra": "C",
+          "texto": "fraction."
+        },
+        {
+          "letra": "D",
+          "texto": "preserved ejection fraction."
+        },
+        {
+          "letra": "E",
+          "texto": "heart failure with preserved ejection fraction."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Interpretação de Texto",
+        "Inglês – Referência Pronominal"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "A palavra whether no quinto parágrafo poderia ser substituída, sem perda semântica, por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "however."
+        },
+        {
+          "letra": "B",
+          "texto": "then."
+        },
+        {
+          "letra": "C",
+          "texto": "if."
+        },
+        {
+          "letra": "D",
+          "texto": "never."
+        },
+        {
+          "letra": "E",
+          "texto": "though."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Vocabulário (Conectivos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "We can infer from reading the last paragraph that vapes:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "were thought to be less dangerous than conventional cigarettes."
+        },
+        {
+          "letra": "B",
+          "texto": "need to be researched more deeply for us to grasp their benefits."
+        },
+        {
+          "letra": "C",
+          "texto": "are still under investigation for potential benefit to general health."
+        },
+        {
+          "letra": "D",
+          "texto": "are believed to cause physical impairment in the short run."
+        },
+        {
+          "letra": "E",
+          "texto": "can cause eventual harm if smoked for over 45 months."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto (Inferência)"
+      ]
+    },
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Ações antrópicas são intervenções promovidas pela atividade humana e que exercem influência direta sobre o meio ambiente e os ecossistemas naturais. Entre essas intervenções, destacam-se o desmatamento, a urbanização desordenada, a agricultura intensiva e a emissão de gases de efeito estufa. Nesse contexto, uma ação antrópica causadora de inundações a partir do desequilíbrio decorrente do ciclo hidrológico seria:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O aumento da área de várzea fluvial, que ultrapassa a capacidade de escoamento."
+        },
+        {
+          "letra": "B",
+          "texto": "A manutenção das ilhas verdes nos centros urbanos, que aumenta o fluxo de água."
+        },
+        {
+          "letra": "C",
+          "texto": "A criação de parques eólicos que modificam o regime de chuvas."
+        },
+        {
+          "letra": "D",
+          "texto": "A transposição dos rios, que provoca o desvio dos cursos de água."
+        },
+        {
+          "letra": "E",
+          "texto": "A ocupação indevida das margens dos rios e a impermeabilização na bacia de drenagem, que implicam o acréscimo de vazão da água."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Ecologia (Impactos Ambientais)"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Em março de 2024, a CNN Brasil noticiou uma infestação de escorpiões no estado do Rio de Janeiro, com mais de 100 pessoas picadas. Em uma situação como esta, uma estratégia de prevenção seria a produção de folhetos explicativos com textos como:\n\n“ESCORPIÕES são insetos que se refugiam em locais variados, principalmente escuros, como amontoados de madeira, pedras, entulho, atrás de móveis e fendas na parede. Possuem um corpo alongado dividido em duas partes (cefalotórax e abdômen) com um aguilhão na extremidade, um par de palpos, quatro pares de pernas e não possuem antenas. A picada do escorpião é dolorida e perigosa.\"\n\nEscolha a alternativa que apresenta uma informação incorreta presente no texto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os escorpiões não possuem antenas."
+        },
+        {
+          "letra": "B",
+          "texto": "Os escorpiões possuem um corpo alongado dividido em duas partes (cefalotórax e abdômen)."
+        },
+        {
+          "letra": "C",
+          "texto": "Os escorpiões possuem um par de palpos, quatro pares de pernas."
+        },
+        {
+          "letra": "D",
+          "texto": "Os escorpiões são insetos."
+        },
+        {
+          "letra": "E",
+          "texto": "A picada do escorpião é dolorida e perigosa."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Zoologia (Artrópodes)"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Em dias muito quentes e diante de situações de exposição prolongada ao Sol, sem acesso à água, o corpo humano começa a sentir uma crescente sensação de sede. Como resposta, o sistema excretor ajusta seu funcionamento para conservar água, modificando alguns processos funcionais. Nesta situação, o sistema excretor:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aumenta a filtração glomerular"
+        },
+        {
+          "letra": "B",
+          "texto": "produz maior volume de urina"
+        },
+        {
+          "letra": "C",
+          "texto": "produz urina com menos ureia"
+        },
+        {
+          "letra": "D",
+          "texto": "produz urina com maior concentração de sais"
+        },
+        {
+          "letra": "E",
+          "texto": "reduz a absorção de glicose e aminoácidos"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Fisiologia Humana (Sistema Excretor)"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Um homem destro e albino se casa com uma mulher destra, não albina e heterozigota para essas duas características genéticas. O casal tem um filho canhoto e albino. Qual a chance desse casal ter uma criança destra e não albina?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "37,50%"
+        },
+        {
+          "letra": "B",
+          "texto": "18,75%"
+        },
+        {
+          "letra": "C",
+          "texto": "25,00%"
+        },
+        {
+          "letra": "D",
+          "texto": "56,25%"
+        },
+        {
+          "letra": "E",
+          "texto": "75,00%"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Genética (Herança Mendeliana)"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Giardíase, caxumba, cólera e toxoplasmose são doenças transmitidas por via oral e causadas respectivamente por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Protozoário, bactéria, protozoário e vírus."
+        },
+        {
+          "letra": "B",
+          "texto": "Bactéria, protozoário, protozoário e vírus."
+        },
+        {
+          "letra": "C",
+          "texto": "Protozoário, vírus, bactéria e protozoário."
+        },
+        {
+          "letra": "D",
+          "texto": "Todas são causadas exclusivamente por vírus."
+        },
+        {
+          "letra": "E",
+          "texto": "Todas são causadas exclusivamente por bactérias."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Parasitologia",
+        "Biologia – Microbiologia"
+      ]
+    }
+  ]
+}

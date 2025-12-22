@@ -1,0 +1,1607 @@
+{
+  "nomeUniversidade": "Faculdade de Tecnologia",
+  "siglaUniversidade": "FATEC",
+  "nomeProva": "Vestibular 2º SEM/2024",
+  "ano": 2024,
+  "qtdeQuestoes": 54,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "A leitura do mapa permite concluir, corretamente, que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os povoadores da América do Norte tiveram sua origem na Oceania, passaram pela Polinésia e seguiram viagem por mar, utilizando embarcações primitivas."
+        },
+        {
+          "letra": "B",
+          "texto": "os primeiros povoadores da América partiram de um ponto de origem comum e realizaram diferentes rotas em direção aos territórios da atual América Latina."
+        },
+        {
+          "letra": "C",
+          "texto": "a rota dos primeiros habitantes da América se originou na Europa e, desse continente, rumou para a Ásia, de onde foi possível finalizar a travessia por terra."
+        },
+        {
+          "letra": "D",
+          "texto": "os territórios da atual América Latina foram tanto destino quanto origem de parte dos fluxos migratórios pré-históricos."
+        },
+        {
+          "letra": "E",
+          "texto": "a impossibilidade de realizar os percursos por terra forçou o desenvolvimento de viagens marítimas como única forma de alcançar o Continente Americano."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – Pré-História Americana"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "A expressão América Latina está mais associada a questões econômicas e sociais dos países que a compõem do que a um aspecto meramente territorial. Não se trata de um continente, mas, sim, de uma alusão aos 20 países da América colonizados, principalmente, por Espanha e Portugal. Territorialmente, compreende quase toda a América do Sul e Central, mais especificamente: Argentina, Bolívia, Brasil, Chile, Colômbia, Costa Rica, Cuba, El Salvador, Equador, Guatemala, Haiti, Honduras, Nicarágua, Panamá, Paraguai, Peru, República Dominicana, Uruguai e Venezuela. O México, localizado na América do Norte, também a integra. Países como Guiana, Suriname, Jamaica e Belize não a integram.\n\nRODRIGUES, L. S. Topônimos latino-americanos: um estudo etimológico. In: Revista de Estudos de Linguagem. Vol. 26, n.º 3. Belo Horizonte: UFMG, pp.1031-1055. Adaptado.\n\nAssinale a alternativa em que é apresentado um país da América Latina cujo nome tem o maior número de anagramas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Canadá"
+        },
+        {
+          "letra": "B",
+          "texto": "Guiana"
+        },
+        {
+          "letra": "C",
+          "texto": "Jamaica"
+        },
+        {
+          "letra": "D",
+          "texto": "México"
+        },
+        {
+          "letra": "E",
+          "texto": "Panamá"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "A expressão América Latina está mais associada a questões econômicas e sociais dos países que a compõem do que a um aspecto meramente territorial. Não se trata de um continente, mas, sim, de uma alusão aos 20 países da América colonizados, principalmente, por Espanha e Portugal. Territorialmente, compreende quase toda a América do Sul e Central, mais especificamente: Argentina, Bolívia, Brasil, Chile, Colômbia, Costa Rica, Cuba, El Salvador, Equador, Guatemala, Haiti, Honduras, Nicarágua, Panamá, Paraguai, Peru, República Dominicana, Uruguai e Venezuela. O México, localizado na América do Norte, também a integra. Países como Guiana, Suriname, Jamaica e Belize não a integram.\n\nRODRIGUES, L. S. Topônimos latino-americanos: um estudo etimológico. In: Revista de Estudos de Linguagem. Vol. 26, n.º 3. Belo Horizonte: UFMG, pp.1031-1055. Adaptado.\n\nConsidere os conjuntos:\n\n• $X = \\{x | x \\text{ é um país da América Latina}\\}$;\n• $Y = \\{y | y \\text{ é um país cujo idioma oficial não é o espanhol}\\}$\n\nSe um país pertence ao conjunto $C = Y – X$, então, geograficamente, esse país",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "não existe, uma vez que o conjunto C é vazio."
+        },
+        {
+          "letra": "B",
+          "texto": "está localizado na América Latina e o idioma oficial é o espanhol."
+        },
+        {
+          "letra": "C",
+          "texto": "não está localizado na América Latina e o idioma oficial é o espanhol."
+        },
+        {
+          "letra": "D",
+          "texto": "está localizado na América Latina e o idioma oficial não é o espanhol."
+        },
+        {
+          "letra": "E",
+          "texto": "não está localizado na América Latina e o idioma oficial não é o espanhol."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Teoria dos Conjuntos",
+        "Geografia – Regionalização Mundial"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "A América Latina é uma região rica em biodiversidade, abrigando uma grande variedade de espécies de mamíferos, como as capivaras (Hydrochoerus hydrochaeris), maiores roedores vivos do mundo.\nEntre as características que pertencem exclusivamente a classe dos animais citados no texto, destaca-se corretamente a presença de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "escamas, coração com quatro cavidades e ectotermia."
+        },
+        {
+          "letra": "B",
+          "texto": "escamas, coração com três cavidades e diafragma."
+        },
+        {
+          "letra": "C",
+          "texto": "pelos, coração com três cavidades e diafragma."
+        },
+        {
+          "letra": "D",
+          "texto": "pelos, glândulas mamárias e ectotermia."
+        },
+        {
+          "letra": "E",
+          "texto": "pelos, glândulas mamárias e diafragma."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Zoologia de Vertebrados"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Colônia espanhola até o final do século XIX, o país conquistou a independência em 1898, com a intervenção dos Estados Unidos, país do qual passou a ser praticamente um quintal. A influência de empresas estadunidenses ali cresceu consideravelmente ao longo do século XX. A ascensão de Fulgêncio Batista ao poder e a instalação de uma ditadura, que perseguiu opositores e implantou a censura para atender aos interesses estadunidenses, foram responsáveis por iniciar um movimento revolucionário de oposição.\nO texto faz referência à",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Independência do Haiti."
+        },
+        {
+          "letra": "B",
+          "texto": "Revolta de Demerara."
+        },
+        {
+          "letra": "C",
+          "texto": "Revolução Francesa."
+        },
+        {
+          "letra": "D",
+          "texto": "Revolução Cubana."
+        },
+        {
+          "letra": "E",
+          "texto": "Revolução Russa."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Guerra Fria na América Latina"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "O Canal do Panamá é uma construção de aproximadamente 82 km de comprimento, criado para facilitar o comércio marítimo mundial pela ligação dos oceanos Pacífico e Atlântico. O canal permite que os navios evitem a longa rota de, aproximadamente, 19000 km, que passa pelo Cabo Horn. Essa trajetória ocorre em torno da ponta mais meridional do continente americano, onde ventos fortes, correntes marítimas frias e icebergs fazem dessas águas uma das mais difíceis do mundo para navegação. Durante a realização da obra do canal, devido a uma diferença de nível entre o continente e os oceanos mencionados, foi necessária a construção de diversas eclusas e comportas. Para atravessar esse canal, um navio pode levar entre 6 e 10 horas. A França iniciou a construção do canal em 1881, e a abandonou em 1889. Entretanto, para alcançar seus interesses geopolíticos e econômicos, os Estados Unidos incentivaram a independência do Panamá em relação à Colômbia. Após esse evento, de 1903 a 1914, os Estados Unidos concluíram a obra e controlaram o canal até 1999, quando a administração foi transferida para o Panamá.\n\nSegundo o texto, é possível afirmar corretamente que a mencionada obra de engenharia atingiu seu propósito por meio de construções de eclusas e comportas, que se baseiam",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "no princípio de Pascal e no conceito da termodinâmica."
+        },
+        {
+          "letra": "B",
+          "texto": "no princípio da Inércia e no conceito de força da gravidade."
+        },
+        {
+          "letra": "C",
+          "texto": "no princípio de Arquimedes e no conceito de vasos comunicantes."
+        },
+        {
+          "letra": "D",
+          "texto": "no princípio da Conservação da Energia e no conceito de momento linear."
+        },
+        {
+          "letra": "E",
+          "texto": "no princípio da Reversibilidade da Luz e no conceito de decomposição luminosa."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Hidrostática"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "O Canal do Panamá é uma construção de aproximadamente 82 km de comprimento, criado para facilitar o comércio marítimo mundial pela ligação dos oceanos Pacífico e Atlântico. O canal permite que os navios evitem a longa rota de, aproximadamente, 19000 km, que passa pelo Cabo Horn. Essa trajetória ocorre em torno da ponta mais meridional do continente americano, onde ventos fortes, correntes marítimas frias e icebergs fazem dessas águas uma das mais difíceis do mundo para navegação. Durante a realização da obra do canal, devido a uma diferença de nível entre o continente e os oceanos mencionados, foi necessária a construção de diversas eclusas e comportas. Para atravessar esse canal, um navio pode levar entre 6 e 10 horas. A França iniciou a construção do canal em 1881, e a abandonou em 1889. Entretanto, para alcançar seus interesses geopolíticos e econômicos, os Estados Unidos incentivaram a independência do Panamá em relação à Colômbia. Após esse evento, de 1903 a 1914, os Estados Unidos concluíram a obra e controlaram o canal até 1999, quando a administração foi transferida para o Panamá.\n\nCom base no texto, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a independência colombiana ocorreu em função da pressão estadunidense sobre o Panamá, que não aceitava a construção do Canal na América do Sul."
+        },
+        {
+          "letra": "B",
+          "texto": "a França transferiu a administração do Canal do Panamá para os Estados Unidos em 1999, uma vez que este país assumiu a construção das eclusas, parte mais onerosa que compõe a obra."
+        },
+        {
+          "letra": "C",
+          "texto": "a diferença de nível entre os oceanos Atlântico e Pacífico foi resolvida com a construção de eclusas no oceano Índico, com o intuito de permitir uma travessia sem sobressaltos do Canal do Panamá."
+        },
+        {
+          "letra": "D",
+          "texto": "a construção do Canal do Panamá permitiu que os navios evitassem a rota do Cabo Horn, situado no extremo norte do Canadá, uma região de difícil navegação em função da existência de correntes marítimas frias."
+        },
+        {
+          "letra": "E",
+          "texto": "a utilização do Canal do Panamá reduz a distância percorrida por um navio, que parte do Leste dos Estados Unidos para o Oeste deste mesmo país, em comparação a um navio que faz a mesma ligação, porém contornando o extremo sul do continente americano."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Geopolítica e Transportes",
+        "História – Imperialismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "O Canal do Panamá é uma construção de aproximadamente 82 km de comprimento, criado para facilitar o comércio marítimo mundial pela ligação dos oceanos Pacífico e Atlântico. O canal permite que os navios evitem a longa rota de, aproximadamente, 19000 km, que passa pelo Cabo Horn. Essa trajetória ocorre em torno da ponta mais meridional do continente americano, onde ventos fortes, correntes marítimas frias e icebergs fazem dessas águas uma das mais difíceis do mundo para navegação. Durante a realização da obra do canal, devido a uma diferença de nível entre o continente e os oceanos mencionados, foi necessária a construção de diversas eclusas e comportas. Para atravessar esse canal, um navio pode levar entre 6 e 10 horas. A França iniciou a construção do canal em 1881, e a abandonou em 1889. Entretanto, para alcançar seus interesses geopolíticos e econômicos, os Estados Unidos incentivaram a independência do Panamá em relação à Colômbia. Após esse evento, de 1903 a 1914, os Estados Unidos concluíram a obra e controlaram o canal até 1999, quando a administração foi transferida para o Panamá.\n\nAntes da construção do canal, um navio cargueiro, que fosse do ponto Atlântico do Canal do Panamá até o ponto Pacífico desse canal, precisaria passar pelo Cabo Horn, conforme descrito no texto.\nSuponha que esse navio conseguisse percorrer o trecho, citado no parágrafo anterior, navegando, sem paradas ou intercorrências, a uma velocidade média de cruzeiro de aproximadamente 20 nós.\nAdotando 1 nó como 1,9 km/h, é correto afirmar que o navio faria essa viagem, aproximadamente, em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10 horas."
+        },
+        {
+          "letra": "B",
+          "texto": "20 horas."
+        },
+        {
+          "letra": "C",
+          "texto": "50 horas."
+        },
+        {
+          "letra": "D",
+          "texto": "20 dias."
+        },
+        {
+          "letra": "E",
+          "texto": "10 dias."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "A Comissão Econômica para a América Latina e o Caribe (CEPAL) apresentou, em seu último relatório anual, as projeções atualizadas para o crescimento do PIB dos países da região da América Latina e do Caribe. A tabela apresenta essas projeções para alguns dos países dessa região.\n\nPaís; Crescimento do PIB (%) Ano de 2023; Ano de 2024\nArgentina; -2,5; -1,0\nBrasil; 3,0; 1,6\nCosta Rica; 4,9; 3,8\nEl Salvador; 2,3; 2,0\nHaiti; -1,8; 1,0\nJamaica; 2,1; 1,9\nMéxico; 3,6; 2,5\nPanamá; 6,1; 4,2\nPeru; 0,3; 2,4\nSuriname; 2,0; 3,0\nUruguai; 1,0; 3,2\nVenezuela; 3,0; 4,0\n\nSe considerarmos apenas os países dessa lista que fazem parte da América do Sul, podemos calcular a média aritmética referente à projeção do crescimento percentual desses países para o ano de 2024.\nAssinale, dentre as alternativas apresentadas, aquela na qual há um país da América do Sul cujo crescimento do PIB, em 2024, é mais próximo de M.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Costa Rica"
+        },
+        {
+          "letra": "B",
+          "texto": "El Salvador"
+        },
+        {
+          "letra": "C",
+          "texto": "Jamaica"
+        },
+        {
+          "letra": "D",
+          "texto": "Peru"
+        },
+        {
+          "letra": "E",
+          "texto": "Uruguai"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Média Aritmética",
+        "Geografia – Economia da América Latina"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "A Comissão Econômica para a América Latina e o Caribe (CEPAL) apresentou, em seu último relatório anual, as projeções atualizadas para o crescimento do PIB dos países da região da América Latina e do Caribe. A tabela apresenta essas projeções para alguns dos países dessa região.\n\nPaís; Crescimento do PIB (%) Ano de 2023; Ano de 2024\nArgentina; -2,5; -1,0\nBrasil; 3,0; 1,6\nCosta Rica; 4,9; 3,8\nEl Salvador; 2,3; 2,0\nHaiti; -1,8; 1,0\nJamaica; 2,1; 1,9\nMéxico; 3,6; 2,5\nPanamá; 6,1; 4,2\nPeru; 0,3; 2,4\nSuriname; 2,0; 3,0\nUruguai; 1,0; 3,2\nVenezuela; 3,0; 4,0\n\nConsidere que o PIB da Venezuela, no ano de 2022, foi estimado em cerca de US$ 196 bilhões. Então, de acordo com as previsões da CEPAL, a projeção para o ano de 2024, em bilhões, deve ser próxima de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "US$ 209,96."
+        },
+        {
+          "letra": "B",
+          "texto": "US$ 209,57."
+        },
+        {
+          "letra": "C",
+          "texto": "US$ 205,67."
+        },
+        {
+          "letra": "D",
+          "texto": "US$ 202,86."
+        },
+        {
+          "letra": "E",
+          "texto": "US$ 196,70."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "A Comissão Econômica para a América Latina e o Caribe (CEPAL) apresentou, em seu último relatório anual, as projeções atualizadas para o crescimento do PIB dos países da região da América Latina e do Caribe. A tabela apresenta essas projeções para alguns dos países dessa região.\n\nPaís; Crescimento do PIB (%) Ano de 2023; Ano de 2024\nArgentina; -2,5; -1,0\nBrasil; 3,0; 1,6\nCosta Rica; 4,9; 3,8\nEl Salvador; 2,3; 2,0\nHaiti; -1,8; 1,0\nJamaica; 2,1; 1,9\nMéxico; 3,6; 2,5\nPanamá; 6,1; 4,2\nPeru; 0,3; 2,4\nSuriname; 2,0; 3,0\nUruguai; 1,0; 3,2\nVenezuela; 3,0; 4,0\n\nA partir dos dados apresentados no quadro, o país que teve a maior variação percentual no crescimento do PIB, de 2023 a 2024, foi",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Panamá, localizado na América Central."
+        },
+        {
+          "letra": "B",
+          "texto": "Argentina, localizado na América do Sul."
+        },
+        {
+          "letra": "C",
+          "texto": "México, localizado na América do Norte."
+        },
+        {
+          "letra": "D",
+          "texto": "Brasil, localizado na América do Sul."
+        },
+        {
+          "letra": "E",
+          "texto": "Haiti, localizado na América Central."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Variação Percentual",
+        "Geografia – Economia da América Latina"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "O termo \"república de bananas” foi cunhado pelo escritor estadunidense William Sydney Porter, no conto O Almirante, de 1904. A história do conto se passa na Anchuria, país fictício descrito pelo autor como \"uma pequena república de bananas”. Acredita-se, porém, que Porter tenha se inspirado em Honduras, onde morava quando escreveu a história.\nAté o fim do século XIX e começo do século XX, algumas empresas estadunidenses começaram a fazer plantações de bananas em série e criaram enclaves modernos em repúblicas da América Central. As \"repúblicas de bananas\" eram literalmente os países produtores de bananas e, com isso, dependentes da renda de empresas estadunidenses.\nO termo acabou ganhando um significado mais amplo ao migrar para os estudos políticos. A expressão passou a fazer referência a países marcados pela monocultura, dotados de instituições governamentais fracas e corruptas, onde uma ou várias empresas estrangeiras têm o poder de influir nas decisões nacionais.\nO que chama a atenção é que os anglo-saxões não aplicam a expressão a países que estejam fora da América Latina.\n\nDe acordo com o texto, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Honduras exemplifica a expressão “república de bananas” por ser o maior produtor e exportador asiático de bananas, posição assumida desde o final do século XIX."
+        },
+        {
+          "letra": "B",
+          "texto": "a expressão \"repúblicas de bananas\" refere-se a países latino-americanos monocultores, cuja vida política e econômica sofriam ingerência de empresas estrangeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "William Sydney Porter, presidente dos Estados Unidos no início do século XX, batizou os países da América Central de \"república de bananas\" para caracterizar o principal produto de exportação desses países."
+        },
+        {
+          "letra": "D",
+          "texto": "os anglo-saxões criaram a denominação “república de bananas” para designar países que não são latino-americanos, que são exportadores de bananas e que sofrem com o imperialismo estadunidense."
+        },
+        {
+          "letra": "E",
+          "texto": "países africanos, governados por empresas estadunidenses, são os principais produtores mundiais de frutas tropicais, pois utilizam tecnologias agrícolas avançadas e, por isso, são chamados de \"república de bananas”."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "História – Neocolonialismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Latin America in 2024\n\nDespite mediocre growth, political risk is declining and cautious optimism is increasingly warranted.\nSÃO PAULO Despite a challenging macroeconomic and geopolitical scenario, 2023 was not a bad year for Latin America. Throughout the past twelve months, a cautiously optimistic outlook among analysts has become increasingly common. Economic growth in 2023 is expected to end up at 2.2% somewhat better than the 1.7% initially projected, but still below the global average of 3.2%. Most analysts expect growth to decline slightly to 1.9% this year, too little to decisively overcome the deep-seated public discontent that has been so prevalent across Latin America in recent years.\n\nA partir da leitura do texto, infere-se que, na América Latina,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a mediocridade política impedirá o crescimento econômico."
+        },
+        {
+          "letra": "B",
+          "texto": "o crescimento negativo será agravado pelo cenário geopolítico."
+        },
+        {
+          "letra": "C",
+          "texto": "os desafios macroeconômicos contribuirão para um enorme pessimismo."
+        },
+        {
+          "letra": "D",
+          "texto": "há um certo otimismo diante de um crescimento econômico melhor do que o esperado."
+        },
+        {
+          "letra": "E",
+          "texto": "há uma onda bastante otimista indicando crescimento econômico acima da média mundial."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Latin America in 2024\n\nDespite mediocre growth, political risk is declining and cautious optimism is increasingly warranted.\nSÃO PAULO Despite a challenging macroeconomic and geopolitical scenario, 2023 was not a bad year for Latin America. Throughout the past twelve months, a cautiously optimistic outlook among analysts has become increasingly common. Economic growth in 2023 is expected to end up at 2.2% somewhat better than the 1.7% initially projected, but still below the global average of 3.2%. Most analysts expect growth to decline slightly to 1.9% this year, too little to decisively overcome the deep-seated public discontent that has been so prevalent across Latin America in recent years.\n\nA palavra Despite, no texto, é usada para",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "retomar as causas dos problemas apresentados."
+        },
+        {
+          "letra": "B",
+          "texto": "apresentar informações contrastantes."
+        },
+        {
+          "letra": "C",
+          "texto": "introduzir exemplos de uma tese."
+        },
+        {
+          "letra": "D",
+          "texto": "suprimir o tom negativo do texto."
+        },
+        {
+          "letra": "E",
+          "texto": "marcar as consequências de um temor."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Conectivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "No extremo sul do Chile, foi inaugurada, em 2022, a primeira planta industrial do mundo para produção de combustíveis ecológicos. O processo utiliza dois recursos: o vento e a água, que são abundantes na região.\nO vento é responsável pela geração de energia elétrica limpa fornecida à usina. Essa energia é utilizada a fim de realizar a eletrólise da água para obtenção de hidrogênio, substância usada na produção do combustível sintético (denominado e-fuel).\nUma estação aspira o ar atmosférico e separa o dióxido de carbono dos demais componentes do ar. Por meio de pressurizadores, condensadores e filtros, o $CO_2$ é armazenado no estado líquido. Feito isso, o próximo passo é reagir o $CO_2$ com o hidrogênio, gerando o metanol sintético que, refinado, resulta na gasolina sintética, conforme o esquema.\nO processo de produção da gasolina sintética envolve as seguintes etapas: a água passa por eletrólise para gerar $H_2$. O ar é captado e, no processo (I), o $CO_2$ é separado e liquefeito. Na etapa (II), ocorre a reação $x CO_2 + y H_2 \\rightarrow 1 CH_3OH + 1 H_2O$. O metanol sintético ($CH_3OH$) é então convertido em gasolina sintética. A queima incompleta desta gasolina gera CO, que é reaproveitado na produção de metanol.\n\nAssinale a alternativa que contém o nome correto da mudança de estado físico, ocorrida com o dióxido de carbono, no processo indicado em (I).",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Condensação"
+        },
+        {
+          "letra": "B",
+          "texto": "Vaporização"
+        },
+        {
+          "letra": "C",
+          "texto": "Sublimação"
+        },
+        {
+          "letra": "D",
+          "texto": "Fusão"
+        },
+        {
+          "letra": "E",
+          "texto": "Ebulição"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Estados Físicos da Matéria"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "No extremo sul do Chile, foi inaugurada, em 2022, a primeira planta industrial do mundo para produção de combustíveis ecológicos. O processo utiliza dois recursos: o vento e a água, que são abundantes na região.\nO vento é responsável pela geração de energia elétrica limpa fornecida à usina. Essa energia é utilizada a fim de realizar a eletrólise da água para obtenção de hidrogênio, substância usada na produção do combustível sintético (denominado e-fuel).\nUma estação aspira o ar atmosférico e separa o dióxido de carbono dos demais componentes do ar. Por meio de pressurizadores, condensadores e filtros, o $CO_2$ é armazenado no estado líquido. Feito isso, o próximo passo é reagir o $CO_2$ com o hidrogênio, gerando o metanol sintético que, refinado, resulta na gasolina sintética, conforme o esquema.\nO processo de produção da gasolina sintética envolve as seguintes etapas: a água passa por eletrólise para gerar $H_2$. O ar é captado e, no processo (I), o $CO_2$ é separado e liquefeito. Na etapa (II), ocorre a reação $x CO_2 + y H_2 \\rightarrow 1 CH_3OH + 1 H_2O$. O metanol sintético ($CH_3OH$) é então convertido em gasolina sintética. A queima incompleta desta gasolina gera CO, que é reaproveitado na produção de metanol.\n\nConsiderando a equação química (II), que representa a reação de produção de metanol, os valores de x e y, que tornam a equação corretamente balanceada, são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 e 1."
+        },
+        {
+          "letra": "B",
+          "texto": "1 e 2."
+        },
+        {
+          "letra": "C",
+          "texto": "1 e 3."
+        },
+        {
+          "letra": "D",
+          "texto": "2 e 1."
+        },
+        {
+          "letra": "E",
+          "texto": "2 e 3."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Balanceamento de Equações Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Um processo neutro em carbono ou de carbono neutro é aquele que não contribui para o aumento da quantidade de carbono emitido na atmosfera na forma de gases, como CO e $CO_2$.\nPodemos concluir corretamente que a produção da gasolina sintética pode ser considerada neutra em carbono, já que, de acordo com o esquema, o hidrogênio e o dióxido de carbono são transformados em gasolina sintética, cuja",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "combustão libera água para a atmosfera."
+        },
+        {
+          "letra": "B",
+          "texto": "combustão produz carbono e gás hidrogênio."
+        },
+        {
+          "letra": "C",
+          "texto": "combustão não libera energia."
+        },
+        {
+          "letra": "D",
+          "texto": "produção reaproveita o carbono gerado no processo."
+        },
+        {
+          "letra": "E",
+          "texto": "produção gera metanol, composto não tóxico."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Química Ambiental",
+        "Biologia – Ciclos Biogeoquímicos"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "O combustível sintético emite, em sua queima, apenas 10 % da quantidade de $CO_2$ emitida na combustão de combustíveis fósseis.\nEsta equação química balanceada representa a queima da gasolina ($C_8H_{18}$) de origem fóssil.\n\n$$C_8H_{18}(g) + \\frac{25}{2} O_2(g) \\rightarrow 8 CO_2(g) + 9 H_2O(g)$$\n\nConsidere que um motor realizou a queima de 114 g de $C_8H_{18}$ (M = 114g/mol) de origem fóssil.\nCaso esse mesmo motor utilizasse gasolina sintética, a massa de $CO_2$ (M = 44g/mol) emitida, em gramas, seria de, aproximadamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "523."
+        },
+        {
+          "letra": "B",
+          "texto": "352."
+        },
+        {
+          "letra": "C",
+          "texto": "207."
+        },
+        {
+          "letra": "D",
+          "texto": "35."
+        },
+        {
+          "letra": "E",
+          "texto": "22."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "A América Latina é apontada pela Organização das Nações Unidas para Agricultura e Alimentação (FAO) como celeiro do mundo. Contudo, a produção de alimentos vem sendo ameaçada pelas plantas daninhas de difícil controle (PDDC), que são resistentes à aplicação de herbicidas e de defensivos agrícolas, constituindo um dos principais problemas à agricultura mundial. As PDDC competem com as culturas agrícolas por nutrientes, água, luz e espaço, podendo também ser hospedeiras de pragas e doenças.\nUma das espécies infestantes mais nocivas à agricultura é o capim-amargoso (Digitaria insularis), que se desenvolve rapidamente por rizomas e sementes, com alta taxa de dispersão.\nNesses casos, o controle biológico realizado com o uso de fungos fitopatógenos, microrganismos que causam doenças em plantas, tem se mostrado muito promissor, pois esses fungos promovem a inibição do crescimento das plantas de capim-amargoso e diminuem, de forma significativa, a produção de suas sementes.\n\nÉ correto afirmar que o método de controle biológico, citado no texto,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "colabora para o aumento da quantidade de resíduos tóxicos de defensivos agrícolas nos alimentos cultivados com as espécies infestantes."
+        },
+        {
+          "letra": "B",
+          "texto": "permite o desenvolvimento e o aumento da taxa de dispersão das espécies infestantes nocivas à agricultura de soja, milho e trigo."
+        },
+        {
+          "letra": "C",
+          "texto": "introduz genes de resistência aos herbicidas nas PDDC, responsáveis pelos principais problemas da agricultura mundial."
+        },
+        {
+          "letra": "D",
+          "texto": "impede o controle e o combate das pragas nas plantações, facilitando a dispersão das sementes das espécies invasoras."
+        },
+        {
+          "letra": "E",
+          "texto": "consiste no uso de organismos para reduzir ou erradicar, nas plantações, a infestação de espécies nocivas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Ecologia",
+        "Biologia – Biotecnologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Segundo a FAO, a produção de proteína animal é também considerada fundamental para a segurança alimentar da população do mundo. E, nesse aspecto, a contribuição da América Latina é importante, pois ocupa o segundo lugar mundial, perdendo apenas para a Ásia, na produção de carnes, pescados, leite e ovos.\n\nSegundo especialistas, no organismo humano, esse tipo de nutriente desempenha várias funções biológicas importantes, como as realizadas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pela hemoglobina, que provoca a coagulação e que estimula a reparação dos vasos sanguíneos lesados."
+        },
+        {
+          "letra": "B",
+          "texto": "pelas enzimas, que se ligam aos gases respiratórios e que distribuem o gás carbônico dos alvéolos pulmonares a todas as células do corpo."
+        },
+        {
+          "letra": "C",
+          "texto": "pelo colágeno, que atua como catalisador de reações químicas e que diminui a elasticidade e a hidratação da pele e das cartilagens humanas."
+        },
+        {
+          "letra": "D",
+          "texto": "pelas imunoglobulinas, que agem na defesa e atuam contra os antígenos que entram no organismo por meio de vacinação ou de uma infecção ativa."
+        },
+        {
+          "letra": "E",
+          "texto": "pela insulina, que atua no controle da ovulação, no desenvolvimento de características sexuais secundárias femininas e pelo controle do ciclo menstrual."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Bioquímica",
+        "Biologia – Fisiologia Humana"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "A cidade mexicana de La Paz e o Parque Nacional da Patagônia (PNP), no Chile, separados por quase 9000 quilômetros, são dois lugares da América Latina que aparecem na lista dos 100 “melhores lugares do mundo\" a se explorar, segundo ranking de uma revista estadunidense.\n\nO quadro apresenta as coordenadas de tempo em GMT (Greenwich Mean Time), que são utilizadas para definir os fusos horários.\nLUGARES: La Paz (México), PNP (Chile)\nFUSO HORÁRIO NA REGIÃO: -7 GMT, -4 GMT\n\nSuponha que seja possível embarcar em um voo direto entre esses dois lugares e que a aeronave faça esse trajeto com velocidade média de 900 km/h.\nSe um passageiro embarcasse em La Paz às 09h45min, ele desembarcaria no PNP, aproximadamente, às",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6 h 45 min."
+        },
+        {
+          "letra": "B",
+          "texto": "12 h 45 min."
+        },
+        {
+          "letra": "C",
+          "texto": "16 h 45 min."
+        },
+        {
+          "letra": "D",
+          "texto": "19 h 45 min."
+        },
+        {
+          "letra": "E",
+          "texto": "22 h 45 min."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Fusos Horários",
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "O congestionamento de tráfego é um desafio para a saúde econômica da América Latina. Investir em transporte público pode ser uma solução, uma vez que essa modalidade de transporte pode ser vista como uma maneira inteligente de usar o espaço público.\nDados apontam que um carro de médio porte ocupa 8 m² e transporta até 5 pessoas, enquanto um ônibus básico ocupa 56 m² e transporta até 70 pessoas.\nLogo, para transportar simultaneamente 70 pessoas, a quantidade mínima de carros necessária é de I, o que equivale ao espaço público ocupado por II ônibus.\nAssinale a alternativa que completa corretamente os espaços numerados.",
+      "alternativas": null,
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Razão e Proporção"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "A taxa bruta de matrícula é o indicador mais usado em todo o mundo para monitorar o acesso à educação. O gráfico apresentado foi elaborado utilizando uma aproximação linear para os valores dessa taxa de matrícula no ensino superior. As informações do gráfico linearizado são: a taxa em 2000 era de 23,1% e em 2020 era de 54,1%.\nDe acordo com o gráfico, pode-se concluir, corretamente, que a taxa bruta de matrículas no ensino superior, estimada no ano de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2000, corresponde à metade daquela aferida no ano de 2010."
+        },
+        {
+          "letra": "B",
+          "texto": "2005, é um número que pertence ao conjunto dos números não positivos."
+        },
+        {
+          "letra": "C",
+          "texto": "2010, equivale ao mesmo número representado pela fração irredutível $\\frac{193}{500}$."
+        },
+        {
+          "letra": "D",
+          "texto": "2015, quando comparada com aquela medida no ano de 2000, é três vezes maior."
+        },
+        {
+          "letra": "E",
+          "texto": "2020, mostra uma desaceleração no número de matriculados em relação ao ano de 2015."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Funções do 1º Grau",
+        "Matemática – Análise de Gráficos"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "A Organização Pan-Americana de Saúde (OPAS) aderiu à “Década de Ação pela Segurança no Trânsito 2021-2030\" com a intenção de diminuir o número de mortes e de lesões em acidentes de trânsito.\nUm dos principais motivos observados é o excesso de velocidade. Por isso, têm sido instalados detectores de velocidade. Entretanto, esses detectores precisam ser periodicamente calibrados.\nUma história clássica, ocorrida em 2021, foi a suspensão da Carteira Nacional de Habilitação (CNH) de um motociclista que teria percorrido uma estrada a cerca de 900 km/h (≈ 250 m/s).\nSuponha que ele estivesse realmente a essa velocidade e o conjunto moto-piloto tivesse massa igual a 200 kg.\nDespreze quaisquer ações dissipativas e assinale a alternativa que apresenta, aproximadamente, o valor da energia cinética, em joules, envolvida no conjunto moto-piloto no momento do registro.\nDado: $E_c = \\frac{m \\cdot v^2}{2}$",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2,8 \\times 10^8$"
+        },
+        {
+          "letra": "B",
+          "texto": "$8,6 \\times 10^7$"
+        },
+        {
+          "letra": "C",
+          "texto": "$1,4 \\times 10^7$"
+        },
+        {
+          "letra": "D",
+          "texto": "$6,2 \\times 10^6$"
+        },
+        {
+          "letra": "E",
+          "texto": "$5,0 \\times 10^5$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Trabalho e Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Segundo a OPAS, na América Latina, mais de 10 mil pessoas morrem, a cada ano, em consequência de complicações causadas pelo mal de Chagas, sendo que cerca de 6 a 8 milhões de pessoas convivem com essa doença, apesar de 70% delas não saberem que estão infectadas devido à ausência de sintomas clínicos.\n\nPara prevenir, detectar, tratar essa enfermidade e quebrar a cadeia de transmissão, é importante saber que essa doença se caracteriza por ser",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "uma infecção bacteriana transmitida por contato direto com os indivíduos contaminados, a qual causa coceira e infecções generalizadas."
+        },
+        {
+          "letra": "B",
+          "texto": "uma infecção cutânea micótica debilitante, a qual causa necroses nos tecidos epiteliais, nos ossos, nos tecidos moles e gera problemas cardíacos."
+        },
+        {
+          "letra": "C",
+          "texto": "uma doença viral transmitida aos seres humanos por meio de mordidas de animais infectados, a qual pode ocasionar convulsões e problemas pulmonares."
+        },
+        {
+          "letra": "D",
+          "texto": "uma protozoose transmitida aos seres humanos por meio de insetos hematófagos contaminados, a qual pode ser fatal quando os sintomas se desenvolvem."
+        },
+        {
+          "letra": "E",
+          "texto": "uma verminose transmitida aos seres humanos pela picada de fêmeas infectadas de mosquitos, a qual pode provocar hemorragias, patologias hepáticas e morte."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Parasitologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Leia uma passagem da obra O Livro dos Abraços, de Eduardo Galeano, escritor uruguaio que retratou a América Latina entre as décadas de 1970 e 1980, para responder às questões 26 e 27.\n\nA tevê dispara imagens que reproduzem o sistema e as vozes que lhe fazem eco; e não há canto do mundo que ela não alcance. O planeta inteiro é um vasto subúrbio de Dallas. Nós comemos emoções importadas como se fossem salsichas em lata, enquanto os jovens filhos da televisão, treinados para contemplar a vida em vez de fazê-la, sacodem os ombros.\nNa América Latina, a liberdade de expressão consiste no direito ao resmungo em algum rádio ou em jornais de escassa circulação. Os livros não precisam ser proibidos pela polícia: os preços já os proíbem.\n\nSegundo o texto apresentado, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a televisão, como ferramenta democrática de divulgação de informação, representa diferentes expressões culturais."
+        },
+        {
+          "letra": "B",
+          "texto": "a apropriação cultural ocorre nas gerações anteriores ao desenvolvimento da cultura de massa, fazendo-as se engajarem em movimentos sociais."
+        },
+        {
+          "letra": "C",
+          "texto": "países da América Latina têm acesso pleno à liberdade de expressão, valendo-se de recursos sonoros e escritos para se comunicar livremente."
+        },
+        {
+          "letra": "D",
+          "texto": "o incentivo ao desenvolvimento cultural, à liberdade de expressão e à mobilização social ocorre devido ao aparecimento da televisão e do rádio."
+        },
+        {
+          "letra": "E",
+          "texto": "a mídia de massa gera um alheamento social, resultado da falta de acesso à cultura e da difusão de uma cultura hegemônica."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Sociologia – Indústria Cultural"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Leia uma passagem da obra O Livro dos Abraços, de Eduardo Galeano, escritor uruguaio que retratou a América Latina entre as décadas de 1970 e 1980, para responder às questões 26 e 27.\n\nA tevê dispara imagens que reproduzem o sistema e as vozes que lhe fazem eco; e não há canto do mundo que ela não alcance. O planeta inteiro é um vasto subúrbio de Dallas. Nós comemos emoções importadas como se fossem salsichas em lata, enquanto os jovens filhos da televisão, treinados para contemplar a vida em vez de fazê-la, sacodem os ombros.\nNa América Latina, a liberdade de expressão consiste no direito ao resmungo em algum rádio ou em jornais de escassa circulação. Os livros não precisam ser proibidos pela polícia: os preços já os proíbem.\n\nO uso de conotação é recorrente, no texto apresentado, devido a seu caráter literário.\nIsso fica evidente na oração “o planeta inteiro é um vasto subúrbio de Dallas\", que é uma",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "metáfora."
+        },
+        {
+          "letra": "B",
+          "texto": "zeugma."
+        },
+        {
+          "letra": "C",
+          "texto": "personificação."
+        },
+        {
+          "letra": "D",
+          "texto": "paradoxo."
+        },
+        {
+          "letra": "E",
+          "texto": "catacrese."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Em 1977, o Centro Médico Especializado de Ciudad Juárez adquiriu um equipamento médico para diagnóstico que continha material radioativo. Após seis anos, um técnico de manutenção, inadvertidamente, desmontou parte desse equipamento e extraiu de lá uma peça em cujo interior havia 6 mil grânulos do radioisótopo cobalto-60.\nOs grânulos desse radioisótopo são minúsculos e podem ser descritos como cilindros circulares retos que possuem diâmetro e altura com a mesma medida de 1,0 mm. Todavia, mesmo pequenos, esses grânulos representam uma fonte de radioatividade cuja meia vida é estimada em 5 anos.\nAparentemente, o objetivo do técnico era vender as peças da unidade de tratamento como sucata. No entanto, a maneira como o dispositivo foi perfurado e transportado fez com que uma quantidade indefinida de grânulos fosse espalhada na caminhonete usada, nos demais veículos comerciais e até em ruas de Ciudad Juárez.\nEsse é um dos maiores incidentes nucleares registrado nas Américas.\n\nAssinale a alternativa que indica, em metros cúbicos, o volume total de grânulos do radioisótopo mencionado no texto. (Adote $\\pi = 3$)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$1,0 \\times 10^{-6}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$1,5 \\times 10^{-6}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$3,0 \\times 10^{-6}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$4,5 \\times 10^{-6}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$6,0 \\times 10^{-6}$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "O radioisótopo cobalto-60 ($^{60}_{27}Co$) emite uma partícula beta negativa, transformando-se no isótopo estável níquel-60 ($^{60}_{28}Ni$).\nA alternativa que contém a equação nuclear correta para representar a emissão descrita é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$^{60}_{27}Co + ^{0}_{-1}\\beta \\rightarrow ^{60}_{28}Ni$"
+        },
+        {
+          "letra": "B",
+          "texto": "$^{60}_{27}Co + ^{4}_{2}\\beta \\rightarrow ^{60}_{28}Ni$"
+        },
+        {
+          "letra": "C",
+          "texto": "$^{60}_{27}Co \\rightarrow ^{0}_{0}\\beta + ^{60}_{28}Ni$"
+        },
+        {
+          "letra": "D",
+          "texto": "$^{60}_{27}Co \\rightarrow ^{0}_{+1}\\beta + ^{60}_{28}Ni$"
+        },
+        {
+          "letra": "E",
+          "texto": "$^{60}_{27}Co \\rightarrow ^{60}_{28}Ni + ^{0}_{-1}\\beta$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Radioatividade"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Meia-vida é o tempo necessário para que a atividade radioativa de um elemento seja reduzida pela metade.\nLevando em consideração que um ano possui 365 dias, verifica-se que a atividade radioativa do radioisótopo diminuiu, num período de 7300 dias, um percentual equivalente a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "93,75."
+        },
+        {
+          "letra": "B",
+          "texto": "87,50."
+        },
+        {
+          "letra": "C",
+          "texto": "25,00."
+        },
+        {
+          "letra": "D",
+          "texto": "12,50."
+        },
+        {
+          "letra": "E",
+          "texto": "6,25."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Radioatividade",
+        "Matemática – Funções Exponenciais"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "A partir da década de 1960, diversas empresas denominadas “maquiladoras” começaram a se instalar nas cidades do norte do México e passaram a empregar milhares de trabalhadores, que, majoritariamente, recebem baixos salários e desconhecem seus direitos mais básicos.\n\nEssas empresas, em sua maioria, são",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "estadunidenses, que, com a específica intencionalidade de impedir a imigração latino-americana para os Estados Unidos, instalam-se na fronteira sul do México e oferecem altos salários para fixar esses trabalhadores em solo mexicano."
+        },
+        {
+          "letra": "B",
+          "texto": "mexicanas, que preferiram sair da economia de aglomeração, na cidade do México, para obter vantagens comparativas no sul dos Estados Unidos, aproveitando-se dos acordos de isenção de impostos entre este país e o Mercosul."
+        },
+        {
+          "letra": "C",
+          "texto": "europeias, que produzem cosméticos e produtos de beleza, as quais se instalaram na cidade do México em troca de isenção de impostos de importação e exportação previstos nos acordos firmados entre o México e a União Europeia."
+        },
+        {
+          "letra": "D",
+          "texto": "estadunidenses, que se instalaram no México e importam insumos dos Estados Unidos, produzem bens que são exportados de volta para este país, aproveitando os baixos custos da mão de obra local."
+        },
+        {
+          "letra": "E",
+          "texto": "mexicanas, que se estabeleceram no sul do México em razão da existência de grandes jazidas de minérios utilizados na fabricação de diferentes produtos exportados para diversos países."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Indústria e Globalização"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "No século XIX, o cientista inglês Charles Darwin explorou a costa da América do Sul, da Bahia ao arquipélago de Galápagos, situado a aproximadamente 1000 km da costa do Equador. Darwin foi um dos primeiros naturalistas a explorar esse arquipélago, onde observou uma fauna e uma flora que variavam de ilha para ilha e que diferiam de outras encontradas no continente.\nAs inúmeras observações e pesquisas realizadas por esse naturalista desencadearam reflexões que o levaram a desenvolver suas ideias sobre a evolução da vida, as quais se basearam",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "na transmissão genética, de um organismo parental aos descendentes, das características adquiridas por geração espontânea."
+        },
+        {
+          "letra": "B",
+          "texto": "nos avanços dos estudos da biotecnologia, da clonagem dos seres vivos e das mutações gênicas."
+        },
+        {
+          "letra": "C",
+          "texto": "nas contribuições dos estudos químicos detalhados de cromossomos do genoma humano."
+        },
+        {
+          "letra": "D",
+          "texto": "nos estudos dos processos de sobrevivência dos seres vivos mais bem adaptados."
+        },
+        {
+          "letra": "E",
+          "texto": "na lei de uso e desuso das estruturas anatômicas do corpo dos animais."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Evolução"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Os excrementos de aves e morcegos depositados nas Ilhas Chincha, localizadas na costa Peruana, formam no solo uma espessa camada de guano. O guano pode ser utilizado como fertilizante devido à presença de compostos nitrogenados, como a amônia ($NH_3$).\nEsta equação química representa o equilíbrio que ocorre na decomposição da amônia em nitrogênio e hidrogênio:\n$$2 NH_3(g) \\rightleftharpoons N_2(g) + 3 H_2(g)$$\nO químico francês Le Chatelier, estudando o comportamento de sistemas em equilíbrio quando sujeitos à variação de fatores como concentração, pressão e temperatura, chegou às seguintes conclusões:\n\n• o aumento da concentração de reagentes desloca o equilíbrio no sentido dos produtos;\n• a diminuição da concentração de reagentes desloca o equilíbrio no sentido dos reagentes;\n• o aumento da pressão desloca o equilíbrio no sentido do menor volume gasoso; e\n• a diminuição da pressão desloca o equilíbrio no sentido de maior volume gasoso.\n\nDesse modo, considerando apenas essas conclusões, para deslocar o equilíbrio da referida equação no sentido da formação de amônia, deve-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aumentar a concentração de $NH_3$."
+        },
+        {
+          "letra": "B",
+          "texto": "diminuir a concentração de $N_2$."
+        },
+        {
+          "letra": "C",
+          "texto": "diminuir a concentração de $H_2$."
+        },
+        {
+          "letra": "D",
+          "texto": "diminuir a pressão do sistema."
+        },
+        {
+          "letra": "E",
+          "texto": "aumentar a pressão do sistema."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Equilíbrio Químico"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Texto II\nEste não é um mapa como os convencionais, que costumam ser validados na ciência geográfica pelo emprego de escala, legenda, título ou dados georreferenciados. Também não é uma obra de arte usual, pois visualizamos claramente uma estética ou um contorno que reconhecemos como cartográfico. Por ser tanto um mapa, quanto uma obra de arte, enquadra-se no que é chamado de mapa artístico.\nSeu autor, Joaquín Torres-García, publicou-o em 1943 para inaugurar um movimento artístico inovador e original, em Montevidéu, o qual objetivava ser capaz de igualar a arte aqui desenvolvida à arte de Paris. Entretanto, o artista encontrou dificuldades devido ao gosto predominante nas artes uruguaias de copiar cânones estéticos importados da Europa.\nEm sua obra, esse autor exaltava a cultura e os motivos do Uruguai e da América do Sul, combatendo o comportamento que ele chamou de \"exilados da Europa”. Uma consciência que não era só de Torres-García, como também de outros artistas modernistas da América Latina, incomodados com as principais capitais latinas que não se apresentavam como sedes de sua sociedade.\n\nSALES, C.M. \"Cartografia, Arte e Visões de Mundo na Reprodução do 'Mapa Invertido da América do Sul\". In: Espaço e Cultura, UERJ, RJ, n.39, p. 158.Adaptado.\n\nNo texto apresentado, o(s) pronome(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "que, no primeiro parágrafo, e o, no segundo parágrafo, referem-se à expressão “mapa artístico”."
+        },
+        {
+          "letra": "B",
+          "texto": "o e o qual, no segundo parágrafo, fazem referência ao artista, Torres-García."
+        },
+        {
+          "letra": "C",
+          "texto": "o, no segundo parágrafo, e ele, no terceiro parágrafo, referem-se ao termo “autor\"."
+        },
+        {
+          "letra": "D",
+          "texto": "ele, no terceiro parágrafo, retoma o substantivo \"comportamento\"."
+        },
+        {
+          "letra": "E",
+          "texto": "que, no terceiro parágrafo, refere-se à expressão “as principais capitais latinas\"."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Coesão Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Texto II\nEste não é um mapa como os convencionais, que costumam ser validados na ciência geográfica pelo emprego de escala, legenda, título ou dados georreferenciados. Também não é uma obra de arte usual, pois visualizamos claramente uma estética ou um contorno que reconhecemos como cartográfico. Por ser tanto um mapa, quanto uma obra de arte, enquadra-se no que é chamado de mapa artístico.\nSeu autor, Joaquín Torres-García, publicou-o em 1943 para inaugurar um movimento artístico inovador e original, em Montevidéu, o qual objetivava ser capaz de igualar a arte aqui desenvolvida à arte de Paris. Entretanto, o artista encontrou dificuldades devido ao gosto predominante nas artes uruguaias de copiar cânones estéticos importados da Europa.\nEm sua obra, esse autor exaltava a cultura e os motivos do Uruguai e da América do Sul, combatendo o comportamento que ele chamou de \"exilados da Europa”. Uma consciência que não era só de Torres-García, como também de outros artistas modernistas da América Latina, incomodados com as principais capitais latinas que não se apresentavam como sedes de sua sociedade.\n\nSALES, C.M. \"Cartografia, Arte e Visões de Mundo na Reprodução do 'Mapa Invertido da América do Sul\". In: Espaço e Cultura, UERJ, RJ, n.39, p. 158.Adaptado.\n\nDe acordo com os textos, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os movimentos artístico-literários das Américas são dependentes de modelos europeus até hoje, no século XXI."
+        },
+        {
+          "letra": "B",
+          "texto": "a arte latino-americana do século XX realizou-se sob a influência de artistas parisienses que foram exilados da Europa."
+        },
+        {
+          "letra": "C",
+          "texto": "a obra de Joaquín Torres-García, apesar de apresentar uma preocupação estética, tem os elementos exigidos pela Geografia para ser considerada também um mapa."
+        },
+        {
+          "letra": "D",
+          "texto": "o desconforto gerado pela falta de uma identidade artística própria motivou artistas da América do Sul a buscarem, em sua cultura e em seu espaço, inspiração para suas obras."
+        },
+        {
+          "letra": "E",
+          "texto": "o desenvolvimento de uma arte genuína, sem influência estrangeira, foi rapidamente concretizado devido à urgência da população em buscar uma identidade cultural própria."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Arte – Modernismo na América Latina",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "O texto a seguir é um convite para um evento:\n\nYOU'RE INVITED\n5th Annual GALA FUNDRAISER\nIn Support Of\nUNIDOS EN LA MUSICA: A LATIN AMERICAN FESTIVAL\nSunday February 25th, 2024 / 5pm\n$100 Per Person + Eventbrite Taxes & Fees\nIncludes 4 Course Prefixe Dining Experience w/ Wine Pairing\nLa Cocina International\n530 A1A Beach Blvd, St Augustine, FL 32080\n**inside Castillo Real Hotel\nJoin us for an evening of fine dining, dancing and entertainment\nFor Sponsorship Information email info@unidosenlamusica.com\n\nO texto apresentado pertence ao gênero",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "folheto, divulgando um novo curso acadêmico direcionado ao público latino-americano."
+        },
+        {
+          "letra": "B",
+          "texto": "propaganda, anunciando um concerto de música clássica em um ginásio poliesportivo."
+        },
+        {
+          "letra": "C",
+          "texto": "convite, apresentando um jantar beneficente que ocorrerá em um hotel, em St. Augustine."
+        },
+        {
+          "letra": "D",
+          "texto": "pôster, falando de uma degustação gratuita de vinhos latino-americanos."
+        },
+        {
+          "letra": "E",
+          "texto": "campanha, incentivando a criação de bandas latino-americanas nos EUA."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto",
+        "Língua Portuguesa – Gêneros Textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "A América Latina é uma das regiões do globo terrestre especialmente vulnerável à ocorrência de terremotos, pois se localiza perto das bordas de placas tectônicas. No entanto, os terremotos não se distribuem igualmente pelo território latino-americano.\nUma das áreas onde os terremotos se concentram é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "na porção ocidental da América do Sul, em função do choque das placas de Nazca e Sul-americana."
+        },
+        {
+          "letra": "B",
+          "texto": "na porção oriental da América do Sul, em função do choque das placas de Cocos e Sul-americana."
+        },
+        {
+          "letra": "C",
+          "texto": "na porção norte do Caribe, em função do afastamento das placas Indiana e Euro-asiática."
+        },
+        {
+          "letra": "D",
+          "texto": "no interior da América do Sul, em função do choque das placas Arábica e Australiana."
+        },
+        {
+          "letra": "E",
+          "texto": "na porção sul do Caribe, em função do afastamento das placas do Pacífico e Filipina."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geologia e Tectônica de Placas"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Três conhecidos, Ceci, Peri e Iracema, estão decidindo se vão visitar Cuba. Contudo, devido a questões pessoais, sabe-se que:\n\nI. Ceci só vai visitar Cuba, se Iracema for;\nII. se Peri for visitar Cuba, Ceci também irá.\n\nAssinale a alternativa que apresenta uma conclusão lógica verdadeira.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ceci e Peri não irão visitar Cuba."
+        },
+        {
+          "letra": "B",
+          "texto": "Se Ceci decidir visitar Cuba, Peri não irá."
+        },
+        {
+          "letra": "C",
+          "texto": "Se Peri decidir visitar Cuba, Iracema não irá."
+        },
+        {
+          "letra": "D",
+          "texto": "Se Iracema não for visitar Cuba, Ceci também não irá."
+        },
+        {
+          "letra": "E",
+          "texto": "Peri e Iracema irão juntos visitar Cuba."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Filosofia – Lógica Proposicional",
+        "Matemática – Raciocínio Lógico"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "O físico brasileiro César Lattes tornou-se conhecido por descobrir a partícula subatômica méson pi (píon). A descoberta foi descrita por Lattes no artigo Processes involving charged mesons, publicado pela revista Nature em 1947. O texto é coassinado por seus colegas de laboratório: Powell, Occhialini e Muirhead. Essa descoberta rendeu, em 1950, um Prêmio Nobel de Física e uma posterior controvérsia.\nO comitê do Nobel concedeu o prêmio apenas a Powell pelo desenvolvimento do método fotográfico para estudo de processos nucleares e pelos achados relacionados aos mésons. O motivo de o prêmio não ter ido para o brasileiro foi a política interna do Nobel. Até 1960, a regra era premiar apenas o chefe da equipe responsável pela descoberta. Entretanto, a façanha de Lattes marcou o início de um novo campo de estudos da Física.\n\nPodemos afirmar, corretamente, que o campo de estudo relacionado à descoberta de Lattes refere-se a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Física de Partículas."
+        },
+        {
+          "letra": "B",
+          "texto": "Física Clássica."
+        },
+        {
+          "letra": "C",
+          "texto": "Biofísica."
+        },
+        {
+          "letra": "D",
+          "texto": "Termodinâmica."
+        },
+        {
+          "letra": "E",
+          "texto": "Eletromagnetismo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Física Moderna"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "O Relatório Planeta Vivo, produzido pela ONG Fundo Mundial para a Natureza (WWF), apontou que, entre 1970 e 2018, houve uma queda significativa nas populações de espécies monitoradas de animais em todo o planeta. No Brasil, o relatório identificou ameaças específicas a símbolos nacionais, como o boto-cor-de-rosa da Amazônia, a onça-pintada, o tatu-bola, os corais e os lagartos da Caatinga.\n\nEntre os fatores que impactam a vida dos animais monitorados, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a contaminação dos rios, em consequência do garimpo ilegal, preserva a fauna dos botos-cor-de-rosa, que ficam protegidos da pesca predatória."
+        },
+        {
+          "letra": "B",
+          "texto": "o avanço das fronteiras agrícolas gera o desmatamento, que favorece a mudança dos hábitats naturais dos animais e que aumenta suas chances de sobrevivência."
+        },
+        {
+          "letra": "C",
+          "texto": "a introdução de espécies, que não vivem normalmente em determinado ambiente, ocasiona a ocorrência de mutações nas espécies nativas, sem afetar o equilíbrio do ecossistema."
+        },
+        {
+          "letra": "D",
+          "texto": "as mudanças climáticas, por provocarem um aumento na temperatura do planeta, favorecem a reprodução dos animais aquáticos e terrestres, possibilitando o aumento da fauna."
+        },
+        {
+          "letra": "E",
+          "texto": "a retirada ilegal de madeira, a exploração de plantas, o tráfico de animais e plantas silvestres dificultam a sobrevivência de vários organismos, que acabam entrando em extinção."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Ecologia e Impactos Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "A Usina Hidrelétrica de Itaipu corresponde a uma imensa construção que foi desenvolvida a partir dos interesses do Brasil e do Paraguai, e pertence a ambos. Em 1966, os ministros de Relações Exteriores dos dois países assinaram a “Ata do Iguaçu”, para analisar a viabilidade do projeto. No ano de 1970, foi realizada uma licitação para a escolha das empresas responsáveis pela obra. A execução teve início no ano seguinte, 1971. Em 1973, foi assinado o Tratado de Itaipu, que legalizou e oficializou a utilização do rio Paraná para a construção da usina. No ano de 1974, foi instituída uma entidade para gerenciar a construção. Em 1978, o curso do rio Paraná foi desviado e, quatro anos depois, a construção da barragem foi finalizada. A usina entrou em funcionamento em 1984.\n\nCom base no texto, é correto concluir que o projeto",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "foi resultado da pressão brasileira sobre o Paraguai, que não desejava participar da execução da obra."
+        },
+        {
+          "letra": "B",
+          "texto": "sofreu sucessivos atrasos em sua execução, uma vez que sua inviabilidade foi atestada pela Ata do Iguaçu."
+        },
+        {
+          "letra": "C",
+          "texto": "foi inteiramente concebido e executado no período em que os dois países viviam sob regimes ditatoriais."
+        },
+        {
+          "letra": "D",
+          "texto": "valorizou a cultura tradicional dos povos indígenas, demarcando e preservando seus territórios originais."
+        },
+        {
+          "letra": "E",
+          "texto": "assegurou a preservação ambiental ao garantir a manutenção do curso original do rio Paraná, por pressão do governo brasileiro."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História do Brasil (Ditadura Militar)"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Heitor Villa-Lobos (1887–1959) foi maestro, compositor, pianista e violonista brasileiro reconhecido mundialmente. Suas obras para violão são estudadas em praticamente todas as faculdades de música do mundo.\nO violão acústico é um instrumento musical de cordas que não precisa de energia elétrica, que é geralmente feito de madeira, com um corpo oco, chamado de caixa de ressonância, e que possui um orifício circular na frente.\n\nSobre os conceitos de Física que envolvem esse instrumento musical, podemos afirmar corretamente que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as cordas, quando tocadas corretamente, vibram em frequências que destoam de uma nota musical."
+        },
+        {
+          "letra": "B",
+          "texto": "a tensão e o comprimento da corda, definidos pela posição dos dedos no braço do instrumento, afetam a frequência da nota musical quando a corda vibra."
+        },
+        {
+          "letra": "C",
+          "texto": "o corpo atua como uma caixa de ressonância, pois diminui a intensidade do som das cordas vibrantes captado pelo orifício circular."
+        },
+        {
+          "letra": "D",
+          "texto": "o corpo, mesmo sendo feito com materiais e em formas diferentes, ressoa sempre da mesma maneira."
+        },
+        {
+          "letra": "E",
+          "texto": "o tocar, mesmo sem microfone, envolve a conversão de energia mecânica em energia elétrica."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Ondulatória e Acústica"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Leia o texto e complete a frase.\n\nA região de Essequibo, reivindicada I, engloba praticamente toda a área a oeste do Rio Essequibo, no território II. A região em questão tem cerca de 159 mil quilômetros quadrados (um pouco maior do que o estado do Ceará) tomados pelo bioma amazônico e é rica em recursos minerais e naturais.\n\nAssinale a alternativa que completa, correta e respectivamente, o texto",
+      "alternativas": null,
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geopolítica da América do Sul"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Na Copa do Mundo de futebol masculino de 2022, participaram 32 países, dos quais 6 eram latino-americanos: Argentina, Brasil, Costa Rica, Equador, México e Uruguai.\nConsidere que dois países participantes dessa Copa serão sorteados, aleatoriamente, para disputar uma partida amistosa, então a probabilidade de os dois sorteados serem latino-americanos é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "menor que 1%."
+        },
+        {
+          "letra": "B",
+          "texto": "maior que 1,0% e menor que 2,2%."
+        },
+        {
+          "letra": "C",
+          "texto": "maior que 2,2% e menor que 3,3 %."
+        },
+        {
+          "letra": "D",
+          "texto": "maior que 3,3 % e menor que 4,9 %."
+        },
+        {
+          "letra": "E",
+          "texto": "maior que 4,9%."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Probabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Em 1958, num congresso da Conmebol realizado no Rio de Janeiro, ficou definido que seria realizada uma competição continental com os clubes campeões nacionais de futebol da América do Sul. Em 1965, o torneio teve seu nome alterado para Copa Libertadores da América. O motivo da mudança tinha a ver com identidade regional, pois o novo nome homenageava um conjunto de líderes que se destacaram na história do continente.\n\nO conjunto de líderes, a que o texto se refere, foi responsável",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pelo fim das ditaduras cívico-militares implementadas nos países do chamado \"Cone Sul”, região que abriga México, Guatemala e Honduras."
+        },
+        {
+          "letra": "B",
+          "texto": "pela eliminação das seleções de Alemanha, Itália, Espanha e França das Copas do Mundo de 1934, 1938, 1950 e 1954."
+        },
+        {
+          "letra": "C",
+          "texto": "pela independência dos países de colonização espanhola e portuguesa na porção Sul do Continente Americano."
+        },
+        {
+          "letra": "D",
+          "texto": "pela resistência dos povos indígenas da América Latina à dominação colonial espanhola e portuguesa no continente."
+        },
+        {
+          "letra": "E",
+          "texto": "pela abolição legal do tráfico e do comércio de escravizados africanos, que levou à libertação de milhares de cativos em todo o continente."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Independências na América Latina"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "What's the Difference Between the Metric and Imperial System?\nAug 11, 2021\nWhile most of the world uses the International System of Units, aka the Metric System, Liberia, Myanmar and the United States are the only countries that have not officially adopted the Metric System. The United States has its own system, based on the old British Imperial System of inches and pounds.\nWhat Is the Metric System?\nThe Metric System, or SI (Système International), is based off this original meter and currently the official system of measurement for almost all countries in Latin America, Asia, Africa, Europe and Oceania. The SI units-fundamental units not based on any other units-are meter, kilogram, second, ampere (electricity), kelvin (although Celsius is a more practical measurement for nonscientific applications), mole (chemistry), and candela (luminous intensity).\nWhat Is the Imperial System?\nThe British Imperial System was the official system of weights and measures in the United Kingdom from 1824 until they adopted the Metric System in 1965. The Imperial System standardized measurements for units like pound and foot that had different meanings in different places.\n\nBaseando-se no texto, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O Reino Unido adotou o Sistema Métrico em 1824."
+        },
+        {
+          "letra": "B",
+          "texto": "Todas as ex-colônias britânicas adotam o British Imperial System."
+        },
+        {
+          "letra": "C",
+          "texto": "O sistema de medidas usado nos EUA advém do Sistema Métrico criado em 1965."
+        },
+        {
+          "letra": "D",
+          "texto": "O Imperial System não padronizou as medidas de pés e libras nos países que as adotam."
+        },
+        {
+          "letra": "E",
+          "texto": "O Sistema Métrico também é conhecido atualmente como Sistema Internacional."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "What's the Difference Between the Metric and Imperial System?\nAug 11, 2021\nWhile most of the world uses the International System of Units, aka the Metric System, Liberia, Myanmar and the United States are the only countries that have not officially adopted the Metric System. The United States has its own system, based on the old British Imperial System of inches and pounds.\nWhat Is the Metric System?\nThe Metric System, or SI (Système International), is based off this original meter and currently the official system of measurement for almost all countries in Latin America, Asia, Africa, Europe and Oceania. The SI units-fundamental units not based on any other units-are meter, kilogram, second, ampere (electricity), kelvin (although Celsius is a more practical measurement for nonscientific applications), mole (chemistry), and candela (luminous intensity).\nWhat Is the Imperial System?\nThe British Imperial System was the official system of weights and measures in the United Kingdom from 1824 until they adopted the Metric System in 1965. The Imperial System standardized measurements for units like pound and foot that had different meanings in different places.\n\nDas informações contidas no texto, é possível inferir corretamente que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Libéria, Myanmar e os Estados Unidos adotam o “metro” e o “quilograma\"."
+        },
+        {
+          "letra": "B",
+          "texto": "a América Latina usa o Sistema Imperial de medidas."
+        },
+        {
+          "letra": "C",
+          "texto": "algumas unidades do Sistema Internacional são: m, kg, s, A, K e cd."
+        },
+        {
+          "letra": "D",
+          "texto": "a unidade \"ampère” corresponde a todas as grandezas de eletricidade."
+        },
+        {
+          "letra": "E",
+          "texto": "\"pés” e “metro” são usados para medir distância tanto no Sistema Imperial, quanto no Sistema Internacional."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto",
+        "Física – Unidades de Medida"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "A tirinha é um gênero que utiliza linguagem verbal e não verbal na construção de sentido.\nAo analisá-la, conclui-se corretamente que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a personagem mantém hábitos condizentes com sua cultura ancestral."
+        },
+        {
+          "letra": "B",
+          "texto": "o susto expresso pela personagem evidencia sua falta de conhecimento histórico."
+        },
+        {
+          "letra": "C",
+          "texto": "a influência da cultura estrangeira é assimilada conscientemente pela personagem."
+        },
+        {
+          "letra": "D",
+          "texto": "o resultado do teste demonstra a despreocupação da personagem com sua origem."
+        },
+        {
+          "letra": "E",
+          "texto": "a expressão em inglês, dita pela personagem, é incoerente com o espaço em que está."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Gêneros Textuais (Tirinha)",
+        "História – História da Alimentação"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Huge ancient lost city found in the Amazon\nThe discovery changes what we know about the history of people living in the Amazon. The houses and plazas in the Upano area in eastern Ecuador were connected by an astounding network of roads and canals. The area lies in the shadow of a volcano that created rich local soils but also may have led to the destruction of the society.\nWhile we knew about cities in the highlands of South America, like Machu Picchu in Peru, it was believed that people only lived nomadically or in tiny settlements in the Amazon. \"This is older than any other site we know in the Amazon. We have a Eurocentric view of civilisation, but this shows we have to change our idea about what is culture and civilisation,” says Prof Stephen Rostain, director of investigation at the National Centre for Scientific Research in France, who led the research.\n\"It changes the way we see Amazonian cultures. Most people picture small groups, probably naked, living in huts and clearing land - this shows ancient people lived in complicated urban societies,\" says co-author Antoine Dorison.\nThe city was built around 2,500 years ago, and people lived there for up to 1,000 years, according to archaeologists. A network of straight roads and paths connected many platforms, including one that extended 25 km (16 miles).\nDr Dorison said these roads were the most striking part of the research. “The road network is very sophisticated. It extends over a vast distance, everything is connected. And there are right angles, which is very impressive,\" he says, explaining that it is much harder to build a straight road than one that fits in with the landscape.\nThe societies were clearly well-organised and interconnected and the Upano people living there probably mostly focussed on agriculture.\n\nDe acordo com o texto, o que pode ter levado à destruição da sociedade em questão foi",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "um vulcão."
+        },
+        {
+          "letra": "B",
+          "texto": "um meteoro."
+        },
+        {
+          "letra": "C",
+          "texto": "um terremoto."
+        },
+        {
+          "letra": "D",
+          "texto": "uma epidemia."
+        },
+        {
+          "letra": "E",
+          "texto": "uma guerra."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Huge ancient lost city found in the Amazon\nThe discovery changes what we know about the history of people living in the Amazon. The houses and plazas in the Upano area in eastern Ecuador were connected by an astounding network of roads and canals. The area lies in the shadow of a volcano that created rich local soils but also may have led to the destruction of the society.\nWhile we knew about cities in the highlands of South America, like Machu Picchu in Peru, it was believed that people only lived nomadically or in tiny settlements in the Amazon. \"This is older than any other site we know in the Amazon. We have a Eurocentric view of civilisation, but this shows we have to change our idea about what is culture and civilisation,” says Prof Stephen Rostain, director of investigation at the National Centre for Scientific Research in France, who led the research.\n\"It changes the way we see Amazonian cultures. Most people picture small groups, probably naked, living in huts and clearing land - this shows ancient people lived in complicated urban societies,\" says co-author Antoine Dorison.\nThe city was built around 2,500 years ago, and people lived there for up to 1,000 years, according to archaeologists. A network of straight roads and paths connected many platforms, including one that extended 25 km (16 miles).\nDr Dorison said these roads were the most striking part of the research. “The road network is very sophisticated. It extends over a vast distance, everything is connected. And there are right angles, which is very impressive,\" he says, explaining that it is much harder to build a straight road than one that fits in with the landscape.\nThe societies were clearly well-organised and interconnected and the Upano people living there probably mostly focussed on agriculture.\n\nA nova descoberta descrita no texto aponta que, na região Amazônica,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "havia apenas o povo maia."
+        },
+        {
+          "letra": "B",
+          "texto": "havia muitos vilarejos isolados, que não se conectavam."
+        },
+        {
+          "letra": "C",
+          "texto": "os nativos eram nômades, extrativistas e viviam em pequenos grupos."
+        },
+        {
+          "letra": "D",
+          "texto": "havia inúmeros grupos primitivos que ainda não praticavam a agricultura."
+        },
+        {
+          "letra": "E",
+          "texto": "as sociedades se conectavam por uma grande estrutura de estradas e canais."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Huge ancient lost city found in the Amazon\nThe discovery changes what we know about the history of people living in the Amazon. The houses and plazas in the Upano area in eastern Ecuador were connected by an astounding network of roads and canals. The area lies in the shadow of a volcano that created rich local soils but also may have led to the destruction of the society.\nWhile we knew about cities in the highlands of South America, like Machu Picchu in Peru, it was believed that people only lived nomadically or in tiny settlements in the Amazon. \"This is older than any other site we know in the Amazon. We have a Eurocentric view of civilisation, but this shows we have to change our idea about what is culture and civilisation,” says Prof Stephen Rostain, director of investigation at the National Centre for Scientific Research in France, who led the research.\n\"It changes the way we see Amazonian cultures. Most people picture small groups, probably naked, living in huts and clearing land - this shows ancient people lived in complicated urban societies,\" says co-author Antoine Dorison.\nThe city was built around 2,500 years ago, and people lived there for up to 1,000 years, according to archaeologists. A network of straight roads and paths connected many platforms, including one that extended 25 km (16 miles).\nDr Dorison said these roads were the most striking part of the research. “The road network is very sophisticated. It extends over a vast distance, everything is connected. And there are right angles, which is very impressive,\" he says, explaining that it is much harder to build a straight road than one that fits in with the landscape.\nThe societies were clearly well-organised and interconnected and the Upano people living there probably mostly focussed on agriculture.\n\nCom base no texto, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as cidades encontradas no Vale Upano, no estado brasileiro do Amazonas, são mais antigas que a chegada dos primeiros europeus ao território americano."
+        },
+        {
+          "letra": "B",
+          "texto": "as cidades do Vale Upano, quando descobertas por Cristóvão Colombo, foram rapidamente destruídas para dar lugar às atuais metrópoles latino-americanas."
+        },
+        {
+          "letra": "C",
+          "texto": "a ausência de agricultura nas cidades pré-colombianas foi a maior responsável pela extinção dessas cidades, que não suportaram o ônus de comprar alimentos das metrópoles."
+        },
+        {
+          "letra": "D",
+          "texto": "o continente americano já era povoado, quando Cristóvão Colombo ali chegou, e abrigava sociedades que detinham conhecimentos e técnicas complexas em diversas áreas."
+        },
+        {
+          "letra": "E",
+          "texto": "as estradas largas e retas foram projetadas para que pudessem servir de caminho para os primeiros automóveis movidos a combustível fóssil, construídos no continente americano."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto",
+        "História – América Pré-Colombiana"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Quéchua é uma família de línguas falada por diversos grupos étnicos, ao longo da região da cordilheira dos Andes. O quadro mostra os dez primeiros numerais nas línguas portuguesa e quéchua.\n\nPortuguês: um, dois, três, quatro, cinco, seis, sete, oito, nove, dez\nQuéchua: shuc, ishcai, quimsa, chuscu, pichca, sucta, canchis, pusac, iscun, chunca\n\nNessa família de línguas, no que se refere ao seu sistema de numeração, existem algumas regras que são regulares e não variam. Por exemplo, se o nome de um algarismo está\n• antes do numeral 10, isso indica uma multiplicação: pusac chunca é oito vezes dez, ou seja, 80;\n• depois do numeral 10, isso indica uma adição: chunca pusac é dez mais oito, ou seja, 18.\n\nSeguindo a lógica de formação numérica apresentada no texto, o numeral trinta e nove (39), na língua quéchua, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "quimsa chunca iscun."
+        },
+        {
+          "letra": "B",
+          "texto": "quimsa iscun chunca."
+        },
+        {
+          "letra": "C",
+          "texto": "chunca quimsa iscun."
+        },
+        {
+          "letra": "D",
+          "texto": "iscun chunca quimsa."
+        },
+        {
+          "letra": "E",
+          "texto": "iscun quinsa chunca."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Sistemas de Numeração",
+        "Sociologia – Diversidade Cultural"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Os queros são descendentes de uma linhagem inca que, até hoje, fala a língua quéchua e mantém a tradição do culto à Pachamama (Mãe Terra) e aos Apus (espíritos das montanhas). São camponeses e pastores que valorizam o amor, o respeito e a comunicação com a terra, trazendo consigo o Sumak Kausay, o “Bem-Viver\"; o Ayni, a reciprocidade com a vida; e o Ayllu, a compreensão da vida coletiva e em comunidade.\n\nSegundo o texto, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os queros adotam um estilo de vida displicente e descuidado, privilegiando a religiosidade em detrimento do trabalho."
+        },
+        {
+          "letra": "B",
+          "texto": "o estilo de vida baseado na satisfação dos desejos e interesses individuais, em detrimento das demandas coletivas, é predominante nas comunidades dos queros."
+        },
+        {
+          "letra": "C",
+          "texto": "a organização social e religiosa dos queros baseia-se na valorização da vida em comunidade e no respeito à natureza como elementos centrais para alcançar o \"Bem-Viver\"."
+        },
+        {
+          "letra": "D",
+          "texto": "os queros modernizaram a língua e a tradição incas, integrando-se à vida urbana das sociedades contemporâneas, modificando tanto hábitos quanto costumes."
+        },
+        {
+          "letra": "E",
+          "texto": "o culto à Pachamama impede que os queros realizem, a contento, as atividades econômicas como o cultivo de terra e o pastoreio de animais."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Sociologia – Cultura e Sociedade",
+        "História – Povos Originários da América"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Leia o texto que um missionário dominicano escreveu aos reis da Espanha em 1565.\n\nTodas as guerras que chamamos de conquista foram e são injustíssimas. Nós usurpamos todos os reinos e senhorios das Índias. As encomiendas e repartimentos de índios são cruéis e tirânicos, todos os que se beneficiam delas estão sempre em pecado mortal e, se não renunciarem a essas práticas, não poderão se salvar. Todo o ouro, a prata, as pérolas e outras riquezas que foram à Espanha são roubados e, se não forem devolvidos, quem os tomou não poderá se salvar. Todas as pessoas de quem roubamos, em qualquer parte, têm direito adquirido de nos fazer guerra justíssima e este direito valerá até o dia do Juízo Final.\n\nLUSTOSA, Oscar de Figueiredo. \"Notas para um centenário: Bartolomeu de Las Casas (1474-1575)\". In: Revista de História. V. 51, nº 102, p. 717-729, 1975. Traduzido e adaptado.\n\nSegundo o texto,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as regras do direito internacional permitiram que os povos colonizados na Ásia renunciassem a práticas tirânicas."
+        },
+        {
+          "letra": "B",
+          "texto": "as guerras contra os nativos foram uma justa resposta aos ataques e aos roubos praticados pelos americanos."
+        },
+        {
+          "letra": "C",
+          "texto": "a colonização do continente americano ocorreu em um contexto de harmonia entre europeus e colonizados."
+        },
+        {
+          "letra": "D",
+          "texto": "a presença europeia na Ásia ocorreu em condições adversas, tornando os espanhóis vítimas da crueldade dos indianos."
+        },
+        {
+          "letra": "E",
+          "texto": "a conquista espanhola da América foi marcada pela opressão e pela violência contra os povos nativos da região."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Colonização da América Espanhola"
+      ]
+    }
+  ]
+}

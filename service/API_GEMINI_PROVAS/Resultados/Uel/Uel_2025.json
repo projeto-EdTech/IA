@@ -1,0 +1,613 @@
+{
+  "nomeUniversidade": "Universidade Estadual de Londrina",
+  "siglaUniversidade": "UEL",
+  "nomeProva": "Prova de Conhecimentos Gerais",
+  "ano": 2025,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "O girassol apresenta inflorescência do tipo capítulo, a qual forma um disco que atinge entre 10 e 30 centímetros de diâmetro. As pétalas amarelas da planta, que ficam ao redor da coroa, são flores estéreis que têm a função de atrair os polinizadores. O miolo da inflorescência é composto por um conjunto de flores tubulares férteis e hermafroditas. Cada flor do raio produz um pseudofruto seco, comumente chamado de semente de girassol.\n\nCom base nos conhecimentos sobre a estrutura das flores, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os estames são formados de antera e filete e produzem os óvulos."
+        },
+        {
+          "letra": "B",
+          "texto": "A corola é formada pelas sépalas que conferem sustentação à flor."
+        },
+        {
+          "letra": "C",
+          "texto": "As flores hermafroditas são compostas por estames e carpelo."
+        },
+        {
+          "letra": "D",
+          "texto": "Os carpelos são formados de pistilo e estigma e produzem os grãos de pólen."
+        },
+        {
+          "letra": "E",
+          "texto": "O cálice é formado pelas pétalas coloridas para atrair os polinizadores."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Diversidade dos seres vivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Leia o texto a seguir e responda às questões 2 e 3.\n\nQual foi a última vez que você viu um girassol bem de perto? O que talvez você não tenha notado é como a posição das sementes faz com que a flor seja um primor da matemática.\nNo núcleo do girassol, há duas séries de curvas de sementes. Cada série vai para uma direção e o número de curvas não é o mesmo nas duas séries. Repare bem: se a flor tem 21 curvas para a esquerda, terá 34 para a direita. Se tem 34 para um lado, terá 55 para o outro. Se 55 curvas apontam para uma direção, 89 apontarão para outra.\nReconhece esse padrão? É a Sequência de Fibonacci. [...] O matemático italiano Leonardo Fibonacci detalhou esta sequência no livro Liber Abaci, de 1202, em que defende o uso da notação numérica indo-arábica e usa um problema hipotético com coelhos para exemplificar sua observação. Aliás, a natureza tem vários outros exemplos de ocorrências que seguem a Sequência Fibonacci: a concha do caramujo, a reprodução das abelhas e até o corpo humano.\nAdaptado de: BRITO, Daiane. O girassol e a Sequência de Fibonacci. Publicado em 14/07/2014, atualizado em 21/12/2016. Revista Superinteressante. https://super.abril.com.br/\n\nSobre o uso de recursos linguísticos e a produção de sentidos, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A expressão “o mesmo” é utilizada como complemento nominal, podendo ser substituída sem alteração de sentido por \"núcleo de girassol\"."
+        },
+        {
+          "letra": "B",
+          "texto": "O uso da conjunção “aliás\" objetiva concluir um raciocínio apresentado no enunciado anterior, explicando que a natureza apresenta muitos exemplos de ocorrência da Sequência Fibonacci."
+        },
+        {
+          "letra": "C",
+          "texto": "Em \"O que talvez você não tenha notado é como a posição das sementes faz com que a flor seja um primor da matemática\", a preposição \"com” é exigida pelo verbo e sua ausência prejudica o sentido do enunciado."
+        },
+        {
+          "letra": "D",
+          "texto": "Em \"usa um problema hipotético com coelhos para exemplificar sua observação”, a preposição \"para” abre uma oração subordinada substantiva, exercendo a mesma função em \"se tem 34 para um lado, terá 55 para o outro\"."
+        },
+        {
+          "letra": "E",
+          "texto": "O pronome pessoal \"você” é a forma reduzida do pronome de tratamento \"vossa mercê” e busca aproximar o leitor do texto, o que é reforçado pelo uso de frases interrogativas e de verbos no imperativo."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Análise linguística e coesão"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Leia o texto a seguir e responda às questões 2 e 3.\n\nQual foi a última vez que você viu um girassol bem de perto? O que talvez você não tenha notado é como a posição das sementes faz com que a flor seja um primor da matemática.\nNo núcleo do girassol, há duas séries de curvas de sementes. Cada série vai para uma direção e o número de curvas não é o mesmo nas duas séries. Repare bem: se a flor tem 21 curvas para a esquerda, terá 34 para a direita. Se tem 34 para um lado, terá 55 para o outro. Se 55 curvas apontam para uma direção, 89 apontarão para outra.\nReconhece esse padrão? É a Sequência de Fibonacci. [...] O matemático italiano Leonardo Fibonacci detalhou esta sequência no livro Liber Abaci, de 1202, em que defende o uso da notação numérica indo-arábica e usa um problema hipotético com coelhos para exemplificar sua observação. Aliás, a natureza tem vários outros exemplos de ocorrências que seguem a Sequência Fibonacci: a concha do caramujo, a reprodução das abelhas e até o corpo humano.\nAdaptado de: BRITO, Daiane. O girassol e a Sequência de Fibonacci. Publicado em 14/07/2014, atualizado em 21/12/2016. Revista Superinteressante. https://super.abril.com.br/\n\nSobre o emprego de sinais de pontuação no texto, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Após \"repare bem\", os dois-pontos separam uma oração que corrige o enunciado anterior, modificando sua estrutura e seu sentido."
+        },
+        {
+          "letra": "B",
+          "texto": "Em \"No núcleo do girassol, há duas séries de curvas de sementes\", a vírgula pode ser substituída por um ponto-final, mantendo-se o sentido e a estrutura do enunciado."
+        },
+        {
+          "letra": "C",
+          "texto": "Em \"Aliás, a natureza tem vários outros exemplos de ocorrências que seguem a Sequência Fibonacci: a concha do caramujo, a reprodução das abelhas e até o corpo humano\", os dois-pontos podem ser substituídos por uma vírgula com alteração do sentido e da estrutura do enunciado."
+        },
+        {
+          "letra": "D",
+          "texto": "Em \"cada série vai para uma direção e o número de curvas não é o mesmo nas duas séries\", a inclusão de uma vírgula após a palavra \"direção” separaria duas orações com sujeitos distintos, mantendo-se o sentido do enunciado."
+        },
+        {
+          "letra": "E",
+          "texto": "Após \"outro\" em \"Se tem 34 para um lado, terá 55 para o outro. Se 55 curvas apontam para uma direção, 89 apontarão para outra\", o ponto separa orações subordinadas e sua substituição por ponto-e-vírgula prejudica o sentido do enunciado."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Pontuação"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Analise a imagem, leia o texto a seguir e responda às questões 4 e 5.\n\nThe seeds in a sunflower exhibit a golden spiral, which is tied to the Fibonacci sequence.\n(Image credit: belterz/Getty Images)\n\nThe Fibonacci sequence is a series of numbers in which each number is the sum of the two that precede it. Starting at 0 and 1, the first 10 numbers of the sequence look like this: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, and so on forever. The Fibonacci sequence can be described using a mathematical equation: $X_{n+2} = X_{n+1} + X_n$. People claim there are many special properties about the numerical sequence, such as the fact that it is \"nature's secret code\" for building perfect structures, like the Great Pyramid at Giza or the iconic seashell that likely graced the cover of your school mathematics textbook. But much of that is incorrect and the true history of the series is a bit more down-to-earth. The first thing to know is that the sequence is not originally Fibonacci's, who in fact never went by that name. The Italian mathematician who we call Leonardo Fibonacci was born around 1170, and originally known as Leonardo of Pisa, said Keith Devlin, a mathematician at Stanford University. (...)\n\"Liber Abaci\" first introduced the sequence to the Western world. But after a few scant paragraphs on breeding rabbits, Leonardo of Pisa never mentioned the sequence again. In fact, it was mostly forgotten until the 19th century, when mathematicians worked out more about the sequence's mathematical properties. In 1877, French mathematician Édouard Lucas officially named the rabbit problem \"the Fibonacci sequence\", Devlin said. Other than being a neat teaching tool, the Fibonacci sequence shows up in a few places in nature. However, it's not some secret code that governs the architecture of the universe, Devlin said.\nIt's true that the Fibonacci sequence is tightly connected to what's now known as the golden ratio, phi, an irrational number that has a great deal of its own dubious lore. The ratio of successive numbers in the Fibonacci sequence gets ever closer to the golden ratio, which is 1.6180339887498948482. The golden ratio manages to capture some types of plant growth, Devlin said. For instance, the spiral arrangement of leaves or petals on some plants follows the golden ratio. Pinecones exhibit a golden spiral, as do the seeds in a sunflower, according to \"Phyllotaxis: A Systemic Study in Plant Morphogenesis\" (Cambridge University Press, 1994). But there are just as many plants that do not follow this rule.\nAdaptado de: What \"is the Fibonacci sequence\"?, Deblin said | Live Science.\n\nCom base no texto e nos conhecimentos de língua inglesa, atribua V (Verdadeiro) ou F (Falso) às afirmativas a seguir.\n\n( ) Na frase \"For instance, the spiral arrangement of leaves or petals on some plants follows the golden ratio\", a função da expressão \"For instance\" é a de acrescentar informação ao argumento apresentado anteriormente.\n( ) Na frase \"However, it's not some secret code that governs the architecture of the universe, Devlin said\", a função de However é a mesma função exercida por but na frase: \"But there are just as many plants that do not follow this rule\".\n( ) Na frase \"The first thing to know is that the sequence is not originally Fibonacci's\", a função da expressão \"the first thing to know” é organizar a ordem das informações a serem apresentadas.\n( ) Na frase \"Other than being a neat teaching tool, the Fibonacci sequence shows up in a few places in nature” a função da expressão \"other than being\" é exemplificar o argumento apresentado anteriormente.\n( ) Na frase \"In fact, it was mostly forgotten until the 19th century\", \"in fact\" tem a mesma função de \"the first thing to know\": organizar a ordem das informações a serem apresentadas.\n\nAssinale a alternativa que contém, de cima para baixo, a sequência correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V, V, F, F, V"
+        },
+        {
+          "letra": "B",
+          "texto": "V, F, V, V, F"
+        },
+        {
+          "letra": "C",
+          "texto": "V, V, V, F, F"
+        },
+        {
+          "letra": "D",
+          "texto": "F, V, F, V, F"
+        },
+        {
+          "letra": "E",
+          "texto": "F, F, F, V, V"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Análise linguística e textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Analise a imagem, leia o texto a seguir e responda às questões 4 e 5.\n\nThe seeds in a sunflower exhibit a golden spiral, which is tied to the Fibonacci sequence.\n(Image credit: belterz/Getty Images)\n\nThe Fibonacci sequence is a series of numbers in which each number is the sum of the two that precede it. Starting at 0 and 1, the first 10 numbers of the sequence look like this: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, and so on forever. The Fibonacci sequence can be described using a mathematical equation: $X_{n+2} = X_{n+1} + X_n$. People claim there are many special properties about the numerical sequence, such as the fact that it is \"nature's secret code\" for building perfect structures, like the Great Pyramid at Giza or the iconic seashell that likely graced the cover of your school mathematics textbook. But much of that is incorrect and the true history of the series is a bit more down-to-earth. The first thing to know is that the sequence is not originally Fibonacci's, who in fact never went by that name. The Italian mathematician who we call Leonardo Fibonacci was born around 1170, and originally known as Leonardo of Pisa, said Keith Devlin, a mathematician at Stanford University. (...)\n\"Liber Abaci\" first introduced the sequence to the Western world. But after a few scant paragraphs on breeding rabbits, Leonardo of Pisa never mentioned the sequence again. In fact, it was mostly forgotten until the 19th century, when mathematicians worked out more about the sequence's mathematical properties. In 1877, French mathematician Édouard Lucas officially named the rabbit problem \"the Fibonacci sequence\", Devlin said. Other than being a neat teaching tool, the Fibonacci sequence shows up in a few places in nature. However, it's not some secret code that governs the architecture of the universe, Devlin said.\nIt's true that the Fibonacci sequence is tightly connected to what's now known as the golden ratio, phi, an irrational number that has a great deal of its own dubious lore. The ratio of successive numbers in the Fibonacci sequence gets ever closer to the golden ratio, which is 1.6180339887498948482. The golden ratio manages to capture some types of plant growth, Devlin said. For instance, the spiral arrangement of leaves or petals on some plants follows the golden ratio. Pinecones exhibit a golden spiral, as do the seeds in a sunflower, according to \"Phyllotaxis: A Systemic Study in Plant Morphogenesis\" (Cambridge University Press, 1994). But there are just as many plants that do not follow this rule.\nAdaptado de: What \"is the Fibonacci sequence\"?, Deblin said | Live Science.\n\nCom base no texto, considere as afirmativas a seguir.\n\nI. O objetivo principal do texto é desmitificar algumas concepções sobre a sequência de Fibonacci.\nII. O desenvolvimento das plantas tem como regra a proporção áurea.\nIII. As propriedades especiais sobre a sequência numérica é compartilhada por toda a área científica.\nIV. A imagem das sementes de girassol é escolhida porque exibe a proporção áurea, ligada à sequência de Fibonacci.\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e IV são corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas III e IV são corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I, II e III são corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, III e IV são corretas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Os frutos do girassol formam espirais que, quando contadas separadamente, à esquerda e à direita, admitem um comportamento irregular: não coincidem. Na figura a seguir, as espirais contadas em um sentido totalizam 34 e, no outro, totalizam 21.\n\nAdaptado de: https://blogs.glowscotland.org.uk/\n\nNa obra Aspectos Ontológicos e Histórico-Culturais das Relações Ciências-Artes, György Darvas menciona que, de modo geral, os números de espirais, à esquerda e à direita, apesar de não coincidirem, obedecem a um padrão matemático e pertencem ao conjunto $F = \\{1, 2, 3, 5, 8, 13, 21, 34, 55, \\ldots\\}$\nSeja $N = \\{1, 2, 3, \\cdots \\}$ e admita que $F$ é o conjunto imagem da função $f : N \\rightarrow N$ que satisfaz\n$$\\left\\{\\begin{array}{l}f(1) = 1 \\\\ f(2) = 1 \\\\ f(n+2) = f(n + 1) + f(n) \\text{ para todo } n \\in N\\end{array}\\right.$$\nAssinale a alternativa que apresenta, corretamente e para todo $n \\in N$, o valor de $f(n + 5)$ em função de $f(n + 1)$ e de $f(n)$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$f(n + 1) + f(n)$"
+        },
+        {
+          "letra": "B",
+          "texto": "$f(n + 1) + 2f(n)$"
+        },
+        {
+          "letra": "C",
+          "texto": "$2f(n + 1) + 3f(n)$"
+        },
+        {
+          "letra": "D",
+          "texto": "$5f(n + 1) + 3f(n)$"
+        },
+        {
+          "letra": "E",
+          "texto": "$5f(n + 1) + 8f(n)$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Funções e Sequências Numéricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Analise, a seguir, as imagens das obras do artista Maurits Cornelis Escher.\n\nSobre as obras do artista e os conhecimentos sobre Arte Moderna, considere as afirmativas a seguir.\n\nI. A figura 1 é um desenho que apresenta objetos e composições abstratas, criando uma composição estática.\nII. A figura 2 apresenta uma representação de metamorfoses, transformação da percepção da bidimensionalidade em ilusão da tridimensionalidade, simetria e reflexão das formas.\nIII. A figura 3 é uma gravura subordinada a múltiplos pontos de vista e perspectivas, desafio à lei da gravidade.\nIV. A figura 4 é uma gravura que tem como tema central o infinito e ainda há a produção das figuras impossíveis.\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e IV são corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas III e IV são corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I, II e III são corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, III e IV são corretas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Arte – Arte Moderna"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "A bacia hidrográfica do Rio Paraná se forma na vertente ocidental da Serra da Mata da Corda, no Estado de Minas Gerais, com o nome de Parnaíba. Com essa denominação, o rio corre até receber, pela margem esquerda, o seu afluente Rio Grande, sendo chamado, daí em diante, de Rio Paraná. Percorre os Estados de Minas Gerais, Mato Grosso do Sul, São Paulo e Paraná e as Repúblicas do Paraguai, Argentina e Uruguai, desaguando no estuário do Rio da Prata.\n\nCom base no mapa e nos conhecimentos sobre Geografia e História do Paraná, considere as afirmativas a seguir.\n\nI. As declividades do relevo paranaense diminuem na direção oeste e norte-ocidental, fazendo com que a maior parte das águas se dirija à bacia do Rio Paraná, e as demais, a leste, no sentido da bacia Atlântica.\nII. A construção da Ponte do Rio Tibagi em Jataizinho permitiu a ocupação da área e a consequente consolidação dos interesses britânicos no Norte do Paraná, servindo como rota de acesso e escoamento de produção.\nIII. O Rio Paraná tem como principais afluentes da margem esquerda os rios Paranapanema, Ivaí, Piquiri e Iguaçu, que formam as bacias secundárias do Estado do Paraná.\nIV. A descoberta de ouro de aluvião no alto curso do Rio Tibagi serviu como atração para o estabelecimento de mineiros em suas margens, promovendo rápidos enriquecimentos individuais.\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e IV são corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas III e IV são corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I, II e III são corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, III e IV são corretas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – História do Paraná",
+        "Geografia – Geografia do Paraná"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Analise o mapa a seguir.\n\nhttps://memoriaonline.jfpr.jus.br\n\nA colonização do norte do Paraná deu-se, mais efetivamente, em meados da década de 1920, com a aquisição de uma larga faixa de terra, a oeste do Rio Tibagi, que se estendia até as margens dos rios Ivaí e Piquiri, pela Companhia de Terras Norte do Paraná (CTNP) de capital britânico. No entanto, no baixo curso do Rio Tibagi, a experiência colonizadora foi diferente, uma vez que sua ocupação antecedeu a presença do imperialismo britânico e seguiu o curso do Rio Paranapanema, até a foz do Rio Tibagi.\nCom base no mapa e nos conhecimentos sobre História do Paraná, considere as afirmativas a seguir.\n\nI. Sertanópolis e Ibiporã tornaram-se pontos de atração de brasileiros e estrangeiros que se dirigiam à região para a extração de araucárias e o cultivo de cana-de-açúcar.\nII. A CTNP não se interessou pela área banhada pelo Rio Tibagi, devido à inexistência da terra roxa na região, o que impediria o cultivo de cana-de-açúcar.\nIII. Companhias colonizadoras de capital nacional se estabeleceram na região desde a primeira década do século XX, entre as quais a paulista Corain e Corain e a paranaense Companhia Colonizadora do Tibagy LTDA.\nIV. A companhia Corain e Corain foi a responsável pela entrada de cafeicultores paulistas na região onde hoje está localizado o município de Primeiro de Maio.\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e IV são corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas III e IV são corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I, II e III são corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, III e IV são corretas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História do Paraná"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "O desmatamento é tema de discussões em nível nacional e internacional e, atualmente, o Cerrado tem sido um dos biomas mais afetados. A taxa de desmatamento depende, dentre outros fatores, das medidas de fiscalização que são adotadas pelo governo. A figura a seguir apresenta as taxas de desmatamento no Cerrado, desde 2001 até 2023.\n\nhttps://terrabrasilis.dpi.inpe.br\n\nCom base na figura e nos conhecimentos sobre o bioma Cerrado e suas características, atribua V (verdadeiro) ou F (falso) às afirmativas a seguir.\n\n( ) A principal região onde ocorreu a remoção da vegetação nativa do Cerrado para a destinação de áreas à agropecuária foi no Matopiba, para onde se expandiu a fronteira agrícola durante os últimos 30 anos.\n( ) Possui solos muito férteis provenientes de derrames basálticos, que ocorrem sobre relevos ondulados e de grande extensão territorial, que são conhecidos como \"chapadas\".\n( ) Incêndios espontâneos gerados por causas naturais são comuns, mas as árvores permanecem vivas graças às raízes profundas e aos caules subterrâneos ou à presença de uma cutícula espessa, rica em súber no caule.\n( ) Possui o menor percentual de vegetação nativa ainda existente, sendo a urbanização intensa, a partir da década de 1970, a principal causa da supressão da vegetação.\n( ) É composto por vegetação predominantemente caducifólia, que passa boa parte do ano sem folhas, uma adaptação à escassez de água.\n\nAssinale a alternativa que contém, de cima para baixo, a sequência correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V, F, V, F, F."
+        },
+        {
+          "letra": "B",
+          "texto": "V, F, V, F, V."
+        },
+        {
+          "letra": "C",
+          "texto": "V, V, F, V, F."
+        },
+        {
+          "letra": "D",
+          "texto": "F, V, V, F, V."
+        },
+        {
+          "letra": "E",
+          "texto": "F, V, F, V, F."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Tipos de vegetação e Biomas",
+        "Geografia – Impactos socioambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "A tirinha a seguir mostra Calvin tentando entender um assunto de Física.\n\nCalvin and Hobbes. Bill Watterson\n\nCom base na tirinha e nos conhecimentos sobre Termodinâmica e Fluidos, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A densidade da água salgada é maior do que a da água doce, portanto, nos oceanos, o gelo flutua com 10% do seu volume submerso."
+        },
+        {
+          "letra": "B",
+          "texto": "Um fragmento de gelo flutua sobre a água, pois sua densidade nessa condição é menor que a densidade da água líquida."
+        },
+        {
+          "letra": "C",
+          "texto": "No congelador, a garrafa de vidro comum cheia de água e fechada se quebra quando a água atinge a temperatura de $-4°C$."
+        },
+        {
+          "letra": "D",
+          "texto": "A observação do pai de Calvin está correta, pois, para que flutue, é preciso que o gelo esteja mais próximo de uma fonte de calor."
+        },
+        {
+          "letra": "E",
+          "texto": "O fenômeno anômalo da água ocorre porque a soma total das quantidades de calor recebida pela água deve ser diferente de zero."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Fluidos e Termodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Em um trabalho publicado na revista Chemical Science, abordando o ordenamento das moléculas de água, os autores mostraram que a ordem/desordem entre as moléculas de água no gelo puro é influenciada, durante sua formação, pela pressão e taxa de resfriamento. Nesse experimento, foram obtidos o \"gelo VI\", com maior desordem, assemelhando-se à água no estado líquido, e o \"gelo XV\", com maior ordenamento intermolecular.\nCom base nesse experimento, nos conhecimentos sobre as propriedades dos líquidos e sólidos e termodinâmica química, considere as afirmativas a seguir.\n\nI. Sob pressão de 1 atm, a água, comparada ao composto $H_2S$, possui maior temperatura de ebulição.\nII. A transição de fase da água do estado sólido para o estado líquido é um processo exotérmico.\nIII. Em ambos os gelos, as interações intermoleculares que prevalecem são do tipo íon-dipolo.\nIV. O sistema constituído pelo \"gelo XV\" apresenta menor entropia que a do \"gelo VI\" na mesma temperatura e pressão.\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e IV são corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas III e IV são corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I, II e III são corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, III e IV são corretas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Estudo geral dos líquidos e sólidos",
+        "Química – Termoquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "A produtividade agrícola no Brasil tem experimentado um crescimento nas últimas décadas. Para isso, a agricultura de precisão tornou-se uma aliada do agronegócio, pois, além de maximizar a produtividade das culturas, minimiza o uso de recursos naturais e reduz os impactos ambientais. Os hidrogéis, polímeros hidrofílicos com grande capacidade de absorção de água, têm sido utilizados na agricultura. Seu uso visa à liberação de água de forma regular e controlada para as plantas como apresenta a figura a seguir.\n\nAtribua V (verdadeiro) ou F (falso) às afirmativas a seguir.\n\n( ) Na raiz, a água proveniente dos hidrogéis é absorvida na região em que as células são alongadas e promovem o crescimento.\n( ) O polímero a seguir pode ser considerado um hidrogel.\n\n( ) O polímero a seguir pode ser considerado um hidrogel.\n\n( ) A água proveniente dos hidrogéis é transportada da raiz para as folhas pelos vasos lenhosos, que compõem o xilema.\n( ) Alguns hidrogéis aumentam o pH do solo, pois possuem, em sua composição, funções carboxílicas e fenólicas.\n\nAssinale a alternativa que contém, de cima para baixo, a sequência correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V, F, V, F, F."
+        },
+        {
+          "letra": "B",
+          "texto": "V, V, F, F, F."
+        },
+        {
+          "letra": "C",
+          "texto": "F, F, V, V, F."
+        },
+        {
+          "letra": "D",
+          "texto": "F, F, V, V, V."
+        },
+        {
+          "letra": "E",
+          "texto": "F, V, F, V, V."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Polímeros e Equilíbrio Químico",
+        "Biologia – Fisiologia Vegetal"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Uma fábrica de fuselagens, que utiliza o procedimento de rebitagem na linha de montagem, funciona regularmente desde o ano de 1998. Naquele ano, a temperatura média local era de 24°C. Uma das partes da fuselagem não apresenta nenhuma alteração de dilatação por conta da variação de temperatura. Nela são feitos pequenos furos para a inserção de rebites, que entram sem folga alguma. Entretanto, no ano de 2023, com a temperatura média local de 24,8°C, a produção precisou ser paralisada por conta de problemas com a inserção dos rebites.\nConsiderando que os rebites utilizados são de zinco, cujo coeficiente de dilatação linear é $26 \\cdot 10^{-6} \\, ^\\circ\\text{C}^{-1}$, é correto afirmar que eles",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "não entravam nos furos, pois houve uma variação de área de $(41,6 \\cdot 10^{-6}) \\cdot A_0$."
+        },
+        {
+          "letra": "B",
+          "texto": "não entravam nos furos, pois houve uma variação de área de $(20,8 \\cdot 10^{-6}) \\cdot A_0$."
+        },
+        {
+          "letra": "C",
+          "texto": "não entravam nos furos, pois houve uma variação de área de aproximadamente $(62,4 \\cdot 10^{-6}) \\cdot A_0$."
+        },
+        {
+          "letra": "D",
+          "texto": "entravam nos furos com folga, devido ao aumento do seu comprimento em $(41,6 \\cdot 10^{-6}) \\cdot L_0$."
+        },
+        {
+          "letra": "E",
+          "texto": "entravam nos furos com folga, devido à diminuição do seu comprimento em $(20,8 \\cdot 10^{-4}) \\cdot L_0$."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Dilatação Térmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Economia circular é um conceito referente ao desenvolvimento econômico de um país que faz uso racional dos recursos naturais, implementa processos de ciclagem e otimiza etapas de fabricação.\n\nNo Brasil, um exemplo dessa economia é a cadeia de produção a partir da cana-de-açúcar. Entretanto, a possibilidade de produção de hidrogênio como combustível utilizando o etanol talvez tenha chegado ao ápice da eficiência dessa economia. Recentes pesquisas reportam que é possível produzir gás hidrogênio, de acordo com a reação química global a seguir, fazendo uso de reforma eletroquímica.\n\n$C_2H_5OH(l) + 3H_2O(l) \\rightarrow 2CO_2(g) + 6H_2(g)$\n\nEstima-se que, numa célula de reforma eletroquímica, para cada 8,0 litros de etanol, é formado 1 Kg de hidrogênio, que pode ser utilizado como combustível verde em veículos automotores, indústrias, dentre outros.\nCom base nos conhecimentos sobre cálculo estequiométrico, assinale a alternativa que apresenta, correta e aproximadamente, o rendimento da reação de produção de gás hidrogênio a partir do etanol.\n\nDados: massa molar do etanol = 46,07 g/mol\nmassa molar do gás hidrogênio = 2 g/mol\nDensidade do etanol = 0,7893 g/mL",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30%"
+        },
+        {
+          "letra": "B",
+          "texto": "40%"
+        },
+        {
+          "letra": "C",
+          "texto": "50%"
+        },
+        {
+          "letra": "D",
+          "texto": "60%"
+        },
+        {
+          "letra": "E",
+          "texto": "70%"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Para muitos processos naturais (evaporação de águas oceânicas, formação de gelo e micelas, tensão superficial, entre outros), a distribuição de íons na interface ar/água desempenha um papel importante. Em um trabalho publicado na revista Nature Chemistry, os autores descrevem o comportamento de diferentes íons na interface ar/solução, provenientes de solutos (eletrólitos) não voláteis, e mostram como os íons e moléculas de água podem estar presentes nestas interfaces, conforme figuras A e B.\n\nAdaptado de: Yair Litman, Kuo-Yang Chiang, Takakazu Seki, Yuki Nagata, Mischa Bonn. Nature Chemistry. volume 16, 2024. pp 644-650.\n\nCom relação às propriedades coligativas e considerando os solutos HCl e NaClO₄ como não voláteis e 100% ionizável e dissociável, respectivamente, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "À pressão de 1,0 atm, a temperatura de ebulição da água pura é maior que a temperatura de ebulição da solução de NaClO₄."
+        },
+        {
+          "letra": "B",
+          "texto": "A 25 °C e 1,0 atm, a pressão de vapor de uma solução contendo 1,0 mol de NaClO₄ por Kg de água é menor que a pressão de vapor da água pura."
+        },
+        {
+          "letra": "C",
+          "texto": "À pressão de 1,0 atm, a temperatura de solidificação da água pura é menor que a temperatura de solidificação da solução de HCl."
+        },
+        {
+          "letra": "D",
+          "texto": "À pressão de 1,0 atm, a temperatura de ebulição da solução contendo 0,5 mol de HCl por Kg de água é maior que a da solução aquosa contendo 0,5 mol de NaClO₄ por Kg de água."
+        },
+        {
+          "letra": "E",
+          "texto": "O valor do fator i de van't Hoff para a solução contendo 0,10 mol de NaClO₄ por Kg de água é maior do que para a solução contendo 1,0 mol de HCl por Kg de água."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Propriedades coligativas"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Leia o texto a seguir.\n\nNo dia 5 de setembro de 2023, foi registrada no Vale do Taquari (RS) a segunda maior inundação de sua história. A inundação catastrófica causou os maiores prejuízos nas cidades de Arroio do Meio, Cruzeiro do Sul, Encantado, Estrela, Lajeado, Muçum e Roca Sales. O episódio resultou em 53 mortes, mais de 3 mil pessoas precisaram ser resgatadas e 943 ficaram feridas. No total, a inundação deixou 5,2 mil desabrigados e mais de 22 mil desalojados.\nAdaptado de: https://independente.com.br\n\nAs inundações são fenômenos não regulares, de baixa frequência, mas de grande magnitude, e são capazes de gerar significativos impactos sociais, econômicos e ambientais.\nCom base nos conhecimentos sobre inundações e problemas relacionados, considere as afirmativas a seguir.\n\nI. Historicamente, a malha urbana das cidades foi construída e se desenvolveu em áreas de relevos mais elevados, que são áreas naturais de extravasamento das águas dos rios.\nII. As inundações, em condições naturais, estão condicionadas, principalmente, pela intensidade, frequência e duração das chuvas e sua distribuição na bacia hidrográfica.\nIII. Operacionalizar um sistema de alerta à inundação é uma alternativa viável para a tomada de decisão, pois com ele é possível prever até qual cota o rio vai atingir e em quantas horas.\nIV. A impermeabilização do solo urbano impede o processo de infiltração da água, contribuindo para o aumento do escoamento superficial que chega até o rio, consequentemente, intensificando as inundações.\n\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmativas I e II são corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas I e IV são corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas III e IV são corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas I, II e III são corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente as afirmativas II, III e IV são corretas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Geografia – Dinâmica das relações sociedade-natureza"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Leia os dois textos a seguir, disponíveis na rede social \"Brainly\", cujo foco é responder às perguntas de seus usuários sobre os mais variados temas.\n\nhttps://brainly.com\n\nSobre a pergunta e a resposta, esta última gerada pela Inteligência Artificial do Brainly, atribua V (verdadeiro) ou F (falso) às afirmativas a seguir.\n\n( ) El Niño é um padrão climático que afeta da mesma maneira diferentes regiões do mundo.\n( ) Os impactos do El Niño resumem-se a fortes chuvas e alagamentos nas regiões banhadas pelo Oceano Pacífico.\n( ) El Niño é causado pelas mudanças na quantidade de água quente no Oceano Pacífico que altera o clima.\n( ) A força magnética do núcleo da Terra é um fator determinante para a regularidade do El Niño.\n( ) El Niño e La Niña têm em comum o fato de que ambos afetam o clima no Pacifico.\n\nAssinale a alternativa que contém, de cima para baixo, a sequência correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V, F, V, F, V"
+        },
+        {
+          "letra": "B",
+          "texto": "V, V, F, F, V"
+        },
+        {
+          "letra": "C",
+          "texto": "V, F, V, V, F"
+        },
+        {
+          "letra": "D",
+          "texto": "F, F, V, F, V"
+        },
+        {
+          "letra": "E",
+          "texto": "F, V, F, V, F"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação e inferência textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "A figura a seguir é uma das representações da Cabanagem (1835-1840), a mais sangrenta revolta ocorrida na Província do Grão-Pará.\n\nhttps://l1nq.com/kQFqe\n\nCom base na figura e nos conhecimentos sobre o movimento da Cabanagem, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os Cabanos eram representantes da Coroa Portuguesa na Província, enriquecidos com a produção de pimenta-do-reino na região e seu escoamento pelo comércio atlântico."
+        },
+        {
+          "letra": "B",
+          "texto": "A Revolta dos Cabanos ocorreu durante o processo de emancipação das colônias portuguesas na América e na África, quando as forças coloniais suspenderam a abolição da escravatura dos indígenas, principais agentes do episódio."
+        },
+        {
+          "letra": "C",
+          "texto": "A Cabanagem buscava a autonomia da Província no comércio atlântico, aproveitando-se do impedimento do imperador D. Pedro I em assumir a Coroa Portuguesa."
+        },
+        {
+          "letra": "D",
+          "texto": "Indígenas e mestiços se rebelaram devido às exigências da Coroa Portuguesa em elevar a produção aurífera mediante aumento das horas trabalhadas e diminuição da remuneração."
+        },
+        {
+          "letra": "E",
+          "texto": "Indígenas de diferentes etnias, negros escravizados e brancos pobres ficaram dez meses no poder, após violentos ataques aos representantes do governo regencial, o que foi seguido por uma forte repressão ao movimento."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – Brasil: Período Regencial e Revoltas populares"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Leia o texto a seguir.\n\n[...] Quando o Di Cavalcanti tomou sete facadas, o crime se consumou ali com a ajuda daqueles braços, mas aquela faca vinha sendo afiada de muito tempo passado.\n[...]\nQuando a população de democratas cresce subitamente após os acontecimentos trágicos do domingo, podemos perguntar onde se ocultavam então tantas vocações democráticas.\nQuando um policial foi arrancado do seu cavalo por mãos brutas e espancado, outro espancamento, o da lei, já ocorrera no ano de 2016.\nQuando nos preparamos para lembrar sempre e assim o faremos o dia 8 de janeiro de 2023, seria bom para nossa memória cansada lembrar também das datas de 17 de abril e 31 de agosto, ambas de 2016.\nQuando nos horrorizamos com a podridão da chusma transportada e remunerada deste janeiro brasiliense, poderíamos gastar um tanto do nosso horror para recordar como tudo isso começou.\nQuando a lembrança capengueia, podemos reativá-la com a voz firme e forte de quem sofreu primeiro as consequências disso que o Brasil sofre agora.\nwww.brasildefato.com.br\n\nCom base no texto, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Em \"Quando o Di Cavalcanti tomou sete facadas\", observa-se o uso denotativo da linguagem, já que se refere aos ferimentos impostos contra o artista durante os atos de 08 de janeiro de 2023."
+        },
+        {
+          "letra": "B",
+          "texto": "Em \"Quando nos preparamos para lembrar sempre e assim o faremos o dia 8 de janeiro de 2023, seria bom para nossa memória cansada lembrar também das datas de 17 de abril e 31 de agosto, ambas de 2016\", houve uso indevido da vírgula após \"o dia 8 de janeiro de 2023\"."
+        },
+        {
+          "letra": "C",
+          "texto": "O texto contém as informações relativas aos atos que o antecederam, já que elas estão inseridas de maneira explícita no trecho apresentado, sendo retomadas pelas datas."
+        },
+        {
+          "letra": "D",
+          "texto": "O texto trata da regularidade da violência, mostrando que as ações de 08 de janeiro de 2023, na praça dos Três Poderes, dão sequência a atos anteriores, o que é reforçado pelo paralelismo expresso pela repetição de \"quando\"."
+        },
+        {
+          "letra": "E",
+          "texto": "No terceiro parágrafo do texto, o substantivo \"espancamento\" apresenta sentido denotativo e temático, mas o adjetivo \"espancado\" traz sentido conotativo e figurativo."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Coesão e coerência textuais"
+      ]
+    }
+  ]
+}

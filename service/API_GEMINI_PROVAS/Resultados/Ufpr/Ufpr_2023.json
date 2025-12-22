@@ -1,0 +1,1929 @@
+{
+  "nomeUniversidade": "Universidade Federal do Paraná",
+  "siglaUniversidade": "UFPR",
+  "nomeProva": "Processo Seletivo",
+  "ano": 2023,
+  "qtdeQuestoes": 90,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "A cor da pele em humanos é uma característica quantitativa, constituindo um traço adaptativo, cuja variação possui relação com o território ocupado e com o tempo em que isso se deu. Considerando as informações apresentadas, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Considerando a distribuição de uma característica quantitativa em uma população, a maioria dos indivíduos irá se concentrar nos extremos de uma curva normal e poucos indivíduos irão se concentrar no centro da curva."
+        },
+        {
+          "letra": "B",
+          "texto": "Fenótipos quantitativos variam muito em uma população devido à interação de recessividade e dominância entre um par de alelos de um gene que controla a característica."
+        },
+        {
+          "letra": "C",
+          "texto": "A grande variação fenotípica das características quantitativas se deve em parte a uma base genética poligênica."
+        },
+        {
+          "letra": "D",
+          "texto": "Em uma população, as características qualitativas em comparação às quantitativas são as mais frequentes, já que as características podem ser facilmente distinguidas em classes, como por exemplo a estatura dos indivíduos."
+        },
+        {
+          "letra": "E",
+          "texto": "As características quantitativas possuem padrões de herança definidos, que podem ser obtidos a partir de cruzamentos mendelianos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Genética",
+        "Biologia – Herança Quantitativa"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "O gene da calcitonina codifica tanto o hormônio calcitonina quanto o peptídeo relacionado ao gene calcitonina (CGRP). O CGRP atua como neurotransmissor em tecidos do sistema nervoso, enquanto a calcitonina regula os níveis de cálcio e fosfato sanguíneos por ação sobre os ossos. A partir do processamento do transcrito primário do gene da calcitonina, dois mensageiros maduros que se diferem pela presença de um exon são formados, a partir dos quais serão produzidos a calcitonina e o CGRP. Considerando as informações apresentadas, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A informação genética é armazenada nos aminoácidos que compõem o DNA, sendo traduzida em RNA mensageiro e transcrita em proteínas – fluxo esse que determina o fenótipo dos indivíduos."
+        },
+        {
+          "letra": "B",
+          "texto": "A replicação do DNA é o processo responsável pela expressão dos genes, sendo que esse processo se dá por meio da síntese de segmentos de DNA a partir de sequências específicas."
+        },
+        {
+          "letra": "C",
+          "texto": "A diversidade de tipos e funções das células que formam os tecidos do corpo humano se dá pelos diferentes códigos genéticos que cada tipo possui."
+        },
+        {
+          "letra": "D",
+          "texto": "O processo que sintetiza o hormônio calcitonina e o peptídeo relacionado ao gene calcitonina (CGRP) é chamado de transcrição, no qual os RNAs transportadores são responsáveis por levar o mensageiro para o citoplasma da célula onde as proteínas são sintetizadas."
+        },
+        {
+          "letra": "E",
+          "texto": "A produção do hormônio calcitonina e do peptídeo relacionado ao gene calcitonina (CGRP) a partir de um mesmo gene se deve ao mecanismo de splicing alternativo."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Biologia Molecular",
+        "Biologia – Splicing Alternativo"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "A membrana celular, por delimitar o meio intra e extracelular, funciona como uma \"portaria\", controlando o intercâmbio de substâncias, recebendo e emitindo sinais. Para cumprir essas diversas funções, a membrana conta com estruturas e sistemas especializados, como por exemplo os receptores de membrana, responsáveis pela detecção de estímulos diversos, inclusive agentes invasores, e as proteínas, que atuam no transporte de substâncias. Considerando as informações apresentadas, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Agentes infecciosos conseguem infectar células humanas porque interagem com receptores celulares específicos, enganando esse sistema de reconhecimento que permite a entrada desses agentes nas células."
+        },
+        {
+          "letra": "B",
+          "texto": "A passagem da água para fora da célula, em resposta à inserção desta em um meio concentrado em solutos, é feita por meio das bombas iônicas."
+        },
+        {
+          "letra": "C",
+          "texto": "A bicamada fosfolipídica da membrana celular é altamente permeável a moléculas hidrofílicas, uma vez que delimita o compartimento celular em ambientes aquosos."
+        },
+        {
+          "letra": "D",
+          "texto": "Os receptores de membrana responsáveis por detectar os estímulos são estruturas compostas por lipídio e fosfato, formando moléculas denominadas fosfolipídios que contêm uma cauda apolar e uma cabeça polar."
+        },
+        {
+          "letra": "E",
+          "texto": "Os vírus, parasitas intracelulares obrigatórios, infectam células humanas por meio do processo de exocitose."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Citologia",
+        "Biologia – Membrana Plasmática"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "O metabolismo animal requer que as células sejam supridas com oxigênio e o gás carbônico seja eliminado em um processo de troca gasosa com o ambiente que chamamos de respiração. Sobre o tema, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A respiração branquial se dá pela superfície do corpo que precisa ser mantida sempre úmida, ocorrendo, portanto, em animais que vivem na água ou em ambientes úmidos."
+        },
+        {
+          "letra": "B",
+          "texto": "A respiração traqueal, presente em alguns animais adaptados à vida terrestre, não possui relação com a circulação, uma vez que os sistemas de traqueias levam diretamente o oxigênio às células do corpo."
+        },
+        {
+          "letra": "C",
+          "texto": "Os sacos aéreos são estruturas anexas ao pulmão das aves que, além de auxiliarem o voo dos animais, atuam na excreção do ácido úrico."
+        },
+        {
+          "letra": "D",
+          "texto": "O pulmão dos mamíferos é formado por uma grande quantidade de tubos finos chamados alvéolos e minúsculas bolsas chamadas brônquios, altamente vascularizadas, por onde a troca gasosa ocorre."
+        },
+        {
+          "letra": "E",
+          "texto": "O metabolismo celular consiste de reações químicas que visam à formação de adenosina trifosfato (ATP) a partir de glicose e gás carbônico."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Fisiologia Animal Comparada",
+        "Biologia – Sistema Respiratório"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Sobre a contração muscular esquelética, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O sistema contrátil depende da concentração de íons Ca++ no mioplasma, que altera as células actina e miosina, promovendo a contração."
+        },
+        {
+          "letra": "B",
+          "texto": "Estímulos nervosos promovem a liberação de acetilcolina na fenda sináptica, o que leva à despolarização da membrana da célula muscular."
+        },
+        {
+          "letra": "C",
+          "texto": "Actina e miosina são liberadas na fenda sináptica, o que gera um potencial de ação e promove a contração muscular esquelética."
+        },
+        {
+          "letra": "D",
+          "texto": "O deslizamento das células de actina sobre as de miosina é iniciado pela liberação de ATP no sarcômero."
+        },
+        {
+          "letra": "E",
+          "texto": "A despolarização da miosina promove a liberação passiva de íons Ca++ até a membrana da actina, promovendo a contração muscular."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Fisiologia Humana",
+        "Biologia – Sistema Muscular"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Considere que o destino dos heterótrofos é se alimentarem de um autótrofo, ou ainda de outro heterótrofo que, por sua vez, alimentou-se de um autótrofo. Isso pode continuar por muitos níveis tróficos, mas no início sempre há um autótrofo. A esse respeito, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os heterótrofos são a base da cadeia alimentar, responsáveis pela produção primária e pela maior produção de biomassa."
+        },
+        {
+          "letra": "B",
+          "texto": "Os heterótrofos são carnívoros predadores de herbívoros autótrofos, que são a base da cadeia alimentar e consumidores de maior biomassa."
+        },
+        {
+          "letra": "C",
+          "texto": "Seres autótrofos estão na base da cadeia alimentar, pois são produtores e consomem diretamente os seres fotossintetizantes."
+        },
+        {
+          "letra": "D",
+          "texto": "Seres fotossintetizantes são base de cadeia alimentar e servem de alimento para consumidores primários, que são alimento para consumidores secundários."
+        },
+        {
+          "letra": "E",
+          "texto": "Em uma cadeia alimentar, os autótrofos estão sempre no início, mas também podem comportar-se como consumidores primários e secundários."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Ecologia",
+        "Biologia – Cadeias Alimentares"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Existem 39 espécies diferentes de aves-do-paraíso que vivem na Nova Guiné e nas ilhas vizinhas. São pássaros coloridos e com plumagem incomum e rituais de acasalamento complexos que incluem dança, canto e poses. Os jovens machos herdam esses passos de dança de seus pais, depois os refinam através da prática e da observação dos adultos. Menos óbvias, mas igualmente importantes, são as fêmeas vigilantes: são suas escolhas que decidem quais danças chegam à próxima geração.\n(Cornell Lab of Ornithology's Birds of Paradise project. Disponível em: https://thekidshouldseethis.com/post/birds-of-paradise-cornell-lab-ornithology. Adaptado.)\nA respeito da evolução dos rituais de acasalamento das aves-do-paraíso, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os rituais de acasalamento são sujeitos à seleção sexual que altera o código genético dos machos para atrair mais parceiras e aumentar o sucesso reprodutivo."
+        },
+        {
+          "letra": "B",
+          "texto": "A seleção natural promove mudanças genéticas nos machos, pois a seleção sexual atua na competição entre os machos e não na seleção pelas fêmeas."
+        },
+        {
+          "letra": "C",
+          "texto": "As aves-do-paraíso apresentam danças, cantos e poses elaboradas devido a mutações epigenéticas produzidas pela seleção sexual."
+        },
+        {
+          "letra": "D",
+          "texto": "A seletividade das fêmeas promove o surgimento de mutações que geram rituais de acasalamento complexos, favorecidos pela seleção sexual."
+        },
+        {
+          "letra": "E",
+          "texto": "Danças, cantos e poses das aves-do-paraíso são consequência da seleção sexual, promovida pela preferência das fêmeas por tais características."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Evolução",
+        "Biologia – Seleção Sexual"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "O uso em larga escala de agrotóxicos no cultivo de alimentos tem consequências negativas para o ambiente e para a saúde dos consumidores. O Brasil é um dos países com maior consumo de agrotóxicos e a exposição aos agrotóxicos pode causar uma série de doenças.\n(INCA - Instituto Nacional do Câncer, Ministério da Saúde. Disponível em: https://www.inca.gov.br/exposicao-no-trabalho-e-no-ambiente/agrotoxicos. Adaptado.)\nA respeito de alternativas disponíveis ao uso de agrotóxicos, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O controle biológico de pragas propõe conter a proliferação de pragas utilizando seus inimigos naturais, como predadores e parasitas."
+        },
+        {
+          "letra": "B",
+          "texto": "As agroflorestas são constituídas por monoculturas selecionadas e utilizam apenas de agrotóxicos liberados pela legislação nacional."
+        },
+        {
+          "letra": "C",
+          "texto": "O controle biológico de pragas prevê a utilização apenas de agrotóxicos que não apresentam risco à saúde humana."
+        },
+        {
+          "letra": "D",
+          "texto": "Nas agroflorestas, são utilizados agrotóxicos apenas para pragas resistentes, em quantidades mínimas e apenas uma vez ao ano."
+        },
+        {
+          "letra": "E",
+          "texto": "No controle biológico de pragas, são utilizadas sementes geneticamente modificadas resistentes a herbicidas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Ecologia",
+        "Biologia – Controle Biológico de Pragas"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "A respeito das trocas gasosas em tecidos e órgãos das plantas, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As folhas são as partes das plantas que mais realizam trocas gasosas com o ambiente, garantindo que a taxa de fotossíntese seja sempre mais alta do que a taxa respiratória."
+        },
+        {
+          "letra": "B",
+          "texto": "Em cactáceas, as trocas gasosas ocorrem somente durante dia, pois a alta incidência de luz solar promove a abertura dos estômatos."
+        },
+        {
+          "letra": "C",
+          "texto": "Devido à baixa disponibilidade de oxigênio dissolvido na água ou presente no solo, plantas de mangues retiram oxigênio do ar por meio de pneumatóforos."
+        },
+        {
+          "letra": "D",
+          "texto": "Plantas são adaptadas a manter as trocas gasosas em taxas constantes, independentemente das variações de temperatura e luminosidade ambiental."
+        },
+        {
+          "letra": "E",
+          "texto": "As plantas realizam apenas respiração anaeróbica, pois o gás oxigênio não é utilizado pela planta, mas liberado para a atmosfera durante a fotossíntese."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Botânica",
+        "Biologia – Fisiologia Vegetal"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Considere as equações $a + b = c^2$ e $a + b + c = 20$. Assinale a alternativa que corresponde à quantidade de triplas ordenadas (a, b, c) que satisfazem simultaneamente essas duas equações, sendo a, b, c números inteiros positivos.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "11."
+        },
+        {
+          "letra": "B",
+          "texto": "12."
+        },
+        {
+          "letra": "C",
+          "texto": "13."
+        },
+        {
+          "letra": "D",
+          "texto": "14."
+        },
+        {
+          "letra": "E",
+          "texto": "15."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Sistemas de Equações",
+        "Matemática – Equações Diofantinas"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "O Índice de Massa Corporal (IMC) de uma pessoa adulta é dado pela fórmula: $$IMC = \\frac{massa}{(altura)^2}$$ (massa medida em quilogramas) (altura medida em metros)\nAdmitindo-se que a altura de uma pessoa adulta é constante, se, durante um ano, ela aumentar sua massa, então é correto afirmar que nesse período o gráfico de seu IMC em função de sua massa é parte de uma:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reta horizontal."
+        },
+        {
+          "letra": "B",
+          "texto": "reta crescente."
+        },
+        {
+          "letra": "C",
+          "texto": "curva crescente côncava para cima."
+        },
+        {
+          "letra": "D",
+          "texto": "parábola."
+        },
+        {
+          "letra": "E",
+          "texto": "senoide."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Funções do 1º grau",
+        "Matemática – Análise de Gráficos"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Na figura ao lado, estão representadas quatro circunferências de raio $r = 1$ cm que são tangentes nos pontos A, B, C e D. Assinale a alternativa que corresponde ao valor, em $cm^2$, da área hachurada em cinza.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\pi – 1$."
+        },
+        {
+          "letra": "B",
+          "texto": "$\\pi – 2$."
+        },
+        {
+          "letra": "C",
+          "texto": "$2 – \\frac{\\pi}{2}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$4 – \\pi$."
+        },
+        {
+          "letra": "E",
+          "texto": "$4 – \\frac{\\pi}{2}$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Áreas"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Na figura ao lado, tem-se duas circunferências que se tangenciam no ponto Q. Os raios dessas circunferências são $R_1$ e $R_2$, com $R_1 < R_2$. Cada uma das retas r e s é tangente simultaneamente às duas circunferências; adicionalmente, essas retas se intersectam no ponto P. Qual é a distância entre os pontos P e Q?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2 \\frac{R_1+R_2}{R_2-R_1}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$2 \\frac{R_2-R_1}{R_1 R_2}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$2 \\frac{R_1+R_2}{R_2 R_1}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$2 \\frac{R_2-R_1}{R_1+R_2}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$2 \\frac{R_1 R_2}{R_2-R_1}$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Circunferências",
+        "Matemática – Semelhança de Triângulos"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Sejam r e s retas no plano cartesiano que são perpendiculares e se intersectam no ponto (3,3). Sabendo-se que a reta r intersecta o eixo x no ponto (2,0), assinale a alternativa que corresponde ao valor numérico da área do triângulo delimitado pelas retas r e s e pelo eixo x.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "12."
+        },
+        {
+          "letra": "B",
+          "texto": "15."
+        },
+        {
+          "letra": "C",
+          "texto": "21."
+        },
+        {
+          "letra": "D",
+          "texto": "24."
+        },
+        {
+          "letra": "E",
+          "texto": "30."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Geometria Analítica",
+        "Matemática – Equação da Reta"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Ana, Beatriz e Carlos escolhem lugares para se sentar em uma mesa hexagonal regular. Cada lugar corresponde a um dos lados do hexágono, que estão numerados de 1 a 6, conforme a figura ao lado. Os lados 1 e 4 são considerados lados opostos na mesa, assim como 2 e 5, e 3 e 6. De quantas formas diferentes Ana, Beatriz e Carlos podem escolher os lugares numerados de modo que nenhum deles fique sentado ao lado oposto do outro?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "48."
+        },
+        {
+          "letra": "B",
+          "texto": "36."
+        },
+        {
+          "letra": "C",
+          "texto": "24."
+        },
+        {
+          "letra": "D",
+          "texto": "12."
+        },
+        {
+          "letra": "E",
+          "texto": "8."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Análise Combinatória",
+        "Matemática – Princípio Fundamental da Contagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Os ângulos internos de um polígono convexo de 20 lados estão em progressão aritmética com razão de 4º (graus). Qual é o produto em graus entre o maior ângulo interno e o menor ângulo interno desse polígono?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20800."
+        },
+        {
+          "letra": "B",
+          "texto": "22600."
+        },
+        {
+          "letra": "C",
+          "texto": "24800."
+        },
+        {
+          "letra": "D",
+          "texto": "26600."
+        },
+        {
+          "letra": "E",
+          "texto": "26800."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Progressão Aritmética",
+        "Matemática – Geometria Plana",
+        "Matemática – Polígonos"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "As únicas raízes reais do polinômio $p(x)$ dado pelo determinante abaixo são -2 e -1. $$ p(x) = \\det \\begin{pmatrix} q(x) & x + 2 & x^2 + 2x \\\\ x^2 + x & 0 & 1 \\\\ x+1 & 1 & 1 \\end{pmatrix} $$ Sabendo-se que o polinômio $q(x) = ax^2 + bx + c$ (com a, b e c constantes) tem as mesmas raízes reais de $p(x)$, é correto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$b^2 - 4ac < 0$ e $a > \\frac{3}{4}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$b^2 - 4ac < 0$ e $a < -\\frac{3}{4}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$b^2 – 4ac > 0$ e $a < -\\frac{3}{4}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$b^2 - 4ac > 0$ e $a > \\frac{3}{4}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$b^2 - 4ac > 0$ e $a = -\\frac{3}{4}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Polinômios",
+        "Matemática – Matrizes e Determinantes"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Na figura ao lado, tem-se um reservatório no formato de um cone circular reto com altura h e área do topo igual a 12 $m^2$. Esse reservatório está sendo preenchido com um líquido cujo volume em $m^3$ é dado por: $$V(t) = \\log_2(t^2 + 1)$$ sendo $t \\ge 0$ o tempo. Em quanto tempo o líquido atingirá metade da capacidade desse reservatório?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$t = \\sqrt{4^h - 1}$."
+        },
+        {
+          "letra": "B",
+          "texto": "$t = 2^h - 1$."
+        },
+        {
+          "letra": "C",
+          "texto": "$t = \\sqrt{2^h - 1}$."
+        },
+        {
+          "letra": "D",
+          "texto": "$t = 4^h - 1$."
+        },
+        {
+          "letra": "E",
+          "texto": "$t = \\sqrt{4h + 1}$."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Logaritmos",
+        "Matemática – Geometria Espacial",
+        "Matemática – Volume de Cone"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Considere o seguinte trecho:\n\nEconomia e Sociedade no Egito Antigo\n\nO Reino Antigo compreende as dinastias IV a VIII, entre 2575 e 2134 [a.C.], com apogeu na primeira de tais dinastias, época da construção de enormes sepulcros, as três grandes pirâmides de Guiza, perto de Mênfis, pelos faraós Khufu (o Quéops dos gregos), Khafra (Quéfren) e Menkaura (Miquerinos); os dois primeiros, em especial, levantaram monumentos de tal magnitude que supõem um sistema tanto político quanto econômico muito bem-organizado.\n(CARDOSO, Ciro Flamarion. O Egito Antigo. São Paulo: Brasiliense, 1982. p. 51-52.)\nA partir do excerto acima e dos conhecimentos acerca da política e da economia do Egito Faraônico e das antigas sociedades africanas, é correto afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A escravidão era a base econômica do Antigo Egito, e a construção de pirâmides e outras obras públicas dependia do trabalho forçado."
+        },
+        {
+          "letra": "B",
+          "texto": "À medida que a sociedade egípcia se tornou politicamente mais complexa, pirâmides deixaram de funcionar como sepulcros e se tornaram templos conhecidos como \"zigurates\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Na sociedade egípcia, o faraó era o único proprietário de terras, e essa concentração econômica permitia o gasto em obras monumentais como pirâmides e templos."
+        },
+        {
+          "letra": "D",
+          "texto": "A aproximação política e econômica entre as dinastias egípcias do Reino Antigo e as Cidades-estados gregas trouxe as técnicas e o conhecimento arquitetônico necessário para a construção das pirâmides de Guiza."
+        },
+        {
+          "letra": "E",
+          "texto": "A estrutura econômica egípcia permitia a contratação de trabalhadores assalariados para atuarem em construções públicas, como pirâmides e obras de irrigação."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – História Antiga",
+        "História – Egito Antigo"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "O Império Romano do Oriente, também conhecido como Império Bizantino, foi uma das mais longevas e importantes estruturas políticas do período medieval e esteve diretamente envolvido com o início do movimento militar conhecido como \"Cruzada\". Assinale a alternativa que relaciona corretamente esse império com as Cruzadas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A polêmica ao redor da veneração de imagens religiosas durante a crise iconoclasta bizantina foi uma das motivações para o início das Cruzadas."
+        },
+        {
+          "letra": "B",
+          "texto": "O Cisma do Oriente criou inimizade entre a Igreja Católica e a Igreja Ortodoxa, o que ocasionou a expedição punitiva por parte do ocidente conhecida como \"Cruzada\"."
+        },
+        {
+          "letra": "C",
+          "texto": "A tomada da capital bizantina de Constantinopla pelos turcos otomanos causou o exílio do imperador bizantino e a convocação das Cruzadas."
+        },
+        {
+          "letra": "D",
+          "texto": "O pedido de auxílio militar feito ao ocidente pelo Império Bizantino contra o avanço dos turcos seljúcidas foi uma das justificativas para as Cruzadas."
+        },
+        {
+          "letra": "E",
+          "texto": "O levante popular conhecido como \"Revolta de Nika\" ameaçou o Império Bizantino e precipitou as Cruzadas como medida de proteção."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – História Medieval",
+        "História – Império Bizantino",
+        "História – Cruzadas"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Considere o seguinte excerto de jornal:\n\nMundo Negro\n\nA Etiópia é o nosso coração. [...] A Abissínia veio a proeminência sob a chefia do genial negro que foi Menelik II, derrotando a Itália [...]. O Mundo tem reparado que a Etiópia ainda é, por sua insigne vitória, uma nação de valor.\n(A Ethiopia é nosso coração. O Clarim da Alvorada. São Paulo, 26 jul. 1931, Seção Mundo Negro.)\nO trecho acima, retirado do jornal O Clarim da Alvorada, importante veículo da imprensa negra paulista, faz referência tanto à resistência etíope contra a colonização italiana no final do século XIX quanto à ascensão de Haile Selassie, último imperador da Etiópia, coroado em 2 de novembro de 1930. A partir desse trecho e dos conhecimentos sobre a História da África e dos afrodescendentes, assinale a alternativa que relaciona corretamente o papel da Etiópia com o colonialismo no continente africano e os impactos desse papel no mundo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A Etiópia se tornou um importante símbolo de luta e independência para pessoas africanas e afrodescendentes por ter sido um dos únicos estados africanos a resguardar sua soberania durante o processo conhecido como \"Partilha da África\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Após a vitória de Menelik II contra os italianos, a Etiópia se estabeleceu como a principal nação islâmica do continente africano, dando origem ao movimento conhecido como \"etiopismo\"."
+        },
+        {
+          "letra": "C",
+          "texto": "A vitória de Haile Selassie contra a invasão italiana de Benito Mussolini em 1935 inspirou outros países africanos na luta contra o colonialismo e deu início ao processo de libertação da África."
+        },
+        {
+          "letra": "D",
+          "texto": "A derrota italiana contra os etíopes na Batalha de Adwa, em 1896, foi o ponto de partida para o surgimento do pan-africanismo que, em sua origem, pregava a união dos estados africanos contra o avanço europeu no continente."
+        },
+        {
+          "letra": "E",
+          "texto": "A Etiópia conquistou reconhecimento global por ter sido a única nação africana a participar da Conferência de Berlim, ocorrida entre os anos de 1884 e 1885."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História da África",
+        "História – Imperialismo",
+        "História – Pan-africanismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "A doutrina de \"Destino Manifesto\" surgiu nos Estados Unidos no século XIX e se tornou influente no pensamento político daquele país. Nesse contexto, \"Destino Manifesto\" designa uma doutrina:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "anticolonial que visa resguardar a autonomia e a soberania das Américas contra a interferência das nações europeias."
+        },
+        {
+          "letra": "B",
+          "texto": "pan-americanista e busca a união política entre os Estados da América Latina e da América do Norte."
+        },
+        {
+          "letra": "C",
+          "texto": "de excepcionalismo dos Estados Unidos baseada em argumentos religiosos e civilizacionais."
+        },
+        {
+          "letra": "D",
+          "texto": "emancipatória que propunha a abolição da escravidão nas Américas e a demarcação de terras indígenas."
+        },
+        {
+          "letra": "E",
+          "texto": "revolucionária que defendia a independência dos Estados Unidos e o fim das relações políticas com o Império Britânico."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História dos Estados Unidos",
+        "História – Imperialismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Considere a seguir o excerto do artigo da historiadora Violeta Loureiro sobre a região amazônica:\nDe todos, o mito mais persistente [sobre a Amazônia] parece ter sido sempre o da superabundância e da resistência da natureza da região [...].\n(LOUREIRO, Violeta Refkalefsky. Amazônia: uma história de perdas e danos, um futuro a (re)construir. Estudos Avançados, v. 16, n. 45, p. 108, 2002.)\nConforme os conhecimentos sobre a história do Brasil, do período colonial ao republicano, considere as seguintes afirmativas referentes às atividades econômicas exercidas na região amazônica:\n1. A exploração das drogas do sertão fez parte do processo de interiorização da colonização portuguesa e utilizou mão de obra indígena no século XVII.\n2. A atividade mineradora na região no século XVIII foi intensa e teve mão de obra escravizada africana que usou o ouro para comprar sua alforria.\n3. O extrativismo do látex voltou-se para suprir a demanda industrial ocidental na virada do século XIX para o XX e atraiu contingentes de migrantes nordestinos.\n4. A rodovia Transamazônica e a atividade industrial nos anos 1970 seguiram o projeto de desenvolvimento sustentado liderado por povos indígenas.\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente a afirmativa 2 é verdadeira."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas 1 e 3 são verdadeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas 2 e 4 são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas 1, 3 e 4 são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "As afirmativas 1, 2, 3 e 4 são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História do Brasil",
+        "Geografia – Economia da Amazônia"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Considere o excerto que a historiadora Lilia Schwarcz escreveu sobre a Independência do Brasil em 1822:\nA independência brasileira resultou, além do mais, de um projeto muito conservador que pretendia manter, mais do que mudar.\n(SCHWARCZ, Lilia. 2022 é aqui e agora. Nexo Jornal, São Paulo, 17 jan. 2022.)\nA partir dos conhecimentos sobre o período da Independência do Brasil e do período do Império brasileiro, assinale a alternativa que indica corretamente aspectos que o referido projeto conservador manteve no Brasil após a Independência.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O sistema imperialista, a propriedade colonial e o poder moderador."
+        },
+        {
+          "letra": "B",
+          "texto": "O sistema feudalista, a propriedade comunal e o gabinete de conciliação."
+        },
+        {
+          "letra": "C",
+          "texto": "O sistema mercantilista, a propriedade estatal e o parlamentarismo às avessas."
+        },
+        {
+          "letra": "D",
+          "texto": "O sistema oligopolista, a propriedade multicultora e a política do café-com-leite."
+        },
+        {
+          "letra": "E",
+          "texto": "O sistema escravista, a propriedade latifundiária e a política restrita à elite."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – História do Brasil",
+        "História – Brasil Império"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Considere os dois excertos a seguir sobre o tema do racismo no período da Idade Contemporânea:\nO homem é antes de agir; nada que ele faça pode mudar o que ele é. Esta, grosso modo, é a essência filosófica do racismo.\n(BAUMAN, Zygmunt. Modernidade e Holocausto. Rio de Janeiro: Jorge Zahar, 1998. p. 82.)\n[...] quer o racismo resulte de uma catástrofe, quer seja instrumento consciente para provocá-la, está sempre intimamente ligado ao desprezo pelo trabalho, à rejeição de limitações de posse, ao desarraigamento geral e à fé na divina escolha do seu grupo.\n(ARENDT, Hannah. Origens do Totalitarismo. São Paulo: Cia das Letras, 2009. p. 227.)\nA ideologia racial foi um componente político fundamental no desenvolvimento do nazismo. Outro exemplo histórico em que a ideologia racial desempenhou papel importante é o:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mendelismo russo."
+        },
+        {
+          "letra": "B",
+          "texto": "imperialismo britânico."
+        },
+        {
+          "letra": "C",
+          "texto": "lamarckismo estadunidense."
+        },
+        {
+          "letra": "D",
+          "texto": "sanitarismo brasileiro."
+        },
+        {
+          "letra": "E",
+          "texto": "naturalismo português."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História Contemporânea",
+        "Sociologia – Racismo",
+        "História – Imperialismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "O ano de 1922 foi um marco na história do Brasil devido ao surgimento de diferentes movimentos sociais, políticos e culturais. Assinale a alternativa que indica corretamente dois desses movimentos surgidos na década de 1920 no Brasil e seus respectivos desdobramentos em décadas posteriores.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O modernismo antropofágico, que inspirou o Tropicalismo; e o verdeamarelismo, que originou o Integralismo."
+        },
+        {
+          "letra": "B",
+          "texto": "O modernismo expressionista, que inspirou o Surrealismo; e o realismo fantástico, que originou o Regionalismo."
+        },
+        {
+          "letra": "C",
+          "texto": "O modernismo futurista, que inspirou o Neoconcretismo; e o cubismo, que originou o Psicodelismo."
+        },
+        {
+          "letra": "D",
+          "texto": "O modernismo simbolista, que inspirou o Goticismo; e o indigenismo, que originou o Primitivismo."
+        },
+        {
+          "letra": "E",
+          "texto": "O modernismo dadaísta, que inspirou o Abstracionismo; e o fauvismo, que originou o Muralismo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História do Brasil",
+        "Arte – Modernismo no Brasil",
+        "Língua Portuguesa – Modernismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Considere a seguir o excerto do texto sobre o Movimento Tenentista:\nO Tenentismo foi um catalisador do descontentamento de importantes setores da sociedade brasileira durante a década de 1920.\n(FAGUNDES, Pedro Ernesto. Movimento tenentista: um debate historiográfico. Revista Espaço Acadêmico, n. 108, p. 133, maio 2020.)\nConforme os conhecimentos sobre o movimento tenentista nos anos 1920 e 1930 no Brasil, três fatores de descontentamento que suscitaram a reação do tenentismo na esfera pública são:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a dominação da política nacional por aristocracias nobiliárquicas, o federalismo e as ações dos cangaceiros."
+        },
+        {
+          "letra": "B",
+          "texto": "a dominação da política nacional por elites industriais, o patrimonialismo e as milícias paramilitares."
+        },
+        {
+          "letra": "C",
+          "texto": "a dominação da política nacional por cúpulas militares, o gerencialismo e as perseguições comunistas."
+        },
+        {
+          "letra": "D",
+          "texto": "a dominação da política nacional por oligarquias rurais, o coronelismo e as fraudes eleitorais."
+        },
+        {
+          "letra": "E",
+          "texto": "a dominação da política nacional por autocracias urbanas, o corporativismo e as revoltas trabalhistas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – História do Brasil",
+        "História – República Velha",
+        "História – Tenentismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "O texto a seguir é referência para as questões 28 a 36.\nEm todas as questões, as medições são feitas por um referencial inercial. O módulo da aceleração gravitacional é representado por g. Onde for necessário, use g = 10 m/s² para o módulo da aceleração gravitacional.\n\nAo apresentar informações sobre grandezas físicas, a correta utilização de unidades de medida é tão importante quanto os valores numéricos dessas grandezas. O uso incorreto da unidade de medida pode alterar consideravelmente os resultados obtidos numa dada medida, podendo, inclusive, invalidar o processo. Considerando essas informações, uma unidade de medida de comprimento é o/a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ano-luz."
+        },
+        {
+          "letra": "B",
+          "texto": "atmosfera."
+        },
+        {
+          "letra": "C",
+          "texto": "tesla."
+        },
+        {
+          "letra": "D",
+          "texto": "watt."
+        },
+        {
+          "letra": "E",
+          "texto": "hertz."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Grandezas e Unidades"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Uma partícula com uma carga elétrica $Q = 1,6 \\times 10^{-19}$ C tem uma velocidade de módulo $v = 5,0 \\times 10^4$ m/s. Num dado instante, ela entra numa região onde há um campo magnético de módulo B = 10 mT. Nesse instante, o ângulo entre o campo magnético e a velocidade da partícula vale $\\theta$, e sabe-se que $\\cos \\theta = 0,80$ e $\\sin \\theta = 0,60$. Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente o valor do módulo F da força magnética que surge sobre a partícula quando ela entra na região onde há o campo magnético.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$F = 1,6 \\times 10^{-17}$ N."
+        },
+        {
+          "letra": "B",
+          "texto": "$F = 3,2 \\times 10^{-17}$ N."
+        },
+        {
+          "letra": "C",
+          "texto": "$F = 4,8 \\times 10^{-17}$ N."
+        },
+        {
+          "letra": "D",
+          "texto": "$F = 6,4 \\times 10^{-17}$ N."
+        },
+        {
+          "letra": "E",
+          "texto": "$F = 8,0 \\times 10^{-17}$ N."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Eletromagnetismo",
+        "Física – Força Magnética"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Uma barra metálica retilínea tem um comprimento inicial $L_0$ a uma temperatura $T_0$. O material do qual a barra é feita tem um coeficiente de dilatação linear térmico de valor $\\alpha = 5 \\times 10^{-6}$ $°C^{-1}$. Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente o valor da variação de temperatura $\\Delta T$ necessária para que essa barra apresente uma variação $\\Delta L$ em seu comprimento igual a 0,2% de seu comprimento inicial.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\Delta T = 500°C$."
+        },
+        {
+          "letra": "B",
+          "texto": "$\\Delta T = 400°C$."
+        },
+        {
+          "letra": "C",
+          "texto": "$\\Delta T = 300°C$."
+        },
+        {
+          "letra": "D",
+          "texto": "$\\Delta T = 200°C$."
+        },
+        {
+          "letra": "E",
+          "texto": "$\\Delta T = 100°C$."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Termologia",
+        "Física – Dilatação Térmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Um objeto de massa m constante está inicialmente parado sobre uma pista retilínea horizontal. Sobre ele passa a agir, num dado instante, uma força resultante constante de módulo F, também horizontal, paralela à pista, que produz no objeto um deslocamento d ao longo da pista. A atuação da força cessa após produzir o deslocamento d. Sabe-se que m = 500 g, F = 160 N e d = 10 cm. Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente o valor do módulo v da velocidade do objeto após ele sofrer o deslocamento d.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "v = 2 m/s."
+        },
+        {
+          "letra": "B",
+          "texto": "v = 6 m/s."
+        },
+        {
+          "letra": "C",
+          "texto": "v = 8 m/s."
+        },
+        {
+          "letra": "D",
+          "texto": "v = 10 m/s."
+        },
+        {
+          "letra": "E",
+          "texto": "v = 16 m/s."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Mecânica",
+        "Física – Teorema da Energia Cinética"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Um dado resistor ôhmico, de resistência R, quando submetido a uma tensão $V_1 = 5$ V, dissipa uma potência $P_1$. Se o mesmo resistor for submetido a uma tensão $V_2 = 10$ V, a potência dissipada será $P_2$. Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente a relação entre as potências dissipadas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$P_2 = P_1/2$."
+        },
+        {
+          "letra": "B",
+          "texto": "$P_2 = P_1$."
+        },
+        {
+          "letra": "C",
+          "texto": "$P_2 = 2P_1$."
+        },
+        {
+          "letra": "D",
+          "texto": "$P_2 = 4P_1$."
+        },
+        {
+          "letra": "E",
+          "texto": "$P_2 = 10P_1$."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Eletrodinâmica",
+        "Física – Potência Elétrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "A figura a seguir mostra uma prancha retilínea AB que deve ser mantida na horizontal, em equilíbrio estático.\nO peso da prancha pode ser desprezado em comparação com as outras forças envolvidas. A prancha está apoiada num suporte triangular no ponto C, e sobre ela está colocado um objeto (que pode ser considerado pontual) de massa m = 2,0 kg a uma distância $d_1 = 3,0$ m do suporte em C. Do outro lado do suporte, há uma força vertical F orientada para baixo, de módulo F = 15 N, que está aplicada na prancha num ponto que está a uma distância $d_2$ do suporte em C. Considerando as informações apresentadas, assinale a alternativa que apresenta corretamente o valor da distância $d_2$ para que a prancha seja mantida em equilíbrio estático.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$d_2 = 0,4$ m."
+        },
+        {
+          "letra": "B",
+          "texto": "$d_2 = 0,8$ m."
+        },
+        {
+          "letra": "C",
+          "texto": "$d_2 = 2,0$ m."
+        },
+        {
+          "letra": "D",
+          "texto": "$d_2 = 2,4$ m."
+        },
+        {
+          "letra": "E",
+          "texto": "$d_2 = 4,0$ m."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Estática",
+        "Física – Torque"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Num dado local, a velocidade do som vale $v_s = 340$ m/s. Considerando essa informação, assinale a alternativa que apresenta corretamente o valor do comprimento de onda de uma onda sonora produzida nesse local e que tenha um período T = 20 ms.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\lambda = 1,7$ m."
+        },
+        {
+          "letra": "B",
+          "texto": "$\\lambda = 3,4$ m."
+        },
+        {
+          "letra": "C",
+          "texto": "$\\lambda = 6,8$ m."
+        },
+        {
+          "letra": "D",
+          "texto": "$\\lambda = 17$ m."
+        },
+        {
+          "letra": "E",
+          "texto": "$\\lambda = 34$ m."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Ondulatória",
+        "Física – Equação Fundamental da Onda"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Um objeto de massa m constante se move sobre uma pista retilínea, paralela ao eixo x. No instante $t_1 = 2$ s, esse objeto está na posição $x_1 = 10$ cm. No instante $t_2 = 6$ s, ele é encontrado na posição $x_2 = 20$ cm. Sabe-se que em todo o movimento a força resultante sobre o objeto é nula. Diante do exposto, assinale a alternativa que apresenta corretamente o valor da velocidade v desse objeto durante esse movimento.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "v = 2,5 cm/s."
+        },
+        {
+          "letra": "B",
+          "texto": "v = 4,0 cm/s."
+        },
+        {
+          "letra": "C",
+          "texto": "v = 5,0 cm/s."
+        },
+        {
+          "letra": "D",
+          "texto": "v = 7,5 cm/s."
+        },
+        {
+          "letra": "E",
+          "texto": "v = 10 cm/s."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Cinemática",
+        "Física – Movimento Retilíneo Uniforme"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Um raio luminoso se propaga de forma retilínea em um dado meio com uma velocidade de módulo $v = 5 \\times 10^6$ m/s. Sabendo que a velocidade da luz no vácuo vale, em módulo, $v = 3 \\times 10^8$ m/s, e considerando as informações apresentadas, assinale a alternativa que apresenta corretamente o valor do índice de refração n desse material.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "n = 6."
+        },
+        {
+          "letra": "B",
+          "texto": "n = 12."
+        },
+        {
+          "letra": "C",
+          "texto": "n = 20."
+        },
+        {
+          "letra": "D",
+          "texto": "n = 30."
+        },
+        {
+          "letra": "E",
+          "texto": "n = 60."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Óptica",
+        "Física – Índice de Refração"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "O texto a seguir é referência para as questões 37 a 41.\nO tédio profundo\nO excesso de positividade se manifesta também como excesso de estímulos, informações e impulsos. Modifica radicalmente a estrutura e economia da atenção. Com isso se fragmenta e destrói a atenção. Também a crescente sobrecarga de trabalho torna necessária uma técnica específica relacionada ao tempo e à atenção, que tem efeitos novamente na estrutura da atenção. A técnica temporal e de atenção multitasking (multitarefa) não representa nenhum progresso civilizatório. A multitarefa não é uma capacidade para a qual só seria capaz o homem na sociedade trabalhista e de informação pós-moderna. Trata-se antes de um retrocesso. A multitarefa está amplamente disseminada entre os animais em estado selvagem. Trata-se de uma técnica de atenção, indispensável para sobreviver na vida selvagem.\nUm animal ocupado no exercício da mastigação de sua comida tem de ocupar-se ao mesmo tempo com outras atividades. Deve cuidar para que, ao comer, ele próprio não acabe comido. Na vida selvagem, o animal está obrigado a dividir sua atenção em diversas atividades. Por isso, não é capaz de aprofundamento contemplativo nem para comer, nem no copular. O animal não pode mergulhar contemplativamente no que tem diante de si, pois tem de elaborar ao mesmo tempo o que tem atrás de si. Não apenas a multitarefa, mas também atividades como jogos de computador geram uma atenção ampla, mas rasa, que se assemelha à atenção de um animal selvagem. As mais recentes evoluções sociais e a mudança de estrutura da atenção aproximam cada vez mais a sociedade humana da vida selvagem.\n(Extraído e Adaptado de: HAN, Byung-Chul. Sociedade do cansaço. Petrópolis, RJ: Vozes, 2017. p. 31-32.)\nConsidere o seguinte excerto do texto:\nTambém a crescente sobrecarga de trabalho torna necessária uma técnica específica relacionada ao tempo e à atenção, que tem efeitos novamente na estrutura da atenção.\nNessa passagem, o autor aponta um efeito de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "sucessividade."
+        },
+        {
+          "letra": "B",
+          "texto": "proporcionalidade."
+        },
+        {
+          "letra": "C",
+          "texto": "circularidade."
+        },
+        {
+          "letra": "D",
+          "texto": "relativização."
+        },
+        {
+          "letra": "E",
+          "texto": "acréscimo."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Textos",
+        "Filosofia – Filosofia Contemporânea"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "O texto a seguir é referência para as questões 37 a 41.\nO tédio profundo\nO excesso de positividade se manifesta também como excesso de estímulos, informações e impulsos. Modifica radicalmente a estrutura e economia da atenção. Com isso se fragmenta e destrói a atenção. Também a crescente sobrecarga de trabalho torna necessária uma técnica específica relacionada ao tempo e à atenção, que tem efeitos novamente na estrutura da atenção. A técnica temporal e de atenção multitasking (multitarefa) não representa nenhum progresso civilizatório. A multitarefa não é uma capacidade para a qual só seria capaz o homem na sociedade trabalhista e de informação pós-moderna. Trata-se antes de um retrocesso. A multitarefa está amplamente disseminada entre os animais em estado selvagem. Trata-se de uma técnica de atenção, indispensável para sobreviver na vida selvagem.\nUm animal ocupado no exercício da mastigação de sua comida tem de ocupar-se ao mesmo tempo com outras atividades. Deve cuidar para que, ao comer, ele próprio não acabe comido. Na vida selvagem, o animal está obrigado a dividir sua atenção em diversas atividades. Por isso, não é capaz de aprofundamento contemplativo nem para comer, nem no copular. O animal não pode mergulhar contemplativamente no que tem diante de si, pois tem de elaborar ao mesmo tempo o que tem atrás de si. Não apenas a multitarefa, mas também atividades como jogos de computador geram uma atenção ampla, mas rasa, que se assemelha à atenção de um animal selvagem. As mais recentes evoluções sociais e a mudança de estrutura da atenção aproximam cada vez mais a sociedade humana da vida selvagem.\n(Extraído e Adaptado de: HAN, Byung-Chul. Sociedade do cansaço. Petrópolis, RJ: Vozes, 2017. p. 31-32.)\nNo excerto O animal não pode mergulhar contemplativamente no que tem diante de si, pois tem de elaborar ao mesmo tempo o que tem atrás de si, é correto afirmar, a respeito das expressões grifadas, que no texto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ambas apresentam sentido metafórico."
+        },
+        {
+          "letra": "B",
+          "texto": "ambas funcionam como complemento verbal."
+        },
+        {
+          "letra": "C",
+          "texto": "a primeira funciona como complemento verbal e a segunda, como circunstância de lugar."
+        },
+        {
+          "letra": "D",
+          "texto": "a primeira exprime ação e a segunda, posse."
+        },
+        {
+          "letra": "E",
+          "texto": "na primeira o sentido é metafórico e na segunda, denotativo."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Sentido Figurado"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "O texto a seguir é referência para as questões 37 a 41.\nO tédio profundo\nO excesso de positividade se manifesta também como excesso de estímulos, informações e impulsos. Modifica radicalmente a estrutura e economia da atenção. Com isso se fragmenta e destrói a atenção. Também a crescente sobrecarga de trabalho torna necessária uma técnica específica relacionada ao tempo e à atenção, que tem efeitos novamente na estrutura da atenção. A técnica temporal e de atenção multitasking (multitarefa) não representa nenhum progresso civilizatório. A multitarefa não é uma capacidade para a qual só seria capaz o homem na sociedade trabalhista e de informação pós-moderna. Trata-se antes de um retrocesso. A multitarefa está amplamente disseminada entre os animais em estado selvagem. Trata-se de uma técnica de atenção, indispensável para sobreviver na vida selvagem.\nUm animal ocupado no exercício da mastigação de sua comida tem de ocupar-se ao mesmo tempo com outras atividades. Deve cuidar para que, ao comer, ele próprio não acabe comido. Na vida selvagem, o animal está obrigado a dividir sua atenção em diversas atividades. Por isso, não é capaz de aprofundamento contemplativo nem para comer, nem no copular. O animal não pode mergulhar contemplativamente no que tem diante de si, pois tem de elaborar ao mesmo tempo o que tem atrás de si. Não apenas a multitarefa, mas também atividades como jogos de computador geram uma atenção ampla, mas rasa, que se assemelha à atenção de um animal selvagem. As mais recentes evoluções sociais e a mudança de estrutura da atenção aproximam cada vez mais a sociedade humana da vida selvagem.\n(Extraído e Adaptado de: HAN, Byung-Chul. Sociedade do cansaço. Petrópolis, RJ: Vozes, 2017. p. 31-32.)\nPara a adequada interpretação do texto, é necessário identificar a que informações, apresentadas previamente, correspondem algumas expressões de sentido vago e empregadas pelo autor. Isso posto, considere as seguintes afirmativas:\n1. Na expressão “para que”, linha 9, “que” é pronome relativo cujo referente é “ele próprio”.\n2. O termo destacado na expressão “trata-se”, linha 6, refere-se a “técnica de atenção”.\n3. O termo grifado na expressão “que se assemelha”, linha 12, é marca de indeterminação.\n4. “Por isso”, linha 10, estabelece relação conclusiva com o período imediatamente anterior.\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente a afirmativa 4 é verdadeira."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas 1 e 4 são verdadeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas 2 e 3 são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas 1, 2 e 3 são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "As afirmativas 1, 2, 3 e 4 são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Coesão e Coerência",
+        "Língua Portuguesa – Elementos de Referenciação"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "O texto a seguir é referência para as questões 37 a 41.\nO tédio profundo\nO excesso de positividade se manifesta também como excesso de estímulos, informações e impulsos. Modifica radicalmente a estrutura e economia da atenção. Com isso se fragmenta e destrói a atenção. Também a crescente sobrecarga de trabalho torna necessária uma técnica específica relacionada ao tempo e à atenção, que tem efeitos novamente na estrutura da atenção. A técnica temporal e de atenção multitasking (multitarefa) não representa nenhum progresso civilizatório. A multitarefa não é uma capacidade para a qual só seria capaz o homem na sociedade trabalhista e de informação pós-moderna. Trata-se antes de um retrocesso. A multitarefa está amplamente disseminada entre os animais em estado selvagem. Trata-se de uma técnica de atenção, indispensável para sobreviver na vida selvagem.\nUm animal ocupado no exercício da mastigação de sua comida tem de ocupar-se ao mesmo tempo com outras atividades. Deve cuidar para que, ao comer, ele próprio não acabe comido. Na vida selvagem, o animal está obrigado a dividir sua atenção em diversas atividades. Por isso, não é capaz de aprofundamento contemplativo nem para comer, nem no copular. O animal não pode mergulhar contemplativamente no que tem diante de si, pois tem de elaborar ao mesmo tempo o que tem atrás de si. Não apenas a multitarefa, mas também atividades como jogos de computador geram uma atenção ampla, mas rasa, que se assemelha à atenção de um animal selvagem. As mais recentes evoluções sociais e a mudança de estrutura da atenção aproximam cada vez mais a sociedade humana da vida selvagem.\n(Extraído e Adaptado de: HAN, Byung-Chul. Sociedade do cansaço. Petrópolis, RJ: Vozes, 2017. p. 31-32.)\nAssinale a alternativa que recupera a tese central do texto de Byung-Chul Han.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A vida na sociedade pós-moderna é mais diversificada que a de épocas mais remotas e não apresentou progresso civilizatório."
+        },
+        {
+          "letra": "B",
+          "texto": "A sociedade humana, assim como a vida selvagem, exige a execução de multitarefas, por isso não desenvolve a contemplação."
+        },
+        {
+          "letra": "C",
+          "texto": "A estrutura da atenção humana em relação ao controle do tempo para execução de múltiplas tarefas foi redimensionada positivamente."
+        },
+        {
+          "letra": "D",
+          "texto": "A sobrecarga de tarefas demanda atenção específica e tempo dispendido diferenciado tanto para a vida selvagem quanto para a sociedade humana."
+        },
+        {
+          "letra": "E",
+          "texto": "As mudanças na estrutura de atenção humana, atualmente, ao invés de serem um ganho civilizatório apresentam um retorno ao comportamento animal."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Textos",
+        "Filosofia – Filosofia Contemporânea"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "O texto a seguir é referência para as questões 37 a 41.\nO tédio profundo\nO excesso de positividade se manifesta também como excesso de estímulos, informações e impulsos. Modifica radicalmente a estrutura e economia da atenção. Com isso se fragmenta e destrói a atenção. Também a crescente sobrecarga de trabalho torna necessária uma técnica específica relacionada ao tempo e à atenção, que tem efeitos novamente na estrutura da atenção. A técnica temporal e de atenção multitasking (multitarefa) não representa nenhum progresso civilizatório. A multitarefa não é uma capacidade para a qual só seria capaz o homem na sociedade trabalhista e de informação pós-moderna. Trata-se antes de um retrocesso. A multitarefa está amplamente disseminada entre os animais em estado selvagem. Trata-se de uma técnica de atenção, indispensável para sobreviver na vida selvagem.\nUm animal ocupado no exercício da mastigação de sua comida tem de ocupar-se ao mesmo tempo com outras atividades. Deve cuidar para que, ao comer, ele próprio não acabe comido. Na vida selvagem, o animal está obrigado a dividir sua atenção em diversas atividades. Por isso, não é capaz de aprofundamento contemplativo nem para comer, nem no copular. O animal não pode mergulhar contemplativamente no que tem diante de si, pois tem de elaborar ao mesmo tempo o que tem atrás de si. Não apenas a multitarefa, mas também atividades como jogos de computador geram uma atenção ampla, mas rasa, que se assemelha à atenção de um animal selvagem. As mais recentes evoluções sociais e a mudança de estrutura da atenção aproximam cada vez mais a sociedade humana da vida selvagem.\n(Extraído e Adaptado de: HAN, Byung-Chul. Sociedade do cansaço. Petrópolis, RJ: Vozes, 2017. p. 31-32.)\nConsidere as seguintes sequências extraídas do texto:\nO excesso de positividade se manifesta também como excesso de estímulos [...];\nA multitarefa está amplamente disseminada entre os animais em estado selvagem.\nAssinale a alternativa cujos termos podem substituir, respectivamente, os vocábulos grifados, na acepção que lhes confere o texto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "otimismo; difundida."
+        },
+        {
+          "letra": "B",
+          "texto": "firmeza; transmitida."
+        },
+        {
+          "letra": "C",
+          "texto": "expectativa; alastrada."
+        },
+        {
+          "letra": "D",
+          "texto": "confiança; revelada."
+        },
+        {
+          "letra": "E",
+          "texto": "positivismo; dissipada."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Vocabulário",
+        "Língua Portuguesa – Sinonímia"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Considere os seguintes versos da música \"O Quereres\", de Caetano Veloso:\nOnde queres revólver, sou coqueiro\nE onde queres dinheiro, sou paixão\nOnde queres descanso, sou desejo\nE onde sou só desejo, queres não\nE onde não queres nada, nada falta\nE onde voas bem alta, eu sou o chão\nE onde pisas o chão, minha alma salta\nE ganha liberdade na amplidão.\nAssinale a alternativa que aponta, respectivamente, o recurso estilístico empregado pelo compositor e o efeito de sentido pretendido.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "sinestesia, desejo de empatia com a posição do outro."
+        },
+        {
+          "letra": "B",
+          "texto": "antítese, constatação da diferença de opiniões."
+        },
+        {
+          "letra": "C",
+          "texto": "paradoxo, reforço das posições dos interlocutores."
+        },
+        {
+          "letra": "D",
+          "texto": "eufemismo, cuidado ao expor posições antagônicas."
+        },
+        {
+          "letra": "E",
+          "texto": "repetição, surpresa em relação às posições dos sujeitos envolvidos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem",
+        "Língua Portuguesa – Antítese"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Considere os versos da canção \"Laranja Madura\", de Ataulfo Alves:\n\"Laranja madura na beira da estrada\nTá bichada Zé ou tem marimbondo no pé\"\nAssinale, dentre as alternativas a seguir, aquela que traz o ditado popular cujo sentido se assemelha aos versos de Ataulfo Alves.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A cavalo dado não se olham os dentes."
+        },
+        {
+          "letra": "B",
+          "texto": "Quem ama o feio bonito lhe parece."
+        },
+        {
+          "letra": "C",
+          "texto": "Pimenta nos olhos dos outros é refresco."
+        },
+        {
+          "letra": "D",
+          "texto": "Um dia é da caça, outro, do caçador."
+        },
+        {
+          "letra": "E",
+          "texto": "Quando a esmola é demais, o santo desconfia."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Textos",
+        "Língua Portuguesa – Ditados Populares"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "O texto a seguir é referência para as questões 44 a 48.\nA fronteira tênue entre heróis e vilões\nO conceito de herói está profundamente ligado à cultura que o criou e a quando foi criado, o que significa que ele varia muito de lugar para lugar e de época para época. Mesmo assim, a figura do herói aparece nas mais diversas sociedades e eras, sempre atendendo a critérios morais e desejos em comum de determinado povo.\nApesar do protagonismo do herói, o que seria dele se não houvesse um vilão? Nas narrativas, o vilão costuma ser o antagonista. Os vilões representam aquilo que é errado, injusto, que foge à moral defendida pelo herói. Por não carregar o protagonismo das histórias, o vilão costuma ser um personagem sem profundidade, sem dilemas, sem uma história que nos explique o porquê de suas ações. E isso reforça sua vilania.\nConhecer a história de alguém é um processo humanizador, capaz até de revogar a alcunha de vilão e conferir ao personagem o título de herói, ou só de uma pessoa comum que tem seus defeitos e qualidades. Assim, uma maneira de fabricar vilões é não deixar suas histórias serem contadas, é criar uma imagem sobre esses personagens e mantê-los em silêncio.\n(MIRANDA, Lucas Mascarenhas de. A fronteiraênue entre heróis e vilões. Ciência hoje, Rio de Janeiro, 21 nov. 2021. Disponível em: https://cienciahoje.org.br/artigo/a-fronteira-tenue-entre-herois-e-viloes/. Adaptado.)\nObserve as seguintes afirmativas, relacionadas ao texto.\n1. Uma possível razão pela qual gostamos tanto de vilões é que os padrões morais de nossa sociedade são injustos e pouco profundos.\n2. Como a figura do herói e a figura do vilão representam características morais antagônicas, são figuras complementares em uma narrativa.\n3. O conceito de \"herói” é variável porque está intimamente relacionado à cultura do povo que o criou e ao momento histórico em que foi criado.\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente a afirmativa 1 é verdadeira."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente a afirmativa 2 é verdadeira."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas 1 e 3 são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas 2 e 3 são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "As afirmativas 1, 2 e 3 são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Textos"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "O texto a seguir é referência para as questões 44 a 48.\nA fronteira tênue entre heróis e vilões\nO conceito de herói está profundamente ligado à cultura que o criou e a quando foi criado, o que significa que ele varia muito de lugar para lugar e de época para época. Mesmo assim, a figura do herói aparece nas mais diversas sociedades e eras, sempre atendendo a critérios morais e desejos em comum de determinado povo.\nApesar do protagonismo do herói, o que seria dele se não houvesse um vilão? Nas narrativas, o vilão costuma ser o antagonista. Os vilões representam aquilo que é errado, injusto, que foge à moral defendida pelo herói. Por não carregar o protagonismo das histórias, o vilão costuma ser um personagem sem profundidade, sem dilemas, sem uma história que nos explique o porquê de suas ações. E isso reforça sua vilania.\nConhecer a história de alguém é um processo humanizador, capaz até de revogar a alcunha de vilão e conferir ao personagem o título de herói, ou só de uma pessoa comum que tem seus defeitos e qualidades. Assim, uma maneira de fabricar vilões é não deixar suas histórias serem contadas, é criar uma imagem sobre esses personagens e mantê-los em silêncio.\n(MIRANDA, Lucas Mascarenhas de. A fronteiraênue entre heróis e vilões. Ciência hoje, Rio de Janeiro, 21 nov. 2021. Disponível em: https://cienciahoje.org.br/artigo/a-fronteira-tenue-entre-herois-e-viloes/. Adaptado.)\nAssinale a alternativa que contém a afirmativa que resume adequadamente o argumento central do texto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os heróis são personagens protagonistas das narrativas porque refletem todas as características que os humanos gostariam de ter."
+        },
+        {
+          "letra": "B",
+          "texto": "Os vilões são personagens rasos porque representam seres humanos comuns, com defeitos condenáveis e qualidades que devem ser exaltadas."
+        },
+        {
+          "letra": "C",
+          "texto": "Humanizar um vilão faz com que ele se torne protagonista de uma narrativa e que as pessoas passem a gostar mais dele do que do herói."
+        },
+        {
+          "letra": "D",
+          "texto": "O silenciamento sobre a história de um indivíduo é estratégia eficaz para vilanizá-lo e é utilizado por narrativas que criam vilões na ficção e na realidade."
+        },
+        {
+          "letra": "E",
+          "texto": "A figura do herói aparece em narrativas produzidas por diferentes sociedades e em diferentes momentos históricos, por isso eles são protagonistas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Textos"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "O texto a seguir é referência para as questões 44 a 48.\nA fronteira tênue entre heróis e vilões\nO conceito de herói está profundamente ligado à cultura que o criou e a quando foi criado, o que significa que ele varia muito de lugar para lugar e de época para época. Mesmo assim, a figura do herói aparece nas mais diversas sociedades e eras, sempre atendendo a critérios morais e desejos em comum de determinado povo.\nApesar do protagonismo do herói, o que seria dele se não houvesse um vilão? Nas narrativas, o vilão costuma ser o antagonista. Os vilões representam aquilo que é errado, injusto, que foge à moral defendida pelo herói. Por não carregar o protagonismo das histórias, o vilão costuma ser um personagem sem profundidade, sem dilemas, sem uma história que nos explique o porquê de suas ações. E isso reforça sua vilania.\nConhecer a história de alguém é um processo humanizador, capaz até de revogar a alcunha de vilão e conferir ao personagem o título de herói, ou só de uma pessoa comum que tem seus defeitos e qualidades. Assim, uma maneira de fabricar vilões é não deixar suas histórias serem contadas, é criar uma imagem sobre esses personagens e mantê-los em silêncio.\n(MIRANDA, Lucas Mascarenhas de. A fronteiraênue entre heróis e vilões. Ciência hoje, Rio de Janeiro, 21 nov. 2021. Disponível em: https://cienciahoje.org.br/artigo/a-fronteira-tenue-entre-herois-e-viloes/. Adaptado.)\nOs termos sublinhados no texto - \"antagonista\", \"revogar\" e \"alcunha\" - podem ser respectivamente substituídos, sem prejuízo de sentido, por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "alinhado, invalidar, característica."
+        },
+        {
+          "letra": "B",
+          "texto": "opositor, anular, pecha."
+        },
+        {
+          "letra": "C",
+          "texto": "simpatizante, corroborar, designação."
+        },
+        {
+          "letra": "D",
+          "texto": "inimigo, invalidar, titulação."
+        },
+        {
+          "letra": "E",
+          "texto": "adversário, revisar, distinção."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Vocabulário",
+        "Língua Portuguesa – Sinonímia"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "O texto a seguir é referência para as questões 44 a 48.\nA fronteira tênue entre heróis e vilões\nO conceito de herói está profundamente ligado à cultura que o criou e a quando foi criado, o que significa que ele varia muito de lugar para lugar e de época para época. Mesmo assim, a figura do herói aparece nas mais diversas sociedades e eras, sempre atendendo a critérios morais e desejos em comum de determinado povo.\nApesar do protagonismo do herói, o que seria dele se não houvesse um vilão? Nas narrativas, o vilão costuma ser o antagonista. Os vilões representam aquilo que é errado, injusto, que foge à moral defendida pelo herói. Por não carregar o protagonismo das histórias, o vilão costuma ser um personagem sem profundidade, sem dilemas, sem uma história que nos explique o porquê de suas ações. E isso reforça sua vilania.\nConhecer a história de alguém é um processo humanizador, capaz até de revogar a alcunha de vilão e conferir ao personagem o título de herói, ou só de uma pessoa comum que tem seus defeitos e qualidades. Assim, uma maneira de fabricar vilões é não deixar suas histórias serem contadas, é criar uma imagem sobre esses personagens e mantê-los em silêncio.\n(MIRANDA, Lucas Mascarenhas de. A fronteiraênue entre heróis e vilões. Ciência hoje, Rio de Janeiro, 21 nov. 2021. Disponível em: https://cienciahoje.org.br/artigo/a-fronteira-tenue-entre-herois-e-viloes/. Adaptado.)\nAssinale a alternativa que contém os elementos a que apontam, respectivamente, os termos \"ele\", \"seus\" e \"suas\", destacados no texto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "conceito de herói, pessoa comum, qualidades."
+        },
+        {
+          "letra": "B",
+          "texto": "herói, personagem, maneira."
+        },
+        {
+          "letra": "C",
+          "texto": "conceito de herói, pessoa comum, vilões."
+        },
+        {
+          "letra": "D",
+          "texto": "herói, personagem, vilões."
+        },
+        {
+          "letra": "E",
+          "texto": "conceito de herói, personagem, maneira."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Coesão e Coerência",
+        "Língua Portuguesa – Pronomes"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "O texto a seguir é referência para as questões 44 a 48.\nA fronteira tênue entre heróis e vilões\nO conceito de herói está profundamente ligado à cultura que o criou e a quando foi criado, o que significa que ele varia muito de lugar para lugar e de época para época. Mesmo assim, a figura do herói aparece nas mais diversas sociedades e eras, sempre atendendo a critérios morais e desejos em comum de determinado povo.\nApesar do protagonismo do herói, o que seria dele se não houvesse um vilão? Nas narrativas, o vilão costuma ser o antagonista. Os vilões representam aquilo que é errado, injusto, que foge à moral defendida pelo herói. Por não carregar o protagonismo das histórias, o vilão costuma ser um personagem sem profundidade, sem dilemas, sem uma história que nos explique o porquê de suas ações. E isso reforça sua vilania.\nConhecer a história de alguém é um processo humanizador, capaz até de revogar a alcunha de vilão e conferir ao personagem o título de herói, ou só de uma pessoa comum que tem seus defeitos e qualidades. Assim, uma maneira de fabricar vilões é não deixar suas histórias serem contadas, é criar uma imagem sobre esses personagens e mantê-los em silêncio.\n(MIRANDA, Lucas Mascarenhas de. A fronteiraênue entre heróis e vilões. Ciência hoje, Rio de Janeiro, 21 nov. 2021. Disponível em: https://cienciahoje.org.br/artigo/a-fronteira-tenue-entre-herois-e-viloes/. Adaptado.)\nConsidere o primeiro parágrafo do texto:\nO conceito de herói está profundamente ligado à cultura que o criou e a quando foi criado, o que significa que ele varia muito de lugar para lugar e de época para época. Mesmo assim, a figura do herói aparece nas mais diversas sociedades e eras, sempre atendendo a critérios morais e desejos em comum de determinado povo.\nAssinale, dentre as alternativas abaixo, aquela que caracteriza a relação semântica que a conjunção sublinhada estabelece entre as orações conectadas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Consequência."
+        },
+        {
+          "letra": "B",
+          "texto": "Oposição."
+        },
+        {
+          "letra": "C",
+          "texto": "Igualdade."
+        },
+        {
+          "letra": "D",
+          "texto": "Finalidade."
+        },
+        {
+          "letra": "E",
+          "texto": "Comparação."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Conjunções",
+        "Língua Portuguesa – Relações Semânticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "O livro Últimos Cantos, de Gonçalves Dias, reúne poemas de gêneros e temáticas variados. Há elegia, idílio, poema épico, lírico, de temática nacionalista, indianista, amorosa, etc. Em cada alternativa abaixo, há uma estrofe de um poema desse livro; entre parênteses está o título do poema. Citam-se estrofes de poemas narrativos e apenas uma estrofe de poema não narrativo. Assinale a alternativa que contém uma estrofe não narrativa.\n(DIAS, Gonçalves. Poesia e prosa completas. Rio de Janeiro: Nova Aguilar, 1998.)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Eu sob a copa da mangueira altiva/ Nosso leito gentil cobri zelosa/ Com mimoso tapiz de folhas brandas,/ Onde o frouxo luar brinca entre flores.\" (Leito de Folhas Verdes)."
+        },
+        {
+          "letra": "B",
+          "texto": "\"Meu pai a meu lado/ Já cego e quebrado,/ De penas ralado,/ Firmava-se em mi:/ Nós ambos, mesquinhos,/ Por ínvios caminhos,/ Cobertos d'espinhos/ Chegamos aqui!\" (I-Juca-Pirama)."
+        },
+        {
+          "letra": "C",
+          "texto": "\"Vem meu amigo, dizia/ A bela fada engraçada,/ Pulsando a harpa dourada:/ Sou boa, não faço mal,/ Vem ver meus belos palácios,/ Meus domínios dilatados,/ Meus tesouros encantados/ No meu reino de cristal.” (A Mãe d'Água)."
+        },
+        {
+          "letra": "D",
+          "texto": "\"Para as serras do Gerez/ Toca a rês,/ Toca a rês, gentil pastora;/ Lá te aguarda o bom pastor,/ Teu amor,/ Que te chama encantadora.\" (A pastora)."
+        },
+        {
+          "letra": "E",
+          "texto": "\"Beijos que são? Ai do peito,/ Selo breve, laço estreito/ Dum cansado bem querer;/ Saibo de gozos divinos,/ Que nos lábios femininos/ Quis Deus bondoso verter.\" (Os beijos)."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Romantismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Assinale a alternativa que reúne informações corretas a respeito do enredo e de personagens do romance Casa de Pensão (1884), de Aluísio Azevedo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Hortênsia adoeceu gravemente quando Amâncio, seu noivo, viajou do Maranhão para o Rio de Janeiro; a doença motivou sua aproximação do médico com quem ela acabou se casando."
+        },
+        {
+          "letra": "B",
+          "texto": "Amélia, irmã de João Coqueiros, era desprezada pelos hóspedes da casa de pensão, mas passou a ser tratada com respeito quando revelou conhecer seus segredos, dentre eles o caso amoroso entre Amâncio e uma mulher casada."
+        },
+        {
+          "letra": "C",
+          "texto": "Nini, filha de madame Brizard, tornou-se histérica depois da morte de seu filho; durante crises nervosas, ela comete atos inesperados, como quando agarrou Amâncio no corredor da casa de pensão."
+        },
+        {
+          "letra": "D",
+          "texto": "Lúcia, esposa do banqueiro Campos, passou a morar na casa de pensão depois da falência do marido; lá ela se envolveu com Amâncio, com quem tinha planos de fugir depois que o amante recebesse a herança do pai."
+        },
+        {
+          "letra": "E",
+          "texto": "Ângela, tendo ficado sozinha depois da morte do marido, mudou-se para o Rio de Janeiro por insistência do filho, Amâncio, mas isso provocou a saída dele da casa de pensão e o rompimento de planos amorosos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Naturalismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Assinale a alternativa correta a respeito de Morte e vida severina, de João Cabral de Melo Neto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Severino constata a presença reiterada da morte em seu percurso e afirma: \"só a morte deparei / e às vezes até festiva\"; a festa a que ele se refere comemorava o Dia de Finados, também conhecido como Dia dos Mortos."
+        },
+        {
+          "letra": "B",
+          "texto": "Chegando à Zona da Mata, Severino se anima ao perceber que os rios que correm naquela região não se interrompem, o que torna a terra mais fértil, porém em seguida ele se depara com mais um enterro."
+        },
+        {
+          "letra": "C",
+          "texto": "Após escutar uma conversa entre dois coveiros que trabalham em cemitérios de Recife, Severino compreende que só a morte pode igualar as pessoas, pois, a partir do momento em que os corpos são enterrados, as diferenças sociais deixam de existir."
+        },
+        {
+          "letra": "D",
+          "texto": "O auto se encerra com uma fala em que, antevendo que seu filho recém-nascido teria uma vida tão difícil quanto a do retirante que ele conhecera um pouco antes, Seu José pergunta se não seria melhor para Severino desistir de viver."
+        },
+        {
+          "letra": "E",
+          "texto": "As referências ao tamanho pequeno das covas nos cemitérios do interior, como por exemplo em \"Esta cova em que estás / com palmos medida\", relacionam-se ao tamanho dos próprios versos de Morte e vida severina, que têm sempre a mesma medida."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Modernismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Considere o seguinte texto:\nAs vezes mudam algumas famílias para a favela, com crianças. No inicio são iducadas, amaveis. Dias depois usam o calão, são soezes e repugnantes. São diamantes que transformam em chumbo. Transformam-se em objetos que estavam na sala de visita e foram para o quarto de despejo.\n(JESUS, Carolina Maria de. Quarto de despejo: diário de uma favelada. São Paulo: Ática, 2014. p. 38.)\nA respeito de Quarto de despejo: diário de uma favelada, de Carolina Maria de Jesus, considere as seguintes afirmativas:\n1. Carolina acredita que a vida na favela é perniciosa para a formação das crianças, porém, como ali não chegam informações relevantes sobre a vida pública, ela é incapaz de emitir opiniões políticas ou de se revoltar.\n2. João, José Carlos e Vera tendem a se \"transformar em chumbo\" porque, ao priorizar a escrita e divulgação de seu diário, Carolina muitas vezes descuida das atividades domésticas e da atenção aos próprios filhos.\n3. A metáfora \"quarto de despejo\" é repetida em várias passagens do diário para significar a exclusão, o não pertencimento a espaços em que a dignidade da vida humana estivesse garantida.\n4. Palavras escritas sem obediência à norma padrão aparecem com frequência, porém os raciocínios que a autora elabora são complexos e o cotidiano é muitas vezes descrito com lirismo.\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente a afirmativa 2 é verdadeira."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmativas 1 e 3 são verdadeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmativas 3 e 4 são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmativas 1, 2 e 4 são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "As afirmativas 1, 2, 3 e 4 são verdadeiras."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Literatura Contemporânea"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Considere, a seguir, dois trechos de Sagarana, de João Guimarães Rosa, extraídos de \"Corpo fechado\" e \"A hora e vez de Augusto Matraga\", respectivamente.\nE, quando espiei outra vez, vi exato: Targino, fixo, como um manequim, e Manuel Fulô pulando nele e o esfaqueando, pela altura do peito tudo com rara elegância e suma precisão. Targino girou na perna esquerda ceifando o ar com a direita; capotou; e desviveu, num átimo. Seu rosto guardou um ar de temor salutar.\nConheceu, diabo, o que é raça de Peixoto?!\n(ROSA, João Guimarães. Corpo fechado. In: _____. Sagarana. Ficção completa. Rio de Janeiro: Nova Aguilar, 1994. p. 400. v. 1.)\nMas Nhô Augusto tinha o rosto radiante, e falou:\n– Perguntem quem é que aí algum dia ouviu falar no nome de Nhô Augusto Esteves, das Pindaíbas?\n– Virgem Santa! Eu logo vi que só podia ser você, meu primo Nhô Augusto...\nEra o João Lomba, conhecido velho e meio parente. Nhô Augusto riu:\n– E hein, hein João?!\n– P' ra ver...\nEntão Augusto Matraga fechou um pouco os olhos, com sorriso intenso nos lábios lambuzados de sangue, e de seu rosto subia um sério contentamento.\nDaí mais, olhou, procurando João Lomba, e disse, agora sussurrando, sumido:\n– Põe a benção na minha filha...seja lá onde for que ela esteja...E, Dionora... Fala com a Dionora que está tudo em ordem!\nDepois morreu.\n(ROSA, João Guimarães. A hora e a vez de Augusto Matraga. In: _____. Sagarana. Ficção completa. Rio de Janeiro: Nova Aguilar, 1994. p. 462. v. 1.)\nCom base nas informações apresentadas e na obra completa, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Jureminho mata Matraga motivado pela disputa interna que travavam para conquistar a liderança do bando de jagunços, após a morte do antigo chefe, Seu Joãozinho Bem-Bem."
+        },
+        {
+          "letra": "B",
+          "texto": "O fazendeiro Joãozinho Bem-Bem contratou Manuel Fulô, famoso jagunço da localidade, para assassinar Targino, por causa de uma disputa de terras que havia entre os dois."
+        },
+        {
+          "letra": "C",
+          "texto": "Matraga repete o seu lema \"todo mundo tem sua hora e sua vez\", fazendo alusão ao dia em que faria seu acerto de contas com João Lomba, que lhe havia roubado a mulher, Dona Dionora."
+        },
+        {
+          "letra": "D",
+          "texto": "Targino, mesmo com o corpo fechado por seu grupo de ciganos, não consegue se livrar da morte no duelo com Manuel Fulô, provocado pela disputa da égua Beija-Fulô."
+        },
+        {
+          "letra": "E",
+          "texto": "A morte de Matraga é o desfecho de um combate que resulta em morte dupla, sinalizando a redenção que Nhô Augusto prenuncia quando diz “P'ra o céu eu vou, nem que seja a porrete!...\"."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Modernismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Leia o poema a seguir.\nTenho quebrado copos\nTenho quebrado copos\né o que tenho feito\nraramente me machuco embora uma vez sim\numa vez quebrei um copo com as mãos\nera frágil demais foi o que pensei\nera feito para quebrar-se foi o que pensei\ne não: eu fui feita para quebrar\nem geral eles apenas se espatifam\nna pia entre a louça branca e os talheres\n(esses não quebram nunca) ou no chão\nespalhando-se então com um baque luminoso\ntenho recolhido cacos\ntenho observado brevemente seu formato\npensando que acontecer é irreversível\npensando em como é fácil destroçar\ntenho embrulhado os cacos com jornal\npara que ninguém se machuque\ncomo minha mãe me ensinou\ncomo se fosse mesmo possível\nevitar os cortes\n(mas que não seja eu a ferir)\ntenho andado a tentar\nnão me ferir e não ferir os outros\nenquanto esgoto o estoque de copos\nmas não tenho quebrado minhas próprias mãos\ngolpeando os azulejos\nnão tenho passado a noite\ndeitada no chão de mármore\nestudando as trocas de calor\nnão tenho mastigado o vidro\nprocurando separar na boca\no sabor do sangue o sabor do sabão\nnem tenho feito uma oração\npelo destino variado\ndo que antes era um\ne por minha força morre múltiplo\ntenho quebrado copos\npara isso parece deram-me mãos\ntenho depois encontrado\ncacos que não recolhi\ne que identifico por um brilho súbito\nno chão da cozinha de manhã\ntenho andado com cuidado\ncom os olhos no chão\nà procura de algo que brilhe\ne tenho quebrado copos\né o que tenho feito\n(MARQUES, Ana Martins. O livro das semelhanças. São Paulo. Companhia das Letras, 2015. p. 101-102.)\nConsiderando esse poema e a integralidade da obra de que foi retirado, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O poema apresenta eventos sobrenaturais, envolvendo objetos raros e incomuns."
+        },
+        {
+          "letra": "B",
+          "texto": "O verbo \"quebrar\", quando se refere ao eu do poema, é empregado em sentido figurado."
+        },
+        {
+          "letra": "C",
+          "texto": "O poema usa parênteses em dois versos, sendo que no primeiro a expressão retomada é a pia da cozinha."
+        },
+        {
+          "letra": "D",
+          "texto": "O texto afirma que os copos são mastigados à noite e deixam na boca um gosto de sabão misturado ao de sangue."
+        },
+        {
+          "letra": "E",
+          "texto": "Os cacos de copo são deixados no chão de mármore, onde é costume se deitar à noite."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Poesia Contemporânea"
+      ]
+    },
+    {
+      "numeroEnunciado": 83,
+      "enunciado": "According to the text, it is correct to say that the skull both men found as they were hunting turkeys was of:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a predator that used to live in that region thousands of years ago."
+        },
+        {
+          "letra": "B",
+          "texto": "a type of animal that moves slowly."
+        },
+        {
+          "letra": "C",
+          "texto": "a huge fish that lives in rivers and in the ocean."
+        },
+        {
+          "letra": "D",
+          "texto": "a farm animal that is used to produce meat and milk."
+        },
+        {
+          "letra": "E",
+          "texto": "a prehistoric shark that used attack people."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de Textos"
+      ]
+    },
+    {
+      "numeroEnunciado": 84,
+      "enunciado": "These are expressions, in the text, that make reference to \"turkey\", EXCEPT:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "wild birds."
+        },
+        {
+          "letra": "B",
+          "texto": "toms."
+        },
+        {
+          "letra": "C",
+          "texto": "bird."
+        },
+        {
+          "letra": "D",
+          "texto": "gobbler."
+        },
+        {
+          "letra": "E",
+          "texto": "blob."
+        }
+      ],
+      "opcaoCorreta": null,
+      "conteudo": [
+        "Inglês – Vocabulário",
+        "Inglês – Questão Anulada"
+      ]
+    },
+    {
+      "numeroEnunciado": 85,
+      "enunciado": "According to the text, it is correct to say that:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Adkins and his father-in-law had been hunting turkeys before."
+        },
+        {
+          "letra": "B",
+          "texto": "Adkins decided to go turkey hunting during the morning because the region was dry and it was sunny."
+        },
+        {
+          "letra": "C",
+          "texto": "Both Adkins and Hager were from West Virginia."
+        },
+        {
+          "letra": "D",
+          "texto": "As both men finished hunting, they went home and Adkin's wife realized the relic was a sloth skull."
+        },
+        {
+          "letra": "E",
+          "texto": "After Adkins found the ancient skull, he has been interviewed by different magazines and newspapers."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Textos"
+      ]
+    },
+    {
+      "numeroEnunciado": 86,
+      "enunciado": "'I survived two sandstorms and nearly ran out of water in the Sahara Desert,' says man who biked from London to Lagos\nKunle Adeyanju is a self-confessed daredevil who has climbed Mount Kilimanjaro twice and cycled from Lagos to Accra over three days.\nBut it is his latest adventure that is creating a buzz after he successfully completed a motorcycle ride from London to Lagos.\nThe journey took 41 days as he traveled 13,000 kilometers (8,080 miles) through 11 countries and 31 cities.\nAdeyanju embarked on the trip partly to raise money for polio, in conjunction with the Rotary Club of Ikoyi Metro, Nigeria, where he is president-elect. He says he chose the cause because of a childhood friend who suffered from the debilitating illness.\n\"Polio is a personal thing for me... as a boy, my best friend had polio and when we go swimming or play football, he could do none of those things. Sadly, my friend passed away some years back. If he hadn't had polio, he probably will still be alive today.\"\n(Available in: https://edition.cnn.com/travel/article/kunle-adeyanju-london-to-lagos-lgs-cmd-intl/index.html.)\nAccording to the text, it is correct to say that Kunle Adeyanju:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "is someone who does dangerous things and does not worry about the risk."
+        },
+        {
+          "letra": "B",
+          "texto": "is a person who likes to explore different places but he does not expose himself to peril."
+        },
+        {
+          "letra": "C",
+          "texto": "does not want to come back to the Sahara Desert because there is no water available there."
+        },
+        {
+          "letra": "D",
+          "texto": "had to face strong winds as he travelled from Lagos to Accra."
+        },
+        {
+          "letra": "E",
+          "texto": "has become part of a political party in Nigeria."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Textos"
+      ]
+    },
+    {
+      "numeroEnunciado": 87,
+      "enunciado": "'I survived two sandstorms and nearly ran out of water in the Sahara Desert,' says man who biked from London to Lagos\nKunle Adeyanju is a self-confessed daredevil who has climbed Mount Kilimanjaro twice and cycled from Lagos to Accra over three days.\nBut it is his latest adventure that is creating a buzz after he successfully completed a motorcycle ride from London to Lagos.\nThe journey took 41 days as he traveled 13,000 kilometers (8,080 miles) through 11 countries and 31 cities.\nAdeyanju embarked on the trip partly to raise money for polio, in conjunction with the Rotary Club of Ikoyi Metro, Nigeria, where he is president-elect. He says he chose the cause because of a childhood friend who suffered from the debilitating illness.\n\"Polio is a personal thing for me... as a boy, my best friend had polio and when we go swimming or play football, he could do none of those things. Sadly, my friend passed away some years back. If he hadn't had polio, he probably will still be alive today.\"\n(Available in: https://edition.cnn.com/travel/article/kunle-adeyanju-london-to-lagos-lgs-cmd-intl/index.html.)\nAccording to the text, Kunle Adeyanju took the journey from London to Lagos in order to:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "help a close friend who is unable to swim or play football."
+        },
+        {
+          "letra": "B",
+          "texto": "spread the idea that polio can be eradicated in the near future."
+        },
+        {
+          "letra": "C",
+          "texto": "gather together some cash to help prevent people from having polio."
+        },
+        {
+          "letra": "D",
+          "texto": "make his presidential campaign widely known in different countries of the world."
+        },
+        {
+          "letra": "E",
+          "texto": "talk to people who are suffering from chronic diseases."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Textos"
+      ]
+    },
+    {
+      "numeroEnunciado": 88,
+      "enunciado": "Consider the following text:\n(CNN) Researchers at Yale University say they have been able to restore blood circulation and other cellular functions in pigs a full hour after the animals' deaths, suggesting that cells don't die as quickly as scientists had assumed.\nWith more research, the cutting-edge technique could someday potentially help preserve human organs for longer, allowing more people to receive transplants.\nThe researchers used a system they developed called OrganEx, which enables oxygen to be recirculated throughout a dead pig's body, preserving cells and some organs after a cardiac arrest.\n(Available in: https://edition.cnn.com/2022/08/03/health/dead-pigs-restore-cellular-function-scn/index.html.)\nMark the alternative that presents an adequate title for the excerpt:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A study in human beings shocks scientists"
+        },
+        {
+          "letra": "B",
+          "texto": "The avant-garde method in heart attack prediction"
+        },
+        {
+          "letra": "C",
+          "texto": "Transplants in pigs"
+        },
+        {
+          "letra": "D",
+          "texto": "Degradation of important neural functions"
+        },
+        {
+          "letra": "E",
+          "texto": "Research in pigs shakes up what we know about dying"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Interpretação de Textos"
+      ]
+    },
+    {
+      "numeroEnunciado": 89,
+      "enunciado": "The following excerpt refers to questions 89 and 90.\nNineties fashion was hard to pin down. A clash of trends screamed for our attention while others were so quietly cool they're still sartorial staples in our collective wardrobes: slip dresses, Doc Martens, chokers, crop tops.\nWhile the 1980s were all about volume - padded shoulders, puffed jackets, big hair and an obsession with designer wear - style in the early 1990s was decidedly low maintenance.\n(Available in: https://edition.cnn.com/style/article/1990s-fashion-history/index.html.)\nIn the first line of the excerpt, the underlined and in bold type expression can be substituted without losing its meaning by:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "replace."
+        },
+        {
+          "letra": "B",
+          "texto": "attack."
+        },
+        {
+          "letra": "C",
+          "texto": "define clearly."
+        },
+        {
+          "letra": "D",
+          "texto": "acclaim."
+        },
+        {
+          "letra": "E",
+          "texto": "assimilate."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 90,
+      "enunciado": "The following excerpt refers to questions 89 and 90.\nNineties fashion was hard to pin down. A clash of trends screamed for our attention while others were so quietly cool they're still sartorial staples in our collective wardrobes: slip dresses, Doc Martens, chokers, crop tops.\nWhile the 1980s were all about volume - padded shoulders, puffed jackets, big hair and an obsession with designer wear - style in the early 1990s was decidedly low maintenance.\n(Available in: https://edition.cnn.com/style/article/1990s-fashion-history/index.html.)\nThe excerpt presents:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "The exquisite taste for fashionable and expensive clothes in the 1990s."
+        },
+        {
+          "letra": "B",
+          "texto": "Different earrings girls wore in the nineties."
+        },
+        {
+          "letra": "C",
+          "texto": "Boots people used to wear in the eighties."
+        },
+        {
+          "letra": "D",
+          "texto": "Some similarities between fashion in the 1980s and 1990s."
+        },
+        {
+          "letra": "E",
+          "texto": "Some examples of basic and important tailored clothes in the 1990s."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Interpretação de Textos"
+      ]
+    }
+  ]
+}

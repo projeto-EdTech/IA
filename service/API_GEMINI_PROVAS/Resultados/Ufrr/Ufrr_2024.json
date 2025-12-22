@@ -1,0 +1,2169 @@
+{
+  "nomeUniversidade": "Universidade Federal de Roraima",
+  "siglaUniversidade": "UFRR",
+  "nomeProva": "Vestibular 2024 - Prova Integral",
+  "ano": 2024,
+  "qtdeQuestoes": 72,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "TEXTO I\n\n– Ufa, que treino puxado – comentou Mara.\n– Mas foi muito bom.\n– E, durante a partida, já deu para perceber quem joga melhor em cada posição – analisou Joca.\n– Sim, mas no nosso time a gente decide todo mundo junto – disse Dani.\n– Claro.\n– Democracia é assim mesmo – comentou Beto.\n– Democracia? – questionou Rico\n– É.\n– Grande coisa, votar e ser votado.\n– Não, Rico, democracia é muito mais que votar e ser votado – contrapôs Joca.\n– É, -cracia significa poder – explicou Dani.\n– Só se for poder do Demo mesmo – comentou Rico.\n– Nada disso. Demo quer dizer povo. Democracia é o povo no poder.\n– Afinal, todo poder emana do povo, e deve ser exercido para ele e por ele, em nome do bem comum. Pelo menos, foi assim que eu aprendi na escola – filosofou Beto.\n\nPIMENTEL, Aldenor. O jogo da democracia. RJ: Oficina Raquel, 2021.\n\nAnalisando a palavra Democracia, a partir do processo de formação de palavras, ela é um exemplo de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Derivação sufixal por utilizar o sufixo “cracia\" junto ao radical \"demo\"."
+        },
+        {
+          "letra": "B",
+          "texto": "Composição por aglutinação por formar uma palavra com mais de um radical: demo+cracia."
+        },
+        {
+          "letra": "C",
+          "texto": "Derivação prefixal por utilizar o prefixo \"demo\" junto ao radical \"cracia\"."
+        },
+        {
+          "letra": "D",
+          "texto": "Composição por justaposição por formar uma palavra com mais de um radical: demo+cracia."
+        },
+        {
+          "letra": "E",
+          "texto": "Hibridismo por formar uma palavra com mais de um radical: demo+cracia."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia / Processos de Formação de Palavras"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "TEXTO II\n\nTriste Bahia (Gregório de Mattos)\n\nTriste Bahia! Ó quão dessemelhante\nEstás e estou do nosso antigo estado!\nPobre te vejo a ti, tu a mi empenhado,\nRica te vi eu já, tu a mi abundante.\n\nA ti trocou-te a máquina mercante,\nQue em tua larga barra tem entrado,\nA mim foi-me trocando, e tem trocado,\nTanto negócio e tanto negociante.\n\nDeste em dar tanto açúcar excelente\nPelas drogas inúteis, que abelhuda\nSimples aceitas do sagaz Brichote.\n\nOh se quisera Deus que de repente\nUm dia amanheceras tão sisuda\nQue fora de algodão o teu capote!\n\nExtraído de \"História concisa da Literatura Brasileira\", de Alfredo Bosi, Editora Cultrix, 1994, SP.\n\nA respeito do poema de Gregório de Matos, podemos afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O poema é representante da estética árcade por abordar as mazelas sociais apontadas pelos heróis da inconfidência."
+        },
+        {
+          "letra": "B",
+          "texto": "O poema é um soneto do estilo Clássico e retrata a Bahia e suas sociais desde a fundação do Brasil colônia."
+        },
+        {
+          "letra": "C",
+          "texto": "A máquina mercante citada no poema aponta para o sistema mercantilista desde os tempos da terra brasilis."
+        },
+        {
+          "letra": "D",
+          "texto": "O poema se insere na estética barroca, e revela problemas econômicos da Bahia em relação à cana de açúcar."
+        },
+        {
+          "letra": "E",
+          "texto": "A máquina mercante é fruto da política colonialista trazida pelos portugueses, o poema barroco retrata a Bahia do século XVIII."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira / Barroco"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Observando as regras da acentuação gráfica, marque a opção que segue a mesma lógica de acentuação da seguinte sequência de palavras: árbitro, lá, pênalti, vôlei, também, à noite.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "automático, é, lâmpada, trégua, café, água."
+        },
+        {
+          "letra": "B",
+          "texto": "pórtico, né, epígrafe, régua, reféns, às vezes."
+        },
+        {
+          "letra": "C",
+          "texto": "lâmpada, pó, nível, parabéns, à toa."
+        },
+        {
+          "letra": "D",
+          "texto": "árvore, pé, fórum, café, refém, às pressas."
+        },
+        {
+          "letra": "E",
+          "texto": "catástrofe, fubá, cânfora, você, parabéns, à moda."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Ortografia / Acentuação Gráfica"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "TEXTO III\n\nÉ pedra, é plástico, por Plínio Lopes\n\nLocalizada a mil km da costa de Vitória, no Espírito Santo, a Ilha da Trindade abrigou a pesquisadora e geóloga Fernanda Avelar Santos, de 30 anos, durante setenta dias em 2019. Ela escolheu esse local para conduzir uma pesquisa, que será usada em sua tese de doutorado, sobre o impacto de processos geológicos no meio ambiente e na vida humana. Diariamente, aproveitando a beleza daquela ilha isolada no meio do Atlântico, Santos interrompia o trabalho acadêmico para passear nas praias desertas e contemplar o mar.\nEla não demorou muito tempo para estranhar a quantidade de lixo que se acumulava nas areias e nas pedras. Trindade é o território oceânico mais remoto do Brasil. A ilha é ocupada por não mais do que quarenta pessoas, na maioria militares e pesquisadores que descartam corretamente o lixo que produzem. A sujeira, portanto, só poderia vir do mar.\nInstigada, Santos passou a olhar com mais atenção para o lixo que aparecia na orla. Certo dia, em uma de suas caminhadas, se deparou com um afloramento de aproximadamente 12 m² que cobria a superfície de várias rochas numa área conhecida como Parcel das Tartarugas, próxima aos ninhos de tartarugas-verde e de recifes. Ela sacou seu martelo e bateu numa das pedras até tirar uma amostra daquilo que, segundo ela, parecia um conglomerado – um tipo de rocha sedimentar comum em praias do mundo todo. A diferença é que essa tinha uma coloração verde. “Será que é plástico?”, ela se perguntou.\nComo estava sem internet na ilha - cortesia de um corte de gastos do governo federal no programa que leva conectividade a locais remotos –, Santos teve de esperar chegar ao continente para descobrir. Levou a amostra de rocha até a Universidade Federal do Paraná (UFPR), onde cursa o doutorado, e, após submetê-la à análise dos laboratórios de geologia e de química, confirmou: aquelas pedras eram realmente formadas por plástico. (...)\n\nAdaptado da Revista Piauí. Disponível em https://piaui.folha.uol.com.br/e-pedra-e-plastico/, acessado em 12/09/23\n\nO Texto III faz parte da atividade jornalística e é denominando como reportagem. Esse gênero discursivo tem a característica de informar, expor fatos, e convencer o leitor da veracidade da informação. Sobre o texto é CORRETO dizer:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "por ser do gênero reportagem a sequência textual predominante é a expositiva, porque expõe fatos do dia a dia da pesquisadora."
+        },
+        {
+          "letra": "B",
+          "texto": "possui preponderância da sequência textual descritiva ao apresentar propriedades e qualidades situacionais, como em \"um tipo de rocha sedimentar comum em praias do mundo todo\"."
+        },
+        {
+          "letra": "C",
+          "texto": "usa ilustrações reais para apresentar as suas ideias e defender um posicionamento ideológico, prevalecendo sequências textuais argumentativas."
+        },
+        {
+          "letra": "D",
+          "texto": "mistura sequências expositivas, descritivas e argumentativas por fazer uso do relato da pesquisadora, de exemplos da pesquisa e da exposição dos fatos descobertos."
+        },
+        {
+          "letra": "E",
+          "texto": "apesar de ser um texto informativo, ele possui predominância de sequências textuais narrativas, pois é formado pela sucessão de eventos e pela primazia do discurso relatado."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto / Gêneros Textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Analise as afirmativas abaixo referentes ao Texto III e marque a opção CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "na frase \"A sujeira, portanto, só poderia vir do mar\" o termo só pertence à classe gramatical adjetivo, posto que se vincula à sujeira que é substantivo."
+        },
+        {
+          "letra": "B",
+          "texto": "a descrição sobre o lixo, nas primeiras frases do 2º e 3º parágrafos, indica periodicidade tanto pelo verbo acumular quanto por aparecer, posto que os dois verbos estão no pretérito imperfeito do indicativo."
+        },
+        {
+          "letra": "C",
+          "texto": "na 1ª frase do 2º parágrafo, o termo ela é um caso de coesão por reiteração do referente da frase anterior, no caso Santos, por ser um pronome do caso reto."
+        },
+        {
+          "letra": "D",
+          "texto": "o sentido de hipótese do verbo poderia da frase \"A sujeira, portanto, só poderia vir do mar.\" é posto porque esse verbo está no futuro do subjuntivo."
+        },
+        {
+          "letra": "E",
+          "texto": "o termo portanto, da última frase do 2º parágrafo, pode ser movimentado na oração em diversas posições, pois é considerado um termo acessório por ser um advérbio de circunstância."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Morfossintaxe / Análise Sintática"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "A peça Auto da Compadecida, de Ariano Suassuna, foi escrita em 1955 e tornou-se uma das peças mais conhecidas e lidas do Brasil. Sobre ela é INCORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "são características da tradição artística nordestina, de influência ibérica e medieval, o nome Auto e a presença de alguns personagens no desenrolar da história, como a Compadecida, que opera o milagre do terceiro ato."
+        },
+        {
+          "letra": "B",
+          "texto": "é possível encontrar histórias e personagens do cordel, do teatro e da tradição nordestina famosos em outras obras populares, como o cachorro enterrado em latim."
+        },
+        {
+          "letra": "C",
+          "texto": "o primeiro ato versa sobre o enterro do cachorro e critica a corrupção eclesiástica, representada por diferentes personagens da hierarquia católica, ao buscar seus próprios interesses por dinheiro."
+        },
+        {
+          "letra": "D",
+          "texto": "o Palhaço atua como um narrador dos eventos e ao mesmo tempo interlocutor do público, mas, além disso, como um cantador popular nordestino, como demonstra a sua última fala."
+        },
+        {
+          "letra": "E",
+          "texto": "o último ato é formado pelo juízo divino e pela intercessão da Compadecida, que consegue salvar a todos com três destinos diferentes: o céu, o purgatório e a volta à vida."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira / Modernismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "TEXT IV\n\nPronominais\n\nDê-me um cigarro\nDiz a gramática\nDo professor e do aluno\nE do mulato sabido\nMas o bom negro e o bom branco\nDa Nação Brasileira\nDizem todos os dias\nDeixa disso camarada\nMe dá um cigarro.\n\nANDRADE, Oswald. Obras completas, Volumes 6-7. Rio de Janeiro: Civilização Brasileira, 1972.\n\nA respeito do poema de Oswald de Andrade, enquanto representante de uma estética literária, podemos afirmar CORRETAMENTE que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O poema pertence ao Pré-modernismo pelo fato de ainda se apegar a questões de formalidade da língua portuguesa e por representar uma situação coloquial na vida do brasileiro do início do século XX."
+        },
+        {
+          "letra": "B",
+          "texto": "No Pós-Modernismo, a poesia rompe com os padrões estéticos do passado e se alicerça nas transformações pelas quais a sociedade havia passado após a segunda guerra mundial. As artes plásticas, a literatura e a música ganharam tons de irreverência e crítica social."
+        },
+        {
+          "letra": "C",
+          "texto": "O Modernismo como movimento estético trouxe a necessidade de adaptar as novas produções artísticas à realidade da época, utilizando uma linguagem mais coloquial para tentar se aproximar da fala cotidiana dos brasileiros."
+        },
+        {
+          "letra": "D",
+          "texto": "O Modernismo teve início no século XX e apresentou uma proposta inovadora na linguagem e nas formas de manifestações artísticas; objetivando a continuidade dos padrões estéticos do passado com forte influência europeia."
+        },
+        {
+          "letra": "E",
+          "texto": "Ao representar a estética do Pré-modernismo, o poema de Oswald de Andrade estabelece um diálogo com a Semana de Arte Moderna e com as vanguardas europeias."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira / Modernismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Ainda observando o poema de Oswald de Andrade, escolha a opção CORRETA no que se refere à colocação pronominal:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "No verso “Me dá um cigarro” a colocação pronominal é considerada inadequada, de acordo com a Norma Culta da Língua Portuguesa, e não é aceita em ambientes informais."
+        },
+        {
+          "letra": "B",
+          "texto": "Tanto as expressões “Dê-me um cigarro” quanto “Me dá um cigarro” estão corretas de acordo com a Norma Culta da Língua Portuguesa."
+        },
+        {
+          "letra": "C",
+          "texto": "O verso \"Dê-me um cigarro\" utiliza uma conjugação do verbo \"dar\" na 3.ª pessoa do singular, é usado em situações de formalidade e demonstra o uso da próclise."
+        },
+        {
+          "letra": "D",
+          "texto": "O verso \"Dê-me um cigarro\" utiliza uma conjugação do verbo \"dar” na 3.ª pessoa do singular, é usado em situações de formalidade e demonstra o uso da ênclise."
+        },
+        {
+          "letra": "E",
+          "texto": "A expressão “Me dá um cigarro” é uma forma imperativa do verbo dar e representa um caso adequado de uso de próclise, de acordo com a Norma Culta da Língua Portuguesa."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Morfossintaxe / Colocação Pronominal"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "TEXTO V\n\nO pae de Felicidade ficou contente. Era o seu sonho casa-la pórque ela ja era uma moça. E tinha recêio de mórrer e ela ficar sosinha neste mundo de meu Deus. Sóube que José dos Anjos era um homem bóm. Honesto, e amigo do trabalho. E para êle o homem não precisa ser rico. Basta ser bom ja era alguma coisa de valor. Marcara o casamento para o mês de Maio. José dos Anjós queria adórnar a capela com cuias e flôres de são josé e rosas. A flôr predileta Felicidade.\nPlantóu sua rocinha para ter fartura em casa. Cavou a terra para dar curso ao regato e a agua passou perto do ranchinho. Dava gôsto ver o ranchinho com suas parades de pau a pique barreada. Construiu um altar para são josé. Felicidade preparava o seu enxoval com carinho. Quando chegou o ambicionado dia, José dos anjos rejubilar-se. Todas das amigas compareceram. As flôres que exalava seus perfumes mesclava-se com o ambiente. José dos anjos fez monjolo para ela tórrar farinha.\n\nJESUS, Carolina Maria de. Onde estaes felicidade? SP: Me Parió Revolução, 2014.\n\nSobre a obra Onde estaes felicidade?, de Carolina Maria de Jesus, é correto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A obra aborda o cotidiano de um casal pobre, cuja esposa se encanta pelos presentes de um viajante que se torna seu admirador e abandona seu esposo. Carolina Maria de Jesus é representante da literatura negra e periférica no Brasil."
+        },
+        {
+          "letra": "B",
+          "texto": "Em toda a obra perpassa o inconformismo em relação ao lugar social da personagem feminina em relação à pobreza, fato que a faz enlouquecer."
+        },
+        {
+          "letra": "C",
+          "texto": "Carolina Maria de Jesus é referência na escrita brasileira sobre a situação cotidiana de precariedade e violência experimentada pelas personagens mulheres, fato que podemos observar na obra Onde estaes felicidade?"
+        },
+        {
+          "letra": "D",
+          "texto": "O casamento de José dos Anjos e Felicidade, apesar da pobreza da realidade vivida, é feliz. Carolina Maria de Jesus apresenta uma escrita fraturada sobre a pobreza e a situação das pessoas negras no Brasil."
+        },
+        {
+          "letra": "E",
+          "texto": "Constitui em sua obra a tessitura da palavra a partir das experiências no espaço da favela, isto é, sua narrativa traz o cotidiano periférico não somente como tema, mas como maneira de olhar a si e a cidade."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura Brasileira / Literatura Contemporânea"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Em uma pesquisa de opinião, onde foram entrevistadas 200 pessoas, 85% dos entrevistados declararam que já ouviram falar do \"efeito estufa\", sendo que 20% deste percentual não conhecem o seu significado. Nestas condições, assinale a alternativa CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O percentual de entrevistados que conhecem o significado ou nunca ouviram falar do termo efeito estufa é igual a 100%."
+        },
+        {
+          "letra": "B",
+          "texto": "O percentual de entrevistados que conhecem o significado do termo efeito estufa é superior a 70%."
+        },
+        {
+          "letra": "C",
+          "texto": "O percentual de entrevistados que conhecem o significado ou nunca ouviram falar do termo efeito estufa é superior a 80%."
+        },
+        {
+          "letra": "D",
+          "texto": "O percentual de entrevistados que conhecem o significado ou nunca ouviram falar do termo efeito estufa é superior a 49% e inferior 50%."
+        },
+        {
+          "letra": "E",
+          "texto": "O percentual dos entrevistados que não conhecem o significado do termo efeito estufa supera o percentual dos entrevistados que conhecem o termo efeito estufa."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "A desintegração de um material é a transformação deste material em partes menores no decorrer do tempo. Suponha que uma substância se desintegra em função do tempo, de acordo com a fórmula $Q(t) = Q_0e^{-rt}$, onde $Q(t)$ é a massa da substância no tempo t, dado em anos, $Q_0$ é a massa da substância no tempo inicial, e é o número de Euler e r é a taxa de desintegração. A taxa de desintegração é de 2% ao ano e a massa inicial é de 2000g. (Dados: $1,6 < \\ln5 < 1,62$ e $0,69 < \\ln2 < 0,7$)\n\nConsidere as seguintes proposições:\nI. Em mais de 80 e menos do que 81 anos a massa se reduzirá a 400 gramas.\nII. Em menos de 81 anos a massa do material se reduzirá a 400 gramas e, consequentemente se reduzirá a 200g em pelos menos 162 anos.\nIII. A massa do material se reduzirá a 200 g em pelo menos 120 anos.\nIV. A massa do material se reduzirá a 400g entre 80 e 81 anos e em 324 anos estará menor do que 3,2g.\nV. Se for decorrido um tempo inferior a 34 anos então a massa do material será superior a 1000g.\n\nCom respeito às proposições, marque a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente a proposição I está correta."
+        },
+        {
+          "letra": "B",
+          "texto": "As proposições II e III estão corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "As proposições I, IV e V estão corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "A proposição V não está correta."
+        },
+        {
+          "letra": "E",
+          "texto": "A proposição II está correta."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Funções Exponenciais e Logarítmicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Na figura dada temos um triangulo ACE. Se os pontos A, B, D e E estão em uma mesma circunferência e são conhecidas as medidas m(AB)=30u, m(ED)=42u e m(DC)=8u então, a medida do segmento BC vale:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "45u"
+        },
+        {
+          "letra": "B",
+          "texto": "10u"
+        },
+        {
+          "letra": "C",
+          "texto": "40u"
+        },
+        {
+          "letra": "D",
+          "texto": "18u"
+        },
+        {
+          "letra": "E",
+          "texto": "20u"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Geometria Plana / Potência de Ponto"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Um dado honesto, com 6 faces numeradas de 1 a 6, é lançado duas vezes. Qual é a probabilidade de se obter, nas faces voltadas para cima, números que somados resultam um número ímpar menor do que 7?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1/6"
+        },
+        {
+          "letra": "B",
+          "texto": "1/9"
+        },
+        {
+          "letra": "C",
+          "texto": "2/3"
+        },
+        {
+          "letra": "D",
+          "texto": "1/12"
+        },
+        {
+          "letra": "E",
+          "texto": "1/4"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Probabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "O conjunto solução da inequação trigonométrica\n$2 \\cos^2 x + 7 \\cos x + 3 < 0$\nno intervalo $[0,2\\pi]$ é dado por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$]\\frac{\\pi}{3}, \\frac{2\\pi}{3}[$"
+        },
+        {
+          "letra": "B",
+          "texto": "$]\\frac{2\\pi}{5}, \\frac{3\\pi}{5}[$"
+        },
+        {
+          "letra": "C",
+          "texto": "$]\\frac{2\\pi}{3}, \\frac{4\\pi}{3}[$"
+        },
+        {
+          "letra": "D",
+          "texto": "$]\\frac{\\pi}{6}, \\frac{\\pi}{3}[$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\emptyset$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Trigonometria / Inequações Trigonométricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Na figura abaixo, ABCD é um retângulo de lados BC=4 e CD=6. Se P e Q são pontos médios de BC e CD respectivamente, então o valor da tangente de $\\alpha$ é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{13}{9}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{7}{13}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{13}{7}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{13}{6}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{9}{13}$"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Geometria Analítica / Trigonometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Se a, b e c são as raízes da equação $x^3 – x^2 + 4x - 4 = 0$.\n\nEntão o valor de $\\frac{1}{a} + \\frac{1}{b} + \\frac{1}{c}$ é?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "-1"
+        },
+        {
+          "letra": "C",
+          "texto": "4"
+        },
+        {
+          "letra": "D",
+          "texto": "-4"
+        },
+        {
+          "letra": "E",
+          "texto": "0"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Polinômios / Relações de Girard"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "A equação da elipse que passa pelo ponto P(0,6) e tem como focos os pontos (-8,0) e (8,0) é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$100x^2 + 36y^2 = 3600$"
+        },
+        {
+          "letra": "B",
+          "texto": "$64x^2 + 100y^2 = 3600$"
+        },
+        {
+          "letra": "C",
+          "texto": "$100x^2 + 64y^2 = 3600$"
+        },
+        {
+          "letra": "D",
+          "texto": "$36x^2 + 100y^2 = 3600$"
+        },
+        {
+          "letra": "E",
+          "texto": "$36x^2 + 64y^2 = 3600$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Analítica / Elipse"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Dividindo o polinômio $p(x) = x^4 + ax^3 + bx^2 + cx$ por x + 1 obtém-se resto igual a 24. Se $p(x)$ é divisível por x - 1 e por x - 2, então o valor de $(ab)/c$ é?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10"
+        },
+        {
+          "letra": "B",
+          "texto": "12"
+        },
+        {
+          "letra": "C",
+          "texto": "24"
+        },
+        {
+          "letra": "D",
+          "texto": "48"
+        },
+        {
+          "letra": "E",
+          "texto": "11"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Polinômios / Teorema do Resto"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "TEXTO I\n\nCigarro eletrônico pode causar câncer bucal\nEquipe Oncoguia\n\nConsumido principalmente entre os jovens de 18 a 24 anos, o cigarro eletrônico possui aparência atraente e descolada, com diversas cores e formatos. Mesmo sendo proibida a comercialização e propaganda no país, por meio da Resolução de 2009 da Agência Nacional de Vigilância Sanitária (Anvisa), não é difícil de ser encontrado em lojas e tabacarias. Perigo anunciado, a popularização dos dispositivos esconde os malefícios à saúde. Os produtos utilizados para gerar o vapor dos cigarros, incluem quantidades de nicotina e substâncias citotóxicas, que além de gerar dependência, alteram o DNA das células da boca e de todo trato respiratório, aumentando o risco da ocorrência de tumores, alertam especialistas.\nTambém conhecido como câncer oral ou carcinoma de células escamosas, o câncer de boca afeta os tecidos da cavidade oral e áreas adjacentes, como os lábios, língua, gengivas, bochechas e céu da boca. Feridas que não cicatrizam, incômodo ao engolir e sangramentos são os sintomas mais comuns da doença. A estimativa é que o Brasil registre 15 mil novos casos em 2023, segundo o Instituto Nacional do Câncer (INCA). Com relação já estabelecida pelos médicos, o tabagismo e consumo excessivo de álcool aumentam em vinte vezes a propensão à doença. (...)\n\nFonte: Cigarro eletrônico pode causar câncer bucal - Instituto Oncoguia. https://www.oncoguia.org.br/conteudo/cigarro-eletronico-pode-causar-cancer-bucal/16317/7/. Acesso em 19/09/2023.\n\nSegundo o texto I, os produtos utilizados para gerar o vapor dos cigarros alteram o DNA (ácido desoxirribonucleico) das células da boca e de todo trato respiratório. Considerando que o DNA é composto de inúmeros nucleotídeos e que cada nucleotídeo é composto de três partes básicas, sendo elas uma base nitrogenada, uma desoxirribose e um grupamento fosfato, indique a base nitrogenada que não pode ser encontrada no DNA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Uracila"
+        },
+        {
+          "letra": "B",
+          "texto": "Citosina"
+        },
+        {
+          "letra": "C",
+          "texto": "Guanina"
+        },
+        {
+          "letra": "D",
+          "texto": "Adenina"
+        },
+        {
+          "letra": "E",
+          "texto": "Timina"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Biologia Molecular / Estrutura do DNA"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Segundo o site do Instituto Nacional do Câncer (INCA), as células cancerosas apresentam quatro características que as distinguem das células normais: proliferação descontrolada, diferenciação e perda de função, poder de invasão e capacidade de sofrer metástases. Assinale a alternativa que apresenta o principal processo celular relacionado ao comportamento das células cancerosas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Mitose"
+        },
+        {
+          "letra": "B",
+          "texto": "Meiose"
+        },
+        {
+          "letra": "C",
+          "texto": "Somatogênese"
+        },
+        {
+          "letra": "D",
+          "texto": "Quimiossíntese"
+        },
+        {
+          "letra": "E",
+          "texto": "Fotossíntese"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Citologia / Divisão Celular"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Relacione corretamente a Coluna I com a Coluna II, conforme a classificação dos tipos de tecidos e os seus respectivos exemplos de células. Em seguida, assinale a alternativa com a sequência CORRETA.\n\nColuna 1 - Tipos de tecidos\n(1) Tecido Epitelial\n(2) Tecido Conjuntivo\n(3) Tecido Muscular\n(4) Tecido Nervoso\n\nColuna 2 - Exemplos dos tipos de células\n( ) Neurônios, astrócitos, oligodendrócitos, células microgliais, células satélites e células de Schwann.\n( ) Fibroblastos, fibrócitos, plasmócitos, mastócitos, macrófagos, leucócitos e células adiposas.\n( ) Células pavimentosas, cúbicas e cilíndricas.\n( ) Fibras musculares.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4 – 2 – 3 – 1"
+        },
+        {
+          "letra": "B",
+          "texto": "2 – 1 – 3 – 4"
+        },
+        {
+          "letra": "C",
+          "texto": "4 – 2 – 1 – 3"
+        },
+        {
+          "letra": "D",
+          "texto": "1 – 2 – 4 – 3"
+        },
+        {
+          "letra": "E",
+          "texto": "4 – 3 – 2 – 1"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Histologia Animal"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Segundo o texto retirado do Portal Amazônia “Se você já frequentou um rio da bacia amazônica em período de vazante, que ocorre entre junho e novembro, provavelmente já deve ter entrado em contato com algum organismo que causou uma irritação muito forte na pele. Esse organismo é chamado de cauxi, comumente presente no período de seca. Ao cair na água se dissolve em farpas minúsculas que, em proximidade com a pele, provoca coceiras, irritações e até reações alérgicas\". Esses animais são sésseis e filtradores e essas farpas minúsculas são espículas produzidas por células denominadas de amebócitos.\n\nFonte: https://portalamazonia.com/amazonia/portal-amazonia-responde-o-que-e-o-cauxi, acesso 24/09/2023.\n\nO texto se refere aos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "artrópodes"
+        },
+        {
+          "letra": "B",
+          "texto": "poríferos"
+        },
+        {
+          "letra": "C",
+          "texto": "platelmintos"
+        },
+        {
+          "letra": "D",
+          "texto": "anelídeos"
+        },
+        {
+          "letra": "E",
+          "texto": "moluscos"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Zoologia / Poríferos"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "As plantas terrestres formam um grupo monofilético chamado embriófitas, que inclui as briófitas, as plantas vasculares sem sementes, as gimnospermas e as angiospermas. A principal sinapomorfia (caracteres derivados compartilhados) desse grupo, é a presença de um embrião de duração variada, que constitui o esporófito jovem. Além disso, as embriófitas, apresentam ciclo de vida diplobionte, com alternância de gerações entre as fases gametofítica (n) e esporofítica (2n) e com meiose ocorrendo durante a formação de esporos.\n\nAnalisando os ciclos de vida dos diferentes grupos de embriófitos considere as informações seguintes.\n\nI. Fase esporofítica é dependente da fase gametofítica, crescendo sobre esta.\nII. Fase esporofítica com apenas 1 esporângio.\nIII. Fase esporofítica depende da gametofítica apenas no início do desenvolvimento, tornando-se independente em seguida.\nIV. Esporófito é independente do gametófito, ramificado e com muitos esporângios.\nV. Sementes não abrigadas.\n\nPode-se afirmar CORRETAMENTE que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "III e V ocorrem nas gimnospermas e plantas vasculares sem sementes."
+        },
+        {
+          "letra": "B",
+          "texto": "I ocorre apenas nas briófitas"
+        },
+        {
+          "letra": "C",
+          "texto": "IV ocorre nas angiospermas e gimnospermas."
+        },
+        {
+          "letra": "D",
+          "texto": "I e V ocorrem nas gimnospermas."
+        },
+        {
+          "letra": "E",
+          "texto": "II ocorre nas briófitas e plantas vasculares sem sementes."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Botânica / Ciclos de Vida / Briófitas"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Ao caminhar pelo Parque Anauá, localizado na Avenida Brigadeiro Eduardo Gomes, Boa Vista, Roraima, os visitantes são alertados por uma placa colocada ao lado de um enorme pinheiro, uma Araucaria angustifolia (Bertol.) Kuntze, com o seguinte aviso: Cuidado com os frutos que caem da árvore. Esse alerta está:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "correto, porque o que cai são os estróbilos megaesporangiados (pinhas) que constituem os frutos."
+        },
+        {
+          "letra": "B",
+          "texto": "correto, porque o que cai são os estróbilos microesporangiados (pinhas) que constituem os frutos."
+        },
+        {
+          "letra": "C",
+          "texto": "incorreto, uma vez que o que cai da árvore são os pinhões, sementes desenvolvidas nos megasporangios, que constituem os frutos."
+        },
+        {
+          "letra": "D",
+          "texto": "incorreto, uma vez que o que cai da árvore são os pinhões, sementes desenvolvidas nos megasporangios."
+        },
+        {
+          "letra": "E",
+          "texto": "incorreto, uma vez que o que cai da árvore são os pinhões, sementes desenvolvidas nos microsporangios."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Botânica / Gimnospermas"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "A teoria da evolução por seleção natural foi elaborada independentemente por dois naturalistas ingleses: Alfred Russell Wallace e Charles Robert Darwin e foi publicada pela primeira vez em 1859. De acordo com essa teoria, os seres vivos vêm se modificando gradualmente ao longo do tempo, por meio de um processo de adaptação evolutiva. Segundo essa teoria:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os organismos mais bem adaptados, têm maiores chances de sobrevivência, deixando um número maior de descendentes."
+        },
+        {
+          "letra": "B",
+          "texto": "Características são selecionadas através do uso e desuso."
+        },
+        {
+          "letra": "C",
+          "texto": "A seleção natural elimina os indivíduos que sofreram mutação."
+        },
+        {
+          "letra": "D",
+          "texto": "As mutações são dirigidas para genes específicos e acarretam vantagens aos seus portadores."
+        },
+        {
+          "letra": "E",
+          "texto": "Características adquiridas são transmitidas aos descendentes."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Evolução / Teoria da Seleção Natural"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Recentemente, um cantor popular do Brasil anunciou que seu filho nascera com a Síndrome de Patau. Essa síndrome é uma doença genética rara e grave que segundo o Serviço Nacional de Saúde do Reino Unido (NHS, na sigla em inglês) acomete um bebê a cada 4 mil nascimentos. No Brasil, o diagnóstico da Síndrome de Patau pode ocorrer ainda durante a gestação, por meio de exames pré-natal, alguns disponíveis no Sistema Único de Saúde (SUS). Infelizmente, a maioria dos bebês que nascem com essa condição sobrevivem menos de 3 dias, mas há casos de sobrevivência até aos 10 anos de idade. A Síndrome de Patau é uma trissomia de qual cromossomo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Do cromossomo 21;"
+        },
+        {
+          "letra": "B",
+          "texto": "Do cromossomo 18;"
+        },
+        {
+          "letra": "C",
+          "texto": "Do cromossomo 13;"
+        },
+        {
+          "letra": "D",
+          "texto": "Do cromossomo X;"
+        },
+        {
+          "letra": "E",
+          "texto": "Do cromossomo Y;"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Genética / Mutações Cromossômicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "De acordo com um texto publicado no site da Fiocruz sobre a Malária \"Após um período de ações bem-sucedidas de controle da malária no começo dos anos 2010, Roraima passou a registrar, com o passar do tempo, uma escalada nas notificações da doença. Associada, principalmente, ao avanço do garimpo ilegal, a doença passou a atingir majoritariamente os indígenas, sobretudo os yanomamis.”\n\nSobre a malária, é CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os acessos febris característicos da doença ocorrem quando os hepatócitos são rompidos e liberam toxinas na corrente sanguínea."
+        },
+        {
+          "letra": "B",
+          "texto": "Pessoas com malária apresentam ulcerações graves na pele, decorrentes da ação da Leishmania brasiliensis."
+        },
+        {
+          "letra": "C",
+          "texto": "Pessoas com malária apresentam lesões no baço, fígado, rins, decorrentes da ação da Leishmania chagasi."
+        },
+        {
+          "letra": "D",
+          "texto": "Os acessos febris característicos da doença ocorrem quando as hemácias são rompidas e liberam toxinas na corrente sanguínea."
+        },
+        {
+          "letra": "E",
+          "texto": "Pessoas com malária apresentam hipertrofia de órgãos afetados, causado pela Trypanosoma cruzi."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Parasitologia / Protozooses / Malária"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Se uma partícula em equilíbrio, em relação a certo referencial, está sob a ação de forças, é CORRETO afirmar que, definitivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A partícula está em repouso."
+        },
+        {
+          "letra": "B",
+          "texto": "A partícula está em movimento."
+        },
+        {
+          "letra": "C",
+          "texto": "As forças que atuam na partícula possuem módulos iguais e sentidos opostos."
+        },
+        {
+          "letra": "D",
+          "texto": "Existem forças concorrentes atuando na partícula."
+        },
+        {
+          "letra": "E",
+          "texto": "Existe um número par de forças que atuam sobre a partícula."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Leis de Newton / Estática"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "O gráfico abaixo representa o movimento de um móvel.\n\nConsiderando as informações presentes no gráfico, é INCORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A variação da posição, entre os instantes 0 s e 2 s, foi de 10 m."
+        },
+        {
+          "letra": "B",
+          "texto": "Entre os instantes 2 s e 4 s, o móvel estava em movimento uniformemente variado."
+        },
+        {
+          "letra": "C",
+          "texto": "No instante t= 3 s, a velocidade do móvel era de 6 m/s."
+        },
+        {
+          "letra": "D",
+          "texto": "A distância total percorrida pelo móvel entre os instantes 0 e 4 s foi de 28 m."
+        },
+        {
+          "letra": "E",
+          "texto": "No instante t= 4 s a aceleração do móvel era de 1 m/s²."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Cinemática / Análise Gráfica do Movimento"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Um corpo de massa 5 kg é transportado do ponto A até o ponto C, de acordo com a figura a seguir.\n\nÉ CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O trabalho da força peso, ao longo da trajetória ABC é maior do que o trabalho realizado pela mesma força, ao longo da trajetória AC."
+        },
+        {
+          "letra": "B",
+          "texto": "O trabalho da força peso, ao longo da trajetória ABC é igual ao trabalho realizado pela mesma força, ao longo da trajetória AC."
+        },
+        {
+          "letra": "C",
+          "texto": "O trabalho da força peso, ao longo da trajetória ABC é menor do que o trabalho realizado pela mesma força, ao longo da trajetória AC."
+        },
+        {
+          "letra": "D",
+          "texto": "O trabalho da força peso, ao longo da trajetória ABC é igual a 350 J (considerando g= 10 m/s²)."
+        },
+        {
+          "letra": "E",
+          "texto": "O trabalho da força peso, ao longo das duas trajetórias é positivo."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Dinâmica / Trabalho e Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Analise as afirmativas a seguir e marque a alternativa CORRETA.\n\nI. O calor latente é a energia térmica que se transforma em energia potencial de agregação das moléculas de um corpo.\nII. Evaporação é o processo de passagem do estado líquido para o estado gasoso e não depende de uma temperatura determinada para acontecer.\nIII. A solidificação, a liquefação, e a sublimação são transformações endotérmicas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As alternativas I e III estão corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "As afirmativas I e II estão corretas."
+        },
+        {
+          "letra": "C",
+          "texto": "As alternativas II e III estão corretas."
+        },
+        {
+          "letra": "D",
+          "texto": "Todas as alternativas estão corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as alternativas estão erradas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Termologia / Calorimetria"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Durante uma aula de Física, um grupo de estudantes realizou um experimento de calorimetria em que colocaram 200 g de água, a 80 °C, em um recipiente de alumínio isolado termicamente e com capacidade térmica de 20 cal/°C. Dentro do recipiente, eles mergulharam um bloco de ferro de 100 g a 20 °C. Após atingir o equilíbrio térmico, eles mediram a temperatura final do sistema. O professor realizou, então, uma dinâmica em que cada aluno devia fazer uma afirmação sobre o experimento realizado e o assunto estudado. Essas afirmações seriam analisadas pelos colegas e julgadas como estando certas ou erradas. A seguir são mostradas as afirmações de quatro alunos da turma.\n\nAmélia: A lei zero da termodinâmica estabelece que dois corpos em equilíbrio térmico com um terceiro corpo estão em equilíbrio térmico entre si. Portanto, a temperatura final do sistema é igual para a água, o alumínio e o ferro.\nBárbara: A primeira lei da termodinâmica afirma que a variação da energia interna de um sistema pode ser determinada pela diferença entre a quantidade de calor e o trabalho trocados com o meio. Como o recipiente é isolado termicamente e não houve troca de trabalho com o meio, não houve variação da energia interna e a soma das quantidades de calor trocadas entre os corpos é nula.\nCarla: As variações de temperatura sofridas pelos corpos do experimento são inversamente proporcionais aos seus respectivos calores específicos sensíveis.\nDouglas: A capacidade térmica é uma grandeza que corresponde à quantidade de calor necessária para fazer variar em 1 °C, a temperatura de 1 g de cada uma das substâncias envolvidas no experimento.\n\nDas afirmativas acima, estão CORRETAS:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas de Amélia, Bárbara e Carla."
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas de Amélia e Bárbara."
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas de Amélia, Carla e Douglas."
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas de Bárbara e Douglas."
+        },
+        {
+          "letra": "E",
+          "texto": "De Amélia, Bárbara, Carla e Douglas."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Termodinâmica / Calorimetria"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "A câmera fotográfica é um instrumento óptico que funciona de acordo com os princípios da Óptica Geométrica, que é a parte da Física responsável pelo estudo da luz e dos fenômenos associados a ela. Dentre os elementos que compõem uma câmera fotográfica estão uma lente convergente, um filme fotográfico ou um sensor digital e um diafragma. A distância entre a lente e o filme ou sensor pode ser ajustada para obter uma imagem nítida, dependendo da distância do objeto. A abertura do diafragma, que é um dispositivo que controla a quantidade de luz que entra na câmera, também influencia na qualidade da imagem. Considere as seguintes afirmações sobre os conceitos de Óptica Geométrica envolvidos no funcionamento da câmera fotográfica:\n\nI. A lente convergente é aquela que faz com que os raios de luz, que incidem paralelos ao seu eixo principal, se aproximem após a refração.\nII. A imagem real é aquela que pode ser projetada em uma tela ou superfície, pois os raios de luz se cruzam efetivamente no plano da imagem.\nIII. A distância focal de uma lente é a distância entre o centro óptico da lente e o ponto onde se forma a imagem de um objeto situado no infinito.\nIV. A abertura do diafragma afeta a profundidade de campo da imagem, que é a faixa de distância em que os objetos aparecem nítidos na fotografia.\n\nAssinale a alternativa que indica quais afirmações estão CORRETAS.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II apenas"
+        },
+        {
+          "letra": "B",
+          "texto": "I e III apenas"
+        },
+        {
+          "letra": "C",
+          "texto": "II e IV apenas"
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e IV apenas"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II, III e IV"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Óptica Geométrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Leia as assertivas abaixo e assinale a alternativa INCORRETA.\n\nI. Nos condutores metálicos, as cargas elétricas em excesso irão se distribuir sempre na superfície externa, independente das dimensões do condutor.\nII. O campo elétrico e o potencial elétrico são grandezas vetoriais.\nIII. Cargas elétricas positivas, abandonadas em repouso em um campo elétrico e sujeitas unicamente à força elétrica, deslocam-se, espontaneamente, para pontos de maior potencial.\nIV. As linhas de força são perpendiculares às superfícies equipotenciais.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A assertiva I está certa e a III errada."
+        },
+        {
+          "letra": "B",
+          "texto": "As assertivas II e III estão erradas."
+        },
+        {
+          "letra": "C",
+          "texto": "As assertivas I e IV estão certas."
+        },
+        {
+          "letra": "D",
+          "texto": "A assertiva III está errada."
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as assertivas estão certas."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Eletrostática"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Considere o ímã representado na figura a seguir.\n\nSabendo que o ímã está isolado, estando sujeito apenas a seu próprio campo magnético, podemos afirmar que o campo magnético é uniforme (em toda a região):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Nas regiões 1 e 2."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente na região 2."
+        },
+        {
+          "letra": "C",
+          "texto": "Nas regiões 3 e 4."
+        },
+        {
+          "letra": "D",
+          "texto": "Em todas as regiões."
+        },
+        {
+          "letra": "E",
+          "texto": "Em nenhuma das quatro regiões."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Eletromagnetismo / Campo Magnético"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Maria está abrindo uma lavanderia e já possui uma máquina de lavar roupas que consome 600 Watts de potência e um ferro elétrico que consome 1200 Watts. O circuito elétrico da lavanderia é alimentado por uma rede doméstica de 110 Volts e está protegido por um fusível de 20 Ampères. Maria planeja adquirir uma segunda máquina de lavar roupa para aumentar sua capacidade de lavagem. Qual deve ser a potência máxima da segunda máquina de lavar roupa, sem sobrecarregar o circuito elétrico e sem exceder a capacidade do fusível, de modo que não seja desarmado?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "400W"
+        },
+        {
+          "letra": "B",
+          "texto": "600W"
+        },
+        {
+          "letra": "C",
+          "texto": "1200W"
+        },
+        {
+          "letra": "D",
+          "texto": "1800W"
+        },
+        {
+          "letra": "E",
+          "texto": "2200W"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Eletrodinâmica / Potência Elétrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Os dados do Centro de Previsão Climática da Administração Oceânica e Atmosférica (NOAA), dos Estados Unidos, apontaram que o El Niño apresentou sinais de atividade já em junho de 2023, prometendo se tornar um dos exemplares mais rigorosos já experimentados pela humanidade. De acordo com o comunicado, a chance de um El Niño forte é de 56% e de um moderado é de 84%.\n\nFonte: https://revistapesquisa.fapesp.br/sinais-do-proximo-el-nino/. Acesso em 18 de set. de 2023.\n\nSobre o El Niño, marque a alternativa que descreve CORRETAMENTE a definição desse fenômeno e sua atuação no território brasileiro, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Aquecimento das águas do Oceano Atlântico, próximo ao Equador e diminuição das temperaturas no Centro-Oeste e surgimento de queimadas no Norte."
+        },
+        {
+          "letra": "B",
+          "texto": "Aquecimento das águas do Oceano Pacífico, próximo ao Equador e aumento da pluviosidade no Sul e seca no Norte e Nordeste."
+        },
+        {
+          "letra": "C",
+          "texto": "Resfriamento das águas do Oceano Pacífico, próximo ao Equador e aumento da pluviosidade no Norte e Nordeste e diminuição da temperatura do Sul e Sudeste."
+        },
+        {
+          "letra": "D",
+          "texto": "Aquecimento das águas do Oceano Pacífico, próximo ao Equador e surgimento de queimadas no Centro-Oeste e aumento da pluviosidade no Nordeste."
+        },
+        {
+          "letra": "E",
+          "texto": "Resfriamento das águas do Oceano Atlântico, próximo ao Equador e diminuição da pluviosidade no Sul e Sudeste e aumento das temperaturas no Centro-Oeste."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Climatologia / Fenômenos Climáticos"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "O relevo terrestre é originado por agentes internos, com a atuação das placas tectônicas, por um lado; e é modelado por agentes externos, com a atuação dos ventos, das águas e da diferença de temperaturas, por outro. Sabendo que o processo de intemperismo atua em paralelo aos agentes externos, marque a alternativa que apresente CORRETAMENTE um exemplo de intemperismo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Intemperismo físico, atuação com auxílio da pressão magmática."
+        },
+        {
+          "letra": "B",
+          "texto": "Intemperismo químico, atuação com auxílio dos ventos."
+        },
+        {
+          "letra": "C",
+          "texto": "Intemperismo geológico, atuação com auxílio da diferença de temperatura."
+        },
+        {
+          "letra": "D",
+          "texto": "Intemperismo químico, atuação com auxílio da água."
+        },
+        {
+          "letra": "E",
+          "texto": "Intemperismo climático, atuação com auxílio das chuvas ácidas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geomorfologia / Intemperismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Os fusos horários existem por causa da esfericidade da Terra que, ao efetuar a volta em si mesma, o chamado movimento de rotação, acaba iluminando de maneira desigual as diferentes porções dos continentes terrestres. Nesse contexto, países de dimensões continentais adotaram uma estratégia para diminuir o número de fusos dentro de seu próprio território. A estes fusos adaptados às necessidades locais damos o nome de fusos ou limites:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Teóricos"
+        },
+        {
+          "letra": "B",
+          "texto": "Práticos"
+        },
+        {
+          "letra": "C",
+          "texto": "Pensados"
+        },
+        {
+          "letra": "D",
+          "texto": "Econômicos"
+        },
+        {
+          "letra": "E",
+          "texto": "Políticos"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Cartografia / Fusos Horários"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Desde 2010 verifica-se um aumento significativo do e-commerce no Brasil, ultrapassando a faixa dos 160 bilhões em faturamento em 2022. Essa trajetória está associada a um conjunto de fatores, e transformações no mundo dos negócios e do trabalho. Sobre esta questão, analise as assertivas a seguir:\n\nI. O crescimento das vendas no e-commerce está associado à expansão dos serviços digitais, potencializada pelo avanço da internet no Brasil.\nII. Com o e-commerce, inúmeros profissionais tiveram que iniciar ou migrar suas carreiras para a área digital, reformulando as relações de trabalho.\nIII. Influenciado pela Revolução 4.0, o e-commerce potencializou as vendas no varejo offline, aumentando em 50% no período entre 2019 a 2022.\n\nÉ CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A alternativa I está correta e as alternativas II e III estão incorretas."
+        },
+        {
+          "letra": "B",
+          "texto": "As alternativas I e II estão corretas e a alternativa III está incorreta."
+        },
+        {
+          "letra": "C",
+          "texto": "A alternativa II está correta e as alternativas I e III estão incorretas."
+        },
+        {
+          "letra": "D",
+          "texto": "As alternativas I e II estão incorretas e a alternativa III está correta."
+        },
+        {
+          "letra": "E",
+          "texto": "A alternativa I está incorreta e as alternativas II e III estão corretas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geografia Econômica / Globalização"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Sobre a formação territorial brasileira e a construção de ideologias geográficas, é CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A Marcha para o Sul teve como fundamento a conquista do território pátrio, impulsionando a ocupação do território, sob a tônica da modernização do território."
+        },
+        {
+          "letra": "B",
+          "texto": "É no governo JK que ocorre a primeira regionalização oficial do Brasil, incorporando a temática da região no discurso oficial do Estado."
+        },
+        {
+          "letra": "C",
+          "texto": "No período da redemocratização, a partir de 1988, as noções de modernização e desenvolvimento passaram a estar mais atreladas aos aparatos produtivo e infraestrutural, e menos aos componentes social e político."
+        },
+        {
+          "letra": "D",
+          "texto": "Durante o Estado Novo varguista há toda uma adequação do aparato estatal, criação de órgãos e normas e programas orientados ao processo de modernização do território, executado através de políticas territoriais."
+        },
+        {
+          "letra": "E",
+          "texto": "Nas últimas décadas do século XIX, com o advento da globalização, ocorrem o desmonte do aparato estatal, privatizações e fragmentações das políticas públicas com forte impacto no conjunto das regiões, especialmente, Norte e Nordeste."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geografia do Brasil / Formação Territorial"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Sobre a urbanização brasileira é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O eixo de ligação entre o Rio de Janeiro e Belo Horizonte apresenta intensas ligações, principalmente no Vale do Paraíba Fluminense, dadas, entre outas coisas, pela indústria automobilística e siderurgia, guardando profunda relação com impulsos originados nos centros urbanos."
+        },
+        {
+          "letra": "B",
+          "texto": "No sudeste, especialmente na costa atlântica, as metrópoles do Rio de Janeiro e de São Paulo constituem as principais cidades de uma megarregião, cujas expressões são as mais significativas do Brasil e hemisfério sul."
+        },
+        {
+          "letra": "C",
+          "texto": "Alguns fatores destacam-se na criação de condições para o surgimento e a consolidação de novos centros dinâmicos no país, dentre eles a industrialização, que, se beneficia do avanço na indústria de transformação, mas sofrendo debilidade pela incipiente rede de transporte."
+        },
+        {
+          "letra": "D",
+          "texto": "A ocupação das áreas de fronteira em direção às regiões Sul e Centro-Oeste, é guiada pela atividade agropecuária e extrativa, onde algumas cidades polarizam as dinâmicas urbano-produtivas, especialmente da cadeia de grãos e carnes."
+        },
+        {
+          "letra": "E",
+          "texto": "Entre 2000 e 2010, as regiões Centro-Oeste e Nordeste, viram aumentar expressivamente o número de cidades médias. Enquanto isso, há uma redução do número de cidades médias de curto alcance no Norte e no Sudeste, em 2010."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geografia Urbana / Urbanização Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "\"Fomos abandonados pelo mundo, dizem armênios de Nagorno-Karabakh\".\n\nFonte: https://www1.folha.uol.com.br/mundo/2023/09/fomos-abandonados-pelo-mundo-dizem-armenios-de-nagorno-karabakh.shtml\n\nRecentemente, houve um ataque à região de Nagorno-Karabakh, reacendendo, em 2023, tensões geopolíticas na região. Sobre o conflito é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O conflito hoje reascende disputas entre Rússia e Japão, que tentam se legitimar na região."
+        },
+        {
+          "letra": "B",
+          "texto": "Desde 1990, é a primeira vez que o cessar-fogo é interrompido."
+        },
+        {
+          "letra": "C",
+          "texto": "O conflito na região ocorre entre Armênia e Afeganistão, originado desde o colapso da União Soviética."
+        },
+        {
+          "letra": "D",
+          "texto": "A Armênia recebe apoio dos Estados Unidos, que financia a guerra por meio de armas."
+        },
+        {
+          "letra": "E",
+          "texto": "Envolvida na Guerra das Maldivas, a Rússia tem mantido distância do conflito, potencializando as disputas na região."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geopolítica / Conflitos Internacionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Sobre as dinâmicas econômicas no Estado de Roraima é CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Em 2022, açúcares e melados foram os produtos mais exportados, alcançando cerca de 29% do total de produtos exportados pelo Estado."
+        },
+        {
+          "letra": "B",
+          "texto": "Máquinas e aparelhos elétricos, em 2022, compuseram cerca de 62% das importações no Estado."
+        },
+        {
+          "letra": "C",
+          "texto": "As exportações realizadas por empresas locais para outros países cresceram bastante nos últimos anos, sendo que, em 2022, houve um crescimento acima de 40% em relação a 2021."
+        },
+        {
+          "letra": "D",
+          "texto": "A China foi o principal parceiro comercial das exportações realizadas pelo Estado, também em 2022."
+        },
+        {
+          "letra": "E",
+          "texto": "Parte dos produtos passa por empresas do Mato Grosso ou utiliza a logística infraestrutural do estado vizinho."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Geografia Regional / Economia de Roraima"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "\"Globalização parece ter adquirido proeminência pela primeira vez quando a American Express fez propaganda do alcance global de seu cartão na metade dos anos 1970. O termo difundiu-se a partir disso como fogo em capim seco na imprensa financeira e de negócios [...]\" (Harvey, 2006, p. 27).\n\nTomando o enunciado como referência avalie as assertivas a seguir:\n\nI. Uma das características do processo de globalização é legitimação da desregulamentação dos mercados financeiros e políticas de austeridade fiscal, que em alguma medida gera otimismo empresarial, especialmente, em torno do tema da liberdade de mercados.\nII. No âmbito da economia, o processo de globalização e seus atores defendem a necessidade de maior presença estatal na atração de empresários, regulação trabalhista e incentivo ao desenvolvimento econômico, bem como defendem políticas sociais e de proteção do bem-estar social.\nIII. Fundo Monetário Internacional e Banco Mundial são instituições internacionais que impulsionam orientações acerca das políticas de austeridade e reformulação do mundo do trabalho, com o discurso da promoção da estabilidade interna e competitividade internacional.\n\nÉ CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A alternativa I está correta e as alternativas II e III estão incorretas."
+        },
+        {
+          "letra": "B",
+          "texto": "As alternativas I e III estão corretas e a alternativa II está incorreta."
+        },
+        {
+          "letra": "C",
+          "texto": "A alternativa II está correta e as alternativas I e III estão incorretas."
+        },
+        {
+          "letra": "D",
+          "texto": "As alternativas I e II estão incorretas e a alternativa III está correta."
+        },
+        {
+          "letra": "E",
+          "texto": "A alternativa I está incorreta e as alternativas II e III estão corretas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Globalização / Neoliberalismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "\"No tocante aos aspectos da dominação política na cidade [no período medieval], é preciso considerar primeiramente que o crescimento dos centros urbanos está relacionado com as cortes dos grandes senhores, havendo, portanto, uma ligação entre a vitalidade urbana e o poder senhorial. Neste sentido, a cidade se define como um dominium que pertence a um ou vários senhores, representando um enclave territorial no mundo rural.\"\n(ABREU, Jean Luiz Neves. Sociedade Urbana e conflitos sociais na Idade Média. Mneme Revista de Humanidades. Caicó. pp. 643-657 v 05. n. 11, jul./set. de 2004. p. 644)\n\nCom respeito à estrutura social urbana na Idade Média, é CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A maior parte das cidades medievais era controlada por um poderoso grupo urbano — pequeno grupo de homens recrutados entre os intermediários feudais, mercadores e artesãos prósperos — que detinha o poder político e social."
+        },
+        {
+          "letra": "B",
+          "texto": "Toda estrutura social nos centros urbanos medievais estava alicerçada num grupo de mandatários local que eram reconhecidos como neorromanos, líderes poderosos que evocavam todo o simbolismo dos antigos césares do Império Romano."
+        },
+        {
+          "letra": "C",
+          "texto": "O surgimento das indústrias na Alta Idade Média proporcionou a mudança da estrutura social nos centros urbanos, contrastando com a estrutura estática vivenciada no campo na relação entre o suserano e o vassalo."
+        },
+        {
+          "letra": "D",
+          "texto": "A desigualdade na estrutura social era quase inexistente nos centros urbanos uma vez que a grande maioria dos residentes era formada por artesãos donos de manufaturas, proporcionando, assim, um tipo de democracia insipiente conhecida como communatio."
+        },
+        {
+          "letra": "E",
+          "texto": "Os membros das ordens das cavalarias eram o elo entre os nobres, a Igreja e os pobres, fazendo com que fossem reconhecidos como governadores provisórios uma vez que o cargo era rotativo entre estes cavaleiros."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História Medieval / Sociedade Feudal"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "\"Os micênicos chegaram à Grécia em 1600 a.C., e, por volta de 1400 a.C., assimilaram os cretenses. Eles eram um povo indo-europeu que migrou para a região, espalhando-se por todo o território grego e chegando às ilhas do Mar Egeu e à Ásia Menor. Sabemos que os micênicos chamavam a si mesmos de aqueus.”\n(SILVA, Daniel Neves. Grécia Antiga. Disponível em https://www.historiadomundo.com.br/grega. Consultado em 21 de Setembro de 2023)\n\nCom base na assertiva acima é CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A interação cultural micênica com a cretense teve grande influência na formação do povo grego. Os micênicos organizavam-se em cidades-estado cujo poder era exercido por um rei (o mesmo ocorria com os cretenses), e estes mantinham numerosas relações comerciais."
+        },
+        {
+          "letra": "B",
+          "texto": "As constantes tensões existentes entre os micênicos e os cretenses resultaram nas denominadas Guerras Púnicas onde a vitória dos micênicos fez com que houvesse a subjugação dos cretenses sendo estes assimilados em sua cultura e economia."
+        },
+        {
+          "letra": "C",
+          "texto": "Quando os micênicos entraram em guerra com os povos da região do Peloponeso, contaram com a ajuda dos cretenses. Inicialmente arregimentaram mercenários, mas, por decisão da corte de Creta, a ajuda foi definitivamente oficializada, estreitando a amizade entre os dois povos."
+        },
+        {
+          "letra": "D",
+          "texto": "A união entre Micenas e Creta foi fundamental para a superação das dificuldades de produção agrícola que a região vivenciava em função de fortes secas causadas por mudanças climáticas ocorridas na Antiguidade."
+        },
+        {
+          "letra": "E",
+          "texto": "Alarico I, rei de Micenas, foi tido como o responsável pela aproximação política e cultural com Creta quando este se casou com a herdeira do trono cretense, a princesa Héstia. Esta união foi fundamental para a inserção de importantes Cidades-estado na região do Sarônico."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História Antiga / Grécia Antiga"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Sendo um bem que se possui [na Roma antiga], um escravo é um inferior. E com essa inferioridade de um homem faz de outro homem seu proprietário, um chefe, esse amo, seguro de tal grandeza, a consagrará considerando natural a inferioridade do escravo: um escravo é um sub-homem por destino e não por acidente.\n(VEYNE, Paul (Org.). História da Vida Privada 1 - Do Império Romano ao Ano Mil. São Paulo: Cia das Letras, 1990, p. 62)\n\nQuanto ao escravismo romano podemos afirmar CORRETAMENTE que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A realidade mais profunda do Império Romano mostra que não havia escravos na concepção do senso comum, o que na verdade havia era um grupo de voluntários que juravam servir a outros indivíduos em troca de estabilidade familiar."
+        },
+        {
+          "letra": "B",
+          "texto": "Era somente considerado escravo os estrangeiros adquiridos como espólio de guerra, sendo que os filhos destes, nascidos no Império eram tidos como livres, pois era considerado imoral escravizar qualquer um nascido dentro das fronteiras do Império."
+        },
+        {
+          "letra": "C",
+          "texto": "Os escravos desempenhavam os mais diversos papéis na economia, na sociedade, até na política e cultura fazendo com que alguns fossem infinitamente mais ricos ou poderosos que alguns dos homens livres."
+        },
+        {
+          "letra": "D",
+          "texto": "Os escravos eram excluídos de todas as atividades que envolvessem a propriedade uma vez que estavam fadados a viver e morrer na profunda miséria, tendo apenas o seu espírito como propriedade partilhada com uma divindade, preferencialmente Júpiter."
+        },
+        {
+          "letra": "E",
+          "texto": "O modelo escravista romano teve início com o cristianismo quando os cristãos passaram a ser escravizados como punição por causa da traição contra a religião do Império e contra o próprio César, tido como único rei e redentor do povo."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História Antiga / Roma Antiga / Escravismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Delineada a fronteira com a Guiana Inglesa em 1904, o projeto oficial para a região do rio Branco sofria uma inflexão radical: pode-se dizer que o próprio conceito de fronteira deixava de ser uma questão militar para tornar-se, acima de tudo, uma questão econômica. A ação indigenista deve ser lida neste contexto, como, aliás, já apontou, com propriedade, Souza Lima (1985) em relação ao estabelecimento e atuação do Serviço de Proteção ao Índio em âmbito nacional.\n(SANTILLI, Paulo. Fronteiras da República: História e política entre os Macuxi no vale do rio Branco. São Paulo: NHII-USP/FAPESP: 1994. p. 39)\n\nCom base na afirmação acima, é CORRETO afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O delineamento da fronteira em 1904 gerou tensões entre Inglaterra e Portugal promovendo a construção do Forte São Joaquim e a atração aos povos indígenas do lavrado a povoarem as proximidades do forte."
+        },
+        {
+          "letra": "B",
+          "texto": "O Serviço de Proteção ao Índio, cuja criação foi incentivada pelo Marechal Rondon, foi uma organização federal que visava apenas os povos indígenas do vale do Rio Branco e a proteção ambiental do leito do rio."
+        },
+        {
+          "letra": "C",
+          "texto": "A criação do Serviço de Proteção ao Índio no vale do Rio Branco foi fundamental para que se criasse a missão de visitação às aldeias, projeto que atuava por meio do clientelismo político cujo objetivo era o que ficou conhecido como “pacificação do índio”."
+        },
+        {
+          "letra": "D",
+          "texto": "O serviço de Proteção ao Índio agia por interesses econômicos na vasta região que compreendia o estabelecimento dos Macuxi e Wapixana. Para tanto, criou o alistamento de indígenas para a extração de diamantes que causou a devastação ambiental do atual estado de Roraima."
+        },
+        {
+          "letra": "E",
+          "texto": "O Serviço de Proteção aos Índios instala-se em Roraima no ano de 1915, através da criação de um posto na Fazenda São Marcos sendo, portanto, um desdobramento da unidade administrativa representada pela 1ª Inspetoria Regional."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – História do Brasil / República Velha / Questão Indígena"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Desde o século XVII, os portugueses realizavam explorações na região, tendo sido uma das mais importantes a que foi comandada por Pedro Teixeira, em geral, os historiadores do rio Branco localizam o avanço de desbravadores na região nas últimas décadas do século XVII como consequência da expansão portuguesa para o rio Negro.\n(MAGALHÃES, Maria das Graças Santos Dias. Amazônia: o extrativismo vegetal no sul de Roraima: 1943-1988. Boa Vista: UFRR, 2008. p. 86)\nO trecho acima destaca o começo do processo de colonização no vale do rio Branco, dando início a um processo que resulta hoje em uma série de consequências ambientais. Com base no fragmento, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A estratégia portuguesa para dominação do território do rio Branco se deu, principalmente, com as guerras de possessão que desemboca na questão do monte Roraima, questão esta intermediada pela Dinamarca, gerando o Tratado do vale do rio Branco."
+        },
+        {
+          "letra": "B",
+          "texto": "Na fase inicial da ocupação portuguesa no rio Branco, a principal exploração empreendida estava ligada ao modelo de exploração por meio do extrativismo das \"drogas do sertão” e ao apresamento de indígenas por particulares."
+        },
+        {
+          "letra": "C",
+          "texto": "Os portugueses buscaram uma aproximação com a Holanda, França e Dinamarca quanto às questões de fronteira com os ingleses e espanhóis. Tal aproximação se deu na busca da preservação do vale do rio Branco, mas que não conseguiu atingir o efeito desejado."
+        },
+        {
+          "letra": "D",
+          "texto": "Um fator importante na consolidação dos portugueses no rio Branco foi a chegada dos beneditinos em 1712 que, por meio das missões, atraiam os indígenas e moradores da região a apoiar a permanência portuguesa na região."
+        },
+        {
+          "letra": "E",
+          "texto": "O Forte São Joaquim, construído em 1875, foi vital para o impedimento da entrada de ingleses e espanhóis na região do rio Branco, mais especificamente na confluência dos rios Tacutu e Uraricoera."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História do Brasil / Período Colonial / Colonização da Amazônia"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Leia o fragmento de texto em que Paul Ferrand ressaltou efeitos decorrentes de eventos naturais ao destacar que:\n\n\"(...) uma cheia do rio será suficiente para destruir em algumas horas trabalhos executados com grande custo, em vários meses. Quantas vezes não foram, por terem demorado nos trabalhos preparatórios de desvio do rio e de esgotamento, surpreendidos pelas chuvas antes de poderem retirar uma única bateia de cascalho rico.\"\n(FERRAND, Paul. O Ouro em Minas Gerais. Belo Horizonte: Sistema Estadual de Planejamento; Centro de Estudos Históricos e Culturais. Fundação João Pinheiro, 1998, p. 151).\n\nA partir do fragmento do texto e do seu conhecimento a respeito do período da Mineração em Minas Gerais, no século XVIII, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O fato de a região mineradora ser a mesma em que se desenvolvia a Economia Açucareira nos séculos XVI e XVII fez com que os mineradores já tivessem conhecimento do regime de chuvas nas Minas Gerais."
+        },
+        {
+          "letra": "B",
+          "texto": "Os mineradores tiveram que se adaptar às condições físicas locais, como a dificuldade de locomoção para a região mineradora a partir do litoral, mas também às condições climáticas da região."
+        },
+        {
+          "letra": "C",
+          "texto": "A mudança da Capital Colonial para o Rio de Janeiro decorreu das chuvas intensas na região mineradora que acabaram por afetar a antiga capital, Salvador, destruindo a estrutura administrativa lá estabelecida."
+        },
+        {
+          "letra": "D",
+          "texto": "Em virtude de eventos climáticos extremos, a região mineradora foi beneficiada com a forte presença de diamantes, tornando-se o produto mais extraído, seja em termos de valor, seja em quantidade, da região mineradora."
+        },
+        {
+          "letra": "E",
+          "texto": "Eventos climáticos como as chuvas e as cheias dos rios não afetavam a região mineradora, pois a estrutura pombalina construída entre 1750-1777, fez com que a província de Minas Gerais estivesse preparada para eventos climáticos extremos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História do Brasil / Brasil Colônia / Ciclo do Ouro"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "A plantação de algodão que fez Mar de Aral virar deserto\nRustam Qobilov - Da BBC Uzbequistão - 26 fevereiro 2015\n\nO desaparecimento do Mar de Aral, na Ásia Central, é uma das maiores catástrofes provocadas pelo homem do mundo. Para estimular o cultivo de algodão, políticas de irrigação agressivas implementadas pelos soviéticos transformaram 90% do que costumava ser o quarto maior lago do mundo em um deserto.\nForam necessários apenas 40 anos para que o quarto maior lago do mundo, o Mar de Aral, na Ásia Central, secasse.\nO que antes eram 60 mil quilômetros quadrados de água, com profundidade de 40 m em alguns locais, evaporou. Agora, resta apenas 10% do lago. [...]\n\nDisponível em: https://www.bbc.com/portuguese/noticias/2015/02/150226_mar_aral_gch_lab (Acesso em 22/09/2023)\nO texto traz informações a respeito de uma das maiores catástrofes ambientais do mundo contemporâneo, a qual foi estabelecida a partir da busca soviética pelo incremento de sua produção agrícola sem se atentar para as condições de preservação do ambiente. Sobre as ações soviéticas para alavancar o seu desenvolvimento, assinale a alternativa CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O Comunismo de Guerra praticado por Kruschev fez com que o país alcançasse altos índices de investimento externo nas décadas de 1950 e 1960."
+        },
+        {
+          "letra": "B",
+          "texto": "A crise do mar de Aral se relaciona com o momento mais dominante da União Soviética, nos anos 1980, quando sua produção agrícola representava mais da metade da produção mundial de alimentos."
+        },
+        {
+          "letra": "C",
+          "texto": "A Nova Política Econômica (NEP) foi um plano econômico que objetivava a abertura temporária do país para o capital privado como forma de recuperar a economia soviética"
+        },
+        {
+          "letra": "D",
+          "texto": "A Perestroika foi o fechamento da economia soviética para investimentos externos, representando o momento de maior estatização da economia."
+        },
+        {
+          "letra": "E",
+          "texto": "A Glasnost representou a abertura econômica do país por meio da entrada da União Soviética aos órgãos das Nações Unidas, como a Organização Mundial do Comércio (OMC)."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História Contemporânea / União Soviética"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Mundo mais quente pode exacerbar doenças como a varíola dos macacos\n\nCada vez mais, cientistas alertam para relação entre emergências de saúde globais e a crise climática\nPor Redação, do Um Só Planeta - 29/07/2022\nÀ medida que o número de infectados com a varíola dos macacos cresce, cientistas de todo o mundo alertam para o risco de doenças que passam de animais para humanos serem exacerbadas em um mundo cada vez mais quente. É que os extremos climáticos intensificados pelo aquecimento global tendem a reduzir a distância entre a vida selvagem e as populações humanas, tornando encontros entre animais e pessoas mais comuns e propiciando contaminações. A doença, endêmica em regiões da África, já atingiu neste ano mais de 20 mil pessoas em 77 países.\n(Disponível em: https://umsoplaneta.globo.com/clima/noticia/2022/07/29/mundo-mais-quente-pode-exacerbar-doencas-como-a-variola-dos-macacos.ghtml)\n\nNo Brasil, outro tipo de Varíola, a humana, foi erradica em 1971, a partir de intensas campanhas de vacinação. Entretanto, no começo dessas ações, mais precisamente em 1904, o sanitarista Oswaldo Cruz estabeleceu uma campanha de vacinação obrigatória no Rio de Janeiro que, devido a uma série de fatores, acabou resultando na Revolta da Vacina.\n\nA respeito desse evento histórico e das motivações para a insatisfação popular responsável pela eclosão da Revolta, assinale a alternativa INCORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O país tinha abolido a escravidão e adotado o regime republicano há menos de vinte anos, fazendo com que existissem diversos grupos descontentes com os rumos políticos e sociais do governo."
+        },
+        {
+          "letra": "B",
+          "texto": "O projeto de reurbanização do Rio de Janeiro, cujo o objetivo era mudar a imagem da capital do país, fez com que fossem demolidos diversos cortiços, nos quais residiam a população pobre, mas não se ofereceram alternativas de moradia para essas pessoas."
+        },
+        {
+          "letra": "C",
+          "texto": "a aprovação da lei sugerida por Oswaldo Cruz, a qual tornava obrigatória a exigência de comprovantes de vacinação contra a varíola para a realização de matrículas nas escolas, obtenção de empregos, autorização para viagens e certidões de casamentos."
+        },
+        {
+          "letra": "D",
+          "texto": "O lançamento no Rio de Janeiro de um código de posturas municipais que proibiu, entre outras coisas, a presença de vacas leiteiras nas ruas, a venda de miúdos e carnes nas bancas da cidade, o costume de andar descalço pelo Centro, entre outras medidas de caráter sanitário."
+        },
+        {
+          "letra": "E",
+          "texto": "A Revolta ocorreu em virtude da maioria da população da cidade do Rio de Janeiro se declarar cristã e por isso aceitar que as doenças são desígnios divinos que não devem ter nenhuma forma de combate, como a vacina."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – História do Brasil / República Velha / Revolta da Vacina"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Hidrelétricas no Brasil: o clima e a herança da ditadura\n\nA emergência da questão ambiental e social na construção de barragens\n(...)\nDurante a década de 1970, contudo, essa percepção começou a mudar. Foi nesse período que a opinião pública brasileira começou a se preocupar com o aumento da poluição do ar, a questão da má gestão do lixo, da água contaminada e da agricultura predatória. Isso aconteceu ao mesmo tempo em que a questão dos impactos das atividades humanas sobre o meio ambiente tornou-se um problema discutido internacionalmente. Também nesse período surgiu preocupação maior com o destino da floresta Amazônica. Assim, projetos de barragens nessa região, como a de Tucuruí, no rio Tocantins, no Pará; a de Balbina, no rio Uatumã, no Amazonas; e o projeto do complexo hidrelétrico de Altamira (mais tarde rebatizado Belo Monte), no rio Xingu, foram alvos de muitas críticas.\n(...)\nFonte: CAPELLINI, Nathalia. https://www.historiadaditadura.com.br/post/hidreletricasnobrasiloclimaeaherancadaditadura\n\nO fragmento de texto aponta para algumas consequências ambientais de medidas realizadas durante a ditadura militar no Brasil. A respeito desse período, assinale a alternativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A partir dos investimentos em produção energética, o Brasil se tornou um dos principais exportadores de energia do mundo no final da década de 1960, aproveitando-se desse saldo para zerar sua dívida externa ao final do governo militar."
+        },
+        {
+          "letra": "B",
+          "texto": "A preocupação ambiental decorrente da atuação brasileira na Declaração de Estocolmo em 1972, fez com que a ditadura militar reordenasse seus projetos para a Amazônia, tornando-os eminentemente preservacionistas."
+        },
+        {
+          "letra": "C",
+          "texto": "O forte crescimento econômico vivido pelo Brasil no final da década de 1960 e início de 1970 foi consequência da adoção pelo Brasil do modelo de Economia Verde, tanto que nesse período o país realizou as primeiras vendas de crédito de carbono."
+        },
+        {
+          "letra": "D",
+          "texto": "A bonança econômica da primeira década da ditadura militar fez com que não houvesse qualquer tipo de contestação política, seja ela pacífica ou armada, por parte de setores da população em relação ao governo."
+        },
+        {
+          "letra": "E",
+          "texto": "O denominado \"milagre econômico”, entre os anos 1967 e 1973, fez com que o Produto Interno Bruto brasileiro crescesse, mas foi incapaz de reduzir de forma drástica a desigualdade de renda dentro da população."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – História do Brasil / Ditadura Militar / Milagre Econômico"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "Isômeros alotrópicos são constituídos pelo mesmo elemento, o que significa que eles têm a capacidade de se combinar com átomos do mesmo elemento, resultando em substâncias simples distintas, devido às variações nas ligações atômicas. Um elemento que exibe alotropia é o enxofre.\n\nDentre as alternativas abaixo, marque a que apresenta as formas alotrópicas mais comuns do enxofre e como elas distinguem em termos de estrutura.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Rômbico e Monoclínico; Ambas as formas apresentam o mesmo arranjo espacial no retículo cristalino, mas diferem em termos de densidade, ponto de fusão e ebulição."
+        },
+        {
+          "letra": "B",
+          "texto": "Amorfo e Policristalino; O enxofre amorfo tem cheiro de alho, é fosforescente, mole e altamente venenoso, enquanto o enxofre policristalino é inodoro, não fosforescente, duro e menos venenoso."
+        },
+        {
+          "letra": "C",
+          "texto": "Amorfo e Rômbico; O enxofre Amorfo tem uma estrutura molecular cíclica, enquanto o enxofre Rômbico tem uma estrutura molecular linear."
+        },
+        {
+          "letra": "D",
+          "texto": "Rômbico e Monoclínico; O enxofre rômbico é mais estável e se apresenta na forma de cristais amarelos e transparentes, enquanto o enxofre monoclínico é menos estável e tem a forma de agulhas e são opacas."
+        },
+        {
+          "letra": "E",
+          "texto": "Monoclínico e Policristalino; O enxofre monoclínico é mais estável e se apresenta na forma de cristais amarelos e transparentes, enquanto o enxofre policristalino é menos estável e tem a forma de agulhas e são opacas."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Química Geral / Alotropia"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "A uma temperatura de 20 °C, o cobre exibe uma densidade de $8,9 \\text{ g} \\cdot \\text{mL}^{-1}$. Dessa forma, quantos átomos deste elemento estão contidos em uma amostra de 0,010 L, a 20 °C? (Dados: Constante de Avogadro é $6,02 \\times 10^{23}$)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$8,9 \\cdot 10^{22}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$4,3 \\cdot 10^{23}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$6,0 \\cdot 10^{23}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$8,4 \\cdot 10^{23}$"
+        },
+        {
+          "letra": "E",
+          "texto": "6,0"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Estequiometria / Relações Numéricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Em relação aos íons, marque V para as afirmativas verdadeiras e F para as falsas.\n\n( ) O ânion fluoreto ($F^{-1}$), o neônio (Ne) e o cátion sódio ($Na^{1+}$) têm em comum o mesmo número de elétrons.\n( ) O ion $Mg^{2+}$ tem 12 prótons e 10 elétrons presentes.\n( ) O raio do átomo é sempre maior que o raio do respectivo cátion.\n( ) A energia de ionização dos gases nobres segue a seguinte ordem $He>Ne>Ar> Kr>Xe$.\n( ) O $Co^{3+}$ tem configuração eletrônica $[Ar]3d^6$.\n\nA sequência CORRETA é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "F, F, F, F, F"
+        },
+        {
+          "letra": "B",
+          "texto": "V, V, F, V, V"
+        },
+        {
+          "letra": "C",
+          "texto": "F, F, V, F, F"
+        },
+        {
+          "letra": "D",
+          "texto": "V, V, V, V, V"
+        },
+        {
+          "letra": "E",
+          "texto": "V, V, V, F, V"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Atomística / Tabela Periódica"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "Assinale a alternativa que contém, respectivamente, a espécie química que sofre redução, a que sofre oxidação e o potencial desenvolvido ($\\Delta E$) pela célula representada abaixo:\n$Zn | Zn^{2+}(1M) || Fe^{3+} (1 M), Fe^{2+} (1 M) | Pt$\nDados: ($E^\\circ_{Fe^{3+}/Fe^{2+}} = 0,77V, E^\\circ_{Zn^{2+}/Zn} = - 0,76V$)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Zn; $Fe^{3+}$; 0,01V"
+        },
+        {
+          "letra": "B",
+          "texto": "Zn; $Fe^{3+}$; 1,53V"
+        },
+        {
+          "letra": "C",
+          "texto": "$Fe^{3+}$; Zn; 1,53V"
+        },
+        {
+          "letra": "D",
+          "texto": "$Fe^{3+}$; Zn; 0,01V"
+        },
+        {
+          "letra": "E",
+          "texto": "$Fe^{3+}$; Zn; - 1,53V"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Eletroquímica / Pilhas"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "Qual a variação de entalpia de formação ($\\Delta H$) a 298K da reação não balanceada abaixo:\n$CH_{4(g)} + CuO_{(s)} \\rightarrow CO_{2(g)} + H_2O_{(l)} + Cu_{(s)}$\nDados:\n$\\Delta H^\\circ_f [CO_{2(g)}] = - 94 \\text{ kcal/mol}$\n$\\Delta H^\\circ_f [H_2O_{(l)}] = - 68 \\text{ kcal/mol}$\n$\\Delta H^\\circ_f [Cu_{(s)}] = 0 \\text{ kcal/mol}$\n$\\Delta H^\\circ_f [CH_{4(g)}] = - 18 \\text{ kcal/mol}$\n$\\Delta H^\\circ_f [CuO_{(g)}] = - 37 \\text{ kcal/mol}$",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\Delta H= -217 \\text{ kcal}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\Delta H= - 175 \\text{ kcal}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\Delta H= - 396 \\text{ kcal}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\Delta H= - 64 \\text{ kcal}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\Delta H = - 107 \\text{ kcal}$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Termoquímica / Lei de Hess"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Qual a solubilidade em mol/L de $Fe(OH)_3$ em solução de pH =8?\nDados: $K_{ps} \\text{Fe(OH)}_3 = 1,0 \\times 10^{-36}$",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$1,0 \\times 10^{-36}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$1,0 \\times 10^{-18}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$1,0 \\times 10^{-28}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$1,0 \\times 10^{-20}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$1,0 \\times 10^{-8}$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Equilíbrio Químico / Equilíbrio de Solubilidade (Kps)"
+      ]
+    },
+    {
+      "numeroEnunciado": 61,
+      "enunciado": "No dia 14 de outubro de 2023 foi possível observar de algumas áreas do território brasileiro um eclipse solar. Um eclipse solar é um fenômeno que ocorre quando a Lua se interpõe entre a terra e o sol, ocultando total ou parcialmente a sua luz numa estreita faixa na superfície terrestre. Entretanto, essa é uma atividade que demanda uma série de cuidados de maneira a não oferecer nenhum tipo de risco permanente à visão. A capacidade da visão está intimamente relacionada a química. A vitamina A ou retinol, composto utilizado na produção de retinal, componente da molécula de rodopsina, encontrada na retina dos olhos e responsável pela absorção da luz, de acordo com a transformação representada de maneira simplificada no esquema a seguir.\n\nSobre a reação envolvida no metabolismo do retinol foram feitas as seguintes afirmações:\n\nI. Retinol e Retinal apresentam isomeria cis-trans.\nII. As fórmulas moleculares do retinol e retinal são $C_{20}H_{30}O$ e $C_{20}H_{28}O$, respectivamente.\nIII. O retinol sofre oxidação total ao ser transformado em retinal.\nIV. Retinal é um tautômero do retinol.\nV. O retinol é um álcool convertido a aldeído, pela saída de átomos de hidrogênio da molécula, na obtenção do retinal.\n\nEstão CORRETAS apenas as afirmações:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e IV"
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e III"
+        },
+        {
+          "letra": "C",
+          "texto": "III, IV e V"
+        },
+        {
+          "letra": "D",
+          "texto": "II, IV e V"
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e V"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Química Orgânica / Reações Orgânicas / Isomeria"
+      ]
+    },
+    {
+      "numeroEnunciado": 62,
+      "enunciado": "A Nomenclatura IUPAC refere-se ao estabelecimento de regras para a escrita dos nomes dos compostos que são oficialmente aceitos em todo o mundo. Essas regras são estabelecidas pela IUPAC (União internacional da Química Pura e Aplicada, sigla que vem do inglês International Union of Pure na Applied Chemistry). Desde 1892, esse órgão tem realizado reuniões internacionais envolvendo químicos bem-conceituados para aperfeiçoar essa nomenclatura.\nCom relação ao composto abaixo, utilizando das regras da IUPAC, marque a alternativa que apresenta CORRETAMENTE o nome do composto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2,6-dimetil-fenol"
+        },
+        {
+          "letra": "B",
+          "texto": "1,3-dimetil-ciclo-hexa-3,5-dien-2-ol"
+        },
+        {
+          "letra": "C",
+          "texto": "2,6-dimetil-1-hidroxibezeno"
+        },
+        {
+          "letra": "D",
+          "texto": "2,6-dimetil-ciclo-hexa-2,4-dien-1-ol"
+        },
+        {
+          "letra": "E",
+          "texto": "1-hidroxi-2,6-dimetil-ciclo-hexa-2,4-eno"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Química Orgânica / Nomenclatura IUPAC"
+      ]
+    },
+    {
+      "numeroEnunciado": 63,
+      "enunciado": "A Rotenona é uma substância orgânica de origem natural com ação inseticida e piscicida, encontrada nos extratos de raízes e caules de plantas em muitos países da América do Sul, Sul da Ásia e na Austrália, como por exemplo, nas espécies dos gêneros Derris, Lonchocarpus e Tephrosia.\n\nLeia as seguintes afirmativas sobre a Rotenona\n\nI. A molécula apresenta centros estereogênicos.\nII. Possui as funções cetona e éter.\nIII. Possui 4 misturas racêmicas opticamente inativas, por compensação interna.\nIV. O número total de estereoisômeros opticamente ativos e racêmicos é 12.\nV. O termo diastereoisômeros serve para indicar os isômeros ópticos da molécula que não são enantiomorfos entre si.\n\nEstão CORRETAS apenas as afirmativas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II, IV, V"
+        },
+        {
+          "letra": "B",
+          "texto": "I, II, III, IV"
+        },
+        {
+          "letra": "C",
+          "texto": "II, III, IV, V"
+        },
+        {
+          "letra": "D",
+          "texto": "I, III, IV, V"
+        },
+        {
+          "letra": "E",
+          "texto": "II, III, IV"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Química Orgânica / Isomeria Óptica / Funções Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 64,
+      "enunciado": "TEXTO I\n\nWhy your perception of climate change threats might depend on where you live - new research\n\nOur planet has just seen its hottest month on record, with many places on fire or flooded. [...] However, not everyone notices or feels this threat to the same extent. [...] In our study, we wanted to find out how British people who live in cities experience the threat of climate change, compared with people who live rurally. Based on a representative sample of 1,071 survey respondents from across the UK, we found that people in rural areas showed higher degrees of place attachment than people living in cities, as we expected. However, we were surprised to see that the perceived threat of climate change in the most rural locations was lower. [...] there are three compelling explanations.\n1. Awareness\nPeople in rural areas may not be as aware of climate change as people in cities. [...] However, looking more closely, the effect is mostly down to education rather than whether people live in rural areas or not. [...]\n2. Experience\nPeople in rural areas may not experience climate change in the same way as people in cities. This is because rural areas have higher levels of green space than urban areas. For example, you will feel the heat less when you are surrounded by trees.\n3. Resilience\n[...] Rural people may be aware of climate change and they may experience it like everyone else, but they may have better ways of coping with it than city dwellers because of their closer relationship with nature. This may have taught them to be more flexible in how they deal with change. [...]\nClimate change is certainly worrying for most of us and sometimes linked with heightened anxiety. [...] What matters is what we do in our everyday lives, how much we recognise that things are changing and whether we are willing to take action.\n\nDisponível e adaptado de: https://theconversation.com/why-your-perception-of-climate-change-threats-might-depend-on-where-you-live-new-research-212888 Acesso em: 13 set. 2023.\n\nInvestigações que usam a entrevista como instrumento de pesquisa têm o potencial de revelar percepções sociais importantes. O texto apresenta resultados de um estudo que tinha o objetivo de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "conscientizar sobre a importância da tomada de atitude em relação às questões climáticas."
+        },
+        {
+          "letra": "B",
+          "texto": "mostrar que a resiliência e a flexibilidade são atributos essenciais para lidar com mudanças."
+        },
+        {
+          "letra": "C",
+          "texto": "comparar como residentes urbanos e rurais vivenciam a ameaça da mudança climática."
+        },
+        {
+          "letra": "D",
+          "texto": "minimizar os efeitos da mudança climática com a construção de espaços verdes em áreas urbanas."
+        },
+        {
+          "letra": "E",
+          "texto": "checar se o nível educacional tem impacto em comportamentos ambientalmente responsáveis."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 65,
+      "enunciado": "Poetic License is the change of the conventional rules of a language to create an effect. The extract that DOES NOT contain any deviation from standard English is:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "It feel like summer"
+        },
+        {
+          "letra": "B",
+          "texto": "She feel like summer"
+        },
+        {
+          "letra": "C",
+          "texto": "This feel like summer"
+        },
+        {
+          "letra": "D",
+          "texto": "Air that kill the bees"
+        },
+        {
+          "letra": "E",
+          "texto": "I feel like summer"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Gramática / Concordância Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 66,
+      "enunciado": "TEXTO II\nOvid on climate change\n(Eliza Griswold)\n\nBastard, the other boys teased him,\ntill Phaethon unleashed the steeds\nof Armageddon. He couldn't hold\ntheir reins. Driving the sun too close\nto earth, the boy withered rivers,\ntorched Eucalyptus groves, until the hills\nburst into flame, and the people's blood\nboiled through the skin. Ethiopia,\nland of burnt faces. In a boy's rage\nfor a name, the myth of race begins.\n\nDisponível em: https://www.poetryfoundation.org/poetrymagazine/poems/55952/ovid-on-climate-change. Acesso em: 18 set. 2023.\n\nO poema faz alusão ao mito de Ovídio para abordar a questão da mudança climática. A narrativa prioriza o uso:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "de adjetivos relacionados à temperatura."
+        },
+        {
+          "letra": "B",
+          "texto": "do futuro simples para apontar previsões."
+        },
+        {
+          "letra": "C",
+          "texto": "do passado simples para contar uma história."
+        },
+        {
+          "letra": "D",
+          "texto": "do presente simples para indicar frequência."
+        },
+        {
+          "letra": "E",
+          "texto": "de países para marcar seu caráter universal."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto / Tempos Verbais"
+      ]
+    },
+    {
+      "numeroEnunciado": 67,
+      "enunciado": "TEXT III\nFor a livable climate: Net-zero commitments must be backed by credible action\n\nWhat is net zero?\nPut simply, net zero means cutting greenhouse gas emissions to as close to zero as possible, with any remaining emissions re-absorbed from the atmosphere, by oceans and forests for instance.\n\nHow can net zero be achieved?\nTransitioning to a net-zero world is one of the greatest challenges humankind has faced. It calls for nothing less than a complete transformation of how we produce, consume, and move about. The energy sector is the source of around three-quarters of greenhouse gas emissions today and holds the key to averting the worst effects of climate change. Replacing polluting coal, gas and oil-fired power with energy from renewable sources, such as wind or solar, would dramatically reduce carbon emissions.\n\nIs there a global effort to reach net zero?\nYes, a growing coalition of countries, cities, businesses and other institutions are pledging to get to net-zero emissions. More than 70 countries, including the biggest polluters - China, the United States, and the European Union – have set a net-zero target, covering about 76% of global emissions. More than 3,000 businesses and financial institutions are working with the Science-Based Targets Initiative to reduce their emissions in line with climate science. And more than 1000 cities, over 1000 educational institutions, and over 400 financial institutions have joined the Race to Zero, pledging to take rigorous, immediate action to halve global emissions by 2030.\n\nHow do we ensure commitments are turned into action?\nThe growth in net-zero pledges has been accompanied by a proliferation of criteria with varying levels of robustness. To develop stronger and clearer standards for net-zero emissions pledges by non-State entities such as businesses, investors, cities and regions, and speed up their implementation, UN Secretary-General António Guterres in March 2022 established a High-Level Expert Group on the Net-Zero Emissions Commitments of Non-State Entities. The Expert Group presented its recommendations at COP27 on 8 November 2022.\n\nAre we on track to reach net zero by 2050?\nNo, commitments made by governments to date fall far short of what is required. Current national climate plans for 193 Parties to the Paris Agreement taken together would lead to a sizable increase of almost 11% in global greenhouse gas emissions by 2030, compared to 2010 levels. Getting to net zero requires all governments – first and foremost the biggest emitters to significantly strengthen their Nationally Determined Contributions (NDCs) and take bold, immediate steps towards reducing emissions now. The Glasgow Climate Pact called on all countries to revisit and strengthen the 2030 targets in their NDCs by the end of 2022, but only 24 new or updated climate plans were submitted by September 2022.\n\nDisponível e adaptado de: https://www.un.org/en/climatechange/net-zero-coalition Acesso em: 22 set. 2023.\n\nO Texto III traz informações sobre a redução de emissões de gases de efeito estufa na atmosfera de modo a promover a melhoria do clima em nosso planeta. Assinale a alternativa que evidencia duas propostas que contribuem com essa promoção.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A primeira proposta está relacionada com a criação de um grupo de peritos para desenvolver diversos critérios com variados níveis de robustez quanto ao compromisso de emissões zero. A segunda proposta se refere à busca pelo caminho certo para atingir a meta de emissão zero até 2050."
+        },
+        {
+          "letra": "B",
+          "texto": "A primeira proposta para a redução desses gases seria a substituição das atuais fontes poluentes e geradoras de energia (carvão, gás e petróleo) por fontes renováveis, como a eólica e a solar. A segunda seria a criação de padrões mais claros e consistentes para o cumprimento dos compromissos de emissão zero por parte de entidades não estatais."
+        },
+        {
+          "letra": "C",
+          "texto": "É importante que haja uma redução de quase metade das emissões até o ano de 2030, e que elas não mais ocorram a partir de 2050. Além disso, para alcançar a meta de emissão zero é necessária a tomada de medidas ousadas e imediatas por parte de todos os governos, sobretudo os considerados maiores emissores."
+        },
+        {
+          "letra": "D",
+          "texto": "A primeira proposta destaca a importância da emissão zero pois, para evitar impactos de alterações climáticas e preservar um planeta habitável, o aumento da temperatura global precisa ser limitado à 1,5°C, tal como exigido no Acordo de Paris; A segunda proposta sinaliza o comprometimento de diversas e inúmeras instituições que aderiram à Corrida pelo Zero, visando a adoção de medidas rigorosas e imediatas para a redução pela metade das emissões globais até o ano de 2030."
+        },
+        {
+          "letra": "E",
+          "texto": "O texto aponta que há uma elevação de cerca de um grau na temperatura da Terra nos dias de hoje, o que já denota aumento em relação ao século XIX, e essas emissões ainda continuam a subir. O texto também menciona que uma das formas de se alcançar a emissão zero exige uma total mudança na forma como vivemos hoje."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 68,
+      "enunciado": "Adverbs of manner are words or phrases that describe how an action is done in the context of a sentence. According to the use in Text I, choose the option that shows a sequence of adverbs of manner.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "clearly - currently – dramatically"
+        },
+        {
+          "letra": "B",
+          "texto": "simply - clearly – currently"
+        },
+        {
+          "letra": "C",
+          "texto": "currently - dramatically – significantly"
+        },
+        {
+          "letra": "D",
+          "texto": "simply - clearly – dramatically"
+        },
+        {
+          "letra": "E",
+          "texto": "clearly - currently – significantly"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Gramática / Advérbios"
+      ]
+    },
+    {
+      "numeroEnunciado": 69,
+      "enunciado": "TEXTO IV\n\nThe Climate is Changing!\n\nEven with all the measures taken, it will take decades to reverse global warming – so we must be PREPARED to manage extreme weather and natural disasters!\nThe climate is always changing naturally, but in the last 200 years, human behavior has had an added influence.\n\n* Thinning the ozone layer\n* CO2 in the atmosphere => global warming\n\nWhat to do?\nBuild sturdy cities and houses\nBuild resilience\nImprove water management to deal with droughts\nEducate\nMake plans: national policies & planning\n\nAll nations must work together to help mitigate and adapt to climate change and its impacts for the benefit of people everywhere.\n\nDisponível e adaptado de: https://eltplanning.com/2023/01/22/useful-resource-comics-uniting-nations/ Acesso em: 22 set. 2023.\n\nThe text above is a production of The Uniting Nations to make people aware of the Sustainable Development Goal (SDG) 13, which has the following official mission statement: Take urgent action to combat climate change and its impacts. It's known that actions aimed at climate change have been requested for a long time, but there's still a lot to be done. Baring this in mind, choose the alternative that contains suggestions for achieving the SDG 13 that are mentioned in the text.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Thinning ozone layer and building resilience, as well as sturdy cities and houses."
+        },
+        {
+          "letra": "B",
+          "texto": "Taking extreme measures to reverse global warming and releasing CO2 in the atmosphere, as well as managing extreme weather and natural disasters."
+        },
+        {
+          "letra": "C",
+          "texto": "Improving water management to deal with droughts and planning national policies, as well as educating the population about which climate actions must be taken."
+        },
+        {
+          "letra": "D",
+          "texto": "Benefiting people everywhere, working together and investing in special umbrellas to protect people from the acid rain."
+        },
+        {
+          "letra": "E",
+          "texto": "Helping mitigate and adapt to climate change and its impacts as well as reporting on the melting of glaciers and the risk that arctic animals face."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 70,
+      "enunciado": "TEXTO V\n\nOpinion Life and style\nWhat's in your go bag for the apocalypse?\nEmma Beddington\n\nWith more and more people prepping for Armageddon, the answers to this question are revealing – whether it's Babybels, cash, crossbows or toilet paper\nSun 24 Sep 2023 14.00 BST\n\nThe author Lauren Groff has become a prepper. “I think everyone should have a go bag right now,\" she told National Public Radio (NPR) in the US. \"I think every household should have enough food to last through at least two weeks. This is just logical at this point.\"\nGroff lives in Florida, where dangerously extreme weather has become a fact of life – we're lucky enough to be spared that in the UK, at least for now. But as a semi-professional catastrophist one apocalyptic sandwich board short of full doom-monger status am I missing a trick? Should I have a go bag and what should go in it? Online recommendations include water – one of my least favourite fluids – cereal bars, first aid supplies, spare clothes, medication and paperwork. Practical, but short on bells and whistles (actually, they do recommend taking a whistle).\nAfter asking around for inspiration, I have decided that the first kneejerk answer is very revealing. “Babybels,\" said my friend T, instantly, as if he had waited his entire life for me to ask. \"Two layers of protection, mouldable wax to make effigies of lost humanity – and you can use the bag to catch fish.\" \"Dreamies,\" said M, still in thrall to her cat and its treat demands come Armageddon. \"And Côte d'Or caramelised salted almond chocolate.\" F went for cyanide capsules and The Golden Bowl by Henry James (useful for both entertainment and kindling). My husband looked genuinely thrilled with my question – a first for any work-related research I have conducted on him. \"A pile of cash (to use for the first few days, before everyone realises it's worthless) and all the weapons I can find.\"\nWhat you pack depends on whether you are prepping for a temporary displacement (toilet paper, paracetamol, passport) or the end of the world (whatever my husband is bringing; he's looking up crossbows online as I write). But for both scenarios I have decided on my essentials: an insulated flask of dirty martini and several of the big 70g bags of Hula Hoops I usually save for weekends. The apocalypse is no reason to cancel my aperitif. What's going in yours?\n\nDisponível e adaptado de:: https://www.theguardian.com/commentisfree/2023/sep/24/whats-in-your-go-bag-for-the-apocalypse\nAcesso em: 24 de Setembro de 2023.\n\nConsidere o seguinte trecho do texto: “I think everyone should have a go bag right now,” she told National Public Radio (NPR) in the US.\nAssinale a alternativa que apresenta a forma correta do discurso indireto, levando-se em conta a permanência do momento de produção da fala, mas entendendo que houve mudança de pessoa e lugar.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "She thought everyone should have a go bag right then."
+        },
+        {
+          "letra": "B",
+          "texto": "She thinks everyone should have a go bag right now."
+        },
+        {
+          "letra": "C",
+          "texto": "She thought they should have had a go bag then."
+        },
+        {
+          "letra": "D",
+          "texto": "She thinks everyone could have had a go bag right now."
+        },
+        {
+          "letra": "E",
+          "texto": "I thought everyone should have a go bag then."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Gramática / Discurso Indireto (Reported Speech)"
+      ]
+    },
+    {
+      "numeroEnunciado": 71,
+      "enunciado": "Considering the section of the newspaper in which the text was published, the contemporary discussions about global heating and other climate disorders, as well as your previous knowledge on the theme, mark the alternative that best represents the tone the author implemented in her article:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "The author chooses to use irony to approach the theme \"climate crisis\" because she does not believe that is as serious as people insist on saying. She offers some examples of why we shouldn't take it so seriously."
+        },
+        {
+          "letra": "B",
+          "texto": "Because the theme – climate crisis – is extremely serious and urgent, the author uses a sober tone in her writing, using words, punctuation and examples that reveal how concerned she is in relation to that."
+        },
+        {
+          "letra": "C",
+          "texto": "As the text brings a serious and urgent theme, the climate crisis the planet is facing, the author decides to make a little fun, since there is nothing else that can be done but to wait for the worse to come."
+        },
+        {
+          "letra": "D",
+          "texto": "Considering the fact that the newspaper The Guardian declared the theme \"climate crises” is extremely relevant, the author of this text decided to bring some entertainment to the readers, who have been excessively worried."
+        },
+        {
+          "letra": "E",
+          "texto": "Although the text brings a serious and urgent theme, the climate crisis the planet has been facing, the author chooses to write about it in a sarcastic and fun way. It does not mean, however, that the subject is treated an unimportant."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Inglês – Interpretação de Texto / Tom e Intenção do Autor"
+      ]
+    },
+    {
+      "numeroEnunciado": 72,
+      "enunciado": "TEXTO VI\n\nThe Earth Song (Michael Jackson)\n\nWhat about sunrise?\nWhat about rain?\nWhat about all the things\nThat you said we were to gain?\n(...)\nWhat have we done to the world?\nLook what we've done\nWhat about all the peace\nThat you pledge your only son?\n\nWhat about flowering fields?\nIs there a time?\nWhat about all the dreams\nThat you said was yours and mine?\n(...)\nHey, what about yesterday?\n(What about us?)\nWhat about the seas?\n(What about us?)\nThe heavens are falling down\nI can't even breathe\nWhat about apathy?\nI need you\nWhat about nature's worth?\nIt's our planet's womb\nWhat about animals?\nWe've turned kingdoms to dust\nWhat about elephants?\nHave we lost their trust?\nWhat about crying whales?\nWe're ravaging the seas\nWhat about forest trails?\n(Ooh)\n(What about us?)\n(...)\n\nAdapted from: www.lyrics.com/lyric/6689956/Michael+Jackson/Earth+Song\nLast access on September 24,2023\n\n\"The Earth Song\" was a great success when it was released, in 1995. It makes people reflect upon the necessity to feel responsible for the planet. In the lyrics, the verses \"That you said we were to gain\" and \"That you said was yours and mine\" are examples of reported speech. Consider the context and mark the alternative which brings the best representation of the direct form of such sentences:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "We are to gain many things / These dreams are mine and yours."
+        },
+        {
+          "letra": "B",
+          "texto": "We gained many things / These dreams are ours."
+        },
+        {
+          "letra": "C",
+          "texto": "They are to gain many things / The dreams belong to you and to me."
+        },
+        {
+          "letra": "D",
+          "texto": "They gain many things / These dreams are mine and yours."
+        },
+        {
+          "letra": "E",
+          "texto": "We are to gain many things / These dreams are yours and me."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Gramática / Discurso Indireto (Reported Speech)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2446 @@
+{
+  "nomeUniversidade": "ESPM",
+  "siglaUniversidade": "ESPM",
+  "nomeProva": "VESTIBULAR",
+  "ano": "2023/1",
+  "qtdeQuestoes": 78,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Texto para as questões 1 e 2:\n(...)\nO Estado de Direito se fortalece com a garantia ao contraditório, o sistema de freios e contrapesos para a gestão pública. Não se trata de temas abstratos. Eles se desdobram nas práticas do governo em países desenvolvidos, como a não retaliação da imprensa que o critica, por mais injusta que seja, e o não favorecimento daquela que o apoia.\nAs democracias maduras construíram mecanismos que limitam a discricionaridade da gestão pública para favorecer grupos de interesse pelo receio de corrupção. Existe outro risco. Políticas baseadas em subsídios muitas vezes fracassam em seus objetivos. Entretanto, elas criam castas que se beneficiam desses privilégios e que se entrincheiram para evitar sua remoção (Mancur Olson, “The Logic of Collective Action'').\nGestores, públicos e privados, costumam esconder seus fracassos ou malfeitos. Por vezes, adotam medidas oportunistas, com benefícios imediatos em troca de custos bem mais altos no futuro. Daí a importância de uma governança, incluindo agências reguladoras, com mandato e alçadas, que garanta a transparência dos procedimentos e a avaliação dos resultados. (...)\n(Marcos Lisboa, \"Tambores e Fumaça\", Folha de S.Paulo, 13/08/2022, adaptado)\n\nSegundo o texto:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "O Brasil vive o pleno Estado de Direito, uma vez que, apesar de possuir certas divergências ideológicas internas, aceitam- -se tacitamente opiniões contrárias."
+        },
+        {
+          "letra": "b",
+          "texto": "No Estado de Direito, o contraditório é saudável, pois funciona como uma espécie de controlador dos atos praticados pela administração pública."
+        },
+        {
+          "letra": "c",
+          "texto": "Os países desenvolvidos sabem distinguir uma imprensa apoiadora de governo, merecedora de benefícios, de uma imprensa crítica, merecedora de censura."
+        },
+        {
+          "letra": "d",
+          "texto": "As democracias maduras desenvolveram instrumentos de transparência nos procedimentos políticos para evitar corrupção e alternância de grupos de interesse."
+        },
+        {
+          "letra": "e",
+          "texto": "Governos democráticos também tomam medidas oportunistas para esconder fracassos; em consequência acabam pagando um preço muito alto no futuro por isso."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "No primeiro parágrafo, a oração: “...por mais injusta que seja...” estabelece uma relação de:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "proporção"
+        },
+        {
+          "letra": "b",
+          "texto": "comparação"
+        },
+        {
+          "letra": "c",
+          "texto": "concessão"
+        },
+        {
+          "letra": "d",
+          "texto": "causa"
+        },
+        {
+          "letra": "e",
+          "texto": "consequência"
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Conectivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Um Retrato Anticelebratório\nO centenário da independência, em 1922, é hoje lembrado pela erupção modernista que propôs reimaginar o Brasil. Os 150 anos foram celebrados pela ditadura militar com ufanismo e nas imagens empoeiradas de Independência ou Morte. O bicentenário chegou e encontrou um país órfão de imagens.\nEm meio a esse estado de catalepsia, a série Independências tem o efeito de despertar quem fica deitado eternamente em berço esplèndido. O projeto da TV Cultura foi desenvolvido ao longo de um ano e meio e tem o diretor Luiz Fernando Carvalho como sua face mais reluzente.\nA ambição dos 16 episódios, cuja exibição começou na quarta-feira 7, é ir além da celebração para indagar o que somos. 'Duvido da celebração, não concordo com ela. Duvido um pouco da ideia de nação e duvido também se somos uma democracia. Duvido, sobretudo, das representações, das imagens desse passado. Por isso, Independências vai na contramão da celebração”, provoca Carvalho.\n\n“Independências surgiu como oportunidade para refletir sobre a brasilidade, algo que sempre fiz em meus trabalhos”, diz. “O projeto tinha uma abertura que permitia fazer ética e esteticamente uma reflexão sobre o País, incluindo os apagamentos impostos pela visão oficial do período imperial.”\nNa contramão das comemorações oficiais que se fantasiam de verde e amarelo e ostentam um coração conservado em formol, Independências não pretende erigir mais um monumento ao passado. (...)\n“Desde a escrita, nossa primeira atenção foi buscar essas vozes, que sempre estiveram fora das versões oficiais, e incorporar as coordenadas que ficaram apagadas'', explica. 'Neste projeto, me dei conta de várias coordenadas, das africanas às indígenas.'' (...)\n(Cássio Starling Carlos, Revista Carta Capital, 14/09/2022)\n\nCom a série Independências, o diretor Luiz Fernando Carvalho só não busca:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "preencher um espaço icônico para festejar a data dos 200 anos de Independência do Brasil."
+        },
+        {
+          "letra": "b",
+          "texto": "oferecer uma visão crítica e ativa de um episódio importante da história do Brasil."
+        },
+        {
+          "letra": "c",
+          "texto": "discutir a brasilidade, em busca de uma identidade nacional."
+        },
+        {
+          "letra": "d",
+          "texto": "trazer à tona a participação dos negros e dos indígenas, omitida nas versões oficiais do período imperial."
+        },
+        {
+          "letra": "e",
+          "texto": "ser cético sobre a existência, no país, de soberania popular e de distribuição equitativa do poder."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Apesar de o juro real estar perto de 6% (nível considerado restritivo), a capacidade ociosa da economia tem ficado cada vez menor, e alguns modelos apontam que a economia já opera acima da sua capacidade produtiva. Com as medidas de núcleo da inflação – aquelas que buscam captar a tendência dos preços desconsiderando efeitos de choques temporários – em 10% nos últimos 12 meses (o mesmo valor dos últimos 3 meses anualizados), é difícil argumentar que a inflação esteja sofrendo algum efeito de uma demanda mais fraca.\n(Solange Srour, Folha de S.Paulo, 07/09/2022)\n\nNo tocante à pontuação do texto acima, só não está correto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "A primeira vírgula do texto separa uma oração adverbial."
+        },
+        {
+          "letra": "b",
+          "texto": "As duas ocorrências de parênteses se devem ao caráter explicativo dos segmentos."
+        },
+        {
+          "letra": "c",
+          "texto": "No trecho “...cada vez menor, e alguns modelos apontam...”, o emprego da vírgula antes do conectivo “e” justifica-se por haver duas orações com sujeitos diferentes."
+        },
+        {
+          "letra": "d",
+          "texto": "Os travessões utilizados servem para colocar em destaque, realce ou ênfase o segmento em questão."
+        },
+        {
+          "letra": "e",
+          "texto": "Na última oração, deveria haver uma vírgula antes do termo “sofrendo”, por se tratar de uma oração reduzida de gerúndio."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Pontuação"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Dos pronomes relativos em destaque nos segmentos abaixo, assinale aquele que exerça função sintática de objeto direto:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "\"A promulgação da Lei do Ventre Livre, em 1871, definia que os bebês que as mulheres escravizadas parissem a partir daquela data estariam livres.”"
+        },
+        {
+          "letra": "b",
+          "texto": "“O tema tem adquirido muita relevância nos círculos feministas no Brasil, onde mulheres têm desenvolvido suas ações.”"
+        },
+        {
+          "letra": "c",
+          "texto": "...especialmente em nosso país, marcadamente caracterizado por inúmeras desigualdades sociais e pela ausência de políticas públicas que garantam acesso a serviços de saúde, educação, saneamento básico, segurança, entre outros.”"
+        },
+        {
+          "letra": "d",
+          "texto": ".Instituto da Mulher Negra, cuja organização é pioneira na luta e defesa dos direitos das mulheres negras, entre outros.”"
+        },
+        {
+          "letra": "e",
+          "texto": "...procura racializar as discussões, ao trazer para o debate assuntos que foram ignorados pelos feminismos brancos.\""
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Pronomes relativos"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Texto para as questões de 6 a 9:\nUma risada cascateante cortou o silêncio. Virgínia estremeceu. Otávia! Nem três dias tinham se passado, nem três dias e ela conseguia rir e jogar damas. E Bruna reiniciara o bordado no bastidor. E Letícia e Afonso discutiam qual era o mais hábil nas partidas de tênis. E Conrado sorria para Otávia, permitindo complacente que ela o trapaceasse no jogo. Lá estavam todos sob o olhar afetuoso de Frau Herta, lá estavam eles como se nada tivesse acontecido. A chuva caía sobre os mortos, mas ninguém pensava nos mortos. Talvez Conrado ainda se lembrasse, mas ele falava pouco, ninguém podia saber... Vira-o na véspera, rapidamente. \"Quero que você seja uma menina corajosa, Virgínia. Não se esqueça nunca de que foi melhor assim.'' Esmagou a boca contra o livro, tentando sufocar os soluços.\n(Ciranda de Pedra, Lygia Fagundes Telles)\n\nDe acordo com o trecho:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Embora demonstrasse consternação, Virgínia não se preocupava com a morte."
+        },
+        {
+          "letra": "b",
+          "texto": "Frau Herta preocupava-se com todos, sobretudo com Virgínia."
+        },
+        {
+          "letra": "c",
+          "texto": "Virgínia demonstra ser uma jovem corajosa num momento de luto."
+        },
+        {
+          "letra": "d",
+          "texto": "Frau Herta é uma senhora de comportamento escandaloso."
+        },
+        {
+          "letra": "e",
+          "texto": "Virgínia ainda se ressente emotivamente ante o clima de morte."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de texto literário"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Pode-se inferir do texto que:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Conrado é um rapaz solidário, mas extremamente interesseiro."
+        },
+        {
+          "letra": "b",
+          "texto": "Como se nada acontecera, Frau Herta ignorava os sentimentos alheios."
+        },
+        {
+          "letra": "c",
+          "texto": "As pessoas presentes em volta de Virgínia parecem insensíveis ao clima fúnebre."
+        },
+        {
+          "letra": "d",
+          "texto": "Para Otávia, a morte era um assunto muito difícil de se lidar."
+        },
+        {
+          "letra": "e",
+          "texto": "Para Bruna, Letícia e Afonso, é mais fácil tecer considerações sobre questões existenciais."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de texto literário",
+        "Língua Portuguesa – Inferência"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Segundo o texto:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Conrado tenta conter o choro, após ter dado o conselho a Virgínia."
+        },
+        {
+          "letra": "b",
+          "texto": "Sem reação, Virgínia aceita a morte de maneira passiva e resignada."
+        },
+        {
+          "letra": "c",
+          "texto": "Virgínia procura, até com certa facilidade, conformar-se com a adversidade."
+        },
+        {
+          "letra": "d",
+          "texto": "A risada emitida por Otávia provoca uma reação de indignação em Virgínia."
+        },
+        {
+          "letra": "e",
+          "texto": "No jogo, para evitar conflito, Conrado prefere ser condescendente com Otávia."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de texto literário"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "A única afirmação errônea sobre o texto é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Constata-se a presença de discurso indireto livre."
+        },
+        {
+          "letra": "b",
+          "texto": "O trecho entre aspas configura um discurso direto."
+        },
+        {
+          "letra": "c",
+          "texto": "Predominam as formas verbais no pretérito imperfeito do indicativo, que indica uma ação repetitiva ou durativa no passado."
+        },
+        {
+          "letra": "d",
+          "texto": "Na frase “E Bruna reiniciara o bordado no bastidor.”, a forma verbal indica uma ação no passado anterior a uma outra ação também no passado."
+        },
+        {
+          "letra": "e",
+          "texto": "A narrativa se apoia no fluxo da consciência ou monólogo interior."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Língua Portuguesa – Tipologia textual",
+        "Língua Portuguesa – Discurso",
+        "Língua Portuguesa – Tempo verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "A Sinédoque é o primeiro festival exclusivamente dedicado ao documentário brasileiro em curta-metragem do país. Online, gratuita e independente, a Sinédoque tem a missão de celebrar e popularizar o documentário brasileiro em curta-metragem.\n(Revista Piauí, set/2022)\n\nLevando em conta os elementos verbais e não-verbais do cartaz e o fato de que “Sinédoque” é uma a figura de linguagem, a escolha deste nome para o festival de documentários curtos estaria associada:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "à superioridade do documentário em relação à força militar, representada na imagem pela câmera de filmagem e pelo tanque de guerra respectivamente."
+        },
+        {
+          "letra": "b",
+          "texto": "à rendição do militarismo o qual reconhece o poder denunciador e crítico de um documentário."
+        },
+        {
+          "letra": "c",
+          "texto": "à ideia de que uma minoria intelectual (cinema) pode ter mais força que uma autoridade instituída (exército)."
+        },
+        {
+          "letra": "d",
+          "texto": "ao ofício do documentarista que revela, em um curta-metragem, o mundo (o todo) por meio de seu ponto de vista (a parte)."
+        },
+        {
+          "letra": "e",
+          "texto": "ao fato de uma câmera ser usada como uma \"arma” de denúncia e de registro de arbitrariedades praticadas pelos militares."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de texto",
+        "Língua Portuguesa – Figuras de linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Textos para responder às questões 11 e 12:\nTexto I\nDizei, Senhora, da Beleza ideia:\nPara fazerdes esse áureo crino¹,\nOnde fostes buscar esse ouro fino?\nDe que escondida mina ou de que veia?\nDos vossos olhos essa luz febeia²,\nEsse respeito, de um império dino³?\nSe o alcançastes com saber divino,\nSe com encantamentos de Medeia?\nDe que escondidas conchas escolhestes\nAs perlas preciosas orientais\nQue, falando, mostrais no doce riso?\nPois vos formastes tal como quisestes,\nVigiai-vos de vós, não vos vejais;\nFugi das fontes: lembre-vos Narciso.\n(CAMÕES, Luís de. Rimas. Texto estabelecido, revisto e prefaciado por Álvaro J. da Costa Pimpão. Coimbra: Atlântida Editora, 1973.)\nVocabulário:\n1. cabelos\n2. do sol\n3. digno, merecedor\n\nTexto II\nJá sabemos que uma parte importante da poesia de Camões está centrada na representação da mulher amada e na reflexão sobre o Amor. O que neste soneto encontramos, nos termos concentrados que esta forma exige, é uma das componentes mais sofisticadas daquela representação: a mulher é vista não pelos olhos do desejo erótico, mas antes como um ideal de Beleza.\n(REIS, Carlos. Rimas e Os Lusíadas. Porto: Porto Editora, 2015.)\n\nConsiderando o soneto de Luís Vaz de Camões (1525?/1580) e as observações referentes a ele, do ensaísta português Carlos Reis, pode-se considerar CORRETO o que se afirma em:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "A figura feminina é concebida como uma entidade inacessível, cujos atributos físicos (“áureo crino”, o brilho dos olhos, os dentes como pérolas) relacionam-se ao pensamento neoplatônico."
+        },
+        {
+          "letra": "b",
+          "texto": "Os questionamentos proferidos pelo eu lírico à “Senhora” evidenciam que ele convalesce por causa de um sentimento não correspondido; enquanto ela ignora e despreza seus insistentes convites amorosos."
+        },
+        {
+          "letra": "c",
+          "texto": "No decorrer de todo o texto, o eu lírico busca esclarecer se a dama a quem ele admira é uma mulher concebida pelo plano do sagrado ('Se o alcançastes com saber divino, '') ou do profano (“Se com encantamentos de Medeia? '')."
+        },
+        {
+          "letra": "d",
+          "texto": "O verso “Vigiai-vos de vós, não vos vejais\" apresenta um recurso sonoro (assonância) que, definitivamente, aproxima Camões do estilo petrarquista e contribui na elaboração do ideal de Beleza referido pelo ensaísta."
+        },
+        {
+          "letra": "e",
+          "texto": "O terceto final revela uma crítica irônica à vaidade feminina, pois, em contexto mitológico, a mulher pode ser levada à destruição por sua beleza, como aconteceu com Narciso, que teria se afogado na própria imagem refletida na água."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Língua Portuguesa – Literatura",
+        "Língua Portuguesa – Classicismo",
+        "Língua Portuguesa – Camões",
+        "Língua Portuguesa – Neoplatonismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Sobre cada um dos textos apresentados, pode-se afirmar corretamente que o soneto de Luís Vaz de Camões e o trecho do ensaio de Carlos Reis apresentam, respectivamente, as seguintes funções da linguagem:\nI. Poética e conativa (pela organização da linguagem figurada e presença de verbos no modo imperativo, como se nota nos dois últimos versos) / Referencial (pelo conteúdo informativo e analítico do ensaio).\nII. Emotiva (pelo teor sentimental, marcadamente intimista do soneto) / Fática (devido à tentativa de manter o canal de comunicação com o leitor).\nIII. Conativa (pelas interrogações que buscam induzir a interlocutora a corresponder o sentimento amoroso do eu lírico) / Metalinguística (pelo fato de se discutir em um ensaio literário as características estruturais de um poema),\nEstá correto o que se afirma:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Em todas as alternativas."
+        },
+        {
+          "letra": "b",
+          "texto": "Apenas na alternativa I."
+        },
+        {
+          "letra": "c",
+          "texto": "Nas alternativas I e II."
+        },
+        {
+          "letra": "d",
+          "texto": "Apenas na alternativa III."
+        },
+        {
+          "letra": "e",
+          "texto": "Nas alternativas I e III."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Língua Portuguesa – Funções da linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "No final da obra Iracema, de José de Alencar, lê-se:\nMuitos guerreiros de sua raça acompanharam o chefe branco, para fundar com ele a mairi dos cristãos. Veio também um sacerdote de sua religião, de negras vestes, para plantar a cruz na terra selvagem. Poti foi o primeiro que ajoelhou aos pés do sagrado lenho; não sofria ele nada mais que o separasse de seu irmão branco. Deviam ter ambos um só deus, como tinham um só coração. Ele recebeu com o batismo o nome do santo, cujo era o dia; e o do rei, a quem ia servir, e sobre os dois o seu, na língua dos novos irmãos. (ALENCAR, 2001, p. 81)\n\nNesse fragmento, fica evidente que o principal elemento que serviu para a conquista da confiança do índio brasileiro pelo europeu, segundo a visão de José de Alencar, foi:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "A língua portuguesa, que haveria de substituir os dialetos usados pelos selvagens."
+        },
+        {
+          "letra": "b",
+          "texto": "A amizade e a lealdade oferecidas pelo europeu, a fim de estreitar os laços entre os dois povos."
+        },
+        {
+          "letra": "c",
+          "texto": "A conversão do indígena ao Catolicismo, referida na obra como a religião verdadeira."
+        },
+        {
+          "letra": "d",
+          "texto": "A fundação de uma “mairi”, um modelo de cidade com nova organização social e econômica."
+        },
+        {
+          "letra": "e",
+          "texto": "A aquisição de documentos de identificação do índio, com o intuito de colaborar para a civilidade dos povos nativos."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Língua Portuguesa – Literatura",
+        "Língua Portuguesa – Romantismo",
+        "Língua Portuguesa – José de Alencar"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "O crítico Massaud Moisés, em seu Dicionário de Termos Literários, define a hipálage da seguinte forma: “Constitui um expediente retórico segundo o qual um determinante (artigo, adjetivo, complemento nominal) troca o lugar que logicamente ocuparia junto de um determinado (substantivo) para associar-se a outro”.\n\nSabendo disso, assinale a única alternativa cujo (s) termo (s) sublinhado (s) NÃO exemplifica (m) essa figura de estilo, nos fragmentos que seguem.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Era em julho, um domingo; fazia um grande calor; as duas janelas estavam cerradas, mas sentia-se fora o sol faiscar nas vidraças; escaldar a pedra da varanda; havia o silêncio recolhido e sonolento da manhã de missa [...]. (Eça de Queirós. In O Primo Basílio)."
+        },
+        {
+          "letra": "b",
+          "texto": "Ega sentara-se também no parapeito, ambos se esqueceram num silêncio (...). Depois ao fundo, encaixilhada como uma tela marinha nas cantarias dos dois altos prédios, a curta paisagem do Ramalhete, um pedaço de Tejo e monte, tomava naquele fim de tarde um tom mais pensativo e triste. (Eça de Queirós. In Os Maias)."
+        },
+        {
+          "letra": "c",
+          "texto": "Tinha o braço de Luísa passado no seu; e vialhe a mão pendente, a sua linda mão de cera, com as veias docemente azuladas, os dedos finos e amorosos [...]. (Eça de Queirós. In Singularidade de uma rapariga loira)."
+        },
+        {
+          "letra": "d",
+          "texto": "Nos silenciosos corredores, onde me era doce fumar antes do almoço um pensativo cigarro, circulavam agora, desde madrugada, os ranchos de operários, [...]. (Eça de Queirós. In A cidade e as serras)."
+        },
+        {
+          "letra": "e",
+          "texto": "Havia certamente duas horas que assim dormia, denso e estirado no catre, quando me pareceu que uma claridade trêmula, como a de uma tocha fumegante, penetrava na tenda, e através dela uma voz me chamava [...]. (Eça de Queirós. A Relíquia)."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de linguagem",
+        "Língua Portuguesa – Hipálage"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Observe a relação entre o fragmento literário e a(s) característica(s) naturalista(s) indicada(s). Em seguida, assinale a alternativa CORRETA:\nI) \"Aristarco, passando, sorria do espetáculo como um domador poderoso que relaxa. (...) Cerqueira, ratazana, curvado, redobrado, sobre o prato, comia como um restaurante, comia, comia, comia como as sarnas, como um cancro\". (Raul Pompeia. In O Ateneu.). / Zoomorfismo e rebaixamento da condição humana..\nII) “Desde que a febre de possuir se apoderou dele totalmente, todos os seus atos, todos, fosse o mais simples, visavam um interesse pecuniário. (...) as suas galinhas produziam muito e ele não comia um ovo, (...). Aquilo já não era ambição, era uma moléstia nervosa, uma loucura, um desespero de acumular; de reduzir tudo a moeda”. (Aluísio Azevedo. In O Cortiço.). / Patologia social e degradação humana.\nIII) “Queria dizer aqui o fim do Quincas Borba, que adoeceu também, ganiu infinitamente, fugiu desvairado em busca do dono, e amanheceu morto na rua, três dias depois. Mas, vendo a morte do cão narrada em capítulo especial, é provável que me perguntes se ele, se o seu defunto homônimo é que dá o título ao livro, (...)”. (Machado de Assis. In Quincas Borba). / Determinismo de meio.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Todas as alternativas estão corretas."
+        },
+        {
+          "letra": "b",
+          "texto": "Apenas a alternativa I está correta."
+        },
+        {
+          "letra": "c",
+          "texto": "Apenas as alternativas I e II estão corretas."
+        },
+        {
+          "letra": "d",
+          "texto": "Apenas as alternativas I e III estão corretas."
+        },
+        {
+          "letra": "e",
+          "texto": "Apenas as alternativas II e III estão corretas."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Língua Portuguesa – Literatura",
+        "Língua Portuguesa – Naturalismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "EVOCAÇÃO DO RECIFE\n(Fragmento)\n(...)\nFoi há muito tempo...\nA vida não me chegava pelos jornais\nnem pelos livros\nVinha da boca do povo na língua errada\ndo povo\nLíngua certa do povo\nPorque ele é que fala gostoso o português do Brasil\nAo passo que nós\nO que fazemos\nÉ macaquear\nA sintaxe lusíada.\n(...)\n(Manuel Bandeira. In Libertinagem)\n\nManuel Bandeira, em sua obra Libertinagem, publicada em 1930, apresenta características do primeiro momento modernista. Isso fica evidente nesse fragmento transcrito porque o poeta:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Atacou a classe burguesa e a estética parnasiana, revelando preferência por temas mais populares."
+        },
+        {
+          "letra": "b",
+          "texto": "Apresentou cenas poéticas marcadas pela múltipla perspectiva da realidade, que lembram a arte cubista."
+        },
+        {
+          "letra": "c",
+          "texto": "Aproveitou as influências futuristas, amplamente utilizadas por Mário de Andrade, ao louvar o progresso e o dinamismo."
+        },
+        {
+          "letra": "d",
+          "texto": "Valorizou temas cotidianos, linguagem coloquial e versos livres, desprezando o rigor formal."
+        },
+        {
+          "letra": "e",
+          "texto": "Desconsiderou as regras clássicas ao buscar um estilo mais alinhado com a prosa regionalista da década de 30."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Língua Portuguesa – Literatura",
+        "Língua Portuguesa – Modernismo",
+        "Língua Portuguesa – Manuel Bandeira"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Leia a carta que segue para responder à questão 17:\nAquela altura, porém, eu tinha de escolher o terreno onde localizar as minhas histórias. Podia ser Barbacena, Belo Horizonte, o Rio, a China, o arquipélago de Neo-Baratária, o espaço astral, ou, mesmo, o pedaço de Minas Gerais que era mais meu. E foi o que preferi. Porque tinha muitas saudades de lá. Porque conhecia um pouco melhor a terra, a gente, bichos, árvores. Porque o povo do interior – sem convenções, “poses'' – dá melhores personagens de parábolas: lá se vê bem as reações humanas e a ação do destino: lá se vê bem um rio cair na cachoeira ou contornar a montanha, e as grandes árvores estalarem sob o raio, e cada talo do capim humano rebrotar com a chuva ou se estorricar com a seca. Bem, resumindo: ficou resolvido que o livro se passaria no interior de Minas Gerais. E compor-se-ia de 12 novelas. Aqui, caro Condé, findava a fase de premeditação. Restava agir. Então, passei horas de dias, fechado no quarto, cantando cantigas sertanejas, dialogando com vaqueiros de velha lembrança, “revendo” paisagens da minha terra, e aboiando para um gado imenso. Quando a máquina esteve pronta, parti.\nEm carta a João Condé,\n___________ conta um pouco do processo de criação de\n___________ referindo-se\na esta associação entre o\n___________ e o ___________ que será um dos aspectos mais marcantes da sua literatura.\n\nConsiderando o trecho da carta remetida ao crítico João Condé, assinale a alternativa que preenche corretamente os espaços do comentário:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Mário de Andrade/ Macunaíma/ sagrado e o profano."
+        },
+        {
+          "letra": "b",
+          "texto": "João Cabral de Melo Neto/ Morte e Vida Severina/ épico e o lírico."
+        },
+        {
+          "letra": "c",
+          "texto": "Clarice Lispector/ A hora da estrela/ social e o introspectivo."
+        },
+        {
+          "letra": "d",
+          "texto": "Graciliano Ramos/ Vidas Secas/ popular e o erudito."
+        },
+        {
+          "letra": "e",
+          "texto": "Guimarães Rosa/ Sagarana/ universal e o regional."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Língua Portuguesa – Literatura",
+        "Língua Portuguesa – Modernismo",
+        "Língua Portuguesa – Guimarães Rosa"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Os retirantes vêm vindo com trouxas e embrulhos\nVêm das terras secas e escuras; pedregulhos\nDoloridos como fagulhas de carvão aceso\nCorpos disformes, uns panos sujos,\nRasgados e sem cor, dependurados\nHomens de enorme ventre bojudo\nMulheres com trouxas caídas para o lado\nPançudas, carregando ao colo um garoto\nChoramingando, remelento\nMocinhas de peito duro e vestido roto\nVelhas trôpegas marcadas pelo tempo\n(Cândido Portinari. Poemas. Rio de Janeiro: J. Olympio, 1964.)\n\nTanto o quadro quanto o poema (ambos de Cândido Portinari) aproximam-se, tematicamente, de algumas obras dos seguintes autores brasileiros:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Graciliano Ramos, Euclides da Cunha e João Cabral de Melo Neto."
+        },
+        {
+          "letra": "b",
+          "texto": "Oswald de Andrade, Carlos Drummond de Andrade e Cruz e Sousa."
+        },
+        {
+          "letra": "c",
+          "texto": "Machado de Assis, Aluísio de Azevedo e Raul Pompeia."
+        },
+        {
+          "letra": "d",
+          "texto": "Jorge Amado, Lima Barreto e José de Alencar."
+        },
+        {
+          "letra": "e",
+          "texto": "Manuel Antônio de Almeida, Murilo Mendes e Olavo Bilac."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Língua Portuguesa – Literatura",
+        "Língua Portuguesa – Modernismo",
+        "Língua Portuguesa – Cândido Portinari"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Leia a estrofe seguinte:\n“Onde me levas, pois?...” — “Longe te levo\nAo país do ideal, terra das flores,\nOnde a brisa do céu tem mais amores\nE a fantasia — lagos mais azuis. . . ”\nE fui... e fui... ergui-me no infinito,\nLá onde o voo d'águia não se eleva...\nAbaixo — via a terra — abismo em treva!\nAcima — o firmamento — abismo em luz!\n\nA oitava acima pertence ao poema O voo do gênio, do poeta romântico brasileiro Antônio de Castro Alves. Sabendo disso, assinale a alternativa que corresponda mais apropriadamente ao estilo desse autor, de acordo com o que se pode notar nos versos apresentados:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Estrutura clássica (representada pelo soneto com versos decassílabos), vocabulário erudito e a presença de elementos greco-latinos."
+        },
+        {
+          "letra": "b",
+          "texto": "Linguagem eloquente, marcada pelo excesso de pontuação; imagens grandiosas, antíteses e hipérboles."
+        },
+        {
+          "letra": "c",
+          "texto": "Expressões vagas e versos livres, que conduzem o leitor a um ambiente místico e abstrato."
+        },
+        {
+          "letra": "d",
+          "texto": "Prosa poética, marcada por metáforas alegóricas, prosopopeias e inversões sintáticas violentas."
+        },
+        {
+          "letra": "e",
+          "texto": "Vocabulário coloquial; versos livres e brancos que correspondem à temática da liberdade de expressão."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Língua Portuguesa – Literatura",
+        "Língua Portuguesa – Romantismo",
+        "Língua Portuguesa – Castro Alves"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Para Antonio Candido, “A Semana da Arte Moderna [...] foi realmente o catalisador da nova literatura, coordenando, graças ao seu dinamismo e à ousadia de alguns protagonistas, as tendências mais vivas e capazes de renovação, na poesia, no ensaio, na música, nas artes plásticas. (...). ''\n\n“As tendências mais vivas e capazes de renovação, na poesia”, apontadas por Candido, só NÃO aparecem nos versos:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "São Paulo! comoção de minha vida.../ Os meus amores são flores feitas de original.../ Arlequinal!... Traje de losangos...Cinza e ouro..."
+        },
+        {
+          "letra": "b",
+          "texto": "No aeródromo, o aeroplano / Subiu, triunfal, na tarde clara, / Grande e sonoro, como o Sonho humano! [...] Da Terra que a ambição dos Paulistas povoara."
+        },
+        {
+          "letra": "c",
+          "texto": "Assim procedo. Minha pena / Segue esta norma, / Por te servir, Deusa serena, / Serena Forma!"
+        },
+        {
+          "letra": "d",
+          "texto": "Papai estava doente na cama e vinha um carro e um homem e o carro ficava esperando no jardim. / Levaram-me para uma casa velha que fazia doces e nos mudamos/ para a sala do quintal onde tinha uma figueira na janela. (...)"
+        },
+        {
+          "letra": "e",
+          "texto": "Febre, hemoptise, dispneia e suores noturnos. / A vida inteira que podia ter sido e que não foi. / Tosse, tosse, tosse."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Língua Portuguesa – Literatura",
+        "Língua Portuguesa – Modernismo",
+        "Língua Portuguesa – Semana de Arte Moderna"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "O valor da expressão $\\frac{x^2 + x - 2}{x^2 - 2x + 1} - \\frac{3x}{x^2 - x}$ para $x = 329$ é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "-3"
+        },
+        {
+          "letra": "b",
+          "texto": "2"
+        },
+        {
+          "letra": "c",
+          "texto": "-8"
+        },
+        {
+          "letra": "d",
+          "texto": "1"
+        },
+        {
+          "letra": "e",
+          "texto": "5"
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Matemática – Álgebra",
+        "Matemática – Expressões Algébricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "O termo independente de $x$ no desenvolvimento do binômio $(x^2 + \\frac{2}{x})^9$ é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "5376"
+        },
+        {
+          "letra": "b",
+          "texto": "876"
+        },
+        {
+          "letra": "c",
+          "texto": "4832"
+        },
+        {
+          "letra": "d",
+          "texto": "1278"
+        },
+        {
+          "letra": "e",
+          "texto": "654"
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Matemática – Análise Combinatória",
+        "Matemática – Binômio de Newton"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Na figura abaixo, o comprimento do segmento AB é igual a:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "7"
+        },
+        {
+          "letra": "b",
+          "texto": "8"
+        },
+        {
+          "letra": "c",
+          "texto": "6"
+        },
+        {
+          "letra": "d",
+          "texto": "5"
+        },
+        {
+          "letra": "e",
+          "texto": "9"
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Triângulos",
+        "Matemática – Semelhança de triângulos"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Sejam as funções $f(x) = 7^{x+1}$ e $g(x) = \\log_7 x$, com $x > 0$. A função composta $fog(x)$ é dada por:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "x + 7"
+        },
+        {
+          "letra": "b",
+          "texto": "7x"
+        },
+        {
+          "letra": "c",
+          "texto": "$\\frac{x}{7}$"
+        },
+        {
+          "letra": "d",
+          "texto": "7x + 1"
+        },
+        {
+          "letra": "e",
+          "texto": "$x^7$"
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Matemática – Funções",
+        "Matemática – Função Composta"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Carlos possui R$ 3,00 em moedas de 25 e 50 centavos, totalizando 73,5 g de peso. Sabendo-se que cada moeda de 25 centavos pesa 7,6 g e cada moeda de 50 centavos pesa 9,3 g, o número total de moedas que ele tem é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "6"
+        },
+        {
+          "letra": "b",
+          "texto": "7"
+        },
+        {
+          "letra": "c",
+          "texto": "8"
+        },
+        {
+          "letra": "d",
+          "texto": "9"
+        },
+        {
+          "letra": "e",
+          "texto": "10"
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Matemática – Sistemas de Equações",
+        "Matemática – Problemas de primeiro grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Os polígonos mostrados na figura abaixo são regulares. O valor do ângulo x é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "36°"
+        },
+        {
+          "letra": "b",
+          "texto": "54°"
+        },
+        {
+          "letra": "c",
+          "texto": "48°"
+        },
+        {
+          "letra": "d",
+          "texto": "30°"
+        },
+        {
+          "letra": "e",
+          "texto": "42°"
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Polígonos Regulares"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "O resto da divisão do número natural $N$ por 7 é igual a 6. O resto da divisão desse mesmo número por 8 é igual a 7. Sendo $M$ o menor valor possível para $N$, podemos afirmar que o resto da divisão de $M$ por 9 é igual a:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "1"
+        },
+        {
+          "letra": "b",
+          "texto": "2"
+        },
+        {
+          "letra": "c",
+          "texto": "4"
+        },
+        {
+          "letra": "d",
+          "texto": "7"
+        },
+        {
+          "letra": "e",
+          "texto": "0"
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Matemática – Teoria dos Números",
+        "Matemática – Congruência",
+        "Matemática – Restos de Divisão"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Seja a matriz $M = (a_{ij})_{n \\times n}$ tal que $a_{ij}$ é o binomial $\\binom{i}{j}$. O valor do determinante de $M$ é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "0"
+        },
+        {
+          "letra": "b",
+          "texto": "n"
+        },
+        {
+          "letra": "c",
+          "texto": "1"
+        },
+        {
+          "letra": "d",
+          "texto": "-1"
+        },
+        {
+          "letra": "e",
+          "texto": "$n^2$"
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Matemática – Álgebra Linear",
+        "Matemática – Matrizes",
+        "Matemática – Determinantes"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "As semifinais de um campeonato serão disputadas pelos times A e B numa chave e pelos times C e D na outra chave. Na final, o vencedor de A x B joga com o vencedor de C x D, sagrando-se campeão o time que vencer esse jogo.\nA tabela abaixo mostra as chances de vitórias feitas por especialistas em futebol para os possíveis confrontos:\n60% A X B 40%\n70% A X C 30%\n80% A X D 20%\n60% B X C 40%\n75% B X D 25%\n70% C X D 30%\n\nSe esses prognósticos forem confirmados, a probabilidade de o time A sagrar-se campeão é de:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "25,8%"
+        },
+        {
+          "letra": "b",
+          "texto": "43,8%"
+        },
+        {
+          "letra": "c",
+          "texto": "36,6%"
+        },
+        {
+          "letra": "d",
+          "texto": "54,5%"
+        },
+        {
+          "letra": "e",
+          "texto": "62,6%"
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Matemática – Probabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Numa PA, sabe-se que o n-ésimo termo vale $m$ e que o m-ésimo termo vale $n$. O valor do $(n + m)$-ésimo termo é igual a:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "m+n"
+        },
+        {
+          "letra": "b",
+          "texto": "2n"
+        },
+        {
+          "letra": "c",
+          "texto": "2m"
+        },
+        {
+          "letra": "d",
+          "texto": "m-n"
+        },
+        {
+          "letra": "e",
+          "texto": "0"
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Matemática – Progressões Aritméticas (PA)"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "As raízes da equação $x^2 – 3x – 5 = 0$ são $m$ e $n$. O valor da expressão $\\frac{1}{m^2} + \\frac{1}{n^2}$ é igual a:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "$\\frac{3}{5}$"
+        },
+        {
+          "letra": "b",
+          "texto": "$\\frac{17}{25}$"
+        },
+        {
+          "letra": "c",
+          "texto": "$\\frac{19}{25}$"
+        },
+        {
+          "letra": "d",
+          "texto": "1"
+        },
+        {
+          "letra": "e",
+          "texto": "$\\frac{4}{5}$"
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Matemática – Álgebra",
+        "Matemática – Equações de segundo grau",
+        "Matemática – Relações de Girard"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Escrevendo-se todos os anagramas da palavra PORTA em ordem alfabética, a posição ocupada pela palavra PRATO é a:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "60ª"
+        },
+        {
+          "letra": "b",
+          "texto": "61ª"
+        },
+        {
+          "letra": "c",
+          "texto": "62ª"
+        },
+        {
+          "letra": "d",
+          "texto": "63ª"
+        },
+        {
+          "letra": "e",
+          "texto": "64ª"
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Matemática – Análise Combinatória",
+        "Matemática – Permutação"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Sendo $x$ e $2x$ ângulos para os quais estão definidas as funções trigonométricas abaixo, considere as afirmativas:\nI. $(\\sen x + \\cos x)^2 = 1 + \\sen 2x$\nII. $\\tg x + \\cotg x = \\sec x \\cdot \\cossec x$\nIII. $\\cotg x - \\tg x = 2 \\cdot \\cotg 2x$\nEstão corretas:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "apenas I e II"
+        },
+        {
+          "letra": "b",
+          "texto": "apenas I e III"
+        },
+        {
+          "letra": "c",
+          "texto": "apenas II e III"
+        },
+        {
+          "letra": "d",
+          "texto": "todas as afirmativas"
+        },
+        {
+          "letra": "e",
+          "texto": "nenhuma das afirmativas"
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Matemática – Trigonometria",
+        "Matemática – Identidades Trigonométricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "A figura abaixo mostra como uma peça metálica maciça é vista de 3 direções distintas:\nSe a densidade do metal utilizado para a confecção dessa peça é de $8500 \\text{ kg/m}^3$, podemos afirmar que sua massa é igual a:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "127 g"
+        },
+        {
+          "letra": "b",
+          "texto": "125 g"
+        },
+        {
+          "letra": "c",
+          "texto": "123 g"
+        },
+        {
+          "letra": "d",
+          "texto": "121 g"
+        },
+        {
+          "letra": "e",
+          "texto": "119 g"
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Matemática – Geometria Espacial",
+        "Matemática – Volume",
+        "Física – Densidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Em qualquer triângulo, o baricentro, o circuncentro e o ortocentro estão sempre alinhados numa reta denominada reta de Euler. Se os vértices de um triângulo são dados pelas coordenadas $(0,0)$, $(0,6)$ e $(12,0)$, uma equação da reta de Euler desse triângulo é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "y = 2x"
+        },
+        {
+          "letra": "b",
+          "texto": "x = 2y"
+        },
+        {
+          "letra": "c",
+          "texto": "x + y = 0"
+        },
+        {
+          "letra": "d",
+          "texto": "x - y = 0"
+        },
+        {
+          "letra": "e",
+          "texto": "y = 3x"
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Matemática – Geometria Analítica",
+        "Matemática – Reta de Euler",
+        "Matemática – Pontos notáveis do triângulo"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "A figura abaixo mostra 8 possíveis deslocamentos de um robô a partir de uma posição arbitrária no plano. Para ir de um ponto A a um ponto B, esse robô foi programado para seguir a sequência: 12u, 5z, 7b, 15w, 8v, 5b, 9d.\nPara retornar do ponto B ao ponto A, é suficiente que ele siga a sequência:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "1v, 2e"
+        },
+        {
+          "letra": "b",
+          "texto": "1d, 1w"
+        },
+        {
+          "letra": "c",
+          "texto": "2c, 1v"
+        },
+        {
+          "letra": "d",
+          "texto": "2v, 1e"
+        },
+        {
+          "letra": "e",
+          "texto": "1v, 2c"
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Matemática – Vetores",
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Considere como verdadeiras as proposições:\n• Todo estudante que gosta de Lógica gosta de Matemática.\n• Alguns estudantes de Biologia também gostam de Lógica, mas nem todos gostam de Matemática.\nO diagrama que melhor representa essas proposições é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": ""
+        },
+        {
+          "letra": "b",
+          "texto": ""
+        },
+        {
+          "letra": "c",
+          "texto": ""
+        },
+        {
+          "letra": "d",
+          "texto": ""
+        },
+        {
+          "letra": "e",
+          "texto": ""
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Matemática – Lógica",
+        "Matemática – Diagramas de Venn"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Um topógrafo fez o levantamento de um terreno quadrangular, encontrando como coordenadas dos seus vértices consecutivos $(0,0)$, $(50,10)$, $(60,50)$ e $(10,60)$, medidas em metros. A área desse terreno é de:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "2000 m²"
+        },
+        {
+          "letra": "b",
+          "texto": "2500 m²"
+        },
+        {
+          "letra": "c",
+          "texto": "3200 m²"
+        },
+        {
+          "letra": "d",
+          "texto": "4000 m²"
+        },
+        {
+          "letra": "e",
+          "texto": "4600 m²"
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Matemática – Geometria Analítica",
+        "Matemática – Cálculo de Área de Polígono"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Um fabricante de bebidas pretende envasar 582 litros de refrigerante em garrafas de 330 ml. Admitindo-se uma perda de 15% por garrafa durante o processo, a quantidade de garrafas que ele poderá envasar é de, aproximadamente:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "1500"
+        },
+        {
+          "letra": "b",
+          "texto": "1700"
+        },
+        {
+          "letra": "c",
+          "texto": "1400"
+        },
+        {
+          "letra": "d",
+          "texto": "1300"
+        },
+        {
+          "letra": "e",
+          "texto": "1800"
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Matemática – Aritmética",
+        "Matemática – Proporcionalidade",
+        "Matemática – Volume"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Drink Up, Japan Tells Young People. I'll Pass, Many Reply.\nThe country's tax agency, hoping to reverse the alcohol industry's pandemic doldrums, is holding a contest to encourage more drinking among the young.\nBy Hikari Hida and John Yoon\nAug. 19, 2022\n\nTOKYO — Among the casualties of the pandemic is one that many young people in Japan say they do not miss: the drinking culture.\nSobriety, they have decided after two years of less socializing and nightcrawling, has its advantages. And that's why a new message from the Japanese government — drink up! — seems to be putting few in the spirit.\nTo bolster its ailing alcohol industry, Japan's National Tax Agency has kicked off a contest inviting those ages 20 to 39 to submit ideas for encouraging people to consume more alcohol. It named the project after the national beverage: ''Sake Viva!''\nThe agency says it hopes to \"revitalize the industry'' with the contest, whose winner is to be selected in a tournament later this year. But its entreaty is clashing with more than two years of actions by the government, which discouraged alcohol sales at restaurants and bars and put up signs forbidding drinking in parks and in the streets.\nWith Japan reaching new highs in coronavirus infections, including over 255,000 new cases on Thursday, many young people are wondering why the government is now saying it's OK to go out and drink.\n“The media is announcing record Covid cases, while restaurants are like, don't talk while eating, wear a mask,” said Chika Kato, a 27-year-old consultant in Tokyo. “But the government is at the same time asking us to go all out and drink.'' \"It's an awkward situation,'' she added. \"Who do I listen to?\"\nTo some, any official encouragement to drink — pandemic or not — is a bad idea.\n''I don't think it is a good thing to make people who don't drink, drink,'' said Mima Matsumaru, 25, who works in advertising. After using the pandemic as a chance to stop drinking, she said she didn't miss it very much anyway.\nNone of the Japanese alcohol makers have signed on to the initiative. But bar owners praised it.\nIn Ginza, one of Tokyo's popular nightlife districts, the pubs remained dimly lit and mostly quiet on Thursday night. “I hope this helps Ginza come alive again, said Kenta Kobayashi, 34, a bartender who has seen a drastic drop in sales since the pandemic began.\nOn average, people in Japan drank about 20 gallons of alcohol in 2020, down from 26 gallons in 1995, according to government data. The decline has hurt lucrative tax revenues: Levies on alcohol accounted for 1.7 percent of Japan's tax revenue (about $8 billion) in 2020, down from 3 percent in 2011 and 5 percent in 1980.\nUnder the Japan tax agency's contest, participants may propose new products and designs targeting young people, even sales techniques involving artificial intelligence or the metaverse. As long as submissions are written in Japanese, they may come from anywhere. The winning entry will be commercialized.\nThe contest's organizers said that overindulgence was the goal, adding that people should drink only 'the appropriate amount” and take 'common sense” measures against contracting the virus. “We are in no way promoting excessive drinking among young people,'' said Ryo Tsukamoto, a spokesman for the agency's alcohol tax division.\nBut critics worried about unintended consequences. Hidetomi Tanaka, an economist, called the effort an 'irresponsible and unorthodox drinking campaign.\" About one million Japanese suffer from alcoholism, while about 9.8 million others are potentially addicted, according to research by the Japanese Health Ministry.\nWorldwide, the pandemic has brought down alcohol consumption among younger adults. In South Korea, consumption of soju dropped by 14 percent from 2019 to 2020 and beer consumption by 23 percent, leading to the nation's lowest revenue in alcohol taxes in 10 years. In the United States, the prevalence of binge drinking among young adults surveyed dropped to 26 percent in 2020, after remaining at about 30 percent from 2015 to 2019, a study showed.\nNeither country's government has gone as far as to promote drinking. In France, though, lawmakers once considered promoting wine consumption when wine exports and domestic sales fell off the table in 2004. Included in their recommendations was a program encouraging young people to \"educate their tastes.\"\nDisponível em: https://www.nytimes.com/2022/08/19/world/asia/japan-alcohol-contest.html.\nAcesso em 30/08/2022\n\nThe article states that:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "The COVID 19 pandemic has encouraged the consumption of alcohol among young Japanese people."
+        },
+        {
+          "letra": "b",
+          "texto": "To the young Japanese community, the habit of drinking has lingered throughout the pandemic."
+        },
+        {
+          "letra": "c",
+          "texto": "One of the outcomes of the pandemic is that young Japanese people have decreased drinking consumption."
+        },
+        {
+          "letra": "d",
+          "texto": "Youngsters miss the drinking culture, in existence before the pandemic."
+        },
+        {
+          "letra": "e",
+          "texto": "The media, along with Japan's National Tax Agency, has been trying to dissuade the drinking habit in Japan."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Inglês – Compreensão de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "The second paragraph of the article reads:\n\"And that's why a new message from the Japanese government – drink up! – seems to be putting few in the spirit\". From this sentence, one can say that:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "The message the government conveys is being successful in its attempt to make young people drink more."
+        },
+        {
+          "letra": "b",
+          "texto": "The message the government conveys is being unsuccessful in its attempt to make young people drink more."
+        },
+        {
+          "letra": "c",
+          "texto": "To put 'few in the spirit' is to rely on a supernatural being to convince the young people to drink more."
+        },
+        {
+          "letra": "d",
+          "texto": "To put 'few in the spirit' is to rely on a supernatural being to convince the young people to drink less."
+        },
+        {
+          "letra": "e",
+          "texto": "Young people are resolute, and thus won't be persuaded by any message."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Inglês – Interpretação textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Japan's National Tax Agency initiative is seen as controversial by many.\nThe alternatives below all justify the controversy, except:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "The initiative is not in line with some government's actions which try to divert people from the consumption of alcoholic beverages."
+        },
+        {
+          "letra": "b",
+          "texto": "It is an attempt to make people who don't drink, drink."
+        },
+        {
+          "letra": "c",
+          "texto": "The government is willing to increase tax collection regardless of the awkwardness of the situation."
+        },
+        {
+          "letra": "d",
+          "texto": "The initiative is reckless and uncustomary."
+        },
+        {
+          "letra": "e",
+          "texto": "It is perceived by many as a way to educate people's taste."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Inglês – Interpretação textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "The contest, run by Japan's National Tax Agency,",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Has been criticized for being a copycat of a successful French program."
+        },
+        {
+          "letra": "b",
+          "texto": "Hasn't started yet."
+        },
+        {
+          "letra": "c",
+          "texto": "Allows any age range to take part."
+        },
+        {
+          "letra": "d",
+          "texto": "Hopes to bring back to life an otherwise profitable industry."
+        },
+        {
+          "letra": "e",
+          "texto": "Was named after a foreign drink: “Sake Viva!\""
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Inglês – Compreensão de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "doldrums, ailing, entreaty,\nawkward, binge\n\nThe meanings of the words above, boldfaced in the article, are, respectively:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Stagnation, flawed, request, unenviable, spree."
+        },
+        {
+          "letra": "b",
+          "texto": "Activity, healthy, summon, desirable, moderate."
+        },
+        {
+          "letra": "c",
+          "texto": "Flawed, unenviable, request, stagnation, spree."
+        },
+        {
+          "letra": "d",
+          "texto": "Summon, healthy, activity, desirable, moderate."
+        },
+        {
+          "letra": "e",
+          "texto": "Stagnation, healthy, request, desirable, spree."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Inglês – Vocabulário",
+        "Inglês – Sinônimos"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "China Has Leapfrogged the U.S. in Key Technologies.\nCan a New Law Help?\nWhile Congress argued over whether and how to support American chip makers and research in other technologies, China was surging ahead.\nJuly 28, 2022\n\n(1) In the weeks before the House and the Senate ended 13 months of arguments and passed the $280 billion CHIPS and Science Act, China's main, state-supported chip maker cleared a major technological barrier that delivered a bit of a shock to the world.\n(2) Experts are still assessing how China apparently leapfrogged ahead in its effort to manufacture a semiconductor whose circuits are of such tiny dimensions — about 10,000 times thinner than a human hair — that they rival those made in Taiwan, which supplies both China and the West. The Biden administration has gone to extraordinary lengths to keep the highly specialized equipment to make those chips out of Chinese hands, because progress in chip manufacturing is now scrutinized as a way to define national power — much the same way nuclear tests or precision-guided missiles were during a previous cold war.\n(3) No one yet knows whether China can exploit the breakthrough on a large scale; that may take years. But one lesson seemed clear: While Congress debated and amended and argued over whether and how to support American chip makers and a broad range of research in other technologies - from advanced batteries to robotics and quantum computing — China was surging ahead, betting it would take Washington years to get its act together.\n(4) ''Our Congress is working at political speed,” said Eric Schmidt, the former Google chief executive who went on to lead the National Security Commission on Artificial Intelligence, which warned last year of the huge dangers of falling far behind in a ''foundational'' technology like advanced semiconductor manufacturing in a world of vulnerable supply chains. “The Chinese government is working at commercial speed.’\n(5) In China, the drive to catch up and manufacture the most advanced chips is part of the ''Made in China 2025” program. That effort began in 2015. While few in Congress want to concede the point, the technologies that the United States will be funding largely replicate the Chinese list. And 2025 isn't very far away, meaning the money will just get flowing while Chinese and other competitors move on to their next set of goals. Meanwhile, the American semiconductor industry has withered, to the point where none of the most advanced chips are made in the United States, even though the fundamental technology was born here and gave Silicon Valley its name.\n(6) None of this means American competitiveness is doomed. Just as Japan once seemed as if it was the 10-foot-tall technological giant in the late 1980s and early 1990s, but then missed some of the biggest breakthroughs in mobile computing and Windows operating systems and even chip-making, China is discovering that money alone does not guarantee technological dominance. But it helps.\n(7) It has taken the American Congress far longer to come to the same conclusion. Still, China has turned out to be one of the few issues on which Republicans and Democrats can come together — the bill passed the House 243 to 187, with one abstention.\n(8) But the big question is whether Congress's slowness to wake up to America's competitive shortcomings has doomed the effort. In the late 1980s, Andrew S. Grove, one of the pioneers of Silicon Valley and an early leader of Intel Corporation, warned of the danger of the United States becoming a 'techno-colony'' of Japan.\n(9) The Taiwan Semiconductor Manufacturing Company produces roughly 90 percent of the most advanced semiconductors. It sells them to both China and the United States.\n“Our dependence on Taiwan for the sophisticated chips is untenable and unsafe,” the commerce secretary, Gina Raimondo, noted last week at the Aspen Security Forum. With demand for more sophisticated chips growing — every new generation of cars requires more and more semiconductors — “we don't have enough domestic supply.\"\n(10) The bill's authors say that while they are late to the task of rebuilding the industry, starting today is better than continuing to watch the American lead erode. Senator Todd Young said that while China's recent advance was 'sobering, he didn't think there was \"anyone that can out-innovate the United States of America if we mobilize our many resources. '' America's other advantage is \"our relationships, economic and geopolitical, with other countries,” said Mr. Young, an Indiana Republican. “China has no friends; they have vassal states.''\n(11) After reverse-engineering the Chinese-made chip, they concluded that it used circuitry that was only seven nanometers wide. As recently as 2020, Chinese manufacturers had struggled to get below 40 nanometers.\n(12) Experts say the chip, made for mining cryptocurrency, may have been based on, or stolen from, Taiwan Semiconductor. For now, Taiwan Semiconductor remains the most important single manufacturer in the world, and its sprawling facilities near Taipei may be the island's greatest protection against invasion. China can't afford to risk its destruction. And the United States can't afford for it to be destroyed.\n(13) But that delicate balance won't last forever. So China has both a commercial and a geopolitical motive to make the world's fastest chips, and the United States has a competitive motive to keep Beijing from getting the technology to do so. It is the ultimate 21st-century arms race. In the old Cold War, the one against the Soviet Union a generation ago, ''the government could afford to sit on the sidelines\" and hope private industry would invest, Mr. Schumer said on Wednesday. Now, he said, \"we can't afford to sit on the sidelines.\"\nCatie Edmondson contributed reporting.\nDisponível em https://www.nytimes.com/2022/07/28/us/politics/us-china-semiconductors.html.\nAcesso em 03/09/2022\n\nThe first part of the title “China Has Leapfrogged the U.S. in Key Technologies.” summarizes one of the article's main idea. What does it mean?",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "It means that the Asian country has advanced beyond the world's superpower in specific areas of technology development."
+        },
+        {
+          "letra": "b",
+          "texto": "It suggests that the Asian technology has always been superior to the one in western countries."
+        },
+        {
+          "letra": "c",
+          "texto": "It questions the capacity of the Chinese state to manage future advances in its national technological progress."
+        },
+        {
+          "letra": "d",
+          "texto": "It criticizes the American congress for overlooking the importance of technology for national security."
+        },
+        {
+          "letra": "e",
+          "texto": "It compares eastern and western advances concluding that the latter is superior."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Inglês – Compreensão de título",
+        "Inglês – Ideia principal"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "The current advanced semiconductor manufacturing is mostly:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "made in China."
+        },
+        {
+          "letra": "b",
+          "texto": "made in the USA."
+        },
+        {
+          "letra": "c",
+          "texto": "made in Europe."
+        },
+        {
+          "letra": "d",
+          "texto": "made in Taiwan."
+        },
+        {
+          "letra": "e",
+          "texto": "made in Japan."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Inglês – Compreensão de texto",
+        "Inglês – Detalhes específicos"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "The word \"withered\" used in the sentence:\n\"Meanwhile, the American semiconductor industry has withered, to the point where none of the most advanced chips are made in the United States, even though the fundamental technology was born here and gave Silicon Valley its name” (paragraph 5)\ncan be replaced by:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "skyrocketed."
+        },
+        {
+          "letra": "b",
+          "texto": "slightly decreased."
+        },
+        {
+          "letra": "c",
+          "texto": "significantly developed."
+        },
+        {
+          "letra": "d",
+          "texto": "disappeared completely."
+        },
+        {
+          "letra": "e",
+          "texto": "become smaller."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Inglês – Vocabulário",
+        "Inglês – Sinônimos"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "The article compares the current contest for best chip manufacturing technology to a previous geopolitical and military dispute.\nThis is clearly stated in:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "most of the paragraphs."
+        },
+        {
+          "letra": "b",
+          "texto": "paragraph 6."
+        },
+        {
+          "letra": "c",
+          "texto": "paragraphs 2 and 13."
+        },
+        {
+          "letra": "d",
+          "texto": "paragraph 1."
+        },
+        {
+          "letra": "e",
+          "texto": "paragraphs 3 and 4."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Inglês – Interpretação textual",
+        "Inglês – Comparação"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "A educação do homem grego – a Paideia – visava formar um elevado tipo de homem. A respeito da educação em Atenas, é correto assinalar que:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "a prioridade da educação ateniense era a formação de bons soldados."
+        },
+        {
+          "letra": "b",
+          "texto": "a educação era dirigida pelo Estado, que a regulamentava com plenos poderes."
+        },
+        {
+          "letra": "c",
+          "texto": "os exercícios físicos desempenhavam um grande papel e todas as crianças praticavam ginástica desde os 7 anos de idade."
+        },
+        {
+          "letra": "d",
+          "texto": "compreendia as letras, a música, a ginástica e, a partir do século IV a.C., elementos de geometria e desenho."
+        },
+        {
+          "letra": "e",
+          "texto": "as mulheres recebiam educação escolar formal, incluindo treinamento físico e militar."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "História – Grécia Antiga",
+        "História – Educação",
+        "História – Atenas"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Após a morte de Maomé, que não deixou herdeiro nem indicou sucessor, os grupos mercantis de Medina e outras cidades da Arábia empreenderam vigorosa política de conquistas, utilizando o proselitismo religioso segundo os próprios interesses econômicos.\nSabendo disso, é CORRETO afirmar que a expansão árabe resultou:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "na formação de imenso império, em que se desenvolveu a civilização muçulmana, estritamente árabe, rejeitando outras contribuições culturais."
+        },
+        {
+          "letra": "b",
+          "texto": "de uma ação estritamente religiosa, baseada no conceito de guerra santa ou jihad."
+        },
+        {
+          "letra": "c",
+          "texto": "em sucesso, tendo em vista a fraqueza dos adversários, tais como bizantinos, persas e visigodos."
+        },
+        {
+          "letra": "d",
+          "texto": "da unidade política e religiosa do Islã, que durante toda a Idade Média se manteve sob a liderança dos descendentes de Maomé."
+        },
+        {
+          "letra": "e",
+          "texto": "em um imenso império caracterizado pela vida rural, onde não floresceram cidades importantes, seja do ponto de vista administrativo ou cultural."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "História – Civilização Islâmica",
+        "História – Expansão Árabe"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Em 1537, no tempo do Renascimento Cultural, Hans Holbein, o maior pintor de retratos da época produziu um quadro do rei Henrique VIII da Inglaterra.\nO monarca em questão foi responsável:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "pela instituição da Igreja Puritana durante a Reforma Religiosa."
+        },
+        {
+          "letra": "b",
+          "texto": "pela decretação do Ato de Supremacia, tornando o rei a maior autoridade da Igreja Anglicana."
+        },
+        {
+          "letra": "c",
+          "texto": "pelo estabelecimento da Contrarreforma Católica no território inglês."
+        },
+        {
+          "letra": "d",
+          "texto": "pela Lei dos Pobres, que proibiu a mendicância e incumbiu as paróquias de conseguir emprego para as pessoas em condições de miséria."
+        },
+        {
+          "letra": "e",
+          "texto": "pela Petição de Direitos, que limitou a autonomia do monarca, impedindo-o de criar impostos sem o consentimento do Parlamento."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "História – Idade Moderna",
+        "História – Reforma Protestante",
+        "História – Anglicanismo",
+        "História – Henrique VIII"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Eu sou Cortez...\nDei à Espanha as palmas do triunfo\ncom as minhas ofuscantes vitórias,\ndei ao rei terras sem limites\ne a Deus almas sem conta.\n(Delumeau, Jean. A Civilização do Renascimento. Lisboa, editorial Estampa, 1994)\n\nO enunciado reproduz palavras que o dramaturgo espanhol, Lope de Vega, atribuiu a Hérnan Cortez, espanhol que:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "liderou a conquista do México aos astecas."
+        },
+        {
+          "letra": "b",
+          "texto": "liderou a conquista do Peru aos incas."
+        },
+        {
+          "letra": "c",
+          "texto": "fundou a colônia de La Española, onde foi criado o primeiro núcleo de povoamento na América, com o nome de Isabela."
+        },
+        {
+          "letra": "d",
+          "texto": "foi o responsável pela descoberta da ilha de Trinidad."
+        },
+        {
+          "letra": "e",
+          "texto": "foi o responsável pela exploração do Rio da Prata, conquistando os territórios do Paraguai, Uruguai e Argentina."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "História – América Colonial",
+        "História – Conquista do México",
+        "História – Hernán Cortés"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "O Barroco, a despeito de seu surgimento tardio como gênero na América portuguesa quando comparado com sua manifestação na Europa, foi a forma de expressão dessa sociedade. Embora tenha chegado primeiro a Salvador e às vilas do Nordeste açucareiro, foi nas Minas que ele se enraizou.\n(Schwarcz, Lilia Moritz. Brasil: Uma Biografia. São Paulo, Companhia das Letras, 2015)\n\nQuanto ao Barroco em Minas é correto assinalar:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "A igreja era o espaço cênico por excelência e as procissões e festas religiosas foram importantes para sua expressão."
+        },
+        {
+          "letra": "b",
+          "texto": "Foi uma arte bucólica, rural, inspirada em temas pastoris e pagãos."
+        },
+        {
+          "letra": "c",
+          "texto": "Refletiu os valores clássicos e naturalistas prestigiados pelo Renascimento."
+        },
+        {
+          "letra": "d",
+          "texto": "Tornou-se conhecido como gótico português e buscou expressar o poder régio."
+        },
+        {
+          "letra": "e",
+          "texto": "Caracterizou-se pela exaltação do nacionalismo e pelo culto à natureza."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Arte – Barroco Mineiro"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "Leia o texto abaixo e responda às questões 56 e 57:\nEm 1821, D. João VI viu-se obrigado a retornar a Portugal, todavia indicando seu filho Pedro como príncipe regente do Reino Unido no Brasil. A ruptura com Portugal ia tornando-se inevitável. Havia interesses a favor e contra a emancipação do Brasil, restando saber qual das facções, ou 'partidos', assumiria a liderança do processo de independência. Embora sem a estrutura ou feição dos partidos políticos atuais, esses agrupamentos representavam tendências ou grupos de opinião com expressão no cenário político-econômico da ex-colônia.\n(Lopes, Adriana; Mota, Carlos Guilherme. História do Brasil: Uma interpretação. São Paulo, Editora Senac, 2008)\n\nQuanto aos \"partidos” que atuavam no processo de independência, podemos afirmar:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "o \"partido” português estava convencido da inevitabilidade da ruptura entre Brasil e Portugal."
+        },
+        {
+          "letra": "b",
+          "texto": "o \"partido” brasileiro era composto por comerciantes ligados aos monopólios metropolitanos."
+        },
+        {
+          "letra": "c",
+          "texto": "o \"partido” brasileiro contava em suas fileiras com uma tendência mais radical, organizada em redutos liberais, com participação de letrados, bacharéis, jornalistas e padres."
+        },
+        {
+          "letra": "d",
+          "texto": "no \"partido” brasileiro havia consenso quanto à necessidade da independência e da opção por um governo republicano."
+        },
+        {
+          "letra": "e",
+          "texto": "os membros do “partido” brasileiro e as forças populares do “partido'' liberal radical concordavam com o compromisso da abolição da escravidão."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "História – Brasil Império",
+        "História – Independência do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Em relação ao contexto entre 1821 e 1822, o jornal Revérbero Constitucional Fluminense e seu fundador Gonçalves Ledo atuavam:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "em favor das pretensões do “partido” português."
+        },
+        {
+          "letra": "b",
+          "texto": "a favor da recolonização do Brasil."
+        },
+        {
+          "letra": "c",
+          "texto": "em aliança com José Bonifácio de Andrade e Silva, de quem Gonçalves Ledo era colaborador na maçonaria."
+        },
+        {
+          "letra": "d",
+          "texto": "a favor da manutenção do Brasil no Reino Unido a Portugal."
+        },
+        {
+          "letra": "e",
+          "texto": "a favor da tendência liberal mais radical, favorável à independência e à soberania popular."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "História – Brasil Império",
+        "História – Período Joanino",
+        "História – Imprensa no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "Em 16 de agosto deste ano, ocorreu a posse do ministro Alexandre de Moraes como novo presidente do Tribunal Superior Eleitoral (TSE), cerimônia que atraiu as atenções dos brasileiros, pois o ministro e a mencionada Corte Eleitoral irão comandar as eleições gerais até junho de 2024.\nDiante desse contexto, pode-se afirmar que o Tribunal Superior Eleitoral, a Justiça Eleitoral e o primeiro Código Eleitoral surgiram:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "com a independência do Brasil e a Constituição Outorgada de 1824."
+        },
+        {
+          "letra": "b",
+          "texto": "com a redemocratização do Brasil e a Constituição de 1988."
+        },
+        {
+          "letra": "c",
+          "texto": "com o Golpe de 1964 e a Constituição de 1967."
+        },
+        {
+          "letra": "d",
+          "texto": "em consequência da Revolução de 1930, para suprir a falta de transparência eleitoral que tinha vigorado durante a República Velha."
+        },
+        {
+          "letra": "e",
+          "texto": "com a Proclamação da República, visando proporcionar uma transparência eleitoral, que havia inexistido durante todo o Império."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "História – Brasil República",
+        "História – Justiça Eleitoral"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "Imagens de multidões invadindo aviões estacionados, subindo em aviões ou até mesmo pendurados em um avião de carga do exército dos Estados Unidos, enquanto decolava, foram espalhadas em boletins de notícias em todo o mundo.\nFonte: (https://www.em.com.br/app/noticia/internacional/2022/08/10/)\n\nO fragmento de notícia descreve a retirada das tropas norte-americanas do Afeganistão após 20 anos de ocupação. A atabalhoada e caótica retirada:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "encerrou a guerra mais longa dos Estados Unidos e legou ao Afeganistão um país sob o governo do Estado Islâmico."
+        },
+        {
+          "letra": "b",
+          "texto": "deveria ser o fim de uma era, mas foi um epílogo amargo com a volta do Talibã ao poder."
+        },
+        {
+          "letra": "c",
+          "texto": "finalizou com sucesso duas décadas de ocupação militar norte-americana no Afeganistão, tendo em vista o desparecimento do Talibã."
+        },
+        {
+          "letra": "d",
+          "texto": "concluiu vitoriosamente a construção de um Estado democrático no Afeganistão."
+        },
+        {
+          "letra": "e",
+          "texto": "ao menos logrou transmitir ao Afeganistão um ambiente de completa pacificação e ausência de atentados."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "História – Relações Internacionais",
+        "História – Conflitos Contemporâneos",
+        "História – Afeganistão"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Em julho de 2022 faleceu, em Barcelona, José Eduardo dos Santos, líder que governou Angola por 38 anos, entre 1979 e 2017. A cerimônia do sepultamento coincidiu com um acirrado processo eleitoral, visto que eleições gerais ocorreriam em 24 de agosto.\nA respeito de Angola é correto assinalar:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "José Eduardo dos Santos pertencia à União Nacional para a Independência Total de Angola (UNITA)."
+        },
+        {
+          "letra": "b",
+          "texto": "José Eduardo dos Santos comandou Angola por 38 anos com forte apoio dos Estados Unidos e da África do Sul."
+        },
+        {
+          "letra": "c",
+          "texto": "José Eduardo dos Santos liderou a Frente Nacional de Libertação de Angola (FNLA) com apoio da China."
+        },
+        {
+          "letra": "d",
+          "texto": "O atual governo angolano representa a Frente Nacional de Libertação de Angola (FNLA), grupo que se consolidou no poder após a guerra civil encerrada em 2002."
+        },
+        {
+          "letra": "e",
+          "texto": "José Eduardo dos Santos pertencia ao Movimento Popular de Libertação de Angola (MPLA), que enfrentou o colonialismo português."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "História – História da África",
+        "História – Angola",
+        "História – Guerra Civil Angolana"
+      ]
+    },
+    {
+      "numeroEnunciado": 61,
+      "enunciado": "Podemos indicar como exemplo de indústrias de bens de consumo não duráveis:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "siderúrgica e mecânica"
+        },
+        {
+          "letra": "b",
+          "texto": "bebida e automobilística"
+        },
+        {
+          "letra": "c",
+          "texto": "têxtil e alimentícia"
+        },
+        {
+          "letra": "d",
+          "texto": "calçado e eletrônica"
+        },
+        {
+          "letra": "e",
+          "texto": "farmacêutica e naval"
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Geografia – Economia",
+        "Geografia – Indústria"
+      ]
+    },
+    {
+      "numeroEnunciado": 62,
+      "enunciado": "Observe a seguir dados do Relatório MapBiomas 2022:\nEm 2021, foram identificados, validados e refinados 69.796 alertas em todo o território nacional.\nTotal de desmatamento: 16.557 km² (1.655.782 ha)\nUm aumento de 20% na área desmatada em relação ao ano de 2020.\n97,8% das áreas desmatadas entre 2019 e 2021 teve como vetor de pressão a atividade agropecuária.\nFonte - MapBiomas. Relatório Anual do Desmatamento do Brasil 2021. São Paulo, MapBiomas, 2022.\n\nAnalisando os dados, é possível afirmar que o bioma mais atingido foi o (a):",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Amazônia"
+        },
+        {
+          "letra": "b",
+          "texto": "Caatinga"
+        },
+        {
+          "letra": "c",
+          "texto": "Pampas"
+        },
+        {
+          "letra": "d",
+          "texto": "Mata Atlântica"
+        },
+        {
+          "letra": "e",
+          "texto": "Pantanal"
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Geografia – Meio Ambiente",
+        "Geografia – Biomas Brasileiros",
+        "Geografia – Desmatamento"
+      ]
+    },
+    {
+      "numeroEnunciado": 63,
+      "enunciado": "Em julho de 2022, o IBGE divulgou um estudo sobre a população brasileira. O gráfico a seguir é parte desse estudo.\nPopulação residente (%) – Brasil\npor grupos de idade\nFonte: IBGE, 2022.\n\nInterpretando o gráfico, é possível afirmar que no período a população brasileira está:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "aumentando sua taxa de reposição."
+        },
+        {
+          "letra": "b",
+          "texto": "rejuvenescendo."
+        },
+        {
+          "letra": "c",
+          "texto": "aumentando o crescimento demográfico."
+        },
+        {
+          "letra": "d",
+          "texto": "reduzindo sua população ativa."
+        },
+        {
+          "letra": "e",
+          "texto": "envelhecendo."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Geografia – Demografia",
+        "Geografia – Estrutura Etária"
+      ]
+    },
+    {
+      "numeroEnunciado": 64,
+      "enunciado": "Observe o texto:\nPrincipal modo de transporte no Brasil (...), respondendo por mais de 60% do volume de movimentação nacional de cargas e 48% do transporte interestadual de passageiros.\nFonte - Tribunal de Contas da União, TCU, 2017.\n\nO texto refere-se ao modal:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Ferroviário"
+        },
+        {
+          "letra": "b",
+          "texto": "Hidroviário"
+        },
+        {
+          "letra": "c",
+          "texto": "Aéreo"
+        },
+        {
+          "letra": "d",
+          "texto": "Rodoviário"
+        },
+        {
+          "letra": "e",
+          "texto": "Dutoviário"
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Geografia – Geografia Econômica",
+        "Geografia – Modais de Transporte"
+      ]
+    },
+    {
+      "numeroEnunciado": 65,
+      "enunciado": "Observe atentamente os elementos das informações sobre o gráfico que representa alguns dos principais minérios de exportação brasileira.\nFonte: Instituto Brasileiro de Mineração (IBRAIM). Relatório anual de atividades: julho de 2018 - julho de 2019. Brasília, DF, 2019. p. 43\n\nO minério de maior exportação representado pelo algarismo I é:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Ferro"
+        },
+        {
+          "letra": "b",
+          "texto": "Bauxita"
+        },
+        {
+          "letra": "c",
+          "texto": "Manganês"
+        },
+        {
+          "letra": "d",
+          "texto": "Petróleo"
+        },
+        {
+          "letra": "e",
+          "texto": "Aço"
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Geografia – Geografia Econômica",
+        "Geografia – Recursos Minerais do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 66,
+      "enunciado": "De acordo com o gráfico a seguir e de seus conhecimentos, pode-se afirmar:\nMORE THAN HALF (425 MILLION) OF THE PEOPLE IN THE WORLD AFFECTED BY HUNGER IN 2021 WERE IN ASIA AND MORE THAN ONE-THIRD (278 MILLION) IN AFRICA\n\nNOTES: Project values based on the middle of the projected range. The full ranges of the projected 2021 values can be found in Annex 2. n.r. = not reported, as the prevalence is less than 2.5 percent. Source: FAO.\nFonte - FAO. The state of food security and nutrition in the world. FAO, 2022.",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Menos da metade da população desnutrida no mundo encontrava-se na Ásia, enquanto a maior parte estava na África."
+        },
+        {
+          "letra": "b",
+          "texto": "A África Subsaariana reduziu grande parte de sua população desnutrida, mas a África setentrional aumentou."
+        },
+        {
+          "letra": "c",
+          "texto": "Os três países mais populosos da Ásia (China, Índia e Japão) compõem em grande parte a população desnutrida asiática."
+        },
+        {
+          "letra": "d",
+          "texto": "A Índia detém grande parte da população desnutrida da região mais afetada no mundo."
+        },
+        {
+          "letra": "e",
+          "texto": "Países como Uruguai, Argentina e Chile justificam a população desnutrida latino-americana."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Geografia – Geografia Humana",
+        "Geografia – Fome Mundial",
+        "Geografia – Ásia e África"
+      ]
+    },
+    {
+      "numeroEnunciado": 67,
+      "enunciado": "O quadro abaixo do Banco Mundial aponta o ritmo de crescimento e o consequente panorama da economia mundial.\nFonte - World Bank. Global Economic Prospects 2022.\n\nA leitura dos dados do período nos permite afirmar que:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "A economia mundial tem-se mostrado promissora."
+        },
+        {
+          "letra": "b",
+          "texto": "Os países ricos seguem sendo os que apresentam melhores perspectivas de crescimento econômico."
+        },
+        {
+          "letra": "c",
+          "texto": "Países asiáticos como China e Índia apresentam os maiores índices de crescimento."
+        },
+        {
+          "letra": "d",
+          "texto": "Os grandes produtores mundiais de petróleo apresentaram crescimento econômico acima da média mundial."
+        },
+        {
+          "letra": "e",
+          "texto": "A América Latina, apesar da perseverante desigualdade, segue crescendo em ritmo sustentável e acima da média de outras regiões."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Geografia – Economia Mundial",
+        "Geografia – Crescimento Econômico"
+      ]
+    },
+    {
+      "numeroEnunciado": 68,
+      "enunciado": "A geopolítica mundial em 2022 esteve fortemente marcada pela Guerra russo-ucraniana, sobretudo pelos acontecimentos ocorridos nas duas províncias destacadas abaixo. Até iniciar a guerra, essas províncias se caracterizavam por:\nFonte: Adaptado de: https://www.researchgate.net/figure/-Source-BBC-2022_fig1_361613574. Acesso: 13/10/2022..",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "conterem a península da Crimeia, que se notabiliza pelo seu posicionamento estratégico."
+        },
+        {
+          "letra": "b",
+          "texto": "serem províncias russas, mas que anseiam por pertencer à Ucrânia."
+        },
+        {
+          "letra": "c",
+          "texto": "guardarem grande concentração de petróleo e, por isso, serem disputadas por Rússia e Ucrânia."
+        },
+        {
+          "letra": "d",
+          "texto": "apresentarem população de maioria russa e conviverem com movimentos separatistas que lutam pela anexação à Rússia."
+        },
+        {
+          "letra": "e",
+          "texto": "serem reivindicadas pela Ucrânia perante a Rússia por terem sido transferidas por Nikita Krushev a Moscou à época da União Soviética."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "Geografia – Conflito Russo-Ucraniano"
+      ]
+    },
+    {
+      "numeroEnunciado": 69,
+      "enunciado": "Most Americans, bred up in the democratic tradition, sympathize with [...] struggle for freedom. They dislike empire and imperialism and the domination and exploitation of one nation by another. And yet they are perplexed when they consider the [...] problem, wondering whether it is possible to build a united and progressive nation out of the infinite diversity that makes the fabric of [...] life.\nFonte - Jawaharlal Nehru. Foreign Affairs, vol. 16, number 2, 1938.\n\nO texto acima é de Jawaharlal Nehru e está relacionado à história e à formação territorial da (dos):",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Índia, cujo processo de independência resultou geograficamente na constituição de três Estados: Índia, Paquistão, Bangladesh."
+        },
+        {
+          "letra": "b",
+          "texto": "África, cujo período colonial conduzido pelo imperialismo legou um continente entregue às mazelas do subdesenvolvimento que seguiu após a Segunda Guerra Mundial."
+        },
+        {
+          "letra": "c",
+          "texto": "Estados Unidos, cujo imperialismo tardio iniciou seu domínio na Índia a partir do século XX, contribuindo para o novo papel de potência hegemônica."
+        },
+        {
+          "letra": "d",
+          "texto": "Paquistão, cuja independência interrompeu o ciclo separatista que dominava o país e garantiu a unidade do país a partir da segunda metade do século XX."
+        },
+        {
+          "letra": "e",
+          "texto": "China, cujo jugo imperialista findou a partir de duas correntes que surgiram no século XX: a nacionalista e a comunista."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "História – Descolonização",
+        "História – Índia",
+        "História – Jawaharlal Nehru"
+      ]
+    },
+    {
+      "numeroEnunciado": 70,
+      "enunciado": "A imagem acima é uma iniciativa do programa:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Combate de erradicação da fome (UNICEF);"
+        },
+        {
+          "letra": "b",
+          "texto": "Combate à desigualdade mundial (OCDE);"
+        },
+        {
+          "letra": "c",
+          "texto": "Erradicação da pobreza (PNUMA);"
+        },
+        {
+          "letra": "d",
+          "texto": "Preservação ambiental (PNUD);"
+        },
+        {
+          "letra": "e",
+          "texto": "Objetivos de Desenvolvimento Sustentável (ONU)."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Sociologia – Sustentabilidade",
+        "Sociologia – Objetivos de Desenvolvimento Sustentável (ODS)"
+      ]
+    },
+    {
+      "numeroEnunciado": 71,
+      "enunciado": "Observe a missão de uma instituição brasileira:\nGarantir a estabilidade do poder de compra da moeda, zelar por um sistema financeiro sólido, eficiente e competitivo, e fomentar o bem-estar econômico da sociedade.\n\nTrata-se do (da):",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Ministério da Fazenda."
+        },
+        {
+          "letra": "b",
+          "texto": "Banco do Brasil."
+        },
+        {
+          "letra": "c",
+          "texto": "Receita Federal."
+        },
+        {
+          "letra": "d",
+          "texto": "Banco Central."
+        },
+        {
+          "letra": "e",
+          "texto": "Ministério do Planejamento."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "Sociologia – Instituições Financeiras",
+        "Sociologia – Economia"
+      ]
+    },
+    {
+      "numeroEnunciado": 72,
+      "enunciado": "Neste ano (2022), três importantes representantes da cultura musical brasileira completaram 80 anos.\nEles fizeram parte dos seguintes movimentos musicais:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Bossa Nova e Jovem Guarda."
+        },
+        {
+          "letra": "b",
+          "texto": "Clube da Esquina e Tropicália."
+        },
+        {
+          "letra": "c",
+          "texto": "Rock Nacional e Samba Novo."
+        },
+        {
+          "letra": "d",
+          "texto": "Tribalistas e Rock Rural."
+        },
+        {
+          "letra": "e",
+          "texto": "Bossa Nova e Clube da Esquina."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Arte – Música Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 73,
+      "enunciado": "De acordo com o Censo Escolar 2021, havia no Brasil 7,8 milhões de estudantes no Ensino Médio. Tal realidade está expressa no gráfico abaixo.\nFonte - Censo Escolar 2021. Brasília, Inep, 2022.\n\nDe acordo com o gráfico, a maior parte dos estudantes brasileiros:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Está no interior em escolas rurais."
+        },
+        {
+          "letra": "b",
+          "texto": "Encontra-se nas cidades em escolas particulares."
+        },
+        {
+          "letra": "c",
+          "texto": "Concentra-se em escolas públicas municipais."
+        },
+        {
+          "letra": "d",
+          "texto": "Localiza-se em escolas estaduais rurais."
+        },
+        {
+          "letra": "e",
+          "texto": "Está em escolas estaduais nas cidades."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "Sociologia – Educação",
+        "Sociologia – Demografia Educacional"
+      ]
+    },
+    {
+      "numeroEnunciado": 74,
+      "enunciado": "Uma operação militar dos Estados Unidos, com um drone, realizada no Afeganistão, matou Ayman al-Zawahiri, que era procurado pelos americanos há mais de duas décadas e por quem o governo americano chegou a oferecer US$ 25 milhões como recompensa a informações que levassem a sua prisão.\nFonte - Folha de S. Paulo, 02/08/2022.\n\nAyman al-Zawahiri era:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "o líder do Talibã."
+        },
+        {
+          "letra": "b",
+          "texto": "o líder do Estado Islâmico."
+        },
+        {
+          "letra": "c",
+          "texto": "o fundador do Hamas."
+        },
+        {
+          "letra": "d",
+          "texto": "o fundador do Hezbollah."
+        },
+        {
+          "letra": "e",
+          "texto": "o principal líder vivo da Al Qaeda."
+        }
+      ],
+      "opcaoCorreta": "e",
+      "conteudo": [
+        "História – Geopolítica",
+        "História – Terrorismo",
+        "História – Al Qaeda"
+      ]
+    },
+    {
+      "numeroEnunciado": 75,
+      "enunciado": "Dos grupos de seleções abaixo que participarão da Copa do Mundo no Catar em novembro de 2022, apenas dois apresentam países que são membros permanentes do Conselho de Segurança da ONU, mas apenas um apresenta mais de um membro permanente do Conselho. Trata-se do grupo:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "A"
+        },
+        {
+          "letra": "b",
+          "texto": "B"
+        },
+        {
+          "letra": "c",
+          "texto": "C"
+        },
+        {
+          "letra": "d",
+          "texto": "D"
+        },
+        {
+          "letra": "e",
+          "texto": "E"
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "Geografia – Organizações Internacionais",
+        "Geografia – FIFA"
+      ]
+    },
+    {
+      "numeroEnunciado": 76,
+      "enunciado": "Sobre o cenário político europeu contemporâneo, podemos afirmar:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Sanna Marin da Noruega é a mais jovem chefe de Estado do mundo atualmente."
+        },
+        {
+          "letra": "b",
+          "texto": "Ao tomar posse no cargo de primeira-ministra, Giorgia Meloni é a primeira mulher a assumir o poder na Itália."
+        },
+        {
+          "letra": "c",
+          "texto": "Depois de liderar a Alemanha por 16 anos, Angela Merkel foi sucedida por Olaf Scholz do mesmo partido que a chanceler."
+        },
+        {
+          "letra": "d",
+          "texto": "Depois de Margareth Thatcher e Teresa May, Lis Truss tornou-se a terceira primeira-ministra da história britânica, todas do Partido Trabalhista."
+        },
+        {
+          "letra": "e",
+          "texto": "Emannuel Macron tentará se reeleger nas próximas eleições francesas, tornando-se o primeiro-ministro há mais tempo no poder do país."
+        }
+      ],
+      "opcaoCorreta": "b",
+      "conteudo": [
+        "História – Geopolítica",
+        "História – Política Europeia"
+      ]
+    },
+    {
+      "numeroEnunciado": 77,
+      "enunciado": "A eleição presidencial ocorrida na Colômbia, em 19/06/2022, trouxe uma novidade para a vida política do país, pois:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Rodolfo Hernández tornou-se o primeiro presidente de direita da Colômbia."
+        },
+        {
+          "letra": "b",
+          "texto": "Ivan Duque tornou-se o primeiro presidente a obter a reeleição."
+        },
+        {
+          "letra": "c",
+          "texto": "Francis Marques, uma populista de direita, tornou-se a primeira mulher a ser eleita para a presidência."
+        },
+        {
+          "letra": "d",
+          "texto": "Gustavo Petro foi eleito o primeiro presidente de esquerda da Colômbia."
+        },
+        {
+          "letra": "e",
+          "texto": "Álvaro Uribe, um ex-presidente, acusado de relações com grupos paramilitares de direita, venceu a eleição."
+        }
+      ],
+      "opcaoCorreta": "d",
+      "conteudo": [
+        "História – Geopolítica",
+        "História – América Latina",
+        "História – Política Colombiana"
+      ]
+    },
+    {
+      "numeroEnunciado": 78,
+      "enunciado": "Em meio ao conflito entre Rússia e Ucrânia, os preços da energia na Europa continuam a bater recordes, intensificando a crise energética da região.\nQuanto ao assunto, é correto assinalar que o gasoduto Nord Stream 1:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "é um gasoduto controlado por empresas privadas alemãs, mas com participação minoritária da empresa estatal russa Gazprom."
+        },
+        {
+          "letra": "b",
+          "texto": "é um gasoduto para transporte de gás natural através do Mar Negro e que abastece toda a Europa."
+        },
+        {
+          "letra": "c",
+          "texto": "é um gasoduto que transporta gás natural através do Mar Báltico até a Alemanha."
+        },
+        {
+          "letra": "d",
+          "texto": "é um gasoduto que atravessa o território da Ucrânia e da Polônia e abastece a Alemanha."
+        },
+        {
+          "letra": "e",
+          "texto": "transporta gás natural da Rússia para a Alemanha, sendo que seus ramais atravessam os territórios da Finlândia, Suécia e Dinamarca."
+        }
+      ],
+      "opcaoCorreta": "c",
+      "conteudo": [
+        "Geografia – Geopolítica",
+        "Geografia – Energia",
+        "Geografia – Conflito Russo-Ucraniano"
+      ]
+    },
+    {
+      "numeroEnunciado": 79,
+      "enunciado": "A criação da Assembleia Constituinte para redigir um texto que substituísse a Carta atual foi uma resposta às manifestações que tomaram as ruas do país em 2019.\nAssim, em 4 de setembro, os chilenos votaram em um plebiscito, pela aprovação ou rejeição da proposta de Constituição elaborada por constituintes eleitos em 2021.\nFonte - Folha de S. Paulo; 05/09/2022.\n\nQuanto ao assunto é correto assinalar:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "Os chilenos rejeitaram a proposta de nova Constituição."
+        },
+        {
+          "letra": "b",
+          "texto": "A ausência de garantias de direitos indígenas determinou a rejeição da nova Constituição."
+        },
+        {
+          "letra": "c",
+          "texto": "A ausência de políticas de gênero no texto da nova Carta determinou sua rejeição."
+        },
+        {
+          "letra": "d",
+          "texto": "Os chilenos aprovaram a nova Constituição, garantindo direitos universais de saúde e educação."
+        },
+        {
+          "letra": "e",
+          "texto": "A aprovação da nova Constituição foi uma grande vitória de Gabriel Boric, o presidente chileno."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "História – Geopolítica",
+        "História – América Latina",
+        "História – Política Chilena"
+      ]
+    },
+    {
+      "numeroEnunciado": 80,
+      "enunciado": "Direita e esquerda são conceitos políticos e ideológicos que datam da Revolução Francesa, quando jacobinos e girondinos assumiram posturas distintas após a queda da monarquia. O termo foi atualizado através dos séculos e pauta as discussões políticas no mundo contemporâneo. Nesse contexto, as eleições presidenciais brasileiras de 2022 foram marcadas pela eleição de:",
+      "alternativas": [
+        {
+          "letra": "a",
+          "texto": "um presidente de centro-esquerda e por um Congresso mais ligado à pauta de direita."
+        },
+        {
+          "letra": "b",
+          "texto": "um presidente identificado com a direita ou extrema direita e um Congresso majoritariamente de direita."
+        },
+        {
+          "letra": "c",
+          "texto": "partidos de maioria progressista que dominaram o Congresso na Câmara dos Deputados e no Senado Federal."
+        },
+        {
+          "letra": "d",
+          "texto": "uma Câmara de Deputados progressistas identificados com bandeiras identitárias, mas um Senado Federal dominado pela direita."
+        },
+        {
+          "letra": "e",
+          "texto": "um candidato de extrema esquerda que conseguiu formar uma maioria igualmente de esquerda no Congresso, facilitando a governabilidade."
+        }
+      ],
+      "opcaoCorreta": "a",
+      "conteudo": [
+        "Sociologia – Política",
+        "Sociologia – Ideologias Políticas",
+        "Sociologia – Eleições no Brasil"
+      ]
+    }
+  ]
+}

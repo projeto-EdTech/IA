@@ -1,0 +1,1586 @@
+{
+  "nomeUniversidade": "Universidade do Estado do Rio de Janeiro",
+  "siglaUniversidade": "UERJ",
+  "nomeProva": "2º Exame de Qualificação",
+  "ano": 2024,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Jurassic Park - Parque dos Dinossauros é um filme de aventura e ficção científica estadunidense, lançado em 1993 e dirigido por Steven Spielberg. A ação transcorre na fictícia Ilha Nublar, onde John Hammond, um filantropo bilionário, e uma pequena equipe de geneticistas criam um parque temático no qual as principais atrações são variadas espécies de dinossauros recriados por engenharia genética.\n\nAdaptado de pt.wikipedia.org.\n\nEm Jurassic Park, a vida de espécies animais extintas no passado do planeta Terra é recriada por meio de engenharia genética.\nA existência histórica dessas espécies é comprovada pelas pesquisas do seguinte campo da ciência:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "etologia"
+        },
+        {
+          "letra": "B",
+          "texto": "mineralogia"
+        },
+        {
+          "letra": "C",
+          "texto": "climatologia"
+        },
+        {
+          "letra": "D",
+          "texto": "paleontologia"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Paleontologia e Evolução"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "De acordo com a exposição feita na primeira seção do texto (linhas 3 a 21), as noções de ordem e desordem estabelecem determinada relação entre si.\nTrata-se de uma relação de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "oposição"
+        },
+        {
+          "letra": "B",
+          "texto": "proporção"
+        },
+        {
+          "letra": "C",
+          "texto": "implicação"
+        },
+        {
+          "letra": "D",
+          "texto": "substituição"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Para o funcionamento da célula, unidade fundamental da vida, é necessário que partículas carregadas se desloquem entre os meios intra e extracelular. Esse deslocamento ocorre através de túneis denominados canais iônicos.\nEsse processo se baseia na diferença do seguinte fator entre os meios intra e extracelular:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "massa"
+        },
+        {
+          "letra": "B",
+          "texto": "temperatura"
+        },
+        {
+          "letra": "C",
+          "texto": "potencial elétrico"
+        },
+        {
+          "letra": "D",
+          "texto": "pressão hidrostática"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Fisiologia Celular",
+        "Física – Eletrostática"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "As bases nitrogenadas são componentes fundamentais das moléculas de ácidos nucleicos, encontradas nas células vivas dos órgãos. Observe as fórmulas estruturais de duas dessas bases, a timina e a uracila.\n\nO grupamento que diferencia essas duas bases nitrogenadas é denominado:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "metil"
+        },
+        {
+          "letra": "B",
+          "texto": "propil"
+        },
+        {
+          "letra": "C",
+          "texto": "carboxila"
+        },
+        {
+          "letra": "D",
+          "texto": "carbonila"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Química Orgânica",
+        "Biologia – Bioquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "sabemos que a ordem mantida nos indivíduos vivos só é possível ao preço da criação de uma desordem. (l. 19-20)\nA cadeia alimentar é um exemplo de relação trófica em que parte da energia dos seres vivos é transformada, a cada etapa, em sua forma mais desorganizada: o calor.\nEsse tipo de transformação metabólica limita a energia disponível principalmente para o seguinte nível da cadeia alimentar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "carnívoros"
+        },
+        {
+          "letra": "B",
+          "texto": "herbívoros"
+        },
+        {
+          "letra": "C",
+          "texto": "produtores"
+        },
+        {
+          "letra": "D",
+          "texto": "decompositores"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Ecologia",
+        "Física – Termodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Tartarugas são animais que podem atingir grandes medidas, além de serem longevos.\nA tartaruga-de-couro, por exemplo, pode chegar aos 225 anos.\nAdmita que a expectativa de vida média de um ser humano seja de 75 anos. Para alcançar 225 anos, essa expectativa deveria aumentar x%.\nO valor de x é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "230"
+        },
+        {
+          "letra": "B",
+          "texto": "200"
+        },
+        {
+          "letra": "C",
+          "texto": "170"
+        },
+        {
+          "letra": "D",
+          "texto": "140"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Um dos usos da palavra que é como elemento de coesão textual.\nTal palavra estabelece conexão, referindo-se a um termo antecedente, no seguinte trecho do texto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "devo dizer que a definição mais estrita de vida não é, de fato, tão simples. (l. 4-5)"
+        },
+        {
+          "letra": "B",
+          "texto": "Não é impossível, porém, que alguns organismos se perpetuem sem se reproduzir, (l. 11-12)"
+        },
+        {
+          "letra": "C",
+          "texto": "um planeta vive para diminuir a temperatura de seu interior até que sua dinâmica interna se paralise. (l. 26-27)"
+        },
+        {
+          "letra": "D",
+          "texto": "Esse “não encontro” impossibilitaria a migração dos hominídeos, que existiriam isolados (l. 33)"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Gramática (Pronome Relativo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Não fosse o pulsante dinamismo da Terra, os continentes não existiriam e o planeta ainda seria uma bola de lava. Sem essa dinâmica tampouco haveria deriva continental, nem as placas tectônicas se encontrariam. (l. 31-32)\n\nOs mapas de pontos a seguir representam padrões de distribuição de diferentes fenômenos.\nO mapa que representa de forma mais aproximada a localização das áreas de encontros mencionadas no texto é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Geologia e Placas Tectônicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "A decisão de quem será o narrador é um ponto crucial e inaugurador de qualquer trabalho literário. E aqui Chico começa a desfilar as jogadas que nos encantarão ao longo da leitura dessa pequena obra-prima. Há três contos narrados por crianças: “Meu tio”, “Os primos de Campos” e \"Anos de chumbo”. A adolescente que se prostitui com o tio miliciano com a anuência dos pais, o garoto abandonado pelo pai que vivencia as agruras de um primo morto pelo crime e de um irmão que se perde nas drogas, e o menino paralítico que passa o tempo imaginando batalhas com soldadinhos de chumbo são personagens que têm em comum a vivência de grandes terrores, sem a exata percepção disso.\n\nTONY BELLOTTO\nAdaptado de elle.com.br, 29/10/2021.\n\nEm sua análise, Tony Bellotto destaca a importância do narrador e a exemplifica com os contos do livro narrados por crianças.\nA opção por crianças como narradores produz o seguinte efeito sobre a narrativa:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "exploração de memórias do autor"
+        },
+        {
+          "letra": "B",
+          "texto": "negação das tensões psicológicas"
+        },
+        {
+          "letra": "C",
+          "texto": "idealização de episódios históricos"
+        },
+        {
+          "letra": "D",
+          "texto": "intensificação da exposição da violência"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Literatura (Análise Literária)"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Há temáticas que se repetem ao longo do livro de Chico Buarque.\nNos contos Meu tio e Anos de chumbo, identifica-se o seguinte tema comum:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "submissão por relações sexuais"
+        },
+        {
+          "letra": "B",
+          "texto": "perversidade nos grupos familiares"
+        },
+        {
+          "letra": "C",
+          "texto": "ambição por crescimento econômico"
+        },
+        {
+          "letra": "D",
+          "texto": "hipocrisia nos ambientes profissionais"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura (Análise Literária)"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "CONTO \"MEU TIO\"\n\nA partir da leitura do conto, observa-se que o tom de banalização dos fatos, empregado pela narradora, acentua certa crítica.\nEssa crítica dirige-se ao seguinte comportamento:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "desprezo por normas sociais"
+        },
+        {
+          "letra": "B",
+          "texto": "intolerância por opções políticas"
+        },
+        {
+          "letra": "C",
+          "texto": "confronto com questões religiosas"
+        },
+        {
+          "letra": "D",
+          "texto": "negligência com interesses trabalhistas"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura (Análise Literária)"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Meu tio passou a encurralar a moto no limite da pista. (...) Com uma rabeada do carro, meu tio acabou de jogar a moto num canteiro. Olhei para trás e vi a moto capotar quatro vezes no gramado, com o motociclista abraçado nela.\n\nPor sorte, logo adiante ficava a concessionária Mitsubishi onde meu tio tinha comprado o carro uma semana antes. (...) Meu tio precisava de um carro reserva enquanto consertavam o seu. (p. 19)\n\nO trecho iniciado pela expressão por sorte, em relação ao acontecimento narrado anteriormente, produz efeito de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "descrição de emoção"
+        },
+        {
+          "letra": "B",
+          "texto": "alerta de coincidência"
+        },
+        {
+          "letra": "C",
+          "texto": "quebra de expectativa"
+        },
+        {
+          "letra": "D",
+          "texto": "antecipação de desfecho"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "CONTO \"O PASSAPORTE\"\n\nAtordoado, o grande artista se olhou no espelho bem no momento em que se transformava ele próprio num canalha. (p. 36)\n\nO passaporte é um documento que permite a entrada de um indivíduo em país estrangeiro. De modo figurado, o artista, ao reaver seu passaporte, parece ingressar em um novo espaço subjetivo.\nCom base na narrativa, uma atitude que caracteriza esse outro espaço é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "coação"
+        },
+        {
+          "letra": "B",
+          "texto": "retaliação"
+        },
+        {
+          "letra": "C",
+          "texto": "dominação"
+        },
+        {
+          "letra": "D",
+          "texto": "discriminação"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura (Análise Literária)"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "CONTO \"OS PRIMOS DE CAMPOS\"\n\nSe eu forçar a memória mais e mais a fundo, até onde ela encosta na imaginação, procuro meu pai (p. 54)\n\nAo longo do conto, o narrador tematiza aspectos relacionados à recuperação de memórias.\nNo fragmento citado, faz-se alusão ao seguinte aspecto característico de uma narrativa de memórias:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "presença de lapsos"
+        },
+        {
+          "letra": "B",
+          "texto": "falta de linearidade"
+        },
+        {
+          "letra": "C",
+          "texto": "possibilidade de invenção"
+        },
+        {
+          "letra": "D",
+          "texto": "necessidade de esquecimento"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura (Teoria da Narrativa)"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Nunca mais me ocupei disso até ver a foto do caçula no colo da mãe, seus traços tão semelhantes, e sou obrigado a dar razão aos comentários do meu irmão, para quem os primos de Campos são bem mulatos. Mas é lógico que são afrodescendentes, segundo minha namorada, que já publicou no jornal do grêmio estudantil um artigo sobre negritude. (p. 63)\n\nAs palavras empregadas pelo irmão mais velho e pela namorada do narrador indicam diferentes visões de mundo que influenciam na caracterização dos primos de Campos.\nNo caso, a segunda palavra sublinhada no trecho agrega a seu significado o seguinte aspecto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "abordagem irônica"
+        },
+        {
+          "letra": "B",
+          "texto": "tom preconceituoso"
+        },
+        {
+          "letra": "C",
+          "texto": "perspectiva histórica"
+        },
+        {
+          "letra": "D",
+          "texto": "pertencimento familiar"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Análise do Discurso",
+        "Sociologia – Relações Raciais"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "CONTO \"CIDA\"\n\nAs joias que ele lhe dava estavam guardadas na sua caixa de sapatos, que depois de muita relutância e mediante uma nota de cinquenta, ela me abriu. Eu nada disse, mas ela ficou ofendida com a minha cara, que era a cara de quem vê um punhado de areia e brita no fundo de uma caixa. Eu não tinha capacidade para compreender que aquilo eram ouros, pratas, diamantes, tesouros que se desintegravam com a entrada na atmosfera terrestre mas que na subida voltariam ao estado brilhante. Sem ironia lhe perguntei se o Ló também não virava pó com essas viagens intergalácticas, e pela primeira vez a vi sorrir. (p. 79)\n\nO episódio acima faz parte da explicação da personagem Cida ao narrador sobre quem era o pai da filha que esperava.\nEm relação à construção da narrativa, essa explicação funciona da seguinte forma:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ficção dentro de uma ficção"
+        },
+        {
+          "letra": "B",
+          "texto": "sonho dentro de um sonho"
+        },
+        {
+          "letra": "C",
+          "texto": "digressão dentro de uma digressão"
+        },
+        {
+          "letra": "D",
+          "texto": "argumento dentro de um argumento"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura (Teoria da Narrativa)"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "CONTO \"COPACABANA\"\n\nCopacabana, essa sim, eu conhecia de ponta a ponta, mas mesmo morando diante do mar, às vezes me sentia contaminado pelo lado sombrio do bairro. Visto de frente, eu era um adolescente de belas cores, o rosto bronzeado e uns olhos claros de fulminar as garotas que mirava na praia. Já minhas costas eram de pobre, apinhadas de cravos, espinhas, quistos e furúnculos (p. 91)\n\nA descrição física do personagem o mostra como uma representação do bairro de Copacabana, também descrito.\nEssa representação se constrói por meio de um recurso conhecido como:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "nomeação"
+        },
+        {
+          "letra": "B",
+          "texto": "gradação"
+        },
+        {
+          "letra": "C",
+          "texto": "paródia"
+        },
+        {
+          "letra": "D",
+          "texto": "analogia"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "CONTO \"PARA CLARICE LISPECTOR, COM CANDURA”\n\nDiferentes contos, como Passaporte, Copacabana e, especialmente, Para Clarice Lispector, com candura, abordam o próprio trabalho artístico, em diferentes perspectivas.\nNesse processo de usar a literatura para tematizar a própria literatura, mobiliza-se um recurso denominado:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "antítese"
+        },
+        {
+          "letra": "B",
+          "texto": "metáfora"
+        },
+        {
+          "letra": "C",
+          "texto": "particularização"
+        },
+        {
+          "letra": "D",
+          "texto": "metalinguagem"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Funções da Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "CONTO \"O SÍTIO\"\n\nSaudades dela não tenho, nem lembranças pungentes, nada. Quando a relembro, penso num tempo meio que girando em falso, meio que transcorrendo sempre no presente, meio que sendo um gerúndio, por assim dizer. Melhor dizendo, penso nela como um episódio estanque, sem antes nem depois, já destacado de mim. Para mim soaria inverossímil a nossa relação, se eu mesmo não a tivesse registrado neste conto, que talvez reescreva amanhã na terceira pessoa. (p. 149)\n\nNo trecho, o narrador considera a possibilidade de reescrever o próprio conto em terceira pessoa.\nEssa possibilidade de reescritura em terceira pessoa, a partir dos sentimentos do narrador, sugere a necessidade deste em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "relatar suposição"
+        },
+        {
+          "letra": "B",
+          "texto": "preservar memória"
+        },
+        {
+          "letra": "C",
+          "texto": "marcar afastamento"
+        },
+        {
+          "letra": "D",
+          "texto": "questionar realidade"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Literatura (Análise Narrativa)"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "CONTO \"ANOS DE CHUMBO\"\n\nMais tarde, ele passou a vir mesmo nas noites em que meu pai dava plantão no quartel, e antes de dormir eu vinha cumprimentar os dois, tentando me enxerir um pouco nos assuntos deles. Assim eu soube que era ele, o major, quem delegava ao capitão, meu pai, missões especiais que deveriam nos orgulhar, à minha mãe e a mim. Era uma tarefa dura e perigosa, porque ele enfrentava um inimigo traiçoeiro, e aqui não estávamos falando de soldados de chumbo (p. 160)\n\nNo trecho, o menino se refere às missões especiais atribuídas a seu pai.\nAo longo do conto, essas missões se revelam como índice narrativo de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "traição conjugal"
+        },
+        {
+          "letra": "B",
+          "texto": "confusão infantil"
+        },
+        {
+          "letra": "C",
+          "texto": "abandono familiar"
+        },
+        {
+          "letra": "D",
+          "texto": "rebaixamento funcional"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura (Análise Literária)"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "o major citava o prestígio que meu pai gozava entre os subordinados. A todo o oficialato ele se impunha pelo exemplo, como ao sacrificar suas horas de repouso e lazer no recesso do lar para se ocupar dos seus prisioneiros noite adentro. O major explicava à minha mãe que esses delinquentes, tanto homens quanto mulheres, ficavam horas pendurados numa barra de ferro, mais ou menos como frangos no espeto. (p. 162)\n\nConsiderando que o conto faz referência à década de 1970, o trabalho do pai do narrador, mencionado no trecho acima, consiste em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "supervisionar a tortura de presos políticos"
+        },
+        {
+          "letra": "B",
+          "texto": "planejar a captura de grupos de extermínio"
+        },
+        {
+          "letra": "C",
+          "texto": "organizar a operação de inteligência militar"
+        },
+        {
+          "letra": "D",
+          "texto": "garantir a consideração de oficiais superiores"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura (Análise Literária)",
+        "História – História do Brasil (Ditadura Militar)"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Chico Buarque, além de escritor de contos e romances, também é compositor de canções, várias sobre o mesmo período da história do Brasil retratado em Anos de chumbo. Abaixo, encontram-se estrofes de canções compostas por Chico Buarque.\n\nA estrofe que melhor se relaciona com o desfecho do conto Anos de chumbo é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Tem dias que a gente se sente\nComo quem partiu ou morreu\nA gente estancou de repente\nOu foi o mundo então que cresceu\nA gente quer ter voz ativa\nNo nosso destino mandar\nMas eis que chega a roda-viva\nE carrega o destino pra lá\n\nRoda Viva (1968)"
+        },
+        {
+          "letra": "B",
+          "texto": "Quando chegar o momento,\nesse meu sofrimento\nVou cobrar com juros, juro\nTodo esse amor reprimido,\nesse grito contido\nEste samba no escuro\nVocê que inventou a tristeza\nOra, tenha a fineza de desinventar\nVocê vai pagar e é dobrado\nCada lágrima rolada nesse meu penar\n\nApesar de você (1970)"
+        },
+        {
+          "letra": "C",
+          "texto": "Pai, Pai!\nAfasta de mim esse cálice (Pai!)\nAfasta de mim esse cálice (Pai!)\nAfasta de mim esse cálice\nDe vinho tinto de sangue\nDe muito gorda a porca já não anda\nDe muito usada a faca já não corta\nComo é difícil, pai, abrir a porta\nEssa palavra presa na garganta\n\nCálice (1973)"
+        },
+        {
+          "letra": "D",
+          "texto": "Num tempo\nPágina infeliz da nossa história\nPassagem desbotada na memória\nDas nossas novas gerações\nDormia\nA nossa pátria mãe tão distraída\nSem perceber que era subtraída\nEm tenebrosas transações\n\nVai Passar (1984)"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Literatura e Música",
+        "Arte – Música Popular Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Tom Baranski and Courtney Walsh define life in different ways, but both of them agree upon the idea expressed in the following sentence:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Life is to do good."
+        },
+        {
+          "letra": "B",
+          "texto": "Life has lost its purpose."
+        },
+        {
+          "letra": "C",
+          "texto": "Life is a borrowing of energy."
+        },
+        {
+          "letra": "D",
+          "texto": "Life is a question of cognition."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "The foggy term in this advice, (l. 12)\n\nThe underlined word may be substituted, without significant change in meaning, by the word below:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mild"
+        },
+        {
+          "letra": "B",
+          "texto": "vague"
+        },
+        {
+          "letra": "C",
+          "texto": "simple"
+        },
+        {
+          "letra": "D",
+          "texto": "general"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Most of us would avoid murdering; (l. 14)\n\nThe fragment above implies the same meaning of the following proposition:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "we even avoid murdering"
+        },
+        {
+          "letra": "B",
+          "texto": "we never avoid murdering"
+        },
+        {
+          "letra": "C",
+          "texto": "we rarely avoid murdering"
+        },
+        {
+          "letra": "D",
+          "texto": "we usually avoid murdering"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Gramática (Modal Verbs e Advérbios)"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "The life of vegetation is not far from that of animals. (l. 23)\n\nThe sentence above, which establishes a relationship between vegetation and animals' life, could be the answer to the following question:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "How different are they?"
+        },
+        {
+          "letra": "B",
+          "texto": "Which is more difficult?"
+        },
+        {
+          "letra": "C",
+          "texto": "How distant are they?"
+        },
+        {
+          "letra": "D",
+          "texto": "Which is longer?"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "No more significant. But as significant. (l. 30)\n\nThe sentences above refer to a comparison between the two topics below:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "sea and sky"
+        },
+        {
+          "letra": "B",
+          "texto": "body and soul"
+        },
+        {
+          "letra": "C",
+          "texto": "sand and clouds"
+        },
+        {
+          "letra": "D",
+          "texto": "humans and nature"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "O lucro L de uma empresa, com a venda de camisetas, é modelado pela expressão $L(x) = 2500x + 10x^2$, sendo x a quantidade de lotes de 100 camisetas.\nDe acordo com esse modelo, o lucro obtido com 4000 camisetas, em reais, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "116000"
+        },
+        {
+          "letra": "B",
+          "texto": "124000"
+        },
+        {
+          "letra": "C",
+          "texto": "132000"
+        },
+        {
+          "letra": "D",
+          "texto": "140000"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Funções do 2º grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Considere um cilindro circular reto de altura h e raio R, em centímetros, conforme ilustra a figura a seguir.\n\nA planificação da superfície lateral desse cilindro é um retângulo de perímetro 40 cm.\nA altura h desse cilindro, em centímetros, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$h = 20 – 2 \\pi R$"
+        },
+        {
+          "letra": "B",
+          "texto": "$h = 10-2 \\pi R$"
+        },
+        {
+          "letra": "C",
+          "texto": "$h = 20 – \\pi R$"
+        },
+        {
+          "letra": "D",
+          "texto": "$h = 10 – \\pi R$"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Uma estudante possui uma calculadora que permite realizar a seguinte operação, por meio de uma tecla especial: ao digitar um número x, diferente de – 1, e em seguida apertar essa tecla, o resultado obtido é $$\\frac{1}{1+x}$$\nApós digitar o número 9 nessa calculadora e apertar a tecla especial duas vezes seguidas, o resultado obtido será:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{8}{9}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{9}{8}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{10}{11}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{11}{10}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Funções Compostas"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Progressão harmônica é uma sequência finita ou infinita de números diferentes de zero cujos inversos formam uma progressão aritmética (PA). Observe o exemplo:\n\n$(1, \\frac{1}{2}, \\frac{1}{3}, \\frac{1}{4}, ...)$ é uma progressão harmônica porque (1, 2, 3, 4, ...) é uma PA.\n\nNa progressão harmônica $(\\frac{1}{2}, \\frac{1}{4}, \\frac{1}{6}, ...)$, o vigésimo primeiro termo equivale a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{1}{48}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{1}{42}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{1}{36}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{1}{24}$"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Sequências (Progressão Aritmética)"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Um agricultor dividiu um terreno plano em retas paralelas e plantou sobre elas sementes de determinada árvore frutífera. Para obter uma boa colheita, essas sementes foram dispostas a uma distância de 2 metros entre si. A imagem a seguir ilustra a plantação após um tempo.\n\nA menor distância, em metros, entre duas dessas retas, traçadas para o plantio das sementes, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,3"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\sqrt{2}$"
+        },
+        {
+          "letra": "C",
+          "texto": "1,5"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\sqrt{3}$"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Plana (Teorema de Pitágoras)"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "A partir dos dados da tabela, escolhe-se ao acaso uma pessoa dessa população.\nSabendo que essa pessoa é uma mulher, a probabilidade de ela ser preta é mais próxima de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,64"
+        },
+        {
+          "letra": "B",
+          "texto": "0,56"
+        },
+        {
+          "letra": "C",
+          "texto": "0,44"
+        },
+        {
+          "letra": "D",
+          "texto": "0,36"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Probabilidade Condicional"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Um professor precisou ajustar as notas x de seus alunos, transformando-as em y, por meio da equação $y = ax + b$. Dessa forma, a maior nota alcançada, que foi 60, passou a ser 100, e a menor, que foi 10, passou a ser 60.\nO aluno que alcançou 30 teve a nota alterada para:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "72"
+        },
+        {
+          "letra": "B",
+          "texto": "74"
+        },
+        {
+          "letra": "C",
+          "texto": "76"
+        },
+        {
+          "letra": "D",
+          "texto": "78"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Funções do 1º grau (Sistema de Equações)"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "O protozoário causador da leishmaniose, encontrado no sangue do hospedeiro humano, é transmitido pela picada de mosquitos hematófagos.\nPara sobreviver no organismo humano, esse protozoário utiliza a seguinte estratégia:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reprodução por divisão múltipla"
+        },
+        {
+          "letra": "B",
+          "texto": "fixação no aparelho digestório"
+        },
+        {
+          "letra": "C",
+          "texto": "invasão do sistema excretor"
+        },
+        {
+          "letra": "D",
+          "texto": "formação de cisto tecidual"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Parasitologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Recentemente, a Marinha do Brasil afundou no mar um porta aviões deteriorado. Ambientalistas criticaram a operação, pois a estrutura do navio continha amianto, fibra mineral nociva à saúde. O principal componente do amianto é a substância de fórmula química $Mg_3Si_2O_5(OH)_4$.\nNessa substância, o número de oxidação do silício é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "- 6"
+        },
+        {
+          "letra": "B",
+          "texto": "- 4"
+        },
+        {
+          "letra": "C",
+          "texto": "+ 4"
+        },
+        {
+          "letra": "D",
+          "texto": "+ 6"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Oxirredução"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Balões meteorológicos, que têm a função de medir dados climáticos, podem alcançar altitudes elevadas. Admita que um desses balões, no instante em que sua densidade se iguala à do ar atmosférico à sua volta, permanece fixo em uma posição por um longo período. Essa situação ocorre quando as duas forças que atuam sobre o balão, o peso P e o empuxo E, correspondem à razão $\\frac{P}{E}$\nO valor de $\\frac{P}{E}$ é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,5"
+        },
+        {
+          "letra": "B",
+          "texto": "1,0"
+        },
+        {
+          "letra": "C",
+          "texto": "1,5"
+        },
+        {
+          "letra": "D",
+          "texto": "2,0"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Física – Hidrostática (Empuxo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Em um experimento, protistas fotossintetizantes do gênero Euglena permaneceram por gerações em um meio contendo nucleotídeos radioativos. Após esse período, as células desses protistas foram homogeneizadas e, em seguida, analisadas quanto à presença de DNA com radioatividade.\nNessas células, um componente que apresentou radioatividade foi:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "centríolo"
+        },
+        {
+          "letra": "B",
+          "texto": "cloroplasto"
+        },
+        {
+          "letra": "C",
+          "texto": "complexo golgiense"
+        },
+        {
+          "letra": "D",
+          "texto": "membrana plasmática"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Citologia (Organelas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Em análises químicas, a presença de bases inorgânicas em uma amostra é identificada com o emprego de substâncias que adquirem cor ao reagir com o ânion dessas bases.\nA fórmula desse ânion é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$H^+$"
+        },
+        {
+          "letra": "B",
+          "texto": "$Na^+$"
+        },
+        {
+          "letra": "C",
+          "texto": "$OH^-$"
+        },
+        {
+          "letra": "D",
+          "texto": "$O^{-2}$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Química – Funções Inorgânicas (Bases)"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Um bloco com massa igual a 12 kg encontra-se inicialmente em repouso sobre determinado tipo de superfície plana e horizontal. Em um dado instante, o bloco é empurrado por uma força de 72 N, paralela à superfície, que se iguala ao módulo da força máxima de atrito estático que atua sobre ele.\nConsidere os seguintes valores de coeficientes de atrito estático:\n\nAdmitindo a aceleração da gravidade igual a $10 m/s^2$, o bloco se encontra sobre o seguinte tipo de superfície:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "madeira"
+        },
+        {
+          "letra": "B",
+          "texto": "alumínio"
+        },
+        {
+          "letra": "C",
+          "texto": "aço"
+        },
+        {
+          "letra": "D",
+          "texto": "borracha"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Dinâmica (Força de Atrito)"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "O fósforo branco, quando em contato com o oxigênio, entra em combustão espontânea, causando graves consequências se usado em armamentos. Observe a equação da reação química entre essas duas substâncias:\n\n$$P_4(s) + 5 O_2(g) \\rightarrow P_4O_{10}(s)$$\n\nNa reação de 248 g de $P_4$, a massa de $O_2$ consumida, em gramas, corresponde a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "160"
+        },
+        {
+          "letra": "B",
+          "texto": "320"
+        },
+        {
+          "letra": "C",
+          "texto": "480"
+        },
+        {
+          "letra": "D",
+          "texto": "640"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Algumas células da pele possuem rodopsina, uma proteína fotoreceptora capaz de absorver raios ultravioleta, colaborando com a proteção desse órgão contra esse tipo de radiação.\nEssas células são denominadas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fibrócitos"
+        },
+        {
+          "letra": "B",
+          "texto": "astrócitos"
+        },
+        {
+          "letra": "C",
+          "texto": "mastócitos"
+        },
+        {
+          "letra": "D",
+          "texto": "melanócitos"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Biologia – Histologia (Tecido Epitelial)"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Uma equipe de cientistas, com o objetivo de simular a respiração humana, criou um dispositivo que converte 0,02 g de vapor d'água em água líquida a cada ciclo de inspiração e expiração, à temperatura constante.\nAdmita que esse dispositivo simule 15 ciclos de respiração por minuto e que o calor latente de vaporização da água seja igual a 2400 J/g.\nA taxa de calor perdida pelo dispositivo, em J/s, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9"
+        },
+        {
+          "letra": "B",
+          "texto": "10"
+        },
+        {
+          "letra": "C",
+          "texto": "11"
+        },
+        {
+          "letra": "D",
+          "texto": "12"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Termologia (Calorimetria e Potência)"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "A doença de Addison, que normalmente possui progressão lenta, culmina com a insuficiência de todos os corticoides suprarrenais, dentre eles o cortisol.\nA deficiência desse hormônio no organismo provoca o aumento do processo de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "inflamação"
+        },
+        {
+          "letra": "B",
+          "texto": "catabolismo"
+        },
+        {
+          "letra": "C",
+          "texto": "hiperglicemia"
+        },
+        {
+          "letra": "D",
+          "texto": "gliconeogênese"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Fisiologia Humana (Sistema Endócrino)"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "O gráfico a seguir representa a energia potencial gravitacional em função da altura de um mesmo objeto posicionado próximo às superfícies dos planetas W, X, Y e Z de um sistema estelar.\n\nConsidere que o objeto se encontra a uma mesma altura h em cada um dos planetas.\nNessas condições, esse objeto está submetido a uma aceleração gravitacional mais intensa no planeta indicado pela letra:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "W"
+        },
+        {
+          "letra": "B",
+          "texto": "X"
+        },
+        {
+          "letra": "C",
+          "texto": "Y"
+        },
+        {
+          "letra": "D",
+          "texto": "Z"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Gravitação (Energia Potencial Gravitacional)"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Diversas fontes de radioatividade natural não são perigosas, pois emitem quantidades muito baixas de radiação. Um exemplo é o isótopo radioativo $^{40}K$, presente em bananas em uma quantidade de $10^{-6}$ mol por banana.\nConsidere que a radiação recebida em uma radiografia odontológica seja equivalente a $3,2 \\times 10^{-3}$ g de $^{40}K$.\nPara se atingir a mesma quantidade de radiação dessa radiografia, seria necessário o seguinte número mínimo de bananas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "20"
+        },
+        {
+          "letra": "B",
+          "texto": "40"
+        },
+        {
+          "letra": "C",
+          "texto": "60"
+        },
+        {
+          "letra": "D",
+          "texto": "80"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Radioatividade",
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "LAMPIÃO, O CAPITÃO DO CANGAÇO\n(...)\nEste poema que fala\nde cangaço e de sertão\né, apenas, (...)\numa contribuição,\num documentário vivo\nda vida do Lampião.\n(...)\nIgreja, seca e cangaço\ngeram inquietação\nprovocando em nossa alma\numa estranha sensação\ndesconhecida pra quem\nnunca viveu no sertão.\n(...)\nNascido em noventa e oito\nquarenta anos viveu,\na vinte e oito de julho\nquando o dia amanheceu\nde trinta e oito, em Angicos\nVirgulino faleceu.\n\nGONÇALO FERREIRA DA SILVA\nablc.com.br\n\nO cangaço, representado na figura de Lampião, foi tema do desfile da Escola de Samba Imperatriz Leopoldinense, no Carnaval do Rio de Janeiro, em 2023. Na literatura de cordel, a vida de Lampião é muito recordada, como nos versos do poema transcrito.\nNa imagem e no poema, cangaço e cangaceiros foram situados historicamente como elementos constitutivos de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "unidade nacional"
+        },
+        {
+          "letra": "B",
+          "texto": "legitimidade social"
+        },
+        {
+          "letra": "C",
+          "texto": "patrimônio cultural"
+        },
+        {
+          "letra": "D",
+          "texto": "conservadorismo regional"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – História do Brasil (República Velha)",
+        "Arte – Cultura Popular Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "O mapa apresenta um exemplo de correlação positiva entre as distribuições espaciais de dois processos.\nO processo socioespacial correlacionado com o problema ambiental cartografado é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "consolidação da presença militar"
+        },
+        {
+          "letra": "B",
+          "texto": "implantação de polos industriais"
+        },
+        {
+          "letra": "C",
+          "texto": "delimitação de terras indígenas"
+        },
+        {
+          "letra": "D",
+          "texto": "expansão da fronteira agrícola"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geografia Agrária e Meio Ambiente"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "BRASIL CRIOU PRIMEIRA LEI ANTIRRACISMO APÓS HOTEL EM SÃO PAULO NEGAR HOSPEDAGEM A DANÇARINA NEGRA AMERICANA\n\nInvoluntariamente, a turnê que a célebre dançarina e coreógrafa americana Katherine Dunham fazia pelo Brasil acabou por interferir nos rumos da história do país. Na noite de 11 de julho de 1950, em sua estreia no Theatro Municipal de São Paulo, ela aproveitou o intervalo entre o primeiro e o segundo ato para fazer uma denúncia aos repórteres que cobriam o espetáculo: o gerente do Esplanada, o luxuoso hotel vizinho do teatro, se recusara a hospedá-la ao descobrir que era uma \"mulher de cor”.\nAlém de especializada em danças de origem africana, Dunham era antropóloga e ativista social nos Estados Unidos – orgulhosa, portanto, de sua pele negra. A denúncia de racismo caiu no país como uma bomba. Primeiro, por ter partido de uma estrela de renome internacional. Depois, porque o Brasil se julgava o mais perfeito exemplar de democracia racial. O Correio Paulistano classificou o episódio de “revoltante incidente”, o Jornal de Notícias, de “odioso procedimento de discriminação”.\nDe todas as reações, a mais contundente partiu do deputado federal Afonso Arinos (UDN-MG). Ele apresentou à Câmara dos Deputados um projeto para transformar determinadas atitudes racistas em contravenção penal.\n\nRICARDO WESTIN\nAdaptado de brasil.elpais.com, 21/07/2020.\n\nO episódio narrado na reportagem desconstrói a ideia de que no Brasil dos anos 1950 havia uma democracia racial.\nO fato que servia de base para tal ideia, à época, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "igualdade de direitos sociais"
+        },
+        {
+          "letra": "B",
+          "texto": "inexistência de leis segregacionistas"
+        },
+        {
+          "letra": "C",
+          "texto": "valorização da miscigenação cultural"
+        },
+        {
+          "letra": "D",
+          "texto": "reconhecimento do pluralismo étnico"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História do Brasil (República Populista)",
+        "Sociologia – Relações Raciais"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "À medida que os impactos da mudança climática induzida pelo homem se tornam cada vez mais difíceis de ignorar, alguns simpatizantes do campo político da direita deixaram de negar que ela existe e adotaram uma nova estratégia: culpar os imigrantes por contribuírem para o problema.\nUm processo de 12 de abril movido pelo procurador-geral do Arizona, Mark Brnovich, contra o Departamento de Segurança Interna, alega que as políticas de imigração do governo Biden impactaram o meio ambiente do estado ao aumentarem a demanda por “moradia, infraestrutura, hospitais e escolas\".\nDe acordo com o processo, os imigrantes \"dirigem carros, compram mercadorias e usam parques públicos e outras instalações. Suas ações também resultam diretamente na liberação de efluentes, dióxido de carbono e outros gases de efeito estufa na atmosfera, o que afeta diretamente a qualidade do ar\".\n\nJARIEL ARVIN\nAdaptado de vox.com, 03/06/2023.\n\nA notícia apresenta a associação entre imigração e meio ambiente estabelecida por simpatizantes de determinado campo político-ideológico.\nUma política territorial derivada da associação estabelecida pelos simpatizantes desse campo é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "construir muros nas linhas de fronteira"
+        },
+        {
+          "letra": "B",
+          "texto": "edificar residências nas regiões de ingresso"
+        },
+        {
+          "letra": "C",
+          "texto": "conscientizar estrangeiros nas áreas poluídas"
+        },
+        {
+          "letra": "D",
+          "texto": "tributar consumidores nas comunidades ricas"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geopolítica e Migrações",
+        "Sociologia – Movimentos Sociais e Política"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Todo Papalagui é possuído pelo medo de perder o seu tempo. Por isso todos sabem exatamente quantas vezes a Lua e o Sol saíram desde que, pela primeira vez, viram a grande luz. De fato, isso é tão sério que, a certos intervalos de tempo, se fazem festas com flores e comes e bebes. Muitas vezes percebi que achavam esquisito eu dizer, rindo, quando me perguntavam quantos anos tinha: “Não sei...” “Mas devia saber”. Calava-me e pensava que era melhor não saber.\n\nAdaptado de SCHEURMANN, Erich. O Papalagui: comentários de Tuiávii, chefe da tribo Tiávea nos mares do sul. São Paulo: Marco Zero, 2003.\n\nO escritor alemão Erich Scheurmann viveu nas ilhas Samoa no início do século XX e conviveu com o chefe da tribo Tiávea. No fragmento acima, ele descreve a visão desse chefe sobre os Papalagui, palavra que, em língua local, significa “aquele que furou o céu”, uma alusão ao homem europeu.\nNo fragmento, são identificadas cronologias distintas que podem ser explicadas por uma visão de mundo baseada na seguinte perspectiva:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "racista"
+        },
+        {
+          "letra": "B",
+          "texto": "religiosa"
+        },
+        {
+          "letra": "C",
+          "texto": "hierárquica"
+        },
+        {
+          "letra": "D",
+          "texto": "etnocêntrica"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Sociologia – Antropologia e Cultura",
+        "Filosofia – Filosofia da Cultura"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Com base na análise dos anúncios de 1958 e de 2019, verifica-se que as mudanças implementadas procuram atingir o seguinte objetivo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "erradicar práticas misóginas"
+        },
+        {
+          "letra": "B",
+          "texto": "diferenciar perfis de consumidores"
+        },
+        {
+          "letra": "C",
+          "texto": "igualar comportamentos profissionais"
+        },
+        {
+          "letra": "D",
+          "texto": "redimensionar identidades de gênero"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Sociologia – Gênero e Sociedade",
+        "Língua Portuguesa – Análise de Mídia"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "A evolução do custo de transporte de contêineres a partir de 2022 favorece diretamente a seguinte característica do modelo capitalista atual:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "controle de qualidade"
+        },
+        {
+          "letra": "B",
+          "texto": "produção padronizada"
+        },
+        {
+          "letra": "C",
+          "texto": "fragmentação produtiva"
+        },
+        {
+          "letra": "D",
+          "texto": "durabilidade do produto"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Geografia – Globalização e Comércio Internacional"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "QUANDO NÓS MESMOS PRODUZIMOS AS TRAGÉDIAS\n\nA tragédia no litoral paulista teve como causa imediata a excepcional chuva, a maior da história. Mas não podemos tapar o sol com a peneira e achar que apenas as chuvas excepcionais são causa de tamanho drama. O que ocorreu, ocorre e ainda ocorrerá se deve à ação humana. A ocupação do litoral norte de São Paulo é um exemplo desse processo. Escolhido como lugar paradisíaco de descanso dos paulistanos de mais alta renda, foi tendo, ao longo de décadas, suas terras parceladas por empreendedores que, em geral, as compravam de caiçaras ou, simplesmente, ocupavam áreas públicas da serra do Mar para a construção de casas de veraneio nos melhores lugares da orla. Assim, repetindo a lógica de todas as cidades, restou à população trabalhadora (sem a qual o paraíso de veraneio dos mais ricos não existiria) instalar-se nas encostas, nas chamadas ocupações informais. Podemos, sim, culpar as chuvas. Mas, se olharmos só para elas, só nos restará aguardar a próxima tragédia.\n\nJOÃO WHITAKER e GUILHERME WISNIK\nAdaptado de Folha de S. Paulo, 22/02/2023.\n\nEm relação à tragédia relatada na matéria jornalística, os impactos da ação humana são derivados do seguinte processo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "hierarquização social"
+        },
+        {
+          "letra": "B",
+          "texto": "destruição ambiental"
+        },
+        {
+          "letra": "C",
+          "texto": "especulação financeira"
+        },
+        {
+          "letra": "D",
+          "texto": "segregação socioespacial"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Geografia – Geografia Urbana",
+        "Sociologia – Desigualdade Social"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "Consta-nos que os botocudos que se acham hospedados na Quinta de S. Cristóvão estão emagrecendo muito. Se esses canibais se lembram de querer almoçar o nosso imperador!... Verdade é que já temos outro de reserva nos Estados Unidos...\n\nANGELO AGOSTINI, 1882.\nAdaptado de journals.openedition.org.\n\nEm 1882, o Museu Nacional, ainda sediado no centro do Rio de Janeiro, capital do Império, realizou o mais importante evento científico do Brasil oitocentista: a Primeira Exposição Antropológica Brasileira. Foram trazidos de várias províncias objetos de origem indígena, como lanças, cocares, instrumentos musicais, itens utilizados em rituais, além de objetos arqueológicos, restos humanos fossilizados, múmias naturais e sambaquis. Como atração especial, foram expostos um pequeno grupo de índios Botocudos, do Espírito Santo, e três índios da tribo Xerente, de Minas Gerais. Todos correram para ver os tais índios, considerados, pelos naturalistas da época, exemplares vivos do homem primitivo. O evento contou com a participação do Imperador D. Pedro II. Também estiveram presentes jornalistas do Império, fotógrafos, como Marc Ferrez, e o cartunista Angelo Agostini. A Exposição se estendeu por três meses e foi considerada sucesso de público.\n\nAdaptado de sae.museunacional.ufrj.br.\n\nA Exposição Antropológica Brasileira de 1882 foi um evento marcante, que simbolizava o progresso científico e uma determinada concepção de civilização.\nNessa concepção, a percepção das populações indígenas brasileiras estava associada ao conceito de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "barbárie"
+        },
+        {
+          "letra": "B",
+          "texto": "xenofobia"
+        },
+        {
+          "letra": "C",
+          "texto": "pioneirismo"
+        },
+        {
+          "letra": "D",
+          "texto": "passadismo"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História do Brasil (Segundo Reinado)",
+        "Sociologia – Antropologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "Representações cartográficas do conjunto da superfície terrestre sempre contêm distorções.\nNo mapa, as distorções exemplificadas com o território do Congo são resultantes do uso da projeção cartográfica denominada:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Peters"
+        },
+        {
+          "letra": "B",
+          "texto": "Mercator"
+        },
+        {
+          "letra": "C",
+          "texto": "Robinson"
+        },
+        {
+          "letra": "D",
+          "texto": "Mollweide"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Geografia – Cartografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "MARTE UM: FILME DO OSCAR DE 2023 É TRISTE CONTO SOBRE O BRASIL REAL\n\nEscolhido para representar o Brasil no Oscar 2023, Marte Um é um dos grandes títulos do ano. Sem grandes astros, o filme comove pela simplicidade: a história de uma família negra da periferia de Belo Horizonte é retratada como um conto sensível, mas triste, sobre a realidade da população menos favorecida economicamente.\nA trama tem início logo após a vitória de Jair Bolsonaro na corrida pela presidência do país, em 2018. Na época, o Brasil já enfrentava uma grave crise econômica que afetou principalmente os mais pobres. Nessa realidade tão dura, o jovem Deivinho, caçula da família Martins, sonha em ser astrofísico e participar de uma missão que em 2030 irá colonizar Marte. Patriarca da família, Wellington é porteiro de um prédio de luxo e se orgulha de estar há quatro anos sóbrio. Carinhoso e trabalhador, ele vê no talento de Deivinho para o futebol a grande oportunidade para mudar a vida de todos. A mãe, Tércia, diarista que sofre para encontrar novos trabalhos, acredita ser vítima de uma maldição na qual tudo dá errado para ela. As dificuldades enfrentadas por Wellington e Tércia em seus empregos revelam um Brasil amargo e duro de encarar.\n\nANDRÉ ZULIANE\nAdaptado de tangerina.uol.com.br, 07/09/2022.\n\nSegundo o crítico, o filme Marte Um revela “um Brasil amargo e duro” por meio da história dos membros da família Martins e sua situação de pobreza em uma periferia urbana brasileira.\nAs circunstâncias de vida dessa família indicam a permanência de um contexto que se revela na relação entre:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "classe e raça na remuneração laboral"
+        },
+        {
+          "letra": "B",
+          "texto": "precariedade e hereditariedade na ascensão social"
+        },
+        {
+          "letra": "C",
+          "texto": "escolaridade e mobilidade no mercado profissional"
+        },
+        {
+          "letra": "D",
+          "texto": "empregabilidade e qualificação no exercício funcional"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Sociologia – Estratificação Social",
+        "Arte – Cinema Brasileiro"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "A imagem da posse do presidente Luiz Inácio Lula da Silva, amplamente reproduzida pela imprensa nacional e internacional, representa uma ruptura com o cerimonial até então estabelecido para esse evento oficial.\nEssa ruptura está representada pelo seguinte aspecto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "inclusão pluralista de sujeitos sociais"
+        },
+        {
+          "letra": "B",
+          "texto": "restrição protetiva de lideranças militares"
+        },
+        {
+          "letra": "C",
+          "texto": "controle moderado da cobertura midiática"
+        },
+        {
+          "letra": "D",
+          "texto": "participação democrática de setores oposicionistas"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – História do Brasil Contemporâneo",
+        "Sociologia – Política e Sociedade"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "\"O gueto do Norte tinha se transformado numa espécie de área colonial. A colônia era impotente porque todas as decisões importantes que afetavam a comunidade vinham de fora. Muitos de seus habitantes chegavam a ter sua vida diária dominada pelo agente da previdência e pelo policial. Os lucros obtidos por senhorios e comerciantes eram retirados e raramente reinvestidos. A única coisa positiva que a sociedade mais ampla via na favela era o fato de ela ser uma fonte de mão de obra excedente barata em tempos de prosperidade.”\n\nCLAYBORNE, Carson (Org.). A autobiografia de Martin Luther King. Rio de Janeiro: Zahar, 2014.\n\nNo fragmento acima, Martin Luther King traça um paralelo entre o colonialismo político-territorial e os eventos verificados no gueto negro de Lawndale, na cidade de Chicago, onde o líder do movimento dos direitos civis morou com a família, em 1966.\nEsse paralelo está fundamentado no seguinte processo social:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "imposição cultural"
+        },
+        {
+          "letra": "B",
+          "texto": "totalitarismo político"
+        },
+        {
+          "letra": "C",
+          "texto": "drenagem econômica"
+        },
+        {
+          "letra": "D",
+          "texto": "manipulação ideológica"
+        }
+      ],
+      "opcaoCorreta": "ANULADA",
+      "conteudo": [
+        "História – História dos EUA (Movimento dos Direitos Civis)",
+        "Sociologia – Relações Raciais e Urbanas"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "No mapa, são apresentados os resultados de uma pesquisa feita por uma fundação privada em trinta países. O objetivo da pesquisa foi levantar informações para atribuir a cada um desses países um índice de maior ou menor estabilidade geopolítica, variando de 0 a 100, sendo este último valor o que expressa maior grau de estabilidade e, consequentemente, maior confiança para os investidores.\n\nCom base nos resultados expostos, o país que apresenta o menor índice de estabilidade geopolítica deve essa condição principalmente ao seguinte fator:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "disputa territorial com nação vizinha"
+        },
+        {
+          "letra": "B",
+          "texto": "conflito histórico com metrópole colonial"
+        },
+        {
+          "letra": "C",
+          "texto": "embate militar por possessões ultramarinas"
+        },
+        {
+          "letra": "D",
+          "texto": "contenda internacional por recursos minerais"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Geografia – Geopolítica"
+      ]
+    }
+  ]
+}

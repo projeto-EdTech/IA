@@ -1,0 +1,1835 @@
+{
+  "nomeUniversidade": "Universidade de Fortaleza",
+  "siglaUniversidade": "Unifor",
+  "nomeProva": "Processo Seletivo",
+  "ano": 2026,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Uma empresa de engenharia civil está projetando um complexo industrial com três tipos de estruturas: torres de comando, armazéns de médio porte e galpões de grande porte.\n\nSabe-se que\n\n1. o número de torres de comando é 12 vezes o número de armazéns de médio porte;\n2. o número de galpões de grande porte é três vezes o número de torres de comando;\n3. a soma do número de torres de comando e do número de armazéns de médio porte, multiplicada pelo número de galpões de grande porte, é igual a 11.700.\n\nCom base nessas informações, o número de galpões de grande porte que serão construídos é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "180."
+        },
+        {
+          "letra": "B",
+          "texto": "195."
+        },
+        {
+          "letra": "C",
+          "texto": "200."
+        },
+        {
+          "letra": "D",
+          "texto": "210."
+        },
+        {
+          "letra": "E",
+          "texto": "225."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Sistemas de equações lineares"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Uma equipe de cientistas da computação está avaliando o desempenho de um algoritmo de detecção de spam em e-mails. O sistema apresenta sensibilidade de 90% (isto é, detecta corretamente 90% dos spams) e especificidade de 95% (classifica corretamente 95% dos e-mails legítimos como \"não spam\"). Sabe-se que 10% dos e-mails recebidos são realmente spam.\n\nCom base nesses dados, qual é a probabilidade de que um e-mail classificado como \"spam\" pelo sistema seja de fato um spam verdadeiro?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,50"
+        },
+        {
+          "letra": "B",
+          "texto": "0,54"
+        },
+        {
+          "letra": "C",
+          "texto": "0,60"
+        },
+        {
+          "letra": "D",
+          "texto": "0,67"
+        },
+        {
+          "letra": "E",
+          "texto": "0,70"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Probabilidade condicional"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Uma campanha de vacinação é uma ação organizada, geralmente promovida por governos, secretarias de saúde ou instituições de ensino na área da saúde com o objetivo de imunizar um grande número de pessoas em um curto período de tempo contra uma ou mais doenças.\nEssas campanhas podem ocorrer em postos de saúde, escolas, ginásios, praças ou unidades móveis, e envolvem profissionais e estudantes da área da saúde, como médicos, enfermeiros e acadêmicos de Medicina, Enfermagem e Farmácia.\nA Prefeitura de uma cidade lançou uma campanha de vacinação contra a gripe, com o objetivo de imunizar toda a população idosa e crianças até 5 anos. Antes da aplicação da vacina, é necessário que cada família seja cadastrada no sistema de saúde, para garantir o registro e o agendamento correto da vacinação.\nNa primeira etapa da campanha, uma equipe de 9 servidores, trabalhando 16 horas, conseguiu cadastrar 864 famílias. Devido ao aumento da demanda, a Secretaria de Saúde decidiu aumentar a equipe para 12 servidores, mantendo o mesmo ritmo de trabalho por pessoa da equipe anterior.\nCom base nessas informações, quantas horas a equipe de 12 servidores precisará para cadastrar 1.728 famílias, mantendo a mesma eficiência da equipe anterior?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "16 horas"
+        },
+        {
+          "letra": "B",
+          "texto": "18 horas"
+        },
+        {
+          "letra": "C",
+          "texto": "24 horas"
+        },
+        {
+          "letra": "D",
+          "texto": "28 horas"
+        },
+        {
+          "letra": "E",
+          "texto": "32 horas"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Regra de três composta"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Um engenheiro de computação está projetando um modelo em miniatura de uma rede de sensores distribuídos em um laboratório. Para simular a comunicação entre os sensores, ele posicionou os sensores ao longo de uma faixa de 1 m a 10 m, respeitando as seguintes regras:\n\n• X é o conjunto dos múltiplos inteiros de 5 cm, entre 1 m e 10 m, formados por algarismos distintos.\n• Y é um subconjunto de X, formado pelos números cuja soma dos algarismos é igual a 9.\n\nNessas condições, qual é a distância, em cm, entre o sensor que representa o maior número par de Y e o sensor que representa o menor número ímpar de Y?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "675"
+        },
+        {
+          "letra": "B",
+          "texto": "685"
+        },
+        {
+          "letra": "C",
+          "texto": "695"
+        },
+        {
+          "letra": "D",
+          "texto": "715"
+        },
+        {
+          "letra": "E",
+          "texto": "765"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Teoria dos Números"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Uma livraria está oferecendo uma promoção especial de livros jurídicos para celebrar o Dia do Advogado: \"Compre x exemplares do livro e receba x% de desconto\". A promoção é válida para compras de até 80 exemplares, sendo que, ao atingir 80 unidades, o desconto máximo de 80% é concedido.\nO advogado Ricardo, especialista em Direito Constitucional, aproveitou a promoção e comprou 40 exemplares do livro para distribuir entre seus estagiários e colegas do escritório. No entanto, se Ricardo tivesse feito um cálculo mais detalhado sobre o desconto progressivo, poderia ter adquirido mais livros, mantendo o mesmo valor total gasto.\nQuantos exemplares adicionais do livro Ricardo poderia ter comprado, mantendo o mesmo valor total gasto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10"
+        },
+        {
+          "letra": "B",
+          "texto": "12"
+        },
+        {
+          "letra": "C",
+          "texto": "14"
+        },
+        {
+          "letra": "D",
+          "texto": "18"
+        },
+        {
+          "letra": "E",
+          "texto": "20"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Funções do 2º grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Uma equipe de engenharia ambiental está planejando um levantamento de campo para monitorar a qualidade hídrica de uma extensa planície alagável. Para organizar as amostragens, a área será dividida em uma malha retangular com m linhas de pontos de amostragem e n colunas de pontos de amostragem, formando no total m . n pontos distribuídos uniformemente pela área.\n\nSabe-se que o total de pontos de amostragem é 572 (ou seja, m . n = 572). Para facilitar a logística de transporte e processamento das amostras:\n• os engenheiros agruparam as linhas em faixas de largura x linhas. Ao dividir m por x obtiveram quociente 4 e resto 2, isto é, sobraram 2 linhas fora das 4 faixas completas;\n• já as colunas foram organizadas em blocos de largura x + 1 colunas. Ao dividir n por x +1 também obtiveram quociente 4 e resto 2, isto é, sobraram 2 colunas fora dos 4 blocos completos.\n\nCom base nas informações acima, qual o valor de m + n?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "40"
+        },
+        {
+          "letra": "B",
+          "texto": "48"
+        },
+        {
+          "letra": "C",
+          "texto": "50"
+        },
+        {
+          "letra": "D",
+          "texto": "58"
+        },
+        {
+          "letra": "E",
+          "texto": "60"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Divisão Euclidiana",
+        "Matemática – Sistemas de equações"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "A Campanha Doe de Coração, promovida anualmente pela Fundação Edson Queiroz e pela Universidade de Fortaleza (Unifor) desde 2003, tem como objetivo conscientizar a população sobre a importância da doação de órgãos, tecidos e medula óssea. Em sua 23ª edição (2025), o tema central é \"Doe medula. Doe vida. Doe de coração.\", reforçando a necessidade de novos doadores cadastrados no Registro Nacional de Doadores de Medula Óssea (Redome). A campanha mobiliza estudantes, professores e a comunidade cearense por meio de palestras, ações sociais, podcasts e atividades culturais, incentivando o gesto solidário que pode salvar milhares de vidas.\n\nSuponha que, durante a Campanha Doe de Coração da Universidade de Fortaleza, Pedro, voluntário do posto de cadastro de doadores de medula óssea, foi responsável por registrar as pessoas que se apresentaram para cadastro nos dois primeiros dias da semana.\n\nNa segunda-feira, Pedro atendeu um certo número de voluntários. Na terça-feira, devido à diminuição do fluxo, ele atendeu 6 voluntários a menos do que na segunda-feira.\n\nSabendo que o produto do número de voluntários atendidos nos dois dias foi 91, qual a quantidade total de voluntários que Pedro atendeu nesses dois dias?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7"
+        },
+        {
+          "letra": "B",
+          "texto": "10"
+        },
+        {
+          "letra": "C",
+          "texto": "13"
+        },
+        {
+          "letra": "D",
+          "texto": "17"
+        },
+        {
+          "letra": "E",
+          "texto": "20"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Equações do 2º grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Uma marca de moda está lançando sua nova coleção de roupas e decidiu criar uma campanha publicitária na televisão que destaque a diversidade de estilos e personalidades de seus clientes. Para isso, a equipe de marketing escolheu 12 nomes de influenciadores e clientes fiéis para aparecerem nos comerciais, em expressões do tipo \"Estilo da Ana\", \"Look do Pedro\", etc.\n\nA cada inserção do comercial, a marca quer mostrar apenas dois nomes diferentes, combinando estilos e influências. A equipe de marketing deseja saber quantas combinações diferentes de pares de nomes podem ser exibidas nos comerciais para garantir variedade na campanha.\n\nCom base nos dados acima, quantas combinações diferentes de pares de nomes podem ser exibidas nos comerciais?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "54"
+        },
+        {
+          "letra": "B",
+          "texto": "56"
+        },
+        {
+          "letra": "C",
+          "texto": "60"
+        },
+        {
+          "letra": "D",
+          "texto": "66"
+        },
+        {
+          "letra": "E",
+          "texto": "70"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "A história do origami é complexa e remonta às origens do papel na China por volta do século II, mas foi no Japão que a arte se desenvolveu, a partir do século VII, como uma prática cerimonial e ornamentativa. A palavra \"origami\" é japonesa e significa \"dobrar papel\". Inicialmente restrito às classes ricas devido ao custo do papel, o origami tornou-se mais popular e foi incorporado à educação, evoluindo para a arte universalmente conhecida que é hoje. Após ler um pouco sobre as diferentes técnicas, Ana buscou na internet exemplos de origami e optou por fazer um cachorro. O passo a passo encontrado por ela está ilustrado na figura a seguir.\n\nDisponível em: https://blog.creativecopias.com.br/aprenda-a-fazer-origami/. Acesso em: 26 set 2025.\n\nA partir de uma folha quadrada de papel, ela deveria seguir as seis etapas indicadas na figura. A respeito do triângulo no passo 2, pode-se dizer que é um triângulo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "equilátero."
+        },
+        {
+          "letra": "B",
+          "texto": "escaleno."
+        },
+        {
+          "letra": "C",
+          "texto": "isósceles."
+        },
+        {
+          "letra": "D",
+          "texto": "acutângulo."
+        },
+        {
+          "letra": "E",
+          "texto": "obtusângulo."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Um lado da casa de João faz parte do muro que separa sua propriedade da casa do vizinho, os outros lados são mostrados nas figuras a seguir (figuras fora de escala).\n\nA casa tem uma porta de entrada medindo 2,3mx2,6m, uma porta na lateral medindo 1,2mx2,4m, quatro janelas medindo 1,8mx1,5m e duas pequenas janelas de 0,4mx0,4m. Sabe-se que a tangente do ângulo $ \\theta $ que o teto da casa faz com a horizontal é igual 2/7. As medidas dos lados da parte da frente e da parte de trás são as mesmas: 6m, 7m e L m, como indicado nas figuras e as medidas dos lados da lateral da casa são 18m e L m. João deseja pintar as paredes da casa e, para comprar a quantidade certa de tinta, precisou calcular a soma das áreas das paredes da parte da frente, da parte de trás e da lateral da casa. O valor encontrado por ele foi, em $m^2$, igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "142."
+        },
+        {
+          "letra": "B",
+          "texto": "2168/25."
+        },
+        {
+          "letra": "C",
+          "texto": "3118/25."
+        },
+        {
+          "letra": "D",
+          "texto": "6101/50."
+        },
+        {
+          "letra": "E",
+          "texto": "6307/50."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Geometria Plana",
+        "Matemática – Trigonometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Um fazendeiro pretende construir um galinheiro, no formato de um retângulo, sobre uma região plana de sua propriedade, com lados medindo x m e y m. Para minimizar o custo com a cerca de tela, decidiu fazer o galinheiro junto ao muro da fazenda, conforme figura a seguir.\nO preço do metro linear da tela que vai ser colocada no lado que mede x m é R$ 8,00, enquanto o preço do metro linear da tela que vai ser colocada nos lados que medem y m é R$ 20,00. Ele dispõe de apenas R$1.200,00 para gastar com a cerca do galinheiro e pretende que ele tenha a maior área possível. A medida do maior lado do galinheiro, em m, é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "30."
+        },
+        {
+          "letra": "B",
+          "texto": "45."
+        },
+        {
+          "letra": "C",
+          "texto": "60."
+        },
+        {
+          "letra": "D",
+          "texto": "75."
+        },
+        {
+          "letra": "E",
+          "texto": "90."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Matemática – Funções do 2º grau",
+        "Matemática – Otimização"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Uma escola preparatória para concursos possui oito unidades em Fortaleza e região metropolitana. O gráfico a seguir mostra a quantidade de alunos por unidade que foram aprovados em um determinado concurso.\nAnalisando as informações disponíveis no gráfico, pode-se afirmar que, ordenando-se em ordem crescente a média, a mediana e a moda, tem-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Moda < Média < Mediana."
+        },
+        {
+          "letra": "B",
+          "texto": "Média < Mediana < Moda."
+        },
+        {
+          "letra": "C",
+          "texto": "Média < Moda < Mediana."
+        },
+        {
+          "letra": "D",
+          "texto": "Mediana < Moda < Média."
+        },
+        {
+          "letra": "E",
+          "texto": "Mediana < Média < Moda."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Matemática – Estatística"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "De acordo com os dados do Painel de Acompanhamento do Sistema Nacional de Adoção e Acolhimento (SNA), em 30 de setembro de 2025, o Brasil possuía 32.444 pretendentes ativos para adoção enquanto que o estado do Ceará possuía 1.131. O gráfico da esquerda mostra a quantidade de pretendentes a nível nacional e o da direita a nível estadual quanto a aceitação por etnia para adoção de crianças e adolescentes.\nDisponível em: https://paineisanalytics.cnj.jus.br/. Dados atualizados em 30/09/2025 23:53:50. Acesso em: 01 Out 2025.\nA partir das informações dadas, podemos concluir que, no Ceará, aproximadamente",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "64,63% dos pretendentes ativos aceitavam adotar crianças e adolescentes pardas e 38,17% pretas, enquanto no Brasil esses percentuais eram, respectivamente, 59,85% е 35,80%."
+        },
+        {
+          "letra": "B",
+          "texto": "64,63% dos pretendentes ativos aceitavam adotar crianças e adolescentes pardas e 35,80% pretas, enquanto no Brasil esses percentuais eram, respectivamente, 60,45% e 38,17%."
+        },
+        {
+          "letra": "C",
+          "texto": "60,45% dos pretendentes ativos aceitavam adotar crianças e adolescentes brancas e 35,80% pretas, enquanto no Brasil esses percentuais eram, respectivamente, 64,30% e 38,17%."
+        },
+        {
+          "letra": "D",
+          "texto": "59,85% dos pretendentes ativos aceitavam adotar crianças e adolescentes brancas e 35,80% pretas, enquanto no Brasil esses percentuais eram, respectivamente, 64,30% е 36,50%."
+        },
+        {
+          "letra": "E",
+          "texto": "60,45% dos pretendentes ativos aceitavam adotar crianças e adolescentes pardas e 59,85% brancas, enquanto no Brasil esses percentuais eram, respectivamente, 64,63% e 68,70%."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Porcentagem",
+        "Matemática – Análise de dados"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Ana, José, Pedro e Bia foram a um restaurante comemorar o aniversário de Pedro. Chegando lá, cada um pediu um prato diferente: Pedro pediu um prato que custava 5/3 do prato pedido por Bia; o prato pedido por Ana custava R$ 4,50 a mais do que o pedido por Bia; e o que José pediu custava R$ 0,75 mais metade do valor do prato pedido por Ana. O consumo de bebida dos quatro foi de R$ 30,00, sendo esses os únicos gastos feitos por eles no restaurante. O valor total da conta foi de R$ 165,00, incluída nesse valor uma taxa de serviço de 10%, calculada sobre todos os gastos feitos no restaurante. O preço do prato consumido por Pedro era, em reais,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "45."
+        },
+        {
+          "letra": "B",
+          "texto": "40."
+        },
+        {
+          "letra": "C",
+          "texto": "35."
+        },
+        {
+          "letra": "D",
+          "texto": "30."
+        },
+        {
+          "letra": "E",
+          "texto": "25."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Matemática – Sistemas de equações",
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "O gerente de uma loja de chocolates constatou que parte do seu estoque de barras de chocolate estava próximo de atingir a data de validade. Para evitar que os produtos atingissem a data de vencimento no estoque, decidiu fazer uma promoção na qual vendia lotes de barras de chocolate por R$ 30,00, nas duas primeiras semanas. Na 3ª semana, constatou que ainda havia muitos produtos próximos do vencimento da data de validade, então, para aumentar as vendas, passou a vender lotes com 2 unidades a mais que os lotes vendidos nas duas primeiras semanas, mantendo o valor de R$ 30,00 cada lote, de modo o valor individual de cada barra era R$ 4,00 mais barato que o valor que era cobrado por barra nas duas primeiras semanas. Quantas barras de chocolate havia em cada lote nas duas primeiras semanas da promoção?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "3"
+        },
+        {
+          "letra": "C",
+          "texto": "4"
+        },
+        {
+          "letra": "D",
+          "texto": "5"
+        },
+        {
+          "letra": "E",
+          "texto": "6"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Matemática – Equações Racionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "\"As definições das unidades do Sl são estabelecidas a partir de um conjunto de sete constantes definidoras da Física. A partir dos valores fixados dessas sete constantes definidoras, expressas em unidades do Sl, é possível deduzir todas as unidades do sistema. Essas sete constantes são assim o elemento mais essencial da definição de todo o sistema de unidades. Essas constantes específicas foram escolhidas após terem sido identificadas como constituindo a melhor escolha, considerando-se a definição anterior do SI, que se baseava em sete unidades de base e no progresso científico.\"\nDisponível em: https://www.gov.br/inmetro/pt-br/assuntos/metrologia-cientifica/documentos-tecnicos-em-metrologia/si_versao_final.pdf. Acesso em: 06 out 2025.\nO SI (Sistema Internacional de Unidades), adotado de forma oficial em 29/8/1962 no Brasil, tem emprego nas mais variadas atividades como comércio, agropecuária, indústria, área científica, bem como muitas outras. A divulgação, muitas vezes, de forma incorreta, em razão do desconhecimento, tem levado ao uso indiscriminado e equívocos, tanto da nomenclatura como da simbologia. Com o avanço das tecnologias digitais, algumas decisões tiveram que ser adotadas, gerando uma extensão da lista dos prefixos do Sl, essencial em estabelecer a confiança na exatidão, o confronto das medições quando utilizadas e evitar nomenclaturas não oficiais. Assinale a alternativa correta quanto ao prefixo do Sl para formação dos múltiplos e submúltiplos de unidades, na seguinte ordem: fator multiplicador; nome; símbolo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$10^{30}$; quecto; q"
+        },
+        {
+          "letra": "B",
+          "texto": "$10^{-30}$; quetta; q"
+        },
+        {
+          "letra": "C",
+          "texto": "$10^{-27}$; ronna; R"
+        },
+        {
+          "letra": "D",
+          "texto": "$10^{27}$; ronto; r"
+        },
+        {
+          "letra": "E",
+          "texto": "$10^{27}$; quetta; Q"
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Física – Sistema Internacional de Unidades"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "A professora Maria Eduarda leva seus alunos e alunas, para melhor compreensão dos conteúdos ministrados em sala de aula, ao laboratório, e lá realizam atividades e experimentos. Durante uma aula de Física, no laboratório, o aluno Arthur pôs a girar uma pequena esfera de massa m em um círculo horizontal, com velocidade constante v, presa à extremidade de um fio inextensível de comprimento L, formando um ângulo com a vertical que passa pelo ponto O. À medida que a esfera gira, o fio descreve uma superfície cônica, conforme a figura a seguir. Ele determinou o tempo que a esfera leva para completar uma revolução. Adotando g como a aceleração da gravidade, assinale a alternativa que indica o resultado por ele encontrado.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2\\pi [(R / g \\cos\\theta)^{1/3}]$"
+        },
+        {
+          "letra": "B",
+          "texto": "$2\\pi [(L/g \\sin\\theta)^{1/2}]$"
+        },
+        {
+          "letra": "C",
+          "texto": "$2\\pi [(R / g \\tan\\theta)^{1/2}]$"
+        },
+        {
+          "letra": "D",
+          "texto": "$2\\pi [(R/g \\tan\\theta)]$"
+        },
+        {
+          "letra": "E",
+          "texto": "$2\\pi R / (g \\tan\\theta)$"
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Física – Dinâmica do Movimento Circular"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "É conhecido que no estado do Ceará ocorre uma das maiores taxas de irradiação (quantidade de energia solar por unidade de área) no Brasil. Com isso, se tornaram populares modelos didáticos tais como fornos e aquecedores aquáticos solares que saíram do ambiente de sala de aula para ocupar lugar prático em ambientes domiciliares. O aquecedor de chuveiro de baixo custo é feito basicamente com garrafas pet reaproveitadas e tubos de PVC soldável. Esses tubos, possuem temperatura máxima recomendada de operação igual a $55^{\\circ}C$. Considerando que, em um dia de inverno no alto da serra de Guaramiranga, a água fria esteja a $15^{\\circ}C$ e que a água que passa pelo aquecedor atinja o máximo de operação do tubo de PVC, qual a razão entre a massa de água aquecida e a massa de água fria para um banho confortável a $30^{\\circ}C$?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1/2"
+        },
+        {
+          "letra": "B",
+          "texto": "3/2"
+        },
+        {
+          "letra": "C",
+          "texto": "2/3"
+        },
+        {
+          "letra": "D",
+          "texto": "5/3"
+        },
+        {
+          "letra": "E",
+          "texto": "3/5"
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Física – Calorimetria"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "A cidade de Fortaleza, capital do Ceará, geolocalizada aproximadamente em -3,75 e -38,50 já foi contígua, anteriormente à deriva continental, à cidade de Lagos na Nigéria que está geolocalizada em 6,53 e 3,37. De forma aproximada, supondo que ambas cidades estivessem sobre o equador planetário, sendo 12740 km o diâmetro da Terra, em quanto tempo um jato voando em média a 800 km/h levaria de forma direta no trajeto, considerando um arco de 40° entre as cidades irmãs?\nCaso necessário, use $\\pi$ = 3.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 h 18 min"
+        },
+        {
+          "letra": "B",
+          "texto": "4 h 28 min"
+        },
+        {
+          "letra": "C",
+          "texto": "3 h 10 min"
+        },
+        {
+          "letra": "D",
+          "texto": "2 h 15 min"
+        },
+        {
+          "letra": "E",
+          "texto": "1 h 28 min"
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "No dia 27 de Julho de 2011, às 14h, o asteroide 2011 MD passava a 12 mil km da superfície da Terra, sem risco ao planeta e seus habitantes, mas a uma velocidade relativa de aproximadamente 7 km/s em relação à Terra. Estima-se que o asteroide possui 6 m de diâmetro com uma densidade similar à da água. Supondo que possamos aproximar o asteroide com o formato de um cilindro cuja altura é de 10 m, qual seria o valor da massa e energia dissipada na atmosfera, respectivamente, se toda a massa do corpo celeste fosse espalhada em pequenas frações antes de um possível impacto. Suponha que o asteroide veio das profundezas do espaço com velocidade constante.\n\nDados: $\\rho_{água} = 1000 \\text{ kg/m}^3$.\nConsidere, caso necessário, $\\pi = 3$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1080 kg; 26460 GJ"
+        },
+        {
+          "letra": "B",
+          "texto": "$1080 \\cdot 10^3$ kg; 26,46 MJ"
+        },
+        {
+          "letra": "C",
+          "texto": "1080 kg; 26,46 GJ"
+        },
+        {
+          "letra": "D",
+          "texto": "$270 \\cdot 10^3$ kg; 6,615 MJ"
+        },
+        {
+          "letra": "E",
+          "texto": "$270 \\cdot 10^3$ kg; 6615 GJ"
+        }
+      ],
+      "opcaoCorreta": "X",
+      "conteudo": [
+        "Física – Energia Cinética",
+        "Física – Densidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "O controle da velocidade de reações químicas é um fator crítico em processos industriais, especialmente em reações de decomposição catalítica de compostos instáveis.\nUm pesquisador analisou a decomposição do peróxido de hidrogênio ($H_2O_2$) a $25^{\\circ}C$ e obteve os seguintes resultados experimentais:\nCom base nesses dados e considerando os diferentes modelos cinéticos, assinale a alternativa que melhor interpreta o comportamento da reação.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A reação é de ordem zero, pois a concentração diminui de forma linear com o tempo, indicando que a velocidade é constante."
+        },
+        {
+          "letra": "B",
+          "texto": "A reação é de primeira ordem, pois a velocidade não depende da concentração de $H_2O_2$."
+        },
+        {
+          "letra": "C",
+          "texto": "A reação é de segunda ordem, pois o gráfico de $1/[H_2O_2]$ em função do tempo é linear."
+        },
+        {
+          "letra": "D",
+          "texto": "A reação é de ordem fracionária, pois a concentração decresce com aceleração variável."
+        },
+        {
+          "letra": "E",
+          "texto": "A reação é de ordem zero, mas a velocidade diminui exponencialmente com o tempo."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Química – Cinética Química"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "A diluição de soluções é um procedimento fundamental para adequar a concentração de substâncias a diferentes finalidades dentro de um laboratório. Considere que foram misturadas 50 mL de $NaCl$ 0,40 $mol \\cdot L^{-1}$ com 150 mL de $NaCl$ 0,10 $mol \\cdot L^{-1}$, e que os volumes são aditivos e há ausência de reações químicas. A concentração final de $NaCl$ na solução resultante será de, aproximadamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,14 $mol \\cdot L^{-1}$."
+        },
+        {
+          "letra": "B",
+          "texto": "0,18 $mol \\cdot L^{-1}$."
+        },
+        {
+          "letra": "C",
+          "texto": "0,25 $mol \\cdot L^{-1}$."
+        },
+        {
+          "letra": "D",
+          "texto": "0,40 $mol \\cdot L^{-1}$."
+        },
+        {
+          "letra": "E",
+          "texto": "0,50 $mol \\cdot L^{-1}$."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Soluções",
+        "Química – Concentração Molar"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Recentemente, casos de intoxicação por bebidas adulteradas com metanol foram registrados. O metanol ($CH_3OH$) é tóxico por ser oxidado no organismo a formaldeído e ácido fórmico. Na literatura clínica, ingestões de ordem de aproximadamente 7,9 g de metanol puro já foram associadas a risco de lesão visual permanente, e doses maiores (ordens de 23 - 47 g) podem ser potencialmente letais. Considere que amostras apreendidas de destilados clandestinos apresentaram 4,0 $\\% \\text{ v/v}$ de metanol. Um cliente ingeriu 350 mL dessa bebida. Considere densidade do metanol $\\approx 0,791 \\text{ g} \\cdot \\text{mL}^{-1}$. Pode-se afirmar que a ingestão de metanol foi de, aproximadamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,59 g."
+        },
+        {
+          "letra": "B",
+          "texto": "4,7 g"
+        },
+        {
+          "letra": "C",
+          "texto": "7,9 g."
+        },
+        {
+          "letra": "D",
+          "texto": "11,1 g"
+        },
+        {
+          "letra": "E",
+          "texto": "32,1 g."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Química – Soluções",
+        "Química – Densidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Em dispositivos biomédicos e sensores eletroquímicos, pares metálicos podem sofrer reações de oxirredução espontâneas quando imersos em soluções condutoras.\n\nConsidere os potenciais-padrão de redução:\n\n$Zn^{2+}/Zn = -0,76 V$\n$Cu^{2+}/Cu = +0,34 V$\n\nQuando esses metais são conectados externamente e imersos em um eletrólito comum, há corrosão preferencial em um dos eletrodos.\nA respeito dessa situação, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O cobre atua como ânodo, liberando elétrons para o zinco e sofrendo corrosão preferencial."
+        },
+        {
+          "letra": "B",
+          "texto": "O zinco atua como ânodo, sofrendo oxidação e liberando elétrons que reduzem íons $Cu^{2+}$ no cátodo."
+        },
+        {
+          "letra": "C",
+          "texto": "O cobre é o ânodo, pois apresenta maior potencial de redução."
+        },
+        {
+          "letra": "D",
+          "texto": "O zinco atua como cátodo, sofrendo oxidação e liberando elétrons que reduzem ions $Cu^{2+}$ no ânodo."
+        },
+        {
+          "letra": "E",
+          "texto": "O cobre é o cátodo, liberando elétons para o zinco e sofrendo corrosão preferencial."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Química – Eletroquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "A síntese de compostos nitrogenados é considerada relevante, considerando que os referidos compostos podem apresentar importantes atividades biológicas e farmacológicas. Nesse sentido, planejou-se a síntese dos produtos apresentados na figura a seguir, os quais foram obtidos com bons rendimentos.\n\nFigura: Fórmula Estrutural dos Produtos\nDisponível em: https://seisicite.com.br/storage/seisicite-trabalhos-finais. Acesso em: 01 Out 2025.\n\nCom base na fórmula estrutural dos referidos produtos, avalie as afirmativas a seguir.\nI. O produto com um rendimento de 78% pode ser obtido a partir da reação de acetilação do composto amino-benzeno ou fenilamina.\nII. O produto com a presença de um grupo doador de elétrons na posição para apresentou um rendimento de 90%.\nIII. A influência de impedimento estérico resultou na obtenção do produto com um rendimento de 40%.\nIV. O produto com a presença de grupo retirador de elétrons na posição para apresentou um rendimento de 70%.\nV. O grupo metil é um doador de elétrons no anel aromático e o grupo nitro é um retirador de elétrons no anel aromático.\n\nÉ correto apenas o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "I, III e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II, III, IV e V."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Química – Química Orgânica",
+        "Química – Reações Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Exposição \"Lixúria\" estreia na Unifor e gera reflexão sobre hábitos de consumo e descarte\n\nTransformado em museu sobre rodas, o caminhão-baú de 15 metros estacionado na Praça Central Unifor se converte em um espaço expositivo que reflete sobre sociedade, consumo e meio ambiente. Com curadoria de Marcello Dantas, \"Lixúria” une arte e educação ambiental em uma jornada sensorial que instiga o público a repensar hábitos de descarte e reutilização criativa.\nDisponível em: https://unifor.br/-/exposicao-lixuria-estreia-na-unifor-e-gera-reflexao-sobre-habitos-de-consumo-e-descarte. Acesso em: 30 Set 2025.\n\nCom base no texto e nos princípios de sustentabilidade ambiental, qual proposta melhor se adequa à exposição Lixúria?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Conservar a vitalidade e a diversidade da vida no planeta, garantindo a perpetuação de espécies nativas."
+        },
+        {
+          "letra": "B",
+          "texto": "Minimizar o esgotamento de recursos não renováveis, substituindo combustíveis fósseis por energias alternativas."
+        },
+        {
+          "letra": "C",
+          "texto": "Modificar atitudes e práticas pessoais, promovendo uma nova ética de consumo e incentivando o reuso e a reciclagem."
+        },
+        {
+          "letra": "D",
+          "texto": "Investir em fontes de energia renováveis, como solar, eólica e hidrelétrica, para reduzir impactos ambientais."
+        },
+        {
+          "letra": "E",
+          "texto": "Permanecer nos limites de capacidade de suporte do planeta, equilibrando crescimento populacional e disponibilidade de recursos."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Biologia – Ecologia",
+        "Biologia – Sustentabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Em Biologia, adaptações são modificações estruturais, fisiológicas ou comportamentais que permitem aos organismos sobreviverem e se reproduzirem com mais eficiência em seus ambientes. Entre essas estratégias, destacam-se mecanismos relacionados à defesa contra predadores. Esses recursos evoluíram ao longo do tempo como resposta às pressões seletivas impostas pelas interações entre espécies, contribuindo para o equilíbrio ecológico e para a diversidade de formas e comportamentos observados na natureza. Com o uso de tais estratégias, os seres vivos aumentam suas chances de sobrevivência e perpetuação de seus genes.\nNas imagens a seguir, são ilustradas algumas situações de adaptações evolutivas: (1a) Serpente falsa-coral Erythrolamprus aesculapii, que mede cerca de 80 cm de comprimento; (1b) Serpente coral-verdadeira Micrurus coralinnus, que mede cerca de 60 cm de comprimento; (2) um anfíbio que secreta venenos poderosos na pele, o Dendrobates sp., exibe cor marcante que destaca o animal no ambiente; (3) Raposa-do-ártico (Alopex lagopus) com pelagens de inverno (3a) e de verão (3b), respectivamente.\nFonte: AMABIS, J. M.; MARTHO, G. R. Moderna plus biologia Amabis & Martho. São Paulo: Moderna. 548 p. 2024 (adaptado)\nAs imagens exemplificam três diferentes adaptações evolutivas relacionadas à sobrevivência, quais sejam",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "imitação adaptativa (1a/1b); camuflagem (2); mimetismo (3a/3b)."
+        },
+        {
+          "letra": "B",
+          "texto": "mimetismo (1a/1b); coloração de aviso (2); camuflagem (3a/3b)."
+        },
+        {
+          "letra": "C",
+          "texto": "camuflagem (1a/1b); disfarce/criptismo (2); imitação adaptativa (3a/3b)."
+        },
+        {
+          "letra": "D",
+          "texto": "disfarce/criptismo (1a/1b); coloração de advertência (2); mimetismo (3a/3b)."
+        },
+        {
+          "letra": "E",
+          "texto": "coloração de advertência (1a/1b); imitação adaptativa (2); camuflagem (3a/3b)."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Ecologia",
+        "Biologia – Evolução"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Um caso de identificação humana ganhou destaque internacional: arqueólogos encontraram restos ósseos em uma caverna na Romênia e levantaram a hipótese de que pertenciam a uma mulher desaparecida durante a Segunda Guerra Mundial. O material genético nuclear estava muito degradado, tornando impossível a análise convencional de DNA. Para contornar esse problema, os peritos recorreram ao DNA mitocondrial (mtDNA), extraído de fragmentos de dentes bem preservados. A comparação desse DNA com amostras obtidas de familiares maternos da mulher desaparecida permitiu confirmar a identidade dos restos mortais.\nCom base nesse caso, a justificativa adequada para o uso de DNA mitocondrial na identificação é que este material genético",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "é herdado exclusivamente da linhagem materna e está presente em várias cópias por célula, o que aumenta a chance de recuperação em tecidos degradados."
+        },
+        {
+          "letra": "B",
+          "texto": "facilita o reconhecimento de indivíduos por estar mais sujeito às mutações que o DNA nuclear, embora ambos os materiais genéticos tenham os mesmos genes e tamanho."
+        },
+        {
+          "letra": "C",
+          "texto": "apresenta mutações somáticas frequentes, que permitem distinguir com facilidade diferentes indivíduos da mesma família e com parentesco bastante próximo."
+        },
+        {
+          "letra": "D",
+          "texto": "é transmitido igualmente por ambos os genitores, permitindo análises de parentesco tanto pela linhagem paterna quanto materna."
+        },
+        {
+          "letra": "E",
+          "texto": "sofre recombinação (crossing over) durante a meiose, permitindo rastrear tanto a linhagem paterna quanto a linhagem materna."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Biologia – Genética"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Pesquisas recentes têm demonstrado uma associação entre o consumo elevado de alimentos ultraprocessados (como refrigerantes, embutidos, biscoitos recheados, fast food e outros produtos industrializados ricos em aditivos, sódio, açúcares e gorduras) e o aumento do risco de câncer colorretal em pessoas mais jovens. Esse fenômeno tem preocupado autoridades de saúde pública, pois se soma ao crescimento da obesidade, sedentarismo e padrões alimentares pouco saudáveis nas sociedades modernas.\nFonte: DA SILVA, J. et al. Association between ultra-processed food intake and risk of colorectal cancer: a meta-analysis. Frontiers in Nutrition, 2023. (Adaptado).\nCom base nessas informações e nos conhecimentos de Biologia e Saúde, analise as afirmativas a seguir.\n\nI. O consumo frequente de alimentos ultraprocessados pode aumentar a inflamação no organismo e favorecer mutações celulares, contribuindo para o desenvolvimento de câncer.\nII. Dietas ricas em fibras, presentes em frutas, verduras e cereais integrais, estão associadas à proteção contra o câncer colorretal.\nIII. A relação entre ultraprocessados e câncer é explicada pela presença de aditivos artificiais, não havendo influência de outros fatores como sedentarismo ou obesidade.\nIV. A prevenção de doenças crônicas, como o câncer colorretal, envolve não apenas escolhas alimentares adequadas mas também políticas públicas de educação em saúde e regulação da indústria alimentícia.\nV. O risco de câncer colorretal é o mesmo independentemente da dieta ou estilo de vida, sendo exclusivamente determinado pela herança genética.\n\nÉ correto apenas o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "B",
+          "texto": "I, II e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "II, IV e V."
+        },
+        {
+          "letra": "D",
+          "texto": "I, III, IV e V."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II, III e V."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Biologia – Saúde Humana",
+        "Biologia – Fisiologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Os padrões de transmissão hereditária correspondem às diferentes formas pelas quais as características genéticas são passadas de uma geração para outra. Esses padrões refletem como os genes se combinam e se expressam nos descendentes. Assim, a análise desses padrões permite compreender a previsibilidade da herança e explicar a variação observada entre os indivíduos.\nFonte: Science Facts, 2025 (Adaptado).\nDisponível em: <https://www.sciencefacts.net/codominance.html>. Acesso em: 28 Set. 2025.\nObservando o padrão de transmissão hereditária para a cor das flores ilustrado acima, é possível concluir que essa é uma característica de caráter",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "recessivo."
+        },
+        {
+          "letra": "B",
+          "texto": "poligênico."
+        },
+        {
+          "letra": "C",
+          "texto": "dominante."
+        },
+        {
+          "letra": "D",
+          "texto": "polialélico."
+        },
+        {
+          "letra": "E",
+          "texto": "codominante."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Biologia – Genética Mendeliana"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Sobre o período do Brasil Colônia, leia o texto a seguir:\n\n\"Os grandes desafios que se impuseram aos portugueses recém-chegados à então Terra de Santa Cruz foram muitos, como a implantação de uma estrutura administrativa, a progressiva ocupação territorial, o assentamento dos colonos, a organização dos primeiros engenhos açucareiros e o enfrentamento de uma geografia, uma flora e uma fauna desconhecidas. Os jesuítas integraram-se ao esforço da travessia atlântica em direção às novas terras americanas.\"\nFonte: NEVES, Luiz Felipe Baeta. O combate dos soldados de Cristo na terra dos papagaios. Rio de Janeiro: Forense Universitária, 1978. p. 27-28.\n\nCom base na leitura, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os jesuítas atuaram na catequese dos povos indígenas e colaboraram com a difusão da fé cristã nos territórios conquistados pelos portugueses."
+        },
+        {
+          "letra": "B",
+          "texto": "Os jesuítas tiveram que lutar contra civilizações organizadas e desenvolver uma cultura própria baseada em valores indígenas."
+        },
+        {
+          "letra": "C",
+          "texto": "O objetivo da Companhia de Jesus era eliminar as culturas que se opusessem à conversão ao cristianismo, especialmente a francesa."
+        },
+        {
+          "letra": "D",
+          "texto": "A presença dos jesuítas foi fundamental para apoiar a travessia atlântica, mas eles não participaram da ocupação territorial da \"Terra de Santa Cruz\"."
+        },
+        {
+          "letra": "E",
+          "texto": "A evangelização do novo território não foi importante, pois os jesuítas alcançaram seus objetivos mesmo sem depender totalmente do trabalho de catequese."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – Brasil Colônia"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "O pan-africanismo é uma corrente de pensamento que surgiu no final do século XIX, oriunda da Diáspora africana (sobretudo no Caribe e Estados Unidos), para lutar contra o racismo e a segregação racial.\nDisponível em: https://brasilescola.uol.com.br/geografia/panafricanismo.htm. Acesso em: 05 Out 2025.\n\nAssinale a alternativa que identifica, com clareza, os objetivos do pan-africanismo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Promover união e militarização dos países africanos."
+        },
+        {
+          "letra": "B",
+          "texto": "Acabar com o racismo reverso na Europa ocidental."
+        },
+        {
+          "letra": "C",
+          "texto": "Defender o empoderamento de africanos e descendentes."
+        },
+        {
+          "letra": "D",
+          "texto": "Garantir a supremacia das pessoas pretas e pardas."
+        },
+        {
+          "letra": "E",
+          "texto": "Ratificar a escravidão e colonialismo nas Américas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Movimentos Sociais e Políticos"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "A imagem a seguir é uma pintura de Nicolau Facchinetti no ano de 1869, intitulada de \"Baía de Botafogo\", a imagem traduz a exaltação da paisagem carioca e do nacionalismo romântico, reflexos do processo de modernização e valorização da natureza do Segundo Reinado no Brasil.\n\nÓleo sobre tela, de Nicolau Facchinetti.\nDisponível em: https://artsandculture.google.com/asset/pQG8qDN3CyumEA. Acesso em: 30 Set 2025.\n\nA respeito desse período, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O Segundo Reinado é o período da história brasileira em que o país foi governado por D. Pedro I, desde o ano de 1840 até o ano de 1889."
+        },
+        {
+          "letra": "B",
+          "texto": "A abolição da escravatura, que aconteceu neste período, foi resultado da benevolência dos gestores envolvidos, dentre eles, a Princesa Isabel."
+        },
+        {
+          "letra": "C",
+          "texto": "A principal causa da Guerra do Paraguai foi a invasão do Paraguai pelo Brasil, que ocorreu após o aprisionamento de uma embarcação paraguaia pelos brasileiros."
+        },
+        {
+          "letra": "D",
+          "texto": "Os militares, insatisfeitos com as condições após a Guerra do Paraguai e a falta de reformas, começaram a conspirar contra a monarquia, o que levou ao golpe de 1889."
+        },
+        {
+          "letra": "E",
+          "texto": "O Golpe da Maioridade foi uma famosa fraude que concedia direitos civis plenos a menores de idade, inclusive a posse de propriedades."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Brasil Império"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "A charge a seguir foi publicada na Revista Careta, na edição de agosto de 1925. Ela representa o poder político concentrado nas mãos das elites de Minas Gerais e São Paulo, em contraste com os demais estados, que aparecem tentando alcançar o trono presidencial. Esse contexto faz alusão à chamada Política do Café com Leite.\n\nDisponível em: https://objdigital.bn.br/acervo_digital/div_periodicos/careta/careta_1925/careta_1925_897.pdf. Acesso em: 29 Set 2025.\n\nCom base na imagem e nos conhecimentos sobre o período da Primeira República, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A Política do Café com Leite foi um acordo realizado entre as grandes oligarquias de São Paulo e Rio de Janeiro."
+        },
+        {
+          "letra": "B",
+          "texto": "As duas oligarquias formaram uma durável e fiel aliança para influenciar a escolha do novo monarca do Brasil."
+        },
+        {
+          "letra": "C",
+          "texto": "Dentre os mecanismos usados nesta oligarquia, estavam métodos legais e transparentes para a condução das eleições."
+        },
+        {
+          "letra": "D",
+          "texto": "A Política do Café com Leite era também um meio para garantir uma participação mais democrática e representativa no poder do Brasil."
+        },
+        {
+          "letra": "E",
+          "texto": "Seu objetivo principal era controlar as eleições presidenciais para garantir que as duas oligarquias se revezassem na presidência."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "História – República Velha"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Durante o século XX, diferentes movimentos sociais ao redor do mundo mobilizaram-se em defesa de direitos civis e políticos, pressionando governos e instituições por mudanças legais e estruturais. Nos Estados Unidos, o movimento pelos direitos civis destacou-se ao denunciar a segregação racial e exigir igualdade de direitos para a população negra. Marchas, boicotes e ações judiciais foram estratégias usadas para combater leis discriminatórias e práticas segregacionistas.\n\nMartin Luther King, diante de 250 mil pessoas, prestes a fazer história (Foto: Hulton Archive/Getty Images)\nDisponível em: https://objdigital.bn.br/acervo_digital/div_periodicos/careta/careta_1925/careta_1925_897.pdf. Acesso em: 29 Set 2025.\n\nConsiderando o papel das lutas sociais na transformação das legislações e políticas públicas, assinale a alternativa que expressa uma conquista histórica resultante desse movimento",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A manutenção das leis estaduais de segregação racial, por decisão da Suprema Corte."
+        },
+        {
+          "letra": "B",
+          "texto": "A aprovação de leis federais que proibiram a discriminação racial em espaços públicos e no acesso a direitos civis."
+        },
+        {
+          "letra": "C",
+          "texto": "A criação de políticas de incentivo econômico voltadas exclusivamente para elites empresariais brancas."
+        },
+        {
+          "letra": "D",
+          "texto": "O fortalecimento legal das práticas segregacionistas por meio de novas legislações estaduais."
+        },
+        {
+          "letra": "E",
+          "texto": "A limitação do direito ao voto da população negra por meio de novas exigências legais."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "História – História Contemporânea",
+        "História – Movimentos Sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "\"Em 1904, a capital federal registrara quase sete mil casos de varíola. Dado que o combate à varíola dependia da vacina, Oswaldo Cruz apresentou ao Congresso Nacional um projeto de lei reinstaurando a obrigatoriedade da vacinação e a revacinação em todo o país – até então nunca cumpridas\".\nFonte: HOCHMAN, Gilberto. Vacinação, varíola e uma cultura da imunização no Brasil. Ciência & Saúde Coletiva, v. 16, n. 2, p. 375-386, 2011.\nDisponível em: https://www.scielosp.org/pdf/csc/v16n2/v16n2a02.pdf. Acesso em: 28 Set 2025.\n\nConsiderando a situação narrada, que desencadeou a Revolta da Vacina, escolha a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Setores militares tentaram derrubar Rodrigues Alves durante a Revolta da Vacina."
+        },
+        {
+          "letra": "B",
+          "texto": "A Revolta da Vacina foi motivada pela infertilidade causada pela vacina."
+        },
+        {
+          "letra": "C",
+          "texto": "Mesmo facultativa, a vacinação zerou os casos de varíola do Rio de Janeiro em 1930."
+        },
+        {
+          "letra": "D",
+          "texto": "Mesmo conhecendo os benefícios da vacinação, a população se opôs à vacinação."
+        },
+        {
+          "letra": "E",
+          "texto": "Na época, apenas varíola e malária causavam morte."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "História – República Velha"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "A partir do século XV, a expansão marítima europeia marcou um novo período nas relações entre diferentes povos e continentes. As potências ibéricas lideraram expedições que tinham como objetivos ampliar rotas comerciais, acumular riquezas e difundir valores culturais e religiosos europeus. Essas viagens impulsionaram um intenso processo de contato entre culturas, que teve consequências políticas, econômicas e sociais profundas.\n\nPartida de Vasco da Gama para a Índia (Roque Gameiro)\nDisponível em: https://torredahistoriaiberica.blogspot.com/2020/02/um-grande-feito-dos-portugueses.html. Acesso em: 02 Out 2025.\n\nA partir desse contexto histórico, assinale a alternativa que expressa uma consequência das Grandes Navegações para as relações entre povos e nações.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O fortalecimento das economias locais africanas e asiáticas, que passaram a dominar as rotas comerciais marítimas."
+        },
+        {
+          "letra": "B",
+          "texto": "A consolidação do poder político dos povos americanos, que impuseram regras ao comércio europeu."
+        },
+        {
+          "letra": "C",
+          "texto": "O estabelecimento de impérios coloniais europeus, baseados na exploração econômica e na dominação política de territórios ultramarinos."
+        },
+        {
+          "letra": "D",
+          "texto": "A manutenção do equilíbrio político entre as potências europeias e os povos colonizados, com acordos igualitários de comércio."
+        },
+        {
+          "letra": "E",
+          "texto": "A substituição do comércio marítimo pelo comércio terrestre entre Europa, África e Ásia."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Expansão Marítima",
+        "História – Colonialismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "O imperialismo europeu do século XIX resultou na expansão colonial sobre a África e a Ásia, intensificando rivalidades entre potências industriais. O mapa político do mundo foi redesenhado, e as disputas por colônias, mercados e recursos naturais contribuíram para o acirramento das tensões internacionais que culminaram na Primeira Guerra Mundial.\nConsiderando esse contexto, qual fator melhor explica a relação entre o imperialismo e o início da Primeira Guerra Mundial (1914 - 1918)?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O fim dos impérios coloniais e a descolonização da África criaram vácuos de poder entre as potências."
+        },
+        {
+          "letra": "B",
+          "texto": "O equilíbrio pacífico de interesses econômicos impediu alianças políticas e militares entre as potências."
+        },
+        {
+          "letra": "C",
+          "texto": "A disputa por territórios e mercados coloniais alimentou alianças e rivalidades que se converteram em conflito armado."
+        },
+        {
+          "letra": "D",
+          "texto": "A neutralidade britânica diante das disputas coloniais facilitou a expansão alemã na África."
+        },
+        {
+          "letra": "E",
+          "texto": "O domínio colonial conjunto de França e Alemanha na Ásia aumentou a cooperação entre ambas as potências."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "História – Imperialismo",
+        "História – Primeira Guerra Mundial"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "O pensamento iluminista do século XVIII influenciou diversos processos políticos e sociais, entre eles a Revolução Francesa. Ideias como a liberdade, a igualdade e a soberania popular questionaram as bases do Antigo Regime e inspiraram a formulação de novos modelos de governo.\nNesse contexto, qual alternativa expressa um princípio iluminista que fundamentou as transformações políticas nas revoluções atlânticas (séculos XVIII e XIX)?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A defesa do absolutismo como forma de garantir a estabilidade social."
+        },
+        {
+          "letra": "B",
+          "texto": "A ideia de que os direitos naturais pertencem apenas aos membros da aristocracia."
+        },
+        {
+          "letra": "C",
+          "texto": "A concepção de que o poder político deve ser legitimado pela vontade dos governantes."
+        },
+        {
+          "letra": "D",
+          "texto": "A noção de que o poder deve emanar do povo, sendo limitado por leis e instituições."
+        },
+        {
+          "letra": "E",
+          "texto": "O pensamento de que a Igreja deve controlar os assuntos civis e educacionais do Estado."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "História – Iluminismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "A Justiça, como instituição social e política, exerce papel fundamental na consolidação dos direitos e na mediação de conflitos nas sociedades contemporâneas. No Brasil, decisões judiciais têm influenciado diretamente políticas públicas e garantido direitos a grupos historicamente marginalizados.\n\nFachada do STF com a estátua 'A Justiça' Foto: Gervásio Baptista/SCO/STF\n\nDisponível em: https://g1.globo.com/mg/minas-gerais/noticia/2024/11/16/estatua-da-justica-conheca-a-obra-de-alfredo-ceschiatti-que-foi-alvo-do-autor-de-atentado-em-brasilia.ghtml. Acesso em: 08 Out 2025.\n\nA partir do texto e dos conhecimentos sobre o papel da Justiça na organização social, assinale a alternativa que exemplifica essa atuação institucional.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A Justiça interfere na produção cultural ao definir o conteúdo de obras artísticas."
+        },
+        {
+          "letra": "B",
+          "texto": "A Justiça garante a aplicação de políticas públicas que asseguram direitos fundamentais, mesmo contra a vontade de governos locais."
+        },
+        {
+          "letra": "C",
+          "texto": "A Justiça atua exclusivamente para punir condutas criminosas, sem interferir em questões sociais."
+        },
+        {
+          "letra": "D",
+          "texto": "A Justiça elabora leis que determinam políticas públicas em âmbito nacional."
+        },
+        {
+          "letra": "E",
+          "texto": "A Justiça substitui a ação dos movimentos sociais na promoção de direitos."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Sociologia – Instituições Sociais",
+        "Sociologia – Cidadania e Direitos"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Texto 1\n\nLhe mostrar os altos claros das Almas: rio despenha de lá, num afã, espuma próspero, gruge; cada cachoeira, só tombos. O cio da tigre preta na serra do Tatú – já ouviu o senhor gargaragem de onça? A garôa rebrilhante da dos-Confins, madrugada quando o céu embranquece - neblina que chamam de xererém. Quem me ensinou a apreciar essas as belezas sem dono foi Diadorim...\nROSA, João Guimarães. Grande sertão veredas. Rio de Janeiro: Nova Fronteira, 2001. Pág. 42 (fragmento)\n\nTexto 2\n\nda repartição das coisas\n\nA criança levanta o olhar\ne diz-me: “Avó, o teu jardim.”\ncomo se eu possuísse\nalguma coisa, algum ser,\nuns nomes botânicos,\numa forma matizada\nde muitos verdes.\nBRANDÃO, Fiama Hasse Paes. In: A lua no cinema e outros poemas / organização Eucanaã Ferraz. São Paulo: Companhia das Letras, 2011.\n\nDa leitura desses dois textos, pode-se afirmar que há semelhança entre eles",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "na forma do texto, pois ambos são escritos em versos."
+        },
+        {
+          "letra": "B",
+          "texto": "na tipologia textual, pois ambos descrevem um jardim."
+        },
+        {
+          "letra": "C",
+          "texto": "no fato de ambos os textos adotarem a norma culta da língua."
+        },
+        {
+          "letra": "D",
+          "texto": "na abordagem argumentativa sobre a propriedade dos bens naturais."
+        },
+        {
+          "letra": "E",
+          "texto": "no substrato temático, pois a natureza não é propriedade de ninguém."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Intertextualidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Foto de Leonardo Moura Leite\nCreche Nave da Saudade - Campanha para arrecadação de material escolar usado. Redação / Copywriter: Eliza Maria Carrarallustração / Illustration: Jorge Curti\nDisponível em: https://www.behance.net/gallery/22124707/Campaign-about-used-scholar-supplies-donations. Acesso em: 02 Out 2025\nConsiderando as finalidades comunicativas da linguagem, pode-se afirmar que o cartaz faz um apelo por meio da escolha do modo verbal, característico da função",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "metalinguística."
+        },
+        {
+          "letra": "B",
+          "texto": "poética."
+        },
+        {
+          "letra": "C",
+          "texto": "conativa."
+        },
+        {
+          "letra": "D",
+          "texto": "fática."
+        },
+        {
+          "letra": "E",
+          "texto": "referencial."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Funções da Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Bancarrota blues\nEdu Lobo / Chico Buarque\n\nUma fazenda\nCom casarão\nImensa varanda\nDá jerimum\nDá muito mamão\nPé de jacarandá\nEu posso vender\nQuanto você dá?\nAlgum mosquito\nChapéu de sol\nBastante água fresca\nTem surubim\nTem isca pra anzol\nMas nem tem que pescar\nEu posso vender\nQuanto quer pagar?\nO que eu tenho\nEu devo a Deus\nMeu chão, meu céu, meu mar\nOs olhos do meu bem\nE os filhos meus\nSe alguém pensa que vai levar\nEu posso vender\nQuanto vai pagar?\nOs diamantes rolam no chão\nO ouro é poeira\nMuita mulher pra passar sabão\nPapoula pra cheirar\nEu posso vender\nQuando vai pagar?\nNegros quimbundos\nPra variar\nDiversos açoites\nDoces lundus\nPra nhonhô sonhar\nÀ sombra dos oitis\nEu posso vender\nQue é que você diz?\nSou feliz\nE devo a Deus\nMeu éden tropical\nOrgulho dos meus pais\nE dos filhos meus\nNinguém me tira nem por mal\nMas posso vender\nDeixe algum sinal\n\nDisponível em: https://www.letras.mus.br/chico-buarque/85931/. Acesso em: 02 Out 2025\n\nA palavra blues, um gênero musical, no título, identifica o gênero textual a que pertence o texto. No entanto, a aproximação sugestiva com um poema pode ser considerada em função",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "do tema político e social."
+        },
+        {
+          "letra": "B",
+          "texto": "do uso da linguagem expressiva."
+        },
+        {
+          "letra": "C",
+          "texto": "da descrição de um ambiente bucólico."
+        },
+        {
+          "letra": "D",
+          "texto": "do emprego da denotação."
+        },
+        {
+          "letra": "E",
+          "texto": "do uso da primeira pessoa verbal."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Gêneros Textuais",
+        "Língua Portuguesa – Linguagem Figurada"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Disponível em: https://br.pinterest.com/pin/604678687451280252/. Acesso em: 02 Out 2025.\n\nO efeito surpreendente em torno das palavras cão e gato no texto deve-se a mecanismos linguísticos, como, entre outros, no caso do anúncio, a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "metáfora."
+        },
+        {
+          "letra": "B",
+          "texto": "metonímia."
+        },
+        {
+          "letra": "C",
+          "texto": "antítese."
+        },
+        {
+          "letra": "D",
+          "texto": "denotação."
+        },
+        {
+          "letra": "E",
+          "texto": "conotação."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Conotação e Denotação"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Recursos Educacionais Digitais: o que são e onde encontrá-los\nGraziela Balardim\n\nConvenhamos que a tecnologia é um bom \"molho\" para qualquer conteúdo, não é? Para os nativos digitais, que estão sempre com o celular na mão e que entendem mais de tecnologia do que boa parte dos adultos, escutar conteúdos palestrados e copiar anotações do quadro para o caderno é algo que definitivamente não empolga.\nUsar Recursos Educacionais Digitais é falar a língua deles. Os conteúdos e as possibilidades que eles trazem tornam qualquer assunto muito mais atrativo. Como consequência, o rendimento deles tende a aumentar. Ao menos foi isso o que demonstrou uma pesquisa realizada pela Unesp com estudantes que tinham médias ruins. O desempenho deles melhorou em 51% com o uso de recursos digitais interativos.\nDisponível em: https://blog.clipescola.com/recursos-educacionais-digitais/. Acesso em: 05 Out 2025.\n\nA partir da leitura do texto, pode-se afirmar corretamente que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "trata-se de um texto formal, voltado para professores de educação digital."
+        },
+        {
+          "letra": "B",
+          "texto": "foi escrito diretamente para o público de estudantes jovens."
+        },
+        {
+          "letra": "C",
+          "texto": "utiliza uma linguagem despojada como recurso estilístico-argumentativo de aproximação com a temática."
+        },
+        {
+          "letra": "D",
+          "texto": "valoriza e reconhece os benefícios, mas desaprova o uso de recursos digitais entre estudantes."
+        },
+        {
+          "letra": "E",
+          "texto": "objetiva convencer estudantes a utilizarem recursos digitais para educação e não apenas para entretenimento."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Recursos Argumentativos"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Brasil é o 2º país em que usuários passam mais tempo on-line\nRelatório Global Digital 2024 mostra que brasileiros passam mais de 9 horas conectados\nGabriela Andrade\n\nDe acordo com o Relatório Digital 2024: 5 billion social media users, publicado em parceria entre We Are Social e Meltwater, o Brasil é o segundo país em que os usuários passam mais tempo on-line, com média de 9h13, atrás apenas da África do Sul, com 9h24.\nEsse dado mostra que a internet desempenha um papel significativo na vida diária dos brasileiros, com grande parte do tempo sendo dedicado às atividades on-line.\nEssa alta taxa de engajamento on-line pode ter diversas implicações, desde oportunidades para empresas alcançarem e engajarem o público brasileiro até reflexos sobre os padrões de consumo de mídia e comportamentos sociais na era digital.\nHá um declínio na audiência da televisão em favor do aumento do tempo gasto on-line. Isso ocorre devido à conveniência, personalização e diversidade de conteúdos disponíveis on-line, refletindo na evolução dos hábitos de consumo de mídia em direção às experiências mais ricas e envolventes.\nOs brasileiros amam as redes sociais\nOutro ponto abordado na pesquisa é que o Brasil está em terceiro lugar mundial no tempo gasto em redes sociais, com os usuários dedicando em média 3h37 diariamente.\nAlém disso, os brasileiros ocupam a quinta posição no uso do Instagram, evidenciando a importância dessa rede social como um canal de marketing digital crucial no país.\n\"Esses números refletem não apenas a presença massiva dos brasileiros nas redes sociais, mas também a oportunidade significativa que ela representa para as marcas e empresas alcançarem e engajarem o público-alvo de maneira eficaz e direcionada\", explica o especialista em dados e inovação e professor de MBA da FGV, Kenneth Corrêa.\nO país também ocupa a quinta posição em termos de percentual de população que utiliza o Instagram, com 78% dos brasileiros adultos engajando no aplicativo. “Essa posição de liderança na plataforma realça a importância dessa rede social não apenas como uma ferramenta de comunicação e lazer, mas como um poderoso canal de marketing digital que oferece uma oportunidade ímpar de engajar e criar uma conexão profunda com o público brasileiro\", afirma Corrêa.\nDisponível em: https://www.metropoles.com/colunas/m-buzz/brasil-e-o-2-pais-em-que-usuarios-passam-mais-tempo-on-line. Acesso em: 24 Set 2025.\n\nNo texto, a autora recorre ao uso de pronomes demonstrativos como recurso de coesão. Assinale a alternativa em que se registra a correta referência textual com o pronome destacado.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“Esse dado mostra que...” (2º parágrafo) - O tempo on-line utilizado pelos usuários da África do Sul."
+        },
+        {
+          "letra": "B",
+          "texto": "“Essa alta taxa de engajamento...” (3º parágrafo) - Vida diária dos brasileiros"
+        },
+        {
+          "letra": "C",
+          "texto": "“Isso ocorre devido à...” (4º parágrafo) - O comportamento na era digital."
+        },
+        {
+          "letra": "D",
+          "texto": "“Além disso, os brasileiros...” (6º parágrafo) - Posição do Brasil no uso do Instagram."
+        },
+        {
+          "letra": "E",
+          "texto": "“Esses números refletem não apenas ...” (7º parágrafo) - Conjunto de dados estatísticos apresentados sobre o Brasil."
+        }
+      ],
+      "opcaoCorreta": "E",
+      "conteudo": [
+        "Língua Portuguesa – Coesão Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Balanço ético-global para a COP30\n\nEste sistema inumano e sem qualquer solidariedade jamais vai renunciar a suas vantagens e privilégios\nLeonardo Boff\n\n1. Por que tantas vezes negamos ou ignoramos o que a ciência e os saberes tradicionais dizem sobre a crise climática, e compartilhamos ou compactuamos com a desinformação, mesmo sabendo que vidas estão em risco?A desinformação é voluntária. Muitos chefes de estados ricos e CEOs de grandes corporações sabem dos riscos, pois eles estão presentes e são inegáveis como o aquecimento global, as enchentes destrutivas de cidades inteiras, as fogueiras imensas na Califórnia, no Amazonas, na Espanha e ainda a presença de vários vírus, em particular do Coronavírus, que atingiu a humanidade inteira.\nNegam estes dados claros porque são antissistêmicos. O sistema do capital, hoje mundializado, mais e mais se concentra (1% contra 99%). Tomar a sério estes dados obrigaria este capital a mudar de lógica, cuidar da natureza em vez de superexplorá-la, cultivar uma justiça social e uma justiça ecológica. Não basta descarbonizar.\nComo diz a \"Carta da Terra\": \"Adotar padrões de produção e consumo que protejam as capacidades regenerativas da Terra, os direitos humanos e o bem-estar comunitário\" (§II,7). Este sistema inumano e sem qualquer solidariedade jamais vai renunciar a suas vantagens e privilégios. A seguir a lógica do capital, iremos ao encontro, cedo ou tarde, de uma grande tragédia ecológico-social que poderá afetar a biosfera, e no limite, a sobrevivência dos seres humanos sobre este planeta, que, limitado, não suporta um projeto de crescimento/desenvolvimento ilimitado.\nDisponível em: https://iclnoticias.com.br/balanco-etico-global-para-a-cop30/. Acesso em: 25 Set 2025.\n\nCom base no uso da norma padrão da língua portuguesa no texto, analise as afirmativas.\n\nI. O prefixo presente na palavra \"inumano” (lead), diferente da palavra 'inegáveis\" (1º parágrafo), apresenta significado que ultrapassa a simples oposição de “humano”, algo que não é humano, mas perpassa a ideia de \"negação da humanidade\", enquanto que \"inegáveis\" continua sendo \"aquilo que não se pode negar\".\nII. A repetição em \"O sistema do capital, hoje mundializado, mais e mais se concentra\" (2º parágrafo) foi utilizada como recurso estilístico com a finalidade de enfatizar a afirmação.\nIII. A repetição em “cultivar uma justiça social e uma justiça ecológica\" (2º parágrafo) visa reforçar que só há uma única maneira de conceber justiças social e ecológica.\nIV. A escolha pela expressão \"tragédia ecológico-social\" (3º parágrafo) fortalece a relação de interdependência entre ambas as esferas (social e ecológica), que seriam atingidas simultaneamente.\n\nÉ correto o que se afirma apenas em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "III e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "II, III e IV."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Morfologia",
+        "Língua Portuguesa – Estilística"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Leia a letra da canção Rosa de Hiroshima adaptada do poema de Vinicius de Moraes pertencente ao Modernismo. O lançamento da música ocorreu no ano de 1973, com a banda Secos & Molhados.\n\nA Rosa de Hiroshima\n\nPensem nas crianças\nMudas telepáticas\nPensem nas meninas\nCegas inexatas\nPensem nas mulheres\nRotas alteradas\nPensem nas feridas\nComo rosas cálidas\nMas oh não se esqueçam\nDa rosa da rosa\nDa rosa de Hiroshima\nA rosa hereditária\nA rosa radioativa\nEstúpida e inválida\nA rosa com cirrose\nA antirrosa atômica\nSem cor sem perfume\nSem rosa sem nada.\nVinicius de Moraes / Gerson Conrad\nDisponível em: https://www.letras.mus.br/ney-matogrosso/47735/. Acesso em: 01 Out 2025.\n\nApós a leitura, analise as afirmativas a seguir.\n\nI. O poema foi escrito em um período marcado pela Grande Depressão, pelo avanço do nazifascismo, pela Segunda Guerra Mundial e pela consolidação do Estado Novo no Brasil.\nII. Na letra da canção, observa-se uma falta de preocupação relacionada ao destino dos homens e ao estar no mundo.\nIII. Ocorre uma aproximação semântica entre a rosa e a bomba devido à semelhança entre o desabrochar da rosa e a explosão da bomba atômica.\nIV. Os dois primeiros versos fazem referência aos danos cognitivos e intelectuais causados pelos efeitos da radiação que atingiram as crianças e que serão transmitidos para as futuras gerações.\n\nÉ correto apenas o que se afirma em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I."
+        },
+        {
+          "letra": "B",
+          "texto": "IV"
+        },
+        {
+          "letra": "C",
+          "texto": "III e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "I, III e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e IV."
+        }
+      ],
+      "opcaoCorreta": "D",
+      "conteudo": [
+        "Língua Portuguesa – Literatura",
+        "Língua Portuguesa – Interpretação de Poema"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Observe a charge do cartunista brasileiro Duke.\n\nDisponível em: <https://ensinodegeografiauenp.blogspot.com/2013/01/charges-para-pensar-nas-chuvas-de-verao.html.> Acesso em: 28 Set 2025.\n\nNa palavra \"clic\", a charge utiliza, como recurso expressivo, qual figura de linguagem?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Antonomásia"
+        },
+        {
+          "letra": "B",
+          "texto": "Onomatopeia"
+        },
+        {
+          "letra": "C",
+          "texto": "Quiasmo"
+        },
+        {
+          "letra": "D",
+          "texto": "Paronomásia"
+        },
+        {
+          "letra": "E",
+          "texto": "Hipálage"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Leia o poema do poeta brasileiro Cassiano Ricardo.\n\nSerenata sintética\n\nRua\ntorta\n\nLua\nmorta\n\nTua\nporta\n(Cassiano Ricardo. Poesias completas. Rio de Janeiro: José Olympio, 1957.p.279.)\n\nSobre o poema, pode-se afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a substituição de um fonema por outro pode estabelecer diferença de significado entre palavras, o que se comprova nas palavras do poema \"Rua”, “Lua”, “Tua\" escolhidas pelo poeta com a intenção de explorar o som dos significantes."
+        },
+        {
+          "letra": "B",
+          "texto": "o termo \"sintética\", presente no título do poema, não sugere a redução de uma forma grandiosa a um ato banal."
+        },
+        {
+          "letra": "C",
+          "texto": "o ideal romântico da serenata está no mesmo plano semântico da trivialidade da realidade."
+        },
+        {
+          "letra": "D",
+          "texto": "o poeta não pretendeu contrapor a linguagem sofisticada do título com o tom cotidiano dos versos."
+        },
+        {
+          "letra": "E",
+          "texto": "a forma reduzida do texto reforça o caráter sintético e impede um jogo de significados."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Língua Portuguesa – Literatura",
+        "Língua Portuguesa – Análise de Poema"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "A pátria que quisera ter era um mito; era um fantasma criado por ele no silêncio do seu gabinete. Nem a física, nem a moral, nem a intelectual, nem a política que julgava existir, havia.\nBARRETO, Lima. Triste fim de Policarpo Quaresma. São Paulo: Editora Pé de Letra, 2022.\n\nConsiderando a sintaxe, pode-se afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o termo \"que\" classifica-se como conjunção integrante."
+        },
+        {
+          "letra": "B",
+          "texto": "no trecho, há uma oração sem sujeito."
+        },
+        {
+          "letra": "C",
+          "texto": "\"A pátria” é o sujeito de \"quisera ter”."
+        },
+        {
+          "letra": "D",
+          "texto": "\"era um mito\" classifica-se como predicado verbal."
+        },
+        {
+          "letra": "E",
+          "texto": "\"por ele\" classifica-se como objeto direto."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Sintaxe do Período Simples"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "\"Em um mundo marcado por conflitos em diferentes regiões, as operações de manutenção da paz das Nações Unidas são a expressão mais visível do compromisso solidário da comunidade internacional com a promoção da paz e da segurança.\n\nEmbora não estejam expressamente mencionadas na Carta da ONU, elas funcionam como instrumento para assegurar a presença dessa organização em áreas conflagradas, de modo a incentivar as partes em conflito a superar suas disputas por meio pacífico - razão pela qual não devem ser vistas como forma de intervenção armada.\"\nDisponível em: https://www.todamateria.com.br/exercicios-de-interpretacao-de-texto/. Acesso em: 13 Outu 2025.\n\nNo trecho \"... elas funcionam como instrumento para assegurar a presença dessa organização ...\", o pronome destacado refere-se a que termo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Diferentes regiões."
+        },
+        {
+          "letra": "B",
+          "texto": "As operações de manutenção da paz das Nações Unidas."
+        },
+        {
+          "letra": "C",
+          "texto": "Áreas conflagradas."
+        },
+        {
+          "letra": "D",
+          "texto": "Partes em conflito."
+        },
+        {
+          "letra": "E",
+          "texto": "Suas disputas."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Coesão Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "\"Lugar de mulher é dentro de casa? Ilusão: A cada dia que passa, mais mulheres precisam trabalhar fora; por isso desde cedo a menina deve pensar em sua carreira, em sua vocação, em seu serviço e não se preparar apenas para o casamento com o príncipe encantado.\"\nPALADINO, Cecília. Folhinha de São Paulo. 2 de março, 1980\n\nSe, em \"Lugar de mulher é dentro de casa? Ilusão: A cada dia que passa, mais mulheres precisam trabalhar fora ...\", substituíssemos os dois pontos por vírgula, qual conjunção poderia ser utilizada para fazer a coesão textual?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "E"
+        },
+        {
+          "letra": "B",
+          "texto": "Pois"
+        },
+        {
+          "letra": "C",
+          "texto": "Como"
+        },
+        {
+          "letra": "D",
+          "texto": "Embora"
+        },
+        {
+          "letra": "E",
+          "texto": "Portanto"
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Língua Portuguesa – Conjunções",
+        "Língua Portuguesa – Coesão Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "\"Os professores semeamos sonhos, e cada ensinamento é a multiplicação da esperança no coração dos alunos.\"\n\nEm \"Os professores semeamos sonhos\" há uma figura de sintaxe que está corretamente identificada no seguinte item:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Elipse, por haver a omissão do objeto direto."
+        },
+        {
+          "letra": "B",
+          "texto": "Anacoluto, por haver uma ruptura na estrutura da frase."
+        },
+        {
+          "letra": "C",
+          "texto": "Silepse, por haver uma concordância ideológica."
+        },
+        {
+          "letra": "D",
+          "texto": "Pleonasmo, por haver uma redundância intencional."
+        },
+        {
+          "letra": "E",
+          "texto": "Hipérbato, por haver uma inversão da ordem natural e direta dos termos da oração."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Língua Portuguesa – Figuras de Linguagem",
+        "Língua Portuguesa – Sintaxe de Concordância"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "Qual é a estratégia usada pela personagem para adiantar a tarefa de coletar folhas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Pedir ajuda para os amigos."
+        },
+        {
+          "letra": "B",
+          "texto": "Recolher todas as folhas de uma vez no último dia."
+        },
+        {
+          "letra": "C",
+          "texto": "Transformar a tarefa em um jogo, recolhendo um pouco a cada dia."
+        },
+        {
+          "letra": "D",
+          "texto": "Ignorar a tarefa e inventar desculpas depois."
+        },
+        {
+          "letra": "E",
+          "texto": "Comprar folhas em outro lugar para entregar."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "The eerie phenomenon that keeps popping up\n\nThe Baader-Meinhof phenomenon, also known as the frequency illusion, is a type of cognitive bias where, once you learn about something - such as a word, person or concept - you start to notice it more frequently. Your best friend clues you in on a slang term, and suddenly you see it endlessly in your feed. Your brother recommends a supplement, and you start repeatedly hearing ads for it. It feels eerie, especially if you don't have a name for what's happening. [...]\nI first learned about this phenomenon in a psychology class at university. Today, when I feel it in action, I mutter 'Baader-Meinhof' under my breath. It helps me notice what I'm noticing, and the knowledge that my brain is primed for recognition dispels the feeling that I'm being sent some coded, mystical message – musical or otherwise.\nDisponível em: https://psyche.co/notes-to-self/when-a-newly-learned-word-or-name-seems-to-follow-you-around Acesso em: 02 Out 2025.\n\nSegundo o texto, o que é o fenômeno de Baader-Meinhof?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A tendência de esquecermos informações importantes logo após aprendê-las."
+        },
+        {
+          "letra": "B",
+          "texto": "A sensação de ver ou ouvir algo repetidamente após tomar conhecimento disso."
+        },
+        {
+          "letra": "C",
+          "texto": "A dificuldade de identificar padrões em informações aparentemente aleatórias."
+        },
+        {
+          "letra": "D",
+          "texto": "O processo de aprender algo novo e imediatamente encontrar uma forma de aplicá-lo."
+        },
+        {
+          "letra": "E",
+          "texto": "A identificação de padrões em informações aparentemente aleatórias."
+        }
+      ],
+      "opcaoCorreta": "B",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Can the US government ban apps that track ICE agents?\n3 October 2025\nNick Beake & Joshua Cheetham, BBC Verify in Washington\n\nThe US government and law enforcement agencies have hit out at developers and users of apps which track Immigration and Customs Enforcement (ICE), arguing they threaten the lives of agents.\nThe FBI says the man who targeted an ICE facility in Dallas - killing two detainees - had used these types of apps to track the movements of agents and their vehicles.\nA tracking app downloaded more than a million times that shows the movements of immigration officers was removed from Apple's App Store on Thursday.\nICE Block was released in April following the Trump administration's crackdown on illegal immigration. The creator of the app told the BBC that Apple was \"capitulating to an authoritarian regime\".\nThe White House and the FBI had argued the app put the lives of law enforcement at risk.\nSpecial Agent Joseph Rothrock said: \"It's no different than giving a hitman the location of their intended target\" - a claim which has been disputed by the developer of one of the most popular apps.\nBBC Verify has been looking at what the apps do and the potential impact they are having.\nDisponível em: https://www.bbc.com/news/articles/c2lxwxnnx2zo. Acesso em: 04 Out 2025.\n\nA declaração do agente especial Joseph Rothrock, comparando os aplicativos a \"It's no different than giving a hitman the location of their intended target\", tem como objetivo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "justificar a necessidade de manter os apps em funcionamento."
+        },
+        {
+          "letra": "B",
+          "texto": "minimizar o perigo que os aplicativos representam."
+        },
+        {
+          "letra": "C",
+          "texto": "reforçar a ideia de que os aplicativos colocam vidas em risco."
+        },
+        {
+          "letra": "D",
+          "texto": "sugerir que os apps não têm impacto real sobre a segurança."
+        },
+        {
+          "letra": "E",
+          "texto": "destacar que os desenvolvedores não têm responsabilidade moral."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "The Smashing Machine\n\nDwayne Johnson is synonymous with megabudget blockbusters, but he gets to prove himself as a serious actor in The Smashing Machine, a brooding indie biopic written and directed by Benny Safdie (the co-director of Good Time and Uncut Gems). Johnson stars as Mark Kerr, a mixed martial artist who won tournaments in the early days of the sport, before it became the global sensation it is today. As much as he revels in punching and kicking his opponents to a bloody pulp, the bouts take their toll on his physical and mental health, and he is soon fighting addiction as well as fighting other people. Emily Blunt co-stars as Kerr's girlfriend. \"It's a film that feels gloriously alive,” writes Hannah Strong in Little White Lies, \"earnest in its depiction of masculinity that is fragile rather than toxic while still grappling with the question of why anyone would choose to make a living in such a barbaric way.\"\nReleased internationally from 2 October\nDisponível em: https://www.bbc.com/culture/article/20251001-12-of-the-best-films-to-watch-this-october. Acesso em: 04 Out 2025.\n\nA expressão \"before it became the global sensation it is today\" refere-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à popularidade atual das artes marciais mistas em todo o mundo."
+        },
+        {
+          "letra": "B",
+          "texto": "ao declínio dos torneios no passado."
+        },
+        {
+          "letra": "C",
+          "texto": "à perda de interesse por esportes violentos."
+        },
+        {
+          "letra": "D",
+          "texto": "à influência dos filmes de Hollywood no público global."
+        },
+        {
+          "letra": "E",
+          "texto": "ao desaparecimento das artes marciais como carreira profissional."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "Considerando a imagem da charge, a crítica central está relacionada a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o impacto dos data centers de inteligência artificial sobre os ecossistemas naturais, especialmente quanto ao uso intensivo de água e energia na região em que são instalados."
+        },
+        {
+          "letra": "B",
+          "texto": "à ameaça representada pela substituição completa da agricultura pela produção energética limpa, retratada como inevitável."
+        },
+        {
+          "letra": "C",
+          "texto": "à dependência da sociedade em orientações de ferramentas digitais, evidenciando a incapacidade de agir sem tecnologia, mas que pode favorecer o meio ambiente."
+        },
+        {
+          "letra": "D",
+          "texto": "à desvalorização da produção agrícola frente ao aumento do consumo urbano, retratada como um fenômeno natural e irreversível."
+        },
+        {
+          "letra": "E",
+          "texto": "à associação da inteligência artificial com benefícios ambientais, simbolizada pela harmonização entre agricultura, energia limpa e consumo tecnológico."
+        }
+      ],
+      "opcaoCorreta": "A",
+      "conteudo": [
+        "Inglês – Interpretação de Texto",
+        "Inglês – Análise de Charge"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Record everything!\n\nWhy is our memory so valuable to us? Beyond its obvious role for survival, let us focus on three key aspects: first, we take pleasure in remembering and reminiscing. Second, our memories help us understand ourselves, others and our place in the world. Third, our memories play a crucial role for personal identity: who we are as persons is determined by our memories. These constitute our selves, so you are literally made, in part, of your memories. Our memories are valuable because they help make us who we are as individuals. [...]\nConsider current memory enhancement practices: why do we keep chatlogs, take pictures or write diaries at all? Of course reasons are plentiful: journaling can serve reflection; picture-taking has an artistic component; habit and device presets may play a role, etc. But we clearly value our records in large part because they enhance our memory. Our memory is valuable and this value is promoted by the records that enhance it.\nhttps://aeon.co/essays/if-memory-is-precious-to-you-then-go-ahead-and-record-everything Acesso em 02/10/2025\n\nCom base no texto, a que se deve o valor de nossas memórias?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Elas servem para que possamos armazenar grandes volumes de informação e dados."
+        },
+        {
+          "letra": "B",
+          "texto": "Elas servem para nos ajudar a manter controle de nossas tarefas diárias."
+        },
+        {
+          "letra": "C",
+          "texto": "Nossas memórias constituem uma parte crucial na formação de nossa identidade."
+        },
+        {
+          "letra": "D",
+          "texto": "As memórias são importantes para nossa tomada de decisão rápida."
+        },
+        {
+          "letra": "E",
+          "texto": "A seletividade de nossa memória nos ajuda a lidar com traumas."
+        }
+      ],
+      "opcaoCorreta": "C",
+      "conteudo": [
+        "Inglês – Interpretação de Texto"
+      ]
+    }
+  ]
+}
