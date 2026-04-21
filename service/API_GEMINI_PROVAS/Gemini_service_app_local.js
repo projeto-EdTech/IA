@@ -3,43 +3,10 @@ import path from "path";
 import "dotenv/config";
 import { GoogleGenAI } from "@google/genai";
 
-// Inicialização da API usando a chave do arquivo .env
 const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 
-// Função para upload de ARQUIVOS LOCAIS, com logging similar ao seu exemplo
-async function uploadRemotePDF(url, displayName) {
-    const pdfBuffer = await fetch(url)
-        .then((response) => response.arrayBuffer());
+const sleep = (ms) => new Promise((resolve) => setTimeout(resolve, ms));
 
-    const fileBlob = new Blob([pdfBuffer], { type: 'application/pdf' });
-
-    const file = await ai.files.upload({
-        file: fileBlob,
-        config: {
-            displayName: displayName,
-        },
-    });
-
-    // Wait for the file to be processed.
-    let getFile = await ai.files.get({ name: file.name });
-    while (getFile.state === 'PROCESSING') {
-        getFile = await ai.files.get({ name: file.name });
-        console.log(`current file status: ${getFile.state}`);
-        console.log('File is still processing, retrying in 5 seconds');
-
-        await new Promise((resolve) => {
-            setTimeout(resolve, 5000);
-        });
-    }
-    if (file.state === 'FAILED') {
-        throw new Error('File processing failed.');
-    }
-
-    return file;
-}
-
-
-// O JSON Schema que define a estrutura da função para a IA
 const jsonSchema = {
   type: "object",
   properties: {
@@ -93,184 +60,365 @@ const jsonSchema = {
   ],
 };
 
+// Etapa 1: Discovery (Cabeçalho)
+async function getMetadata(fileData1, fileData2) {
+  console.log("\n--- Iniciando Discovery ---");
+  const prompt = `
+Você é um assistente de IA especialista em provas de vestibular.
+Analise a prova fornecida e o respectivo gabarito. Extraia as seguintes informações gerais e retorne em JSON:
+- Nome completo da Universidade/Instituição (nomeUniversidade)
+- Sigla da Universidade/Instituição (siglaUniversidade)
+- Nome do Exame ou Vestibular (nomeProva)
+- Ano da prova (ano)
+- Quantidade total de questões numeradas na prova (qtdeQuestoes)
+  `;
 
-async function main() {
-    const prompt = [
-    { text: `
-Você é um assistente de IA especialista em análise de provas de vestibulares. Sua única função é processar o arquivo PDF de uma prova e seu respectivo gabarito oficial.
+  const contents = [
+    {
+      role: "user",
+      parts: [
+        { text: prompt },
+        { inlineData: fileData1 },
+        { inlineData: fileData2 },
+      ],
+    },
+  ];
 
-Sua tarefa é ler e interpretar cada questão da prova e extrair as seguintes informações:
-- Análise Geral da Prova: O nome da Universidade/Prova, o ano e a quantidade total de questões.
-- Para cada questão:
-    - O número da questão.
-    - O enunciado completo, incluindo qualquer texto associado a imagens, gráficos ou tabelas.
-    - A lista de todas as alternativas (A, B, C, D, E).
-    - A letra da alternativa correta, que deve ser extraída do arquivo de gabarito.
-    - O(s) conteúdo(s) abordados na questão no formato: "Disciplina – Tópico Específico" (exemplo: "Matemática – Funções do 1º grau").
+  const response = await ai.models.generateContent({
+    model: "gemini-2.5-flash",
+    contents: contents,
+    generationConfig: {
+      temperature: 0.1,
+      maxOutputTokens: 20000,
+    },
+    tools: [
+      {
+        functionDeclarations: [
+          {
+            name: "extrair_dados_prova",
+            description:
+              "Extrai os dados estruturados de uma prova e seu gabarito.",
+            parameters: jsonSchema,
+          },
+        ],
+      },
+    ],
+    safetySettings: [
+      { category: "HARM_CATEGORY_HARASSMENT", threshold: "BLOCK_NONE" },
+      { category: "HARM_CATEGORY_HATE_SPEECH", threshold: "BLOCK_NONE" },
+      { category: "HARM_CATEGORY_SEXUALLY_EXPLICIT", threshold: "BLOCK_NONE" },
+      { category: "HARM_CATEGORY_DANGEROUS_CONTENT", threshold: "BLOCK_NONE" },
+    ],
+  });
+
+  let metadata;
+  const candidates = response.candidates;
+  if (
+    candidates &&
+    candidates[0] &&
+    candidates[0].content.parts[0].functionCall
+  ) {
+    metadata = candidates[0].content.parts[0].functionCall.args;
+  } else {
+    const textResp = candidates[0].content.parts[0].text;
+    const match = textResp.match(/\{[\s\S]*\}/);
+    if (match) metadata = JSON.parse(match[0]);
+  }
+
+  if (!metadata) throw new Error("Falha ao extrair metadata");
+
+  console.log("Metadata obtido com sucesso:", metadata);
+  return metadata;
+}
+
+// Etapa 3: Worker Recursivo
+async function processWorker(fileData1, fileData2, inicio, fim, step = 10) {
+  if (inicio > fim) return;
+
+  const atualFim = Math.min(inicio + step - 1, fim);
+  const tempDir = path.join(process.cwd(), "Temp");
+  if (!fs.existsSync(tempDir)) fs.mkdirSync(tempDir, { recursive: true });
+
+  const tempFile = path.join(tempDir, `temp_q${inicio}_${atualFim}.json`);
+
+  // Persistência (Checkpoint)
+  if (fs.existsSync(tempFile)) {
+    console.log(
+      `[Worker] Arquivo ${tempFile} já existe (Checkpoint). Avançando...`,
+    );
+    return processWorker(fileData1, fileData2, atualFim + 1, fim, step);
+  }
+
+  const prompt = `
+Você é um assistente de IA especialista em análise de provas de vestibulares. Sua única função é processar os arquivos locais de uma prova e seu gabarito oficial.
+
+Nesta etapa, extraia EXATAMENTE das questões ${inicio} até a ${atualFim} e estruture conforme o JSON Schema.
+
+Para cada questão no intervalo solicitado:
+- O número da questão (numeroEnunciado).
+- O enunciado completo da questão. Textos de apoio devem ser incluídos.
+- A lista de todas as alternativas (A, B, C, D, E).
+- A letra da alternativa correta, que deve ser extraída do gabarito.
+- O(s) conteúdo(s) abordados no formato: "Disciplina – Tópico Específico" (ex: "Matemática – Funções do 1º grau"). As disciplinas permitidas são: "Língua Portuguesa", "Matemática", "Inglês", "Arte", "Física", "Química", "Biologia", "História", "Geografia", "Filosofia", "Sociologia". Se a questão não pertencer a nenhuma dessas, ignore-a.
 
 ### **Regras Críticas de Processamento:**
 
-1.  **Transcrição de Fórmulas para LaTeX (JSON-Safe)**: Ao encontrar qualquer fórmula, equação, ou símbolo matemático/científico, você **deve** transcrevê-lo para o formato LaTeX, garantindo que seja seguro para inclusão em um arquivo JSON.
-    * Isso significa que **toda barra invertida (\)** nos comandos LaTeX deve ser escapada com uma segunda barra invertida (\\).
-    * **Exemplo**: A fórmula visual $$\sin \theta_L = \frac{n_2}{n_1}$$ deve ser transcrita no enunciado como $\\sin \\theta_L = \\frac{n_2}{n_1}$.
+1.  **Transcrição de Fórmulas para LaTeX (JSON-Safe)**: Ao encontrar fórmulas ou símbolos matemáticos, você **deve** transcrevê-los para o formato LaTeX.
+    * **Toda barra invertida (\)** nos comandos LaTeX deve ser dupla (\\) para escapar.
+    * Exemplo: $\\vec{F}_{res} = m \\cdot \\vec{a}$ ou $\\frac{n_2}{n_1}$.
 
 2.  **Uso de Delimitadores LaTeX**:
-    * Use $ ... $ (com os comandos internos devidamente escapados, ex: $\\theta$) para fórmulas que aparecem no meio de uma linha de texto (inline).
-    * Use $$...$$ (com os comandos internos devidamente escapados, ex: $$\\frac{a}{b}$$) para fórmulas que devem ocupar sua própria linha e ser centralizadas (display/bloco).
+    * Use $ ... $ para fórmulas no meio de uma linha de texto.
+    * Use $$...$$ para fórmulas centralizadas (bloco).
 
-3.  **Tratamento de Texto de Elementos Visuais**: Embora a imagem, gráfico ou tabela em si deva ser ignorado, qualquer texto associado a ele (como legendas, fontes, títulos ou dados textuais) **deve ser transcrito** e incluído como parte do campo 'enunciado'.
+3.  **Ignorar Outros Elementos Visuais**: Imagens, gráficos e tabelas genéricas que não sejam as alternativas devem ser completamente ignorados (nenhum placeholder). Qualquer texto associado a imagens (legendas) deve ser transcrito no enunciado.
 
-4.  **Alternativas em Formato de Tabela**: Se as alternativas de uma questão (A, B, C, D, E) forem apresentadas dentro de uma estrutura de tabela, o campo 'alternativas' para essa questão específica deve ser retornado como null. O resto dos dados da questão deve ser extraído normalmente.
+4.  **Alternativas em Formato de Tabela**: Se as alternativas de uma questão (A, B, C, D, E) estiverem em uma estrutura de tabela, o campo 'alternativas' para essa questão deve ser null. O resto da questão prossegue normal.
+`;
 
-### **Importante:**
-A disciplina deve ser exclusivamente uma das seguintes: "Língua Portuguesa", "Matemática", "Inglês", "Arte", "Física", "Química", "Biologia", "História", "Geografia", "Filosofia" ou "Sociologia". Não utilize nenhuma outra. Caso a questão não pertença a uma dessas três disciplinas, ignore-a e não a inclua no resultado.
-O primeiro PDF anexado contém a prova e o segundo PDF contém o gabarito oficial. Você deve extrair as informações de ambos os arquivos, para relacionar os dados.
-A saída final deve ser estritamente um único objeto JSON puro, sem explicações, comentários, ou formatações extras como blocos de código. Siga o schema da função fornecida com exatidão, não altere nenhum nome dos campos do jsonschema apresentado.
-Além disto você é ABSOLUTUTAMENTE CRÍTICO que os argumentos que você fornecer à função 'extrair_dados_prova' sigam EXATAMENTE o JSON Schema que lhe foi dado, sem quaisquer variações nos nomes dos campos ou nos tipos de dados.
-
-Especificamente, garanta que:
-- Os campos iniciais do JSON devem ser 'nomeUniversidade', 'siglaUniversidade', 'nomeProva', 'ano' e 'qtdeQuestoes'.
-- O array de questões seja 'questoes'.
-- Cada objeto dentro do array 'questoes' tenha os campos:
-    - 'numeroEnunciado' (NÃO 'numeroQuestao').
-    - 'enunciado'.
-    - 'alternativas' seja um ARRAY de objetos (NÃO um objeto simples), onde cada objeto tem 'letra' e 'texto'.
-    - 'opcaoCorreta'.
-    - 'conteudo' (NÃO 'conteudoAbordado') seja um ARRAY de strings (NÃO uma string simples).
-
-Não crie ou modifique nenhum nome de campo. Respeite os tipos de dados e a estrutura de array/objeto conforme o JSON Schema da ferramenta.
-    `},
-    { inlineData: {
-        mimeType: 'application/pdf',
-        data: Buffer.from(fs.readFileSync("docs_a_processar/Puccamp/2026/Prova.pdf")).toString("base64")}
+  const contents = [
+    {
+      role: "user",
+      parts: [
+        { text: prompt },
+        { inlineData: fileData1 },
+        { inlineData: fileData2 },
+      ],
     },
-    { inlineData: {
-        mimeType: 'application/pdf',
-        data: Buffer.from(fs.readFileSync("docs_a_processar/Puccamp/2026/Gabarito.pdf")).toString("base64")}
-    }
-    ];
+  ];
 
+  let success = false;
+  let attempt = 0;
+  const maxRetries = 3;
+  let delay = 5000;
+
+  while (attempt < maxRetries && !success) {
+    console.log(
+      `[Worker ${inicio}-${fim}] Requisitando questões ${inicio} a ${atualFim} (Tentativa ${attempt + 1} de ${maxRetries})...`,
+    );
     try {
-        console.log("Iniciando upload e processamento dos arquivos locais...");
-        console.log("Uploads e processamento dos PDFs concluídos.");
-
-        // Estrutura do 'contents' idêntica à do seu exemplo
-        const contents = [{
-            role: "user",
-            parts: prompt
-        }];
-
-        console.log("Enviando requisição para a IA...");
-        console.time("Processamento de Conteúdo Gemini");
-
-        // Chamada da API usando `tools` (Function Calling)
-        const result = await ai.models.generateContent({
-            model: 'gemini-2.5-flash',
-            contents: contents,
-            generationConfig: {
-                temperature: 0.2,
-                maxOutputTokens: 8192,
-            },
-            tools: [{
-                functionDeclarations: [{
-                    name: "extrair_dados_prova",
-                    description: "Extrai os dados estruturados de uma prova e seu gabarito.",
-                    parameters: jsonSchema,
-                }],
-            }],
-            safetySettings: [
-                {
-                    category: 'HARM_CATEGORY_HARASSMENT',
-                    threshold: 'BLOCK_NONE',
-                },
-                {
-                    category: 'HARM_CATEGORY_HATE_SPEECH',
-                    threshold: 'BLOCK_NONE',
-                },
-                {
-                    category: 'HARM_CATEGORY_SEXUALLY_EXPLICIT',
-                    threshold: 'BLOCK_NONE',
-                },
-                {
-                    category: 'HARM_CATEGORY_DANGEROUS_CONTENT',
-                    threshold: 'BLOCK_NONE',
-                },
+      const response = await ai.models.generateContent({
+        model: "gemini-2.5-flash",
+        contents: contents,
+        generationConfig: {
+          temperature: 0.2,
+          maxOutputTokens: 20000,
+        },
+        tools: [
+          {
+            functionDeclarations: [
+              {
+                name: "extrair_dados_prova",
+                description:
+                  "Extrai os dados estruturados de uma prova e seu gabarito.",
+                parameters: jsonSchema,
+              },
             ],
-        });
-        console.timeEnd("Processamento de Conteúdo Gemini");
-        console.log("Resposta recebida. Processando JSON...");
+          },
+        ],
+        safetySettings: [
+          { category: "HARM_CATEGORY_HARASSMENT", threshold: "BLOCK_NONE" },
+          { category: "HARM_CATEGORY_HATE_SPEECH", threshold: "BLOCK_NONE" },
+          {
+            category: "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+            threshold: "BLOCK_NONE",
+          },
+          {
+            category: "HARM_CATEGORY_DANGEROUS_CONTENT",
+            threshold: "BLOCK_NONE",
+          },
+        ],
+      });
 
-        const response = result;
+      let parsedData;
+      const candidates = response.candidates;
+      if (
+        candidates &&
+        candidates[0] &&
+        candidates[0].content.parts[0].functionCall
+      ) {
+        parsedData = candidates[0].content.parts[0].functionCall.args;
+      } else {
+        const textResp = candidates[0].content.parts[0].text;
+        const match = textResp.match(/\{[\s\S]*\}/);
+        if (match) parsedData = JSON.parse(match[0]);
+      }
 
-        if (!response || !response.candidates || response.candidates.length === 0) {
-            console.error("FALHA CRÍTICA: A resposta da API não contém 'candidates' ou o array está vazio.");
-            const logContent = `A resposta da API foi recebida, mas estava vazia ou foi bloqueada.\n\n--- Resposta Bruta Completa (Necessária para Diagnóstico) ---\n${JSON.stringify(result, null, 2)}`;
-            // Tenta salvar o log em um arquivo de erro, com seu próprio tratamento de erro de permissão.
-            try {
-                const logsDir = path.join(process.cwd(), "Erros");
-                if (!fs.existsSync(logsDir)) {
-                    fs.mkdirSync(logsDir, { recursive: true });
-                }
-                const timestamp = new Date().toISOString().replace(/:/g, '-');
-                const logFilePath = path.join(logsDir, `erro_resposta${timestamp}.txt`);
-                fs.writeFileSync(logFilePath, logContent, "utf-8");
-                console.error(`>>> Detalhes da falha salvos em: ${logFilePath}`);
-            } catch (fileError) {
-                console.error("ERRO ADICIONAL: Não foi possível escrever o arquivo de log. Verifique as permissões da pasta.", fileError.message);
-            }
-            
-            return; // Encerra a execução da função para evitar o erro principal.
-        }
+      if (!parsedData)
+        throw new Error(
+          "A resposta não veio com chamadas de ferramentas ou fallback legível",
+        );
 
-        const responseParts = response.candidates[0].content.parts;
-        let jsonData;
+      const questoesExtraidas = parsedData.questoes || [];
 
-        // Lógica de extração do JSON: primariamente do 'functionCall', com fallback para texto
-        if (responseParts && responseParts[0] && responseParts[0].functionCall) {
-            jsonData = responseParts[0].functionCall.args;
-            console.log("JSON extraído do functionCall (método primário).");
-        } else {
-            console.warn("WARN: A resposta não veio como functionCall. Tentando extrair do texto (fallback).");
-            const responseTextContent = responseParts[0]?.text || '';
-            try {
-                // Tenta extrair um objeto JSON da string de texto
-                const match = responseTextContent.match(/\{[\s\S]*\}/);
-                if (match && match[0]) {
-                    jsonData = JSON.parse(match[0]);
-                    console.log("JSON extraído diretamente do texto (fallback bem-sucedido).");
-                } else {
-                    throw new Error("Nenhum objeto JSON ou functionCall encontrado na resposta.");
-                }
-            } catch (e) {
-                // Se a extração falhar, salva a resposta bruta para depuração
-                console.error("FALHA CRÍTICA: Não foi possível processar o JSON da resposta.", e.message);
-
-                const logsDir = path.join(process.cwd(), "Erros");
-                if (!fs.existsSync(logsDir)) {
-                    fs.mkdirSync(logsDir, { recursive: true });
-                }
-                const timestamp = new Date().toISOString().replace(/:/g, '-');
-                const logFilePath = path.join(logsDir, `erro_json_${timestamp}.txt`);
-                const logContent = `Falha ao processar o JSON recebido da API.\n\nMensagem de Erro: ${e.message}\n\n--- Resposta Bruta ---\n${JSON.stringify(response, null, 2)}`;
-                fs.writeFileSync(logFilePath, logContent, "utf-8");
-
-                console.error(`>>> A resposta bruta que causou o erro foi salva em: ${logFilePath}`);
-                return; // Encerra a execução
-            }
-        }
-
-        // Salva o resultado JSON bem-sucedido
-        const resultadosDir = path.join(process.cwd(), "Resultados");
-        if (!fs.existsSync(resultadosDir)) {
-            fs.mkdirSync(resultadosDir);
-        }
-        const filePath = path.join(resultadosDir, "resultado_prova.json");
-        fs.writeFileSync(filePath, JSON.stringify(jsonData, null, 2), "utf-8");
-        console.log(`Arquivo salvo com sucesso em: ${filePath}`);
-
+      fs.writeFileSync(
+        tempFile,
+        JSON.stringify(questoesExtraidas, null, 2),
+        "utf-8",
+      );
+      console.log(
+        `[Worker ${inicio}-${fim}] \u2713 Sucesso! Questões ${inicio} a ${atualFim} salvas.`,
+      );
+      success = true;
     } catch (error) {
-        console.error("Ocorreu um erro inesperado na função main:", error);
+      attempt++;
+      console.error(
+        `[Worker ${inicio}-${fim}] Erro ao processar questões ${inicio}-${atualFim} (Tentativa ${attempt}/${maxRetries}):`,
+        error.message,
+      );
+
+      // Resiliência (Retry) - Exponential Backoff
+      if (attempt < maxRetries) {
+        console.log(
+          `[Worker ${inicio}-${fim}] Aguardando ${delay / 1000} segundos antes de tentar novamente...`,
+        );
+        await sleep(delay);
+        delay *= 2;
+      } else {
+        console.error(
+          `[Worker ${inicio}-${fim}] \u2717 Falha definitiva no bloco ${inicio}-${atualFim} após ${maxRetries} tentativas. Gerando checkpoint vazio para prosseguir.`,
+        );
+        fs.writeFileSync(tempFile, JSON.stringify([], null, 2), "utf-8");
+      }
     }
+  }
+
+  if (atualFim < fim) {
+    console.log(
+      `[Worker ${inicio}-${fim}] Aguardando 1 minuto (rate limit) antes de pedir o próximo bloco...`,
+    );
+    await sleep(60000);
+  }
+
+  // Recursão para o próximo bloco
+  return processWorker(fileData1, fileData2, atualFim + 1, fim, step);
+}
+
+async function main() {
+  console.log("Lendo arquivos locais da prova e gabarito...");
+  
+  const provaPath = "docs_a_processar/Puccamp/2026/Prova.pdf";
+  const gabaritoPath = "docs_a_processar/Puccamp/2026/Gabarito.pdf";
+
+  if (!fs.existsSync(provaPath) || !fs.existsSync(gabaritoPath)) {
+    console.error(`ERRO: Os arquivos locais não foram encontrados nos caminhos especificados:`);
+    console.error(`Prova: ${provaPath}`);
+    console.error(`Gabarito: ${gabaritoPath}`);
+    return;
+  }
+
+  const fileData1 = {
+    mimeType: "application/pdf",
+    data: Buffer.from(fs.readFileSync(provaPath)).toString("base64")
+  };
+  
+  const fileData2 = {
+    mimeType: "application/pdf",
+    data: Buffer.from(fs.readFileSync(gabaritoPath)).toString("base64")
+  };
+
+  console.log("Leitura concluída.");
+
+  // Executa Discovery
+  let metadata;
+  try {
+    metadata = await getMetadata(fileData1, fileData2);
+  } catch (err) {
+    console.error("Erro fatal na etapa de Discovery:", err);
+    return;
+  }
+
+  const qtdeQuestoes = metadata.qtdeQuestoes;
+  if (!qtdeQuestoes || qtdeQuestoes <= 0) {
+    console.error(
+      "Quantidade de questões inválida retornada no Discovery:",
+      qtdeQuestoes,
+    );
+    return;
+  }
+
+  console.log("\n-> Aguardando 1 minuto (rate limit) após a requisição do Cabeçalho (Discovery) para estabilizar a cota da API...");
+  await sleep(60000);
+
+  // Etapa 2: Orquestrador Dinâmico
+  const numFilas = 3;
+  const questoesPorFila = Math.ceil(qtdeQuestoes / numFilas);
+
+  const limites = [];
+  for (let i = 0; i < numFilas; i++) {
+    const inicioFila = i * questoesPorFila + 1;
+    const fimFila = Math.min((i + 1) * questoesPorFila, qtdeQuestoes);
+    if (inicioFila <= qtdeQuestoes) {
+      limites.push({ inicio: inicioFila, fim: fimFila });
+    }
+  }
+
+  console.log("\n--- Iniciando Extração Paralela ---");
+  console.log(
+    `Total de questões: ${qtdeQuestoes}. Dividido em ${limites.length} filas:`,
+  );
+  limites.forEach((l, idx) =>
+    console.log(`Fila ${idx + 1}: ${l.inicio} a ${l.fim}`),
+  );
+
+  const tempDir = path.join(process.cwd(), "Temp");
+  if (!fs.existsSync(tempDir)) fs.mkdirSync(tempDir, { recursive: true });
+
+  // Disparar workers em paralelo (Promise.all)
+  const promises = limites.map((limite) =>
+    processWorker(fileData1, fileData2, limite.inicio, limite.fim, 10),
+  );
+  await Promise.all(promises);
+
+  // Etapa 4: Unificação (Merge)
+  console.log("\n--- Iniciando Merge (Unificação) ---");
+  let questoesFinais = [];
+
+  const files = fs
+    .readdirSync(tempDir)
+    .filter((f) => f.startsWith("temp_q") && f.endsWith(".json"));
+  files.sort((a, b) => {
+    const matchA = a.match(/temp_q(\d+)_/);
+    const matchB = b.match(/temp_q(\d+)_/);
+    return (
+      (matchA ? parseInt(matchA[1], 10) : 0) -
+      (matchB ? parseInt(matchB[1], 10) : 0)
+    );
+  });
+
+  for (const f of files) {
+    try {
+      const data = JSON.parse(fs.readFileSync(path.join(tempDir, f), "utf-8"));
+      if (Array.isArray(data)) {
+        questoesFinais = questoesFinais.concat(data);
+      }
+    } catch (err) {
+      console.error(`Erro ao ler arquivo temp: ${f}`, err);
+    }
+  }
+
+  // Ordenar numericamente para evitar qualquer dessincronização
+  questoesFinais.sort((a, b) => a.numeroEnunciado - b.numeroEnunciado);
+
+  const jsonResult = {
+    nomeUniversidade: metadata.nomeUniversidade,
+    siglaUniversidade: metadata.siglaUniversidade,
+    nomeProva: metadata.nomeProva,
+    ano: metadata.ano,
+    qtdeQuestoes: metadata.qtdeQuestoes,
+    questoes: questoesFinais,
+  };
+
+  const resultadosDir = path.join(process.cwd(), "Resultados");
+  if (!fs.existsSync(resultadosDir)) {
+    fs.mkdirSync(resultadosDir, { recursive: true });
+  }
+
+  const resultPath = path.join(resultadosDir, "resultado_local.json");
+  fs.writeFileSync(resultPath, JSON.stringify(jsonResult, null, 2), "utf-8");
+  console.log(
+    `\n\u2713 Processo finalizado com sucesso! Arquivo consolidado em: ${resultPath}`,
+  );
 }
 
 main();

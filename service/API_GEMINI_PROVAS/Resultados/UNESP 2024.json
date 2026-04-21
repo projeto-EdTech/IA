@@ -1,0 +1,2331 @@
+{
+  "nomeUniversidade": "Universidade Estadual Paulista",
+  "siglaUniversidade": "Unesp",
+  "nomeProva": "Vestibular 2024 - Prova de Conhecimentos Gerais",
+  "ano": 2024,
+  "qtdeQuestoes": 90,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Para responder às questões de 01 a 05, leia a crônica \"Despedida\", de Carlos Drummond de Andrade (1902-1987), publicada originalmente no Jornal do Brasil em 05.06.1971, e a resposta de Edson Arantes do Nascimento (1940-2022), o Pelé, publicada no mesmo jornal em 29.06.1971.\n\nPelé despede-se em julho da Seleção Brasileira. Decidiu, está decidido. Querem que ele continue, mas sua educação esportiva se dilata em educação moral, e Pelé dá muito apreço à sua palavra. Se atender aos apelos, ficará bem com todo o mundo e mal consigo. Pelé não quer brigar com Pelé. Não abandonará de todo o futebol, pois continuará jogando pelo seu clube. Não vejo contradição nisto. Faz como um grande proprietário de terras, que trocasse a fazenda pela miniatura de um sítio: continua a ter águas, plantas, criação, a mesma luminosidade das horas — menos a imensidão, que acaba cansando. Ou como o leitor de muitos livros, que passasse a ler um só que contém o resumo de tudo. Pelé quer cultivar sua vida a seu gosto, ele que a vivia tanto ao gosto dos outros. Sua municipalização voluntária me encanta. Não é só pelo ato de sabedoria, que é sair antes que exijam a nossa saída. Uma atitude destas indica mais cautela do que desprendimento. É pelo ato de escolha — de escolher o mais simples, envolvendo renúncia e gentileza. As massas brasileiras e internacionais não poderão chamá-lo de ingrato, pois continuarão a vê-lo, aqui e no estrangeiro, em seu jogo de astúcia e arte. Mas ele passará a jogar como particular, um famoso incógnito, que não aspira às glórias de um quarto campeonato mundial. E com isso, dará lugar a outro, ou a outros, que por mais que caprichassem ficavam sempre um tanto encobertos pela sombra de Pelé — a sombra de que espontaneamente se desfaz. Bela jogada, a sua: a de não jogar como campeão, sendo campeoníssimo.\n(Carlos Drummond de Andrade. Quando é dia de futebol, 2014.)\n\nEstou comovido. Entre tantas coisas que dizem a meu respeito, generosas ou menos boas, suas palavras tiveram a rara virtude de se lembrarem do homem, da pessoa humana que quero ser, demonstrando compreensão e carinho por essa condição fundamental. Recortei sua crônica, não porque fala de mim, mas porque traduz, no primor de seu estilo, um apoio que me incentiva e me conforta.\n(Pelé apud Carlos Drummond de Andrade. Quando é dia de futebol, 2014.)\n\nDe acordo com Drummond, Pelé",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "contribuiria para a educação moral dos brasileiros, se renunciasse à sua vida pessoal."
+        },
+        {
+          "letra": "B",
+          "texto": "seria chamado de ingrato, se trocasse seu clube pela Seleção Brasileira."
+        },
+        {
+          "letra": "C",
+          "texto": "deveria priorizar sua vida pessoal, abandonando definitivamente o futebol."
+        },
+        {
+          "letra": "D",
+          "texto": "ficaria mal consigo mesmo, se atendesse aos apelos da torcida brasileira."
+        },
+        {
+          "letra": "E",
+          "texto": "poderia jogar em seu clube, sem precisar abandonar a Seleção Brasileira."
+        }
+      ],
+      "correta": "D",
+      "conteudos": [
+        "Língua Portuguesa – Interpretação de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "No contexto da crônica, referem-se à Seleção Brasileira, em termos figurados, as seguintes expressões:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"grande proprietário de terras\" e \"leitor de muitos livros\"."
+        },
+        {
+          "letra": "B",
+          "texto": "\"fazenda\" e \"imensidão”."
+        },
+        {
+          "letra": "C",
+          "texto": "\"miniatura\" e \"resumo\"."
+        },
+        {
+          "letra": "D",
+          "texto": "\"fazenda\" e \"sítio\"."
+        },
+        {
+          "letra": "E",
+          "texto": "\"miniatura\" e \"imensidão”."
+        }
+      ],
+      "correta": "B",
+      "conteudos": [
+        "Língua Portuguesa – Interpretação de texto",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Em sua resposta, Pelé mostra-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "constrangido por ter sido objeto de uma crônica de um dos maiores escritores brasileiros."
+        },
+        {
+          "letra": "B",
+          "texto": "emocionado pelo fato de Drummond ter enaltecido sua grandeza como jogador."
+        },
+        {
+          "letra": "C",
+          "texto": "sensibilizado pelo fato de Drummond ter sabido separar o homem do esportista."
+        },
+        {
+          "letra": "D",
+          "texto": "consternado por Drummond ter deliberadamente ignorado sua vida pessoal."
+        },
+        {
+          "letra": "E",
+          "texto": "surpreso pelo fato de Drummond evitar demovê-lo de sua decisão de abandonar o futebol."
+        }
+      ],
+      "correta": "C",
+      "conteudos": [
+        "Língua Portuguesa – Interpretação de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Do ponto de vista semântico, opõem-se os termos que compõem a seguinte expressão:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"famoso incógnito\" (Drummond)."
+        },
+        {
+          "letra": "B",
+          "texto": "\"pessoa humana\" (Pelé)."
+        },
+        {
+          "letra": "C",
+          "texto": "\"condição fundamental\" (Pelé)."
+        },
+        {
+          "letra": "D",
+          "texto": "\"rara virtude\" (Pelé)."
+        },
+        {
+          "letra": "E",
+          "texto": "\"educação moral” (Drummond)."
+        }
+      ],
+      "correta": "A",
+      "conteudos": [
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "• \"Ou como o leitor de muitos livros, que passasse a ler um só que contém o resumo de tudo.\" (Drummond)\n• \"E com isso, dará lugar a outro, ou a outros, que por mais que caprichassem ficavam sempre um tanto encobertos pela sombra de Pelé a sombra de que espontaneamente se desfaz.\" (Drummond)\nOs termos sublinhados referem-se, respectivamente, a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"livros\" e \"Pelé”."
+        },
+        {
+          "letra": "B",
+          "texto": "\"um\" e \"sombra\"."
+        },
+        {
+          "letra": "C",
+          "texto": "\"livros\" e \"sombra\"."
+        },
+        {
+          "letra": "D",
+          "texto": "\"um\" e \"Pelé”."
+        },
+        {
+          "letra": "E",
+          "texto": "\"leitor\" e \"Pelé”."
+        }
+      ],
+      "correta": "B",
+      "conteudos": [
+        "Língua Portuguesa – Interpretação de texto",
+        "Língua Portuguesa – Morfossintaxe"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Examine a tirinha da cartunista Laerte.\n\nNa construção de sua tirinha, Laerte mobiliza fundamentalmente o seguinte recurso expressivo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "hipérbole."
+        },
+        {
+          "letra": "B",
+          "texto": "redundância."
+        },
+        {
+          "letra": "C",
+          "texto": "ambiguidade."
+        },
+        {
+          "letra": "D",
+          "texto": "intertextualidade."
+        },
+        {
+          "letra": "E",
+          "texto": "eufemismo."
+        }
+      ],
+      "correta": "D",
+      "conteudos": [
+        "Língua Portuguesa – Intertextualidade",
+        "Língua Portuguesa – Leitura de tirinhas"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Para responder às questões 07 e 08, leia a letra da canção \"Foi um rio que passou em minha vida\", de Paulinho da Viola, gravada em 1970.\n\nSe um dia\nMeu coração for consultado\nPara saber se andou errado\nSerá difícil negar\nMeu coração tem mania de amor\nAmor não é fácil de achar\nA marca dos meus desenganos ficou, ficou\nSó um amor pode apagar\n\nPorém\nHá um caso diferente\nQue marcou um breve tempo\nMeu coração para sempre\nEra dia de carnaval\nEu carregava uma tristeza\nNão pensava em novo amor\nQuando alguém que não me lembro anunciou\nPortela $^{1}$, Portela\nO samba trazendo alvorada\nMeu coração conquistou\n\nAh, minha Portela\nQuando vi você passar\nSenti meu coração apressado\nTodo o meu corpo tomado\nMinha alegria a voltar\nNão posso definir aquele azul\nNão era do céu\nNem era do mar\nFoi um rio que passou em minha vida\nE meu coração se deixou levar\n(www.paulinhodaviola.com.br)\n$^{1}$ Grêmio Recreativo Escola de Samba Portela (ou simplesmente Portela): escola de samba brasileira da cidade do Rio de Janeiro que adota como símbolo a águia e as cores azul e branco.\n\nNa canção, o eu lírico",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "tem consciência de que a Portela também se caracteriza como um novo desengano."
+        },
+        {
+          "letra": "B",
+          "texto": "acredita que um novo amor, por se assemelhar a um rio, mostra-se volúvel."
+        },
+        {
+          "letra": "C",
+          "texto": "acredita que um novo amor seja capaz de apagar uma antiga desilusão amorosa."
+        },
+        {
+          "letra": "D",
+          "texto": "tem consciência de que a Portela, por sua inconstância, será um novo amor efêmero."
+        },
+        {
+          "letra": "E",
+          "texto": "acredita que a Portela, por ser indefinível, não se caracteriza como um novo amor."
+        }
+      ],
+      "correta": "C",
+      "conteudos": [
+        "Língua Portuguesa – Interpretação de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Considerando o contexto em que se insere, está reescrito em ordem direta o seguinte verso da canção:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Meu coração conquistou\" (2ª estrofe) → conquistou meu coração"
+        },
+        {
+          "letra": "B",
+          "texto": "\"Meu coração for consultado\" (1ª estrofe) → for consultado meu coração"
+        },
+        {
+          "letra": "C",
+          "texto": "“Só um amor pode apagar\" (1ª estrofe) → pode apagar só um amor"
+        },
+        {
+          "letra": "D",
+          "texto": "“Há um caso diferente\" (2ª estrofe) → um caso diferente há"
+        },
+        {
+          "letra": "E",
+          "texto": "\"Senti meu coração apressado\" (3ª estrofe) → meu coração senti apressado"
+        }
+      ],
+      "correta": "A",
+      "conteudos": [
+        "Língua Portuguesa – Sintaxe"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Analise o meme publicado pelo perfil \"Classical Damn” no Instagram em 02.07.2021.\n\nRomans: \"Can we copy your god?\"\nGreeks: \"Yeah just change it up a bit so\nit doesn't look obvious you copied\"\nRomans: \"Ok\"\n\nA análise do meme permite caracterizar",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os romanos como extravagantes."
+        },
+        {
+          "letra": "B",
+          "texto": "os gregos como intransigentes."
+        },
+        {
+          "letra": "C",
+          "texto": "os gregos como distraídos."
+        },
+        {
+          "letra": "D",
+          "texto": "os romanos como inventivos."
+        },
+        {
+          "letra": "E",
+          "texto": "os romanos como preguiçosos."
+        }
+      ],
+      "correta": "E",
+      "conteudos": [
+        "História – Cultura Greco-Romana",
+        "Sociologia – Cultura Digital",
+        "Língua Portuguesa – Interpretação de imagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Para responder às questões de 10 a 12, leia a fábula árabe \"Um cachorro e um abutre\", cuja autoria é desconhecida.\n\nCerta feita, um cachorro roubou um naco de carne de um abatedouro e correu em direção ao rio, em cujas águas viu o reflexo do naco de carne, bem maior do que o naco que carregava. Largou-o então, e um abutre desceu e agarrou a carne, enquanto o cachorro corria atrás do naco maior, mas nada encontrou. Retornou para pegar a carne que antes carregava, mas também não a encontrou. Pensou então: “A ilusão me fez perder o bom senso, e acabei sem aquilo que eu já tinha por ir atrás daquilo que eu não alcançaria.\"\n(Mamede Jarouche (org.). Fábulas árabes: do período pré-islâmico ao século XVII, 2021.)\n\nImplícito à fábula está um elogio",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ao altruísmo."
+        },
+        {
+          "letra": "B",
+          "texto": "ao devaneio."
+        },
+        {
+          "letra": "C",
+          "texto": "à resiliência."
+        },
+        {
+          "letra": "D",
+          "texto": "à temperança."
+        },
+        {
+          "letra": "E",
+          "texto": "à ambição."
+        }
+      ],
+      "correta": "D",
+      "conteudos": [
+        "Língua Portuguesa – Interpretação de texto",
+        "Filosofia – Ética"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "\"Pensou então: 'A ilusão me fez perder o bom senso [...].\"\nAo se transpor esse trecho para o discurso indireto, os termos sublinhados assumem, respectivamente, as seguintes formas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"o\" e \"faria\"."
+        },
+        {
+          "letra": "B",
+          "texto": "\"o\" e \"fizera\"."
+        },
+        {
+          "letra": "C",
+          "texto": "\"lhe\" e \"fizesse\"."
+        },
+        {
+          "letra": "D",
+          "texto": "\"te\" e \"faz”."
+        },
+        {
+          "letra": "E",
+          "texto": "\"lhe\" e \"fazia”."
+        }
+      ],
+      "correta": "B",
+      "conteudos": [
+        "Língua Portuguesa – Sintaxe"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "No trecho \"em cujas águas viu o reflexo do naco de carne\", o termo sublinhado pertence à mesma classe gramatical daquele sublinhado em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"mas também não a encontrou\"."
+        },
+        {
+          "letra": "B",
+          "texto": "\"um cachorro roubou um naco de carne\"."
+        },
+        {
+          "letra": "C",
+          "texto": "\"enquanto o cachorro corria atrás do naco maior\"."
+        },
+        {
+          "letra": "D",
+          "texto": "\"Largou-o então\"."
+        },
+        {
+          "letra": "E",
+          "texto": "\"Retornou para pegar a carne\"."
+        }
+      ],
+      "correta": "A",
+      "conteudos": [
+        "Língua Portuguesa – Morfologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Leia o soneto do poeta português Manuel Maria Barbosa du Bocage, para responder às questões de 13 a 16.\n\nOlha, Marília, as flautas dos pastores,\nQue bem que soam, como estão cadentes!\nOlha o Tejo a sorrir-se! Olha: não sentes\nOs Zéfiros$^{1}$ brincar por entre as flores?\n\nVê como ali, beijando-se, os Amores\nIncitam nossos ósculos $^{2}$ ardentes!\nEi-las de planta em planta as inocentes,\nAs vagas borboletas de mil cores!\n\nNaquele arbusto o rouxinol suspira;\nOra nas folhas a abelhinha para.\nOra nos ares, sussurrando, gira.\n\nQue alegre campo! Que manhã tão clara!\nMas ah!, tudo o que vês, se eu não te vira,\nMais tristeza que a noite me causara.\n(Manuel Maria Barbosa du Bocage. Poemas escolhidos, 1974.)\n$^{1}$ Zéfiro: vento que sopra do ocidente.\n$^{2}$ ósculo: beijo.\n\nA paisagem retratada no soneto constitui um tópico recorrente na poesia",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "realista."
+        },
+        {
+          "letra": "B",
+          "texto": "romântica."
+        },
+        {
+          "letra": "C",
+          "texto": "naturalista."
+        },
+        {
+          "letra": "D",
+          "texto": "arcádica."
+        },
+        {
+          "letra": "E",
+          "texto": "simbolista."
+        }
+      ],
+      "correta": "D",
+      "conteudos": [
+        "Língua Portuguesa – Literatura"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "No soneto, a capacidade de transfigurar a paisagem retratada é atribuída pelo eu lírico",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aos Amores."
+        },
+        {
+          "letra": "B",
+          "texto": "à noite."
+        },
+        {
+          "letra": "C",
+          "texto": "a Marília."
+        },
+        {
+          "letra": "D",
+          "texto": "à tristeza."
+        },
+        {
+          "letra": "E",
+          "texto": "aos pastores."
+        }
+      ],
+      "correta": "C",
+      "conteudos": [
+        "Língua Portuguesa – Interpretação de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Ao longo do soneto, o eu lírico recorre reiteradamente ao seguinte recurso retórico:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "metalinguagem."
+        },
+        {
+          "letra": "B",
+          "texto": "ironia."
+        },
+        {
+          "letra": "C",
+          "texto": "pleonasmo."
+        },
+        {
+          "letra": "D",
+          "texto": "personificação."
+        },
+        {
+          "letra": "E",
+          "texto": "antítese."
+        }
+      ],
+      "correta": "D",
+      "conteudos": [
+        "Língua Portuguesa – Figuras de linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Na linguagem literária, visando obter maior expressividade, pode-se empregar um tempo verbal em lugar de outro. É o que ocorre nos seguintes versos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Olha o Tejo a sorrir-se! Olha: não sentes / Os Zéfiros brincar por entre as flores?\" (1ª estrofe)"
+        },
+        {
+          "letra": "B",
+          "texto": "\"Ora nas folhas a abelhinha para. / Ora nos ares, sussurrando, gira.\" (3ª estrofe)"
+        },
+        {
+          "letra": "C",
+          "texto": "\"Mas ah!, tudo o que vês, se eu não te vira, / Mais tristeza que a noite me causara.\" (4ª estrofe)"
+        },
+        {
+          "letra": "D",
+          "texto": "\"Olha, Marília, as flautas dos pastores, / Que bem que soam, como estão cadentes!\" (1ª estrofe)"
+        },
+        {
+          "letra": "E",
+          "texto": "“Vê como ali, beijando-se, os Amores / Incitam nossos ósculos ardentes!\" (2ª estrofe)"
+        }
+      ],
+      "correta": "C",
+      "conteudos": [
+        "Língua Portuguesa – Morfossintaxe",
+        "Língua Portuguesa – Figuras de linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Examine a charge do cartunista Angeli.\n\nA charge ironiza os bastidores da invasão do Iraque em 2003. Depreende-se da análise da charge que, para o cartunista, a invasão do Iraque se caracterizava como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "necessária."
+        },
+        {
+          "letra": "B",
+          "texto": "arbitrária."
+        },
+        {
+          "letra": "C",
+          "texto": "urgente."
+        },
+        {
+          "letra": "D",
+          "texto": "ambígua."
+        },
+        {
+          "letra": "E",
+          "texto": "refletida."
+        }
+      ],
+      "correta": "B",
+      "conteudos": [
+        "História – Conflitos contemporâneos",
+        "Sociologia – Crítica social",
+        "Língua Portuguesa – Interpretação de imagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Para responder às questões de 18 a 20, leia a crônica de Luis Fernando Verissimo.\n\nEsta ideia para um conto de terror é tão terrível que, logo depois de tê-la, me arrependi. Mas já estava tida, não adiantava mais. Você, leitor, no entanto, tem uma escolha. Pode parar aqui, e se poupar, ou ler até o fim e provavelmente nunca mais dormir. Vejo que decidiu continuar. Muito bem, vamos em frente. Talvez, posta no papel, a ideia perca um pouco do seu poder de susto. Mas não posso garantir nada. É assim:\nUm casal de velhos mora sozinho numa casa. Já criaram os filhos, os netos já estão grandes, só lhes resta implicar um com o outro. Retomam com novo fervor uma discussão antiga. Ela diz que ele ronca quando dorme, ele diz que é mentira.\n— Ronca.\n— Não ronco.\n— Ele diz que não ronca — comenta ela, impaciente, como se falasse com uma terceira pessoa.\nMas não existe outra pessoa na casa. Os filhos raramente visitam. Os netos, nunca. A empregada vem de manhã, faz o almoço, deixa o jantar feito e sai cedo. Ficam os dois sozinhos.\n— Eu devia gravar os seus roncos, pra você se convencer — diz ela. E em seguida tem a ideia infeliz. — É o que eu vou fazer! Esta noite, quando você dormir, vou ligar o gravador e gravar os seus roncos.\n— Humrfm — diz o velho.\nVocê, leitor, já deve estar sentindo o que vai acontecer. Pare de ler, leitor. Eu não posso parar de escrever. As ideias não podem ser desperdiçadas, mesmo que nos custem amigos, a vida ou o sono. Imagine se Shakespeare tivesse se horrorizado com suas próprias ideias e deixado de escrevê-las, por puro comedimento. Não que eu queira me comparar a Shakespeare. Shakespeare era bem mais magro. Tenho que exercer este ofício, esta danação. Você, no entanto, não é obrigado a me acompanhar, leitor. Vá passear, vá tomar sol. Uma das maneiras de controlar a demência solta no mundo é deixar os escritores falando sozinhos, exercendo sozinhos a sua profissão malsã, o seu vício solitário. Você ainda está lendo. Você é pior do que eu, leitor. Você tinha escolha.\nSozinhos. Os velhos sozinhos na casa. Os dois vão para a cama. Quando o velho dorme, a velha liga o gravador. Mas em poucos minutos a velha também dorme. O gravador fica ligado, gravando. Pouco depois a fita acaba.\nNa manhã seguinte, certa do seu triunfo, a velha roda a fita. Ouvem-se alguns minutos de silêncio. Depois, alguém roncando.\n— Rará! — diz a velha, feliz.\nPouco depois ouve-se o ronco de outra pessoa. A velha também ronca!\n— Rará! — diz o velho, vingativo.\nE em seguida, por cima do contraponto de roncos, ouve-se um sussurro. Uma voz sussurrando, leitor. Uma voz indefinida. Pode ser de homem, de mulher ou de criança. A princípio — por causa dos roncos — não se distingue o que ela diz. Mas aos poucos as palavras vão ficando claras. São duas vozes. É um diálogo sussurrado.\n\"Estão prontos?\"\n\"Não, acho que ainda não...\"\n\"Então vamos voltar amanhã...\"\n(Luis Fernando Verissimo. O suicida e o computador, 1992.)\n\nEm sua crônica, o autor caracteriza o ofício de escrever como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "prescindível."
+        },
+        {
+          "letra": "B",
+          "texto": "estimulante."
+        },
+        {
+          "letra": "C",
+          "texto": "fortuito."
+        },
+        {
+          "letra": "D",
+          "texto": "insondável."
+        },
+        {
+          "letra": "E",
+          "texto": "irresistível."
+        }
+      ],
+      "correta": "E",
+      "conteudos": [
+        "Língua Portuguesa – Interpretação de texto",
+        "Língua Portuguesa – Literatura"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Na composição de sua crônica, Luis Fernando Verissimo lança mão dos seguintes procedimentos estilísticos que caracterizam a prosa madura do escritor Machado de Assis:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "inclusão do leitor na narrativa e recurso à metalinguagem."
+        },
+        {
+          "letra": "B",
+          "texto": "estilo digressivo e discurso apoiado em argumentos científicos."
+        },
+        {
+          "letra": "C",
+          "texto": "discurso socialmente engajado e recurso à intertextualidade."
+        },
+        {
+          "letra": "D",
+          "texto": "argumentação de teor moralizante e interlocução explícita com o leitor."
+        },
+        {
+          "letra": "E",
+          "texto": "discurso de caráter místico e recurso ao sobrenatural."
+        }
+      ],
+      "correta": "A",
+      "conteudos": [
+        "Língua Portuguesa – Literatura"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Em \"As ideias não podem ser desperdiçadas, mesmo que nos custem amigos, a vida ou o sono.\" (9º parágrafo), a oração subordinada expressa ideia de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "consequência."
+        },
+        {
+          "letra": "B",
+          "texto": "causa."
+        },
+        {
+          "letra": "C",
+          "texto": "concessão."
+        },
+        {
+          "letra": "D",
+          "texto": "condição."
+        },
+        {
+          "letra": "E",
+          "texto": "comparação."
+        }
+      ],
+      "correta": "C",
+      "conteudos": [
+        "Língua Portuguesa – Sintaxe"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Leia o texto e examine o gráfico para responder às questões de 21 a 26.\n\nThe first Game Developers Conference, in 1988, attracted 25 participants and took place in a programmer's sitting room in California. This 2023 summit, which began on March 20 in a giant exhibition centre in San Francisco, demonstrates how the industry has grown. Some 3.2 billion people now play, thanks largely to the spread of the smartphone. Women are now almost as likely as men to call themselves gamers. Gaming is catching on among all age groups. In Britain, for instance, half of those aged 55-64 play video games, though for less time than the young. Worldwide there are now more console owners aged 35-44 than 16-24.\nThe bigger the audience, the bigger the market. Consumers will spend 185 billion dollars on games in 2023, more than half on mobile games. That is about five times the value of the cinema box office, and two-thirds more than the video-streaming business. As gaming continues to grow, it is beginning to rival television as the world's favourite entertainment medium.\n\nThe text and the graph are mainly about the",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "decline of cinema and music compared to gaming."
+        },
+        {
+          "letra": "B",
+          "texto": "widespread use of smartphones to access video streaming."
+        },
+        {
+          "letra": "C",
+          "texto": "most popular entertainment media among age groups in the world."
+        },
+        {
+          "letra": "D",
+          "texto": "expansion of gaming both as entertainment and business."
+        },
+        {
+          "letra": "E",
+          "texto": "unexpected addiction of aging people to games."
+        }
+      ],
+      "correta": "D",
+      "conteudos": [
+        "Inglês – Interpretação de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "According to the first paragraph, the Game Developers Conference growth from 1988 to 2023 can be evaluated by the",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "premises of both events."
+        },
+        {
+          "letra": "B",
+          "texto": "number of male gamers."
+        },
+        {
+          "letra": "C",
+          "texto": "size of the city that hosted both events."
+        },
+        {
+          "letra": "D",
+          "texto": "inclusion of women and children as game developers."
+        },
+        {
+          "letra": "E",
+          "texto": "3.2 billion people expected to attend the 2023 event."
+        }
+      ],
+      "correta": "A",
+      "conteudos": [
+        "Inglês – Interpretação de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "No trecho do primeiro parágrafo \"though for less time than the young\", o termo sublinhado introduz, em relação à frase anterior,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "uma ressalva."
+        },
+        {
+          "letra": "B",
+          "texto": "um motivo."
+        },
+        {
+          "letra": "C",
+          "texto": "uma previsão."
+        },
+        {
+          "letra": "D",
+          "texto": "uma decorrência."
+        },
+        {
+          "letra": "E",
+          "texto": "uma alternativa."
+        }
+      ],
+      "correta": "A",
+      "conteudos": [
+        "Língua Portuguesa – Conectivos",
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Uma interpretação matemática plausível da frase do segundo parágrafo \"The bigger the audience, the bigger the market\", considerando o público e o mercado de games, é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "proporcionalidade inversa entre duas grandezas."
+        },
+        {
+          "letra": "B",
+          "texto": "proporcionalidade direta entre duas grandezas."
+        },
+        {
+          "letra": "C",
+          "texto": "intersecção de dois conjuntos de dados."
+        },
+        {
+          "letra": "D",
+          "texto": "decrescimento quadrático."
+        },
+        {
+          "letra": "E",
+          "texto": "decrescimento exponencial."
+        }
+      ],
+      "correta": "B",
+      "conteudos": [
+        "Matemática – Proporcionalidade",
+        "Inglês – Interpretação de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "A frase do texto cujo significado pode ser verificado no gráfico é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"more than half on mobile games\" (2º parágrafo)"
+        },
+        {
+          "letra": "B",
+          "texto": "\"Women are now almost as likely as men to call themselves gamers” (1º parágrafo)"
+        },
+        {
+          "letra": "C",
+          "texto": "\"Some 3.2 billion people now play, thanks largely to the spread of the smartphone” (1º parágrafo)"
+        },
+        {
+          "letra": "D",
+          "texto": "\"That is about five times the value of the cinema box office\" (2º parágrafo)"
+        },
+        {
+          "letra": "E",
+          "texto": "\"Gaming is catching on among all age groups\" (1º parágrafo)"
+        }
+      ],
+      "correta": "D",
+      "conteudos": [
+        "Inglês – Interpretação de texto",
+        "Matemática – Leitura de gráficos"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "No trecho do segundo parágrafo \"As gaming continues to grow, it is beginning to rival television as the world's favourite entertainment medium\", os termos sublinhados equivalem, em português, respectivamente, a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "se / tal qual."
+        },
+        {
+          "letra": "B",
+          "texto": "quando / por exemplo."
+        },
+        {
+          "letra": "C",
+          "texto": "à medida que / como."
+        },
+        {
+          "letra": "D",
+          "texto": "porque / exceto."
+        },
+        {
+          "letra": "E",
+          "texto": "do mesmo modo que / de acordo com."
+        }
+      ],
+      "correta": "C",
+      "conteudos": [
+        "Inglês – Vocabulário",
+        "Língua Portuguesa – Equivalência de termos"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Leia a tira de Bill Amend para responder às questões de 27 a 29.\n\nFrom the comic strip, one can say that",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "there is a generation conflict between mother and son."
+        },
+        {
+          "letra": "B",
+          "texto": "Eileen Jacobson and the boy are not friends anymore."
+        },
+        {
+          "letra": "C",
+          "texto": "the final level of the game is the boy's target before going to school."
+        },
+        {
+          "letra": "D",
+          "texto": "the ice cream is the boy's prize for winning the game."
+        },
+        {
+          "letra": "E",
+          "texto": "games exert an irresistible attraction on the boy."
+        }
+      ],
+      "correta": "E",
+      "conteudos": [
+        "Inglês – Interpretação de texto",
+        "Inglês – Leitura de tirinhas"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "No primeiro quadrinho, a fala \"Is she out of her mind?!\" indica que o menino",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "tomará sorvete após ter ido à escola."
+        },
+        {
+          "letra": "B",
+          "texto": "quer se reconciliar com Eileen após uma briga."
+        },
+        {
+          "letra": "C",
+          "texto": "acha que Eileen e a mãe querem agradá-lo."
+        },
+        {
+          "letra": "D",
+          "texto": "considera que a mãe está interferindo na amizade com Eileen."
+        },
+        {
+          "letra": "E",
+          "texto": "ficou irritado com o convite de Eileen."
+        }
+      ],
+      "correta": "E",
+      "conteudos": [
+        "Inglês – Interpretação de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "No terceiro quadrinho, o termo \"that\" refere-se a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"the world of warquest expansion\"."
+        },
+        {
+          "letra": "B",
+          "texto": "\"school, fire or hospitalization\"."
+        },
+        {
+          "letra": "C",
+          "texto": "\"not moving from this computer\"."
+        },
+        {
+          "letra": "D",
+          "texto": "\"get my shaman up to level 80\"."
+        },
+        {
+          "letra": "E",
+          "texto": "\"get ice cream\"."
+        }
+      ],
+      "correta": "D",
+      "conteudos": [
+        "Inglês – Pronomes"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "The benefits of computer games in education are clear. They engage students, improve problem-solving skills, enhance creativity and imagination, allow for personalized learning, remote learning, learning on demand, and contacting peers around the world. With the increasing use of technology in schools, it is essential that teachers explore the potential benefits of computer games and incorporate them into their teaching methods. Doing so can create a more engaging and effective learning environment for their students.\n(Ruby Butz. https://gamingrespawn.com, 23.03.2023. Adaptado.)\n\nAccording to the text, one of the advantages of computer games in education is:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "behaviour management tools for teachers."
+        },
+        {
+          "letra": "B",
+          "texto": "enhancement of problem-solving skills."
+        },
+        {
+          "letra": "C",
+          "texto": "doubtful teaching methods."
+        },
+        {
+          "letra": "D",
+          "texto": "friendly learning environment."
+        },
+        {
+          "letra": "E",
+          "texto": "face-to-face contact among peers."
+        }
+      ],
+      "correta": "B",
+      "conteudos": [
+        "Inglês – Interpretação de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Observe as fachadas de duas igrejas. À esquerda, a Basílica de San Michele, construída no século XII em Pavia, na Itália. À direita, a Catedral de Reims, erguida a partir do século XIII em Reims, na França.\n\nAs duas fachadas",
+      "alternativas": {
+        "A": "diferenciam-se pela pouca ornamentação de San Michele, que expressa o estilo românico, e pela monumentalidade e sofisticação de Reims.",
+        "B": "diferenciam-se pela solidez de San Michele, que simbo-liza a força espiritual do catolicismo, e pela carência de detalhes na sede papal em Reims.",
+        "C": "igualam-se na suntuosidade e no rebuscamento arquite-tônico, indicando o poderio econômico da Igreja católica.",
+        "D": "diferenciam-se pela discrição de San Michele, que revela o rigor na conduta dos protestantes, e pela ostentação da riqueza católica de Reims.",
+        "E": "igualam-se na caracterização gótica, revelando a busca da verticalidade como símbolo do poder divino."
+      },
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "História – Arte Medieval (Românico e Gótico)",
+        "Arte – Estilos Arquitetônicos"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Examine o meme, publicado pelo perfil \"[b]rasilien\" no Tumblr. \n\npai devolve meu ouro\na potência marítima\npai tô em crise\ndevolve por favor\nconquistei vários territórios\nsou incrível\no pau brasil pai\n\nO meme corresponde a uma espécie de metáfora da história do Brasil e, mais precisamente, da",
+      "alternativas": {
+        "A": "dinâmica da colonização do Brasil por Portugal, baseada na exploração e no exclusivo metropolitano do comércio colonial.",
+        "B": "subserviência portuguesa ante os interesses britânicos, que impediam um relacionamento comercial harmonioso entre colônia e metrópole.",
+        "C": "persistência do domínio político português sobre o Brasil, que prosseguiu mesmo depois da independência.",
+        "D": "relação de cumplicidade entre portugueses e brasileiros, construída a partir dos séculos de convivência entre os dois povos.",
+        "E": "corrida do ouro nas Minas Gerais, que atraiu para a região milhares de exploradores da metrópole e das demais áreas da colônia."
+      },
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "História – Brasil Colônia",
+        "Sociologia – Relações de Poder"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "O mundo natural é o concreto, que tocamos, sentimos, no qual vivemos. O mundo social é resultado da nossa vida em grupo e em determinado meio ambiente. O mundo sobre-natural é o das religiões, da magia, ao qual os homens só têm acesso parcial, por meio de determinados ritos e cerimônias. Ele é mais ou menos importante, dependendo da sociedade. Numa sociedade como a nossa, na qual quase tudo é expli-cado pela ciência e pelo pensamento lógico e racional, o es-paço do sobrenatural é bastante limitado. Já nas sociedades africanas, onde foram capturados os escravizados trazidos para o Brasil, toda a vida na terra estava ligada ao além, a dimensões que só conhecedores dos ritos e objetos sacrali-zados podiam atingir.\n\n(Marina de Mello e Souza. África e Brasil africano, 2007. Adaptado.)\n\nAo comparar o pensamento lógico predominante no Ocidente contemporâneo com as mentalidades das sociedades africa-nas de onde foi proveniente a maioria das pessoas trazidas ao Brasil como escravizadas, o excerto",
+      "alternativas": {
+        "A": "critica a relativização dos valores morais e religiosos nas sociedades africanas e europeias no período do tráfico de escravizados.",
+        "B": "identifica o descompasso entre o primitivismo dos povos africanos e o avanço civilizatório da Europa colonizadora.",
+        "C": "caracteriza duas percepções de mundo, enfatizando sua diferença na relação com as dimensões míticas e sagradas.",
+        "D": "distingue dois modelos de pensamento, sustentando a superioridade daquele que é movido pelo esforço racional.",
+        "E": "valoriza a religiosidade do mundo atual, destacando a centralidade das crenças e das práticas religiosas cotidianas."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Sociologia – Culturas e Conhecimento",
+        "História – Escravidão no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "O espaço urbano é onde proliferavam a pobreza e certa autonomia dos desqualificados sociais, bastante incômoda para as autoridades. Era justamente este o espaço social das mulheres pobres, livres, forras e escravizadas. Circu-lavam pelas fontes públicas, tanques, lavadouros, pontes, ruas e praças da cidade, onde era jogado o lixo das casas e o mato crescia a ponto de ocultar escravizados fugidos: o seu espaço social era justamente o ponto de interseção onde se alternavam e se sobrepunham as áreas de convívio das vizinhanças e dos forasteiros; a do fisco municipal e a do pequeno comércio clandestino; as margens da escravi-dão e do trabalho livre, o espaço do trabalho doméstico e o de sua extensão ou comercialização pelas ruas...\n\n(Maria Odila Leite da Silva Dias. \"Mulheres sem história\". In: Revista de História, 1983. Adaptado.)\n\nAo tratar de São Paulo do século XVIII, o excerto estabe-lece um paralelo entre a condição das mulheres no espaço urbano e",
+      "alternativas": {
+        "A": "a situação de abandono das crianças pobres da colônia.",
+        "B": "a constituição de um padrão ideal de família burguesa.",
+        "C": "o prevalecimento dos interesses políticos da metrópole.",
+        "D": "a área de indefinição social, política ou econômica.",
+        "E": "os setores da sociedade defensores de propostas identitárias."
+      },
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "História – Sociedade Colonial (Século XVIII)",
+        "Sociologia – Espaço Urbano e Gênero"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "O que o Carnaval [na Idade Moderna] significava para o povo que participava dele? Num sentido, a pergunta é des-necessária. O Carnaval era um feriado, uma brincadeira, um fim em si mesmo, dispensando qualquer explicação ou justifi-cativa. Era uma ocasião de êxtase e liberação. [...] Por que o povo usava máscaras com narigões, por que atiravam ovos? [...] Havia três temas principais no Carnaval, reais e simbóli-cos: comida, sexo e violência.\n\n(Peter Burke. Cultura popular na Idade Moderna, 1989.)\n\n\"O Carnaval sempre foi um ato político, ele está longe de ser uma festa da alienação [...]\", diz o historiador e professor Luiz Antonio Simas.\n\n[...] \"O Carnaval quebra um padrão de normatividade que é regra durante todo o ano. É nesse momento que os grupos mais vulneráveis se sentem mais livres para exercer toda a sua diversidade\", diz Simas.\n\n(Isabela Palhares. \"Carnaval pós-restrições da pandemia é apoteose da folia, dizem historiadores\". www.folha.uol.com.br, 20.02.2023.)\n\nOs excertos abordam o significado do Carnaval em dois períodos históricos bastante distintos e",
+      "alternativas": {
+        "A": "coincidem, ao indicar contradições da festa: a alegria da manifestação dos prazeres individuais e a tristeza diante da extrema violência do evento.",
+        "B": "coincidem, ao identificar duas dimensões da festa: uma mais imediata, a do prazer, e outra mais profunda, a de transformação comportamental.",
+        "C": "divergem, ao caracterizar a festa na Idade Moderna como ação política e a festa nos dias de hoje como puro divertimento e lazer.",
+        "D": "coincidem, ao mencionar os problemas da festa: um de ordem pública, a explicitação do sexo, e um de ordem privada, a carência alimentar.",
+        "E": "divergem, ao expor a autenticidade e espontaneidade da festa na Idade Moderna e o artificialismo e convenciona-lismo da festa nos dias de hoje."
+      },
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "História – Cultura Popular",
+        "Sociologia – Festas e Identidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Não reconhecendo nós outra soberania mais de que a soberania do povo, para ela apelamos. [...]\nNeste país, que se presume constitucional, e onde só deveriam ter ação poderes delegados, [...] só há um poder ativo, [...] poder sagrado inviolável e irresponsável.\nO privilégio, em todas as suas relações com a socieda-de – tal é, em síntese, a fórmula social e política do nosso país, privilégio de religião, privilégio de raça, privilégio de sabedoria, privilégio de posição, isto é, todas as distinções arbitrárias e odiosas que criam no seio da sociedade civil e política a monstruosa superioridade de um sobre todos ou de alguns sobre muitos. [...]\nA autonomia das províncias é, pois, para nós mais do que um interesse imposto pela solidariedade dos direitos e das relações provinciais, é um princípio cardeal e solene que inscrevemos na nossa bandeira.\n\n(\"Manifesto Republicano de 1870\". In: Américo Brasiliense. Os programas dos partidos e o 2º Império, 1878.)\n\nO trecho transcrito permite caracterizar o Manifesto Repu-blicano como",
+      "alternativas": {
+        "A": "racista e liberal.",
+        "B": "federalista e socialista.",
+        "C": "socialista e unitarista.",
+        "D": "unitarista e racista.",
+        "E": "democrata e federalista."
+      },
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "História – Segundo Reinado (Manifesto Republicano)",
+        "Filosofia – Democracia e Liberalismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Observe as imagens. A da esquerda é intitulada \"Plantas do Orquidário Moderno\" (1845). A da direita intitula-se \"Madame Professora\" (1846).\n\n(In: Peter Gay. A experiência burguesa da Rainha Vitória a Freud: a educação dos sentidos, 1988.)\n\nAs duas imagens referem-se a algumas sociedades euro-peias do século XIX e",
+      "alternativas": {
+        "A": "representam, com ironia, os novos papéis exercidos pelas mulheres nas sociedades do período.",
+        "B": "aludem, com humor, ao avanço das pesquisas e do ensi-no nas sociedades do período.",
+        "C": "constatam a substituição da estrutura patriarcal pelo matriarcalismo nas sociedades industriais.",
+        "D": "ilustram, com surpresa, a padronização do trabalho femi-nino nas sociedades de economia industrial.",
+        "E": "celebram a liderança política feminina numa sociedade de hegemonia liberal."
+      },
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "História – Século XIX (Mulher e Sociedade)",
+        "Sociologia – Gênero e Trabalho"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "A América independente, a América Latina, traz no íntimo a América pré-colombiana, que desponta por todos os seus poros, resistindo ao novo cerco, agora em forma de Estados nacionais que se estabeleceram violentando as linhas históricas de demarcação das diferentes cultu-ras. Em muitos casos, os povos foram fragmentados pe-las fronteiras nacionais, e seus fluxos, interrompidos ou entorpecidos.\n\n(Ana Esther Ceceña. \"Uma versão mesoamericana da América Latina\". In: Adauto Novaes (org.). Oito visões da América Latina, 2006.)\n\nCom base no trecho, conclui-se que \"a América indepen-dente, a América Latina, traz no íntimo a América pré--colombiana\",",
+      "alternativas": {
+        "A": "pois as lutas pela emancipação política do continente incorporaram valores e princípios culturais dos povos nativos americanos.",
+        "B": "pois os caminhos da história latino-americana permitiram a integração e a miscigenação dos povos originários do continente com europeus e africanos.",
+        "C": "apesar de os processos históricos posteriores à Con-quista europeia e à formação nacional terem imposto outra configuração territorial ao continente.",
+        "D": "apesar de o avanço dos interesses econômicos britâni-cos no continente ter provocado um maior interesse pe-las tradições culturais anglo-saxônicas.",
+        "E": "apesar de os povos originários do continente terem sido dizimados no momento da Conquista europeia e substi-tuídos por africanos escravizados."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "História – América Latina Pós-Independência",
+        "Geografia – Formação Territorial"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Analise a imagem, que mostra a queima de café em Santos, SP, em 1931.\n\nA cena, ocorrida durante o governo provisório de Getúlio Var-gas, resulta",
+      "alternativas": {
+        "A": "da ausência de um plano de apoio governamental ao agronegócio, motor das exportações brasileiras.",
+        "B": "da disposição de Vargas de destruir estoques de café para reduzir a força política e econômica dos cafeiculto-res paulistas.",
+        "C": "dos limites do projeto varguista de erradicar a fome no país por meio da proibição da exportação de alimentos.",
+        "D": "do projeto de industrialização implementado por Vargas, que retirava a subvenção ao setor agrário.",
+        "E": "dos impasses de uma economia de base agroexporta-dora, afetada pela contração do mercado consumidor internacional."
+      },
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "História – Era Vargas (Crise do Café)",
+        "Geografia – Economia Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Era a Índia que nos sustentava nas dificuldades de nos-sas circunstâncias. Era um aspecto de nossa identidade, da identidade comum que tínhamos desenvolvido e que, na Trinidad multirracial, se tornara uma identidade racial.\nEra essa a identidade que eu levara para a Índia em minha primeira visita em 1962. Ao chegar, percebi que isso nada significava na Índia. A ideia de uma comunidade india-na – na verdade uma ideia europeia de nossa identidade indiana – apenas tinha sentido quando a comunidade era muito pequena, minoritária e isolada. Na torrente da Índia, com suas centenas de milhões, onde a ameaça eram o caos e o vazio, essa noção europeia em nada ajudava.\n\n(V.S. Naipaul. India: um milhão de motins agora, 1997.)\n\nO excerto traz o relato de um escritor de ascendência india-na, nascido em Trinidad e Tobago, quando de sua primeira viagem para a Índia. Segundo ele, há",
+      "alternativas": {
+        "A": "um impasse sociopolítico na Índia atual, pois o país teve um passado glorioso, mas não conseguiu se reorganizar política e economicamente após o fim do domínio colo-nial britânico sobre a região.",
+        "B": "uma continuidade entre a Índia do período de coloniza-ção europeia e a Índia independente, pois os indianos que vivem dentro e fora do país sentem-se pertencentes ao mesmo grupo nacional-identitário.",
+        "C": "uma identidade comum de origem religiosa, que se mani-festa de maneira igual no conjunto de indianos que vivem na Índia e nas comunidades de descendentes de india-nos organizadas em outros países.",
+        "D": "um descompasso entre a percepção da Índia que se tem de fora do país asiático, e que é afetada por valores na-cionais de origem europeia, e a percepção que os pró-prios indianos têm de seus vínculos sociais.",
+        "E": "uma ruptura entre o passado histórico indiano, que se as-socia ao domínio político-militar que o país exerceu sobre o subcontinente asiático, e o presente de superpopula-ção provocada pela colonização europeia."
+      },
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "História – Descolonização e Pós-Colonialismo",
+        "Sociologia – Identidade Cultural"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "O verdadeiro horror dos campos de concentração e de extermínio reside no fato de os internados, mesmo que con-sigam manter-se vivos, estarem mais isolados do mundo dos vivos do que se tivessem morrido, porque o horror compe-le ao esquecimento. No mundo concentracionário, mata-se um homem tão impessoalmente como se mata um mosquito. Uma pessoa pode morrer em consequência de tortura ou de fome sistemática, ou porque o campo está superpovoado e há necessidade de liquidar o material humano supérfluo.\n\n(Hannah Arendt. O sistema totalitário, 1978.)\n\nAo caracterizar a peculiaridade das ações nazistas nos cam-pos de concentração e de extermínio, o excerto refere-se diretamente",
+      "alternativas": {
+        "A": "à ausência de condições básicas de higiene.",
+        "B": "à coisificação dos prisioneiros.",
+        "C": "ao respeito aos direitos humanos.",
+        "D": "ao prevalecimento do nacionalismo.",
+        "E": "à escravização dos prisioneiros."
+      },
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "História – Nazismo e Holocausto",
+        "Filosofia – Direitos Humanos e Ética"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Examine a tabela de investimentos em infraestrutura econô-mica no Brasil, no período de 1990 a 1998, com os volumes de capitais expressos em bilhões de dólares e suas respec-tivas proporções em relação ao Produto Interno Bruto (PIB).\n\nSetores Energia (US$ bi, % PIB), Telecomunicações (US$ bi, % PIB), Transportes (US$ bi, % PIB), Total (US$ bi, % PIB) para os anos de 1990 a 1998.\n\n(Ricardo Carneiro. Desenvolvimento em crise: a economia brasileira no último quarto do século XX, 2002. Adaptado.)\n\nA partir dos dados da tabela e considerando a experiência histórica brasileira no período, tem-se que",
+      "alternativas": {
+        "A": "o investimento no setor de transportes teve aumento con-tínuo após 1994, em virtude da aceleração do crescimen-to econômico provocado pelo Plano Real.",
+        "B": "o setor de telecomunicações, impulsionado pelas mudan-ças tecnológicas em curso, recebeu, em 1996 e 1997, mais da metade dos investimentos realizados nos três setores nestes dois anos.",
+        "C": "o percentual do PIB foi reduzido, em 1998, à metade do que era no primeiro ano do período analisado, indicando a retração econômica provocada pelos planos de estabi-lização da inflação.",
+        "D": "o setor energético recebeu maiores investimentos no pe-ríodo posterior ao Plano Real, devido à exploração de petróleo nas áreas do Pré-Sal, realizada ao longo de todo o período analisado.",
+        "E": "o setor de transportes recebeu suas maiores porcenta-gens de investimentos em 1995 e em 1997, em razão do forte aumento do percentual do PIB ocorrido nestes dois anos."
+      },
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Geografia – Economia Brasileira",
+        "Matemática – Análise de Dados (Tabelas e Percentuais)"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Países-membros europeus da Otan em abril de 2023. \n\nA expansão da Otan (Organização do Tratado do Atlânti-co Norte) na direção do Leste Europeu é um dos motivos ale-gados por Vladimir Putin para invadir a Ucrânia. A Finlândia não é uma ex-república soviética, tampouco fazia parte dos países da cortina de ferro. Mas desde que encerrou a Guer-ra de Inverno com a União Soviética, ocorrida entre 1939 e 1940, em meio à Segunda Guerra Mundial, mantinha-se neu-tra na queda de braço entre Otan e Rússia, que reivindica a influência geopolítica antes exercida pelo extinto bloco co-munista. Essa neutralidade foi encerrada em 2022, quando a Finlândia abriu o processo para entrar na aliança. A conclu-são desse processo resultou na adesão da Finlândia como país-membro da Otan a partir de 04 de abril de 2023.\n\n(www.nexojornal.com.br, 04.04.2023. Adaptado.)\n\nA entrada da Finlândia na Otan fundamenta-se",
+      "alternativas": {
+        "A": "no acordo militar de defesa mútua entre os países-membros.",
+        "B": "na proteção do comércio entre os países-membros.",
+        "C": "no fortalecimento da união monetária entre os países-membros.",
+        "D": "na concessão de investimentos entre os países-membros.",
+        "E": "no compromisso de uma união política entre os países-membros."
+      },
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Geografia – Geopolítica",
+        "História – Guerra Fria e Pós-Guerra Fria"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Leia as manchetes.\nCom o premiado filme \"Parasita\", Coreia do Sul espalha seu \"soft power\" pelo mundo\n\n(https://tab.uol.com.br, 07.11.2019. Adaptado.)\n\nDa banda de música pop \"BTS\" ao filme \"Parasita\", entenda como a Coreia do Sul aplica o \"soft power\"\n\n(www.poder360.com.br, 05.04.2022. Adaptado.)\n\nDa série \"Round 6\" ao estilo musical “K-pop\", cultura sul--coreana é novo vetor do \"soft power\" de Seul\n\n(www.rfi.fr/br, 14.10.2021. Adaptado.)\n\nO \"soft power\" citado nas manchetes corresponde",
+      "alternativas": {
+        "A": "à alienação de consumidores quanto à origem de seus produtos, ou seja, ao desconhecimento sobre a atual divisão internacional do trabalho.",
+        "B": "ao domínio do mercado pelo uso da coerção, ou seja, à construção de uma relação de dependência dos merca-dos em relação ao mundo oriental.",
+        "C": "à busca de uma hegemonia por consenso, ou seja, à uti-lização da indústria cultural para se fazer presente em diversos países.",
+        "D": "à estratégia de combate à xenofobia nos países ociden-tais, ou seja, ao fortalecimento da democratização do consumo de produtos culturais em escala supranacional.",
+        "E": "ao redesenho da hierarquia político-econômica, ou seja, ao retorno à velha ordem mundial pautada pelo consumo cultural."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Sociologia – Globalização e Cultura",
+        "Geografia – Geopolítica e Economia"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "O just in time é responsável por buscar a precisão da cadeia de produção, encaixando as operações e as exe-cuções de acordo com o nível de demanda. Ou seja, tudo ocorre no seu devido tempo, nem antes nem depois. Essa metodologia evita o estoque parado e o desperdício de matéria-prima.\n\n(www.totvs.com, 11.07.2022.)\n\nA metodologia apresentada no excerto é aplicada pelo",
+      "alternativas": {
+        "A": "taylorismo, ideal produtivo estimulado pela União Soviéti-ca durante a Guerra Fria, em um cenário de crescimento homogêneo para as suas repúblicas.",
+        "B": "mercantilismo, doutrina econômica estipulada pela China no final do século XX, em conformidade ao seu desejo de ser um plataforma de exportação.",
+        "C": "desenvolvimentismo, sistema de gestão corporativa cria-do nos Estados Unidos no fim do século XIX, em associa-ção à expansão do capitalismo pelo mundo.",
+        "D": "fordismo, princípio de produção industrial inaugurado pela Inglaterra após a Segunda Guerra Mundial, em que a esteira rolante dita o ritmo produtivo.",
+        "E": "toyotismo, modelo de organização do trabalho desenvol-vido no Japão após a Segunda Guerra Mundial, em um contexto de restrições naturais e econômicas."
+      },
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Geografia – Modelos de Produção Industrial",
+        "História – Pós-Segunda Guerra Mundial"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Há uma comunidade de fanáticos por geografia que cres-ce rapidamente em torno de um jogo. A premissa é simples: o jogador que observa a tela de seu computador ou celular é conduzido a algum canto do planeta, por meio de imagens, e tem de adivinhar, o mais rápido possível, que lugar, exata-mente, é apresentado. Quanto mais próximo for seu palpite do lugar mostrado na imagem, maior o número de pontos recebido.\n\n(www.folha.uol.com.br, 12.07.2022. Adaptado.)\n\nSob o ponto de vista geográfico, os jogadores mencionados no excerto operacionalizam conhecimentos relacionados",
+      "alternativas": {
+        "A": "ao cálculo da densidade demográfica.",
+        "B": "aos múltiplos fusos horários.",
+        "C": "à organização político-administrativa.",
+        "D": "às diferenças socioespaciais.",
+        "E": "à observação da unificação técnica."
+      },
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Geografia – Cartografia e Espaço Geográfico",
+        "Sociologia – Cultura Digital e Jogos"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "No Sertão Nordestino, oligarquias representam um dos polos na desigual estrutura social, econômica e política da região. Durante o século XX, a oligarquia nordestina beneficiou-se",
+      "alternativas": {
+        "A": "da transposição do rio São Francisco, obra que obje-tivou desviar parte das águas desse rio para rios in-termitentes com maior capacidade de abastecimento hídrico de áreas rurais e urbanas.",
+        "B": "da indústria da seca, expressão que designa a relação entre a realidade de fome e miséria da população duran-te as longas estiagens e os recursos destinados a obras para melhorias na qualidade de vida local.",
+        "C": "da remarcação de fronteiras estaduais, estratégia empre-gada para melhorar os resultados de investimentos fede-rais realizados na promoção de serviços de tratamento de água e esgoto.",
+        "D": "da implantação do Projeto Grande Carajás, empreendi-mento privado que objetivou dinamizar a economia nor-destina com maciços investimentos em infraestruturas produtivas agrícolas.",
+        "E": "da transferência da capital federal para Brasília, decisão que atrelou o uso de mão de obra e de empresas nordes-tinas para reaquecer o setor de produção de matérias--primas da região Nordeste."
+      },
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Geografia – Nordeste Brasileiro",
+        "História – Política Regional e Economia"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Analise a charge do cartunista Seri. \n\nDESCULPEM,\nO CENSO ESTÁ\nATRASADO\n\nESTAMOS\nTODOS\nATRASADOS,\nMOÇO\n\nIBGE\n\n(www.dgabc.com.br, 13.10.2022.)\n\nAo se referir ao Censo, a charge",
+      "alternativas": {
+        "A": "denuncia o preconceito socioeconômico do Censo e traz ao debate a angústia da população carente, à margem das conquistas que possam oferecer justiça social.",
+        "B": "satiriza a falta de empatia dos recenseadores e demons-tra a insatisfação da população com os serviços públicos, precários àqueles que dependem de sua oferta.",
+        "C": "associa o atraso ao grau de desenvolvimento da popu-lação e transfere às pessoas a responsabilidade por sua condição, distante da noção de equidade.",
+        "D": "minimiza a importância do Censo e critica o imediatismo observado em nossa sociedade, marcada pela desvalori-zação da reflexão e do senso crítico.",
+        "E": "ironiza o atraso na realização do Censo e remete a uma de suas funções, a de embasar políticas públicas com dados sobre a realidade da população."
+      },
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Sociologia – Demografia e Políticas Públicas",
+        "Língua Portuguesa – Análise de Charge"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Analise o mapa que apresenta as placas tectônicas envolvi-das no terremoto ocorrido na região de Anatólia, na Turquia, em fevereiro de 2023.\n\nSegundo a classificação das placas tectônicas quanto ao tipo de deslocamento, o terremoto na região de Anatólia está relacionado",
+      "alternativas": {
+        "A": "ao movimento de uma placa sobre a outra, ao longo de uma fossa.",
+        "B": "ao afundamento de uma placa em relação à outra, ao longo de uma montanha.",
+        "C": "ao movimento de uma placa em relação à outra, ao longo de uma falha.",
+        "D": "ao afundamento de uma placa sob a outra, ao longo de um continente.",
+        "E": "ao distanciamento de uma placa em relação à outra, ao longo de uma dorsal."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Geografia – Tectonismo e Placas Tectônicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Analise o gráfico. As variações na temperatura e na umidade estão relaciona-das ao tipo e à intensidade do intemperismo, determinantes para a formação dos solos. A partir do gráfico e com funda-mento na ciência dos solos, tem-se que,",
+      "alternativas": {
+        "A": "em climas áridos, os solos possuem pedaços da rocha matriz.",
+        "B": "em climas úmidos, os solos possuem camada menor de argila.",
+        "C": "em climas frios, os solos são ricos em matéria orgânica.",
+        "D": "em climas tropicais, os solos são pouco permeáveis à água.",
+        "E": "em climas secos, os solos possuem baixa porcentagem de minerais."
+      },
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Geografia – Clima e Solos",
+        "Biologia – Ecossistemas"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Examine a imagem, que apresenta a classificação dos rios segundo o grau de ramificações dentro de uma bacia hidrográfica.\n\n(Fillipe T. P. Torres. Introdução à hidrogeografia, 2012. Adaptado.)\n\nO exame da classificação dos rios revela que",
+      "alternativas": {
+        "A": "os rios de segunda ordem estão próximos aos afluentes, áreas de terrenos mais planos e com muitas rochas.",
+        "B": "os rios de primeira ordem estão próximos às nascentes, áreas mais elevadas e de maior declividade.",
+        "C": "os rios de terceira ordem estão próximos aos leitos, áreas independentes dos regimes de cheias e vazantes.",
+        "D": "os rios de quarta ordem estão próximos à foz, área com um regime turbulento e mais veloz.",
+        "E": "os rios de quarta ordem estão próximos aos divisores de água, áreas com grande capacidade erosiva e mais sedimentos."
+      },
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Geografia – Hidrografia e Bacias Hidrográficas"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Nos últimos séculos, há um descompasso entre os proble-mas ambientais e a consciência ambiental sobre a gravidade desses problemas. O fato histórico que marca a maior inten-sidade dos impactos no meio ambiente",
+      "alternativas": {
+        "A": "são as Grandes Navegações, encerradas no século XV.",
+        "B": "é a Primeira Guerra Mundial, ocorrida em meados do século XIX.",
+        "C": "é a Metropolização, instituída no século XXI.",
+        "D": "é a Revolução Industrial, iniciada no século XVIII.",
+        "E": "são as Revoluções Técnico-Científico-Informacionais, fundadas no século XIX."
+      },
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "História – Revolução Industrial",
+        "Geografia – Impactos Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "O comércio de peixes ornamentais é um mercado que movimenta milhares de dólares no Brasil e no mundo, porém, essa atividade também é uma das principais fontes de intro-dução de espécies exóticas. Só no Brasil, mais de 70 espé-cies de peixes ornamentais não nativos já foram identificadas no ambiente natural, incluindo recentemente o peixe conhe-cido como paulistinha ou peixe-zebra, nativo do sul da Ásia.\n\n(https://conexaoplaneta.com.br. Adaptado.)\n\nOs peixes ornamentais exóticos tratados no excerto, quando encontrados em rios brasileiros, caracterizam a chamada",
+      "alternativas": {
+        "A": "biotecnologia, em que o emprego de recursos técnicos se torna uma opção para corrigir as assimetrias dos proces-sos naturais, como o mutualismo e a competição.",
+        "B": "ressurgência, em que a oferta de condições naturais ideais para determinada espécie possibilita seu cresci-mento em números relativos.",
+        "C": "invasão biológica, em que uma espécie, fora de seu ambiente natural, pode crescer de maneira descontro-lada e provocar desequilíbrio no ecossistema.",
+        "D": "explosão demográfica, em que uma espécie, por adapta-ção, reduz a taxa de mortalidade e passa a registrar um grande crescimento natural.",
+        "E": "biopirataria, em que espécies animais ou conheci-mentos tradicionais são explorados, de forma legal, por pesquisadores."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Biologia – Ecologia (Espécies Invasoras)",
+        "Geografia – Biodiversidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Na escola, Maria recebeu de seu professor de Geografia a tarefa de construir um globo terrestre – uma representação cartográfica em superfície esférica. Se a estudante utilizar uma bola de isopor com 12 cm de raio e considerar que a circunferência da Terra tenha 40000 km, a escala numérica aproximada do globo terrestre será:",
+      "alternativas": {
+        "A": "1:6369.",
+        "B": "1: 480000.",
+        "C": "1: 530.",
+        "D": "1: 3333.",
+        "E": "1:53075000."
+      },
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Geografia – Cartografia (Escalas)",
+        "Matemática – Proporcionalidade e Geometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "Não existe definição objetiva, nem muito menos neutra, daquilo que é ou não a ciência. Esta tanto pode ser uma procura metódica do saber quanto um modo de interpretar a realidade; tanto pode ser uma instituição, com seus grupos de pressão, seus preconceitos, suas recompensas oficiais, quanto uma atuação subordinada a instâncias administrati-vas, políticas ou ideológicas. Se perguntarmos sobre o modo de funcionamento da ciência, sobre seu papel social, sobre sua maneira de explicar os fenômenos e de compreender o ser humano no mundo, perceberemos facilmente que as condições reais em que são produzidos os conhecimentos objetivos e racionalizados estão banhadas por uma inegável atmosfera sócio-político-cultural.\n\n(Hilton Japiassu. O mito da neutralidade científica, 1975. Adaptado.)\n\nA consideração de Hilton Japiassu em relação à neutralidade da ciência destaca",
+      "alternativas": {
+        "A": "a inexistência de método seguro.",
+        "B": "o enviesamento do fazer científico.",
+        "C": "a falta de recursos materiais nas pesquisas.",
+        "D": "a submissão do saber ao senso comum.",
+        "E": "o rompimento com o dogmatismo religioso."
+      },
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Filosofia – Epistemologia (Filosofia da Ciência)",
+        "Sociologia – Ciência e Sociedade"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "TEXTO 1\n\nA imagem apresenta um triângulo retângulo com catetos 'a' e 'b' e hipotenusa 'c', onde $c^2 = b^2 + a^2$ é visualizado por quadrados construídos sobre os lados. O quadrado sobre o cateto 'b' é rotulado como $b^2$, o quadrado sobre o cateto 'a' como $a^2$, e o quadrado sobre a hipotenusa 'c' como $c^2$.\n\n(Gerson Pastre de Oliveira (org.). Pesquisa em educação e educação matemática: um olhar sobre a metodologia, 2019. Adaptado.)\n\nTEXTO 2\n\nO conhecimento teórico da natureza — originariamente ligado à geometria — como visão ideal da perfeição harmo-niosa do cosmo foi se desenvolvendo paralelamente à evolu-ção da matemática, deixando, assim, de forma paulatina, de ser simples forma de contemplação da realidade, para adqui-rir o caráter de um instrumento de conhecimento da natureza.\n\n(Milton Vargas. \"História da matematização da natureza\". Estudos Avançados, 1996.)\n\nA relação entre Filosofia e Matemática advém de um longo período da história da humanidade. Pode-se observar tal relação, a partir dos textos 1 e 2, pela",
+      "alternativas": {
+        "A": "utilização da ideia de primeiro motor na formulação do conhecimento medieval.",
+        "B": "influência do dualismo platônico na teoria cartesiana.",
+        "C": "presença da causalidade aristotélica em explicações da física newtoniana.",
+        "D": "repercussão da ideia de arché como número na ciência moderna.",
+        "E": "ruptura com o entendimento de cosmos geocêntrico em Copérnico."
+      },
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Filosofia – Filosofia Antiga (Arché)",
+        "Matemática – História da Matemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Analise a reprodução da obra Latas de Sopa Campbell, de Andy Warhol, produzida em 1962, e leia o excerto do livro Arte Pop, de David McCarthy.\n\nTEXTO 1 (Imagem de 32 latas de sopa Campbell dispostas em grade, cada uma com um sabor diferente.)\n\nTEXTO 2\n\nAs declarações de artistas pop sugerem que eles es-tavam não só familiarizados, mas à vontade no mundo da produção e do consumo do pós-guerra. Embora o tema de sua arte reconhecesse diretamente a rápida disseminação de bens comerciais disponíveis em quantidades crescentes ao longo da década de 1950, o estilo dessa arte adotava o de-senho chamativo da propaganda. O status da arte pop como produto é inseparável de seu apelo por consumo.\n\n(Arte Pop, 2002. Adaptado.)\n\nNo período pós-Segunda Guerra, a estreita relação entre o movimento Pop Art e a estética da propaganda deve-se à",
+      "alternativas": {
+        "A": "alta dos valores das obras junto aos colecionadores.",
+        "B": "influência dos patrocinadores entre os artistas estaduni-denses.",
+        "C": "recusa das técnicas artesanais na produção artística.",
+        "D": "ruptura artística com os parâmetros econômicos desse período.",
+        "E": "transformação da arte provocada pela lógica capitalista."
+      },
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Arte – Pop Art",
+        "Sociologia – Cultura de Massa e Consumo"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "A emergência do ChatGPT, chatbot (software capaz de simular a conversação humana) desenvolvido pela OpenAl, chamou a atenção internacional. Essa nova ferramenta de inteligência artificial pode revolucionar um leque extrema-mente amplo de atividades humanas, mas não deixou de despertar também um considerável número de preocupa-ções entre especialistas de tecnologia. O ChatGPT é capaz de entender a linguagem humana natural e gerar uma res-posta semelhante ao fruto do intelecto humano após receber um pedido. A ferramenta ganhou destaque pelo nível extre-mamente refinado de suas respostas.\n\n(Luca Belli e Nina da Hora. \"ChatGPT: o que anima e o que assusta na nova inteligência artificial\". Folha de S.Paulo, 20.01.2023. Adaptado.)\n\nDiante do cenário descrito no excerto, a utilização da nova tecnologia de maneira eticamente responsável requer a",
+      "alternativas": {
+        "A": "livre concorrência para disputa comercial entre empresas privadas.",
+        "B": "massificação de dispositivos de tecnologias de lingua-gem natural.",
+        "C": "promoção de campanhas sobre os prejuízos do uso desse tipo de software.",
+        "D": "permissão de acesso a assinantes dessa ferramenta devidamente identificados.",
+        "E": "censura estatal do avanço de programas de inteligência artificial."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Sociologia – Tecnologia e Sociedade",
+        "Filosofia – Ética na Tecnologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "A uberização nomeia um novo tipo de gestão e contro-le da força de trabalho, também compreendida como uma tendência passível de se generalizar no âmbito das relações de trabalho. [...] Resultando das formas contemporâneas de eliminação de direitos, transferência de riscos e custos para os trabalhadores e novos arranjos produtivos, ela em alguma medida sintetiza processos em curso há décadas, ao mesmo tempo em que se apresenta como tendência para o futuro do trabalho. O tema ganha visibilidade com a formação de enormes contingentes de trabalhadores controlados por em-presas que operam por meio de plataformas digitais.\n\n(Ludmila Costhek Abílio et al. \"Uberização e plataformização do trabalho no Brasil: conceitos, processos e formas\". Sociologias, 2021.)\n\nO excerto aborda as novas relações trabalhistas mediadas por plataformas digitais. Com tais relações, nos próximos anos o futuro do trabalho será definido pela",
+      "alternativas": {
+        "A": "autogestão do trabalhador na relação com grandes empresas.",
+        "B": "queda na geração de vagas no setor informal.",
+        "C": "persistência de mecanismos de exploração.",
+        "D": "extinção de postos de serviço no setor primário.",
+        "E": "flexibilidade na jornada de trabalho do profissional não autônomo."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Sociologia – Relações de Trabalho",
+        "Geografia – Economia do Trabalho"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Um imperativo adequado ao novo tipo de agir humano e voltado para o novo tipo de sujeito atuante deveria ser mais ou menos assim: \"Aja de modo a que os efeitos da sua ação sejam compatíveis com a permanência de uma autêntica vida humana sobre a Terra\"; ou, expresso negativamente: \"Aja de modo a que os efeitos da sua ação não sejam destrutivos para a possibilidade futura de uma tal vida; ou, simplesmente: “Não ponha em perigo as condições necessárias para a con-servação indefinida da humanidade sobre a Terra\". O atual imperativo humano se estende em direção a um previsível futuro concreto, que constitui a dimensão inacabada de nos-sa responsabilidade.\n\n(Hans Jonas. O princípio responsabilidade, 2006. Adaptado.)\n\nConsiderando o excerto e as atuais questões ambientais, Hans Jonas defende",
+      "alternativas": {
+        "A": "o estabelecimento de uma ética normativa.",
+        "B": "o planejamento de uma nova conferência mundial sobre o tema.",
+        "C": "a fundamentação das decisões individuais isoladas.",
+        "D": "a manutenção dos impactos humanos na natureza.",
+        "E": "a constituição de um órgão intergovernamental."
+      },
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Filosofia – Ética Ambiental",
+        "Sociologia – Sustentabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 61,
+      "enunciado": "O mês de maio é dedicado à conscientização e combate à doença celíaca, uma condição autoimune que afeta cerca de 1% da população mundial. Mas, apesar de sua prevalência, a doença celíaca ainda é pouco conhecida e pouco diagnosticada dentre muitos casos, o que pode levar a complicações de saúde. A doença celíaca ocorre quando o sistema imunológico reage de forma anormal ao glúten, uma proteína presente em muitos alimentos. Isso pode causar inflamação e danos no revestimento do intestino delgado, prejudicando a absorção de nutrientes. Os sintomas podem incluir dor abdominal, diarreia, inchaço e perda de peso. (https://fbg.org.br, maio de 2023. Adaptado.)\n\nO tratamento efetivo contra a doença celíaca exige a interrupção do consumo de alimentos que contenham",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "frutas cítricas."
+        },
+        {
+          "letra": "B",
+          "texto": "farinha de trigo."
+        },
+        {
+          "letra": "C",
+          "texto": "leite de vaca."
+        },
+        {
+          "letra": "D",
+          "texto": "carne bovina."
+        },
+        {
+          "letra": "E",
+          "texto": "ovos."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Biologia – Doenças do Sistema Digestório",
+        "Biologia – Imunologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 62,
+      "enunciado": "O clima quente do país [Brasil] exige a utilização, em grandes quantidades, de defensivos agrícolas, a fim de proteger as lavouras de pragas e de ervas daninhas. Esses defensivos podem gerar impactos significativos sobre a flora e a fauna. Desde meados dos anos 2000, toda uma linha de pesquisa na Unesp tem procurado investigar o impacto desses defensivos sobre as populações de abelhas, animais que desempenham um trabalho ambiental fundamental para a manutenção tanto das matas quanto das próprias lavouras. (https://jornal.unesp.br, 20.05.2022. Adaptado.)\n\nO trabalho ambiental fundamental realizado pelas abelhas, citado no excerto,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aumenta a chance de ocorrer fecundação cruzada em certos vegetais."
+        },
+        {
+          "letra": "B",
+          "texto": "elimina as pragas agrícolas resistentes aos inseticidas."
+        },
+        {
+          "letra": "C",
+          "texto": "reduz a necessidade do uso frequente de defensivos agrícolas."
+        },
+        {
+          "letra": "D",
+          "texto": "impede a autofecundação em plantas que produzem flores."
+        },
+        {
+          "letra": "E",
+          "texto": "aumenta a quantidade de insetos resistentes aos inseticidas."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Biologia – Polinização",
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 63,
+      "enunciado": "O fenômeno da bioluminescência ocorre em organismos que emitem luz por meio da reação química de oxidação da luciferina catalisada pela enzima luciferase. Em vaga-lumes, a emissão de luz pela extremidade do abdome atrai parceiros para a reprodução, mas também chama a atenção de predadores.\n\nDe acordo com a teoria sintética da evolução, a biolumines-cência em vaga-lumes pode ser explicada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pelo estímulo ambiental, que induziu indivíduos adapta-dos a expressarem mais intensamente esse fenômeno."
+        },
+        {
+          "letra": "B",
+          "texto": "pela seleção natural em populações que viviam em am-bientes escuros e emitiam luz através desse fenômeno."
+        },
+        {
+          "letra": "C",
+          "texto": "por mutações e recombinações gênicas em indivíduos que passaram a alterar os alelos responsáveis por esse fenômeno."
+        },
+        {
+          "letra": "D",
+          "texto": "pela necessidade de sobrevivência no escuro, que esti-mulou a produção de moléculas envolvidas nesse fenô-meno."
+        },
+        {
+          "letra": "E",
+          "texto": "pela seleção natural de indivíduos que expressavam os alelos correspondentes às moléculas envolvidas nesse fenômeno."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Biologia – Evolução",
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 64,
+      "enunciado": "Leia um trecho da história em quadrinhos \"Asterios Polyp\", de David Mazzucchelli.\n\nSABE AQUELE TROÇO DAS\nPESSOAS SENTIREM VONTADE\nDE FICAR COM ALGUÉM NOVO\nA CADA SETE ANOS?\nISSO ACONTECE PORQUE ESSE\nÉ O TEMPO QUE LEVA PRA TODAS\nAS CÉLULAS DO CORPO\nSE RENOVAREM -\nAÍ A CADA SETE ANOS\nVOCÊ, TIPO, VIRA UMA\nPESSOA TOTALMENTE\nNOVA.\nTÁ, MAS COM\nA MESMA\nMENTE,\nSUA ANTA!\nSEMPRE ACHEI QUE AS\nPESSOAS FICAM JUNTAS\nPOR UMA MESCLA DE\nATRAÇÃO FÍSICA E\nATRAÇÃO MENTAL...\n\n(Asterios Polyp, 2011. Adaptado.)\n\nO pensamento resulta da atividade neurológica do cérebro. A enorme maioria dos neurônios que formam o cérebro não é renovada ao longo da vida porque esses neurônios",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "são desprovidos de centríolos."
+        },
+        {
+          "letra": "B",
+          "texto": "mantêm todos os genes inibidos."
+        },
+        {
+          "letra": "C",
+          "texto": "são incapazes de formar microtúbulos."
+        },
+        {
+          "letra": "D",
+          "texto": "permanecem na fase G0 da interfase."
+        },
+        {
+          "letra": "E",
+          "texto": "sofrem apoptose celular."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Biologia – Divisão Celular",
+        "Biologia – Tecido Nervoso"
+      ]
+    },
+    {
+      "numeroEnunciado": 65,
+      "enunciado": "Analise o gráfico que apresenta a porcentagem de células sanguíneas (hematopoiese) que diferentes órgãos humanos produzem ao longo das fases pré-natal e pós-natal. (https://basicmedicalkey.com. Adaptado.)\n\nDe acordo com o gráfico, as células sanguíneas são produ-zidas,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "no início da fase pré-natal, por um anexo embrionário que reserva excretas nitrogenadas."
+        },
+        {
+          "letra": "B",
+          "texto": "no final da fase pré-natal, pela medula óssea amarela e pela medula óssea vermelha."
+        },
+        {
+          "letra": "C",
+          "texto": "na fase pré-natal, por um órgão responsável pela produ-ção de sais biliares."
+        },
+        {
+          "letra": "D",
+          "texto": "na fase pós-natal, por órgãos do sistema locomotor liga-dos a músculos lisos."
+        },
+        {
+          "letra": "E",
+          "texto": "na fase pós-natal e a partir dos 30 anos de idade, pelos ossos do sistema esquelético axial."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Biologia – Fisiologia Humana",
+        "Biologia – Hematologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 66,
+      "enunciado": "Pesquisadores avaliaram o perfil epidemiológico dos aci-dentes ofídicos ocorridos no estado de Minas Gerais entre os anos de 2007 e 2019. Dentre as espécies de serpentes envolvidas, o gênero Bothrops apresentou maiores índi-ces de acidentes ofídicos, seguido por Crotalus, Micrurus e Lachesis. O gráfico apresenta informações sobre o número de registros de acidentes ofídicos por mês, na localidade es-tudada, considerando-se apenas esses quatro gêneros de serpentes. (\"Padrões espaço-temporais dos acidentes ofídicos no estado de Minas Gerais, Brasil\". Journal of Environmental Analysis and Progress, 2022. Adaptado.)\n\nA análise do gráfico permite concluir que a frequência de acidentes ofídicos foi",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "menor no inverno, período em que as serpentes têm a percepção por meio de seus sensores térmicos reduzida."
+        },
+        {
+          "letra": "B",
+          "texto": "maior no inverno, período em que as serpentes apresen-tam menor desidratação pela superfície corporal."
+        },
+        {
+          "letra": "C",
+          "texto": "menor no inverno, período em que as serpentes dispu-tam alimentos com mais predadores."
+        },
+        {
+          "letra": "D",
+          "texto": "maior no verão, período em que as serpentes permane-cem ativas por mais tempo ao longo dos dias."
+        },
+        {
+          "letra": "E",
+          "texto": "menor no verão, período em que as serpentes se escon-dem em locais sombreados e mais frescos."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Biologia – Zoologia",
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 67,
+      "enunciado": "Os alelos responsáveis pela determinação genética dos antígenos do sistema sanguíneo ABO estão localizados em um lócus do cromossomo 9. Já o gene para um tipo de daltonismo está localizado em uma região específica do cromossomo sexual X. A imagem a seguir ilustra os dois pa-res de cromossomos de uma mulher que estão relacionados aos referidos genes.\n\nCROMOSSOMOS 9 \nCROMOSSOMOS X\n\n(A)\n(D)   (d)\n\nCaso essa mulher se case com um homem do grupo sanguí-neo O e não daltônico, a probabilidade de gerarem",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "um menino daltônico e do grupo sanguíneo O é 75%."
+        },
+        {
+          "letra": "B",
+          "texto": "uma criança daltônica é 25%."
+        },
+        {
+          "letra": "C",
+          "texto": "uma menina do grupo sanguíneo A é 50%."
+        },
+        {
+          "letra": "D",
+          "texto": "uma criança do grupo sanguíneo O é zero."
+        },
+        {
+          "letra": "E",
+          "texto": "uma menina daltônica e do grupo sanguíneo A é 25%."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Biologia – Genética",
+        "Biologia – Herança de Genes"
+      ]
+    },
+    {
+      "numeroEnunciado": 68,
+      "enunciado": "A Agência Nacional de Vigilância Sanitária (Anvisa) estabele-ce que produtos alimentícios que contenham algum nutriente em quantidade elevada e prejudicial à saúde, como açúcar, sódio e gordura, apresentem essa informação em seus rótu-los por meio de figuras padronizadas.\n\nALTO EM SÓDIO\nALTO EM AÇÚCAR ADICIONADO\n(www.gov.br)\n\nAs gorduras são constituídas por misturas de triglicerídeos que, quando hidrolisados no organismo humano, produzem diferentes moléculas de ácidos graxos. O quadro mostra as fórmulas químicas dos ácidos graxos obtidos em maior por-centagem na hidrólise enzimática de dois tipos de gorduras, Xe Y.\n\nTipo de gordura | Ácido graxo obtido em maior porcentagem na hidrólise enzimática\n---|---\nX | CH$_{3}$–(CH$_{2}$)$_{8}$–COOH\nY | CH$_{3}$–(CH$_{2}$)$_{7}$–CH=CH–(CH$_{2}$)$_{5}$–COOH\n\nA hidrólise enzimática da gordura ______ produz maior porcentagem de ácidos graxos _______, que contribuem para a manutenção dos níveis adequados de lipoproteínas do tipo _______. Essas lipoproteínas ajudam a eliminar o excesso de colesterol do sangue e a prevenir a prevenção de vasos sanguíneos.\n\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Y - insaturados – LDL."
+        },
+        {
+          "letra": "B",
+          "texto": "X - saturados – LDL."
+        },
+        {
+          "letra": "C",
+          "texto": "Y - saturados – HDL."
+        },
+        {
+          "letra": "D",
+          "texto": "X - insaturados – HDL."
+        },
+        {
+          "letra": "E",
+          "texto": "Y - insaturados – HDL."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Química – Bioquímica",
+        "Química – Funções Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 69,
+      "enunciado": "O exame de diagnóstico por imagem denominado PET-Scan (sigla em inglês para Tomografia por Emissão de Pósitrons) utiliza como emissor de pósitrons ( $^{+1}_{0}e$ ) o radionuclídeo $^{18}F$. Ao emitir um pósitron, esse radionuclídeo transforma-se no isó-topo $^{18}O$, cujo número de prótons e número de nêutrons são, respectivamente, iguais a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8 e 10."
+        },
+        {
+          "letra": "B",
+          "texto": "9 e 10."
+        },
+        {
+          "letra": "C",
+          "texto": "8 e 9."
+        },
+        {
+          "letra": "D",
+          "texto": "10 e 8."
+        },
+        {
+          "letra": "E",
+          "texto": "10 e 9."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Química – Radioatividade",
+        "Física – Física Nuclear"
+      ]
+    },
+    {
+      "numeroEnunciado": 70,
+      "enunciado": "Um produto químico sob forma de aerossol, empregado para lubrificar e soltar peças travadas, apresenta em sua embala-gem os seguintes símbolos (pictogramas):\n\n[Símbolo de inflamável (chama) e símbolo de substância nociva/irritante (ponto de exclamação)]\n\n(https://echa.europa.eu)\n\nEsses símbolos indicam que o produto deve ser armazenado em local",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aquecido, longe do fogo, e utilizado em ambiente venti-lado."
+        },
+        {
+          "letra": "B",
+          "texto": "fresco, longe do fogo, e utilizado em ambiente fechado."
+        },
+        {
+          "letra": "C",
+          "texto": "fresco, perto do fogo, e utilizado em ambiente ventilado."
+        },
+        {
+          "letra": "D",
+          "texto": "aquecido, perto de fontes de calor, e utilizado em am-biente fechado."
+        },
+        {
+          "letra": "E",
+          "texto": "fresco, longe do fogo, e utilizado em ambiente ventilado."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Química – Segurança Química",
+        "Química – Reações Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 71,
+      "enunciado": "O sistema Li/MnO$_{2}$ é o exemplo mais representativo das pilhas primárias (de uso único) de lítio.\n\n[Imagem de uma pilha de lítio CR2032 3V SC]\n\n(www.smartkits.com.br)\n\nEssas pilhas empregam eletrólitos dissolvidos em sol-ventes não aquosos, em recipientes selados.\n\nO processo de descarga dessa pilha envolve a reação\n$$4Li + MnO_{2} \\rightarrow 2Li_{2}O + Mn$$\n\nEssa pilha fornece uma diferença de potencial (voltagem) em torno de $3,0 \\; V$ à temperatura ambiente, mas mostra exce-lente desempenho em temperaturas superiores.\n\nA grande vantagem das pilhas à base de lítio é a ausên-cia de metais pesados reconhecidamente danosos ao meio ambiente, como mercúrio, cádmio e chumbo. Porém, os peri-gos relativos à pilha Li/MnO$_{2}$ são de outra natureza, estando relacionados ao seu descarte e reciclagem. Após a corrosão do invólucro externo, é liberado o solvente não aquoso, in-flamável e tóxico. O lítio metálico não reagido, em contato com água e umidade do ar, desprende calor e gás inflamável (hidrogênio), podendo levar à ignição do produto descartado. Por isso, a presença de voltagem residual nesse resíduo é um problema, pois significa a presença de lítio metálico.\n\nAs características listadas para a pilha de lítio tornam a disposição final inadequada e até mesmo a reciclagem uma operação de risco, pela possibilidade de fogo e explosão. (Jéssica Frontino Paulino et al. \"Processamento de pilhas Li/MnO$_{2}$ usadas\". Quim. Nova, vol. 30, 2007. Adaptado.)\n\nPara tornar a reciclagem dessa pilha mais segura, o ideal seria o seu descarregamento completo antes do descarte, evitando assim a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "evaporação do solvente inflamável."
+        },
+        {
+          "letra": "B",
+          "texto": "redução do lítio metálico pelo oxigênio do ar."
+        },
+        {
+          "letra": "C",
+          "texto": "reação do óxido de lítio com a água."
+        },
+        {
+          "letra": "D",
+          "texto": "oxidação do lítio metálico pela água."
+        },
+        {
+          "letra": "E",
+          "texto": "interação da umidade do ar com o solvente inflamável."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Química – Eletroquímica",
+        "Química – Reações Químicas",
+        "Química – Meio Ambiente"
+      ]
+    },
+    {
+      "numeroEnunciado": 72,
+      "enunciado": "A montagem de laboratório ilustrada na figura destina-se à coleta e medida do volume de produto gasoso gerado numa reação química.\n\n[Diagrama de montagem de laboratório com seringa, erlenmeyer com CaCO$_{3}$(s), e cuba com cilindro graduado coletando CO$_{2}$(g) + H$_{2}$O(g)]\n\nEm um experimento, envolvendo a produção de dióxido de carbono gasoso, CO$_{2}$ (g), a partir da reação entre carbonato de cálcio, CaCO$_{3}$ (s), e solução aquosa diluída de ácido clo-rídrico, HCl (aq), o líquido empregado para a coleta do gás foi a água acidulada. Um comprimido de CaCO$_{3}$ foi triturado e uma porção do pó resultante foi colocada no erlenmeyer da montagem e posta para reagir com solução de HCl, adicio-nada a partir da seringa da montagem. Após a reação, o pro-duto gasoso coletado no cilindro graduado teve seu volume determinado, sendo igual a $30 \\; mL$. Sabe-se que o produto gasoso recolhido é uma mistura de dióxido de carbono gaso-so e vapor de água.\n\nConsiderando que o experimento foi realizado sob pressão atmosférica de $726,7 \\; mmHg$ e temperatura de $27 \\;^{\\circ}C$, que a pressão de vapor da água a $27 \\;^{\\circ}C$ é igual a $26,7 \\; mmHg$ e que a constante universal dos gases, $R$, é igual a $62,3 \\; mmHg \\; L \\; mol^{-1} \\; K^{-1}$, a massa de carbonato de cálcio que reagiu na produção de dióxido de carbono gasoso foi de, aproximadamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$1,0 \\; g$."
+        },
+        {
+          "letra": "B",
+          "texto": "$0,001 \\; g$."
+        },
+        {
+          "letra": "C",
+          "texto": "$0,1 \\; g$."
+        },
+        {
+          "letra": "D",
+          "texto": "$0,01 \\; g$."
+        },
+        {
+          "letra": "E",
+          "texto": "$10 \\; g$."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Química – Estequiometria",
+        "Química – Gases",
+        "Física – Termodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 73,
+      "enunciado": "Analise a tabela, que apresenta valores da entalpia padrão de combustão completa ( $\\Delta H^{0}_{c}$ ) de três substâncias diferentes.\n\n| Substância | Fórmula | Produtos da combustão completa | $\\Delta H^{0}_{c}$ de combustão completa (kJ/mol) |\n|---|---|---|---|\n| Ácido acético | C$_{2}$H$_{4}$O$_{2}$ (l) | CO$_{2}$ (g) e H$_{2}$O (l) | -874 |\n| Carbono | C (s,grafita) | CO$_{2}$ (g) | -394 |\n| Hidrogênio | H$_{2}$ (g) | H$_{2}$O (l) | -286 |\n\nA partir desses valores de entalpia de combustão, é possível calcular a entalpia de formação do ácido acético, que é, em $kJ/mol$, igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "– 486."
+        },
+        {
+          "letra": "B",
+          "texto": "+ 1052."
+        },
+        {
+          "letra": "C",
+          "texto": "– 1554."
+        },
+        {
+          "letra": "D",
+          "texto": "296."
+        },
+        {
+          "letra": "E",
+          "texto": "+ 19,4."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Química – Termoquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 74,
+      "enunciado": "Água de cal é o nome dado à solução aquosa saturada de cal hidratada [hidróxido de cálcio, Ca(OH)$_{2}$]. A concentração dessa solução saturada a $20 \\;^{\\circ}C$ é de $1,7 \\; g/L$. A partir desse dado, estima-se que o valor da constante do produto de solu-bilidade em água ($K_{ps}$) nessa temperatura é próximo de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$8 \\times 10^{-6}$."
+        },
+        {
+          "letra": "B",
+          "texto": "$4 \\times 10^{-6}$."
+        },
+        {
+          "letra": "C",
+          "texto": "$5 \\times 10^{-7}$."
+        },
+        {
+          "letra": "D",
+          "texto": "$8 \\times 10^{-4}$."
+        },
+        {
+          "letra": "E",
+          "texto": "$5 \\times 10^{-5}$."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Química – Solubilidade",
+        "Química – Equilíbrio Químico"
+      ]
+    },
+    {
+      "numeroEnunciado": 75,
+      "enunciado": "Uma das etapas da fermentação láctea consiste na transfor-mação de ácido pirúvico em ácido láctico, pela reação repre-sentada pela equação:\n\n[Diagrama de reação química de ácido pirúvico para ácido láctico com [H] e grupos OH.]\n\nNa transformação de ácido pirúvico em ácido láctico ocorre __________ do grupo __________ de um composto opticamente __________, formando um composto optica-mente __________. As lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "redução - carbonila - ativo – inativo."
+        },
+        {
+          "letra": "B",
+          "texto": "redução - carbonila – inativo – ativo."
+        },
+        {
+          "letra": "C",
+          "texto": "redução – carboxila – inativo – ativo."
+        },
+        {
+          "letra": "D",
+          "texto": "oxidação – carbonila – inativo – ativo."
+        },
+        {
+          "letra": "E",
+          "texto": "oxidação – carboxila – ativo – inativo."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Química – Reações Orgânicas",
+        "Química – Estereoquímica",
+        "Biologia – Metabolismo Energético"
+      ]
+    },
+    {
+      "numeroEnunciado": 76,
+      "enunciado": "Uma pessoa estava parada com seu veículo em um semá-foro. Quando a luz verde do semáforo se acendeu, o veículo partiu e o movimento realizado até o seu destino pode ser dividido em quatro trechos:\n\nTrecho 1: veículo em movimento acelerado;\nTrecho 2: veículo em movimento uniforme;\nTrecho 3: percebendo que havia passado do endereço para onde ia, a pessoa freou o veículo até parar, e inverteu o sentido de seu movimento, com a mes-ma aceleração escalar com que havia freado;\nTrecho 4: nova frenagem, chegando ao seu destino, onde parou o veículo.\n\nOs três gráficos, I, II e III, mostram como variaram, em fun-ção do tempo, três grandezas escalares associadas ao mo-vimento desse veículo, sem identificá-las, nos quatro trechos descritos.\n\n[Três gráficos (I, II, III) mostrando funções de tempo para cada um dos quatro trechos.]\n\nSabendo que, enquanto se movia nesse trajeto, o veículo só esteve em movimento uniforme ou em movimento uniforme-mente variado, os gráficos I, II e III representam, respectiva-mente, as grandezas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "posição, aceleração e velocidade."
+        },
+        {
+          "letra": "B",
+          "texto": "velocidade, aceleração e posição."
+        },
+        {
+          "letra": "C",
+          "texto": "velocidade, posição e aceleração."
+        },
+        {
+          "letra": "D",
+          "texto": "aceleração, posição e velocidade."
+        },
+        {
+          "letra": "E",
+          "texto": "aceleração, velocidade e posição."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 77,
+      "enunciado": "A figura 1 representa uma molécula de DNA, que se asseme-lha a uma escada contorcida, isto é, tem o formato de uma dupla hélice. Analisado quimicamente, o DNA apresenta duas fitas complementares unidas por ligações existentes entre os pares de bases nitrogenadas, que podem ser adenina, citosi-na, timina ou guanina.\n\n[Figura 1: Representação de uma molécula de DNA em dupla hélice.]\n\n(www.biologianet.com. Adaptado.)\n\nConsidere que as duas bases nitrogenadas, B$_{1}$ e B$_{2}$, repre-sentadas na figura 2 por suas fórmulas estruturais, sejam li-gadas uma à outra apenas pelas ações das forças elétricas F$_{1}$, F$_{2}$, F$_{3}$ e F$_{4}$ decorrentes das combinações O—H⋯N e N—H⋯N, mostradas em destaque, e que essas combina-ções sejam paralelas entre si.\n\n[Figura 2: Estruturas químicas das bases B$_{1}$ e B$_{2}$ com as forças F$_{1}$, F$_{2}$, F$_{3}$ e F$_{4}$ indicadas entre os átomos.]\n\n(Hugh D. Young e Roger A. Freedman. Física III. Eletromagnetismo, 2016. Adaptado.)\n\nSabendo que as intensidades das forças são $F_{1} = 8,0 \\times 10^{-9} \\; N$, $F_{2} = 3,0 \\times 10^{-9} \\; N$, $F_{3} = 2,6 \\times 10^{-9} \\; N$ e $F_{4} = 6,4 \\times 10^{-9} \\; N$, e considerando os possíveis pareamentos entre as bases nitrogenadas no DNA, as bases B$_{1}$ e B$_{2}$ são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "guanina e timina, e a intensidade da força elétrica resul-tante que B$_{2}$ exerce em B$_{1}$ é $8,8 \\times 10^{-9} \\; N$."
+        },
+        {
+          "letra": "B",
+          "texto": "citosina e adenina, e a intensidade da força elétrica resul-tante que B$_{2}$ exerce em B$_{1}$ é $2,0 \\times 10^{-9} \\; N$."
+        },
+        {
+          "letra": "C",
+          "texto": "timina e adenina, e a intensidade da força elétrica resul-tante que B$_{2}$ exerce em B$_{1}$ é $8,8 \\times 10^{-9} \\; N$."
+        },
+        {
+          "letra": "D",
+          "texto": "timina e adenina, e a intensidade da força elétrica resul-tante que B$_{2}$ exerce em B$_{1}$ é $2,0 \\times 10^{-8} \\; N$."
+        },
+        {
+          "letra": "E",
+          "texto": "citosina e guanina, e a intensidade da força elétrica resul-tante que B$_{2}$ exerce em B$_{1}$ é $1,2 \\times 10^{-9} \\; N$."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Eletrostática",
+        "Biologia – Biologia Molecular"
+      ]
+    },
+    {
+      "numeroEnunciado": 78,
+      "enunciado": "Em uma brincadeira, uma pessoa coloca um copo com a boca para baixo, encostada na superfície parada da água de uma piscina e, cuidadosamente, o afunda $2,5 \\; m$ abaixo da superfície da água, onde mantém o copo em repouso, ainda de boca para baixo, com um pouco de ar aprisionado em seu interior e com um pouco de água que entrou no copo. A figura mostra o copo nessas duas posições.\n\n[Diagrama mostrando um copo em duas posições: inicial (na superfície da água) e final (submerso a 2,5 m, com ar dentro).]\n\nConsidere o ar um gás ideal e os valores $10^{3} \\; \\frac{kg}{m^{3}}$ para a densidade da água da piscina, $10^{5} \\; Pa$ para a pressão atmos-férica local e $10 \\; \\frac{m}{s^{2}}$ para a aceleração da gravidade. Sendo $V_{1}$ o volume ocupado pelo ar no copo na posição inicial, $V_{2}$ o volume ocupado pelo ar no copo na posição final, e conside-rando a temperatura do ar dentro do copo constante nesse processo, o valor da razão $ \\frac{V_{2}}{V_{1}} $ é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,50."
+        },
+        {
+          "letra": "B",
+          "texto": "0,80."
+        },
+        {
+          "letra": "C",
+          "texto": "0,75."
+        },
+        {
+          "letra": "D",
+          "texto": "0,25."
+        },
+        {
+          "letra": "E",
+          "texto": "0,40."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Física – Fluidos",
+        "Física – Termodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 79,
+      "enunciado": "A escala Brix, com valores expressos em $°Bx$ (graus brix), é uma escala numérica que indica a quantidade de sólidos solúveis em uma solução de sacarose. Essa escala é utili-zada na indústria de alimentos para medir a porcentagem aproximada de açúcares em sucos de fruta, vinhos, bebi-das carbonatadas etc. Uma solução de $25 \\; °Bx$, por exem-plo, tem $25 \\; gramas$ de açúcar de sacarose por $100 \\; gramas$ da solução. O gráfico mostra a relação entre a escala Brix e o índice de refração absoluto de uma solução de sacarose.\n\n[Gráfico de Escala Brix (°Bx) vs. Índice de refração.]\n\n(www.omega.com. Adaptado.)\n\nConsidere um raio de luz monocromática que, propagando-se pelo ar, incide na superfície que separa o ar de uma solução de sacarose de $40 \\; °Bx$. Adotando $c = 3 \\times 10^{8} \\; m/s$, quando esse raio refratar-se para a solução de sacarose, terá veloci-dade de propagação de, aproximadamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$1,0 \\times 10^{8} \\; m/s$."
+        },
+        {
+          "letra": "B",
+          "texto": "$2,8 \\times 10^{8} \\; m/s$."
+        },
+        {
+          "letra": "C",
+          "texto": "$2,1 \\times 10^{8} \\; m/s$."
+        },
+        {
+          "letra": "D",
+          "texto": "$1,2 \\times 10^{8} \\; m/s$."
+        },
+        {
+          "letra": "E",
+          "texto": "$0,8 \\times 10^{8} \\; m/s$."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Óptica",
+        "Física – Ondas",
+        "Química – Soluções"
+      ]
+    },
+    {
+      "numeroEnunciado": 80,
+      "enunciado": "A icterícia, condição bastante comum em recém-nasci-dos, é caracterizada pela cor amarelada da pele. Esse pro-blema relaciona-se à dificuldade do fígado para metabolizar a bilirrubina, um pigmento gerado pelo metabolismo das cé-lulas vermelhas do sangue. A principal terapia em uso para icterícia é a fototerapia, com a exposição do recém-nascido a uma fonte luminosa.\n\nDevido às propriedades da bilirrubina e da pele, a luz mais efetiva para esse tratamento é a com comprimentos de onda predominantemente entre $425 \\; nm$ e $475 \\; nm$, no espec-tro da cor azul. Luzes de outras cores, como a verde, têm es-pectro de emissão fora do espectro de absorção da molécula de bilirrubina. Já a luz ultravioleta emitida pelas lâmpadas de fototerapia é praticamente absorvida em sua totalidade pelo vidro da lâmpada e pela cobertura da unidade de fototerapia. (Scientia Medica, v. 15, abril/junho de 2005. Adaptado.)\n\nA figura mostra a curva de absorção da bilirrubina em função do comprimento de onda da luz.\n\n[Gráfico de Curva de absorção da bilirrubina em função do comprimento de onda (nm), com pico de absorção em aproximadamente 461 nm.]\n\n(www.sarda.org.ar. Adaptado.)\n\nAdotando-se $c = 3 \\times 10^{8} \\; m/s$, sabendo que $1 \\; nm = 10^{-9} \\; m$ e de acordo com as informações do texto e da figura, tem-se que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as cores com frequências entre $0,425 \\; Hz$ e $0,475 \\; Hz$ são mais efetivas no tratamento de fototerapia para a icterícia."
+        },
+        {
+          "letra": "B",
+          "texto": "as cores com comprimentos de onda maiores do que os da cor verde são as mais absorvidas pela bilirrubina."
+        },
+        {
+          "letra": "C",
+          "texto": "a luz ultravioleta, por ter frequência menor do que a luz azul, não é efetiva no tratamento da icterícia."
+        },
+        {
+          "letra": "D",
+          "texto": "a cor com frequência aproximada de $6,5 \\times 10^{14} \\; Hz$ é a mais efetiva no tratamento da icterícia."
+        },
+        {
+          "letra": "E",
+          "texto": "cores de frequências maiores do que a da cor verde não são absorvidas pela molécula da bilirrubina."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Ondas",
+        "Biologia – Fisiologia Humana"
+      ]
+    },
+    {
+      "numeroEnunciado": 81,
+      "enunciado": "A imagem, produzida por um microscópio eletrônico, mostra uma seção transversal de uma fibra nervosa responsável pela transmissão de informações por meio de sinais elétricos. Essa fibra é composta pelo axônio, região central, envolvida pela mielina, uma substância gordurosa.\n\n[Imagem de microscopia eletrônica de uma seção transversal de fibra nervosa, com mielina e axônio identificados.]\n\n(Hugh D. Young e Roger A. Freedman. Física III. Eletromagnetismo, 2016.)\n\nSabendo que a resistividade elétrica da mielina é muito maior do que a resistividade elétrica do axônio, um sinal elétrico transmitido por essa fibra nervosa",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mantém-se confinado no axônio, o que contribui para um aumento na velocidade de transmissão da informação."
+        },
+        {
+          "letra": "B",
+          "texto": "mantém-se confinado na mielina, o que contribui para uma diminuição na velocidade de transmissão da informação."
+        },
+        {
+          "letra": "C",
+          "texto": "mantém-se confinado no axônio, o que contribui para uma diminuição na velocidade de transmissão da informação."
+        },
+        {
+          "letra": "D",
+          "texto": "mantém-se confinado na mielina, o que contribui para um aumento na velocidade de transmissão da informação."
+        },
+        {
+          "letra": "E",
+          "texto": "distribui-se igualmente pela mielina e pelo axônio, o que contribui para um aumento na velocidade de transmissão da informação."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Física – Eletricidade",
+        "Biologia – Tecido Nervoso"
+      ]
+    },
+    {
+      "numeroEnunciado": 82,
+      "enunciado": "Alguns peixes, como os tubarões, orientam-se sentindo o campo magnético da Terra. Como cada local na Terra tem uma assinatura magnética diferente, supõem-se que esses peixes possam guardar no cérebro algum tipo de mapa mag-nético que os informa sobre onde estão. Para verificar essa suposição, foi realizado um experimento colocando tubarões em um tanque cercado por um cubo envolto em fios de co-bre, pelos quais fez-se passar corrente elétrica. Essa corren-te modificou o campo magnético da região, desorientando os tubarões. (www.nationalgeographicbrasil.com. Adaptado.)\n\nSuponha que a figura, fora de escala, represente uma das fa-ces do cubo que cercou o tanque em que esse experimento foi realizado, envolvido por um fio de cobre com o formato de um solenoide, percorrido por uma corrente elétrica contínua ($i$) no sentido indicado. Considere que um tubarão esteja nadan-do ao longo do eixo longitudinal do solenoide, sujeito, simulta-neamente, ao campo magnético criado pela Terra na região, $\\vec{B}_{T}$, indicado na figura, e ao campo magnético criado pela cor-rente que circula pelo solenoide.\n\n[Diagrama de um solenoide com a direção da corrente i, o eixo do solenoide e o campo magnético terrestre $\\vec{B}_{T}$ indicado. Símbolos $\\odot$ e $\\otimes$ são definidos para vetores saindo e entrando do plano.]\n\nConsidere que $\\vec{B}_{T}$ esteja contido no plano da figura, que $\\odot$ represente um vetor saindo do plano desta folha e que $\\otimes$ represente um vetor entrando no plano desta folha. A repre-sentação do campo magnético sentido pelo tubarão, devido aos efeitos simultâneos do campo magnético terrestre e da corrente que circula pelo solenoide, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "[Imagem de um vetor entrando no plano ($\\\\otimes$)]"
+        },
+        {
+          "letra": "B",
+          "texto": "[Imagem de um vetor apontando diagonalmente para cima e para a direita]"
+        },
+        {
+          "letra": "C",
+          "texto": "[Imagem de um vetor saindo do plano ($\\odot$)]"
+        },
+        {
+          "letra": "D",
+          "texto": "[Imagem de um vetor apontando para a direita]"
+        },
+        {
+          "letra": "E",
+          "texto": "[Imagem de um vetor apontando para cima]"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Física – Eletromagnetismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 83,
+      "enunciado": "Analise o gráfico, que contém dados de matrículas no en-sino superior presencial das 27 unidades da nossa Federa-ção. Considere que essa rede de ensino superior presencial distribui-se apenas em privada ou pública.\n\nRazão, por unidade da Federação, entre o número de matrículas no ensino superior privado e o número de matrículas no ensino superior público - Brasil 2021\n\n[Gráfico de barras mostrando a razão de matrículas no ensino superior privado/público para 27 unidades da federação no Brasil em 2021.]\n\n(\"Censo da educação superior 2021\". https://inep.gov.br, 2022. Adaptado.)\n\nA análise do gráfico revela que o número de unidades da Federação com $60\\%$ ou mais de matrículas no ensino supe-rior presencial sendo da rede privada é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10."
+        },
+        {
+          "letra": "B",
+          "texto": "13."
+        },
+        {
+          "letra": "C",
+          "texto": "7."
+        },
+        {
+          "letra": "D",
+          "texto": "19."
+        },
+        {
+          "letra": "E",
+          "texto": "12."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Geografia – Demografia",
+        "Sociologia – Educação"
+      ]
+    },
+    {
+      "numeroEnunciado": 84,
+      "enunciado": "Um trapézio retângulo ABCD foi dividido em um paralelogra-mo EBCF, um triângulo retângulo EFG e um retângulo AEGD de áreas denotadas por $S_{1}$, $S_{2}$ e $S_{3}$, respectivamente. O trapézio, representado no plano cartesiano, mostra que os vértices dos três polígonos estão perfeitamente situados na interseção de linhas da malha quadriculada.\n\n[Imagem de um trapézio retângulo ABCD em um plano cartesiano, dividido em um paralelogramo EBCF ($S_{1}$), um triângulo retângulo EFG ($S_{2}$) e um retângulo AEGD ($S_{3}$). As áreas estão rotuladas incorretamente, a área do paralelogramo é $S_{1}$, do triângulo é $S_{2}$ e do retângulo é $S_{3}$.]\n\nA relação entre as três áreas mencionadas é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$25 \\cdot S_{1} = 12 \\cdot S_{2} = 10 \\cdot S_{3}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$2 \\cdot S_{1} = S_{2} = S_{3}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$5 \\cdot S_{1} = 2 \\cdot S_{2} = 2 \\cdot S_{3}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$12 \\cdot S_{1} = 5 \\cdot S_{2} = 5 \\cdot S_{3}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$25 \\cdot S_{1} = 10 \\cdot S_{2} = 12 \\cdot S_{3}$"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 85,
+      "enunciado": "Seja a equação quadrática $nx^{2} - x + 1 = 0$, em que $n$ é uma constante real, com duas raízes reais positivas e distintas. Assim, os valores de $n$ que satisfazem essas condições são tais que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$0 < n < \\frac{1}{4}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$n < \\frac{1}{4}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$- \\frac{1}{4} < n < \\frac{1}{4}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$n > \\frac{1}{4}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$- \\frac{1}{4} < n < 0$"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Matemática – Equações do 2º grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 86,
+      "enunciado": "Uma placa quadrada de massa $2 \\; kg$ e lado $2$ e uma placa retangular de massa $3 \\; kg$ e lados $2$ por $4$ possuem suas res-pectivas massas homogeneamente distribuídas, espessuras desprezíveis e estão dispostas, uma a uma, em um plano cartesiano de eixos ortogonais. Nesse plano cartesiano, as coordenadas do centro de massa $C$ do conjunto das duas placas são calculadas da seguinte forma:\n$$X_{c} = \\frac{2 \\cdot 2 + 3 \\cdot 10}{2+3} = 6,8$$\n$$Y_{c} = \\frac{2 \\cdot 3 + 3 \\cdot 5}{2+3} = 4,2$$\n\n[Gráfico mostrando uma placa quadrada (2 kg, lado 2) e uma placa retangular (3 kg, lados 2x4) num plano cartesiano, com o centro de massa combinado C (6.8; 4.2).]\n\nAcrescentando-se nesse plano uma placa circular também de espessura desprezível, com centro $(2, \\; 1)$, raio $1$ e massa $3 \\; kg$, o centro de massa do novo conjunto, agora com as três placas, passará a ter coordenadas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$(4,75; 3)$."
+        },
+        {
+          "letra": "B",
+          "texto": "$(3,5; 2,25)$."
+        },
+        {
+          "letra": "C",
+          "texto": "$(6; 3,5)$."
+        },
+        {
+          "letra": "D",
+          "texto": "$(5; 3)$."
+        },
+        {
+          "letra": "E",
+          "texto": "$(6; 4)$."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Mecânica (Estática)",
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 87,
+      "enunciado": "Ana somou dois números distintos sorteados ao acaso do conjunto ${8,9,10}$. Beto multiplicou dois números distintos sor-teados ao acaso do conjunto ${3,5,6}$. A probabilidade de que o resultado obtido na conta de Ana tenha sido maior ou igual ao obtido na conta de Beto é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$1/3$"
+        },
+        {
+          "letra": "B",
+          "texto": "$2/3$"
+        },
+        {
+          "letra": "C",
+          "texto": "$4/9$"
+        },
+        {
+          "letra": "D",
+          "texto": "$3/8$"
+        },
+        {
+          "letra": "E",
+          "texto": "$5/9$"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Matemática – Probabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 88,
+      "enunciado": "Três insetos da mesma espécie foram introduzidos em um ambiente no instante zero. Sete meses depois, constatou-se que havia uma população de $18000$ desses insetos no am-biente. Considere que o modelo de crescimento da popula-ção desses insetos é exponencial, dado por $f(x) = t \\cdot u^{x}$, em que $t$ e $u$ são constantes reais e $f(x)$ é a população de insetos após $x$ meses do início da cultura. Observe o gráfico da função $g(x) = \\frac{6000}{x}$, em que $x$ é um número inteiro maior do que $2$, e que apresenta os valores aproximados das ordenadas de alguns de seus pontos.\n\n[Gráfico da função $g(x) = \\frac{6000}{x}$ com alguns pontos marcados.]\n\nCom os dados fornecidos, segue que $t + u$ é, aproximada-mente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5,09."
+        },
+        {
+          "letra": "B",
+          "texto": "10,26."
+        },
+        {
+          "letra": "C",
+          "texto": "6,47."
+        },
+        {
+          "letra": "D",
+          "texto": "7,62."
+        },
+        {
+          "letra": "E",
+          "texto": "7,26."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Matemática – Funções Exponenciais",
+        "Matemática – Análise de Gráficos"
+      ]
+    },
+    {
+      "numeroEnunciado": 89,
+      "enunciado": "A figura indica o projeto de uma casa, sustentada por dois pilares e com rampa retilínea, de inclinação $\\alpha$ em relação à horizontal, direcionando-se ao subsolo da casa. Todas as me-didas indicadas na figura estão em metros. Dados:\n\n| $\\alpha$ | tg $\\alpha$ |\n|---|---|\n| 23° | 0,424 |\n| 24° | 0,445 |\n| 25° | 0,466 |\n| 26° | 0,488 |\n| 27° | 0,510 |\n| 28° | 0,532 |\n| 29° | 0,554 |\n| 30° | 0,577 |\n| 31° | 0,601 |\n| 32° | 0,625 |\n\n[Diagrama de um projeto de casa com dois pilares e uma rampa, mostrando as dimensões em metros e o ângulo $\\alpha$. O pilar menor está em $x=10$ e o pilar maior em $x=40$. A rampa vai de $y=0$ (em $x=0$) a $y=-17,5$ (em $x=30$).]\n\nConsiderando que os dois pilares são retilíneos e perpendi-culares ao eixo $x$, a medida do pilar menor, em metros, e o intervalo angular ao qual $\\alpha$ pertence são, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{77}{8}$ e $30^{\\circ} < \\alpha < 31^{\\circ}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{77}{6}$ e $30^{\\circ} < \\alpha < 31^{\\circ}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{77}{8}$ e $23^{\\circ} < \\alpha < 24^{\\circ}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{77}{8}$ e $26^{\\circ} < \\alpha < 27^{\\circ}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{77}{6}$ e $31^{\\circ} < \\alpha < 32^{\\circ}$"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Matemática – Trigonometria",
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 90,
+      "enunciado": "O ChatGPT é uma ferramenta computacional de inteligência artificial que, entre outras aplicações, pode tentar resolver alguns problemas matemáticos. O problema matemático a seguir foi submetido ao ChatGPT.\n\n[Caixa de texto com a seguinte instrução: \"Escreva o menor número natural formado por cinco algarismos diferentes, sem usar o zero, que atende à condição de que algarismos lado a lado nunca sejam consecutivos, seja da esquerda para a direita (por exemplo, não pode haver 12) ou da direita para a esquerda (por exemplo, não pode haver 65).\" ]\n\n(https://chat.openai.com. Adaptado.)\n\nA ferramenta apresentou como solução do problema o nú-mero 13246, o que não está correto. Considerando que essa solução incorreta tenha relação com uma leitura imprecisa do texto pelo ChatGPT, tal imprecisão deve-se ao fato de a ferramenta ter ignorado",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a condição de que os algarismos sejam distintos."
+        },
+        {
+          "letra": "B",
+          "texto": "a forma imperativa do verbo \"escrever\"."
+        },
+        {
+          "letra": "C",
+          "texto": "o trecho \"sem usar o zero\"."
+        },
+        {
+          "letra": "D",
+          "texto": "o trecho \"da direita para a esquerda\"."
+        },
+        {
+          "letra": "E",
+          "texto": "o trecho \"da esquerda para a direita\"."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Matemática – Lógica",
+        "Sociologia – Tecnologia e Sociedade"
+      ]
+    }
+  ]
+}

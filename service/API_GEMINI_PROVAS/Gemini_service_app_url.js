@@ -1,7 +1,8 @@
 import fs from "fs";
 import path from "path";
 import "dotenv/config";
-import { GoogleGenAI } from "@google/genai";
+import { GoogleGenAI, Type } from "@google/genai";
+import { formatarAlternativas } from "./service/formatter.js";
 
 const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 
@@ -22,19 +23,16 @@ async function uploadRemotePDF(url, displayName) {
   // Wait for the file to be processed.
   let getFile = await ai.files.get({ name: file.name });
   while (getFile.state === "PROCESSING") {
-    getFile = await ai.files.get({ name: file.name });
     console.log(`current file status: ${getFile.state}`);
     console.log("File is still processing, retrying in 5 seconds");
-
-    await new Promise((resolve) => {
-      setTimeout(resolve, 5000);
-    });
+    await sleep(5000);
+    getFile = await ai.files.get({ name: file.name });
   }
-  if (file.state === "FAILED") {
+  if (getFile.state === "FAILED") {
     throw new Error("File processing failed.");
   }
 
-  return file;
+  return getFile;
 }
 
 const jsonSchema = {
@@ -45,7 +43,6 @@ const jsonSchema = {
     nomeProva: { type: "string" },
     ano: { type: "number" },
     qtdeQuestoes: { type: "number" },
-
     questoes: {
       type: "array",
       items: {
@@ -90,268 +87,412 @@ const jsonSchema = {
   ],
 };
 
-async function main() {
-  const prompt = [
-    `Claro, aqui está o prompt completo e finalizado, pronto para ser utilizado.
-
----
-
-Você é um assistente de IA especialista em análise de provas de vestibulares. Sua única função é processar o arquivo PDF de uma prova e seu respectivo gabarito oficial.
-
-Sua tarefa é ler e interpretar cada questão da prova e extrair as seguintes informações:
-- Análise Geral da Prova: O nome da Universidade/Prova, o ano e a quantidade total de questões.
-- Para cada questão:
-  - O número da questão.
-  - O enunciado completo da questão. Textos de apoio devem ser incluídos, e o tratamento de elementos especiais deve seguir as regras abaixo.
-  - A lista de todas as alternativas (A, B, C, D, E).
-  - A letra da alternativa correta, que deve ser extraída do arquivo de gabarito.
-  - O(s) conteúdo(s) abordados na questão no formato: "Disciplina – Tópico Específico" (exemplo: "Matemática – Funções do 1º grau").
-
-### **Regras Críticas de Processamento:**
-
-1.  **Transcrição de Fórmulas para LaTeX (JSON-Safe)**: Ao encontrar qualquer fórmula, equação, ou símbolo matemático/científico, você **deve** transcrevê-lo para o formato LaTeX, garantindo que seja seguro para inclusão em um arquivo JSON.
-    * Isso significa que **toda barra invertida (\)** nos comandos LaTeX deve ser escapada com uma segunda barra invertida (\\).
-    * **Exemplo de Física**: A fórmula visual $$\vec{F}_{res} = m \cdot \vec{a}$$ deve ser transcrita no enunciado como $\\vec{F}_{res} = m \\cdot \\vec{a}$.
-    * **Exemplo de Química**: A equação visual $$2H_2(g) + O_2(g) \rightarrow 2H_2O(l)$$ deve ser transcrita como $2H_2(g) + O_2(g) \\rightarrow 2H_2O(l)$.
-    * **Exemplo de Fração**: A expressão visual $$\sin \theta_L = \frac{n_2}{n_1}$$ deve ser transcrita como $\\sin \\theta_L = \\frac{n_2}{n_1}$.
-
-2.  **Uso de Delimitadores LaTeX**:
-    * Use $ ... $ (com os comandos internos devidamente escapados, ex: $\\theta$) para fórmulas que aparecem no meio de uma linha de texto (inline).
-    * Use $$...$$ (com os comandos internos devidamente escapados, ex: $$\\frac{a}{b}$$) para fórmulas que devem ocupar sua própria linha e ser centralizadas (display/bloco).
-
-3.  **Ignorar Outros Elementos Visuais**: Imagens (fotos, desenhos), gráficos (de barras, de pizza, etc.) e tabelas genéricas que **não sejam** as alternativas da questão devem ser **completamente ignorados**. Não gere nenhuma descrição, menção ou placeholder (como [imagem] ou [gráfico]). Prossiga a análise como se esses elementos não existissem.
-
-4.  **Alternativas em Formato de Tabela**: Se as alternativas de uma questão (A, B, C, D, E) forem apresentadas dentro de uma estrutura de tabela, o campo 'alternativas' para essa questão específica deve ser retornado como null. O resto dos dados da questão deve ser extraído normalmente.
-
-### **Importante:**
-A disciplina deve ser exclusivamente uma das seguintes: "Língua Portuguesa", "Matemática", "Inglês", "Arte", "Física", "Química", "Biologia", "História", "Geografia", "Filosofia" ou "Sociologia". Não utilize nenhuma outra. Caso a questão não pertença a uma dessas três disciplinas, ignore-a e não a inclua no resultado.
-A saída final deve ser estritamente um único objeto JSON puro, sem explicações, comentários, ou formatações extras como blocos de código. Siga o schema da função fornecida com exatidão, não altere nenhum nome dos campos do jsonschema apresentado.
-Além disto você é ABSOLUTAMENTE CRÍTICO que os argumentos que você fornecer à função 'extrair_dados_prova' sigam EXATAMENTE o JSON Schema que lhe foi dado, sem quaisquer variações nos nomes dos campos ou nos tipos de dados.
-
-Especificamente, garanta que:
-- Os campos iniciais do JSON devem ser 'nomeUniversidade', 'siglaUniversidade', 'nomeProva', 'ano' e 'qtdeQuestoes'.
-- O array de questões seja 'questoes'.
-- Cada objeto dentro do array 'questoes' tenha os campos:
-- 'numeroEnunciado' (NÃO 'numeroQuestao').
-- 'enunciado'.
-- 'alternativas' seja um ARRAY de objetos (NÃO um objeto simples), onde cada objeto tem 'letra' e 'texto'.
-- 'opcaoCorreta'.
-- 'conteudo' (NÃO 'conteudoAbordado') seja um ARRAY de strings (NÃO uma string simples).
-
-Não crie ou modifique nenhum nome de campo. Respeite os tipos de dados e a estrutura de array/objeto conforme o JSON Schema da ferramenta.
-
-`,
-  ];
-
-  console.log("Iniciando upload e processamento dos arquivos...");
-
-  console.time("Processando Arquivo da Prova");
-  let file1 = await uploadRemotePDF("https://download.inep.gov.br/enem/provas_e_gabaritos/2025_PV_impresso_D1_CD3.pdf", "PDF Da Prova");
-  console.timeEnd("Processando Arquivo da Prova"); // Termina o cronômetro do upload da prova
-
-  console.time("Processando Arquivo do Gabarito");
-  let file2 = await uploadRemotePDF("https://download.inep.gov.br/enem/provas_e_gabaritos/2025_GB_impresso_D1_CD3.pdf", "PDF Do Gabarito");
-  console.timeEnd("Processando Arquivo do Gabarito"); // Termina o cronômetro do upload do Gabarito
-
-  console.log("Uploads e processamento dos PDF's concluídos.");
+// Etapa 1: Discovery (Cabeçalho)
+async function getMetadata(file1, file2) {
+  console.log("\n--- Iniciando Discovery ---");
+  const prompt = `
+Você é um assistente de IA especialista em provas de vestibular.
+Analise a prova fornecida e o respectivo gabarito. Extraia as seguintes informações gerais e retorne em JSON:
+- Nome completo da Universidade/Instituição (nomeUniversidade)
+- Sigla da Universidade/Instituição (siglaUniversidade)
+- Nome do Exame ou Vestibular (nomeProva)
+- Ano da prova (ano)
+- Quantidade total de questões numeradas na prova (qtdeQuestoes)
+  `;
 
   const contents = [
     {
+      role: "user",
       parts: [
-        { text: prompt[0] },
+        { text: prompt },
         { fileData: { mimeType: file1.mimeType, fileUri: file1.uri } },
         { fileData: { mimeType: file2.mimeType, fileUri: file2.uri } },
       ],
     },
   ];
 
-  let response;
-  const maxRetries = 2;
-  let attempt = 0;
-  let delay = 30000; // 30 segundos em milissegundos
-  while (attempt < maxRetries) {
-    console.log(
-      `Enviando requisição para a IA... (Tentativa ${
-        attempt + 1
-      } de ${maxRetries})`
-    );
-    console.time("Processamento de Conteúdo Gemini");
-
-    try {
-      response = await ai.models.generateContent({
-        model: "gemini-2.5-flash",
-        contents: contents,
-        generationConfig: {
-          temperature: 0.2,
-          maxOutputTokens: 20000,
-        },
-        tools: [
+  const response = await ai.models.generateContent({
+    model: "gemini-2.5-flash",
+    contents: contents,
+    generationConfig: {
+      temperature: 0.1,
+      maxOutputTokens: 20000,
+    },
+    tools: [
+      {
+        functionDeclarations: [
           {
-            functionDeclarations: [
-              {
-                name: "extrair_dados_prova",
-                description:
-                  "Extrai os dados estruturados de uma prova e seu gabarito.",
-                parameters: jsonSchema,
-              },
-            ],
+            name: "extrair_dados_prova",
+            description:
+              "Extrai os dados estruturados de uma prova e seu gabarito.",
+            parameters: jsonSchema,
           },
         ],
-        safetySettings: [
-          {
-            category: "HARM_CATEGORY_HARASSMENT",
-            threshold: "BLOCK_NONE",
-          },
-          {
-            category: "HARM_CATEGORY_HATE_SPEECH",
-            threshold: "BLOCK_NONE",
-          },
-          {
-            category: "HARM_CATEGORY_SEXUALLY_EXPLICIT",
-            threshold: "BLOCK_NONE",
-          },
-          {
-            category: "HARM_CATEGORY_DANGEROUS_CONTENT",
-            threshold: "BLOCK_NONE",
-          },
-        ],
-      });
+      },
+    ],
+    safetySettings: [
+      { category: "HARM_CATEGORY_HARASSMENT", threshold: "BLOCK_NONE" },
+      { category: "HARM_CATEGORY_HATE_SPEECH", threshold: "BLOCK_NONE" },
+      { category: "HARM_CATEGORY_SEXUALLY_EXPLICIT", threshold: "BLOCK_NONE" },
+      { category: "HARM_CATEGORY_DANGEROUS_CONTENT", threshold: "BLOCK_NONE" },
+    ],
+  });
 
-      console.timeEnd("Processamento de Conteúdo Gemini");
-      console.log("Sucesso! Resposta recebida."); // <-- NOVO
-      break;
-    } catch (error) {
-      console.timeEnd("Processamento de Conteúdo Gemini");
-      if (error.status === 503 && attempt < maxRetries - 1) {
-        console.warn(
-          `Erro 503: Modelo sobrecarregado. Tentando novamente em ${
-            delay / 1000
-          }s...`
-        );
-        for (let sec = delay / 1000; sec > 0; sec--) {
-          process.stdout.write(`Re-tentando em ${sec}s...\r`);
-          await sleep(1000);
-        }
-        await sleep(delay);
-        delay *= 2;
-        attempt++;
-      } else {
-        // Se for outro erro (400, 401...) ou se acabaram as tentativas
-        console.error(
-          "Erro fatal da API ou limite de tentativas excedido:",
-          error
-        );
-        throw error; // Lança o erro e para o script
-      }
-    }
-  }
-
-  if (!response) {
-    console.error(
-      `Não foi possível obter resposta da API após ${maxRetries} tentativas.`
-    );
-    return; // Encerra a função 'main'
-  }
-
-  console.log("Resposta recebida. Processando JSON...");
-  // 1. Acessar 'candidates' diretamente de 'response', pois 'response.response' é undefined.
+  let metadata;
   const candidates = response.candidates;
-
-  // 2. Verificar se 'candidates' existe e não está vazio (previne o Erro 1)
-  if (!candidates || candidates.length === 0) {
-    console.error(
-      "Erro: A resposta da IA não contém 'candidates' ou a lista está vazia."
-    );
-    console.log(
-      "Objeto 'response' completo recebido:",
-      JSON.stringify(response, null, 2)
-    );
-    return; // Encerra a função main
-  }
-
-  // 3. Verificar se 'content' e 'parts' existem
-  if (!candidates[0].content || !candidates[0].content.parts) {
-    console.error(
-      "Erro: O 'candidate' recebido não contém 'content' ou 'parts'."
-    );
-    console.log(
-      "Objeto 'response' completo recebido:",
-      JSON.stringify(response, null, 2)
-    );
-    return; // Encerra a função main
-  }
-
-  // 4. Somente agora é seguro definir a variável
-  const responseContentParts = candidates[0].content.parts;
-
-  let jsonData;
-
   if (
-    responseContentParts &&
-    responseContentParts[0] &&
-    responseContentParts[0].functionCall
+    candidates &&
+    candidates[0] &&
+    candidates[0].content.parts[0].functionCall
   ) {
-    jsonData = responseContentParts[0].functionCall.args;
-    console.log("JSON extraído do functionCall.");
+    metadata = candidates[0].content.parts[0].functionCall.args;
   } else {
-    // Agora, 'responseContentParts' é a variável correta para o array de partes
-    // E 'responseTextContent' é uma nova variável para o texto dentro da primeira parte
-    const responseTextContent = responseContentParts[0].text;
+    const textResp = candidates[0].content.parts[0].text;
+    const match = textResp.match(/\{[\s\S]*\}/);
+    if (match) metadata = JSON.parse(match[0]);
+  }
+
+  if (!metadata) throw new Error("Falha ao extrair metadata");
+
+  console.log("Metadata obtido com sucesso:", metadata);
+  return metadata;
+}
+
+// Etapa 3: Worker
+async function processWorker(file1, file2, inicio, fim, step = 10, tentativa = 1) {
+  if (inicio > fim) return;
+
+const atualFim = Math.min(inicio + step - 1, fim);
+const tempDir = path.join(process.cwd(), "Temp");
+if (!fs.existsSync(tempDir)) fs.mkdirSync(tempDir, { recursive: true });
+
+const tempFile = path.join(tempDir, `temp_q${inicio}_${atualFim}.json`);
+
+// Persistência (Checkpoint)
+if (fs.existsSync(tempFile)) {
+  console.log(
+    `[Worker] Arquivo ${tempFile} já existe (Checkpoint). Avançando...`,
+  );
+  return processWorker(file1, file2, atualFim + 1, fim, step, 1);
+}
+
+const prompt = `
+Você é um assistente de IA especialista em análise de provas de vestibulares. Sua única função é processar o arquivo PDF de uma prova e seu gabarito oficial.
+
+Nesta etapa, extraia EXATAMENTE das questões ${inicio} até a ${atualFim} e estruture conforme o JSON Schema.
+
+Para cada questão no intervalo solicitado:
+- O número da questão (numeroEnunciado).
+- O enunciado completo da questão. Textos de apoio devem ser incluídos.
+- A lista de todas as alternativas (A, B, C, D, E).
+- A letra da alternativa correta, que deve ser extraída do gabarito.
+- O(s) conteúdo(s) abordados no formato: "Disciplina – Tópico Específico" (ex: "Matemática – Funções do 1º grau"). As disciplinas permitidas são: "Língua Portuguesa", "Matemática", "Inglês", "Arte", "Física", "Química", "Biologia", "História", "Geografia", "Filosofia", "Sociologia". Se a questão não pertencer a nenhuma dessas, ignore-a.
+
+### **Regras Críticas de Processamento:**
+
+1.  **Transcrição de Fórmulas para LaTeX (JSON-Safe)**: Ao encontrar fórmulas ou símbolos matemáticos, você **deve** transcrevê-los para o formato LaTeX.
+    * **Toda barra invertida (\\)** nos comandos LaTeX deve ser dupla (\\\\) para escapar.
+    * Exemplo: $\\vec{F}_{res} = m \\cdot \\vec{a}$ ou $\\frac{n_2}{n_1}$.
+
+2.  **Uso de Delimitadores LaTeX**:
+    * Use $ ... $ para fórmulas no meio de uma linha de texto.
+    * Use $$...$$ para fórmulas centralizadas (bloco).
+
+3.  **Ignorar Outros Elementos Visuais**: Imagens, gráficos e tabelas genéricas que não sejam as alternativas devem ser completamente ignorados (nenhum placeholder).
+
+4.  **Alternativas em Formato de Tabela**: Se as alternativas de uma questão (A, B, C, D, E) estiverem em uma estrutura de tabela, o campo 'alternativas' para essa questão deve ser null. O resto da questão prossegue normal.
+`;
+
+const contents = [
+  {
+    role: "user",
+    parts: [
+      { text: prompt },
+      { fileData: { mimeType: file1.mimeType, fileUri: file1.uri } },
+      { fileData: { mimeType: file2.mimeType, fileUri: file2.uri } },
+    ],
+  },
+];
+
+console.log(
+  `[Worker ${inicio}-${fim}] Requisitando questões ${inicio} a ${atualFim} (Tentativa ${tentativa}/2)...`,
+);
+const startTime = Date.now();
+try {
+  const response = await ai.models.generateContent({
+    model: "gemini-2.5-flash",
+    contents: contents,
+    generationConfig: {
+      temperature: 0.2,
+      maxOutputTokens: 20000,
+      responseMimeType: "application/json",
+      responseSchema: jsonSchema,
+    },
+    safetySettings: [
+      { category: "HARM_CATEGORY_HARASSMENT", threshold: "BLOCK_NONE" },
+      { category: "HARM_CATEGORY_HATE_SPEECH", threshold: "BLOCK_NONE" },
+      {
+        category: "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+        threshold: "BLOCK_NONE",
+      },
+      {
+        category: "HARM_CATEGORY_DANGEROUS_CONTENT",
+        threshold: "BLOCK_NONE",
+      },
+    ],
+  });
+
+  let textResp = response.candidates[0].content.parts[0].text;
+
+  let parsedData;
+  try {
+    // Limpeza robusta para markdown de JSON
+    const cleanedResp = textResp
+      .replace(/\`\`\`json/gi, "")
+      .replace(/\`\`\`/gi, "")
+      .trim();
+
+    const match = cleanedResp.match(/\[[\s\S]*\]|\{[\s\S]*\}/);
+    const cleanText = match ? match[0] : cleanedResp;
+    parsedData = JSON.parse(cleanText);
+
+    const questoesExtraidas = Array.isArray(parsedData)
+      ? parsedData
+      : parsedData.questoes || [];
+
+    fs.writeFileSync(
+      tempFile,
+      JSON.stringify(questoesExtraidas, null, 2),
+      "utf-8",
+    );
+    const durationSec = ((Date.now() - startTime) / 1000).toFixed(1);
+    console.log(
+      `[Worker ${inicio}-${fim}] \u2713 Sucesso! Questões ${inicio} a ${atualFim} salvas (${durationSec}s).`,
+    );
+  } catch (parseError) {
+    console.error(
+      `[Worker ${inicio}-${fim}] O JSON falhou após limpeza. Arquivo temporário vazio para forçar o retry...`,
+    );
+    throw new Error(
+      "A IA não retornou um formato estruturado ou legível: " +
+        parseError.message,
+    );
+  }
+} catch (error) {
+  if (error.status === 429 || (error.message && (error.message.includes("429") || error.message.includes("exceeded your current quota") || error.message.includes("RESOURCE_EXHAUSTED")))) {
+    console.error("cota diária de rota atingida");
+    process.exit(1);
+  }
+
+  console.error(
+    `[Worker ${inicio}-${fim}] \u2717 Erro na tentativa ${tentativa} no bloco ${inicio}-${atualFim}.`,
+    error.message,
+  );
+
+  // Garante que o Checkpoint não vai enganar a próxima tentativa
+  if (fs.existsSync(tempFile)) {
     try {
-      const match = responseTextContent.match(/\{[\s\S]*\}/);
-      if (match && match[0]) {
-        jsonData = JSON.parse(match[0]);
-        console.log("JSON extraído diretamente do texto (fallback).");
-      } else {
-        throw new Error(
-          "Nenhum objeto JSON ou functionCall encontrado na resposta."
-        );
-      }
-    } catch (e) {
-      console.error("Falha ao processar o JSON:", e.message);
+      fs.unlinkSync(tempFile);
+    } catch (e) {}
+  }
 
-      const logsDir = path.join(process.cwd(), "Erros");
-      if (!fs.existsSync(logsDir)) {
-        fs.mkdirSync(logsDir, { recursive: true });
-      }
-
-      const now = new Date();
-      const timestamp = `${now.getFullYear()}-${String(
-        now.getMonth() + 1
-      ).padStart(2, "0")}-${String(now.getDate()).padStart(2, "0")}_${String(
-        now.getHours()
-      ).padStart(2, "0")}-${String(now.getMinutes()).padStart(2, "0")}-${String(
-        now.getSeconds()
-      ).padStart(2, "0")}`;
-      const logFileName = `erro_json_parse_${timestamp}.txt`;
-      const logFilePath = path.join(logsDir, logFileName);
-
-      const logContent = `Ocorreu uma falha ao processar o JSON recebido da API.
-      Mensagem de Erro:
-      ${e.message}
-      ---
-      Resposta Bruta Recebida (que causou o erro):
-      ${JSON.stringify(responseContentParts, null, 2)}
-            `;
-
-      fs.writeFileSync(logFilePath, logContent, "utf-8");
-
-      console.error(
-        `>>> A resposta bruta que causou o erro foi salva no arquivo: ${logFilePath}`
-      );
-
-      return;
+  if (tentativa < 2) {
+    console.log(
+      `[Worker ${inicio}-${fim}] Aguardando 1 minuto antes de retentar o MESMO bloco...`,
+    );
+    await sleep(60000);
+    return processWorker(file1, file2, inicio, fim, step, tentativa + 1);
+  } else {
+    console.error(
+      `[Worker ${inicio}-${fim}] Limite de 2 tentativas atingido! Criando JSON em branco para pular e não quebrar o Merge.`,
+    );
+    if (!fs.existsSync(tempFile)) {
+      fs.writeFileSync(tempFile, JSON.stringify([], null, 2), "utf-8");
     }
   }
+}
+
+if (atualFim < fim) {
+  console.log(
+    `[Worker ${inicio}-${fim}] Aguardando 1 minuto (rate limit) antes de pedir o PRÓXIMO bloco...`,
+  );
+  await sleep(60000);
+}
+
+// Recursão para o próximo bloco, resetando as tentativas para 1
+  return processWorker(file1, file2, atualFim + 1, fim, step, 1);
+}
+
+async function processExam(chave, provaAtual) {
+  console.log(`Iniciando upload dos arquivos (${provaAtual.nome})...`);
+  console.time("Upload Prova");
+  let file1 = await uploadRemotePDF(provaAtual.urlProva, "PDF Da Prova");
+  console.timeEnd("Upload Prova");
+
+  console.time("Upload Gabarito");
+  let file2 = await uploadRemotePDF(provaAtual.urlGabarito, "PDF Do Gabarito");
+  console.timeEnd("Upload Gabarito");
+  console.log("Uploads concluídos.");
+
+  // Executa Discovery
+  let metadata;
+  try {
+    metadata = await getMetadata(file1, file2);
+  } catch (err) {
+    if (err.status === 429 || (err.message && (err.message.includes("429") || err.message.includes("exceeded your current quota") || err.message.includes("RESOURCE_EXHAUSTED")))) {
+      console.error("cota diária de rota atingida");
+      process.exit(1);
+    }
+    console.error("Erro fatal na etapa de Discovery:", err);
+    throw err;
+  }
+
+  const qtdeQuestoes = metadata.qtdeQuestoes;
+  if (!qtdeQuestoes || qtdeQuestoes <= 0) {
+    throw new Error(
+      `Quantidade de questões inválida retornada no Discovery: ${qtdeQuestoes}`,
+    );
+  }
+
+  console.log(
+    "\n-> Aguardando 1 minuto (rate limit) após a requisição do Cabeçalho (Discovery) para estabilizar a cota da API...",
+  );
+  await sleep(60000);
+
+  // Etapa 2: Orquestrador Dinâmico
+  // 1 única fila, dividida em 3 blocos.
+  const numBlocos = 3;
+  const step = Math.ceil(qtdeQuestoes / numBlocos);
+
+  console.log("\n--- Iniciando Extração Sequencial ---");
+  console.log(
+    `Total de questões: ${qtdeQuestoes}. Processando em 1 fila com blocos de ${step} questões (total de ${numBlocos} requisições).`,
+  );
+
+  const tempDir = path.join(process.cwd(), "Temp");
+  if (!fs.existsSync(tempDir)) fs.mkdirSync(tempDir, { recursive: true });
+
+  // Disparar o worker sequencial
+  await processWorker(file1, file2, 1, qtdeQuestoes, step);
+
+  // Etapa 4: Unificação (Merge)
+  console.log("\n--- Iniciando Merge (Unificação) ---");
+  let questoesFinais = [];
+
+  const files = fs
+    .readdirSync(tempDir)
+    .filter((f) => f.startsWith("temp_q") && f.endsWith(".json"));
+  files.sort((a, b) => {
+    const matchA = a.match(/temp_q(\d+)_/);
+    const matchB = b.match(/temp_q(\d+)_/);
+    return (
+      (matchA ? parseInt(matchA[1], 10) : 0) -
+      (matchB ? parseInt(matchB[1], 10) : 0)
+    );
+  });
+
+  for (const f of files) {
+    try {
+      const data = JSON.parse(fs.readFileSync(path.join(tempDir, f), "utf-8"));
+      if (Array.isArray(data)) {
+        questoesFinais = questoesFinais.concat(data);
+      }
+    } catch (err) {
+      console.error(`Erro ao ler arquivo temp: ${f}`, err);
+    }
+  }
+
+  // Ordenar numericamente para evitar qualquer dessincronização
+  questoesFinais.sort((a, b) => a.numeroEnunciado - b.numeroEnunciado);
+
+  const jsonResult = {
+    nomeUniversidade: metadata.nomeUniversidade,
+    siglaUniversidade: metadata.siglaUniversidade,
+    nomeProva: metadata.nomeProva,
+    ano: metadata.ano,
+    qtdeQuestoes: metadata.qtdeQuestoes,
+    questoes: questoesFinais,
+  };
 
   const resultadosDir = path.join(process.cwd(), "Resultados");
   if (!fs.existsSync(resultadosDir)) {
-    fs.mkdirSync(resultadosDir);
+    fs.mkdirSync(resultadosDir, { recursive: true });
   }
 
-  const filePath = path.join(resultadosDir, "resultado.json");
-  fs.writeFileSync(filePath, JSON.stringify(jsonData, null, 2), "utf-8");
-  console.log(`Arquivo salvo com sucesso em: ${filePath}`);
+  console.log("\n--- Executando Pós-Processamento (Formatter) ---");
+  const jsonFormatado = formatarAlternativas(jsonResult);
+
+  // Agora salva diretamente com o nome da prova (sem prefixo resultado_)
+  const resultPath = path.join(resultadosDir, `${chave}.json`);
+  fs.writeFileSync(resultPath, JSON.stringify(jsonFormatado, null, 2), "utf-8");
+  console.log(
+    `\n\u2713 Processo finalizado e formatado com sucesso! Arquivo: ${resultPath}`,
+  );
+
+  // Limpa a pasta temp ao final do processo
+  if (fs.existsSync(tempDir)) {
+    fs.rmSync(tempDir, { recursive: true, force: true });
+    console.log(`\n\u2713 Pasta Temporária limpa com sucesso.`);
+  }
+}
+
+async function main() {
+  const provasFile = path.join(process.cwd(), "lib", "provas.json");
+
+  if (!fs.existsSync(provasFile)) {
+    console.error("Arquivo lib/provas.json não encontrado!");
+    return;
+  }
+
+  let provasData = JSON.parse(fs.readFileSync(provasFile, "utf-8"));
+  let chaves = Object.keys(provasData);
+
+  if (chaves.length === 0) {
+    console.log("Nenhuma prova na fila de lib/provas.json.");
+    return;
+  }
+
+  console.log(`\u2713 Encontradas ${chaves.length} provas na fila.`);
+
+  for (const chave of chaves) {
+    const provaAtual = provasData[chave];
+    console.log(`\n======================================================`);
+    console.log(
+      `Iniciando o processamento da fila: ${provaAtual.nome} [${chave}]`,
+    );
+    console.log(`======================================================\n`);
+
+    try {
+      await processExam(chave, provaAtual);
+
+      // Se executou com sucesso, remove a prova do JSON e salva o arquivo
+      delete provasData[chave];
+      fs.writeFileSync(
+        provasFile,
+        JSON.stringify(provasData, null, 2),
+        "utf-8",
+      );
+      console.log(`\n\u2713 Prova ${chave} finalizada e REMOVIDA DA FILA.`);
+
+      if (Object.keys(provasData).length > 0) {
+        console.log(
+          "\nAguardando 10 segundos antes do próximo processamento (rate limite global)...",
+        );
+        await sleep(10000);
+      }
+    } catch (err) {
+      if (err.status === 429 || (err.message && (err.message.includes("429") || err.message.includes("exceeded your current quota") || err.message.includes("RESOURCE_EXHAUSTED")))) {
+        console.error("cota diária de rota atingida");
+        process.exit(1);
+      }
+      console.error(
+        `\n\u2717 Erro no processamento de ${chave}. A prova não foi removida e ficará na fila para próximas tentativas.`,
+      );
+      console.error(err);
+    }
+  }
+
+  console.log("\nFila de provas concluída com sucesso!");
 }
 
 main();

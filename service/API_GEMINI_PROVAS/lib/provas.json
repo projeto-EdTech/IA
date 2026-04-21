@@ -1,0 +1,72 @@
+{
+  "UNICAMP 2023": {
+    "nome": "UNICAMP 2023",
+    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2023_1fase/unicamp2023_1fase_prova_QZ.pdf",
+    "urlGabarito": "https://s1.static.brasilescola.uol.com.br/vestibular/2022/11/gabaritos-1-fase-vestibular-2023-unicamp.pdf"
+  },
+  "UNICAMP 2022": {
+    "nome": "UNICAMP 2022",
+    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2022_1fase/unicamp2022_1fase_prova_QX.pdf",
+    "urlGabarito": "https://www.comvest.unicamp.br/wp-content/uploads/2021/11/gabarito_2022_DIVULGA.pdf"
+  },
+  "UNESP 2022": {
+    "nome": "UNESP 2022",
+    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2022/1fase/2dia/UNESP2022_1fase_prova.pdf",
+    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2022/1fase/2dia/UNESP2022_1fase_gabarito.pdf"
+  },
+  "MACKENZIE 2024": {
+    "nome": "MACKENZIE 2024",
+    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/mackenzie/2024/1dia/mackenzie2024_prova_1dia.pdf",
+    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/mackenzie/2024/1dia/mackenzie2024_gabarito_1dia.pdf"
+  },
+  "FAMERP 2026": {
+    "nome": "FAMERP 2026",
+    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2026/1dia/famerp2026_1dia_prova.pdf",
+    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2026/1dia/famerp2026_1dia_gabarito.pdf"
+  },
+  "FAMERP 2025": {
+    "nome": "FAMERP 2025",
+    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2025/1dia/famerp2025_1dia_prova.pdf",
+    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2025/1dia/famerp2025_1dia_gabarito.pdf"
+  },
+  "FAMERP 2024": {
+    "nome": "FAMERP 2024",
+    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2024/1dia/famerp2024_1dia_prova.pdf",
+    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2024/1dia/famerp2024_1dia_gabarito.pdf"
+  },
+  "FAMERP 2023": {
+    "nome": "FAMERP 2023",
+    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2023/1dia/famerp2023_1dia_prova.pdf",
+    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2023/1dia/famerp2023_1dia_gabarito.pdf"
+  },
+  "FAMERP 2022": {
+    "nome": "FAMERP 2022",
+    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2022/1dia/famerp2022_1dia_prova.pdf",
+    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2022/1dia/famerp2022_1dia_gabarito.pdf"
+  },
+  "ITA 2026": {
+    "nome": "ITA 2026",
+    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2026/1fase/ita2026_1fase_prova.pdf",
+    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2026/1fase/ita2026_1fase_gabarito.pdf"
+  },
+  "ITA 2025": {
+    "nome": "ITA 2025",
+    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2025/1fase/ita2025_1fase_prova.pdf",
+    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2025/1fase/ita2025_1fase_gabarito.pdf"
+  },
+  "ITA 2024": {
+    "nome": "ITA 2024",
+    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2024/1fase/ita2024_1fase_prova.pdf",
+    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2024/1fase/ita2024_1fase_gabarito.pdf"
+  },
+  "ITA 2023": {
+    "nome": "ITA 2023",
+    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2023/1fase/ita2023_1fase_prova.pdf",
+    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2023/1fase/ita2023_1fase_gabarito.pdf"
+  },
+  "ITA 2022": {
+    "nome": "ITA 2022",
+    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2022/1fase/ita2022_1fase_prova.pdf",
+    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2022/1fase/ita2022_1fase_gabarito.pdf"
+  }
+}

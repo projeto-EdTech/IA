@@ -1,0 +1,969 @@
+{
+  "nomeUniversidade": "Universidade Presbiteriana Mackenzie",
+  "siglaUniversidade": "MACKENZIE",
+  "nomeProva": "Vestibular Mackenzie",
+  "ano": 2025,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Textos para as questões de 01 a 06\n\nTexto I\nComunicar consiste em enviar uma mensagem inteligível e útil a alguém ou a determinado grupo de pessoas, por meio de leis e usos (códigos) perfeitamente distinguíveis, ou por necessárias ultrapassagens de códigos já existentes feitas por inovadores, que, com a introdução de novos conhecimentos, os enriquecem e lhes ajudam a evolução. Atravessamos a era da instantaneidade, produto de uma nova revolução industrial, causada pela criação dos computadores, na qual o quase domínio da máquina sobre o homem e o consequente aceleramento da explosão da sociedade acarretam uma enorme e heterogênea rede de informações, que nos obrigam à constante criação de novos códigos e à consequente particularização de repertórios, entendendo-se como repertório o conjunto de conhecimentos de cada um. Como resultado, a informação adequada preocupa sobremaneira o homem de hoje, obcecado em cifrar e procurar mensagens apropriadas que lhe permitam sobreviver.\n\nLingua(gem), literatura, comunicação, de Almir Moreira e José Maria Dantas (adaptado)\n\nTexto II\n[Diagrama de funções da linguagem com os seguintes elementos textuais: FUNÇÃO REFERENCIAL (CONTEXTO), FUNÇÃO POÉTICA (MENSAGEM), FUNÇÃO EMOTIVA (REMETENTE), FUNÇÃO CONATIVA (DESTINATÁRIO), FUNÇÃO FÁTICA (CANAL), FUNÇÃO METALINGUÍSTICA (CÓDIGO)]\nhttps://brasilescola.uol.com.br/gramatica/\n\nTexto III\nCom duas pessoas eu já entrei em comunicação tão forte que deixei de existir, sendo. Como explicar? Olhávamo-nos nos olhos e não dizíamos nada, e eu era a outra pessoa e a outra pessoa era eu. É tão difícil falar, é tão difícil dizer coisas que não podem ser ditas, é tão silencioso. Como traduzir o profundo silêncio do encontro entre duas almas? É dificílimo contar: nós estávamos nos olhando fixamente, e assim ficamos por uns instantes. Éramos um só ser. Esses momentos são o meu segredo. Houve o que se chama de comunhão perfeita. Eu chamo isso de: estado agudo de felicidade.\nFragmento da crônica “Ao correr da máquina”, de Clarice Lispector (1920-1977)\n\nÉ correto afirmar que os três textos",
+      "alternativas": {
+        "A": "exemplificam integralmente a presença predominante da função expressiva ou emotiva diante do emprego destacado que fazem de linguagem subjetiva e figurada.",
+        "B": "demonstram que a linguagem sincrética, ao contar com elementos verbo-visuais, é recurso estilístico que pontua com precisão o tipo descritivo do qual são manifestações.",
+        "C": "apresentam diferentes construções de estilo ao tratar, a rigor, de assuntos com temática próxima; essas diferenças relacionam-se aos gêneros específicos aos quais os textos pertencem.",
+        "D": "evidenciam que o tema em questão, presente em todos os textos, só pode ser tratado por meio de um gênero como o da notícia, diante da complexidade do processo comunicativo como assunto teórico.",
+        "E": "adotam semelhante estratégia estilística e tipo de seleção vocabular ao reforçar a mesma tese: a comunicação humana é em tudo equivalente à comunicação animal."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Funções da Linguagem",
+        "Língua Portuguesa – Gêneros Textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Assinale a alternativa correta sobre os três textos.",
+      "alternativas": {
+        "A": "Em essência, os textos defendem claramente o posicionamento de que a única comunicação possível é a realizada por meio da norma culta da escrita.",
+        "B": "Ao defender que a comunicação deve se dar por meio de linguagem sincrética, os textos apelam para o fato de que apenas o verbal não é suficiente para a troca de ideias.",
+        "C": "Nos textos, há abordagens sobre o que pode ocorrer na comunicação humana sob pontos de vista diferentes que não são excludentes nem necessariamente divergentes.",
+        "D": "Na elaboração do estilo dos textos, encontra-se um percurso de transição no uso de perspectiva irônica que se amplia do primeiro em direção ao último texto.",
+        "E": "Pelo emprego de linguagem jovem calcada nas gírias e expressões cotidianas, os textos evidenciam o uso da oralidade em seus estilos."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação Textual",
+        "Língua Portuguesa – Funções da Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Leia as afirmações sobre os textos.\n\nI. O Texto I é exemplo do emprego de linguagem explicativa em tom didático, cujo objetivo é a transmissão de conteúdo teórico.\nII. De forma esquemática e visual, o Texto II apresenta informações sobre as funções da linguagem que agem no processo comunicativo.\nIII. Com linguagem próxima do literário, o Texto III aborda a comunicação humana de modo subjetivo e radicalmente pessoal.\n\nAssinale a alternativa correta.",
+      "alternativas": {
+        "A": "As afirmações I e II estão corretas.",
+        "B": "As afirmações II e III estão corretas.",
+        "C": "As afirmações I e III estão corretas.",
+        "D": "Todas as afirmações estão corretas.",
+        "E": "Nenhuma das afirmações está correta."
+      },
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Análise de Gêneros Textuais",
+        "Língua Portuguesa – Tipologia Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Com base nas informações do Texto II, assinale a alternativa INCORRETA.",
+      "alternativas": {
+        "A": "No trecho \"Nas primeiras décadas do século passado, o Japão foi a maior vítima dos terremotos\", encontra-se o emprego predominante da função referencial.",
+        "B": "Em uma mensagem como \"Por favor, suspenda agora o envio do produto\", há em destaque a linguagem apelativa que caracteriza o uso da função conativa.",
+        "C": "A função conativa é predominante em um texto como “Quer aprender francês? Não perca tempo! Venha conhecer nossos métodos revolucionários!”.",
+        "D": "Na explicação “O nome da capital do Paraná vem de curi (pinheiro) e tyba (muito). Assim, Curitiba significa lugar onde há muitos pinheiros”, evidencia-se o emprego em destaque da função metalinguística.",
+        "E": "No trecho da letra de música “Samba em Prelúdio\" (Vinícius de Moraes) a seguir, há em destaque apenas o uso da função fática: \"Eu sem você / Não tenho porquê / Porque sem você / Não sei nem chorar\"."
+      },
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Funções da Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Leia as afirmações sobre o Texto III e sua autora.\n\nI. Clarice Lispector é escritora que teve a carreira marcada pela produção de romances policiais e poesias de teor realista. Sua obra literária nunca foi reconhecida pelo público e até hoje permanece pouco conhecida.\nII. No texto, encontramos a linguagem singular de Clarice Lispector, ao colocar o tema da comunicação humana em visão pessoal pautada por questionamentos e inquietações.\nIII. A linguagem da crônica é apresentada de modo irônico, ao esmiuçar um fato corriqueiro da rotina de Clarice Lispector, que adota estilo direto, formal, pontuado por afirmações e certezas.\n\nAssinale a alternativa correta.",
+      "alternativas": {
+        "A": "A afirmação I está correta.",
+        "B": "A afirmação II está correta.",
+        "C": "A afirmação III está correta.",
+        "D": "Todas as afirmações estão corretas.",
+        "E": "Nenhuma das afirmações está correta."
+      },
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Modernismo (Clarice Lispector)",
+        "Língua Portuguesa – Interpretação de Crônica"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Assinale a alternativa correta sobre o Texto I.",
+      "alternativas": {
+        "A": "Na linha 01, os adjetivos inteligível e útil, ao especificar o significado do substantivo ao qual se referem, apresentam aos leitores uma informação implícita importante: a comunicação é atividade que precisa de intercompreensão entre seus participantes.",
+        "B": "Os parênteses na linha 03 indicam a presença de informação com valor corretivo em relação ao que se afirmou anteriormente, ou seja, leis e usos estão distantes de qualquer possibilidade de serem compreendidas como códigos.",
+        "C": "Na linha 05, os pronomes os e lhes referem-se anaforicamente ao grupo de pessoas mencionado na linha 02.",
+        "D": "O fragmento produto de uma nova revolução industrial (linhas 06 e 07) refere-se ao código que é produzido por mensagens inteligíveis e úteis.",
+        "E": "As palavras acarretam (linha 09) e sobremaneira (linha 13) podem ser respectivamente substituídas (sem alteração do sentido original do fragmento em que figuram) por “negam” e “inutilmente”."
+      },
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Coesão e Coerência Textual",
+        "Língua Portuguesa – Análise Sintática",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Leia o poema abaixo, da escritora contemporânea Mar Becker.\n\nAproxima-te do amor\naproxima-te do amor sem muitas perguntas\naprende-o impensado, intocado ainda\nsem perguntas aproxima-te, como descobrindo no\ntempo um tempo sem\npalavras\ncom medo de que\nse chamado, o amor\n(esse pássaro)\nse assuste\n\nLeia as afirmações abaixo.\nI. O poema é de temática amorosa. Portanto, dentro do campo da literatura contemporânea, Mar Becker atualiza um dos mais tradicionais temas da poesia lírica em língua portuguesa.\nII. Em especial nos versos iniciais, o poema propõe uma reflexão sobre a dificuldade em definirmos, com exatidão, o sentimento amoroso.\nIII. Ao comparar o amor com um pássaro, o Eu lírico insere na definição da natureza do amor um componente de inerente fragilidade.\n\nAssinale a alternativa correta.",
+      "alternativas": {
+        "A": "A afirmação I está correta.",
+        "B": "A afirmação II está correta.",
+        "C": "A afirmação III está correta.",
+        "D": "Todas as afirmações estão corretas.",
+        "E": "Nenhuma das afirmações está correta."
+      },
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Poesia Contemporânea",
+        "Língua Portuguesa – Interpretação Poética"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Abaixo, há versos do poeta simbolista Cruz e Sousa (1861-1898).\n\nVozes veladas, veludosas vozes,\nVolúpias dos violões, vozes veladas\nVagam nos velhos vórtices, velozes\nDos ventos, vivas, vas, vulcanizadas.\n\nVersos do poema “Sinfonias do ocaso”\nvórtice: redemoinho\nvulcanizadas: inflamadas\n\nAssinale a alternativa que apresenta corretamente características da poesia de Cruz e Souza que estão presentes nos versos do poema \"Sinfonias do ocaso\".",
+      "alternativas": {
+        "A": "Tecnologia, religiosidade, determinismo.",
+        "B": "Nacionalismo, futurismo, comédia.",
+        "C": "Modernismo, urbanidade, globalização.",
+        "D": "Fugere urbem, carpe diem, locus amoenus.",
+        "E": "Sugestão, alegoria, musicalidade."
+      },
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Simbolismo",
+        "Língua Portuguesa – Características Literárias"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Os versos abaixo exemplificam a literatura do poeta brasileiro Álvares de Azevedo (1831-1852).\n\nQuando em meu peito rebentar-se a fibra\nQue o espírito enlaça à dor vivente,\nNão derramem por mim nem uma lágrima\nEm pálpebra demente.\n\nLeia as afirmações abaixo.\nI. Traços épicos, oriundos da poesia de Homero, Virgílio e Camões, são a principal característica da poesia do poeta romântico Álvares de Azevedo.\nII. O Romantismo surge quando, entre o final do século XVIII e início do século XIX, há uma oposição a excessos imaginativos da geração anterior. Os românticos, assim, estabelecem a defesa da \"arte pela arte”.\nIII. A angústia e a melancolia foram traços importantes da poesia da geração \"Mal do Século\", a qual pertenceu Álvares de Azevedo.\n\nAssinale a alternativa correta.",
+      "alternativas": {
+        "A": "A afirmação I está correta.",
+        "B": "A afirmação II está correta.",
+        "C": "A afirmação III está correta.",
+        "D": "Todas as afirmações estão corretas.",
+        "E": "Nenhuma das afirmações está correta."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Romantismo (Álvares de Azevedo)",
+        "Língua Portuguesa – Geração Ultrarromântica (Mal do Século)"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Assinale a alternativa correta sobre o Modernismo brasileiro.",
+      "alternativas": {
+        "A": "A 1ª. fase do Modernismo brasileiro se caracterizou sobretudo pelo uso temático do símbolo, da sugestão e da evocação. São típicas dessa fase as produções poéticas associadas à forma literária e à musicalidade.",
+        "B": "Das mais importantes vozes líricas da poesia modernista da \"Geração de 30\", Cecília Meireles nos legou uma obra na qual a melancolia, a musicalidade e a introspecção são características recorrentes.",
+        "C": "O Modernismo em sua 2ª. fase caracterizou-se primordialmente pelo menosprezo às manifestações literárias anteriores, com ênfase para um nacionalismo exagerado, um primitivismo e um sentimento de repúdio ao nosso passado histórico.",
+        "D": "Autores como João Guimarães Rosa, Clarice Lispector, João Cabral de Melo Neto foram expoentes do Modernismo mais radical da 1ª. fase, na qual a poesia foi a expressão literária máxima.",
+        "E": "Uma literatura modernista de feição subjetiva, romântica, musical e despreocupada com temas sociais foi característica da produção da 3ª. fase do Modernismo brasileiro, na produção de autores como Jorge Amado e Graciliano Ramos."
+      },
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Modernismo Brasileiro",
+        "Língua Portuguesa – Características das Gerações Modernistas"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Read the text below and answer questions 11 to 13.\n\nHarriet Tubman: The fearless abolitionist who led hundreds to freedom\nPublished on Feb. 21, 2025, by Wiam Milles\n\n“Every great dream begins with a dreamer. Always remember, you have within you the strength, the patience, and the passion to reach for the stars to change the world.” – Harriet Tubman\n\nHarriet Tubman was more than just a conductor on the Underground Railroad; she was a strategist, a freedom fighter, and a leader who defied the brutal institution of slavery. She risked her life time and time again to lead enslaved people to freedom, served in the American Civil War, and continued fighting for justice until the end of her life.\n\nAs the U.S. celebrates Black History Month, it's the perfect time to reflect on Tubman's remarkable legacy. What made her so effective? How did she outmaneuver slave catchers and military forces? And why does her story still resonate today?\n\nFrom slavery to freedom: Tubman's escape\nPortrait of Harriet Tubman, abolitionist and Underground Railroad conductor, Auburn, USA\n\nBorn Araminta Ross around 1822 in Maryland, Harriet Tubman grew up in harsh conditions. She was enslaved from birth, forced into hard labor, and suffered extreme physical abuse.\n\nOne life-changing event happened when an overseer threw a heavy iron weight at another enslaved person, but it struck Tubman instead. The injury caused her to have lifelong seizures, headaches, and sudden blackouts. However, it also triggered what she saw as divine visions—dreams and messages she believed guided her mission.\n\nIn 1849, she made the dangerous decision to escape to Pennsylvania.\n\nShe followed the Underground Railroad, a secret network of safe houses, abolitionists, and freed Black individuals who helped enslaved people flee. After securing her freedom, she could have lived out her life in safety. But she didn't stop there.\n\nThe Underground Railroad: Risking it all to rescue others\n\nFreedom wasn't enough for Tubman. She knew that others were still trapped, so she made the extraordinary decision to return to the South to help them escape. Then, for the next ten years, she made around thirteen dangerous trips back, rescuing at least seventy people, including her family members (Bordewich, 2006).\n\nTubman strategically planned her missions, traveling at night, using the North Star as her guide, and avoiding major roads where she might be recognized. She changed her routes constantly to stay ahead of slave catchers and used disguises to avoid suspicion. She even carried a pistol, partly for protection but also to stop anyone in her group from panicking and turning back. Because of those missions, she was given the nickname \"Moses”, a reference to the biblical figure who led his people to freedom. She never lost a single passenger. While many abolitionists preferred a slow approach, she demanded action. Tubman didn't wait for laws to change; she freed people by herself.\n\nTubman's role in the Civil War: leading an army to freedom\n\nWhen the American Civil War broke out in 1861, Tubman didn't stand aside. She joined the Union Army, working as a nurse at first but later becoming a scout and spy. Her knowledge of Southern landscapes and secret escape routes made her invaluable to military operations.\n\nHer most famous mission was the Combahee River Raid in 1863, in which she helped lead a raid on plantations, freeing over 750 enslaved people in one night. She became the first woman in US history to command a military raid. (Clinton, 2004).\n\nDespite her service, Tubman was never properly paid or recognized by the government. She had to fight for years to receive a pension, a reflection of the racial and gender inequalities that persisted long after slavery had ended.\n\nLife after the war: A new battle for justice\n\nEven after slavery was abolished in the United States, Tubman's work wasn't over. She settled in Auburn, New York, where she became an active supporter of the women's suffrage movement (Larson, 2004), believing that true freedom meant equality for everyone.\n\nShe also turned her attention to helping those who had suffered under slavery. Recognizing that many formerly enslaved people had nowhere to go and no support, she established the Harriet Tubman Home for the Aged, providing care for elderly and vulnerable Black people.\n\nDespite all her sacrifices, Tubman struggled financially for most of her life. She never received the rewards she deserved, but she remained committed to her mission until the end. She died in 1913, leaving behind a legacy that continues to inspire.\n\nTubman's legacy: Why she still matters today\n\nHarriet Tubman's impact is undeniable. She was a woman who took action when others hesitated, refused to accept oppression, and believed that justice could not wait. Her name lives on in schools, monuments, and historical sites. Her life was a testament to what it means to fight for freedom. She didn't wait for permission. She didn't wait for a better time. She acted.\n\nHarriet Tubman's life is a testament to courage, resilience, and action. She didn't just talk about freedom, she fought for it, over and over again, against impossible odds. Her legacy challenges us all to be bold, take action, and stand for justice, no matter the cost.\n\nAdapted from: https://www.elizabethheyrick.org/news/harriet-tubman-the-fearless-abolitionist-who-led-hundreds-to-freedom. Access on Oct 17, 2025.\n\nConsidering the words in bold from the text, select the alternative that brings their closest meanings:\n\n[Words to be matched are: defied, outmaneuver, flee, trapped, invaluable, odds]",
+      "alternativas": {
+        "A": "frustrated – changed – sink – taken – dear – impossibilities",
+        "B": "challenged – defeated – escape – imprisoned – precious – changes",
+        "C": "overcame – dealt - disappear – locked – beloved – clues",
+        "D": "stopped – outsmarted – depart – kept – costly – favors",
+        "E": "developed – misguided – dismiss – away – inestimable – benefits"
+      },
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Inglês – Vocabulário",
+        "Inglês – Compreensão Leitora (Sinônimos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "It is possible to infer from the text that:",
+      "alternativas": {
+        "A": "During the American Civil War period, Harriet Tubman's job as a nurse was the only thing she could do to help the US.",
+        "B": "Harriet Tubman believed she had a mission for her people and fought all along her life to fulfill that mission.",
+        "C": "When taking her several trips, Tubman avoided changing her routes because she feared getting lost.",
+        "D": "The nickname \"Moses\" can be understood as a clear reference to the protagonist of Tubman's favorite novel.",
+        "E": "Harriet Tubman was born a free child of enslaved parents."
+      },
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Inglês – Compreensão Leitora (Inferência)"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Only one of the statements below is true, according to the text. Select it:",
+      "alternativas": {
+        "A": "Harriet Tubman joined the militia in the rebellion for Independence.",
+        "B": "Harriet Tubman led an ordinary life like many other slaves.",
+        "C": "She established the Harriet Tubman Home for the Orphans.",
+        "D": "Tubman took action when other people refused to.",
+        "E": "Tubman is remembered as the first woman in US history to command a steel industry."
+      },
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Inglês – Compreensão Leitora (Identificação de Informações Verdadeiras)"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Now, check the job advertisement below and answer questions 14 and 15.\n\n[TEXTO DO ANÚNCIO DE EMPREGO]\nOpportunities as Resource Persons\nAzim Premji Foundation is a not-for-profit organization working to improve quality and equity of school education in India. If you are looking for a fulfilling career in education in the social sector come join us!\n\nAs a Resource Person in Education, you will work with Government school teachers, helping them build their professional abilities and become better teachers. Our current focus is on Pre-Primary and Primary School teachers alongside our work with Upper Primary Teachers.\n\nLocations:\nYou will be based in the districts where we work, in Chhattisgarh, Karnataka (Kalaburagi), Madhya Pradesh, Rajasthan, and Uttarakhand.\n\nEligibility:\n• Graduation or Postgraduation, with minimum 2 years of teaching experience\n• Candidates with substantial on-field experience in education NGOs may also apply\n\nTo apply, visit: http://bit.do/APF-Resource-Person\nSalary will be commensurate with qualifications and experience.\nTo know more, visit www.azimpremjifoundation.org/career-list\n\nFrom: https://advertgallery.com/newspaper/azim-premji-foundation-opportunities-as-resource-persons-ad/?amp=1 on Oct 17, 2025.\n\nThe Azim Premji Foundation is a non-profit organization looking for someone to occupy a position...",
+      "alternativas": {
+        "A": "aiding public school teachers in terms of enhancing their professional abilities.",
+        "B": "working in Human Resources Departments located in public schools.",
+        "C": "helping primary teachers with their in-class activities.",
+        "D": "assisting public teachers in their classes, as in everyday routines.",
+        "E": "measuring the capacity of educational professionals working for the government."
+      },
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Inglês – Compreensão Leitora (Anúncios de Emprego)",
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "To apply, it is advisable that you...",
+      "alternativas": {
+        "A": "know you will work with private teachers, not public ones.",
+        "B": "be aware that you may have to travel abroad frequently.",
+        "C": "make sure to have prior experience as a High School Coordinator.",
+        "D": "learn to speak Hindi.",
+        "E": "hold a minimum two-year experience as a teacher."
+      },
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Inglês – Compreensão Leitora (Requisitos de Vaga)",
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "O curling é um esporte olímpico de inverno em que duas equipes deslizam pesadas pedras de granito sobre uma pista de gelo, com o objetivo de fazê-las parar o mais próximo possível de um alvo circular desenhado no extremo da pista, chamado \"casa\". Cada pedra, pesando cerca de 20 kg, é lançada com precisão, e os jogadores utilizam hastes especiais para esfregar o gelo à frente da pedra, reduzindo o atrito e controlando sua trajetória e velocidade.\n\nSuponha, que na situação que aparece na fotografia, a jogadora lance horizontalmente o bloco de granito com velocidade de intensidade $v_0$ sobre uma pista de gelo horizontal. Seja $\\mu_c$ o coeficiente de atrito dinâmico, admitido constante, entre o granito e o gelo e $g$ a intensidade da aceleração da gravidade. Desprezando a resistência do ar, pode-se calcular a distância $d$ que o bloco percorre até parar com a expressão",
+      "alternativas": {
+        "A": "$d=\\frac{\\mu_c}{2v_0g}$",
+        "B": "$d=\\frac{\\mu_c}{4v_0^2g}$",
+        "C": "$d = \\frac{v_0^2}{2\\mu_cg}$",
+        "D": "$d = \\frac{v_0\\mu_0}{2g}$",
+        "E": "$d=\\frac{\\mu_c}{6v_0g^2}$"
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Dinâmica (Força de Atrito)",
+        "Física – Cinemática (Movimento Uniformemente Variado)"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Na tirinha, Garfield prende um balão cheio de hélio em uma aranha, que logo começa a subir. Sobre o fenômeno físico envolvido, assinale a alternativa correta:",
+      "alternativas": {
+        "A": "O balão sobe porque o ar exerce sobre ele uma força de empuxo maior do que o peso do conjunto.",
+        "B": "O balão sobe mesmo sem existir uma força de empuxo, apenas porque o hélio é mais leve que o ar.",
+        "C": "O movimento para cima ocorre porque o gás dentro do balão possui maior densidade que o ar.",
+        "D": "O sistema sempre subirá, independentemente do peso da aranha.",
+        "E": "O movimento ascendente ocorre porque não há nenhuma força agindo sobre o balão."
+      },
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Física – Hidrostática (Empuxo, Densidade)",
+        "Física – Leis de Newton"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Uma pessoa decide tirar férias em uma estação de esqui. A pessoa decide descer do topo de uma montanha coberta de neve, conforme mostra a figura, a uma altura de 40 m em relação à base. Ao iniciar a descida, considera-se que ela parte do repouso e que o atrito entre os esquis e a neve é desprezível. Sabendo que a massa total da pessoa e do equipamento é de 80 kg e considerando a aceleração da gravidade igual a 10 $\\text{m/s}^2$, sobre o movimento de descida da pessoa nessa situação, é correto afirmar que",
+      "alternativas": {
+        "A": "a velocidade da pessoa ao atingir a base da montanha será de aproximadamente 30 m/s e não depende da massa.",
+        "B": "a velocidade da pessoa ao atingir a base da montanha será de aproximadamente 10 m/s e pode aumentar à medida que a massa seja maior.",
+        "C": "a velocidade da pessoa ao atingir a base da montanha será de aproximadamente 56 m/s e não depende da massa.",
+        "D": "a velocidade da pessoa ao atingir a base da montanha será de aproximadamente 28 m/s e não depende da massa.",
+        "E": "a velocidade da pessoa ao atingir a base da montanha será de aproximadamente 30 m/s e pode aumentar à medida que a massa seja maior."
+      },
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Energia (Conservação da Energia Mecânica)",
+        "Física – Queda Livre"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Um mol de um gás monoatômico percorre o ciclo termodinâmico abca indicado na figura.\n\nSabendo que a temperatura do gás no ponto b é 300 K e a constante universal dos gases igual a 8,3 $\\text{J/mol} \\cdot \\text{K}$, é correto afirmar que",
+      "alternativas": {
+        "A": "ao longo do ciclo completo abca, o gás recebe 2.000 J de calor.",
+        "B": "o trabalho total no ciclo completo abca é de 4.000 J.",
+        "C": "no ponto c, o gás tem temperatura de 400 K.",
+        "D": "o trabalho na transformação bc é de 2.000 J.",
+        "E": "ao longo de uma transformação gasosa de ciclo fechado, o trabalho é sempre nulo."
+      },
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Termodinâmica (Ciclos Termodinâmicos)",
+        "Física – Gás Ideal",
+        "Física – Trabalho Termodinâmico"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Os espelhos convexos desempenham um papel essencial na segurança e na otimização do campo de visão em diversos ambientes do cotidiano. Em garagens e estacionamentos, os espelhos convexos são instalados em esquinas e curvas fechadas para que motoristas e pedestres visualizem veículos que se aproximam, evitando colisões. Em entradas de condomínios e portarias, ajudam vigilantes a monitorar simultaneamente a rua, o portão e o fluxo de veículos.\n\nSobre as imagens conjugadas por espelhos convexos, é correto afirmar que",
+      "alternativas": {
+        "A": "espelhos convexos formam imagens de característica real, invertida e maior que o objeto, podendo ser projetada em uma tela colocada à frente do espelho.",
+        "B": "quando o objeto se aproxima muito do espelho convexo, a imagem torna-se real e do mesmo tamanho, podendo ser captada em uma tela.",
+        "C": "a imagem é virtual, direita e sempre menor que o objeto, independentemente da posição deste em relação ao espelho.",
+        "D": "o espelho convexo forma uma imagem virtual e invertida, cujo tamanho depende da distância do objeto.",
+        "E": "a imagem é real e direita, mas só se forma quando o objeto está além do centro de curvatura do espelho."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Óptica Geométrica (Espelhos Esféricos Convexos)",
+        "Física – Formação de Imagens"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Um aluno prepara em seu caderno um projeto para montar um circuito elétrico no laboratório de física. No circuito, o aluno representa sete lâmpadas iguais como sete resistores enumerados.\n\nSabendo que o brilho de cada lâmpada dependerá da intensidade da corrente elétrica que passa por ela e que a bateria de corrente contínua representada tem resistência elétrica desprezível, o aluno cria em seu caderno quatro proposições:\n\nI. As lâmpadas 1 e 5 terão o mesmo brilho.\nII. As lâmpadas 6 e 7 terão o mesmo brilho.\nIII. Se a lâmpada 3 for desligada, o brilho da lâmpada 2 aumentará.\nIV. Se a lâmpada 1 for desligada, as lâmpadas 2, 3 e 4 também desligarão.\nV. Se a lâmpada 6 for desligada, o brilho da lâmpada 7 diminuirá.\n\nApós ligar o circuito e verificar as proposições, o aluno chega à conclusão de que estão corretas as proposições",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Circuitos elétricos"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Com levitação magnética, 'trem voador' chinês\npode alcançar 1.000 km/h\nTrens de ultra-alta velocidade são baseados na tecnologia de levitação magnética\nDisponível em: https://exame.com/mundo/china-investe-em-trem-voador-que-pode-atingir-1-000-km-h/\nO trem MagLev (Magnetic Levitation Train) é sustentado e impulsionado por campos magnéticos que o mantêm flutuando sobre os trilhos, eliminando o atrito e permitindo deslocamentos em alta velocidade. Durante o funcionamento, a força magnética gerada pelos eletroímãs equilibra o peso do trem. Considere um trem MagLev de massa $2,0 \\times 10^4$ kg que parte do repouso e atinge $360$ km/h em um trecho horizontal de $1,0$ km em um local onde a aceleração da gravidade pode ser aproximada para $10$ m/s². Com base nas informações pode-se determinar corretamente que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "força magnética tem intensidade de $2,5 \\times 10^5$ N e a força resultante responsável pela aceleração horizontal do trem nesse trecho é de $1,0 \\times 10^3$ N."
+        },
+        {
+          "letra": "A",
+          "texto": "força magnética tem intensidade de $2,0 \\times 10^5$ N e a força resultante responsável pela aceleração horizontal do trem nesse trecho é de $1,0 \\times 10^5$ N."
+        },
+        {
+          "letra": "A",
+          "texto": "força magnética tem intensidade de $1,5 \\times 10^5$ N e a força resultante responsável pela aceleração horizontal do trem nesse trecho é de $5,0 \\times 10^3$ N."
+        },
+        {
+          "letra": "A",
+          "texto": "força magnética tem intensidade de $3,5 \\times 10^5$ N e a força resultante responsável pela aceleração horizontal do trem nesse trecho é de $4,0 \\times 10^4$ N."
+        },
+        {
+          "letra": "A",
+          "texto": "força magnética tem intensidade de $1,0 \\times 10^4$ N e a força resultante responsável pela aceleração horizontal do trem nesse trecho é de $2,0 \\times 10^3$ N."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Física – Dinâmica",
+        "Física – Cinemática",
+        "Física – Eletromagnetismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Leia o texto abaixo para responder as questões nº 23 e n° 24\nO Fomepizol é um antídoto para tratar os casos de intoxicação por metanol. O seu mecanismo de ação está baseado no processo de inibição competitiva da enzima álcool desidrogenase, que converte, o álcool primário, metanol, em metanal e ácido fórmico. O ácido fórmico é extremamente tóxico para o metabolismo humano, pois pode gerar graves danos ao nervo óptico, levando à cegueira permanente, além de gerar acidose metabólica.\n\nQuestão n° 23\nDe acordo com a fórmula estrutural do Fomepizol, ilustrada abaixo, pode-se afirmar que\n\n(Imagem da estrutura química do Fomepizol)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "presenta características ácidas, pois é um ácido de Lewis."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Química – Química Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Abaixo foram representadas séries genéricas de reações orgânicas. Assim, a série que representa corretamente a oxidação completa de um álcool primário é\n\nDado: R = cadeia carbônica",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$R-CH_2OH \\xrightarrow{[O]} R-CHO \\xrightarrow{[O]} R-OH$"
+        },
+        {
+          "letra": "B",
+          "texto": "$R-CH_2OH \\xrightarrow{[O]} R-CHO \\xrightarrow{[O]} R-H$"
+        },
+        {
+          "letra": "C",
+          "texto": "$R-CH_2OH \\xrightarrow{[O]} R-COOH \\xrightarrow{[O]} R-CHO$"
+        },
+        {
+          "letra": "D",
+          "texto": "$R-CH_2OH \\xrightarrow{[O]} R-CHO \\xrightarrow{[O]} R-COOH$"
+        },
+        {
+          "letra": "E",
+          "texto": "$R-CH_2OH \\xrightarrow{[O]} R-CHO \\xrightarrow{[O]} R-CHO$"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Química – Reações Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "A proteção catódica é uma técnica eficaz e amplamente utilizada para controlar a corrosão de estruturas metálicas enterradas ou submersas, como tubulações, cascos de navios, tanques e armaduras de concreto. O princípio fundamental é transformar a superfície do metal a ser protegido (que naturalmente agiria como um ânodo, corroendo-se) em um cátodo de uma célula eletroquímica. Ao fornecer elétrons para essa estrutura, a reação de oxidação (corrosão) é interrompida ou drasticamente reduzida.\n\nConsiderando os dados abaixo e um cátodo de ferro, o metal a ser escolhido para atuar como um ânodo de modo em que a proteção seja a mais eficaz é o\n\nSemiequações de redução | Potenciais-padrão de redução ($E^0_{red}$)\n$Mg^{2+}_{(aq)} + 2e^- \\rightarrow Mg_{(s)}$ | – $2,37$ V\n$Al^{3+}_{(aq)} + 3e^- \\rightarrow Al_{(s)}$ | – $1,66$ V\n$Zn^{2+}_{(aq)} + 2e^- \\rightarrow Zn_{(s)}$ | – $0,76$ V\n$Fe^{2+}_{(aq)} + 2e^- \\rightarrow Fe_{(s)}$ | – $0,44$ V\n$Cu^{2+}_{(aq)} + 2e^- \\rightarrow Cu_{(s)}$ | + $0,34$ V\n$Au^{3+}_{(aq)} + 3e^- \\rightarrow Au_{(s)}$ | + $1,50$ V",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "lumínio."
+        },
+        {
+          "letra": "C",
+          "texto": "obre."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Química – Eletroquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "A Lei da Diluição de Ostwald é uma relação fundamental na físico-química que conecta a força de um eletrólito fraco (como um ácido ou base fraca) com sua concentração em solução. Essa lei, proposta por Friedrich Wilhelm Ostwald, no final do século XIX, tem duas aplicações principais, relacionando a constante de ionização, a concentração molar e o grau de ionização. Considerando que certo ácido monoprótico, de concentração $0,2$ mol·L$^{-1}$ e grau de ionização igual a $4\\%$, tenha sido colocado em um recipiente até que atingisse o equilíbrio a $25 \\text{ °C}$, é correto afirmar que a constante de ionização desse ácido (Ka), a $25 \\text{ °C}$ apresenta valor próximo de",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Química – Equilíbrio Químico"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "A mistura gasosa mais comum e vital para a vida na Terra é o ar atmosférico, composto predominantemente por gases nitrogênio e oxigênio. Esses dois gases formam uma solução gasosa homogênea, essencial para diversos processos biológicos e industriais. O primeiro atua como um gás inerte, diluindo o segundo e ajudando a controlar a taxa de combustão e de processos metabólicos. O gás oxigênio é, obviamente, fundamental para a respiração e reações de combustão. Em um cilindro fechado com volume de $50$ L, uma mistura gasosa ideal composta por $160$ g de gás oxigênio e $560$ g de gás nitrogênio, encontra-se acondicionada sob temperatura de $27 \\text{ °C}$. Para essa configuração, a pressão total do sistema é, aproximadamente,\n\nDados: massas molares ($g\\cdot mol^{-1}$) N = $14$ e O = $16$\nconstante universal dos gases ideais – R (L·bar·mol$^{-1}$·K$^{-1}$) = $0,083$",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Química – Gases"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Quatro recipientes identificados com algarismos romanos contêm, separadamente, os seguintes compostos orgânicos puros à temperatura ambiente:\nI. butano\nII. butanol\nIII. butanona\nIV. ácido butanoico\nSabe-se que as forças intermoleculares presentes nas substâncias químicas influenciam as propriedades físico-químicas desses compostos. Sendo assim, a ordem crescente de ponto de ebulição dessas substâncias, sob pressão de $1$ atm, está corretamente representada em",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Química – Química Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Observe a tabela da mudança de cor de alguns indicadores ácido-base na qual estão presentes as cores em pH abaixo e acima das faixas de viragem.\n\nIndicador | Cor abaixo do pH de viragem | Faixa de viragem (pH) | Cor acima do pH de viragem\nAzul de bromofenol | amarelo | $3,0 - 4,6$ | violeta\nAzul de bromotimol | amarelo | $6,0 – 7,6$ | azul\nVermelho de metila | vermelho | $4,4 – 6,2$ | amarelo\nAmarelo de alizarina R | amarelo | $10,1 – 12,0$ | vermelho\n\nCerta solução X interagiu com os indicadores, apresentando os seguintes resultados:\n\nIndicador | Cor da interação com a solução X\nAzul de bromofenol | violeta\nAzul de bromotimol | verde\nVermelho de metila | laranja\nAmarelo de alizarina R | amarelo\n\nAssim, é correto afirmar que o pH da solução X encontra-se na faixa entre",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Química – Soluções"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Em uma pesquisa sobre mobilidade urbana, um certo número de estudantes de uma mesma turma foi entrevistado quanto ao tempo médio (em minutos) que gastam diariamente no trajeto de casa até a escola. Todos os tempos relatados foram organizados no gráfico a seguir.\n\nCom base nesses dados, a média, a moda e a mediana desses tempos são, respectivamente, iguais a",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Matemática – Estatística"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Um agricultor, com o objetivo de aumentar sua produção de milho, realizou um estudo e identificou que existe uma quantidade de adubo que maximiza a produção ao longo de um determinado mês, obtendo a função\n\n$P(x) = -x^2 + 20x + c$,\nem que $P(x)$ representa a produção de milho em toneladas, $x$ a quantidade de adubo em centenas de quilogramas, e o domínio dessa função é $D(P) = \\{x \\in R | x \\ge 0\\}$ com $c \\in R$.\nNesse estudo, identificou-se que a produção máxima atingida nesse mês foi de $200$ toneladas. Considere que, no início da produção, a quantidade de adubo era nula. Qual é o valor da produção, em toneladas, quando esse agricultor iniciou o estudo?",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Matemática – Funções"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Considerando a matriz $A_{2\\times 2} = \\begin{pmatrix} 0,3 & 0,48 \\\\ 0,7 & 0,78 \\end{pmatrix}$, cuja lei de formação é $a_{ij} = \\log (i^2 + j)$,\no valor da expressão $\\log 0,8 + \\log 25 + \\log 20$ será",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Matemática – Logaritmos",
+        "Matemática – Matrizes"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Uma empresa de tecnologia desenvolveu um sistema de inspeção aérea automatizada com drones controlados por inteligência artificial (IA). Durante uma missão de inspeção de torres de comunicação em uma região montanhosa, um drone seguiu uma rota programada em três trechos retilíneos, da seguinte forma:\n• Primeiro, o drone voa $3$ km da torre A até a torre B.\n• Em seguida, ele percorre $5$ km da torre B até a torre C.\n• Ao detectar uma falha no sinal, a IA do drone decide retornar diretamente da torre C até a torre A, em linha reta, para ganhar tempo e economizar bateria.\n• Os sensores do drone registram que o ângulo entre os dois primeiros trechos da rota ($A \\rightarrow B \\text{ e } B \\rightarrow C$) é de $135\\text{°}$.\nCom base nesses dados, a distância entre a torre C e a torre A, é igual a, aproximadamente,\nDados: $\\sqrt{2} \\approx 1,4$; $\\sqrt{3} \\approx 1,7$; $\\sqrt{5} \\approx 2,2$; $\\sqrt{7} \\approx 2,6$; $\\sqrt{11} \\approx 3,3$",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Na figura a seguir, as circunferências $\\gamma$ e $\\delta$ são tais que\n$\\gamma : x^2 + y^2 = 16$ e\n$\\delta: x^2 + y^2 – 26x + 88 = 0$,\ne a reta $t$ é tangente a ambas as circunferências, nos pontos A e B, respectivamente.\n\nA distância entre os pontos A e B vale",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "A imagem abaixo é uma parte do mapa da cidade de Rio Claro, localizada no interior de São Paulo.\n\nFonte: Google Maps - Adaptada\nConsidere que as Avenidas M23 e M21 sejam paralelas e as Avenidas 2f e 1f sejam retas transversais a estas avenidas, que se encontram na praça central em um único ponto A, formando o triângulo ABC, como identificados na imagem anterior.\nSendo a extensão da Avenida M21 igual a $400$ metros, a distância entre os pontos A e B de $300$ metros e a extensão da avenida M23 igual a $150$ metros, qual a distância entre as avenidas M21 e M23, passando pela avenida 1f?",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "No esboço de uma logomarca, um designer desenhou uma circunferência de centro O e raio r.\nEm seguida, ele traçou os segmentos de reta $\\overline{AB}$ e $\\overline{BC}$, medindo, respectivamente $6$ cm e $2$ cm, de modo que $\\overline{AB}$ passa por O e é perpendicular a $\\overline{BC}$, sendo A e C dois pontos da circunferência, conforme a figura a seguir.\n\nAcidentalmente, o designer não registrou o valor do raio da circunferência, e decidiu utilizar apenas as informações disponíveis para realizar o cálculo da área do círculo delimitado por ela.\nAssim, a área desse círculo, em centímetros quadrados, é igual a",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Um marceneiro possui uma tora de madeira maciça em formato de um cilindro circular reto.\nPara construir uma determinada peça, ele precisa executar uma cavidade cônica na parte interna dessa tora de madeira de forma que esse cone circular reto, que será retirado, esteja inscrito no cilindro. Como pode ser visto na imagem abaixo:\n\nApós a execução da peça, o marceneiro verificou que seu volume final é de $25\\sqrt{3} \\text{ cm}^3$.\nCom base nessas informações, qual foi o volume retirado da tora de madeira?",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Em um experimento de Física, uma bolinha de borracha é solta de $1$ metro de altura em relação ao solo. Após cada colisão com o chão, a bolinha retorna a uma altura correspondente a $80\\%$ da altura imediatamente anterior. Esse processo se repete indefinidamente, isto é: a bolinha desce, colide com o solo e sobe, sempre atingindo $80\\%$ da altura imediatamente anterior.\nConsiderando tal experimento, qual será a distância vertical total, em metros, percorrida pela bolinha após infinitos saltos?",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Matemática – Progressões Geométricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Em um laboratório de biotecnologia, cada amostra de DNA precisa ser identificada por uma etiqueta alfanumérica exclusiva gerada por um software interno.\nPor razões de segurança, as etiquetas são formadas sempre com todos os caracteres do grupo:\n\nGEEE@2026\n\nCada etiqueta utiliza todos os nove caracteres do grupo exatamente uma vez cada, em qualquer ordem. Certa etiqueta é identificada por $2GE@2E6E0$, por exemplo.\nPara verificar a qualidade do sistema, o técnico responsável utiliza a seguinte tabela.\n\nNúmero máximo (n) de etiquetas distintas geradas | Qualidade do sistema\n--- | ---\n$0 < n < 9500$ | péssimo\n$9500 < n < 19000$ | ruim\n$19000 < n < 28500$ | bom\n$28500 < n < 38000$ | muito bom\n$n > 38000$ | excelente\n\nDe acordo com essa tabela, o sistema de etiquetas desse laboratório pode ser classificado como",
+      "alternativas": [
+        {
+          "letra": "B",
+          "texto": "om."
+        },
+        {
+          "letra": "E",
+          "texto": "xcelente."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Nas galinhas domésticas, é possível observar uma diferença anatômica e funcional significativa entre os músculos: a musculatura peitoral (usada para o bater de asas, um movimento breve e explosivo) é predominantemente clara (\"carne branca\"), enquanto a musculatura das patas (usada para sustentação e caminhada contínua) é mais escura (“carne escura”). Essa diferença cromática reflete a predominância de diferentes tipos de fibras musculares esqueléticas.\nA característica das fibras vermelhas, predominantes nas patas das galinhas, que as tornam mais adaptadas à atividade contínua é a",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "apacidade de somente realizar contrações rápidas e potentes, utilizando glicose como substrato energético."
+        },
+        {
+          "letra": "B",
+          "texto": "aixa densidade de capilares sanguíneos e estoque de ATP muito abundante."
+        },
+        {
+          "letra": "A",
+          "texto": "lta concentração de mioglobina e grande quantidade de mitocôndrias."
+        },
+        {
+          "letra": "D",
+          "texto": "ependência primária da fermentação lática para obtenção de energia de forma eficiente."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Biologia – Histologia Animal"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Um caso clássico de especiação simpátrica é o da mosca-das-frutas Rhagoletis pomonella. Originalmente, essa espécie se reproduzia em frutos de espinheiro-silvestre. No século XIX, um grupo dessas moscas passou a depositar seus ovos em maçãs cultivadas, um novo hospedeiro que surgiu no mesmo ambiente. Com o tempo, as populações que utilizam maçãs e as que utilizam espinheiro desenvolveram diferenças genéticas e ecológicas, reduzindo o cruzamento entre si. Se os dois famosos evolucionistas tivessem a oportunidade de ler os trabalhos de Gregor Mendel antes da publicação de seus trabalhos, esses erros possivelmente teriam sido sanados.\nCom base no exemplo, o fator evolutivo inicial que propiciou o processo de especiação simpátrica nas moscas Rhagoletis pomonella foi",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "seleção direcional que favoreceu um único tipo de mosca em ambos os hospedeiros."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Biologia – Evolução"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Em 2024, pesquisadores confirmaram a existência dos 'nitroplastos' em algas marinhas. Essas estruturas são organelas responsáveis pela fixação de nitrogênio e têm sua origem em uma cianobactéria que foi incorporada por um ancestral das algas. Diferente dos cloroplastos, os nitroplastos possuem um genoma extremamente reduzido, dependendo de proteínas codificadas pelo núcleo da célula hospedeira para seu funcionamento.\nA descoberta dos nitroplastos reforça a Teoria Endossimbiótica, pois evidencia um processo semelhante ao que originou",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Biologia – Citologia",
+        "Biologia – Evolução"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "O embrião dos animais pode se desenvolver de diferentes formas, o que contribui para a classificação e construção da filogenia dos invertebrados e vertebrados. A imagem abaixo representa o corte de três embriões distintos, o que nos permite identificar o animal que o possui e a classificação a qual pertence. Assinale a alternativa que apresenta a descrição correta de um dos embriões.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ": acelomado, ex.: porífero."
+        },
+        {
+          "letra": "B",
+          "texto": ": diblástico, ex.: molusco."
+        },
+        {
+          "letra": "C",
+          "texto": ": celomado, ex.: platelminto."
+        },
+        {
+          "letra": "A",
+          "texto": ": triblástico, ex.: cnidário."
+        },
+        {
+          "letra": "B",
+          "texto": ": pseudocelomado, ex.: nematelminto."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Biologia – Embriologia",
+        "Biologia – Zoologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "“A onda de calor que varreu os oceanos do planeta em 2023 e 2024 deixou cicatrizes profundas em alguns recifes de coral brasileiros. A região Nordeste foi a mais impactada, segundo um novo estudo publicado na revista Coral Reefs. Em Maragogi, no norte de Alagoas, o excesso de calor dizimou quase 90% da cobertura de corais da região. [...] Os dados fazem parte do primeiro levantamento sistemático já realizado sobre os impactos de um evento global de branqueamento sobre os recifes de coral brasileiros.”\nFonte: https://jornal.usp.br/ciencias/onda-de-calor-de-2024-dizimou-corais-no-nordeste-mas-nao-em-outras-regioes-do-brasil/\nO branqueamento dos recifes de corais é explicado",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "“Pesquisadores da Universidade de Maryland (EUA) investigaram como a forma das folhas influencia a sobrevivência das plantas em diferentes ambientes. Segundo o estudo, o formato e a espessura das folhas estão relacionados à regulação da temperatura, à perda de água e à eficiência na captação de luz solar.\nFonte: University of Maryland News, 2024 (tradução adaptada).\nConsiderando as informações do texto e os conhecimentos sobre morfologia vegetal e adaptações a diferentes biomas, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "m plantas da Floresta Amazônica, as folhas largas e finas, com bordas lisas e presença de gotejadores (pontas alongadas), facilitam o escoamento da água da chuva e evitam o acúmulo de fungos e líquens na superfície foliar."
+        },
+        {
+          "letra": "E",
+          "texto": "m plantas do Cerrado, a cutícula é delgada e a presença de numerosos estômatos facilita a transpiração, o que mantém a fotossíntese eficiente em períodos de seca."
+        },
+        {
+          "letra": "E",
+          "texto": "m espécies da Caatinga, folhas largas e delgadas, com grande área fotossintética, são fundamentais para captar o máximo de luz durante a estiagem prolongada."
+        },
+        {
+          "letra": "E",
+          "texto": "m plantas de Floresta temperada, a presença de folhas transformadas em espinhos é essencial para reduzir a transpiração durante o inverno e proteger contra geadas."
+        },
+        {
+          "letra": "E",
+          "texto": "m plantas de manguezal, a presença de folhas coriáceas e recobertas por cera espessa aumenta a absorção de oxigênio atmosférico, compensando a baixa oxigenação do solo salobro."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Biologia – Botânica",
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "“No Pantanal, pesquisadores encontram maior vírus gigante com cauda já isolado no mundo\nEsse grupo é formado por vírus que infectam amebas — ou seja, são inofensivos aos seres humanos — e apresenta características que desafiam paradigmas da microbiologia: enquanto um vírus da dengue mede aproximadamente 50 nanômetros (nm), um vírus gigante pode ser até 52 vezes maior, chegando a 2.600 nm. [...] Ao estabelecer uma relação de parasitismo, o vírus gigante utiliza a estrutura da ameba para replicar sua partícula viral, o capsídeo.”\nFonte: https://jornal.usp.br/ciencias/no-pantanal-pesquisadores-encontram-maior-virus-gigante-com-cauda-ja-isolado-no-mundo/\nSobre os principais eventos da replicação viral, assinale o que for correto.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "dsorção é a fixação do vírus à superfície da célula, as proteínas de fixação virais reconhecem receptores específicos na membrana celular."
+        },
+        {
+          "letra": "A",
+          "texto": "liberação de novos vírus ocorre antes da síntese das proteínas virais, aproveitando o genoma encapsulado do vírus original."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Biologia – Virologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "A imagem abaixo representa uma cerimônia de homenagem e juramento de fidelidade, um ritual fundamental para a estruturação do poder na sociedade feudal da Europa medieval.\nhttps://brasilescola.uol.com.br/historiag/a-cerimonia-vassalagem.htm\nSobre o sistema de relações políticas e sociais representado nesta iluminura, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "suserania era uma relação hierárquica rígida e estática, que impedia a mobilidade social e consolidava o poder monárquico, uma vez que um vassalo não podia, em hipótese alguma, ter seus próprios vassalos."
+        },
+        {
+          "letra": "A",
+          "texto": "cerimônia de homenagem tinha um caráter puramente simbólico e religioso, sem implicações jurídicas ou políticas concretas, uma vez que o poder na Idade Média era exercido exclusivamente pela Igreja Católica."
+        },
+        {
+          "letra": "A",
+          "texto": "relação de vassalagem, como a ilustrada, criava laços de dependência pessoal e mútua, em que a concessão de um benefício (como um feudo) pelo suserano era reciprocada por auxílio militar e conselho por parte do vassalo."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "História – Idade Média"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Observe a imagem:\nSOLA SCRIPTURA\nSOLA GRATIA\nSOLA FIDE\nSOLUS CHRISTUS\nSOLI DEO GLORIA\nhttps://theologish.wordpress.com/2017/10/20/sola-fide/\nA Reforma Protestante teve início com a publicação das \"95 Teses\", pregada na porta da Igreja do castelo de Wittenberg, por alunos do professor e padre agostiniano Martinho Lutero. Em um primeiro momento, as intenções estavam voltadas mesmo para uma reforma dentro da estrutura político-religiosa e da interpretação dada por seus líderes católicos sobre a Bíblia Sagrada. Entretanto, a Igreja Católica não considerou essas propostas de Lutero e o papa Leão X articulou um movimento contrário. Lutero havia ganhado popularidade nas terras alemãs e se tornou um grande líder por isso. Diante de suas ideias, havia o princípio teológico central que marcou a sua ruptura com a Igreja Católica, que se baseava na ideia de Sola Fide, que é definida como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "salvação alcançada pela fé, mas confirmada pela compra das indulgências e pela prática de boas obras ligadas aos ensinamentos anabatistas do primeiro sacramento, a única lei defendida pelos protestantes."
+        },
+        {
+          "letra": "A",
+          "texto": "única fonte de autoridade religiosa na tradição luterana, uma vez que ela defende a ideia da predestinação, em que todas as pessoas já nascem com o seu destino pré-concebido, garantindo a salvação perante Deus."
+        },
+        {
+          "letra": "A",
+          "texto": "salvação conquistada, exclusivamente, pela fé em Jesus Cristo que morreu na cruz pelos pecados da humanidade, um dom divino e gratuito, e não, como a Igreja Católica defendia, por obras e obediência aos pedidos feitos por padres e bispos."
+        },
+        {
+          "letra": "A",
+          "texto": "separação total entre a Igreja e o Estado, defendendo que a política não deveria ter nenhuma influência sobre a religião, por conta da forma como os governantes enganavam o povo e controlavam o pagamento da simonia em nome da infalibilidade papal."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "História – Idade Moderna"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Analise a seguinte afirmação, do historiador Perry Anderson, sobre a natureza do Estado Absolutista na Europa moderna:\n“Ο Estado Absolutista nunca foi um árbitro entre a aristocracia e a burguesia, e menos ainda um instrumento da burguesia nascente contra a aristocracia: ele era a nova carapaça política de uma nobreza atemorizada.”\n(Perry Anderson, Linhagens do Estado Absolutista, 1974.)\nA interpretação correta da tese de Anderson contida nesse texto é a de que o Absolutismo",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "onstituiu um mecanismo de poder autônomo e acima das classes sociais, no qual o monarca, utilizando a burguesia como base de apoio, conseguiu submeter definitivamente a nobreza feudal, preparando o terreno para o capitalismo."
+        },
+        {
+          "letra": "D",
+          "texto": "esenvolveu-se como um poder independente da estrutura de classes, cujo objetivo principal era a modernização administrativa e a unificação territorial, processos estes que beneficiavam igualmente a nobreza e a burguesia em ascensão."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "História – Idade Moderna"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "A partir de 1532, com a fundação da cidade de São Vicente, teve início o projeto de organização administrativa da colônia portuguesa, com as Capitanias Hereditárias. Nesse processo, os principais documentos oficiais eram a Carta de Doação e a Carta Foral que autorizavam o cargo de donatário das terras marcadas por linhas horizontais entre o oceano Atlântico e o Tratado de Tordesilhas (1494). Entretanto, em 1548, a Coroa Portuguesa extinguiu esse sistema e instituiu o Governo Geral no Brasil como forma de centralização da gestão.\nObserve a imagem e assinale a alternativa correta que justifica o fracasso das Capitanias Hereditárias.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "grande maioria das Capitanias Hereditárias não prosperaram economicamente por conta da distância em relação à Coroa e, isso, tanto na produção de matérias-primas quanto na ineficiência de defender o território das invasões estrangeiras e da inabilidade de controlar as populações originárias."
+        },
+        {
+          "letra": "A",
+          "texto": "falta de meios para expulsar os invasores franceses e holandeses que se estabeleceram na Baía de Guanabara (França Antártica) e, depois, na linha do Equador, onde havia as cidades de São Luís e Fortaleza (França equatorial). Esses países foram responsáveis pelo controle, durante séculos, da produção do açúcar na colônia."
+        },
+        {
+          "letra": "A",
+          "texto": "centralização da produção de ouro, recém-descoberto na região de Minas Gerais, Mato Grosso e Goiás para garantir o \"quinto\" real, além da reforma pombalina que permitiu a laicização das escolas e da administração pública, marcando a fase do despotismo esclarecido, que centralizou o poder nas mãos do Marquês de Pombal que representava a Coroa Portuguesa na colônia."
+        },
+        {
+          "letra": "A",
+          "texto": "pressão do Tratado de Tordesilhas, que exigia o repovoamento das áreas desabitadas para manter a posse portuguesa da linha divisória mediante a iminência da invasão de holandeses e espanhóis que não aceitavam a divisão do território e das áreas de mineração. Essa pressão foi iniciada com a conquista da Guanabara pelos franceses e a São Luís pelos holandeses que queriam se antecipar à chegada das fragatas inglesas."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "História – História do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "A tabela abaixo apresenta os números dos movimentos migratórios para o Brasil durante o final do século XIX e início do século XX.\nDados:\nPeríodos | N.ºs absolutos\n1872-1879 | 176337\n1880-1889 | 48622\n1890-1899 | 1198327\n1900-1909 | 622407\n1910-1919 | 815453\n1920-1929 | 846647\n(Neide Lopes Patarra. Movimentos migratórios no Brasil, 2003. Adaptado.)\nA análise dos dados da tabela, considerando o contexto histórico brasileiro, permite afirmar corretamente que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "estabilização dos fluxos nas décadas de 1910 e 1920 está ligada ao declínio irreversível da cafeicultura paulista e à consequente falta de atrativos para imigrantes, que passaram a preferir os Estados Unidos e a Argentina como destinos."
+        },
+        {
+          "letra": "A",
+          "texto": "queda brusca no número de imigrantes no decênio 1880-1889 deveu-se à promulgação da Lei Áurea, que, ao conceder liberdade aos escravizados, saturou o mercado de trabalho com mão de obra assalariada nacional, desestimulando novas levas de imigrantes."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "História – História do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "O Estado Novo (1937-1945), período, institucionalmente, ditatorial da Era Vargas, foi marcado por forte centralização política e ideológica. A partir da Constituição assinada por Francisco Campos, que ficou conhecida como a \"Constituição da Polaca\", surgiram mecanismos e dispositivos que lograriam sobre a estratégia governamental de controle da sociedade e de aniquilação dos opositores. Nesse contexto, após observar a fotografia de uma celebração do governo varguista, assinale a alternativa correta sobre o que marcou esse período.\nhttps://declaracao1948.com.br/2019/10/21/o-estado-varguista-repressao-e-propaganda-getulio-vargas/",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "descentralização administrativa, com a concessão de ampla autonomia aos estados governados por interventores que outorgaram suas constituições, revogaram a censura prévia à imprensa e obrigaram que todos os brasileiros, homens, maiores de 21 anos, alistassem-se nas Forças Armadas."
+        },
+        {
+          "letra": "A",
+          "texto": "extinção da CLT (Consolidação das Leis do Trabalho) de cunho sindicalista e socialista e o fim da Justiça do Trabalho, com a adoção de uma política trabalhista voltada, totalmente, para os princípios patronais de garantia dos privilégios das classes sempre mais favorecidas, ao mesmo tempo em que fazia uma campanha nacional contra a corrupção."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "História – História do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Leia o trecho da reportagem abaixo:\nÉ legal?\n• A Constituição da Índia independente proibia a discriminação com base na casta.\n• E em uma tentativa de corrigir injustiças históricas e oferecer igualdade de condições àqueles que tradicionalmente estavam em desvantagem, em 1950 as autoridades anunciaram cotas em cargos governamentais e instituições educacionais para castas e tribos, as mais baixas na hierarquia de castas.\n• Em 1989, as cotas foram expandidas para incluir um agrupamento denominado OBC (Outras Castas Regressivas), que se encontra entre as tradicionais castas superiores e inferiores.\n• Nas últimas décadas, com a expansão da educação laica e o aumento da urbanização, a influência das castas tem diminuído um pouco, principalmente nas cidades onde coexistem diferentes castas.\n• Os casamentos entre castas também estão se tornando mais comuns.\n• Em certos Estados do Sul e no estado de Bihar, no Norte, muitas pessoas começaram a usar um único nome em homenagem aos movimentos de reforma social.\nhttps://www.bbc.com/portuguese/internacional-55452675#:~:text=Como%20surgiram%20as%20castas?,o%20deus%20hindu%20da%20cria%C3%A7%C3%A3o.&text=No%20topo%20da%20ordem%20hier%C3%A1rquica,os%20Dalits%20ou%20os%20Intoc%C3%Alveis.\nEm 1949, a Constituição indiana aboliu o sistema de castas, porém os valores e costumes de uma cultura milenar, que se apresentam em um processo de longa duração, não foram, imediatamente, transformados por essa Carta Magna e, assim, até os dias de hoje vemos, apesar de enfraquecida, caraterísticas desse sistema na organização social dessa nação. Leia o trecho da reportagem da BBC NEWS de Londres, do dia 26 de dezembro de 2020, e assinale a alternativa que responde à questão: qual dos seguintes princípios era o fundamento do sistema social de castas (Varna), predominante na Índia Antiga, associado aos textos védicos e à religião hindu, que vemos até os dias de hoje?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "separação estrita da sociedade em grupos hereditários, vinculados ao lugar e ao sobrenome de nascimento, baseada na pureza ritual e nas ocupações profissionais que eram chamadas, no hinduísmo, de Dharma."
+        },
+        {
+          "letra": "A",
+          "texto": "subordinação de todas as classes sociais ao imperador, o Raja, que tinha o poder divino de alterar o status de qualquer indivíduo. Assim, quando a India se tornou uma república, esse poder foi transferido ao presidente eleito pela maioria da população alfabetizada do país com a obrigação de governar para todos."
+        },
+        {
+          "letra": "A",
+          "texto": "organização em pequenos clãs tribais, em que o casamento interclă era a principal forma de aliança política e social que garantia o fortalecimento das relações geracionais da política e da economia, tornando a Índia, atualmente, o país mais populoso do mundo e o maior exportador de mentes brilhantes."
+        },
+        {
+          "letra": "A",
+          "texto": "mobilidade social irrestrita, permitida pelo acúmulo de riqueza e bens materiais que sempre marcaram as relações sociais nesse país, mediante a leitura ortodoxa dos ensinamentos de Lao-Tsé, por meio dos textos védicos e da interpretação do Yin e o Yang, como forma de controle das massas e de garantia dos privilégios das castas."
+        },
+        {
+          "letra": "A",
+          "texto": "divisão de trabalho baseada em mérito individual, permitindo a ascensão de guerreiros (Kshatriyas) a sacerdotes (Brahmanas) por meio de atos de bravura, sabedoria ou habilidades sociais, em que a meritocracia era o princípio ativo das relações e o principal mecanismo de controle."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "História – História Antiga",
+        "Sociologia – Estratificação Social"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Observe a imagem do ciclone abaixo:\nFonte: CBN Santos Publicado em 02/12/2024.\nA partir da interpretação da imagem de satélite acima, é correto afirmar que se trata de uma",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "Observe as duas anamorfoses a seguir\nFonte: World Population Prospects: the 2017 revision, United Nations (UN).\nA partir da comparação entre os dados do PIB por país e do PIB per capita, podemos afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Austrália possui uma ampla diferença entre poder econômico nacional e distribuição de renda, apresentando um baixo índice de desenvolvimento humano."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Geografia – Geografia Econômica",
+        "Geografia – Geografia Humana"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "Um geógrafo está desenvolvendo dois mapas para um estudo de planejamento urbano e regional. O primeiro mapa, denominado Mapa A, possui escala 1:5.000 e tem como objetivo analisar o uso do solo em um bairro de uma cidade. Já o segundo mapa, o Mapa B, utiliza a escala 1:5.000.000 e busca representar a distribuição populacional em uma região composta por diversos estados.\nCom base nesse contexto e nos conhecimentos sobre escalas cartográficas, assinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "escala do Mapa A é considerada pequena, pois o número 5.000 é menor do que 5.000.000."
+        },
+        {
+          "letra": "A",
+          "texto": "mbos os mapas utilizam escalas pequenas, já que representam o território em tamanho reduzido em relação ao real."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Geografia – Cartografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "O arquipélago de Fiji, situado no Oceano Pacífico, fica a oeste da Linha Internacional de Data (LID). Já o Havaí, território dos Estados Unidos, localiza-se a leste dessa linha imaginária. Ambos os locais possuem fusos horários muito distintos: Fiji geralmente utiliza UTC +12 (ou +13 em horário de verão) e o Havaí utiliza UTC -10 (ou seja, dez horas atrás do horário de referência de Greenwich, sem considerar horário de verão).\nFonte: https://blog.polynesia.com/international-date-lin\nEm 1º de janeiro de um determinado ano, no arquipélago de Fiji, comemora-se a virada do ano justamente no momento em que o relógio marca 00h00 (meia-noite). Nesse instante, o relógio no Havaí está marcando um horário diferente, em data distinta, devido à posição em relação à Linha Internacional de Data e aos fusos horários envolvidos.\nConsiderando esse cenário, avalie as afirmativas a seguir e em seguida assinale a alternativa correta.\nI. No Havaí, ainda é 31 de dezembro, pois, ao se cruzar da zona de Fiji para a do Havaí via LID, volta-se um dia no calendário.\nII. No Havaí, a data é 2 de janeiro, porque o Havaí está adiantado em relação ao Fiji.\nIII. A diferença de fuso horário entre Fiji e Havaí, combinada com a posição da LID, pode levar a uma diferença de cerca de 22 horas ou mais entre os dois locais.",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Geografia – Cartografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "Desde o fim da Guerra Fria, a disputa entre Armênia e Azerbaijão, sobretudo em torno da região de Nagorno-Karabakh, tem sido uma das mais persistentes da Eurásia. Após a ofensiva azeri de 2020 e a dissolução da autodeclarada República de Artsakh em 2023, os dois países retomaram negociações sob intensa pressão externa e interna. Em 8 de agosto de 2025, numa cerimônia realizada na Casa Branca em Washington, o presidente azeri Ilham Aliyev e o primeiro-ministro armênio Nikol Pashinyan assinaram uma declaração conjunta – mediada pelos Estados Unidos – que abriu caminho para a assinatura de um acordo bilateral de paz e o fim definitivo das hostilidades.\nFonte: https://www.nbcnews.com/news/amp/rcna224004\nCom base no texto e em seus conhecimentos geopolíticos, analise as afirmações a seguir.\nI. O acordo de 2025 marca o fim definitivo da instabilidade na região do Cáucaso, uma vez que o reconhecimento mútuo das fronteiras elimina os principais vetores de conflito.\nII. O Cáucaso é uma região de elevada importância geoestratégica por conectar grandes potências, servir de rota para recursos energéticos e concentrar disputas de influência regional.\nIII. A mediação dos EUA no processo de paz entre Armênia e Azerbaijão indica uma tentativa de reduzir a influência de Rússia e Irã no Cáucaso, fortalecendo o papel norte-americano na segurança energética europeia.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "penas I está correta."
+        },
+        {
+          "letra": "A",
+          "texto": "penas II está correta."
+        },
+        {
+          "letra": "A",
+          "texto": "penas III está correta."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Geografia – Geopolítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "Na geopolítica, a definição e o entendimento dos diferentes tipos de territórios são essenciais para analisar as complexas relações de soberania, fronteiras e acesso territorial entre os Estados. Um dos conceitos mais importantes nesse campo é o de enclave, que implica desafios específicos para os países envolvidos, como o controle de fronteiras, circulação de pessoas e bens, além de tensões diplomáticas.\nConsiderando essa perspectiva, analise o conceito geopolítico do termo enclave e assinale a alternativa que o define corretamente.",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Geografia – Geopolítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "O Brasil possui uma das maiores redes de áreas protegidas do mundo, definidas legalmente pelo Sistema Nacional de Unidades de Conservação da Natureza (SNUC), instituído pela Lei nº 9.985/2000. Essas unidades são classificadas em dois grandes grupos, com objetivos e graus de proteção distintos:\n• Unidades de Proteção Integral: voltadas para a preservação da natureza, permitindo o uso indireto dos seus recursos naturais, com acesso restrito e regulado para pesquisa científica e educação ambiental.\n• Unidades de Uso Sustentável: permitem a exploração racional e sustentável dos recursos naturais, conciliando conservação ambiental com o uso econômico das populações tradicionais ou locais.\nCom base nesse contexto, analise as afirmativas abaixo.\nI. As reservas extrativistas são unidades de proteção integral, pois proíbem qualquer tipo de atividade econômica para garantir a conservação total da biodiversidade.\nII. As estações ecológicas, por serem de proteção integral, possuem regras rígidas que impedem a visitação pública recreativa, autorizando apenas atividades científicas e educacionais restritas.\nIII. As Áreas de Proteção Ambiental (APAs), classificadas como uso sustentável, geralmente incluem territórios privados e comunidades tradicionais, permitindo a presença humana com atividades econômicas controladas.\nIV. Os parques nacionais são unidades de uso sustentável que possibilitam o manejo sustentável da fauna e flora para a geração de recursos financeiros e desenvolvimento regional.\nAssinale a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "penas II e III estão corretas."
+        },
+        {
+          "letra": "A",
+          "texto": "penas I e IV estão corretas."
+        },
+        {
+          "letra": "A",
+          "texto": "penas III está correta."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Geografia – Geografia Ambiental"
+      ]
+    }
+  ]
+}

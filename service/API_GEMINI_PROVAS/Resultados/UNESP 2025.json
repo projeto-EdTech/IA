@@ -1,0 +1,2336 @@
+{
+  "nomeUniversidade": "Universidade Estadual Paulista",
+  "siglaUniversidade": "Unesp",
+  "nomeProva": "Vestibular",
+  "ano": 2025,
+  "qtdeQuestoes": 90,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Para responder às questões de 01 a 07, leia o conto \"Passei por um sonho\", do escritor angolano José Eduardo Agualusa (1960-).\n1 Começou com um sonho. Afinal, é como começa quase tudo. Justo Santana, enfermeiro de profissão, sonhou um pássaro.\n– Passei por um sonho – disse à mulher quando esta acordou –, e vi um pássaro.\nA mulher quis saber que espécie de pássaro, mas Justo Santana não foi capaz de precisar. Era um pássaro grande, grave, branco como um ferro incandescente, e com umas asas ainda mais brilhosas, que o dito pássaro usava sempre abertas, de tal maneira que fazia lembrar Jesus Cristo prega-do na cruz.\n– Fui sonhado por ti – disse-lhe o pássaro –, com o fim de esclarecer o espírito dos Homens e de trazer a liberdade a este pobre país.\n5 O discurso do pássaro assustou o enfermeiro, homem simples, tímido, avesso a confrontos, e sem qualquer voca-ção para a política.\n– Foi apenas um sonho – disse à mulher –, um sonho estúpido.\nNa noite seguinte, porém, o pássaro voltou a aparecer-lhe. Estava ainda mais branco, mais trágico, e parecia abor-recido com o desinteresse do enfermeiro:\n– Ordeno-te que vás por esse país fora e digas a todos os homens que se preparem para um mundo novo. Os bran-cos vão partir e os pretos ocuparão as casas, os palácios, as igrejas e os quartéis, e a liberdade há de reinar para sempre.\nDizendo isto sacudiu as asas e as suas penas espalha-ram-se pelo quarto:\n10 – Com estas minhas penas hás de curar os enfermos – disse o pássaro –, e assim até os mais incrédulos acredi-tarão em ti e seguirão os teus passos.\nQuando Justo Santana despertou o quarto brilhava com o esplendor das penas. Na manhã desse mesmo dia o en-fermeiro serviu-se de uma delas para curar um homem com elefantíase e à tardinha devolveu a vista a um cego. Passado apenas um mês a sua fama de santo e milagreiro já se es-palhara muito para além das margens do Rio Zaire e à porta da sua casa ia crescendo uma multidão de padecentes. [...]\nJusto Santana colocava na boca dos enfermos uma pena do pássaro, como se fosse uma hóstia, e estes imediatamen-te ganhavam renovado alento. Enquanto fazia isto o enfer-meiro repetia os discursos do pássaro, incapaz de compre-ender a fúria daquelas palavras e o alcance delas. Todas as noites sonhava com a ave e todas as noites esta o forçava a decorar um discurso novo, após o que sacudia as asas, espa-Ihando pelo ar morto do quarto as penas milagrosas:\n– Se esse pássaro continuar assim tão generoso – dis-se Justo Santana à mulher –, ainda o veremos transformado numa alma despenada.\nIsto durou um ano. Então, numa manhã de cacimbo¹, apareceram quatro soldados à porta da casa, afastaram com rancor a multidão de desvalidos, e levaram Justo Santana. O infeliz foi acusado de fomentar o terrorismo e a sublevação, e desterrado para uma praia remota, em pleno deserto do Namibe, onde passou a exercer o ofício de faroleiro.\n15 Quando o encontrei, muitos anos depois, em Luanda², ele falou-me desse desterro com nostalgia:\n– Foi a melhor época da minha vida.\nEncontrei-o doente, estendido numa larga cama de ferro, sob lençóis muito brancos. No quarto havia apenas a cama e um pequeno crucifixo preso à parede. Na sala ao lado os devotos rezavam murmurosas ladainhas. Aquela era a sede da Igreja do Divino Espírito. Não tinha sido nada fácil chegar até junto do enfermeiro: os seus seguidores guardavam-no corno a uma relíquia – na verdade mantinham-no preso ali, naquele quarto, quase isolado do mundo, desde 1975³.\nA melhor época da vida de Justo Santana terminou de forma trágica, numa noite de tempestade, quando um bando de aves migratórias caiu sobre o farol. Enlouquecidas pela luz as avezinhas batiam contra o cristal até quebrarem as asas, sendo depois arrastadas pelo vento. Isto está sempre a acontecer. Milhares de aves migratórias morrem todos os anos traídas pelo fulgor dos faróis. Naquela noite, desrespei-tando as normas, Justo Santana foi em socorro das aves e desligou o farol. Teve pouca sorte: um barco com tropas, de regresso à metrópole, perdeu-se na escuridão e encalhou na praia. Dessa vez o enfermeiro foi julgado, condenado a quin-ze anos de prisão, e enviado para o Tarrafal, em Cabo Ver-de. Foi solto com a Revolução de Abril⁴ e regressou a Angola.\nQuando o visitei, antes de me ir embora, quis saber se o pássaro ainda lhe frequentava os sonhos. Ele olhou em redor para se certificar de que estávamos sozinhos:\n20 – Estrangulei-o – segredou com um sorriso cúmplice –, mas enquanto eu for vivo não conte isto a nin-guém.\n(Rita Chaves (org.). Contos africanos dos países de língua portuguesa, 2009.)\n¹ cacimbo: estação com elevado índice de umidade caracterizada pela descida gradual da temperatura e pelo aumento da nebulosidade.\n² Luanda: capital de Angola.\n³ Angola tornou-se um país independente em 1975.\n⁴ Tarrafal: antiga colônia penal portuguesa.\n⁵ Ocorrida em 25 de abril de 1974, a Revolução de Abril, também conhecida como Revolução dos Cravos, restabeleceu a democracia em Portugal, abrindo caminho para o processo de descolonização dos países da África.\nNa construção de seu conto, Agualusa conjuga história e fic-ção, isto é, conjuga, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "eventos inverossímeis e eventos sobrenaturais."
+        },
+        {
+          "letra": "B",
+          "texto": "eventos políticos e eventos fantásticos."
+        },
+        {
+          "letra": "C",
+          "texto": "eventos satíricos e eventos cotidianos."
+        },
+        {
+          "letra": "D",
+          "texto": "eventos lendários e eventos prosaicos."
+        },
+        {
+          "letra": "E",
+          "texto": "eventos verídicos e eventos corriqueiros."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Gêneros Textuais",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Depreende-se do conto que o narrador se encontrou com Justo Santana",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "em 1974, no contexto imediato da Revolução de Abril."
+        },
+        {
+          "letra": "B",
+          "texto": "em Luanda, no contexto de uma Angola politicamente independente."
+        },
+        {
+          "letra": "C",
+          "texto": "em Luanda, logo após o seu exílio no deserto do Namibe."
+        },
+        {
+          "letra": "D",
+          "texto": "durante o seu exílio no deserto do Namibe."
+        },
+        {
+          "letra": "E",
+          "texto": "durante a sua prisão em Tarrafal, em Cabo Verde."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "No conto, os discursos do pássaro são caracterizados, sobretudo, como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reacionários."
+        },
+        {
+          "letra": "B",
+          "texto": "ambíguos."
+        },
+        {
+          "letra": "C",
+          "texto": "revolucionários."
+        },
+        {
+          "letra": "D",
+          "texto": "nostálgicos."
+        },
+        {
+          "letra": "E",
+          "texto": "religiosos."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Emprega-se verbo no presente do indicativo com valor de futuro no trecho:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"a liberdade há de reinar para sempre\" (8º parágrafo)."
+        },
+        {
+          "letra": "B",
+          "texto": "\"Milhares de aves migratórias morrem todos os anos\" (18º parágrafo)."
+        },
+        {
+          "letra": "C",
+          "texto": "\"Isto está sempre a acontecer\" (18º parágrafo)."
+        },
+        {
+          "letra": "D",
+          "texto": "\"enquanto eu for vivo não conte isto a ninguém\" (20º pa-rágrafo)."
+        },
+        {
+          "letra": "E",
+          "texto": "\"Afinal, é como começa quase tudo\" (1º parágrafo)."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Tempo Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "\"Fui sonhado por ti\" (4º parágrafo)\nTransposto para a voz ativa, o trecho assume a seguinte redação:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Eu te sonhei."
+        },
+        {
+          "letra": "B",
+          "texto": "Tu me sonhaste."
+        },
+        {
+          "letra": "C",
+          "texto": "Ele o sonhara."
+        },
+        {
+          "letra": "D",
+          "texto": "Você me sonhou."
+        },
+        {
+          "letra": "E",
+          "texto": "Tu me sonharas."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Vozes Verbais"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Observa-se o emprego de palavra formada com prefixo que exprime ideia de negação no trecho:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"assim até os mais incrédulos acreditarão em ti e segui-rão os teus passos\" (10º parágrafo)."
+        },
+        {
+          "letra": "B",
+          "texto": "\"um barco com tropas, de regresso à metrópole, per-deu-se na escuridão e encalhou na praia\" (18º pará-grafo)."
+        },
+        {
+          "letra": "C",
+          "texto": "\"homem simples, tímido, avesso a confrontos, e sem qualquer vocação para a política\" (5º parágrafo)."
+        },
+        {
+          "letra": "D",
+          "texto": "\"Não tinha sido nada fácil chegar até junto do enfermeiro\" (17º parágrafo)."
+        },
+        {
+          "letra": "E",
+          "texto": "\"A mulher quis saber que espécie de pássaro, mas Justo Santana não foi capaz de precisar\" (3º parágrafo)."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Formação de Palavras"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "\"- Se esse pássaro continuar assim tão generoso – disse Justo Santana à mulher –, ainda o veremos transformado numa alma despenada.\" (13º parágrafo)\nAo se transpor esse trecho para o discurso indireto, os ter-mos sublinhados assumem as seguintes formas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "continuara e vissem."
+        },
+        {
+          "letra": "B",
+          "texto": "continuasse e vissem."
+        },
+        {
+          "letra": "C",
+          "texto": "continuara e viram."
+        },
+        {
+          "letra": "D",
+          "texto": "continuasse e veriam."
+        },
+        {
+          "letra": "E",
+          "texto": "continuaria e veriam."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Discurso Direto e Indireto"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Examine o meme publicado pelo perfil @classicaldamn no Instagram em 16.04.2024.\nAfter 27 selfies, I\nrealized that the\nbeauty of the soul\nis more important.\nO conteúdo explorado pelo meme relaciona-se diretamente com aquele explorado pela seguinte fábula de Esopo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Um cabrito que estava dentro de uma casa viu um lobo passar. E começou a insultá-lo, zombando dele. O lobo respondeu: \"Pobre tolo, não é você que me insulta: é essa casa que o protege.\""
+        },
+        {
+          "letra": "B",
+          "texto": "Uma tartaruga pediu a uma águia que a ensinasse a voar. A ave tentou dissuadi-la: \"Voar é contrário à sua natu-reza.\" Mas a tartaruga suplicou. Então a águia pegou a tartaruga com suas garras, levou-a até bem alto no céu e depois a soltou. A tartaruga caiu nos rochedos e se espatifou."
+        },
+        {
+          "letra": "C",
+          "texto": "Enquanto os bois puxavam a carroça, o eixo rangia. En-tão eles se voltaram para o eixo e lhe disseram: “Meu caro, nós carregamos todo o peso e você é que fica res-mungando?\""
+        },
+        {
+          "letra": "D",
+          "texto": "Um homem tinha uma galinha que botava ovos de ouro. Ele achava que dentro havia uma grande quan-tidade de ouro. Ele então a sacrificou, mas descobriu que ela era igual às outras galinhas. Na esperança de uma grande riqueza, acabou se privando de ganhos um pouco menores."
+        },
+        {
+          "letra": "E",
+          "texto": "Uma raposa faminta avistou alguns cachos de uva sus-pensos numa parreira. Quis alcançá-los, mas todos os seus esforços foram em vão. Indo embora, disse para si: \"Não estão maduros, mesmo!\""
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Filosofia – Ética e Moral"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Para responder às questões de 09 a 11, leia um trecho do Manifesto da Poesia Pau-Brasil, de Oswald de Andrade, pu-blicado há exatos 100 anos, em 1924.\nA poesia existe nos fatos. Os casebres de açafrão e de ocre nos verdes da Favela, sob o azul cabralino, são fatos estéticos.\nO Carnaval no Rio é o acontecimento religioso da raça. Pau-Brasil. Wagner submerge ante os cordões de Botafogo. Bárbaro e nosso. A formação étnica rica. Riqueza vegetal. O minério. A cozinha. O vatapá, o ouro e a dança. [...]\nA nunca exportação de poesia. A poesia anda oculta nos cipós maliciosos da sabedoria. Nas lianas¹ da saudade uni-versitária. [...]\nA língua sem arcaísmos, sem erudição. Natural e neoló-gica. A contribuição milionária de todos os erros. Como fala-mos. Como somos. [...]\nA reação contra o assunto invasor, diverso da finalidade. A peça de tese era um arranjo monstruoso. O romance de ideias, uma mistura. O quadro histórico, uma aberração. A escultura eloquente, um pavor sem sentido.\n(Gilberto Mendonça Teles (org.). Vanguarda europeia e modernismo brasileiro, 1992.)\n¹ liana: cipó.\n\"A língua sem arcaísmos, sem erudição. Natural e neológica. A contribuição milionária de todos os erros. Como falamos. Como somos.\" (4º parágrafo)\nAtende particularmente a esse princípio estético do ma-nifesto (podendo até mesmo ser visto como um desdo-bramento dele) o seguinte poema de Oswald de Andrade (publicado em 1925):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A couve mineira tem gosto de bife inglês"
+        },
+        {
+          "letra": "B",
+          "texto": "Sente-se diante da vitrola"
+        },
+        {
+          "letra": "C",
+          "texto": "Para dizerem milho dizem mio"
+        },
+        {
+          "letra": "D",
+          "texto": "Depois da churrascada"
+        },
+        {
+          "letra": "E",
+          "texto": "Meu amigo"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Modernismo no Brasil",
+        "Língua Portuguesa – Literatura Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Depreende-se dos trechos \"A poesia anda oculta nos cipós maliciosos da sabedoria. Nas lianas da saudade universitá-ria.\" (3º parágrafo) e \"A língua sem arcaísmos, sem erudição.” (4º parágrafo) uma oposição sistemática de Oswald de An-drade, sobretudo, à poesia",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "naturalista."
+        },
+        {
+          "letra": "B",
+          "texto": "barroca."
+        },
+        {
+          "letra": "C",
+          "texto": "parnasiana."
+        },
+        {
+          "letra": "D",
+          "texto": "romântica."
+        },
+        {
+          "letra": "E",
+          "texto": "clássica."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Modernismo no Brasil",
+        "Língua Portuguesa – Literatura Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Emprega-se vírgula para assinalar a supressão de um verbo no seguinte trecho:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"A língua sem arcaísmos, sem erudição.” (4º parágrafo)"
+        },
+        {
+          "letra": "B",
+          "texto": "\"O quadro histórico, uma aberração.\" (5º parágrafo)"
+        },
+        {
+          "letra": "C",
+          "texto": "\"Os casebres de açafrão e de ocre nos verdes da Favela, sob o azul cabralino, são fatos estéticos.\" (1º parágrafo)"
+        },
+        {
+          "letra": "D",
+          "texto": "\"O vatapá, o ouro e a dança.\" (2º parágrafo)"
+        },
+        {
+          "letra": "E",
+          "texto": "\"A reação contra o assunto invasor, diverso da finalida-de.\" (5º parágrafo)"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Pontuação",
+        "Língua Portuguesa – Sintaxe"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Examine o cartum de Rafael Corrêa, publicado em sua conta no Instagram em 19.12.2020.\nNa construção do sentido de seu cartum, Rafael Corrêa mo-biliza fundamentalmente uma figura de retórica e um conceito geográfico, a saber,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "personificação e erosão marítima."
+        },
+        {
+          "letra": "B",
+          "texto": "eufemismo e abalo sísmico."
+        },
+        {
+          "letra": "C",
+          "texto": "eufemismo e vulcanismo."
+        },
+        {
+          "letra": "D",
+          "texto": "paradoxo e intemperismo."
+        },
+        {
+          "letra": "E",
+          "texto": "personificação e deriva continental."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Figuras de Linguagem",
+        "Geografia – Geologia e Geomorfologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Para responder às questões de 13 a 15, leia um trecho do artigo \"Quantos jovens sabem que o adjetivo 'surreal' deriva de um movimento centenário?\", do escritor e jornalista Sérgio Augusto, publicado em 25.02.2024.\nQuantos de nossos jovens saberão que o adjetivo \"sur-real\", por eles usado a torto e a direito para qualificar qual-quer coisa que lhes pareça absurda, deriva de um dos mo-vimentos de vanguarda mais controversos e influentes do século passado? Tão do século passado, que está fazendo 100 anos. O surrealismo, fruto de uma época quase tão con-turbada quanto a nossa e também assolada por uma pan-demia (a gripe espanhola), nasceu oficialmente em 1924, impulsionado pelo manifesto de André Breton.\nNesse manifesto, Breton detonava o equilíbrio, o realis-mo (\"hostil a todo impulso de liberação intelectual e moral\" e refúgio dos medíocres), proclamava a prevalência absoluta do sonho, do inconsciente, do instinto e do desejo, pregava a renovação de todos os valores filosóficos, morais, políticos e científicos, preconizando uma nova maneira radical de ver as artes, o mundo – e a vida.\n\"Não é o medo da loucura que nos vai obrigar a hastear a meio pau a bandeira da imaginação”, ameaçava Breton numa das melhores imprecações do manifesto, visceralmente anti-militarista (a Grande Guerra terminara seis anos antes) e an-ticlerical. Porém, esperançoso. Augurou que um dia a poesia decretasse o fim do dinheiro, utopia que a poesia não logrou, nem o Pix deverá consumar.\n(www.estadao.com.br. Adaptado.)\n\"Não é o medo da loucura que nos vai obrigar a hastear a meio pau a bandeira da imaginação” (3º parágrafo)\nNesse trecho de seu manifesto, André Breton sugere que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a loucura deve se submeter à imaginação."
+        },
+        {
+          "letra": "B",
+          "texto": "a imaginação leva invariavelmente à loucura."
+        },
+        {
+          "letra": "C",
+          "texto": "a loucura potencializa a imaginação."
+        },
+        {
+          "letra": "D",
+          "texto": "a imaginação deve ser plenamente explorada."
+        },
+        {
+          "letra": "E",
+          "texto": "a imaginação é incapaz de representar a loucura."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Arte – Surrealismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Está empregado em sentido figurado o seguinte verbo subli-nhado no artigo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"detonava\" (2º parágrafo)."
+        },
+        {
+          "letra": "B",
+          "texto": "\"Augurou\" (3º parágrafo)."
+        },
+        {
+          "letra": "C",
+          "texto": "\"logrou\" (3º parágrafo)."
+        },
+        {
+          "letra": "D",
+          "texto": "\"proclamava\" (2º parágrafo)."
+        },
+        {
+          "letra": "E",
+          "texto": "\"pareça” (1º parágrafo)."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Uma obra representativa do movimento explorado no artigo está reproduzida em:",
+      "alternativas": null,
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Arte – Movimentos Artísticos do Século XX",
+        "Arte – Surrealismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Para responder às questões de 16 a 20, leia o trecho de uma crônica de José de Alencar, publicada originalmente em 03.09.1854.\nUm belo dia, não sei de que ano, uma linda fada, que cha-mareis como quiserdes, a poesia ou a imaginação, tomou-se de amores por um moço de talento, um tanto volúvel como de ordinário o são as fantasias ricas e brilhantes que se deleitam admirando o belo em todas as formas. Ora, dizem que as fa-das não podem sofrer a inconstância, no que lhes acho toda a razão; e por isso a fada de meu conto, temendo a rivalidade dos anjinhos cá deste mundo, onde os há tão belos, tomou as formas de uma pena, pena de cisne, linda como os amores, e entregou-se ao seu amante de corpo e alma.\nNão serei eu que desvendarei os mistérios desses amo-res fantásticos, e vos contarei as horas deliciosas que cor-riam no silêncio do gabinete, mudas e sem palavras. Só vos direi, e isto mesmo é confidência, que, depois de muito sonho e de muita inspiração, a pena se lançava sobre o papel, desli-zava docemente, brincava como uma fada que era, bordando as flores mais delicadas, destilando perfumes mais esquisitos que todos os perfumes do Oriente. As folhas se animavam ao seu contato, a poesia corria em ondas de ouro, donde salta-vam chispas brilhantes de graça e espírito.\nPor fim, a desoras¹, quando já não havia mais papel, quando a luz a morrer apenas empalidecia as sombras da noite, a pena trêmula e vacilante caía sobre a mesa sem for-ças e sem vida, e soltava uns acentos doces, notas estre-mecidas como as cordas da harpa ferida pelo vento. Era o último beijo da fada que se despedia, o último canto do cisne moribundo.\nAssim se passou muito tempo; mas já não há amores que durem sempre, principalmente em dias como os nossos, nos quais o símbolo da constância é uma borboleta. Acabou o poema fantástico no fim de dois anos; e um dia o herói do meu conto, chamado a estudos mais graves, lembrou-se de um amigo obscuro, e deu-lhe a sua pena de ouro.\n(José de Alencar. Crônicas escolhidas, 1995.)\n¹ desoras: altas horas da noite.\nO cronista dirige-se explicitamente a seus leitores no se-guinte trecho:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Não serei eu que desvendarei os mistérios desses amo-res fantásticos, e vos contarei as horas deliciosas que corriam no silêncio do gabinete\" (2º parágrafo)."
+        },
+        {
+          "letra": "B",
+          "texto": "\"Por fim, a desoras, quando já não havia mais papel, quando a luz a morrer apenas empalidecia as sombras da noite, a pena trêmula e vacilante caía sobre a mesa\" (3º parágrafo)."
+        },
+        {
+          "letra": "C",
+          "texto": "\"As folhas se animavam ao seu contato, a poesia corria em ondas de ouro, donde saltavam chispas brilhantes de graça e espírito\" (2º parágrafo)."
+        },
+        {
+          "letra": "D",
+          "texto": "\"Ora, dizem que as fadas não podem sofrer a inconstân-cia, no que lhes acho toda a razão” (1º parágrafo)."
+        },
+        {
+          "letra": "E",
+          "texto": "\"Acabou o poema fantástico no fim de dois anos; e um dia o herói do meu conto, chamado a estudos mais graves, lembrou-se de um amigo obscuro\" (4º parágrafo)."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Considerando o contexto, a forma verbal em negrito deve sua flexão à expressão sublinhada em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“já não havia mais papel\" (3º parágrafo)."
+        },
+        {
+          "letra": "B",
+          "texto": "\"Assim se passou muito tempo” (4º parágrafo)."
+        },
+        {
+          "letra": "C",
+          "texto": "\"brincava como uma fada que era\" (2º parágrafo)."
+        },
+        {
+          "letra": "D",
+          "texto": "\"deu-lhe a sua pena de ouro\" (4º parágrafo)."
+        },
+        {
+          "letra": "E",
+          "texto": "\"dizem que as fadas não podem sofrer a inconstância\" (1º parágrafo)."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Concordância Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "A onisciência do narrador (ou seja, um conhecimento preciso e acabado dos eventos narrados) mostra-se prejudicada no seguinte trecho:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"As folhas se animavam ao seu contato, a poesia corria em ondas de ouro, donde saltavam chispas brilhantes de graça e espírito\" (2º parágrafo)."
+        },
+        {
+          "letra": "B",
+          "texto": "\"Só vos direi, e isto mesmo é confidência, que, depois de muito sonho e de muita inspiração, a pena se lançava sobre o papel\" (2º parágrafo)."
+        },
+        {
+          "letra": "C",
+          "texto": "\"a pena trêmula e vacilante caía sobre a mesa sem forças e sem vida, e soltava uns acentos doces\" (3º parágrafo)."
+        },
+        {
+          "letra": "D",
+          "texto": "\"Um belo dia, não sei de que ano, uma linda fada, que chamareis como quiserdes, a poesia ou a imaginação, tomou-se de amores\" (1º parágrafo)."
+        },
+        {
+          "letra": "E",
+          "texto": "\"um dia o herói do meu conto, chamado a estudos mais graves, lembrou-se de um amigo obscuro, e deu-lhe a sua pena de ouro\" (4º parágrafo)."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Tipos de Narrador"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "“temendo a rivalidade dos anjinhos cá deste mundo, [...] tomou as formas de uma pena [...] e entregou-se ao seu amante de corpo e alma.\" (1º parágrafo)\nEm relação ao trecho que a sucede, a oração sublinhada ex-pressa ideia de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "comparação."
+        },
+        {
+          "letra": "B",
+          "texto": "condição."
+        },
+        {
+          "letra": "C",
+          "texto": "concessão."
+        },
+        {
+          "letra": "D",
+          "texto": "consequência."
+        },
+        {
+          "letra": "E",
+          "texto": "causa."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Relações Semânticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Retoma um termo mencionado anteriormente no texto a palavra sublinhada em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Ora, dizem que as fadas não podem sofrer a inconstân-cia, no que lhes acho toda a razão” (1º parágrafo)."
+        },
+        {
+          "letra": "B",
+          "texto": "“Só vos direi, e isto mesmo é confidência, que, depois de muito sonho e de muita inspiração, a pena se lançava sobre o papel\" (2º parágrafo)."
+        },
+        {
+          "letra": "C",
+          "texto": "\"a pena trêmula e vacilante [...] soltava uns acentos do-ces, notas estremecidas como as cordas da harpa ferida pelo vento\" (3º parágrafo)."
+        },
+        {
+          "letra": "D",
+          "texto": "“já não há amores que durem sempre, principalmente em dias como os nossos, nos quais o símbolo da constância é uma borboleta\" (4º parágrafo)."
+        },
+        {
+          "letra": "E",
+          "texto": "\"Não serei eu que desvendarei os mistérios desses amo-res fantásticos, e vos contarei as horas deliciosas que corriam no silêncio do gabinete\" (2º parágrafo)."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Coesão e Coerência"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Leia o texto e examine os gráficos para responder às ques-tões de 21 a 26.\nIf you're a chocoholic you may have noticed that your habit has lately become more expensive. The price of cocoa began creeping up in the second half of 2022. Since then it has doubled, reaching an all-time high in January 2024. That steep rise spells trouble for the chocolate business and sweet-toothed consumers alike.\nBitter issue\nCocoa\nGRAPH 1\nPrice, \\$'000 per tonne\n5\n4\n3\n2\n1\n0\n1990 95 2000 05 10 15 20 24\nGRAPH 2\nProduction, 2023, % of world output\n0 10 20 30 40 50\nIvory Coast\nGhana\nEcuador\nCameroon\nNigeria\nBrazil\nIndonesia\nOther\n(www.economist.com, 28.02.2024. Adaptado.)\nClimate patterns are partly to blame for rising costs. Cocoa is mostly produced by small farmers in West Africa. Ghana and Ivory Coast grow about 60% of the world's crop. Last season, in 2023, the El Niño weather pattern led to unseasonably high temperatures and rainfall that ravaged crops. Total rainfall in Ivory Coast's cocoa-growing areas in 2023 was the highest in 20 years, according to Gro Intelligence, a data firm.\nThis year El Niño has brought severe drought to the cocoa farms, reducing production further. ING, a bank, estimates that this year the gap between global production and consumption will be at its widest since at least 2014. Extreme weather patterns have hit other commodities, too. Droughts in Thailand and India are affecting rice plantations. Torrential rain in Brazil, the world's biggest sugar exporter, has affected its exports. Besides, other price pressures are specific to the cocoa industry. Swollen-shoot virus and black-pod disease — killers of cocoa trees — spread across Ghana and Ivory Coast during heavy rainfall last year. Tropical Research Services, a research company, estimates that by the end of 2023 the swollen-shoot virus had infected around 20% of Ivory Coast's cocoa trees.\nThe aim of the text is to",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "explain the reasons that have led to the escalation of cocoa prices."
+        },
+        {
+          "letra": "B",
+          "texto": "convince consumers to reduce chocolate intake to force price drop."
+        },
+        {
+          "letra": "C",
+          "texto": "establish climate change as the only cause of cocoa production crisis."
+        },
+        {
+          "letra": "D",
+          "texto": "present opportunities for countries to expand their cocoa exports."
+        },
+        {
+          "letra": "E",
+          "texto": "show that chocolate producers intend to increase their profits even more in 2025."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "O gráfico 1, \"Price, \\$'000 per tonne\", reflete as informações do texto presentes",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "no segundo parágrafo, apenas."
+        },
+        {
+          "letra": "B",
+          "texto": "no terceiro parágrafo, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "no primeiro parágrafo, apenas."
+        },
+        {
+          "letra": "D",
+          "texto": "no primeiro e no terceiro parágrafos."
+        },
+        {
+          "letra": "E",
+          "texto": "no segundo e no terceiro parágrafos."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Inglês – Compreensão de Texto",
+        "Geografia – Leitura e Interpretação de Gráficos"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "O gráfico 2, \"Production, 2023, % of world output\", e o texto mostram que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a produção de cacau no Brasil despencou, mas está em recuperação."
+        },
+        {
+          "letra": "B",
+          "texto": "Gana teve produção de cacau estável em 2023 e 2024."
+        },
+        {
+          "letra": "C",
+          "texto": "a produção de arroz na Tailândia e na Índia caiu devido às fortes chuvas causadas pelo El Niño."
+        },
+        {
+          "letra": "D",
+          "texto": "cerca de 70% da produção mundial de cacau encontra-se na África."
+        },
+        {
+          "letra": "E",
+          "texto": "a produção de cacau na América do Sul equivale à da Costa do Marfim."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Inglês – Compreensão de Texto",
+        "Geografia – Leitura e Interpretação de Gráficos",
+        "Geografia – Economia Agrária"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "No trecho do terceiro parágrafo \"This year El Niño has brought severe drought to the cocoa farms, reducing production further\", o termo sublinhado expressa",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "propósito."
+        },
+        {
+          "letra": "B",
+          "texto": "intensificação."
+        },
+        {
+          "letra": "C",
+          "texto": "condição."
+        },
+        {
+          "letra": "D",
+          "texto": "opinião."
+        },
+        {
+          "letra": "E",
+          "texto": "generalização."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Inglês – Vocabulário",
+        "Inglês – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "According to the third paragraph, sugar production in 2024 has been affected by",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "adverse climatic conditions, such as an intense rainfall."
+        },
+        {
+          "letra": "B",
+          "texto": "diseases, such as black-pod."
+        },
+        {
+          "letra": "C",
+          "texto": "a prolonged drought."
+        },
+        {
+          "letra": "D",
+          "texto": "a wide gap between production and consumption."
+        },
+        {
+          "letra": "E",
+          "texto": "predictable weather patterns."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "No trecho do terceiro parágrafo “Besides, other price pressures are specific to the cocoa industry\", o termo sublinhado pode ser substituído, sem alteração de sentido, por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Unlikely."
+        },
+        {
+          "letra": "B",
+          "texto": "Whereas."
+        },
+        {
+          "letra": "C",
+          "texto": "Therefore."
+        },
+        {
+          "letra": "D",
+          "texto": "Although."
+        },
+        {
+          "letra": "E",
+          "texto": "Also."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Inglês – Vocabulário",
+        "Inglês – Conectivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Leia a tirinha de Alex Hallatt para responder às questões 27 e 28.\nSTOCKING UP ON\nESSENTIAL FOOD\nWON'T PROTECT\nUS FROM\nCLIMATE\nCHANGE.\nWHY?\nCHOCOLATE I'VE NEVER HAD\nGOES OFF!\nCHOCOLATE\nGO OFF?\n10-26\nIS CHOCOLATE\nESSENTIAL?\nABSOLUTELY.\n(www.alexhallatt.com. Adaptado.)\nAccording to the comic strip, the characters that agree to stock up chocolate as essential food to protect them from climate change are",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "both penguins and the bear."
+        },
+        {
+          "letra": "B",
+          "texto": "the bear and the penguin on the left."
+        },
+        {
+          "letra": "C",
+          "texto": "just the two penguins."
+        },
+        {
+          "letra": "D",
+          "texto": "the rabbit, the bear and both penguins."
+        },
+        {
+          "letra": "E",
+          "texto": "the penguin on the right and the bear."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Inglês – Compreensão de Texto",
+        "Língua Portuguesa – Interpretação de Charges e Cartuns"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "No segundo quadrinho, a fala do urso “I've never had chocolate go off\" indica que o personagem consome",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "chocolate em pequenas quantidades, pois é calórico."
+        },
+        {
+          "letra": "B",
+          "texto": "todo chocolate de que dispõe, antes de ele se estragar."
+        },
+        {
+          "letra": "C",
+          "texto": "muito chocolate, mesmo sem gostar tanto."
+        },
+        {
+          "letra": "D",
+          "texto": "chocolate com prazo de validade vencido."
+        },
+        {
+          "letra": "E",
+          "texto": "chocolate estragado, pois acha que não faz mal."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Inglês – Compreensão de Texto",
+        "Língua Portuguesa – Interpretação de Charges e Cartuns"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Leia o texto para responder às questões 29 e 30.\nIt is well established that some people are genetically predisposed to a shorter lifespan. It is also well known that lifestyle factors, specifically smoking, alcohol consumption, diet and physical activity, can have an impact on longevity. However, until now there has been no investigation to understand the extent to which a healthy lifestyle may counterbalance genetics.\nFindings from several long-term studies suggest a healthy lifestyle could offset effects of life-shortening genes by 62% and add as much as five years to your life. The results were published in the journal BMJ Evidence-Based Medicine. \"This study elucidates the pivotal role of a healthy lifestyle in mitigating the impact of genetic factors on lifespan reduction,\" the researchers concluded.\n(Andrew Gregory. www.theguardian.com, 30.04.2024. Adaptado.)\nThe text is mainly about",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "the role of a healthy lifestyle to compensate unfavourable genetics."
+        },
+        {
+          "letra": "B",
+          "texto": "the necessary lifestyle changes people have to be aware of to be productive."
+        },
+        {
+          "letra": "C",
+          "texto": "the effect of smoking and alcohol abuse on quality of life."
+        },
+        {
+          "letra": "D",
+          "texto": "ways to improve genetics and live longer by adopting a diet and some exercise."
+        },
+        {
+          "letra": "E",
+          "texto": "manners to overcome the fear of an early death that most people have."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "No trecho do segundo parágrafo \"a healthy lifestyle could offset effects of life-shortening genes by 62%\", o termo sublinhado pode ser substituído, sem alteração de sentido, por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ought to."
+        },
+        {
+          "letra": "B",
+          "texto": "must."
+        },
+        {
+          "letra": "C",
+          "texto": "may."
+        },
+        {
+          "letra": "D",
+          "texto": "has to."
+        },
+        {
+          "letra": "E",
+          "texto": "is going to."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Inglês – Vocabulário",
+        "Inglês – Verbos Modais"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Desde pelo menos 600 a.C., a África conhecia a metalurgia do ferro. Os nativos adotavam uma técnica de pré-aquecimento dos fornos (que só seria desenvolvida na Europa no século XIX), que lhes permitia obter um ferro, e também um aço, de alta qualidade, comparável, e até superior, em alguns casos, ao que saía das usinas europeias. O produto africano apresentava, contudo, uma desvantagem, que derivava da dimensão dos seus fornos: suas barras eram pequenas. Por isso, na forja, os africanos faziam enxadas e facas, mas não grandes espadas. Nem capacetes. Nem couraças.\n\n(Alberto da Costa e Silva. A África explicada aos meus filhos, 2008.)\n\nA respeito da metalurgia na África, o excerto destaca",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "impossibilidade de concorrer com mercadorias de outros continentes e a limitação dos fornos."
+        },
+        {
+          "letra": "A",
+          "texto": "carência de mão de obra qualificada e a dificuldade de comercializar a produção de metais."
+        },
+        {
+          "letra": "A",
+          "texto": "qualidade dos insumos, o domínio tecnológico e a destinação militar dos objetos produzidos."
+        },
+        {
+          "letra": "A",
+          "texto": "precocidade técnica, a qualificação operacional e o emprego possível dos objetos de metal produzidos."
+        },
+        {
+          "letra": "A",
+          "texto": "abundância de matéria-prima, a inovação técnica e a valorização do trabalho artesanal."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudoAbordado": "História – História da África"
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Analise o afresco que representa a vida de São Francisco de Assis, pintado por Giotto, a partir de 1288, na igreja superior de Assis (Itália).\n\n(In: Georges Duby e Michel Laclotte (orgs.). História artística da Europa: A Idade Média II, 1998.)\n\nA representação expõe",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "determinação papal de que as ordens religiosas abandonassem a riqueza e as práticas de usura e venda de indulgências para se dedicarem exclusivamente aos pobres e aos doentes."
+        },
+        {
+          "letra": "A",
+          "texto": "condenação papal das ordens mendicantes como heréticas e o início dos processos da Inquisição provocados pela crítica dos franciscanos e dos dominicanos aos dogmas do catolicismo."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudoAbordado": "Arte – Arte Medieval"
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Para responder às questões de 33 e 34, leia um excerto do artigo de Herbert S. Klein.\n\nO boom na mineração do ouro, em Minas Gerais, mudou poderosamente o centro de gravidade da economia e da população brasileiras do Norte para o Centro e o Sul. [...] Embora os baianos tivessem voz considerável nos investimentos feitos dentro das zonas de mineração, a logística do transporte pelo interior fez com que a balança comercial para e a partir das províncias do interior pendesse para as cidades do Sul. Assim, as minas de Minas Gerais, Goiás e Mato Grosso tornaram-se a hinterlândia crucial do porto do Rio de Janeiro. O Rio de Janeiro logo ultrapassou a Bahia em transporte marítimo e comércio internacional, e chegou rapidamente a uma população de 50 mil habitantes na capital. A Coroa reconheceu esta nova realidade [...], mudando a capital da colônia de Salvador para o Rio de Janeiro, em 1763.\n\n(Herbert S. Klein. Escravidão africana: América Latina e Caribe, 1987.)\n\nO excerto registra uma transformação importante no processo de colonização da América portuguesa e caracteriza a conexão entre",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "preferência por modelos de transporte terrestre e a ausência de uma política de estímulo à navegação fluvial."
+        },
+        {
+          "letra": "A",
+          "texto": "constituição de novas formas de exploração de recursos naturais e a redefinição das relações entre classes sociais."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudoAbordado": "História – Brasil Colônia"
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Para responder às questões de 33 e 34, leia um excerto do artigo de Herbert S. Klein.\n\nO boom na mineração do ouro, em Minas Gerais, mudou poderosamente o centro de gravidade da economia e da população brasileiras do Norte para o Centro e o Sul. [...] Embora os baianos tivessem voz considerável nos investimentos feitos dentro das zonas de mineração, a logística do transporte pelo interior fez com que a balança comercial para e a partir das províncias do interior pendesse para as cidades do Sul. Assim, as minas de Minas Gerais, Goiás e Mato Grosso tornaram-se a hinterlândia crucial do porto do Rio de Janeiro. O Rio de Janeiro logo ultrapassou a Bahia em transporte marítimo e comércio internacional, e chegou rapidamente a uma população de 50 mil habitantes na capital. A Coroa reconheceu esta nova realidade [...], mudando a capital da colônia de Salvador para o Rio de Janeiro, em 1763.\n\n(Herbert S. Klein. Escravidão africana: América Latina e Caribe, 1987.)\n\nA exploração do ouro na América portuguesa, a partir do século XVII,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "umentou a geração de recursos na colônia e permitiu a intensificação do comércio com as Índias orientais portuguesas."
+        },
+        {
+          "letra": "C",
+          "texto": "riou novas estratégias administrativas na colônia e estimulou o comércio internacional através do oceano Atlântico."
+        },
+        {
+          "letra": "A",
+          "texto": "lterou a circulação de mercadorias entre América e Europa e estimulou a adoção de medidas de liberalização no comércio mundial."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudoAbordado": "História – Brasil Colônia"
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Para responder às questões 35 e 36, leia o excerto de João Paulo Pimenta.\n\nNunca é demais repetir: a nação brasileira não existia antes da Independência, embora algumas características e acontecimentos da história colonial ajudem a explicar seu surgimento. Mas esse surgimento não se fez de repente, em algum momento abrupto entre 1820, 1821 ou 1822, embora tenha sido entre esses anos que essa nação começou a adquirir contornos como uma comunidade política com sua alteridade decisiva: uma nação não portuguesa. Mais precisamente, o que surgiu naqueles anos foram as condições seguras para o nascimento dessa nova nação, e esse é um dos sentidos que tornam a Independência uma revolução política. Mas nada havia nesse nascimento que garantisse que o bebê teria vida longa.\n\n(João Paulo Pimenta. Formação da nação brasileira, 2024.)\n\nSegundo o excerto, a nação brasileira constituiu-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o longo de um processo iniciado na colônia e desenvolvido no pós-Independência."
+        },
+        {
+          "letra": "D",
+          "texto": "urante os séculos de ocupação e colonização portuguesas no território do Brasil."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudoAbordado": "História – Brasil Império"
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Para responder às questões 35 e 36, leia o excerto de João Paulo Pimenta.\n\nNunca é demais repetir: a nação brasileira não existia antes da Independência, embora algumas características e acontecimentos da história colonial ajudem a explicar seu surgimento. Mas esse surgimento não se fez de repente, em algum momento abrupto entre 1820, 1821 ou 1822, embora tenha sido entre esses anos que essa nação começou a adquirir contornos como uma comunidade política com sua alteridade decisiva: uma nação não portuguesa. Mais precisamente, o que surgiu naqueles anos foram as condições seguras para o nascimento dessa nova nação, e esse é um dos sentidos que tornam a Independência uma revolução política. Mas nada havia nesse nascimento que garantisse que o bebê teria vida longa.\n\n(João Paulo Pimenta. Formação da nação brasileira, 2024.)\n\nA associação entre a \"comunidade política\" brasileira e o sentimento de nacionalidade brasileira fortaleceu-se no",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudoAbordado": "História – Brasil Império"
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Para responder às questões 37 e 38, leia o excerto de Oyèrónké Oyěwùmí.\n\nO ponto central do governo colonial era a questão de como extrair riqueza das colônias para o benefício das potências europeias ocupantes. Para esse fim, na virada do século, a administração colonial britânica começou a construir uma linha ferroviária que ligaria várias partes de suas três colônias que se tornariam a Nigéria. As mulheres foram amplamente excluídas da força de trabalho assalariada.\n\nA introdução de relações capitalistas na forma de trabalho assalariado era uma novidade na economia e teve fundamentais repercussões, particularmente na definição de trabalho.\n\nAlém do acesso ao dinheiro, o que o trabalho assalariado significava para os homens, havia efeitos mais sutis, mas igualmente profundos. Como os homens recebiam um salário, seu trabalho adquiria valor de troca, enquanto o trabalho das mulheres retinha apenas seu valor de uso, desvalorizando o trabalho que se associava às mulheres.\n\nO trabalho das mulheres tornou-se invisível. Na realidade, os salários de fome pagos aos homens pelo governo colonial eram insuficientes para manter a família, e o trabalho das mulheres continuava tão necessário quanto sempre para a sobrevivência da comunidade.\n\n(Oyèrónké Oyěwùmí. A invenção das mulheres: construindo um sentido africano para os discursos ocidentais de gênero, 2021. Adaptado.)\n\nUm efeito da colonização europeia da África durante os séculos XIX e XX, caracterizado pelo excerto, foi",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "instauração da sociedade de classes e o surgimento de ações de resistência lideradas por sindicatos rurais."
+        },
+        {
+          "letra": "A",
+          "texto": "valorização do trabalho braçal voltado aos interesses públicos, em detrimento do trabalho intelectual e doméstico."
+        },
+        {
+          "letra": "A",
+          "texto": "dedicação ao trabalho como princípio de ascensão social, no lugar dos privilégios naturais dos setores aristocráticos."
+        },
+        {
+          "letra": "A",
+          "texto": "imposição de novas relações de trabalho, em complementaridade com a dinâmica do trabalho comunitário."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudoAbordado": "História – Imperialismo na África"
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Para responder às questões 37 e 38, leia o excerto de Oyèrónké Oyěwùmí.\n\nO ponto central do governo colonial era a questão de como extrair riqueza das colônias para o benefício das potências europeias ocupantes. Para esse fim, na virada do século, a administração colonial britânica começou a construir uma linha ferroviária que ligaria várias partes de suas três colônias que se tornariam a Nigéria. As mulheres foram amplamente excluídas da força de trabalho assalariada.\n\nA introdução de relações capitalistas na forma de trabalho assalariado era uma novidade na economia e teve fundamentais repercussões, particularmente na definição de trabalho.\n\nAlém do acesso ao dinheiro, o que o trabalho assalariado significava para os homens, havia efeitos mais sutis, mas igualmente profundos. Como os homens recebiam um salário, seu trabalho adquiria valor de troca, enquanto o trabalho das mulheres retinha apenas seu valor de uso, desvalorizando o trabalho que se associava às mulheres.\n\nO trabalho das mulheres tornou-se invisível. Na realidade, os salários de fome pagos aos homens pelo governo colonial eram insuficientes para manter a família, e o trabalho das mulheres continuava tão necessário quanto sempre para a sobrevivência da comunidade.\n\n(Oyèrónké Oyěwùmí. A invenção das mulheres: construindo um sentido africano para os discursos ocidentais de gênero, 2021. Adaptado.)\n\nUma importante transformação na dinâmica de funcionamento da sociedade nigeriana, destacada pelo excerto, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "valorização do equilíbrio entre gêneros, proporcionada pelo reconhecimento dos papéis diversos desempenhados por homens e mulheres na sociedade."
+        },
+        {
+          "letra": "A",
+          "texto": "manifestação de um espírito de solidariedade entre as mulheres, provocado pela necessidade de resistir à proibição colonial do trabalho feminino."
+        },
+        {
+          "letra": "A",
+          "texto": "reestruturação das relações entre gêneros, com a consolidação de uma hierarquia capaz de reforçar a dimensão patriarcal da sociedade."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudoAbordado": "Sociologia – Gênero e Trabalho"
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Longe de seus pequenos vilarejos, os imigrantes italianos, oriundos de diferentes províncias, nunca estiveram tão próximos quanto em São Paulo. Embora sob o manto da recém-unificada Itália, eles não traziam ainda na alma o maior elemento de coesão de um povo: uma matriz nacional comum. A unificação italiana era ainda um conceito abstrato, que pouco significado tinha para a maioria da população, cuja consciência de pertencer a um grupo não ia muito além dos estreitos limites do burgo que habitavam. Em São Paulo partilhariam, talvez pela primeira vez, uma história em comum, que seria elaborada coletivamente.\n\n(Mirian Silva Rossi. Fronteiras da pátria: dos campos sem vida aos campos de morte, 2018.)\n\nO excerto aborda a condição dos imigrantes italianos em São Paulo no início do século XX e atesta que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "maioria dos italianos que emigraram para o Brasil foi expulsa de seu país de origem por envolvimento em ações políticas socialistas e anarquistas."
+        },
+        {
+          "letra": "A",
+          "texto": "inexistência de um sistema de acolhimento de imigrantes no Brasil gerou a necessidade de eles se associarem numa comunidade solidária."
+        },
+        {
+          "letra": "A",
+          "texto": "população italiana que imigrou em São Paulo dedicou-se predominantemente aos trabalhos nas fábricas de tecidos."
+        },
+        {
+          "letra": "A",
+          "texto": "constituição de vínculos na terra de destino foi fundamental para a construção de uma identidade comum entre os imigrantes."
+        },
+        {
+          "letra": "A",
+          "texto": "unificação italiana criou rapidamente um sentimento de identidade nacional tanto nos italianos que viviam na Europa quanto nos italianos emigrados."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudoAbordado": "História – Imigração no Brasil"
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Analise a fotografia de 1964.\n\n(Juliana Sayuri. www.nexojornal.com.br, 28.12.2023.)\n\nA fotografia expõe",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "tensão entre as forças armadas e o funcionamento das instituições políticas constitucionais no ano de 1964."
+        },
+        {
+          "letra": "A",
+          "texto": "disposição dos militares que participaram do golpe de 1964 para proteger e defender as instituições políticas democráticas brasileiras."
+        },
+        {
+          "letra": "A",
+          "texto": "destruição de parte da Capital Federal provocada pelos conflitos armados durante o golpe de 1964."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudoAbordado": "História – Ditadura Militar no Brasil"
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "O antigo imaginário referente à dupla “a bela e a fera” foi inúmeras vezes utilizado para distinguir o feminino do masculino. Mas, a partir dos anos 1970, uma nova organização da virilidade transformou parte da graça feminina em sensibilidade masculina. Ao mesmo tempo, a suposta ferocidade dos homens deixou de ser vista como um atributo exclusivo a seu sexo.\n\n(Denise Bernuzzi de Sant’Anna. História da beleza no Brasil, 2014.)\n\nAs mudanças apresentadas no excerto estão associadas, entre outros fatores,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os efeitos dos métodos contraceptivos na ampliação da participação das mulheres nos mercados de trabalho."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudoAbordado": "Sociologia – Gênero e Sociedade"
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Para responder às questões 42 e 43, leia o excerto de Michael Meyer.\n\nNenhuma grande crise internacional montou o palco para 9 de novembro de 1989. A queda do Muro não resultou de algum confronto entre grandes potências. Não houve retórica emocionante, qualquer ameaça de guerra, nenhum político encenando ante as câmeras. [...]\n\nO chanceler alemão Helmut Kohl estava em visita oficial à Polônia. O presidente George H. W. Bush soube dos acontecimentos por intermédio de seu assessor de segurança nacional Brent Scowcroft, que ficou sabendo pelo noticiário da televisão. Juntos, os dois foram para o estúdio privado do presidente, ao lado da Sala Oval, e ligaram a TV. “Meu Deus”, disse Bush a seus auxiliares, “se os soviéticos vão deixar os comunistas caírem na Alemanha Oriental, eles devem estar realmente falando sério – mais sério do que eu achava”.\n\n(Michael Meyer. 1989: o ano que mudou o mundo: a verdadeira história da queda do Muro de Berlim, 2009.)\n\nO excerto afirma que a queda do Muro de Berlim, em 1989,",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "ontou com planejamento e participação ativa das principais potências do Ocidente capitalista."
+        },
+        {
+          "letra": "D",
+          "texto": "eterminou um novo panorama nas relações internacionais e abriu espaço para a liderança internacional dos Estados Unidos."
+        },
+        {
+          "letra": "D",
+          "texto": "ecorreu da oposição dos socialistas aos comunistas e da divisão da Alemanha no pós-Segunda Guerra Mundial."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudoAbordado": "História – Guerra Fria"
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Para responder às questões 42 e 43, leia o excerto de Demétrio Magnoli.\n\n“Nova Ordem Mundial” – essa expressão foi consagrada por George H. Bush, o Bush sênior, num discurso proferido perante uma sessão conjunta do Congresso americano, no dia 11 de setembro de 1990 [...]. Aqueles eram os anos mágicos do encerramento da Guerra Fria. E aquela era uma profecia assentada sobre a percepção de um mundo ordenado e liderado pelos Estados Unidos. A expressão não durou sequer uma década. No portal do século XXI, teria sido melhor inscrever aquilo que disse um dia Sam Goldwyn, o antigo magnata do cinema: “Nunca profetize, especialmente sobre o futuro”.\n\n(Demétrio Magnoli. O grande jogo, 2006.)\n\nNo excerto, há a desconstrução da percepção sobre a Nova Ordem Mundial. Essa desconstrução justifica-se pela",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "scensão de novas potências econômicas mundiais no início da década de 1990, especificamente Brasil, Rússia, Índia, China e África do Sul (BRICS)."
+        },
+        {
+          "letra": "D",
+          "texto": "ifusão de um modelo de gestão política globalizante, capaz de equiparar o poder geopolítico dos Estados ao da ONU, em defesa de interesses sociais."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudoAbordado": "História – Nova Ordem Mundial"
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Examine a notícia publicada pela Tribuna da Imprensa em 1991.\n\nTratado de Assunção da partida no Mercosul\nBrasil, Argentina, Uruguai\ne Paraguai: livre comércio\nMERCADO DO CONE SUL\n\n(www.senado.leg.br. Adaptado.)\n\nMais de três décadas após a sua fundação, o Mercosul consolidou-se como",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudoAbordado": "Geografia – Blocos Econômicos"
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Compras no SoHo, martinis de café expresso e bares em coberturas ganharam papéis recorrentes nos vídeos do TikTok de influenciadores na cidade de Nova Iorque. Nos últimos meses, alguns acumularam centenas de milhares de curtidas e milhões de seguidores com vídeos glamorosos de “um dia comigo”. Um estudo do Instituto de Tecnologia de Massachusetts descobriu uma “correlação significativa entre o comportamento do influenciador on-line e os aluguéis efetivos de imóveis” na cidade de Nova Iorque. Os influenciadores também estão começando a conquistar parcerias mais diretas com a cidade: a NYC & Company, agência de turismo oficial da cidade, está trabalhando com os TikTokers “para levá-los para passear pela cidade e divulgar empresas de maneira segura”. A agência não divulgou se os criadores de conteúdo estavam sendo pagos, ou quais bairros eles estavam sendo solicitados a apoiar.\n\n(https://gothamist.com, 23.12.2021. Adaptado.)\n\nNo contexto do espaço urbano, a estratégia percebida em Nova Iorque",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "stimula a reprodução de um estilo de vida que culmina no processo de gentrificação."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudoAbordado": "Geografia – Geografia Urbana"
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Filtros com nanotecnologia facilitam acesso de comunidades da Amazônia à água potável\n\nUma parceria entre organizações privadas e instituições do terceiro setor tem distribuído filtros coletivos para tratamento de água barrenta em comunidades ribeirinhas dos municípios amazônicos de Santarém, Óbidos e Oriximiná, no oeste do Pará. Uma vantagem do sistema é a incorporação de uma micromembrana produzida com nanotecnologia, isto é, em escala atômica, e que consegue reter mais impurezas. Após o processo de filtragem, a água sai em condição potável, reduzindo os riscos de veiculação de doenças.\n\n(www.paraterraboa.com. Adaptado.)\n\nDo ponto de vista técnico, o uso desses filtros para o tratamento da água na Amazônia é decorrente",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "a deficiente oferta de saneamento básico."
+        },
+        {
+          "letra": "D",
+          "texto": "o subsídio destinado à manutenção da Zona Franca."
+        },
+        {
+          "letra": "D",
+          "texto": "a baixa demanda por recursos hídricos."
+        },
+        {
+          "letra": "D",
+          "texto": "o compartilhamento de recursos entre os países vizinhos."
+        },
+        {
+          "letra": "D",
+          "texto": "a elevada pluviosidade da faixa temperada."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudoAbordado": "Biologia – Saúde Pública"
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Há algumas semanas, o CEO de uma empresa de encomenda de refeições por meio da internet disse que, daqui a 10 anos, ninguém mais precisará cozinhar. Ou seja, todos passaremos a depender exclusivamente dos estabelecimentos que fornecem comida (tal qual fast-food) e também das entregas agendadas por aplicativo. Essa lógica da rapidez, da comida preparada por terceiros, contempla plenamente uma engrenagem econômica que tem como base o consumo desenfreado e sem limite. Essas corporações controlam a publicidade, induzem o desejo e direcionam o consumo.\n\n(https://expresso.estadao.com.br, 29.02.2024. Adaptado.)\n\nSob o critério econômico, o cenário apresentado no excerto atende aos interesses",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "o mercado financeiro, especulando capitais a partir da inflação provocada pelo aumento na demanda por alimentos."
+        },
+        {
+          "letra": "D",
+          "texto": "a acumulação de capital, comprometendo a segurança alimentar ao reduzir o alimento a uma mercadoria."
+        },
+        {
+          "letra": "D",
+          "texto": "os pequenos produtores rurais, fornecendo insumos em maiores quantidades para a indústria de bens duráveis."
+        },
+        {
+          "letra": "D",
+          "texto": "o meio técnico-científico-informacional, substituindo objetos materiais por bens exclusivamente digitais."
+        },
+        {
+          "letra": "D",
+          "texto": "as corporações multinacionais, resgatando as culturas locais para oferecer produtos atrelados à base alimentar de cada mercado."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudoAbordado": "Sociologia – Consumo"
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Um estado brasileiro oferece duas opções de rotas, opção 1 e opção 2, para o transporte de mercadorias. A seguir, estão representadas as dimensões dos trechos de cada opção de rota e as máximas velocidades médias neles possíveis.\n\nOPÇÃO 1\nFerroviário\n$\\Delta S = 400 \\text{ km}$\n$v = 80 \\text{ km/h}$\n\nRodoviário\n$\\Delta S = 1100 \\text{ km}$\n$v = 55 \\text{ km/h}$\n\nOPÇÃO 2\nHidroviário\n$\\Delta S = 1200 \\text{ km}$\n$v = 48 \\text{ km/h}$\n\nRodoviário\n$\\Delta S = 300 \\text{ km}$\n$v = 60 \\text{ km/h}$\n\nConsiderando as características dos modais apresentados e que em, cada opção de rota, desenvolva-se sempre a máxima velocidade média permitida, tem-se que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "opção 2 é a mais indicada para deslocar produtos estratégicos, como as commodities, já que apresenta grande capacidade de carga e significativa agilidade no transporte, com velocidade média de 54 km/h em todo o trajeto."
+        },
+        {
+          "letra": "A",
+          "texto": "opção 1 é a mais indicada para transportar produtos de elevado valor agregado, já que apresenta agilidade, com velocidade média de 67,5 km/h, e capacidade de minimizar os custos provocados pela baixa eficiência energética de seu modal predominante."
+        },
+        {
+          "letra": "A",
+          "texto": "opção 2 é a mais indicada para o transporte de produtos com baixo valor agregado e menor urgência de entrega, já que apresenta o predomínio de um modal econômico em eficiência energética e de reduzida velocidade média, com 50 km/h."
+        },
+        {
+          "letra": "A",
+          "texto": "opção 1 é a mais indicada para deslocar produtos perecíveis, já que, somando as velocidades de seus modais, apresenta uma velocidade média capaz de concluir o transporte em pouco menos de 11 horas."
+        },
+        {
+          "letra": "A",
+          "texto": "opção 1 é a mais indicada para o transporte de produtos primários, sobretudo bens de produção, já que oferece baixo custo de transporte associado à rapidez na entrega, com velocidade média de 65 km/h."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudoAbordado": "Física – Cinemática"
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "O parlamento europeu aprovou uma nova lei que obriga empresas de todos os setores da economia que fazem negócios com a União Europeia à verificação de suas cadeias de valor. A nova lei engloba desde a extração de matéria-prima à distribuição, venda e marketing do produto ou serviço final, e implica a necessidade de adoção de indicadores ambientais, sociais e de governança (ESG), sobretudo no que diz respeito a violações de direitos humanos e do meio ambiente. A previsão de especialistas é de que a lei tenha um efeito cascata — das grandes empresas às pequenas, com um potencial de transformação difícil de calcular.\n\n(www.cnnbrasil.com.br, 03.05.2024. Adaptado.)\n\nDepreende-se do excerto que a nova lei",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "stimulará novas relações de poder, deslocando os centros econômicos hegemônicos para as periferias do sistema capitalista de produção."
+        },
+        {
+          "letra": "A",
+          "texto": "nteverá incidentes socioambientais, gerando como contrapartida impactos econômicos na readequação de contratos já celebrados."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudoAbordado": "Sociologia – Globalização"
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Praia de Carro Quebrado, Alagoas\n\n(www.guiadasemana.com.br)\n\nResultado de um processo de abrasão marinha, a feição do relevo retratada denomina-se",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "epressão."
+        },
+        {
+          "letra": "D",
+          "texto": "obra."
+        },
+        {
+          "letra": "C",
+          "texto": "oxilha."
+        },
+        {
+          "letra": "C",
+          "texto": "olina."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudoAbordado": "Geografia – Geomorfologia"
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Os territórios quilombolas figuram na lista de áreas com menor desmatamento do Brasil, segundo um levantamento divulgado em 2023 pelo MapBiomas. No período de 1985 a 2022, a perda de vegetação nativa nesses territórios foi de 4,7%, enquanto áreas privadas registraram um índice de 25%.\n\n(www.cartacapital.com.br. Adaptado.)\n\nOs valores de desmatamento apresentados expressam",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "desigualdade na coleta de dados sobre as transformações socioespaciais em áreas nativas."
+        },
+        {
+          "letra": "A",
+          "texto": "particularidade da relação sociedade-natureza em uma dada comunidade tradicional."
+        },
+        {
+          "letra": "A",
+          "texto": "carência de legislação para definir o que são territórios quilombolas e quem pode ocupá-los."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudoAbordado": "Geografia – Questões Ambientais"
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Analise os esquemas que demonstram o funcionamento da dinâmica dos ventos na faixa litorânea.\n\n(Francisco Mendonça e Inês M. Danni-Oliveira. Climatologia, 2007. Adaptado.)\n\nEsse funcionamento é explicado",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudoAbordado": "Geografia – Climatologia"
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "O que é a\nSerrapilheira\ne qual sua importância?\nÉ a camada de matéria\norgânica acima do solo\nfolhas, caules, ramos, frutos,\nflores, sementes, restos de\nanimais, excretas e fezes.\nIsolamento\ntérmico\nDecomposição\n\n(www.instagram.com. Adaptado.)\n\nA manutenção da serrapilheira caracteriza uma estratégia de conservação dos solos, contribuindo com",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ciclagem de nutrientes e o combate à erosão."
+        },
+        {
+          "letra": "A",
+          "texto": "formação de voçorocas e o incremento do intemperismo."
+        },
+        {
+          "letra": "A",
+          "texto": "retenção de umidade e a interrupção da pedogênese."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudoAbordado": "Biologia – Ecologia"
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "No dia 9 de março de 2024, o Instituto Brasileiro de Geografia e Estatística (IBGE) lançou uma nova versão do mapa-múndi, deixando as redes sociais em alvoroço. O motivo da surpresa é que, diferentemente dos mapas que estamos habituados a ver nos livros escolares ou até em rápidas buscas no Google, a nova versão traz o Brasil no centro do mundo.\n\n(https://guiadoestudante.abril.com.br. Adaptado.)\n\nPaíses-membros do G20\n\n(https://atlasescolar.ibge.gov.br)\n\nA surpresa com o mapa apresentado é explicada por ele contrariar",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "convenção cartográfica, conjunto de regras que busca garantir a neutralidade de um mapa."
+        },
+        {
+          "letra": "A",
+          "texto": "orientação espacial, relação que usa a latitude e a longitude para oferecer precisão na construção de um mapa."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudoAbordado": "Geografia – Cartografia"
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "O primeiro grande modelo de teoria psicológica da linguagem que temos na modernidade é o Livro III do Ensaio acerca do entendimento humano, de John Locke. Pela primeira vez na modernidade, temos um livro inteiro dedicado ao processo de significação linguística. O argumento lockeano é: a necessidade que temos de entrar em acordo, de nos entendermos, leva à necessidade de criarem-se signos sensíveis capazes de comunicar nossos pensamentos, nossas ideias. Se fôssemos dotados de alguma faculdade que possibilitasse o acesso direto e imediato às ideias nas mentes de outros homens, não seria necessária a linguagem.\n\n(Lúcio Lourenço Prado. Filosofia da linguagem, 2012. Adaptado.)\n\nO argumento lockeano mencionado tem implicações no âmbito",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "rítico, visto que examina os limites do senso comum."
+        },
+        {
+          "letra": "E",
+          "texto": "pistêmico, uma vez que defende a impossibilidade de evidência científica."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudoAbordado": "Filosofia – Teoria do Conhecimento"
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "Projeção de mortes por excesso de calor, segundo medidas de adaptação climática\n\n(www.letrasambientais.org.br, 19.11.2023.)\n\nChamamos de racismo ambiental as injustiças sociais e ambientais que recaem de forma implacável sobre grupos étnicos vulnerabilizados e sobre outras comunidades, discriminadas por sua “raça”, origem ou cor. O racismo ambiental não se configura apenas por meio de ações que tenham uma intenção racista, mas igualmente por meio de ações que tenham impacto racial, não obstante a intenção que lhes tenha dado origem.\n\n(Tania Pacheco. https://racismoambiental.net.br, 2007. Adaptado.)\n\nO gráfico e o conceito apresentados no excerto dialogam sobre o impacto ambiental resultante",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "a ausência de organizações ambientais internacionais."
+        },
+        {
+          "letra": "D",
+          "texto": "a escassez de políticas de acesso a oportunidades de bem-estar social."
+        },
+        {
+          "letra": "D",
+          "texto": "o negacionismo científico expresso por grupos minoritários."
+        },
+        {
+          "letra": "D",
+          "texto": "a supressão dos investimentos em campanhas de conscientização."
+        },
+        {
+          "letra": "D",
+          "texto": "o baixo lucro de empresas de economia verde."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudoAbordado": "Sociologia – Racismo Ambiental"
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "“Arquitetura hostil” refere-se a estratégias de design urbano que utilizam elementos para restringir certos comportamentos nos espaços públicos, dificultando o acesso e a presença de pessoas, especialmente pessoas em situação de rua. [...] Segundo o historiador especializado em arquitetura Iain Borden, [...] a emergência deste estilo de arquitetura hostil data da década de 1990, nas gestões de um desenho urbano que sugere, segundo suas palavras, “que só somos cidadãos se estamos trabalhando ou consumindo bens diretamente”.\n\n(Juliana Sayuri. www.nexojornal.com.br, 28.12.2023.)\n\nO excerto retrata um fenômeno social brasileiro que representa",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reformulação de mecanismos de democratização do espaço público."
+        },
+        {
+          "letra": "A",
+          "texto": "manutenção da cultura de estranhamento e de segregação."
+        },
+        {
+          "letra": "A",
+          "texto": "anulação da oportunidade de socialização entre indivíduos."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudoAbordado": "Sociologia – Espaço Urbano"
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "Leia o trecho da entrevista do filósofo Renato Noguera ao repórter Arnaldo Bloch, do jornal O Globo.\n\nArnaldo Bloch: Conte algo que não sei.\nRenato Noguera: A filosofia não nasceu na Grécia. Ela já existia na África e em outras regiões séculos antes. No Egito, há uma palavra, _rekhet_, que significa exatamente o que a palavra filosofia significa para os gregos. É uma arte da palavra, do saber. Os maias tinham aforismos filosóficos. Há diferentes estilos de fazer filosofia, mas há uma disputa política para que só uma voz filosófica fique conhecida. Essa voz é a do Ocidente.\n\n(Arnaldo Bloch. https://oglobo.globo.com, 23.02.2015.)\n\nA disputa política mencionada pelo filósofo Renato Noguera",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "presenta a busca pela relativização do conhecimento."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudoAbordado": "Filosofia – História da Filosofia"
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "TEXTO 1\n\nA obra Organon constitui o primeiro estudo amplo da disciplina Lógica, embora falte essa palavra para designá-la. No início de Analíticos, Aristóteles define a disciplina que se prepara para investigar como ciência da demonstração e do saber demonstrativo. Distingue dois tipos de discurso, dialético e demonstrativo: o primeiro parte do problemático e do provável e termina necessariamente no provável; o segundo parte do verdadeiro e termina no verdadeiro.\n\n(Nicola Abbagnano. Dicionário de filosofia, 2007. Adaptado.)\n\nTEXTO 2\n\nNo Livro I, capítulo 1 de sua obra _Primeiros Analíticos_, Aristóteles define o que é um silogismo perfeito: “Silogismo é um argumento no qual, colocadas certas coisas, outra distinta das estabelecidas decorre necessariamente, porque essas coisas são o caso. Por ‘porque essas coisas são o caso’ quero dizer decorrer em virtude delas; por ‘decorrer em virtude delas’ quero dizer não carecer de nenhum termo externo para que o necessário venha a ser o caso”.\n\n(Mateus R. F. Ferreira. “O que são silogismos perfeitos?”. https://revistas.ufpr.br/doispontos, 2013. Adaptado.)\n\nNos textos 1 e 2 está apresentada uma das principais contribuições de Aristóteles para a história da filosofia. Tal contribuição refere-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o método de classificação sistemática."
+        },
+        {
+          "letra": "A",
+          "texto": "o princípio do justo meio."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudoAbordado": "Filosofia – Lógica"
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "O que chamamos arte não mais nos demanda contemplação, mas sim reflexão sobre o sentido da palavra “arte”. Ou seja, o valor “arte” deserta o objeto para se ancorar no discurso de um indivíduo que se declara artista e que declara algo, uma ação, uma instrução, um ritual — não importa como “arte”. Nesse momento, importam menos as qualidades intrínsecas (linhas, planos, luminosidade, textura etc.) desse objeto do que reconstituir um questionamento que nos convida à reflexão. [...] o artista não pode mais ser reconhecido por suas habilidades técnicas, mas sim porque se instala no centro de uma rede de discursos, ele mesmo assumindo o discurso sobre sua obra/fazer.\n\n(Luzia Gontijo Rodrigues. “A arte para além da estética: arte contemporânea e o discurso dos artistas”. Artefilosofia, 2008.)\n\nConsiderando o objeto referido no excerto, a mudança na concepção de arte, mencionada pela autora, corresponde",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o status artístico definido por museus e galerias."
+        },
+        {
+          "letra": "A",
+          "texto": "o conceito elaborado pelo artista sobre sua produção."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudoAbordado": "Arte – Teoria da Arte"
+    },
+    {
+      "numeroEnunciado": 61,
+      "enunciado": "De acordo com uma pesquisa científica, enquanto a baleia orca preda 121 espécies, os seres humanos, dentro do mesmo nicho marinho em que vivem os grandes cetáceos, afetam a vida de 10460 espécies. Como existe uma sobreposição de, neste caso, 69% das espécies predadas tanto pela orca quanto pelo ser humano, a superexploração humana dos mares, cada vez mais, vai afetar as cadeias ecológicas desse tipo de ambiente. (Eduardo Geraque. https://jornal.unesp.br. Adaptado.) A sobreposição citada no excerto sugere que, entre as orcas e os seres humanos, ocorre a relação ecológica denominada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "competição."
+        },
+        {
+          "letra": "B",
+          "texto": "protocooperação."
+        },
+        {
+          "letra": "C",
+          "texto": "amensalismo."
+        },
+        {
+          "letra": "D",
+          "texto": "mutualismo."
+        },
+        {
+          "letra": "E",
+          "texto": "comensalismo."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Biologia – Relações Ecológicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 62,
+      "enunciado": "A imagem ilustra a deposição de poluentes atmosféricos particulados sobre as superfícies superior e inferior de uma folha. As micrografias mostram a deposição desses poluentes sobre as células da epiderme foliar e em um estômato. A deposição desses poluentes atmosféricos particulados na epiderme e nos estômatos de uma folha afeta",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o transporte de seiva elaborada."
+        },
+        {
+          "letra": "B",
+          "texto": "a liberação do hormônio citocinina."
+        },
+        {
+          "letra": "C",
+          "texto": "a ocorrência de trocas gasosas."
+        },
+        {
+          "letra": "D",
+          "texto": "o fototropismo do caule."
+        },
+        {
+          "letra": "E",
+          "texto": "o desenvolvimento das gemas laterais."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Biologia – Fisiologia Vegetal"
+      ]
+    },
+    {
+      "numeroEnunciado": 63,
+      "enunciado": "Em um experimento, um mesmo meio de cultura líquido, enriquecido com nutrientes, foi acrescentado a dois tubos de ensaio, 1 e 2. Ao tubo 1 foram adicionados vírus bacteriófagos e ao tubo 2 foram adicionadas bactérias de uma mesma espécie. Os dois tubos foram mantidos em condições ambientais ideais, e em intervalos de tempo consecutivos foi verificada a quantidade de vírus bacteriófagos e a quantidade de bactérias nos respectivos tubos. Os gráficos que representam as quantidades verificadas ao longo do tempo em cada tubo são:",
+      "alternativas": null,
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Biologia – Microbiologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 64,
+      "enunciado": "Vendeu seu sangue e nem falou comigo antes? O que as pessoas vão dizer se souberem que alguém da família andou vendendo sangue? Vão dizer que Xu Sanguan vendeu sangue, que Xu Sanguan é um fracassado, que vendeu o próprio sangue. Quando eu era pequena, meu pai me dizia que o sangue de uma pessoa é passado por seus ancestrais. Uma pessoa pode vender roscas, vender uma casa, vender sua terra, mas nunca vender seu sangue. Mas vender o sangue é como vender os ancestrais. Você vendeu seus ancestrais, Xu Sanguan! (Yu Hua. Crônica de um vendedor de sangue, 2011. Adaptado.) No excerto, a ideia de que o sangue de uma pessoa é passado por seus ancestrais está relacionada à transmissão hereditária das informações genéticas. Os componentes sanguíneos que contêm informações genéticas ancestrais são apenas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o plasma e as plaquetas, pois contêm núcleos compostos por moléculas de DNA circulares."
+        },
+        {
+          "letra": "B",
+          "texto": "os leucócitos, pois apresentam moléculas de DNA nuclear compostas por sequências de nucleotídeos."
+        },
+        {
+          "letra": "C",
+          "texto": "o plasma e os leucócitos, que apresentam histonas específicas que definem a sequência de aminoácidos."
+        },
+        {
+          "letra": "D",
+          "texto": "as hemácias e as plaquetas, que são células revestidas por glicocálix, substâncias que atuam no reconhecimento celular."
+        },
+        {
+          "letra": "E",
+          "texto": "as hemácias, pois possuem moléculas de hemoglobina compostas por uma sequência de bases nitrogenadas."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Biologia – Genética",
+        "Biologia – Histologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 65,
+      "enunciado": "Haenyeos (mulheres do mar em coreano) são as famosas mergulhadoras da Ilha de Jeju, no sul da Coreia do Sul. Estas mulheres, hoje com idade entre 65 e 90 anos, seguem a antiga tradição de coletar frutos do mar, atingindo profundidades de até 12 metros apenas com o ar dos pulmões. Esse trabalho é uma das formas de sustentar as famílias dessas mulheres que são reconhecidas pela Unesco como Patrimônio Cultural Imaterial da Humanidade. (www.comes.com.br. Adaptado.) Antes de mergulhar, as Haenyeos devem ___________ os músculos intercostais e o diafragma para encher os pulmões com ar. Durante o mergulho, o valor do pH sanguíneo ___________ e, ao retornarem à superfície, o ___________ promove o aumento da frequência respiratória das Haenyeos. As lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "contrair – aumenta – cerebelo."
+        },
+        {
+          "letra": "B",
+          "texto": "relaxar – diminui – cerebelo."
+        },
+        {
+          "letra": "C",
+          "texto": "relaxar – aumenta – bulbo."
+        },
+        {
+          "letra": "D",
+          "texto": "relaxar – aumenta – cerebelo."
+        },
+        {
+          "letra": "E",
+          "texto": "contrair – diminui – bulbo."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Biologia – Fisiologia Humana"
+      ]
+    },
+    {
+      "numeroEnunciado": 66,
+      "enunciado": "Na figura, os números 1 a 5 indicam os alvos para testes de diagnóstico de doenças causadas pela Taenia solium em seres humanos ou porcos. Os alvos para manter o diagnóstico de teníase estão indicados pelos números",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 e 5."
+        },
+        {
+          "letra": "B",
+          "texto": "1 e 2."
+        },
+        {
+          "letra": "C",
+          "texto": "1, 2 e 3."
+        },
+        {
+          "letra": "D",
+          "texto": "1 e 5."
+        },
+        {
+          "letra": "E",
+          "texto": "2, 3 e 5."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Biologia – Parasitologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 67,
+      "enunciado": "Existem pessoas que não apreciam o coentro por acharem que a erva aromática apresenta odor e sabor desagradáveis. Nessas pessoas, um estudo molecular apontou para a sensibilidade dos receptores olfativos aos aldeídos presentes no coentro. Foi verificado que essas pessoas apresentam uma variante mais expressiva do gene OR6A2, que codifica um receptor extremamente sensível aos aldeídos do coentro. (https://oglobo.com. Adaptado.) O excerto permite afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o gene OR6A2 expressa uma proteína que é acoplada à superfície externa da membrana plasmática das células olfativas."
+        },
+        {
+          "letra": "B",
+          "texto": "o gene OR6A2 é responsável por produzir células olfativas mais sensíveis aos aldeídos do coentro."
+        },
+        {
+          "letra": "C",
+          "texto": "os aldeídos do coentro ligam-se ao gene OR6A2 e estimulam a transmissão de impulsos nervosos pelos receptores olfativos."
+        },
+        {
+          "letra": "D",
+          "texto": "os aldeídos do coentro ligam-se aos receptores do gene OR6A2 e aumentam a sensibilidade das células olfativas."
+        },
+        {
+          "letra": "E",
+          "texto": "os aldeídos do coentro estimulam a síntese do gene OR6A2, o que aumenta a sensibilidade das células olfativas."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Biologia – Biologia Celular",
+        "Biologia – Genética"
+      ]
+    },
+    {
+      "numeroEnunciado": 68,
+      "enunciado": "Paleontólogos encontraram o fóssil de um anfíbio que viveu há cerca de 250 milhões de anos. Batizado de Kwatisuchus rosai, o animal era aparentado a espécies já descritas na Rússia. O achado confirma a suspeita de que os animais da época circulavam pela Pangeia. As falhas do registro fóssil tornam difícil dizer qual caminho os anfíbios percorreram entre os territórios dos atuais Brasil e Rússia. O K. rosai fazia parte de um grupo de anfibios chamados temnospôndilos, predadores de peixes, caçava em terra e contou com a vantagem de uma dieta variada e com a provável capacidade de construir buracos revestidos de muco, onde se protegeria da seca. (https://revistapesquisa.fapesp.br. Adaptado.) As forças que configuraram a atual posição dos continentes e a importância fisiológica do muco nos buracos construídos pelo K. rosai são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as correntes de convecção da água oceânica e a manutenção da temperatura corporal."
+        },
+        {
+          "letra": "B",
+          "texto": "as correntes de condução do magma e a manutenção da respiração cutânea."
+        },
+        {
+          "letra": "C",
+          "texto": "as correntes de convecção do magma e a manutenção da respiração cutânea."
+        },
+        {
+          "letra": "D",
+          "texto": "as correntes de convecção do magma e a manutenção da respiração pulmonar."
+        },
+        {
+          "letra": "E",
+          "texto": "as correntes de condução da água oceânica e a manutenção da temperatura corporal."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Biologia – Evolução",
+        "Geografia – Geologia e Geomorfologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 69,
+      "enunciado": "As ligas de solda mais comuns são misturas de estanho e chumbo. Duas dessas ligas são as representadas pelas siglas 63-37 e 60-40. Nessas siglas, o primeiro número representa a porcentagem de estanho presente em cada mistura, e o segundo número, a porcentagem de chumbo. Os gráficos representam as curvas de aquecimento dessas duas ligas. A análise dos gráficos revela que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas a liga 63-37 é uma mistura azeotrópica."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas a liga 63-37 é uma mistura eutética."
+        },
+        {
+          "letra": "C",
+          "texto": "ambas as ligas são misturas azeotrópicas."
+        },
+        {
+          "letra": "D",
+          "texto": "ambas as ligas são misturas eutéticas."
+        },
+        {
+          "letra": "E",
+          "texto": "apenas a liga 60-40 é uma mistura eutética."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Química – Misturas e Soluções"
+      ]
+    },
+    {
+      "numeroEnunciado": 70,
+      "enunciado": "A imagem mostra cilindros de gelo-seco, CO₂ (s), substância muito empregada no transporte e conservação de alimentos sob refrigeração. O gelo-seco tem esse nome porque sofre sublimação, ou seja, passa diretamente do estado sólido para o estado gasoso, sem passar pelo estado líquido. Sabendo que o volume molar de um gás medido nas CATP (Condições Ambiente de Temperatura e Pressão) é igual a $25 \\, L/mol$, o volume, medido nas CATP, ocupado pelo gás resultante da sublimação de $1,1 \\, kg$ de gelo-seco é próximo de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$200 \\, L$."
+        },
+        {
+          "letra": "B",
+          "texto": "$500 \\, L$."
+        },
+        {
+          "letra": "C",
+          "texto": "$600 \\, L$."
+        },
+        {
+          "letra": "D",
+          "texto": "$100 \\, L$."
+        },
+        {
+          "letra": "E",
+          "texto": "$400 \\, L$."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Química – Estequiometria",
+        "Química – Gases"
+      ]
+    },
+    {
+      "numeroEnunciado": 71,
+      "enunciado": "Uma solução aquosa do sal sulfato de cobre pentahidratado, $CuSO_{4} \\cdot 5H_{2}O$, massa molar $= 250 \\, g/mol$, foi preparada pela diluição de $10 \\, mL$ de uma solução estoque do sal que contém $10 \\, g$ do sal $/100 \\, mL$ de solução, até o volume final de $1 \\, L$. A concentração da solução diluída do sal, expressa em $g/L$ e em $mol/L$, é, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$10$ e $4 \\times 10^{-3}$."
+        },
+        {
+          "letra": "B",
+          "texto": "$1$ e $1 \\times 10^{-5}$."
+        },
+        {
+          "letra": "C",
+          "texto": "$10$ e $1 \\times 10^{-1}$."
+        },
+        {
+          "letra": "D",
+          "texto": "$1$ e $4 \\times 10^{-4}$."
+        },
+        {
+          "letra": "E",
+          "texto": "$1$ e $4 \\times 10^{-3}$."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Química – Soluções e Diluição"
+      ]
+    },
+    {
+      "numeroEnunciado": 72,
+      "enunciado": "Analise a fórmula que representa a estrutura molecular da adrenalina. A adrenalina, fórmula molecular ___________ é um hormônio produzido e secretado pelas glândulas ___________. Na estrutura desse hormônio, nota-se a presença da função orgânica nitrogenada denominada ___________. As lacunas do texto são preenchidas, respectivamente, por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$C_{9}H_{7}NO_{3}$, suprarrenais e amina."
+        },
+        {
+          "letra": "B",
+          "texto": "$C_{9}H_{13}NO_{3}$, sudoríparas e amina."
+        },
+        {
+          "letra": "C",
+          "texto": "$C_{9}H_{13}NO_{3}$, suprarrenais e amida."
+        },
+        {
+          "letra": "D",
+          "texto": "$C_{9}H_{13}NO_{3}$, suprarrenais e amina."
+        },
+        {
+          "letra": "E",
+          "texto": "$C_{9}H_{9}NO_{3}$, sudoríparas e amida."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Química – Química Orgânica",
+        "Biologia – Fisiologia Humana"
+      ]
+    },
+    {
+      "numeroEnunciado": 73,
+      "enunciado": "Em uma solução aquosa de cianeto de sódio ($NaCN$), ocorrem os seguintes equilíbrios simultâneos:\n$$CN^{-} (aq) + H_{2}O (l) \\rightleftharpoons HCN (aq) + OH^{-} (aq)$$\n$$HCN (aq) \\rightleftharpoons HCN (g)$$\nO cianeto de hidrogênio ($HCN$) é um gás extremamente tóxico, que pode ser fatal quando inalado. Para minimizar o escape desse gás para a atmosfera, recomenda-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "elevar o pH da solução de $NaCN$ por adição de $NaCl$."
+        },
+        {
+          "letra": "B",
+          "texto": "diminuir o pH da solução de $NaCN$ por adição de $NaOH$."
+        },
+        {
+          "letra": "C",
+          "texto": "elevar o pH da solução de $NaCN$ por adição de $HCl$."
+        },
+        {
+          "letra": "D",
+          "texto": "diminuir o pH da solução de $NaCN$ por adição de $HCl$."
+        },
+        {
+          "letra": "E",
+          "texto": "elevar o pH da solução de $NaCN$ por adição de $NaOH$."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Química – Equilíbrio Químico",
+        "Química – Ácidos e Bases"
+      ]
+    },
+    {
+      "numeroEnunciado": 74,
+      "enunciado": "Em 1932, James Chadwick descobriu o nêutron pelo bombardeamento do isótopo berílio-9 com partículas $\\alpha$, conforme a equação nuclear:\n$$\\alpha + \\, ^{9}_{4}Be \\rightarrow X + \\, ^{1}_{0}n$$\nO número de nêutrons do isótopo X formado nesse bombardeamento é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "9."
+        },
+        {
+          "letra": "B",
+          "texto": "6."
+        },
+        {
+          "letra": "C",
+          "texto": "8."
+        },
+        {
+          "letra": "D",
+          "texto": "4."
+        },
+        {
+          "letra": "E",
+          "texto": "13."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Física – Física Nuclear",
+        "Química – Radioatividade"
+      ]
+    },
+    {
+      "numeroEnunciado": 75,
+      "enunciado": "A hidrazina ($N_{2}H_{4}$), substância utilizada como propelente de foguetes, sofre combustão conforme a equação:\n$$N_{2}H_{4} + O_{2} \\rightarrow N_{2} + 2H_{2}O$$\nA tabela apresenta alguns valores de entalpias de ligação envolvidas nessa reação. Utilizando os dados tabelados, calcula-se que a combustão de 1 mol de hidrazina irá liberar",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$949 \\, kJ$."
+        },
+        {
+          "letra": "B",
+          "texto": "$1727 \\, kJ$."
+        },
+        {
+          "letra": "C",
+          "texto": "$577 \\, kJ$."
+        },
+        {
+          "letra": "D",
+          "texto": "$2224 \\, kJ$."
+        },
+        {
+          "letra": "E",
+          "texto": "$2801 \\, kJ$."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Química – Termoquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 76,
+      "enunciado": "A figura 1 mostra um secador de saladas por centrifugação, que funciona com base no acoplamento de duas engrenagens que, quando em rotação, fazem girar um cesto em que estão acomodadas as folhas de salada a serem secas. A figura 2 mostra o esquema do mecanismo desse utensílio. A engrenagem A gira quando uma pessoa aciona a manivela M. A engrenagem B, que é articulada com a engrenagem A, está ligada à roda R que é fixa no cesto que acomoda as folhas de salada. A engrenagem B e a roda R giram solidárias, presas a um mesmo eixo de rotação. Sabendo que o raio da engrenagem A tem o triplo do comprimento do raio da engrenagem B, se a manivela M girar com uma frequência de $2,4 \\, Hz$, o cesto girará com uma frequência de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$7,2 \\, Hz$."
+        },
+        {
+          "letra": "B",
+          "texto": "$3,6 \\, Hz$."
+        },
+        {
+          "letra": "C",
+          "texto": "$4,8 \\, Hz$."
+        },
+        {
+          "letra": "D",
+          "texto": "$6,0 \\, Hz$."
+        },
+        {
+          "letra": "E",
+          "texto": "$10,8 \\, Hz$."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 77,
+      "enunciado": "Uma bola é chutada obliquamente, no instante $t_0 = 0$, com velocidade inicial $\\vec{v}_0$, no ponto A de uma elevação. Essa bola descreve a trajetória indicada na figura passando pelo ponto B, ponto mais alto de sua trajetória, no instante $t = 0,8 \\, s$, e atinge o solo horizontal no ponto C, no instante $t = 2 \\, s$. Desprezando a resistência do ar, adotando $g = 10 \\, m/s^2$ e sabendo que a equação da trajetória dessa bola, desde o ponto A até o ponto C, é $y = -0,2 \\cdot x^2 + 1,6 \\cdot x + 4$, o módulo de $\\vec{v}_0$ é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$4 \\, m/s$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\sqrt{45} \\, m/s$"
+        },
+        {
+          "letra": "C",
+          "texto": "$6 \\, m/s$"
+        },
+        {
+          "letra": "D",
+          "texto": "$13 \\, m/s$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\sqrt{89} \\, m/s$"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Física – Cinemática",
+        "Matemática – Funções Quadráticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 78,
+      "enunciado": "Uma esteira rolante é utilizada para transportar caixas para o alto de uma plataforma. Para iniciar a subida a partir do repouso, a esteira é colocada em movimento uniformemente acelerado por alguns instantes, até que as caixas atinjam uma velocidade constante, compatível com a subida. O coeficiente de atrito estático entre as superfícies das caixas e a superfície da esteira é $0,8$ e a aceleração da gravidade local tem intensidade $10 \\, m/s^2$. Sabendo que $\\text{sen}\\, \\theta = 0,6$ e que $\\text{cos}\\, \\theta = 0,8$, a intensidade da máxima aceleração que a esteira pode ter no início de seu movimento, sem que as caixas escorreguem sobre ela, será",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$0,4 \\, m/s^2$."
+        },
+        {
+          "letra": "B",
+          "texto": "$0,2 \\, m/s^2$."
+        },
+        {
+          "letra": "C",
+          "texto": "$0,5 \\, m/s^2$."
+        },
+        {
+          "letra": "D",
+          "texto": "$0,1 \\, m/s^2$."
+        },
+        {
+          "letra": "E",
+          "texto": "$0,3 \\, m/s^2$."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Física – Dinâmica",
+        "Física – Leis de Newton",
+        "Matemática – Trigonometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 79,
+      "enunciado": "A figura representa um termômetro a gás, constituído por um balão com gás ideal conectado a um sistema de vasos comunicantes que contém mercúrio. Para aferir a temperatura de um determinado líquido colocado em um recipiente, o balão, com $0,25 \\, mol$ de gás, foi mergulhado nesse líquido até que o equilíbrio térmico entre o gás e o líquido fosse atingido, estabilizando o desnível entre as colunas de mercúrio em $152 \\, mm$, conforme a figura. Considere que, nessa medição, as capacidades térmicas do balão e dos vasos comunicantes sejam desprezíveis. Sabendo que, na situação de equilíbrio, o volume ocupado pelo gás foi de $6 \\times 10^{-3} \\, m^3$, que a pressão atmosférica no local do experimento era de $10^5 \\, Pa = 760 \\, mmHg$, e considerando o valor de $8 \\, J/mol \\, K$ para a constante universal dos gases ideais, a temperatura obtida para o líquido, nesse experimento, foi de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$350 \\, K$."
+        },
+        {
+          "letra": "B",
+          "texto": "$380 \\, K$."
+        },
+        {
+          "letra": "C",
+          "texto": "$370 \\, K$."
+        },
+        {
+          "letra": "D",
+          "texto": "$360 \\, K$."
+        },
+        {
+          "letra": "E",
+          "texto": "$340 \\, K$."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Termodinâmica",
+        "Física – Gases Ideais"
+      ]
+    },
+    {
+      "numeroEnunciado": 80,
+      "enunciado": "As figuras mostram duas imagens, da mesma lapiseira, formadas por duas lentes esféricas de vidro: uma convergente (figura 1) e outra divergente (figura 2). Sabendo que os aumentos lineares transversais das imagens 1 e 2 são, respectivamente, $A_1 = 2$ e $A_2 = 0,8$, o valor de L, indicado na figura 2, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$0,56 \\, cm$."
+        },
+        {
+          "letra": "B",
+          "texto": "$0,64 \\, cm$."
+        },
+        {
+          "letra": "C",
+          "texto": "$0,36 \\, cm$."
+        },
+        {
+          "letra": "D",
+          "texto": "$0,48 \\, cm$."
+        },
+        {
+          "letra": "E",
+          "texto": "$0,75 \\, cm$."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Física – Óptica Geométrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 81,
+      "enunciado": "Um garoto está brincando com uma corda apoiada no solo horizontal e presa em um pino vertical. O garoto produz dois pulsos transversais completos na corda, fazendo-a oscilar sobre o solo com frequência de $3 \\, Hz$, conforme a figura. Se o atrito entre a corda e o solo puder ser desconsiderado, a partir da configuração mostrada na figura, a onda formada atingirá o pino vertical depois de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$1,5 \\, s$."
+        },
+        {
+          "letra": "B",
+          "texto": "$2,5 \\, s$."
+        },
+        {
+          "letra": "C",
+          "texto": "$2,0 \\, s$."
+        },
+        {
+          "letra": "D",
+          "texto": "$3,0 \\, s$."
+        },
+        {
+          "letra": "E",
+          "texto": "$1,0 \\, s$."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Física – Ondas"
+      ]
+    },
+    {
+      "numeroEnunciado": 82,
+      "enunciado": "Uma situação comum em residências antigas é a incompatibilidade entre os cabos elétricos instalados e a demanda atual de energia elétrica. Nessas residências, dispositivos de proteção podem interromper o circuito quando vários eletrodomésticos são ligados simultaneamente. A figura mostra a planta da cozinha e da lavanderia de uma residência antiga, em que a instalação elétrica é protegida por um disjuntor de $30 \\, A$. Nesses locais, já estão em funcionamento uma televisão (TV) e uma máquina de lavar roupas (ML). Também constam dessa instalação um forno de micro-ondas (MO), um liquidificador (LI) e um ferro de passar (FP). As potências desses eletrodomésticos estão indicadas na tabela. O disjuntor interromperá a corrente elétrica se, simultaneamente com a televisão e com a máquina de lavar,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "for ligado o forno de micro-ondas."
+        },
+        {
+          "letra": "B",
+          "texto": "forem ligados o forno de micro-ondas e o liquidificador."
+        },
+        {
+          "letra": "C",
+          "texto": "forem ligados o forno de micro-ondas e o ferro de passar."
+        },
+        {
+          "letra": "D",
+          "texto": "for ligado o ferro de passar."
+        },
+        {
+          "letra": "E",
+          "texto": "forem ligados o liquidificador e o ferro de passar."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Eletrodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 83,
+      "enunciado": "O gráfico, feito em papel quadriculado, exibe os preços praticados em reais (R$) por cinco mercados diferentes (I, II, III, IV e V), com comercialização, em quilogramas (kg), de um mesmo tipo de castanha-de-caju. O mercado com preço mais vantajoso para o consumidor na compra de uma grande quantidade dessa castanha e o mercado em que o consumidor consegue comprar o triplo dessa castanha ao mesmo preço praticado pelo mercado II são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e III."
+        },
+        {
+          "letra": "B",
+          "texto": "I e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "I e V."
+        },
+        {
+          "letra": "D",
+          "texto": "V e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "V e I."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Matemática – Análise de Gráficos",
+        "Matemática – Proporcionalidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 84,
+      "enunciado": "A fórmula de conversão entre a temperatura $T_C$, em graus Celsius, e a temperatura $T_F$, em graus Fahrenheit, é $T_C = \\frac{5}{9}(T_F-32)$. Para cálculos rápidos, ainda que não totalmente precisos, pode-se usar a fórmula $T^*_C = \\frac{T_F-30}{2}$, em que $T^*_C$ é a temperatura aproximada, em graus Celsius, da temperatura $T_F$, em graus Fahrenheit. Considerando que o erro absoluto $E(T_F)$, cometido pela fórmula de valores aproximados em relação à fórmula de valores precisos, seja dado pela função modular $E(T_F) = |T_C-T^*_C|$, seu gráfico pode ser representado por:",
+      "alternativas": null,
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Matemática – Funções",
+        "Matemática – Inequações Modulares"
+      ]
+    },
+    {
+      "numeroEnunciado": 85,
+      "enunciado": "Em uma urna, são colocados cartões idênticos: um cartão com o número 1, dois cartões com o número 2, três cartões com o número 3, e assim sucessivamente, até cem cartões com o número 100, totalizando $1+2+3+...+100 = 5050$ cartões. A quantidade mínima de cartões que devem ser retirados aleatoriamente dessa urna para que se tenha certeza de que pelo menos 10 dos cartões retirados tenham um mesmo número é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "865."
+        },
+        {
+          "letra": "B",
+          "texto": "253."
+        },
+        {
+          "letra": "C",
+          "texto": "55."
+        },
+        {
+          "letra": "D",
+          "texto": "1001."
+        },
+        {
+          "letra": "E",
+          "texto": "11."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Matemática – Combinatória",
+        "Matemática – Princípio da Casa dos Pombos"
+      ]
+    },
+    {
+      "numeroEnunciado": 86,
+      "enunciado": "A figura indica as medidas de três ângulos internos do pentágono convexo UNESP, além da medida do seu ângulo interno NUP, indicada por x. A partir desse pentágono, foram traçadas as semirretas PU e EN, que se intersectam no ponto V. Sabendo-se que UV e UN são congruentes, x é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$122^\\circ$."
+        },
+        {
+          "letra": "B",
+          "texto": "$120^\\circ$."
+        },
+        {
+          "letra": "C",
+          "texto": "$118^\\circ$."
+        },
+        {
+          "letra": "D",
+          "texto": "$128^\\circ$."
+        },
+        {
+          "letra": "E",
+          "texto": "$124^\\circ$."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Matemática – Geometria Plana",
+        "Matemática – Polígonos"
+      ]
+    },
+    {
+      "numeroEnunciado": 87,
+      "enunciado": "A figura indica dois quadrados, ABCD e AEFG, no plano cartesiano de eixos ortogonais. Os pontos A(0, 1) e P(x, y) são pontos comuns aos dois quadrados, e os vértices B e E têm coordenadas (6, 0) e (2, 0), respectivamente. Nessas condições, a ordenada do ponto P é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{34}{25}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{33}{25}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{13}{10}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{17}{13}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{27}{20}$"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 88,
+      "enunciado": "O retângulo ABCD, com $AB = 20 \\, cm$ e $AD = 15 \\, cm$, será espacialmente girado de $180^\\circ$, tendo como eixo de rotação a reta r, que passa por seus vértices B e D, como mostra a figura. O sólido espacial gerado após essa rotação tem volume igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2400\\pi \\, cm^3$."
+        },
+        {
+          "letra": "B",
+          "texto": "$1200\\pi \\, cm^3$."
+        },
+        {
+          "letra": "C",
+          "texto": "$3000\\pi \\, cm^3$."
+        },
+        {
+          "letra": "D",
+          "texto": "$3200\\pi \\, cm^3$."
+        },
+        {
+          "letra": "E",
+          "texto": "$4500\\pi \\, cm^3$."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 89,
+      "enunciado": "A figura indica o gráfico da função $f(x) = \\log_{2}(x - 1)$, sendo P e Q os pontos de intersecção da assíntota e do gráfico com o eixo x, respectivamente. Sabendo-se que $M(X_M, Y_M)$ pertence ao gráfico de $y = f(x)$ e que $X_M$ é ponto médio de PQ, então $Y_M$ é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$-0,8$."
+        },
+        {
+          "letra": "B",
+          "texto": "$-1,1$."
+        },
+        {
+          "letra": "C",
+          "texto": "$-1$."
+        },
+        {
+          "letra": "D",
+          "texto": "$-0,9$."
+        },
+        {
+          "letra": "E",
+          "texto": "$-1,2$."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Matemática – Funções Logarítmicas",
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 90,
+      "enunciado": "Uma partícula desloca-se sobre os lados de um triângulo equilátero ABC, de lado $10 \\, cm$, partindo do vértice A no sentido horário, conforme a figura. A intensidade da velocidade inicial dessa partícula, que é de $6 \\, m/min$, sempre dobra após a partícula percorrer um lado inteiro do triângulo e, durante o percurso de cada lado do triângulo, ela permanece constante. Nessas condições, e desconsiderando os intervalos de tempo de aceleração dessa partícula, ela terá dado 10 voltas completas ao longo do perímetro do triângulo em, aproximadamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$2 \\, s$."
+        },
+        {
+          "letra": "B",
+          "texto": "$12 \\, s$."
+        },
+        {
+          "letra": "C",
+          "texto": "$6 \\, s$."
+        },
+        {
+          "letra": "D",
+          "texto": "$3 \\, s$."
+        },
+        {
+          "letra": "E",
+          "texto": "$1 \\, s$."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Física – Cinemática",
+        "Matemática – Geometria Plana"
+      ]
+    }
+  ]
+}
