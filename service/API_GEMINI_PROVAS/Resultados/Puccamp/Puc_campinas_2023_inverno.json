@@ -1,0 +1,633 @@
+{
+  "nomeUniversidade": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE CAMPINAS",
+  "siglaUniversidade": "PUCCAMP",
+  "nomeProva": "VESTIBULAR DE INVERNO - PROVA GERAL",
+  "ano": 2023,
+  "qtdeQuestoes": 40,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "O tema fundamental desse texto está representado\n(Adaptado de: CALLIGARIS, Contardo. Terra de ninguém. São Paulo: Publifolha, 2004, p. 176-177)",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "A coesão e a coerência de um segmento do texto mantêm-se na seguinte reelaboração:",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "e qualquer forma, concordemos (3º parágrafo) = admitamos, por conseguinte"
+        },
+        {
+          "letra": "E",
+          "texto": "mbora não saibamos muito bem (3º parágrafo) = uma vez que ignoremos pouco"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Coesão e Coerência Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "As normas de concordância verbal estão plenamente observadas na frase:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "atração por roupas justas ou roupas folgadas devem-se, muitas vezes, às pressões comerciais da moda."
+        },
+        {
+          "letra": "A",
+          "texto": "singularidade dos nossos impulsos pessoais devem manter-se acima das opiniões de quem não os levam em conta."
+        },
+        {
+          "letra": "A",
+          "texto": "s dúvidas que houverem a respeito de qualquer coisa só podem ser dissipadas por juízos que se formule dentro de cada um."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Concordância Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "A mãe, irritadíssima: “Você não deveria ser você mesmo? Ter um estilo seu, sem se preocupar com os outros?”\nTranspondo-se a passagem acima para o discurso indireto, ela deverá ficar: A mãe, irritadíssima, perguntou ao filho",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Discurso Direto e Indireto"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Está plenamente adequado o emprego do elemento sublinhado na frase:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "s ondas da moda exercem um poder ao qual poucos de nós somos capazes de resistir."
+        },
+        {
+          "letra": "A",
+          "texto": "valorização pessoal por conta da roupa é um juízo vicioso de cujo poucos escapam."
+        },
+        {
+          "letra": "A",
+          "texto": "mãe cobrou do filho uma atitude madura da qual ele não tinha como assumir."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Regência Nominal e Verbal",
+        "Língua Portuguesa – Uso de Pronomes Relativos"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Ao afirmar que a humanidade age como um sonâmbulo ecocida, o autor se vale de uma imagem poderosa para representar\n(Adaptado de: GIANNETTI, Eduardo. Trópicos utópicos. São Paulo: Companhia das Letras, 2016, p. 53-54)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "possibilidade de nós acabarmos como vítimas da violência mortal da natureza."
+        },
+        {
+          "letra": "A",
+          "texto": "inconsciência destrutiva com a qual exterminamos o nosso próprio meio natural."
+        },
+        {
+          "letra": "A",
+          "texto": "inconsistência dos projetos que julgamos viáveis para a sobrevivência da espécie."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de figuras de linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "É plenamente regular a pontuação da seguinte frase:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "s incertezas de sempre, que cercam nossas providências, em relação à sustentabilidade ecológica tornam mais e mais sombrio, o nosso horizonte."
+        },
+        {
+          "letra": "D",
+          "texto": "o modo como as coisas se encaminham, não há catastrofismo nesse texto, mas um agudo senso de realidade, lamentavelmente."
+        },
+        {
+          "letra": "C",
+          "texto": "onsidera o autor ao tratar da passagem do tempo, que cinco ou seis gerações, numa perspectiva cósmica nada representam."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Pontuação"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Quem deseja ou defende a devastação do meio ambiente?\nA frase acima encontra uma nova redação, na qual se mantêm a coesão textual e o sentido básico em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "devastação do meio ambiente seria desejável ou defensável para alguém?"
+        },
+        {
+          "letra": "D",
+          "texto": "esejar ou defender a devastação do meio ambiente, terá quem o faça?"
+        },
+        {
+          "letra": "A",
+          "texto": "defesa ou o desejo de devastação do meio ambiente não se sabe a quem lhe caberia."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Reescrita de frases",
+        "Língua Portuguesa – Sintaxe"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "As mulheres de Machado de Assis nada têm em comum com as de José de Alencar, mesmo as de romances iniciais como Helena ou Iaiá Garcia. As de Alencar definem-se como tipos convencionais, a exigirem louvores idealísticos, ao passo que as de Machado se expõem com um caráter de maior complexidade.\nNo fragmento crítico acima, a crítica Lúcia Miguel Pereira está considerando que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "idealização das mulheres de Machado é superior às imaginadas por Alencar."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira – Romantismo",
+        "Língua Portuguesa – Literatura Brasileira – Realismo",
+        "Língua Portuguesa – Literatura Brasileira – Machado de Assis",
+        "Língua Portuguesa – Literatura Brasileira – José de Alencar"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Atente para este poema de Oswald de Andrade:\nContrabando\nOs alfandegueiros de Santos\nExaminaram minhas malas\nMinhas roupas\nMas se esqueceram de ver\nQue eu trazia no coração\nUma saudade feliz\nDe Paris\nEsse poema pode ilustrar adequadamente a seguinte observação crítica sobre o Modernismo de 22:",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "onjugavam-se então o localismo da linguagem coloquial e a contribuição europeia."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira – Modernismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "A certa altura do romance A hora da estrela, de Clarice Lispector, lê-se:\nEscrevo sobre o mínimo parco enfeitando-o com púrpura, joias e esplendor. É assim que se escreve? Não, não é acumulando e sim desnudando. Mas tenho medo da nudez, pois ela é a palavra final.\nNessa passagem acentua-se uma das características fundamentais da narração dessa autora, qual seja, a de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ssentar sua linguagem dramática nos elementos mais palpáveis da realidade observada."
+        },
+        {
+          "letra": "A",
+          "texto": "proximar-se da vertente experimental de uma linguagem afim ao preciosismo barroco."
+        },
+        {
+          "letra": "C",
+          "texto": "riticar os excessos da linguagem parnasiana para melhor promover os ideais modernistas."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira – Clarice Lispector",
+        "Língua Portuguesa – Metalinguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Numa carta ao amigo João Condé, o escritor João Guimarães Rosa fala da gênese de Sagarana, seu livro de estreia: Eu tinha de escolher o terreno onde localizar as minhas histórias. Podia ser Barbacena, o Rio, a China, o espaço astral, ou, mesmo, o pedaço de Minas Gerais que era mais meu. E foi o que preferi. (...) Porque conhecia um pouco melhor a terra, a gente, bichos, árvores. Porque o povo do interior dá melhores personagens de parábolas: lá se veem bem as reações humanas e a ação do destino.\nNessa declaração, corrobora-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "vertente rigorosamente regionalista e documental a que aderiu Rosa nesse romance."
+        },
+        {
+          "letra": "A",
+          "texto": "junção entre fortes elementos regionais e sua transcendência em temas universais."
+        },
+        {
+          "letra": "A",
+          "texto": "preferência do autor por vanguardas em que impera o rebuscamento linguístico."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira – João Guimarães Rosa",
+        "Língua Portuguesa – Literatura Brasileira – Regionalismo e Universalidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Atenção: Para responder às questões de números 13 a 15, considere o texto a seguir.\nThe global teen market has significant spending power and is an important factor in the world economy. I, little is known about the social motivations underlying attitudes toward luxury fashion brands during adolescence. In a study of 570 French and American adolescents, this research shows that both the need for uniqueness and susceptibility to influence relate positively to attitudes toward luxury brands, and that fashion innovativeness mediates these relations.\n(Disponível em: https://isidl.com)\nA palavra que completa coerentemente a lacuna I é:",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "onsequently"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Inglês – Vocabulário",
+        "Inglês – Conectivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Segundo o texto,\n(Disponível em: https://isidl.com)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "economia mundial reconhece o interesse de adolescentes por grandes marcas luxuosas, mas desconhece os fatores que o motivam."
+        },
+        {
+          "letra": "A",
+          "texto": "suscetibilidade à influência e a necessidade de singularidade induzem a atitude adolescente em relação a artigos de luxo na moda."
+        },
+        {
+          "letra": "A",
+          "texto": "inovação na moda estimula os adolescentes a adquirirem marcas de luxo únicas e influenciadoras para se destacarem."
+        },
+        {
+          "letra": "A",
+          "texto": "s relações entre os adolescentes são mediadas por seu poder aquisitivo e pelas inovações da moda de luxo."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Escolha o título que melhor sintetiza o texto.",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "De acordo com o texto, a diversidade cultural na faculdade é importante porque",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "stabelece um ambiente propício ao desenvolvimento de alunos estrangeiros."
+        },
+        {
+          "letra": "A",
+          "texto": "mplia o leque de oportunidades de ascensão social para os alunos."
+        },
+        {
+          "letra": "C",
+          "texto": "ontribui para captar alunos de origens e condições sociais diversas."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "A palavra que pode substituir thrive no contexto, mantendo o mesmo sentido, é:",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "epart"
+        },
+        {
+          "letra": "D",
+          "texto": "evelop"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Entre os séculos III e I A.C a República Romana expandiu-se, derrotou Cartago nas famosas Guerras Púnicas e estendeu seu poder por todo o Mar Mediterrâneo, que passou a ser chamado pelos romanos de Mare Nostrum.\nOs fatos mencionados acima tiveram como consequência:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "expansão de Roma para o Mediterrâneo Oriental e sua posterior derrota por uma coligação militar entre gregos e macedônios."
+        },
+        {
+          "letra": "A",
+          "texto": "ampliação das riquezas do Estado, o aumento da desigualdade social e do poder dos comandantes militares."
+        },
+        {
+          "letra": "A",
+          "texto": "ascensão de uma nobreza sacerdotal, a reafirmação do papel da religião politeísta no desenvolvimento da sociedade romana e a formação de um governo teocrático."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "História – Roma Antiga"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Entre as décadas de 1920 e 1940, movimentos e governos de extrema direita foram particularmente ativos na Europa, destacan-do-se o nazifascismo, cujas maiores representações foram os governos de Benito Mussolini na Itália e Adolf Hitler na Alemanha. O nazifascismo",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "riou regimes totalitários baseados em valores cristãos, que defendiam o conservadorismo nos costumes e o liberalismo na economia."
+        },
+        {
+          "letra": "A",
+          "texto": "dotou práticas liberais e que tinham como objetivo angariar apoio junto ao grande capital industrial-financeiro e combater as ideias esquerdistas."
+        },
+        {
+          "letra": "E",
+          "texto": "stabeleceu as bases de um poderoso estado burguês com feições populistas, que procurava evitar as grandes mobili-zações populares, por temer o contato direto com as massas."
+        },
+        {
+          "letra": "C",
+          "texto": "onstituiu um Estado que se caracterizou pelo nacionalismo xenófobo, pelo culto à figura de um líder político e pela defesa enfática da guerra."
+        },
+        {
+          "letra": "E",
+          "texto": "stabeleceu um regime ditatorial, que perseguiu as minorias étnicas e defendeu a igualdade social, aproximando-se no plano das ideias do comunismo soviético."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "História – Totalitarismos"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Analisando o texto e o infográfico acima e considerando o processo histórico, infere-se:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "criação de órgãos como Sudam e Sudene revela o triunfo de uma política econômica não intervencionista praticada no país desde a Era Vargas (1930-1945)."
+        },
+        {
+          "letra": "A",
+          "texto": "s disparidades verificadas no infográfico refletem os diferentes processos de desenvolvimento econômico e o processo de industrialização desigual que se concentrou no país principalmente no Sudeste e, em menor medida, na região Sul."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Geografia – Economia Regional Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Considerando o texto e o infográfico, verifica-se que, acerca do desenvolvimento econômico,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "atuação do setor privado no planejamento, investimento e na distribuição de recursos são fatores fundamentais para o crescimento econômico das regiões brasileiras; exemplo disso é a Superintendência da Zona Franca de Manaus."
+        },
+        {
+          "letra": "A",
+          "texto": "o estimular o desenvolvimento econômico da Região Nordeste, o governo federal criou a Superintendência de Desenvolvimento do Nordeste, cujo objetivo era difundir a exportação através de polos de produção industrial."
+        },
+        {
+          "letra": "A",
+          "texto": "região Sudeste tem a economia mais dinâmica do Brasil, a menor população do país e a maior parte do que é produzido entre as regiões brasileiras (52,3%), o que está relacionado a fatores históricos que favoreceram o processo de industrialização e urbanização."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Geografia – Economia Regional Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Considere os gráficos a seguir.\nBrasil: taxa de urbanização – 1940-2010\n90\n80\n70\n60\n% 50\n40\n30\n20\n10\n0\n1940 1950 1960 1970 1980 1991 2000 2010 População urbana População rural\n(Disponível em: IBGE. Taxa de urbanização. Disponível em: https://seriesestatisticas.ibge.gov.br)\nBrasil: taxa de urbanização por região – 1940-2010\n100\n90\n80\n70\n60\n% 50\n40\n30\n20\n10\n0\n1940 1950 1960 1970 1980 1991 2000 2010 Norte Nordeste Sudeste Sul Centro-Oeste\n(Disponível em: IBGE. Taxa de urbanização. Disponível em: https://seriesestatisticas.ibge.gov.br)\nSobre o processo de urbanização no Brasil, de acordo com a análise dos gráficos e seus conhecimentos sobre a temá-tica:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "região Sudeste é a mais urbanizada do país, o que pode ser explicado pela concentração industrial, e segue impulsionada com taxas de urbanização superiores de 95%."
+        },
+        {
+          "letra": "A",
+          "texto": "região Centro-Oeste destaca-se como a terceira região mais urbanizada do Brasil, devido à expansão da agricultura moderna, chamada de agronegócio, e fortemente voltada à produção de grãos, com intenso uso de tecnologias e visando a exportação de sua produção."
+        },
+        {
+          "letra": "A",
+          "texto": "região Sul é a região que mais cresceu entre as décadas de 1970 e 1990, o que se deve em parte à modernização agrícola pela qual a região passou nas últimas décadas e, por outro lado, ao crescimento dos setores secundário e terciário em importantes cidades da região."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Geografia – Urbanização Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Considere.\nFatia da riqueza dos 10% mais ricos (em % do total) - 2016\nEUA e Canadá\n47\nEuropa\nRússia\nChina\n37 46 41\n55\nBrásil\n54\n61\n55\nÁfrica\nSubsaariana\nOriente\nMédio\nIndia\n(Adaptado de: World Inequality\nReport 2018. BALTHAZAR, Ricar-\ndo. \"Desigualdade é maior no\nBrasil, mas cresce mais na\nChina, afirma relatório: FSP 14\ndez. 2017. Disponível em:\n<https://www1.folha.uol.com.br)\nSobre as consequências do processo de globalização e as informações do infográfico, deduz-se:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "grande consequência da globalização é o aumento dos fluxos mundiais de informações, de capitais, de mercadorias e de pessoas. O infográfico mostra que os países do hemisfério Sul concentram as maiores desigualdades na distribuição de renda."
+        },
+        {
+          "letra": "A",
+          "texto": "globalização representa o aumento da integração entre os lugares, através do incremento das redes de transporte, que encurtam as distâncias. O infográfico destaca o continente asiático como o mais desigual do mundo."
+        },
+        {
+          "letra": "E",
+          "texto": "m termos culturais, é importante destacar que os fluxos de informações vêm transformando as culturas tradicionais, que passam a ser influenciadas pelas culturas de massa, disseminadas pelos meios de comunicação. O infográfico apresenta o continente americano como a parte mais desigual do globo, seguido pelo continente africano."
+        },
+        {
+          "letra": "E",
+          "texto": "ntre os hábitos que mais se disseminam estão, os padrões de consumo que interessam as grandes empresas transna-cionais, que vem propiciando melhoria de vida para todas as pessoas. O infográfico destaca o continente europeu como o menos desigual."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Geografia – Globalização e Desigualdade Socioeconômica"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "A figura representa o paralelogramo BACU e o triângulo PUC, sendo P o ponto de reflexão do ponto U pelo eixo de simetria $\\vec{AC}$. Sabe-se que AB = 12, que a medida do ângulo BÛC é 60° e que as áreas do paralelogramo e do triângulo são iguais.\nNas condições descritas, a medida de AC é",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Matemática – Geometria Plana (Paralelogramos e Triângulos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Em uma moeda viciada, há 20% a mais de chance de sair cara do que de sair coroa. Lançando-se essa moeda aleatoriamente, a probabilidade de sair coroa é igual a",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Matemática – Probabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Seja $f: \\mathbb{R} \\rightarrow \\mathbb{R}$ uma função quadrática, dada por $f(x) = x^2 + bx + c$, com b e c sendo coeficientes reais. Se $f(1) = 2$ e $f(3) - f(2) = -\\frac{1}{2}$, o gráfico de $f(x)$ é",
+      "alternativas": null,
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Matemática – Funções Quadráticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "A figura indica o paralelepípedo reto retângulo ABCDEFGH, que representa o projeto de construção de uma sala de dimensões AB = 6 m, BC = 8 m e CE = 4 m. Os segmentos de retas GB GE BH HM representam conduítes perfeitamente esticados, que serão usados para passar a fiação da sala. Sabe-se, ainda, que M é ponto médio de GE.\nDesconsiderando-se eventuais perdas e desperdícios, a quantidade aproximada de conduíte necessário para realizar esse pro-jeto é de",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Matemática – Geometria Espacial (Paralelepípedos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "O seguinte questionário foi aplicado para 40 estudantes de uma escola de Campinas:\nPergunta 1: Para qual time você torce?\n() Guarani ( ) Ponte Preta ( ) Outro\nPergunta 2: Qual é sua idade?\n() menos de 12 anos.\n() de 12 anos até 14 anos.\n() mais do que 14 anos.\nSabendo-se que cada um dos estudantes assinalou apenas uma alternativa em cada uma das perguntas, os seguintes gráficos foram feitos para expressar os dados da pesquisa:\nGuarani\n5%\nPonte Preta\n15%\nMais do que 14\nanos\n5\nMenos de 12\nanos\n7\nDe 12 anos até 14\nanos\n28\nOutro\n80%\nAnalisando os gráficos, Laura fez as seguintes afirmações sobre os estudantes que responderam a pesquisa:\nI. 82,5% dos estudantes têm 12 anos ou mais de idade;\nII. Pelo menos 20 estudantes de 12 anos até 14 anos não torcem para o Guarani, nem para a Ponte Preta.\nIII. Todos os estudantes que torcem para a Ponte Preta podem ter mais do que 14 anos.\nDas afirmações feitas por Laura, está correto o que consta em",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Matemática – Análise de Gráficos e Tabelas",
+        "Matemática – Estatística"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Considerando-se todos os números naturais de três dígitos, aqueles que possuem pelo menos dois dígitos iguais representam",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudo": "Matemática – Análise Combinatória"
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "A quantidade de movimento, ou momento linear, é uma grandeza vetorial que corresponde ao produto da massa de um objeto pelo seu vetor velocidade. Essa grandeza se conserva nas colisões de dois objetos desde que forças externas possam ser desprezadas.\nConsidere que uma esfera A, de massa m, se desloca, da esquerda para a direita, com velocidade constante de módulo v sobre uma superfície sem atrito. Em dado momento, essa esfera colide frontalmente com outra esfera B, também de massa m e em repouso.\n\nFazem-se as seguintes hipóteses sobre os movimentos das esferas após a colisão:\nI. A esfera B se move para a direita com velocidade de módulo v e a esfera A permanece em repouso.\nII. As esferas permanecem unidas e se movem para a direita com velocidade de módulo $\\frac{v}{2}$.\nIII. A esfera A se move para a esquerda com velocidade de módulo $\\frac{v}{2}$ e a esfera B se move para a direita também com velocidade de módulo $\\frac{v}{2}$.\n\nDas hipóteses acima",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "penas a I I I pode ocorrer."
+        },
+        {
+          "letra": "A",
+          "texto": "penas a I e a II podem ocorrer."
+        },
+        {
+          "letra": "A",
+          "texto": "penas a I e a III podem ocorrer."
+        },
+        {
+          "letra": "A",
+          "texto": "penas a II e a III podem ocorrer."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudo": "Física – Quantidade de Movimento"
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Um objeto inicialmente neutro foi eletrizado, tendo perdido elétrons nesse processo. Denominando a carga elétrica elementar como e, um valor possível para a carga elétrica adquirida por esse objeto após essa eletrização é",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudo": "Física – Eletrostática"
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Atenção: Para responder às questões de números 32 e 33, considere o infográfico a seguir.\n\nUSINA POLIVALENTE\nO sistema gera simultaneamente energia elétrica e água dessalinizada\n\n1. Um painel fotovoltaico de alta concentração gera 5 quilowatts de eletricidade (kWe), suficientes para abastecer residências de 25 famílias. Parte da energia solar captada se dissipa em forma de calor para o ambiente\n2. Microtrocadores de calor instalados atrás do painel capturam uma parcela desse calor e geram 8 quilowatts de energia térmica (kWt), que podem ser usados para alimentar outros processos. Simultaneamente, três coletores solares aquecem a água\n3. No protótipo da Coppe, a energia térmica recuperada do painel solar é usada para aquecer a água salgada que será direcionada a um dessalinizador via destilação por membrana\n4. O sistema é capaz de produzir mil litros de água por dia\n\nFONTE COPPE/UFRJ\n(Disponível em: https://revistapesquisa.fapesp.br)\n\nA imagem ilustra um processo no qual ocorrem transformações de energia, entre elas:",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudo": "Física – Transformações Energéticas"
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Considerando que a água salgada utilizada seja água do mar (concentração de NaCl de $3,0\\% \\text{ m/V}$), a massa de NaCl, em kg, retirada por dia pode chegar a:",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudo": "Química – Soluções e Concentração"
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Nove anos. Este é o prazo para que a temperatura média da atmosfera do planeta se torne $1,5 \\text{ grau Celsius } (^{\\circ}\\text{C})$ mais quente do que era em meados do século XIX, período considerado como base de comparação para o cálculo do valor do atual aquecimento global, que provoca crises climáticas em várias partes do mundo. A previsão tem 50% de chance de ocorrer se as emissões globais de dióxido de carbono (CO$_2$), o principal gás de efeito estufa, mantiverem-se nos níveis de 2022, segundo estudo publicado em novembro na revista científica Earth System Science Data pelo grupo internacional de cientistas que coordena o Global Carbon Project.\n\nDe acordo com o estudo, as emissões de CO$_2$ decorrentes da queima de combustíveis fósseis (petróleo, gás e carvão) atingiram em 2022 cerca de 36,6 bilhões de toneladas, aumento de 1% em relação ao ano anterior. O montante equivale a quase 89% de todo o dióxido de carbono liberado por atividades humanas no planeta. Os 11% restantes do gás vieram de mudanças do uso do solo, sobretudo da derrubada de florestas e vegetação nativa (que, se preservadas, geralmente mais captam do que liberam CO$_2$) para o estabelecimento de atividades da agropecuária, que tendem a produzir mais gases de efeito estufa.\n\n(Disponível em: https://revistapesquisa.fapesp.br)\n\nO aumento das emissões de CO$_2$ decorrentes da queima de combustíveis corresponde a uma quantidade, em mols, dessa substância de, aproximadamente:\n\nDados:\nmassas molares (g/mol)\nC = 12,0\nO = 16,0",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudo": "Química – Estequiometria"
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "A vitamina B5, também denominada ácido pantotênico, é uma das vitaminas hidrossolúveis do complexo B e, como todas elas, é armazenada em pequenas quantidades no organismo.\nO ácido pantotênico é uma vitamina essencial no metabolismo dos mamíferos.\n\n(Disponível em: https://vitaminas.bayer.pt)\n\nAs funções orgânicas observadas na estrutura da vitamina B5 são",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mina e cetona."
+        },
+        {
+          "letra": "A",
+          "texto": "mida e ácido carboxílico."
+        },
+        {
+          "letra": "C",
+          "texto": "etona e álcool."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudo": "Química – Funções Orgânicas"
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Atenção: Para responder às questões de números 36 e 37, considere o texto a seguir.\n\nCom pesquisadores das universidades de São Paulo (USP), Federal do ABC (UFABC) e Federal de São Paulo (Unifesp), a empresa BR Goods desenvolveu um material para a produção de cortinas hospitalares capaz de eliminar vírus, bactérias e fungos, além de retardar a propagação de chamas. \"As cortinas que a empresa fabricava já tinham o efeito retardante de chama. Nosso desafio foi agregar outras funcionalidades\", disse à Agência FAPESP o químico Luciano Avallone, da UFABC, responsável pelo projeto. As fibras usadas nas cortinas são à base de polímeros aos quais foram agregados nanopartículas de prata e óxidos de titânio, magnésio e zinco. Apesar da quantidade de elementos, os pesquisadores conseguiram preservar as propriedades físicas e químicas desejadas. Em geral, quanto maior o número de compostos, menos resistente o polímero. Os resultados preliminares foram considerados bons. \"Agora vamos partir para a segunda fase da pesquisa, na qual faremos adaptações com foco no desenvolvimento do produto\", afirmou.\n\n(Disponível em: https://revistapesquisa.fapesp.br)\n\nEntre os óxidos usados nas cortinas, são classificados como óxido básico e óxido anfótero, respectivamente,",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudo": "Química – Óxidos"
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "A proteção conferida pelo material, a que se refere o texto, se deve aos efeitos que as nanopartículas de prata têm junto às proteínas de membrana e paredes celulares. Em relação à biologia celular,",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudo": "Biologia – Citologia"
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Considere uma molécula de DNA contendo 75 pares de base. Destas bases nitrogenadas, 47 são do tipo timina. Os números de guaninas, adenosinas, timinas e citosinas, respectivamente, são:",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudo": "Biologia – Biologia Molecular"
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "A síntese de DNA e a síntese proteica em eucariontes e procariontes ocorreram, respectivamente:",
+      "alternativas": null,
+      "alternativaCorreta": "C",
+      "conteudo": "Biologia – Citologia"
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Considere a seguinte cadeia trófica que ocorre nas margens de um rio: o capim serve de alimento para lagartas, cujos ovos são consumidos por joaninhas endêmicas, que têm nos ovos da população de lagartas uma fonte de alimentação exclusiva; tais joaninhas, por sua vez, têm como predadores os pássaros locais.\n\nHipoteticamente, houve o rompimento da barragem de uma mineradora local, que derramou toneladas de lama tóxica nas margens do rio, soterrando e matando quase totalmente o capim. Como consequência desse evento, conclui-se que a população do consumidor secundário",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "umentou, em função da sua capacidade de se deslocar para outras regiões e explorar outros nichos ecológicos."
+        },
+        {
+          "letra": "A",
+          "texto": "umentou, em função da diminuição total da biomassa do segundo nível trófico."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudo": "Biologia – Ecologia"
+    }
+  ]
+}

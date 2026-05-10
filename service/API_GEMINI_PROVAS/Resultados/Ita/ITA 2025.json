@@ -1,0 +1,649 @@
+{
+  "nomeUniversidade": "INSTITUTO TECNOLÓGICO DE AERONÁUTICA",
+  "siglaUniversidade": "ITA",
+  "nomeProva": "VESTIBULAR",
+  "ano": 2025,
+  "qtdeQuestoes": 48,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Convenções: Considere o sistema de coordenadas cartesiano, a menos que haja indicação contrária. Os eixos horizontal e vertical são indicados respectivamente por $O_x$ e $O_y$, e o centro do sistema, por $O$. \\\\ $\\mathbb{N} = \\{1, 2, 3, . . .\\}$ : denota o conjunto dos números naturais. \\\\ $\\mathbb{R}$ : denota o conjunto dos números reais. \\\\ $i$ : denota a unidade imaginária, $i^2 = -1$. \\\\ $\\vec{AB}$ : denota o segmento de reta de extremidades nos pontos $A$ e $B$. \\\\ $\\overleftrightarrow{AB}$ : denota a reta que passa pelos pontos $A$ e $B$. \\\\ Questão 1. Seja $z = a + 2i$ um número complexo, em que $a \\in \\mathbb{R}$ é positivo. O valor de $a$ para que as representações de $1, z$ e $z^2$ no plano de Argand-Gauss formem um triângulo de área $200$ é",
+      "alternativas": [],
+      "correct_answer": "B",
+      "conteudos": [
+        "Matemática – Números Complexos",
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Questão 2. Considere as afirmações: \\\\ I. Existe um poliedro formado por $3$ faces triangulares e as demais faces quadrangulares. \\\\ II. Existe um poliedro não convexo com $5$ vértices, $9$ arestas e $6$ faces. \\\\ III. Existe um poliedro convexo com $7$ vértices, $16$ arestas e $11$ faces. \\\\ Está(ão) correta(s):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "penas III."
+        },
+        {
+          "letra": "A",
+          "texto": "penas II."
+        }
+      ],
+      "correct_answer": "E",
+      "conteudos": [
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Questão 3. O termo independente da expansão de $$(x + \\frac{1}{x})^6 (x - \\frac{2}{x^2})^5$$ é",
+      "alternativas": [],
+      "correct_answer": "C",
+      "conteudos": [
+        "Matemática – Binômio de Newton"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Questão 4. Sejam $f(x)$ e $g(x)$ funções reais definidas para todo $x \\in \\mathbb{R}$. Se para todo $x > 0$ vale a igualdade $g(x^2) = f(2x^2 - x + 1)$, podemos afirmar que",
+      "alternativas": [],
+      "correct_answer": "D",
+      "conteudos": [
+        "Matemática – Funções"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Questão 5. Sejam $(a_n)_{n \\in \\mathbb{N}}$ e $(b_n)_{n \\in \\mathbb{N}}$ duas sequências numéricas tais que $$S_n = \\sum_{k=1}^n a_k = b_{n+1} - b_1 \\text{ para todo } n \\in \\mathbb{N}.$$ Considere as afirmações abaixo: \\\\ I. Se $(b_n)_{n \\in \\mathbb{N}}$ é uma PG, então $(a_n)_{n \\in \\mathbb{N}}$ também é PG. \\\\ II. Se $(a_n)_{n \\in \\mathbb{N}}$ é uma PG, então $(b_n)_{n \\in \\mathbb{N}}$ também é PG. \\\\ III. Se $(a_n)_{n \\in \\mathbb{N}}$ é uma PA, então $(S_n)_{n \\in \\mathbb{N}}$ também é PA. \\\\ Está(ão) correta(s):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "penas I."
+        }
+      ],
+      "correct_answer": "D",
+      "conteudos": [
+        "Matemática – Sequências Numéricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Questão 6. O conjunto de todos os valores $a \\in \\mathbb{R}$ para os quais a equação $9^x - (3a + 4)3^x + 2a^2 + 9a - 5 = 0$ tem duas soluções reais distintas é",
+      "alternativas": [],
+      "correct_answer": "B",
+      "conteudos": [
+        "Matemática – Equações Exponenciais",
+        "Matemática – Funções Quadráticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Questão 7. Sejam $m, n$ e $k$ números reais. Considere os sistemas abaixo: \\\\ I: $$\\begin{cases} x + y + z = 1 \\\\ x + 2y - z = 2 \\\\ 2x + y + 4z = 1 \\end{cases}$$ \\\\ II : $$\\begin{cases} x + y + z = 1 \\\\ x + my + nz = 5 \\\\ kx + y - z = 3m + 2n \\end{cases}$$ \\\\ Sabendo-se que os dois sistemas são equivalentes (isto é, possuem o mesmo conjunto solução), o valor de $k$ é",
+      "alternativas": [],
+      "correct_answer": "A",
+      "conteudos": [
+        "Matemática – Sistemas Lineares"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Questão 8. Considere a função $$f(x) = \\sqrt{\\frac{2sen(2x) + 2sen(x) - 2 cos(x) - 1}{8(cos(2x) + 1)}}$$ \\\\ Seja $I = (a, b)$ o intervalo de maior comprimento contido em $[-\\pi, 2\\pi]$ tal que $f(x)$ está definida para todo $x \\in I$. O valor de $a + b$ é",
+      "alternativas": [],
+      "correct_answer": "E",
+      "conteudos": [
+        "Matemática – Funções Trigonométricas",
+        "Matemática – Domínio de Funções"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Questão 9. Duas circunferências $C_1$ e $C_2$ de centros $O_1$ e $O_2$, respectivamente, têm raio igual a $5$ cm e se interceptam nos pontos $P$ e $Q$, determinando uma corda comum $PQ$ de tamanho $6$ cm. As interseções de cada circunferência com o segmento $O_1O_2$ determinam os pontos $R$ em $C_1$ e $S$ em $C_2$. O volume do sólido de revolução obtido pela rotação do triângulo $PO_1R$ em torno da reta $O_1O_2$ é, em $cm^3$, igual a",
+      "alternativas": [],
+      "correct_answer": "Anulada",
+      "conteudos": [
+        "Matemática – Geometria Plana",
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Questão 10. Uma raiz comum aos polinômios $p(x) = x^5 - x^3 + 12x - 18$ e $q(x) = x^4 - x^3 + 5x - 3$ é",
+      "alternativas": [],
+      "correct_answer": "D",
+      "conteudos": [
+        "Matemática – Polinômios"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Questão 11. Seja $H$ uma hipérbole no plano cartesiano cujos focos são comuns aos focos da elipse $E: \\frac{x^2}{4} + y^2 = 1$. Seja $P$ um ponto de intersecção de $E$ e $H$ no primeiro quadrante e $O$ a origem do sistema cartesiano. Sabendo que $\\vec{OP}$ forma um ângulo $\\theta$ com o eixo horizontal $O_x$, com $tan(\\theta) = \\frac{\\sqrt{3}}{6}$, a excentricidade de $H$ é",
+      "alternativas": [],
+      "correct_answer": "A",
+      "conteudos": [
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Questão 12. Um número $m \\in \\mathbb{N}$, ao ser multiplicado por $16$, resulta em um número com $231$ divisores inteiros positivos. Considere as afirmações: \\\\ I. $m$ é um número par. \\\\ II. $m$ é um quadrado perfeito. \\\\ III. $16m$ tem $3$ fatores primos distintos. \\\\ É(São) VERDADEIRA(S):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "penas I."
+        },
+        {
+          "letra": "A",
+          "texto": "penas II."
+        }
+      ],
+      "correct_answer": "C",
+      "conteudos": [
+        "Matemática – Teoria dos Números"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Quando necessário, use os seguintes valores para as constantes: \\\\ Aceleração local da gravidade $g = 10 \\text{ m/s}^2$. \\\\ Constante de gravitação universal $G = 6,7 \\times 10^{-11} \\text{ N \\cdot m}^2\\text{/kg}^2$. \\\\ Massa da Terra $M_{\\text{Terra}} = 6,0 \\times 10^{24} \\text{ kg}$. \\\\ Constante de Planck vezes a velocidade da luz $hc = 1240 \\text{ eV \\cdot nm}$. \\\\ Permissividade elétrica no vácuo $\\varepsilon_0 = 8,85 \\times 10^{-12} \\text{ C}^2\\text{ \\cdot N}^{-1}\\text{ \\cdot m}^{-2}$. \\\\ Questão 13. Considere uma partícula cuja posição é dada pela função horária $$x(t) = \\sqrt{D^2 + (Vt - D)^2},$$ em que $V$ e $D$ são constantes positivas, com unidades adequadas. Seja $v(t)$ a velocidade média do móvel entre o instante inicial $t_0 = 0 \\text{ s}$ e um instante arbitrário $t$. Assinale a alternativa que contém a distância percorrida pela partícula desde o início do movimento até o instante no qual $v(t) = 0 \\text{ m/s}$.",
+      "alternativas": [],
+      "correct_answer": "B",
+      "conteudos": [
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Questão 14. Um carrinho realiza um percurso sobre um trilho em um plano vertical, como mostra a figura ao lado. Partindo do repouso no ponto A, ele percorre uma distância $l$ até o ponto B com aceleração constante $a_0$. Ao chegar ao ponto B, segue uma trajetória circular de raio R sob a ação da aceleração gravitacional até o ponto C. Então, passa a executar um movimento retilíneo uniforme. Ao chegar ao ponto D, realiza uma colisão perfeitamente inelástica com um outro carrinho de mesma massa. \\\\ Desconsiderando efeitos de forças de atrito, assinale a alternativa que corresponde ao módulo da velocidade do carrinho após o choque.",
+      "alternativas": [],
+      "correct_answer": "A",
+      "conteudos": [
+        "Física – Dinâmica",
+        "Física – Energia Mecânica",
+        "Física – Conservação do Momento Linear"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Questão 15. Um explorador em um planeta exótico, circundado por um satélite natural, observa que o intervalo de tempo entre as fases cheia e nova de seu satélite é de $58$ dias terrestres. Sabe-se que a massa desse planeta é igual à massa da Terra e muito maior que a massa de seu satélite. \\\\ Assinale a alternativa que contém a estimativa correta da distância entre o planeta exótico e seu satélite.",
+      "alternativas": [],
+      "correct_answer": "B",
+      "conteudos": [
+        "Física – Gravitação"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Questão 16. Considere três osciladores massa-mola independentes ($1, 2$ e $3$) de massa $m$ e constantes elásticas $k_1, k_2$ e $k_3$, respectivamente. O tempo que o sistema massa-mola $1$ leva para completar uma oscilação é igual ao tempo que o sistema massa-mola $2$ leva para completar duas oscilações e ao tempo que o sistema massa-mola $3$ leva para completar três oscilações. Agora considere um sistema composto por essas mesmas três molas acopladas em série e colocadas para oscilar junto a um objeto de massa $4m$. \\\\ Assinale a alternativa que contém o valor numérico mais próximo da razão entre a frequência do sistema massa-mola $1$ e a frequência do sistema massa-mola em série.",
+      "alternativas": [],
+      "correct_answer": "D",
+      "conteudos": [
+        "Física – Ondas e Oscilações"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Questão 17. Uma barra homogênea e fina de seção reta circular A e comprimento L tem uma de suas extremidades fixas a uma articulação, podendo girar sem atrito. As figuras abaixo mostram duas situações nas quais a barra se encontra em equilíbrio estático. No primeiro caso, a barra está parcialmente mergulhada em uma cuba preenchida com um líquido, de forma que 25% de seu comprimento ficam submersos, conforme a figura (a). No segundo caso, um objeto pontual, com 50% da massa da barra, está fixado em sua extremidade livre, como ilustra a figura (b).\nAssinale a alternativa correspondente ao novo comprimento submerso da barra na situação exposta na figura (b).",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudo": "Física – Estática de Fluidos"
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Questão 18. Um recipiente de paredes diatérmicas é dividido ao meio por um êmbolo de área A. O lado esquerdo do êmbolo é conectado ao recipiente por uma mola ideal de constante elástica k, em uma região onde há vácuo. No lado direito do êmbolo, há um gás ideal a uma pressão inicial $P_0$. Então, uma quantidade Q de calor é transferida a esse gás por um processo reversível e isotérmico.\nAssinale a alternativa que fornece a diferença entre o comprimento natural da mola e o seu comprimento ao final do processo descrito.",
+      "alternativas": [],
+      "alternativaCorreta": "*",
+      "conteudo": "Física – Termodinâmica"
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Questão 19. O estetoscópio é um instrumento amplamente utilizado por profissionais de saúde para auscultar sons internos do corpo humano, como batimentos cardíacos e fluxo sanguíneo. Considere o modelo simplificado de um estetoscópio, ilustrado na figura, composto de um cone truncado de bases circulares, cuja base maior possui raio $R_1$, e a base menor, raio $R_2$. Nos cilindros, perfeitamente conectados em cada base, há pistões finos e rígidos de massa desprezível, que podem se mover para cima e para baixo sem atrito. Considere que a onda sonora atinge toda a superfície do pistão maior e que sua energia é transferida integralmente para o pistão menor.\nAssinale a alternativa que corresponde à amplificação, em dB, em função dos raios das extremidades do estetoscópio.",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudo": "Física – Acústica; Fenômenos Ondulatórios"
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Questão 20. O arco-íris é um fenômeno meteorológico de grande beleza e com profundo simbolismo para diferentes culturas. Sua explicação física foi debatida desde a antiguidade até o início da idade moderna. A respeito desse fenômeno, são feitas as seguintes afirmações:\nI. Cada componente de comprimento de onda da luz do Sol que incide sobre uma gotícula de água suspensa na atmosfera emerge com o mesmo ângulo de espalhamento.\nII. Para a formação do arco-íris, são necessárias tanto a ocorrência de refração quanto a de reflexão da luz.\nIII. O efeito visual do arco-íris é resultado de a luz do Sol ser policromática e de a água ser um meio dispersivo na faixa do espectro eletromagnético visível.\nEstá(ão) correta(s):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "penas I."
+        },
+        {
+          "letra": "A",
+          "texto": "penas I e II."
+        },
+        {
+          "letra": "A",
+          "texto": "penas I e III."
+        },
+        {
+          "letra": "A",
+          "texto": "penas II e III."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudo": "Física – Óptica Geométrica; Fenômenos Ondulatórios"
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Questão 21. Considere um tanque cúbico metálico de lado $L+a$ ($L \\gg a$), aberto no topo, preenchido com água e óleo. O tanque contém, no seu interior, um cubo metálico de lado $L$, com 5 de seus lados totalmente submersos e o outro emerso na superfície, centralizado com a face aberta do tanque. Uma diferença de potencial de V é estabelecida entre o cubo e o tanque, de forma que o sistema atue como um capacitor. A vista frontal do sistema encontra-se ilustrada na figura ao lado. Sabe-se que o óleo possui uma densidade de $d_o = 0,90$ g/cm³ e constante dielétrica $\\kappa_o$, que a água tem uma densidade igual a $d_a = 1,0$ g/cm³ e constante dielétrica $\\kappa_a$ e que a densidade do cubo é $d_c = 0,92$ g/cm³.\nDesconsiderando efeitos de borda, assinale a alternativa que fornece a capacitância do sistema.",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudo": "Física – Eletrostática"
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Questão 22. Com o intuito de medir a resistência elétrica de um resistor $R_x$, foi montado o circuito mostrado na figura. Nesse circuito, sabe-se que os resistores $R_1$ e $R_3$ possuem resistências de $20 \\ \\Omega$ e $30 \\ \\Omega$, respectivamente, e que $R_2$ é um reostato cuja resistência pode variar de $0 \\ \\Omega$ a $100 \\ \\Omega$. Foi feito um experimento em que, à medida que a resistência $R_2$ era variada, a voltagem entre os pontos C e B era medida por um voltímetro V. Os resultados das medições estão apresentados no gráfico.\nSabendo que a tensão da fonte é contínua e possui um valor de $12,0 \\ V$, assinale a alternativa que corresponde ao valor aproximado da resistência elétrica $R_x$.",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudo": "Física – Eletrodinâmica"
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Questão 23. Um campo magnético diminui ao longo do tempo a uma taxa fixa de $(20\\vec{i} – 10\\vec{j}+12\\vec{k}) \\ T/s$. Considere uma circunferência feita com material cuja resistência por unidade de comprimento vale $3 \\ \\Omega/m$ e que passa pela origem e pelos pontos $(4 \\ m, \\ 0 \\ m, \\ 0 \\ m)$ e $(2 \\ m, \\ 2 \\ m, \\ 0 \\ m)$.\nAssinale a alternativa que corresponde ao valor da corrente que flui pela circunferência.",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudo": "Física – Eletromagnetismo"
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Questão 24. O efeito Raman ocorre quando há o espalhamento inelástico da luz pela matéria, de forma que o fóton espalhado contém um pequeno decremento ou incremento de um quantum de energia relacionado a transições entre modos vibracionais na matéria. Em um experimento realizado a temperatura ambiente, um fóton incidente de comprimento de onda de $620 \\ nm$ é espalhado por um cristal, resultando em um fóton espalhado com comprimento de onda de $590 \\ nm$. Suponha que esse mesmo cristal, submetido à mesma radiação incidente, seja mantido a uma temperatura próxima ao zero absoluto, de tal forma que somente um modo vibracional esteja envolvido no espalhamento inelástico.\nAssinale a alternativa que corresponde ao comprimento de onda do fóton espalhado.",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudo": "Física – Física Moderna; Efeitos Quânticos"
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Questão 25. São feitas as seguintes afirmações sobre processos de combustão:\nI. A velocidade de propagação da chama é a velocidade com que a frente de chama se move através de uma mistura reagente.\nII. Um combustível pode gerar uma chama azul ou amarela, sendo esta última a de maior energia.\nIII. A detonação é um tipo de combustão que ocorre à alta pressão e temperatura, em que a onda de choque se propaga em velocidade supersônica.\nIV. Reações de combustão não sofrem efeitos catalíticos.\nEstão CORRETAS",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "penas I e II."
+        },
+        {
+          "letra": "A",
+          "texto": "penas I e III."
+        },
+        {
+          "letra": "A",
+          "texto": "penas II e III."
+        },
+        {
+          "letra": "A",
+          "texto": "penas II e IV."
+        },
+        {
+          "letra": "A",
+          "texto": "penas III e IV."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudo": "Química – Termoquímica; Cinética Química"
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Questão 26. Considere a seguinte equação química que representa a reação do composto $C_8H_{16}$:\n$$C_8H_{16} \\xrightarrow{(1) \\ KMnO_4 \\ conc., \\ H_2O, \\ OH^-, \\ calor \\newline (2) \\ H^+} CH_3(CH_2)_3COOH + Y.$$\nSão feitas as seguintes afirmações a respeito da reação:\nI. O produto Y é, majoritariamente, o propanal.\nII. O alqueno reagente pode ser o cis-oct-3-eno.\nIII. O alqueno reagente pode ser o trans-oct-3-eno.\nIV. A reação, nas condições mencionadas, é de oxidação, portanto leva à formação majoritária de compostos oxidados.\nAssinale a opção que contém a(s) afirmação(ões) ERRADA(S).",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "penas I."
+        },
+        {
+          "letra": "A",
+          "texto": "penas I e II."
+        },
+        {
+          "letra": "A",
+          "texto": "penas I, III e IV."
+        },
+        {
+          "letra": "A",
+          "texto": "penas II e IV."
+        },
+        {
+          "letra": "A",
+          "texto": "penas III e IV."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudo": "Química – Química Orgânica; Reações de Oxidação"
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Questão 27. Considere as seguintes afirmações relacionadas a propriedades periódicas:\nI. Os gases nobres não possuem tendência em receber elétrons, porque qualquer elétron adicionado deve ocupar um orbital exterior a uma camada completa e distante do núcleo.\nII. O raio iônico do $As^{3-}$ é menor que do $Se^{2-}$.\nIII. A primeira energia de ionização do P é menor que a primeira energia de ionização do S.\nIV. O raio atômico do Na é maior que o raio atômico do Mg.\nAssinale a opção que contém a(s) afirmação(ões) CORRETA(S).",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "penas I, II e IV."
+        },
+        {
+          "letra": "A",
+          "texto": "penas I e IV."
+        },
+        {
+          "letra": "A",
+          "texto": "penas II e III."
+        },
+        {
+          "letra": "A",
+          "texto": "penas III."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudo": "Química – Propriedades Periódicas"
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Questão 28. O volume de $400 \\ mL$ de ar foi recolhido em um recipiente hermético, a bordo de um avião em voo, à pressão interna de $0,8 \\ atm$ e $30 \\ °C$. Após o pouso, o ar foi transferido para um instrumento de medição em solo em condições ambiente. Assinale a alternativa que apresenta aproximadamente o volume de ar, em $mL$, medido pelo instrumento em solo.",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudo": "Química – Estequiometria; Gases"
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Questão 29. Para quantificar o ácido ascórbico ($C_6H_8O_6$) em uma amostra de alimento, foram adicionados $100 \\ mL$ de uma solução aquosa $0,005 \\ mol\\cdot L^{-1}$ em $I_2$. Após a reação completa do ácido ascórbico, o $I_2$ remanescente foi titulado com uma solução aquosa $0,005 \\ mol\\cdot L^{-1}$ em $Na_2S_2O_3$, sendo utilizados $20 \\ mL$ dessa solução até o ponto de equivalência.\n$$C_6H_8O_6(aq) + I_2(aq) \\rightarrow 2H^+(aq) + 2I^-(aq) + C_6H_6O_6(aq)$$\n$$I_2(aq) + 2S_2O_3^{2-}(aq) \\rightarrow 2I^-(aq) + S_4O_6^{2-}(aq)$$\nConsidere as seguintes afirmações sobre a reação:\nI. Entre $I_2$ e o ácido ascórbico, há uma reação de oxirredução, em que o ácido ascórbico age como agente redutor, e o $I_2$, como agente oxidante.\nII. A quantidade de ácido ascórbico presente na amostra é de aproximadamente $0,08 \\ g$.\nIII. Após a titulação de neutralização do ácido ascórbico ($pKa_1 = 4,17$) com $I_2$, no ponto de equivalência, o pH da solução resultante é maior que $7,0$.\nIV. O $I_2$ pode ser substituído por $Br_2$ como titulante no processo de quantificação do ácido ascórbico por titulação.\nCom base nas afirmações acima, estão CORRETAS",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "penas I e II."
+        },
+        {
+          "letra": "A",
+          "texto": "penas I, II e IV."
+        },
+        {
+          "letra": "A",
+          "texto": "penas I e III."
+        },
+        {
+          "letra": "A",
+          "texto": "penas III e IV."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudo": "Química – Reações de Oxirredução; Titulometria"
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Questão 30. Considere a seguinte reação química não balanceada de obtenção do ferro:\n$$Fe_2O_3(s) + C(s) \\rightarrow Fe(s) + CO_2(g).$$\nSão fornecidos os seguintes dados termodinâmicos:\n$\\Delta H^o_f(CO_2) = -393,5 \\ kJ\\cdot mol^{-1}$\n$S^o_m(CO_2) = 213,7 \\ J\\cdot K^{-1} \\cdot mol^{-1}$\n$S^o_m(C) = 5,7 \\ J\\cdot K^{-1} \\cdot mol^{-1}$\n$\\Delta H^o_f(Fe_2O_3) = -824,2 \\ kJ\\cdot mol^{-1}$\n$S^o_m(Fe_2O_3) = 87,4 \\ J\\cdot K^{-1} \\cdot mol^{-1}$\n$S^o_m(Fe) = 27,3 \\ J\\cdot K^{-1} \\cdot mol^{-1}$\nAssinale a opção que apresenta a temperatura mínima, em $°C$, para que essa reação seja espontânea.",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudo": "Química – Termodinâmica Química; Espontaneidade de Reações"
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Questão 31. Uma determinada reação química “A” tem a mesma ordem e o mesmo fator pré-exponencial ($k_0$) do que uma reação química “B”. Considerando que a energia de ativação da reação “A” é $8,31 \\ kJ\\cdot mol^{-1}$ maior do que a energia de ativação da reação “B”, assinale a alternativa que apresenta a relação entre as constantes de velocidade dessas reações a $227 \\ °C$.",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudo": "Química – Cinética Química"
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Questão 32. Considere que dois átomos de Cl da molécula $PCl_5$ são substituídos por dois átomos de F. Considerando todas as possibilidades de substituição, sejam elas distinguíveis ou indistinguíveis, assinale a alternativa que apresenta a proporção do número de possibilidades de moléculas apolares e polares, respectivamente, em relação ao total.",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudo": "Química – Ligações Químicas; Geometria Molecular"
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Um dos procedimentos mais utilizados para purificação de alguns sais é descrito abaixo:\n\nI. lavagem com água gelada;\nII. adição de uma certa quantidade de água para a obtenção de uma solução saturada à alta temperatura e aquecimento dessa mistura até total dissolução do sal;\nIII. filtração a quente;\nIV. resfriamento controlado da solução sob agitação.\n\nA respeito do procedimento descrito, assinale a opção que contém a afirmação ERRADA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "lavagem com água gelada é realizada para remover as impurezas solúveis em água, evitando maiores perdas do sal."
+        },
+        {
+          "letra": "A",
+          "texto": "curva de solubilidade do sal em água é fundamental para determinação da temperatura de aquecimento da mistura."
+        },
+        {
+          "letra": "A",
+          "texto": "filtração a quente é realizada para remoção das impurezas solúveis em água, evitando perdas do sal."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Química – Recristalização"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Assinale a opção que apresenta a afirmação ERRADA a respeito de processos termodinâmicos.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "variação de energia interna de um processo de expansão isotérmica de um gás ideal é igual a zero."
+        },
+        {
+          "letra": "A",
+          "texto": "variação de energia de Gibbs é menor do que zero em um processo de precipitação de uma substância a partir de uma solução supersaturada."
+        },
+        {
+          "letra": "A",
+          "texto": "variação de entalpia de um processo de compressão isobárica é igual ao calor trocado."
+        },
+        {
+          "letra": "A",
+          "texto": "variação de entropia de fusão de uma substância independe da temperatura à pressão constante."
+        },
+        {
+          "letra": "A",
+          "texto": "variação de entropia da vizinhança é igual a zero em um processo de expansão adiabática."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Química – Termodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Assinale a opção que contém o valor ERRADO do número de oxidação de átomos de carbono em diferentes compostos.",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Química – Números de Oxidação em Compostos Orgânicos"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Uma mistura de gases hipotéticos $A_2$ e $B_2$ pode reagir na presença de luz. Sabendo-se que a energia mínima do fóton para iniciar a reação entre os gases é de $2,3 \\ \\text{eV}$, assinale a alternativa que apresenta o tipo de laser de menor energia que possibilita a ocorrência da reação.\n\nDados eventualmente necessários: $\\lambda_{violeta} = 405 \\times 10^{-9} \\ \\text{m}$, $\\lambda_{verde} = 532 \\times 10^{-9} \\ \\text{m}$ e $\\lambda_{vermelha} = 650 \\times 10^{-9} \\ \\text{m}$.",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Química – Fotoquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Leia o texto a seguir para responder às questões de 37 a 39.\n\n“In recent years, no more than a week goes by without news of a cosmic discovery worthy of banner headlines. While media gatekeepers may have developed an interest in the universe, this rise in coverage likely comes from a genuine increase in the public's appetite for science. Evidence for this abounds, from hit television shows inspired or informed by science, to the success of science fiction films starring marquee actors, and brought to the screens by celebrated producers and directors. And lately, theatrical release biopics featuring important scientists have become a genre unto itself. There's also widespread interest around the world in science festivals, science fiction conventions, and documentaries for television.\n\nThe highest grossing film of all time is by a famous director who set his story on a planet orbiting a distant star. And it features a famous actress who plays an astrobiologist. While most branches of science have ascended in this era, the field of astrophysics persistently rises to the top. I think I know why. At one time or another every one of us has looked up at night sky and wondered: What does it all mean? How does it all work? And, what is my place in the universe? [. . . ]\"\n\nFonte: TYSON, Neil DeGrasse. Astrophysics for people in a hurry. United States of America: W. W. Norton & Company, Inc., 2017.\n\nQuestão 37. De acordo com as informações encontradas no texto, é CORRETO afirmar que",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "No excerto retirado do segundo parágrafo do texto, “While most branches of science have ascended in this era, the field of astrophysics persistently rises to the top”, o termo WHILE estabelece, entre as orações, a ideia de",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "ontraste."
+        },
+        {
+          "letra": "C",
+          "texto": "onsequência."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Inglês – Conectivos e Coesão Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Na passagem do texto “The highest grossing film of all time is by a famous director who set his story on a planet orbiting a distant star.”, a expressão sublinhada pode ser traduzida como:",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Leia o texto a seguir para responder às questões de 40 a 42.\n\nWhat links Sir Isaac Newton, alien solar systems, and a new multi-million dollar TV show ?\nThe answer is “the three-body problem”: a conundrum in astronomy and mathematics that describes why it's often difficult to predict the long-term trajectory of planets, moons and stars.\nSo, what exactly is the problem? And how did it end up becoming the title of a TV series?\nTo understand, you first need to know a bit about the background to the TV show, and its premise. The story is based on Liu Cixin's epic sci-fi trilogy, the Remembrance of Earth's Past, of which The Three-body Problem is the first book. The original trilogy is characterised by the author's attention to scientific detail. The adaptation is less so, but still crammed with scientific ideas.\nThe TV series focuses on the “Oxford Five”, who all studied under the same professor at the University of Oxford. Some have gone on to become scientists themselves (a post-doctoral physics researcher, a founder and chief scientific officer of a nano-tech company, and a theoretical physics academic), one has become a school physics teacher, while the fifth is now a snack-food entrepreneur. Scientific credentials abound.\nThe crux of the story is that an alien race called the Trisolarans or San-Ti Ren - is headed to Earth to colonise it. Through intergalactic communication, these travellers attempt to intimidate human scientists into slowing down our rapid technological advancement, making Earth easier to conquer. But why are these aliens so hell-bent on taking over our planet in the first place? This is where the three-body problem comes in.\nBodies, in this context, is a scientific byword for planets, moons, suns or any other massive astronomical object. The extraterrestrials' home planet is situated in a solar system with three suns, hence their name in the English translation of the book – the Trisolarans. This three-sun system can be highly unstable, making conditions difficult for life, hence the desire to travel across the Universe in order to inhabit our relatively stable Solar System. We only have one Sun, so Earth's future is relatively predictable – at least for the next few million years.\nFonte: YATES, kit. What is the three-body problem? The chaotic, cosmic mathematics behind the Netflix TV show. BBC, 2024. Disponível em: https://www.bbc.com/future/article/20240328-the-science-astronomy-and-mathematics-of-netflixs-3-body-problem-tv-show. Adaptado.\n\nQuestão 40. According to the text, “the three-body problem” in astronomy and mathematics can be described as",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "difficulty in foreseeing the way celestial bodies will behave while moving around in space into the future."
+        },
+        {
+          "letra": "A",
+          "texto": "group meeting of former students at the University of Oxford, known as “The Oxford Five\"."
+        },
+        {
+          "letra": "A",
+          "texto": "theory which describes the events that takes place in a distant galaxy with three suns."
+        },
+        {
+          "letra": "A",
+          "texto": "theory on how to measure the distances between three celestial bodies."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "According to the text, the TV series mentioned",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "No excerto “The extraterrestrials' home planet is situated in a solar system with three suns, hence their name in the English translation of the book – the Trisolarans. This three-sun system can be highly unstable, making conditions difficult for life, hence the desire to travel across the Universe in order to inhabit our relatively stable Solar System.”, retirado do 5º parágrafo, o termo HENCE pode ser substituído em ambas as ocorrências, sem alteração de sentido, por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "nd therefore."
+        },
+        {
+          "letra": "A",
+          "texto": "nd nevertheless."
+        },
+        {
+          "letra": "A",
+          "texto": "nd because of."
+        },
+        {
+          "letra": "A",
+          "texto": "nd although."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Leia o texto a seguir para responder às questões de 43 e 44.\n\nThe early development of radar was driven primarily by military imperatives, and the targets that were to be detected were mainly aircraft and ships. It was no surprise that echoes were also received from terrain and from rainstorms, but the discovery, during World War II, that birds were often detectable was less expected. As the technology developed, and specially after transmission at the shorter ‘microwave' wavelengths became commonplace, echoes from insects were also identified. In the late 1940's and the 1950's, radar technology was adapted rapidly to the needs of meteorologists, while ornithologists pioneered the use of defence and air-traffic control radars to study bird migration.\nRadar observations of insects, however, were relatively sparse until the early 1960's, when radar meteorologists became rather intensely interested in a type of warm-weather echo that appeared, puzzlingly from their perspective, when there was not a cloud in sight. Perhaps spurred by the meteorologists' observations, entomologists began their own exploitation of the technology in 1968, when a rather modest radar, built by G.W. Schaefer specifically for insect observation and operated in West Africa just south of the Sahara, proved to be very effective.\nFonte: DRAKE, V.A. and REYNOLDS, D.R. Radar Entomology: Observing Insect Flight and Migration. CAB Internacional, 2012.\n\nQuestão 43. De acordo com o texto, uma descoberta que causou surpresa aos usuários de radares durante a Segunda Guerra Mundial foi a capacidade do radar em detectar",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "aracterísticas geográficas."
+        },
+        {
+          "letra": "A",
+          "texto": "eronaves e navios."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "No excerto “. . . puzzlingly from their perspective, when there was not a cloud in sight.”, retirado do 2º parágrafo, o termo PUZZLINGLY indica que os meteorologistas estavam diante de uma situação",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "linhada às suas expectativas."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Leia o texto a seguir para responder às questões de 45 a 48.\n\nAs scientists explore AI-written text, journals hammer out policies\nMany ask authors to disclose use of ChatGPT and other generative artificial intelligence\n\n\"It's all we've been talking about since November,” says Patrick Franzen, publishing director for SPIE, the international society for optics and photonics. He's referring to ChatGPT, the artificial intelligence (AI) - powered chatbot unveiled that month. In response to a prompt, ChatGPT can spin out fluent and seemingly well-informed reports, essays — and scientific manuscripts. Worried about the ethics and accuracy of such content, Franzen and managers at other journals are scrambling to protect the scholarly literature from a potential flood of manuscripts written in whole or part by computer programs.\nSome publishers have not yet formulated policies. Most of those that have avoid an outright ban on AI-generated text, but ask authors to disclose their use of the automated tools, as SPIE is likely to do. For now, editors and peer reviewers have few alternatives, as they lack enforcement tools. No software so far can consistently detect the synthetic text the majority of the time.[. . .]\nIn some cases, the resulting text is indistinguishable from what people would write.\nFor example, researchers who read medical journal abstracts generated by ChatGPT failed to identify one-third of them as written by machine, according to a December 2022 preprint. AI developers are expected to create even more powerful versions, including ones trained specifi-cally on scientific literature - a prospect that has sent a shock wave through the scholarly publishing industry.\nSo far, scientists report playing around with ChatGPT to explore its capabilities, and a few have listed ChatGPT as a co-author on manuscripts. Publishing experts worry such limited use could morph into a spike of manuscripts containing substantial chunks of AI-written text.\nFonte: BRAINARD, Jeffrey. As scientists explore AI-written text, journals hammer out policies. Science, v. 379, n. 6634, p. 740-741, 22 fev.2023. Disponível em https://www.science.org/content/article/scientists-explore-ai-written-text-journals-hammer-policies.\n\nQuestão 45. According to the text, some publishers of scientific journals are concerned about the",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Considerando o teor do artigo, assinale a tradução mais coerente para o título “As scientists explore AI-written text, journals hammer out policies\".",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ssim como os cientistas exploram o texto gerado por IA, jornais elaboram políticas."
+        },
+        {
+          "letra": "E",
+          "texto": "nquanto os cientistas exploram o texto gerado por IA, jornais golpeiam políticas."
+        },
+        {
+          "letra": "D",
+          "texto": "a mesma forma como os cientistas exploram o texto gerado por IA, periódicos fecham acordos políticos."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Inglês – Tradução"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Leia as asserções destacadas e, em seguida, assinale a alternativa CORRETA.\n\nI. Pesquisadores acostumados a ler artigos de periódicos médicos não conseguem compreender um terço das publicações.\nII. Por ora, editores e revisores de publicações científicas têm dificuldades para identificar, de forma consistente, textos gerados por IA dada a escassez de softwares especializados.\nIII. Responsáveis por publicações científicas estão relutantes em coibir o uso de geradores de texto por computador, temendo uma potencial enxurrada de críticas por parte da comunidade acadêmica.\nIV. A publicação de prospectos gerados por IA, contendo novas versões de alguns artigos científicos específicos, causou uma onda de choque na indústria editorial acadêmica.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "penas a asserção II é verdadeira."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "No trecho do último parágrafo do texto“... to explore its capabilities ...”, o termo ITS refere-se a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I developers."
+        },
+        {
+          "letra": "C",
+          "texto": "hatGPT."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Inglês – Pronomes e Referência Textual"
+      ]
+    }
+  ]
+}

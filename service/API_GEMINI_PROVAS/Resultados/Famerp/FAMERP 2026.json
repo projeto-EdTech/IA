@@ -1,0 +1,1629 @@
+{
+  "nomeUniversidade": "Faculdade de Medicina de São José do Rio Preto",
+  "siglaUniversidade": "FAMERP",
+  "nomeProva": "Vestibular",
+  "ano": 2026,
+  "qtdeQuestoes": 80,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Examine o meme publicado pelo perfil @itoldmy.therapist no Instagram em 23.10.2024.\n*me telling my mom a secret*\nmy mom the next day:\nNo meme, o autor caracteriza sua mãe como uma pessoa",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "impulsiva."
+        },
+        {
+          "letra": "B",
+          "texto": "sensível."
+        },
+        {
+          "letra": "C",
+          "texto": "indiscreta."
+        },
+        {
+          "letra": "D",
+          "texto": "rancorosa."
+        },
+        {
+          "letra": "E",
+          "texto": "carismática."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Gêneros Textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Para responder às questões de 02 a 05, leia o soneto \"Tortura”, da poeta portuguesa Florbela Espanca (1894-1930).\nTirar dentro do peito a Emoção,\nA lúcida Verdade, o Sentimento!\nE ser, depois de vir do coração,\nUm punhado de cinza esparso ao vento!...\n\nSonhar um verso de alto pensamento,\nE puro como um ritmo de oração!\nE ser, depois de vir do coração,\nO pó, o nada, o sonho dum momento...\n\nSão assim ocos, rudes, os meus versos:\nRimas perdidas, vendavais dispersos,\nCom que eu iludo os outros, com que minto!\n\nQuem me dera encontrar o verso puro,\nO verso altivo e forte, estranho e duro,\nQue dissesse, a chorar, isto que sinto!!\n(Florbela Espanca. Sonetos, 2025.)\nO soneto de Florbela Espanca caracteriza-se, sobretudo, pelo seu teor",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "religioso."
+        },
+        {
+          "letra": "B",
+          "texto": "social."
+        },
+        {
+          "letra": "C",
+          "texto": "nostálgico."
+        },
+        {
+          "letra": "D",
+          "texto": "metalinguístico."
+        },
+        {
+          "letra": "E",
+          "texto": "irônico."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Língua Portuguesa – Gêneros Literários",
+        "Língua Portuguesa – Metalinguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Depreende-se do soneto que o ideal estético do eu lírico norteia-se pelo seguinte critério:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "beleza."
+        },
+        {
+          "letra": "B",
+          "texto": "sinceridade."
+        },
+        {
+          "letra": "C",
+          "texto": "compreensibilidade."
+        },
+        {
+          "letra": "D",
+          "texto": "erudição."
+        },
+        {
+          "letra": "E",
+          "texto": "originalidade."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Gêneros Literários"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Contemporânea dos poetas portugueses Fernando Pessoa e Mário de Sá-Carneiro, Florbela Espanca não se filiou a nenhuma escola literária e sua poesia é considerada de difícil classificação. Considerando os aspectos formais (gênero poético adotado, métrica empregada e esquema de rimas), o soneto de Florbela Espanca aproxima-se do",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Romantismo."
+        },
+        {
+          "letra": "B",
+          "texto": "Naturalismo."
+        },
+        {
+          "letra": "C",
+          "texto": "Realismo."
+        },
+        {
+          "letra": "D",
+          "texto": "Modernismo."
+        },
+        {
+          "letra": "E",
+          "texto": "Parnasianismo."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Língua Portuguesa – Escolas Literárias",
+        "Língua Portuguesa – Parnasianismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Sujeito posposto é aquele que aparece após o verbo, alterando assim a ordem direta de uma oração. O verbo sublinhado tem um sujeito posposto no seguinte verso:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“São assim ocos, rudes, os meus versos:” (3ª estrofe)"
+        },
+        {
+          "letra": "B",
+          "texto": "“Quem me dera encontrar o verso puro,” (4ª estrofe)"
+        },
+        {
+          "letra": "C",
+          "texto": "“Sonhar um verso de alto pensamento,” (2ª estrofe)"
+        },
+        {
+          "letra": "D",
+          "texto": "“Tirar dentro do peito a Emoção,” (1ª estrofe)"
+        },
+        {
+          "letra": "E",
+          "texto": "“Que dissesse, a chorar, isto que sinto!!” (4ª estrofe)"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Sujeito"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Para responder às questões de 06 a 10, leia o ensaio \"Mercúrio” do neurologista inglês Oliver Sacks (1933-2015), cuja morte completou 10 anos em 30 de agosto deste ano.\n1 Noite passada sonhei com o mercúrio: glóbulos enormes, brilhantes, ora subindo, ora descendo. O mercúrio é o elemento número 80, e meu sonho é um lembrete de que na terça-feira farei oitenta anos. Elementos químicos e aniversários andam ligados para mim desde menino, quando aprendi sobre os números atômicos. Com onze anos eu podia dizer \"sou sódio” (elemento 11), e agora, aos 79, sou ouro. Alguns anos atrás, quando dei um frasco de mercúrio de presente a um amigo pelo seu octogésimo aniversário — um recipiente especial que não vaza nem se quebra —, ele me olhou de um jeito esquisito, mas depois me enviou uma cartinha simpática, gracejando: \"Tomo um pouco toda manhã, para a saúde\".\nOitenta! É difícil de acreditar. Muitas vezes sinto que a vida está prestes a começar, e percebo que está quase no fim. Beirando os oitenta, com esparsos problemas de saúde e cirurgias, nenhum deles incapacitante, me sinto feliz por estar vivo — \"Estou feliz por não estar morto!\" é uma frase que às vezes irrompe lá dentro de mim quando o tempo está perfeito. Sou grato por ter vivenciado muitas coisas — algumas fascinantes, outras horríveis e por ter sido capaz de escrever uma dúzia de livros, de receber incontáveis cartas de amigos, colegas e leitores e de desfrutar do que Nathaniel Hawthorne chamou de \"um intercurso com o mundo\".\nLamento ter perdido (e ainda perder) tanto tempo; lamento ser tão angustiantemente tímido aos oitenta quanto era aos vinte; lamento não falar outra língua além da materna e não ter viajado ou vivenciado outras culturas de modo tão produtivo quanto deveria. Sinto que precisaria tentar concluir minha vida, seja o que for \"concluir uma vida\". Quanto a mim, não creio em (nem desejo) uma existência após a morte, exceto na memória dos amigos e na esperança de que alguns dos meus livros ainda possam \"falar\" às pessoas depois que eu morrer.\nQuando chegar a minha hora, espero que eu possa morrer na ativa, como o biólogo molecular Francis Crick. Quando lhe informaram que seu câncer de cólon tinha voltado, de início ele não disse nada; simplesmente olhou ao longe por um minuto, depois retomou o que vinha pensando. Ao lhe perguntarem sobre seu diagnóstico algumas semanas depois, ele respondeu: \"Tudo o que tem um começo deve ter um fim\". Morreu aos 88 anos, ainda totalmente comprometido com seu trabalho mais criativo.\n5 Meu pai, que viveu até os 94 anos, costumava dizer que seus oitenta anos tinham sido uma das décadas mais agradáveis de sua vida. Ele sentiu, como começo a sentir, não um encolhimento, e sim uma expansão da vida mental e da perspectiva. Nesta altura já tivemos uma longa experiência de vida, não só da nossa, mas também da de outros. Já vimos triunfos e tragédias, altos e baixos, revoluções e guerras, grandes realizações e profundas ambiguidades também. Já assistimos notáveis teorias ascenderem e acabarem derrubadas por fatos teimosos. Somos mais conscientes da transitoriedade e, talvez, da beleza. Aos oitenta podemos relembrar um vasto panorama e ter um senso claro de história vivida impossível aos mais novos. Posso imaginar, sentir nos ossos, o que é um século, coisa que não podia fazer aos quarenta ou sessenta. Não penso na velhice como uma fase cada vez mais penosa que é preciso suportar e levar o melhor possível, mas como um período de liberdade e tempo descomprometido, sem as infundadas urgências de outrora, livre para explorar o que eu quiser e para amarrar os pensamentos e sentimentos de toda uma vida. Não vejo a hora de fazer oitenta anos.\n(Oliver Sacks. Gratidão, 2015. Adaptado.)\nOliver Sacks recorre a um enunciado antitético no seguinte trecho do ensaio:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“Nesta altura já tivemos uma longa experiência de vida, não só da nossa, mas também da de outros.” (5º parágrafo)"
+        },
+        {
+          "letra": "B",
+          "texto": "“Sinto que precisaria tentar concluir minha vida, seja o que for ‘concluir uma vida’.” (3º parágrafo)"
+        },
+        {
+          "letra": "C",
+          "texto": "“Muitas vezes sinto que a vida está prestes a começar, e percebo que está quase no fim.” (2º parágrafo)"
+        },
+        {
+          "letra": "D",
+          "texto": "“Elementos químicos e aniversários andam ligados para mim desde menino, quando aprendi sobre os números atômicos.” (1º parágrafo)"
+        },
+        {
+          "letra": "E",
+          "texto": "“Posso imaginar, sentir nos ossos, o que é um século, coisa que não podia fazer aos quarenta ou sessenta.” (5º parágrafo)"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Língua Portuguesa – Figuras de Linguagem",
+        "Língua Portuguesa – Antítese"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "A resposta de Francis Crick, ao ser perguntado sobre seu diagnóstico, deixa transparecer o seguinte sentimento:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mágoa."
+        },
+        {
+          "letra": "B",
+          "texto": "resignação."
+        },
+        {
+          "letra": "C",
+          "texto": "indignação."
+        },
+        {
+          "letra": "D",
+          "texto": "incredulidade."
+        },
+        {
+          "letra": "E",
+          "texto": "perplexidade."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Sentimentos"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "No último parágrafo, a seguinte expressão pode ser vista como exemplo de personificação:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"notáveis teorias\"."
+        },
+        {
+          "letra": "B",
+          "texto": "\"longa experiência”."
+        },
+        {
+          "letra": "C",
+          "texto": "\"infundadas urgências\"."
+        },
+        {
+          "letra": "D",
+          "texto": "\"fatos teimosos\"."
+        },
+        {
+          "letra": "E",
+          "texto": "\"profundas ambiguidades\"."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Língua Portuguesa – Figuras de Linguagem",
+        "Língua Portuguesa – Personificação"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "\"Ele sentiu, como começo a sentir, não um encolhimento, e sim uma expansão da vida mental e da perspectiva.\" (5º parágrafo)\nNo contexto em que se insere, a oração sublinhada expressa ideia de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "condição."
+        },
+        {
+          "letra": "B",
+          "texto": "causa."
+        },
+        {
+          "letra": "C",
+          "texto": "comparação."
+        },
+        {
+          "letra": "D",
+          "texto": "concessão."
+        },
+        {
+          "letra": "E",
+          "texto": "consequência."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Orações Subordinadas Adverbiais"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "\"Quanto a mim, não creio em (nem desejo) uma existência após a morte, exceto na memória dos amigos e na esperança de que alguns dos meus livros ainda possam ‘falar’ às pessoas depois que eu morrer.\" (3º parágrafo)\nNesse trecho, a posição dos parênteses, após a preposição “em” e não imediatamente após o verbo \"creio”, explica-se por uma questão",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "de concordância verbal."
+        },
+        {
+          "letra": "B",
+          "texto": "de concordância nominal."
+        },
+        {
+          "letra": "C",
+          "texto": "meramente estilística."
+        },
+        {
+          "letra": "D",
+          "texto": "de regência nominal."
+        },
+        {
+          "letra": "E",
+          "texto": "de regência verbal."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Regência Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Leia o texto para responder às questões de 11 a 15.\nOf every 1,000 children born in Kenya, a country in East Africa, 32 don’t make it to their first birthdays. Study after study has explored how to improve those impressive numbers, in Kenya and elsewhere. But a decade-long study on alleviating poverty found a simple solution. Giving $1,000 to poor families lowered infant mortality rates by nearly half, and deaths in children under 5 by 45 percent. Those are much bigger drops than have been credited to routine immunizations, for example, or bed nets to prevent malaria.\n“This is easily the biggest impact on child survival that I’ve seen from an intervention that was designed to alleviate poverty,” said Harsha Thirumurthy, an economist at the University of Pennsylvania who was not involved in the work. The decline in infant mortality is a “showstopping result,” he said.\nThe outcomes suggest that delivering even smaller amounts of money to families — especially those that live near a hospital — immediately before or after the birth of a child might allow women to seek medical care and drastically improve their children’s chances of survival. More than 100 low- and middle-income countries have explored so-called cash transfers, especially after the pandemic began. Generally, the experiments have found that giving money to poor families improves school attendance, nutrition and use of health services.\n(Apoorva Mandavilli. www.nytimes.com, 18.08.2025. Adaptado.)\nThe main purpose of the text is to",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "evaluate the impact of routine immunizations and malaria bed nets in Kenya."
+        },
+        {
+          "letra": "B",
+          "texto": "highlight the effectiveness of monetary aid in reducing children’s deaths in Kenya."
+        },
+        {
+          "letra": "C",
+          "texto": "focus on the specific reasons for the high infant mortality rates in Kenya."
+        },
+        {
+          "letra": "D",
+          "texto": "argue that financial aid is the worst solution for infant mortality in Kenya."
+        },
+        {
+          "letra": "E",
+          "texto": "provide a history of poverty-fighting efforts and medical treatment of children in Kenya."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Inglês – Interpretação de Texto",
+        "Inglês – Propósito do Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "In the excerpt from the first paragraph \"Those are much bigger drops than have been credited\", the underlined word refers to",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reductions in infant mortality rates and deaths in children."
+        },
+        {
+          "letra": "B",
+          "texto": "routine immunizations and bed nets to prevent malaria."
+        },
+        {
+          "letra": "C",
+          "texto": "1,000 children born in Kenya in a vulnerable situation."
+        },
+        {
+          "letra": "D",
+          "texto": "studies that have explored ways to improve child survival."
+        },
+        {
+          "letra": "E",
+          "texto": "poor families who received $1,000 in the study."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Inglês – Interpretação de Texto",
+        "Inglês – Referência Pronominal/Lexical"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "No trecho do segundo parágrafo \"The decline in infant mortality is a ‘showstopping result,’ he said\", o termo sublinhado pode ser substituído, sem alteração de sentido para o texto, por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "stunning."
+        },
+        {
+          "letra": "B",
+          "texto": "ordinary."
+        },
+        {
+          "letra": "C",
+          "texto": "partial."
+        },
+        {
+          "letra": "D",
+          "texto": "questionable."
+        },
+        {
+          "letra": "E",
+          "texto": "temporary."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Inglês – Vocabulário",
+        "Inglês – Sinônimos"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "In the excerpt from the third paragraph \"The outcomes suggest that delivering even smaller amounts of money to families – especially those that live near a hospital – immediately before or after the birth of a child might allow women to seek medical care and drastically improve their children’s chances of survival\", the underlined word expresses a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "strong certainty about future results."
+        },
+        {
+          "letra": "B",
+          "texto": "statement of necessity."
+        },
+        {
+          "letra": "C",
+          "texto": "universal truth that cannot be challenged."
+        },
+        {
+          "letra": "D",
+          "texto": "potential outcome of what could happen."
+        },
+        {
+          "letra": "E",
+          "texto": "past action that definitely happened."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Inglês – Interpretação de Texto",
+        "Inglês – Modal Verbs/Auxiliaries"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "De acordo com o texto, o subsídio financeiro destinado a pessoas em situação de vulnerabilidade econômica no Quênia demonstrou ter um impacto para além da redução no índice de mortalidade infantil. O trecho do texto que confirma essa afirmação é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"More than 100 low- and middle-income countries have explored so-called cash transfers, especially after the pandemic began\" (3º parágrafo)."
+        },
+        {
+          "letra": "B",
+          "texto": "\"Study after study has explored how to improve those impressive numbers, in Kenya and elsewhere\" (1º parágrafo)."
+        },
+        {
+          "letra": "C",
+          "texto": "\"Generally, the experiments have found that giving money to poor families improves school attendance, nutrition and use of health services\" (3º parágrafo)."
+        },
+        {
+          "letra": "D",
+          "texto": "“Of every 1,000 children born in Kenya, a country in East Africa, 32 don't make it to their first birthdays\" (1º parágrafo)."
+        },
+        {
+          "letra": "E",
+          "texto": "\"Giving $1,000 to poor families lowered infant mortality rates by nearly half\" (1º parágrafo)."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Inglês – Interpretação de Texto",
+        "Inglês – Localização de Informação"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Read the quote from basketball player Michael Jordan.\nAll I knew is that\nI never wanted to be average.\n— Michael Jordan\n(https://azquotes.com)\nAccording to the quote, Michael Jordan",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "thought that success or failure did not really matter to him at all."
+        },
+        {
+          "letra": "B",
+          "texto": "preferred to follow others instead of creating his own path."
+        },
+        {
+          "letra": "C",
+          "texto": "believed that avoiding challenges would bring him real success in life."
+        },
+        {
+          "letra": "D",
+          "texto": "was completely satisfied with staying at an ordinary level of achievements."
+        },
+        {
+          "letra": "E",
+          "texto": "wanted from the beginning of his life to go beyond mediocrity."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Inglês – Interpretação de Texto",
+        "Inglês – Propósito do Autor"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Leia o trecho de uma música escrita pelo cantor George Michael para responder às questões de 17 a 19.\nHow can I help you? Please let me try to\nI can heal the pain that you’re feeling inside\nWhenever you want me, you know that I will be\nWaiting for the day that you say you’ll be mine\n\nWon’t you let me in? Let this love begin\nWon’t you show me your heart now?\nI’ll be good to you, I can make this thing true\nShow me that heart right now\n\nWho needs a lover that can’t be a friend\nSomething tells me I’m the one you’ve been looking for, oh\nIf you ever should see him again\nWon’t you tell him you’ve found someone who gives you more?\n\nSomeone who will protect you, love and respect you\nAll those things that he never could bring to you\nLike I do or rather I would\nWon’t you show me your heart like you should?\n(www.streetdirectory.com. Adaptado.)\nThe lyrics suggest that the speaker is primarily expressing",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "anger from feeling ignored."
+        },
+        {
+          "letra": "B",
+          "texto": "sadness over a lost relationship."
+        },
+        {
+          "letra": "C",
+          "texto": "a distant view of past mistakes."
+        },
+        {
+          "letra": "D",
+          "texto": "a real wish to heal and care deeply."
+        },
+        {
+          "letra": "E",
+          "texto": "confidence in staying emotionally guarded."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Inglês – Interpretação de Texto",
+        "Inglês – Sentimentos e Atitudes"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "No trecho \"Who needs a lover that can’t be a friend\" (3ª estrofe), o termo sublinhado é empregado com o mesmo sentido do termo sublinhado em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I read a book that changed my life."
+        },
+        {
+          "letra": "B",
+          "texto": "She said that she would be late."
+        },
+        {
+          "letra": "C",
+          "texto": "Did you see that over there?"
+        },
+        {
+          "letra": "D",
+          "texto": "I told him that the meeting was canceled."
+        },
+        {
+          "letra": "E",
+          "texto": "It’s not that I don’t care, but I’m busy."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Inglês – Gramática",
+        "Inglês – Pronomes Relativos"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "O trecho da música que revela uma correção enunciativa no discurso do eu lírico é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Waiting for the day that you say you’ll be mine\"."
+        },
+        {
+          "letra": "B",
+          "texto": "\"Like I do or rather I would\"."
+        },
+        {
+          "letra": "C",
+          "texto": "\"Show me that heart right now\"."
+        },
+        {
+          "letra": "D",
+          "texto": "\"If you ever should see him again\"."
+        },
+        {
+          "letra": "E",
+          "texto": "\"Let this love begin\"."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Coesão e Coerência"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Read the poster of a campaign launched by the New York State Office of Addiction Services and Supports (OASAS).\nStruggling with addiction?\nTHIS IS\nTHE SIGN\nYOU’VE\nBEEN\nWAITING\nFOR.\nOASAS\nEvery Step\nof the Way.\nNEW YORK\nSTATE\nOffice of Addiction\nServices and Supports\n(https://westsidenewsny.com)\nThe campaign intends to",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "warn about the legal consequences of substance abuse."
+        },
+        {
+          "letra": "B",
+          "texto": "engage the attention of individuals affected by addiction."
+        },
+        {
+          "letra": "C",
+          "texto": "offer free transportation to addiction treatment centers."
+        },
+        {
+          "letra": "D",
+          "texto": "advocate for a new addiction treatment method."
+        },
+        {
+          "letra": "E",
+          "texto": "collect statistical data about drug use in New York State."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Inglês – Interpretação de Texto",
+        "Inglês – Análise de Propaganda"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "[...] uma grande novidade, que marcou a história dessas cidades, foi a criação de espaços públicos, como a ágora e o fórum, centrais à cidade e independentes de qualquer instituição dominante, como um palácio ou um templo. A religião não deixou de ser fundamental, mas adquiriu outro caráter, cívico e público. Em termos arqueológicos, reconhecemos uma pólis grega por sua ágora e uma pólis romana, ou latina, por seu fórum.\n(Norberto Luiz Guarinello. História Antiga, 2013.)\nO excerto atesta que as pólis Antigas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "eram caracterizadas pela existência de espaços públicos abertos aos habitantes."
+        },
+        {
+          "letra": "B",
+          "texto": "viviam sob o comando fortemente centralizado do rei e dos anciãos."
+        },
+        {
+          "letra": "C",
+          "texto": "distribuíam suas edificações principais por áreas urbanas e rurais."
+        },
+        {
+          "letra": "D",
+          "texto": "tinham os espaços de culto e devoção íntima como sua marca mais destacada."
+        },
+        {
+          "letra": "E",
+          "texto": "dependiam de relações com outras pólis para obter recursos alimentares."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "História – Grécia Antiga",
+        "História – Roma Antiga",
+        "História – Pólis"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Um papa inteligente, Inocêncio III, compreendera que, para responder à expectativa do povo fiel, ávido de um ensinamento simples, atormentado pelo enriquecimento e sonhando escapar à corrupção do dinheiro, e também para desarmar as heresias que pululavam, invasoras, cumpria atender ao pedido de dois jovens. Ambos eram suspeitos: pretendiam ir diretamente ao povo, queriam-se totalmente pobres, partindo, com seus discípulos, descalços, vestidos com um pano de saco, como os discípulos de Jesus, e falando a linguagem vulgar que os indigentes podiam compreender.\n(George Duby. A Europa na Idade Média, 1988.)\nAo abordar a reação do papa Inocêncio III às ações dos frades Domingos de Gusmão e Francisco de Assis, no início do século XIII, o excerto destaca",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a variação na conduta da Igreja em relação aos pobres, buscando novas formas de relação e pregação."
+        },
+        {
+          "letra": "B",
+          "texto": "a carência de recursos financeiros da Igreja, manifesta na adoção de novos trajes para os prelados e bispos."
+        },
+        {
+          "letra": "C",
+          "texto": "o esforço da Igreja de ampliar sua força política, expresso na disposição de criar comunidades eclesiais de base."
+        },
+        {
+          "letra": "D",
+          "texto": "o avanço das heresias no interior da Igreja, comprovado pela atuação política dos dois frades."
+        },
+        {
+          "letra": "E",
+          "texto": "a inexistência de apoio dos nobres à Igreja, levando a instituição a diversificar suas estratégias de ação."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "História – Idade Média",
+        "História – Igreja Católica na Idade Média"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "O provimento das Minas só melhorou com a abertura de uma nova via de acesso. O Caminho Novo foi projeto do governador da Repartição do Sul, Artur de Sá e Meneses [...].\nO ouro saiu com fartura da terra até por volta de 1750. Durante esse tempo, o trânsito de pessoas e mercadorias foi intenso no Caminho Novo. Por ele chegavam a Vila Rica açúcar, cachaça, gado, pólvora, fumo, azeites, arroz, sal do reino, marmelada e vinhos. Com a multiplicação das vilas e dos arraiais, as Minas passaram a ser abastecidas de toda sorte de produtos e bugigangas: vidro, espelhos, arma de fogo, facas flamengas, louças, chumbo, veludos, fivelas, pelúcia, calções de damasco carmesim, chapéus com fitas debruadas de fios de ouro e prata, botinas de couro amarradas por cordões, casacos forrados de seda ou de lã felpuda.\n(Lilia Moritz Schwarcz e Heloisa Murgel Starling. Brasil: uma biografia, 2018.)\nO excerto mostra a constituição, na primeira metade do século XVIII, de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "uma estratégia de controle político das Minas que garantia acesso rápido à região e impedia a ocorrência de manifestações populares, como insurreições e revoltas."
+        },
+        {
+          "letra": "B",
+          "texto": "um sistema de produção de alimentos nas Minas que assegurava a autonomia da região e impedia a ocorrência de problemas graves, como a fome e a desnutrição."
+        },
+        {
+          "letra": "C",
+          "texto": "um mecanismo de integração imediata das Minas a mercadorias procedentes de países estrangeiros, como Estados Unidos e França."
+        },
+        {
+          "letra": "D",
+          "texto": "uma articulação ferroviária das Minas com áreas de produção de alimentos manufaturados, como o Nordeste e a região Sul do Brasil."
+        },
+        {
+          "letra": "E",
+          "texto": "uma rede de circulação de mercadorias que conectava as Minas a núcleos de abastecimento, como Rio de Janeiro e São Paulo."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "História – Brasil Colônia",
+        "História – Ciclo do Ouro",
+        "História – Economia Colonial"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Em 1580, o Brasil, com uma população de cerca de 60 mil habitantes, dos quais 30 mil eram europeus, havia se transformado numa colônia de povoamento, embora de tipo peculiar: uma colônia de agricultura tropical capitalizada a partir da Europa, que supria uma demanda europeia de produtos tropicais [...].\n(Stuart B. Schwartz. \"O Brasil colonial, 1580-1750: as grandes lavouras e as periferias\". In: Leslie Bethell (org.). História da América Latina: a América Latina Colonial, 1999.)\nA exploração de produtos tropicais em grande escala na colônia do Brasil, no século XVII, era ligada",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à indústria do cacau, com utilização exclusiva de trabalho indígena."
+        },
+        {
+          "letra": "B",
+          "texto": "à produção de algodão, com exploração de mão de obra imigrante."
+        },
+        {
+          "letra": "C",
+          "texto": "ao engenho de açúcar, com predomínio do trabalho compulsório africano."
+        },
+        {
+          "letra": "D",
+          "texto": "à economia cafeeira, com introdução de trabalhadores especializados."
+        },
+        {
+          "letra": "E",
+          "texto": "ao comércio de produtos florestais, com emprego de mão de obra livre."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "História – Brasil Colônia",
+        "História – Economia Açucareira",
+        "História – Trabalho Escravo"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "No que se refere à aplicação da pena de morte, o doutor Guillotin pede a construção de \"um mecanismo que decapitaria a cabeça dos criminosos num piscar de olhos\", para evitar sofrimentos inúteis.\nEssa proposição de Guillotin visava fazer desaparecer dois escândalos do Antigo Regime: a desigualdade social, até na aplicação da pena de morte, e os sofrimentos que envolviam essa morte.\n(Michel Péronnet. Revolução Francesa em 50 palavras-chaves, 1988.)\nA proposta que levou à criação da guilhotina, durante a Revolução Francesa, corresponde",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à ampliação da violência, ocorrida no período do Terror revolucionário."
+        },
+        {
+          "letra": "B",
+          "texto": "aos princípios de igualdade defendidos no processo revolucionário francês."
+        },
+        {
+          "letra": "C",
+          "texto": "à reação do clero contra os abusos monárquicos do Antigo Regime."
+        },
+        {
+          "letra": "D",
+          "texto": "à valorização da vida, defendida na Declaração dos Direitos do Homem e do Cidadão."
+        },
+        {
+          "letra": "E",
+          "texto": "aos propósitos da burguesia de controlar o processo revolucionário."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "História – Revolução Francesa",
+        "Filosofia – Iluminismo",
+        "Sociologia – Direitos Humanos"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "[...] a classificação das raças em \"superiores” e “inferiores”, recorrente desde o século XVII, ganha [no século XIX] uma falsa legitimidade baseada no mito iluminista do saber científico, coincidindo com a necessária justificativa de que a dominação e a exploração da África, mais do que “naturais\" e inevitáveis, eram \"necessárias” para desenvolver os “selvagens\" africanos, de acordo com as normas e os valores da civilização ocidental.\n(Leila Maria Gonçalves Leite Hernandez. A África na sala de aula: visita à história contemporânea, 2005.)\nAo tratar das bases ideológicas presentes na colonização europeia da África no século XIX, o excerto",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "critica o emprego da noção de raça nos movimentos de resistência africana à exploração estrangeira."
+        },
+        {
+          "letra": "B",
+          "texto": "questiona a retórica empregada durante o expansionismo europeu desde a Antiguidade Clássica."
+        },
+        {
+          "letra": "C",
+          "texto": "defende a supremacia da racionalidade e da civilização europeia em relação às tradições dos povos africanos."
+        },
+        {
+          "letra": "D",
+          "texto": "identifica a construção de um discurso que articula a questão política da colonização ao etnocentrismo europeu."
+        },
+        {
+          "letra": "E",
+          "texto": "valoriza a importância do iluminismo como base filosófica que valida o princípio da igualdade entre os povos."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "História – Imperialismo e Colonialismo",
+        "História – Neocolonialismo na África",
+        "Filosofia – Etnocentrismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Analise a imagem da litografia de Jean-Baptiste Debret, realizada em 1835 e intitulada \"Mercado da Rua do Valongo\".\nA imagem revela",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o caráter doméstico das instalações, notável na decoração do ambiente e no mobiliário utilizado pelos escravizados e pelo traficante."
+        },
+        {
+          "letra": "B",
+          "texto": "a impunidade desfrutada pelos comerciantes de africanos escravizados, mesmo após a abolição da escravidão no Brasil."
+        },
+        {
+          "letra": "C",
+          "texto": "o contraste dos escravizados em relação ao traficante e ao senhor, expresso no vestuário e nos corpos dos personagens representados."
+        },
+        {
+          "letra": "D",
+          "texto": "o início do movimento abolicionista no Brasil, evidenciando a união e a oposição dos escravizados à dominação senhorial."
+        },
+        {
+          "letra": "E",
+          "texto": "a naturalidade da cena, manifestada na atitude displicente dos escravizados, do traficante e do senhor envolvidos na negociação."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "História – Brasil Império",
+        "História – Escravidão no Brasil",
+        "Arte – Arte no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Leia o excerto para responder às questões 28 e 29.\nDo ponto de vista brasileiro em relação ao conflito é preciso distinguir dois momentos separados por vários meses: o da declaração de guerra às chamadas forças do Eixo, em 1942, e o envio da FEB [Força Expedicionária Brasileira] à Itália. Foi o clamor popular que motivou o primeiro momento exigindo do governo Vargas a entrada do Brasil no combate. O segundo momento, o da criação da FEB, deveu-se a alguns fatores básicos, entre eles a necessidade dos militares brasileiros de receberem o equipamento e treinamento. A isso se somava o desejo de Vargas de mudar a situação política interna, em cujo contexto sua já caduca ditadura se desgastava visivelmente.\n(Luis Felipe da Silva Neves. \"Nas trincheiras contra Hitler\". In: Luciano Figueiredo (org.). História do Brasil para ocupados, 2013.)\nA declaração brasileira de guerra mencionada no excerto deu-se",
+      "alternativas": {
+        "A": "após negociações políticas e econômicas realizadas pelo regime brasileiro com os Estados Unidos.",
+        "B": "após Alemanha e Itália declararem guerra à União Soviética, aliada estratégica do governo Vargas.",
+        "C": "pela identidade política e ideológica do regime brasileiro com os países europeus que participavam do Bloco Aliado.",
+        "D": "pela pressão política de anarquistas e socialistas contra a neutralidade de Vargas ante a guerra.",
+        "E": "pela necessidade do regime militar brasileiro de receber apoio dos países totalitários que compunham o Bloco Aliado."
+      },
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "História – Era Vargas",
+        "História – Segunda Guerra Mundial"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "O desfecho da guerra mencionada no excerto provocou, no cenário internacional e brasileiro,",
+      "alternativas": {
+        "A": "a proibição dos partidos comunistas e o avanço do capitalismo liberal e democrático.",
+        "B": "o desgaste da política populista de massas e o fim dos governos de esquerda na Europa.",
+        "C": "o recrudescimento das divergências e dos combates entre fascistas e comunistas.",
+        "D": "o declínio do militarismo e a disposição de setores políticos divergentes para o diálogo.",
+        "E": "a queda de regimes autoritários e a valorização de ideais democráticos no Ocidente."
+      },
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "História – Pós-Segunda Guerra Mundial",
+        "Sociologia – Regimes Políticos"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Analise o gráfico que apresenta a variação na inflação mensal, no Brasil, entre 1980 e 2012.\nInflação mensal\n(variação percentual do IPCA), 1980-2012\nFonte: IBGE\nInflação\nIPCA (% a.m.)\n(Marcos Nobre. Imobilismo em movimento: da abertura democrática ao governo Dilma, 2013. Adaptado.)\nCom base no gráfico, o comportamento da inflação",
+      "alternativas": {
+        "A": "entre 1998 e 2012 expõe o crescimento econômico, ocorrido no governo de Fernando Henrique Cardoso.",
+        "B": "após 1994 revela os efeitos do Plano Real, aplicado durante o governo de Itamar Franco.",
+        "C": "até 1987 indica o impacto do projeto desenvolvimentista realizado durante o Regime Militar.",
+        "D": "entre 1988 e 1990 revela o equilíbrio proporcionado pelo Plano Cruzado durante o governo de José Sarney.",
+        "E": "entre 1990 e 1994 demonstra a estabilidade econômica, ocorrida durante o governo de Fernando Collor de Mello."
+      },
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "História – Economia Brasileira (Período Recente)",
+        "Geografia – Geografia Humana (Economia)"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "O governo brasileiro oficializou, em 07.07.2025, uma parceria com a China para viabilizar um dos maiores projetos logísticos da América do Sul: uma ferrovia transcontinental ligando o oceano Atlântico, no litoral baiano, ao Pacífico, no porto de Chancay, no Peru. O memorando não define ainda um cronograma nem o valor total da obra, mas estima-se que os custos do projeto ultrapassem os 10 bilhões de dólares. Os estudos ambientais, técnicos e de viabilidade econômica serão desenvolvidos ao longo dos próximos cinco anos, prazo inicial do acordo, com possibilidade de prorrogação.\n(www.cartacapital.com.br, 07.07.2025. Adaptado.)\nO projeto apresentado no excerto demonstra o interesse da China em",
+      "alternativas": {
+        "A": "construir postos de defesa militar ao longo do Sul Global, reconstruindo o período de disputa ideológica entre capitalismo e socialismo.",
+        "B": "explorar recursos naturais sul-americanos, solucionando a escassez crônica de insumos primários das numerosas indústrias chinesas.",
+        "C": "ampliar sua presença político-econômica na América do Sul, agilizando tanto as exportações sul-americanas como as importações chinesas na região.",
+        "D": "redesenhar as fronteiras dos países da América do Sul, equilibrando forças para estabelecer uma prática comercial mais justa e inclusiva em aspectos socioeconômicos.",
+        "E": "competir com os Estados Unidos pela influência política na América do Sul, estimulando a construção de infraestruturas de segregação regional."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Geografia – Geopolítica",
+        "Geografia – Economia Global",
+        "História – Relações Internacionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "A população de Mato Grosso foi estimada em 3893659 habitantes em 1º de julho de 2025, conforme dados divulgados em 28.08.2025 pelo Instituto Brasileiro de Geografia e Estatística (IBGE). O número representa um acréscimo de 57260 pessoas em relação a 2024, uma variação de 1,49%, acima da média nacional. No mesmo período, a população brasileira alcançou 213,4 milhões de habitantes, com crescimento de apenas 0,39% em comparação a 2024.\n(www.leiagora.com.br, 28.08.2025. Adaptado.)\nQuando comparado ao Brasil, o dado demográfico de Mato Grosso é explicado",
+      "alternativas": {
+        "A": "pelo financiamento público em atividades biotecnológicas.",
+        "B": "pela execução de programas federais de privatização.",
+        "C": "pela aplicação de investimentos externos no setor quaternário.",
+        "D": "pelo crescimento econômico pautado no agronegócio.",
+        "E": "pela aplicação de benefícios fiscais nas zonas francas."
+      },
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Geografia – Demografia",
+        "Geografia – Economia Regional",
+        "Geografia – Agronegócio"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "O gráfico apresenta a variação mundial do índice médio das emissões de determinada substância prejudicial ao meio ambiente, no período de 1986 a 2021.\n(https://ourworldindata.org. Adaptado.)\nA substância e o acordo internacional que promoveu a variação apresentada no gráfico são, respectivamente,",
+      "alternativas": {
+        "A": "clorofluorcarbono e Protocolo de Montreal.",
+        "B": "gás carbônico e Acordo de Paris.",
+        "C": "ozônio e Protocolo de Kyoto.",
+        "D": "nitrogênio e Acordo de Cartagena.",
+        "E": "metano e Protocolo de Nagoya."
+      },
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Química – Química Ambiental",
+        "Geografia – Meio Ambiente",
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "A União Africana (UA) apoiou uma campanha para acabar com o uso por governos e organizações internacionais do mapa-múndi de Mercator, do século XVI. Fara Ndiaye, cofundadora da organização Speak Up Africa, disse que o mapa afetou a identidade e o orgulho dos africanos, especialmente das crianças que podem encontrá-lo cedo na escola. Selma Malika Haddadi, vice-presidente da UA, afirmou que a sua instituição apoiou a campanha, acrescentando que ela se alinha com seu objetivo de \"reivindicar o lugar de direito da África no cenário global”, em meio a crescentes pedidos de reparação pelo colonialismo e pela escravidão.\n(www.theguardian.com, 15.08.2025. Adaptado.)\nA crítica à utilização da projeção de Mercator fundamenta-se",
+      "alternativas": {
+        "A": "nas fronteiras artificiais dos países africanos, estabelecidas por países europeus no contexto colonial.",
+        "B": "na incorreção das coordenadas geográficas da África, suprimindo a posição do continente no Hemisfério Norte.",
+        "C": "nas distorções das áreas desérticas na África, ampliando os espaços para desestimular a ocupação humana.",
+        "D": "na falta de precisão do tamanho da África, sub-representada quando comparada ao Norte Global.",
+        "E": "na omissão de dados relativos às riquezas naturais africanas, adotada para legitimar a expropriação durante a colonização europeia."
+      },
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Geografia – Cartografia",
+        "História – Colonialismo",
+        "Sociologia – Geopolítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Examine o mapa que apresenta um recorte do território brasileiro.\nÁreas semiáridas\nÁreas subúmidas secas\nÁreas do entorno\n(https://g1.globo.com, 20.08.2019. Adaptado.)\nAs áreas semiáridas em destaque no mapa são suscetíveis ao processo de degradação da terra denominado",
+      "alternativas": {
+        "A": "ressurgência.",
+        "B": "desertificação.",
+        "C": "eutrofização.",
+        "D": "subsidência.",
+        "E": "arenização."
+      },
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Geografia – Climatologia",
+        "Geografia – Solos",
+        "Geografia – Impactos Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "O conceito de Cidades MIL, isto é, Cidades Media and Information Literacy (Cidades com Alfabetização Midiática e Informacional), surgiu em 2018, durante eventos da Organização das Nações Unidas para a Educação, a Ciência e a Cultura (Unesco). É uma evolução do conceito de Cidade Inteligente e Cidade do Conhecimento, dado que, para serem verdadeiramente sustentáveis, as cidades inteligentes também devem ser cidades MIL. Isso implica educar, capacitar e empoderar moradores e empresas para que estabeleçam redes de cooperação e façam um uso crítico, ético, criativo e responsável das novas infraestruturas e tecnologias que oferecem as cidades contemporâneas. A ênfase desse conceito, diferente dos anteriores, reside nos elementos humanos e não nos tecnológicos.\n(https://ceacom.com.br. Adaptado.)\nO conceito de Cidades MIL, explicado no excerto, busca",
+      "alternativas": {
+        "A": "padronizar a vida urbana, por meio da divulgação unilateral das informações.",
+        "B": "assegurar o acesso à internet, por meio da criação de subsídios fiscais.",
+        "C": "fortalecer o combate à desinformação, por meio do uso criterioso das mídias.",
+        "D": "democratizar as redes sociais, por meio da gratuidade no acesso aos aplicativos.",
+        "E": "expandir as cidades médias, por meio da distribuição de infraestrutura digital."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Sociologia – Sociedade da Informação",
+        "Sociologia – Mídia e Tecnologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Analise o recorte de uma carta topográfica.\n(www.twdb.texas.gov. Adaptado.)\nConsiderando os cinco segmentos de reta destacados em vermelho, o terreno",
+      "alternativas": {
+        "A": "7-8 é ondulado, observado pelo trajeto das curvas de nível no trecho.",
+        "B": "9-10 é montanhoso, observado pela convexidade das curvas de nível no trecho.",
+        "C": "5-6 é plano, observado pelo afastamento entre as curvas de nível no trecho.",
+        "D": "3-4 é suave, observado pela concavidade das curvas de nível no trecho.",
+        "E": "1-2 é íngreme, observado pela proximidade entre as curvas de nível no trecho."
+      },
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Geografia – Cartografia",
+        "Geografia – Leitura de Mapas",
+        "Geografia – Relevo"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Examine as informações que expressam dados demográficos e dados sobre a produção mundial no campo em dois momentos: em 1960 e em 2024.\n1960\n• População mundial: aproximadamente 3 bilhões de pessoas.\n• Produção de grãos: cerca de 2 bilhões de toneladas.\n• Rendimento médio de grãos: aproximadamente 1,3 toneladas por hectare.\n2024\n• População mundial: aproximadamente 8 bilhões de pessoas.\n• Produção de grãos: cerca de 8 bilhões de toneladas.\n• Rendimento médio de grãos: aproximadamente 4 toneladas por hectare.\n(https://123ecos.com.br. Adaptado.)\nImplantada na segunda metade do século XX, a transformação responsável pelas mudanças observadas nos dados é chamada de",
+      "alternativas": {
+        "A": "Revolução Verde, que desenvolveu técnicas e insumos capazes de elevar a produtividade no campo.",
+        "B": "Revolução Agrícola, que desenvolveu comunas agrícolas para empregar e qualificar a mão de obra no campo.",
+        "C": "Revolução Agrícola, que garantiu a compra da produção pelo poder público para estimular maiores investimentos no campo.",
+        "D": "Revolução Verde, que garantiu o pleno cumprimento da função social da propriedade ao redistribuir terras improdutivas aos camponeses.",
+        "E": "Revolução Agrícola, que concedeu terrenos férteis às agroindústrias capazes de otimizar a cadeia produtiva no campo."
+      },
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Geografia – Geografia Agrária",
+        "Biologia – Ecologia",
+        "História – História Contemporânea"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Analise o mapa que retrata o relevo submarino no Oceano Atlântico.\n(www.biolocus.es. Adaptado.)\nA linha branca, no centro do Oceano Atlântico, corresponde ao processo de",
+      "alternativas": {
+        "A": "intemperismo, sendo que a cor verde indica a área de menor temperatura.",
+        "B": "subducção, sendo que a cor vermelha indica a área de atividade sísmica.",
+        "C": "metamorfismo, sendo que a cor amarela indica a área de intrusão magmática.",
+        "D": "rifteamento, sendo que a cor vermelha indica a crosta oceânica mais recente.",
+        "E": "sedimentação, sendo que a cor verde indica a crosta oceânica menos rebaixada."
+      },
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Geografia – Geologia",
+        "Geografia – Tectônica de Placas",
+        "Física – Geofísica"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Lixo verde é composto por resíduos vegetais biodegradáveis que vêm principalmente de casas e jardins. Isso inclui restos como aparas de grama, folhas que caíram, pedaços de frutas e vegetais, além de flores e plantas que já não estão boas, e também galhos e troncos menores. A principal característica desse tipo de lixo é que ele pode ser transformado em composto. Esse composto é muito rico e ajuda a tornar o solo mais fértil de forma sustentável.\n(https://diamundialdalimpeza.com.br)\nNa natureza, em áreas florestais, o \"lixo verde\" corresponde à",
+      "alternativas": {
+        "A": "fotossíntese.",
+        "B": "banquisa.",
+        "C": "moraina.",
+        "D": "restinga.",
+        "E": "serrapilheira."
+      },
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Biologia – Ecologia",
+        "Geografia – Geografia Ambiental"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Nessa teia alimentar marinha, o número máximo de níveis tróficos em uma cadeia alimentar equivale a",
+      "alternativas": {
+        "A": "seis.",
+        "B": "cinco.",
+        "C": "oito.",
+        "D": "sete.",
+        "E": "quatro."
+      },
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Biologia – Ecologia",
+        "Biologia – Cadeias e Teias Alimentares"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "O fígado é o órgão humano responsável pela eliminação de toxinas e outras substâncias exógenas presentes no sangue. O consumo excessivo de medicamentos, como os ansiolíticos benzodiazepínicos, pode sobrecarregar a atividade hepática e trazer sérios riscos à saúde do indivíduo. O consumo excessivo de medicamentos estimula, nas células hepáticas, o aumento da superfície das membranas que compõem",
+      "alternativas": {
+        "A": "o retículo endoplasmático agranular.",
+        "B": "a mitocôndria.",
+        "C": "o complexo golgiense.",
+        "D": "o envelope nuclear.",
+        "E": "o lisossomo."
+      },
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Biologia – Fisiologia Humana",
+        "Biologia – Biologia Celular"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Os vírus são tipicamente descritos como parasitas intracelulares obrigatórios, agentes infecciosos acelulares que requerem a presença de uma célula hospedeira para se multiplicar. Os vírus infectam todos os tipos de organismos animais, plantas, bactérias, leveduras, arqueias e protozoários.\n(https://open.oregonstate.education. Adaptado.)\nAlém de serem parasitas intracelulares obrigatórios, como citado no excerto, para alguns cientistas, os vírus são excluídos do grupo dos seres vivos porque",
+      "alternativas": {
+        "A": "são desprovidos de genoma e de enzimas.",
+        "B": "apresentam uma membrana com bicamada lipídica.",
+        "C": "não possuem metabolismo próprio.",
+        "D": "apresentam organelas sem membranas.",
+        "E": "não realizam mutações no material genético."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Biologia – Virologia",
+        "Biologia – Características dos Seres Vivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Leia a tirinha Frank & Ernest, do cartunista Bob Thaves.\nCoMo FoI\nSEU DIA,\nERNIE?\n(www.estadao.com.br, 05.07.2025.)\nA tirinha mostra a interação entre dois hominídeos popularmente conhecidos como \"homens das cavernas\". Na classificação taxonômica, os hominídeos são incluídos na ordem ______________, formada por espécies que apresentam, como característica exclusiva desse grupo, ______________.\nAs lacunas do texto são preenchidas, respectivamente, por:",
+      "alternativas": {
+        "A": "Primates – as glândulas mamárias.",
+        "B": "Primates – a placenta.",
+        "C": "Mammalia – a visão bidimensional.",
+        "D": "Primates – o polegar oponível.",
+        "E": "Mammalia – as hemácias anucleadas."
+      },
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Biologia – Taxonomia",
+        "Biologia – Evolução Humana",
+        "Biologia – Características dos Primatas"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "O gráfico mostra a variação média do pH dos oceanos a partir de dados obtidos pelo Serviço de Monitoramento do Ambiente Marinho Copernicus (CMEMS), entre os anos de 1985 e 2022.\npH dos oceanos\n(www.eea.europa.eu. Adaptado.)\nA variação do pH dos oceanos causa impactos negativos, sobretudo, em corais e moluscos. De acordo com o gráfico, durante os anos analisados, tem ocorrido nos oceanos o aumento de compostos",
+      "alternativas": {
+        "A": "ácidos, que prejudicam a formação de quitina, presente no endoesqueleto desses animais.",
+        "B": "ácidos, que prejudicam a formação de calcário, presente no exoesqueleto desses animais.",
+        "C": "alcalinos, que prejudicam a formação de calcário, presente no endoesqueleto desses animais.",
+        "D": "ácidos, que prejudicam a formação de queratina, presente no exoesqueleto desses animais.",
+        "E": "alcalinos, que prejudicam a formação de quitina, presente no exoesqueleto desses animais."
+      },
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Química – Química Ambiental",
+        "Química – pH",
+        "Biologia – Ecologia Marinha"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Fezes e sangue humanos podem ser materiais biológicos de contaminação e propagação de determinadas parasitoses. O esquema representa algumas formas de propagação de determinadas parasitoses.\nSer humano\nSangue humano\nFezes humanas\nMosquito\nSolo\nPorcos\nSer humano\nAs vias de transmissão 1, 2 e 3 estão relacionadas, respectivamente, às parasitoses:",
+      "alternativas": {
+        "A": "dengue, leishmaniose e cisticercose.",
+        "B": "leptospirose, ascaridíase e ancilostomose.",
+        "C": "malária, ancilostomose e teníase.",
+        "D": "doença de Chagas, ancilostomose e cisticercose.",
+        "E": "esquistossomose, botulismo e ascaridíase."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Biologia – Parasitologia",
+        "Biologia – Doenças Transmissíveis"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "A perda auditiva afeta pelo menos 10 milhões de brasileiros, o equivalente a 5% da população, segundo o Censo do Instituto Brasileiro de Geografia e Estatística (IBGE). No entanto, esse número é subdimensionado. Estima-se que o contingente seja de 20 milhões de pessoas. Isso porque o número do IBGE é um dado autodeclarado pelo entrevistado, mas muita gente não se reconhece com deficiência auditiva ou ainda não foi diagnosticada. Entre os jovens, a principal causa para a perda auditiva é o uso excessivo de fones de ouvido em alto volume por tempo prolongado.\n(https://saude.abril.com.br, 05.07.2024. Adaptado.)\nA perda auditiva em jovens, descrita no excerto, está relacionada",
+      "alternativas": {
+        "A": "a lesões permanentes nas células ciliadas da cóclea.",
+        "B": "à perda da mobilidade dos três ossículos da orelha média.",
+        "C": "à destruição do nervo vestibular, que conduz impulsos ao cérebro.",
+        "D": "ao movimento irregular do líquido contido no interior da tuba auditiva.",
+        "E": "à perda de flexibilidade do tímpano, localizado na tuba auditiva."
+      },
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Biologia – Fisiologia Humana",
+        "Biologia – Sentidos"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Suponha que, em certa espécie de roedor, quatro alelos (A, \\(a^1\\), \\(a^2\\) e \\(a^3\\)) podem ocupar um loco no cromossomo 9. Uma segunda série, com cinco alelos (C, \\(c^1\\), \\(c^2\\), \\(c^3\\) e \\(c^4\\)), pode ocupar um loco no cromossomo 13. De acordo com esses dados, o número de genótipos duplo-homozigotos e o número de combinações genotípicas possíveis em relação a essas duas séries alélicas serão, respectivamente,",
+      "alternativas": {
+        "A": "15 e 25.",
+        "B": "20 e 150.",
+        "C": "9 e 150.",
+        "D": "9 e 25.",
+        "E": "20 e 60."
+      },
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Biologia – Genética",
+        "Biologia – Alelos e Genótipos"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "O esquema representa o ciclo reprodutivo de um vegetal.\nSoros com\nesporângios\nEsporófito\nZigoto\nEsporo\nGametófito\nAnterídio\nAnterozoide\nOosfera\nArquegônio\n(https://search.library.wisc.edu. Adaptado.)\nNa espécie de planta representada no esquema, a fecundação é",
+      "alternativas": {
+        "A": "independente da água, e o número 2 representa a mitose.",
+        "B": "dependente da água, e o número 1 representa a mitose.",
+        "C": "dependente da água, e o número 3 representa a meiose.",
+        "D": "independente da água, e o número 2 representa a meiose.",
+        "E": "dependente da água, e o número 1 representa a meiose."
+      },
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Biologia – Botânica",
+        "Biologia – Ciclos de Vida de Vegetais"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Mariposas e morcegos vivem em uma corrida armamentista, em que a presa tende a ter defesas e o predador, estratégias de ataque, e, nesse cenário, certas espécies de mariposas parecem estar ganhando vantagem. Com o tempo, algumas delas se esforçaram para escutar sons em frequências altíssimas: as maiores usadas pelos morcegos durante suas caçadas alcançam cerca de 212 quilohertz. Em contrapartida, a audição humana é incapaz de processar frequências maiores do que 20 quilohertz.\n(Peter Wohlleben. A sabedoria secreta da natureza, 2022. Adaptado.)\nNo excerto, o trecho \"algumas delas se esforçaram para escutar sons em frequências altíssimas\" reforça uma ideia defendida por",
+      "alternativas": {
+        "A": "Lamarck; entretanto, Darwin partiria do pressuposto de que as mariposas foram induzidas pelo meio a sofrer mutações para apresentar variabilidade auditiva.",
+        "B": "Darwin; entretanto, Lamarck partiria do pressuposto de que as mariposas com audição mais sensível foram selecionadas pelos predadores.",
+        "C": "Lamarck; entretanto, Darwin partiria do pressuposto de que, entre as mariposas, já havia aquelas capazes de perceber sons em frequências altas.",
+        "D": "Darwin; entretanto, Lamarck partiria do pressuposto de que as mariposas passaram por modificações genéticas para escutar sons em frequências altas.",
+        "E": "Lamarck; entretanto, Darwin partiria do pressuposto de que a seleção artificial favoreceu as mariposas mais sensíveis aos sons em frequências altas."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Biologia – Evolução",
+        "Biologia – Teorias Evolutivas (Lamarck e Darwin)"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Um líquido e os sólidos 1 e 2, que não reagem entre si, foram adicionados, a 25 °C, a um béquer, conforme representado no esquema.\nSólido 1\nSólido 2\nSólido 1\nSólido 2\nA tabela apresenta as densidades e temperatura de fusão de algumas substâncias:\n| Substância | Densidade (g/cm³) | Temperatura de fusão (°C) |\n| :---------- | :------------------ | :------------------------- |\n| I           | 0,94                | 115                        |\n| II          | 2,70                | 660                        |\n| III         | 1,16                | 260                        |\n| IV          | 1,59                | -23                        |\n| V           | 13,5                | -38                        |\nConsiderando os dados da tabela, o sólido 1, o sólido 2 e o líquido representados no esquema são, respectivamente, as substâncias",
+      "alternativas": {
+        "A": "I, IV e III.",
+        "B": "V, II e IV.",
+        "C": "II, III e V.",
+        "D": "I, II e IV.",
+        "E": "III, I e V."
+      },
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Densidade",
+        "Química – Propriedades Físicas da Matéria",
+        "Química – Estados da Matéria"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Desde 1950, a tecnologia nuclear tem sido empregada em pesquisas voltadas à produção de baterias de uso portátil para geração de energia elétrica. Uma dessas baterias emprega o processo de decaimento radioativo do radioisótopo estrôncio-90, \\(^{90}\\text{Sr}\\).\nO nome do grupo da Classificação Periódica ao qual o estrôncio-90 pertence e a quantidade de nêutrons desse radioisótopo são:",
+      "alternativas": {
+        "A": "metais alcalinoterrosos e 52.",
+        "B": "metais alcalinoterrosos e 38.",
+        "C": "metais alcalinos e 38.",
+        "D": "metais alcalinos e 52.",
+        "E": "metais alcalinoterrosos e 90."
+      },
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Química – Tabela Periódica",
+        "Química – Radioatividade",
+        "Química – Estrutura Atômica"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Bolas de Pilates, ou bolas suíças, são empregadas em atividades de fisioterapia e ginástica para exercícios de reforço e alongamento da musculatura.\n(Imagem gerada por IA. https://chatgpt.com)\nUma bola de Pilates foi preenchida com ar comprimido até atingir o volume de 180 L e a pressão interna de 1,2 atm, a 27 °C.\nConsidere que o ar no interior dessa bola se comporta como um gás ideal, que a constante dos gases ideais é R = 0,08 atm \\(\\cdot\\) L \\(\\cdot\\) mol\\(^{-1}\\) \\(\\cdot\\) K\\(^{-1}\\) e que a massa molar média do ar é igual a 29 g/mol. Nessas condições, a massa de ar contida nessa bola é de, aproximadamente,",
+      "alternativas": {
+        "A": "290 g.",
+        "B": "130 g.",
+        "C": "26 g.",
+        "D": "260 g.",
+        "E": "29 g."
+      },
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Termodinâmica",
+        "Química – Gases Ideais",
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Leia o texto para responder às questões 54 e 55.\nIsoflavonas são substâncias químicas produzidas por vegetais e classificadas como compostos bioativos, pois seu consumo resulta em interações no organismo com benefícios à saúde. Uma dessas substâncias, a formononetina, apresenta a seguinte fórmula estrutural:\n$$ \\text{HO} \\qquad \\text{OCH}_3 $$\nA fórmula mínima da formononetina é:",
+      "alternativas": {
+        "A": "\\(C_{16}H_4O_4\\)",
+        "B": "\\(C_4H_3O\\)",
+        "C": "\\(C_4H_4O_4\\)",
+        "D": "\\(CHO\\)",
+        "E": "\\(C_{16}H_{12}O_4\\)"
+      },
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Química – Química Orgânica",
+        "Química – Estrutura Molecular",
+        "Química – Fórmula Mínima e Molecular"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "Leia o texto para responder às questões 54 e 55.\nIsoflavonas são substâncias químicas produzidas por vegetais e classificadas como compostos bioativos, pois seu consumo resulta em interações no organismo com benefícios à saúde. Uma dessas substâncias, a formononetina, apresenta a seguinte fórmula estrutural:\n\nConsiderando a estrutura da molécula da formononetina, a quantidade de anéis benzênicos e os nomes das funções orgânicas às quais pertencem os grupos funcionais oxigenados dessa molécula são:",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Química – Funções Orgânicas",
+        "Química – Aromaticidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "Em reações de oxirredução, o íon permanganato, $\\text{MnO}_4^-$, que tem coloração violeta, transforma-se em íon manganês(II), $\\text{Mn}^{2+}$, que é incolor. Essa característica de mudança de cor é útil para monitorar reações químicas, e soluções com concentrações conhecidas de íon permanganato são empregadas como padrão em análises químicas.\nO número de oxidação do manganês no íon permanganato é",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Química – Oxirredução",
+        "Química – Número de Oxidação (NOX)"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Leia o texto para responder às questões 57 e 58.\nO tricloreto de fósforo, $\\text{PCl}_3$, é um composto sintético, empregado na produção de defensivos agrícolas e aditivos de plásticos.\nA obtenção do tricloreto de fósforo é feita a partir da reação entre o fósforo branco sólido, $\\text{P}_4$, e o gás cloro, $\\text{Cl}_2$.\nA reação de obtenção do tricloreto de fósforo é representada pela seguinte equação não balanceada:\n$$\\text{P}_4 (s) + \\text{Cl}_2 (g) \\rightarrow \\text{PCl}_3 (l)$$\nOs dados de eletronegatividade para esses dois elementos são mostrados na tabela:\nElemento | Eletronegatividade escala de Pauling\n---|---\nFósforo | 2,2\nCloro | 3,2\nPara cada $\\text{1 mol}$ de fósforo branco, a quantidade, em mols, de gás cloro que reage e a quantidade, em mols, de tricloreto de fósforo que se forma são, respectivamente:",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Química – Estequiometria",
+        "Química – Balanceamento de Equações"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "Considerando-se o composto tricloreto de fósforo, a classificação das ligações do fósforo e a geometria molecular são:",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "ovalente polar e plana trigonal."
+        },
+        {
+          "letra": "C",
+          "texto": "ovalente apolar e piramidal trigonal."
+        },
+        {
+          "letra": "C",
+          "texto": "ovalente polar e piramidal trigonal."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Química – Ligações Químicas",
+        "Química – Geometria Molecular"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "A rotulagem nutricional é uma ferramenta capaz de ajudar consumidores a fazerem escolhas alimentares mais saudáveis. No Brasil, a lupa de alto teor foi introduzida em 2022 pela Agência Nacional de Vigilância Sanitária (Anvisa), com o propósito de informar as pessoas sobre a composição dos alimentos. A lupa de alto teor de açúcar adicionado deve constar no rótulo de bebidas de consumo humano que contenham quantidades superiores a $\\text{7,5 g}$ de açúcar por $\\text{100 mL}$.\nA quantidade mínima de açúcar presente em $\\text{250 mL}$ de uma bebida que exibe a lupa de alto teor de açúcar adicionado no seu rótulo é igual a",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Matemática – Razão e Proporção",
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "A fórmula estrutural a seguir é de um composto empregado em estudos de bioquímica e biotecnologia.\nEsse composto é formado a partir da ligação química entre dois aminoácidos iguais, que resulta na liberação de uma molécula de água.\nO nome da ligação formada entre os dois aminoácidos que originaram esse composto e a fórmula molecular desse aminoácido são:",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Biologia – Bioquímica",
+        "Química – Funções Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 61,
+      "enunciado": "O gráfico mostra a variação do fluxo sanguíneo, que acontece através da seção transversal da artéria aorta abdominal, em função do tempo. A área sob a curva destacada no gráfico corresponde, para o intervalo de tempo entre $\\text{0,1 s}$ e $\\text{0,3 s}$,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o fluxo médio do sangue na seção transversal da artéria."
+        },
+        {
+          "letra": "A",
+          "texto": "o volume de sangue que atravessou a seção transversal da artéria."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Física – Gráficos e Cinemática",
+        "Física – Fluxo"
+      ]
+    },
+    {
+      "numeroEnunciado": 62,
+      "enunciado": "Nos Jogos Olímpicos de Paris, em 2024, a corrida de $\\text{100 m}$ rasos foi vencida pelo norte-americano Noah Lyles, que completou o percurso em $\\text{9,79 s}$, enquanto o oitavo colocado, o jamaicano Oblique Seville, completou o percurso em $\\text{9,91 s}$. Considerando que os atletas terminaram a prova desenvolvendo a velocidade constante de $\\text{11 m/s}$, quando Lyles cruzou a linha de chegada, a distância entre ele e Seville era de",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Física – Cinemática",
+        "Física – Movimento Retilíneo Uniforme"
+      ]
+    },
+    {
+      "numeroEnunciado": 63,
+      "enunciado": "Em 1971, o comandante da missão Apollo 15, David Scott, realizou um experimento na superfície da Lua. Scott soltou, simultaneamente e da mesma altura, uma pena de falcão e um martelo geológico, o qual tinha massa cerca de 50 vezes maior do que a da pena, e observou que ambos atingiram o solo no mesmo instante. Se esse experimento fosse realizado próximo à superfície da Terra, o martelo atingiria o solo antes da pena. Na Lua, eles atingiram o solo no mesmo instante porque",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aceleração gravitacional na superfície da Lua é menor do que a aceleração gravitacional na superfície da Terra."
+        },
+        {
+          "letra": "A",
+          "texto": "s massas dos objetos, quando próximos da superfície da Lua, são menores do que suas massas quando próximos da superfície da Terra."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Física – Gravitação",
+        "Física – Queda Livre e Resistência do Ar"
+      ]
+    },
+    {
+      "numeroEnunciado": 64,
+      "enunciado": "Em determinada modalidade de disputas de tiro esportivo, os competidores utilizam pistolas de ar comprimido que disparam projéteis de $\\text{0,50 g}$ com velocidade inicial de $\\text{180 m/s}$.\nA intensidade do impulso recebido pelo projétil, em um desses disparos, é de",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Física – Quantidade de Movimento e Impulso"
+      ]
+    },
+    {
+      "numeroEnunciado": 65,
+      "enunciado": "Fahrenheit 451 é o título de um romance de ficção do escritor estadunidense Ray Bradbury. A trama se passa em uma sociedade na qual a leitura é proibida e os bombeiros têm a função de queimar livros. O título do romance remete à temperatura em que o papel começa a queimar, ou seja, $\\text{451 °F}$. Sabe-se que a temperatura de $\\text{32 °F}$ corresponde a $\\text{0 °C}$ e que a temperatura de $\\text{212 °F}$ corresponde a $\\text{100 °C}$. Se o autor desse romance fosse originário de um país no qual as temperaturas são medidas na escala Celsius e se ele mantivesse a ideia original do título, ou seja, remetendo à temperatura em que o papel começa a queimar, o título do romance seria",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "elsius 345."
+        },
+        {
+          "letra": "C",
+          "texto": "elsius 194."
+        },
+        {
+          "letra": "C",
+          "texto": "elsius 419."
+        },
+        {
+          "letra": "C",
+          "texto": "elsius 754."
+        },
+        {
+          "letra": "C",
+          "texto": "elsius 233."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Física – Termometria",
+        "Física – Escalas Termométricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 66,
+      "enunciado": "Ao preparar uma xícara de chá, uma pessoa colocou $\\text{200 mL (200 g)}$ de água inicialmente a $\\text{80 °C}$ em uma xícara e deixou um sachê desse chá em infusão durante determinado intervalo de tempo. A xícara utilizada pela pessoa tinha capacidade térmica de $\\text{100 cal/°C}$ e estava, inicialmente, à temperatura de $\\text{20 °C}$. Sabendo que o calor específico da água é $\\text{1,0 cal/(g °C)}$ e desprezando a quantidade de calor perdida para o ambiente e a quantidade de calor absorvida pelo sachê, a temperatura da bebida, ao ser atingido o equilíbrio térmico, foi de",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Física – Termodinâmica",
+        "Física – Calorimetria e Equilíbrio Térmico"
+      ]
+    },
+    {
+      "numeroEnunciado": 67,
+      "enunciado": "Espelhos esféricos convexos podem ser utilizados para monitorar espaços em que há grande fluxo de pessoas ou de veículos, pois eles apresentam campo visual maior do que o de um espelho plano de mesmas dimensões. Porém, diferentemente das imagens conjugadas pelos espelhos planos, as imagens de objetos reais conjugadas pelos espelhos esféricos convexos são sempre",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "ireitas e maiores do que os objetos."
+        },
+        {
+          "letra": "D",
+          "texto": "ireitas e menores do que os objetos."
+        },
+        {
+          "letra": "D",
+          "texto": "ireitas e de mesmas dimensões do que os objetos."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Física – Óptica Geométrica",
+        "Física – Espelhos Esféricos"
+      ]
+    },
+    {
+      "numeroEnunciado": 68,
+      "enunciado": "Grande parte dos estímulos que o ser humano recebe do meio ao seu redor deve-se aos sentidos da audição e da visão, os quais são sensibilizados por ondas que se propagam por esse meio. O sistema auditivo e o sistema visual do ser humano são sensíveis, respectivamente, a determinadas faixas de frequência de ondas",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "letromagnéticas e mecânicas transversais."
+        },
+        {
+          "letra": "E",
+          "texto": "letromagnéticas e mecânicas longitudinais."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Física – Ondas",
+        "Física – Acústica e Óptica"
+      ]
+    },
+    {
+      "numeroEnunciado": 69,
+      "enunciado": "O LED é um componente eletrônico que possui limitações de corrente e de diferença de potencial a que pode ser submetido. Por isso, em determinados circuitos elétricos, pode ser necessário associar um resistor (R) em série com o LED (L) para que esses limites não sejam ultrapassados, como mostra a figura. Considere que o LED (L) da figura trabalhe idealmente sob uma diferença de potencial de $\\text{1,5 V}$ e corrente de $\\text{70 mA}$ e que entre os pontos $\\text{X}$ e $\\text{Y}$ haja uma diferença de potencial de $\\text{5,0 V}$. O valor da resistência elétrica do resistor (R) que deve ser associado em série com esse LED para que este funcione sob suas condições ideais, quando essa associação é ligada entre os pontos $\\text{X}$ e $\\text{Y}$ e sem que a diferença de potencial entre eles seja alterada, é",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Física – Eletrodinâmica",
+        "Física – Circuitos Elétricos e Lei de Ohm"
+      ]
+    },
+    {
+      "numeroEnunciado": 70,
+      "enunciado": "O efeito fotoelétrico é o resultado da interação entre radiação eletromagnética e determinados materiais. Esse efeito corresponde à ejeção de elétrons pela superfície do material, geralmente metálico, quando fótons dessa radiação transferem sua energia para esses elétrons. Para que ocorra o efeito fotoelétrico, os fótons da radiação incidente devem ter uma energia mínima, que varia de acordo com o material sobre o qual a radiação incide.\nA energia cinética ($\\text{E}_c$) com que um elétron ejetado da superfície do material se movimenta, após sua ejeção, é dada por $\\text{E}_c = \\text{E}_f - \\text{E}_0$. Nessa equação, $\\text{E}_f$ é a energia do fóton da radiação incidente e $\\text{E}_0$ é a energia mínima necessária para retirar o elétron da superfície desse material. Para o sódio, essa energia mínima é de $\\text{3,6} \\times \\text{10}^{-19} \\text{ J}$ e para o cobalto é de $\\text{6,2} \\times \\text{10}^{-19} \\text{ J}$.\nConsidere que os fótons de certa radiação ejetam elétrons com energia cinética de $\\text{3,0} \\times \\text{10}^{-19} \\text{ J}$ ao incidirem sobre uma superfíce de sódio. Se fótons dessa mesma radiação incidirem sobre uma superfície de cobalto, esses fótons ejetarão elétrons com energia cinética de",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Física – Física Moderna",
+        "Física – Efeito Fotoelétrico"
+      ]
+    },
+    {
+      "numeroEnunciado": 71,
+      "enunciado": "A progressão aritmética ($\\text{a}_1, \\text{a}_2, ..., \\text{a}_{35}$), em que $\\text{a}_1 = 8$ e $\\text{a}_2 = \\frac{29}{4}$, tem 35 termos. O número de termos negativos nessa progressão aritmética é",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Matemática – Progressão Aritmética (PA)"
+      ]
+    },
+    {
+      "numeroEnunciado": 72,
+      "enunciado": "Certo produto é vendido nas lojas A e B por preços diferentes. O preço desse produto na loja A é $\\text{24%}$ mais barato do que o preço desse mesmo produto na loja B. O preço desse produto na loja B, em comparação com o preço dele na loja A, está entre",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 73,
+      "enunciado": "Três amigos brincam de escolher, cada um, de maneira independente e aleatória, uma das quatro cores seguintes: azul, vermelho, branco e preto. A probabilidade de exatamente dois desses amigos escolherem a mesma cor é:",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Matemática – Probabilidade",
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 74,
+      "enunciado": "Para uma festa, foram compradas garrafas de água, de suco de uva e de suco de laranja. Cada garrafa de água contém $\\text{1,5 L}$ e custa $\\text{R$ 3,50}$; cada garrafa de suco de uva contém $\\text{2 L}$ e custa $\\text{R$ 28,00}$; e cada garrafa de suco de laranja contém $\\text{1 L}$ e custa $\\text{R$ 15,00}$. Ao todo, foram compradas 41 garrafas, correspondendo a um total de $\\text{59 L}$, e foram gastos $\\text{R$ 489,00}$. O número de garrafas de suco de laranja compradas para essa festa foi",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Matemática – Sistemas de Equações Lineares"
+      ]
+    },
+    {
+      "numeroEnunciado": 75,
+      "enunciado": "Considere, no plano cartesiano, a reta $\\text{r}$ de equação $\\text{y = 2x + 1}$ e a reta $\\text{s}$ de equação $\\text{y = -x + k}$, em que $\\text{k}$ é um número real. As retas $\\text{r}$ e $\\text{s}$ intersectam o eixo $\\text{x}$ nos pontos $\\text{P}$ e $\\text{Q}$, respectivamente, e se intersectam no ponto $\\text{T}$ de ordenada $\\text{4}$, conforme mostra a figura. A área do triângulo $\\text{PQT}$ é",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Matemática – Geometria Analítica",
+        "Matemática – Equação da Reta",
+        "Matemática – Área de Polígonos"
+      ]
+    },
+    {
+      "numeroEnunciado": 76,
+      "enunciado": "Um terreno retangular tem $\\text{450 m}^2$ de área e perímetro igual a $\\text{86 m}$. A diferença entre as medidas da largura e do comprimento desse terreno é de",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Matemática – Geometria Plana",
+        "Matemática – Área e Perímetro"
+      ]
+    },
+    {
+      "numeroEnunciado": 77,
+      "enunciado": "No retângulo PQRS, a diagonal $\\text{QS}$ mede $\\text{9 cm}$ e o ângulo $\\text{PQS}$ tem medida $\\alpha$, conforme mostra a figura. Sabendo que $\\cos (\\alpha) = \\frac{1}{3}$, a área do retângulo PQRS é:",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Matemática – Trigonometria",
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 78,
+      "enunciado": "No pentágono KLMNO, os ângulos $\\text{L\\hat{A}M}$, $\\text{M\\hat{O}N}$ e $\\text{N\\hat{K}O}$ têm a mesma medida, e os ângulos $\\text{M\\hat{E}K}$, $\\text{N\\hat{M}K}$ e $\\text{O\\hat{N}K}$ têm a mesma medida, como mostra a figura. Sabendo que $\\text{KL = 4 cm}$ e $\\text{KM = 6 cm}$, a medida do segmento $\\text{KO}$ é",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Matemática – Geometria Plana",
+        "Matemática – Polígonos"
+      ]
+    },
+    {
+      "numeroEnunciado": 79,
+      "enunciado": "Um paralelepípedo retorretângulo tem base quadrada de lado medindo $\\text{4 cm}$, conforme mostra a figura. Se a área total desse paralelepípedo é $\\text{112 cm}^2$, seu volume é",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Matemática – Geometria Espacial",
+        "Matemática – Paralelepípedos, Área e Volume"
+      ]
+    },
+    {
+      "numeroEnunciado": 80,
+      "enunciado": "O gráfico representa a distribuição da população em determinado município de acordo com a característica do local em que as pessoas moram: habitações fora da zona urbana, habitações em condomínios na zona urbana e outras habitações na zona urbana. Nesse município, $\\text{20%}$ da população mora fora da zona urbana e $\\text{12,5%}$ dos que moram na zona urbana habitam condomínios. No gráfico, a medida do ângulo de setor circular correspondente à população que mora em condomínios na zona urbana nesse município é",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Matemática – Porcentagem",
+        "Matemática – Gráficos e Setores Circulares"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1564 @@
+{
+  "nomeUniversidade": "PONTIFÍCIA UNIVERSIDADE CATÓLICA DE SÃO PAULO",
+  "siglaUniversidade": "PUC-SP",
+  "nomeProva": "VESTIBULAR VERÃO",
+  "ano": 2025,
+  "qtdeQuestoes": 50,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "PIB BRASILEIRO EM TRILHÕES DE DÓLARES\nFonte: Banco Mundial\n2,62 trilhões US$\n3,0\n2,5\n2,0\n328 bilhões US$\n1,5\n1,0\n0,5\n0,0\n1990 1995 2000 2005 2010 2015 2020\nUma empresa especializada em análise de dados estruturou, em um de seus relatórios, um conjunto de informações sobre o PIB brasileiro no decorrer dos anos. A partir disso, eles conseguiram produzir o gráfico a seguir, destacando o ano e o valor do maior e do menor PIB em 35 anos.\nVisando entender a dispersão dos dados e a diferença entre os valores apresentados no gráfico, a empresa decidiu calcular a amplitude, em bilhões de dólares, do PIB brasileiro no período.\nO resultado encontrado pela empresa foi",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 146."
+        },
+        {
+          "letra": "B",
+          "texto": "1 310."
+        },
+        {
+          "letra": "C",
+          "texto": "1 474."
+        },
+        {
+          "letra": "D",
+          "texto": "2 292."
+        },
+        {
+          "letra": "E",
+          "texto": "2 620."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Matemática – Análise de gráficos e tabelas",
+        "Matemática – Medidas de dispersão (Amplitude)"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Um técnico agrícola está projetando uma região para descanso de animais em uma fazenda e deseja delimitá-la como um quadrado. Para a efetivação do projeto, o técnico precisou simular o mapeamento desse espaço em um sistema ortogonal de coordenadas cartesianas. Nele, o técnico conseguiu verificar que os vértices que delimitam a área quadrada são pontos cujas ordenadas valem 0, 1, 4 e 5.\nDe acordo com o plano cartesiano desse mapeamento, a área da região de descanso que está sendo projetada é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1."
+        },
+        {
+          "letra": "B",
+          "texto": "4."
+        },
+        {
+          "letra": "C",
+          "texto": "16."
+        },
+        {
+          "letra": "D",
+          "texto": "17."
+        },
+        {
+          "letra": "E",
+          "texto": "32."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Matemática – Geometria Analítica",
+        "Matemática – Propriedades de Quadriláteros"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Aquário gigante estoura em Berlim\nVeja como era a atração que ficava dentro do saguão de um hotel\n14 metros de altura\nhomem com a altura média de 1,7m\n11,5 metros de diâmetro\nHabitava 1.500 peixes exóticos\nElevador no meio do aquário\ncomportava 1 milhão de litros de água\nFonte: AquaDom & Sea Life Berlin\nInfográfico elaborado em: 16/12/2022\nUm aquário com um milhão de litros de água se rompeu no saguão de um hotel em Berlim, na Alemanha. O AquaDom abrigava peixes tropicais, tinha a superfície lateral inteiramente composta por placas de vidro e era considerado o maior aquário cilíndrico do mundo.\nConsidere 3 como aproximação para $\\pi$.\nDe acordo com os dados do texto e do infográfico, a área superficial, em metros quadrados, de vidro que compunha a superfície lateral do aquário era",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "483."
+        },
+        {
+          "letra": "B",
+          "texto": "681."
+        },
+        {
+          "letra": "C",
+          "texto": "966."
+        },
+        {
+          "letra": "D",
+          "texto": "1 389."
+        },
+        {
+          "letra": "E",
+          "texto": "1 759."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Matemática – Geometria Espacial (Cilindro)",
+        "Matemática – Cálculo de Área"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Durante as 5 primeiras semanas de campanha eleitoral, um candidato a prefeito observou uma melhora no seu desempenho nas pesquisas de intenção de voto, constatando que o percentual de eleitores propensos a votar nele cresceu de forma linear à medida que suas propostas eram apresentadas à população, conforme pode ser observado no gráfico.\nSabendo que essa campanha durará 7 semanas, a assessoria do candidato estimou o percentual de eleitores propensos a votar nele no dia da eleição, assumindo que o comportamento observado no gráfico se manterá nas próximas duas semanas.\nAssim, o percentual encontrado pela assessoria foi de\nTempo de Campanha (em semanas)\n0  1  2  3  4  5  6  7\n8% 13% 18% 23% 28% 33%",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "33%."
+        },
+        {
+          "letra": "B",
+          "texto": "38%."
+        },
+        {
+          "letra": "C",
+          "texto": "43%."
+        },
+        {
+          "letra": "D",
+          "texto": "46%."
+        },
+        {
+          "letra": "E",
+          "texto": "48%."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Matemática – Progressão Aritmética",
+        "Matemática – Análise de gráficos e tabelas"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Após o fim das competições das Olimpíadas de 2024, foi possível visualizar qual delegação ficou em primeiro lugar no ranking geral. Estados Unidos e China terminaram com 40 ouros e, com isso, a prata serviu como desempate, deixando os estadunidenses, com 44 (contra 27 dos chineses), na frente. Veja, na tabela, os 10 primeiros colocados do ranking de medalhas.\nColocação | País | Ouro | Prata | Bronze\n1 | Estados Unidos | 40 | 44 | 42\n2 | China | 40 | 27 | 24\n3 | Japão | 20 | 12 | 13\n4 | Austrália | 18 | 19 | 16\n5 | França | 16 | 26 | 22\n6 | Países Baixos | 15 | 7 | 12\n7 | Grã-Bretanha | 14 | 22 | 29\n8 | Coreia do Sul | 13 | 9 | 10\n9 | Itália | 12 | 13 | 15\n10 | Alemanha | 12 | 13 | 8\nAnalisando a tabela, se o primeiro critério utilizado para montagem do ranking olímpico fosse o número total de medalhas, ao invés do número de ouros, os cinco primeiros colocados do ranking seriam, nessa ordem,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Estados Unidos, China, França, Grã-Bretanha e Austrália."
+        },
+        {
+          "letra": "B",
+          "texto": "Estados Unidos, China, Grã-Bretanha, França e Austrália."
+        },
+        {
+          "letra": "C",
+          "texto": "Estados Unidos, China, Japão, Austrália e Grã-Bretanha."
+        },
+        {
+          "letra": "D",
+          "texto": "Estados Unidos, China, Japão, Austrália e França."
+        },
+        {
+          "letra": "E",
+          "texto": "Estados Unidos, China, França, Austrália e Japão."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Matemática – Análise de gráficos e tabelas",
+        "Matemática – Ordenação e ranking"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Molécula inédita que poderia inibir a progressão de leucemia passa por testes\nInédita, a molécula C2E1 foi sintetizada pelo grupo de pesquisa liderado pelo cientista Fernando Coelho, professor do Instituto de Química da Universidade Estadual de Campinas (IQ-Unicamp), e funciona como inibidora da tubulina, uma proteína que constitui os microtúbulos. Componentes do citoesqueleto celular, essas estruturas têm um papel fundamental no processo de mitose – divisão em que são formadas duas células a partir de uma —, pois atuam na distribuição do material genético entre a célula “original” e a que está sendo formada. Dessa forma, ao inibir a tubulina, o composto interrompe a multiplicação das células cancerosas, impedindo o avanço da leucemia.\nA ação da molécula descrita no texto",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "favorece o reconhecimento pelo sistema imune."
+        },
+        {
+          "letra": "B",
+          "texto": "impede a desorganização do envelope celular."
+        },
+        {
+          "letra": "C",
+          "texto": "dificulta os movimentos dos cromossomos."
+        },
+        {
+          "letra": "D",
+          "texto": "promove a condensação da cromatina."
+        },
+        {
+          "letra": "E",
+          "texto": "destrói as membranas citoplasmáticas."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Biologia – Biologia Celular",
+        "Biologia – Divisão Celular (Mitose)",
+        "Biologia – Câncer"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Texto I\nCélulas de defesa são retiradas do paciente, reprogramadas geneticamente em laboratório e, então, reinfundidas para enfrentar o câncer. Essa é a terapia à base de células CAR-T, uma estratégia tão promissora quanto complexa. A boa notícia: o Centro de Terapia Celular (CTC), da Universidade de São Paulo em Ribeirão Preto, vem avançando em um tratamento do tipo com menor custo, além de investigar terapias celulares semelhantes.\nTexto II\nColeta do sangue do paciente para obter Células T\nCélulas T CAR ligam-se às células do câncer e as destroem\nCélula do câncer\nAntígenos\nCélula do câncer\nCélula T CAR\nInfusão das células T CAR no paciente\nProdução das células T CAR em laboratório\nInserção gênica do CAR\nCélula T\nReceptor de antígeno quimérico\nCélula T CAR\nCrescimento das células T CAR em Laboratório\nFonte Texto I: AVANÇAM tratamentos contra o câncer que modificam geneticamente células de defesa. Portal do governo do Estado de São Paulo, São Paulo, 20 jun. 2022. Disponível em: https://www.saopaulo.sp.gov.br/spnoticias/avancam-tratamentos-contra-o-cancer-que-modificam-geneticamente-celulas-de-defesa/. Acesso em: 1 out. 2024.\nFonte Texto II: Centro de Terapia Celular. Como são produzidas as células CAR-T?. Disponível em: https://ctcusp.org/celulas-t-car/o-que-sao-celulas-car-t/. Acesso em: 17 out. 2024.\nA interação específica entre os anticorpos e as células do câncer, gerada pelo tratamento explicitado nos textos I e II, acontece porque os linfócitos T passaram por um processo de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "clonagem."
+        },
+        {
+          "letra": "B",
+          "texto": "multiplicação."
+        },
+        {
+          "letra": "C",
+          "texto": "mutagênese."
+        },
+        {
+          "letra": "D",
+          "texto": "sequenciamento."
+        },
+        {
+          "letra": "E",
+          "texto": "transgenia."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Biologia – Biotecnologia",
+        "Biologia – Engenharia Genética",
+        "Biologia – Terapia Gênica"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Aumento do número de queimadas no Ceará pode trazer problemas respiratórios; entenda o que fazer para se prevenir\nCom as mudanças climáticas e também a chegada do período de estiagem, o número de queimadas tem aumentado em todo o Ceará. [...] De acordo com a pneumologista responsável pelo Programa de Asma Grave e de Difícil Controle do Hospital de Messejana (HM), Isaura Espínola, os incêndios decorrentes da prática na agricultura e da queima de lixo doméstico e industrial geram uma fumaça tóxica que prejudica a saúde das pessoas. “A fumaça está repleta de partículas minúsculas, como sulfatos, nitratos, amônia, cloreto de sódio, fuligem e monóxido de carbono, chamados de material particulado. Essa fumaça tóxica, quando atinge as pessoas, causa vários sintomas, a depender do tipo de material contido na fumaça, da quantidade e tempo de exposição”, explica. [...] O material particulado presente na fumaça tóxica pode continuar agindo por longa data no organismo, principalmente quando há exposição crônica. “Essa exposição, no decorrer do tempo, pode causar alguns tipos de câncer, como de pulmão e leucemia, além de doenças respiratórias, como enfisema, asma e outras\", esclarece.\nAs partículas tóxicas mencionadas no texto, como a fuligem, são responsáveis por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aumentar a umidade no volume de ar inalado."
+        },
+        {
+          "letra": "B",
+          "texto": "dilatar as vias aéreas inferiores do ser humano."
+        },
+        {
+          "letra": "C",
+          "texto": "transmitir vírus e bactérias com ação pulmonar."
+        },
+        {
+          "letra": "D",
+          "texto": "sobrecarregar o epitélio ciliar da mucosa respiratória."
+        },
+        {
+          "letra": "E",
+          "texto": "promover o aquecimento do ar nas cavidades nasais."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Biologia – Sistema Respiratório",
+        "Química – Poluição do Ar",
+        "Biologia – Impactos Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Para determinar se um animal é mesmo albino, é necessária a análise da enzima tirosinase, principal responsável pela produção de melanina. “O albinismo estrito implica na completa perda de função dessa enzima”, afirma o professor da PUCRS, que é doutor em genética evolutiva, com foco na pigmentação de felinos. Além da pele branca, outra característica que pode ser observada em animais albinos são os olhos vermelhos, que também são atingidos pela falta de pigmento. [...] Para que um filhote nasça albino, o pai e a mãe devem ter o alelo para o albinismo, mesmo que não manifestem a condição.\nA partir das informações do texto e da Primeira Lei de Mendel, pode-se considerar que um",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "casal de felinos albinos pode ter filhotes albinos e de pigmentação padrão, gerados por genes dominantes."
+        },
+        {
+          "letra": "B",
+          "texto": "indivíduo albino possui ausência de produção da enzima tirosinase, bloqueada por fatores desconhecidos."
+        },
+        {
+          "letra": "C",
+          "texto": "indivíduo albino apresenta fenótipo conhecido (pelagem branca), porém pode apresentar duas variações de genótipos."
+        },
+        {
+          "letra": "D",
+          "texto": "casal de felinos heterozigoto é formado por indivíduos com pigmentação padrão, porém é possível que um dos seus filhotes seja albino."
+        },
+        {
+          "letra": "E",
+          "texto": "indivíduo com melanina tem a característica determinada por genes recessivos, porém a ausência dela é determinada por genes dominantes."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Biologia – Genética",
+        "Biologia – Leis de Mendel"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Na natureza, há muitos tipos de relações ecológicas: harmônicas, desarmônicas, neutras; entre indivíduos da mesma espécie e entre animais de espécies diferentes. Uma delas envolve o maior mamífero terrestre da América do Sul e um dos falcões mais conhecidos do Brasil: a anta e o gavião-carrapateiro. Ao ouvir a vocalização do gavião-carrapateiro nas proximidades, a anta emite um ruído específico que faz com que a ave encontre o mamífero. Nesse encontro, ele garante carrapatos para se alimentar e ela se alivia temporariamente da coceira causada por eles.\nA relação ecológica estabelecida entre a ave e o mamífero citados na notícia é do tipo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "comensalista."
+        },
+        {
+          "letra": "B",
+          "texto": "competitiva."
+        },
+        {
+          "letra": "C",
+          "texto": "parasitária."
+        },
+        {
+          "letra": "D",
+          "texto": "predatória."
+        },
+        {
+          "letra": "E",
+          "texto": "protocooperativa."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Biologia – Ecologia",
+        "Biologia – Relações Ecológicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "A queima de fogos de artifício é uma atividade comum nas festas de reveillon. Um fenômeno que acontece nessa queima é que, normalmente, se vê o brilho dos fogos primeiro e, após alguns segundos, ouve-se o som da explosão. Isso ocorre porque a luz e o som são ondas que se propagam com velocidades diferentes. Sabendo disso, se uma onda luminosa percorre aproximadamente $300 \\text{ milhões de metros}$ em um segundo e a velocidade de uma onda sonora no ar é de $340 \\text{ m/s}$, um observador que ouvir o som 2 segundos após ver o brilho dos fogos consegue calcular a distância aproximada entre ele e o local onde esses fogos foram lançados.\nO valor que deve ser encontrado pelo observador é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "80 m."
+        },
+        {
+          "letra": "B",
+          "texto": "170 m."
+        },
+        {
+          "letra": "C",
+          "texto": "340 m."
+        },
+        {
+          "letra": "D",
+          "texto": "600 m."
+        },
+        {
+          "letra": "E",
+          "texto": "680 m."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Física – Ondulatória (Velocidade de Propagação)",
+        "Física – Cinemática (Movimento Retilíneo Uniforme)"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Dois carros levando membros de uma mesma família para uma viagem partem do mesmo ponto em uma estrada reta. O carro A parte primeiro, viajando com velocidade constante de $70 \\text{ km/h}$. Após determinado tempo, o carro B parte do mesmo ponto, porém com uma velocidade inicial de $90 \\text{ km/h}$. Depois de percorrer uma certa distância, o motorista do carro B, em contato com as pessoas do carro A, é informado que está $3 \\text{ km}$ à frente deste carro. Ele então decide frear, para ir mais devagar, aplicando uma desaceleração constante de $50 \\text{ km/h}^2$. O carro A, no entanto, continua em seu movimento com velocidade constante.\nNas condições informadas no texto, o carro B ultrapassará o carro A após",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 minutos."
+        },
+        {
+          "letra": "B",
+          "texto": "9 minutos."
+        },
+        {
+          "letra": "C",
+          "texto": "12 minutos."
+        },
+        {
+          "letra": "D",
+          "texto": "24 minutos."
+        },
+        {
+          "letra": "E",
+          "texto": "36 minutos."
+        }
+      ],
+      "alternativaCorreta": "ANULADA",
+      "conteudosAbordados": [
+        "Física – Cinemática",
+        "Física – Movimento Retilíneo Uniforme e Uniformemente Variado"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Um aquecedor elétrico bivolt, que pode ser ligado tanto na tensão de $110 \\text{ V}$ quanto na de $220 \\text{ V}$ e cujo manual mostra uma resistência interna de $44 \\Omega$, é ligado em uma tomada. Uma pessoa, com o objetivo de medir a corrente e a tensão que passam por esse aquecedor e verificar o seu funcionamento, utiliza um amperímetro e um voltímetro. Ao visualizar o visor do amperímetro, ela observa uma corrente de $5 \\text{ A}$.\nA leitura do voltímetro e a potência consumida pelo aquecedor são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "110 V e 275 W."
+        },
+        {
+          "letra": "B",
+          "texto": "110 V e 550 W."
+        },
+        {
+          "letra": "C",
+          "texto": "110 V e 1 100 W."
+        },
+        {
+          "letra": "D",
+          "texto": "220 V e 1 100 W."
+        },
+        {
+          "letra": "E",
+          "texto": "220 V e 1 936 W."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Eletrodinâmica",
+        "Física – Leis de Ohm",
+        "Física – Potência Elétrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Uma pessoa, para preparar um café, deseja aquecer $1 \\text{ litro}$ de água (equivalente a $1 \\text{ kg}$) inicialmente a $20 \\text{ °C}$. Ao realizar a ação, no entanto, ela acaba, por falta de atenção, deixando o fogão ligado por mais tempo que o indicado. Por causa disso, a água entra em ebulição a $100 \\text{ °C}$ e faz com que a pessoa perca $200 \\text{ g}$ dela devido à vaporização durante o processo.\nConsidere o calor específico da água como sendo $1 \\text{ cal/g °C}$ e o calor latente de vaporização da água como $540 \\text{ cal/g}$.\nA quantidade total de energia fornecida pelo fogão é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "188 kcal."
+        },
+        {
+          "letra": "B",
+          "texto": "172 kcal."
+        },
+        {
+          "letra": "C",
+          "texto": "108 kcal."
+        },
+        {
+          "letra": "D",
+          "texto": "80 kcal."
+        },
+        {
+          "letra": "E",
+          "texto": "64 kcal."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Física – Termodinâmica",
+        "Física – Calorimetria",
+        "Física – Calor Latente e Calor Sensível"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Um prédio de 12 andares, que possui uma altura de $40 \\text{ metros}$, é equipado com um elevador de $200 \\text{ kg}$ utilizado para transportar caixas do térreo ao último andar. Por questões de segurança, em cada viagem, o elevador pode transportar até $6 \\text{ caixas}$ de $50 \\text{ kg}$ cada uma. Vale ressaltar que o motor que movimenta esse elevador tem uma potência de $10 \\text{ 000 W}$\nConsidere a aceleração da gravidade como $10 \\text{ m/s}^2$ e despreze as forças dissipativas presentes.\nO tempo que o elevador leva para realizar uma viagem do térreo ao último andar carregando sua capacidade máxima é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 segundos."
+        },
+        {
+          "letra": "B",
+          "texto": "8 segundos."
+        },
+        {
+          "letra": "C",
+          "texto": "10 segundos."
+        },
+        {
+          "letra": "D",
+          "texto": "12 segundos."
+        },
+        {
+          "letra": "E",
+          "texto": "20 segundos."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Física – Mecânica (Trabalho e Energia)",
+        "Física – Potência"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "A produção de ferro metálico, realizado em altos-fornos, é um dos principais processos industriais da siderurgia. O minério de ferro mais comum utilizado nesse processo é a hematita, composta principalmente por óxido de ferro (III) ($Fe_2O_3 = 160 \\text{ g/mol}$). Nos altos-fornos, o óxido de ferro (III) reage com o monóxido de carbono ($CO = 28 \\text{ g/mol}$) gerado pela queima do carvão, produzindo ferro metálico ($Fe = 56 \\text{ g/mol}$) e dióxido de carbono ($CO_2 = 44 \\text{ g/mol}$). A equação química desse processo é:\n$$Fe_2O_3(s) + CO(g) \\rightarrow Fe(s) + CO_2(g)$$\nPensando nisso, em um processo industrial, uma amostra de $1\\,000 \\text{ g}$ de minério contendo óxido de ferro (III) é processada, resultando na obtenção de $441 \\text{ g}$ de ferro metálico (Fe). A pureza aproximada do óxido de ferro nessa amostra é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "79%."
+        },
+        {
+          "letra": "B",
+          "texto": "63%."
+        },
+        {
+          "letra": "C",
+          "texto": "50%."
+        },
+        {
+          "letra": "D",
+          "texto": "44%."
+        },
+        {
+          "letra": "E",
+          "texto": "41%."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Química – Estequiometria",
+        "Química – Reações Químicas",
+        "Química – Cálculos de Pureza"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "As aplicações de enzimas no mercado industrial mundial estão ligadas à Biotecnologia, um conjunto de áreas ligadas à ciência e à tecnologia que envolve Microbiologia, Genética, Bioquímica e Engenharia Química. Essas aplicações visam ao uso de novas matérias-primas e à melhoria de processos e das características físico-químicas de produtos. Portanto, do ponto de vista industrial, uma enzima comercialmente utilizável é aquela que garante a obtenção de um produto final de melhor qualidade que o produto tradicional; a melhoria do processo de produção, reduzindo custos laboratoriais; e a produção de produtos disponíveis de forma reduzida ou indisponíveis no mercado.\nAs enzimas proporcionam uma melhoria no segmento industrial, segundo o texto, pois",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "modificam as fórmulas estruturais dos produtos, deixando eles mais simples e reduzidos."
+        },
+        {
+          "letra": "B",
+          "texto": "interferem no caminho reacional das reações químicas, sendo consumidos no fim do processo."
+        },
+        {
+          "letra": "C",
+          "texto": "aumentam a entalpia dos produtos, diminuindo o tempo da reação e dos processos envolvidos."
+        },
+        {
+          "letra": "D",
+          "texto": "diminuem a energia de ativação das reações químicas, aumentando a produtividade da indústria."
+        },
+        {
+          "letra": "E",
+          "texto": "substituem os reagentes das reações químicas, deixando o processo mais barato e com a mesma qualidade."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Biologia – Bioquímica (Enzimas)",
+        "Química – Cinética Química (Catalisadores)"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "A acidificação do solo é um fenômeno comumente observado na agricultura e refere-se à redução do pH do solo para valores inferiores a 7. Esse processo ocorre quando há um aumento da concentração de íons hidrogênio (H\\textsuperscript{+}). Entre os fatores que contribuem para a acidificação do solo, estão o uso excessivo de fertilizantes nitrogenados, a lixiviação de nutrientes e a decomposição de matéria orgânica. Essa condição pode prejudicar o desenvolvimento das plantas, dificultando a absorção de nutrientes essenciais como cálcio, magnésio e potássio.\nPara sanar o problema explicitado no texto, é necessária a utilização de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fertilizantes fosfatados, que aumentam a disponibilidade de fósforo no solo, reduzindo a acidez."
+        },
+        {
+          "letra": "B",
+          "texto": "herbicidas, que neutralizam os ácidos no solo, aumentando a capacidade de absorção das raízes."
+        },
+        {
+          "letra": "C",
+          "texto": "fungicidas, que reduzem a quantidade de microrganismos, contribuindo para a melhora da acidez do solo."
+        },
+        {
+          "letra": "D",
+          "texto": "compostos calcários, que neutralizam a acidez por meio da reação com íons hidrogênio, elevando o pH do solo."
+        },
+        {
+          "letra": "E",
+          "texto": "fertilizantes orgânicos, que fornecem matéria orgânica capaz de aumentar a acidez, melhorando a absorção de nutrientes."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Química – pH e Acidez",
+        "Biologia – Solo e Nutrição Vegetal"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Os carbonos assimétricos são átomos de carbono que estão ligados a quatro grupos diferentes, o que cria um centro de quiralidade. Essa característica é crucial na química orgânica, pois resulta na formação de moléculas que não são sobreponíveis, chamadas de enantiômeros. Elas são pares de isômeros ópticos que possuem a mesma fórmula molecular, mas apresentam configurações espaciais diferentes, levando a comportamentos distintos em ambientes químicos e biológicos. Por exemplo, a testosterona – conhecida como o principal hormônio sexual masculino – possui alguns carbonos assimétricos, permitindo novas estruturas que possuem papéis diferentes no organismo.\nA quantidade de enantiômeros possíveis de serem formados com a molécula apresentada é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "16."
+        },
+        {
+          "letra": "B",
+          "texto": "25."
+        },
+        {
+          "letra": "C",
+          "texto": "32."
+        },
+        {
+          "letra": "D",
+          "texto": "36."
+        },
+        {
+          "letra": "E",
+          "texto": "64."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Química – Estereoquímica",
+        "Química – Isomeria Óptica"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Em dias frios, é comum as pessoas utilizarem bolsas térmicas que, ao serem ativadas, liberam calor, aquecendo partes do corpo. Essas bolsas contêm uma solução supersaturada de acetato de sódio, que, ao ser pressionada ou agitada, desencadeia um processo de cristalização dessa substância. Durante a cristalização, ocorre a liberação de energia na forma de calor, esquentando a bolsa e, consequentemente, o ambiente ao redor. Esse fenômeno está relacionado à seguinte reação:\n$$ \\text{CH}_3\\text{COONa(aq)} \\rightarrow \\text{CH}_3\\text{COONa(s)} \\quad \\Delta H = -15,8 \\text{ kJ/mol} $$\nA reação apresentada no texto representa um processo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "endotérmico, pois o calor liberado é absorvido pela bolsa térmica."
+        },
+        {
+          "letra": "B",
+          "texto": "exotérmico, pois há liberação de energia que aquece o ambiente ao redor."
+        },
+        {
+          "letra": "C",
+          "texto": "endotérmico, pois há liberação de calor na solidificação do acetato de sódio."
+        },
+        {
+          "letra": "D",
+          "texto": "exotérmico, pois há absorção de calor na estabilização da solução supersaturada."
+        },
+        {
+          "letra": "E",
+          "texto": "exotérmico, pois o valor de entalpia negativo absorve o frio enquanto esquenta o ambiente ao redor."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Química – Termoquímica",
+        "Física – Calor e Temperatura"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Mas evidentemente, como já dissemos, a felicidade também requer bens exteriores, pois é impossível, ou na melhor das hipóteses não é fácil, praticar belas ações sem os instrumentos próprios. Em muitas ações usamos amigos e riquezas e poder político como instrumentos, e há certas coisas cuja falta emana a felicidade – boa estirpe, bons filhos, beleza – pois o homem de má aparência, ou mal nascido, ou só no mundo e sem filhos, tem poucas possibilidades de ser feliz, e tê-las-á ainda menores se seus filhos e amigos forem irremediavelmente maus ou se, tendo tido bons filhos e amigos, estes tiverem morrido. Como dissemos então, a felicidade parece requerer o complemento desta ventura, e é por isto que algumas pessoas identificam a felicidade com a boa sorte, embora outras a identifiquem com a excelência. Fonte: ARISTÓTELES. Ética a Nicômaco. Brasília: Editora Universidade de Brasília, 1985. p. 27. Em seu argumento sobre a felicidade, o filósofo realiza um esforço para destacar o(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "hegemonia dos laços familiares."
+        },
+        {
+          "letra": "B",
+          "texto": "poderio das influências estéticas."
+        },
+        {
+          "letra": "C",
+          "texto": "insuficiência da dimensão interior."
+        },
+        {
+          "letra": "D",
+          "texto": "insignificância dos preceitos morais."
+        },
+        {
+          "letra": "E",
+          "texto": "preponderância da acumulação material."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Filosofia – Ética Aristotélica",
+        "Filosofia – Conceitos de Felicidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Era necessário existir para a salvação do homem, além das disciplinas filosóficas, que são pesquisadas pela razão humana, uma doutrina fundada na revelação divina. Primeiro, porque o homem está ordenado para Deus, como para um fim que ultrapassa a compreensão da razão, como diz Isaías: “O olho não viu, ó Deus, fora de ti, o que preparaste para aqueles que te amam”. Ora, é preciso que o homem, que dirige suas intenções e suas ações para um fim, antes conheça este fim. Era, pois, necessário para a salvação do homem que estas coisas que ultrapassam sua razão lhe fossem comunicadas por revelação divina. Fonte: AQUINO, Tomás de. Suma teológica I. 3. ed. São Paulo: Loyola, 2009. p.138. O argumento expresso no texto enfatiza a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "hegemonia do viés aristotélico."
+        },
+        {
+          "letra": "B",
+          "texto": "irrevogabilidade da crença teísta."
+        },
+        {
+          "letra": "C",
+          "texto": "dispensabilidade do papel sacerdotal."
+        },
+        {
+          "letra": "D",
+          "texto": "superioridade da faculdade reflexiva."
+        },
+        {
+          "letra": "E",
+          "texto": "prevalência da racionalidade salvadora."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Filosofia – Filosofia Medieval",
+        "Filosofia – Relação entre Fé e Razão"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Os problemas relativos à erosão ocorrem quando as taxas de perda de solo ultrapassam níveis naturais, geralmente por falta de práticas conservacionistas. Nas regiões tropicais, onde as chuvas podem ser intensas, os sinais da erosão são óbvios quando os rios se tornam cheios de sedimentos, causando até o assoreamento deles. Fonte: JOSÉ, A.; MARIA. Processos erosivos e recuperação de áreas degradadas. [S. 1.] Oficina de Textos, 2017. O problema ambiental explicitado no texto tende a ser intensificado pela",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "supressão da mata ciliar."
+        },
+        {
+          "letra": "B",
+          "texto": "ação de agentes internos."
+        },
+        {
+          "letra": "C",
+          "texto": "expansão de áreas reflorestadas."
+        },
+        {
+          "letra": "D",
+          "texto": "conservação da vegetação nativa."
+        },
+        {
+          "letra": "E",
+          "texto": "contenção do escoamento superficial."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Geografia – Problemas Ambientais",
+        "Geografia – Erosão e Degradação do Solo"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "A implantação da usina hidrelétrica de Belo Monte, no Pará, aumentou em até três vezes as emissões de gases de efeito estufa (GEE) na região amazônica. As conclusões são de um estudo coordenado pelo Instituto de Geociências (IGc) da USP, em parceria com a Universidade de Linköping, na Suécia, a Universidade de Washington, nos Estados Unidos, e a Universidade Federal do Pará (UFPA). Os pesquisadores chegaram a esse resultado depois de medirem os fluxos de metano (CH\\textsubscript{4}) e dióxido de carbono (CO\\textsubscript{2}) em 23 pontos dos reservatórios da usina e no curso do rio Xingu. As amostras foram coletadas durante as estações seca e cheia no primeiro e no segundo ano após a inundação dos reservatórios (2016 e 2017) e comparadas com as emissões de GEE antes da construção e implantação da usina (2012 e 2014). Fonte: MARIZ, Fabiana. Usina de Belo Monte eleva em até três vezes a emissão de gases de efeito estufa na região amazônica, sugere estudo. Jornal da USP, São Paulo, 13 jul. 2021. Disponível em: https://jornal.usp.br/ciencias/usina-de-belo-monte-eleva-em-ate-tres-vezes-a-emissao-de-gases-de-efeito-estufa-na-regiao-amazonica-sugere-estudo/. Acesso em: 27 set. 2024. O problema ambiental explicitado no texto é decorrente da",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "compactação do solo em terrenos adjacentes."
+        },
+        {
+          "letra": "B",
+          "texto": "modificação dos padrões de drenagem superficial."
+        },
+        {
+          "letra": "C",
+          "texto": "redução da biodiversidade de ambientes aquáticos."
+        },
+        {
+          "letra": "D",
+          "texto": "intensificação da eutrofização em meandros fluviais."
+        },
+        {
+          "letra": "E",
+          "texto": "decomposição da matéria orgânica em áreas inundadas."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Geografia – Impactos Ambientais",
+        "Química – Gases de Efeito Estufa"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "A situação é trágica e deve impactar meio milhão de pessoas até o final de 2023. [...] As populações mais impactadas são as que menos contribuíram para as emissões de gases do efeito estufa, que nos trouxeram a esse cenário devastador. Estamos falando de ribeirinhos, pescadores e pescadoras, grupos indígenas [...]. Essas populações são as primeiras a sofrer com as consequências da seca e com as estiagens dos rios no Norte. Fonte: EMERGÊNCIA [...]: sua doação faz a diferença!. Greenpeace. Disponível em: https://doe.greenpeace.org.br/emergencia[...]. Acesso em: 18 out. 2023. (adaptado). Ao abordar a ocorrência de secas, o texto destaca o impacto desse problema ambiental sobre os(as)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "associações extrativistas no bioma da Mata Atlântica."
+        },
+        {
+          "letra": "B",
+          "texto": "sociedades latifundiárias no bioma das Pradarias."
+        },
+        {
+          "letra": "C",
+          "texto": "comunidades tradicionais no bioma Amazônico."
+        },
+        {
+          "letra": "D",
+          "texto": "agricultores familiares no bioma do Cerrado."
+        },
+        {
+          "letra": "E",
+          "texto": "trabalhadores rurais no bioma da Caatinga."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Geografia – Questões Socioambientais",
+        "Geografia – Biomas Brasileiros"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "O fim do bônus demográfico no Brasil deve ser antecipado em até 4 anos, segundo o professor da Ence (Escola Nacional de Ciências Estatísticas), do IBGE (Instituto Brasileiro de Geografia e Estatística), José Eustáquio Diniz. O Censo Demográfico de 2022 mostra que o país está envelhecendo cada vez mais rápido. O 1º bônus brasileiro começou no final da década de 1960 e estava previsto para terminar em 2037. Segundo Diniz, no entanto, com o crescimento vegetativo menor que o esperado, o pico da população em idade ativa deve ser registrado \"3 ou 4 anos\" antes do projetado inicialmente. Fonte: ALBERNAZ, Isadora; PILLE, Letícia. Fim do bônus demográfico será antecipado em 4 anos, diz ex-IBGE. Poder360, 23 set. 2024. Disponível em: https://www.poder360.com.br/brasil/fim-do-bonus-demografico-sera-antecipado-em-4-anos-diz-ex-ibge/. Acesso em: 24 set. 2024. Considerando o cenário descrito no texto, um fator de ordem social responsável pela antecipação do fim do bônus demográfico é a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "retração das ofertas de emprego."
+        },
+        {
+          "letra": "B",
+          "texto": "redução dos índices de migração."
+        },
+        {
+          "letra": "C",
+          "texto": "diminuição da expectativa de vida."
+        },
+        {
+          "letra": "D",
+          "texto": "ampliação da população de jovens."
+        },
+        {
+          "letra": "E",
+          "texto": "contração das taxas de fecundidade."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Geografia – Demografia",
+        "Sociologia – Estrutura Populacional"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Essa categoria está relacionada às representações sensórias - destacadamente, a visão para que, em seguida, pelo empreendimento do entendimento, ela seja relacionada com a “história viva\" da sociedade, como determinante e determinada de certas relações, caracterizando regiões. Por outro lado, mesmo partindo de pressupostos semelhantes da concepção anterior, ela não se restringe somente a um sentido já que “não é formada apenas de volumes, mas também de cores, movimentos, odores, sons etc\". Fonte: BERNARDES, A. Milton Santos: os conceitos geográficos e suas concepções. Formação (Online), v. 27, n. 50, p. 275-299, 2020. (adaptado). As características mencionadas no texto descrevem o conceito de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ambiente."
+        },
+        {
+          "letra": "B",
+          "texto": "lugar."
+        },
+        {
+          "letra": "C",
+          "texto": "paisagem."
+        },
+        {
+          "letra": "D",
+          "texto": "temporalidade."
+        },
+        {
+          "letra": "E",
+          "texto": "território."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Geografia – Conceitos Geográficos"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Lei que reconhece expressões artísticas cristãs como manifestação cultural é sancionada.\nFoi sancionado o Projeto de Lei nº 4168, de 2021, que reconhece expressões artísticas, aspectos religiosos, além de reflexos e influências do cristianismo como manifestação cultural nacional. O reconhecimento foi oficializado a partir da Lei nº 14.969, publicada nesta segunda-feira, 16 de setembro, no Diário Oficial da União. [...]\nO objetivo da iniciativa aprovada pelo Congresso Nacional é assegurar que o cristianismo seja valorizado como parte importante do patrimônio cultural brasileiro, ressaltando a influência histórica e sociocultural ao desenvolvimento do país. Fonte: BRASIL, Acompanhe o Planalto. Presidente sanciona lei que reconhece expressões artísticas cristãs como manifestação cultural. [Brasília]: Planalto, [2024]. Disponível em: https://www.gov.br/planalto/pt-br. Acesso em: 25 set. 2024. (adaptado). O reconhecimento feito pelo Estado brasileiro visa ao(à)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "preservação de patrimônios históricos materiais."
+        },
+        {
+          "letra": "B",
+          "texto": "acirramento das disputas religiosas regionais."
+        },
+        {
+          "letra": "C",
+          "texto": "valorização do legado identitário nacional."
+        },
+        {
+          "letra": "D",
+          "texto": "decrescimento do sincretismo religioso."
+        },
+        {
+          "letra": "E",
+          "texto": "aumento da crença religiosa oficial."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Sociologia – Cultura e Identidade",
+        "História – Patrimônio Cultural"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Os gregos, durante muitos séculos, gostaram de poesias, em forma de cânticos, dedicadas a temas míticos. Por serem cantadas, podiam ser memorizadas mais facilmente e eram transmitidas por muitas gerações. Para nós, que vivemos uma civilização baseada na escrita e no registro em \"memórias\" externas ao homem, como é o caso das modernas “memórias” dos computadores, parece difícil acreditar que os gregos pudessem saber de cor centenas de versos de poemas. Isso era possível, em grande parte, por se tratar de poesias cantadas, já que, como ainda hoje, é muito mais fácil memorizar canções do que prosa. Fonte: FUNARI, Pedro Paulo. Grécia e Roma. São Paulo: Contexto, 2022. p. 22. Com base na análise apresentada, a transmissão dos poemas da Grécia Antiga ilustra uma sociedade marcada pela",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ancestralidade."
+        },
+        {
+          "letra": "B",
+          "texto": "oralidade."
+        },
+        {
+          "letra": "C",
+          "texto": "patriarcalidade."
+        },
+        {
+          "letra": "D",
+          "texto": "prolixidade."
+        },
+        {
+          "letra": "E",
+          "texto": "religiosidade."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "História – Grécia Antiga",
+        "Língua Portuguesa – Gêneros Literários"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Os pernambucanos se sentiram particularmente injustiçados pela escolha do Rio de Janeiro para capital da Corte e depois do Reino Unido de Portugal, Brasil e Algarves, porque entre eles ainda predominava a ilusão de que o Nordeste era o responsável pela exportação da maior riqueza colonial, o açúcar. (Na verdade, essa região já tinha sido economicamente superada por outras áreas produtivas.) Alegavam ainda que a importância da sua luta contra os holandeses Ihes garantia direitos especiais não respeitados pela monarquia. Além do apelo do velho regionalismo, contribuíram para a insatisfação dos pernambucanos – contra os “exploradores\" e a Coroa – várias ideias revolucionárias iluministas em voga na época. Fonte: MESGRAVI, Laima. História do Brasil Colônia. São Paulo: Contexto, 2022. p. 165-166. O movimento que eclodiu a partir da situação explanada no trecho, com a adesão de outras províncias, evidenciou uma crise colonial ao constituir um(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "golpe popular, que almejou a democracia universal do Brasil."
+        },
+        {
+          "letra": "B",
+          "texto": "levante nacionalista, que objetivou a liberdade da monarquia brasileira."
+        },
+        {
+          "letra": "C",
+          "texto": "insurreição separatista, que vicejou a autonomia das províncias rebeldes."
+        },
+        {
+          "letra": "D",
+          "texto": "revolução iluminista, que implantou o Estado laico no Reino Unido brasileiro."
+        },
+        {
+          "letra": "E",
+          "texto": "sublevação abolicionista, que buscou a liberdade comercial das províncias açucareiras."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "História – Brasil Colônia",
+        "História – Revoltas Coloniais"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "O Renascimento assinala o florescimento de um longo processo anterior de produção, circulação e acumulação de recursos econômicos, desencadeado desde a Baixa Idade Média. São os excedentes dessa atividade crescente em progressão maciça que serão utilizados para financiar, manter e estimular uma ativação econômica. Surge assim a sociedade dos mercadores, organizada por princípios como a liberdade de iniciativa, a cobiça e a potencialidade do homem, compreendido como senhor todo-poderoso da natureza, destinado a dominá-la e submetê-la à sua vontade [...]. Fonte: SEVCENKO, Nicolau. O Renascimento. São Paulo: Editora Contexto, 2024. p. 12-13. O autor associa o movimento mencionado ao",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "estabelecimento da sociedade estamental."
+        },
+        {
+          "letra": "B",
+          "texto": "desaparecimento das sociedades feudais."
+        },
+        {
+          "letra": "C",
+          "texto": "crescimento das atividades mercantis."
+        },
+        {
+          "letra": "D",
+          "texto": "incremento do comércio escravista."
+        },
+        {
+          "letra": "E",
+          "texto": "aumento do poder religioso."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "História – Renascimento",
+        "História – Transição Feudalismo-Capitalismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Desde o início, as atitudes do governo de Vichy, sob direção do marechal Pétain, corresponderam à política nazista. A República de Vichy perseguiu judeus, comunistas, refugiados políticos alemães emigrados na França e outros alvos nazistas. Segundo o historiador Max Hastings, somente o medo e o ódio visceral que as elites aristocráticas, comerciais e burguesas da França sentiam em relação à esquerda e aos judeus poderiam explicar a aquiescência e a cumplicidade com os invasores, pelo menos até a opressão nazista ultrapassar sua maleável tolerância e a vitória dos Aliados parecer iminente. Para desempenhar tais políticas de sujeição de complacência, o regime de Vichy não economizou esforços. Fonte: FERRAZ, Francisco Cesar. Segunda Guerra Mundial. São Paulo: Editora Contexto, 2022. p. 54. Sobre a relação entre a Alemanha nazista e a República de Vichy, o autor apresenta uma postura",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "defensora da vitória do país invasor."
+        },
+        {
+          "letra": "B",
+          "texto": "orgulhosa da resistência do país derrotado."
+        },
+        {
+          "letra": "C",
+          "texto": "apologética da dominação do país vitorioso."
+        },
+        {
+          "letra": "D",
+          "texto": "depreciativa da submissão do país vencido."
+        },
+        {
+          "letra": "E",
+          "texto": "desmerecedora da situação do país conquistador."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "História – Segunda Guerra Mundial",
+        "História – Fascismo e Nazismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Esta longa sucessão de preâmbulos necessários conduz enfim nossa inteligência, gradualmente emancipada, ao seu estado definitivo de positividade. Tendo tais exercícios preparatórios mostrado espontaneamente a inanidade radical das explicações vagas e arbitrárias próprias à filosofia inicial, quer teológica, quer metafísica, o espírito humano renuncia de ora em diante às pesquisas absolutas, que só convinham à sua infância, e circunscreve os seus esforços ao domínio desde então rapidamente progressivo, da verdadeira observação, única base possível dos conhecimentos realmente acessíveis, criteriosamente adaptados às nossas necessidades efetivas. Em uma palavra, a revolução fundamental que caracteriza o estado viril de nossa inteligência consiste na pesquisa das leis, isto é, das relações constantes que existem entre os fenômenos observados. Quer se trate dos menores ou dos mais sublimes efeitos, do choque e da gravidade, quer do pensamento e da moralidade, deles não podemos conhecer realmente senão as diversas ligações mútuas próprias à sua realização, sem nunca penetrar o mistério da sua produção. Fonte: COMTE, Auguste. Discurso preliminar sobre o espírito positivo. São Paulo: Edições 70, 2023. (adaptado). Com base no texto, para o sociólogo, o progresso intelectual da humanidade culmina na",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "validação da abstração teórica."
+        },
+        {
+          "letra": "B",
+          "texto": "ratificação da essência natural."
+        },
+        {
+          "letra": "C",
+          "texto": "sobreposição da ação racional."
+        },
+        {
+          "letra": "D",
+          "texto": "reiteração da vontade divina."
+        },
+        {
+          "letra": "E",
+          "texto": "perseguição da causa final."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Filosofia – Positivismo",
+        "Sociologia – Auguste Comte"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "O resultado da circulação de mercadorias, a substituição de uma mercadoria por outra, não parece ser mediado por sua própria mudança de forma, mas pela função do dinheiro como meio de circulação, que faz circular mercadorias que, por si mesmas, são imóveis, transferindo-as das mãos em que elas são não valores de uso para as mãos em que elas são valores de uso e, nesse processo, movendo-se sempre em sentido contrário ao seu próprio curso. O dinheiro remove constantemente as mercadorias da esfera da circulação, assumindo seus lugares e, assim, distanciando-se de seu próprio ponto de partida. Por essa razão, embora o movimento do dinheiro seja apenas a expressão da circulação de mercadorias, é esta última que, ao contrário, aparece simplesmente como resultado do movimento do dinheiro. Fonte: MARX, Karl. O Capital: crítica da Economia Política. Livro 1. São Paulo: Boitempo, 2013. A lógica capitalista descrita por Marx no texto revela o processo de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fetichização, que vivifica as mercadorias."
+        },
+        {
+          "letra": "B",
+          "texto": "alienação, que interioriza as atividades laborais."
+        },
+        {
+          "letra": "C",
+          "texto": "subjetivação, que potencializa os trabalhadores."
+        },
+        {
+          "letra": "D",
+          "texto": "emancipação, que supera a coisificação humana."
+        },
+        {
+          "letra": "E",
+          "texto": "conscientização, que viabiliza a revolução proletária."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Sociologia – Karl Marx",
+        "Filosofia – Teoria Crítica",
+        "História – Capitalismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Uma escola de Brasília denunciou nesta sexta-feira (12) um caso de racismo contra alunos da instituição, ocorrido durante uma partida de futebol realizada no início do mês. Segundo a escola, durante o jogo, alunos de uma outra instituição, também da capital federal, proferiram palavras ofensivas aos estudantes.\nFonte: CRAIDE, Sabrina. Escola de Brasília denuncia racismo e preconceito durante jogo. Agência Brasil, 12 abr. 2024. Disponível em: https://agenciabrasil.ebc.com.br. Acesso em: 22 set. 2024. (adaptado).\nA acusação apresentada relaciona-se à concepção sociológica de que a discriminação é forjada na",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "diferença entre mecanismos de emancipação."
+        },
+        {
+          "letra": "B",
+          "texto": "associação entre marcadores de subjugação."
+        },
+        {
+          "letra": "C",
+          "texto": "competição entre grupos de desportistas."
+        },
+        {
+          "letra": "D",
+          "texto": "comparação entre capacidades físicas."
+        },
+        {
+          "letra": "E",
+          "texto": "interação entre sujeitos congêneres."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Sociologia – Discriminação e Racismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "O humor do cartum decorre principalmente do(a)\n(No cartum, um mágico faz um truque com a cartola para uma criança, que pergunta: \"Do you have any tricks better suited for an increasingly cashless society?\")",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "frustração do mágico pela criança mostrar uma realidade financeira moderna."
+        },
+        {
+          "letra": "B",
+          "texto": "crítica da criança sobre a obsolescência do dinheiro em espécie atualmente."
+        },
+        {
+          "letra": "C",
+          "texto": "questionamento da criança sobre a validade da magia proposta pelo artista."
+        },
+        {
+          "letra": "D",
+          "texto": "interesse do mágico pelo truque que envolve um coelho saindo da cartola."
+        },
+        {
+          "letra": "E",
+          "texto": "surpresa da criança pelo mágico possuir habilidades digitais nulas."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Língua Portuguesa – Análise de Gêneros Textuais (Cartum)",
+        "Sociologia – Tecnologia e Sociedade"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "The Art of Dining: exploring the history of food in Islamic culture\nThe second-largest religion by population after Christianity, Islam covers a vast geographic area, ranging from Spain to north Africa and the Middle East, through central and south-east Asia, Indonesia and beyond. The various culinary traditions that exist in this broad geography are equally sizable, making for a truly bounteous range of food — as well as accompanying servingware, art, cookware, cookbooks and much more. Approaching the Islamic artistic tradition by way of its culinary culture, the new exhibition at the Detroit Institute of Arts (DIA), The Art of Dining: Food Culture in the Islamic World, collects more than 250 works of art and artefacts to give audiences a taste of this remarkable history.\nFonte: ESPOSITO, Veronica. The Art of Dining: exploring the history of food in Islamic culture. The Guardian, 23 set. 2024. Disponível em: https://www.theguardian.com/artanddesign/2024/sep/23/art-of-diningislamic-food-exhibit. Acesso em: 25 set. 2024.\nNo texto, a expressão “equally sizable” ressalta a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "prevalência da culinária em comparação às outras tradições culturais."
+        },
+        {
+          "letra": "B",
+          "texto": "vasta diversidade de tradições culinárias em países de origem islâmica."
+        },
+        {
+          "letra": "C",
+          "texto": "semelhança entre pratos típicos presentes nos diferentes países islâmicos."
+        },
+        {
+          "letra": "D",
+          "texto": "dificuldade em manter tradições culinárias entre regiões amplas e variadas."
+        },
+        {
+          "letra": "E",
+          "texto": "predominância de alimentos específicos nas regiões islâmicas mencionadas."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "\"We were walking in the city and I remember seeing an old lady sweeping the street and I said, 'Dad it's kind of sad that that poor old woman has to do that kind of work.' He said, 'No, she has a job, she feels useful, she has a place in our society,\" Joel recalls.\n\"I realized they [Europeans] don't throw old people away like we tend to do here in the States. They allow for people who are aged to have a useful place in the scheme of things, and I thought, 'ya know that's a good metaphor for someone my age to consider. You don't have to squeeze your whole life into your 20s and 30s trying to make it, trying to achieve that American dream, getting in the rat race, and killing yourself. You have a whole life to live. I kind of used ‘Vienna' as a metaphor, there is a reason for being old, a purpose.\"\nFonte: WALTHALL, Catherine. Behind the Meaning of the Carpe Diem Song \"Vienna\" by Billy Joel. American songwriter, [s. d.]. Disponível em: https://americansongwriter.com/meaning-vienna-billy-joel-songlyrics/. Acesso em: 17 maio 2024\nSegundo o cantor Billy Joel, a canção Vienna foi feita com o objetivo de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "defender a busca pelo sonho americano."
+        },
+        {
+          "letra": "B",
+          "texto": "apontar os riscos desenvolvidos pela fama."
+        },
+        {
+          "letra": "C",
+          "texto": "demonstrar a importância do amor paterno."
+        },
+        {
+          "letra": "D",
+          "texto": "relatar as histórias de moradores da cidade."
+        },
+        {
+          "letra": "E",
+          "texto": "incentivar a apreciação do percurso da vida."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Parece que estamos todos hipnotizados pelo brilho das telas. E quem pode culpá-los? Os celulares são pequenos portais para o mundo, ou pelo menos para o último meme viral. Mas quando se trata de educação, esse encantamento constante pode estar nos levando por um caminho perigoso. Por isso, a grande questão é: por que ainda estamos permitindo que esses dispositivos mágicos invadam nossas salas de aula? Vamos lembrar que a escola é o espaço onde os jovens deveriam se dedicar ao aprendizado. Lembram-se daquelas coisas chamadas livros? Cadernos? Sim, eles ainda existem! E, claro, todo mundo sabe que os alunos usam seus celulares apenas para aprofundar o conhecimento acadêmico, certo? Nunca para perder tempo no TikTok ou para resolver questões vitais como \"qual é o emoji perfeito para essa situação?\".\nFonte: FARIA, Renato de. Proibir celulares nas escolas: o grande acordo entre escola e família. Estado de Minas, 16 set. 2024. Disponível em: https://www.em.com.br/colunistas/filosofiaexplicadinha/2024/09/6942989-proibir-celulares-nas-escolas-o-grande-acordo-entre-escola-e-familia.html. Acesso em: 21 set. 2024. (adaptado).\nComo estratégia discursiva para o convencimento dos leitores, o autor do excerto",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "defende a fusão entre tecnologias tradicionais e contemporâneas."
+        },
+        {
+          "letra": "B",
+          "texto": "destaca as vantagens oferecidas pelos celulares no acesso à leitura."
+        },
+        {
+          "letra": "C",
+          "texto": "relativiza o uso negativo de celulares ao descrevê-los com metáforas."
+        },
+        {
+          "letra": "D",
+          "texto": "ironiza o comportamento de estudantes por meio de perguntas retóricas."
+        },
+        {
+          "letra": "E",
+          "texto": "questiona a necessidade de ainda existirem redes sociais de entretenimento."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Língua Portuguesa – Gêneros Textuais (Crônica/Artigo de Opinião)",
+        "Língua Portuguesa – Estratégias Argumentativas"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Debaixo da tamarindo\nNo tempo de meu Pai, sob estes galhos,\nComo uma vela fúnebre de cera,\nChorei bilhões de vezes com a canseira\nDe inexorabilíssimos trabalhos!\nHoje, esta árvore, de amplos agasalhos,\nGuarda, como uma caixa derradeira,\nO passado da Flora Brasileira\nE a paleontologia dos Carvalhos!\nQuando pararem todos os relógios\nDe minha vida e a voz dos necrológios\nGritar nos noticiários que eu morri,\nVoltando à pátria da homogeneidade,\nAbraçada com a própria Eternidade\nA minha sombra há de ficar aqui!\nFonte: ANJOS, Augusto dos. Debaixo da tamarindo. In: ANJOS, Augusto dos. Eu. 19. ed. Rio de Janeiro: Livraria Francisco Alves, 1976. p. 54-55.\nNo poema, identifica-se que há",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "utilização de ironia por meio de um termo técnico em “E a paleontologia dos Carvalhos!”."
+        },
+        {
+          "letra": "B",
+          "texto": "presença de comparação implícita na subjetividade do verso “Como uma vela fúnebre de cera”."
+        },
+        {
+          "letra": "C",
+          "texto": "repetição de ideia óbvia sobre o que sente o eu lírico em “Chorei bilhões de vezes com a canseira”."
+        },
+        {
+          "letra": "D",
+          "texto": "exageração da função prática de um necrológio em “a voz dos necrológios/ Gritar nos noticiários”."
+        },
+        {
+          "letra": "E",
+          "texto": "atenuação de um fato chocante por meio de “Quando pararem todos os relógios/De minha vida”."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Língua Portuguesa – Análise Literária (Poesia)",
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Sabia perfeitamente que era assim, acostumara-se a todas as violências, a todas as injustiças. E aos conhecidos que dormiam no tronco e aguentavam cipó de boi oferecia consolações: “Tenha paciência. Apanhar do governo não é desfeita.” Mas agora rangia os dentes, soprava. Merecia castigo? — An! E, por mais que forcejasse, não se convencia de que o soldado amarelo fosse governo. Governo, coisa distante e perfeita, não podia errar. [...] Para que serviam os soldados amarelos? [...] Havia muitas coisas. Ele não podia explicá-las, mas havia. Fossem perguntar a seu Tomás da bolandeira, que lia livros e sabia onde tinha as ventas. Seu Tomás da bolandeira contaria aquela história. Ele, Fabiano, um bruto, não contava nada. Só queria voltar para junto de sinha Vitória, deitar-se na cama de varas.\nFonte: RAMOS, Graciliano. Vidas secas. 120. ed. Rio de Janeiro: Record, 2013.\nO elemento social focalizado no fragmento é a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "idealização cultural da vida interiorana."
+        },
+        {
+          "letra": "B",
+          "texto": "valorização coletiva do conhecimento literário."
+        },
+        {
+          "letra": "C",
+          "texto": "resignação popular frente às hierarquias estruturais."
+        },
+        {
+          "letra": "D",
+          "texto": "reação policial frente às demandas governamentais."
+        },
+        {
+          "letra": "E",
+          "texto": "elaboração técnica dos questionamentos político-sociais."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Língua Portuguesa – Literatura Brasileira (Prosa Modernista)",
+        "Sociologia – Estruturas Sociais e Poder"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Texto I\nCom início em setembro de 2022, a exposição \"Um defeito de cor\" parte do livro da autora mineira Ana Maria Gonçalves — um dos maiores expoentes da Literatura Negra no Brasil — para ilustrar a história da personagem Kehinde, mulher africana que precisa lutar pela liberdade para construir sua vida no Brasil.\nA partir de um olhar interpretativo do livro (já considerado um clássico da literatura afrofeminista), que aborda décadas da história do Brasil e do continente africano, a mostra reúne 400 desenhos, pinturas, vídeos, esculturas e instalações. Mais de 100 artistas cariocas, baianos, maranhenses e de alguns países africanos – sendo majoritariamente pessoas negras – participam da mostra.\nFonte Texto I: UM DEFEITO de cor: em cartaz no Rio, mostra une Literatura, Arte e História. Educação e Território, 4 jul. 2023. Disponível em: https://educacaoeterritorio.org.br/agenda/um-defeito-de-cor-em-cartaz-no-rio-mostra-une-literatura-arte-e-historia/#:~:text=Com%20in%C3%ADcio%20em%20setembro%20de, construir%20sua%20vida%20no%20Brasil. Acesso em: 23 set. 2024. (adaptado) Fonte Texto II:\n(Imagem de uma obra de arte com título: Obra da série Afetocolagens, de Silvana Mendes, que integra a exposição \"Um defeito de cor\".)\nMENDES, Silvana. Afetocolagens - Série II. 2023. 100 × 70 cm. Disponível em: https://www.premiopipa.com/silvana-mendes/. Acesso em: 23 set. 2024.\nA obra visual da artista Silvana Mendes (texto II) contribui para o enriquecimento da narrativa da exposição mencionada (texto I) ao",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "buscar a desconstrução de representações negativas dos corpos negros."
+        },
+        {
+          "letra": "B",
+          "texto": "focalizar a diversidade dos elementos naturais das paisagens tropicais."
+        },
+        {
+          "letra": "C",
+          "texto": "atenuar a memória em torno da violência sofrida por afrodescendentes."
+        },
+        {
+          "letra": "D",
+          "texto": "centralizar a religiosidade cristã presente no legado afro-brasileiro."
+        },
+        {
+          "letra": "E",
+          "texto": "valorizar a riqueza material adquirida na jornada colonizadora."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Arte – Arte Afro-brasileira",
+        "História – Cultura e Sociedade"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Por isso José não dorme, ou sim dorme e em ânsias desperta, atirado para uma realidade que não o faz esquecer-se do sonho, a ponto de poder-se dizer que, acordado, sonha o sonho de quando dorme, e, dormindo, ao mesmo tempo que busca desesperadamente fugir-lhe, já sabe que é para tornar a encontrá-lo, outra vez e sempre, este sonho é uma presença sentada no limiar da porta que está entre o dormire o velar, saindo e entrando José tem de enfrentar-se com ela. Entendido já foi que a palavra que define exactamente este novelo é remorso, mas a experiência e a prática da comunicação, ao longo das idades, têm vindo a demonstrar que a síntese não passa duma ilusão, é assim, salvo seja, como uma invalidez da linguagem, não é querer dizer amor e não chegar a língua, é ter língua e não chegar ao amor\nFonte: SARAMAGO, José. O Evangelho segundo Jesus Cristo. São Paulo: Companhia das letras, 2005.\nAlém de marcar o estilo característico do autor, o uso peculiar da pontuação no texto ajuda a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "criar um fluxo contínuo de pensamentos, refletindo a angústia e a confusão interna de José."
+        },
+        {
+          "letra": "B",
+          "texto": "separar de maneira clara as diferentes ideias e emoções vividas por José ao longo da narrativa."
+        },
+        {
+          "letra": "C",
+          "texto": "criar uma estrutura rígida e organizada, em que cada pensamento de José é delimitado e distinguível."
+        },
+        {
+          "letra": "D",
+          "texto": "tornar a leitura mais lenta e fragmentada, facilitando a compreensão do leitor sobre os sentimentos da personagem."
+        },
+        {
+          "letra": "E",
+          "texto": "destacar as pausas naturais do discurso, permitindo que o leitor interprete cada parte isoladamente e com maior clareza."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Língua Portuguesa – Estilo e Sintaxe",
+        "Língua Portuguesa – Análise Literária (Prosa)"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "(No cartum, um grande prédio com várias pequenas casas ao redor. No topo do prédio, um balão de fala diz: “É BOM PORQUE TEM TUDO PERTO.”)\nO uso da linguagem verbal e não verbal no cartum propõe uma crítica ao(à)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "impasse de encontrar opções fora das grandes cidades, sugerindo que as pessoas deveriam buscar alternativas mais distantes."
+        },
+        {
+          "letra": "B",
+          "texto": "superlotação e verticalização das cidades, contrapondo a proximidade dos serviços à falta de qualidade de vida nesses espaços."
+        },
+        {
+          "letra": "C",
+          "texto": "modernização das cidades, argumentando que a inovação tecnológica e o crescimento vertical são prejudiciais ao estilo de vida tradicional."
+        },
+        {
+          "letra": "D",
+          "texto": "falta de oportunidades nas zonas rurais, forçando as pessoas a viver em cidades superlotadas, limitando seu acesso a ambientes mais saudáveis."
+        },
+        {
+          "letra": "E",
+          "texto": "dificuldade de se locomover em áreas urbanas saturadas, ironizando o fato de o trânsito e a falta de transporte eficiente tornarem a proximidade irrelevante."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Geografia – Urbanização",
+        "Sociologia – Espaço Urbano e Qualidade de Vida",
+        "Língua Portuguesa – Análise de Gêneros Textuais (Cartum)"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Se um pai de famia honrado,\nMorre, dexando a famia,\nOs seus fiinho adorado\nPor dono da moradia,\nE aqueles irmão mais véio,\nSem pensá nos Evangéio,\nContro os novo a toda hora\nLança da inveja o veneno\nInté botá os mais pequeno\nDaquela casa pra fora.\nDisso tudo o resurtado\nSeu dotô sabe a verdade,\nPois, logo os prejudicado\nRecorre às oturidade;\nE no chafurdo infeliz\nDepressa vai o juiz\nFazê a paz dos irmão\nE se ele fô justicêro\nParte a casa dos herdêro\nPra cada quá seu quinhão.\nFonte: ASSARÉ, Patativa do. Cante lá que eu canto cá. Petrópolis: Vozes, 2014. p. 114.\nNo poema, as variações linguísticas regionais funcionam estilisticamente para",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "valorizar a identidade linguística de determinado grupo social."
+        },
+        {
+          "letra": "B",
+          "texto": "contrapor a linguagem de gerações muito distantes no tempo."
+        },
+        {
+          "letra": "C",
+          "texto": "legitimar o discurso de autoridades judiciais durante conflitos."
+        },
+        {
+          "letra": "D",
+          "texto": "exprimir o afeto envolvido em relação a familiares próximos."
+        },
+        {
+          "letra": "E",
+          "texto": "demonstrar o repúdio do eu lírico à ganância humana."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Língua Portuguesa – Variação Linguística",
+        "Língua Portuguesa – Literatura (Poesia Popular)"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Amo as pedras, os astros e o luar\nQue beija as ervas do atalho escuro,\nAmo as águas de anil e o doce olhar\nDos animais, divinamente puro.\nAmo a hera que entende a voz do muro,\nE dos sapos, o brando tilintar\nDe cristais que se afagam devagar,\nE da minha charneca o rosto duro.\nAmo todos os sonhos que se calam\nDe corações que sentem e não falam,\nTudo o que é Infinito e pequenino!\nAsa que nos protege a todos nós!\nSoluço imenso, eterno, que é a voz\nDo nosso grande e mísero Destino!...\nFonte: ESPANCA, Florbela. Voz que se cala. In: ESPANCA, Florbela. Reliquiae. Coimbra: Livraria Gonçalves, 1934.\nNo soneto, as imagens evocadas pela voz poética contribuem para a construção de uma mensagem de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "enaltecimento das diferenças entre os seres vivos."
+        },
+        {
+          "letra": "B",
+          "texto": "reconhecimento da beleza dos elementos cotidianos."
+        },
+        {
+          "letra": "C",
+          "texto": "interrupção dos sofrimentos enfrentados pelo eu lírico."
+        },
+        {
+          "letra": "D",
+          "texto": "aperfeiçoamento dos constituintes grotescos da natureza."
+        },
+        {
+          "letra": "E",
+          "texto": "apreciação das mudanças ocorridas em paisagens naturais."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Língua Portuguesa – Análise Literária (Soneto)",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "A clonagem de vozes por inteligência artificial (IA) não é novidade, inclusive, alguns softwares já permitem gravar áudios a partir de segundos de fala e estão sendo usados para pegadinhas entre amigos. Mas a brincadeira pode se tornar perigosa, pois criminosos estão utilizando a ferramenta para aplicar golpes. Recentemente, a influenciadora digital Mia Dio disse ter descoberto uma traição do namorado usando IA. A jovem norte-americana de 22 anos foi apelidada de “gênio” por usuários das redes sociais. Em vídeo, Mia contou que decidiu usar a tecnologia para \"clonar” sua voz e ligar para um amigo dele — que confirmou que o rapaz teria beijado outra pessoa. No entanto, tudo não passou de uma brincadeira.\nFonte: UOL. Jovem simula traição e mostra lado sombrio da IA: clonar vozes custa US$ 4. Tilt UOL, 9 ago. 2023. Disponível em: https://www.uol.com.br/tilt/noticias/redacao/2023/08/09/jovem-usa-tatica-tecnologica-surpreendente-para-checar-traicao.htm#:~:text=A%20clonagem%20de%20vozes%20por,a%20ferramenta%20para%20aplicar%20golpes. Acesso em: 27 set. 2024. (adaptado).\nDe acordo com as informações do texto, o uso da tecnologia de clonagem de voz",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "tem potencial para transformar usuários em vítimas de fraudes."
+        },
+        {
+          "letra": "B",
+          "texto": "possibilita a descoberta de ferramentas pioneiras contra crimes."
+        },
+        {
+          "letra": "C",
+          "texto": "incentiva a infidelidade conjugal entre os usuários de pouca idade."
+        },
+        {
+          "letra": "D",
+          "texto": "estreita vínculos de entretenimento e amizade entre seus usuários."
+        },
+        {
+          "letra": "E",
+          "texto": "produz efeitos danosos a usuários com poucas habilidades técnicas."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Sociologia – Tecnologia e Sociedade",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Eles furtavam, brigavam nas ruas, xingavam nomes, derrubavam negrinhas no areal, por vezes feriam com navalhas ou punhal homens e polícias. Mas, no entanto, eram bons, uns eram amigos uns dos outros. Se faziam tudo aquilo é que não tinham casa, nem pai, nem mãe, a vida deles era uma vida sem ter comida certa e dormindo num casarão quase sem teto. Se não fizessem tudo aquilo morreriam de fome, porque eram raras as casas que davam de comer a um, de vestir a outro. E nem toda a cidade poderia dar a todos.\nFonte: AMADO, Jorge. Capitães da Areia. Rio de Janeiro: Record, 1989. p. 97.\nNo trecho, nota-se uma análise da realidade brasileira, visto que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "evidencia a ineficiência das medidas para combater o abandono infantil."
+        },
+        {
+          "letra": "B",
+          "texto": "indica que a criminalidade é uma forma legítima de enfrentar a pobreza."
+        },
+        {
+          "letra": "C",
+          "texto": "sugere que a urbanização desordenada é a causa da criminalidade."
+        },
+        {
+          "letra": "D",
+          "texto": "ilustra uma utopia de igualdade e fraternidade em meio à miséria."
+        },
+        {
+          "letra": "E",
+          "texto": "revela as desigualdades enfrentadas por grupos marginalizados."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Língua Portuguesa – Literatura Brasileira (Prosa)",
+        "Sociologia – Desigualdades Sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "As queimadas, quando em níveis equilibrados e naturais, fazem parte do ciclo de alguns ecossistemas e têm efeitos importantes. No entanto, ainda liberam gases que contribuem para o efeito estufa, o que pode aquecer o planeta. Em níveis controlados, o efeito estufa é necessário para manter o equilíbrio térmico na Terra, mas o problema surge quando há um aumento exagerado desses gases. Eles potencializam a retenção térmica, que tem como consequência o aumento da temperatura da terra. A emissão de gás carbônico (CO\\(_2\\)) nas queimadas naturais pode ser reincorporada à vegetação, sendo parte de um ciclo natural de carbono. No entanto, em situações de desmatamento, esse ciclo é interrompido, porque a vegetação não se recupera rapidamente.\nFonte: GONÇALVES, J.C.G. O impacto das queimadas no Brasil e os desafios para o futuro. Politize, 23 set. 2024. Disponível em: https://www.politize.com.br/queimadas-no-brasil/. Acesso em: 24 set. 2024. (adaptado).\nNo fragmento, a progressão textual se dá, predominantemente, pelo uso de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "períodos simples, facilitando a compreensão de informações científicas."
+        },
+        {
+          "letra": "B",
+          "texto": "conjunções explicativas, justificando danos produzidos pelo efeito estufa."
+        },
+        {
+          "letra": "C",
+          "texto": "adjetivos avaliativos, sequenciando as informações de modo subjetivo."
+        },
+        {
+          "letra": "D",
+          "texto": "antíteses críticas, opondo a força do desenvolvimento às queimadas."
+        },
+        {
+          "letra": "E",
+          "texto": "verbos no presente, reforçando a contemporaneidade do tema."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Biologia – Ecologia (Ciclos Biogeoquímicos)",
+        "Geografia – Impactos Ambientais",
+        "Língua Portuguesa – Coesão e Coerência Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Ao abrir o livro, Ana Rosa soltou logo uma envergonhada exclamação: dera com um desenho, em que o autor da obra, com a fria sem-cerimônia da ciência, expunha aos seus leitores uma mulher no momento de dar à luz o filho. A fidelidade, indecorosa e séria, da estampa, produziu no ânimo da moça uma impressão estranha de respeito e de vexame. Sem compreender cabalmente o que tinha diante dos olhos, fixava a página, voltando-a de um para outro lado, à procura de entender melhor. Virou algumas folhas e, com o pouco que sabia do francês, tentou apanhar o sentido do que vinha escrito sobre os vários fenômenos da gestação e do parto; ao chegar, porém, a uma das gravuras, fechou o livro com ímpeto e olhou em torno, como para certificar-se de que estava completamente só. Tinha visto de surpresa um espetáculo, que os seus sentidos ainda mal formulavam por instinto — o ato da fecundação. Fizera-se cor de romã e repelira o indiscreto volume com um ligeiro e espontâneo movimento do seu pudor, mas, pouco depois, pensando bem no caso, convencendo-se de que tudo aquilo não era feito por malícia, mas, ao contrário, para estudo, muniu-se de coragem e afrontou a página.\nFonte: AZEVEDO, Aluísio de. O Mulato. São Paulo: Ática, 1996. (fragmento).\nO estranhamento evocado na personagem após ler o livro é originado pela descrição",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "subjetiva de fatos sociais corriqueiros."
+        },
+        {
+          "letra": "B",
+          "texto": "objetiva de emoções humanas extremas."
+        },
+        {
+          "letra": "C",
+          "texto": "científica de fenômenos humanos biológicos."
+        },
+        {
+          "letra": "D",
+          "texto": "de hipóteses científicas sobre elementos orgânicos."
+        },
+        {
+          "letra": "E",
+          "texto": "de divergências filosóficas sobre a evolução das espécies."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Língua Portuguesa – Literatura Brasileira (Prosa Realista)",
+        "Filosofia – Epistemologia (Conhecimento científico)"
+      ]
+    }
+  ]
+}

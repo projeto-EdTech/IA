@@ -1,0 +1,1793 @@
+{
+  "nomeUniversidade": "INSTITUTO TECNOLÓGICO DE AERONÁUTICA",
+  "siglaUniversidade": "ITA",
+  "nomeProva": "VESTIBULAR 1ª FASE",
+  "ano": 2023,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Quando necessário, use os seguintes valores para as constantes:\nAceleração local da gravidade $g = 10 \\text{ m/s}^2$. Velocidade da luz no vácuo $c = 3,0\\times 10^8 \\text{ m/s}$.\nAproximações numéricas: $\\log 2 \\approx 0,30$, $\\log 3 \\approx 0,48$ e $\\ln 10 \\approx 2,3$.\n\nQuestão 1. Uma partícula é lançada horizontalmente de uma determinada altura em relação ao solo em duas situações: uma em vácuo e outra em ar atmosférico estático, mantendo todas as outras características, como altura e velocidade inicial idênticas. O gráfico do módulo de sua velocidade $v$ em função da distância horizontal $x$, no caso do lançamento no vácuo, é mostrado na figura pela curva em linha tracejada, juntamente com mais outras quatro curvas. O ponto no extremo de cada curva indica a posição em que a partícula atingiu o solo. Pode(m) descrever de maneira correta o lançamento em ar atmosférico apenas a(s) curva(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) II."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) II, III e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) II e III."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) II e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) I e III."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Cinemática",
+        "Física – Dinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Questão 2. Um disco de raio $R$ com centro em $O$ pode girar livremente em um plano horizontal sem atrito em torno de um eixo fixo que passa por $O$. Uma mola de comprimento natural $L$ tem uma das suas extremidades articuladas a um ponto fixo na parede. Este ponto está localizado a uma distância $L$ do ponto $O$. A outra extremidade está articulada à borda do disco, em uma posição cujo movimento será analisado a seguir. Inicialmente, a mola se encontra em orientação perpendicular à parede e seu comprimento está reduzido a $x = L - R$, como mostra a figura. Considere que os pontos $A$ e $B$ são pontos fixos do espaço e que $R < L$. A seguir, são feitas algumas afirmações sobre esse sistema.\n1. O sistema tem apenas dois pontos de equilíbrio, A e B, sendo ambos instáveis.\n2. Se um pequeno torque impulsivo for aplicado ao disco, este último continuará completando voltas indefinidamente, contanto que não haja nenhuma dissipação de energia.\n4. Se um pequeno torque impulsivo for aplicado ao disco, este pode não completar uma volta se a sua massa for muito grande e a constante elástica for muito pequena, mesmo sem haver dissipação de energia.\n8. Seja $C$ um ponto fixo no espaço a uma distância $R$ de $O$. Se $|\\angle AOC| < 30^\\circ$, $C$ nunca será um ponto de equilíbrio estável.\nAssinale a alternativa que contém a soma dos números correspondentes às afirmações verdadeiras.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) 2."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) 3."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) 5."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) 8."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) 10."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Física – Mecânica Rotacional",
+        "Física – Equilíbrio Estático",
+        "Física – Oscilações e Ondas"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Questão 3. Considere um recipiente, sobre uma plataforma, sujeito à pressão atmosférica $P_{\\text{atm}}$. Esse recipiente contém um volume inicial $V_i$ de um gás monoatômico ideal em equilíbrio e tem um êmbolo de seção transversal de área $A$ e de massa $m$. Para monitorar a aceleração do sistema, a plataforma foi suspensa por um dinamômetro, como ilustrado na figura. Por causa de uma ação de uma força externa vertical, o êmbolo atinge uma nova posição de equilíbrio. Nessa posição a leitura do dinamômetro indica que a aceleração do sistema é de $1/10$ de $g$ para cima. Determine o módulo do deslocamento $\\Delta x$ do êmbolo, com relação ao fundo do recipiente, considerando que a transformação do gás é isentrópica.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) $\\Delta x = \\frac{3V_i}{2A} \\left( \\frac{11mg}{50P_{\\text{atm}}A+55mg} \\right)$."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) $\\Delta x = \\frac{V_i}{A} \\left( \\frac{AP_{\\text{atm}}+mg}{AP_{\\text{atm}}+1,1mg} - 1 \\right)$."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) $\\Delta x = \\frac{3V_i}{A} \\left( \\frac{11mg}{50P_{\\text{atm}}A+55mg} \\right)$."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) $\\Delta x = \\frac{V_i}{A} \\left( \\frac{0,1mg}{AP_{\\text{atm}}+1,1mg} \\right)$."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) $\\Delta x = \\frac{V_i}{A} \\left( 1 - \\frac{AP_{\\text{atm}}+mg}{AP_{\\text{atm}}+1,1mg} \\right)$."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Física – Termodinâmica",
+        "Física – Gases Ideais",
+        "Física – Dinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Questão 4. Um corpo de massa $m$ é lançado em um plano horizontal sem atrito, sob ação da gravidade $g$, e, ao entrar em um tubo, executa uma trajetória circular de raio $R$. A força exercida no corpo pelo tubo logo após o início do movimento circular tem intensidade $F$. Após meia volta, o corpo percorre uma trajetória retilínea em movimento uniforme até certa distância e depois sobe até certa altura $h$. O corpo sai do tubo em movimento vertical e imediatamente passa a se mover dentro de um fluido viscoso até atingir altura máxima $H$, conforme mostra a figura. Considere que o corpo se desloca pelo tubo sem atrito; que o diâmetro do tubo é desprezível em relação a $R, h$ e $H$; e que o módulo do trabalho realizado pela força de atrito viscoso até a massa atingir $H$ é equivalente a um terço da energia cinética da partícula, quando esta adentra o fluido. Assinale a alternativa que expressa $H$ em função das variáveis fornecidas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) $\\frac{1}{6} \\left( h - 4R + \\frac{F R}{mg} \\right)$."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) $\\frac{1}{6} \\left( 4h - 5R + \\frac{F R}{mg} \\right)$."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) $\\frac{1}{6} \\left( h - 5R + \\frac{F R}{mg} \\right)$."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) $\\frac{1}{6} \\left( 2h - 3R + \\frac{F R}{mg} \\right)$."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) $\\frac{1}{6} \\left( h - 2R + \\frac{F R}{mg} \\right)$."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Cinemática",
+        "Física – Dinâmica",
+        "Física – Trabalho e Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Questão 5. Considere um recipiente tubular fino, com área transversal constante, que contém dois líquidos imissíveis A e B. As hastes verticais deste recipiente distam 20 cm uma da outra ($L = 20 \\text{ cm}$). Quando o recipiente está em repouso, o líquido A atinge uma altura de 80 cm em relação à linha de separação dos líquidos. Quando o recipiente é colocado em movimento retilíneo uniformemente variado, a altura de A com relação à linha de separação dos líquidos passa a ser $H = 76 \\text{ cm}$, conforme mostra a figura. Considerando-se que o sistema parta do repouso, a distância percorrida pelo recipiente após um intervalo de $3,0 \\text{ s}$ é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) 2,4 m."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) 4,6 m."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) 9,0 m."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) 1,3 $\\times$ 10 m."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) 1,8 $\\times$ 10 m."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Hidrostática",
+        "Física – Cinemática",
+        "Física – Aceleração"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Questão 6. Considere uma máquina térmica que opera com um ciclo termodinâmico composto de quatro etapas: (i) expansão isotérmica, à temperatura $T_q$, saindo do volume inicial $V_0$ até o volume final $V_f$; (ii) resfriamento isocórico de $T_q$ até $T_f$; (iii) compressão isotérmica, à temperatura $T_f$, de $V_f$ até $V_0$; e (iv) aquecimento isocórico de $T_f$ até $T_q$. A máquina é inicialmente preparada para operar com o ar atmosférico como fluido de trabalho. Sobre esse sistema, são feitas as seguintes afirmações:\nI. Aumentando-se a razão de expansão, $r = V_f/V_i$, é possível aumentar o rendimento da máquina mantendo os demais parâmetros fixos.\nII. Se o fluido de trabalho fosse substituído por um gás nobre, então o rendimento dessa máquina seria aumentado.\nIII. Considerando os parâmetros $r = 10$, $T_f = 300 \\text{ K}$ e $T_q = 900 \\text{ K}$, o valor do rendimento da máquina é superior a 50%. Sobre as afirmações I, II e III pode-se afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) todas estão corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) apenas I está incorreta."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) apenas II está incorreta."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) apenas III está incorreta."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) apenas I e III estão incorretas."
+        }
+      ],
+      "alternativaCorreta": null,
+      "conteudosAbordados": [
+        "Física – Termodinâmica",
+        "Física – Máquinas Térmicas",
+        "Física – Gases Ideais"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Questão 7. Em eventos esportivos, é comum que os espectadores realizem a coreografia da \"ola\". Os participantes erguem seus braços e os abaixam logo em seguida, em fileiras sucessivas, criando o efeito visual de uma onda. Os espectadores gritam juntos \"ola\" seguindo a propagação da onda. Assuma que a distância $D$ entre as cadeiras e o tempo $\\tau$ de deslocamento de braço são constantes. Assuma que um participante só inicia o movimento da \"ola\" quando o participante na fileira ao lado o encerra. A respeito da situação física descrita, são feitas as seguintes afirmações:\nI. Se um estádio com 30.000 pessoas gritando resulta em um ruído sonoro de 90 dB, o ruído de 60.000 pessoas gritando é de aproximadamente 93 dB.\nII. A onda resultante da coreografia é longitudinal.\nIII. A velocidade da onda é diretamente proporcional a $\\tau$ e inversamente proporcional a $D$. Sobre as afirmações I, II e III pode-se afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) apenas I e II estão corretas."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) apenas I está correta."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) apenas II está correta."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) apenas III está correta."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) as três estão incorretas."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Física – Ondas",
+        "Física – Acústica"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Questão 8. Considere um filtro polarizador linear no plano $S$, cuja polarização é paralela ao eixo $x$. Uma onda eletromagnética com polarização linear no eixo $z$ propaga-se na direção do eixo $y$. Um pêndulo é colocado na frente do filtro. A ponta do pêndulo contém uma pequena placa circular feita de um filtro de polarização linear. Quando o pêndulo está em repouso, a polarização é paralela ao eixo $x$. O pêndulo oscila no plano $S'$, de $-90^\\circ$ a $90^\\circ$, conforme mostra a figura. Uma chapa fotográfica capaz de absorver a onda eletromagnética é colocada atrás dos filtros de polarização. Despreze efeitos de difração e interferência. Considere que os planos $S$ e $S'$ são paralelos ao plano $xz$. Assinale a alternativa que melhor representa o que vai ser visto na chapa fotográfica.",
+      "alternativas": null,
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Óptica",
+        "Física – Ondas Eletromagnéticas",
+        "Física – Polarização"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Questão 9. Em vários ramos da ciência e da engenharia, sistemas de interesse são modelados por circuitos elétricos a eles equivalentes. Na biologia, por exemplo, a membrana de um neurônio é modelada por elementos de circuitos elétricos. Considere apenas as seguintes características:\nI. A membrana neuronal é constituída de duas camadas de lipídeos que separam os meios condutores intra e extracelular por uma fina camada isolante.\nII. As proteínas que cruzam a membrana de um neurônio atuam como poros, canais iônicos não seletivos.\nCom base nessas considerações, o sistema entre o interior e o exterior da membrana pode ser representado pelos seguintes elementos de circuitos elétricos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) resistores e fontes de corrente conectados em série."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) fontes de corrente e capacitores conectados em paralelo."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) fontes de corrente e capacitores conectados em série."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) resistores e capacitores conectados em série."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) resistores e capacitores conectados em paralelo."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Física – Eletricidade e Magnetismo",
+        "Biologia – Biologia Celular",
+        "Física – Circuitos Elétricos"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Questão 10. Considere um sistema de coordenadas $x, y, z$ com respectivos vetores de base $\\left\\{ \\vec{i}, \\vec{j}, \\vec{k} \\right\\}$, sendo $z$ a coordenada vertical. Uma partícula de massa $m$ e carga elétrica de módulo $q$ é colocada em movimento no vácuo, com velocidade $\\vec{v} = v \\sin\\theta \\vec{j} + v \\cos\\theta \\vec{k}$, em um espaço tridimensional. Nesse espaço, existem um campo magnético uniforme, $\\vec{B} = B \\vec{i}$, e um campo gravitacional constante, $\\vec{g} = -g \\vec{k}$. O ângulo $\\theta$ é escolhido de tal forma que a energia cinética da partícula seja conservada. Dadas essas informações, é possível inferir que a energia cinética da partícula é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) $\\frac{m^3g^2}{q^2B^2}$."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) $\\frac{m^3g^2}{3q^2B^2}$."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) $\\frac{2m^3g^2}{q^2B^2}$."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) $\\frac{1}{4} \\frac{m^3g^2}{q^2B^2}$."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) $\\frac{1}{2} \\frac{m^3g^2}{q^2B^2}$."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Física – Eletromagnetismo",
+        "Física – Dinâmica",
+        "Física – Conservação de Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Questão 11. Considere um arranjo experimental, representado na figura, em que um ímã pode se movimentar ao longo das retas $AB$ ou $A'B'$, sempre com velocidade constante ($v \\ll c$). Uma espira retangular de auto-indutância desprezível é posicionada perpendicularmente a $AB$. Pelo centro da espira, o ponto $P$, passam as retas $AB$ e $A'B'$. A corrente elétrica na espira, observada desde a perspectiva de um observador no ponto $A$, é positiva, por convenção, se estiver no sentido horário. O polo norte do ímã sempre aponta ou para $A$ ou para $A'$. A respeito da situação física descrita, são feitas as seguintes afirmações:\nI. Quando o ímã se desloca de $A$ para $P$, a corrente na espira é negativa.\nII. No momento em que o centro do ímã passa pelo ponto $P$, a corrente na espira é zero.\nIII. Durante a passagem do ímã de $A$ para $B$, haverá dois picos de corrente medidos.\nIV. Quando o ímã passa por $A'B'$, a corrente máxima na espira é maior do que a corrente máxima quando o ímã passa por $AB$. Das afirmações I a IV, acima destacadas, estão corretas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) apenas I, III."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) apenas II, III."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) todas."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) apenas III."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) apenas I."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Física – Eletromagnetismo",
+        "Física – Indução Eletromagnética",
+        "Física – Leis de Faraday e Lenz"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Questão 12. A todo instante, raios cósmicos atingem a atmosfera terrestre e colidem com núcleos atômicos. Dessas interações, é formada uma cascata de partículas que permeia nossa atmosfera. Muitas dessas partículas são instáveis, o que significa que, após determinado intervalo de tempo (tempo de vida), elas decaem. Seja um múon criado a uma altitude de $100 \\text{ km}$ e que se movimenta com uma velocidade vertical em direção ao solo de $0,9999c$. Sabendo que seu tempo de vida, em repouso, é de $2,2 \\text{ µs}$, a mínima altitude que essa partícula atinge, aproximadamente, é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) 0 km."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) 0,66 km."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) 46 km."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) 53 km."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) 99 km."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Física Moderna",
+        "Física – Relatividade Restrita",
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "PORTUGUÊS\nQuestão 13. A respeito de Adelaide, uma das personagens femininas de *Os ratos*, de Dyonélio Machado, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) ela é frágil e ingênua, características que agradam ao protagonista, pois alimentam seu amor por ela."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) ela é financeiramente independente do marido e protagonista do romance."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) sua fraqueza e ingenuidade servem para que o protagonista justifique seus próprios fracassos."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) ela se sente inferiorizada diante de outras mulheres presentes no romance."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) Adelaide não exige do marido luxos que ele não conseguiria entregar, apenas o suficiente para alimentar a família."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Análise Literária"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Questão 14. Em relação à linguagem de *Os ratos*, de Dyonélio Machado, é correto afirmar que ela",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) respeita completamente a norma culta, como no seguinte exemplo: “Passando um mercadinho – é um pequeno escritório: uma porta e uma janela. Ao lado da porta, uma placa quadrada, de ferro esmaltado. Eles entram. – Me chame o seu Fernandes - diz o Duque para um menino que se acha sentado à escrivaninha.\" (p. 86)."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) é ágil e rápida, adequada ao ritmo intenso da narrativa, como no seguinte exemplo: \"Entrando pouco a pouco na calma outra vez. Raciocinante. É conveniente comprar fichas. Com quinze mil réis em fichas já tem margem pra muito jogo. Encaminha-se para o guichê. Volta com uma pilha de rodelas na mão.” (p. 63)."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) desrespeita a norma culta e ainda é lenta e entediante, como no seguinte exemplo: “Ouve-se um baque, lá fora. Eles levantam a cabeça, atentos. – É o portãozinho. – Deixa que eu vou fechar – e Naziazeno se ergue vivamente. - Bota o casaco. – Não precisa. - E sai.\" (p. 113)."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) embora apresente elementos de oralidade, não é totalmente coloquial, distinguindo a palavra do narrador e das personagens, como no seguinte exemplo: “Não enxerga o Duque nos lugares habituais... E, entretanto, é a 'hora dele'.\" (p. 30)."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) jamais apresenta uso de discurso direto. Por exemplo: “Ele se senta. Dirige-lhes duas ou três palavras. - O Naziazeno tem um grande aperto hoje - informa-lhe Alcides.\""
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Análise Literária"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Questão 15. Leia atentamente os versos destacados de \"Canto ao homem do povo Charlie Chaplin\", de Carlos Drummond de Andrade. Em seguida, assinale a alternativa correta.\n\nE falam as flores que tanto amas quando pisadas,\nfalam os tocos de vela, que comes na extrema penúria, falam a mesa, os botões,\nos instrumentos do ofício e as mil coisas aparentemente fechadas,\ncada troço, cada objeto do sótão, quanto mais obscuros mais falam.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) a linguagem é pouco elaborada, pois visa a descrever materialmente a realidade, desprovida de qualidades estéticas."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) são versos livres, de ritmo fluido, nos quais a elaboração da linguagem busca tirar os objetos cotidianos da banalidade."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) a dimensão estética do cotidiano é apagada pela fama da pessoa a quem o poema é dedicado, elogiada nos versos."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) a métrica desses versos é rígida, para imitar a forma geométrica dos objetos descritos."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) o uso das rimas raras e do ritmo afastado da linguagem comum transfigura a realidade material em uma dimensão estética rebuscada, de difícil acesso para o leitor."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Análise Literária (Poesia)"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Questão 16. Leia o trecho destacado do conto \"Tempo de camisolinha\", de Mário de Andrade, e, em seguida, assinale a alternativa incorreta.\n\n\"Estavam uns pescadores ali mesmo na esquina, conversando, e me meti no meio deles, sempre era uma proteção. E todos eles eram casados, tinham filhos, não se amolavam proletariamente com os filhos, mas proletariamente davam muita importância pra o filhinho de 'seu dotô' meu pai, que nem era doutor, graças a Deus.” (p. 106).",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) os pescadores “não se amolavam proletariamente” com os próprios filhos porque a sua obrigação proletária era apenas garantir o sustento das próprias famílias."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) o uso de “seu dotô” é justificado para expressar a fala supostamente informal dos pescadores para atribuir prestígio ao pai do narrador."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) o trecho destacado sugere uma posição específica do narrador, distante tanto dos “proletários” quanto dos \"doutores” retratados."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) os pescadores davam muita importância ao “filho do dotô” porque o consideravam mais vulnerável do que os seus próprios filhos."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) não há, no uso da expressão “seu dotô”, nenhuma menção à diferença de classes sociais."
+        }
+      ],
+      "alternativaCorreta": null,
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Análise Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Questão 17. Leia atentamente as declarações de I a III, que tratam da poesia de Carlos Drummond de Andrade. Em seguida, assinale a alternativa correta.\nI. O poeta transita entre a construção gramatical normativa e o experimentalismo modernista com a linguagem, o que pode ser verificado nos seguintes versos: “camabel camabel o vale ecoa/ sobre o vazio de ondalit/ a noite asfáltica/ plkx” (“Os materiais da vida”).\nII. A linguagem, na poesia de Drummond, vale-se quase sempre de coloquialismos e desvios gramaticais, subvertendo a norma culta por completo, o que pode ser verificado nos seguintes versos: “Lutar com palavras/ é a luta mais vã./ Entanto lutamos mal rompe a manhã.” (“O lutador\").\nIII. Drummond segue à risca a gramática normativa, da qual rigorosamente nunca diverge, o que pode ser verificado nos seguintes versos: \"No meio do caminho tinha uma pedra/ tinha uma pedra no meio do caminho/ tinha uma pedra/ no meio do caminho tinha uma pedra.\" ",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) I é correta."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) II é correta."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) III é correta."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) Todas são corretas."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) Nenhuma é correta."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Análise Literária (Poesia)"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Questão 18. Leia o trecho destacado do conto “O peru de Natal\", de Mário de Andrade, e, em seguida, assinale a alternativa incorreta.\n\n\"Bem que sabiam, era loucura sim, mas todos se faziam imaginar que eu sozinho é que estava desejando muito aquilo e havia jeito fácil de empurrarem pra cima de mim a... culpa de seus desejos enormes.\" (p. 72).",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) embora não tivessem coragem de admitir, todos os familiares de Juca desejavam aquela comemoração, a despeito da situação constrangedora em que se encontravam."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) Juca era considerado louco pela família, por isso todos sentiam pena dele."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) Juca era considerado louco pela família, por isso todos tinham medo dele."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) Juca era considerado louco pela família, mas não era devidamente tratado por profissionais."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) a falta que o pai fazia na família foi motivo para negar o pedido de Juca."
+        }
+      ],
+      "alternativaCorreta": null,
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Análise Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Questão 19. Assinale a alternativa correta acerca de *Os ratos*, de Dyonélio Machado.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) a narrativa respeita a ordem cronológica dos acontecimentos, característica que facilita a compreensão do enredo."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) a narrativa fragmentária apresenta idas e vindas no tempo, o que provoca certa inquietação no leitor e dificuldade de estabelecimento da ordem dos acontecimentos."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) embora a narrativa não respeite a ordem cronológica dos fatos, esse recurso não apresenta efeito algum sobre o leitor."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) todas as informações contidas no texto que não seguem o tempo cronológico estão completamente desvinculadas do enredo."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) todas as informações contidas no texto que não seguem o tempo cronológico representam apenas um devaneio do narrador em relação à matéria narrada."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Análise Literária (Estrutura Narrativa)"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Questão 20. Leia o trecho destacado do conto \"Atrás da catedral de Ruão\", de Mário de Andrade, e, em seguida, assinale a alternativa correta.\n\n\"E lhes enfiou na mão um níquel pra cada um, pagou! Pagou a 'bonne compagnie'. Subiu as escadas correndo, foi chorar.\" (p. 56).",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) Mademoiselle pagou um níquel a cada um dos homens, pois eles a acompanharam até a pensão."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) Mademoiselle subiu correndo e chorou porque os dois homens a xingaram grosseiramente."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) Mademoiselle subiu correndo e chorou porque havia sido atacada pelos dois homens."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) a tristeza e a urgência de Mademoiselle devem-se ao fato de ela ter tomado consciência de sua vida solitária depois de fantasiar uma perseguição."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) a fantasia de haver sido perseguida por dois homens trouxe alívio e calma a Mademoiselle e, por isso, ela pagou um níquel a cada um dos homens."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Análise Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Questão 21. Leia atentamente os versos destacados de \"Cantiga de enganar\", de Carlos Drummond de Andrade. Em seguida, assinale a alternativa correta.\nMeu bem, assim acordados,\nassim lúcidos, severos,\nou assim abandonados,\ndeixando-nos à deriva\nlevar na palma do tempo\n— mas o tempo não existe —,\nsejamos como se foramos\nnum mundo que fosse: o Mundo.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "() os versos confirmam, sem sombra de dúvidas, que a lucidez não só é impossível neste mundo, como também a realidade é enlouquecedora."
+        },
+        {
+          "letra": "B",
+          "texto": "() lidos em conjunto com o título do poema, os versos exprimem certa ironia em relação à condição humana na realidade do mundo."
+        },
+        {
+          "letra": "C",
+          "texto": "() os versos são típicos da indiferença do eu lírico, característica da poética de Drummond frente à inevitabilidade da morte em um mundo sombrio e apocalíptico."
+        },
+        {
+          "letra": "D",
+          "texto": "() no contexto do poema, os versos exprimem a negação da condição de abandono do ser humano."
+        },
+        {
+          "letra": "E",
+          "texto": "() no contexto da obra, os versos exemplificam o tema da busca da riqueza material, segundo o preceito do carpe diem."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Análise Poética",
+        "Língua Portuguesa – Literatura Brasileira Moderna"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Questão 22. Acerca de Os ratos, de Dyonélio Machado, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "() a linguagem do romance permite identificar uma separação conceitual rígida entre o humano e o animal, como ilustra o seguinte exemplo: \"Duque volta-se inteiramente para o lado de Naziazeno. Avança-lhe um focinho sereno e atento.” (p. 81)."
+        },
+        {
+          "letra": "B",
+          "texto": "() a intertextualidade não é um elemento da narrativa, como ilustra o seguinte exemplo: “Naziazeno espera que ele lhe dê as costas, vá reatar a palestra interrompida, aquelas observações sobre a questão social, comunismo e integralismo.\" (p. 38)."
+        },
+        {
+          "letra": "C",
+          "texto": "() há elementos na linguagem que permitem identificar a santificação das personagens, como ilustra o seguinte exemplo: “Naziazeno conserva-se silencioso. Ele não pensa na 'empresa' propriamente: pensa no Andrade; vê a sua figura robusta, azafamada, decidida de patrão.\" (p. 44)."
+        },
+        {
+          "letra": "D",
+          "texto": "() no romance, os ratos são uma alegoria do retorno à natureza e da reconciliação do ser humano com a sua melhor índole, o estado de Natureza, como ilustra o seguinte exemplo: “mas na mesma ocasião o seu ar de pobreza, aquele focinho quieto e manso que vem ali a seu lado, tiram-lhe qualquer ilusão. Um frio e um amargo sobem-lhe pelas vísceras acima...\" (p. 85)."
+        },
+        {
+          "letra": "E",
+          "texto": "() há elementos na linguagem que indicam animalização ou rebaixamento do humano, como ilustra o seguinte exemplo: \"Naziazeno 'vê-se' no meio da sala, atônito, sozinho, olhando para os lados, pra todos aqueles fugitivos, que se esgueiram, que se somem com pés de ratos.\" (p. 36)."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira Moderna",
+        "Língua Portuguesa – Análise Literária"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Questão 23. Assinale a alternativa que apresenta a afirmação correta acerca de Contos novos, de Mário de Andrade.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "() Contos novos é um livro que aborda criticamente assuntos controversos, como relações exploratórias de trabalho, homossexualidade e sexualidade feminina."
+        },
+        {
+          "letra": "B",
+          "texto": "() último livro de Mário de Andrade, Contos novos não traz nenhuma perspectiva crítica acerca das relações humanas de amor, de trabalho, de família, de amizade e de sexo."
+        },
+        {
+          "letra": "C",
+          "texto": "() Mário de Andrade, em seu último livro, buscou elaborar uma perspectiva ingênua e sentimental sobre temas bucólicos, fugindo do ambiente urbano."
+        },
+        {
+          "letra": "D",
+          "texto": "() Contos novos é um livro escrito em prosa poética altamente elaborada, repleta de registros formais estritamente ligados à norma culta, raras inversões sintáticas, bem como estrangeirismos e cacofonias."
+        },
+        {
+          "letra": "E",
+          "texto": "() o discurso marioandradiano, neste seu último livro, não incorpora coloquialismos nem quaisquer elementos de oralidade e sintaxe tipicamente brasileiras."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira Moderna",
+        "Língua Portuguesa – Análise Literária"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Questão 24. Assinale a alternativa que complementa corretamente a seguinte afirmação: “Os poemas da seção 'NA PRAÇA DE CONVITES', da Antologia Poética, de Carlos Drummond de Andrade, tematizam o cotidiano...",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "() com um leve e alegre tom simpático e pitoresco, como nos versos: “Imenso trabalho nos custa a flor./ Por menos de oito contos vendê-la? Nunca.” (“Anúncio da rosa”)."
+        },
+        {
+          "letra": "B",
+          "texto": "() com ênfase na crença em relação ao progresso social do mundo moderno, como nos versos: “Coração orgulhoso, tens pressa de confessar tua derrota/ e adiar para outro século a felicidade coletiva.\" (\"Elegia 1938\")."
+        },
+        {
+          "letra": "C",
+          "texto": "() de forma a fugir do registro banal ou meramente anedótico, procurando captar a realidade a partir das inquietações e, por vezes, do inconformismo do eu lírico: ‘Calo-me, espero, decifro./ As coisas talvez melhorem./ São tão fortes as coisas!/ Mas eu não sou as coisas e me revolto.\" (“Nosso tempo\")."
+        },
+        {
+          "letra": "D",
+          "texto": "() propondo a análise dos problemas do Brasil segundo os princípios da literatura naturalista, isto é, de maneira objetiva e científica, como ilustram os versos: \"Eis meu pobre elefante/ pronto para sair/ à procura de amigos/ num mundo enfastiado/ que já não crê nos bichos/ e duvida das coisas.\" (\"O elefante\")."
+        },
+        {
+          "letra": "E",
+          "texto": "() da perspectiva da literatura prosélita, que defendia um nacionalismo ingênuo e panfletário, como atestam os versos: “O mar batia em meu peito, já não batia no cais. / A rua acabou, quede as árvores? a cidade sou eu/ a cidade sou eu/ sou eu a cidade/ meu amor.\" (“Coração numeroso\")."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Análise Poética",
+        "Língua Portuguesa – Literatura Brasileira Moderna"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Leia atentamente o texto a seguir para responder às questões de 25 a 30.\nSince the early 1990s, an interesting phenomenon has emerged in Eastern Europe and the Caucasus some states that, despite having their own government and state apparatus, lack international recognition. Even today, the struggle of these unrecognised states remains widely unknown. While these states have been the focus of much academic study, their very existence is often neglected by both the international community and societies in the West. In parallel, there exist in Eastern Europe and the Caucasus distinct peoples who have neither acquired recognised statehood nor any significant representation within their own countries they are the so-called unrepresented peoples.\nToday, the territory of the former Soviet Union in Eastern Europe and the Caucasus is somewhat unique for its relatively high concentration of unrecognised states and unrepresented peoples. Each of them has varying degrees of independence and autonomy. Some have de facto statehood, whereas others are distinct peoples with little to no representation or territorial autonomy. Although different, these peoples seem to have one common goal - self-determination.\nThe benefits of recognised statehood are numerous and often taken for granted - countries have access to various forms of international funding, for example from the World Bank and the International Monetary Fund (IMF); their citizens can travel, assured that their passports will be accepted in another country; and they have a voice at international forums like the United Nations (UN), which can be an opportunity to influence international outcomes in their favour. Unrecognised states, on the other hand, are isolated internationally and can be forced to rely upon a patron state which offers them all kinds of help in exchange for their allegiance. This dependency on a patron-client relationship can lead to the client state being used as a political tool by its patron.\nOne key issue facing most unrecognised states is the restriction on movement imposed on their people. Because their de facto nationality is not recognised internationally, their locally-issued passports or travel documents are not considered valid for travel or entry into another country. The only way for them to travel abroad is to receive a passport from a neighbouring country, or to travel to the few countries that do recognise them. It happens that some people living in de facto states are entitled to other citizenships. In addition to unrecognised states, there also exists a number of unrepresented peoples - that is, distinct ethnic and linguistic groups that enjoy little or no representation both internationally and domestically. These peoples struggle even more for self-determination since they do not have their own autonomous territory. They find themselves even more vulnerable and are often at best ignored, or worse persecuted.\nFonte: What does it mean to be unrecognised and unrepresented? https://unpo.org/article/21947. Adaptado. Data de acesso: 07/08/2022.\nQuestão 25. De acordo com o texto, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "() ao ser reconhecido, os benefícios de um Estado são numerosos e tidos como certos."
+        },
+        {
+          "letra": "B",
+          "texto": "() ao ser reconhecido, um Estado adquire vantagens que, embora reduzidas, são essenciais."
+        },
+        {
+          "letra": "C",
+          "texto": "() além de participar da Organização das Nações Unidas, a representação de um Estado reconhecido é limitada."
+        },
+        {
+          "letra": "D",
+          "texto": "() um Estado reconhecido tem crédito irrestrito junto a bancos internacionais."
+        },
+        {
+          "letra": "E",
+          "texto": "() a luta travada por Estados não reconhecidos é hoje amplamente divulgada."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Questão 26. A respeito das populações de Estados não reconhecidos, não é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "() suas nacionalidades de facto não são internacionalmente reconhecidas."
+        },
+        {
+          "letra": "B",
+          "texto": "() só podem viajar se puderem obter passaporte emitido por um país vizinho."
+        },
+        {
+          "letra": "C",
+          "texto": "() muitas vezes acabam adquirindo outra cidadania também."
+        },
+        {
+          "letra": "D",
+          "texto": "() seus passaportes emitidos localmente são válidos para entrada em qualquer país."
+        },
+        {
+          "letra": "E",
+          "texto": "() só conseguem viajar para os poucos países que reconhecem sua cidadania."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Questão 27. O termo “Although\", destacado em itálico sublinhado no excerto do segundo parágrafo: “Although different, these peoples seem to have one common goal”, expressa ideia de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "() dessemelhança."
+        },
+        {
+          "letra": "B",
+          "texto": "() alternância."
+        },
+        {
+          "letra": "C",
+          "texto": "() similaridade."
+        },
+        {
+          "letra": "D",
+          "texto": "() contraste."
+        },
+        {
+          "letra": "E",
+          "texto": "() decorrência."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Inglês – Vocabulário",
+        "Inglês – Conectivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Questão 28. O termo “whereas\", destacado em itálico sublinhado no excerto do segundo parágrafo: “whereas others are distinct peoples”, pode ser substituído, sem prejuízo de sentido, por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "() meanwhile."
+        },
+        {
+          "letra": "B",
+          "texto": "() while."
+        },
+        {
+          "letra": "C",
+          "texto": "() wheresoever."
+        },
+        {
+          "letra": "D",
+          "texto": "() thereby."
+        },
+        {
+          "letra": "E",
+          "texto": "() henceforth."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Inglês – Vocabulário",
+        "Inglês – Sinônimos"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Questão 29. O termo \"allegiance\", destacado em itálico sublinhado no excerto do terceiro parágrafo: \"in exchange for their allegiance\", pode ser substituído, sem alteração de sentido, por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "() allegation."
+        },
+        {
+          "letra": "B",
+          "texto": "() loyalty."
+        },
+        {
+          "letra": "C",
+          "texto": "() alienation."
+        },
+        {
+          "letra": "D",
+          "texto": "() unfaithfulness."
+        },
+        {
+          "letra": "E",
+          "texto": "() animosity."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Inglês – Vocabulário",
+        "Inglês – Sinônimos"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Questão 30. O termo “do”, destacado em itálico sublinhado no excerto do quarto parágrafo: \"the few countries that do recognise them\", expressa",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "() dúvida."
+        },
+        {
+          "letra": "B",
+          "texto": "() equivalência."
+        },
+        {
+          "letra": "C",
+          "texto": "() detalhamento."
+        },
+        {
+          "letra": "D",
+          "texto": "() exemplificação."
+        },
+        {
+          "letra": "E",
+          "texto": "() ênfase."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Inglês – Gramática",
+        "Inglês – Verbos Auxiliares"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Leia atentamente o texto a seguir para responder às questões de 31 a 33\nConquistadores. By Fernando Cervantes. Viking; 512 pages; $35. Penguin, £12.99. A balanced retelling of the Spanish conquest of the Caribbean, Mexico and Peru, which draws heavily on the letters and diaries of those involved. The author chronicles the brutality of the invaders but seeks to judge them by the values of their own times. The behaviour of Hernán Cortés and the rest was nurtured by a late-medieval religious culture, not purely by the lure of gold and still less by modern notions of statehood, he argues.\nNews of a Kidnapping. By Gabriel García Márquez. Translated by Edith Grossman. Vintage; 304 pages; $17. Penguin; £8.99. An unsurpassed journalistic account by Colombia's most famous novelist of the horror inflicted by Pablo Escobar, the murderous drug-trafficker from Medellín, in the late 1980s and early 1990s. It focuses on the kidnapping of Diana Turbay, a journalist and daughter of a former president, tracing the agonising choices of officials torn between national interest and personal ties.\nThe Feast of the Goat. By Mario Vargas Llosa. Translated by Edith Grossman. Picador; 416 pages; $20. Faber & Faber; £8.99. Peru's Nobel-prizewinning novelist is at his psychologically probing best in this fictionalised account of the moral corruption and political repression of the dictatorship of Rafael Leónidas Trujillo, the self-styled Generalissimo who ruled the Dominican Republic from 1930 until his assassination in 1961.\nBeef, Bible and Bullets. By Richard Lapper. Manchester University Press; 272 pages; $29.95 and £11.99. A readable account of how Jair Bolsonaro won Brazil's presidency in the election of 2018 through a culture war that forged an ad hoc coalition of farmers, evangelical Protestants and the security forces.\nFonte: Our correspondents recommend the best books on their beats – Latin America. In: www.economist.com/culture /2022/07/14/our-correspondents-recommend-the-best-books-on-their-beats. Adaptado. Data de acesso: 14/07/2022.\nQuestão 31. De acordo com o texto, dentre as obras recomendadas sobre a América Latina, assinale a alternativa que apresenta os títulos cujos enredos ocorreram no século XX.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "() Beef, Bible and Bullets e Conquistadores."
+        },
+        {
+          "letra": "B",
+          "texto": "() Conquistadores e News of a Kidnapping."
+        },
+        {
+          "letra": "C",
+          "texto": "() Beef, Bible and Bullets e The Feast of the Goat."
+        },
+        {
+          "letra": "D",
+          "texto": "() The Feast of the Goat e News of a Kidnapping."
+        },
+        {
+          "letra": "E",
+          "texto": "() Conquistadores e The Feast of the Goat."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Questão 32. According to the text, Fernando Cervantes, the author of Conquistadores,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "() recreated the novel in the form of diaries and letters from the invaders."
+        },
+        {
+          "letra": "B",
+          "texto": "() tells that religious culture of the time was the main motivation to invade parts of the Americas."
+        },
+        {
+          "letra": "C",
+          "texto": "() depicts the astonishment of the conquistadores with the riches they easily found."
+        },
+        {
+          "letra": "D",
+          "texto": "() excuses the invaders on the grounds that they were expanding the Spanish crown domains."
+        },
+        {
+          "letra": "E",
+          "texto": "() concentrates on Hernán Cortés, who civilized the Caribbean, Mexico and Peru."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Questão 33. In the excerpt from the text \"the dictatorship of Rafael Leónidas Trujillo, the self-styled Generalissimo who ruled the Dominican Republic\", the underlined expression means that he",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "() was not proud of his military attire."
+        },
+        {
+          "letra": "B",
+          "texto": "() gave himself the specific title."
+        },
+        {
+          "letra": "C",
+          "texto": "() managed to be among the best Latin American generals."
+        },
+        {
+          "letra": "D",
+          "texto": "() was chosen to represent the military power across Latin America."
+        },
+        {
+          "letra": "E",
+          "texto": "() was a self-centred dictator."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Inglês – Vocabulário",
+        "Inglês – Expressões Idiomáticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Leia atentamente o texto a seguir para responder às questões de 34 a 36.\nA hundred years ago this weekend, a group of young artists and writers organised what they called the Modern Art Week in the new and grandiose municipal theatre in São Paulo. In fact, it lasted only for three evenings. It included a show of modernist painting, lectures, poetry recitals and music by Heitor Villa-Lobos, who was to become Brazil's best-known composer. It has since come to be seen as the founding moment of modern Brazilian artistic culture. Its centenary has brought both commemoration and some criticism.\nThe event took place in São Paulo, then a fast-industrialising frontier city that was starting to rival Rio de Janeiro, the capital at the time, where the staid cultural establishment was based. The Brazilian modernists had their contradictions. The would-be revolutionaries were also dandies, the scions of the coffee-growing aristocracy, and they were close to the political oligarchy that ran São Paulo and Brazil. Even so, they were disrupters.\nThe week \"was a declaration of cultural independence, that we are not simply a clumsy copy of something else\", says Eduardo Giannetti, a Brazilian philosopher. The modernists' aims were later formalised in a Manifesto Antropófago (Cannibal Manifesto), written by one of the poets, Oswald de Andrade. This sought to address the dilemma of how to be a Brazilian modern artist when modernism is a European import. The answer: \"Absorption of the sacred enemy. To transform him into a totem.\" In other words, Brazilians would not simply reproduce other models but digest them and turn them into something that was their own. The group embraced a national identity that, at least in theory, included black and indigenous Brazilians and their beliefs, and tropical fauna and flora.\nIt was cultural nationalism, but of an open-minded, cosmopolitan and non-xenophobic kind. That was important. Across Latin America, modernist writers and artists are forging new national identities. As the innovative 1920s degenerated into the ideological conflicts of the 1930s, some would embrace communism and others creole fascism in its many variants. The Brazilian modernists would radicalise politically and be co-opted, too, by Getúlio Vargas, Brazil's nation-builder, who ruled for much of 1930 to 1954, by turns an autocrat and a democrat.\nFonte: How the \"Cannibal Manifesto\" changed Brazil (Updated Feb 20th 2022). In: www.economist.com/the-americas/ 2022/02/12/how-the-cannibal-manifesto-changed-brazil. Adaptado. Data de acesso: 20/08/2022.\nQuestão 34. In the second paragraph, the sentence \"Even so, they were disrupters\" means that they were disrupters although",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "() the Modern Art Week took place in São Paulo instead of Rio de Janeiro."
+        },
+        {
+          "letra": "B",
+          "texto": "() they belonged to the established and affluent aristocracy."
+        },
+        {
+          "letra": "C",
+          "texto": "() the focus in São Paulo was industrialization."
+        },
+        {
+          "letra": "D",
+          "texto": "() they were revolutionaries on account of their social backgrounds."
+        },
+        {
+          "letra": "E",
+          "texto": "() they wished to interfere in local politics."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Questão 35. The third paragraph of the text",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "() names the main participants of the movement, like Eduardo Giannetti and Oswald de Andrade."
+        },
+        {
+          "letra": "B",
+          "texto": "() highlights the black and indigenous artists that contributed to innovative perspectives of modern art."
+        },
+        {
+          "letra": "C",
+          "texto": "() makes clear that the Brazilian modernist artists could not break free from European modernism."
+        },
+        {
+          "letra": "D",
+          "texto": "() explains the main idea of the Manifesto Antropófago, that is, to digest foreign influences and produce something else."
+        },
+        {
+          "letra": "E",
+          "texto": "() points out that cultural independence somehow leads to political dependence."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Questão 36. No trecho do quarto parágrafo \"That was important\", o termo \"that\" destacado em itálico sublinhado refere-se a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "() \"The modernists' aims were later formalised in a Manifesto Antropófago (Cannibal Manifesto), written by one of the poets, Oswald de Andrade.\""
+        },
+        {
+          "letra": "B",
+          "texto": "() \"The answer: “Absorption of the sacred enemy. To transform him into a totem.””\""
+        },
+        {
+          "letra": "C",
+          "texto": "() \"It was cultural nationalism, but of an open-minded, cosmopolitan and non-xenophobic kind.\""
+        },
+        {
+          "letra": "D",
+          "texto": "() \"As the innovative 1920s degenerated into the ideological conflicts of the 1930s, some would embrace communism and others creole fascism in its many variants.\""
+        },
+        {
+          "letra": "E",
+          "texto": "() \"The Brazilian modernists would radicalise politically and be co-opted, too, by Getúlio Vargas, Brazil's nation-builder, who ruled for much of 1930 to 1954, by turns an autocrat and a democrat.\""
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Inglês – Referência Textual",
+        "Inglês – Pronomes"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Questão 37. Considere $A\\ \\in\\ M_3(\\mathbb{R})$ tal que existe um único número real $x$ que satisfaz a equação $\\text{det}(\\sqrt{2x^2}A) + \\text{det}(xA^3) = \\text{det}\\ A^2$. Então, $x + \\text{det}\\ A$ é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) −5."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) -4."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) -3."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) -2."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) -1."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Matemática – Álgebra Linear",
+        "Matemática – Determinantes"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Questão 38. Sejam $z\\ \\in\\ \\mathbb{C}$ e $f(z) = z^2 + i$. Para cada $n\\ \\in\\ \\mathbb{N}$, definimos $f^{(1)}(z) = f(z)$ e $f^{(n)}(z) = f(f^{(n-1)}(z))$. Então, $f^{(2023)}(0)$ é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) $1 - i$."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) $i - 1$."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) $-1 - i$."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) $i$."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) $-i$."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Matemática – Números Complexos",
+        "Matemática – Funções Iteradas"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Questão 39. Considere as afirmações:\nI. Se P é um polígono convexo de $n$ lados iguais, então P é um polígono regular.\nII. Seja P um polígono convexo de 6 lados. Se seus ângulos internos, listados em ordem crescente, formam uma progressão aritmética, então a soma do menor e do maior ângulo interno de P é 240°.\nIII. Existe um polígono convexo de 100 lados cujos ângulos internos, listados em ordem crescente, formam uma progressão aritmética de razão $r = 1°$.\nÉ (são) sempre verdadeira(s):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "() apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "() apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "() apenas III."
+        },
+        {
+          "letra": "D",
+          "texto": "() apenas II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "() nenhuma."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Matemática – Geometria Plana",
+        "Matemática – Polígonos Convexos",
+        "Matemática – Progressão Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Questão 40. A média harmônica de $n$ números reais positivos $a_1, a_2, ..., a_n$ é\n$$H = \\frac{n}{\\frac{1}{a_1} + \\frac{1}{a_2} + ... + \\frac{1}{a_n}}$$\nSabendo que o polinômio $p(x) = 30x^3−113x^2+108x-30$ possui três raízes reais positivas, a média harmônica das raízes de $p(x)$ é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "() $\\frac{2}{3}$."
+        },
+        {
+          "letra": "B",
+          "texto": "() $\\frac{5}{18}$."
+        },
+        {
+          "letra": "C",
+          "texto": "() $\\frac{5}{6}$."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) 1."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) 3."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Matemática – Polinômios",
+        "Matemática – Médias"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Sejam $f$ e $g$ funções reais definidas da seguinte forma:\\ $f(x) = 3^{2x}$ e $g(x) = 3^x - 2^x$. Considere as afirmações:\\ I. $g(x) \\ge 0$, para todo $x \\in \\mathbb{R}$.\\ II. $f(x) \\ge g(x)$, para todo $x \\in \\mathbb{R}$.\\ III. $f(x) + g(x) \\ge 0$, para todo $x \\in \\mathbb{R}$.\\ É (são) sempre verdadeira(s):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) apenas III."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) todas."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) nenhuma."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudo": "Matemática – Funções Exponenciais e Desigualdades"
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Seja ABC um triângulo retângulo tal que $\\text{B}\\hat{\\text{A}}\\text{C} = 30^{\\circ}$. Considere D um ponto na hipotenusa AC e retas r e s passando por D, paralelas aos lados AB e BC, respectivamente. Se E = r$\\cap$BC, F = s$\\cap$AB e $\\text{m}(\\overline{\\text{BC}}) = 1$, o menor valor possível para $\\text{m}(\\overline{\\text{EF}})$ é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) $\\frac{\\sqrt{2}}{5}$"
+        },
+        {
+          "letra": "B",
+          "texto": "( ) $\\frac{\\sqrt{2}}{2}$"
+        },
+        {
+          "letra": "C",
+          "texto": "( ) $\\frac{\\sqrt{3}}{3}$"
+        },
+        {
+          "letra": "D",
+          "texto": "( ) $\\frac{\\sqrt{3}}{2}$"
+        },
+        {
+          "letra": "E",
+          "texto": "( ) $\\sqrt{3}$."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudo": "Matemática – Geometria Plana e Semelhança de Triângulos"
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Dado $z = 5 - 5i \\in \\mathbb{C}$, definimos $f(n) = |z^{(2n+1)} + \\bar{z}^{(2n+1)}|$ para cada $n \\in \\mathbb{N}$. A soma de $f(n)$ para $n$ de 1 até 20 é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) $250(50^{21} - 1)/49$."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) $500\\sqrt{2}(50^{20} - 1)/49$."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) $1000(50^{21} - 1)/49$."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) $500(50^{20} - 1)/49$."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) nenhuma das alternativas anteriores."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudo": "Matemática – Números Complexos"
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Considere a hipérbole H de equação $x^2 - \\frac{y^2}{4} = 1$. Seja T um triângulo de vértices P, F1, F2, onde F1 e F2 são os focos de H e P um ponto em H. Sabendo que o perímetro de T é $5\\sqrt{5}$, o produto da medida dos lados de T é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) $\\frac{41\\sqrt{5}}{2}$"
+        },
+        {
+          "letra": "B",
+          "texto": "( ) $\\frac{41}{4}$"
+        },
+        {
+          "letra": "C",
+          "texto": "( ) $\\frac{41\\sqrt{5}}{4}$"
+        },
+        {
+          "letra": "D",
+          "texto": "( ) $\\frac{41}{8}$"
+        },
+        {
+          "letra": "E",
+          "texto": "( ) $\\frac{41\\sqrt{5}}{8}$"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudo": "Matemática – Geometria Analítica"
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Um conjunto de moedas é lançado sucessivas vezes. Em cada lançamento, todas as moedas que resultam em coroa, e apenas estas, são retiradas. As demais moedas permanecem para o próximo lançamento. O jogo termina quando todas as moedas tiverem sido retiradas. A probabilidade de o jogo durar mais do que três rodadas, se for iniciado com quatro moedas, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) $1341/4096$."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) $1695/4096$."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) $2049/4096$."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) $2401/4096$."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) $2755/4096$."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudo": "Matemática – Probabilidade"
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "A medida da hipotenusa de um triângulo retângulo é igual a 10 cm. O volume do sólido gerado pela rotação deste triângulo em torno de um eixo que contém a hipotenusa é $30\\pi$ cm$^3$. O perímetro desse triângulo é, em cm, igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) $10 + 4\\sqrt{7}$."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) $10 + 5\\sqrt{7}$."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) $10 + 2\\sqrt{10}$."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) $10 + 3\\sqrt{10}$."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) $10 + 4\\sqrt{10}$."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudo": "Matemática – Geometria Espacial"
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Considere a função real\\ $f(x) = \\cos(x) \\cdot \\left[\\cos\\left(\\frac{\\pi}{3}\\right) + 2 \\sin(x)\\right] - \\sin(x) \\cdot \\sin\\left(\\frac{\\pi}{3}\\right) - 2$,\\ definida no intervalo $I = ] -4\\pi, 4\\pi[$. Sobre a equação $f(x) = 0$, podemos afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) não admite soluções em I."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) admite uma única solução em I."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) admite exatamente duas soluções em I."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) admite exatamente três soluções em I."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) admite exatamente quatro soluções em I."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudo": "Matemática – Funções Trigonométricas e Equações"
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Na expansão de $[1 + x^2 - x^3 + x^4]^{10}$, a soma de todos os coeficientes das potências múltiplas de 3 é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) 114."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) 228."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) 342."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) 456."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) 570."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudo": "Matemática – Polinômios"
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Em uma titulação, 100 mL de uma solução de um ácido monoprótico fraco, cuja constante de ionização é igual a $10^{-9}$, são neutralizados com 25 mL de uma solução 0,5 mol L$^{-1}$ de hidróxido de sódio.\\ Assinale a opção que apresenta o pH no ponto de equivalência da titulação.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) 9,0."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) 9,5."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) 10,0."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) 10,5."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) 11,0."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudo": "Química – Eletroquímica"
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Sabe-se que a constante de velocidade ($k$) de uma reação é função da temperatura ($T$) conforme a Lei de Arrhenius:\\ $$ k = A e^{\\left(-\\frac{E_a}{RT}\\right)} $$\\ em que $A$ é o fator de frequência e $E_a$ é a energia de ativação. Em um estudo cinético, observou-se que a velocidade de uma determinada reação aumenta 1000 vezes quando a temperatura do meio reacional aumenta de 400 K para 500 K, permanecendo constantes todos os demais parâmetros iniciais.\\ Assinale a opção que apresenta a energia de ativação desta reação, em kcal mol$^{-1}$, considerando que $A$ e $E_a$ não dependem da temperatura.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) 7,3."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) 17,3."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) 27,3."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) 37,3."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) 47,3."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudo": "Química – Cinética Química"
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Considere as seguintes afirmações relacionadas a átomos e íons atômicos no estado gasoso:\\ I. A afinidade eletrônica do átomo de oxigênio é maior do que a do ânion O$^{-}$.\\ II. A energia de ionização do átomo de oxigênio é maior do que a do ânion O$^{2-}$.\\ III. O raio atômico do átomo de oxigênio é maior do que o do ânion O$^{-}$.\\ IV. O átomo de oxigênio tem maior afinidade eletrônica e menor energia de ionização do que o átomo de nitrogênio.\\ Das afirmações I a IV, acima destacadas, são CORRETAS",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) apenas I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) apenas I, II e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) apenas I e III."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) apenas II, III e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) apenas III e IV."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudo": "Química – Tabela Periódica"
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Considere que as curvas (I) e (II) representam uma mesma reação química em fase gasosa, mas em diferentes condições.\\ Sabendo que $E_a$ é a energia de ativação, é CORRETO afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) em (II) a reação ocorre na presença de um catalisador."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) a reação é endotérmica."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) a reação é de primeira ordem."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) a temperatura em (I) é menor do que em (II)."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) a constante de velocidade da reação em (I) é maior do que em (II)."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudo": "Química – Cinética Química"
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Considere os seguintes compostos:\\ I. $\\text{F}-\\text{C}=\\text{CH}_2$\\ $\\text{H}$\\ II. $\\text{HO}-\\text{C}-\\text{C}-\\text{C}-\\text{OH}$\\ $\\text{H}_2 \\text{H}_2 \\text{OH}$\\ III. $\\text{H}_3\\text{C}-\\text{C}-\\text{C}-\\text{C}-\\text{OH}$\\ $\\text{H}_2 \\text{H} \\text{CH}_3 \\text{H}_2$\\ IV. $\\text{H}_2\\text{N}-\\text{C}-\\text{C}-\\text{OH}$\\ $\\text{H}_2 \\text{H}_2$\\ Qual(is) dos compostos acima forma(m) comumente polímeros de condensação?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) Apenas I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) Apenas I e III."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) Apenas II e III."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) Apenas II e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) Apenas IV."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudo": "Química – Química Orgânica"
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Um eletrólito genérico BA2 ioniza em solução aquosa, de acordo com a equação química:\\ $\\text{BA}_2 \\rightleftharpoons \\text{B}^{2+} + 2\\text{A}^-$. \\ Considere duas soluções aquosas, preparadas com as mesmas quantidades desse eletrólito, nas seguintes condições de equilíbrio:\\ Solução 1: Volume $V_1$, temperatura $T_1$ e grau de ionização do eletrólito $\\alpha_1$.\\ Solução 2: Volume $V_2 = 2V_1$, temperatura $T_2$ e grau de ionização do eletrólito $\\alpha_2 = \\alpha_1$.\\ Com base nessas informações, assinale a opção que relaciona corretamente a constante de equilíbrio da ionização do eletrólito na solução 2, $K_2$, com a constante de equilíbrio na solução 1, $K_1$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) $K_2 = 0,25 K_1$."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) $K_2 = 0,5 K_1$."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) $K_2 = K_1$."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) $K_2 = 2 K_1$."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) $K_2 = 4 K_1$."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudo": "Química – Equilíbrio Químico"
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "Um sistema contendo oxigênio atômico (na forma do isótopo estável mais abundante) e hidrogênio atômico (na forma dos dois isótopos mais estáveis) é colocado a reagir em duas condições diferentes, levando à formação de produtos únicos e distintos, X e Y, respectivamente. Considere que X e Y correspondem a moléculas neutras, estáveis e que obedecem à regra do octeto, e que a massa molar média de X é menor do que a de Y.\\ Assinale a opção que relaciona corretamente as possíveis razões entre as massas de hidrogênio e de oxigênio nas moléculas que constituem X e Y.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) X: 1/8, 3/16 e 1/4, Y: 1/16, 3/32 e 1/8."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) X: 1/8, 3/16 e 1/4, Y: 1/24, 1/16 e 1/12."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) X: 1/16, 3/32 e 1/8, Y: 1/8, 3/16 e 1/4."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) X: 1/16, 1/8 e 1/4, Y: 1/32, 1/16 e 1/8."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) X: 1/24, 1/16 e 1/12, Y: 1/8, 3/16 e 1/4."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudo": "Química – Química Geral"
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "Em uma determinada temperatura, uma mistura gasosa contendo as substâncias $\\text{X}_2$, $\\text{Y}_2$ e XY é adicionada a um recipiente de 1 L, nas concentrações, em mol L$^{-1}$, de 0,4, 0,4 e 0,8, respectivamente. A equação química que representa a reação, cuja constante de equilíbrio é igual a 16, é dada por\\ $\\text{X}_2 + \\text{Y}_2 \\rightleftharpoons 2\\text{XY}$.\\ Assinale a opção que contém a concentração aproximada, em mol L$^{-1}$, do produto XY, após a reação atingir o equilíbrio.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) 0,5."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) 0,8."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) 1,1."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) 2,2."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) 2,7."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudo": "Química – Equilíbrio Químico"
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Considere que valores maiores de energia de hidratação são observados para íons com menor tamanho e maior carga. Com base nessa informação, são feitas as seguintes comparações entre a energia de hidratação dos pares de íons abaixo.\\ I. $\\text{Li}^+ > \\text{K}^+$. \\ II. $\\text{B}^{3+} > \\text{Al}^{3+}$.\\ III. $\\text{Sr}^{2+} < \\text{Ca}^{2+}$.\\ IV. $\\text{Ga}^{3+} > \\text{Ca}^{2+}$.\\ V. $\\text{S}^{2-} > \\text{Se}^{2-}$.\\ Das comparações I a V, acima destacadas, são CORRETAS",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) apenas I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) apenas I, II e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) apenas II, III e V."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) apenas III, IV e V."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) todas."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudo": "Química – Físico-Química"
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "Considere as seguintes afirmações sobre características de óleos e gorduras.\\ I. Em temperatura ambiente, óleos são líquidos e gorduras são sólidas.\\ II. Óleos são ricos em ésteres de ácidos graxos insaturados, ao passo que gorduras possuem predominância de ésteres de ácidos graxos saturados.\\ III. A reação entre óleos ou gorduras com hidróxido de sódio (NaOH) ou hidróxido de potássio (KOH) produz sabão.\\ IV. Quanto maior é o índice de saponificação, maior a massa molar média do triglicerídeo do óleo ou da gordura. Por índice de saponificação, entenda-se a massa de KOH, em mg, necessária para saponificar 1 g de óleo ou de gordura.\\ Das afirmações I a IV, acima destacadas, são CORRETAS",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) apenas I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) apenas I, II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) apenas III e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) apenas I e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) todas."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudo": "Química – Química Orgânica"
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "Considere as seguintes afirmações relativas a ácidos.\\ I. O ácido fosfórico possui hidrogênios que podem ser substituídos por grupos orgânicos para a formação de ésteres.\\ II. O ácido fosfórico pode produzir três cátions do tipo hidroxônio em água.\\ III. A ionização do ácido clorídrico aumenta a condutividade elétrica de soluções aquosas.\\ IV. O grau de ionização de ácidos é a relação entre o número de moléculas dissolvidas e o número total de moléculas.\\ Das afirmações I a IV, acima destacadas, são CORRETAS",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) apenas I, II e III."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) apenas II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) apenas II e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) apenas III e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) todas."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudo": "Química – Química Inorgânica"
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Os seguintes diagramas representam diferentes estados de equilíbrio de uma reação exotérmica do tipo $\\text{A}_2\\text{(g)} + \\text{B}_2\\text{(g)} \\rightleftharpoons 2\\text{AB(g)}$.\\ Assinale a opção que contém a afirmação CORRETA.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "( ) Se a constante de equilíbrio da reação, $K_c$, em um determinada temperatura, é igual a 3, apenas o diagrama (I) representa o sistema no equilíbrio."
+        },
+        {
+          "letra": "B",
+          "texto": "( ) Os diagramas (II) e (IV) podem representar a situação da reação em equilíbrio em duas temperaturas diferentes, com $T_{II} > T_{IV}$."
+        },
+        {
+          "letra": "C",
+          "texto": "( ) Se todos os diagramas representam a reação em equilíbrio, o diagrama (III) representa a reação com a menor constante de equilíbrio."
+        },
+        {
+          "letra": "D",
+          "texto": "( ) Se a pressão for reduzida à metade pela duplicação do volume, em temperatura constante, os diagramas (II) e (III) representam a reação em equilíbrio para o estado inicial e final, respetivamente, desse processo, com $V_{II} = 2V_{III}$."
+        },
+        {
+          "letra": "E",
+          "texto": "( ) Se cada símbolo que representa uma molécula nos diagramas equivale a 0,20 mol e se o volume do recipiente é 1,0 L, a constante de equilíbrio da reação representada pelo diagrama (I) é 0,5."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudo": "Química – Equilíbrio Químico"
+    }
+  ]
+}

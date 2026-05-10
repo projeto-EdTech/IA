@@ -1,0 +1,618 @@
+{
+  "nomeUniversidade": "Pontifícia Universidade Católica de Campinas",
+  "siglaUniversidade": "PUC-Campinas",
+  "nomeProva": "Vestibular de Inverno",
+  "ano": 2025,
+  "qtdeQuestoes": 40,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Atenção: Para responder às questões de números 1 a 7, baseie-se no texto a seguir.\nUm verso, um amor\n\"Neste país é proibido sonhar\". Esse verso com cara de cartaz está no poema \"Sentimental\", de Carlos Drummond de Andrade, e é do tempo em que os modernistas de 22 cultivavam nacionalismos (assim mesmo, no plural). Mas no país poético de Drummond nenhum nacionalismo vingaria, nenhum levaria a sério qualquer empreendimento mais romântico do que o sentimento ardoroso de um jovem namorado tentando completar o nome da namorada com a letrinha de macarrão que não encontra na sopa...\nEm volta da mesa, a recriminação é geral – \"Olha que a sopa esfria!\" –, daí a queixa do rapaz, ao acusar um país em que o sonho é proibido. Brincando de modo compenetrado com a lírica e um seu amor juvenil, o poeta adulto lembra-se com paixão daquela sopa de letrinhas delicadas, quando se transtornava com gente que não admite os sonhos, que os vê como um desvio de alguma ordem obrigatória. É um poema pra quem sabe que um primeiro amor juvenil, contemplando românticas letras de macarrão, não tem nada a ver com um prosaico senso de realidade.\nEsse poema \"sentimental” de Drummond é, pois, um poema para quem gosta de imaginar as coisas a partir e de dentro de uma experiência amorosa; é para quem, tomado por um sentimento tão revelador, quer tomar conta da geografia, da política, de um país a ser alargado pelo descobrimento do amor.\n(Abílio Mascarenhas, a editar)\nA queixa do rapaz enamorado",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "eriva da censura daqueles que o impedem de se ater ao senso de realidade."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Língua Portuguesa – Interpretação de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "A questão refere-se ao texto 'Um verso, um amor' apresentado anteriormente.\nA reação dos que estão à mesa junto ao rapaz torna-se, no contexto, um exemplo de um",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "mpreendimento mais romântico."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Língua Portuguesa – Interpretação de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "A questão refere-se ao texto 'Um verso, um amor' apresentado anteriormente.\nUm dos traços que identificam no texto a presença de um discurso narrativo é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "menção à sopa feita com letrinhas de macarrão."
+        },
+        {
+          "letra": "A",
+          "texto": "expressão um prosaico senso de realidade."
+        },
+        {
+          "letra": "A",
+          "texto": "fala de quem recrimina o rapaz."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Língua Portuguesa – Tipologia textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "A questão refere-se ao texto 'Um verso, um amor' apresentado anteriormente.\nAs normas de concordância verbal encontram-se plenamente observadas na frase:",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "epreende-se desse poema de Drummond alguns traços de sua retração lírica."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Língua Portuguesa – Concordância verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "A questão refere-se ao texto 'Um verso, um amor' apresentado anteriormente.\nÉ exemplo do emprego de voz passiva o segmento textual:",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "sse verso com cara de cartaz."
+        },
+        {
+          "letra": "E",
+          "texto": "m volta da mesa, a recriminação é geral."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Língua Portuguesa – Vozes verbais"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "A questão refere-se ao texto 'Um verso, um amor' apresentado anteriormente.\nEm volta da mesa, todos censuravam o rapaz: - Pare de sonhar, não deixe que a sua sopa esfrie!\nTranspondo-se a frase acima para o discurso indireto, ela deverá ficar: Em volta da mesa, todos censuravam o rapaz,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "dvertindo-lhe que parasse de sonhar e que não deixasse esfriar a sua sopa."
+        },
+        {
+          "letra": "C",
+          "texto": "riticando-lhe por sonhar e que sua sopa não devia deixar-se esfriar."
+        },
+        {
+          "letra": "C",
+          "texto": "ontestando-lhe que sonhasse enquanto deixaria esfriar sua sopa."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Língua Portuguesa – Discurso direto e indireto"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "A questão refere-se ao texto 'Um verso, um amor' apresentado anteriormente.\nConsidere estas frases:\nI. O rapaz estava sonhando.\nII. O rapaz tomava sopa de macarrão.\nIII. Os presentes o censuravam por estar sonhando.\nEssas frases articulam-se de modo correto e coerente neste período único:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "inda que sonhasse, ao tomar sopa de macarrão, eis que os presentes o censurassem."
+        },
+        {
+          "letra": "A",
+          "texto": "o sonhar enquanto tomava sopa de macarrão, o rapaz era censurado pelos presentes."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Língua Portuguesa – Coerência e Coesão textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Exemplo de restrição crítica a certo nacionalismo exacerbado do Modernismo de 22 está nestes versos do poema \"Hino Nacional\", de Carlos Drummond de Andrade:",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Língua Portuguesa – Literatura Brasileira - Modernismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "O crítico Antonio Candido faz o seguinte comentário acerca do romance São Bernardo, de Graciliano Ramos:\nDois movimentos o integram: um, a violência do protagonista contra homens e coisas; outro, a sua violência contra si mesmo. Da primeira, resulta S. Bernardo-fazenda, que se incorpora ao seu próprio ser; da segunda, resulta S. Bernardo-livro de recordações [...]\nCom essa observação, o crítico admite que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "s personagens ficcionais mais fortes são as que não se rendem à violência física."
+        },
+        {
+          "letra": "A",
+          "texto": "s violências ficcionais só podem nos convencer quando calcadas na realidade."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Língua Portuguesa – Literatura Brasileira - Análise de Obra"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Atente para estes versos de um poema de Ana Martins Marques,\n\"Octavio Paz: escreveu:\nA palavra pão, tocada pela palavra dia,\ntorna-se efetivamente um astro; e o sol,\npor sua vez, torna-se alimento\nluminoso\"\nNessa declaração, Octavio Paz considera que a palavra pão e a palavra dia, uma vez associadas,",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "riam um efeito de non sense que é próprio da poesia simbolista."
+        },
+        {
+          "letra": "E",
+          "texto": "stabelecem uma relação de sinonímia muito cara à poesia concreta."
+        },
+        {
+          "letra": "A",
+          "texto": "centuam expressivamente o caráter antitético dessa livre associação."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Leitura de Poesia"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Atenção: Para responder às questões de números 11 a 13, considere o texto a seguir.\nCarlos Drummond de Andrade (October 31, 1902 - August 17, 1987) was a Brazilian poet and writer, considered by some as the greatest Brazilian poet of all time.\nHe has become something of a national cultural symbol in Brazil, where his widely influential poem \"Canção Amiga\" I on the 50-cruzado novo bill, when this short-lived new currency was introduced back in 1989 and replaced by the cruzeiro in 1990.\nDrummond was born in Itabira, a mining village in Minas Gerais in the southeastern region of Brazil. His parents were farmers belonging to old Brazilian families of mainly Portuguese origin. He went to a school of pharmacy in Belo Horizonte, but never worked as a pharmacist after graduation. He worked as a civil servant for most of his life, eventually becoming director of the history for the National Historical and Artistic Heritage Service of Brazil.\nDrummond drifted towards communism at the start of World War II and took up the editorship of the Brazilian Communist Party's official newspaper, Tribuna Popular, but later abandoned the post due to disagreements over censorship, which Drummond staunchly opposed.\nDrummond's work has been translated by American poets including Mark Strand and Lloyd Schwartz. Later writers and critics have sometimes credited his relationship with Elizabeth Bishop, his first English language translator, as influential for his American reception, but though she admired him, Bishop claimed she barely even knew him. In an interview with George Starbuck in 1977, she said, \"I didn't know him at all. He's supposed to be very shy. I'm supposed to be very shy. We've met once - on the sidewalk at night. We had just come out of the same restaurant, and he kissed my hand politely when we were introduced.\"\n(Adapted from https://en.wikipedia.org)\nA forma verbal correta que preenche a lacuna I é:",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Inglês – Gramática"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "A questão refere-se ao texto em inglês 'Carlos Drummond de Andrade' apresentado anteriormente.\nSegundo o texto,",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "rummond fez Faculdade de Farmácia, mas nunca completou seus estudos."
+        },
+        {
+          "letra": "D",
+          "texto": "rummond foi editor do Tribuna Popular, mas deixou o jornal por motivos ideológicos."
+        },
+        {
+          "letra": "D",
+          "texto": "rummond foi homenageado numa nota de 50 cruzados em 1990."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Inglês – Compreensão de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "A questão refere-se ao texto em inglês 'Carlos Drummond de Andrade' apresentado anteriormente.\nDe acordo com o texto,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "lguns autores atribuem a boa recepção da obra de Drummond nos Estados Unidos às traduções feitas por Bishop."
+        },
+        {
+          "letra": "B",
+          "texto": "ishop admirava Drummond, mas só cruzou com ele uma vez."
+        },
+        {
+          "letra": "D",
+          "texto": "rummond foi entrevistado por George Starbuck em 1977, o que proporcionou boa visibilidade a sua obra."
+        },
+        {
+          "letra": "B",
+          "texto": "ishop afirmava ser muito tímida para tentar se aproximar de Drummond."
+        },
+        {
+          "letra": "D",
+          "texto": "rummond e Bishop chegaram a jantar juntos num restaurante local."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Inglês – Compreensão de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Um professor tem 50 alunos, distribuídos entre suas turmas A e B. As médias de notas em uma mesma prova das turmas A e B foram, respectivamente, 6,5 e 7,5. Se a média de notas dos seus 50 alunos nessa prova foi de 7,2, o número de alunos da turma B supera o da turma A em:",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Matemática – Média Aritmética",
+        "Matemática – Sistemas Lineares"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Ao meio-dia, com o Sol a pino, um drone de tamanho desprezível desloca-se obliquamente em linha reta do ponto P ao ponto Q, que forma um ângulo de $60^{\\circ}$ com a linha do horizonte, que é paralela ao solo retilíneo e plano, como mostra a figura. Sabe-se, ainda, que a distância entre as projeções ortogonais do drone nas posições P e Q sobre o solo é de 20 m.\n\nSe o drone percorreu PQ em 20 segundos, sua velocidade média nesse percurso foi de:",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Matemática – Trigonometria",
+        "Matemática – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Uma pedra foi lançada obliquamente para cima a partir de um penhasco de 350 metros de altura em relação ao solo plano, retilíneo e perpendicular ao penhasco, seguindo uma trajetória parabólica. A altura $h(x)$ da pedra em função do seu deslocamento na componente horizontal $x$, ambos em metros, é dada pela função $h(x) = -x^2 + 25x + 350$, cujo gráfico no plano cartesiano de eixos ortogonais é indicado a seguir.\n\nConsiderando-se o ponto de coordenadas $(0, 0)$ como sendo o local do sopé do penhasco, a distância entre o sopé do penhasco e o local em que a pedra caiu no chão, em metros, é igual a:",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Matemática – Funções do 2º grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Quando um número real entra pela primeira vez em uma máquina de cálculos, ela faz as seguintes operações, nessa ordem:\n1. dobra o número;\n2. subtrai 3 do resultado anterior.\n\nNa segunda vez que o número é digitado na máquina, ela faz a inversa da operação 1 e, em seguida, faz a inversa da operação 2.\n\nUm número real foi digitado pela primeira vez nessa máquina, retornando como resposta no campo de saída o número correspondente ao resultado das operações. Em seguida, essa resposta obtida foi digitada na máquina (segunda digitação da máquina) e foi apresentado, como resposta final, no campo de saída da máquina, o número 15. O número real que foi digitado pela primeira vez na máquina foi o:",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Matemática – Funções",
+        "Matemática – Equações do 1º grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Laura contratou um plano mensal de internet móvel de 20 GB. Do total contratado, ela usou 25% na primeira semana. Na segunda semana, ela usou 20% do que restava. Na terceira semana, Laura usou 30% do que restava e, na quarta e última semana, ela usou o restante do plano. Se o plano custou para Laura a quantia de R$ 4,00 por cada GB contratado, seu gasto pelo uso dos dados na quarta semana foi de:",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "A figura indica três polígonos regulares e um círculo de centro C e raio CB. Em relação aos polígonos, sabe-se que o triângulo ABC compartilha com o quadrado ACDE o lado AC que, por sua vez, compartilha com o pentágono CDFGH o lado CD.\n\nSendo CB = 6 cm, a área do setor circular de centro C e arco HB indicado na figura em cinza, em cm², é igual a:",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Uma caixa contêm seis fios de espaguete de espessuras desprezíveis e comprimentos iguais a 3, 4, 4, 5, 6 e 7 centímetros. Sorteando-se três dos seis fios, a probabilidade de que seja possível formar, com eles, um triângulo cujos lados sejam exatamente os fios sorteados é:",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Matemática – Probabilidade",
+        "Matemática – Geometria Plana"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Quando um paraquedista salta, ele começa a ganhar velocidade, pois é puxado para baixo por uma força igual ao seu peso, descendo cada vez mais rápido. Mas, na medida em que ele ganha velocidade, a resistência do ar aumenta. Assim, a velocidade do paraquedista vai aumentando até que a força da resistência do ar seja igual ao seu peso: aí sua velocidade para de aumentar.\n\n(Disponível em: https://cienciasolimpicas.blogspot.com)\n\nSuponha que, em dado instante da sua queda, um paraquedista de peso total 800 N esteja sujeito a uma aceleração de $4,0 \\text{ m/s}^2$, vertical para baixo. Considerando a aceleração gravitacional igual a $10 \\text{ m/s}^2$, a força de resistência do ar que atua no paraquedista, nesse instante, tem intensidade de:",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Dinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Criocirurgia, também conhecida como crioterapia, é um processo terapêutico baseado no tratamento de lesões pelo frio, no qual o resfriamento rápido da pele provoca inúmeras alterações imunológicas e destruição dos tecidos. O agente mais comumente usado para se conseguir o resfriamento abrupto da pele é o nitrogênio líquido, na temperatura aproximada de $-196 \\text{ }^\\circ\\text{C}$.\n\n(Disponível em: https://www.sbd.org.br)\n\nQuando se faz referência a baixas temperaturas de gases, é comum se utilizar a escala Kelvin, sendo que o valor $0 \\text{ K}$ corresponde a $-273 \\text{ }^\\circ\\text{C}$ e o valor $273 \\text{ K}$ equivale a $0 \\text{ }^\\circ\\text{C}$. Na escala Kelvin, a temperatura do nitrogênio citada acima vale:",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Física – Termometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "O esquema ilustra a trajetória de dois raios de luz, inicialmente paralelos, que incidem em um instrumento composto por dois sistemas ópticos, 1 e 2, imersos no ar.\n\nDe acordo com o esquema, os sistemas ópticos 1 e 2 podem ser, respectivamente,",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Óptica Geométrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "No século XIX, as formas de dominação econômica sofreriam transformações e o seu foco de concentração se deslocaria das Américas para a Ásia e África, locais de interesse relativamente secundário na etapa do colonialismo mercantilista. Os países ibéricos se resignaram à decadência e a nova hegemonia passou aos países que se tornaram dominantes na era capitalista - Alemanha, França, Inglaterra, Estados Unidos.\n\n(Adaptado de: MARQUES, Adhemar Martins e LOPEZ, Luiz Roberto. Imperialismo: a expansão do capitalismo. Belo Horizonte: Editora Lê, 2000, p. 15)\n\nAs \"formas de dominação econômica\" do Imperialismo do século XIX se diferenciaram do colonialismo mercantilista pela",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "xploração de recursos naturais das colônias com o objetivo de enriquecer os colonizadores."
+        },
+        {
+          "letra": "D",
+          "texto": "eterminação de crenças e sistemas de governo, visando a adaptação das colônias ao modelo de sociedade das metrópoles."
+        },
+        {
+          "letra": "E",
+          "texto": "xpansão da influência do bloco capitalista para a África e Ásia com a intenção de deter o avanço comunista nesses continentes."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "História – Imperialismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "A opção de Maria Quitéria de Jesus pela causa da independência é exemplar. Não sabia ler ou escrever, mas ouviu histórias na pequena propriedade de seu pai, no interior da Bahia, sobre a opressão de Portugal, fazendo seu coração \"arder de amor à pátria\". Fugiu para a casa da irmã casada, que a ajudou a vestir-se de homem para, assim, poder entrar para o exército patriótico. Participou de algumas batalhas, distinguiu-se em ação e finalmente foi recebida pelo imperador, em agosto de 1823, que a condecorou com a ordem do Cruzeiro e a promoveu a alferes.\n\n(Adaptado de: PRADO, Maria Ligia Coelho. América Latina no século XIX: tramas, telas e textos. São Paulo: Edusp, 2014, p. 35)\n\nA biografia de Maria Quitéria exemplifica o",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "aráter pacífico do processo de independência brasileira."
+        },
+        {
+          "letra": "E",
+          "texto": "nvolvimento de mulheres da elite brasileira na luta pela independência."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "História – Independência do Brasil",
+        "História – Papel da mulher na história"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Provavelmente a coisa mais próxima de um modelo de transição para os reformadores da economia de Mikhail Gorbachev foi a vaga lembrança histórica da Nova Política Econômica (NEP) de 1921. Essa, afinal, dera resultados espetaculares na revitalização da agricultura, comércio, indústria, finanças, durante várias décadas depois de 1921, e devolvera a saúde a uma economia em colapso.\n\n(Adaptado de: HOBSBAWM, Eric. A era dos extremos o breve século XX: 1914-1991. São Paulo: Companhia das Letras, 1995, p. 467)\n\nA NEP foi \"um modelo de transição\" para \"os reformadores da economia\" de Gorbachev, pois tanto a NEP como a Perestroika",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "lcançaram suas metas ao solucionar graves problemas sociais e econômicos do país."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "História – História da Rússia/URSS"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "A imagem refere-se a um Domínio Morfoclimático do Brasil.\n\n(Os domínios de natureza no Brasil)\n\nSão características desse domínio:",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "spaço sujeito a climas subtropicais úmidos, fortes geadas e eventuais nevadas."
+        },
+        {
+          "letra": "D",
+          "texto": "omínio com forte decomposição de rochas cristalinas e de mamelonização extensiva."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Geografia – Domínios Morfoclimáticos do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Um dos problemas ambientais contemporâneos é a chuva ácida, fenômeno que tem sua origem e concentração, majoritariamente, em",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "spaços litorâneos pouco povoados e marcados por elevadas umidades."
+        },
+        {
+          "letra": "A",
+          "texto": "mbientes desérticos, devido à baixa umidade relativa do ar."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Química – Química Ambiental",
+        "Geografia – Problemas Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "O mapa abaixo foi lançado pelo Instituto Brasileiro de Geografia e Estatística (IBGE). Trata-se de uma nova versão do mapa-múndi e vem sendo chamada de \"mapa invertido\". Para produzir essa nova versão do mapa-múndi foi necessário",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "lterar as fronteiras continentais."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": "Geografia – Cartografia"
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Considere o texto de Agostinho de Hipona (354-430), em carta ao amigo Teodoro, sobre a reflexão das dificuldades do ser humano em atingir a verdadeira felicidade.\nSe fosse possível atingir o porto da Filosofia – único ponto de acesso à região e à terra firme da vida feliz –, numa caminhada exclusivamente dirigida pela razão e conduzida pela vontade, talvez não fosse temerário afirmar, ó magnânimo e ilustre Teodoro, que o número dos homens a lá chegar seria ainda mais diminuto do que aqueles que atualmente aportam a esse porto, já tão raros e escassos se apresentam eles. Com efeito, estamos lançados neste mundo, como em mar tempestuoso, e por assim dizer, ao acaso e à aventura – seja por Deus, seja pela natureza, seja pelo destino (necessitas), seja ainda por nossa própria vontade. Sucessivamente, por algumas dessas conjunturas, ou talvez, por todas elas reunidas. [...] Poucos saberiam qual o caminho do retorno ou que esforços empenhar, caso não se levantasse alguma tempestade - considerada pelos insensatos como calamitosa – para dirigi-lo à terra de suas ardentes aspirações. Pois são navegantes ignorantes e erradios.\n(Adaptado de: AGOSTINHO, S. Dedicatória a Mânlio Teodoro. In: Agostinho, S. Solilóquios e Vida Feliz. Tradução: Nair de Assis Oliveira. São Paulo: Paulus, 1998)\nA partir do fragmento, corresponde ao pensamento agostiniano:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "condição humana é marcada pela fragilidade moral e pela desorientação espiritual, sendo a Graça divina indispensável para iluminar e fortalecer a vontade na direção do bem e da felicidade."
+        },
+        {
+          "letra": "A",
+          "texto": "razão e a vontade humanas, por si sós, são suficientes para conduzir o ser humano à verdade e à felicidade."
+        },
+        {
+          "letra": "A",
+          "texto": "salvação é um processo totalmente autônomo, no qual o ser humano não depende da intervenção divina."
+        },
+        {
+          "letra": "A",
+          "texto": "felicidade é fruto exclusivo dos méritos humanos, sendo dispensável qualquer auxílio de Deus para a inclinação da vontade ao bem."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": "Filosofia – Santo Agostinho"
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Considere o que afirma Hegel em seu Curso de Estética.\nSe se quiser marcar um fim último à arte, será ele o de revelar a verdade, o de representar, de modo concreto e figurativo, aquilo que agita a alma humana [...] O seu mais alto destino, tem-no a arte em comum com a religião e a filosofia. Como estas, também ela é um modo de expressão do divino, das necessidades e exigências mais elevadas do espírito.\n(Adaptado de: HEGEL, G. W. F. Curso de Estética: o belo na arte. Tradução: Orlando Vitorino e Àlvaro Ribeiro. São Paulo: Martins Fontes, 1996, p. 71)\nDe acordo com o pensamento do autor:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "arte tem como fim expressar o belo puramente formal, sem qualquer relação com as ideias e com a verdade."
+        },
+        {
+          "letra": "A",
+          "texto": "arte seria como mero entretenimento sensível, sem qualquer conexão com a filosofia e a religião."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": "Filosofia – Estética Hegeliana"
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "O chamado \"darwinismo social\":",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "onstitui uma adaptação distorcida do conceito de \"seleção natural\" de Charles Darwin, com desdobramentos racistas para explicar as diferenças entre as várias formações sociais humanas."
+        },
+        {
+          "letra": "C",
+          "texto": "onstitui um conceito inspirado no relativismo cultural que considerava válidas todas as formas culturais de adaptação ao meio natural."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": "Sociologia – Teorias Sociológicas (Darwinismo Social)"
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "O papel econômico e social da Indústria no Brasil no século XXI tem",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "omo histórico, um salto de participação relativa no Produto Interno Bruto, em função da globalização, ainda que empregando menos que o setor Agropecuário."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": "Geografia – Economia Brasileira (Setores da Economia)"
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Considere o esquema que resume o sistema gás carbônico-carbonato nos oceanos. A acidificação dos oceanos faz com que\nI. aumente a precipitação de $CaCO\\_3(s)$.\nII. diminua a captação do $CO\\_2(g)$ atmosférico.\nIII. o pH da água fique menor.\nEstá correto o que se afirma APENAS em",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": "Química – Equilíbrio Químico e Acidificação Oceânica"
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "A sinvastatina é um medicamento usado para controle do colesterol. As funções orgânicas presentes na sinvastatina são:",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "etona e ácido carboxílico."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": "Química – Funções Orgânicas"
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Os números de pares de elétrons compartilhados na molécula de dióxido de carbono e na de metano são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "ois e dois."
+        },
+        {
+          "letra": "D",
+          "texto": "ois e quatro."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": "Química – Ligações Químicas (Covalentes)"
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Os eventos extremos descritos no texto têm efeitos profundos nos ecossistemas marinhos. Um impacto ecológico direto nos ambientes afetados por esses distúrbios é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "diminuição da diversidade de predadores topos de cadeia devido à competição intraespecífica por luz e espaço."
+        },
+        {
+          "letra": "A",
+          "texto": "redução na biomassa dos consumidores primários e consequente colapso dos níveis tróficos superiores."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": "Biologia – Ecologia (Cadeias Alimentares, Impactos Ambientais)"
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "De acordo com o Instituto Nacional do Câncer dos EUA, a terapia conhecida como CAR-T envolve a modificação de linfócitos T para que reconheçam e destruam células tumorais. Esse processo utiliza técnicas de engenharia genética, nas quais genes são inseridos no DNA dessas células por meio de métodos como o DNA recombinante. (Disponível em: https://www.cancer.gov) Sobre o tema:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "técnica do DNA recombinante só pode ser utilizada em células eucarióticas, pois há a necessidade de um núcleo para inserção do material genético."
+        },
+        {
+          "letra": "A",
+          "texto": "técnica de DNA recombinante insere novos genes no DNA de células, permitindo que adquiram novas funções, como reconhecer antígenos tumorais."
+        },
+        {
+          "letra": "A",
+          "texto": "penas células-tronco embrionárias podem ser geneticamente modificadas, pois são indiferenciadas e possuem maior potencial de diferenciação."
+        },
+        {
+          "letra": "C",
+          "texto": "élulas do sistema imunológico, como os linfócitos, são formados por proteínas e lipídios, não tendo em sua composição ácidos nucleicos."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": "Biologia – Biotecnologia e Genética"
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Em um laboratório, foram analisadas quatro amostras biológicas ao microscópio: Amostra A: célula com parede celular, núcleo visível e cloroplastos. Amostra B: célula sem núcleo, com parede celular e flagelo. Amostra C: organismo unicelular e eucarionte, heterotrófico, com vacúolos digestivos. Amostra D: estrutura acelular contendo apenas uma cápsula proteica e material genético. Sobre os principais processos metabólicos e estruturas dessas amostras,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "amostra D pode realizar fermentação alcoólica como forma de obtenção de energia na ausência de oxigênio."
+        },
+        {
+          "letra": "A",
+          "texto": "amostra B representa um fungo, pois possui parede celular e flagelo, estrutura comum neste grupo."
+        },
+        {
+          "letra": "A",
+          "texto": "amostra C realiza quimiossíntese para obtenção de energia, característica comum aos protistas heterotróficos."
+        },
+        {
+          "letra": "A",
+          "texto": "amostra A é autotrófica e realiza fotossíntese, e sua membrana plasmática regula a entrada e saída de substâncias."
+        },
+        {
+          "letra": "A",
+          "texto": "amostra D é um protista que não possui núcleo, mas possui parede celular de quitina, como os paramécios."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": "Biologia – Citologia e Metabolismo Celular"
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Observe o heredograma abaixo que representa a herança da característica \"tipo de lóbulo da orelha\". Considerando que não há interferência de mutações ou epistasia, a probabilidade de o próximo filho do casal da segunda geração ser um menino com lóbulos da orelha aderidos é de",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": "Biologia – Genética (Heredogramas e Probabilidade)"
+    }
+  ]
+}

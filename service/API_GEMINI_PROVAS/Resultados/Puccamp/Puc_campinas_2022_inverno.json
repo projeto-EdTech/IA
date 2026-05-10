@@ -1,0 +1,641 @@
+{
+  "nomeUniversidade": "Pontifícia Universidade Católica de Campinas",
+  "siglaUniversidade": "PUCCAMP",
+  "nomeProva": "Vestibular de Inverno 2022 - Prova Geral",
+  "ano": 2022,
+  "qtdeQuestoes": 40,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Atenção: Para responder às questões de números 1 a 8, baseie-se no texto abaixo.\n\nO que a palavra diz sem dizer\n\nMais do que forma e sentido, palavras têm uma aura, um cheiro, um jeito. Podem ser legais ou malas, bonitas ou feias, difíceis ou oferecidas, sisudas ou frívolas, francas ou enigmáticas, de boa índole ou perversas. Podem enganar, fingindo uma facilidade que vira pedreira ali na esquina. Mas também pode ser que, ao contrário, escondam as delícias mais inebriantes sob uma casca dura e espinhenta.\n\nDito assim, as palavras soam como as pessoas, o que não está longe da verdade. Como nas relações humanas, seu mundo é atravessado por uma rede de simpatias e antipatias que precede o sentido e, em certa medida, sobrevive a ele. Isso ocorre porque, ao nos relacionarmos com as palavras, usamos reservas – cognitivas, emocionais e intuitivas – que vão muito além da razão. Que en-volvem, assim dizer, o corpo todo.\n\nComo poderia ser diferente? Na história do desenvolvimento de cada um de nós, o aprendizado da linguagem coincidiu de for-ma perfeita com o aprendizado de simplesmente... ser.\n\nO que nos diz nossa intuição sobre a palavra \"pulcritude\", por exemplo? Boa coisa não é. Além de pernóstica, de sentido ina-cessível aos mortais comuns sem a ajuda de um bom dicionário, a palavra exala um mau cheiro – vamos ser francos - entre o poei-rento e o azedo. No entanto, a feiosa pulcritude, com seu bafo rançoso e sua verruga do tamanho de uma jabuticaba no nariz, quer dizer nada menos que beleza, formosura. Pode? No mundo das palavras, pode.\n\nO potencial literário da aura das palavras é óbvio: em grande parte, escrever é tirar proveito desses ecos e fantasmas, sem es-quecer, claro, os sentidos literais.\n\n(Adaptado de: RODRIGUES, Sérgio. São Paulo: Folha de S. Paulo. 02/10/2020)\n\nAo dizer que as palavras soam como as pessoas (2º parágrafo), o autor baseia-se na hipótese de que, assim como ocorre com os seres humanos, as palavras",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "evem ser compreendidas a partir de sua significação real, e não de sua aparência."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "A palavra pulcritude serve como exemplo para a possibilidade de que, no mundo das palavras,",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Significação das Palavras",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "No último parágrafo do texto, o autor sugere que um escritor, para explorar o potencial literário da aura das palavras, deve",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "ontar com a racionalidade dos leitores, pela qual se define o sentido do que está escrito."
+        },
+        {
+          "letra": "E",
+          "texto": "stimular a sensibilidade estética do leitor a partir da pura musicalidade das formas."
+        },
+        {
+          "letra": "E",
+          "texto": "scolher vocábulos cujas formas levem o leitor a intuir a significação que ocultam."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Gêneros Textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Ao empregar as expressões bafo rançoso e verruga do tamanho de uma jabuticaba, o autor está se valendo de",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "onceitos estéticos para bem definir o efeito que lhe causam certas palavras."
+        },
+        {
+          "letra": "A",
+          "texto": "tributos indesejáveis para caracterizar o leitor que não alcança o sentido das palavras."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Figuras de Linguagem",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "As formas verbais cumprem as normas de concordância na frase:",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "ostumam ser comuns, nos textos literários, que os nomes empregados sejam atraentes já por sua musicalidade."
+        },
+        {
+          "letra": "D",
+          "texto": "epende de nossas reações subjetivas o efeito estético que deriva dos aspectos mesmos das palavras."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Concordância Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Atente para estas afirmações:\n\nI. As palavras se marcam pelo som e pelo sentido.\nII. O som e o sentido das palavras por vezes parecem divergir.\n\nEm nova redação, essas duas afirmações integram-se com coerência e correção num período único em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "s palavras costumam-se divergir, por vezes, quanto ao seu som e sentido marcantes."
+        },
+        {
+          "letra": "A",
+          "texto": "inda que se marque pelo som e sentido, é comum que uma palavra divirja de outra."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Coerência e Coesão Textual",
+        "Língua Portuguesa – Sintaxe"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Está adequado o emprego de ambos os termos sublinhados na frase:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o citar a palavra pulcritude, aonde o som nada tem de agradável, o autor lembra a significação que devemos reconhecê-la."
+        },
+        {
+          "letra": "A",
+          "texto": "aura de que desfrutam as palavras mais sonoras magnetiza aquele que lhes reconhece esse encanto."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Regência Verbal",
+        "Língua Portuguesa – Crase"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Transpondo para o discurso direto a frase O cronista nos advertiu para reconhecermos em cada palavra que usarmos a re-lação que pretendemos estabelecer entre seu som e seu sentido, a forma correta resultante será O cronista nos advertiu:",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Discurso Direto e Indireto",
+        "Língua Portuguesa – Sintaxe"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "O contato com obras de diferentes estilos de época da história da literatura comprova que cada uma delas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ciona elementos da retórica clássica para gerar fatos políticos graves e fenômenos sociais marcantes."
+        },
+        {
+          "letra": "A",
+          "texto": "dota por princípio os valores políticos praticados pelas elites culturais, passando a defendê-los e promovê-los como ideais estéticos."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Literatura Brasileira – Períodos Literários",
+        "Literatura Brasileira – Relação entre Arte e Sociedade"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "No Brasil do século XIX criaram-se obras literárias vigorosas, representativas de valores estéticos e linguagens bastante con-trastantes. Esse contraste exemplifica-se, por exemplo, quando se consideram",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "lírica intimista de Álvares de Azevedo e os versos nostálgicos de Casimiro de Abreu."
+        },
+        {
+          "letra": "A",
+          "texto": "estética naturalista de O cortiço e os traços estilísticos de Casa de pensão."
+        },
+        {
+          "letra": "A",
+          "texto": "elevação do amor em Senhora e o memorialismo melancólico de Dom Casmurro."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Literatura Brasileira – Romantismo",
+        "Literatura Brasileira – Realismo e Naturalismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Atente para estes versos de Oswald de Andrade, do poema \"Balada do Esplanada\":\n\nPra m'inspirar\nAbro a janela\nComo um jornal\nVou fazer\nA balada\nDo Esplanada\nE ficar sendo\nO menestrel\nDe meu hotel\n\nExpressa-se nesses versos a convicção de que a poesia",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "leva-se, efetivamente, à altura dos arranha-céus, graças à potencialidade renovada de sua retórica simbolista."
+        },
+        {
+          "letra": "A",
+          "texto": "tualiza a importância histórica dos poetas medievais, que voltam a influenciar as bases mesmas da nova estética."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Literatura Brasileira – Modernismo",
+        "Literatura Brasileira – Poesia Moderna"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Num ensaio intitulado \"Céu, Inferno\", o crítico Alfredo Bosi confronta as obras de Graciliano Ramos e Guimarães Rosa, como nestes dois excertos:\n\nA exuberância barroca de Guimarães Rosa e o seu aparente dispersar-se na floresta das imagens e dos sons induzem à sus-peita de que ele teria evitado a perspectiva clássica [...].\n\nA narração de Graciliano Ramos se quer objetiva, voltada para a modéstia dos meios da vida registrada na modéstia da vida simbólica.\n\nDesse confronto depreende-se que o crítico está",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "proximando o pendor poético de um autor ao pendor poético de outro."
+        },
+        {
+          "letra": "C",
+          "texto": "ontrastando o realismo naturalista de Rosa com a contenção do estilo de Graciliano."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Literatura Brasileira – Prosa Moderna",
+        "Literatura Brasileira – Crítica Literária"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Atenção: Para responder às questões de números 13 a 16, considere o texto abaixo.\n\nHow The Most Basic Tools of Language Define Who and What We Are\nBy Esther Lombardi\n\nWords can incite anger or invoke passion. They can bring people together or tear them I... Words can uphold the truth or nurture a lie. We use words to encompass history, to describe the natural universe, and even to conjure realistic visions of things that exist only in fantasy. In fact, in some mythology, spoken words are thought to be so powerful that they can create worlds, creatures, and human beings. Here are some quotes about words from a few notable minds.\n\nQuotes from Philosophy, Science, and Religion\n\n\"By words we learn thoughts, and by thoughts we learn life.\" (Jean Baptiste Girard)\n\n\"Colors fade, temples crumble, empires fall, but wise words endure.\" (Edward Thorndike)\n\n\"However many holy words you read,\nHowever many you speak,\nWhat good will they do you\nIf you do not act on upon them?\" (Buddha)\n\n\"The teachings of elegant sayings should be collected when one can. For the supreme gift of words of wisdom, any price will be paid.\" (Siddha Nagarjuna)\n\n\"Words are the most powerful thing in the universe... Words are containers. They contain faith, or fear, and they produce after their kind.\" (Charles Capps)\n\nQuotes from Political Figures\n\n\"As we must account for every idle word, so must we account for every idle silence.\" (Benjamin Franklin)\n\n\"Duty is the sublimest word in our language. Do your duty in all things. You cannot do more. You should never wish to do less.\" (Robert E. Lee)\n\n\"If you talk to a man in a language he understands, that goes to his head. If you talk to him in his language, that goes to his heart.\" (Nelson Mandela)\n\n\"The most valuable of all talents is that of never using two words when one will do.\" (Thomas Jefferson)\n\n\"Words may show a man's wit, but actions his meaning.\" (Benjamin Franklin)\n\n\"A great many people think that polysyllables are a sign of intelligence.\" (Barbara Walters)\n\n\"Our words should be purrs instead of hisses.\" (Kathrine Palmer Peterson)\n\n(Adapted from LOMBARDI, Esther. Quotes About the Importance of Words. ThoughtCo, Feb. 16, 2021, thoughtco.com)\n\nA alternativa que preenche corretamente a lacuna I é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "part"
+        },
+        {
+          "letra": "A",
+          "texto": "side"
+        },
+        {
+          "letra": "A",
+          "texto": "way"
+        },
+        {
+          "letra": "A",
+          "texto": "round"
+        },
+        {
+          "letra": "A",
+          "texto": "long"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Inglês – Vocabulário",
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "A citação de Buddha\n\n\"However many holy words you read,\nHowever many you speak,\nWhat good will they do you\nIf you do not act on upon them?\"\n\npode ser relacionada a:",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Inglês – Interpretação de Texto",
+        "Inglês – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Uma citação com sentido similar a \"The most valuable of all talents is that of never using two words when one will do.\", de Thomas Jefferson, é:",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Inglês – Interpretação de Citações",
+        "Língua Portuguesa – Sinônimos e Antônimos"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "A citação relacionada ao conhecimento e uso de uma língua estrangeira é:",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Inglês – Interpretação de Citações"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Entre as principais consequências da expansão do Império Romano, destacam-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "formação de Legiões compostas por cidadãos convocados nos territórios conquistados e as revoltas protagonizadas pelos legionários, já que estes lutavam como escravos, conquistando a liberdade apenas por meio de seus feitos heroicos."
+        },
+        {
+          "letra": "A",
+          "texto": "ampliação do número de escravos e o enriquecimento dos patrícios e militares envolvidos diretamente na expansão, por conta da tributação imposta aos territórios conquistados."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "História – Império Romano"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "No território das \"Treze Colônias\", ao final do século XVIII, uma série de fatores contribuíram para a Revolução Americana, tais como:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "decretação das Leis Intoleráveis, por parte das elites coloniais do Norte, resistindo à imposição do anglicanismo como única religião permitida nas Colônias."
+        },
+        {
+          "letra": "A",
+          "texto": "promulgação de leis que aumentavam as possibilidades de arrecadação por parte da Inglaterra, a exemplo da Lei do Selo e da Lei do Açúcar."
+        },
+        {
+          "letra": "A",
+          "texto": "guerra travada com o México, que contribuiu decisivamente para a constituição de tropas e a arrecadação de armas, depois usadas contra os ingleses."
+        },
+        {
+          "letra": "A",
+          "texto": "s rebeliões de escravos nas colônias do Sul, que colocaram em xeque, juntamente com os ideais liberais, o sistema colonial em voga."
+        },
+        {
+          "letra": "A",
+          "texto": "mudança na política empregada pela Inglaterra, que, para alimentar a Revolução Industrial, expandiu o cultivo de algodão no sul e proibiu manufaturas no norte, medidas que interferiram na autonomia econômica das elites coloniais."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "História – Revolução Americana"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "A Revolução de 1930 foi motivada por insatisfações políticas e pela defesa de determinados ideais, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reação ao predomínio de governantes paulistas e a defesa de uma sociedade mais igualitária, preconizada pela Coluna Prestes."
+        },
+        {
+          "letra": "A",
+          "texto": "afirmação do liberalismo, encampada pela Aliança liberal, e o engajamento de alguns movimentos pela volta da monarquia, como o Patrianovismo."
+        },
+        {
+          "letra": "A",
+          "texto": "revolta contra o governo de Júlio Prestes em função dos privilégios concedidos à elite cafeeira, após a quebra da bolsa de Nova York, e a difusão dos princípios social-democráticos."
+        },
+        {
+          "letra": "A",
+          "texto": "insatisfação de outras elites regionais com a oligarquia cafeeira paulista e a defesa do fortalecimento do Estado nacional, pelos tenentistas."
+        },
+        {
+          "letra": "A",
+          "texto": "mobilização das oligarquias do Sul contra a hegemonia política de Minas Gerais e São Paulo e a defesa de um governo comandado por militares, como Getúlio Vargas, para restaurar a ordem."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "História – Era Vargas",
+        "História – Revolução de 1930"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Algumas vanguardas artísticas do começo do século XX apresentaram, em suas concepções estéticas, elementos do chamado \"primitivismo\", a partir de visões dos artistas do que era o \"índio\" ou o \"nativo\". No Brasil, o movimento modernista, em seu Manifesto Antropófago,\n\n**Texto de Apoio:**\nAtenção: Para responder às questões de números 20 e 21, considere o texto abaixo.\n\nNão há mais terra para a agricultura?\nA argumentação mais contundente com maior poder de sedução agora utilizada contra os índios não tem mais como ponta de lança os estereótipos tradicionais, que pretenderiam equipará-los aos \"primitivos”, aos “costumes rudimentares\" e \"brutais\" dos primeiros humanoides, tentando aproximar as culturas indígenas ao domínio da natureza. A visão ora privilegiada pelos inimigos dos índios é que estes constituem um segmento altamente favorecido da sociedade brasileira. Fala-se que os índios têm terras \"demais” e que seriam \"índios latifundiários\", confrontando-os com a legião de trabalhadores sem-terra existente no meio rural brasileiro.[...]\nA ideia que tais fontes procuram propagar é de que o número ou o tamanho excessivo das áreas indígenas reduziria fortemente o estoque de terras para a agricultura, acarretando escassez de terra para trabalhadores não-índios, o que agravaria ainda mais a pobreza no meio rural e incentivaria o éxodo para as cidades. Agrega-se a isso a crença de que as áreas indígenas são improdutivas e que, portanto, a destinação de uma terra para os índios implicaria em subtraí-la à produção de alimentos e ao processo social de geração de bens e riquezas.\n(Adaptado de: SILVA, M.A, GRUPIONI, L.D.B. (org.) A temática indígena na escola. São Paulo: Global, 1998, p. 75-76)",
+      "alternativas": [
+        {
+          "letra": "B",
+          "texto": "atiza assim seu manifesto como uma homenagem aos índios brasileiros que, por meio de práticas como a antropofagia, resistiram à colonização, tal como deveria acontecer no meio artístico."
+        },
+        {
+          "letra": "A",
+          "texto": "lude ao ritual antropofágico de forma irônica, satirizando o medo que esse ritual provocava nos europeus, a despeito de não lhes oferecer perigo algum, já que era um costume intertribal."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Arte – Modernismo Brasileiro",
+        "Arte – Antropofagia"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Considere o mapa com as terras indígenas homologadas na região Centro-Oeste.\n\n**Texto de Apoio:**\nAtenção: Para responder às questões de números 20 e 21, considere o texto abaixo.\n\nNão há mais terra para a agricultura?\nA argumentação mais contundente com maior poder de sedução agora utilizada contra os índios não tem mais como ponta de lança os estereótipos tradicionais, que pretenderiam equipará-los aos \"primitivos”, aos “costumes rudimentares\" e \"brutais\" dos primeiros humanoides, tentando aproximar as culturas indígenas ao domínio da natureza. A visão ora privilegiada pelos inimigos dos índios é que estes constituem um segmento altamente favorecido da sociedade brasileira. Fala-se que os índios têm terras \"demais” e que seriam \"índios latifundiários\", confrontando-os com a legião de trabalhadores sem-terra existente no meio rural brasileiro.[...]\nA ideia que tais fontes procuram propagar é de que o número ou o tamanho excessivo das áreas indígenas reduziria fortemente o estoque de terras para a agricultura, acarretando escassez de terra para trabalhadores não-índios, o que agravaria ainda mais a pobreza no meio rural e incentivaria o éxodo para as cidades. Agrega-se a isso a crença de que as áreas indígenas são improdutivas e que, portanto, a destinação de uma terra para os índios implicaria em subtraí-la à produção de alimentos e ao processo social de geração de bens e riquezas.\n(Adaptado de: SILVA, M.A, GRUPIONI, L.D.B. (org.) A temática indígena na escola. São Paulo: Global, 1998, p. 75-76)\n\nAs terras indígenas",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "ificultam a instalação de hidrovias que representariam o escoamento da soja cultivada ao sul das áreas reservadas."
+        },
+        {
+          "letra": "D",
+          "texto": "estoam das áreas de proteção ambiental pois, sendo habitadas, apresentam pequena preservação de espécies vegetais."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Geografia – Terras Indígenas",
+        "Geografia – Questões Socioambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "A produção de alimentos e o processo de geração de bens e riquezas têm sido destacados e tornado a agroindústria e o agronegócio protagonistas na economia brasileira. Sobre estes protagonistas, é correto afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "expansão das atividades nestas últimas décadas tem produzido grande dinamismo no campo, que passou a atrair grande número de trabalhadores e contribuir para ocorrência de movimento inverso ao êxodo rural."
+        },
+        {
+          "letra": "A",
+          "texto": "inovação tecnológica do setor agrícola, mais do que no setor industrial, depende dos incentivos públicos para aumentar a produtividade e se tornar produtor de bens para exportação."
+        },
+        {
+          "letra": "A",
+          "texto": "competitividade agrícola do Brasil, frente ao mundo, não depende mais de vantagens naturais, mas sim de grandes investimentos realizados no processo tecnológico de produção agropecuária."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Geografia – Agronegócio Brasileiro",
+        "Geografia – Economia"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Com o objetivo de contestar a Teoria Demográfica Malthusiana, foi criada, no fim da década de 1920, a Teoria da Transição Demográfica, que",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "stabelece um prolongado período de estabilidade demográfica proporcionada pela manutenção das taxas de fertilidade e natalidade em níveis de simples reposição."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Geografia – Demografia",
+        "Geografia – Transição Demográfica"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Considere o planisfério e o texto abaixo.\n\nA região, conhecida como o Terceiro Polo pela enorme quantidade de gelo que contém, está aquecendo quase o dobro da média global. Embora a área esteja ficando mais úmida por enquanto, os especialistas temem que nas próximas décadas o recuo das geleiras possa levar à escassez de água no continente. O Terceiro Polo tem cerca de $100.000$ quilômetros quadrados de geleiras e alimenta mais de dez sistemas fluviais e $12.000$ lagos. É o maior armazenamento de água congelada depois dos polos Norte e Sul e fornece água para cerca de um quarto da população mundial.\nAs informações do texto se aplicam à região indicada no planisfério pelo número",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Geografia – Geleiras",
+        "Geografia – Hidrografia",
+        "Geografia – Aquecimento Global"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Em uma turma de uma escola, há $90$ alunos. Eles escolheram de $1$ a $3$ disciplinas optativas dentre as seguintes: Tópicos de Biologia, Tópicos de Geografia, Tópicos de História e Tópicos de Química. Sabe-se que:\n− $48$ alunos escolheram Tópicos de Biologia;\n− $12$ escolheram Tópicos de Geografia;\n− $55$ escolheram Tópicos de História;\n− $14$ escolheram Tópicos de Química;\n− Todos os alunos que escolheram Tópicos de Geografia escolheram, também, Tópicos de História;\n− Todos os alunos que escolheram Tópicos de Química escolheram, também, Tópicos de Biologia;\n− Nenhum dos alunos que escolheu Tópicos de Biologia escolheu, também, Tópicos de Geografia;\n− $6$ alunos escolheram $3$ disciplinas optativas.\nNessas condições, o número de alunos que escolheu apenas Tópicos de Biologia e Tópicos de História foi",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Matemática – Teoria dos Conjuntos"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "No estoque de uma papelaria, há $600$ envelopes, dos quais metade são brancos e os demais, coloridos. Os envelopes vêm em dois tamanhos: pequeno ou grande. No estoque, há duas vezes mais envelopes pequenos do que grandes. Sabendo-se que, nesse estoque, existem $60$ envelopes grandes coloridos, escolhendo, ao acaso, um envelope branco, a probabilidade de ele ser pequeno é",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Matemática – Probabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Uma folha de papel retangular foi cortada ao longo de uma de suas diagonais para dar origem a um triângulo ABC retângulo em A, com o lado AB medindo $16$ cm. Deseja-se realizar mais um corte, perpendicular ao lado BC por um ponto P, que produza dois polígonos, o triângulo PBQ e o quadrilátero PQAC, conforme a figura:\nSabendo que o triângulo PBQ e o quadrilátero PQAC têm a mesma área, a medida do segmento BP, em cm, é",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Matemática – Geometria Plana",
+        "Matemática – Área de Triângulos"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "De acordo com o texto, a velocidade de derretimento da geleira Thwaites dobrou nos últimos $30$ anos. Se for mantido esse padrão, em que a velocidade de derretimento dobra a cada $30$ anos, a velocidade de derretimento será $64$ vezes maior do que a atual daqui a\n\n**Texto de Apoio:**\nAtenção: Para responder às questões de números 28 e 29, considere o texto abaixo.\n\nGeleira gigante na Antártida pode se desintegrar rapidamente, advertem cientistas\nOs cientistas estão alertando sobre mudanças dramáticas em uma das maiores geleiras da Antártida, a geleira Thwaites, potencialmente nos próximos 5 a 10 anos.\nPesquisadores dos Estados Unidos e do Reino Unido estão atualmente envolvidos em um intenso programa de estudos em Thwaites por causa de sua taxa de derretimento.\nEla já está despejando $50$ bilhões de toneladas de gelo no oceano a cada ano.\nA Thwaites é um colosso. É quase do tamanho da Grã-Bretanha ou da Flórida, e sua velocidade de derretimento dobrou nos últimos $30$ anos.\n(Disponível em: https://www.bbc.com)",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Matemática – Progressão Geométrica",
+        "Matemática – Função Exponencial"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Atenção: Para responder às questões de números 28 e 29, considere o texto abaixo.\n\nGeleira gigante na Antártida pode se desintegrar rapidamente, advertem cientistas\n\nOs cientistas estão alertando sobre mudanças dramáticas em uma das maiores geleiras da Antártida, a geleira Thwaites, potencialmente nos próximos 5 a 10 anos.\n\nPesquisadores dos Estados Unidos e do Reino Unido estão atualmente envolvidos em um intenso programa de estudos em Thwaites por causa de sua taxa de derretimento.\n\nEla já está despejando 50 bilhões de toneladas de gelo no oceano a cada ano.\n\nA Thwaites é um colosso. É quase do tamanho da Grã-Bretanha ou da Flórida, e sua velocidade de derretimento dobrou nos últimos 30 anos.\n\n(Disponível em: https://www.bbc.com)\n\n29. Considere que a massa de gelo fundido e que é despejada no oceano pela geleira Thwaites aumente sua temperatura de $0 \\degree C$ até $4,0 \\degree C$ em um ano e que o calor específico da água seja $4,2 \\times 10^3 \\text{ J/(kg} \\cdot \\degree C)$. A quantidade de calor absorvido por essa massa de gelo lançada no oceano pela geleira Thwaites em um ano, após ter se fundido, é igual a:",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Calorimetria"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "30. Um motorista planejou realizar uma viagem de 240 km em, no máximo, 3 horas. Após percorrer 160 km em 1 hora e 45 minutos, teve que ficar parado por 15 minutos devido à execução de obras na estrada. Para cumprir o planejamento inicial, o motorista deve realizar o restante do percurso com velocidade média de",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "31. Ao realizar exercícios físicos, uma pessoa puxa, por meio de uma corda, um conjunto de anilhas de peso total igual a $200 \\text{ N}$, que sobe rapidamente. Após atingir a altura máxima, a pessoa começa a baixar o conjunto, ainda segurando a corda.\n\nConsidere que a aceleração gravitacional no local seja igual a $10 \\text{ m/s}^2$, que durante a descida o conjunto de anilhas fique sujeito apenas às ações do seu peso e da força aplicada pela corda e que, em determinado instante da descida, sua aceleração seja de $2,0 \\text{ m/s}^2$, para baixo. Nesse instante, a força aplicada pela corda no conjunto de anilhas tem intensidade igual a:",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Dinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "32. No gráfico, está representada a relação entre a intensidade da corrente elétrica que se estabelece em certo condutor e a diferença de potencial aplicada entre suas extremidades.\n\nÉ correto afirmar que esse condutor é I e que sua resistência elétrica, quando a diferença de potencial entre as suas extremidades é de $3,0 \\text{ V}$, é igual a II. As lacunas I e II da frase acima devem ser preenchidas, correta e respectivamente, por:",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Física – Eletrodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "33. Hidroxiapatita de cálcio ($\\text{Ca}_5\\text{(OH)(PO}_4\\text{)}_3$) faz parte da composição da matriz dos ossos e dentes humanos. Esse material já era utilizado na odontologia, como implante ou material de revestimento. Em sua forma injetável, é utilizado para melhorar o contorno facial e auxiliar no rejuvenescimento, funcionando como um bioestimulador de colágeno. Nesse produto, a hidroxiapatita corresponde a $30\\% \\text{ (m/m)}$, enquanto o restante é composto por água, glicerina, e carboximetilcelulose sódica.\n\n(Disponível em: https://www.unirv.edu.br)\n\nA massa do elemento cálcio em cada $100 \\text{ g}$ do produto bioestimulador corresponde a, aproximadamente,\n\nDados:\nMassas molares (g/mol)\nH = 1,0\nO = 16,0\nP = 31,0\nCa = 40,0",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Química – Estequiometria",
+        "Química – Cálculos de massa molar"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "34. A pilha lítio-iodo foi desenvolvida principalmente para ser usada em marcapassos cardíacos. Considerando as seguintes semirreações envolvidas nessa pilha, prevê-se que a voltagem fornecida por ela, nas condições-padrão, seja de\n\nDados:\nSemirreações da pilha lítio-iodo\n$\\text{Li}^+ + \\text{e}^- \\rightarrow \\text{Li}$          $\\text{E}^\\circ = -3,04 \\text{ V}$\n$\\text{I}_2 + 2\\text{e}^- \\rightarrow 2\\text{I}^-$          $\\text{E}^\\circ = +0,54 \\text{ V}$",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Química – Eletroquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "35. O kiwi (Actinidia deliciosa) é um fruto originário da China. É um alimento rico em vitaminas, principalmente vitamina C, contendo o dobro do que é encontrado em uma laranja. O pH da fruta é igual a 4. Para deixar o pH = 7 em um litro do suco de kiwi, seria necessário acrescentar uma quantidade de $\\text{OH}^-$, em mol, igual a",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Química – pH e pOH",
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Atenção: Para responder às questões de números 36 e 37, considere o texto abaixo.\n\nA vitamina D é um composto lipossolúvel que se encontra de duas formas: vitamina D2 e vitamina D3. É obtida a partir de vegetais e alguns peixes ou sintetizada pela pele através da luz solar e é responsável pela absorção de cálcio no intestino e nos rins. A deficiência desta vitamina pode acarretar o aparecimento e agravamento de várias patologias.\n\n(Adaptado de: FÉLIZ D. A., ANDRADE R. P., ROSÁRIO K. D. A importância da educação continuada e educação permanente em unidade de terapia intensiva-revisão de literatura. Rev Inic Cient Ext. 2019; 2(3):163-6))\n\n36. A função orgânica que está presente nas vitaminas D2 e D3 é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ldeído."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Química – Funções orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "37. O cálcio é um mineral importante para a formação de I , do endoesqueleto de II e do exoesqueleto de III. Para completar corretamente a frase acima, as lacunas I, II e III devem ser preenchidas, respectivamente, por:",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "oágulos – corais – insetos"
+        },
+        {
+          "letra": "D",
+          "texto": "entes – vertebrados – corais"
+        },
+        {
+          "letra": "E",
+          "texto": "scamas – mamíferos – equinodermos"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Biologia – Anatomia e Fisiologia Animal",
+        "Biologia – Tecidos"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "38. A figura abaixo apresenta as áreas correspondentes aos biomas terrestres brasileiros e às principais bacias hidrográficas do país.\n\nDe acordo com a figura, a bacia do Rio São Francisco atravessa os biomas",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mazônia e Cerrado."
+        },
+        {
+          "letra": "A",
+          "texto": "mazônia, Cerrado e Pantanal."
+        },
+        {
+          "letra": "C",
+          "texto": "errado, Caatinga e Mata Atlântica."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Geografia – Biomas Brasileiros",
+        "Geografia – Hidrografia Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "39. A figura abaixo apresenta uma filogenia com as características de alguns grupos de animais protostômios.\n\nO grupo representado pela seta corresponde aos",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "quinodermos."
+        },
+        {
+          "letra": "A",
+          "texto": "nelídeos."
+        },
+        {
+          "letra": "A",
+          "texto": "rtrópodes."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Biologia – Zoologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "40. Considere as afirmações abaixo, sobre os processos de transcrição e tradução nas células eucarióticas:\n\nI. O processo de transcrição é semiconservativo.\n\nII. O RNA mensageiro é levado ao citoplasma pelo RNA transportador.\n\nIII. O processo de tradução ocorre no retículo endoplasmático rugoso.\n\nIV. No código genético cada aminoácido sempre corresponde a apenas um códon.\n\nEstá correto o que se afirma APENAS em",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Biologia – Genética"
+      ]
+    }
+  ]
+}

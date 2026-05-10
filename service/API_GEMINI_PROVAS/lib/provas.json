@@ -1,72 +1,54 @@
 {
-  "UNICAMP 2023": {
-    "nome": "UNICAMP 2023",
-    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2023_1fase/unicamp2023_1fase_prova_QZ.pdf",
-    "urlGabarito": "https://s1.static.brasilescola.uol.com.br/vestibular/2022/11/gabaritos-1-fase-vestibular-2023-unicamp.pdf"
+  "Puc_sp_2024": {
+    "urlProva": "https://www.nucvest.com.br/downloads/pucsp/vestibular/2024/verao/PUC-SP-Verao-2024-A4-v1.pdf",
+    "urlGabarito": "https://www.nucvest.com.br/downloads/pucsp/vestibular/2024/verao/PUC-SP-Verao-2024-Gabarito.pdf"
   },
-  "UNICAMP 2022": {
-    "nome": "UNICAMP 2022",
-    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unicamp/2022_1fase/unicamp2022_1fase_prova_QX.pdf",
-    "urlGabarito": "https://www.comvest.unicamp.br/wp-content/uploads/2021/11/gabarito_2022_DIVULGA.pdf"
+  "Fei_2025_inverno": {
+    "urlProva": "https://fei.edu.br/sites/vestibular2025/2-semestre/Prova-e-gabarito-engenharia_computacao_CDIA-Processo-Seletivo-2-2025.pdf?_gl=1*pa0h9q*_gcl_au*NDA4Mjk1NTg2LjE3NzgzNDQwNDc.*_ga*MTY3MDE4NDAxNS4xNzc4MzQ0MDQ4*_ga_9CWNLCJN1W*czE3NzgzNDQwNDckbzEkZzAkdDE3NzgzNDQwNDckajYwJGwwJGgw",
+    "urlGabarito": "https://fei.edu.br/sites/vestibular2025/2-semestre/Prova-e-gabarito-engenharia_computacao_CDIA-Processo-Seletivo-2-2025.pdf?_gl=1*pa0h9q*_gcl_au*NDA4Mjk1NTg2LjE3NzgzNDQwNDc.*_ga*MTY3MDE4NDAxNS4xNzc4MzQ0MDQ4*_ga_9CWNLCJN1W*czE3NzgzNDQwNDckbzEkZzAkdDE3NzgzNDQwNDckajYwJGwwJGgw"
   },
-  "UNESP 2022": {
-    "nome": "UNESP 2022",
-    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2022/1fase/2dia/UNESP2022_1fase_prova.pdf",
-    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/unesp/2022/1fase/2dia/UNESP2022_1fase_gabarito.pdf"
+  "Fei_2025": {
+    "urlProva": "https://fei.edu.br/sites/vestibular2025/prova-e-gabarito-eng-comp-seletivo-1-2025.pdf?_gl=1*pa0h9q*_gcl_au*NDA4Mjk1NTg2LjE3NzgzNDQwNDc.*_ga*MTY3MDE4NDAxNS4xNzc4MzQ0MDQ4*_ga_9CWNLCJN1W*czE3NzgzNDQwNDckbzEkZzAkdDE3NzgzNDQwNDckajYwJGwwJGgw",
+    "urlGabarito": "https://fei.edu.br/sites/vestibular2025/prova-e-gabarito-eng-comp-seletivo-1-2025.pdf?_gl=1*pa0h9q*_gcl_au*NDA4Mjk1NTg2LjE3NzgzNDQwNDc.*_ga*MTY3MDE4NDAxNS4xNzc4MzQ0MDQ4*_ga_9CWNLCJN1W*czE3NzgzNDQwNDckbzEkZzAkdDE3NzgzNDQwNDckajYwJGwwJGgw"
   },
-  "MACKENZIE 2024": {
-    "nome": "MACKENZIE 2024",
-    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/mackenzie/2024/1dia/mackenzie2024_prova_1dia.pdf",
-    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/mackenzie/2024/1dia/mackenzie2024_gabarito_1dia.pdf"
+  "Fei_2024_inverno": {
+    "urlProva": "https://gerenciador.fei.edu.br/Content/Arquivos/prova-e-gabarito-engenharia_ccomputação_c-dados-e-i-artificial-processo-seletivo-2-2024.pdf?_gl=1*pa0h9q*_gcl_au*NDA4Mjk1NTg2LjE3NzgzNDQwNDc.*_ga*MTY3MDE4NDAxNS4xNzc4MzQ0MDQ4*_ga_9CWNLCJN1W*czE3NzgzNDQwNDckbzEkZzAkdDE3NzgzNDQwNDckajYwJGwwJGgw",
+    "urlGabarito": "https://gerenciador.fei.edu.br/Content/Arquivos/prova-e-gabarito-engenharia_ccomputação_c-dados-e-i-artificial-processo-seletivo-2-2024.pdf?_gl=1*pa0h9q*_gcl_au*NDA4Mjk1NTg2LjE3NzgzNDQwNDc.*_ga*MTY3MDE4NDAxNS4xNzc4MzQ0MDQ4*_ga_9CWNLCJN1W*czE3NzgzNDQwNDckbzEkZzAkdDE3NzgzNDQwNDckajYwJGwwJGgw"
   },
-  "FAMERP 2026": {
-    "nome": "FAMERP 2026",
-    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2026/1dia/famerp2026_1dia_prova.pdf",
-    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2026/1dia/famerp2026_1dia_gabarito.pdf"
+  "Fei_2024": {
+    "urlProva": "https://gerenciador.fei.edu.br/Content/Arquivos/prova-e-gabarito-engenharia-c-computação-e-c-de-dados-e-i-artificial-processo-seletivo-1-2024%5B26%5D.pdf?_gl=1*pa0h9q*_gcl_au*NDA4Mjk1NTg2LjE3NzgzNDQwNDc.*_ga*MTY3MDE4NDAxNS4xNzc4MzQ0MDQ4*_ga_9CWNLCJN1W*czE3NzgzNDQwNDckbzEkZzAkdDE3NzgzNDQwNDckajYwJGwwJGgw",
+    "urlGabarito": "https://gerenciador.fei.edu.br/Content/Arquivos/prova-e-gabarito-engenharia-c-computação-e-c-de-dados-e-i-artificial-processo-seletivo-1-2024%5B26%5D.pdf?_gl=1*pa0h9q*_gcl_au*NDA4Mjk1NTg2LjE3NzgzNDQwNDc.*_ga*MTY3MDE4NDAxNS4xNzc4MzQ0MDQ4*_ga_9CWNLCJN1W*czE3NzgzNDQwNDckbzEkZzAkdDE3NzgzNDQwNDckajYwJGwwJGgw"
   },
-  "FAMERP 2025": {
-    "nome": "FAMERP 2025",
-    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2025/1dia/famerp2025_1dia_prova.pdf",
-    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2025/1dia/famerp2025_1dia_gabarito.pdf"
+  "ENEM_2025_dia1": {
+    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2025/1dia/enem2025_1dia_prova_verde.pdf",
+    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2025/1dia/enem2025_1dia_gabarito_verde.pdf"
   },
-  "FAMERP 2024": {
-    "nome": "FAMERP 2024",
-    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2024/1dia/famerp2024_1dia_prova.pdf",
-    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2024/1dia/famerp2024_1dia_gabarito.pdf"
+  "ENEM_2025_dia2": {
+    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2025/2dia/enem2025_2dia_prova_verde.pdf",
+    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2025/2dia/enem2025_2dia_gabarito_verde.pdf"
   },
-  "FAMERP 2023": {
-    "nome": "FAMERP 2023",
-    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2023/1dia/famerp2023_1dia_prova.pdf",
-    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2023/1dia/famerp2023_1dia_gabarito.pdf"
+  "ENEM_2024_dia1": {
+    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2024/1dia/enem2024_1dia_prova_amarelo.pdf",
+    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2024/1dia/enem2024_1dia_gabarito_amarelo.pdf"
   },
-  "FAMERP 2022": {
-    "nome": "FAMERP 2022",
-    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2022/1dia/famerp2022_1dia_prova.pdf",
-    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/famerp/2022/1dia/famerp2022_1dia_gabarito.pdf"
+  "ENEM_2024_dia2": {
+    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2024/2dia/enem2024_2dia_prova_amarelo.pdf",
+    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2024/2dia/enem2024_2dia_gabarito_amarelo.pdf"
   },
-  "ITA 2026": {
-    "nome": "ITA 2026",
-    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2026/1fase/ita2026_1fase_prova.pdf",
-    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2026/1fase/ita2026_1fase_gabarito.pdf"
+  "ENEM_2023_dia1": {
+    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2023/1dia/enem2023_1dia_prova_amarelo.pdf",
+    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2023/1dia/enem2023_1dia_gabarito_amarelo.pdf"
   },
-  "ITA 2025": {
-    "nome": "ITA 2025",
-    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2025/1fase/ita2025_1fase_prova.pdf",
-    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2025/1fase/ita2025_1fase_gabarito.pdf"
+  "ENEM_2023_dia2": {
+    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2023/2dia/enem2023_2dia_prova_amarelo.pdf",
+    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2023/2dia/enem2023_2dia_gabarito_amarelo.pdf"
   },
-  "ITA 2024": {
-    "nome": "ITA 2024",
-    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2024/1fase/ita2024_1fase_prova.pdf",
-    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2024/1fase/ita2024_1fase_gabarito.pdf"
+  "ENEM_2022_dia1": {
+    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2022/1dia/enem2022_1dia_prova_amarelo.pdf",
+    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2022/1dia/enem2022_1dia_gabarito_amarelo.pdf"
   },
-  "ITA 2023": {
-    "nome": "ITA 2023",
-    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2023/1fase/ita2023_1fase_prova.pdf",
-    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2023/1fase/ita2023_1fase_gabarito.pdf"
-  },
-  "ITA 2022": {
-    "nome": "ITA 2022",
-    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2022/1fase/ita2022_1fase_prova.pdf",
-    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/ita/2022/1fase/ita2022_1fase_gabarito.pdf"
+  "ENEM_2022_dia2": {
+    "urlProva": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2022/2dia/enem2022_2dia_prova_amarelo.pdf",
+    "urlGabarito": "https://www.curso-objetivo.br/vestibular/resolucao-comentada/enem/2022/2dia/enem2022_2dia_gabarito_amarelo.pdf"
   }
 }

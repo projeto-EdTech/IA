@@ -1,0 +1,1620 @@
+{
+  "nomeUniversidade": "Universidade Estadual Paulista",
+  "siglaUniversidade": "Unesp",
+  "nomeProva": "Prova de Conhecimentos Gerais",
+  "ano": 2022,
+  "qtdeQuestoes": 90,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Examine o cartum de David Sipress, publicado no Instagram por CartoonStock, em 13.06.2021.\nSIPRESS\n\"I can cure your back problem, but there's a risk that you'll be left with nothing to talk about.\"\nDepreende-se da fala do médico que seu paciente é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "arrogante."
+        },
+        {
+          "letra": "B",
+          "texto": "dissimulado."
+        },
+        {
+          "letra": "C",
+          "texto": "monótono."
+        },
+        {
+          "letra": "D",
+          "texto": "distraído."
+        },
+        {
+          "letra": "E",
+          "texto": "pedante."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de texto",
+        "Língua Portuguesa – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Para responder às questões de 02 a 08, leia o trecho do drama Macário, de Álvares de Azevedo.\nMACÁRIO (chega à janela): Ó mulher da casa! olá! ó de casa!\nUMA VOZ (de fora): Senhor!\nMACÁRIO: Desate a mala de meu burro e tragam-ma aqui...\nA VOZ: O burro?\nMACÁRIO: A mala, burro!\nA VOZ: A mala com o burro?\nMACÁRIO: Amarra a mala nas tuas costas e amarra o burro na cerca.\nA VOZ: O senhor é o moço que chegou primeiro?\nMACÁRIO: Sim. Mas vai ver o burro.\nA VOZ: Um moço que parece estudante?\nMACÁRIO: Sim. Mas anda com a mala.\nA VOZ: Mas como hei de ir buscar a mala? Quer que vá a pé?\nMACÁRIO: Esse diabo é doido! Vai a pé, ou monta numa vassoura como tua mãe!\nA VOZ: Descanse, moço. O burro há de aparecer. Quando madrugar iremos procurar.\nOUTRA VOZ: Havia de ir pelo caminho do Nhô Quito. Eu conheço o burro...\nMACÁRIO: E minha mala?\nA VOZ: Não vê? Está chovendo a potes!...\nMACÁRIO (fecha a janela): Malditos! (atira com uma cadeira no chão)\nO DESCONHECIDO: Que tendes, companheiro?\nMACÁRIO: Não vedes? O burro fugiu...\nO DESCONHECIDO: Não será quebrando cadeiras que o chamareis...\nMACÁRIO: Porém a raiva...\nO DESCONHECIDO: A mala não pareceu-me muito cheia. Senti alguma coisa sacolejar dentro. Alguma garrafa de vinho?\nMACÁRIO: Não! não! mil vezes não! Não concebeis, uma perda imensa, irreparável... era o meu cachimbo...\nO DESCONHECIDO: Fumais?\nMACÁRIO: Perguntai de que serve o tinteiro sem tinta, a viola sem cordas, o copo sem vinho, a noite sem mulher – não me pergunteis se fumo!\nO DESCONHECIDO (dá-lhe um cachimbo): Eis aí um cachimbo primoroso.\n[...]\nMACÁRIO: E vós?\nO DESCONHECIDO: Não vos importeis comigo. (tira outro cachimbo e fuma)\nMACÁRIO: Sois um perfeito companheiro de viagem. Vosso nome?\nO DESCONHECIDO: Perguntei-vos o vosso?\nMACÁRIO: O caso é que é preciso que eu pergunte primeiro. Pois eu sou um estudante. Vadio ou estudioso, talentoso ou estúpido, pouco importa. Duas palavras só: amo o fumo e odeio o Direito Romano. Amo as mulheres e odeio o romantismo.\nO DESCONHECIDO: Tocai! Sois um digno rapaz. (apertam a mão)\nMACÁRIO: Gosto mais de uma garrafa de vinho que de um poema, mais de um beijo que do soneto mais harmonioso. Quanto ao canto dos passarinhos, ao luar sonolento, às noites límpidas, acho isso sumamente insípido. Os passarinhos sabem só uma cantiga. O luar é sempre o mesmo. Esse mundo é monótono a fazer morrer de sono.\nO DESCONHECIDO: E a poesia?\nMACÁRIO: Enquanto era a moeda de ouro que corria só pela mão do rico, ia muito bem. Hoje trocou-se em moeda de cobre; não há mendigo, nem caixeiro de taverna que não tenha esse vintém azinhavrado¹. Entendeis-me?\nO DESCONHECIDO: Entendo. A poesia, de popular tornou-se vulgar e comum. Antigamente faziam-na para o povo; hoje o povo fá-la... para ninguém...\n(Álvares de Azevedo. Macário/Noite na taverna, 2002.)\n¹azinhavrado: coberto de azinhavre (camada de cor verde que se forma na superfície dos objetos de cobre ou latão, resultante da corrosão destes quando expostos ao ar úmido).\nPara Macário, a poesia deveria ser",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "elitista."
+        },
+        {
+          "letra": "B",
+          "texto": "hermética."
+        },
+        {
+          "letra": "C",
+          "texto": "despojada."
+        },
+        {
+          "letra": "D",
+          "texto": "engajada."
+        },
+        {
+          "letra": "E",
+          "texto": "sentimental."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Romantismo",
+        "Língua Portuguesa – Interpretação de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "\"O DESCONHECIDO: Fumais?\nMACÁRIO: Perguntai de que serve o tinteiro sem tinta, a viola sem cordas, o copo sem vinho, a noite sem mulher – não me pergunteis se fumo!\"\nÀ pergunta do Desconhecido, Macário",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "responde afirmativamente, e sua resposta carrega um tom espirituoso."
+        },
+        {
+          "letra": "B",
+          "texto": "acaba por não responder, já que devolve a pergunta com um insulto."
+        },
+        {
+          "letra": "C",
+          "texto": "evita dar uma resposta clara, em uma evidente tentativa de confundir seu interlocutor."
+        },
+        {
+          "letra": "D",
+          "texto": "responde negativamente, e sua resposta carrega um tom espirituoso."
+        },
+        {
+          "letra": "E",
+          "texto": "acaba por não responder, já que devolve a pergunta com outra pergunta."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de texto",
+        "Língua Portuguesa – Literatura Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "\"MACÁRIO: Desate a mala de meu burro e tragam-ma aqui...\nA VOZ: O burro?\nMACÁRIO: A mala, burro!\nA VOZ: A mala com o burro?\nMACÁRIO: Amarra a mala nas tuas costas e amarra o burro na cerca.\"\nPara produzir o efeito cômico desse diálogo, o autor lança mão do recurso expressivo denominado",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "antítese: a oposição, numa mesma expressão ou frase, de duas palavras ou de dois pensamentos de sentidos contrários."
+        },
+        {
+          "letra": "B",
+          "texto": "eufemismo: o emprego de palavra ou expressão no lugar de outra palavra ou expressão considerada desagradável."
+        },
+        {
+          "letra": "C",
+          "texto": "hipérbole: a ênfase resultante do exagero na expressão ou na comunicação de uma ideia."
+        },
+        {
+          "letra": "D",
+          "texto": "ambiguidade: a presença, num texto, de unidades linguísticas que podem significar coisas diferentes."
+        },
+        {
+          "letra": "E",
+          "texto": "personificação: a atribuição de características humanas a seres inanimados ou irracionais."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Observa-se expressão empregada em sentido figurado na seguinte fala:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“MACÁRIO: Não vedes? O burro fugiu...\""
+        },
+        {
+          "letra": "B",
+          "texto": "“A VOZ: Não vê? Está chovendo a potes!…\""
+        },
+        {
+          "letra": "C",
+          "texto": "\"A VOZ: Descanse, moço. O burro há de aparecer. Quando madrugar iremos procurar.\""
+        },
+        {
+          "letra": "D",
+          "texto": "\"O DESCONHECIDO: Não será quebrando cadeiras que o chamareis...\""
+        },
+        {
+          "letra": "E",
+          "texto": "“A VOZ: Mas como hei de ir buscar a mala? Quer que vá a pé?\""
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Sentido figurado",
+        "Língua Portuguesa – Interpretação de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "\"Enquanto era a moeda de ouro que corria só pela mão do rico, ia muito bem.\"\nEm relação à oração que o sucede, o trecho sublinhado expressa noção de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "tempo."
+        },
+        {
+          "letra": "B",
+          "texto": "comparação."
+        },
+        {
+          "letra": "C",
+          "texto": "concessão."
+        },
+        {
+          "letra": "D",
+          "texto": "causa."
+        },
+        {
+          "letra": "E",
+          "texto": "condição."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Morfossintaxe",
+        "Língua Portuguesa – Conectivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Retoma um termo mencionado anteriormente no texto a palavra sublinhada em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"O DESCONHECIDO: Perguntei-vos o vosso?\""
+        },
+        {
+          "letra": "B",
+          "texto": "\"O DESCONHECIDO: Não será quebrando cadeiras que o chamareis...\""
+        },
+        {
+          "letra": "C",
+          "texto": "“A VOZ: Não vê? Está chovendo a potes!…\""
+        },
+        {
+          "letra": "D",
+          "texto": "\"A VOZ: Mas como hei de ir buscar a mala? Quer que vá a pé?\""
+        },
+        {
+          "letra": "E",
+          "texto": "“MACÁRIO: Esse mundo é monótono a fazer morrer de sono.\""
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Coesão textual",
+        "Língua Portuguesa – Pronomes"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "“MACÁRIO: Desate a mala de meu burro e tragam-ma aqui...\"\nNa oração em que está inserido, o termo sublinhado é um verbo que pede",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "objeto direto, expresso pelo vocábulo \"mala”, e objeto indireto, expresso pelo vocábulo \"ma\"."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas objeto indireto, expresso pelo vocábulo “ma”."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas objeto direto, expresso pelo vocábulo “ma”."
+        },
+        {
+          "letra": "D",
+          "texto": "objeto direto, expresso pelo vocábulo \"burro”, e objeto indireto, expresso pelo vocábulo “ma”."
+        },
+        {
+          "letra": "E",
+          "texto": "objeto direto e objeto indireto, ambos expressos pelo vocábulo \"ma\"."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Sintaxe",
+        "Língua Portuguesa – Transitividade verbal",
+        "Língua Portuguesa – Objeto direto e indireto"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Carpe diem. É um lema latino que significa, lato sensu, \"aproveita bem o dia\" ou \"aproveita o momento fugaz\". Esta expressão tem paralelo em línguas modernas, como no inglês: \"Take time while time is, for time will away\".\n(Carlos Alberto de Macedo Rocha. Dicionário de locuções e expressões da língua portuguesa, 2011. Adaptado.)\nTal lema manifesta-se mais explicitamente nos seguintes versos de Fernando Pessoa:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Hoje, Neera, não nos escondamos,"
+        },
+        {
+          "letra": "B",
+          "texto": "A realidade"
+        },
+        {
+          "letra": "C",
+          "texto": "Da minha aldeia vejo quanto da terra se pode ver no"
+        },
+        {
+          "letra": "D",
+          "texto": "Sofro, Lídia, do medo do destino."
+        },
+        {
+          "letra": "E",
+          "texto": "Vem sentar-te comigo, Lídia, à beira do rio."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Portuguesa",
+        "Língua Portuguesa – Fernando Pessoa",
+        "Língua Portuguesa – Interpretação de poema"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Examine a tirinha de André Dahmer.\npalestra sobre os novos tempos\nSó os mais egoístas sobrevivem.\nVai nos ensinar o egoísmo?\nClaro que não.\n(André Dahmer. Malvados, 2019.)\nNa tirinha, o personagem que fala ao microfone",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pretende tornar o mundo mais solidário."
+        },
+        {
+          "letra": "B",
+          "texto": "mostra-se empenhado em tornar o mundo menos egoísta."
+        },
+        {
+          "letra": "C",
+          "texto": "está preocupado com a própria sobrevivência."
+        },
+        {
+          "letra": "D",
+          "texto": "mostra-se empenhado na difusão do egoísmo."
+        },
+        {
+          "letra": "E",
+          "texto": "está preocupado em tornar-se menos egoísta."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de texto",
+        "Sociologia – Individualismo e Egoísmo"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Para responder às questões de 11 a 14, leia o trecho do livro A solidão dos moribundos, do sociólogo alemão Norbert Elias.\nNão mais consideramos um entretenimento de domingo assistir a enforcamentos, esquartejamentos e suplícios na roda. Assistimos ao futebol, e não aos gladiadores na arena. Se comparados aos da Antiguidade, nossa identificação com outras pessoas e nosso compartilhamento de seus sofrimentos e morte aumentaram. Assistir a tigres e leões famintos devorando pessoas vivas pedaço a pedaço, ou a gladiadores, por astúcia e engano, mutuamente se ferindo e matando, dificilmente constituiria uma diversão para a qual nos preparávamos com o mesmo prazer que os senadores ou o povo romano. Tudo indica que nenhum sentimento de identidade unia esses espectadores àqueles que, na arena, lutavam por suas vidas. Como sabemos, os gladiadores saudavam o imperador ao entrar com as palavras “Morituri te salutant” (Os que vão morrer te saúdam). Alguns dos imperadores sem dúvida se acreditavam imortais. De todo modo, teria sido mais apropriado se os gladiadores dissessem \"Morituri moriturum salutant\" (Os que vão morrer saúdam aquele que vai morrer). Porém, numa sociedade em que tivesse sido possível dizer isso, provavelmente não haveria gladiadores ou imperadores. A possibilidade de se dizer isso aos dominadores — alguns dos quais mesmo hoje têm poder de vida e morte sobre um sem-número de seus semelhantes — requer uma desmitologização da morte mais ampla do que a que temos hoje, e uma consciência muito mais clara de que a espécie humana é uma comunidade de mortais e de que as pessoas necessitadas só podem esperar ajuda de outras pessoas. O problema social da morte é especialmente difícil de resolver porque os vivos acham difícil identificar-se com os moribundos.\nA morte é um problema dos vivos. Os mortos não têm problemas. Entre as muitas criaturas que morrem na Terra, a morte constitui um problema só para os seres humanos. Embora compartilhem o nascimento, a doença, a juventude, a maturidade, a velhice e a morte com os animais, apenas eles, dentre todos os vivos, sabem que morrerão; apenas eles podem prever seu próprio fim, estando cientes de que pode ocorrer a qualquer momento e tomando precauções especiais — como indivíduos e como grupos — para proteger-se contra a ameaça da aniquilação.\n(A solidão dos moribundos, 2001.)\nDe acordo com o autor,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a antecipação da própria morte tornou-se fonte de problemas para os seres humanos."
+        },
+        {
+          "letra": "B",
+          "texto": "o reconhecimento da própria finitude conduziria o ser humano a uma existência verdadeira."
+        },
+        {
+          "letra": "C",
+          "texto": "os seres humanos acabaram por se afastar da ideia da inevitabilidade da morte."
+        },
+        {
+          "letra": "D",
+          "texto": "a morte tornou-se, em razão do processo de aniquilação da natureza, um problema para a humanidade."
+        },
+        {
+          "letra": "E",
+          "texto": "os animais, a exemplo dos seres humanos, também seriam confrontados com a experiência da própria finitude."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Sociologia – A Morte na Sociedade",
+        "Língua Portuguesa – Interpretação de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "No primeiro parágrafo, a impessoalidade da linguagem está bem exemplificada no trecho:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Se comparados aos da Antiguidade, nossa identificação com outras pessoas e nosso compartilhamento de seus sofrimentos e morte aumentaram.\""
+        },
+        {
+          "letra": "B",
+          "texto": "\"Como sabemos, os gladiadores saudavam o imperador ao entrar com as palavras 'Morituri te salutant' (Os que vão morrer te saúdam).\""
+        },
+        {
+          "letra": "C",
+          "texto": "\"Assistimos ao futebol, e não aos gladiadores na arena.\""
+        },
+        {
+          "letra": "D",
+          "texto": "\"Tudo indica que nenhum sentimento de identidade unia esses espectadores àqueles que, na arena, lutavam por suas vidas.\""
+        },
+        {
+          "letra": "E",
+          "texto": "“Não mais consideramos um entretenimento de domingo assistir a enforcamentos, esquartejamentos e suplícios na roda.\""
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Estilo e Linguagem",
+        "Língua Portuguesa – Impessoalidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Em \"Embora compartilhem o nascimento, a doença, a juventude, a maturidade, a velhice e a morte com os animais, apenas eles, dentre todos os vivos, sabem que morrerão\" (2º parágrafo), o termo sublinhado pode ser substituído, sem prejuízo para o sentido do texto, por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A menos que."
+        },
+        {
+          "letra": "B",
+          "texto": "Mesmo que."
+        },
+        {
+          "letra": "C",
+          "texto": "Desde que."
+        },
+        {
+          "letra": "D",
+          "texto": "Uma vez que."
+        },
+        {
+          "letra": "E",
+          "texto": "Contanto que."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Vocabulário",
+        "Língua Portuguesa – Conectivos",
+        "Língua Portuguesa – Reescrita de frases"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Em \"De todo modo, teria sido mais apropriado se os gladiadores dissessem 'Morituri moriturum salutant' (Os que vão morrer saúdam aquele que vai morrer)\" (1º parágrafo), o termo sublinhado pertence à mesma classe gramatical do termo sublinhado em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "“Não mais consideramos um entretenimento de domingo assistir a enforcamentos, esquartejamentos e suplícios na roda.\" (1º parágrafo)"
+        },
+        {
+          "letra": "B",
+          "texto": "\"Porém, numa sociedade em que tivesse sido possível dizer isso, provavelmente não haveria gladiadores ou imperadores.\" (1º parágrafo)"
+        },
+        {
+          "letra": "C",
+          "texto": "\"Alguns dos imperadores sem dúvida se acreditavam imortais.\" (1º parágrafo)"
+        },
+        {
+          "letra": "D",
+          "texto": "\"as pessoas necessitadas só podem esperar ajuda de outras pessoas.\" (1º parágrafo)"
+        },
+        {
+          "letra": "E",
+          "texto": "\"Entre as muitas criaturas que morrem na Terra, a morte constitui um problema só para os seres humanos.\" (2º parágrafo)"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Morfologia",
+        "Língua Portuguesa – Classes de palavras"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Tão variadas são as manifestações desse movimento que é impossível formular-lhe uma definição única; mesmo assim, pode-se dizer que sua tônica foi uma crença no valor supremo da experiência individual, configurando nesse sentido uma reação contra o racionalismo iluminista e a ordem do estilo neoclássico. Seus autores exploravam os valores da intuição e do instinto, trocando o discurso público do neoclassicismo, cujas formas compunham um repertório mais comum e inteligível, por um tipo de expressão mais particular.\n(Ian Chilvers (org.). Dicionário Oxford de arte, 2007. Adaptado.)\nO movimento a que o texto se refere é o",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Naturalismo."
+        },
+        {
+          "letra": "B",
+          "texto": "Romantismo."
+        },
+        {
+          "letra": "C",
+          "texto": "Barroco."
+        },
+        {
+          "letra": "D",
+          "texto": "Arcadismo."
+        },
+        {
+          "letra": "E",
+          "texto": "Realismo."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Arte – História da Arte",
+        "Arte – Romantismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Para responder às questões de 16 a 19, leia o trecho inicial da crônica \"Está aberta a sessão do júri\", de Graciliano Ramos, publicada originalmente em 1943.\nO Dr. França, Juiz de Direito numa cidadezinha sertaneja, andava em meio século, tinha gravidade imensa, verbo escasso, bigodes, colarinhos, sapatos e ideias de pontas muito finas. Vestia-se ordinariamente de preto, exigia que todos na justiça procedessem da mesma forma e chegou a mandar retirar-se do Tribunal um jurado inconveniente, de roupa clara, ordenar-lhe que voltasse razoável e fúnebre, para não prejudicar a decência do veredicto.\nNão via, não sorria. Quando parava numa esquina, as cavaqueiras dos vadios gelavam. Ao afastar-se, mexia as pernas matematicamente, os passos mediam setenta centímetros, exatos, apesar de barrocas¹ e degraus. A espinha não se curvava, embora descesse ladeiras, as mãos e os braços executavam os movimentos indispensáveis, as duas rugas horizontais da testa não se aprofundavam nem se desfaziam.\nNa sua biblioteca digna e sábia, volumes bojudos, tratados majestosos, severos na encadernação negra semelhante à do proprietário, empertigavam-se e nenhum ousava deitar-se, inclinar-se, quebrar o alinhamento rigoroso.\nDr. França levantava-se às sete horas e recolhia-se à meia-noite, fizesse frio ou calor, almoçava ao meio-dia e jantava às cinco, ouvia missa aos domingos, comungava de seis em seis meses, pagava o aluguel da casa no dia 30 ou no dia 31, entendia-se com a mulher, parcimonioso, na linguagem usada nas sentenças, linguagem arrevesada e arcaica das ordenações. Nunca julgou oportuno modificar esses hábitos salutares.\nNão amou nem odiou. Contudo exaltou a virtude, emanação das existências calmas, e condenou o crime, infeliz consequência da paixão.\nSe atentássemos nas palavras emitidas por via oral, poderíamos afirmar que o Dr. França não pensava. Vistos os autos, etc., perceberíamos entretanto que ele pensava com alguma frequência. Apenas o pensamento de Dr. França não seguia a marcha dos pensamentos comuns. Operava, se não nos enganamos, deste modo: \"considerando isto, considerando isso, considerando aquilo, considerando ainda mais isto, considerando porém aquilo, concluo.” Tudo se formulava em obediência às regras e era impossível qualquer desvio.\nDr. França possuía um espírito, sem dúvida, espírito redigido com circunlóquios, dividido em capítulos, títulos, artigos e parágrafos. E o que se distanciava desses parágrafos, artigos, títulos e capítulos não o comovia, porque Dr. França está livre dos tormentos da imaginação.\n¹barroca: monte de terra ou de barro.\nNa crônica, o Dr. França é caracterizado como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "irônico e arrogante."
+        },
+        {
+          "letra": "B",
+          "texto": "arrogante e dissimulado."
+        },
+        {
+          "letra": "C",
+          "texto": "introvertido e sarcástico."
+        },
+        {
+          "letra": "D",
+          "texto": "pedante e displicente."
+        },
+        {
+          "letra": "E",
+          "texto": "taciturno e metódico."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Graciliano Ramos",
+        "Língua Portuguesa – Interpretação de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "O cronista intromete-se explicitamente no texto no seguinte trecho:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Contudo exaltou a virtude, emanação das existências calmas, e condenou o crime, infeliz consequência da paixão.\" (5º parágrafo)"
+        },
+        {
+          "letra": "B",
+          "texto": "\"Dr. França possuía um espírito, sem dúvida, espírito redigido com circunlóquios, dividido em capítulos, títulos, artigos e parágrafos.\" (7º parágrafo)"
+        },
+        {
+          "letra": "C",
+          "texto": "\"O Dr. França, Juiz de Direito numa cidadezinha sertaneja, andava em meio século, tinha gravidade imensa, verbo escasso, bigodes, colarinhos, sapatos e ideias de pontas muito finas.\" (1º parágrafo)"
+        },
+        {
+          "letra": "D",
+          "texto": "\"Operava, se não nos enganamos, deste modo: 'considerando isto, considerando isso, considerando aquilo, considerando ainda mais isto, considerando porém aquilo, concluo.” (6º parágrafo)"
+        },
+        {
+          "letra": "E",
+          "texto": "\"E o que se distanciava desses parágrafos, artigos, títulos e capítulos não o comovia, porque Dr. França está livre dos tormentos da imaginação.” (7º parágrafo)"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Narrador",
+        "Língua Portuguesa – Marcas de subjetividade",
+        "Língua Portuguesa – Interpretação de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "O cronista recorre à personificação no seguinte trecho:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Na sua biblioteca digna e sábia, volumes bojudos, tratados majestosos, severos na encadernação negra semelhante à do proprietário, empertigavam-se e nenhum ousava deitar-se, inclinar-se, quebrar o alinhamento rigoroso.\" (3º parágrafo)"
+        },
+        {
+          "letra": "B",
+          "texto": "\"A espinha não se curvava, embora descesse ladeiras, as mãos e os braços executavam os movimentos indispensáveis, as duas rugas horizontais da testa não se aprofundavam nem se desfaziam.” (2º parágrafo)"
+        },
+        {
+          "letra": "C",
+          "texto": "\"Ao afastar-se, mexia as pernas matematicamente, os passos mediam setenta centímetros, exatos, apesar de barrocas e degraus.\" (2º parágrafo)"
+        },
+        {
+          "letra": "D",
+          "texto": "\"E o que se distanciava desses parágrafos, artigos, títulos e capítulos não o comovia, porque Dr. França está livre dos tormentos da imaginação.” (7º parágrafo)"
+        },
+        {
+          "letra": "E",
+          "texto": "\"Vestia-se ordinariamente de preto, exigia que todos na justiça procedessem da mesma forma e chegou a mandar retirar-se do Tribunal um jurado inconveniente, de roupa clara, ordenar-lhe que voltasse razoável e fúnebre, para não prejudicar a decência do veredicto.” (1º parágrafo)"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Figuras de Linguagem",
+        "Língua Portuguesa – Personificação"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Expressa sentido hipotético a forma verbal sublinhada em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Dr. França possuía um espírito, sem dúvida, espírito redigido com circunlóquios, dividido em capítulos, títulos, artigos e parágrafos.\" (7º parágrafo)"
+        },
+        {
+          "letra": "B",
+          "texto": "\"Ao afastar-se, mexia as pernas matematicamente, os passos mediam setenta centímetros, exatos, apesar de barrocas e degraus.\" (2º parágrafo)"
+        },
+        {
+          "letra": "C",
+          "texto": "\"Vistos os autos, etc., perceberíamos entretanto que ele pensava com alguma frequência.” (6º parágrafo)"
+        },
+        {
+          "letra": "D",
+          "texto": "\"Tudo se formulava em obediência às regras e era impossível qualquer desvio.\" (6º parágrafo)"
+        },
+        {
+          "letra": "E",
+          "texto": "\"Nunca julgou oportuno modificar esses hábitos salutares.\" (4º parágrafo)"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Verbos",
+        "Língua Portuguesa – Modo verbal",
+        "Língua Portuguesa – Sentido hipotético"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Movement founded by André Breton in 1924, which absorbed the French Dada movement and made positive claims for methods and processes (defiance of logic, shock tactics) which Dada had used merely as a negation of conventional art. Influenced by Freud, it claimed to liberate the riches of the unconscious through the \"primacy of dream\" and the suspension of conscious control.\n(Edward Lucie-Smith. The Thames and Hudson Dictionary of Art Terms, 1994. Adaptado.)\nUma obra representativa do movimento artístico retratado no texto está reproduzida em:",
+      "alternativas": null,
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Arte – Surrealismo",
+        "Arte – História da Arte"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Leia o texto para responder às questões de 21 a 27.\nWater and Urbanization\nA view of passengers aboard trains connecting the suburbs of Kolkata, India. The Asia-Pacific region is urbanizing rapidly with 1.77 billion people, 43% of the region's population, living in urban areas.\nUrban areas are expected to absorb all of the world's population growth over the next four decades, as well as accommodating significant rural-to-urban migration. The vast majority of these people will be living in overcrowded slums with inadequate, often non-existent, water and sanitation services.\nSafe drinking water systems and adequate sanitation that effectively disposes of human waste will be essential to ensure cities and towns grow sustainably. Extending these services to the millions of urbanites currently unserved will play a key role in underpinning the health and security of cities, protecting economies and ecosystems and minimising the risk of pandemics.\nFor the first time in history, more than half of the global population live in towns and cities. By 2050, that proportion is expected to rise to two-thirds. Population growth is happening fastest in urban areas of less developed regions, with the urban population estimated to grow from 3.9 billion people today to 6.3 billion in 2050.\nEven though water and sanitation access rates are generally higher in urban areas than rural, planning and infrastructure have been unable to keep pace in many regions. Today, 700 million urbanites live without improved sanitation, contributing to poor health conditions and heavy pollution loads in wastewater, and 156 million live without improved water sources.\nHowever, cities provide significant opportunities for more integrated and sustainable water use and waste management. The positive impacts of these services, particularly for public health, spread rapidly and cost-effectively among densely populated unplanned settlements. Furthermore, more efficient use of water within cities and the safe reuse of more waste will put less strain on the surrounding ecosystems.\n(www.unwater.org. Adaptado.)\nAccording to the text,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cities attract people because of widespread access to water and sanitation."
+        },
+        {
+          "letra": "B",
+          "texto": "most rural-to-urban migration happens due to climate change and lack of water."
+        },
+        {
+          "letra": "C",
+          "texto": "migration to cities should be discouraged because there is not enough infrastructure for all."
+        },
+        {
+          "letra": "D",
+          "texto": "sustainable urban growth depends on sufficient sanitation and access to water."
+        },
+        {
+          "letra": "E",
+          "texto": "population is growing too fast and this growth should be controlled."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Inglês – Compreensão de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "A fotografia e a sua legenda ilustram o trecho do texto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"700 million urbanites live without improved sanitation\" (4º parágrafo)."
+        },
+        {
+          "letra": "B",
+          "texto": "\"Population growth is happening fastest in urban areas of less developed regions\" (3º parágrafo)."
+        },
+        {
+          "letra": "C",
+          "texto": "\"The vast majority of these people will be living in overcrowded slums\" (1º parágrafo)."
+        },
+        {
+          "letra": "D",
+          "texto": "\"For the first time in history, more than half of the global population live in towns and cities\" (3º parágrafo)."
+        },
+        {
+          "letra": "E",
+          "texto": "\"water and sanitation access rates are generally higher in urban areas than rural\" (4º parágrafo)."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Inglês – Compreensão de texto",
+        "Língua Portuguesa – Relação texto-imagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "No trecho do primeiro parágrafo “as well as accommodating significant rural-to-urban migration\", a expressão sublinhada indica",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "comparação."
+        },
+        {
+          "letra": "B",
+          "texto": "condição."
+        },
+        {
+          "letra": "C",
+          "texto": "contraste."
+        },
+        {
+          "letra": "D",
+          "texto": "exemplificação."
+        },
+        {
+          "letra": "E",
+          "texto": "acréscimo."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Inglês – Vocabulário",
+        "Inglês – Conectivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "According to the second paragraph, extending water systems and sanitation to unserved people may",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "support health and protection of cities."
+        },
+        {
+          "letra": "B",
+          "texto": "turn water into an expensive commodity."
+        },
+        {
+          "letra": "C",
+          "texto": "ensure an accelerated growth in towns."
+        },
+        {
+          "letra": "D",
+          "texto": "diversify development conditions."
+        },
+        {
+          "letra": "E",
+          "texto": "promote safe leisure."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Inglês – Compreensão de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "De acordo com o terceiro e quarto parágrafos, até 2050 espera-se que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o saneamento básico elimine a poluição das águas em mananciais."
+        },
+        {
+          "letra": "B",
+          "texto": "a população mundial ultrapasse substancialmente os 6,3 bilhões de pessoas."
+        },
+        {
+          "letra": "C",
+          "texto": "a população urbana represente mais de 60% da população mundial."
+        },
+        {
+          "letra": "D",
+          "texto": "as regiões pobres se desenvolvam devido ao aumento populacional."
+        },
+        {
+          "letra": "E",
+          "texto": "a infraestrutura urbana acompanhe o aumento populacional."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Inglês – Compreensão de texto",
+        "Geografia – Demografia"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "In the excerpt from the fourth paragraph \"planning and infrastructure have been unable to keep pace in many regions\", the underlined expression means",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "anticipate the needs."
+        },
+        {
+          "letra": "B",
+          "texto": "slow down quickly."
+        },
+        {
+          "letra": "C",
+          "texto": "evaluate the situation."
+        },
+        {
+          "letra": "D",
+          "texto": "maintain the rate of progress."
+        },
+        {
+          "letra": "E",
+          "texto": "interfere in the development."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Inglês – Vocabulário",
+        "Inglês – Expressões idiomáticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "No trecho do quarto parágrafo, \"Even though water and sanitation access rates are generally higher in urban areas\", a expressão sublinhada pode ser substituída, sem alteração de sentido, por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "however."
+        },
+        {
+          "letra": "B",
+          "texto": "rather."
+        },
+        {
+          "letra": "C",
+          "texto": "unlike."
+        },
+        {
+          "letra": "D",
+          "texto": "likely."
+        },
+        {
+          "letra": "E",
+          "texto": "despite."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Inglês – Vocabulário",
+        "Inglês – Sinônimos",
+        "Inglês – Conectivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "No infográfico, a recomendação para economizar água que pode ser adotada imediatamente por todos e não implica custos adicionais é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Don't leave the tap running needlessly\"."
+        },
+        {
+          "letra": "B",
+          "texto": "\"Choose and use your appliances wisely\"."
+        },
+        {
+          "letra": "C",
+          "texto": "\"Set up a rain barrel\"."
+        },
+        {
+          "letra": "D",
+          "texto": "\"Use dual flush toilet\"."
+        },
+        {
+          "letra": "E",
+          "texto": "\"Stop leaky toilet and dripping faucets\"."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Inglês – Interpretação de infográfico",
+        "Geografia – Recursos Hídricos"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Leia o quadrinho para responder às questões 29 e 30.\nFRANK'S APIARY\nI TRIED LIVING IN THE CITY BUT DIDN'T LIKE THE CROWDS, SO I MOVED OUT HERE TO MAKE HONEY. YOU WENT WITH PLAN BEE!\n(www.thecomicstrips.com)\nO humor do quadrinho decorre",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "da saudade que os personagens têm da vida urbana."
+        },
+        {
+          "letra": "B",
+          "texto": "da possibilidade de os personagens serem picados por abelhas."
+        },
+        {
+          "letra": "C",
+          "texto": "do som da letra bê em inglês ser o mesmo da palavra abelha em inglês."
+        },
+        {
+          "letra": "D",
+          "texto": "das vestimentas dos personagens."
+        },
+        {
+          "letra": "E",
+          "texto": "da alegria sem motivo dos personagens."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Inglês – Interpretação de cartoon",
+        "Inglês – Jogo de palavras"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "O personagem Frank representa",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o homem do campo que nunca saiu de sua terra."
+        },
+        {
+          "letra": "B",
+          "texto": "a migração do mundo urbano para o rural."
+        },
+        {
+          "letra": "C",
+          "texto": "o sonho de todos os habitantes de cidades grandes."
+        },
+        {
+          "letra": "D",
+          "texto": "o isolamento dos pequenos produtores rurais."
+        },
+        {
+          "letra": "E",
+          "texto": "a melhor parte da cidade e do campo."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Inglês – Interpretação de cartoon",
+        "Geografia – Migração"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "A conquista da Gália por Júlio César foi comparada, com razão, a um genocídio, e criticada pelos próprios romanos da época, nesses mesmos termos. Mas Roma se expandiu por um mundo de violência endêmica, de focos rivais de poder apoiados por forças militares [...] e de mini-impérios.\n(Mary Beard. SPQR: uma história da Roma Antiga, 2017.)\nSegundo o excerto,",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "História – Roma Antiga",
+        "História – Império Romano"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "[...] a Europa começa a se constituir com a Idade Média. A civilização da Antiguidade romana só compreendia uma parte da Europa: os territórios do sul, situados na sua maioria em torno do Mediterrâneo.\n(Jacques Le Goff. A Idade Média explicada aos meus filhos, 2007.)\nA constituição da Europa na Idade Média derivou, entre outros fatores,",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "História – Idade Média",
+        "História – Formação da Europa"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "São características da Reforma protestante e da Contrarre- forma católica, respectivamente,",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "História – Reforma Protestante",
+        "História – Contrarreforma Católica"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Real alicerce da sociedade, os escravos chegaram a constituir, em regiões como o Recôncavo, na Bahia, mais de 75% da população. Desde o século XVI e até a extinção do tráfico, em 1850, o regime demográfico adverso verifica- do entre os cativos em razão das mortes prematuras e da baixa taxa de nascimento – levou a uma taxa de crescimento negativo [...].\n(Lilia M. Schwarcz e Heloisa M. Starling. Brasil: uma biografia, 2018.)\nA variação demográfica indicada no excerto provocou",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "História – Escravidão no Brasil",
+        "História – Demografia Colonial"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "[O rei D. João III] ordenou que se povoasse esta provín- cia, repartindo as terras por pessoas que se lhe ofereceram para as povoarem e conquistarem à custa de sua fazenda, e dando a cada um 50 léguas por costa com todo o seu sertão [...]; são sismeiros das suas terras, e as repartem pelos mo- radores como querem, todavia movendo-se depois alguma dúvida sobre as datas, não são eles os juízes delas, senão o provedor da fazenda, nem os que as recebem de sesmaria têm obrigação de pagar mais que dízimo a Deus dos frutos que colhem [...].\n(Frei Vicente do Salvador. História do Brasil (1500-1627). In: www.dominiopublico.gov.br.)\nO excerto, do século XVII, caracteriza a",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "História – Período Colonial Brasileiro",
+        "História – Capitanias Hereditárias"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Entrar numa fábrica pela primeira vez podia ser uma ex- periência aterrorizante: o ruído e o movimento do maquiná- rio; o ar sufocante, cheio de pó de algodão, muitas vezes, mantido opressivamente quente para reduzir a quebra; o fe- dor penetrante de óleo de baleia e de gordura animal usados para lubrificar as máquinas (antes da disponibilidade de pro- dutos petrolíferos) e do suor de centenas de trabalhadores; os semblantes pálidos e os corpos doentios dos operários; o comportamento feroz dos supervisores, alguns dos quais car- regavam cintos ou chicotes para impor disciplina. Nas salas de tecelagem, o barulho ensurdecedor de dezenas de teares, cada um com uma lançadeira recebendo pancadas de mar- telo umas sessenta vezes por minuto, impossibilitava que os trabalhadores se ouvissem.\n(Joshua B. Freeman. Mastodontes: a história da fábrica e a construção do mundo moderno, 2019.)\nO trabalho nas primeiras fábricas inglesas é caracterizado no excerto",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "História – Revolução Industrial"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Se eu tivesse que responder à seguinte pergunta: O que é a escravatura? e respondesse sem hesitar: É o assassí- nio, o meu pensamento ficaria perfeitamente expresso. Não precisarei de fazer um grande discurso para mostrar que o poder de privar o homem do pensamento, da vontade e da personalidade, é um poder de vida e morte e que fazer de um homem escravo equivale a assassiná-lo. Por que, então, a essa outra pergunta: O que é a propriedade? não posso responder simplesmente: É o roubo, ficando com a certeza de que me entendem, embora esta segunda proposição não seja mais que a primeira, transformada?\n(Pierre Joseph Proudhon. O que é a propriedade?, 1975.)\nO texto, escrito em 1840, expressa uma posição",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Filosofia – Anarquismo",
+        "Filosofia – Teoria da Propriedade"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "A Guerra do Paraguai ou da Tríplice Aliança expôs",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "História – Guerra do Paraguai",
+        "História – História da América Latina"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Um dos motivos que contribuíram para a crise econômico- -financeira do final da década de 1920 foi o",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "História – Crise de 1929",
+        "História – Economia Pós-Primeira Guerra Mundial"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Observe a charge de Belmonte, publicada na primeira página da Folha da Noite, em 20 de fevereiro de 1922.\n\"SEMANA DE ARTE MODERNA\"\nEstás vendo, minha filha, aquelles é que são os artistas! Coitados, não? Tão moços...!\n(https://fotografia.folha.uol.com.br, 25.02.2021.)\nAo representar a Semana de Arte Moderna, a charge ironiza",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Arte – Semana de Arte Moderna",
+        "Arte – Modernismo no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "De fato, a própria organização espacial da cidade denota uma elisão de qualquer forma de democracia, com a segre- gação das massas populares, com os traçados apropriados ao automóvel, e com o sistema fabril tendo sido erigido como modelo para o planejamento que visa à produtividade dos espaços com a harmonia social.\nNesse sentido, a concepção urbanística de Brasília, cidade que nasceu como forma de controle social, é bas- tante adequada para sediar a cúpula de qualquer Estado autoritário [...].\n(José William Vesentini. A capital da geopolítica, 1986.)\nA caracterização de Brasília pelo excerto apresenta-a como uma cidade",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Geografia – Urbanização no Brasil",
+        "Geografia – Brasília",
+        "Geografia – Planejamento Urbano"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "A obtenção da liberdade não significou o fim da história na África, muito pelo contrário. A partir de então, as diferentes nações africanas tiveram de lidar com o desafio de construir estados nacionais que abarcavam povos, línguas e costumes diversos.\n(Ynaê Lopes dos Santos. História da África e do Brasil afrodescendente, 2017.)\nO \"desafio\" mencionado no excerto pode ser exemplificado",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "História – Descolonização da África",
+        "História – Conflitos Pós-Coloniais"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Observe dois cartazes de propaganda, lançados após o ano de 1947.\n\"Prosperidade: o fruto da cooperação\"\n\"Estamos construindo uma nova Europa\"\nOs cartazes fazem referência ao contexto europeu de",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "História – Pós-Segunda Guerra Mundial",
+        "História – Plano Marshall"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Analise o gráfico.\nCrescimento populacional mundial, 1700-2100\n(https://ourworldindata.org. Adaptado.)\nA análise do gráfico mostra que o período de",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Geografia – Demografia",
+        "Geografia – Transição Demográfica"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Examine o mapa.\n(Hervé Théry e Neli A. de Mello. Atlas do Brasil, 2008. Adaptado.)\nConsiderando a iniciativa de doze países sul-americanos de promoção do desenvolvimento de infraestruturas de trans- porte, energia e comunicação, o destaque indicado com X na legenda do mapa corresponde a",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Geografia – Geopolítica",
+        "Geografia – Integração Regional",
+        "Geografia – América do Sul"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Na formação do território brasileiro, nos séculos XVII e XVIII, as atividades econômicas da pecuária e da mineração foram responsáveis pela",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "História – Período Colonial Brasileiro",
+        "História – Economia Colonial",
+        "História – Expansão Territorial"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Configura uma característica econômica do Agreste nordestino",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Geografia – Regiões Brasileiras",
+        "Geografia – Agreste Nordestino",
+        "Geografia – Economia Regional"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "A união entre ciência e técnica que, a partir dos anos 70, havia transformado o território brasileiro revigora-se com os novos e portentosos recursos da informação, a par- tir do período da globalização e sob a égide do mercado. E o mercado, graças exatamente à ciência, à técnica e à informação, torna-se um mercado global. O território ganha novos conteúdos e impõe novos comportamentos, graças às enormes possibilidades da produção e, sobretudo, da cir- culação dos insumos, dos produtos, do dinheiro, das ideias e informações, das ordens e dos homens. É a irradiação do meio técnico-científico-informacional que se instala sobre o território [...].\n(Milton Santos e María L. Silveira. O Brasil, 2006.)\nNo território brasileiro, a irradiação apresentada ocorreu",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Geografia – Globalização",
+        "Geografia – Território Brasileiro",
+        "Geografia – Meio Técnico-Científico-Informacional"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "A partir do momento em que determinado espaço (peri- férico ou central, mas tido como degradado e desvalorizado) passa a ser incorporado pelas estratégias do mercado imo- biliário, em geral articuladas com as do Estado, temos como tendência uma imanente possibilidade de conflito.\n(Glória da A. Alves. \"A mobilidade/imobilidade na produção do espaço metropolitano\". In: Ana F. A. Carlos et. al. (orgs.). A produção do espaço urbano, 2019.)\nNas cidades brasileiras, uma manifestação do conflito desta- cado no excerto é",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Geografia – Urbanização",
+        "Geografia – Segregação Socioespacial",
+        "Geografia – Conflitos Urbanos"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Carlos Fioravanti: Se você pudesse entrar agora em um helicóptero e o piloto perguntasse \"Vamos para onde?\", que lugares escolheria para revisitar ou conhecer?\nJurandyr L. S. Ross: Vou ser pragmático, estou precisan- do fazer um sobrevoo em um lugar em que nunca estive, e estou orientando um doutorado sobre essa região. É um lugar muito interessante porque, entre os relevos montanhosos, há superfícies baixas e planas, com um clima de transição do Cerrado para a Caatinga, solo fértil e uma intensa agricultura irrigada. Tenho muita curiosidade de conhecer esse lugar.\n(Carlos Fioravanti. https://revistapesquisa.fapesp.br. Adaptado.)\nNo mapa, o lugar descrito no excerto corresponde ao número",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Geografia – Biomas Brasileiros",
+        "Geografia – Geomorfologia",
+        "Geografia – Climatologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "A subsidência é um processo de rebaixamento do terreno, que ocorre de forma lenta, em que a ação antrópica pode ser uma de suas causas. Caracteriza um exemplo de interferên- cia da ação antrópica no processo de subsidência:",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Geografia – Geomorfologia",
+        "Geografia – Impactos Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Junto a um vasto grupo de pessoas que trabalharam ao seu lado desde o final da década de 1970, Chico Mendes idealizou o modelo que traduziu com perfeição a ideia de de- senvolvimento sustentável bem antes desse conceito se po- pularizar. Uma invenção brasileira que não tem comparação com qualquer outra no mundo.\n(www.nationalgeographicbrasil.com, 05.11.2020. Adaptado.)\nO modelo abordado no excerto corresponde à",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Biologia – Ecologia",
+        "Biologia – Desenvolvimento Sustentável",
+        "Geografia – Meio Ambiente"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Analise o esquema de um projeto realizado para a climatiza- ção de ambientes.\n(https://jornal.usp.br, 03.06.2021. Adaptado.)\nConsiderando a infraestrutura apresentada na imagem, a climatização de ambientes ocorrerá por meio de trocas de energia",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Termodinâmica",
+        "Física – Fontes de Energia",
+        "Geografia – Fontes de Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Trata-se de uma linguagem de comunicação visual, po- rém, de caráter monossêmico. Sua especificidade reside es- sencialmente no fato de estar fundamentalmente vinculada ao âmago das relações que podem se dar entre os significa- dos dos signos. Sua tarefa essencial é a de transcrever as três relações fundamentais – de diversidade, de ordem, de proporcionalidade entre objetos, fatos ou fenômenos que compõem a realidade considerada.\n(Marcello Martinelli. Cartografia temática, 2016. Adaptado.)\nA linguagem destacada no excerto corresponde à",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Geografia – Cartografia",
+        "Arte – Linguagem Visual"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "Não é fácil vencer uma discussão. Especialmente em um contexto inflamado, em que as opiniões se polarizam, notí- cias falsas se proliferam, debatedores recorrem a ofensas e sarcasmo e festas de fim de ano criam ambientes propícios para a briga. Uma boa discussão, ao contrário do que a maior parte das pessoas pensa, não serve para a disputa – e, sim, para a construção do conhecimento. Nesse sentido, saber sustentar uma boa argumentação é fundamental.\n(Beatriz Montesanti e Tatiana Dias. \"Por que 'opinião não é argumento', segundo este professor de lógica da Unicamp\". www.nexojornal.com.br, 28.02.2018.)\nO excerto explicita a relevância de uma área da filosofia que contribui para o desenvolvimento de boas discussões, qual seja,",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Filosofia – Lógica",
+        "Filosofia – Teoria do Conhecimento"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "É nesse ponto que eu estabeleço a distinção: para um lado os que ainda agora referiste — amadores de espe- táculos, amigos das artes e homens de ação — e para outro aqueles de quem estamos a tratar, os únicos que com razão podem chamar-se filósofos.\n— Que queres dizer?\n— Os amadores de audições e de espetáculos encan- tam-se com as belas vozes, cores e formas e todas as obras feitas com tais elementos, embora o seu espírito seja incapaz de discernir e de amar a natureza do belo em si.\n(Platão. A República, 2017. Adaptado.)\nNo excerto, Platão direciona aos artistas uma crítica que é fundamentada",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Filosofia – Platão",
+        "Filosofia – Estética",
+        "Filosofia – Teoria das Ideias"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Ao cunhar a frase \"natureza atormentada,\" no início do século XVII, numa referência ao objeto do conhecimento científico, Francis Bacon não imaginou que esse ideal iria, no século XXI, atormentar filósofos e cientistas. O \"tormen- to\" do mundo natural, para ele, significava conhecê-lo, não pelo saber desinteressado, mas para dominar, transformar e, então, utilizar esse universo da maneira mais eficiente. O berço da ciência moderna trazia a estrutura para que o ideal de controle da natureza pudesse ser realizado. A partir de então, essa relação entre ciência e técnica foi naturalmente se estreitando.\n(Carlos Haag. \"Natureza atormentada\". https://revistapesquisa.fapesp.br, agosto de 2005. Adaptado.)\nDe acordo com o tema abordado pelo excerto, o \"tormento\" gerado em filósofos e cientistas contemporâneos se dá de- vido à problematização da",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Filosofia – Filosofia da Ciência",
+        "Filosofia – Francis Bacon",
+        "Filosofia – Progresso Científico"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "Ora resta examinar quais devem ser os procedimentos e as resoluções do príncipe com relação aos seus súditos e aos seus aliados. Há uma grande distância entre o modo como se vive e o modo como se deveria viver, que aquele que em detrimento do que se faz privilegia o que se deveria fazer mais aprende a cair em desgraça que a preservar a sua própria pessoa. Ora, um homem que de profissão queira fazer-se permanentemente bom não poderá evitar a sua ruí- na, cercado de tantos que bons não são. Assim, é necessário a um príncipe que deseje manter-se príncipe aprender a não usar [apenas] a bondade.\n(Nicolau Maquiavel. O Príncipe, 1998. Adaptado.)\nO tema abordado por Maquiavel no excerto também está re- lacionado ao seu conceito de fortuna, que diz respeito ao fato de o governante",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Filosofia – Maquiavel",
+        "Filosofia – Filosofia Política"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "TEXTO 1\nA ideia do panóptico coloca no centro alguém, um olho, um olhar, um princípio de vigilância que poderá de certo modo fazer sua soberania agir sobre todos os indivíduos [si- tuados] no interior dessa máquina de poder. Nessa medida, podemos dizer que o panóptico é o mais antigo sonho do mais antigo soberano: que nenhum dos meus súditos escape e que nenhum dos gestos de nenhum dos meus súditos me seja desconhecido.\n(Michel Foucault. Segurança, território, população, 2008. Adaptado.)\nTEXTO 2\nEm 2013 as revelações de Edward Snowden, ex-funcio- nário da Agência de Segurança Nacional dos Estados Uni- dos, deixaram a noção de transparência democrática sob suspeita. Snowden revelou que a inteligência estadunidense realizava vigilância em massa de seus aliados e adversários políticos. A espionagem ocorreu logrando acesso legal ou for- çado aos servidores de boa parte das maiores empresas de internet.\n(Davi Lago. \"O panóptico digital: por que devemos suspeitar da palavra 'transparência'?\". https://estadodaarte.estadao.com.br, 29.08.2019. Adaptado.)\nO fenômeno retratado nos excertos implica, diretamente,",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Sociologia – Michel Foucault",
+        "Sociologia – Sociedade de Vigilância",
+        "Sociologia – Estado e Poder"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Muito antes de a farmacologia moderna desvendar cienti- ficamente a ação da cafeína sobre o sistema nervoso central, especialmente seu efeito estimulante, as comunidades indí- genas da Amazônia se beneficiavam das propriedades desta substância no alívio da fadiga, por meio do emprego do gua- raná, sem necessariamente compreender sua composição química ou outras possibilidades terapêuticas.\n(Ediara R. G. Rios et al. \"Senso comum, ciência e filosofia – elo dos saberes necessários à promoção da saúde\". Ciência & Saúde Coletiva, 2007. Adaptado.)\nO excerto ressalta um aspecto importante para o estudo do conhecimento, segundo o qual",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Sociologia – Senso Comum e Conhecimento Científico",
+        "Filosofia – Epistemologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 61,
+      "enunciado": "Leia alguns dos versos da canção Passaredo, de Chico Buarque e Francis Hime.\nEi, pintassilgo\nOi, pintarroxo\nMelro, uirapuru\nAi, chega-e-vira\nEngole-vento\nSaíra, inhambu\nFoge, asa-branca\nVai, patativa\nTordo, tuju, tuim\nXô, tié-sangue\nXô, tié-fogo\nXô, rouxinol, sem-fim\nSome, coleiro\nAnda, trigueiro\nTe esconde, colibri\nVoa, macuco\nVoa, viúva\nUtiariti\nBico calado\nToma cuidado\nQue o homem vem aí\nO homem vem aí\nO homem vem aí\n(www.letras.mus.br)\nNesse trecho da canção, os autores citam 23 nomes populares, pelos quais essas aves são conhecidas. Contudo, no que se refere à classificação taxonômica, e considerando apenas as informações do trecho da canção, as aves citadas pertencem a",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Biologia – Taxonomia"
+      ]
+    },
+    {
+      "numeroEnunciado": 62,
+      "enunciado": "Cientistas identificam possível 'paciente zero' da peste bubônica, morto há 5 mil anos\nUm homem que morreu há mais de 5 mil anos foi enterrado com três outras pessoas em um cemitério neolítico na área em que hoje é a Letônia, às margens do rio Salac. Os pesquisadores sequenciaram o DNA dos ossos e dentes dos quatro indivíduos e os testaram para bactérias e vírus. Eles ficaram surpresos ao descobrir que um caçador-coletor – um homem na casa dos 20 anos foi infectado com uma antiga cepa do agente causador da peste bubônica.\n(www.folha.uol.com.br. Adaptado.)\nOs dados presentes no texto permitem supor que o caçador-coletor fora acometido por uma infecção",
+      "alternativas": [
+        {
+          "letra": "B",
+          "texto": "acteriana, adquirida por ingestão de alimentos ou água contaminados com fezes de animais infectados e que, atualmente, pode ser evitada por vacinação."
+        },
+        {
+          "letra": "B",
+          "texto": "acteriana, adquirida pela mordida de um roedor infectado ou pela picada de pulgas desse animal e que, atualmente, pode ser tratada com antibióticos."
+        },
+        {
+          "letra": "B",
+          "texto": "acteriana, adquirida pela inalação de bacilos em suspensão no ar circundante e que, atualmente, pode ser tratada com antibióticos e evitada com a vacinação."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Biologia – Doenças bacterianas",
+        "Biologia – Epidemiologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 63,
+      "enunciado": "Em um filme de ficção científica, um cientista resolveu criar animais que fossem metade \"espécie A\" e metade \"espécie B\". Por exemplo, um \"crocopato\", metade crocodilo e metade pato, ou um “chimpanfante\", metade chimpanzé e metade elefante. Cada um desses animais criados em laboratório seria uma quimera, um híbrido, um animal resultante da fusão de duas espécies diferentes. Nesse filme, o cientista tinha 20 espécies com as quais trabalhar, e seu objetivo era criar todas as quimeras possíveis a partir da combinação de duas espécies diferentes, ao ritmo de uma nova quimera por dia em todos os dias da semana.\nA figura ilustra uma das combinações que o cientista desejava obter: um \"tubavalo”, metade tubarão e metade cavalo.\n(www.megacurioso.com.br)\nNa vida real, ainda que com grandes limitações, os cientistas já são capazes de criar organismos que expressam características fenotípicas de interesse incorporadas de uma outra espécie, como bactérias que sintetizam a insulina humana.\nO tempo necessário que o cientista do filme levaria para produzir todas as suas combinações quiméricas e o nome da técnica que os cientistas da vida real utilizam para obter organismos com características genéticas de outras espécies são, respectivamente,",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Biologia – Genética",
+        "Biologia – Biotecnologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 64,
+      "enunciado": "Em um tubo de ensaio contendo apenas água destilada, um pesquisador colocou igual número de células íntegras de hemácias e de algas verdes unicelulares (clorofíceas). Após uma hora, o tubo foi centrifugado e o material precipitado foi recolhido com uma pipeta, gotejado sobre uma lâmina de vidro e observado ao microscópio óptico, no qual seria possível identificar a presença de células íntegras. Em seguida, a solução acima do precipitado foi recolhida e submetida à análise bioquímica para a possível identificação de moléculas de hemoglobina ou de clorofila.\nNesse experimento, ao microscópio, o pesquisador",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Biologia – Citologia",
+        "Biologia – Fisiologia vegetal",
+        "Biologia – Fisiologia animal"
+      ]
+    },
+    {
+      "numeroEnunciado": 65,
+      "enunciado": "As figuras 1, 2 e 3 apresentam, respectivamente, representantes de três espécies do gênero Equus: E. caballus, E. asinus e E. zebra.\nConsidere um casal de cada uma dessas espécies e o conjunto cromossômico de cada um desses animais. Sobre esses conjuntos cromossômicos afirma-se que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fêmea de cada espécie tem número diploide de cromossomos diferente do número diploide de cromossomos do macho da respectiva espécie, uma vez que as fêmeas têm dois cromossomos sexuais do tipo X."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Biologia – Genética",
+        "Biologia – Citogenética"
+      ]
+    },
+    {
+      "numeroEnunciado": 66,
+      "enunciado": "Em seu livro O Poder do Movimento nas Plantas, publicado em 1880, Darwin relata algumas de suas experiências sobre o tema, dentre elas aquela na qual plantou sementes de aveia e fez a luz incidir de diferentes direções sobre as plantas em crescimento. Observou que as plantas sempre se inclinavam na direção da luz, mesmo quando esta era tênue demais para ser percebida pelo olho humano. Criou pequenas tampas, escurecidas com tinta nanquim, e cobriu a parte superior dos coleóptilos, constatando que paravam de responder à luz. Ficava claro, concluiu ele, que, quando a luz atingia a extremidade da planta, estimulava essa parte a liberar algum tipo de \"mensageiro\" que, chegando às partes \"motoras\" da muda, fazia com que se contorcesse na direção da luz.\n(https://piaui.folha.uol.com.br. Adaptado.)\nAtualmente, sabemos que o \"mensageiro\" a que Darwin se referia é um hormônio vegetal denominado",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "uxina, que promove o alongamento das células dispostas na face não iluminada do caule."
+        },
+        {
+          "letra": "A",
+          "texto": "uxina, que inibe a multiplicação das células dispostas na face não iluminada do caule."
+        },
+        {
+          "letra": "A",
+          "texto": "uxina, que promove a multiplicação das células dispostas na face iluminada do caule."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Biologia – Fisiologia vegetal",
+        "Biologia – Hormônios vegetais"
+      ]
+    },
+    {
+      "numeroEnunciado": 67,
+      "enunciado": "Analise o esquema, que representa um mecanismo para o controle e manutenção da temperatura ambiente em um determinado cômodo de uma residência.\nO organismo humano possui mecanismos fisiológicos análogos ao representado no esquema, os quais mantêm a homeostase ou equilíbrio interno do corpo.\nDois exemplos de mecanismos fisiológicos que atuam de modo análogo ao representado no esquema são",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "determinação da intensidade e frequência das contrações uterinas durante o parto, e a produção de hormônios pela tireoide, sob controle hipotalâmico."
+        },
+        {
+          "letra": "A",
+          "texto": "determinação da intensidade e frequência das contrações uterinas durante o parto, e a concentração de dióxido de carbono no líquido extracelular."
+        },
+        {
+          "letra": "A",
+          "texto": "secreção de leite pelas glândulas mamárias, e o controle dos batimentos cardíacos e pressão sanguínea quando da perda excessiva de sangue por hemorragia."
+        },
+        {
+          "letra": "A",
+          "texto": "produção de hormônios pela tireoide, sob controle hipotalâmico, e o controle da quantidade de glicose no sangue."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Biologia – Fisiologia humana",
+        "Biologia – Homeostase"
+      ]
+    },
+    {
+      "numeroEnunciado": 68,
+      "enunciado": "Os heredogramas a seguir representam duas famílias, A e B.\nNa família A, os indivíduos representados por símbolos escuros apresentam daltonismo, uma característica genética de herança recessiva ligada ao sexo. Na família B, os símbolos escuros representam indivíduos portadores de acondroplasia, ou nanismo, uma característica genética de herança autossômica dominante.\nNão há histórico de ocorrência de daltonismo na família B, e não há histórico de ocorrência de acondroplasia na família A.\nSupondo que a mulher II-3 da família A venha a ter um bebê com o homem II-1 da família B, a probabilidade de a criança ser uma menina que não tenha daltonismo nem acondroplasia e a probabilidade de ser um menino que não tenha daltonismo nem acondroplasia são, respectivamente,",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Biologia – Genética",
+        "Biologia – Heredogramas",
+        "Biologia – Herança ligada ao sexo",
+        "Biologia – Herança autossômica"
+      ]
+    },
+    {
+      "numeroEnunciado": 69,
+      "enunciado": "Mineração oceânica\nA abundância de lítio na forma de íons nas águas dos oceanos é cerca de 5000 vezes maior do que na crosta terrestre, o que tem estimulado a mineração oceânica. No entanto, apesar de mais abundante nas águas dos mares do que na crosta terrestre, o lítio nos oceanos está presente em concentrações extremamente baixas, cerca de $0,2 \\text{ parte por milhão (ppm)}$. Íons maiores, como sódio, magnésio e potássio, estão presentes na água do mar em concentrações muito mais altas que a do íon $\\text{Li}^+$. Isso tem inviabilizado a extração de lítio dessa mistura, de forma técnica ou economicamente viável.\nEsse desafio acaba de ser vencido por uma equipe de pesquisadores da Arábia Saudita, que utilizam uma célula eletroquímica contendo uma membrana cerâmica porosa, que permite a passagem dos íons de lítio, mas bloqueia eficientemente os íons dos outros elementos citados.\n(www.inovacaotecnologica.com.br. Adaptado.)\nOrganizando em ordem crescente de tamanho os íons maiores do que o lítio, citados no texto, tem-se:",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Química – Tabela Periódica",
+        "Química – Propriedades Periódicas",
+        "Química – Química ambiental"
+      ]
+    },
+    {
+      "numeroEnunciado": 70,
+      "enunciado": "O carbeto de silício (SiC), também conhecido como carborundum, é amplamente utilizado como abrasivo em pedras de esmeril, em pedras de afiar facas e também em materiais refratários.\nEsse composto é obtido a partir de uma mistura de carvão com areia com alto teor de sílica, por meio de processo eletrotérmico envolvendo a reação global, com rendimento médio de 75%, representada a seguir.\n$$ \\text{SiO}_2 \\text{ (s, cristalino)} + 3\\text{C \\text{ (s, amorfo)}} \\rightarrow \\text{SiC \\text{ (s, cristalino)}} + 2\\text{CO \\text{ (g)}} $$\nCom base nessas informações, prevê-se que a massa de $\\text{SiC}$ obtida pela reação de $6,0 \\text{ t}$ de $\\text{SiO}_2$ com $3,6 \\text{ t}$ de $\\text{C}$ seja, aproximadamente,",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 71,
+      "enunciado": "Todas as soluções aquosas cujos solutos estão indicados nas alternativas são de mesma concentração em mol/L. A solução que deve apresentar menor temperatura de congelamento é a de",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Química – Propriedades coligativas",
+        "Química – Eletrólitos"
+      ]
+    },
+    {
+      "numeroEnunciado": 72,
+      "enunciado": "Certo spray antisséptico contém como princípio ativo o digliconato de clorexidina, na concentração de $10 \\text{ mg/mL}$. Sabendo que a massa molar desse princípio ativo é, aproximadamente, $5,0 \\times 10^2 \\text{ g/mol}$ e que a constante de Avogadro é igual a $6,0 \\times 10^{23} \\text{ mol}^{-1}$, o número de moléculas de digliconato de clorexidina presentes em um frasco contendo $50 \\text{ mL}$ desse antisséptico é",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Química – Estequiometria",
+        "Química – Concentração de soluções"
+      ]
+    },
+    {
+      "numeroEnunciado": 73,
+      "enunciado": "Otto Tachenius (c. 1620 – c. 1690), médico, farmacêutico, iatroquímico e alquimista alemão, dizia que tudo no Universo é constituído por dois \"princípios\", o ácido e o álcali. Em termos de \"ácido\" e \"álcali\", explicava uma série de fenômenos, alguns deles de forma ainda hoje consistente. Por exemplo:\n– A força dos ácidos varia, e os ácidos mais fortes deslocam os mais fracos de seus sais.\n(Juergen Heinrich Maar. Pequena história da química, 1999. Adaptado.)\nUm exemplo atual dessa concepção de Tachenius encontra-se na mistura entre soluções aquosas de",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Química – Reações ácido-base"
+      ]
+    },
+    {
+      "numeroEnunciado": 74,
+      "enunciado": "O equilíbrio químico representado a seguir se estabelece durante o processo de reforma do gás natural para produção de hidrogênio.\n$$ \\text{CH}_4 \\text{ (g)} + \\text{H}_2\\text{O \\text{ (g)}} \\rightleftharpoons \\text{CO \\text{ (g)}} + 3\\text{H}_2 \\text{ (g)} ; $$\n$$ \\Delta\\text{H} = + 52,4 \\text{ kcal/mol de CH}_4 $$\nConsidere os seguintes procedimentos:\n1. Aumento de pressão.\n2. Aumento de temperatura.\n3. Adição de catalisador.\n4. Remoção de monóxido de carbono.\nEntre esses procedimentos, os que propiciam o aumento do rendimento de produção de hidrogênio no equilíbrio são",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Química – Equilíbrio químico",
+        "Química – Princípio de Le Chatelier"
+      ]
+    },
+    {
+      "numeroEnunciado": 75,
+      "enunciado": "Os compostos responsáveis pelo aroma característico de muitas frutas maduras são formados a partir de aminoácidos ramificados, como a leucina. Esse caminho inicia-se pela perda de substituintes típicos de aminoácidos, em reações em etapas, catalisadas por enzimas, onde ocorrem desaminação ($\\text{-NH}_2$), descarboxilação ($\\text{–CO}_2$) e oxidação ($\\text{+[O]}$), formando um aldeído. Esse aldeído, dependendo da transformação que sofre, pode originar um composto com o aroma característico da banana ou um composto com o aroma característico da maçã.\nO esquema mostra esse conjunto de transformações.\nOs compostos X e Y são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "tanol e metano."
+        },
+        {
+          "letra": "E",
+          "texto": "tanal e ácido acético."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Química – Química orgânica",
+        "Química – Reações orgânicas",
+        "Química – Funções orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 76,
+      "enunciado": "Durante uma aula de geometria, uma professora improvisa utilizando um pedaço de barbante como um compasso. A figura mostra um arco de circunferência traçado por ela em $3 \\text{ s}$, movendo sua caneta com velocidade escalar constante sobre uma superfície plana e mantendo, sempre, o barbante esticado.\nSendo $v_A$ e $v_B$ as velocidades escalares dos pontos A e B do barbante, adotando $\\pi = 3$ e considerando as informações da figura e do texto, o valor da diferença $v_A - v_B$ é",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Física – Cinemática",
+        "Física – Movimento circular"
+      ]
+    },
+    {
+      "numeroEnunciado": 77,
+      "enunciado": "A imagem mostra o exoplaneta 2M1207b em órbita ao redor de sua estrela 2M1207 na constelação de Centauro, distantes $40 \\text{ UA}$ um do outro. Esse é o primeiro exoplaneta do qual se obteve uma imagem direta. Em comparação com objetos do sistema solar, sabe-se que esse exoplaneta tem uma massa correspondente a 5 vezes a massa do planeta Júpiter e que sua estrela tem massa igual a 0,025 vezes a massa do Sol.\nConsidere os seguintes dados:\nMassa do Sol: $2 \\times 10^{30} \\text{ kg}$\nMassa de Júpiter: $2 \\times 10^{27} \\text{ kg}$\n$1 \\text{ UA}: 1,5 \\times 10^{11} \\text{ m}$\n$\\text{G = constante universal da gravitação} = 6 \\times 10^{-11} \\frac{\\text{N} \\cdot \\text{m}^2}{\\text{kg}^2}$\nA intensidade da força de atração gravitacional entre o exoplaneta 2M1207b e sua estrela é de, aproximadamente,",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Física – Gravitação",
+        "Física – Lei da Gravitação Universal"
+      ]
+    },
+    {
+      "numeroEnunciado": 78,
+      "enunciado": "Dois amigos reuniram-se para empurrar um veículo de massa M, em linha reta, a partir do repouso, sobre uma superfície plana e horizontal. Entre as posições inicial e final, atuou sobre o veículo uma força resultante ($\\text{F}_R$) que variou em função do tempo, em dois intervalos $\\text{T}_1$ e $\\text{T}_2$, conforme o gráfico.\nNo final do intervalo de tempo $\\text{T}_1 + \\text{T}_2$, a velocidade escalar adquirida pelo veículo foi de:",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Física – Dinâmica",
+        "Física – Impulso e Quantidade de Movimento",
+        "Física – Gráficos de força versus tempo"
+      ]
+    },
+    {
+      "numeroEnunciado": 79,
+      "enunciado": "Em um experimento de calorimetria realizado no nível do mar, um estudante colocou $600 \\text{ g}$ de água a $10 \\text{ °C}$ e $100 \\text{ g}$ de gelo a $\\text{-40 °C}$ em um calorímetro ideal, onde já existiam $800 \\text{ g}$ de água a $5 \\text{°C}$, em equilíbrio térmico com o calorímetro.\nSabendo que o calor específico da água líquida é $1 \\text{ cal/}(\\text{g}\\text{°C})$, que o calor específico do gelo é $0,5 \\text{ cal/}(\\text{g}\\text{°C})$ e que o calor latente de fusão do gelo é $80 \\text{ cal/g}$, depois de atingido o novo equilíbrio térmico havia, dentro do calorímetro,",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Física – Termodinâmica",
+        "Física – Calorimetria",
+        "Física – Calor latente",
+        "Física – Calor específico"
+      ]
+    },
+    {
+      "numeroEnunciado": 80,
+      "enunciado": "Uma garota pegou um espelho esférico côncavo de maquiagem, apontou-o para o Sol e percebeu que uma imagem real desse astro se formou a $40 \\text{ cm}$ do espelho.\nEm seguida, fez-se a pergunta:\n— Se, com esse espelho, eu quiser ver uma imagem do meu rosto com duas vezes seu tamanho real e não invertida, a que distância do espelho devo me posicionar?\nDepois de efetuar alguns cálculos, a garota acertará a resposta à sua pergunta se encontrar",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Física – Óptica geométrica",
+        "Física – Espelhos esféricos",
+        "Física – Equação dos pontos conjugados"
+      ]
+    },
+    {
+      "numeroEnunciado": 81,
+      "enunciado": "Nossos olhos percebem, apenas, uma pequena faixa do espectro eletromagnético, chamada de luz visível. Outras faixas dessa radiação podem ser detectadas por instrumentos específicos. No espaço extraterrestre, partículas de alta energia produzidas em todo o universo se propagam e, normalmente, são bloqueadas por campos magnéticos. Porém, como a Lua não possui campo magnético, essas partículas atingem a superfície lunar, interagem com a matéria e produzem raios gama como resultado, que podem ser detectados na Terra. A figura da esquerda mostra uma imagem da Lua obtida na faixa da luz visível e, a da direita, obtida na faixa dos raios gama.\nComparando os raios de luz visível com os raios gama, é correto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "omo todas as ondas eletromagnéticas, ambos só podem se propagar pelo vácuo, e com velocidades iguais."
+        },
+        {
+          "letra": "A",
+          "texto": "pesar de terem frequências e comprimentos de onda diferentes, ambos se propagam pelo vácuo com velocidades iguais."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Física – Ondas eletromagnéticas",
+        "Física – Espectro eletromagnético"
+      ]
+    },
+    {
+      "numeroEnunciado": 82,
+      "enunciado": "Uma pessoa comprou um chuveiro eletrônico e, lendo o manual de instruções do aparelho, encontrou as seguintes informações:\nPotência: $7000 \\text{ W}$\nConsumo mensal de energia: $42 \\text{ kWh}$\nTensão: $220 \\text{ V}$\nApós alguns cálculos, essa pessoa concluiu que o autor do manual considerou que os usuários desse chuveiro tomariam, em um mês de $30 \\text{ dias}$, banhos que, em um dia, teriam duração, em média, de",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Física – Eletrodinâmica",
+        "Física – Potência elétrica",
+        "Física – Consumo de energia elétrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 83,
+      "enunciado": "Observe as medidas indicadas em um mapa do Parque Ibirapuera, região plana da cidade de São Paulo.\nDe acordo com o mapa, uma caminhada em linha reta do Museu Afro Brasil (P) até o Museu de Arte Moderna de São Paulo (Q) corresponde a",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Matemática – Geometria",
+        "Matemática – Escala",
+        "Matemática – Teorema de Pitágoras"
+      ]
+    },
+    {
+      "numeroEnunciado": 84,
+      "enunciado": "Um experimento vai avaliar a memória de um grupo de dez crianças de 12 anos em relação à capacidade de retenção de palavras, figuras e números. Durante 30 segundos, cada criança recebe a mesma lista de dez palavras e, em seguida, tem 60 segundos para escrever as palavras que lembra ter visto. O mesmo se repete com uma lista de dez figuras e, em seguida, com uma lista de dez números naturais aleatórios de 1 a 100. A tabela indica o resultado desse experimento.\nDe acordo com os resultados do experimento,",
+      "alternativas": null,
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Matemática – Estatística",
+        "Matemática – Média",
+        "Matemática – Mediana"
+      ]
+    },
+    {
+      "numeroEnunciado": 85,
+      "enunciado": "A expansão global da internet tem sido possível em virtude do barateamento dos eletrônicos portáteis e das baterias de alta capacidade que os alimentam. O gráfico indica a vertiginosa queda no preço médio das baterias de íons de lítio desde sua introdução, nos anos 90, até 2020. O modelo exponencial $y = 15649 \\cdot e^{-0,687x}$, com valores de x e y indicados nos eixos do gráfico, prevê razoavelmente bem a relação entre essas variáveis.\nAdotando nos cálculos $e^{5,053} = 156,49$ e $e^{0,443} = 1,56$, o modelo exponencial utilizado prevê que, em 2025, o preço por kWh das baterias de íons de lítio será de, aproximadamente,",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Matemática – Funções exponenciais",
+        "Matemática – Interpretação de gráficos"
+      ]
+    },
+    {
+      "numeroEnunciado": 86,
+      "enunciado": "A soma de dois números reais x e y é maior ou igual a 10. A diferença entre eles, em qualquer ordem, é menor do que 4. A representação do conjunto solução dessas desigualdades no plano cartesiano de eixos ortogonais é:",
+      "alternativas": null,
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Matemática – Inequações",
+        "Matemática – Sistemas de inequações",
+        "Matemática – Geometria analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 87,
+      "enunciado": "Sob certas condições ideais, o período y de oscilação do pêndulo de um guindaste de demolição, em segundos, é dado em função do comprimento x do cabo de aço, em metros, pela fórmula $y = k\\sqrt{x}$, com k sendo um número real. Essa função está representada no gráfico a seguir.\nConsiderando condições ideais, o período de oscilação do pêndulo do guindaste, quando o comprimento do cabo de aço está regulado em $28 \\text{ m}$, é de",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Matemática – Funções",
+        "Matemática – Interpretação de gráficos",
+        "Física – Movimento harmônico simples"
+      ]
+    },
+    {
+      "numeroEnunciado": 88,
+      "enunciado": "Analise a tabela, que indica os resultados de um estudo para avaliação da relação entre o peso e a pressão arterial de um grupo de indivíduos.\nRenato fez parte desse estudo e sabe que está com excesso de peso. Ao ver a tabela com o resultado do estudo, calculou corretamente que a probabilidade da aferição da sua pressão arterial ter indicado valores elevados é de",
+      "alternativas": null,
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Matemática – Probabilidade",
+        "Matemática – Leitura de tabelas"
+      ]
+    },
+    {
+      "numeroEnunciado": 89,
+      "enunciado": "A figura indica o projeto de uma escultura maciça em forma de pirâmide de vértice V, base ABCDEFGH e altura VH, que será feita com espuma expansiva rígida de poliuretano. Sabe-se que AHGF é um quadrado de área igual a $3 \\text{ m}^2$, BCDE é um retângulo, com $\\text{BC} = 3 \\text{ m}$ e $\\text{CD} = 4$, e que o ângulo HGV mede $60\\text{°}$.\nSabendo que $1 \\text{ m}^3$ corresponde a $1000 \\text{ litros}$ e que o custo da quantidade de espuma de poliuretano necessária para ocupar a capacidade de $1 \\text{ litro}$ é de $\\text{R}\\$ $5,00$, para fazer por completo essa escultura, desconsiderando desperdícios, o valor gasto com espuma será de",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Matemática – Geometria espacial",
+        "Matemática – Volume de pirâmides"
+      ]
+    },
+    {
+      "numeroEnunciado": 90,
+      "enunciado": "Os computadores utilizam a representação binária no lugar dos números naturais do nosso sistema de numeração. Na escrita numérica binária, são utilizados apenas dois algarismos, o 0 e o 1, para escrever de forma única qualquer número natural do nosso sistema decimal. A conversão dos números naturais 0, 1, 2, 3, 9, 14 e 102 do sistema numérico decimal para seus correspondentes no sistema numérico binário, que são 0, 1, 10, 11, 1001, 1110 e 1100110, respectivamente, está representada a seguir.\nSistema Decimal\n$0 = 0 \\cdot 10^0$\n$1 = 1 \\cdot 10^0$\n$2 = 2 \\cdot 10^0$\n$3 = 3 \\cdot 10^0$\n$9 = 9 \\cdot 10^0$\n$14 = 1 \\cdot 10^1 + 4 \\cdot 10^0$\n$102 = 1 \\cdot 10^2 + 0 \\cdot 10^1 + 2 \\cdot 10^0$\nSistema Binário\n$0 = 0 \\cdot 2^0$\n$1 = 1 \\cdot 2^0$\n$10 = 1 \\cdot 2^1 + 0 \\cdot 2^0$\n$11 = 1 \\cdot 2^1 + 1 \\cdot 2^0$\n$1001 = 1 \\cdot 2^3 + 0 \\cdot 2^2 + 0 \\cdot 2^1 + 1 \\cdot 2^0$\n$1110 = 1 \\cdot 2^3 + 1 \\cdot 2^2 + 1 \\cdot 2^1 + 0 \\cdot 2^0$\n$1100110 = 1 \\cdot 2^6 + 1 \\cdot 2^5 + 0 \\cdot 2^4 + 0 \\cdot 2^3 + 1 \\cdot 2^2 + 1 \\cdot 2^1 + 0 \\cdot 2^0$\nConvertendo o ano em que estamos, 2021, do sistema decimal para o binário, encontraremos um número cujo total de algarismos iguais a 1 supera o de algarismos iguais a 0 em",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "inco."
+        },
+        {
+          "letra": "D",
+          "texto": "ois."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Matemática – Sistemas de numeração",
+        "Matemática – Conversão de bases numéricas"
+      ]
+    }
+  ]
+}

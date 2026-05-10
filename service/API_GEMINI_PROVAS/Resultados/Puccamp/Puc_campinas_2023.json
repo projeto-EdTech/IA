@@ -1,0 +1,664 @@
+{
+  "nomeUniversidade": "Pontifícia Universidade Católica de Campinas",
+  "siglaUniversidade": "PUC-Campinas",
+  "nomeProva": "Processo Seletivo - Vestibular 1º Semestre de 2023",
+  "ano": 2022,
+  "qtdeQuestoes": 40,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Atenção: Para responder às questões de números 1 a 4, considere o texto abaixo.\n\nOrigens do mal\n\nA mente é um livro-caixa, com entradas e saídas: atrás de cada sofrimento, estranheza ou malvadez, deve haver alguma ofensa passada. Nossos sintomas e nossas aberrações seriam compensações ou retribuições: os que foram ofendidos sofrem da reminiscência da injúria passada, e os que passaram por abusos violentos atuam com a crueldade da qual já foram vítimas.\n\nOra, de tudo o que aprendi na minha formação clínica de psicanalista, há uma regra que se verifica sempre: nossos males são efeitos de nossas interpretações (mais ou menos capengas) do que os outros fizeram conosco. Não são consequências diretas das ações dos outros.\n\nPor isso é possível mudar. Por isso o passado não constitui propriamente um destino – porque nunca somos apenas o efeito dos abusos sofridos. Em alguma medida, sempre decidimos o sentido e o alcance que atribuímos à violência da qual fomos vítimas. Somos, portanto, os artesãos de nossas reações: escolhemos a vingança violenta contra o mundo ou uma vida consagrada a lamber nossas feridas. Ou, ainda, a coragem de ir em frente.\n\nEm matéria de psicologia clínica, vale um ditado que ouvi pouco tempo atrás, no norte rural do estado de Nova York. Diz assim: “Não há como arregaçar as mangas se você continua apontando seus dedos aos outros para culpá-los\".\n\n(Adaptado de CALLIGARIS, Contardo. Terra de ninguém. São Paulo: Publifolha, 2004, p. 238-239)\n\nA origem dos nossos males, segundo o autor do texto, está",
+      "alternativas": {
+        "A": "na incompreensão dos outros, de que tantas vezes somos vítimas sem nos darmos conta disso.",
+        "B": "no culto que dedicamos ao nosso passado, aos sofrimentos reativados por teimosas lembranças.",
+        "C": "na forma como elaboramos a ação dos outros sobre nós, ação esta frequentemente mal interpretada.",
+        "D": "na impossibilidade de compensarmos de algum modo os males que os outros perpetram contra nós.",
+        "E": "no hábito de culparmos inteiramente os outros pelos sofrimentos que nos impusemos a nós mesmos."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Ao afirmar, no terceiro parágrafo do texto, que Somos, portanto, os artesãos de nossas reações, o autor do texto",
+      "alternativas": {
+        "A": "encarece a possibilidade de fazermos as escolhas que determinarão nosso futuro.",
+        "B": "considera a possibilidade de acusarmos a nós mesmos tanto quanto acusamos os outros.",
+        "C": "lembra que o nosso destino está fatalmente enraizado nos nossos feitos passados.",
+        "D": "julga que parte dos nossos atos deve ser vista como de nossa inteira responsabilidade.",
+        "E": "adverte que não há como nos dispormos a agir sem contar com a incógnita do futuro."
+      },
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Considerando-se o contexto, traduz-se adequadamente o sentido de um segmento do texto em:",
+      "alternativas": {
+        "A": "deve haver alguma ofensa passada (1º parágrafo) = inclui-se algum mal superado",
+        "B": "sofrem da reminiscência da injúria (1º parágrafo) = amargam a recordação da afronta",
+        "C": "Não são consequências diretas (2º parágrafo) = não representam causas imediatas",
+        "D": "não constitui propriamente um destino (3º parágrafo) = não é próprio da nossa decisão",
+        "E": "consagrada a lamber nossas feridas (3º parágrafo) = destinada a nos martirizar"
+      },
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "As normas de concordância verbal estão plenamente observadas na frase:",
+      "alternativas": {
+        "A": "Não cabem aos que não arregaçam as mangas apontar seus dedos para os outros.",
+        "B": "Costumam ser de grande valia quaisquer interpretações que se faça com critério.",
+        "C": "Não se devem aos nossos defeitos do passado a má orientação que damos ao presente.",
+        "D": "Situam-se entre a vingança violenta ou confiança no futuro nossa escolha essencial.",
+        "E": "O que constitui os artesãos das próprias reações é a confiança no futuro que criam."
+      },
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Concordância Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Atenção: Para responder às questões de números 5 a 8, considere o texto abaixo.\n\nDudu\n\nSaio a passeio com meu pai ao longo da rua Direita. A manhã traja domingo. De repente, numa travessa deserta, topamos com o mendigo Dudu que procura desvencilhar-se de três meninões: rodeiam-no, vaiam-no, aplicam-lhe cacholetas*.\n\nMeu pai liberta o pobrecito e adverte os agressores: – Nunca mais repitam isso, seus calhordas. Tratem de respeitar o próximo, estão ouvindo? Este homem, como qualquer outro, foi criado à imagem de Deus. Homens do tipo Dudu são da mesma raça de Dante, Spinoza, Beethoven.\n\nO destino e a sociedade reduziram Dudu ao estado vegetoanimal. Não chega a ser um corpo, não chega a ser uma fisionomia; é um resto de pessoa, um resto de roupa, um resto de nome. Ninguém sabe ao certo onde nasceu e de onde vem. Há muitos anos frequenta as ruas da cidade, mas não se sabe onde mora, se mora.\n\nUma vez vi Dudu apanhar do chão uma formiga, deixá-la caminhar tonta no seu braço esquerdo; vi Dudu rir, prestar atenção a alguma coisa que não fosse um vintém. Finalmente uma companhia, além da poeira e das moscas. Outra manhã vi uma borboleta pousar-lhe na cabeça. Foi seu milésimo de glória, o toque mágico da coroa, a visitação do inefável.\n\n*Cacholeta = coque, pancada na cabeça.\n\n(Adaptado de: MENDES, Murilo. A idade do serrote. Rio de Janeiro: Sabiá, 1968, p. 32-33)\n\nEm contraste com o estado vegetoanimal com que o autor criativamente expressa sua visão de Dudu, atua esta outra expressão:",
+      "alternativas": {
+        "A": "Não chega ser um corpo.",
+        "B": "é um resto de pessoa.",
+        "C": "o toque mágico da coroa.",
+        "D": "além da poeira e das moscas.",
+        "E": "O destino e a sociedade reduziram Dudu."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "É adequado o emprego do elemento sublinhado na frase:",
+      "alternativas": {
+        "A": "A figura do mendigo à quem logo reconhecemos era o Dudu.",
+        "B": "A proteção de Dudu, da qual meu pai empenhou-se, surtiu rápido efeito.",
+        "C": "O pouso da borboleta, de cuja assemelhava um coroamento, emocionou o menino.",
+        "D": "Apenas por alguma moedinha de vintém Dudu sentia atração.",
+        "E": "Nem mesmo de uma vaga figura humana a imagem de Dudu se assemelhava."
+      },
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Regência Nominal e Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Meu pai libertou Dudu e advertiu os agressores: - Nunca mais façam isso, tratem de respeitar o próximo, este homem é como qualquer outro.\n\nUma vez transposto para o discurso indireto, o texto acima deverá ficar:\n\nMeu pai libertou Dudu e advertiu os agressores",
+      "alternativas": {
+        "A": "para que nunca mais fizessem isso, que tratem de respeitar o próximo, uma vez que esse homem seria como qualquer outro.",
+        "B": "que nunca mais fizessem aquilo, que tratassem de respeitar o próximo, que aquele homem era como qualquer outro.",
+        "C": "de que nunca mais façam isso, para tratarem de respeitar o próximo, sendo este homem como qualquer outro.",
+        "D": "para não fazerem mais isso, para tratar de se respeitar o próximo, era um homem como qualquer outro.",
+        "E": "a fim que não venham a fazer mais isto, que tratem de respeitar o próximo, fosse aquele homem como qualquer outro."
+      },
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Discurso Indireto"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "A construção da frase vi Dudu rir, prestar atenção a alguma coisa que não fosse um vintém equivale a afirmar que",
+      "alternativas": {
+        "A": "pouca atenção dava Dudu a vinténs, quando ria.",
+        "B": "Dudu negava-se a rir, se não fosse diante de um vintém.",
+        "C": "riu um Dudu que só se deixava atrair por algum vintém.",
+        "D": "com a atenção diante de um vintém, Dudu não costumava rir.",
+        "E": "nem mesmo um vintém provocava o riso e a atenção de Dudu."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Ficcionistas importantes do século XIX, o romântico José de Alencar e o realista Machado de Assis, apesar das diferenças de perspectiva histórica e de estilo, tiveram em comum a iniciativa de",
+      "alternativas": {
+        "A": "exaltar, idealizando-os, os valores próprios das diferentes culturas indígenas.",
+        "B": "adotar o tom de um radical nacionalismo em seus contos e romances.",
+        "C": "recuperar pelo esmero da linguagem a retórica do período neoclássico.",
+        "D": "focalizar usos e costumes da vida social urbana ao tempo do Império.",
+        "E": "sedimentar sua produção em prosa nas teses republicanas e abolicionistas."
+      },
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "São versos do poema \"Poética\", de Manuel Bandeira:\n\nTodas as palavras sobretudo os barbarismos universais.\nTodas as construções sobretudo as sintaxes de exceção.\nTodos os ritmos sobretudo os inumeráveis.\n\nNesses versos o poeta declara",
+      "alternativas": {
+        "A": "as posições de um artista simbolista, no livro Cinza das horas.",
+        "B": "as convicções libertárias de uma linguagem tipicamente modernista.",
+        "C": "a desesperança melancólica que dá o tom aos poemas de Carnaval.",
+        "D": "os anseios típicos de um escritor voltado para a vanguarda dos anos 50.",
+        "E": "o compromisso com a arte da prosa prestigiada pela geração de 45."
+      },
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Graciliano não compôs um ciclo romanesco, um todo fechado, mas uma série de romances cuja descontinuidade é sintoma de um espírito pronto à indagação, à fratura, ao problema.\n\nA ponderação acima é do crítico Alfredo Bosi e diz respeito, falando da obra de Graciliano Ramos, sobretudo pensando em Caetés, Angústia e Vidas secas,",
+      "alternativas": {
+        "A": "à frequência com que o autor sistematicamente se apoia no regime confessional da primeira pessoa.",
+        "B": "à primazia da dicção poética em romances cujo tom básico está no dilema entre razão e sentimentalismo.",
+        "C": "à diversidade dos gêneros frequentados, que vão da linguagem épica ao lirismo criativo dos modernistas.",
+        "D": "às múltiplas influências que o autor recebeu tanto dos autores de estilo realista como dos ficcionistas românticos.",
+        "E": "à variedade dos pontos de vista narrativos e das questões básicas em que se enredam bem distintas personagens."
+      },
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Atente para este poema de Ferreira Gullar, escrito em meados da década de 1960:\n\nMadrugada\n\nDo fundo de meu quarto, do fundo\nde meu corpo\nclandestino\nouço (não vejo)\ncrescer no osso da noite e no músculo da noite\na noite\n\na noite ocidental obscenamente acesa\nsobre meu país dividido em classes\n\nConvivem e confrontam-se nesse poema duas forças características da poesia de Gullar:",
+      "alternativas": {
+        "A": "o saudosismo e a desesperança sem consolo.",
+        "B": "o humor e a incitação à luta social.",
+        "C": "os polos da subjetividade e da política.",
+        "D": "o biografismo e a alta metafísica.",
+        "E": "as forças do amor e da vã resistência."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Atenção: Para responder às questões de números 13 e 14, considere o texto abaixo.\n\nHistorical heritage, Ipiranga Museum reopens on September 6th\n21/08/2022\nBy Flávia Albuquerque - Repórter da Agência Brasil\n\nThe Minister of Tourism, Carlos Brito, paid a technical visit to the restoration and modernization works at the Ipiranga Museum, in São Paulo (SP). Closed since 2013, the monument-building, which is listed as a Municipal, State and Federal Historic Heritage, will reopen to the public next month, as part of the celebrations of the Bicentennial of the Independence of Brazil.\n\nBuilt between 1885 and 1890, the Ipiranga Museum is located within the Parque Independência complex, in the south of the city of São Paulo. Originally conceived as a monument to Independence, it was declared the seat of the State Museum in 1895 and, since 1963, it has been administered by the University of São Paulo.\n\nAfter the renovation is completed, the museum will have two large entrances, a ticket office, an auditorium for 200 people, an educational space, a café, a shop and a temporary exhibition room. As a result, the total built-up area will double what it had previously and will offer full accessibility via elevators and escalators and a new air conditioning system.\n\nAccording to the minister, with the Ipiranga Museum, tourism in the region will be stronger and stronger. The number of visitors to the museum is estimated to \\(I\\) from 300,000 a year to 1 million.\n\n\"Not only in the region, but in Brazil because a heritage like this increasingly strengthens our culture. We are going to make this heritage an incentive to bring new tourists to Brazil and São Paulo,\" stated Brito.\n\n(Adapted from https://agenciabrasil.ebc.com.br)\n\nA alternativa que preenche corretamente a lacuna \\(I\\) é",
+      "alternativas": {
+        "A": "rise",
+        "B": "raise",
+        "C": "rose",
+        "D": "raised",
+        "E": "risen"
+      },
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Inglês – Gramática"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "De acordo com o texto, o Museu do Ipiranga",
+      "alternativas": {
+        "A": "tornou-se museu em 1895, passando, em seguida, por várias instâncias administrativas até que a Universidade de São Paulo assumiu sua direção em 2013.",
+        "B": "foi inicialmente concebido como um museu sobre a história da Independência do Brasil.",
+        "C": "teve sua reforma retardada por falta de verbas dos governos municipal, estadual e federal.",
+        "D": "teve sua área duplicada com a construção de um edifício para abrigar eventos, um espaço educativo e um restaurante.",
+        "E": "é um patrimônio histórico que reforça nossa cultura, devendo servir de incentivo para atrair turistas de todo o Brasil, assim como do estrangeiro."
+      },
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Atenção: Para responder às questões de números 15 e 16, considere o texto abaixo.\n\nMongabay Series: Agroecology\nBad weather knocks down Brazil's grain production as 'exhaustively forewarned'\nby Shanna Hanbury on 17 August 2022\n\nWhen Brazilian farmer Hamilton Guterres Jardim realized the latest drought had wiped out two-thirds of his soy crop, he felt emotionally and financially shaken up, he told the reporter. As a resident of Palmeira das Missões, a rural town in Brazil's southernmost state of Rio Grande do Sul, and a director of the state agricultural federation, Farsul, Jardim also witnessed the upheaval of hundreds of other lives due to the lack of rain.\n\nSmallholder dairy farmers' pastures dried up, he said; many sold their land and livestock and moved to impoverished urban peripheries. Medium-sized producers without insurance were forced to take onerous loans to fund the next harvest, and many of them haven't been able to pay off past debts.\n\nOver the last two harvests, soy and corn, which together account for 88% of Brazil's national grain production, came in 47 million metric tons below expected production due to adverse weather conditions, according to ministry of agriculture data.\n\nJardim's state, an agriculture stronghold that saw record-high temperatures last year, was hit the hardest: the latest estimate from the National Supply Company, a unit of the agriculture ministry, is that Rio Grande do Sul lost 56% of its soy harvest in 2021.\n\n\"This was exhaustively forewarned,” Eduardo Assad, from the Brazilian Agricultural Research Corporation (Embrapa), another government agency affiliated with the agriculture ministry, told the reporter by phone. Assad first raised the alarm 15 years ago after running a series of climate change models, and has warned the agribusiness sector about increasing crop risk ever since.\n\n\"The recommended adaptation measures, especially soil management, were not done. The only outcome is crop losses. We can't make miracles,\" Assad said.\n\n(Adapted from https://news.mongabay.com)\n\nSegundo o texto,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "seca atingiu pequenos e médios produtores em todo o sul do país, principalmente os de soja."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Atenção: Para responder às questões de números 15 e 16, considere o texto abaixo.\n\nMongabay Series: Agroecology\nBad weather knocks down Brazil's grain production as 'exhaustively forewarned'\nby Shanna Hanbury on 17 August 2022\n\nWhen Brazilian farmer Hamilton Guterres Jardim realized the latest drought had wiped out two-thirds of his soy crop, he felt emotionally and financially shaken up, he told the reporter. As a resident of Palmeira das Missões, a rural town in Brazil's southernmost state of Rio Grande do Sul, and a director of the state agricultural federation, Farsul, Jardim also witnessed the upheaval of hundreds of other lives due to the lack of rain.\n\nSmallholder dairy farmers' pastures dried up, he said; many sold their land and livestock and moved to impoverished urban peripheries. Medium-sized producers without insurance were forced to take onerous loans to fund the next harvest, and many of them haven't been able to pay off past debts.\n\nOver the last two harvests, soy and corn, which together account for 88% of Brazil's national grain production, came in 47 million metric tons below expected production due to adverse weather conditions, according to ministry of agriculture data.\n\nJardim's state, an agriculture stronghold that saw record-high temperatures last year, was hit the hardest: the latest estimate from the National Supply Company, a unit of the agriculture ministry, is that Rio Grande do Sul lost 56% of its soy harvest in 2021.\n\n\"This was exhaustively forewarned,” Eduardo Assad, from the Brazilian Agricultural Research Corporation (Embrapa), another government agency affiliated with the agriculture ministry, told the reporter by phone. Assad first raised the alarm 15 years ago after running a series of climate change models, and has warned the agribusiness sector about increasing crop risk ever since.\n\n\"The recommended adaptation measures, especially soil management, were not done. The only outcome is crop losses. We can't make miracles,\" Assad said.\n\n(Adapted from https://news.mongabay.com)\n\nDe acordo com o texto,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ssad alarmou-se, há 15 anos, ao entrar em contato com modelos computacionais sobre mudanças climáticas."
+        },
+        {
+          "letra": "C",
+          "texto": "entenas de agricultores se rebelaram contra Jardim devido à falta de apoio da Farsul durante a seca."
+        },
+        {
+          "letra": "A",
+          "texto": "Embrapa vem recomendando e implementando medidas de manejo do solo para evitar novas quebras de safra no sul do país."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Durante o longo período do Regime Militar, ocorreram alguns eventos com impacto midiático e de grande participação popular em protesto contra o autoritarismo, a exemplo",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "a passeata da Frente Ampla da MPB, que reuniu milhares de artistas, em São Paulo."
+        },
+        {
+          "letra": "D",
+          "texto": "o funeral do estudante secundarista Edson Luís, em Belo Horizonte."
+        },
+        {
+          "letra": "D",
+          "texto": "o Comício da Central do Brasil, no Rio de Janeiro."
+        },
+        {
+          "letra": "D",
+          "texto": "o culto ecumênico em memória de Vladimir Herzog, na Catedral da Sé."
+        },
+        {
+          "letra": "D",
+          "texto": "a Marcha da Família com Deus pela Liberdade, no Rio de Janeiro."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "História – Regime Militar no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Os processos de unificação da Itália e da Alemanha no século XIX são, em geral, abordados conjuntamente pela historiografia por apresentarem alguns elementos comuns, tais como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fragmentação de seus territórios, incluindo diferenças culturais e políticas internas, além de fortes tensões com a Áustria, que impôs resistência a esses processos."
+        },
+        {
+          "letra": "A",
+          "texto": "ampla participação do exército prussiano nos dois casos, somada à emergência de líderes que defendiam a implementação de Confederações, como Bismarck, na Alemanha, e Garibaldi, na Itália."
+        },
+        {
+          "letra": "A",
+          "texto": "ocorrência de guerras civis estimuladas por setores da burguesia emergente, influenciados pela recente Revolução Francesa, em oposição à monarquia, à nobreza e ao Antigo Regime."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "História – Unificações Italiana e Alemã"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "O Renascimento cultural surtiu um grande impacto na Europa ao expressar",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "crença de que o conhecimento científico deveria ser universal e disseminado por meio do enciclopedismo, a fim de propiciar democraticamente o acesso ao progresso e o mesmo nível de civilização a todos os povos e raças."
+        },
+        {
+          "letra": "A",
+          "texto": "recusa a práticas originárias na Idade Média como o mecenato, que cerceava a criatividade e o criticismo dos artistas contratados por autoridades ou senhores abastados."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "História – Renascimento Cultural"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Atenção: Para responder às questões de números 20 e 21, considere o texto abaixo.\n\nA partir da década de 1950, os Estados Unidos e a ONU incentivaram a implantação de mudanças na estrutura fundiária e nas técnicas agrícolas em vários dos então chamados países subdesenvolvidos, muitos dos quais ex-colônias recém-independentes. [...] O Conjunto de mudanças técnicas na produção agropecuária – proposta aos países pobres para resolver o problema da fome – ficou conhecido por Revolução Verde. [...]\n\nEntretanto, a proposta era a adoção do mesmo padrão de cultivo em todas as regiões onde se implantou a Revolução Verde, desconsiderando a variação das condições naturais, das necessidades e possibilidades dos agricultores. Assim, a médio prazo e a longo prazo, essas inovações causaram impactos socioeconômicos e ambientais muito graves.\n\n(Adaptado de: SENE, Eustaquio de e MOREIRA, João Carlos. Geografia geral e do Brasil: espaço geográfico e globalização. São Paulo: Scipione, 2012, p. 649)\n\nA Comissão Econômica para a América Latina e o Caribe, criada pela ONU em 1948, tinha entre seus objetivos pensar soluções para os problemas impostos pelo subdesenvolvimento nos países da região. Esse propósito harmonizava-se aos interesses econômicos dos Estados Unidos na América Latina, nesse momento,",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Geografia – Geopolítica",
+        "História – Guerra Fria"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Atenção: Para responder às questões de números 20 e 21, considere o texto abaixo.\n\nA partir da década de 1950, os Estados Unidos e a ONU incentivaram a implantação de mudanças na estrutura fundiária e nas técnicas agrícolas em vários dos então chamados países subdesenvolvidos, muitos dos quais ex-colônias recém-independentes. [...] O Conjunto de mudanças técnicas na produção agropecuária – proposta aos países pobres para resolver o problema da fome – ficou conhecido por Revolução Verde. [...]\n\nEntretanto, a proposta era a adoção do mesmo padrão de cultivo em todas as regiões onde se implantou a Revolução Verde, desconsiderando a variação das condições naturais, das necessidades e possibilidades dos agricultores. Assim, a médio prazo e a longo prazo, essas inovações causaram impactos socioeconômicos e ambientais muito graves.\n\n(Adaptado de: SENE, Eustaquio de e MOREIRA, João Carlos. Geografia geral e do Brasil: espaço geográfico e globalização. São Paulo: Scipione, 2012, p. 649)\n\nSobre a Revolução Verde, é correto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pós o México, a Índia foi o segundo país a implantar a Revolução obtendo grande aumento da produtividade de arroz mas não conseguiu superar a desnutrição."
+        },
+        {
+          "letra": "E",
+          "texto": "mbora representasse avanço na produção agrícola, foi implantada com sucesso em países temperados, obtendo pouco sucesso no mundo tropical."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Geografia – Agricultura e Meio Ambiente"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "A Organização Meteorológica Mundial (OMM) aponta o risco de deslocamento populacional ligado à escassez de recursos hídricos em regiões do mundo que menos emitem gases de efeito estufa, a exemplo",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "o Sahel, na África."
+        },
+        {
+          "letra": "D",
+          "texto": "o Sudeste asiático."
+        },
+        {
+          "letra": "D",
+          "texto": "a América Insular."
+        },
+        {
+          "letra": "D",
+          "texto": "as savanas do leste asiático."
+        },
+        {
+          "letra": "D",
+          "texto": "o Magreb, na África."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Geografia – Questões Ambientais",
+        "Geografia – Geografia Humana"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Considere a imagem abaixo encontrada no Nordeste brasileiro. (Disponível em: altamontanha.com) Trata-se de um inselberg que ocorre em áreas",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "e terrenos recentes e pouco resistentes que sofrem constante erosão fluvial."
+        },
+        {
+          "letra": "D",
+          "texto": "e terrenos cristalinos sob clima semiárido e resulta de forte processo erosivo."
+        },
+        {
+          "letra": "B",
+          "texto": "anhadas por pequenos rios que durante as chuvas inundam as margens e provocam erosão."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Geografia – Geomorfologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Em 2021, apenas dez cidades brasileiras concentraram 9,4% de todo o valor de produção agrícola do país. Um único estado brasileiro apresentou sete dos dez maiores produtores.\nA maior concentração está no estado\n(Disponível em: https://www1.folha.uol.com.br. Adaptado)",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "o Paraná que, historicamente, apresenta grande produção de cereais."
+        },
+        {
+          "letra": "D",
+          "texto": "o Mato Grosso que lidera a produção nacional de grãos como a soja e o milho."
+        },
+        {
+          "letra": "D",
+          "texto": "o Mato Grosso do Sul que mantém extensas áreas cultivadas com cana-de-açúcar e milho."
+        },
+        {
+          "letra": "D",
+          "texto": "a Bahia que vem se destacando na produção de algodão e soja, ambos para exportação."
+        },
+        {
+          "letra": "D",
+          "texto": "e São Paulo que lidera as produções de cana-de-açúcar e laranja que alimentam as agroindústrias."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Geografia – Economia Agrícola"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "No plano cartesiano, o vértice da parábola de equação $y = x(1-x)$ e os pontos em que ela intersecta o eixo das abscissas determinam um triângulo de área igual a:",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Matemática – Funções do 2º grau",
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Alberto e Bruna têm uma única filha, a Juliana. Os três contribuem para a renda média familiar de R$ 11.000,00. Bruna recebe 20% a mais que Alberto e Juliana recebe a metade da renda total de seus pais. A renda de Alberto é:",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Matemática – Porcentagem",
+        "Matemática – Sistemas de Equações"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Três candidatos participaram de um teste com 10 questões. A soma do número de acertos dos três foi 15, sendo que as questões 1, 4 e 5 foram respondidas corretamente pelos três. O número máximo de acertos que qualquer um desses três candidatos pode ter obtido é:",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Matemática – Raciocínio Lógico"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Atenção: Para responder às questões de números 28 e 29, considere o texto abaixo.\n\nEnergia eólica atingiu recordes em 2021\n\nO ano de 2021 trouxe um novo recorde de expansão eólica no Brasil. Dados da Agência Nacional de Energia Elétrica (Aneel) mostram que a expansão dessa fonte energética chegou a 3.051,29 megawatts – considerando os dados até novembro. O recorde anterior havia sido alcançado em 2014, quando foram adicionados 2.786 megawatts eólicos ao sistema interligado.\n\nO recorde, no entanto, não foi a única notícia boa para a energia eólica em 2021. Também nesse ano atingimos o marco de 10 GW de capacidade instalada dessa fonte de geração de energia no país.\n\n(Disponível em: https://www.alemdaenergia.engie.com.br. Adaptado)\n\nA tabela apresenta a capacidade instalada para gerar energia eólica para alguns estados brasileiros e os respectivos números de parques eólicos.\n\nEstado Capacidade instalada (MW) Parques\nRN 4066,1 151\nBA 3951,0 154\nCE 2045,4 79\nRS 1831,8 80\nPI 1638,1 60\n\n(Disponível em: https://infonet.com.br)\n\nA partir da tabela, o estado com a maior capacidade instalada média por parque é",
+      "alternativas": [
+        {
+          "letra": "B",
+          "texto": "A"
+        },
+        {
+          "letra": "C",
+          "texto": "E"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Física – Energia Eólica",
+        "Matemática – Análise de Dados"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "A quantidade de energia elétrica, em kWh, produzida por uma usina é dada pela multiplicação da potência da usina, em kW, pelo tempo em que a usina ficou em funcionamento, em horas. Sabendo que $1 \\text{ GW}$ corresponde $10^9 \\text{ W}$ e supondo que todas as usinas eólicas instaladas no Brasil funcionassem ininterruptamente durante um dia, a quantidade de energia elétrica produzida por elas, nesse período, seria de",
+      "alternativas": {
+        "A": "$2,4 \\times 10^6 \\text{ kWh}$",
+        "B": "$1,2 \\times 10^8 \\text{ kWh}$",
+        "C": "$2,4 \\times 10^8 \\text{ kWh}$",
+        "D": "$1,2 \\times 10^{13} \\text{ kWh}$",
+        "E": "$2,4 \\times 10^{13} \\text{ kWh}$"
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Energia Elétrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Considerado o maior e mais potente observatório espacial já desenvolvido pela NASA, o Telescópio Espacial James Webb (TEJW) conta com quatro instrumentos sensíveis a diferentes comprimentos de onda da luz visível e infravermelha e orbitará o Sol a $1,5$ milhão de quilômetros da Terra.\nO novo telescópio espacial ficará em um ponto que permite orbitar o Sol \"vendo\" a estrela e a Terra na mesma direção – o chamado Ponto de Lagrange L2, um lugar em que a gravidade de dois corpos massivos mantém um terceiro em posição fixa em relação a eles.\nOs dados coletados pelo TEJW são enviados à Terra por meio de ondas eletromagnéticas, que se propagam no vácuo com velocidade de $300.000 \\text{ km/s}$. O intervalo de tempo entre a emissão de um dado pelo TEJW e a chegada desse dado à Terra é de",
+      "alternativas": {
+        "A": "0,05 s.",
+        "B": "0,45 s.",
+        "C": "45 s.",
+        "D": "5,0 s.",
+        "E": "50 s."
+      },
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Ondas Eletromagnéticas e Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Considere as seguintes afirmações sobre as Leis de Newton para o movimento dos corpos:\nI. Um corpo permanece em movimento retilíneo com velocidade constante se a resultante de todas as forças que atuam sobre esse corpo for nula.\nII. A intensidade da resultante de todas as forças que atuam sobre um corpo é igual ao produto da massa desse corpo pela aceleração que ele adquire.\nIII. Sempre que um corpo A aplica uma força em um corpo B, esse corpo B aplica no corpo A uma força de mesma intensidade, mesma direção e mesmo sentido que a força aplicada por A.\nEstá correto o que se afirma em",
+      "alternativas": {
+        "A": "I, apenas.",
+        "B": "I e II, apenas.",
+        "C": "II, apenas.",
+        "D": "II e III, apenas.",
+        "E": "I, II e III."
+      },
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Física – Leis de Newton"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Uma barra de ferro de comprimento $L_0$, à temperatura $\\theta_0$, tem seu comprimento aumentado de $L$ ao sofrer uma variação de temperatura $\\theta$, sem que ocorra mudança de estado. Outra barra de ferro de comprimento $3 L_0$, à temperatura $\\theta_0$, ao sofrer uma variação de temperatura $2 \\theta$, sem que ocorra mudança de estado, tem seu comprimento aumentado de",
+      "alternativas": {
+        "A": "L",
+        "B": "1,5 L",
+        "C": "2 L",
+        "D": "3 L",
+        "E": "6 L"
+      },
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Física – Termodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "As diferentes células de um organismo multicelular são especializadas em funções distintas por apresentarem diferenças",
+      "alternativas": {
+        "A": "nos seus códigos genéticos.",
+        "B": "nas suas sequências de nucleotídeos.",
+        "C": "na expressão de seus genes.",
+        "D": "nos sistemas de replicação.",
+        "E": "no tamanho de seus genomas."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Biologia – Diferenciação Celular"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Platelmintos, nemátodes, anelídeos e anfíbios têm, em comum,",
+      "alternativas": {
+        "A": "a presença de celoma.",
+        "B": "os metanefrídeos.",
+        "C": "o revestimento de queratina.",
+        "D": "a respiração cutânea.",
+        "E": "o sistema circulatório fechado."
+      },
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Biologia – Zoologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Nas angiospermas, ocorre a dupla fecundação: um dos **I** fecunda **II** e o outro une-se **III**.\nPara completar corretamente a frase acima, I, II e III devem ser substituídos, respectivamente, por",
+      "alternativas": {
+        "A": "núcleos polínicos / o óvulo / ao corpúsculo polar",
+        "B": "grãos de pólen / macrosporângio / ao microsporângio",
+        "C": "espermatozóides / o ovário / ao endosperma triploide",
+        "D": "esporófitos germinados / os megásporos / aos micrósporos",
+        "E": "núcleos espermáticos / a oosfera / a dois corpúsculos polares"
+      },
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Biologia – Botânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Ambientes com altas concentrações de antibióticos podem propiciar o surgimento de linhagens de bactérias resistentes, dificul- tando o tratamento de doenças como",
+      "alternativas": {
+        "A": "febre amarela e gripe.",
+        "B": "malária e sífilis.",
+        "C": "febre tifoide e cólera.",
+        "D": "cisticercose e micose.",
+        "E": "dengue e gonorreia."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Biologia – Microbiologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "A maior concentração encontrada do paracetamol corresponde à concentração, em mol/L, de, aproximadamente,\nDados:\nMassas moleculares (g/mol)\nH = 1,0\nC = 12,0\nN = 14,0\nO = 16,0",
+      "alternativas": {
+        "A": "$1,5 \\times 10^{-4}$",
+        "B": "$4,5 \\times 10^{-3}$",
+        "C": "$3,2 \\times 10^{-4}$",
+        "D": "$1,5 \\times 10^{-6}$",
+        "E": "$4,5 \\times 10^{-5}$"
+      },
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Química – Estequiometria"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "A gabapentina possui os grupos funcionais:",
+      "alternativas": {
+        "A": "amina e éster.",
+        "B": "amina e ácido carboxílico.",
+        "C": "amida e éter.",
+        "D": "fenol e ácido carboxílico.",
+        "E": "fenol e éster."
+      },
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Química – Química Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Além do metano, $\\text{CH}_4$, a pecuária também contribui com a liberação para o ambiente de outro gás estufa, o $\\text{N}_2\\text{O}$, o óxido nitroso, que é formado pela transformação microbiana de compostos nitrogenados encontrados em dejetos animais (fezes e urina), presentes no pasto.\nAs moléculas do metano e do óxido nitroso apresentam, respectivamente, as geometrias moleculares",
+      "alternativas": {
+        "A": "tetraédrica e linear.",
+        "B": "octaédrica e linear.",
+        "C": "piramidal e linear.",
+        "D": "piramidal e angular.",
+        "E": "tetraédrica e angular."
+      },
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Química – Ligações Químicas e Geometria Molecular"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "A datação por radiocarbono utiliza o isótopo $14$ do carbono, $^{14}\\text{C}$. Esse isótopo, ao sofrer decaimento, emite uma partícula beta $(\\underline{\\text{ }\\text{ }\\text{ }\\text{ }\\text{ }^0_{-1}\\beta})$ para formar um novo elemento de número atômico **I** e número de massa **II** .\nAs lacunas I e II são preenchidas, correta e respectivamente, por:",
+      "alternativas": {
+        "A": "5 e 13",
+        "B": "6 e 14",
+        "C": "7 e 13",
+        "D": "7 e 14",
+        "E": "6 e 12"
+      },
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Física Nuclear"
+      ]
+    }
+  ]
+}

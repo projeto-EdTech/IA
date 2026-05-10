@@ -1,0 +1,1555 @@
+{
+  "nomeUniversidade": "Pontifícia Universidade Católica de São Paulo",
+  "siglaUniversidade": "PUC-SP",
+  "nomeProva": "Vestibular de Inverno",
+  "ano": 2025,
+  "qtdeQuestoes": 50,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Em agosto de 2024, LeBron James era o líder absoluto em pontos nos playoffs da NBA, com 8162 pontos, superando lendas como Michael Jordan, Kareem Abdul-Jabbar, Kobe Bryant e Shaquille O'Neal, conforme pode ser observado no gráfico a seguir.\nOS MAIORES CESTINHAS DA HISTÓRIA DA NBA\n• PONTOS EM PLAYOFFS\nLEBRON JAMES 8162\nM. JORDAN 5987\nABDUL-JABBAR 5762\nKOBE BRYANT 5640\nS. O'NEAL 5250\nFonte: olympics.com. Disponível em: https://www.olympics.com. Acesso em: 14 abr. 2024. (adaptado).\nConsidere que o gráfico foi construído com barras de comprimento proporcionais à quantidade de pontos de cada jogador.\nO comprimento da barra relativa aos pontos do LeBron James é, aproximadamente, quantas vezes a média dos comprimentos das barras relativas aos pontos de todos os jogadores apresentados?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,32."
+        },
+        {
+          "letra": "B",
+          "texto": "1,42."
+        },
+        {
+          "letra": "C",
+          "texto": "1,44."
+        },
+        {
+          "letra": "D",
+          "texto": "1,56."
+        },
+        {
+          "letra": "E",
+          "texto": "2,80."
+        }
+      ],
+      "correta": "A",
+      "conteudosAbordados": [
+        "Matemática – Média Aritmética",
+        "Matemática – Razão e Proporção"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Comumente, os aparelhos de academia possuem imagens indicativas que demonstram a maneira correta de utilização, conforme o exemplo a seguir, que apresenta a execução de um exercício com uma anilha de peso apoiada sobre uma barra reta de ferro inextensível.\nAnilha de Peso\nFonte: Hipertrofia.org. Disponível em: https://www.hipertrofia.org. Acesso em: 12 abr. 2025. (adaptado).\nQual é a projeção ortogonal no solo da trajetória realizada pelo centro da anilha de peso que foi utilizada na imagem?",
+      "alternativas": null,
+      "correta": "B",
+      "conteudosAbordados": [
+        "Matemática – Geometria Espacial",
+        "Matemática – Projeção Ortogonal"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Durante um experimento em um laboratório de Física, uma partícula realizou uma trajetória parabólica em um lançamento oblíquo. A altura H dessa partícula pode ser descrita, em função do tempo t desde o início do experimento, por meio de uma função quadrática. Essa altura foi acompanhada por meio de um software adequado e alguns dos dados registrados estão exibidos na tabela a seguir.\n$$\\begin{tabular}{|l|l|}\n\\hline\nH (em centímetros) & t (em segundos) \\\\\n\\hline\n70 & 0 \\\\\n\\hline\n82 & 1 \\\\\n\\hline\n88 & 2 \\\\\n\\hline\n\\end{tabular}$$\nA partícula foi lançada de cima de uma bancada preparada para o experimento e descreveu seu movimento sem intercorrências até atingir o solo.\nQual foi a altura máxima, em centímetros, atingida pela partícula durante o movimento descrito em relação ao solo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "88,00."
+        },
+        {
+          "letra": "B",
+          "texto": "88,75."
+        },
+        {
+          "letra": "C",
+          "texto": "90,50."
+        },
+        {
+          "letra": "D",
+          "texto": "94,00."
+        },
+        {
+          "letra": "E",
+          "texto": "97,00."
+        }
+      ],
+      "correta": "B",
+      "conteudosAbordados": [
+        "Matemática – Função Quadrática",
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "A equipe de robótica de uma empresa está realizando um experimento dentro do seu laboratório de eletrônica. Nesse experimento, um robô é programado para caminhar em linha reta dentro de uma arena no formato de um triângulo escaleno, partindo de um vértice desse triângulo e deslocando-se até a parede oposta a esse vértice, de modo a se manter equidistante das outras duas paredes da arena.\nDe acordo com a programação descrita, o robô deve se deslocar, no triângulo, sobre uma",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "altura."
+        },
+        {
+          "letra": "B",
+          "texto": "mediana."
+        },
+        {
+          "letra": "C",
+          "texto": "mediatriz."
+        },
+        {
+          "letra": "D",
+          "texto": "bissetriz externa."
+        },
+        {
+          "letra": "E",
+          "texto": "bissetriz interna."
+        }
+      ],
+      "correta": "E",
+      "conteudosAbordados": [
+        "Matemática – Geometria Plana",
+        "Matemática – Pontos Notáveis do Triângulo"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Buscando capacitar os estudantes para desenvolverem modelos tridimensionais físicos, os alunos da disciplina Oficina de Modelos foram orientados a criar bancos utilizando compensados de madeira. Foi determinado que o banco deveria ter entre 30 e 45 centímetros de altura.\nNa disciplina, são trabalhadas três formas de representação: a maquete, que é um modelo tridimensional em escala reduzida; o mock-up, que é um modelo em escala real, mas não com materiais definitivos; e o protótipo, um modelo em escala real e com os materiais definitivos, que foi a atividade dos bancos.\nPara o exercício da maquete, foi proposta a representação do banco em escala de 1 : 5.\nDANIEL, Tulio. Mãos à obra: alunos de Design criam protótipos de bancos. Comunica UFU. Uberlândia, fev. 2023. Disponível em: https://comunica.ufu.br/noticias/2023/02/ maos-obra-alunos-de-design-criam-prototipos-de-bancos. Acesso em: 12 abr. 2025. (adaptado).\nNa atividade descrita, o comprimento do intervalo que contém todas as possíveis medidas de altura, em centímetros, para as maquetes dos bancos construídos pelos alunos dessa universidade é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3."
+        },
+        {
+          "letra": "B",
+          "texto": "9."
+        },
+        {
+          "letra": "C",
+          "texto": "15."
+        },
+        {
+          "letra": "D",
+          "texto": "45."
+        },
+        {
+          "letra": "E",
+          "texto": "75."
+        }
+      ],
+      "correta": "A",
+      "conteudosAbordados": [
+        "Matemática – Escalas",
+        "Matemática – Intervalos Numéricos"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Digoxina trata doenças cardíacas, e dose terapêutica é próxima da tóxica.\nTrata-se de um fármaco desenvolvido a partir de uma planta, a Digitalis lanata, conhecida por aqui como dedaleira. Ele é classificado como um glicosídeo cardiotônico (cardíaco), e também é chamado de digitálico. Dadas as suas características, a digoxina só pode ser utilizada sob prescrição médica. Uma vez em circulação, o fármaco promove o aumento das contrações do coração porque é capaz de alterar o movimento de íons nele presentes. Esse processo ocorre por meio da inibição da bomba sódio-potássio ATPase ($Na^+\\text{/K}^+\\text{ATPase}$), que eleva a entrada de cálcio e perturba os níveis de sódio e potássio.\nALMEIDA, Cristina. Digoxina trata doenças cardíacas, e dose terapêutica é próxima da tóxica. UOL, São Paulo, 21 dez. 2021. VivaBem. Disponível em: https://www.uol.com.br/ vivabem/noticias/redacao/2021/12/21/digoxina-trata-doencas-cardiacas-e-dose-terapeutica-e-proxima-da-toxica.htm. Acesso em: 23 abr. 2025.\nO uso indiscriminado do fármaco indicado no texto traz riscos permanentes à saúde, pois pode",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "tornar as células permeáveis a cátions."
+        },
+        {
+          "letra": "B",
+          "texto": "degradar os fosfolipídios de membrana."
+        },
+        {
+          "letra": "C",
+          "texto": "dificultar a formação do potencial de repouso."
+        },
+        {
+          "letra": "D",
+          "texto": "alterar a estrutura dos receptores de estímulos."
+        },
+        {
+          "letra": "E",
+          "texto": "bloquear o transporte transmembranar de água."
+        }
+      ],
+      "correta": "C",
+      "conteudosAbordados": [
+        "Biologia – Fisiologia Humana",
+        "Biologia – Membrana Plasmática",
+        "Química – Funções Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Uma pesquisa brasileira publicada na revista Food Science and Technology estudou o crescimento microbiano em amostras de peito de frango. Em uma das etapas, os pesquisadores analisaram o crescimento da bactéria Staphylococcus aureus – capaz de produzir uma toxina e frequentemente envolvida em casos de infecção alimentar – em função da temperatura. O gráfico a seguir foi obtido nessa etapa.\nCurva de crescimento de Staphylococcus aureus determinada para filé de peito de frango temperado com NaCl armazenado a -18°C por 20 dias e transferido para armazenamento a 4°C por mais vinte dias.\nGALARZ, L. A.; FONSECA, G. G.; PRENTICE- HERNÁNDEZ, C. Crescimento microbiano em produtos à base de peito de frango durante simulação da cadeia de abastecimento. Food Science and Technology, v. 30, n. 4, p. 870-877, out. 2010.\nO padrão da curva obtida no experimento indica que o(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cloreto de sódio atua como um conservante."
+        },
+        {
+          "letra": "B",
+          "texto": "redução térmica leva os micróbios ao declínio."
+        },
+        {
+          "letra": "C",
+          "texto": "temperatura elevada limita a multiplicação da bactéria."
+        },
+        {
+          "letra": "D",
+          "texto": "micróbio apresenta resistência à variações de temperatura."
+        },
+        {
+          "letra": "E",
+          "texto": "mudança de armazenamento eleva os riscos de intoxicação."
+        }
+      ],
+      "correta": "E",
+      "conteudosAbordados": [
+        "Biologia – Microbiologia",
+        "Biologia – Cadeia Alimentar"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Cientistas descobrem componente do RNA em amostra de asteroide\nA uracila foi encontrada em um pedaço de rocha a milhões de quilômetros da Terra e pode dar pistas sobre a origem da vida no planeta.\nNo final de 2020, a espaçonave japonesa Hayabusa2 trouxe algumas amostras de solo do asteroide Ryugu, localizado a 300 milhões de quilômetros de distância da Terra. A equipe de pesquisadores extraiu as moléculas presentes ali ao mergulhar pedaços do Ryugu em água quente. Depois, usou cromatografia líquida e espectrometria de massa de alta resolução para analisar o seu conteúdo. Esse processo revelou a presença de uracila e ácido nicotínico no asteroide, bem como outros compostos orgânicos contendo nitrogênio.\nCAPARROZ, Leo. Cientistas descobrem componente do RNA em amostra de asteroide. Superinteressante, São Paulo, 21 mar. 2023. Disponível em: https://super.abril.com.br/ ciencia/cientistas-descobrem-componente-do-rna-em-amostra-de-asteroide/. Acesso em: 23 abr. 2025 (adaptado).\nA notícia enfatiza a formação extraterrestre de uma substância que, em alguns organismos da Terra, é componente de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "gases respiratórios."
+        },
+        {
+          "letra": "B",
+          "texto": "materiais genéticos."
+        },
+        {
+          "letra": "C",
+          "texto": "reservas energéticas."
+        },
+        {
+          "letra": "D",
+          "texto": "compostos estruturais."
+        },
+        {
+          "letra": "E",
+          "texto": "moléculas catalisadoras."
+        }
+      ],
+      "correta": "B",
+      "conteudosAbordados": [
+        "Biologia – Bioquímica",
+        "Biologia – Ácidos Nucleicos"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Alimentar-se como se fosse um martelo pneumático é apenas uma das adaptações dos pica-paus. Muitas espécies têm uma cauda dura em forma de cunha que os prende nos troncos das árvores, e penas rijas e pontiagudas sobre as narinas que impedem a passagem do pó de serragem. Têm uma língua cilíndrica pegajosa que pode estender-se vinte centímetros além da ponta do bico, serpentear pelas tocas dos insetos e em seguida retrair-se e enrolar-se numa cavidade em torno da superfície interna do crânio.\n[...] Durante as irradiações de aves em diferentes partes do mundo, linhagens separadas evoluíram para preencher o nicho dos pica-paus: o akiapolaau, um drepanidídeo do Havaí; o pica-pau-do-campo [Colaptes auratus], comum na América do Norte, um dos muitos pica-paus “verdadeiros”; o tentilhão pica-pau das ilhas Galápagos; e o huia (fêmea em cima, macho embaixo) da Nova Zelândia.\nWILSON, Edward O. A diversidade da vida. Tradução de José Roberto do Prado. São Paulo: Companhia das Letras, 1994.\nAs características morfológicas e comportamentais das aves descritas no texto são fruto de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "efeito fundador."
+        },
+        {
+          "letra": "B",
+          "texto": "seleção direcional."
+        },
+        {
+          "letra": "C",
+          "texto": "isolamento geográfico."
+        },
+        {
+          "letra": "D",
+          "texto": "especiação simpátrica."
+        },
+        {
+          "letra": "E",
+          "texto": "convergência adaptativa."
+        }
+      ],
+      "correta": "E",
+      "conteudosAbordados": [
+        "Biologia – Evolução",
+        "Biologia – Adaptação"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "A síndrome de Goltz é uma doença genética rara, de herança dominante ligada ao cromossomo X, mais comum em indivíduos do sexo feminino e, na maioria das vezes, resulta no aborto dos fetos do sexo masculino. Tem um amplo espectro de manifestações clínicas possíveis. O diagnóstico consiste no somatório dos numerosos achados clínicos, radiológicos e histopatológicos. O tratamento é o aconselhamento genético, cirurgias reconstrutivas e abordagem multidisciplinar, com objetivo de melhorar a qualidade de vida e garantir uma vida normal e produtiva.\nURBANO, L. M. F.; LEAL, I. I. R.; COSTA, I. M. C. Você conhece esta síndrome? Hipoplasia dérmica focal (síndrome de Goltz). Anais Brasileiros de Dermatologia, v. 86, n. 2, p. 391-391, mar. 2011 (adaptado).\nNa síndrome apresentada no texto, a maior sobrevida de mulheres em comparação aos homens se dá porque",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "homens possuem um único cromossomo sexual X."
+        },
+        {
+          "letra": "B",
+          "texto": "mulheres herdam o alelo defeituoso por via paterna."
+        },
+        {
+          "letra": "C",
+          "texto": "homens apresentam número distinto de autossomos."
+        },
+        {
+          "letra": "D",
+          "texto": "mulheres expressam alterações em homozigose recessiva."
+        },
+        {
+          "letra": "E",
+          "texto": "homens transferem o gene alterado aos filhos do sexo masculino."
+        }
+      ],
+      "correta": "A",
+      "conteudosAbordados": [
+        "Biologia – Genética",
+        "Biologia – Herança Ligada ao Sexo"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Em uma piscina de ondas artificiais, dois aparelhos emissores localizados em pontos diferentes geram ondas senoidais que se propagam com a mesma frequência e velocidade, porém com amplitudes distintas. A onda emitida pelo primeiro emissor apresenta amplitude de $50 \\text{ cm}$, enquanto a do segundo possui amplitude de $30 \\text{ cm}$. Em um determinado ponto dessa piscina, técnicos realizam medições dessas ondas e percebem que elas estão defasadas de $180^\\circ$, ou seja, encontram-se em oposição de fase, com as cristas de uma coincidindo com os vales da outra.\nNo instante de sobreposição, a amplitude da onda resultante nesse ponto será, em centímetros, de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0."
+        },
+        {
+          "letra": "B",
+          "texto": "20."
+        },
+        {
+          "letra": "C",
+          "texto": "30."
+        },
+        {
+          "letra": "D",
+          "texto": "50."
+        },
+        {
+          "letra": "E",
+          "texto": "80."
+        }
+      ],
+      "correta": "B",
+      "conteudosAbordados": [
+        "Física – Ondas",
+        "Física – Superposição de Ondas"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Durante a pandemia de COVID-19, o consumo de energia elétrica residencial aumentou em muitas casas brasileiras. Por conta disso, a economista Mariana decidiu controlar o uso de alguns aparelhos eletrônicos durante 30 dias para entender o impacto nas contas de energia. Ela decidiu focar em seu espaço de trabalho, onde utiliza três dispositivos regularmente: um notebook, uma luminária de LED e um ventilador. O quadro a seguir mostra a potência de cada equipamento e o tempo médio diário de uso.\n$$\\begin{tabular}{|l|l|l|}\n\\hline\nEquipamento & Potência (W) & Uso diário (h) \\\\\n\\hline\nNotebook & 50 & 6 \\\\\n\\hline\nLuminária & 10 & 4 \\\\\n\\hline\nVentilador & 60 & 3 \\\\\n\\hline\n\\end{tabular}$$\nConsidere que a tarifa de energia cobrada pela companhia elétrica é de $R\\$ 0,75 por $kWh$.\nCom base nos dados apresentados, o gasto total aproximado de Mariana com o uso desses aparelhos ao longo dos 30 dias foi",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 8,10."
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 10,80."
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 11,70."
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 15,60."
+        },
+        {
+          "letra": "E",
+          "texto": "R$ 16,20."
+        }
+      ],
+      "correta": "C",
+      "conteudosAbordados": [
+        "Física – Eletricidade",
+        "Matemática – Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Um parque aquático, distante 30 km de Fortaleza, tem brinquedos para quem gosta de testar sua sanidade e se encorajar, chegando ao limite da adrenalina. O brinquedo mais alto do parque, Insano, tem, aproximadamente, 40 m de altura (equivalente a um prédio de 14 andares), com uma rampa vertical que simula queda-livre. A atração é temida por boa parte dos frequentadores, que preferem o relax das piscinas, o esquibunda ou tobogãs menos complexos.\nCEARÁ: Beach Park põe coragem em xeque com toboáguas do tamanho de arranha-céus. CNN Brasil, 28 dez. 2017. Viagem e Gastronomia. Disponível em: https://www.cnnbrasil. com.br/viagemegastronomia/viagem/ceara-beach-park-poe-coragem-em-xeque-com-toboaguas-do-tamanho-de-arranha-ceus/. Acesso em: 22 abr. 2025 (adaptado).\nConsidere que $g = 10 \\text{ m/s}^2$ e que metade da energia mecânica inicial é dissipada pelo atrito com a superfície do tobogã e a resistência do ar.\nA velocidade aproximada que uma pessoa atinge ao se aventurar no Insano, em metros por segundo, é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "11,8."
+        },
+        {
+          "letra": "B",
+          "texto": "14,1."
+        },
+        {
+          "letra": "C",
+          "texto": "16,7."
+        },
+        {
+          "letra": "D",
+          "texto": "20,0."
+        },
+        {
+          "letra": "E",
+          "texto": "28,3."
+        }
+      ],
+      "correta": "D",
+      "conteudosAbordados": [
+        "Física – Energia Mecânica",
+        "Física – Conservação da Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Um entregador de comida inicia sua rota às 18:00 rumo a um trajeto de 19 km. Ele sai de sua base e percorre 15 km em uma rodovia com velocidade constante de $50 \\text{ km/h}$ e os 4 km restantes são percorridos em ruas internas, onde ele precisa reduzir a velocidade para $20 \\text{ km/h}$, devido ao tráfego intenso.\nConsiderando que o entregador não parou durante o percurso, ele chegará ao destino às",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "18:12."
+        },
+        {
+          "letra": "B",
+          "texto": "18:18."
+        },
+        {
+          "letra": "C",
+          "texto": "18:30."
+        },
+        {
+          "letra": "D",
+          "texto": "18:42."
+        },
+        {
+          "letra": "E",
+          "texto": "18:50."
+        }
+      ],
+      "correta": "C",
+      "conteudosAbordados": [
+        "Física – Cinemática",
+        "Matemática – Proporcionalidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Uma bicicleta elétrica, também conhecida como e-bike, é uma bicicleta equipada com um motor elétrico que auxilia o ciclista durante o pedal. Este motor pode fornecer assistência em diferentes níveis de potência, permitindo que o ciclista alcance maiores velocidades com menor esforço ou, em alguns casos, viaje em terrenos mais acidentados. Nesse tipo de bicicleta, o motor funciona com base no princípio da força magnética gerada por correntes elétricas que passam através de fios condutores. No motor, um fio condutor de $1,5 \\text{ metros}$ de comprimento é inserido em uma região de campo magnético uniforme de $0,3 \\text{ T}$. A corrente elétrica que circula pelo fio tem a intensidade de $2,0 \\text{ A}$. Além disso, o fio é perpendicular ao campo magnético, ou seja, o ângulo entre o vetor da corrente e o campo magnético é de $90^\\circ$.\nCom base nos dados apresentados, a intensidade da força magnética que atua sobre o fio é de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,225 $\\text{ N}$."
+        },
+        {
+          "letra": "B",
+          "texto": "0,4 $\\text{ N}$."
+        },
+        {
+          "letra": "C",
+          "texto": "0,9 $\\text{ N}$."
+        },
+        {
+          "letra": "D",
+          "texto": "2,5 $\\text{ N}$."
+        },
+        {
+          "letra": "E",
+          "texto": "10 $\\text{ N}$."
+        }
+      ],
+      "correta": "C",
+      "conteudosAbordados": [
+        "Física – Eletromagnetismo",
+        "Física – Força Magnética"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "O processo de liofilização do café evita a deterioração do aroma e da cor, bem como a degradação de nutrientes, tornando-se adequado para formar cafés de alta qualidade. Para obter esse café liofilizado, um líquido muito concentrado é extraído dos grãos e congelado em temperaturas muito baixas (até $-40^\\circ C$). Em seguida, o produto passa pelos processos de moagem e secagem a vácuo. Nesse segundo processo, acontece uma desidratação que permite que o gelo acumulado passe direto para o estado gasoso, garantindo que fique apenas o café. O processo de liofilização assegura que, ao hidratar a bebida novamente, o sabor e o aroma do mais puro café estejam intactos.\nCAFÉ LIOFILIZADO: você sabe o que isso quer dizer? Blog Gran Coffee, 3 mar. 2021. Disponível em: https://blog.grancoffee.com.br/cafe-liofilizado-voce-sabe-o-que-isso-quer- dizer/. Acesso em: 22 abr. 2025 (adaptado).\nNo processo descrito no texto, a desidratação ocorre por meio da",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "condensação."
+        },
+        {
+          "letra": "B",
+          "texto": "evaporação."
+        },
+        {
+          "letra": "C",
+          "texto": "fusão."
+        },
+        {
+          "letra": "D",
+          "texto": "solidificação."
+        },
+        {
+          "letra": "E",
+          "texto": "sublimação."
+        }
+      ],
+      "correta": "E",
+      "conteudosAbordados": [
+        "Química – Estados da Matéria",
+        "Química – Mudanças de Estado Físico"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "As pilhas de íons lítio são assim denominadas porque utilizam, em vez de lítio metálico, apenas íons lítio ($Li^+$) presentes no eletrólito na forma de sais de lítio dissolvidos em solventes não aquosos. A imagem a seguir apresenta um esquema do funcionamento desse tipo de pilha.\nBOCCHI, Nerilso; FERRACIN, Luiz Carlos; BIAGGIO, Sonia Regina. Pilhas e baterias: funcionamento e impacto ambiental. Química Nova na Escola, v. 11, p. 8, 2000 (adaptado).\nUma das principais características da pilha apresentada é a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "oxidação do cobalto no cátodo, gerando elétrons para o circuito externo."
+        },
+        {
+          "letra": "B",
+          "texto": "presença de lítio metálico no ânodo, garantindo alta densidade energética."
+        },
+        {
+          "letra": "C",
+          "texto": "decomposição do carbono no ânodo, liberando $CO_2$ durante o funcionamento."
+        },
+        {
+          "letra": "D",
+          "texto": "utilização de íons lítio no eletrólito, permitindo movimentação iônica livre de explosões."
+        },
+        {
+          "letra": "E",
+          "texto": "formação de hidrogênio gasoso, promovendo a reação do lítio com água no eletrólito."
+        }
+      ],
+      "correta": "D",
+      "conteudosAbordados": [
+        "Química – Eletroquímica",
+        "Química – Pilhas"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "A acroleína é um composto utilizado na produção de fibras sintéticas, acrílicos e como intermediário na síntese de biocidas agrícolas. Sua estrutura é fundamental para reações de polimerização, garantindo resistência a materiais plásticos. Além disso, é empregado em sistemas de alerta para vazamentos de gases inflamáveis devido à sua alta volatilidade.\nA função orgânica presente no composto abordado é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "éter."
+        },
+        {
+          "letra": "B",
+          "texto": "álcool."
+        },
+        {
+          "letra": "C",
+          "texto": "cetona."
+        },
+        {
+          "letra": "D",
+          "texto": "aldeído."
+        },
+        {
+          "letra": "E",
+          "texto": "ácido carboxílico."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Química – Funções Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Atletas que sofrem problemas musculares durante competições podem utilizar bolsas instantâneas quentes ou frias como dispositivos para primeiros socorros. Normalmente, essas compressas são constituídas por uma bolsa de plástico que contém água em uma seção e uma substância química seca em outra. Ao golpear a bolsa, a seção contendo água se rompe e a temperatura aumenta ou diminui. Em geral, para compressas quentes usa-se cloreto de cálcio, que dissocia em água conforme a seguinte equação química.\n$$\\text{CaCl}_2\\text{(s)} \\rightarrow \\text{Ca}^{2+}\\text{(aq)} + 2\\text{Cl}^-\\text{(aq)} \\quad \\Delta H < 0$$\nCOMO FUNCIONAM as compressas instantâneas? Universe Química. 23 out. 2018. Disponível em: https://universequimica.wordpress.com/2018/10/23/compressas- instantaneas/. Acesso em: 16 abr. 2025. (adaptado).\nA reação química descrita no texto é classificada como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "exotérmica, pois libera calor, aquecendo a região afetada e aliviando a dor."
+        },
+        {
+          "letra": "B",
+          "texto": "endotérmica, pois absorve calor do corpo, causando resfriamento localizado."
+        },
+        {
+          "letra": "C",
+          "texto": "dupla troca, pois há a formação de novos compostos, liberando calor terapêutico."
+        },
+        {
+          "letra": "D",
+          "texto": "oxirredução, pois ocorre transferência de elétrons, gerando energia para reduzir a inflamação."
+        },
+        {
+          "letra": "E",
+          "texto": "neutralização, pois ocorre a reação entre ácido e base, produzindo calor e relaxando os músculos."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Química – Termoquímica",
+        "Química – Reações Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Um técnico realizou um experimento em laboratório com o objetivo de desenvolver uma estalagmite química. Para isso, ele seguiu os seguintes passos:\n1. dissolveu acetato de sódio sólido em água quente até que todo o sólido desaparecesse;\n2. deixou a solução esfriar lentamente, sem agitação, até atingir a temperatura ambiente;\n3. tocou a superfície do líquido com um cristal de acetato de sódio sólido, formando instantaneamente uma estrutura semelhante a uma estalagmite.\nA solução preparada pelo técnico, após esfriar, é classificada como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "insaturada, pois dissolve ainda mais acetato de sódio."
+        },
+        {
+          "letra": "B",
+          "texto": "eletrólito, pois conduz corrente elétrica devido à presença de íons."
+        },
+        {
+          "letra": "C",
+          "texto": "coloide, pois apresenta partículas dispersas em uma estrutura gelatinosa."
+        },
+        {
+          "letra": "D",
+          "texto": "saturada, pois atinge a máxima quantidade de soluto dissolvido em equilíbrio."
+        },
+        {
+          "letra": "E",
+          "texto": "supersaturada, pois contém mais soluto dissolvido do que o possível em condições de equilíbrio."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Química – Soluções",
+        "Química – Solubilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "É uma coisa bem conhecida dos amigos do saber, que a alma do ser humano, quando foi tomada sob os cuidados da filosofia, encontrava-se completamente acorrentada a um corpo, e como que colada a ele; que o corpo constituía para a alma uma espécie de prisão, através da qual ela devia forçosamente encarar as realidades, ao invés de fazê-lo por seus próprios meios e através de si mesma; que, enfim, ela estava submersa em uma ignorância absoluta.\nPLATÃO. Fédon. São Paulo: Abril Cultural, 1972. 82d-83a. p. 94 (adaptado)\nNo texto, Platão apresenta uma concepção filosófica caracterizada por um(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fé ideológica."
+        },
+        {
+          "letra": "B",
+          "texto": "materialismo dialético."
+        },
+        {
+          "letra": "C",
+          "texto": "dualismo antropológico."
+        },
+        {
+          "letra": "D",
+          "texto": "fenomenologia existencial."
+        },
+        {
+          "letra": "E",
+          "texto": "abordagem epistemológica."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Filosofia – Filosofia Antiga",
+        "Filosofia – Platão",
+        "Filosofia – Dualismo Corpo-Alma"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "A palavra que não é simples meio para algum fim parece destituída de sentido, e as outras parecem simples ficção, inverdade nos meios de comunicação. Os juízos de valor são percebidos ou como publicidade ou como conversa fiada. A ideologia reduzida a um discurso vago e descompromissado nem por isso se torna mais transparente e, tampouco, mais fraca. Justamente sua vagueza, a aversão quase científica a fixar-se em qualquer coisa que não se deixe verificar, funciona como instrumento da dominação. Ela se converte na proclamação enfática e sistemática do existente. A nova ideologia tem por objeto o mundo enquanto tal. Ela recorre ao culto do fato, limitando-se a elevar – graças a uma representação tão precisa quanto possível – a existência ruim ao reino dos fatos.\nADORNO, Theodor; HORKHEIMER, Max. Dialética do esclarecimento. Rio de Janeiro: Jorge Zahar Editor, 1985. p. 138 (adaptado).\nNa crítica apresentada pelos autores, a ideologia moderna se configura como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "retaliação moral."
+        },
+        {
+          "letra": "B",
+          "texto": "expressão irracional."
+        },
+        {
+          "letra": "C",
+          "texto": "transparência objetiva."
+        },
+        {
+          "letra": "D",
+          "texto": "dominação discursiva."
+        },
+        {
+          "letra": "E",
+          "texto": "neutralidade científica."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Filosofia – Escola de Frankfurt",
+        "Filosofia – Indústria Cultural",
+        "Filosofia – Ideologia",
+        "Sociologia – Teoria Crítica",
+        "Sociologia – Meios de Comunicação"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "A Caatinga é o domínio morfoclimático que predomina no Nordeste do Brasil e está inserida no contexto do clima semiárido. Os povos originários dessa região a chamavam assim porque, na estação seca, a maioria das plantas perde suas folhas, prevalecendo na paisagem a aparência clara e esbranquiçada dos troncos das árvores. Daí vem o nome Caatinga (caa: mata e tinga: branca) que significa \"mata ou floresta branca\" traduzido do tupi. No período chuvoso, a paisagem muda de esbranquiçada para variados tons de verdes com a rebrota das folhas das árvores e com o surgimento de diversas plantas nas primeiras chuvas.\nA área da Caatinga corresponde a 862.818 km² (IBGE, 2019), e a totalidade de seus limites encontra-se dentro do território brasileiro. Ou seja, seu patrimônio biológico não é encontrado em nenhuma outra região do mundo.\nSOBRE a Caatinga. Associação Caatinga, 2025. Disponível em: https://www.acaatinga.org.br/sobre-a-caatinga/. Acesso em: 17 abr. 2025. (adaptado).\nO domínio apresentado no texto tem como característica o(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "elevado aporte pluviométrico."
+        },
+        {
+          "letra": "B",
+          "texto": "presença de vegetação xerófila."
+        },
+        {
+          "letra": "C",
+          "texto": "formação de florestas latifoliadas."
+        },
+        {
+          "letra": "D",
+          "texto": "vasta disponibilidade de aquíferos."
+        },
+        {
+          "letra": "E",
+          "texto": "possibilidade de adaptação à salinidade."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Geografia – Domínios Morfoclimáticos",
+        "Geografia – Caatinga",
+        "Geografia – Biomas Brasileiros"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "CARNEIRO, Luciano; ROSAS, Rafael. Confira a nova pirâmide etária da população brasileira e entenda o que ela significa. Valor Econômico, 22 ago. 2024. Disponível em: https://valor.globo. com/brasil/noticia/2024/08/22/confira-a-nova-piramide-etaria-da-populacao-brasileira-e-entenda-o-que-ela-significa.ghtml. Acesso em: 17 abr. 2025.\nA projeção da pirâmide etária brasileira para 2070 difere da pirâmide etária de 2023 por apresentar um(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aumento da expectativa de vida."
+        },
+        {
+          "letra": "B",
+          "texto": "ampliação nas taxas de fecundidade."
+        },
+        {
+          "letra": "C",
+          "texto": "estagnação nas taxas de longevidade."
+        },
+        {
+          "letra": "D",
+          "texto": "tendência ao aumento do número de jovens."
+        },
+        {
+          "letra": "E",
+          "texto": "comportamento característico pró-natalidade."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Geografia – Demografia",
+        "Geografia – Pirâmides Etárias"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Na monocultura, temos grandes áreas de apenas uma espécie sendo produzida, como o milho e a soja. Esse cenário envolve muitos maquinários e o uso de herbicidas, além de plantas geneticamente modificadas.\nJá na agrofloresta, existem áreas menores produzindo alimentos e outros itens, como frutas, hortaliças, ervas e árvores para fins madeireiros. Nesse caso, pouco se usa insumos tóxicos e a maioria da produção é orgânica. A diversidade de espécies e cultivares traz benefícios biológicos e ecológicos para o meio, principalmente para as abelhas.\nNo que diz respeito ao comércio, há um faturamento maior por parte da monocultura. Contudo, é preciso destacar que essa prática agride o solo, os lençois freáticos e a biodiversidade.\nBRASIL, Arthur. Monocultura e agrofloresta. Florestal Brasil, 2 maio 2023. Disponível em: https://florestalbrasil.com/monocultura-e-agrofloresta/. Acesso em: 22 abr. 2025 (adaptado).\nCom base no texto, a técnica da monocultura",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reduz o incentivo ao desenvolvimento científico."
+        },
+        {
+          "letra": "B",
+          "texto": "promove a redução da diversidade ecológica."
+        },
+        {
+          "letra": "C",
+          "texto": "estimula a produção de alimentos orgânicos."
+        },
+        {
+          "letra": "D",
+          "texto": "estrutura a prática de manejos sustentáveis."
+        },
+        {
+          "letra": "E",
+          "texto": "provoca a diminuição do retorno financeiro."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Geografia – Meio Ambiente",
+        "Geografia – Agricultura",
+        "Geografia – Monocultura e Agrofloresta"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "TEXTO I\nSILVEIRA, Márcio Rogério et. al. Novo coronavirus (Sars-CoV-2): difusão espacial e outro patamar para a socialização dos investimentos no Brasil. Revista Brasileira de Estudos Urbanos e Regionais, v. 22, 2020. Disponível em: https://www.redalyc.org/ journal/5139/513962979029/html/. Acesso em: 4 maio 2025.\nTEXTO II\nSILVEIRA, Márcio Rogério et. al. Novo coronavirus (Sars-CoV-2): difusão espacial e outro patamar para a socialização dos investimentos no Brasil. Revista Brasileira de Estudos Urbanos e Regionais, v. 22, 2020. Disponível em: https://www.redalyc.org/journal/5139/513962979029/html/. Acesso em: 4 maio 2025.\nAs representações cartográficas apresentadas são complementares, pois permitem a compreensão de que a difusão espacial da Covid-19 no Brasil foi caracterizada pela",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "uniformidade no território nacional, associada ao deslocamento populacional."
+        },
+        {
+          "letra": "B",
+          "texto": "concentração nas regiões metropolitanas, relacionada à mobilidade urbana."
+        },
+        {
+          "letra": "C",
+          "texto": "desigualdade nas unidades federativas, vinculada à estrutura hidroviária."
+        },
+        {
+          "letra": "D",
+          "texto": "interiorização nas áreas rurais, conectada à precarização sanitária."
+        },
+        {
+          "letra": "E",
+          "texto": "retração na zona costeira, ligada ao trânsito transnacional."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Geografia – Geografia Urbana",
+        "Geografia – Saúde Pública",
+        "Geografia – Redes de Transporte",
+        "Geografia – Espacialidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "A matriz energética do Brasil atingiu um marco histórico em 2023, ano dos últimos dados disponíveis. O uso de energias renováveis superou o de não renováveis pela primeira vez desde 1988, chegando a representar 51% da matriz energética nacional. Os dados são do Balanço Energético Nacional, publicados pela Empresa de Pesquisa Energética (EPE). O perfil da matriz reflete o crescimento do uso de fontes como biomassa, eólica e solar, o que diversifica as fontes energéticas empregadas no país e contribui para a redução de sua intensidade de carbono no setor de energia. Esse fato mostra o potencial do Brasil em ser uma referência global em transição energética. Ainda existe o desafio, no entanto, de garantir que tal processo seja justo, respeitando os direitos das populações e buscando superar desigualdades existentes.\nMATRIZ energética brasileira teve uma participação maior de fontes renováveis em relação às não renováveis pela primeira vez em 35 anos. Instituto de Energia e Meio Ambiente, mar. 2025. Disponível em: https://energiaeambiente.org.br/matriz-energetica-brasileira-teve-uma-participacao-maior-de-fontes-renovaveis-em-relacao-as-nao-renovaveis-pela- primeira-vez-em-35-anos-20250321. Acesso em: 4 maio 2025.\nPara superar o desafio descrito no texto, deve-se priorizar a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "concentração da produção de energias alternativas."
+        },
+        {
+          "letra": "B",
+          "texto": "democratização das fontes de combustíveis fósseis."
+        },
+        {
+          "letra": "C",
+          "texto": "implementação de políticas de equidade energética."
+        },
+        {
+          "letra": "D",
+          "texto": "preservação da estrutura energética das capitais."
+        },
+        {
+          "letra": "E",
+          "texto": "atenuação da oferta energética nas periferias."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Geografia – Fontes de Energia",
+        "Geografia – Questões Socioambientais",
+        "Geografia – Geopolítica da Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Quando, em 1505, Duarte Pacheco Pereira deu início a um dos mais valiosos roteiros de viagem da literatura portuguesa, o Esmeraldo de situ orbis, a precariedade de fontes modernas era patente. Conforme evidências deixadas em seu texto, ele manipulou o Guia náutico de Évora e o Guia náutico de Munique, duas edições anônimas que, publicadas no fim do século XV ou início do século XVI (portanto, depois do Almanach Perpetuum Coelestium Motum, do astrólogo judeu Abraão Zacuto, escrito em 1478), apresentavam o regimento da Estrela do Norte e o regimento do Sol como soluções para determinar as latitudes no mar, diante das dificuldades da recém-descoberta navegação astronômica. Pereira conheceu também as crônicas portuguesas, especialmente as de Gomes Eanes de Zurara, que, embora precariamente, registraram novos espaços alcançados na costa ocidental da África; e deve ter estudado ainda um breve roteiro para a navegação da Galiza à Fortaleza de São Jorge da Mina, documento quatrocentista que circulou nos primeiros anos de 1500, antes de ser incluído no Manuscrito Valentim Fernandes, cuja primeira edição remonta a 1507.\nNEPOMUCENO, Luís André. A nova cosmografia da expansão portuguesa: o Esmeraldo de situ orbis (1508) de Duarte Pacheco Pereira. Revista de História, São Paulo, n. 180, p. 1-31, 2021. Acesso em: 14 abr. 2025. (adaptado).\nO excerto evidencia a relação entre",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "textos teóricos e saberes náuticos."
+        },
+        {
+          "letra": "B",
+          "texto": "estratégias militares e indústria naval."
+        },
+        {
+          "letra": "C",
+          "texto": "ações exploratórias e teses metafísicas."
+        },
+        {
+          "letra": "D",
+          "texto": "tecnologias bélicas e objetivos mercantis."
+        },
+        {
+          "letra": "E",
+          "texto": "conhecimento empírico e interesses religiosos."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "História – Grandes Navegações",
+        "História – Renascimento",
+        "História – Conhecimento Científico"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Os duros termos soviéticos para as reparações devidas pela Alemanha seriam discutidos quando a comissão se reunisse em Moscou. No extremo oriente, Stalin conseguiu o que queria. Na lugoslávia, o governo de coalizão foi apenas o ponto de partida para a tomada do poder por Tito. A Declaração sobre a Europa libertada podia significar uma base para que os críticos condenassem moralmente o Kremlin, mas meras palavras nunca incomodariam Stalin. O acordo sobre o voto nas Nações Unidas garantiu que o organismo mundial não poderia agir contra Moscou. Assim, embora não tivesse sido o exato momento em que a Europa se dividiu, como alegaram os críticos, Yalta de fato fortaleceu o poder do homem cujas políticas, mais que qualquer outra coisa, provocariam essa divisão.\nFENBY, Jonathan. Os Três Grandes: Churchill, Roosevelt & Stalin - ganharam uma guerra e começaram outra. Rio de Janeiro: Nova Fronteira, 2009. p. 406.\nOs líderes reunidos na Conferência abordada no texto fizeram definições sobre as",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "regras das transações monetárias globais."
+        },
+        {
+          "letra": "B",
+          "texto": "normas de testes atômicos na Guerra Fria."
+        },
+        {
+          "letra": "C",
+          "texto": "áreas de influência no pós-Guerra Mundial."
+        },
+        {
+          "letra": "D",
+          "texto": "alianças militares do conflito bélico global."
+        },
+        {
+          "letra": "E",
+          "texto": "diretrizes científicas da exploração espacial."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "História – Guerra Fria",
+        "História – Conferência de Yalta",
+        "História – Relações Internacionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "GLORIA Á PATRIA! HONRA AOS HEROES DO DIA 15 DE NOVEMBRO DE 1889.\nHOMENAGEM DA \"REVISTA ILLUSTRADA\"\nAGOSTINI, Angelo. Revista Illustrada, 16 nov. 1889. Disponível em: https://horadopovo. com.br/a-republica-e-a-formacao-do-carater-nacional-2/. Acesso em: 14 abr. 2025.\nA ilustração ao lado demonstra uma",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apologia ao regime republicano."
+        },
+        {
+          "letra": "B",
+          "texto": "crítica ao fim do regime monárquico."
+        },
+        {
+          "letra": "C",
+          "texto": "oposição à visão historiográfica tradicional."
+        },
+        {
+          "letra": "D",
+          "texto": "denúncia à ausência de participação popular."
+        },
+        {
+          "letra": "E",
+          "texto": "defesa ao processo de transição democrático."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "História – Proclamação da República",
+        "História – Brasil Império",
+        "História – República Velha",
+        "Arte – Ilustração",
+        "Arte – Crítica Política"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Os domínios do Reino do Congo funcionavam como importante polo econômico local. Era sustentado por uma agricultura de subsistência, praticada em geral pelas mulheres, de onde provinham legumes, tubérculos, cereais e sorgo. Havia também diversas espécies de frutas, bananeiras, coqueiros, árvores de palma, árvores de noz-de-cola e espécimes semelhantes de ameixas amarelas. Com os portugueses, passaram a plantar amendoim, batata doce, goiabeiras, cajueiros e mamoeiros, arroz, milho e, sobretudo, a mandioca (levada do Brasil), que se tornou sua principal base alimentar.\nMACEDO, José Rivair. História da África. São Paulo: Contexto, 2022. p. 81.\nNo texto, o autor evidencia a ocorrência de relações de intercâmbio a partir de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "expansão militar."
+        },
+        {
+          "letra": "B",
+          "texto": "alianças armadas."
+        },
+        {
+          "letra": "C",
+          "texto": "proselitismo religioso."
+        },
+        {
+          "letra": "D",
+          "texto": "concorrência agrícola."
+        },
+        {
+          "letra": "E",
+          "texto": "transações comerciais."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "História – África Pré-Colonial",
+        "História – Colonialismo",
+        "História – Comércio"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Dragão do Mar: um jangadeiro pela liberdade\n\"No porto do Ceará não se embarcam mais escravos\"\nNascido de uma família pobre de pescadores no Ceará, Francisco José do Nascimento é uma das lideranças abolicionistas negras mais importantes do Brasil.\n[...] No entanto, o prático Francisco recusa-se a transportar homens e mulheres escravizados e, através de sua liderança, uma greve é deflagrada em 1881 em todo estado. Chico é demitido na tentativa frustrada de conter o movimento abolicionista que já vinha crescendo, porém seu nome já havia ficado gravado na história junto com sua jangada de nome Liberdade. Sua coragem impulsionou a greve que paralisou durante três dias os portos cearenses.\nINSTITUTO AFROFUTURO. Dragão do Mar: um jangadeiro pela liberdade. Medium, 29 ago. 2021. Disponível em: https://institutoafrofuturo.medium.com/drag%C3%A3o-do- mar-um-jangadeiro-pela-liberdade-453c767f480a. Acesso em: 15 abr. 2025. (adaptado).\nO texto aborda uma figura histórica que foi protagonista do(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "revolta contra a escravidão dos pretos malês."
+        },
+        {
+          "letra": "B",
+          "texto": "luta contra o tráfico interprovincial de escravizados."
+        },
+        {
+          "letra": "C",
+          "texto": "motim contra as condições de trabalho dos marujos."
+        },
+        {
+          "letra": "D",
+          "texto": "propaganda contra o comércio internacional de cativos."
+        },
+        {
+          "letra": "E",
+          "texto": "movimento pela sindicalização dos profissionais portuários."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "História – Abolicionismo",
+        "História – Escravidão no Brasil",
+        "História – História do Ceará"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Na Democracia, revoluções passivas são processos em que as elites políticas se apropriam total ou parcialmente da agenda dos setores subalternos, manipulando suas lideranças, afastando outras, em uma estratégia de conservar-mudando, tal como nas palavras de um personagem do romance O leopardo, a obra-prima do italiano Giuseppe Lampedusa, que sentenciava ser necessário mudar para que as coisas permanecessem como estavam.\nWERNECK VIANNA, L. A revolução passiva: iberismo e americanismo no Brasil. Rio de Janeiro: IUPERJ/REVAN, 1997. p. 172. (adaptado).\nA argumentação sociológica apresentada pelo autor indica, no plano da cidadania, a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "instrumentalização das identidades coletivas pela política."
+        },
+        {
+          "letra": "B",
+          "texto": "manipulação das liberdades públicas entre as minorias."
+        },
+        {
+          "letra": "C",
+          "texto": "universalização dos direitos sociais entre as massas."
+        },
+        {
+          "letra": "D",
+          "texto": "cooptação das demandas progressistas pelas elites."
+        },
+        {
+          "letra": "E",
+          "texto": "superação das disputas políticas entre os grupos."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Sociologia – Ciência Política",
+        "Sociologia – Democracia",
+        "Sociologia – Movimentos Sociais",
+        "Sociologia – Teoria Política"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "TEXTO I\nPELLO, Daniel. No Brasil, 42% não consomem cultura. Folha de S.Paulo, Ilustrada, 27 set. 2014. Disponível em: https://m.folha. uol.com.br/ilustrada/2014/09/1521173-no-brasil-42-nao-consomem-cultura.shtml. Acesso em: 13 abr. 2025.\nTEXTO II\nPolítica cultural descentralizada não se faz com incentivos fiscais, pois isso mantém o status quo cultural. O incentivo atrai a empresa que paga impostos em valores expressivos, cujos interesses estão principalmente localizados no Sudeste. A ação de uma política de incentivos regional será sempre limitada. Uma política de descentralização poderia ser feita por comitês regionais, compostos pelos estados e o governo federal, que contribuíssem com recursos orçamentários. Cada comitê teria uma agenda própria, adequada às carências de cada região e às estratégias específicas para levar cultura aos brasileiros que não podem acessá-la.\nGABRIEL, Ruan de Sousa. Mudanças na lei Rouanet não vão descentralizar a cultura. Época, São Paulo, 26 abr. 2019. Disponível em: https://epoca.globo.com. Acesso em: 13 abr. 2025. (adaptado).\nA relação entre os dados apresentados no Texto I e a crítica apresentada no Texto II evidencia um cenário sociocultural marcado pela",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reiteração de ideologias antiquadas na ótica consumista."
+        },
+        {
+          "letra": "B",
+          "texto": "superação das desigualdades regionais no setor artístico."
+        },
+        {
+          "letra": "C",
+          "texto": "democratização dos hábitos culturais em diversas regiões."
+        },
+        {
+          "letra": "D",
+          "texto": "expansão dos investimentos estatais em cultura alternativa."
+        },
+        {
+          "letra": "E",
+          "texto": "concentração dos incentivos fiscais na lógica mercadológica."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Sociologia – Cultura",
+        "Sociologia – Políticas Públicas",
+        "Sociologia – Desigualdade Social"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Ao nascer, cada indivíduo pode ser muito diferente, conforme sua constituição natural. Mas é apenas na sociedade que a criança pequena, com suas funções mentais maleáveis e relativamente indiferenciadas, transforma-se em um ser mais complexo. Somente na relação com outros seres humanos é que a criatura impulsiva e desamparada que vem ao mundo se transforma na pessoa psicologicamente desenvolvida que tem o caráter de um indivíduo e merece o nome de ser humano adulto. Isolada dessas relações, ela evolui, na melhor das hipóteses, para a condição de um animal humano semi-selvagem.\n\nELIAS, N. Sociedade dos indivíduos. Rio de Janeiro: Zahar, 1994. p. 27. (adaptado).\n\nA perspectiva sociológica apresentada indica que o processo de constituição do ser humano é marcado por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "instintos políticos primitivos."
+        },
+        {
+          "letra": "B",
+          "texto": "interações sociais contínuas."
+        },
+        {
+          "letra": "C",
+          "texto": "estruturas religiosas inerentes."
+        },
+        {
+          "letra": "D",
+          "texto": "pulsões psíquicas socioculturais."
+        },
+        {
+          "letra": "E",
+          "texto": "movimentos deliberativos morais."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Sociologia – Formação do Indivíduo e Socialização"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Still don't know what I was waiting for\nAnd my time was running wild,\na million dead-end streets and\nEvery time I thought I'd got it made\nIt seemed the taste was not so sweet\nSo I turned myself to face me\nBut I've never caught a glimpse\nOf how the others must see the faker\nI'm much too fast to take that test\n\nCHANGES. Intérprete: David Bowie. In: Hunky Dory. Londres: RCA Records, 1971. Disco de vinil (3 min 37 s).\n\nNo trecho da canção, a expressão “got it made\" ajuda a construir a ideia de que o eu lírico",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "redefine objetivos pessoais, apesar de recuar diante de desafios."
+        },
+        {
+          "letra": "B",
+          "texto": "enfrenta conflitos sociais, embora oculte sua fragilidade emocional."
+        },
+        {
+          "letra": "C",
+          "texto": "busca o reconhecimento alheio, porém ignora a própria identidade."
+        },
+        {
+          "letra": "D",
+          "texto": "alcança o sucesso esperado, mas sente frustração com o resultado."
+        },
+        {
+          "letra": "E",
+          "texto": "expressa confiança no futuro, enquanto abandona responsabilidades."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "The words \"nice\" and \"kind\" are often used interchangeably to describe a positive quality in a person. From an early age, we're told to \"be nice,\" and we learn about the heartwarming nature of “acts of kindness.” But when you look into the definitions and usages for \"nice\" and \"kind,” you'll find they aren't quite synonyms. In fact, one might be a preferable characteristic to strive for. So is it better to be nice or to be kind? What does each really mean, and what is the difference? [...] \"I would suggest that being 'nice' is about being polite, civilized and demonstrating high levels of social skills and etiquette,” said Thomas Plante, a psychology professor and faculty scholar with the Markkula Center for Applied Ethics at Santa Clara University. \"I would define 'kind' as behavior that's thoughtful, caring and considerate, but also strong, confident and self-caring,\" said Dr. Marcia Sirota, a psychiatrist and author of \"Be Kind, Not Nice: How to Stop People-Pleasing, Build Your Confidence and Discover Your Authentic Self\".\n\nBOLOGNA, Caroline. Nice vs. Kind: The Difference Is Significant. HuffPost. Disponível em: https://www.huffpost.com. Acesso em: 20 abr. 2025.\n\nA reflexão sobre os sentidos das palavras “nice” e “kind” evidencia que a língua",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "expressa valores culturais pela diferenciação de palavras com sentido próximo."
+        },
+        {
+          "letra": "B",
+          "texto": "define o sentido de cada termo a partir de critérios universais de civilidade."
+        },
+        {
+          "letra": "C",
+          "texto": "fortalece estruturas fixas com base na restrição da interpretação lexical."
+        },
+        {
+          "letra": "D",
+          "texto": "fixa as definições das palavras com base em padrões formais de uso."
+        },
+        {
+          "letra": "E",
+          "texto": "distingue o uso de vocábulos pela sua origem histórica e etimológica."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Inglês – Semântica e Lexicologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "January 2, 1931:\nHere are my resolutions for the next 3 months; the next lap of the year.\nTo have none. Not to be tied.\nTo be free & kindly with myself, not goading it to parties: to sit rather privately reading in the studio.\nTo make a good job of The Waves.\nTo stop irritation by the assurance that nothing is worth irritation [referring to Nelly].\nSometimes to read, sometimes not to read.\nTo go out yes – but stay at home in spite of being asked.\nAs for clothes, to buy good ones.\n\nWOOLF, V. The diary of Virginia Woolf: Volume Four 1931-1935. Boston: Mariner Book Classics, 1981.\n\nA lista de resoluções de ano-novo presente no diário cumpre a função de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "registrar intenções pessoais por meio de uma linguagem íntima e reflexiva."
+        },
+        {
+          "letra": "B",
+          "texto": "estabelecer promessas de mudança utilizando um discurso motivacional."
+        },
+        {
+          "letra": "C",
+          "texto": "instruir leitores sobre bem-estar a partir de conselhos subjetivos."
+        },
+        {
+          "letra": "D",
+          "texto": "recomendar hábitos saudáveis partindo de exemplos cotidianos."
+        },
+        {
+          "letra": "E",
+          "texto": "promover uma rotina equilibrada por meio de objetivos públicos."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Inglês – Compreensão Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "O cartaz apresentado cumpre o objetivo de\n\n**Texto no cartaz:**\nTHE CLIMATE IS CHANGING! SO WHY AREN'T WE?\nWe can limit our impact on the climate by making some small changes in our lives.\n1. Clean up your community.\n2. Fight food waste by composting.\n3. Power your home with renewable energy.\nDO YOUR PART TO SAVE OUR PLANET!\n\nWORKFORCE CAMPAIGNS. The climate is changing! So why aren't we? [cartaz]. [S.l.]: Workforce Campaigns, [2024]. Disponível em: https://www.workforcecampaigns.com. Acesso em: 20 abr. 2025.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "divulgar avanços científicos no combate ao aquecimento global."
+        },
+        {
+          "letra": "B",
+          "texto": "denunciar ações de grandes empresas contra o meio ambiente."
+        },
+        {
+          "letra": "C",
+          "texto": "propor ações sustentáveis ao incentivar mudanças cotidianas."
+        },
+        {
+          "letra": "D",
+          "texto": "instruir profissionais da área sobre compostagem avançada."
+        },
+        {
+          "letra": "E",
+          "texto": "promover eventos educativos em comunidades afetadas."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Gêneros Textuais",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Poema visual: \"nascemorre\" (1967) de Haroldo de Campos.\n\nse\nnasce\nmorre nasce\nmorre nasce morre\nrenasce remorre renasce\nremorre renasce\nremorre\nre\nre\ndesnasce\ndesmorre desnasce\ndesmorre desnasce desmorre\nnascemorrenasce\nmorrenasce\nmorre\nse\n\nCAMPOS, Haroldo de. Poema visual: \"nascemorre\". 1967. Reprodução. In: CONEXÃO UFRJ. Cartas de Haroldo de Campos são destaque em novo livro da Editora UFRJ. 7 out. 2022. Disponível em: https://conexao.ufrj.br/2022/10/cartas-de-haroldo-de-campos-sao-destaque-em-novo-livro-da-editora-ufrj/. Acesso em: 15 abr. 2025.\n\nO poema visual filia-se à estética Concretista ao",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "promover uma investigação interior que assegura uma significação única."
+        },
+        {
+          "letra": "B",
+          "texto": "permitir uma leitura não linear que garante uma supressão de discursos."
+        },
+        {
+          "letra": "C",
+          "texto": "tipificar uma disposição gráfica que representa uma dimensão coletiva."
+        },
+        {
+          "letra": "D",
+          "texto": "valorizar uma economia verbal que propõe uma conclusão simbólica."
+        },
+        {
+          "letra": "E",
+          "texto": "estabelecer uma visualidade que permite uma fusão de significados."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Concretismo",
+        "Língua Portuguesa – Poesia Visual"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Era o mês de março, passado um ano. Por sobre a casimira verde das beldroegas polvilhavam-se constelações deslumbrantes de mica, ao sol nascente. No pé do alto, a erva afogava o velame ressequido pelo tremendo verão de dois anos, em acolchoamentos de lã; o sol, a sair por detrás das colinas, produzia sombras no íntimo da infinita camada de frondes vivíssimas, que encobria a terra, com uma soberbia e uma vitória. Os picos amanheciam logo enfronhados em um colarinho de névoas. A pastagem era uma imensa pelúcia. Formigas de asa, com cambiações de madrepérola, à luz baça dos alvos dias de neblina, salpicavam a mancha fulva e remexida dos formigueiros revolucionados pelas águas novas. E o gaitar dos novilhos como que a imprimir por tudo um impulso másculo. A rês não andava agora de ponta caída, mas com um balanceado de cabeça, um donaire de mulher núbil. Aos currais, onde desde o último dia de junho a bem dizer não corriam os paus de porteira pelos buracos dos moirões, recolhiam todas as tardes as vacas a impar de abastança.\n\nPAIVA, Manuel de Oliveira. Dona Guidinha do Poço. São Paulo: Ática, 1981. p. 7.\n\nNo trecho, uma das características do Realismo se manifesta na",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "exaltação sistêmica da natureza."
+        },
+        {
+          "letra": "B",
+          "texto": "aplicação intensa de objetividade."
+        },
+        {
+          "letra": "C",
+          "texto": "descrição detalhada do ambiente."
+        },
+        {
+          "letra": "D",
+          "texto": "retratação idealizada da sociedade."
+        },
+        {
+          "letra": "E",
+          "texto": "representação fiel da individualidade."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Realismo",
+        "Língua Portuguesa – Gêneros Literários"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Alucinação à Beira Mar\n\nUm medo de morrer meus pés esfriava.\nNoite alta. Ante o telúrico recorte,\nNa diuturna discórdia, a equórea coorte\nAtordoadoramente ribombava!\n\nEu, ególatra céptico, cismava\nEm meu destino!... O vento estava forte\nE aquela matemática da Morte\nCom os seus números negros, me assombrava!\n\nMas a alga usufrutuária dos oceanos\nE os malacopterígios subraquianos\nQue um castigo de espécie emudeceu,\n\nNo eterno horror das convulsões marítimas,\nPareciam também corpos de vítimas\nCondenadas à Morte, assim como eu!\n\nANJOS, Augusto dos. Eu e outras poesias. 42. ed. Rio de Janeiro: Civilização Brasileira, 1998.\n\nNo poema de Augusto dos Anjos, o aspecto que o aproxima da teoria do Expressionismo alemão é a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "demonstração de uma interioridade marcada pelo pessimismo."
+        },
+        {
+          "letra": "B",
+          "texto": "representação da morte como caminho para o equilíbrio emocional."
+        },
+        {
+          "letra": "C",
+          "texto": "aplicação da ciência como explicação para os comportamentos humanos."
+        },
+        {
+          "letra": "D",
+          "texto": "apresentação de um viés nacionalista determinado pela expressão coletiva."
+        },
+        {
+          "letra": "E",
+          "texto": "apropriação da natureza como válvula de escape da sociedade corrompida."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Expressionismo",
+        "Língua Portuguesa – Poesia"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "No fim dos anos 1970 e início dos 1980, os capoeiristas baianos Jelon Vieira e Loremil Machado viviam em Nova York, onde davam aulas de capoeira e se apresentavam em shows. Uma amiga então os convidou a se exibir em uma escola pública no Bronx, bairro nova-iorquino considerado o berço moderno do breaking.\n\"Era uma área bem perigosa”, conta à BBC Jelon Vieira, hoje com 71 anos. Ele diz que os alunos – na maioria negros ou latinos praticantes de breaking – assistiram em êxtase à apresentação de capoeira, misto de dança e luta legado por africanos escravizados e seus descendentes no Brasil.\nJelon diz que os estudantes ficaram impressionados com os movimentos e, após a exibição, tentaram imitá-los. Começava ali um intercâmbio que duraria muitos anos e que, segundo Jelon, fez com que o breaking incorporasse vários movimentos da capoeira, entre os quais o pião de cabeça, o relógio e o pião de mão.\n\nOS HÉROIS que espalharam a capoeira pelo mundo – e influenciaram até o breaking. BBC. Disponível em: https://www.bbc.com/. Acesso em: 16 abr. 2025. (adaptado).\n\nSegundo o texto, a influência da capoeira sobre o breaking se evidencia na",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aplicação de conhecimentos de dança aos estudos."
+        },
+        {
+          "letra": "B",
+          "texto": "participação de praticantes de várias nacionalidades."
+        },
+        {
+          "letra": "C",
+          "texto": "inclusão de movimentos do patrimônio afro-brasileiro."
+        },
+        {
+          "letra": "D",
+          "texto": "propagação de experiências históricas de resistência."
+        },
+        {
+          "letra": "E",
+          "texto": "criação de um novo estilo a partir da fusão de ambos."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Arte – Danças e Manifestações Culturais",
+        "História – Cultura Afro-Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "A questão refere-se a duas obras de arte:\n\n**TEXTO I:** PERUGINO, Pietro. Cappella Sistina. 1481-83. Disponível em: https://commons.wikimedia.org/. Acesso em: 15 abr. 2025.\n\n**TEXTO II:** SIENA, Ugolino da. A Última Ceia. 1325-30. Disponível em: https://cantosecantares.com.br/. Acesso em: 15 abr. 2025.\n\nUm traço que diferencia a estética artística expressa no Texto I da estética artística do Texto II se encontra no(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "presença de realismo na ilustração de personagens da Idade Média."
+        },
+        {
+          "letra": "B",
+          "texto": "necessidade de santificação das figuras religiosas no Renascimento."
+        },
+        {
+          "letra": "C",
+          "texto": "emprego do contraste entre luz e sombra iniciado pela arte medieval."
+        },
+        {
+          "letra": "D",
+          "texto": "rejeição de cores intensas em elementos centrais da arte teocêntrica."
+        },
+        {
+          "letra": "E",
+          "texto": "valorização da perspectiva renascentista na construção dos cenários."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Arte – História da Arte",
+        "Arte – Renascimento",
+        "Arte – Arte Medieval"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "\"Galileu está de cama e sem dinheiro. Uma maravilhosa invenção surge em Veneza e se transforma em uma chance para ele mudar de vida\", descreve o episódio \"Mensageiro das estrelas\", do podcast Vinte Mil Léguas, criado e apresentado por Leda Cartum e Sofia Nestrovski. Para os ouvintes, a narração dessa imagem inusitada do astrônomo, físico e matemático italiano Galileu Galilei (1564-1642) desperta curiosidade: afinal, que reviravolta está reservada ao pai da ciência moderna? Enganchado pela trama de um podcast como este, dedicado à ciência e à literatura, ou a tantos outros voltados a diferentes gêneros e assuntos, o Brasil se tornou o segundo país do mundo em consumo e criação de podcasts, segundo levantamento do tocador de áudios Spotify.\n\nSCARPIN, Paula; PALMEIRA, Rita. Narrativas sonoras. Revista E, São Paulo: janeiro, ano 3. Disponível em: https://www.sescsp.org.br. Acesso em: 10 abr. 2025.\n\nDe acordo com o texto, o tipo de podcast apresentado é composto pela",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "invenção biográfica de personagens fictícios, para atrair a audiência."
+        },
+        {
+          "letra": "B",
+          "texto": "divulgação de teorias científicas, ainda que sem respaldo acadêmico."
+        },
+        {
+          "letra": "C",
+          "texto": "participação ativa dos ouvintes, a fim de escolherem temas favoritos."
+        },
+        {
+          "letra": "D",
+          "texto": "veiculação de pautas feministas, para resguardar seus lugares de fala."
+        },
+        {
+          "letra": "E",
+          "texto": "criação de suspense narrativo, a fim de prender a atenção do público."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Gêneros Textuais",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Entretanto o peão, erguendo-se do pelego, se aproximara da porta e olhava com atenção para o viajante.\n\nA modo que estou conhecendo ao senhor? acudiu ele.\nPode ser, chamo-me Manuel Canho, para o servir.\nOutro tanto; Francisco da Graça, mas todos me conhecem por Chico Baeta, um seu criado. Seu nome não me é estranho. Manuel Canho... De Ponche-Verde?\nIsso mesmo.\nBem dizia eu. Agora me alembro; foi em umas corridas no Alegrete, há coisa assim como dois anos a esta parte.\nO senhor não esteve lá?\nFui um dos que correram.\nBem sei; e ganhou aos vencedores. Pois é isso, que eu tinha cá na ideia. E querem ver?\nProferindo estas palavras, o Chico Baeta afastou-se do morzelo para melhor examiná-lo.\nNão há dúvida. Foi este o moço?\nÉ verdade!\nEh pingo! exclamou o peão, dando com entusiasmo uma palmada na anca do animal.\nSó compreenderá a energia da exclamação do Chico Baeta quem souber que pingo é o epíteto mais terno que o gaúcho dá a seu cavalo. Quando ele diz “meu pingo” é como se dissesse meu amigo do coração, meu amigo leal e generoso.\n\nALENCAR, José de. O gaúcho. 3. ed. São Paulo: Ática, 1998. Disponível em: http://www.dominiopublico.gov.br/. Acesso em: 16 abr. 2025.\n\nO diálogo presente no excerto revela uma variedade linguística marcada, especialmente, pelo(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "diferença de classes sociais e sua expressão popular específica."
+        },
+        {
+          "letra": "B",
+          "texto": "desvio da gramática normativa e sua rejeição de fala complexa."
+        },
+        {
+          "letra": "C",
+          "texto": "erudição do diálogo das personagens e seus termos arcaicos."
+        },
+        {
+          "letra": "D",
+          "texto": "enaltecimento de um dialeto regional e sua riqueza vocabular."
+        },
+        {
+          "letra": "E",
+          "texto": "progresso da linguagem falada e sua evolução cronológica."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Variedades Linguísticas",
+        "Língua Portuguesa – Regionalismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Em geral, compreende-se como barroca a arte desenvolvida no século XVII. Contudo, alguns historiadores costumam apontar como o início da época barroca os anos finais do século XVI, que com a arte religiosa da contrarreforma teria gerado os primeiros frutos do que viria a ser a arte barroca, plenamente desenvolvida apenas durante a primeira metade do século XVII. Como marco inicial, aponta-se a primeira igreja da recém-fundada Companhia de Jesus em Roma, a Igreja de Jesus, 1568, com a fachada de Giacomo della Porta (ca.1541-1604). Alguns teóricos fazem avançar o estilo barroco até meados do século XVIII, com sua derivação rococó ou rocaille, cuja graciosidade requintada de formas sinuosas e assimétricas pode ser vista como um processo natural de desenvolvimento do anterior.\n\nBARROCO nas artes visuais. Enciclopédia Itaú Cultural. São Paulo: Itaú Cultural, [s.d.]. Disponível em: https://enciclopedia.itaucultural.org.br. Acesso em: 12 abr. 2025.\n\nO gênero a que pertence o texto anterior caracteriza-se pela",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "objetividade informativa desvinculada de opiniões pessoais."
+        },
+        {
+          "letra": "B",
+          "texto": "análise crítica de artefatos estéticos para convencer o leitor."
+        },
+        {
+          "letra": "C",
+          "texto": "descrição profunda da religiosidade hegemônica do Ocidente."
+        },
+        {
+          "letra": "D",
+          "texto": "utilização de uma linguagem figurada no trato do tema central."
+        },
+        {
+          "letra": "E",
+          "texto": "parcialidade do enunciador ao aderir a uma corrente das artes."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Gêneros Textuais",
+        "Língua Portuguesa – Leitura e Compreensão"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "A questão refere-se a uma tirinha com o título \"O desempregado mais folgado do mundo\" (GUABIRAS). O diálogo na tirinha é o seguinte:\n\n**Entrevistador:** ME FALE SUAS QUALIDADES\n**Candidato:** QUALIDADES... BOM, EU SEI TUDO SOBRE STAR WARS, X-MEN, BREAKING BAD E FAÇO FAROFA DE OVO COMO NINGUÉM!\n**Entrevistador:** E COM ISSO VOCÊ ACHA QUE VAI GANHAR UMA VAGA NESTA EMPRESA?!\n**Candidato:** CLARO! MAS DE PREFERÊNCIA A TARDE, PORQUE EU ACORDO DEPOIS DE MEIO DIA...\n\nO efeito de humor produzido na tirinha decorre, principalmente, da estratégia de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "construir um elogio indireto ao improviso como sinal de autenticidade."
+        },
+        {
+          "letra": "B",
+          "texto": "contrapor a formalidade esperada às respostas inusitadas do candidato."
+        },
+        {
+          "letra": "C",
+          "texto": "destacar a incapacidade do entrevistado de lidar com o diálogo informal."
+        },
+        {
+          "letra": "D",
+          "texto": "apresentar o candidato como alguém ciente da inadequação de suas falas."
+        },
+        {
+          "letra": "E",
+          "texto": "satirizar práticas empresariais por meio de argumentos baseados na cultura pop."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Gêneros Textuais",
+        "Língua Portuguesa – Humor e Ironia"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Em 9 de outubro de 2024, passou a vigorar a Lei 14.994 [no Código Penal, conjunto de leis que define os crimes, as penas e os princípios do Direito Penal], que aumenta a pena dos feminicidas para até 40 anos de reclusão. Em várias ocorrências, a vítima entra com medida protetiva, denuncia o algoz e o Poder Público se omite, não cumpre com a função que se espera: acolhimento e proteção. Quantas não foram assassinadas depois de implorar por ajuda, mais de uma vez, na delegacia? Quantas não foram ridicularizadas ou tratadas com desdém por policiais homens? Quando o Estado não age rapidamente para impedir uma tragédia, torna-se conivente, cúmplice. Acolher, escutar, registrar a denúncia, investigar, prender o agressor nada mais são do que obrigações do Poder Público.\n\nCRAVEIRO, Rodrigo. Misóginos não passarão. Correio Braziliense, Distrito Federal, 2 abr. 2025. Disponível em: https://www.correiobraziliense.com.br. Acesso em: 9 abr. 2025.\n\nNesse fragmento, uma estratégia argumentativa empregada pelo autor para potencializar o teor de sua tese evidencia-se na",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "construção de perguntas retóricas cujo papel é fazer refletir."
+        },
+        {
+          "letra": "B",
+          "texto": "exemplificação de um caso de grande repercussão nacional."
+        },
+        {
+          "letra": "C",
+          "texto": "listagem de evidências contestatórias à existência de uma lei."
+        },
+        {
+          "letra": "D",
+          "texto": "enumeração de ações ainda desconhecidas pelas autoridades."
+        },
+        {
+          "letra": "E",
+          "texto": "citação da Constituição Federal como argumento de autoridade."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Estratégias Argumentativas",
+        "Sociologia – Questões de Gênero e Violência"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Em vez de escrever sobre o que já sabe, escreva sobre o que vê. Leio essa frase num livro de Sigrid Nunez, conselho que ela recebeu de um amigo para que a escrita não se faça doutrinária e comum. Leio essa frase e sinto uma vontade repentina de fazer o que ela faz, o que ela narra em seguida, de caminhar pelas ruas da cidade ensandecida e ver, de seguir rente aos personagens que passam a cada segundo e ver, de me fazer testemunha ocular do dia presente. São dois ou três quarteirões entre minha casa e o escritório, o retalho de mundo que tenho para descrever. A princípio, como ela, dou atenção aos corpos em posição inusual, estendidos no chão. Um homem está deitado no chão, vejo seus pés descalços.\n\nFUKS, Julián. Ver para escrever: a cidade em movimento revela sua riqueza. UOL, 29 mar. 2025. Disponível em: https://www.uol.com.br. Acesso em: 10 abr. 2025.\n\nDe acordo com o excerto anterior, infere-se que a perspectiva de escrita do cronista",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "adota a tematização de crimes reais, apontando um caso de morte."
+        },
+        {
+          "letra": "B",
+          "texto": "considera o contexto imediato, aguçando a sensibilidade com empirismo."
+        },
+        {
+          "letra": "C",
+          "texto": "enriquece-se da experiência abstrata, criando personagens não lineares."
+        },
+        {
+          "letra": "D",
+          "texto": "legitima textos de caráter fantástico, confundido pessoas com personagens."
+        },
+        {
+          "letra": "E",
+          "texto": "ignora o senso de criatividade própria, imitando um estilo textual consagrado."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Gêneros Literários",
+        "Língua Portuguesa – Crônica",
+        "Língua Portuguesa – Estilos de Escrita"
+      ]
+    }
+  ]
+}

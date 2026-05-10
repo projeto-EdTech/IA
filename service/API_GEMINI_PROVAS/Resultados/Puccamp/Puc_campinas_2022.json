@@ -1,0 +1,862 @@
+{
+  "nomeUniversidade": "Pontifícia Universidade Católica de Campinas",
+  "siglaUniversidade": "PUC Campinas",
+  "nomeProva": "Processo Seletivo – Vestibular 1º Semestre de 2022 - Prova Geral dos Demais Cursos",
+  "ano": 2021,
+  "qtdeQuestoes": 40,
+  "questoes": [
+    {
+      "numeroEnunciado": "1",
+      "enunciadoCompleto": "Atenção: Para responder às questões de números 1 a 8, baseie-se no texto abaixo.\n\nLíngua Portuguesa – Literatura Brasileira – Língua Inglesa\n\nAtenção: Para responder às questões de números 1 a 8, baseie-se no texto abaixo.\n\nOs anos seguintes à proclamação da Independência, em 7 de setembro de 1822, foram marcados por agitações políticas e intensas negociações sobre a criação da nação brasileira e a definição de um perfil de Estado nacional. Era preciso investir na for- mação de uma elite intelectual capaz de gerir a pátria recém-emancipada, instituindo-lhe uma identidade própria, em oposição à portu- guesa. Mais do que novas leis, o país precisava de uma consciência jurídica que deveria emanar de cursos estabelecidos em ter- ritório nacional. Foram esses, entre outros, os argumentos que deram o tom das discussões políticas que culminaram nas duas primeiras faculdades de direito do Brasil, em agosto de 1827, em São Paulo e Recife. “A criação de escolas de direito nas regiões Sul e Norte, como se dizia à época, pretendia integrar as diferentes regiões do país, fortalecendo a unidade territorial”, explica a advogada e historiadora Ana Paula Araújo de Almeida, da Universidade de Fortaleza, Ceará.\n\nA proposta de criação de um curso de direito foi apresentada em 1823. Tratava-se de um pedido de brasileiros matriculados na Universidade de Coimbra, em Portugal, onde a maioria dos que pretendiam seguir nas profissões jurídicas estudava. O projeto, apresentado pelo advogado Fernandes Pinheiro, foi encaminhado para debate na Assembleia, e logo iniciaram-se as divergências sobre a localização dos cursos. Os debates transcorreram de forma apaixonada. “Os parlamentares advogavam em favor de suas províncias de origem, já que desses cursos sairia a elite política do país”, comenta a advogada e historiadora Bianca Steffania Apostolova, da Faculdade de Direito da Universidade de Brasília. O projeto aprovado na Assembleia Geral, no entanto, não rompeu totalmente com a tradição jurídica portuguesa. Houve desencontros entre as intenções dos parlamentares e a prática, segundo Bistra. Adotaram-se provisoriamente os Estatutos da Universidade de Coimbra.\n\nAmbas as faculdades tornaram-se importantes polos inspiradores das artes literárias e poéticas nacionais, contribuindo para a construção da identidade nacional. As instituições também foram importantes para os principais movimentos cívicos, literários e políticos que se seguiram ao longo das décadas no país, como os que levaram à proclamação da República, em 1889, e à Abolição, um ano antes.\n\n(Adaptado de ANDRADE, Rodrigo de Oliveira. “Para formar homens de lei”. Revista Pesquisa Fapesp. out/2017)\n\n1. Infere-se do texto que os debates travados em favor da criação de faculdades de direito no país estavam atrelados",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "vantagens financeiras advindas da formação acadêmica em território nacional."
+        },
+        {
+          "letra": "A",
+          "texto": "o anseio de fundação de uma identidade própria do (novo) país."
+        },
+        {
+          "letra": "A",
+          "texto": "o ímpeto de fortalecer os ideais revolucionários que culminaram na Independência."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "História – Brasil Império"
+      ]
+    },
+    {
+      "numeroEnunciado": "2",
+      "enunciadoCompleto": "2. No contexto, o segmento já que desses cursos sairia a elite política do país (2º parágrafo) estabelece noção de",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "ausa."
+        },
+        {
+          "letra": "C",
+          "texto": "onsequência."
+        },
+        {
+          "letra": "C",
+          "texto": "omparação."
+        },
+        {
+          "letra": "C",
+          "texto": "ondição."
+        },
+        {
+          "letra": "C",
+          "texto": "ontraste."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Conectivos e Coesão Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": "3",
+      "enunciadoCompleto": "3. O termo sublinhado acima refere-se a",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Referência e Substituição"
+      ]
+    },
+    {
+      "numeroEnunciado": "4",
+      "enunciadoCompleto": "4. No contexto, o termo sublinhado acima exerce a mesma função sintática do termo sublinhado em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mbas as faculdades tornaram-se importantes polos inspiradores das artes literárias e poéticas nacionais (3º parágrafo)"
+        },
+        {
+          "letra": "C",
+          "texto": "omo se ele levaram à proclamação da República (3º parágrafo)"
+        },
+        {
+          "letra": "A",
+          "texto": "maioria dos que pretendiam seguir nas profissões jurídicas (2º parágrafo)"
+        },
+        {
+          "letra": "E",
+          "texto": "logo iniciaram-se as divergências sobre a localização dos cursos (2º parágrafo)"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Sintaxe do Período"
+      ]
+    },
+    {
+      "numeroEnunciado": "5",
+      "enunciadoCompleto": "5. A criação de escolas de direito nas regiões Sul e Norte [...] pretendia integrar as diferentes regiões do país, fortalecendo a unidade territorial (1º parágrafo)\n\nA ideia explicitada na frase acima está contemplada de forma gramaticalmente correta em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "inda que a criação de escolas de direito nas regiões Sul e Norte pretendessem integrar as diferentes regiões do país, fortaleceriam a unidade territorial."
+        },
+        {
+          "letra": "D",
+          "texto": "esde que fortalecessem a unidade territorial, a criação de escolas de direito nas regiões Sul e Norte integrarão as dife- rentes regiões do país."
+        },
+        {
+          "letra": "A",
+          "texto": "intenção da criação de escolas de direito nas regiões Sul e Norte era a de integrar as diferentes regiões do país, de modo a fortalecer a unidade territorial."
+        },
+        {
+          "letra": "A",
+          "texto": "s diferentes regiões do país a menos que se integrassem para fortalecer a unidade territorial, tencionavam criar escolas de direito nas regiões Sul e Norte."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Reescrita de Frases"
+      ]
+    },
+    {
+      "numeroEnunciado": "6",
+      "enunciadoCompleto": "6. O autor recorreu à elipse - omissão de uma palavra que se subentende – no seguinte trecho:",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "apaz de gerir a pátria recém-emancipada (1º parágrafo)"
+        },
+        {
+          "letra": "E",
+          "texto": "m oposição à portuguesa (1º parágrafo)"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Figuras de Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": "7",
+      "enunciadoCompleto": "7. Mantendo o sentido original, o termo sublinhado pode ser substituído pelo que se encontra entre parênteses em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "definição de um perfil de Estado nacional (recurso)."
+        },
+        {
+          "letra": "A",
+          "texto": "mbas as faculdades tornaram-se importantes polos inspiradores (instrumentos)."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Sinônimos e Antônimos"
+      ]
+    },
+    {
+      "numeroEnunciado": "8",
+      "enunciadoCompleto": "8. No contexto em que se insere, o verbo que pode ser corretamente flexionado em uma forma do plural está sublinhado em:",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "esses cursos sairia a elite política do país."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Concordância Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": "9",
+      "enunciadoCompleto": "Atenção: Leia o trecho do capítulo CXIII, intitulado \"Embargos de terceiro\", do romance Dom Casmurro, de Machado de Assis, para responder às questões 9 e 10.\n\nPor falar nisto, é natural que me perguntes se, sendo antes tão cioso dela, não continuei a sê-lo apesar do filho e dos anos. Sim, senhor, continuei. Continuei a tal ponto que o menor gesto me afligia, a mais ínfima palavra, uma insistência qualquer; muita vez só a indiferença bastava. Cheguei a ter ciúmes de tudo e de todos. Um vizinho, um par de valsa, qualquer homem, moço ou maduro, me enchia de terror ou desconfiança. É certo que Capitu gostava de ser vista, e o meio mais próprio a tal fim (disse-me uma senhora, um dia) é ver também, e não há ver sem mostrar que se vê.\n\nA senhora que me disse isto cuido que gostou de mim, e foi naturalmente por não achar da minha parte correspondência aos seus afetos que me explicou daquela maneira os seus olhos teimosos. [...]\n\nAo teatro íamos juntos; só me lembra que fosse duas vezes sem ela, um benefício de ator, e uma estreia de ópera, a que ela não foi por ter adoecido, mas quis por força que eu fosse. Era tarde para mandar o camarote a Escobar; saí, mas voltei no fim do primeiro ato. Encontrei Escobar à porta do corredor.\n\n(ASSIS, Machado de. Dom Casmurro)\n\n9. O narrador dirige-se diretamente ao leitor, incluindo-o na narrativa, no seguinte trecho:",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "ontinuei a tal ponto que o menor gesto me afligia (1º parágrafo)"
+        },
+        {
+          "letra": "E",
+          "texto": "ncontrei Escobar à porta do corredor (3º parágrafo)"
+        },
+        {
+          "letra": "A",
+          "texto": "senhora que me disse isto cuido que gostou de mim (2º parágrafo)"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Funções da Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": "10",
+      "enunciadoCompleto": "10. Ao declarar que era tão cioso dela, Bentinho",
+      "alternativas": [
+        {
+          "letra": "B",
+          "texto": "usca legitimar o sentimento de ciúmes."
+        },
+        {
+          "letra": "A",
+          "texto": "rrepende-se de ter sido afetuoso com Capitu após a traição."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": "11",
+      "enunciadoCompleto": "11. Eram de parecer que a poesia (a prosa de ficção fugia dos seus propósitos) devesse autojustificar-se como ato criador de Beleza, sem qualquer intuito pragmático. De onde, por via de uma erudição que não excluía as religiões, o estudo das línguas, mesmo as orientais, a arqueologia, a história, desembocaram na Antiguidade greco-latina.\n\n(Adaptado de: MOISÉS, Massaud. Dicionário de termos literários. São Paulo; Cultrix, 1998)\n\nNo trecho acima, descrevem-se características do movimento literário conhecido como",
+      "alternativas": [
+        {
+          "letra": "B",
+          "texto": "arroco."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Escolas Literárias"
+      ]
+    },
+    {
+      "numeroEnunciado": "12",
+      "enunciadoCompleto": "12.\nLembrança de morrer\nQuando em meu peito rebentar-se a fibra,\nQue o espírito enlaça à dor vivente,\nNão derramem por mim nem uma lágrima\nEm pálpebra demente.\n[...]\nEu deixo a vida como deixa o tédio\nDo deserto o poento caminheiro...\nComo as horas de um longo pesadelo\nQue se desfaz ao dobre de um sineiro...\n\n(AZEVEDO, Álvares de. Lira dos vinte anos)\n\nNesse trecho do poema, o eu lírico assinala",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aversão ao subjetivismo."
+        },
+        {
+          "letra": "A",
+          "texto": "ausência da alegria de viver."
+        },
+        {
+          "letra": "A",
+          "texto": "crítica ao individualismo."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Interpretação de Poema"
+      ]
+    },
+    {
+      "numeroEnunciado": "13",
+      "enunciadoCompleto": "13. Leia o trecho de Vidas Secas, de Graciliano Ramos.\n\nAgora Fabiano era vaqueiro e ninguém o tiraria dali. Aparecera como um bicho, entocara-se como um bicho, mas criara raízes, estava plantado. Olhou as quipás, os mandacarus e os xiques-xiques. Era mais forte que tudo isso, era como as catingueiras e as baraúnas. Ele, sinhá Vitória, os dois filhos e cachorra Baleia estavam agarrados à terra.\n\nEntristeceu. Considerar-se plantado em terra alheia! Engano. A sina dele era correr mundo, andar para cima e para baixo, à toa. Um vagabundo empurrado pela seca. Achava-se ali de passagem, era hóspede. Sim senhor, hóspede que se demorava demais, tomava amizade à casa, ao curral, ao chiqueiro das cabras, ao juazeiro que os tinha abrigado uma noite.\n\nNo trecho acima, Fabiano",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "onscientiza-se de que se apegara a uma terra da qual não era proprietário."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": "14",
+      "enunciadoCompleto": "Atenção: Para responder às questões de números 14 e 15, considere o texto abaixo.\n\nMen Adrift\nCynthia Fuchs Epstein\nThe Betrayal of the American Man by Susan Faludi, William Morrow & Co., 1999 662 pp. \\$27.50\n\nScores of men, their wives and partners, friends and kin, and the sharks that have exploited them come alive through Faludi's keen reporting. The men she writes about are presented as prototypes of the generation of baby-boomer men who have experienced layoffs, broken promises of upard mobility, the Vietnam War, meaningless work, and new definitions of \"what it means to be a man\" in contemporary America. A further \"cause” of their plight, she writes, is the emphasis on celebrity in American culture. The narratives in Faludi's book are woven through with themes of loss and the substitution of superficial values for the \"real\" values of meaningful work.\n\nFaludi asserts that many men today feel \"shipwrecked\" in a service economy, but that this is only the start of their troubles. Victims of downsizing and de-skilling, they no longer play breadwinner roles in their families and develop difficulties in their marriages. In some cases, wives they once supported now support them.\n\nThrough this book she hopes to make men conscious of their condition and to encourage them to mobilize in ways approximating the women's movement of the 1960s and 1970s. This is a commendable task, but it is doubtful whether men will either accept its premises or identify with the individuals Faludi refers to in making her case.\n\n(Adapted from https://www.dissentmagazine.org)\n\n14. A geração retratada no livro de Faludi é constituída de",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Atenção: Para responder às questões de números 14 e 15, considere o texto abaixo. Men Adrift Cynthia Fuchs Epstein The Betrayal of the American Man by Susan Faludi, William Morrow & Co., 1999 662 pp. $27.50 Scores of men, their wives and partners, friends and kin, and the sharks that have exploited them come alive through Faludi's keen reporting. The men she writes about are presented as prototypes of the generation of baby-boomer men who have experienced layoffs, broken promises of upard mobility, the Vietnam War, meaningless work, and new definitions of \"what it means to be a man\" in contemporary America. A further \"cause” of their plight, she writes, is the emphasis on celebrity in American culture. The narratives in Faludi's book are woven through with themes of loss and the substitution of superficial values for the \"real\" values of meaningful work. Faludi asserts that many men today feel \"shipwrecked\" in a service economy, but that this is only the start of their troubles. Victims of downsizing and de-skilling, they no longer play breadwinner roles in their families and develop difficulties in their marriages. In some cases, wives they once supported now support them. Through this book she hopes to make men conscious of their condition and to encourage them to mobilize in ways approximating the women's movement of the 1960s and 1970s. This is a commendable task, but it is doubtful whether men will either accept its premises or identify with the individuals Faludi refers to in making her case. (Adapted from https://www.dissentmagazine.org) De acordo com o texto,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a situação do homem atual assemelha-se à situação feminina nas décadas de 1960 e 1970."
+        },
+        {
+          "letra": "B",
+          "texto": "Epstein, a autora da resenha, duvida que o livro de Faludi possa alcançar seu louvável objetivo."
+        },
+        {
+          "letra": "C",
+          "texto": "Faludi pretende incutir em seus leitores masculinos a autoestima para recuperarem seu papel de provedores da família."
+        },
+        {
+          "letra": "D",
+          "texto": "o problema dos baby boomers masculinos teve início quando as empresas começaram a enxugar seus quadros."
+        },
+        {
+          "letra": "E",
+          "texto": "os homens desempregados não conseguem aceitar o fato de terem de ser sustentados pelas esposas."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "On May 13, 1888, Brazilian Princess Isabel of Bragança signed Imperial Law number 3,353. I it contained just 18 words, it is one of the most important pieces of legislation in Brazilian history. Called the \"Golden Law,\" it abolished slavery in all its forms. A palavra que melhor completa a lacuna I do texto é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Although"
+        },
+        {
+          "letra": "B",
+          "texto": "For"
+        },
+        {
+          "letra": "C",
+          "texto": "Then"
+        },
+        {
+          "letra": "D",
+          "texto": "Despite"
+        },
+        {
+          "letra": "E",
+          "texto": "However"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Inglês – Conectivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Biologia – Química A colonização do ambiente terrestre pelos vertebrados teve início no período Devoniano, há mais de 350 milhões de anos. No entanto, a independência da água foi conquistada posteriormente, com",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o desenvolvimento da locomoção tetrápode."
+        },
+        {
+          "letra": "B",
+          "texto": "a evolução de pulmões para trocas gasosas."
+        },
+        {
+          "letra": "C",
+          "texto": "a excreção principalmente composta por ureia."
+        },
+        {
+          "letra": "D",
+          "texto": "o aparecimento da fecundação interna."
+        },
+        {
+          "letra": "E",
+          "texto": "o surgimento do ovo amniótico."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Biologia – Evolução dos Vertebrados",
+        "Biologia – Embriologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Considere as etapas do desenvolvimento de uma comunidade apresentadas na figura e as seguintes afirmações abaixo: I. As curvas X e Y podem representar, respectivamente, produtividade primária líquida e biomassa. II. Uma grande quantidade de carbono é armazenada na fase II. III. Na fase III a comunidade apresenta teias alimentares complexas. Está correto o que se afirma APENAS em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I."
+        },
+        {
+          "letra": "B",
+          "texto": "I e II."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "III."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Biologia – Ecologia – Sucessão Ecológica"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Atenção: Para responder às questões de números 19 a 22, considere o texto abaixo. Como plantar rosas Não importa se vermelha, amarela, branca ou outra das diversas cores e nuances que possui, a rosa, a mais cobiçada das flores, é a celebração do amor, da compaixão e do carinho entre amantes, familiares, amigos e povos desde a Antiguidade. [...] Da família das rosáceas, a planta é encontrada nas variedades arbustiva, cerca viva, híbrida-de-chá, mini rosa, rasteira, sempre florida, biscuit e trepadeira. Todas apresentam a exuberância inerente à flor, com pétalas em diferentes formatos e aroma de perfume suave. Há opções para plantios em canteiros e em vasos, mas os cultivos devem ser sempre realizados em terra fofa e de qualidade. No Nordeste e no Cerrado, onde o solo é mais alcalino, recomenda-se o uso de pelo menos 50 gramas de calcário por metro quadrado. (Adaptado de: Revista Globo Rural; abr. 2018) Nas rosas, o número básico de cromossomos é $X=7$ e no gênero Rosa são encontradas espécies com diferentes ploidias. O encontro de gametas de uma espécie diploide com uma espécie tetraploide resultará na formação de embriões com",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7 cromossomos."
+        },
+        {
+          "letra": "B",
+          "texto": "14 cromossomos."
+        },
+        {
+          "letra": "C",
+          "texto": "21 cromossomos."
+        },
+        {
+          "letra": "D",
+          "texto": "28 cromossomos."
+        },
+        {
+          "letra": "E",
+          "texto": "42 cromossomos."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Biologia – Genética – Ploida",
+        "Biologia – Genética – Meiose/Formação de Gametas"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "A rosa é um exemplo de planta dicotiledônea e, portanto, apresenta algumas características desse grupo, como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "flores trímeras e grãos de pólen com uma abertura."
+        },
+        {
+          "letra": "B",
+          "texto": "raiz pivotante e folhas pecioladas."
+        },
+        {
+          "letra": "C",
+          "texto": "folhas invaginantes e estômatos."
+        },
+        {
+          "letra": "D",
+          "texto": "feixes vasculares dispersos e flores completas."
+        },
+        {
+          "letra": "E",
+          "texto": "dois cotilédones e venação foliar paralela."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Biologia – Botânica – Angiospermas (Dicotiledôneas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "O calcário calcítico possui, em média, 50%, em massa, de $CaCO_3$. A quantidade de $CaCO_3$ do calcário calcítico, em mols, utilizada quando $1.000$ $m^2$ de solo mais alcalino for corrigido, é de, aproximadamente: Dados: massas molares ($g/mol$) $Ca = 40,0$ $C = 12,0$ $O = 16,0$",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "50"
+        },
+        {
+          "letra": "B",
+          "texto": "250"
+        },
+        {
+          "letra": "C",
+          "texto": "350"
+        },
+        {
+          "letra": "D",
+          "texto": "400"
+        },
+        {
+          "letra": "E",
+          "texto": "500"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Química – Estequiometria",
+        "Química – Soluções e pH"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "O quadro a seguir mostra algumas culturas e seus respectivos pH de solo preferenciais. As culturas que melhor se adaptariam em solos mais alcalinos são",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "berinjela e salsa."
+        },
+        {
+          "letra": "B",
+          "texto": "agrião e cebola."
+        },
+        {
+          "letra": "C",
+          "texto": "feijão e salsa."
+        },
+        {
+          "letra": "D",
+          "texto": "espinafre e pimenta."
+        },
+        {
+          "letra": "E",
+          "texto": "berinjela e feijão."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Química – pH e Soluções",
+        "Biologia – Agronomia"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "A ilustração abaixo mostra a limpeza da pele quando se usa água e sabão. As ligações intermoleculares que se formam entre a sujeira e o sabão e entre a água e o sabão são, respectivamente,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "dipolo-dipolo e Van der Waals."
+        },
+        {
+          "letra": "B",
+          "texto": "Van der Waals e ligação de hidrogênio."
+        },
+        {
+          "letra": "C",
+          "texto": "dipolo-dipolo e dipolo-dipolo."
+        },
+        {
+          "letra": "D",
+          "texto": "ligação de hidrogênio e dipolo-dipolo."
+        },
+        {
+          "letra": "E",
+          "texto": "Van der Waals e Van der Waals."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Química – Forças Intermoleculares",
+        "Química – Química Orgânica – Sabões e Detergentes"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Os compostos a seguir compõem o óleo essencial de citronela, usado como repelente de insetos em cosméticos e velas decorativas. Há presença de carbono quiral (assimétrico) APENAS em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "III e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "I, II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e IV."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Química – Química Orgânica – Isomeria Óptica"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Matemática e Raciocínio Lógico - Física Felipe coleciona moedas de continentes diferentes. Ele tem 7 moedas da Europa, 5 moedas da África, 10 moedas da América do Sul e 4 moedas da Ásia. Felipe guarda suas moedas em caixinhas. Na caixinha dourada guarda todas as moedas de seu continente favorito, e o resto de sua coleção guarda em três caixinhas prateadas com o mesmo número de moedas em cada uma delas. O número de moedas guardadas em cada caixinha prateada é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "7"
+        },
+        {
+          "letra": "B",
+          "texto": "4"
+        },
+        {
+          "letra": "C",
+          "texto": "5"
+        },
+        {
+          "letra": "D",
+          "texto": "6"
+        },
+        {
+          "letra": "E",
+          "texto": "3"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Matemática – Raciocínio Lógico",
+        "Matemática – Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Uma chave Pix é formada por 9 algarismos distintos, sendo que o primeiro é 9. O número de chaves distintas com essas características é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$9 \\times 7!$"
+        },
+        {
+          "letra": "B",
+          "texto": "$8!$"
+        },
+        {
+          "letra": "C",
+          "texto": "$9!$"
+        },
+        {
+          "letra": "D",
+          "texto": "$7!$"
+        },
+        {
+          "letra": "E",
+          "texto": "$81 \\times 6!$"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Matemática – Análise Combinatória – Permutação"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Em uma escola, 60% dos estudantes são moças e 15% são rapazes esportistas. Se um estudante escolhido ao acaso dessa escola é um rapaz, a probabilidade de ele não ser um esportista é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,375"
+        },
+        {
+          "letra": "B",
+          "texto": "0,625"
+        },
+        {
+          "letra": "C",
+          "texto": "0,250"
+        },
+        {
+          "letra": "D",
+          "texto": "0,400"
+        },
+        {
+          "letra": "E",
+          "texto": "0,550"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Matemática – Probabilidade – Probabilidade Condicional"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Atenção: Para responder às questões de números 28 a 30, considere o texto abaixo. Aquecimento do Oceano Os oceanos do planeta Terra absorveram uma quantidade recorde de calor no ano passado, de acordo com um novo estudo, que analisou dados de 1950 a 2019. Segundo as informações, a temperatura média dos oceanos em 2019 era $0,075$ $°C$, acima da média de 1981 a 2010. Pode parecer pouco, mas, considerando o grande volume dos oceanos, até mesmo um pequeno aumento exigiria um fluxo impressionante de calor – o equivalente a 228 sextilhões de Joules, segundo o estudo de uma equipe internacional de cientistas, publicado na revista Advances in Atmospheric Sciences. A pesquisa do grupo fornece evidências incontestáveis de que o planeta está esquentando – e rapidamente. De 1987 a 2019, os oceanos esquentaram quatro vezes e meia mais rapidamente do que entre 1955 e 1986. Quando os oceanos esquentam, o gelo derrete mais rápido e a água se expande, ocupando mais espaço e fazendo o nível do mar subir. Além disso, oceanos mais quentes significam mais água evaporando na atmosfera, criando mais umidade, o que pode sobrecarregar as tempestades. (Disponível em: https://olhardigital.com.br) A equação de dilatação volumétrica é dada por $V = V_0(1 + \\gamma(T – T_0))$, Dados: V: volume final ($m^3$) $V_0$: volume inicial ($m^3$) $\\gamma$: coeficiente de dilatação ($°C^{-1}$) T: temperatura final ($°C$) $T_0$: temperatura inicial ($°C$) Supondo que o aumento de temperatura foi de $0,075$ $°C$ e $\\gamma = 1,3 \\times 10^{-4}$, o aumento percentual do volume foi de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,000975%"
+        },
+        {
+          "letra": "B",
+          "texto": "0,00975%"
+        },
+        {
+          "letra": "C",
+          "texto": "0,00013%"
+        },
+        {
+          "letra": "D",
+          "texto": "0,0075%"
+        },
+        {
+          "letra": "E",
+          "texto": "0,00075%"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Física – Termologia – Dilatação Volumétrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Estima-se que existam $1,3 \\times 10^{21}$ litros de água na Terra, sendo que $0,04\\%$ dessa água está em rios e lagos. Considere o calor específico e a densidade da água respectivamente iguais a $4$ J/g. $^\\circ$C e $1,0$ g/cm$^3$ e suponha que, em média, a temperatura da água existente nos rios e lagos seja $20 \\ ^\\circ$C. Se fornecêssemos à quantidade de água existente nos rios e lagos $1,0\\%$ da energia de $228$ sextilhões de joules ($2,28 \\times 10^{23}$ J) citada no texto, sua temperatura final, seria, em graus Celsius, aproximadamente:",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudoAbordado": "Física – Calorimetria"
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Considere que a massa da Terra seja igual a $6,0 \\times 10^{24}$ kg e que sua velocidade média de translação ao redor do Sol seja $30$ km/s. A energia cinética da Terra nesse movimento é maior do que a quantidade de calor responsável pelo aumento da temperatura dos oceanos nos últimos anos ($2,28 \\times 10^{23}$ J) de um fator aproximadamente igual a:",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudoAbordado": "Física – Energia Cinética"
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Um cilindro de aço, de densidade $7,8$ g/cm$^3$ e volume $30$ cm$^3$, está suspenso por um fio inextensível e de peso desprezível. Considerando a aceleração gravitacional igual a $10$ m/s$^2$, a diferença entre as tensões sobre esse fio, em newtons, quando o cilindro está suspenso no ar e quando está totalmente submerso em um líquido de densidade $0,8$ g/cm$^3$, é:",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudoAbordado": "Física – Hidrostática (Empuxo)"
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "A figura abaixo mostra um lápis de comprimento $10$ cm colocado sobre o centro de curvatura de um espelho esférico côncavo de raio de curvatura igual a $40$ cm.\n\nConsiderando que o espelho obedece às condições de nitidez de Gauss, o comprimento da imagem do lápis conjugada pelo espelho é, em centímetros, igual a:",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudoAbordado": "Física – Óptica Geométrica (Espelhos Esféricos)"
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "A desintegração do Império Romano, entre os vários fatores históricos que a explicam,",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "erivou do rápido expansionismo e da falta de controle das fronteiras na parte ocidental, após a transferência da sede administrativa para Bizâncio, uma vez que as principais ameaças bélicas provinham do Oriente."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudoAbordado": "História – Roma Antiga (Crise e Queda do Império Romano)"
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "No Primeiro Governo da Era Vargas (1930-1945), o desenvolvimento industrial foi",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "irecionado às indústrias de bens duráveis, dada a abundante matéria-prima nacional e as facilidades de inserção no mercado global."
+        },
+        {
+          "letra": "C",
+          "texto": "usteado por investimentos estrangeiros diretos, principalmente alemães e italianos, os dois maiores parceiros econômicos do Brasil antes da Segunda Guerra."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudoAbordado": "História – Brasil República (Era Vargas)"
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Atenção: Para responder às questões de números 35 e 36, considere o texto abaixo.\n\nA pecuária bovina exerceu importante papel no desenvolvimento econômico do Brasil desde a sua colonização, sendo relevante até hoje. Nos últimos anos, as tradicionais regiões de pecuária vêm cedendo espaço à exploração de culturas que proporcionam maior rentabilidade por área e a criação de gado bovino tem se deslocado para as zonas de expansão da fronteira agrícola, notadamente nos estados amazônicos.\n\n(TEIXEIRA, Jodenir Calixto e HESPANHOL, Antonio Nivaldo. A trajetória da pecuária bovina brasileira. Caderno Prudentino de Geografia, Presidente Prudente, n.36, v.1, p.26-38, jan./jul. 2014)\n\nA Guerra dos Farrapos, uma das mais longas revoltas ocorridas no período imperial e em região com ampla atividade pecuária, teve, entre suas causas, o problema econômico decorrente",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "os altos impostos que incidiam sobre o comércio do charque e do couro no mercado interno, favorecendo produtores estrangeiros."
+        },
+        {
+          "letra": "D",
+          "texto": "a avassaladora invasão, na região fronteiriça entre Rio Grande do Sul e Argentina, de fazendeiros estrangeiros, que passaram a criar e a vender gado no mercado brasileiro."
+        },
+        {
+          "letra": "D",
+          "texto": "as dificuldades de se manter a exportação de carne bovina brasileira para os países europeus, uma vez que esse mercado era monopolizado pela produção argentina."
+        },
+        {
+          "letra": "D",
+          "texto": "a pobreza que atingia a população na região, isolada dos centros econômicos importantes do Império, situados na Bahia e em São Paulo."
+        },
+        {
+          "letra": "D",
+          "texto": "a proibição do comércio de charque com os países fronteiriços do Cone Sul, pelo império brasileiro, por razões políticas decorrentes da Guerra do Paraguai."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudoAbordado": "História – Brasil Império (Guerra dos Farrapos)"
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Nas últimas décadas, a fronteira agrícola Amazônica",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "ontinua reproduzindo as estruturas produtivas das áreas que sofreram processo de expansão anteriores."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudoAbordado": "Geografia – Geopolítica e Economia Brasileira (Fronteira Agrícola na Amazônia)"
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Atenção: Para responder às questões de números 37 e 38, considere o texto abaixo.\n\nA crise que vem afetando a economia mundial desde 2008 ainda está longe de uma solução definitiva. Inicialmente localizada nos EUA, os seus efeitos se espalharam mundo afora, dada a interconexão crescente entre os países. A ação de governos e bancos centrais dos países contribuiu para uma amenização dos impactos da crise, comparativamente aos precedentes históricos, levando-se em conta, especialmente, nível de atividade e fluxos de comércio e capitais.\n\n(LACERDA, Antonio Corrêa. Economia. In: Pinsky, Jaime. O Brasil no contexto: 1987-2017. São Paulo: Contexto, 2017. p. 56)\n\nDiante da grave crise econômica desencadeada pela quebra da bolsa de Nova York (1929), o governo norte-americano",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "dotou medidas protecionistas inspiradas nas teses de Adam Smith e restringiu a margem de lucro dos bancos e dos investidores, a fim de evitar a especulação desenfreada."
+        },
+        {
+          "letra": "D",
+          "texto": "eclarou que o país havia entrado em recessão econômica, instituiu a Lei Seca para conter a criminalidade e concedeu aos trabalhadores desempregados um pacote de auxílios e benefícios que minimizaram a pobreza."
+        },
+        {
+          "letra": "D",
+          "texto": "ecretou medidas fiscais que buscavam assegurar o crescimento controlado da economia e o Estado de bem-estar social (Welfare State), orientado pelo ideário neoliberal."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudoAbordado": "História – Crise de 1929 e New Deal"
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Uma das formas de reduzir o impacto das crises da economia mundial é",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "xpandir os mercados de ações para evitar a hegemonia dos grandes centros, a exemplo dos EUA."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudoAbordado": "Geografia – Economia Global (Crises Econômicas)"
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Considere o mapa abaixo:\n\nRefugiados climáticos até 2050 por regiões\nAo todo, o mundo poderá ter 216 milhões de migrantes por causa do clima em menos de três décadas.\n\nA leitura do mapa e os conhecimentos sobre os inúmeros processos de degradação ambiental do globo permitem afirmar que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "s áreas do sul e centro do continente asiático fornecerão cerca de metade dos migrantes climáticos."
+        },
+        {
+          "letra": "A",
+          "texto": "extinção de biomas tornará a África subsaariana e América Latina como as maiores áreas de expulsão de migrantes."
+        },
+        {
+          "letra": "A",
+          "texto": "África subsaariana e o leste asiático serão as áreas do mundo que fornecerão o maior número de migrantes."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudoAbordado": "Geografia – Geografia da População (Migrações e Questões Ambientais)"
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Considere o mapa abaixo para responder à questão.\n\n(Ferreira, Graça M.L. Atlas geográfico: espaço mundial. São Paulo: Moderna, 2010)\n\nO título adequado para o mapa é: Brasil –",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "istribuição de empresas industriais."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudoAbordado": "Geografia – Geografia Industrial do Brasil"
+    }
+  ]
+}

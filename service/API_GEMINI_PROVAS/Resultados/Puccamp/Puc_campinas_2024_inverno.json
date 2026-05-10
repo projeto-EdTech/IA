@@ -1,0 +1,877 @@
+{
+  "nomeUniversidade": "Pontifícia Universidade Católica de Campinas",
+  "siglaUniversidade": "PUC Campinas",
+  "nomeProva": "Vestibular de Inverno",
+  "ano": 2024,
+  "qtdeQuestoes": 40,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Atenção: Para responder às questões de números 1 a 5, baseie-se no texto abaixo.\n\nNa ilha do conhecimento\n\nEnquanto escrevo estas linhas, uma coreografia misteriosa aciona milhões de neurônios em meu cérebro. Pensamentos emer- gem e são expressos como palavras e frases, que uma coordenação extremamente detalhada entre os meus olhos e os músculos de minhas mãos e braços me faz digitar em meu laptop. Algo está no controle disso tudo, uma entidade que chamamos \"mente\". No momento, estou voando a uma altitude de 10 mil metros, retornando de um documentário que gravei em Los Angeles. O tema era o universo conhecido, explorando as incríveis descobertas e feitos da ciência moderna, em particular da astronomia e da cosmologia. Ao mesmo tempo, escuto o ronco dos jatos e sinto o batuque de meu (mal-educado) vizinho de assento, ouvindo seu IPod e pouco ligando para os que estão ao seu lado.\n\nNossa percepção do mundo, conforme nos ensinam as ciências neurocognitivas, é sintetizada em partes diferentes do nosso cérebro. O que chamamos de \"realidade” resulta da integração de incontáveis estímulos coletados pelos nossos cinco sentidos, tra- zidos do mundo exterior para nossas cabeças pelo sistema nervoso. A cognição – que no momento defino como a consciência que temos de estar aqui e agora - é fabricada por um vasto número de substâncias químicas fluindo por incontáveis conexões que interligam nossos neurônios. Eu sou, e você é, uma cadeia de reações eletroquímicas sustentada por uma extensa rede de células biológicas. Porém, sabemos que somos muito mais do que apenas bioquímica e eletricidade em ação. Eu sou eu e você é você, e somos diferentes, mesmo se feitos da mesma matéria.\n\nVivemos nosso dia a dia convencidos de que somos distintos e separados do que existe à nossa volta, e usamos essa con- vicção para criar uma visão objetiva da \"realidade\". Sabemos, também, que nossa percepção da \"realidade” é severamente incom- pleta. Com todos os avanços da ciência, estamos apenas no início da exploração do conhecimento humano.\n\n(Adaptado de: GLEISER, Marcelo. A ilha do conhecimento. Rio de Janeiro: Record, 2023, p. 15-16)\nNo primeiro parágrafo, o autor informa que está numa viagem de avião digitando um texto em seu laptop, operação na qual res- salta a importância",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "da inspiração literária naquele momento, vista como essencial para a criação."
+        },
+        {
+          "letra": "B",
+          "texto": "da crença algo mística nas entidades que favorecem uma boa comunicação."
+        },
+        {
+          "letra": "C",
+          "texto": "dos impulsos motores do corpo que participam da produção das ideias."
+        },
+        {
+          "letra": "D",
+          "texto": "do comando mental dos neurônios que permitem a articulação da sua linguagem."
+        },
+        {
+          "letra": "E",
+          "texto": "dos caprichosos movimentos irracionais dos neurônios no momento da escrita."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Atenção: Para responder às questões de números 1 a 5, baseie-se no texto abaixo.\n\nNa ilha do conhecimento\n\nEnquanto escrevo estas linhas, uma coreografia misteriosa aciona milhões de neurônios em meu cérebro. Pensamentos emer- gem e são expressos como palavras e frases, que uma coordenação extremamente detalhada entre os meus olhos e os músculos de minhas mãos e braços me faz digitar em meu laptop. Algo está no controle disso tudo, uma entidade que chamamos \"mente\". No momento, estou voando a uma altitude de 10 mil metros, retornando de um documentário que gravei em Los Angeles. O tema era o universo conhecido, explorando as incríveis descobertas e feitos da ciência moderna, em particular da astronomia e da cosmologia. Ao mesmo tempo, escuto o ronco dos jatos e sinto o batuque de meu (mal-educado) vizinho de assento, ouvindo seu IPod e pouco ligando para os que estão ao seu lado.\n\nNossa percepção do mundo, conforme nos ensinam as ciências neurocognitivas, é sintetizada em partes diferentes do nosso cérebro. O que chamamos de \"realidade” resulta da integração de incontáveis estímulos coletados pelos nossos cinco sentidos, tra- zidos do mundo exterior para nossas cabeças pelo sistema nervoso. A cognição – que no momento defino como a consciência que temos de estar aqui e agora - é fabricada por um vasto número de substâncias químicas fluindo por incontáveis conexões que interligam nossos neurônios. Eu sou, e você é, uma cadeia de reações eletroquímicas sustentada por uma extensa rede de células biológicas. Porém, sabemos que somos muito mais do que apenas bioquímica e eletricidade em ação. Eu sou eu e você é você, e somos diferentes, mesmo se feitos da mesma matéria.\n\nVivemos nosso dia a dia convencidos de que somos distintos e separados do que existe à nossa volta, e usamos essa con- vicção para criar uma visão objetiva da \"realidade\". Sabemos, também, que nossa percepção da \"realidade” é severamente incom- pleta. Com todos os avanços da ciência, estamos apenas no início da exploração do conhecimento humano.\n\n(Adaptado de: GLEISER, Marcelo. A ilha do conhecimento. Rio de Janeiro: Record, 2023, p. 15-16)\nO conceito de \"realidade\", no segundo e no terceiro parágrafos,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "é definido como um imperativo pelo qual a natureza comanda nossa visão de mundo."
+        },
+        {
+          "letra": "B",
+          "texto": "surge entre aspas porque o sentido usual dessa concepção não é muito rigoroso."
+        },
+        {
+          "letra": "C",
+          "texto": "é dado como impossível de ser alcançado por conta do excesso de neurônios."
+        },
+        {
+          "letra": "D",
+          "texto": "depende inteiramente da capacidade pessoal que cada um tem para estabelecê-lo."
+        },
+        {
+          "letra": "E",
+          "texto": "passou a usufruir de um sentido definitivo graças à expansão das ciências da mente."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Atenção: Para responder às questões de números 1 a 5, baseie-se no texto abaixo.\n\nNa ilha do conhecimento\n\nEnquanto escrevo estas linhas, uma coreografia misteriosa aciona milhões de neurônios em meu cérebro. Pensamentos emer- gem e são expressos como palavras e frases, que uma coordenação extremamente detalhada entre os meus olhos e os músculos de minhas mãos e braços me faz digitar em meu laptop. Algo está no controle disso tudo, uma entidade que chamamos \"mente\". No momento, estou voando a uma altitude de 10 mil metros, retornando de um documentário que gravei em Los Angeles. O tema era o universo conhecido, explorando as incríveis descobertas e feitos da ciência moderna, em particular da astronomia e da cosmologia. Ao mesmo tempo, escuto o ronco dos jatos e sinto o batuque de meu (mal-educado) vizinho de assento, ouvindo seu IPod e pouco ligando para os que estão ao seu lado.\n\nNossa percepção do mundo, conforme nos ensinam as ciências neurocognitivas, é sintetizada em partes diferentes do nosso cérebro. O que chamamos de \"realidade” resulta da integração de incontáveis estímulos coletados pelos nossos cinco sentidos, tra- zidos do mundo exterior para nossas cabeças pelo sistema nervoso. A cognição – que no momento defino como a consciência que temos de estar aqui e agora - é fabricada por um vasto número de substâncias químicas fluindo por incontáveis conexões que interligam nossos neurônios. Eu sou, e você é, uma cadeia de reações eletroquímicas sustentada por uma extensa rede de células biológicas. Porém, sabemos que somos muito mais do que apenas bioquímica e eletricidade em ação. Eu sou eu e você é você, e somos diferentes, mesmo se feitos da mesma matéria.\n\nVivemos nosso dia a dia convencidos de que somos distintos e separados do que existe à nossa volta, e usamos essa con- vicção para criar uma visão objetiva da \"realidade\". Sabemos, também, que nossa percepção da \"realidade” é severamente incom- pleta. Com todos os avanços da ciência, estamos apenas no início da exploração do conhecimento humano.\n\n(Adaptado de: GLEISER, Marcelo. A ilha do conhecimento. Rio de Janeiro: Record, 2023, p. 15-16)\nA nova redação de uma expressão do texto revela-se coerente com o sentido original em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "uma coreografia misteriosa aciona milhões de neurônios (1º parágrafo) = um ensaio enigmático convoca neurônios aos milhões."
+        },
+        {
+          "letra": "B",
+          "texto": "O tema era o universo conhecido (1º parágrafo) = a pauta era restringir o conhecimento universal."
+        },
+        {
+          "letra": "C",
+          "texto": "resulta da integração de incontáveis estímulos (2º parágrafo) = deriva da articulação de incalculáveis incitações."
+        },
+        {
+          "letra": "D",
+          "texto": "mesmo se feitos da mesma matéria (2º parágrafo) = desde que produzidos fisicamente."
+        },
+        {
+          "letra": "E",
+          "texto": "usamos essa convicção para criar uma visão objetiva (3º parágrafo) = consideramos objetiva essa certeza segundo o nosso olhar."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Reescrita de Frases",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Atenção: Para responder às questões de números 1 a 5, baseie-se no texto abaixo.\n\nNa ilha do conhecimento\n\nEnquanto escrevo estas linhas, uma coreografia misteriosa aciona milhões de neurônios em meu cérebro. Pensamentos emer- gem e são expressos como palavras e frases, que uma coordenação extremamente detalhada entre os meus olhos e os músculos de minhas mãos e braços me faz digitar em meu laptop. Algo está no controle disso tudo, uma entidade que chamamos \"mente\". No momento, estou voando a uma altitude de 10 mil metros, retornando de um documentário que gravei em Los Angeles. O tema era o universo conhecido, explorando as incríveis descobertas e feitos da ciência moderna, em particular da astronomia e da cosmologia. Ao mesmo tempo, escuto o ronco dos jatos e sinto o batuque de meu (mal-educado) vizinho de assento, ouvindo seu IPod e pouco ligando para os que estão ao seu lado.\n\nNossa percepção do mundo, conforme nos ensinam as ciências neurocognitivas, é sintetizada em partes diferentes do nosso cérebro. O que chamamos de \"realidade” resulta da integração de incontáveis estímulos coletados pelos nossos cinco sentidos, tra- zidos do mundo exterior para nossas cabeças pelo sistema nervoso. A cognição – que no momento defino como a consciência que temos de estar aqui e agora - é fabricada por um vasto número de substâncias químicas fluindo por incontáveis conexões que interligam nossos neurônios. Eu sou, e você é, uma cadeia de reações eletroquímicas sustentada por uma extensa rede de células biológicas. Porém, sabemos que somos muito mais do que apenas bioquímica e eletricidade em ação. Eu sou eu e você é você, e somos diferentes, mesmo se feitos da mesma matéria.\n\nVivemos nosso dia a dia convencidos de que somos distintos e separados do que existe à nossa volta, e usamos essa con- vicção para criar uma visão objetiva da \"realidade\". Sabemos, também, que nossa percepção da \"realidade” é severamente incom- pleta. Com todos os avanços da ciência, estamos apenas no início da exploração do conhecimento humano.\n\n(Adaptado de: GLEISER, Marcelo. A ilha do conhecimento. Rio de Janeiro: Record, 2023, p. 15-16)\nEstão plenamente observadas as normas de concordância verbal na frase:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Costuma-se chamar de \"realidade\" a integração de múltiplos estímulos neurológicos."
+        },
+        {
+          "letra": "B",
+          "texto": "Não convêm considerar como indiscutíveis os valores que se atribui à \"realidade\"."
+        },
+        {
+          "letra": "C",
+          "texto": "Devem-se aos avanços da ciência a exploração dos limites do conhecimento humano."
+        },
+        {
+          "letra": "D",
+          "texto": "Julgam-se, por vezes, que nossas vontades seriam apenas reações eletroquímicas."
+        },
+        {
+          "letra": "E",
+          "texto": "Ao escritor incomoda sobremaneira, em sua viagem, os gestos de seu vizinho."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Concordância Verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Atenção: Para responder às questões de números 1 a 5, baseie-se no texto abaixo.\n\nNa ilha do conhecimento\n\nEnquanto escrevo estas linhas, uma coreografia misteriosa aciona milhões de neurônios em meu cérebro. Pensamentos emer- gem e são expressos como palavras e frases, que uma coordenação extremamente detalhada entre os meus olhos e os músculos de minhas mãos e braços me faz digitar em meu laptop. Algo está no controle disso tudo, uma entidade que chamamos \"mente\". No momento, estou voando a uma altitude de 10 mil metros, retornando de um documentário que gravei em Los Angeles. O tema era o universo conhecido, explorando as incríveis descobertas e feitos da ciência moderna, em particular da astronomia e da cosmologia. Ao mesmo tempo, escuto o ronco dos jatos e sinto o batuque de meu (mal-educado) vizinho de assento, ouvindo seu IPod e pouco ligando para os que estão ao seu lado.\n\nNossa percepção do mundo, conforme nos ensinam as ciências neurocognitivas, é sintetizada em partes diferentes do nosso cérebro. O que chamamos de \"realidade” resulta da integração de incontáveis estímulos coletados pelos nossos cinco sentidos, tra- zidos do mundo exterior para nossas cabeças pelo sistema nervoso. A cognição – que no momento defino como a consciência que temos de estar aqui e agora - é fabricada por um vasto número de substâncias químicas fluindo por incontáveis conexões que interligam nossos neurônios. Eu sou, e você é, uma cadeia de reações eletroquímicas sustentada por uma extensa rede de células biológicas. Porém, sabemos que somos muito mais do que apenas bioquímica e eletricidade em ação. Eu sou eu e você é você, e somos diferentes, mesmo se feitos da mesma matéria.\n\nVivemos nosso dia a dia convencidos de que somos distintos e separados do que existe à nossa volta, e usamos essa con- vicção para criar uma visão objetiva da \"realidade\". Sabemos, também, que nossa percepção da \"realidade” é severamente incom- pleta. Com todos os avanços da ciência, estamos apenas no início da exploração do conhecimento humano.\n\n(Adaptado de: GLEISER, Marcelo. A ilha do conhecimento. Rio de Janeiro: Record, 2023, p. 15-16)\nO tema era o universo conhecido, explorando as incríveis descobertas e feitos da ciência moderna, em particular da astronomia e da cosmologia.\nO período acima, no contexto de que participa, mantém plenamente seu sentido e sua correção gramatical caso se substitua",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "explorando por à medida que se explore"
+        },
+        {
+          "letra": "B",
+          "texto": "conhecido por a investigar-se"
+        },
+        {
+          "letra": "C",
+          "texto": "incríveis por inverossímeis"
+        },
+        {
+          "letra": "D",
+          "texto": "O tema era por A questão fora"
+        },
+        {
+          "letra": "E",
+          "texto": "em particular por sobretudo"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Reescrita de Frases",
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Morfossintaxe"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Atenção: Para responder às questões de números 6 a 8, baseie-se no texto abaixo.\n\n[Espelho ressentido]\n\nSempre acreditara ter nascido feio, embora nas fotos dos seus primeiros dias não parecesse nem feio nem bonito, um bebê apenas, como os demais. Com o passar do tempo, entretanto, o espelho lhe entregou uma imagem que considerou mais honesta do que qualquer fotografia. Era a imagem de um rosto sem harmonia ou elegância, troncho como se feito às pressas e deixado sem acabamento.\n\n\"Que feios são os humanos!”, passou a repetir para si mesmo como forma de incluir-se na espécie, enquanto olhava as pes- soas nas ruas e aglomerações, à procura de um defeito ou de uma desproporção que o reassegurasse.\n\n(Adaptado de: COLASANTI, Marina. Hora de alimentar serpentes. São Paulo: Global, 2013, p. 259)\nDepreende-se do sentido geral desse texto a ideia de que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a imagem que se tem de si mesmo resulta do equilíbrio entre a feiura e a beleza."
+        },
+        {
+          "letra": "B",
+          "texto": "a impressão que temos do nosso aspecto deriva inteiramente do olhar alheio."
+        },
+        {
+          "letra": "C",
+          "texto": "costumamos nos valer de uma generalização para justificar nossa particularidade."
+        },
+        {
+          "letra": "D",
+          "texto": "em nossa feiura buscamos encontrar algum consolo na beleza alheia."
+        },
+        {
+          "letra": "E",
+          "texto": "o aspecto de cada um só passa a importar depois de se desconsiderar o espelho."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Atenção: Para responder às questões de números 6 a 8, baseie-se no texto abaixo.\n\n[Espelho ressentido]\n\nSempre acreditara ter nascido feio, embora nas fotos dos seus primeiros dias não parecesse nem feio nem bonito, um bebê apenas, como os demais. Com o passar do tempo, entretanto, o espelho lhe entregou uma imagem que considerou mais honesta do que qualquer fotografia. Era a imagem de um rosto sem harmonia ou elegância, troncho como se feito às pressas e deixado sem acabamento.\n\n\"Que feios são os humanos!”, passou a repetir para si mesmo como forma de incluir-se na espécie, enquanto olhava as pes- soas nas ruas e aglomerações, à procura de um defeito ou de uma desproporção que o reassegurasse.\n\n(Adaptado de: COLASANTI, Marina. Hora de alimentar serpentes. São Paulo: Global, 2013, p. 259)\nÉ um dos recursos de composição desse texto o emprego de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "expressões dissertativas, como Com o passar do tempo e passou a repetir."
+        },
+        {
+          "letra": "B",
+          "texto": "antíteses, como a que ocorre entre troncho e sem acabamento."
+        },
+        {
+          "letra": "C",
+          "texto": "linguagem denotativa, como em feito às pressas e o espelho lhe entregou."
+        },
+        {
+          "letra": "D",
+          "texto": "um meio com finalidade, em como forma de incluir-se na espécie."
+        },
+        {
+          "letra": "E",
+          "texto": "conjunções conclusivas, como embora e entretanto."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Recursos de Linguagem",
+        "Língua Portuguesa – Funções da Linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Atenção: Para responder às questões de números 6 a 8, baseie-se no texto abaixo.\n\n[Espelho ressentido]\n\nSempre acreditara ter nascido feio, embora nas fotos dos seus primeiros dias não parecesse nem feio nem bonito, um bebê apenas, como os demais. Com o passar do tempo, entretanto, o espelho lhe entregou uma imagem que considerou mais honesta do que qualquer fotografia. Era a imagem de um rosto sem harmonia ou elegância, troncho como se feito às pressas e deixado sem acabamento.\n\n\"Que feios são os humanos!”, passou a repetir para si mesmo como forma de incluir-se na espécie, enquanto olhava as pes- soas nas ruas e aglomerações, à procura de um defeito ou de uma desproporção que o reassegurasse.\n\n(Adaptado de: COLASANTI, Marina. Hora de alimentar serpentes. São Paulo: Global, 2013, p. 259)\n\"Que feios são os humanos!\", passou a repetir para si mesmo.\nTranspondo-se a frase acima para o discurso indireto, ela ficará:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Quanto os humanos seriam feios passava a repetir para si mesmo."
+        },
+        {
+          "letra": "B",
+          "texto": "Passou a repetir para si mesmo que os humanos são muito feios."
+        },
+        {
+          "letra": "C",
+          "texto": "Passou a repetir: Para mim, os humanos são muito feios!"
+        },
+        {
+          "letra": "D",
+          "texto": "Os humanos, como são feios, repetia para si mesmo."
+        },
+        {
+          "letra": "E",
+          "texto": "Ficava repetindo consigo: os humanos, que feios!"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Discurso Direto e Indireto"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "A idealização do amor, tomado como um sentimento que vence tudo, inclusive os interesses materiais da vida burguesa, ex- pressa-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "nos poemas de Gonçalves Dias, notadamente quando o poeta se inclina para a estética indianista nos Primeiros Cantos."
+        },
+        {
+          "letra": "B",
+          "texto": "na ficção amparada nos costumes urbanos da época, tal como a realiza José de Alencar no romance Senhora."
+        },
+        {
+          "letra": "C",
+          "texto": "em momentos marcantes da linguagem com que Aluísio Azevedo analisa a vida de personagens seus em O cortiço."
+        },
+        {
+          "letra": "D",
+          "texto": "pela imaginação fantasiosa de Machado de Assis, ao elaborar tão criativamente as Memórias póstumas de Brás Cubas."
+        },
+        {
+          "letra": "E",
+          "texto": "na lírica de Álvares de Azevedo, cuja mordacidade se apura nos versos satíricos de sua Lira dos vinte anos."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira – Romantismo",
+        "Língua Portuguesa – Literatura Brasileira – Realismo/Naturalismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Num de seus ensaios críticos, Mário de Andrade se mostra um admirador do estilo de Machado de Assis, mas não sente entu- siasmo algum pelo ceticismo machadiano, que estaria desconsiderando os ideais dos jovens. Essa angulação crítica revela que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os modernistas preferiam a altitude dos valores românticos à planura da ficção dos realistas ingênuos ou dos naturalistas radicais."
+        },
+        {
+          "letra": "B",
+          "texto": "a linguagem da ficção modernista era essencialmente universalista, ao contrário do que dispunha o nacionalismo ro- mântico."
+        },
+        {
+          "letra": "C",
+          "texto": "os projetos modernistas buscavam afirmar valores críticos positivos, para além de uma negatividade irônica sem projeto nacional."
+        },
+        {
+          "letra": "D",
+          "texto": "os modernistas, avessos ao nacionalismo vago, lutavam por formas estéticas combativas e revolucionárias."
+        },
+        {
+          "letra": "E",
+          "texto": "a visada modernista era limitada, a ponto de não reconhecer o caráter eminentemente patriótico de poetas do século XIX."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira – Modernismo",
+        "Língua Portuguesa – Literatura Brasileira – Machado de Assis"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "O poeta Carlos Drummond de Andrade nos legou expressões como \"uma pedra no meio do caminho\" e \"E agora, José?\" - formas linguísticas que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "representam bem a sensibilidade do poeta diante de frases feitas, transpirando o humor e o lirismo de um modernista de 22."
+        },
+        {
+          "letra": "B",
+          "texto": "representam o posicionamento político do poeta em face das calamidades da II Guerra, sobretudo nos poemas da dé- cada de 50."
+        },
+        {
+          "letra": "C",
+          "texto": "atestam a criatividade simples que o poeta mineiro absorveu dos poemas em prosa dos escritores pré-modernistas."
+        },
+        {
+          "letra": "D",
+          "texto": "repercutiram popularmente como sínteses expressivas de sentimentos comuns, das dificuldades que podem surgir a cada momento."
+        },
+        {
+          "letra": "E",
+          "texto": "exibem o humor crítico do poeta que submete uma forma culta da língua portuguesa a um desvio de seu significado."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira – Modernismo (Carlos Drummond de Andrade)"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Num ensaio intitulado \"Céu, Inferno\", o crítico Alfredo Bosi faz as seguintes considerações sobre os escritores Graciliano Ramos e João Guimarães Rosa:\n\n\"Graciliano Ramos vê o migrante nordestino sob as espécies da necessidade. (...) Guimarães Rosa pôs-se à escuta das vozes singulares que saem das bocas dos viventes sertanejos, tomando-as por inspiradas, belas e verdadeiras.\"\n\nCom base nessas considerações, os conceitos de céu e inferno, referidos a esses dois grandes escritores, devem-se",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à relação antitética entre a secura dolorosa da prosa de um escritor e as expectativas míticas da ficção do outro."
+        },
+        {
+          "letra": "B",
+          "texto": "a diferenças estilísticas que não repercutem posições ideológicas distintas, como à primeira vista fariam supor."
+        },
+        {
+          "letra": "C",
+          "texto": "a uma oposição entre um autor modernista, empolgado pelos ideais de 22, e um autor mais afeito ao experimentalismo."
+        },
+        {
+          "letra": "D",
+          "texto": "às incompatibilidades que ambos alimentavam ao longo de uma carreira literária em que um era referência para o outro."
+        },
+        {
+          "letra": "E",
+          "texto": "a dois momentos bem distintos da nossa literatura, marcados ambos pelo anseios de dar um novo fôlego aos sentimentos nacionalistas."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura Brasileira – Modernismo (Graciliano Ramos e Guimarães Rosa)",
+        "Língua Portuguesa – Análise Literária"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Atenção: Para responder à questão de número 13, considere o texto \"Na ilha do conhecimento”.\n\nEnquanto escrevo estas linhas, uma coreografia misteriosa aciona milhões de neurônios em meu cérebro. Pensamentos emer- gem e são expressos como palavras e frases, que uma coordenação extremamente detalhada entre os meus olhos e os músculos de minhas mãos e braços me faz digitar em meu laptop. Algo está no controle disso tudo, uma entidade que chamamos \"mente\". No momento, estou voando a uma altitude de 10 mil metros, retornando de um documentário que gravei em Los Angeles. O tema era o universo conhecido, explorando as incríveis descobertas e feitos da ciência moderna, em particular da astronomia e da cosmologia. Ao mesmo tempo, escuto o ronco dos jatos e sinto o batuque de meu (mal-educado) vizinho de assento, ouvindo seu IPod e pouco ligando para os que estão ao seu lado.\n\nNossa percepção do mundo, conforme nos ensinam as ciências neurocognitivas, é sintetizada em partes diferentes do nosso cérebro. O que chamamos de \"realidade” resulta da integração de incontáveis estímulos coletados pelos nossos cinco sentidos, tra- zidos do mundo exterior para nossas cabeças pelo sistema nervoso. A cognição – que no momento defino como a consciência que temos de estar aqui e agora - é fabricada por um vasto número de substâncias químicas fluindo por incontáveis conexões que interligam nossos neurônios. Eu sou, e você é, uma cadeia de reações eletroquímicas sustentada por uma extensa rede de células biológicas. Porém, sabemos que somos muito mais do que apenas bioquímica e eletricidade em ação. Eu sou eu e você é você, e somos diferentes, mesmo se feitos da mesma matéria.\n\nVivemos nosso dia a dia convencidos de que somos distintos e separados do que existe à nossa volta, e usamos essa con- vicção para criar uma visão objetiva da \"realidade\". Sabemos, também, que nossa percepção da \"realidade” é severamente incom- pleta. Com todos os avanços da ciência, estamos apenas no início da exploração do conhecimento humano.\n\n(Adaptado de: GLEISER, Marcelo. A ilha do conhecimento. Rio de Janeiro: Record, 2023, p. 15-16)\nWhich is the best English translation for Vivemos nosso dia a dia convencidos de que somos distintos e separados do que existe à nossa volta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "We leave our day-to-day lives convicted that we are distinguished and separated from what exists in our turn."
+        },
+        {
+          "letra": "B",
+          "texto": "We live our daily lifes sure that we are distinguished and separate from what there is about us."
+        },
+        {
+          "letra": "C",
+          "texto": "We live our day-to-day live convinced that we are unique and separated from what there is around us."
+        },
+        {
+          "letra": "D",
+          "texto": "We leave our daily live convicted that we are distinct and separate from what exists around us."
+        },
+        {
+          "letra": "E",
+          "texto": "We live our daily lives convinced that we are distinct and separate from what exists around us."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Inglês – Tradução"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "14. Navigating Reality: Challenges Faced by Teens\n\nIn today's digital age, teenagers are increasingly confronted with difficulties in distinguishing what is real from what is not. The constant barrage of information from social media, virtual reality games, and online interactions can blur the lines between reality and fiction, making it challenging for teens to maintain a clear understanding of the real world.\n\nSocial media platforms like Instagram, TikTok, and Snapchat offer a curated glimpse into people's lives, often showcasing only the highlights and none of the struggles. This can lead to a distorted sense of reality, where teens might believe that their peers are leading perfect, problem-free lives. The pressure to measure up to these unrealistic standards can result in feelings of inadequacy, anxiety, and depression.\n\nWith the rise of immersive technologies such as virtual reality (VR) and augmented reality (AR), teens can escape reality into entirely different worlds. While these technologies offer exciting possibilities for learning and entertainment, they can also create a sense of detachment from the real world. Excessive gaming or prolonged exposure to VR environments can make it difficult for teens to engage with reality and their real-life responsibilities and relationships.\n\n(Text generated by ChatGPT, an Al language model developed by OpenAl)\nSegundo o texto,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a era digital, com sua torrente de informações provindas das redes sociais, está produzindo adolescentes mais ativos e bem-informados."
+        },
+        {
+          "letra": "B",
+          "texto": "jogos que utilizam a realidade virtual podem comprometer a distinção entre realidade e ficção para o adolescente."
+        },
+        {
+          "letra": "C",
+          "texto": "plataformas como o Instagram, Tik-Tok e Snapshot oferecem uma visão imparcial da vida das pessoas, mas salientam seus aspectos positivos."
+        },
+        {
+          "letra": "D",
+          "texto": "as vidas perfeitas retratadas nas redes sociais podem ter um impacto positivo nos adolescentes, despertando neles um desafio de se igualar a essas pessoas."
+        },
+        {
+          "letra": "E",
+          "texto": "tecnologias como a realidade virtual e a realidade aumentada podem proporcionar ao adolescente uma melhor visão da realidade, aumentando sua capacidade de aprendizado."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Inglês – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Predictions of Future Global Climate\n\nScientists from around the world serve as part of the Intergovernmental Panel on Climate Change (IPCC). These scientists have found that from 1900-2020, the world's surface air temperature increased an average of 1.1°Celsius due to burning fossil fuels that releases carbon dioxide and other greenhouse gases into the atmosphere. This may not sound like very much change, but this warming is unprecedented in over 2000 years of records. Even one degree can impact the planet in many ways. Climate models predict that Earth's global average temperature will rise an additional 4 °C during the 21st Century if greenhouse gas levels continue to rise at present levels. Without swift action to reduce greenhouse gas emissions, models project that holding global average temperatures to within a 1.5-2.0 °C increase may no longer be possible.\n\nThe amount of climate change by the end of the century depends on decisions we make today. If we reduce CO2 amounts to stop increasing after 2050, global average temperature will increase from 1-1.5 °C, and this is considered a best case scenario. If we don't reduce CO2 and the amounts continue to increase, the worst case scenario warming will be 4.5-5 °C.\n\nAs a result, climate change is predicted to impact regions differently. For example, temperature increases are expected to be greater on land than over oceans and greater at high latitudes than in the tropics and mid-latitudes.\n\n(Adapted from: https://scied.ucar.edu)\n\nDe acordo com o texto,",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "ientistas do IPCC atestaram que a temperatura global aumentou, em média, 1,1 °C nos últimos mil anos e deve chegar a 4 °C neste século."
+        },
+        {
+          "letra": "E",
+          "texto": "stima-se que as mudanças climáticas afetem mais os trópicos e os oceanos, por estarem em latitudes mais baixas."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Geografia – Clima e Meio Ambiente",
+        "Geografia – Impactos Climáticos"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Risks to Marine Life and to Life on Land\n\nOcean ecosystems will change as sea-surface temperatures continue to warm. Animals like fish are able to move to other ecosystems with cooler water at higher latitudes. But many marine organisms – like kelp and corals – that aren't able to swim elsewhere are at high risk. Warmer waters in the shallow oceans have contributed to the death of about a quarter of the world's coral reefs in the last few decades.\n\nChanges in temperature, precipitation, and seasonal timing will alter the geographic ranges of many types of plants and animals. Since species can only survive if they are in a habitat that suits their needs, many species will face extinction if the geographic range where they can survive shrinks. If warming is kept to 2 °C, 18% of insects, 16% of plants, and 8% of vertebrate animals are projected to lose over half of their geographic range. However, if we can keep the amount of warming to 1.5 °C, the habitat loss to insects, plants, and vertebrates decreases by about a half. On the other hand, the range of some species, such as mosquitoes which carry different types of diseases, may increase due to climate warming. Warming surface temperatures are also predicted to increase the frequency of heat waves and droughts, which can affect crop production, increase the risk of wildfires, and even impact human health.\n\n(Adapted from: https://scied.ucar.edu)\n\nSegundo o texto,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fim de insetos, plantas e animais não perderem seu hábitat normal, a temperatura global não deveria subir mais do que 2 °C."
+        },
+        {
+          "letra": "C",
+          "texto": "ientistas alertam que o aquecimento global poderá propiciar a proliferação de mosquitos, causando muitas epidemias."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Biologia – Ecologia",
+        "Biologia – Impactos Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Generative Al has a clean-energy problem\nWhat happens when the Al revolution meets the energy transition\nApril 11, 2024.\n\nWhen a colleague from this newspaper visited Sam Altman in 2022 at his home in San Francisco, he noticed two pairs of pink high-tops on a bookshelf. One had the logo of Mr Altman's machine-learning startup, OpenAI. The other bore an emblem for Helion, a nuclear-fusion company that Mr Altman also backs. The entrepreneur is obsessed with both technologies – not just as passing fads. He believes that the cost of intelligence and the cost of energy will fall in a mutually sustainable way. He calls it a “long and beautiful exponential curve”.\n\nTalk to utilities and data-centre operators and, though many share Mr Altman's excitement about artificial intelligence (AI), they are grappling with an energy conundrum on which the future of three big economic shifts partly hinges: the ai revolution; the efforts to electrify sectors of the economy; and the fight against climate change. In a nutshell, “generative” ai, the sort behind OpenAI's ChatGPT, has a ravenous appetite for electricity. It has landed, virtually out of the blue, on a global energy system that is already struggling to cope with alternative sources of power demand. As yet it is not clear whether there will be enough clean energy to meet everyone's needs.\n\n(Adapted from: https://www.economist.com)\n\nInfere-se do texto que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "maioria dos servidores públicos e informatas partilha do entusiasmo de Sam Altman em relação ao custo da fusão nuclear no futuro."
+        },
+        {
+          "letra": "A",
+          "texto": "luta contra a mudança climática requer altos investimentos em eletricidade, que poderão ser amenizados apenas com o recurso à fusão nuclear."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Física – Energia e Sustentabilidade",
+        "Física – Fontes de Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "As propriedades tendiam a dividir-se em um conjunto de pequenas parcelas cultivadas por camponeses dependentes. Foi assim que surgiu e acabou por se impor na maior parte das províncias o colono, o cultivador camponês dependente, que pagava rendas em dinheiro ou em espécie pelo seu lote ao seu senhor. Os colonos detinham normalmente metade da produção do seu lote.\n\n(Adaptado de: ANDERSON, Perry. Passagens da Antiguidade ao Feudalismo. Porto: Afrontamento, 1982, p. 103)\n\nNo Baixo Império Romano, a relação de trabalho, mencionada no excerto, relacionava-se",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "História – Império Romano",
+        "História – Relações de Trabalho na Antiguidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "No fim de abril de 1955, foi divulgado o documento mais conhecido da Conferência Afro-Asiática. “Os dez princípios de Bandung\" foram ancorados na Carta das Nações Unidas e advogam pelo respeito aos direitos fundamentais do homem; à soberania e à integridade de todas as nações; pela não ingerência nos assuntos internos de outros países; pelo direito de cada nação de se defender só ou coletivamente; pela abstenção de recorrer a acordos de defesa coletiva que tenham em vista servir aos interesses particulares de uma grande potência; pela abstenção de qualquer país de exercer pressão sobre outros países; pelo não recurso à força contra outro país; pela resolução negociada dos problemas em litígio e cooperação; pelo respeito pela justiça; e pelo respeito aos compromissos internacionais.\n\n(Adaptado de: REIS, Raissa Brescia dos e RESENDE, Taciana Almeida Garrido. Bandung, 1955: ponto de encontro global. Esboços, Florianópolis, v. 26, n. 42, p. 309-332, maio/ago., 2019)\n\nOs princípios do documento citado contribuíram para",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "contenção do vasto arsenal de armas nucleares produzido pelos Estados Unidos e pela União Soviética durante a chamada Guerra Fria."
+        },
+        {
+          "letra": "A",
+          "texto": "criação da Organização do Tratado do Atlântico Norte (OTAN), uma aliança militar para conter o avanço do fundamentalismo islâmico na África e na Ásia."
+        },
+        {
+          "letra": "A",
+          "texto": "ampliação do conselho de segurança da Organização das Nações Unidas, fortalecido com a participação de nações não alinhadas para atuar como mediadoras nos conflitos mundiais."
+        },
+        {
+          "letra": "A",
+          "texto": "formação do chamado \"Bloco dos Países Não Alinhados\", uma associação de países sem nenhum compromisso formal com os blocos antagônicos dirigidos por estadunidenses e soviéticos."
+        },
+        {
+          "letra": "A",
+          "texto": "cooperação entre os países afro-asiáticos e a Organização do Tratado de Varsóvia (Pacto de Varsóvia), um acordo para assegurar a soberania desses países frente ao imperialismo estadunidense."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "História – Guerra Fria",
+        "História – Movimento dos Países Não Alinhados"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "O estilo de gestão do presidente Fernando Collor de Mello foi definido por observadores como populismo de mercado, que conservaria do populismo tradicional o interesse do governante em personalizar o poder, em legitimar seus atos por uma relação direta com o povo. Se os ganhos para os assalariados não fossem mais tão imediatos quanto os providos pelo modelo varguista, seriam duradouros, permanentes. Outra não seria a receita que estaria orientando a busca do bem-estar social ao redor do mundo, das democracias consolidadas da Europa ocidental às novas democracias da Europa central, dos Estados Unidos ao México e Chile, sem mencionar as experiências bem-sucedidas do Sudeste asiático.\n\n(Adaptado de: COSTA, Tarcísio. \"Os anos 1990: o ocaso do político e a sacralização do mercado\". In: MOTA, Carlos Guilherme (org.). Viagem incompleta. A experiência brasileira (1500-2000): a grande transação. São Paulo: Senac, 2013, p. 261)\n\nO \"populismo de mercado\" diferenciou-se do \"populismo tradicional\", entre outras razões,",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "História – Brasil Contemporâneo",
+        "História – Populismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "A pirâmide etária mostra dados dos Censos Demográficos de 2010 e 2022.\n\nA análise dos dados de 2010 e 2022 da pirâmide etária brasileira permite concluir que houve",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "umento da taxa de fecundidade."
+        },
+        {
+          "letra": "C",
+          "texto": "rescimento na proporção de idosos."
+        },
+        {
+          "letra": "E",
+          "texto": "stagnação da população jovem."
+        },
+        {
+          "letra": "D",
+          "texto": "iminuição da idade mediana."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Geografia – Demografia",
+        "Geografia – Estrutura Etária da População"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Os Objetivos de Desenvolvimento Sustentável (ODS)",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "nglobam ações e decisões políticas firmadas no primeiro acordo internacional para controle da emissão de gases de efeito estufa na atmosfera, principalmente por países industrializados, conhecido como Protocolo de Kyoto."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Geografia – Desenvolvimento Sustentável",
+        "Geografia – Organizações Internacionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Considere a imagem abaixo do Monte Aconcagua, localizado na Argentina e cuja altitude é de 6961 metros.\n\nO acontecimento que explica a formação desse tipo de relevo é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "colisão de placas tectônicas."
+        },
+        {
+          "letra": "A",
+          "texto": "erosão diferencial."
+        },
+        {
+          "letra": "A",
+          "texto": "divergência de placas tectônicas."
+        },
+        {
+          "letra": "A",
+          "texto": "sedimentação de material intemperizado."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Geografia – Geologia",
+        "Geografia – Tectonismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Em uma progressão aritmética (PA) crescente de 57 termos, o primeiro termo é igual a 8.\n\nConsiderando $a_i$, $1 \\le i \\le 57$, como os termos dessa PA e sabendo que a sequência ($a_1, a_9, a_{57}$) é uma progressão geométrica, o maior termo da PA é",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Matemática – Progressões Aritméticas",
+        "Matemática – Progressões Geométricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Uma pirâmide VABCD, de vértice V, tem uma base retangular ABCD, conforme mostra a Figura 1, que também indica as medidas, em cm, das arestas VB, VC e VD. A vista superior dessa pirâmide está representada na Figura 2. A medida da aresta VA dessa pirâmide é igual a",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Matemática – Geometria Espacial",
+        "Matemática – Teorema de Pitágoras"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Em um sistema cartesiano, uma circunferência $\\lambda$ tem centro na intersecção do eixo y com a diagonal AC de um quadrado ABCD e passa pelos vértices B e D desse quadrado, conforme mostra a figura. Sabendo que A = (-4, 8) e B = (0, -4), a equação dessa circunferência é",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Matemática – Geometria Analítica",
+        "Matemática – Equação da Circunferência"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Os vértices A e D de um quadrado ABCD estão sobre o gráfico da função $f(x) = \\log_3(2x + 7)$ e o vértice B está sobre o eixo y do sistema cartesiano, conforme mostra a figura. A área desse quadrado é",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Matemática – Funções Logarítmicas",
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Dadas as matrizes A = $(a_{ij})_{2 \\times 3}$, tal que $a_{ij} = 3i – j$, e a matriz B = $$\\begin{pmatrix} -3 & -1 \\\\ -1 & 3 \\\\ 1 & 4 \\end{pmatrix}$$, o maior elemento da matriz AB é",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Matemática – Matrizes",
+        "Matemática – Operações com Matrizes"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Em um curso de pós-graduação, 255 alunos cursaram a disciplina A. Desses alunos, 84 já cursaram a disciplina B, 85 já cursaram a disciplina C e 101 só cursaram, até o momento, a disciplina A. O número de alunos, dentre esses, que já cursaram essas três disciplinas é",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Matemática – Conjuntos"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Ao iniciar a travessia de uma avenida de 12 m de largura, em uma faixa de pedestres, uma pessoa percebe a aproximação de um automóvel. No instante em que a pessoa inicia a travessia, o automóvel estava à distância de 90 m e se deslocava com velocidade de 15 m/s, que se manteve constante.\\nA menor velocidade que essa pessoa deve desenvolver para atingir a calçada oposta antes que o automóvel chegue à faixa de pedestres é de",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Considere as seguintes informações:\\nI. Em um mesmo ambiente, ao se tocar num objeto metálico e em outro de madeira, o metálico parece estar a uma tempe-ratura menor.\\nII. Para se soltar uma tampa metálica presa em um pote de vidro, pode-se aquecê-los de alguma forma.\\nEsses dois fatos ocorrem, respectivamente, porque",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "condutividade térmica do metal é maior do que a da madeira e o calor específico do metal é maior do que o do vidro."
+        },
+        {
+          "letra": "A",
+          "texto": "condutividade térmica do metal é maior do que a da madeira e o coeficiente de dilatação térmica do metal é maior do que o do vidro."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Física – Termodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "A figura ilustra, fora de escala, as situações em que ocorrem os três tipos possíveis de eclipse do Sol: total, parcial e anular.\\n(Disponível em: https://planeta.rio)\\nEsses tipos de eclipses do Sol ocorrem devido à propagação retilínea da luz e porque o Sol é uma fonte extensa de luz para quem o observa da superfície da Terra.\\nSe, visto da superfície da Terra, o Sol fosse uma fonte puntiforme de luz, ocorreriam APENAS eclipses do Sol",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "nulares e totais."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Física – Óptica Geométrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "No óleo essencial de anis estrelado é encontrado o terpineol, que possui os isômeros representados abaixo.\\nO tipo de isomeria observado entre os isômeros do terpineol é",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "e função."
+        },
+        {
+          "letra": "D",
+          "texto": "e posição."
+        },
+        {
+          "letra": "C",
+          "texto": "is-trans."
+        },
+        {
+          "letra": "D",
+          "texto": "e cadeia."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Química – Isomeria"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Uma empresa chinesa desenvolveu uma bateria nuclear que poderá gerar energia por 50 anos sem necessidade de recarga. O dispositivo mede 15 mm de comprimento, por 15 mm de largura e 5 mm de espessura e opera a partir da conversão da energia liberada pelo decaimento de isótopos radioativos de níquel (Ni-63). Com 100 microwatts ($\\mu W$) de potência e 3 volts (V) de tensão elétrica, o módulo é um projeto-piloto.\\n(Adaptado de: Revista Pesquisa Fapesp, mar. 2024)\\nSabendo que a meia-vida do níquel-63 é de 100 anos, a recarga deverá ocorrer após o dispositivo perder, aproximadamente,",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Química – Radioatividade",
+        "Física – Física Nuclear"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "A usina São Martinho, produtora paulista de açúcar e etanol, anunciou a construção de sua primeira fábrica de biometano (CH$_{4}$), gás renovável elaborado a partir da vinhaça. Prevista para entrar em operação no segundo semestre de 2025, a planta deverá processar 100% da vinhaça gerada em sua unidade de Américo Brasiliense (SP) e produzir cerca de 15 milhões de metros cúbicos do gás por safra.\\n(Adaptado de: Revista Pesquisa Fapesp, dez. 2023)\\nA massa, em toneladas, de metano que será produzida por safra, nas CATP, corresponde a, aproximadamente,\\nDados:\\nMassas molares (g.mol$^{-1}$):\\nH = 1,0\\nC = 12,0\\nVolume molar de qualquer gás, nas CATP: 25,0 L.mol$^{-1}$",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Química – Estequiometria",
+        "Química – Gases"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "A embalagem de um preparado para refresco em pó informa que contém o edulcorante aspartame (42 mg/100 mL).\\nAspartame\\nApós o preparo de 1,0 L de refresco, a concentração do edulcorante, em mol.L$^{-1}$, corresponde a, aproximadamente,\\nDados:\\nMassas molares (g.mol$^{-1}$):\\nH = 1,0\\nC = 12,0\\nN = 14,0\\nO = 16,0",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Química – Soluções",
+        "Química – Cálculos Químicos"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Os veículos movidos a combustão de combustíveis fósseis representam a maior parte das frotas veiculares nos grandes centros urbanos ao redor do mundo. O funcionamento desses veículos responde por um quinto de toda a emissão de dióxido de car-bono, o principal gás de efeito estufa (GEE). Por isso, tem-se observado, recentemente, governos de diferentes nações estipu-larem prazos que englobam o tempo de 10 a 20 anos futuros para que haja a proibição total de venda de novos veículos mo-vidos a gasolina, óleo diesel ou gás natural.\\nAlternativas ao uso de combustíveis fósseis no transporte veicular já existem e continuam sendo desenvolvidas. Veículos movidos a combustíveis renováveis, como o etanol, ou movidos à eletricidade representam as principais alternativas da atualidade.\\nOs veículos elétricos tradicionais do tipo plug-in possuem uma ou mais baterias que precisam ser frequentemente recarregadas e, durante seu funcionamento, não emitem GEE(s). Em tese, são menos agressivos ao meio ambiente, mas isso depende da matriz energética de um determinado país. Para o carregamento das baterias, esses veículos precisam ser conectados à rede de distribuição de eletricidade do local onde transitam.\\nEm termos globais, a matriz energética elétrica ainda é principalmente baseada no uso de combustíveis fósseis e, por isso, algumas pessoas argumentam que o uso de veículos movidos a combustíveis renováveis é mais sustentável do que o uso de veículos elétricos do tipo plug-in, quando se considera a emissão de GEE(s) nesses casos.\\n(Adaptado de: Elétricos Movidos a Etanol. ZAPAROLLI, Domingos. Revista Pesquisa Fapesp, ed.308, Outubro, 2021. Disponível em: https://revistapesquisa.fapesp.br)\\nConsidere os esquemas que representam os três tipos de veículos citados no texto acima.\\nA: Dióxido de Carbono I III II\\nB: Dióxido de Carbono I III II\\nC: Dióxido de Carbono II I\\nVeículos que usam combustível fóssil; veículos elétricos do tipo plug-in e veículos que usam combustível renovável referem-se, respectivamente, aos esquemas",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "A - B"
+        },
+        {
+          "letra": "A",
+          "texto": "C - B"
+        },
+        {
+          "letra": "B",
+          "texto": "A - C"
+        },
+        {
+          "letra": "B",
+          "texto": "C - A"
+        },
+        {
+          "letra": "C",
+          "texto": "B - A"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Física – Energia e Meio Ambiente",
+        "Química – Meio Ambiente"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "De acordo com o Ministério da Saúde, o infarto agudo do miocárdio é uma das principais causas de morte no Brasil. Esse problema ocorre quando parte das células do músculo cardíaco morre por não receber quantidades adequadas dos reagentes da respiração celular aeróbica, devido à obstrução parcial ou total de uma ou mais artérias ou arteríolas coronarianas.\\n(Adaptado de: BRASIL. Ministério da Saúde. Infarto Agudo do Miocárdio. Disponível em: https://www.gov.br)\\nA partir do texto, conclui-se que o sistema arterial coronariano",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "onduz sangue desoxigenado para a artéria aorta, para que este chegue no ventrículo direito do coração."
+        },
+        {
+          "letra": "C",
+          "texto": "onduz parte do sangue oxigenado, que foi bombeado do ventrículo esquerdo, para irrigar o próprio coração."
+        },
+        {
+          "letra": "C",
+          "texto": "onduz sangue oxigenado, que foi bombeado do ventrículo direito à artéria pulmonar, para irrigar o miocárdio."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Biologia – Sistema Cardiovascular",
+        "Biologia – Fisiologia Humana"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Em 28/05/2024, Campinas ultrapassou a marca de 100 mil casos de dengue e 30 mortes da doença desde o início do ano e passa pela maior epidemia da história.\\n(Disponível em: https://g1.globo.com/sp/campinas-regiao)\\nNesta situação dramática, a Secretaria Municipal de Saúde, de acordo com o Ministério da Saúde, recomenda que a popula-ção:\\nI. Verifique e elimine em sua residência os focos de água parada acumulada.\\nII. Use constantemente alguma loção repelente contra insetos no corpo e prefira usar calças e roupas de manga longa.\\nIII. Vacine, nos postos de saúde, as pessoas da família que estão nos grupos de risco e faixas etárias priorizadas.\\nEm relação às recomendações do Ministério da Saúde,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "s medidas I e II combatem o vetor da doença e a medida III elimina o vírus do corpo do hospedeiro."
+        },
+        {
+          "letra": "A",
+          "texto": "s medidas I e II focam na prevenção e a medida III tem o objetivo de tratamento da doença."
+        },
+        {
+          "letra": "A",
+          "texto": "medida III não evita que as pessoas sejam infectadas, mas diminui a chance de desenvolvimento de sintomas gra-ves."
+        },
+        {
+          "letra": "A",
+          "texto": "s medidas II e III impedem a reprodução do vírus causador da doença no ambiente e no corpo do hospedeiro, res-pectivamente."
+        },
+        {
+          "letra": "A",
+          "texto": "medida II interrompe o ciclo de propagação do vírus porque impede que o vetor desenvolva a doença."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Biologia – Doenças",
+        "Biologia – Saúde Pública"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "O uso amplo e inadequado de antibióticos fez com que o fenômeno natural da resistência bacteriana se alastrasse rapidamente e, hoje, muitos desses fármacos já não são mais úteis na clínica. A velocidade de descoberta de novos antibióticos está menor do que o espalhamento da resistência, o que coloca a sociedade em uma posição delicada. Estima-se que, até 2050, a resis-tência a antibióticos matará mais do que o câncer.\\nUm caminho para a descoberta de novos compostos contra bactérias pode estar no corpo humano. Ele é habitado por muitos microrganismos inócuos ou benéficos, que formam uma comunidade microbiana complexa denominada microbiota. A microbio-ta pode proteger o corpo humano de patógenos invasores. Os mecanismos por meio dos quais essa proteção ocorre ainda são, em grande parte, desconhecidos, mas imagina-se que envolvam a produção de compostos que antagonizem bactérias patogênicas.\\nUma categoria desses compostos são as moléculas antivirulência. Essas moléculas não matam o organismo-alvo, mas \"desli-gam\" a maquinaria celular usada por bactérias patogênicas para causar danos ao hospedeiro. Por isso, tais moléculas favore-ceriam menos o desenvolvimento de resistência. Estudos recentes mostraram que a microbiota intestinal humana produz molé-culas com atividade antivirulência contra Salmonella enterica e Vibrio cholerae, dois importantes patógenos humanos. Em am-bos os casos, a espécie produtora foi Enterocloster citroniae, bactéria sobre a qual ainda se sabe pouquíssimo.\\n(Adaptado de: ANTUNES, Luis Caetano Martha. De onde virão os novos antibióticos? Revista Ciência Hoje, 392, Outubro 2022)\\nSobre o uso de fármacos contra bactérias:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "resistência bacteriana permite o surgimento de patógenos suscetíveis aos antibióticos porque diminui a variabilidade genética da população bacteriana."
+        },
+        {
+          "letra": "E",
+          "texto": "m uma população bacteriana, a ocorrência natural de mutações permite o surgimento de indivíduos que podem ser mais resistentes a um determinado fármaco."
+        },
+        {
+          "letra": "A",
+          "texto": "bactéria Enterocloster citroniae produz moléculas que são capazes de matar indivíduos resistentes a antibióticos de uma população de Vibrio cholerae."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Biologia – Microbiologia",
+        "Biologia – Evolução"
+      ]
+    }
+  ]
+}
