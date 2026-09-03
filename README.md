@@ -1,1 +1,3 @@
-# SimulaVest-IA
+# Vestibuline-IA
+
+link de fluxograma de funcionamento -> https://miro.com/welcomeonboard/bm1saDBFNENQamdGMk9HNXVndHFEZWVxNlNMRUxLMjZYdU94QzNuQ05JVFpTT3BZckdyK1ZFYUdzNlFua0NNRlZLOXBkbjEwcjFGN2tXdWJSVXRTSXljN0ZmTUlBaFdPc3BMQkMvdm9VSEZGSkx3RmxMYkE5cDlFRWY1UjlZQ0d0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=6251903062
