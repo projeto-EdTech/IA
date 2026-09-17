@@ -13,7 +13,7 @@ O repositório é dividido em dois processadores independentes, ambos em `servic
 
 Cada módulo aceita tanto arquivos locais quanto arquivos hospedados remotamente (via URL), e usa *Function Calling* do Gemini para garantir que a resposta sempre volte em um schema JSON fixo — sem isso, texto de PDF de vestibular é bagunçado demais para confiar em parsing manual.
 
-O fluxo completo de processamento (particionamento da prova em blocos, filas paralelas, reprocessamento em caso de falha e junção final dos JSONs) está documentado no diagrama [`Fluxograma.pdf`](Fluxograma.pdf), versionado neste repositório.
+O fluxo completo de processamento (particionamento da prova em blocos, filas paralelas, reprocessamento em caso de falha e junção final dos JSONs) está documentado no diagrama [`Fluxograma`](https://miro.com/welcomeonboard/bm1saDBFNENQamdGMk9HNXVndHFEZWVxNlNMRUxLMjZYdU94QzNuQ05JVFpTT3BZckdyK1ZFYUdzNlFua0NNRlZLOXBkbjEwcjFGN2tXdWJSVXRTSXljN0ZmTUlBaFdPc3BMQkMvdm9VSEZGSkx3RmxMYkE5cDlFRWY1UjlZQ0d0R2lncW1vRmFBVnlLcVJzTmdFdlNRPT0hdjE=?share_link_id=6251903062), versionado neste repositório.
 
 📄 Documentação detalhada de cada módulo: [`service/API_GEMINI_PROVAS/README.md`](service/API_GEMINI_PROVAS/README.md) · [`service/API_GEMINI_NOTA/README.md`](service/API_GEMINI_NOTA/README.md)
 
