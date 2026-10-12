@@ -1,0 +1,2788 @@
+{
+  "nomeUniversidade": "Exame Nacional do Ensino Médio",
+  "siglaUniversidade": "ENEM",
+  "nomeProva": "Exame Nacional do Ensino Médio",
+  "ano": 2025,
+  "qtdeQuestoes": 90,
+  "questoes": [
+    {
+      "numeroEnunciado": "01",
+      "enunciado": "My idea of philosophy is that if it is not relevant to human problems, if it does not tell us how we can go about eradicating some of the misery in this world, then it is not worth the name of philosophy. I think Socrates made a very profound statement when he asserted that philosophy is to teach us proper living. In this day and age \"proper living” means liberation from the urgent problems of poverty, economic necessity and indoctrination, mental oppression.\nDAVIS, A. Lectures on Liberation. Washington: Smithsonian Libraries,\n1971 (adaptado).\nNesse texto, ao discorrer sobre a relevância da filosofia, a\nescritora Angela Davis tem por objetivo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "criticá-la pela restrição temática."
+        },
+        {
+          "letra": "B",
+          "texto": "vinculá-la ao universo acadêmico."
+        },
+        {
+          "letra": "C",
+          "texto": "afastá-la da abordagem socrática."
+        },
+        {
+          "letra": "D",
+          "texto": "aproximá-la dos problemas sociais."
+        },
+        {
+          "letra": "E",
+          "texto": "responsabilizá-la pela pobreza humana."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Inglês – Interpretação de texto",
+        "Filosofia – Pensamento crítico"
+      ]
+    },
+    {
+      "numeroEnunciado": "02",
+      "enunciado": "Remember the sky that you were born under,\nknow each of the star's stories.\nRemember the moon, know who she is.\nRemember the sun's birth at dawn. [...]\nRemember your birth, how your mother struggled\nto give you form and breath [...]\nRemember the earth whose skin you are:\nred earth, black earth, yellow earth, white earth\nbrown earth, we are earth.\nRemember the plants, trees, animal life who all have their\ntribes, their families, their histories, too [...]\nRemember you are all people and all people are you.\nRemember you are this universe and this universe is you.\nRemember all is in motion, is growing, is you.\nHARJO, J. She Had Some Horses. Londres:\nW. Norton & Company, 1983 (fragmento).\nNesse poema, de uma autora de ascendência indígena, o eu\nlírico ressalta a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "potência dos astros celestes."
+        },
+        {
+          "letra": "B",
+          "texto": "origem das plantas e dos animais."
+        },
+        {
+          "letra": "C",
+          "texto": "importância do apego à terra natal."
+        },
+        {
+          "letra": "D",
+          "texto": "relação entre seres humanos e natureza."
+        },
+        {
+          "letra": "E",
+          "texto": "conexão entre o tempo real e o tempo imaginário."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Inglês – Interpretação de texto",
+        "Biologia – Relação ser humano-natureza"
+      ]
+    },
+    {
+      "numeroEnunciado": "03",
+      "enunciado": "Nesse texto, a pergunta \"What is sleep?\", em uma das embalagens\ndo produto, está relacionada ao(à)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "escassez de horas de sono."
+        },
+        {
+          "letra": "B",
+          "texto": "estímulo a um descanso de qualidade."
+        },
+        {
+          "letra": "C",
+          "texto": "gasto com bebidas que combatem a insônia."
+        },
+        {
+          "letra": "D",
+          "texto": "consumo de bebidas que causam dependência."
+        },
+        {
+          "letra": "E",
+          "texto": "necessidade de um produto que provoque o sono."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Inglês – Interpretação de texto",
+        "Língua Portuguesa – Publicidade e propaganda"
+      ]
+    },
+    {
+      "numeroEnunciado": "04",
+      "enunciado": "Glory Ames, from the White Earth reservation, is frustrated that despite the presence of several indigenous reservations\nnear Moorhead, local Halloween stores still feature a western section with costumes such as \"pow wow princess”.\nEven worse, despite a long-running debate about racism and cultural appropriation, often prompted by backlash against\ncelebrities and politicians for donning offensive costumes, people continue to wear such costumes.\nLast Halloween, Ames spotted a photo on Instagram of a girl dressed as a Native American with a bullet in her forehead.\nShe immediately reported it to the social media platform and had it removed.\n\"They blatantly take certain aspects of our culture, race, religion, and use it for their advantage and ignore the people living\nit\", said Ames.\nLIU, M. C. M. Disponível em: www.washingtonpost.com. Acesso em: 12 maio 2024 (adaptado).\nAo abordar um aspecto da celebração do Halloween, esse texto tem por objetivo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "denunciar a violência contra crianças indígenas."
+        },
+        {
+          "letra": "B",
+          "texto": "descrever costumes tradicionais em celebrações indígenas."
+        },
+        {
+          "letra": "C",
+          "texto": "valorizar as vestimentas características dos povos originários."
+        },
+        {
+          "letra": "D",
+          "texto": "criticar a exploração indevida de elementos da identidade indígena."
+        },
+        {
+          "letra": "E",
+          "texto": "sugerir ações de combate ao preconceito contra os povos originários."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Inglês – Interpretação de texto",
+        "Sociologia – Cultura e identidade"
+      ]
+    },
+    {
+      "numeroEnunciado": "05",
+      "enunciado": "It is true that all children are special, simply because they are children. But most adults are not special, and children end\nup as adults pretty quickly. Life then can be difficult and even disappointing. The shock of this may account for the emergence\nof the \"snowflake generation\" of university students, who are so delicate they can't handle controversial ideas being put\nforward in their lectures. The roots of this fragility run deep in modern culture. So, an approach of the world that states:\n\"Life is wonderful, you're special and, if you are a good boy/girl, life will be amazing forever\" is not a message designed to\naid bouncing back from failure or confronting catastrophe. Resilience is not about feeding ego\ntelling your children how\nwonderful they are\nbut strengthening it.\nLOTT, T. Disponível em: www.theguardian.com. Acesso em: 10 dez. 2017 (adaptado).\nNesse texto, a expressão “snowflake generation” é usada para",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "abordar obstáculos impostos a universitários."
+        },
+        {
+          "letra": "B",
+          "texto": "destacar mensagens de incentivo a estudantes."
+        },
+        {
+          "letra": "C",
+          "texto": "estimular ações proativas em situações de emergência."
+        },
+        {
+          "letra": "D",
+          "texto": "retratar relações conflituosas em ambiente universitário."
+        },
+        {
+          "letra": "E",
+          "texto": "apontar posturas de uma juventude avessa a contrariedades."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Inglês – Interpretação de texto",
+        "Sociologia – Comportamento geracional"
+      ]
+    },
+    {
+      "numeroEnunciado": "06",
+      "enunciado": "Texto para as Questões de 06 a 10.\nDe próprio punho\nA escrita e suas tecnologias sofrem interessantes metamorfoses, numa ciranda\nque vai do simples bilhete aos originais de um livro\nEstranhei muito na primeira vez que escutei a expressão “de próprio punho\". Parecia\nque eu ia bater em alguém. Não era bem o caso. Foi numa situação bancária, dessas bem\nburocráticas, e eu devia escrever algo bem breve, mas com minhas mãos. Na verdade,\no que importava era a autenticidade da minha caligrafia, que à época ainda era mais\nfluente e firme. Depois dos teclados de computador, ela rateia bastante. Minha letra,\nhoje, tem uma espécie de alternância: dia sim, dia não, trêmula e firme, forte e fraca,\nmais rotunda e mais cheia de arestas.\nÉ claro que já escrevi muito mais de próprio punho ou, numa palavra mais bonita,\nmanuscrevi (prefiro a mão ao punho, embora ele também seja usado na tarefa). Mas isso\nnão é um feito individual. Em larga medida, é social. Muita gente sente o mesmo que\neu, isto é, escreve bem menos usando as mãos, ou melhor, empregando algum tipo de\ntecnologia (lápis, caneta etc.) para escrever com grafite ou tinta ou giz ou carvão ou\nsangue e o que mais. É importante lembrar que ainda há gente que não sabe escrever\nneste país, neste planeta, mas muita gente sabe e tem um combo de tecnologias mais\nou menos à disposição para isso. Sou dessas pessoas privilegiadas que têm várias\npossibilidades, e uma delas nunca deixou de ser o uso das minhas mãos. Ainda hoje,\nsão elas que batucam meu teclado de computador ou que tocam suavemente duas ou\ntrês telas sensíveis. Mas não expressam mais a minha letra. No lugar, aparecem Times\nNew Roman, Arial, Calibri e mais uma centena de \"letras\" à minha escolha. Eu e Deus\ne o mundo.\nA despeito desse rol de chances e ferramentas para escrever, o manuscrito nunca\ndeixou de pintar aqui e ali, muitas vezes como obrigação. Na escola, por exemplo, até\nhoje ele é soberano. No Enem também. Curioso, não? Fico pensando em que espaços\ne ocasiões ainda uso minha letra. Olhando ao redor, na minha casa, minha letra está\nem espaços muito delimitados e específicos: bilhetes. Eles estão principalmente na\ncozinha, em especial na porta da geladeira, a fim de manter a comunicação com meus\ncoabitantes, sempre muito esquecidos ou relapsos. Mas também há bilhetes em post its\nna minha mesa do escritório, textinhos em garranchos por meio dos quais me comunico\ncomigo mesma, a evitar um comportamento esquecido e relapso.\nNo escritório, costumo ser mais suave comigo mesma, mas também muito mais\nlacônica, a ponto de nem eu me entender, se passar o tempo. Em todos os casos vai\nminha letra, menos e mais redonda, a lápis e a tinta azul, em post its rosa-choque, colados\nprecariamente, e todos com destino à lixeira, em breve. Justo porque eles funcionam\ncomo lembretes de tarefas e coisas que devem ser vencidas e, claro, substituídas por\noutras, num fluxo infinito, às vezes ansiogênico, com que a maioria dos adultos (e mais\nainda as adultas) precisa conviver.\nAs formas de escrever mudam, as necessidades também, e o resultado é um elenco\ncomplexo, em que nada dispensa nada, a depender da tarefa ou da importância das coisas\nou de suas funções, claro. A escrita e suas tecnologias incríveis vão se reposicionando,\nmudando de status, numa ciranda interessante e importante que pode ser vista à luz de\ncerta diversidade que encontra suas oportunidades e seus efeitos, aqui e ali. Não adianta\nmuito pensar sempre como se tudo fosse excludente. Estão aí minha farta comunicação\npor bilhetes, minha gaveta alegre de post its de toda cor, esperando para serem usados,\ne o cheque do cartório, em que quase tudo já é digital. “Do punho ao pixel\" não é uma\nfrase filosoficamente correta. O negócio é mais “o punho e o pixel\".\nRIBEIRO, A. E. Disponível em: https://rascunho.com.br.\nAcesso em: 16 jan. 2024 (adaptado).\nO recurso linguístico usado para marcar a síntese da opinião da autora sobre a temática desenvolvida foi o(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "emprego da primeira pessoa em “Estranhei muito na primeira vez que escutei a expressão 'de próprio punho'\". (l. 1)"
+        },
+        {
+          "letra": "B",
+          "texto": "utilização de locução adverbial em \"Na verdade, o que importava era a autenticidade da minha caligrafia\". (l. 3-4)"
+        },
+        {
+          "letra": "C",
+          "texto": "uso de pronome possessivo em “Minha letra, hoje, tem uma espécie de alternância\". (l. 5-6)"
+        },
+        {
+          "letra": "D",
+          "texto": "adoção de termo autorreflexivo em \"No escritório, costumo ser mais suave comigo mesma\". (l. 30)"
+        },
+        {
+          "letra": "E",
+          "texto": "substituição da expressão “Do punho ao pixel” (l. 44) pela expressão “o punho e o pixel\". (l. 45)"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Elementos de coesão e coerência",
+        "Língua Portuguesa – Gêneros textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": "07",
+      "enunciado": "Nesse texto, o que caracteriza a escrita \"de próprio punho\" é a letra manuscrita, enquanto a escrita digital é ilustrada pelo(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "utilização de tecnologias diversificadas."
+        },
+        {
+          "letra": "B",
+          "texto": "desenvolvimento de novos recursos de escrita."
+        },
+        {
+          "letra": "C",
+          "texto": "possibilidade de interações mediadas por telas."
+        },
+        {
+          "letra": "D",
+          "texto": "diversidade de fontes tipográficas que estão disponíveis."
+        },
+        {
+          "letra": "E",
+          "texto": "delimitação dos espaços onde a produção textual ocorre."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Gêneros textuais",
+        "Língua Portuguesa – Tipos de linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": "08",
+      "enunciado": "O elemento que caracteriza esse texto como uma crônica é a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "defesa das opiniões da autora sobre um tema de interesse coletivo."
+        },
+        {
+          "letra": "B",
+          "texto": "exposição sobre o uso de tecnologias nas práticas de escrita atuais."
+        },
+        {
+          "letra": "C",
+          "texto": "abordagem de fatos do contexto pessoal em uma perspectiva reflexiva."
+        },
+        {
+          "letra": "D",
+          "texto": "utilização de recursos linguísticos para a interlocução direta com o leitor."
+        },
+        {
+          "letra": "E",
+          "texto": "apresentação de acontecimentos segundo a ordem de sucessão no tempo."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Gêneros textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": "09",
+      "enunciado": "A autora conclui que as novas tecnologias de escrita",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "evoluem para facilitar a vida cotidiana."
+        },
+        {
+          "letra": "B",
+          "texto": "alcançam diferentes realidades sociais."
+        },
+        {
+          "letra": "C",
+          "texto": "coexistem com outras já estabelecidas."
+        },
+        {
+          "letra": "D",
+          "texto": "promovem maior agilidade na comunicação."
+        },
+        {
+          "letra": "E",
+          "texto": "surgem nos contextos em que são necessárias."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Gêneros textuais",
+        "Língua Portuguesa – Novas tecnologias e escrita"
+      ]
+    },
+    {
+      "numeroEnunciado": "10",
+      "enunciado": "No que diz respeito ao gênero bilhete, a autora dessa crônica",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ressalta a formalidade na comunicação com as pessoas de sua convivência."
+        },
+        {
+          "letra": "B",
+          "texto": "critica a ansiedade causada pela velocidade da comunicação."
+        },
+        {
+          "letra": "C",
+          "texto": "expressa a obrigatoriedade de concisão nas anotações."
+        },
+        {
+          "letra": "D",
+          "texto": "questiona a prática da escrita de próprio punho."
+        },
+        {
+          "letra": "E",
+          "texto": "apresenta a diversidade de usos no cotidiano."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Gêneros textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": "11",
+      "enunciado": "Nesse cartaz, a utilização de frases que projetam a vida profissional de duas crianças tem como objetivo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "sugerir a arrecadação de fundos para o sustento de povos originários no país."
+        },
+        {
+          "letra": "B",
+          "texto": "sensibilizar a sociedade sobre os benefícios decorrentes do combate ao racismo."
+        },
+        {
+          "letra": "C",
+          "texto": "indicar a importância da orientação vocacional na educação de crianças no Brasil."
+        },
+        {
+          "letra": "D",
+          "texto": "chamar a atenção sobre a necessidade de ações voltadas para a educação infantil."
+        },
+        {
+          "letra": "E",
+          "texto": "valorizar o trabalho de agências internacionais na luta contra a discriminação racial."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Publicidade e propaganda",
+        "Sociologia – Racismo e discriminação"
+      ]
+    },
+    {
+      "numeroEnunciado": "12",
+      "enunciado": "Passando por aqui para lembrar algumas palavras, frases e expressões que nos infernizaram em 2023. Inclusive passando\npor aqui. Se você for proativo, vai achar que é o novo normal. Estarão na sua zona de conforto. Mas, se for reativo como eu, vai\nachar que é uma narrativa que precisa ser ressignificada.\nÉ uma questão de empatia. É sobre entregar um discurso mais robusto e empoderado. Sei bem que não tenho lugar de fala\npara harmonizar certos pontos fora da curva e que preciso aplicar toda a minha resiliência para fazer um realinhamento. O nível\nde fitness está hoje num sarrafo muito alto.\nO fato é que acho cringe essas falas fora da caixinha. Aliás, falar cringe já é meio cringe. Preciso usar a superação para me\nreinventar e entender que resenha não tem mais a ver com futebol, é qualquer papo, desde que latente.\nPensando bem, não é tão difícil. Frases feitas são aquelas que entram por um ouvido e saem pelo outro sem um estágio\nintermediário no cérebro. A boca fala por conta própria, dispensando-nos de pensar. E não tem problema nisso. Ou as ditas\nfrases se incorporam à língua ou morrem e nascem outras. A língua é assim. Simples assim.\nCASTRO, R. Disponível em: www1.folha.uol.com.br. Acesso em: 3 fev. 2024 (adaptado).\nNesse texto, a estratégia empregada para criticar a constante exposição a palavras, frases e expressões automatizadas é o(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "menção feita à efemeridade de alguns usos linguísticos aleatórios."
+        },
+        {
+          "letra": "B",
+          "texto": "subjetividade marcada pela reflexão que se desenvolve em primeira pessoa."
+        },
+        {
+          "letra": "C",
+          "texto": "efeito estilístico da repetição intencional da palavra \"assim\" no último parágrafo."
+        },
+        {
+          "letra": "D",
+          "texto": "sedução sugerida pelo envolvimento direto do leitor marcado nos usos de “você” e “sua”."
+        },
+        {
+          "letra": "E",
+          "texto": "humor gerado pelo uso das estruturas linguísticas que são objeto da reflexão desenvolvida."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Argumentação",
+        "Língua Portuguesa – Variação linguística"
+      ]
+    },
+    {
+      "numeroEnunciado": "13",
+      "enunciado": "Vejo, disse ele com algum acanhamento, que o doutor não\né nenhum pé-rapado, mas nunca é bom facilitar... Minha filha\nNocência fez 18 anos pelo Natal, e é rapariga que pela feição parece\nmoça de cidade, muito ariscazinha de modos, mas bonita e boa\ndeveras... Coitada, foi criada sem mãe, e aqui nestes fundões. [...]\nOra muito que bem, continuou Pereira caindo aos poucos\nna habitual garrulice, quando vi a menina tomar corpo, tratei\nlogo de casá-la.\nAh! é casada? perguntou Cirino.\nIsto é, é e não é. A coisa está apalavrada. Por aqui costuma\nlabutar no costeio do gado para São Paulo um homem de mão-\ncheia, que talvez o sr. conheça... o Manecão Doca...\nNão, respondeu Cirino abanando a cabeça.\nPois isso é um homem às direitas, desempenado e trabucador\ncomo ele só... fura estes sertões todos e vem tangendo pontes de\ngado que metem pasmo. Também dizem que tem bichado muito\ne ajuntado cobre grosso, o que é possível, porque não é gastador\nnem dado a mulheres. Uma feita que estava aqui de pousada...\nolhe, mesmo neste lugar onde estava mecê inda agorinha, falei-lhe\nem casamento... isto é, dei-lhe uns toques... porque os pais devem\ntomar isso a si para bem de suas famílias; não acha?\nBoa dúvida, aprovou Cirino, dou-lhe toda a razão; era\ndo seu dever.\nTAUNAY, A. d'E. Inocência. Disponível em: www.dominiopublico.gov.br.\nAcesso em: 29 fev. 2024.\nNesse trecho, ao se referir à sua filha, o pai de Inocência reproduz\nos ideais românticos, presentes na",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "valorização do ambiente rural na formação moral da mulher."
+        },
+        {
+          "letra": "B",
+          "texto": "figura decorativa da mulher ante o protagonismo masculino."
+        },
+        {
+          "letra": "C",
+          "texto": "equivalência de origem social para a harmonia do casal."
+        },
+        {
+          "letra": "D",
+          "texto": "importância do dote como condição para o casamento."
+        },
+        {
+          "letra": "E",
+          "texto": "aura de mistério sobre a identidade da jovem."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura brasileira",
+        "Língua Portuguesa – Romantismo"
+      ]
+    },
+    {
+      "numeroEnunciado": "14",
+      "enunciado": "O Ministério do Esporte no Brasil lançou o programa Maré\nInclusiva, em 2024, ano dos Jogos Paralímpicos de Paris. Esse\nprograma visa ampliar as oportunidades para pessoas com\ndeficiência que desejam praticar o surf. O parasurf é a prática\ndo surf adaptada para permitir que pessoas com deficiência\npratiquem o esporte em todas as suas categorias, modalidades\ne manifestações. Para a Secretaria Nacional do Paradesporto,\na iniciativa é mais do que um programa de esporte, é uma\niniciativa que busca transformar vidas e promover a inclusão por\nmeio do parasurf, criando um legado de igualdade e respeito.\nDisponível em: www.gov.br/esporte. Acesso em: 6 set. 2024 (adaptado).\nDe acordo com esse texto, o programa voltado ao estímulo da\nprática do parasurf evidencia a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "adesão de diferentes países a programas inclusivos."
+        },
+        {
+          "letra": "B",
+          "texto": "preocupação política em atender a demandas paralímpicas."
+        },
+        {
+          "letra": "C",
+          "texto": "importância de uma política pública esportiva para a inclusão."
+        },
+        {
+          "letra": "D",
+          "texto": "eficiência das iniciativas de inclusão em megaeventos esportivos."
+        },
+        {
+          "letra": "E",
+          "texto": "escassez de investimento em práticas corporais de aventura"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de texto",
+        "Sociologia – Políticas públicas e inclusão"
+      ]
+    },
+    {
+      "numeroEnunciado": "15",
+      "enunciado": "Art. 26-A. Nos estabelecimentos de ensino fundamental\ne médio, oficiais e particulares, torna-se obrigatório o ensino\nsobre História e Cultura Afro-Brasileira. § 1º O conteúdo programático a que se refere o caput deste\nartigo incluirá o estudo da História da África e dos Africanos, a luta\ndos negros no Brasil, a cultura negra brasileira e o negro na formação\nda sociedade nacional, resgatando a contribuição do povo negro nas\náreas social, econômica e política pertinentes à História do Brasil.\n§ 2º Os conteúdos referentes à História e Cultura Afro-\n-Brasileira serão ministrados no âmbito de todo o currículo\nescolar, em especial nas áreas de Educação Artística e de\nLiteratura e História Brasileiras.\nBRASIL. Lei n. 10 639/2003. Disponível em: www.gov.br/planalto.\nAcesso em: 5 maio 2024.\nO emprego da norma-padrão é justificado nesse texto",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pela especialização de seu público-alvo."
+        },
+        {
+          "letra": "B",
+          "texto": "pela relevância cultural de seu conteúdo."
+        },
+        {
+          "letra": "C",
+          "texto": "pelos contextos pedagógicos em que circula."
+        },
+        {
+          "letra": "D",
+          "texto": "pela importância para os grupos étnico-raciais."
+        },
+        {
+          "letra": "E",
+          "texto": "pelas características do gênero a que pertence."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Variação linguística",
+        "Língua Portuguesa – Gêneros textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": "16",
+      "enunciado": "Nesse cartaz publicitário, os recursos verbais e não verbais\nconstroem um argumento que objetiva",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "divulgar a obra de Fernando Pessoa no Brasil."
+        },
+        {
+          "letra": "B",
+          "texto": "valorizar a realização de eventos literários no país."
+        },
+        {
+          "letra": "C",
+          "texto": "ressaltar o impacto da leitura na vida das pessoas."
+        },
+        {
+          "letra": "D",
+          "texto": "fomentar o turismo cultural na cidade de São Paulo."
+        },
+        {
+          "letra": "E",
+          "texto": "evidenciar a influência de Pessoa na literatura brasileira."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Publicidade e propaganda",
+        "Língua Portuguesa – Elementos verbais e não verbais"
+      ]
+    },
+    {
+      "numeroEnunciado": "17",
+      "enunciado": "Com 20 anos de experiência no futebol de alto rendimento,\nMarina, ex-jogadora da seleção brasileira de futebol, salienta que,\npor trás do espetáculo apresentado nas mídias, com mensagens de\nmotivação e superação, o esporte não é tão inclusivo assim. “É esta\nanálise que devemos fazer: aqueles atletas que estão ali estão\ntrazendo uma alta performance a partir dos seus limites\", explica.\nPara a profissional, é preciso analisar com cautela \"a ideia romântica\nque a mídia passa para os telespectadores”. A realidade é muito\nmais dura do que as imagens espetaculosas que principalmente\na televisão busca transmitir para a audiência. “Por trás existe\num ser humano, a gente não pode nunca esquecer isso. Aquela\npessoa treinou insistentemente para estar ali, durante meses,\nsemanas e temporadas. Duas vezes ao dia, de duas a quatro horas\",\npondera Marina. Atualmente, as crianças e os jovens vislumbram\no sucesso profissional e a boa-vida financeira de poucos atletas\nque se destacam e estampam os meios de comunicação. Tudo\nparece ser muito mais fácil do que realmente é quando apenas\nas conquistas são mostradas.\nROSOLEN, N. Disponível em: www.uninter.com.\nAcesso em: 10 maio 2024 (adaptado).\nNesse texto, a visão crítica de uma ex-atleta de futebol revela que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "os meios de comunicação invisibilizam as dificuldades"
+        },
+        {
+          "letra": "B",
+          "texto": "o treinamento atlético de alto nível é desestimulante para"
+        },
+        {
+          "letra": "C",
+          "texto": "o trabalho contínuo é desvalorizado no contexto esportivo"
+        },
+        {
+          "letra": "D",
+          "texto": "as ações de incentivo financeiro a jovens atletas são precárias."
+        },
+        {
+          "letra": "E",
+          "texto": "as publicações da mídia esportiva rotulam atletas iniciantes."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de texto",
+        "Sociologia – Mídia e sociedade"
+      ]
+    },
+    {
+      "numeroEnunciado": "18",
+      "enunciado": "No predomínio das mulheres pretas brasileiras nos Jogos\nOlímpicos de 2024, uma coisa chamou a atenção no pódio: elas\nvalorizam a parte psicológica. As duas medalhistas de ouro, a\njudoca Beatriz Souza e a ginasta Rebeca Andrade, ressaltam, em\nvárias entrevistas, a importância da saúde mental. Em uma dessas\nentrevistas, Rebeca sinaliza: “Acho que não é só sobre vencer a\nSimone, é sobre vencer a mim mesma. A minha briga está na\nminha cabeça, não está com outras pessoas. Para conseguir fazer\nas minhas apresentações, preciso controlar a minha cabeça, o meu\ncorpo, e essa é a briga\". Na mesma linha, a skatista Rayssa Leal\nexalta a necessidade da terapia, e a Seleção Brasileira de Futebol de\nMulheres tem o suporte psicológico como reforço no treinamento.\nDisponível em: https://iclnoticias.com.br.\nAcesso em: 18 set. 2024 (adaptado).\nNesse texto, as atletas brasileiras defendem o(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "investimento na modernização de equipamentos."
+        },
+        {
+          "letra": "B",
+          "texto": "subordinação do treinamento físico ao mental."
+        },
+        {
+          "letra": "C",
+          "texto": "estímulo à competição entre adversárias."
+        },
+        {
+          "letra": "D",
+          "texto": "aprimoramento da expressão corporal."
+        },
+        {
+          "letra": "E",
+          "texto": "importância da saúde emocional."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de texto",
+        "Biologia – Saúde e bem-estar",
+        "Sociologia – Esporte e saúde mental"
+      ]
+    },
+    {
+      "numeroEnunciado": "19",
+      "enunciado": "A característica fundamental no aprendizado das práticas\nrituais nos candomblés é o processo iniciático e participante.\nDurante o período de reclusão em terreiros ou rocas, o iniciado\npassa por uma série de ritos esotéricos (banhos rituais, raspagem\nda cabeça etc.), ao mesmo tempo em que começa a adquirir\num complexo código de símbolos materiais (substâncias, folhas,\nfrutos, raízes etc.) e de gestos associados a um repertório\nlinguístico específico das cerimônias que se desenrolam nos\ncontextos sagrados em geral e em cada terreiro em particular.\nEsse repertório linguístico, genericamente chamado de\n“língua de santo” na Bahia, compreende uma terminologia\nreligiosa operacional, de caráter mágico-semântico e de aparente\nforma portuguesa, mas que repousa sobre sistemas lexicais de\ndiferentes línguas africanas que provavelmente foram faladas\nno Brasil escravocrata, vindo a constituir uma língua ritual, que\nse acredita pertencer à nação do vodum, do orixá ou do inquice,\ne não a determinada nação africana política atual.\nDisponível em: https://periodicos.ufba.br.\nAcesso em: 21 jan. 2024 (adaptado).\nA \"língua de santo\" tem sua importância para o patrimônio\nlinguístico brasileiro por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apresentar uma carga semântica mítica."
+        },
+        {
+          "letra": "B",
+          "texto": "conservar elementos dos falares dos escravizados."
+        },
+        {
+          "letra": "C",
+          "texto": "resgatar expressões portuguesas do período colonial."
+        },
+        {
+          "letra": "D",
+          "texto": "decodificar o ritual religioso dos nossos antepassados."
+        },
+        {
+          "letra": "E",
+          "texto": "favorecer a compreensão do léxico africano contemporâneo."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Variação linguística",
+        "História – Período colonial",
+        "Sociologia – Religiões de matriz africana"
+      ]
+    },
+    {
+      "numeroEnunciado": "20",
+      "enunciado": "O meu medo é entrar na faculdade e tirar zero eu que nunca\nfui bom de matemática fraco no inglês eu que nunca gostei de\nquímica geografia e português o que é que eu faço agora hein\nmãe não sei. [...]\nO meu medo é a vida piorar e eu não conseguir arranjar\nemprego nem de faxineiro nem de porteiro nem de ajudante\nde pedreiro e o pessoal dizer que o governo já fez o que pôde\njá pôde o que fez já deu a sua cota de participação hein mãe\nnão sei.\nO meu medo é que mesmo com diploma debaixo do braço\nandando por aí desiludido e desempregado o policial me olhe\nde cara feia e eu acabe fazendo uma burrice sei lá uma besteira\nserá que eu vou ter direito a uma cela especial hein mãe não sei.\nFREIRE, M. Contos negreiros. Rio de Janeiro: Record, 2005.\nNesse texto, a reiteração dos medos e das angústias do\nnarrador exprime",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "inseguranças sobre o futuro familiar."
+        },
+        {
+          "letra": "B",
+          "texto": "dilemas resultantes de seu fracasso escolar."
+        },
+        {
+          "letra": "C",
+          "texto": "incertezas centradas em sua condição social."
+        },
+        {
+          "letra": "D",
+          "texto": "hesitações em relação à sua formação profissional."
+        },
+        {
+          "letra": "E",
+          "texto": "preocupações com as políticas públicas assistenciais."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de texto",
+        "Sociologia – Questões sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": "21",
+      "enunciado": "O retrato como gênero da pintura ocidental ficou vinculado\nàs elites, tornando invisíveis as populações que não faziam parte\ndo círculo dominante. Num país de tradição escravocrata e\ncolonizado por europeus como o Brasil, pouquíssimas pessoas\nnegras e indígenas foram retratadas em pintura, e menos ainda\nidentificadas com seus nomes nos retratos. Daí a importância,\npara a história da arte e para a história brasileira, dos retratos\nde Dalton Paula.\nAo dar protagonismo a Zeferina e a João de Deus Nascimento,\no artista Dalton Paula evidencia que a(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "arte pode promover formas de afirmação de identidade social."
+        },
+        {
+          "letra": "B",
+          "texto": "comunidades periféricas passam a adquirir o gênero retrato."
+        },
+        {
+          "letra": "C",
+          "texto": "personagens retratadas simbolizam a sociedade brasileira."
+        },
+        {
+          "letra": "D",
+          "texto": "pintura funciona como instrumento de ascensão social."
+        },
+        {
+          "letra": "E",
+          "texto": "imagens tradicionais preservam memórias afetivas."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Arte – História da arte",
+        "Sociologia – Identidade e representação"
+      ]
+    },
+    {
+      "numeroEnunciado": "22",
+      "enunciado": "Símbolos\nEu e tu, ante a noite e o amplo desdobramento\ndo mar, fero, a estourar de encontro à rocha nua...\nUm símbolo descubro aqui, neste momento\nesta rocha, este mar... a minha vida e a tua.\nO mar vem, o mar vai, nele há o gesto violento\nde quem maltrata e, após, se arrepende e recua.\nComo compreendo bem da rocha o sentimento!\nSão muito iguais, por certo, a minha mágoa e a sua.\nContemplo neste quadro a nossa triste vida;\ntu és dúbio mar que, na sua inconsciência,\ntem carinhos de amor e fúrias de demência!\nEu sou a dor estanque, a dor empedernida,\nsou rocha a emergir de um côncavo de areia,\nimóvel, muda, isenta e alheia ao mar, alheia.\nMACHADO, G. Poesia completa. Rio de Janeiro:\nCátedra/MEC, 1978.\nNesse soneto, os traços da estética simbolista são resgatados\npelo eu lírico ao",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "rejeitar as emoções de \"amor\" e \"mágoa\"."
+        },
+        {
+          "letra": "B",
+          "texto": "expressar a dubiedade do olhar sobre o outro."
+        },
+        {
+          "letra": "C",
+          "texto": "representar o “eu” e o “tu” como sujeitos volúveis."
+        },
+        {
+          "letra": "D",
+          "texto": "associar a sua inconsciência a elementos da natureza."
+        },
+        {
+          "letra": "E",
+          "texto": "metaforizar o conflito amoroso nas imagens de \"mar\" e \"rocha\"."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura brasileira",
+        "Língua Portuguesa – Simbolismo"
+      ]
+    },
+    {
+      "numeroEnunciado": "23",
+      "enunciado": "Antes do inverno chegar.\nEla tinha olhinhos brilhantes. Os mesmos de antes. Antes\nda fome. Antes das 17 mudanças de cidade. Dos sete filhos e\ndos muitos anos de trabalho dentro e fora de casa.\nEla fazia ambrosia, bolo de fubá e pedacinhos de queijo.\nAntes do inverno, ela plantava flores novas e diferentes para\nnos esperar nas próximas férias de verão.\nEla tinha o jeito de menina. Menina sapeca, correndo na\ngrama seca do cerrado. O mesmo jeito de antes. Antes do\nmarido (e mesmo com o marido). Antes do cansaço dos anos.\nAntes da dureza do trato com a terra.\nEla tinha histórias. Compridas, curtas, divertidas e\nverdadeiras. Mas isso foi antes. Antes das lembranças se\nbagunçarem feito bolas coloridas de Natal esperando para\nserem montadas na árvore.\nEu era sua neta. Antes do Alzheimer chegar, eu era sua\nneta. Mas ela é e sempre será minha avó.\nPERSON, C. R. Borboletas no estômago: porque às vezes o título precisa\nser adolescente e clichê, já que a vida exige sermos tão adultos.\nSão Paulo: Ed. das Autoras, 2021.\nA narradora, ao resgatar memórias da história de vida da avó,\nfaz uso recorrente da locução \"antes de\". Esse termo colabora\npara a progressão temática na medida em que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "relaciona eventos ocorridos simultaneamente."
+        },
+        {
+          "letra": "B",
+          "texto": "estabelece uma comparação entre as lembranças."
+        },
+        {
+          "letra": "C",
+          "texto": "ressalta fatos que ressignificam o momento presente."
+        },
+        {
+          "letra": "D",
+          "texto": "sinaliza uma sequência que denota ações consecutivas."
+        },
+        {
+          "letra": "E",
+          "texto": "apresenta uma explicação para as memórias resgatadas."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Coerência e coesão",
+        "Língua Portuguesa – Tempo verbal"
+      ]
+    },
+    {
+      "numeroEnunciado": "24",
+      "enunciado": "Com base na relação dos elementos não verbais com a frase\n“VOCÊ (NÃO) ESTÁ SOZINHO”, nessa capa de revista, a função\npoética fica evidente, pois",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "essa frase informa sobre os riscos de um determinado"
+        },
+        {
+          "letra": "B",
+          "texto": "o conteúdo da mensagem expressa a atitude do enunciador"
+        },
+        {
+          "letra": "C",
+          "texto": "a construção dessa frase possibilita mais de uma interpretação."
+        },
+        {
+          "letra": "D",
+          "texto": "essa frase estabelece um diálogo direto com o leitor."
+        },
+        {
+          "letra": "E",
+          "texto": "a linguagem utilizada volta-se para si mesma."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Funções da linguagem",
+        "Língua Portuguesa – Gêneros textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": "25",
+      "enunciado": "Margot Robbie foi criticada por \"não ser bonita o suficiente\"\npara interpretar a Barbie. Recentemente, Paolla Oliveira foi\nchamada de gorda. Só fico pensando o que serei eu com mais de\n50 (também no peso), com a minha aparência comum. O corpo\nda mulher vive um reality show permanente: é sempre vigiado\ne fiscalizado, como se fosse domínio público. A mulher que não\natender aos estereótipos está sujeita a sofrer penalidades básicas,\ncomo distúrbios, obsessões, medo do próprio corpo e, é claro, dietas\nà base de rúcula. \"A dieta é o sedativo político mais potente na\nhistória das mulheres\", escreveu Naomi Wolf, em 1991. A regra é\nnão haver singularidade, mascarar a passagem do tempo, imobilizar\na beleza (já imaginou como isso seria enfadonho?). O mandamento\né obedecer às regras sociais do bom comportamento corporal,\n\"como deve ser\", não nos atos, mas na forma.\nKORICH, B. S. Disponível em: www1.folha.uol.com.br.\nAcesso em: 22 jan. 2024 (adaptado).\nNesse texto, para introduzir a ideia de que a fiscalização\npermanente sobre o corpo afeta todas as mulheres, a autora",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "faz um comentário sobre sua própria imagem."
+        },
+        {
+          "letra": "B",
+          "texto": "destaca avaliações particulares entre parênteses."
+        },
+        {
+          "letra": "C",
+          "texto": "cita um formato de programa influente no segmento da beleza."
+        },
+        {
+          "letra": "D",
+          "texto": "utiliza declaração de uma jornalista como argumento"
+        },
+        {
+          "letra": "E",
+          "texto": "enumera críticas à aparência de mulheres consideradas"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Estratégias argumentativas",
+        "Sociologia – Estereótipos de gênero"
+      ]
+    },
+    {
+      "numeroEnunciado": "26",
+      "enunciado": "I: o nome do filme é roupa suja\neu assisti na minha casa\ncom minha mãe ... tinha um o filme era sobre um homem que\ncolocaram ... trocaram as bolsas ... daí o homem levou uma bolsa\ncheia de dinheiro sem ele saber que na mala dele ... pensando\nque era dele mas era errada ... quando ele chegou onde ele ia\ntrabalhar ... tinha uma moça tentando abrir a porta pra fazer\nentrevista com uns cantores lá que tinham ... daí ele perguntou\n“você tá tentando abrir a porta?\"... daí ele ... \"não ... não”\ndaí ele disse ... \"ah ... tá ... sim\" ... daí ela ... \"é e quero fazer\numa entrevista\" ... daí ele disse ... \"você quer entrar\nentão\npode entrar\" ... daí entraram\ndaí ficaram lá ... quando ela\nentrou e queria fazer a entrevista um homem num deixou ... daí a\nmulher pegou ... subiu onde o homem tava trabalhando ... rapaz\nné ... onde ele tava trabalhando e ficou lá e dando o show\nCUNHA, M. A. F. Corpus discurso & gramática: a língua falada e\nescrita na cidade de Natal. Disponível em: https://deg.uff.br.\nAcesso em: 4 dez. 2024 (adaptado).\nNesse texto, a repetição da forma \"daí” revela",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a necessidade de adequação ao interlocutor."
+        },
+        {
+          "letra": "B",
+          "texto": "a origem regional do locutor."
+        },
+        {
+          "letra": "C",
+          "texto": "a escolaridade do falante."
+        },
+        {
+          "letra": "D",
+          "texto": "uma estratégia presente na linguagem oral."
+        },
+        {
+          "letra": "E",
+          "texto": "uma ênfase em determinadas partes do discurso."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Variação linguística",
+        "Língua Portuguesa – Oralidade e escrita"
+      ]
+    },
+    {
+      "numeroEnunciado": "27",
+      "enunciado": "Doce mistura\nA canjica - creme amarelo à base de milho - é prova\nda diversidade do Brasil, pelas variações em seu nome\nde batismo. Servido polvilhado com canela, o doce\nconfunde: o que lá no norte é \"canjica\", lá no sul é\n\"curau\". Os nomes se invertem quando o doce muda.\nO creme branco com os grãos inteiros de milho, no sul,\né \"canjica\", e, no norte, \"curau\".\nRevista Língua Portuguesa, n. 31, maio 2008 (adaptado).\nEsse texto, que apresenta um prato da culinária brasileira,\nevidencia",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "valor afetivo nas nomenclaturas."
+        },
+        {
+          "letra": "B",
+          "texto": "variedade linguística entre regiões."
+        },
+        {
+          "letra": "C",
+          "texto": "disputa regional pelo melhor prato."
+        },
+        {
+          "letra": "D",
+          "texto": "modos de preparo de um mesmo alimento."
+        },
+        {
+          "letra": "E",
+          "texto": "paladares diversificados entre diferentes estados."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Variação linguística",
+        "Geografia – Cultura regional"
+      ]
+    },
+    {
+      "numeroEnunciado": "28",
+      "enunciado": "A diferença entre briga e luta é a existência de juízes e medalhas?\nA briga desumaniza o outro e pode até matá-lo. Já na luta, as\nintenções do outro são consideradas sua proposta combativa e suas\nhabilidades, enfim, sua meta de vencer. Na luta, o desenvolvimento\npassa pelo contato com a agressividade, a raiva, a frustração, o\norgulho, a determinação e a fraqueza. Daí também a luta não ser\napenas com o outro, mas consigo mesmo, num combate contra as\npróprias limitações, sobretudo, contra o próprio orgulho.\nBARREIRA, C. A briga desumaniza. A luta, não.\nO Estado de S. Paulo, 22 ago. 2010 (adaptado).\nEsse texto apresenta as diferenças entre briga e luta, na medida\nem que aponta o(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "superação pessoal na luta."
+        },
+        {
+          "letra": "B",
+          "texto": "violência evidenciada na luta."
+        },
+        {
+          "letra": "C",
+          "texto": "predomínio de regras na briga."
+        },
+        {
+          "letra": "D",
+          "texto": "desafio externo presente na luta."
+        },
+        {
+          "letra": "E",
+          "texto": "habilidade desenvolvida na briga."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de texto",
+        "Filosofia – Ética"
+      ]
+    },
+    {
+      "numeroEnunciado": "29",
+      "enunciado": "Pequenino morto\nTange o sino, tange, numa voz de choro,\nNuma voz de choro... tão desconsolado...\nNo caixão dourado, como em berço de ouro,\nPequenino, levam-te dormindo... Acorda!\nOlha que te levam para o mesmo lado\nDe onde o sino tange numa voz de choro...\nPequenino, acorda!\nQue caminho triste, e que viagem! Alas\nDe ciprestes negros a gemer no vento;\nTanta boca aberta de famintas valas\nA pedir que as fartem, a esperar que as encham...\nPequenino, acorda! Recupera o alento,\nFoge da cobiça dessas fundas valas\nA pedir que as encham.\nCARVALHO, V. Poemas e canções. Rio de Janeiro:\nSaraiva, 1962 (fragmento).\nNesse fragmento do poema, o sentimento de luto adquire\ncontornos expressivos e é intensificado pela",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "descrição da paisagem de um cemitério."
+        },
+        {
+          "letra": "B",
+          "texto": "recusa do eu lírico à irreversibilidade da morte."
+        },
+        {
+          "letra": "C",
+          "texto": "sonoridade dos versos produzida pela pontuação."
+        },
+        {
+          "letra": "D",
+          "texto": "religiosidade evocada como forma de fortalecimento."
+        },
+        {
+          "letra": "E",
+          "texto": "impressão de sonho na construção da estrutura poética."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Análise literária",
+        "Língua Portuguesa – Gêneros poéticos"
+      ]
+    },
+    {
+      "numeroEnunciado": "30",
+      "enunciado": "Só entende os corações desse lugar quem mergulha nesse\nmar a perder de vista e recoberto de cana caiana, cana fita, cana\nroxa, cana-de-macaco, açúcar, melado, rapadura, aguardente,\nfumo, mandioca, quiabos, pimentas, moendas, frutas, fruta-pão,\nsobrados, senzalas, tachos, casa de purgar. Um reino dentro de\noutro, com tudo o que se tem direito: reis, rainhas, príncipes e\nprincesas, bobos da corte, cortesãos, conselheiros e escravos,\nmuitos escravos. [...]\nA corte do massapé, como qualquer outra na história da\nhumanidade, fazia tudo para não deixar escapar nenhum mísero\ngrão dos seus domínios para quem estivesse de fora do seu\napertado círculo. Os nomes se repetiam de pai para filho, para\nsobrinho, para netos e bisnetos, de forma concêntrica e repetitiva,\npara que não pairasse nenhuma dúvida de que são todos da\nmesma parentela. As farinhas todas num mesmo saco brasonado.\nCRUZ, E. A. Água de barrela. Rio de Janeiro: Malê, 2018.\nNesse fragmento, o narrador enumera o resultado do trabalho\ncom a terra, o qual, no contexto em que aparece,",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "espelha a permanência dos privilégios de classe."
+        },
+        {
+          "letra": "B",
+          "texto": "oferece um panorama da população do campo."
+        },
+        {
+          "letra": "C",
+          "texto": "mostra os benefícios da fartura na agricultura."
+        },
+        {
+          "letra": "D",
+          "texto": "defende a importância da atividade coletiva."
+        },
+        {
+          "letra": "E",
+          "texto": "valoriza o trabalho ao longo das gerações."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Análise literária",
+        "História – Sociedade colonial"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Uruku\nUrucum\nRocou\n(Bixa orellana)\n\nMoju, dono da água, não gosta do cheiro de urucum. Mani’ojarã, dono da mandioca, e os donos das outras plantas cultivadas também não. Eles não suportam. Por isso, os Wajapi se untam de urucum, deixam o rosto vermelho e se perfumam com seu aroma agradável. Além disso, os seres agressores, os jarã (donos) e os espíritos terrestres, gostam do cheiro dos fluidos humanos, do sangue, do suor. Então, o urucum os dissimula, protegendo as pessoas que vão caçar, caminhar pela floresta, que estão sendo perturbadas por espíritos em sonhos ou que estão em resguardo, como os doentes. O seu uso é tão cotidiano que os Wajapi o plantam na aldeia, para ter sempre pertinho. Como o urucum não tem jarã, não tem problema nenhum em arrancar e usar para pintar.\n\nSTRAPPAZZON, A. I.; SIGOLO, R. P. Jardins da história: medicinas indígenas. Recife: ObservaPICS, 2022.\n\nNesse verbete contribui para a preservação do patrimônio linguístico nacional, pois apresenta uma",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "explicação de um rito medicinal do povo Wajapi."
+        },
+        {
+          "letra": "B",
+          "texto": "definição de um termo na perspectiva ancestral indígena."
+        },
+        {
+          "letra": "C",
+          "texto": "relação de equivalência entre vocábulos de diferentes línguas indígenas."
+        },
+        {
+          "letra": "D",
+          "texto": "atualização de saberes tradicionais dos povos indígenas brasileiros."
+        },
+        {
+          "letra": "E",
+          "texto": "descrição das propriedades científicas de plantas silvestres."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Variação Linguística"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "dezenove\n\nCada vez mais somos convocados para dentro das Redes.\nMas não levamos a nossa rede e penduramos no\nalpendre da casa de um amigo, não sentimos o cheiro da\ncasa enquanto o café se derrama na xícara ou ouvimos o\npiar dos passarinhos ou a música da chuva.\nA Rede nos convoca e o que somos lá dentro é o que\nsomos do lado de fora?\nHá um intervalo entre este eu dentro da tela e o outro\nque somos?\nA palavra rede é vasta.\n\nMURRAY, R.; KLIGERMAN, E. Teias de afeto e poesia. Disponível em:\nhttps://roseanamurray.com. Acesso em: 5 maio 2024.\n\nNesse texto, a autora aborda diferentes sentidos da palavra\n\"rede\" para evidenciar",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "as formas de comunicação em meios digitais."
+        },
+        {
+          "letra": "B",
+          "texto": "a necessidade de atualização das mídias sociais."
+        },
+        {
+          "letra": "C",
+          "texto": "os conflitos de identidade dos usuários da internet."
+        },
+        {
+          "letra": "D",
+          "texto": "o impacto das tecnologias nas interações humanas."
+        },
+        {
+          "letra": "E",
+          "texto": "os desejos de compartilhar vivências com os amigos."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Linguagem e Tecnologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Muitos pensam que narrativa curta é sinônimo de conto,\nperdendo de vista gêneros que, por tradição ruim, continuam à\nmargem da nobreza. Acontece que o conto tem uma densidade\nespecífica, centrando-se na exemplaridade de um instante da\ncondição humana, sem que essa exemplaridade se refira à valoração\nmoral, já que uma grande mazela pode muito bem exemplificar uma\ndas nossas faces. A crônica não tem essa característica. Conservou a\nmarca do registro circunstancial feito por narrador-repórter que relata\num fato para muitos leitores que formam um público determinado.\nMas que público é esse? Sendo a crônica uma soma de jornalismo\ne literatura (daí a imagem do narrador-repórter), dirige-se a uma\nclasse que tem preferência pelo jornal em que ela é publicada, o\nque significa uma espécie de censura ou, pelo menos, de limitação: a\nideologia do veículo corresponde ao interesse dos seus consumidores,\ndirecionados pelos proprietários dos periódicos e/ou pelos editores-\n-chefes da redação. Ocorre ainda o limite de espaço, uma vez que\na página comporta várias matérias, o que impõe a cada uma delas\num número restrito de laudas, obrigando o redator a explorar, da\nmaneira mais econômica possível, o pequeno espaço de que dispõe.\nÉ dessa economia que nasce sua riqueza estrutural.\n\nSÁ, J. A crônica. São Paulo: Ática, 1987 (adaptado).\n\nDe acordo com esse texto, o aspecto tecnológico que influencia\na composição do gênero crônica advém da",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "conexão ideológica."
+        },
+        {
+          "letra": "B",
+          "texto": "densidade temática."
+        },
+        {
+          "letra": "C",
+          "texto": "ênfase no público leitor."
+        },
+        {
+          "letra": "D",
+          "texto": "apresentação de uma moral."
+        },
+        {
+          "letra": "E",
+          "texto": "restrição espacial do suporte."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Gêneros Textuais (Crônica)"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "dossie\nVIOLÊNCIA\nCONTRA AS\nMULHERES\n#DESAFIO...\nigualdade\nAnuário\nBrasileiro\nde Segurança\nPública 2019\n\nPor que falar sobre\nviolência contra\nmulheres na\nescola?\n\nMARIA DA PENHA\nVAI A\nESCOLA\n\nA violência de gênero afeta a vida de\nmeninas e meninos em vários aspectos\ne hoje é um dos grandes empecilhos\npara que vivam plenamente, com\nsegurança e qualidade de vida.\n\nDisponível em: www.tjdft.jus.br. Acesso em: 15 out. 2024 (adaptado).\n\nEsse texto trata de um problema social com o propósito de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "divulgar campanha virtual contra casos de feminicídio."
+        },
+        {
+          "letra": "B",
+          "texto": "promover engajamento do setor educacional na luta contra a violência."
+        },
+        {
+          "letra": "C",
+          "texto": "comparar o impacto da violência na qualidade de vida de meninas e meninos."
+        },
+        {
+          "letra": "D",
+          "texto": "ressaltar a importância da segurança dos estudantes no ambiente escolar."
+        },
+        {
+          "letra": "E",
+          "texto": "dar visibilidade a estudos e pesquisas do setor de segurança."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Gêneros Textuais (Campanha)"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "TEXTO I\nA Ilha do Ferro, situada a 18 km do município de Pão de\nAçúcar, não é uma ilha, como o nome indica. A história do\npovoado é semelhante à de inúmeros outros que encontramos\nàs margens do Rio São Francisco, entre Alagoas e Sergipe. O que\ntorna diferente o lugar é sua gente. Hoje, dezenas de artistas\npopulares povoam a Ilha do Ferro, trabalhando principalmente\ncom o entalhe em madeira. Onde pessoas comuns enxergariam\napenas troncos e galhos retorcidos, eles vislumbram bancos,\nbonecos, pássaros, cobras e bailarinas. \"Às vezes, você passa\npor um pedaço de madeira uma vez e não vê nada, passa cinco\nvezes por ele e não vê nada\", conta um dos artistas, \"mas, na\ndécima vez, você consegue enxergar alguma forma nesse pedaço\nde madeira e transformá-lo em arte\".\nDisponível em: www.imaterial.art.br. Acesso em: 5 fev. 2025 (adaptado).\n\nTEXTO II\nFARIAS, Y. Bailarino entalhado em gravetos de madeira. Artesanato\nem madeira, 20 x 13 x 51 cm. Ilha do Ferro (AL).\nDisponível em: www.nidelins.com.br. Acesso em: 5 fev. 2025.\n\nA originalidade do trabalho dos artistas da Ilha do Ferro se dá pela",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reutilização de materiais para redução do impacto ambiental."
+        },
+        {
+          "letra": "B",
+          "texto": "ressignificação da matéria-prima atribuindo-lhe nova função."
+        },
+        {
+          "letra": "C",
+          "texto": "reprodução em madeira de modelos artísticos canônicos."
+        },
+        {
+          "letra": "D",
+          "texto": "representação de práticas corporais da comunidade."
+        },
+        {
+          "letra": "E",
+          "texto": "replicação seriada para distribuição em larga escala."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Arte – Arte Popular Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "TEXTO I\nOs trabalhos da exposição Adriana Varejão: suturas, fissuras,\nruínas colocam em pauta o exame da história visual, das tradições\niconográficas europeias e do fazer artístico ocidental. O corte,\na rachadura, o talho e a fissura são elementos de narrativas\nrecorrentes nos trabalhos da artista desde 1992. As produções\nrecentes incluem pinturas tridimensionais de grande escala das\nséries Ruínas de charque e Línguas.\nDisponível em: https://pinacoteca.org.br.\nAcesso em: 10 jan. 2025 (adaptado).\n\nTEXTO II\nVAREJÃO, A. Azulejaria em carne viva. Óleo sobre tela, poliuretano,\nmadeira e alumínio, 160 x 200 x 25 cm. 1999.\nDisponível em: www.adrianavarejao.net. Acesso em: 10 jan. 2025.\n\nA utilização de recursos visuais como suturas, cortes e ruínas por\nAdriana Varejão, na obra Azulejaria em carne viva, remete à(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "sobreposição da cultura brasileira à arte portuguesa."
+        },
+        {
+          "letra": "B",
+          "texto": "manutenção da representação realista na arte brasileira."
+        },
+        {
+          "letra": "C",
+          "texto": "violências desencadeadas pelo processo colonial brasileiro."
+        },
+        {
+          "letra": "D",
+          "texto": "desigualdades nos incentivos à produção artística brasileira."
+        },
+        {
+          "letra": "E",
+          "texto": "negligência na conservação do patrimônio arquitetônico luso-brasileiro."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Arte – Arte Contemporânea Brasileira",
+        "História – Período Colonial Brasileiro"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "TEXTO I\nOrigem, tradição e resistência\nFoi sentada em seu banco de quartzo que a avó do universo, moradora da Maloca do Céu, criou os homens, os animais,\na terra e as águas. O banco foi entregue aos ancestrais dos atuais Tukano, que passaram a reproduzi-lo em madeira. O mito\nTukano – povo do noroeste da Amazônia que ainda hoje fabrica os bancos em seu estilo tradicional – indica o lugar dos bancos\nentre os objetos sagrados, ao mesmo tempo parte do universo primitivo e fonte do poder de criação. A presença nos mitos\nde origem de alguns povos atesta a antiguidade da arte de talhar bancos: os primeiros registros do uso desses objetos entre\nameríndios das terras baixas da América do Sul, do Caribe e da América Central datam de, pelo menos, 4 mil anos.\nASSIS, R.; MENDES JR., L. Bancos indígenas do Brasil. São Paulo: BEI Comunicação, 2013.\n\nTEXTO II\nKAMAYURÁ, Y. Tatu Kamayurá 1. Madeira, 61 × 24 × 20 cm. Xingu (MT), s.d.\nDisponível em: www.colecaobei.com.br. Acesso em: 15 out. 2024.\n\nOs textos I e II demonstram, na confecção dos bancos, uma íntima relação de sacralidade entre o ser humano e a natureza,\nperceptível por meio da",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "representação realista de animais, mostrando o domínio do homem sobre a natureza."
+        },
+        {
+          "letra": "B",
+          "texto": "manutenção da herança cultural, atribuindo nova função aos elementos da fauna."
+        },
+        {
+          "letra": "C",
+          "texto": "anulação dos traços que permitem reconhecer o animal representado."
+        },
+        {
+          "letra": "D",
+          "texto": "presença de grafismos na forma animal representada no banco."
+        },
+        {
+          "letra": "E",
+          "texto": "criação de figuras fantásticas baseadas em formas animais."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Arte – Arte Indígena Brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "TRADUZINDO O JURIDIQUÊS\n\"Denego a liminar pleiteada na exordial, inobstante\napós a oitiva da parte adversa e da dilação probatória\npossa lograr alcançar um outro epílogo para o deslinde\nda quaestio sub examine.\"\n\nTRADUÇÃO\nNão atendo, por ora, a liminar requerida na petição\ninicial, ainda que possa chegar a uma outra conclusão\napós ouvir a outra parte e avaliar as provas produzidas.\n\nProposta de emenda à Constituição 269 de 2013. Aplica-se\naos Governadores e Prefeitos o Regime Geral de Previdência\nSocial, vedada a concessão graciosa, após o término do\nmandato, de vantagem pecuniária, verba de representação,\npensão ou subsídio.\n\nTRADUÇÃO\nTorna-se proibido pagar benefícios vitalícios para\nex-prefeitos e ex-governadores.\n\nSuperinteressante, n. 322, ago. 2013 (adaptado).\n\nNesse texto, contribui para a construção da ironia a tradução das passagens escritas em \"juridiquês\" para uma variedade",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "padrão, que alcança o público em geral."
+        },
+        {
+          "letra": "B",
+          "texto": "histórica, que registra a evolução das leis."
+        },
+        {
+          "letra": "C",
+          "texto": "coloquial, que reproduz as relações sociais cotidianas."
+        },
+        {
+          "letra": "D",
+          "texto": "erudita, que resgata a origem latina da língua portuguesa."
+        },
+        {
+          "letra": "E",
+          "texto": "técnica, que facilita a circulação de informações no sistema judiciário."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Variação Linguística"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "TEXTO I\nOs Doze Trabalhos de Hércules\nHércules é uma figura lendária da mitologia greco-romana. Ele é frequentemente retratado como um herói de força\nsobre-humana e coragem, filho de Zeus, o rei dos deuses, e Alcmena, uma mulher mortal. O episódio mais conhecido de Hércules\né a realização dos Doze Trabalhos.\nEsses trabalhos são impostos a ele como uma forma de expiação pelos crimes cometidos durante um acesso de loucura,\ncausado pela deusa Hera, esposa de Zeus. Os Doze Trabalhos são: matar o Leão de Nemeia; matar a Hidra de Lerna; capturar a\ncorça de Cerineia; capturar o javali de Erimanto; limpar os estábulos de Áugias; matar as aves do lago Estínfalo; matar o touro\nde Creta; capturar os cavalos de Diomedes; roubar o cinturão de Hipólita, a rainha das Amazonas; capturar o gado de Gerião;\ncapturar os pomos de ouro do Jardim das Hespérides; capturar o cão de Hades, Cérbero.\nHERTEL, R. Mitologia. Disponível em: https://osmelhoreslivros.com.br.\nAcesso em: 4 jun. 2025 (adaptado).\n\nTEXTO II\nOs Doze Trabalhos\nO que lhe faltava de estudo lhe sobrava de boa vontade e inteligência. No escritório improvisado na salinha da casa, anunciava\nseus serviços de bombeiro hidráulico e eletricista. Nas horas vagas entregava panfletos e lavava carros. Quando a cidade fervia\ncom alguma festa, postava-se à entrada vendendo cerveja. Se fosse algum show infantil, cocadas. Aos sábados, era pedreiro e, aos\ndomingos, conservava um jardim de uma mansão, além de tratar da piscina e dos cachorros. Nas férias, abrigava-se na fazenda\ndos donos da mansão, onde trabalhava como caseiro e motorista. Seu nome: João Antonio da Silva. Mas pode chamar de Hércules.\nFERREIRA, G. V. Os doze trabalhos. Disponível em: www.minicontos.com.br.\nAcesso em: 15 jul. 2015 (adaptado).\n\nA comparação entre os textos I e II indica que o(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "intertextualidade com o mito apresentado no Texto I é um recurso presente no Texto II."
+        },
+        {
+          "letra": "B",
+          "texto": "narração de fatos do Texto II sintetiza os acontecimentos retratados no Texto I."
+        },
+        {
+          "letra": "C",
+          "texto": "vocabulário empregado no Texto II é ancorado em conhecimento literário."
+        },
+        {
+          "letra": "D",
+          "texto": "tema do trabalho como reparação é abordado em ambos os textos."
+        },
+        {
+          "letra": "E",
+          "texto": "marcação temporal no passado predomina em ambos os textos."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Intertextualidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "1 O mais assustador do meteoro que cruzou o céu da Sibéria e explodiu no ar como\n2 várias bombas atômicas é que ele chegou sem ser anunciado. Com todas as atenções\n3 voltadas para o outro asteroide, o que passou de raspão, o asteroide da Sibéria entrou pela\n4 porta dos fundos sem ser detectado. A desculpa é que era pequeno demais para chamar a\n5 atenção e por isso os alarmes não funcionaram. Nossa ilusão, até agora, era que qualquer\n6 detrito espacial que se aproximasse de nós seria identificado e rotulado, e sua trajetória\n7 calculada até o último milímetro com grande antecedência, o que nos daria tempo para\n8 preparar o espírito — ou usar nossos cartões de crédito até o limite — no caso da colisão\n9 com a Terra ser inevitável.\nVERISSIMO, L. F. Disponível em: www.estadao.com.br. Acesso em: 1 mar. 2013.\n\nCom base na organização coesiva desse texto, o(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "oração “que passou de raspão” (l. 3) refere-se ao “meteoro que cruzou o céu da Sibéria” (l. 1)."
+        },
+        {
+          "letra": "B",
+          "texto": "expressão “sua trajetória” (l. 6) refere-se ao elemento textual \"qualquer detrito espacial\" (l. 5-6)."
+        },
+        {
+          "letra": "C",
+          "texto": "palavra “isso” (l. 5) remete ao segmento textual posterior “os alarmes não funcionaram” (l. 5)."
+        },
+        {
+          "letra": "D",
+          "texto": "pronome \"o\" em \"o que nos daria tempo\" (l. 7) remete a \"ou usar nossos cartões de crédito\" (l. 8)."
+        },
+        {
+          "letra": "E",
+          "texto": "fragmento “o asteroide da Sibéria\" (l. 3) introduz um elemento novo no texto."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Coesão e Coerência"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Em 1995, os Jenipapo-Kanindé quebraram a tradição da\nsucessão masculina e nomearam Maria de Lourdes da Conceição\nAlves como sua líder. Desde então, a Cacique Pequena guia o\npovo em grandes batalhas pelo direito a terra, educação, saúde\ne cidadania. Hoje, a anciã de 73 anos prepara duas filhas para\nque a sucederem quando ela \"tombar e pai Tupã a levar\".\nHojes, 129 famílias do município de Aquiraz são reconhecidas\npela Fundação Nacional dos Povos Indígenas (Funai) como\nindígenas, principal luta de Pequena para o seu povo desde\no início. \"Em 1995, fui a Brasília e tive a oportunidade de\nconversar com o presidente da Funai. Pedi que mandasse o\npovo dele na aldeia para fazer o estudo da nossa mãe-terra\ne de nós\". Dois anos depois, vieram os antropólogos, que\nconcluíram: \"Nós era índio sim!\", diz ela.\nHá cerca de oito anos, Pequena adoeceu e ficou entre a\nvida e a morte. Nesse momento, precisou escolher, entre os\n16 filhos, quem assumiria sua missão quando partisse. Reunida,\na família decidiu sobre a sucessão. “Disseram que, como eu\nera a primeira cacique mulher do Ceará, acharam melhor eu\ncolocar duas filhas\".\nDisponível em: www.sesc-ce.com.br. Acesso em: 15 set. 2024 (adaptado).\n\nAo abordar a realidade da etnia Jenipapo-Kanindé, essa\nreportagem cumpre uma função social quando destaca o(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "quantidade de famílias indígenas em Aquiraz."
+        },
+        {
+          "letra": "B",
+          "texto": "força da tradição nas comunidades indígenas."
+        },
+        {
+          "letra": "C",
+          "texto": "estudo sobre a demarcação das terras indígenas."
+        },
+        {
+          "letra": "D",
+          "texto": "protagonismo feminino na linha sucessória desse povo."
+        },
+        {
+          "letra": "E",
+          "texto": "reconhecimento dessa comunidade pelo governo brasileiro."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Sociologia – Movimentos Sociais",
+        "História – História do Brasil (Indígenas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Porque ler para crianças é um ato de amor\nParece que, com o avanço da tecnologia, os livros têm\nenfrentado cada vez mais concorrência. Por isso, é nossa\nfunção lembrar a importância da leitura em todas as fases\nda vida, mas principalmente na primeira infância (entre 0 e\n5 anos), quando o desenvolvimento das crianças acontece de\nforma mais intensa.\nO ato de ler com uma criança ou ler para ela vai muito além\nde apenas aproveitar uma história em conjunto. É um laço de\namorosidade, porque oferece a ela ferramentas que vão ajudá-\nla a crescer forte e independente.\nSe você precisa de uma motivação extra para entrar nessa\nrede de incentivo, fique ligado nos motivos a seguir. Adotar\nesse hábito em casa:\n1 - cria um laço emocional com a criança;\n2 - ajuda no desenvolvimento das capacidades cognitivas;\n3 - ensina sobre o mundo;\n4 - incentiva o processamento de informações e a imaginação.\nDisponível em: www.huffpost.com.br.\nAcesso em: 22 maio 2018 (adaptado).\n\nPara persuadir o interlocutor sobre a importância de ler para as\ncrianças, esse texto recorre à estratégia de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "propor uma condição aos pais, pelo emprego da conjunção “se”."
+        },
+        {
+          "letra": "B",
+          "texto": "relativizar a opinião apresentada pelo autor, com o uso de \"Parece que\"."
+        },
+        {
+          "letra": "C",
+          "texto": "empregar uma linguagem metafórica, com o uso da expressão \"laço de amorosidade\"."
+        },
+        {
+          "letra": "D",
+          "texto": "enumerar razões pertinentes a esse ato, como no exemplo \"ensina sobre o mundo\"."
+        },
+        {
+          "letra": "E",
+          "texto": "implicar o autor do texto como corresponsável pela campanha, pelo uso de \"é nossa função”."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Estratégias Argumentativas"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "A artista Marija Tiurina criou uma série chamada Palavras\nintraduzíveis, com diversas ilustrações detalhadas que\ntransmitem o sentido desses vocábulos, que nenhuma palavra\núnica em outras línguas pode descrever.\n(ÁRABE)\nGufra\nA quantidade de água\nque pode ser segurada\ncom as mãos\n\nROMANZOTI, N. 9 desenhos que ilustram palavras sem tradução\npara o português. Disponível em: https://hypescience.com.\nAcesso em: 10 jun. 2019 (adaptado).\n\nO uso do texto verbal nesse desenho assume a função de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "descrever de forma técnica a ilustração."
+        },
+        {
+          "letra": "B",
+          "texto": "destacar os múltiplos sentidos do verbete."
+        },
+        {
+          "letra": "C",
+          "texto": "explicar o significado da expressão ilustrada."
+        },
+        {
+          "letra": "D",
+          "texto": "apresentar termos equivalentes em outras línguas."
+        },
+        {
+          "letra": "E",
+          "texto": "apontar para a dificuldade de compreensão do termo."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Linguagem Verbal e Não Verbal",
+        "Arte – Ilustração"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Do rádio ao podcast\nDesde a disseminação do rádio no Brasil, entre as décadas de 1920 e 1930, principalmente no governo de Getúlio Vargas,\nas pessoas passaram a dedicar uma parte de seu dia para escutar notícias, novelas, músicas e eventos esportivos em aparelhos\nde som. O radiojornalismo, por sua vez, teve seu pontapé inicial durante a Revolução Constitucionalista (1932) e se desenvolveu\ndurante a Segunda Guerra Mundial (1939-1945).\nQuando a TV surgiu, esperava-se que o rádio fosse totalmente substituído, porém ele se manteve em alta, pois o sinal de televisão\nnão cobria todos os lugares, diferentemente do rádio. Com o surgimento da internet, dos smartphones e de outros dispositivos\nmóveis, o rádio foi incorporado a essas novas tecnologias até o desenvolvimento da web rádio e do podcast, mostrando-se um\nmeio de comunicação versátil e democrático na área jornalística.\nPara um pesquisador da Universidade Federal de Uberlândia (UFU), o rádio não se tornou obsoleto, visto que não deixou de\nser consumido e se reinventou com o tempo. “O podcast é uma continuação, uma evolução natural do rádio\", opina.\nALVES, A.; ALVES, C. Disponível em: https://comunica.ufu.br. Acesso em: 19 abr. 2024 (adaptado).\n\nAo abordar a trajetória dos meios de comunicação, esse texto propõe uma reflexão sobre a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "tecnologia digital e seus desdobramentos no desenvolvimento da televisão."
+        },
+        {
+          "letra": "B",
+          "texto": "evolução da tecnologia digital com o predomínio do podcast sobre o rádio."
+        },
+        {
+          "letra": "C",
+          "texto": "permanência do rádio e sua evolução por meio da tecnologia digital."
+        },
+        {
+          "letra": "D",
+          "texto": "influência da televisão sobre os programas de radiojornalismo."
+        },
+        {
+          "letra": "E",
+          "texto": "interferência da tecnologia digital nas interações humanas."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Linguagens – Meios de Comunicação",
+        "História – História do Brasil (Era Vargas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Desenvolvendo-se nesse meio, é natural que Celina, filha mais velha de D. Adozinda, tivesse seus pequenos flirts com alguns\ndesses rapazes, muito íntimos da casa e trazendo-lhe da cidade presentes de doces, de balas de ovo, de jornais ilustrados ou\nde frutas.\nAs irmãs mais novas iam ao colégio; ela ficava, enchendo o tempo com uns crochês vagarosos, costuras leves, a leitura dos\nfolhetins dos jornais; e o Gilberto, que raramente saía, andava sempre ao seu lado, muito caído por esse tipo um pouco mórbido\nde menina anêmica [...].\nO Gilberto não valia nada, mas quem sabe se apareceria outro, simplório e sincero como ele? E a filha, com os seus\ndezessete anos, começava a embaraçá-la um pouco, nesse difícil papel de virgem numa casa de pensão, cheia de rapazes. Ora,\no melhor era esperar, dar tempo ao tempo... E o Gilberto e a Celina continuaram a namorar-se, ele cândido, ela dúbia; enquanto\no Coronel Juvenato, que deixara a mulher em Sobral para tratar de uma concessão rendosa com os políticos do Rio, ia agora\nmonopolizando, como protetor mais importante, as alegres visitas matinais da viúva, que já lhe levava sempre o café — mas\nsem flores colhidas no jardim, ainda rociadas de orvalho, porque o cearense não dava para essas coisas de poesia. Era rápido,\nprático, e não admitia bobagens. Por isso, todos os sábados à noite, ele dizia a D. Adozinda com um tremor lúbrico nas banhas\nmoles da face, os olhinhos vivos pestanejando:\nA senhora não se esqueça que amanhã é domingo... Leve-me cedo o café, hein?... que eu tenho de ir à missa...\nPois não, pois não, Coronel! fique descansado — respondia a viúva do Ferreira, muito atenciosamente, tirando-lhe umas\ncaspas da gola do paletó, com a mão repolhuda.\nOs outros hóspedes riam-se à socapa; e no domingo o café não faltava, bem cedinho...\nDOLORES, C. A luta. Rio de Janeiro: Ímã, s.d.\n\nNesse trecho, ao explorar a descrição como recurso que demarca impressões e pontos de vista, o narrador cria uma ambiência\nsugestiva do(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "escárnio relacionado à degradação moral dos indivíduos."
+        },
+        {
+          "letra": "B",
+          "texto": "cenário urbano marcado por condições de insalubridade."
+        },
+        {
+          "letra": "C",
+          "texto": "persistência do sentimentalismo explorado pelos folhetins."
+        },
+        {
+          "letra": "D",
+          "texto": "prática do enriquecimento ilícito visto nas grandes cidades."
+        },
+        {
+          "letra": "E",
+          "texto": "desigualdade de gênero acentuada pela baixa escolarização."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura (Realismo-Naturalismo)",
+        "Língua Portuguesa – Análise de Narrativa"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Não há consenso em torno do nome dado à pandemia,\ntendo, desde o seu início, sido chamada de gripe espanhola\nprovavelmente por causa da desinformação em torno da notícia\nsobre sua origem. Uma das hipóteses deriva da neutralidade\nespanhola na Primeira Guerra Mundial e a consequente\nliberdade de imprensa naquele país, maior do que nos demais\npaíses envolvidos no conflito. Hoje existe o consenso entre\nvirologistas e epidemiologistas de que o vírus da gripe não se\noriginou na Espanha. Entretanto, dificilmente essa pandemia\ndeixará de ser conhecida como gripe espanhola.\n\nKLAJMAN, C. A gripe sob a ótica da história ecológica.\nHistória Revista, n. 3, set.-dez. 2015 (adaptado).\n\nDe acordo com o texto, a denominação recebida pela pandemia\ndo começo do século XX foi determinada pelo(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "precariedade dos conhecimentos da medicina militar."
+        },
+        {
+          "letra": "B",
+          "texto": "retaliação da tríplice aliança aos soldados desertores."
+        },
+        {
+          "letra": "C",
+          "texto": "controle dos relatos oriundos de campos de batalha."
+        },
+        {
+          "letra": "D",
+          "texto": "emprego de armas biológicas em confrontos transnacionais."
+        },
+        {
+          "letra": "E",
+          "texto": "circulação de refugiados contaminados em áreas conflagradas."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "História – História Contemporânea",
+        "História – Mídia e Sociedade"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "TEXTO I\nA partir do século IV, com os imperadores ditos cristãos,\no teatro e a dança foram condenados. O batismo era recusado aos\nque atuavam no circo ou na pantomima. E em 398, no Concílio de\nCartago, os que iam ao teatro nos dias santos foram excomungados.\nDINIZ, T.; SANTOS, G. História da dança. Disponível em: www.uel.br.\nAcesso em: 18 out. 2023.\n\nTEXTO II\nA dança no ato litúrgico cumpre tanto um papel de adoração\nquanto mercadológico. Não à toa há aceitação, expansão\ne investimento nessa prática percebida massivamente pela\nampla divulgação principalmente nas redes sociais. A expansão\ne ampliação por via de festivais, aulas, cursos, palestras etc.\nconsolida a criação de um mercado específico para esse público.\nSANTOS, Z. Dança gospel. Salvador: UFBA, 2021.\n\nA percepção sobre a dança e a cultura corporal apresenta\naspectos relacionados, respectivamente, a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "segregação social e intolerância eclesiástica."
+        },
+        {
+          "letra": "B",
+          "texto": "rituais eucarísticos e sacramentos da Igreja."
+        },
+        {
+          "letra": "C",
+          "texto": "transe individual e progresso intelectual."
+        },
+        {
+          "letra": "D",
+          "texto": "penitência pessoal e juramento coletivo."
+        },
+        {
+          "letra": "E",
+          "texto": "dogmatismo religioso e adesão de fiéis."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "História – História Antiga (Cristianismo Primitivo)",
+        "Sociologia – Cultura e Religião"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "A ideia de êxodo urbano assume ares caricaturais. Pega a mais\nreduzida parte da pirâmide social e projeta para todos seus desejos\ndefensivos. Se o êxodo urbano for compreendido como aquisição\nde uma segunda residência, então não estamos, de fato, falando\nde êxodo, mas da reversão de um excedente de renda de uma\npequena fração da elite para as franjas metropolitanas. Se o êxodo\nurbano for compreendido como retorno aos municípios menos\npovoados, então não estamos, de fato, falando de êxodo urbano,\nmas de um movimento de migração de pessoas cuja estabilidade\nno emprego e a elevada renda lhes permitem simular, nas ilhas\nurbanas do interior agropecuário, a vida urbana metropolitana.\n\nARRAIS, T. A. O distópico êxodo urbano. Revista e, n. 11, maio 2021 (adaptado).\n\nA crítica apresentada no texto evidencia uma dinâmica socioespacial\nmarcada pela",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "valorização de tradições rurais."
+        },
+        {
+          "letra": "B",
+          "texto": "redução de plantações agrícolas."
+        },
+        {
+          "letra": "C",
+          "texto": "estagnação de atividades comerciais."
+        },
+        {
+          "letra": "D",
+          "texto": "precariedade de infraestruturas rodoviárias."
+        },
+        {
+          "letra": "E",
+          "texto": "seletividade de deslocamentos populacionais."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Geografia – Urbanização",
+        "Sociologia – Desigualdade Social"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "A \"invenção\" dessa nova anatomia política não deve\nser entendida como uma descoberta súbita. Mas como uma\nmultiplicidade de processos muitas vezes mínimos, de origens\ndiferentes, de localizações esparsas, que se recordam, que se\nrepetem, ou se imitam, apoiam-se uns sobre os outros e esboçam\naos poucos a fachada de um método geral. Encontramo-los\nem funcionamento nos colégios, muito cedo; mais tarde, nas\nescolas primárias, no espaço hospitalar e na organização militar.\n\nFOUCAULT, M. Vigiar e punir. Petrópolis: Vozes, 2011.\n\nO texto indica o seguinte aspecto da disciplina como ferramenta\npolítica:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Expansão das técnicas de suplício."
+        },
+        {
+          "letra": "B",
+          "texto": "Judicialização das relações de poder."
+        },
+        {
+          "letra": "C",
+          "texto": "Dissolução das distinções de nobreza."
+        },
+        {
+          "letra": "D",
+          "texto": "Capilarização das práticas de controle."
+        },
+        {
+          "letra": "E",
+          "texto": "Espetacularização das medidas de penitência."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Filosofia – Foucault e o Poder",
+        "Sociologia – Controle Social"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Por séculos, o Rio Reno tem sido uma rota de navegação\nconfiável, ajudando a criar gigantes fabris ao longo de suas\nmargens. No entanto, esses dias parecem estar no fim, pois\no nível da água tem diminuído regularmente, o que impede a\nnavegação fluvial do final do verão até o outono. Isso mostra\ncomo a crise climática atinge as economias dos países ricos.\n\nDisponível em: www.estadao.com.br. Acesso em: 10 ago. 2023 (adaptado).\n\nQual é o efeito econômico do problema ambiental apresentado\nno texto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Supressão da extração de minério."
+        },
+        {
+          "letra": "B",
+          "texto": "Intensificação da atividade de pesca."
+        },
+        {
+          "letra": "C",
+          "texto": "Encarecimento da logística de transporte."
+        },
+        {
+          "letra": "D",
+          "texto": "Inviabilização da agricultura de subsistência."
+        },
+        {
+          "letra": "E",
+          "texto": "Sucateamento da indústria de transformação."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Geografia – Problemas Ambientais (Crise Climática)",
+        "Geografia – Economia Global"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Dos 10 aos 15 anos de idade, Virgínia adorava acompanhar\nseu pai, aos domingos, naquela sinestésica Feira de São Cristóvão\n(RJ), talvez por ser o maior elo que ela experimentava com o\nmundo exterior à sua casa e, visto assim e agora, tão íntimo\ne próximo de algo que ela ainda não sabia, mas que seria, no\nfuturo, a sua própria casa: a Paraíba. Dona Didi costurava, sob\nmedida, camisas sociais, bermudas, shorts, vestidos, saias,\nsempre em casa e rodeada pelos quatro filhos pequenos do\ncasal, desdobrando-se para dar conta de toda a responsabilidade\nsem trégua que isso demandava.\n\nPASSOS, M. C. P. et al. apud SCARELI, G. A máquina de costura e os fios\nda memória. Revista Brasileira de Pesquisa (Auto) Biográfica, n. 18,\nmaio-ago. 2021 (adaptado).\n\nOs itinerários afetivos e socioespaciais mencionados no texto\nassociam-se à vida dos personagens por apresentarem",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "histórias conectadas e recordações do lugar."
+        },
+        {
+          "letra": "B",
+          "texto": "direitos trabalhistas e produção industrial."
+        },
+        {
+          "letra": "C",
+          "texto": "preconceitos linguísticos e dinâmicas territoriais."
+        },
+        {
+          "letra": "D",
+          "texto": "lembranças fabris e discriminação dos operários."
+        },
+        {
+          "letra": "E",
+          "texto": "experiências profissionais e segregação regional."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Sociologia – Memória e Identidade",
+        "Geografia – Espaço Geográfico (Lugares)"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Em 1872, havia mais de 1 milhão de votantes, correspondentes\na 13% da população livre. Em 1886, votaram nas eleições\nparlamentares pouco mais de 100 mil eleitores, ou 0,8% da\npopulação total. Houve um corte de quase 90% do eleitorado.\nO dado é chocante, sobretudo se lembrarmos que a tendência\nde todos os países europeus da época era na direção de ampliar\nos direitos políticos. O mais grave é que esse retrocesso foi\nduradouro. A Proclamação da República não alterou o quadro.\n\nCARVALHO, J. M. Cidadania no Brasil. Rio de Janeiro:\nCivilização Brasileira, 2002 (adaptado).\n\nDe acordo com o texto, a participação no processo eleitoral\nbrasileiro após a Reforma de 1881 sofreu uma variação que\nse explica pela",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "restrição de gênero."
+        },
+        {
+          "letra": "B",
+          "texto": "exclusão de imigrantes."
+        },
+        {
+          "letra": "C",
+          "texto": "comprovação de domicílio."
+        },
+        {
+          "letra": "D",
+          "texto": "exigência da alfabetização."
+        },
+        {
+          "letra": "E",
+          "texto": "obrigatoriedade do sufrágio."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "História – História do Brasil (Império)",
+        "Sociologia – Direitos Políticos"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Pela falta de chuvas, a geração de energia eólica, solar e\ntérmica atingiu níveis recordes em agosto de 2021, quando\nas hidrelétricas ficaram com cerca de 50% do total. Para um\nprofessor da Universidade Federal da Bahia, essa queda não\né uma surpresa. “Não aconteceu de uma hora para outra.\nSe olharmos o mapa do Brasil, um dos grandes provedores de\nágua é a Floresta Amazônica. Se você diminui a floresta, diminui\na quantidade de água que vai para a atmosfera\", explica.\n\nBORGES, T. O fantasma do apagão. Disponível em:\nwww.correio24horas.com.br. Acesso em:\n9 out. 2021 (adaptado).\n\nDe acordo com o texto, a dificuldade na produção de energia\né causada pela alteração da(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "variável em pesquisas meteorológicas."
+        },
+        {
+          "letra": "B",
+          "texto": "paisagem em locais estratégicos."
+        },
+        {
+          "letra": "C",
+          "texto": "demandas em regiões industriais."
+        },
+        {
+          "letra": "D",
+          "texto": "metas em acordos climáticos."
+        },
+        {
+          "letra": "E",
+          "texto": "geologia em áreas naturais."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Geografia – Problemas Ambientais (Desmatamento)",
+        "Geografia – Fontes de Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Adam Smith via o açougueiro e o padeiro não só como\nindivíduos buscando seus interesses financeiros, mas como pessoas\nmoralmente motivadas dentro de uma sociedade. A base da moral\nera a empatia e o julgamento, instaurando uma distinção entre o\nque queremos fazer e o que sentimos que devemos fazer.\n\nCOLLIER, P. O futuro do capitalismo. Porto Alegre: LP&M, 2019.\n\nO texto defende uma motivação capitalista para o campo dos\nnegócios, na qual o lucro se mostra associado à",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "consolidação do poder político."
+        },
+        {
+          "letra": "B",
+          "texto": "procura de satisfação subjetiva."
+        },
+        {
+          "letra": "C",
+          "texto": "estruturação do monopólio comercial."
+        },
+        {
+          "letra": "D",
+          "texto": "percepção de responsabilidade ética."
+        },
+        {
+          "letra": "E",
+          "texto": "conquista do reconhecimento público."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Filosofia – Ética e Moral",
+        "Sociologia – Teorias Econômicas (Adam Smith)"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "O corpo de cidadãos é o poder supremo dos Estados.\nA supremacia pode residir ou num homem, ou na minoria,\nou em todos. Sempre que o Um, ou a Minoria, ou Todos governam,\ntendo em vista o bem-estar comum, essas constituições são\njustas; mas se procuram apenas o benefício de uma das partes,\nseja ela o Um, a Minoria ou Todos, estabelece-se um desvio.\n\nARISTÓTELES. Política. São Paulo: Nova Cultural, 2000.\n\nNo excerto encontra-se a base da teoria clássica das três formas\nde governo representadas pela",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "tirania, oligarquia e república."
+        },
+        {
+          "letra": "B",
+          "texto": "burocracia, autarquia e império."
+        },
+        {
+          "letra": "C",
+          "texto": "ditadura, autocracia e anarquia."
+        },
+        {
+          "letra": "D",
+          "texto": "plutocracia, tecnocracia e demagogia."
+        },
+        {
+          "letra": "E",
+          "texto": "monarquia, aristocracia e democracia."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Filosofia – Filosofia Política (Aristóteles)",
+        "Sociologia – Formas de Governo"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "TEXTO I\nCARLEVARIS, L. La piazetta (detalhe). Óleo sobre tela, 49 × 41 cm.\nAshmolean Museum, Oxford, 1729.\nDisponível em: www.meinsterart.de. Acesso em: 13 dez. 2017.\n\nTEXTO II\nAntigo centro da economia mundo-europeia do século XV,\nno final do século XVII e início do século XVIII, Veneza ainda era\numa cidade cosmopolita onde orientais podiam sentir-se em casa.\nBRAUDEL, F. O tempo do mundo. São Paulo:\nMartins Fontes, 1979 (adaptado).\n\nQual elemento da condição cosmopolita de Veneza na Idade\nModerna está explicitado nos textos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Avanço do ensino laico."
+        },
+        {
+          "letra": "B",
+          "texto": "Conquista das terras da América."
+        },
+        {
+          "letra": "C",
+          "texto": "Integração do comércio mediterrâneo."
+        },
+        {
+          "letra": "D",
+          "texto": "Popularização do pensamento humanista."
+        },
+        {
+          "letra": "E",
+          "texto": "Desenvolvimento das corporações de ofício."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "História – História Moderna",
+        "Geografia – Comércio e Globalização"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "O direito não é a justiça. O direito é o elemento do cálculo,\né justo que haja um direito, mas a justiça é incalculável, ela exige\nque se calcule o incalculável; e as experiências aporéticas são\nexperiências tão improváveis quanto necessárias da justiça,\nisto é, são momentos em que a decisão entre o justo e o injusto\nnunca é garantida por uma regra.\n\nDERRIDA, J. Força de lei. São Paulo: Martins Fontes, 2010 (adaptado).\n\nDe acordo com o texto, ainda que estejam em desconformidade\ncom o ordenamento jurídico, são exemplos de ação justa:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Casos de desobediência civil."
+        },
+        {
+          "letra": "B",
+          "texto": "Repressões do aparato estatal."
+        },
+        {
+          "letra": "C",
+          "texto": "Conflitos de natureza intercontinental."
+        },
+        {
+          "letra": "D",
+          "texto": "Manifestações do movimento sindical."
+        },
+        {
+          "letra": "E",
+          "texto": "Mobilizações de agremiações estudantis."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Filosofia – Teoria do Direito",
+        "Sociologia – Direitos Humanos"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "Sinal fechado\nOlá, como vai?\nEu vou indo e você, tudo bem?\nTudo bem, eu vou indo, correndo\nPegar meu lugar no futuro, e você?\nTudo bem, eu vou indo em busca\nDe um sono tranquilo, quem sabe?\nQuanto tempo...\nPois é, quanto tempo...\nMe perdoe a pressa\nÉ a alma dos nossos negócios...\nOh, não tem de que\nEu também só Ando a cem\nQuando é que você telefona?\nPrecisamos nos ver por aí\nPra semana, prometo,\nTalvez nos vejamos, quem sabe?\nQuanto tempo...\nPois é, quanto tempo...\nTanta coisa que eu tinha a dizer\nMas eu sumi na poeira das ruas\nEu também tenho algo a dizer\nMas me foge a lembrança\nPor favor, telefone, eu preciso beber\nAlguma coisa rapidamente\nPra semana...\nO sinal...\nEu procuro você...\nVai abrir! Vai abrir!\nPrometo, não esqueço\nPor favor, não esqueça\nNão esqueço, não esqueço\nAdeus...\n\nPAULINHO DA VIOLA. Foi um rio que passou em minha vida.\nRio de Janeiro: Odeon, 1970.\n\nA letra da canção apresenta a permanência de uma situação da\nvida cotidiana ao destacar a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "diminuição do comportamento competitivo."
+        },
+        {
+          "letra": "B",
+          "texto": "importância da memória coletiva."
+        },
+        {
+          "letra": "C",
+          "texto": "redução da mobilidade urbana."
+        },
+        {
+          "letra": "D",
+          "texto": "efemeridade dos vínculos de afetividade."
+        },
+        {
+          "letra": "E",
+          "texto": "obsolescência dos meios de comunicação."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura (Letra de Canção)",
+        "Sociologia – Relações Interpessoais"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "Macedônia do Norte\nAcordo entra em vigor e país muda oficialmente de nome\nEntrou em vigor, em 2019, o acordo que determina a mudança de nome da Macedônia para Macedônia do Norte. A troca\npõe fim – ao menos por enquanto – no impasse entre essa antiga república da Iugoslávia e a vizinha Grécia. O governo grego\nse opunha ao uso do nome Macedônia pelo novo país vizinho porque a Grécia tem uma província no norte com o mesmo nome.\nPor causa desse impasse, a Grécia bloqueou as negociações de adesão de seu vizinho à União Europeia. Depois de negociações,\nas duas partes chegaram a um acordo.\n\nDisponível em: https://g1.globo.com. Acesso em: 7 nov. 2021 (adaptado).\n\nPara o país originado da antiga Iugoslávia, a mudança de nome é uma estratégia política para",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "criar a moeda própria."
+        },
+        {
+          "letra": "B",
+          "texto": "proteger a cultura local."
+        },
+        {
+          "letra": "C",
+          "texto": "subjugar a minoria étnica."
+        },
+        {
+          "letra": "D",
+          "texto": "expandir o território nacional."
+        },
+        {
+          "letra": "E",
+          "texto": "intensificar a integração regional."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Geografia – Geopolítica",
+        "História – Relações Internacionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Concentração de CO₂ por queimadas entre África e Brasil em 30 de agosto de 2019\n\nPPbv* 0 50 100 500 1200\n*PPbv: partes por bilhão em volume\n\nDisponível em: https://noticias.uol.com.br. Acesso em: 10 out. 2019 (adaptado).\n\nA dispersão espacial do problema ambiental representado na imagem de satélite é explicada pela seguinte característica geográfica:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Amplitude das temperaturas médias."
+        },
+        {
+          "letra": "B",
+          "texto": "Homogeneidade da insolação anual."
+        },
+        {
+          "letra": "C",
+          "texto": "Ocorrência de chuvas de relevo."
+        },
+        {
+          "letra": "D",
+          "texto": "Circulação de massas de ar."
+        },
+        {
+          "letra": "E",
+          "texto": "Ausência de frentes frias."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Geografia – Climatologia",
+        "Geografia – Problemas Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 61,
+      "enunciado": "A credulidade dos ouvintes aumenta o descaramento do narrador, e o descaramento deste conquista-lhes a credulidade. A eloquência, quando levada a seu patamar mais alto, deixa pouco lugar à razão ou à reflexão, mas, dirigindo-se inteiramente à imaginação e aos afetos, cativa os ouvintes condescendentes e subjuga-lhes o entendimento.\nHUME, D. Uma investigação sobre o entendimento humano e sobre os princípios da moral. São Paulo: Edunesp, 2003.\nNo contexto do século XVIII, o autor propõe uma reflexão radical acerca da arte da eloquência, restringindo-a ao",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "sistema de crenças, conforme a proposta kantiana de objetividade do conhecimento."
+        },
+        {
+          "letra": "B",
+          "texto": "campo dos absolutos, semelhante ao entendimento medieval dos Universais."
+        },
+        {
+          "letra": "C",
+          "texto": "domínio da lógica, consoante a compreensão aristotélica nos Analíticos."
+        },
+        {
+          "letra": "D",
+          "texto": "paradigma da racionalidade, alinhado ao modelo cartesiano de método."
+        },
+        {
+          "letra": "E",
+          "texto": "âmbito da persuasão, análogo às críticas platônicas aos sofistas."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Filosofia – Teoria do Conhecimento",
+        "Filosofia – Retórica e Persuasão"
+      ]
+    },
+    {
+      "numeroEnunciado": 62,
+      "enunciado": "Os direitos do homem constituem uma classe variável, como a história destes últimos séculos demonstra suficientemente. O elenco dos direitos do homem se modificou, e continua a se modificar, com a mudança das condições históricas, ou seja, dos carecimentos e dos interesses, das classes no poder, dos meios disponíveis para a realização dos mesmos, das transformações técnicas. Direitos que foram declarados absolutos no final do século XVIII foram submetidos a radicais limitações nas declarações contemporâneas; direitos que as declarações do século XVIII nem sequer mencionavam, como os direitos sociais, são agora proclamados com grande ostentação nas recentes declarações.\nBOBBIO, N. A era dos direitos. Rio de Janeiro: Elsevier, 2004.\nOs argumentos apresentados no texto sustentam que os direitos humanos são variáveis porque os considera como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fenômenos espontâneos."
+        },
+        {
+          "letra": "B",
+          "texto": "conquistas atemporais."
+        },
+        {
+          "letra": "C",
+          "texto": "convenções coletivas."
+        },
+        {
+          "letra": "D",
+          "texto": "resquícios religiosos."
+        },
+        {
+          "letra": "E",
+          "texto": "imposições políticas."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Sociologia – Direitos Humanos",
+        "Filosofia – Teoria Política"
+      ]
+    },
+    {
+      "numeroEnunciado": 63,
+      "enunciado": "Carro elétrico, uma miragem ecológica.\nA mudança para a eletromobilidade de fato promove uma alteração no consumo de recursos naturais. Hoje, amplamente dependentes do petróleo, nossos modais de transporte poderiam se tornar cada vez mais dependentes de trinta metais raros. Gálio, tântalo, cobalto, platinoides, tungstênio, metais de terras-raras: uma mina contém apenas ínfimas quantidades desses metais dotados de fabulosas propriedades eletrônicas, ópticas e magnéticas.\nPITRON, G. Revolução tecnológica, transformação geopolítica. Disponível em: https://diplomatique.org.br. Acesso em: 10 dez. 2018.\nNo que se refere ao desenvolvimento sustentável, a charge e o texto indicam uma contradição no uso da tecnologia alternativa derivada do seguinte aspecto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Necessidade de fontes não renováveis."
+        },
+        {
+          "letra": "B",
+          "texto": "Padronização dos modelos produtivos."
+        },
+        {
+          "letra": "C",
+          "texto": "Demanda de mão de obra qualificada."
+        },
+        {
+          "letra": "D",
+          "texto": "Precariedade da legislação industrial."
+        },
+        {
+          "letra": "E",
+          "texto": "Utilização de materiais recicláveis."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Geografia – Questões Ambientais e Desenvolvimento Sustentável",
+        "Química – Materiais e Meio Ambiente"
+      ]
+    },
+    {
+      "numeroEnunciado": 64,
+      "enunciado": "A Roda dos Expostos de Salvador (Bahia) data de 1726 e foi uma das instituições implantadas com o objetivo de acolher e prover um encaminhamento para a criança recém-nascida abandonada. Essa assistência fundamentava-se em práticas caritativas, paternalistas e imediatistas que visavam ao cuidado básico da criança e, especialmente, à salvação da sua alma, via batismo, devido à alta mortalidade.\nBORRIONE, R.; CHAVES, A. M. Análise documental e contexto de desenvolvimento. Disponível em: www.scielo.br. Acesso em: 15 ago. 2013.\nA instituição apresentada no texto justificava-se pelo(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "defesa de direitos humanos."
+        },
+        {
+          "letra": "B",
+          "texto": "preceito de natureza sociorreligiosa."
+        },
+        {
+          "letra": "C",
+          "texto": "reconhecimento de vínculos familiares."
+        },
+        {
+          "letra": "D",
+          "texto": "discurso de cunho técnico-científico."
+        },
+        {
+          "letra": "E",
+          "texto": "ideologia de caráter abolicionista."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "História – Brasil Colônia",
+        "Sociologia – Instituições Sociais e Religião"
+      ]
+    },
+    {
+      "numeroEnunciado": 65,
+      "enunciado": "A missão dos governantes consiste em promover a felicidade da sociedade, punindo e recompensando. A parte da missão de governo que consiste em punir constitui mais particularmente o objeto da lei penal. A obrigatoriedade ou necessidade de punir uma ação é proporcional à medida que tal ação tende a perturbar a felicidade e à medida que a tendência do referido ato é perniciosa. A felicidade consiste naquilo que já vimos, ou seja, em desfrutar prazeres e em estar isento de dores.\nBENTHAM, J. Uma introdução aos princípios da moral e da legislação. São Paulo: Abril Cultural, 1974 (adaptado).\nQual perspectiva de justiça emerge da relação, estabelecida no texto, entre punição e felicidade?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Aplicação de meios para atingir um fim."
+        },
+        {
+          "letra": "B",
+          "texto": "Imposição de regras para estabelecer um dever."
+        },
+        {
+          "letra": "C",
+          "texto": "Sobreposição de princípios para fundamentar um direito."
+        },
+        {
+          "letra": "D",
+          "texto": "Criação de parâmetros para reconhecer uma prescrição."
+        },
+        {
+          "letra": "E",
+          "texto": "Elaboração de convenções para referendar um costume."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Filosofia – Ética e Utilitarismo",
+        "Sociologia – Teoria da Justiça"
+      ]
+    },
+    {
+      "numeroEnunciado": 66,
+      "enunciado": "Cidade sustentável é o assentamento humano constituído por uma sociedade com consciência de seu papel de agente transformador dos espaços e cuja relação não se dá pela razão natureza-objeto, e sim por uma ação sinérgica entre prudência ecológica, eficiência energética e equidade socioespacial.\nROMERO, M. Frentes do urbano para a construção de indicadores de sustentabilidade intraurbana. Paranoá, n. 4, nov. 2007.\nUma medida pública que contradiz o modelo de cidade exposto no texto é a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "coleta seletiva de lixo."
+        },
+        {
+          "letra": "B",
+          "texto": "reutilização das águas pluviais."
+        },
+        {
+          "letra": "C",
+          "texto": "canalização dos cursos hídricos."
+        },
+        {
+          "letra": "D",
+          "texto": "arborização das avenidas centrais."
+        },
+        {
+          "letra": "E",
+          "texto": "educação ambiental da comunidade."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Geografia – Cidades e Meio Ambiente",
+        "Sociologia – Desenvolvimento Sustentável"
+      ]
+    },
+    {
+      "numeroEnunciado": 67,
+      "enunciado": "TEXTO I\nEm muitos estados da União, um hotel perto de um parque foi esvaziado por um enorme cratera. E não é a primeira vez que esse tipo de incidente acontece na Flórida. Em minutos, uma ala inteira de hotel foi engolida pela cratera a 30 metros de diâmetro, perto dos parques temáticos da Flórida, diz que o prédio tinha 15 anos e que até então o solo nunca havia apresentado problemas. Os afundamentos são um fenômeno comum na Flórida por causa das formações de calcário e argila no subsolo, mas às vezes chuvas torrenciais dão o solo para construção, acabam contribuindo para o surgimento desses buracos.\nDisponível em: http://g1.globo.com. Acesso em: 10 dez. 2024 (adaptado).\nA situação de desmoronamento do solo descrita no texto origina-se da",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cristalização da estrutura geológica."
+        },
+        {
+          "letra": "B",
+          "texto": "ação do intemperismo químico."
+        },
+        {
+          "letra": "C",
+          "texto": "recomposição da mata ciliar."
+        },
+        {
+          "letra": "D",
+          "texto": "acumulação de sedimentos orgânicos."
+        },
+        {
+          "letra": "E",
+          "texto": "impermeabilização da superfície ocupada."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Geografia – Geomorfologia",
+        "Geografia – Impactos Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 68,
+      "enunciado": "Moradores de Berlim protestaram contra a demolição de um trecho do muro que dividiu a cidade durante quase três décadas. Tratado como patrimônio cultural e histórico da cidade, o East Side Gallery, repleto de grafites simbólicos, está à mira de uma construtora que pretende levantar um condomínio de luxo às margens do Rio Spree, que corta a cidade.\nALMEIDA, R. Alemães impedem demolição de último trecho original do muro de Berlim. Disponível em: https://jornal.uol.com.br. Acesso em: 2 fev. 2021 (adaptado).\nA demolição do símbolo histórico mencionado representa uma",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "violação da memória coletiva."
+        },
+        {
+          "letra": "B",
+          "texto": "alteração das fronteiras políticas."
+        },
+        {
+          "letra": "C",
+          "texto": "adesão à arquitetura neoclássica."
+        },
+        {
+          "letra": "D",
+          "texto": "negação da influência de orientais."
+        },
+        {
+          "letra": "E",
+          "texto": "reorganização da mobilidade urbana."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "História – História Contemporânea",
+        "Sociologia – Patrimônio Cultural e Memória"
+      ]
+    },
+    {
+      "numeroEnunciado": 69,
+      "enunciado": "TEXTO I\nEm conjunto: todo e não todo, unido e separado, em consonância e em dissonância. De todos um e de um todos. (Fragmento B10)\nTEXTO II\nDeus é dia-noite, inverno-verão, guerra-paz, saciedade-fome. (Fragmento B67)\nPré-socráticos. São Paulo: Nova Cultural, 1996.\nA característica do pensamento do filósofo Heráclito, registrada nos fragmentos mencionados, é a ênfase na",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apreensão imperceptível do mundo."
+        },
+        {
+          "letra": "B",
+          "texto": "degradação material da natureza."
+        },
+        {
+          "letra": "C",
+          "texto": "mobilidade imanente do universo."
+        },
+        {
+          "letra": "D",
+          "texto": "distribuição dicotômica do cosmos."
+        },
+        {
+          "letra": "E",
+          "texto": "desordem incontornável das coisas."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Filosofia – Filosofia Antiga"
+      ]
+    },
+    {
+      "numeroEnunciado": 70,
+      "enunciado": "Neste novo, europeu e ameríndios atribuíram à prática relatada, respectivamente, o significado de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "selvageria — empoderamento."
+        },
+        {
+          "letra": "B",
+          "texto": "impetuosidade — resistência."
+        },
+        {
+          "letra": "C",
+          "texto": "fanatismo — humildade."
+        },
+        {
+          "letra": "D",
+          "texto": "intolerância — violência."
+        },
+        {
+          "letra": "E",
+          "texto": "repressão — justiça."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "História – Conquista da América",
+        "Sociologia – Contato Cultural e Visões do Outro"
+      ]
+    },
+    {
+      "numeroEnunciado": 71,
+      "enunciado": "Em pequena quantidade em pequenos grupos, fragilizada pela ausência de algum tipo de organização ampla, tendo que carregar o peso do preconceito racial que se transfere do negro para o meio. Sem melhora da coesão. Preocupada com outras religiões. Silenciosamente assumimos hoje a um verdadeiro massacre dos religiões afro-brasileiras.\nPRANDI, R. O Brasil com axé. Estudos avançados, n. 52, dez. 2004.\nNo processo de invisibilização dos cultos afro-brasileiros, o texto associa os seguintes elementos essenciais:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ausência de soluções partidárias e rejeição da laicidade."
+        },
+        {
+          "letra": "B",
+          "texto": "Precariedade de coesão representativa e recusa da alteridade."
+        },
+        {
+          "letra": "C",
+          "texto": "Insuficiência de estruturas decisórias e exclusão da religiosidade."
+        },
+        {
+          "letra": "D",
+          "texto": "Inexistência de meios constitucionais e negação do ecumenismo."
+        },
+        {
+          "letra": "E",
+          "texto": "Elaboração de relações políticas e debilidade do pertencimento étnico."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Sociologia – Religião e Sociedade",
+        "História – História do Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 72,
+      "enunciado": "A partir do século XIX e, principalmente, no século XX, iniciou-se o uso de produtos sintéticos na agricultura. No Brasil o uso da década de 1960 e, posteriormente, nos anos 1970, os inseticidas ampliam sua fatia no mercado dos defensivos agrícolas.\nMOPPININI, I. Biogeografia e o meio ambiente. Rio de Janeiro: TB, 2012 (adaptado).\nNos espaços agrícolas, a mudança técnica descrita provocou a diminuição da",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "desocupação de camadas pedológicas."
+        },
+        {
+          "letra": "B",
+          "texto": "diversidade de polinizadores naturais."
+        },
+        {
+          "letra": "C",
+          "texto": "contaminação de lençóis freáticos."
+        },
+        {
+          "letra": "D",
+          "texto": "produtividade da terra cultivada."
+        },
+        {
+          "letra": "E",
+          "texto": "ocorrência da erosão laminar."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Biologia – Ecologia e Impactos Ambientais",
+        "Geografia – Agricultura e Meio Ambiente"
+      ]
+    },
+    {
+      "numeroEnunciado": 73,
+      "enunciado": "Pesquisa pioneira no Brasil propõe o uso de energia do solo para climatizar edifícios.\nPela primeira vez na história, o Brasil terá um prédio que usa energia do solo para climatizar seus ambientes. Uma pesquisa inovadora avaliou o uso das fundações de edifícios como meio para a troca de energia térmica entre o prédio e o subsolo. A energia geotérmica é aquela encontrada dentro da crosta terrestre, seja no solo, nas rochas ou mesmo na água, sendo identificada pela temperatura. Essa energia pode ser transferida para a superfície por processos de troca térmica a partir das fundações da edificação.\nDisponível em: https://jornal.usp.br. Acesso em: 7 nov. 2021 (adaptado).\nPara o sistema elétrico brasileiro, a expansão de tecnologias como a descrita no texto representa uma tendência de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "homogeneização da oferta da matriz produtiva."
+        },
+        {
+          "letra": "B",
+          "texto": "ampliação do consumo em unidades residenciais."
+        },
+        {
+          "letra": "C",
+          "texto": "redução da pressão sobre as usinas hidrelétricas."
+        },
+        {
+          "letra": "D",
+          "texto": "estagnação do consumo em unidades industriais."
+        },
+        {
+          "letra": "E",
+          "texto": "superação da necessidade de recursos renováveis."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Física – Fontes de Energia e Sustentabilidade",
+        "Geografia – Recursos Naturais e Matriz Energética"
+      ]
+    },
+    {
+      "numeroEnunciado": 74,
+      "enunciado": "Durante a realeza, e nos primeiros anos republicanos, as leis eram transmitidas oralmente de uma geração para outra. A ausência de uma legislação escrita permitia aos patrícios manipular a justiça conforme seus interesses.\nCOULANGES, F. A cidade antiga. São Paulo: Martins Fontes, 2000.\nA conjuntura sociopolítica da Roma Antiga, conforme apresentada no texto, foi contestada pelos",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "monarcas, que queriam expandir o código jurídico."
+        },
+        {
+          "letra": "B",
+          "texto": "plebeus, que almejavam participar da vida política."
+        },
+        {
+          "letra": "C",
+          "texto": "nobres, que desejavam superar a relação de dependência."
+        },
+        {
+          "letra": "D",
+          "texto": "camponeses, que aspiravam diminuir a jornada de trabalho."
+        },
+        {
+          "letra": "E",
+          "texto": "estrangeiros, que ambicionavam acessar os espaços públicos."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "História – Roma Antiga",
+        "Sociologia – Cidadania e Desigualdade Social"
+      ]
+    },
+    {
+      "numeroEnunciado": 75,
+      "enunciado": "Os povos indígenas têm o direito de manter, controlar, proteger e desenvolver seu patrimônio cultural, seus conhecimentos do passado, suas expressões culturais e as manifestações de suas ciências, tecnologias e culturas, compreendidos os recursos humanos e genéticos, as sementes, os medicamentos, o conhecimento das propriedades da fauna e da flora, as transmissões orais, as literaturas, os desenhos, os esportes, os jogos e as artes visuais e interpretativas.\nDeclaração das Nações Unidas sobre os Direitos dos Povos Indígenas. 107ª Sessão Plenária, 13 de setembro de 2007. Disponível em: www.un.org. Acesso em: 18 abr. 2015 (adaptado).\nOs direitos reconhecidos no texto representam a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "multiplicidade dos troncos linguísticos."
+        },
+        {
+          "letra": "B",
+          "texto": "ampliação das influências externas."
+        },
+        {
+          "letra": "C",
+          "texto": "complexidade dos saberes tradicionais."
+        },
+        {
+          "letra": "D",
+          "texto": "sofisticação das práticas de sobrevivência."
+        },
+        {
+          "letra": "E",
+          "texto": "diversificação da economia de subsistência."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Sociologia – Povos Indígenas e Direitos",
+        "História – Culturas Indígenas no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 76,
+      "enunciado": "TEXTO I\nEu escolhi Bezalel e lhe dei competência e habilidade para fazer todo tipo de trabalho artístico; para fazer desenhos e trabalhar em ouro, prata e bronze; para lapidar e montar pedras preciosas; para entalhar madeira; e para fazer todo tipo de artesanato.\nBÍBLIA. Êxodo 31, 2-5. São Paulo: Paulinas, 2005.\nTEXTO II\nMoisés foi educado em toda a sabedoria dos egípcios e veio a ser poderoso em palavras e obras.\nBÍBLIA. Atos 7, 22. São Paulo: Paulinas, 2005.\nTEXTO III\nSe conhecêsseis a ciência certa, logo renunciarias à ostentação.\nALCORÃO. Sura 102, 5. São Paulo: Tangará, 1975.\nEscritos em temporalidades diferentes (Antiguidade e Idade Média), os textos sagrados aproximam-se ao mostrar o papel da ciência para o(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "emergência das universidades e escolas confessionais."
+        },
+        {
+          "letra": "B",
+          "texto": "crescimento religioso e movimentos sectários."
+        },
+        {
+          "letra": "C",
+          "texto": "avanço da intolerância e rivalidades nacionais."
+        },
+        {
+          "letra": "D",
+          "texto": "preservação das tradições e rituais místicos."
+        },
+        {
+          "letra": "E",
+          "texto": "desenvolvimento social e práticas laborais."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "História – Antiguidade e Idade Média",
+        "Filosofia – Relação entre Religião e Ciência"
+      ]
+    },
+    {
+      "numeroEnunciado": 77,
+      "enunciado": "Em 1914, uma expedição estudantil saiu da Rússia em direção à América do Sul, sendo considerada a segunda campanha científica da Rússia no continente depois da longa viagem do barão Langsdorff pelo interior do Brasil na primeira metade do século XIX. O empreendimento foi enviado pelo Museu de Antropologia e Etnografia de São Petersburgo e integrado por cinco jovens cientistas, sendo dois zoólogos, dois etnógrafos e um antropólogo, cujo objetivo era a coleta de material de valor biológico e etnográfico para compor coleções nas instituições que participaram de seu financiamento. A expedição passou por países como Brasil, Paraguai e Argentina, resultando em amplo material manuscrito e algumas publicações, além dos objetos coletados.\nCARNEIRO, L. A. F. A Rússia no Brasil do início do século XX. Rio de Janeiro: Casa de Oswaldo Cruz, 2015 (adaptado).\nAlém do significado científico, o evento mencionado conectava-se a um projeto nacionalista de caráter",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "imperialista e colonizador."
+        },
+        {
+          "letra": "B",
+          "texto": "militar e disciplinador."
+        },
+        {
+          "letra": "C",
+          "texto": "lúdico e filantrópico."
+        },
+        {
+          "letra": "D",
+          "texto": "mercantil e predatório."
+        },
+        {
+          "letra": "E",
+          "texto": "religioso e humanitário."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "História – Imperialismo",
+        "Geografia – Geografia Política"
+      ]
+    },
+    {
+      "numeroEnunciado": 78,
+      "enunciado": "Em decorrência da naturalização da inferioridade social da mulher e da concepção de justiça do Estado, baseada na igualdade abstratamente concebida, torna-se possível convencer o Estado burguês a conceber e implementar políticas públicas cujo conteúdo se define pela discriminação positiva de mulheres, embora isso aparentemente seja paradoxal.\nSAFFIOTI, H.; ALMEIDA, S. S. Violência de gênero, poder e impotência. Rio de Janeiro: Revinter, 1995 (adaptado).\nNo contexto atual, qual medida atende ao tipo de política pública abordada no texto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ampliação do sufrágio universal."
+        },
+        {
+          "letra": "B",
+          "texto": "Diminuição da jornada de trabalho."
+        },
+        {
+          "letra": "C",
+          "texto": "Extinção do crime de feminicídio."
+        },
+        {
+          "letra": "D",
+          "texto": "Redução da licença-maternidade."
+        },
+        {
+          "letra": "E",
+          "texto": "Criação de delegacia especializada."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Sociologia – Gênero e Políticas Públicas",
+        "Filosofia – Justiça Social"
+      ]
+    },
+    {
+      "numeroEnunciado": 79,
+      "enunciado": "A cidade justa é governada pelos filósofos, administrada pelos cientistas, protegida pelos guerreiros e mantida pelos produtores. Cada classe cumprirá sua função para o bem da pólis, racionalmente dirigida pelos filósofos. Em contrapartida, a cidade injusta é aquela onde o governo está nas mãos dos proprietários que não pensam no bem comum da pólis e lutarão por interesses econômicos particulares.\nCHAUÍ, M. Convite à filosofia. São Paulo: Ática, 2000.\nO texto apresenta a estrutura de governo da cidade ideal pensada por Platão, que postula uma indissociabilidade entre",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cognoscência e relação intersubjetiva."
+        },
+        {
+          "letra": "B",
+          "texto": "mitologia e teorias cosmogônicas."
+        },
+        {
+          "letra": "C",
+          "texto": "cidadania e primazia da retórica."
+        },
+        {
+          "letra": "D",
+          "texto": "moralidade e virtudes cardeais."
+        },
+        {
+          "letra": "E",
+          "texto": "ética e exercício do poder."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Filosofia – Filosofia Antiga",
+        "Sociologia – Teoria do Estado"
+      ]
+    },
+    {
+      "numeroEnunciado": 80,
+      "enunciado": "A Impressão Régia do Rio de Janeiro foi criada pelo decreto de 13 de maio de 1808 para dar continuidade à nova sede do império português. A nova tipografia é criada em um momento no qual o projeto de reforma do império se transforma em um projeto de construção de um novo império português na América. Frente às tensões políticas que essa nova situação criava, a tipografia atuou na legitimação e sustentação daquele projeto político.\nBARRA, S. H. S. A Impressão Régia do Rio de Janeiro e a colonização dos sertões na construção do novo império português na América (1808-1822). Topoi, n. 31, jul.-dez. 2015 (adaptado).\nA função política da tecnologia mencionada no texto favoreceu a nova sede do Império português por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "estabelecer as normativas ideológicas aos periódicos."
+        },
+        {
+          "letra": "B",
+          "texto": "propagar as diretrizes administrativas às capitanias."
+        },
+        {
+          "letra": "C",
+          "texto": "divulgar as conquistas às metrópoles europeias."
+        },
+        {
+          "letra": "D",
+          "texto": "integrar as regiões territoriais ao poder central."
+        },
+        {
+          "letra": "E",
+          "texto": "difundir as publicações às elites lusitanas."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "História – Brasil Colônia",
+        "Sociologia – Estado e Meios de Comunicação"
+      ]
+    },
+    {
+      "numeroEnunciado": 81,
+      "enunciado": "Com o objetivo de auxiliar a prevenção e o combate a incêndios no Cerrado, o Centro de Sensoriamento Remoto da Universidade Federal de Minas Gerais (UFMG) desenvolveu um modelo computacional capaz de prever o comportamento do fogo. Essa tecnologia integra o projeto Monitoramento do Cerrado, do qual também participa o Instituto Nacional de Pesquisas Espaciais (Inpe). O instituto produz e processa dados de satélite sobre focos de calor para determinar a localização de incêndios no bioma. Esses focos são o ponto de ignição para o modelo desenvolvido na UFMG: com base em outros dados, como relevo, ventos, umidade e biomassa seca, a ferramenta estima as áreas com maior risco de incêndio e prevê a intensidade e a direção de propagação do fogo no Cerrado brasileiro.\nLAGES, L. Tecnologia antiqueimada. Revista Minas Faz Ciência, n. 84, dez. 2020 - jan.-fev. 2021 (adaptado).\nEm relação à causa ambiental, o uso da tecnologia mencionada indica a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "influência da produção orgânica."
+        },
+        {
+          "letra": "B",
+          "texto": "relevância da infraestrutura viária."
+        },
+        {
+          "letra": "C",
+          "texto": "significância da cosmologia nativa."
+        },
+        {
+          "letra": "D",
+          "texto": "importância de pesquisas acadêmicas."
+        },
+        {
+          "letra": "E",
+          "texto": "interferência de interesses estrangeiros."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Geografia – Biomas Brasileiros",
+        "Física – Tecnologia e Meio Ambiente"
+      ]
+    },
+    {
+      "numeroEnunciado": 82,
+      "enunciado": "TEXTO I\nO cinema constituía um encanto indefinível: além do entretenimento delicioso das vidas alheias por meio dos filmes, o pretexto amável para os encontros de olhos, para a mostra dos vestidos, para as tagarelices com as vizinhas de cadeiras.\nSETTE, M. Anquinhas e bernardas. São Paulo: Livraria Martins, 1940 (adaptado).\nTEXTO II\nO pouco caso na seleção dos filmes para serem exibidos nos espetáculos diurnos tem sido causa de inúmeros dissabores sofridos pelos progenitores que levam os seus filhos ao cinema para recreá-los. Em toda parte, tanto nas casas de famílias como nos colégios, só se ouve a petizada falar em fitas, em artistas cinematográficos, nas proezas de William Hart ou nas façanhas de Mutt.\nO cinema e a criança. Diário de Pernambuco. 29 ago. 1925 (adaptado).\nPublicados na primeira metade do século XX, os textos apresentam",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "conclusões semelhantes sobre o mesmo suporte midiático."
+        },
+        {
+          "letra": "B",
+          "texto": "argumentos contrários sobre o mesmo tipo de diversão."
+        },
+        {
+          "letra": "C",
+          "texto": "discursos contraditórios sobre a mesma didática escolar."
+        },
+        {
+          "letra": "D",
+          "texto": "regras teológicas acerca de um mesmo recurso pedagógico."
+        },
+        {
+          "letra": "E",
+          "texto": "justificativas idênticas acerca de um mesmo aspecto cultural."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Sociologia – Mídia e Sociedade",
+        "História – Cultura e Sociedade no Século XX"
+      ]
+    },
+    {
+      "numeroEnunciado": 83,
+      "enunciado": "O que eu queria ter sido.\nUm nome para o que sou, importa muito pouco. Importa o que eu gostaria de ser. O que eu gostaria de ser era uma lutadora. Quero dizer, uma pessoa que luta pelo bem dos outros. Isso desde pequena eu quis. Por que foi o destino me levando a escrever o que já escrevi, em vez de também desenvolver em mim a qualidade de lutadora que eu tinha? Em pequena, minha família por brincadeira chamava-me de \"a protetora dos animais\". Porque bastava acusarem uma pessoa para eu imediatamente defendê-la. E eu sentia o drama social com tanta intensidade que vivia de coração perplexo diante das grandes injustiças a que são submetidas as chamadas classes menos privilegiadas.\nLISPECTOR, C. Aprendendo a viver. Rio de Janeiro: Rocco Digital, 2013.\nA reflexão contida no texto faz referência aos pressupostos de uma doutrina ética representada pelo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "estado eudaimônico."
+        },
+        {
+          "letra": "B",
+          "texto": "referencial hedonista."
+        },
+        {
+          "letra": "C",
+          "texto": "pensamento altruísta."
+        },
+        {
+          "letra": "D",
+          "texto": "movimento antiespecista."
+        },
+        {
+          "letra": "E",
+          "texto": "comportamento pragmático."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Filosofia – Ética",
+        "Sociologia – Altruísmo"
+      ]
+    },
+    {
+      "numeroEnunciado": 84,
+      "enunciado": "Independência de pensamento, autonomia e direito à oposição política estão perdendo sua função crítica básica numa sociedade que parece cada vez mais capaz de atender às necessidades dos indivíduos através da forma pela qual é organizada. Nas condições de um padrão de vida crescente, o não conformismo com o próprio sistema parece socialmente inútil, principalmente quando acarreta desvantagens econômicas e políticas tangíveis e ameaça o funcionamento suave do todo.\nMARCUSE, H. Ideologia da sociedade industrial. Rio de Janeiro: Zahar, 1969.\nQual é a característica da sociedade industrial do século XX apresentada no texto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Gestão integrada."
+        },
+        {
+          "letra": "B",
+          "texto": "Relativismo moral."
+        },
+        {
+          "letra": "C",
+          "texto": "Desobediência civil."
+        },
+        {
+          "letra": "D",
+          "texto": "Realidade unidimensional."
+        },
+        {
+          "letra": "E",
+          "texto": "Desenvolvimento tecnológico."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Filosofia – Teoria Crítica",
+        "Sociologia – Sociedade Industrial e Consumo"
+      ]
+    },
+    {
+      "numeroEnunciado": 85,
+      "enunciado": "Do ponto de vista administrativo e judicial, a desapropriação da fazenda Cabaceiras, localizada na região sul do estado do Pará, é a primeira da história motivada pelo desrespeito à função social de um imóvel rural, como prevê a Constituição Federal de 1988, em decorrência da exploração de \"trabalho em condições análogas à escravidão”. Na realidade, essa desapropriação não se deu apenas pela ocorrência de relações de trabalho extremamente degradantes, mas também pelas graves infrações ambientais verificadas na fazenda o que também configura um ataque à função social da terra, de acordo com os preceitos constitucionais.\nBARROS, C. J. A conquista da fazenda Cabaceiras. Disponível em: www.agb.org.br. Acesso em: 15 maio 2023.\nO texto considera a promoção da justiça como um mecanismo de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "manutenção da ordem agrária."
+        },
+        {
+          "letra": "B",
+          "texto": "legitimação da propriedade privada."
+        },
+        {
+          "letra": "C",
+          "texto": "hegemonia das classes dominantes."
+        },
+        {
+          "letra": "D",
+          "texto": "revisão das desigualdades econômicas."
+        },
+        {
+          "letra": "E",
+          "texto": "homogeneização da distribuição fundiária."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Geografia – Questão Agrária",
+        "Sociologia – Direitos Humanos e Trabalho"
+      ]
+    },
+    {
+      "numeroEnunciado": 86,
+      "enunciado": "Salvador, capital do estado da Bahia.\nA análise dos elementos presentes na fotografia permite identificar qual característica socioespacial?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Estagnação da especulação imobiliária."
+        },
+        {
+          "letra": "B",
+          "texto": "Conservação da arquitetura colonial."
+        },
+        {
+          "letra": "C",
+          "texto": "Implantação de moradias populares."
+        },
+        {
+          "letra": "D",
+          "texto": "Predomínio da atividade comercial."
+        },
+        {
+          "letra": "E",
+          "texto": "Processo de verticalização urbana."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Geografia – Urbanização",
+        "Sociologia – Dinâmicas Socioespaciais"
+      ]
+    },
+    {
+      "numeroEnunciado": 87,
+      "enunciado": "A difusão pelos cônegos do ideal apostólico, bem como a influência dos eremitas e dos pregadores errantes que na sua esteira propagavam temas evangélicos, contribuíram para fazer nascer, entre os fiéis, o desejo de se erguerem ao nível espiritual do clero e de obterem a sua salvação, sem que para isso tivessem de renunciar ao seu estado. Pela primeira vez, a Igreja entreabria as portas da graça em benefício da totalidade dos fiéis, colocando, como única condição, a sua partida para o Oriente, a fim de aí lutarem contra os inimigos de Cristo.\nVAUCHEZ, A. A espiritualidade da Idade Média Ocidental, séc. VIII-XIII. Lisboa: Estampa, 1995.\nConforme o texto, no imaginário dos fiéis cristãos do período medieval, a salvação era alcançada por meio das",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "palavras escritas."
+        },
+        {
+          "letra": "B",
+          "texto": "práticas litúrgicas."
+        },
+        {
+          "letra": "C",
+          "texto": "ações voluntárias."
+        },
+        {
+          "letra": "D",
+          "texto": "ideias messiânicas."
+        },
+        {
+          "letra": "E",
+          "texto": "celebrações coletivas."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "História – Idade Média",
+        "Filosofia – Teologia e Ética"
+      ]
+    },
+    {
+      "numeroEnunciado": 88,
+      "enunciado": "Para que a utopia nasça, é preciso duas condições. A primeira é a forte sensação de que o mundo não está funcionando adequadamente e deve ter seus fundamentos revistos para que se reajuste. A segunda condição é a existência de uma confiança no potencial humano à altura da tarefa de reformar o mundo, a crença de que nós, seres humanos, podemos fazê-lo, sendo capazes de perceber o que está errado com o mundo, o que precisa ser modificado, quais são os pontos problemáticos, e ter força e coragem para extirpá-los.\nBAUMAN, Z. apud OLIVEIRA, D. Bauman: para que a utopia renasça, é preciso confiar no potencial humano. Revista Cult, jan. 2017.\nDe acordo com o autor, qual é a função da utopia no contexto das transformações sociais?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Habilitar memórias afetivas."
+        },
+        {
+          "letra": "B",
+          "texto": "Apontar alternativas possíveis."
+        },
+        {
+          "letra": "C",
+          "texto": "Legitimar experiências pretéritas."
+        },
+        {
+          "letra": "D",
+          "texto": "Perpetuar paradigmas científicos."
+        },
+        {
+          "letra": "E",
+          "texto": "Empreender soluções conclusivas."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Filosofia – Teoria Social",
+        "Sociologia – Mudança Social"
+      ]
+    },
+    {
+      "numeroEnunciado": 89,
+      "enunciado": "Produção e exportações brasileiras no ranking mundial em 2019.\nFonte: USDA, 2020. Elaboração CNA.\n*Fatia de participação na produção mundial.\nQual condição favoreceu o cenário produtivo exposto na figura?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Redução do poder de compra da população brasileira."
+        },
+        {
+          "letra": "B",
+          "texto": "Ampliação da entrada do capital agroindustrial no campo."
+        },
+        {
+          "letra": "C",
+          "texto": "Diminuição do uso de trabalho especializado na agropecuária."
+        },
+        {
+          "letra": "D",
+          "texto": "Valorização da moeda nacional em relação ao dólar americano."
+        },
+        {
+          "letra": "E",
+          "texto": "Inclusão de pequenas propriedades em cultivos de subsistência."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Geografia – Economia Brasileira",
+        "Sociologia – Relações de Trabalho no Campo"
+      ]
+    },
+    {
+      "numeroEnunciado": 90,
+      "enunciado": "Em toda a sua carreira política, Getúlio Vargas sempre contara com o seu talento pessoal de persuasão e poder de manipulação. Agora, porém, seus amigos começavam a perceber que ele parecia envelhecido e cansado. A principal figura da oposição, concordavam eles, era o belicoso jornalista Carlos Lacerda. Se ao menos pudessem \"removê-lo” do cenário político, talvez Vargas se salvasse da situação. Esses seguidores decidiram tomar o assunto em suas próprias mãos com o atentado da Rua Tonelero.\nSKDIMORE, T. Brasil: de Getúlio a Castelo. Rio de Janeiro: Paz e Terra, 2003 (adaptado).\nNesse contexto, a ação dos aliados de Getúlio Vargas teve como consequência imediata o(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "intensificação dos ataques do grupo udenista."
+        },
+        {
+          "letra": "B",
+          "texto": "intervenção dos sindicatos no conflito partidário."
+        },
+        {
+          "letra": "C",
+          "texto": "mobilização da sociedade na defesa do governo."
+        },
+        {
+          "letra": "D",
+          "texto": "abandono da censura aos meios de comunicação."
+        },
+        {
+          "letra": "E",
+          "texto": "apoio dos parlamentares aos candidatos oposicionistas."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "História – Brasil República",
+        "Sociologia – Política e Conflitos Sociais"
+      ]
+    }
+  ]
+}

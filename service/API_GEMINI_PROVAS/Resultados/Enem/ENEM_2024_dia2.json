@@ -1,0 +1,466 @@
+{
+  "nomeUniversidade": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira",
+  "siglaUniversidade": "INEP",
+  "nomeProva": "Exame Nacional do Ensino Médio",
+  "ano": 2024,
+  "qtdeQuestoes": 90,
+  "questoes": [
+    {
+      "numeroEnunciado": 91,
+      "enunciado": "O esquema representa um experimento feito com células do protozoário Amoeba proteus. Nele, um grupo de células foi tratado com a droga citocalasina B, enquanto outro grupo não foi tratado, servindo como controle. O formato e o movimento das células tratadas foram comprometidos. SADAVA, D. et al. Vida: a ciência da biologia volume I: célula e hereditariedade. Porto Alegre: Artmed, 2009 (adaptado). Qual componente celular foi afetado pela droga utilizada no experimento?",
+      "alternativas": {
+        "A": "Vacúolos.",
+        "B": "Mitocôndrias.",
+        "C": "Microfilamentos.",
+        "D": "Material genético.",
+        "E": "Membrana plasmática."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Biologia – Citologia",
+        "Biologia – Protozoários"
+      ]
+    },
+    {
+      "numeroEnunciado": 92,
+      "enunciado": "O magnésio metálico utilizado em ligas leves é produzido em um processo que envolve várias etapas e utiliza água do mar como matéria-prima. A primeira etapa desse processo consiste na reação entre o íon $Mg^{2+}$ e hidróxido de cálcio, $Ca(OH)_2$, obtendo uma mistura que contém hidróxido de magnésio, pouco solúvel, e íons $Ca^{2+}$, de acordo com a equação química: $$Mg^{2+} (aq) + Ca(OH)_2 (aq) \\to Mg(OH)_2 (s) + Ca^{2+} (aq)$$ O método adequado para separar o $Mg(OH)_2$ dessa mistura é a",
+      "alternativas": {
+        "A": "filtração.",
+        "B": "catação.",
+        "C": "destilação.",
+        "D": "dissolução.",
+        "E": "evaporação."
+      },
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Química – Separação de Misturas",
+        "Química – Reações Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 93,
+      "enunciado": "Moradores do Brooklin, bairro de São Paulo, perdem o sono com um som alto, constante e estridente. O barulho é causado por anfíbios anuros trazidos do Caribe, da espécie Eleutherodactylus jahnstonei, que têm tamanho um pouco maior que o de um grão de feijão e que encontraram na capital um ambiente favorável. Cientistas foram até o local e encontraram esses animais nos jardins das casas. Pererecas-assobiadoras tiram o sono de moradores do Brooklin. Disponível em: http://g1.globo.com. Acesso em: 26 mar. 2015 (adaptado). Ao emitirem o som estridente, esses anfíbios",
+      "alternativas": {
+        "A": "indicam que estão fora de seu hábitat natural.",
+        "B": "alertam para a presença de poluição urbana.",
+        "C": "sinalizam a existência de superpopulação.",
+        "D": "direcionam insetos para sua alimentação.",
+        "E": "atraem fêmeas para o acasalamento."
+      },
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Biologia – Comportamento Animal",
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 94,
+      "enunciado": "A hidroxiapatita, $Ca_5(PO_4)_3OH$, é um mineral constituinte do esmalte dos dentes. Entre as diversas reações que ocorrem no meio bucal, encontram-se em equilíbrio as reações de desmineralização e mineralização da hidroxiapatita em meio aquoso, ilustradas a seguir. A desmineralização está associada à fragilização do esmalte do dente e à formação de cáries. $$Ca_5(PO_4)_3OH (s) \\rightleftharpoons \\text{Desmineralização} \\rightleftharpoons 5 Ca^{2+} (aq) + 3 PO_4^{3-}(aq) + H_2O (l)$$ O uso de creme dental pode minimizar a perda da hidroxiapatita. O quadro apresenta o agente de polimento e o pH de alguns cremes dentais comerciais. STORGATTO, G. A.; BRAIBANTE, M. E. F.; BRAIBANTE, H. T. S. A química na odontologia. Química Nova na Escola, v. 39, fev. 2017 (adaptado). Considerando o equilíbrio químico envolvido, qual creme dental promove a maior desmineralização do esmalte do dente?",
+      "alternativas": null,
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Química – Equilíbrio Químico",
+        "Química – Funções Inorgânicas",
+        "Química – pH e pOH"
+      ]
+    },
+    {
+      "numeroEnunciado": 95,
+      "enunciado": "A tirinha ilustra esquimós dentro de um iglu, habitação de formato hemisférico construída durante o inverno a partir de neve ou blocos de gelo. Essa estrutura de construção se justifica pelo fato de esse povo habitar as regiões mais setentrionais da Groenlândia, Canadá e Alasca. LAERTE. Disponível em: https://artedafisicapibid.blogspot.com. Acesso em: 4 dez. 2021 (adaptado). Na tirinha, a geladeira é necessária para fazer gelo porque",
+      "alternativas": {
+        "A": "a temperatura interna do iglu é maior que a de solidificação da água.",
+        "B": "a umidade dentro do iglu dificulta o processo de mudança de fase da água.",
+        "C": "o ar dentro do iglu é isolante térmico, dificultando a perda de calor pela água.",
+        "D": "a temperatura uniforme no interior do iglu impede as correntes de convecção.",
+        "E": "a pressão do ar no interior do iglu é baixa, dificultando a solidificação da água."
+      },
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Física – Termodinâmica",
+        "Física – Fenômenos Térmicos"
+      ]
+    },
+    {
+      "numeroEnunciado": 96,
+      "enunciado": "Os pesticidas naturais vêm sendo utilizados no controle de pragas e doenças agrícolas como substituintes de pesticidas sintéticos tradicionais, por serem menos nocivos ao ambiente, biodegradáveis e minimizarem custos e riscos relativos à lavoura. Por exemplo, os compostos 1 e 2 estão envolvidos nas respostas de defesa das plantas. Os grupos funcionais presentes nesses compostos são importantes para suas propriedades no controle de pragas. PINTO-ZEVALLOS, D. M.; ZARBIN, P. H. G. A química na agricultura: perspectivas para o desenvolvimento de tecnologias sustentáveis. Química Nova, n. 10, 2013 (adaptado). Qual é a função orgânica correspondente ao grupo funcional comum presente nesses dois compostos?",
+      "alternativas": {
+        "A": "Ácido carboxílico.",
+        "B": "Cetona.",
+        "C": "Alceno.",
+        "D": "Álcool.",
+        "E": "Fenol."
+      },
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Química – Funções Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 97,
+      "enunciado": "Utilizando-se um mesmo meio nutritivo, três gêneros bacterianos diferentes foram submetidos ao cultivo em tubos de ensaio. Após certo período de crescimento da cultura bacteriana em condições físico-químicas ideais, observou-se que o padrão de distribuição das células (representadas por pontos na figura) ao longo dos tubos era diferente em cada um dos casos. Em relação ao metabolismo energético, os microrganismos presentes nos tubos 1, 2 e 3 são classificados, respectivamente, como",
+      "alternativas": {
+        "A": "anaeróbio facultativo, anaeróbio estrito e aeróbio estrito.",
+        "B": "anaeróbio facultativo, aeróbio estrito e anaeróbio estrito.",
+        "C": "aeróbio estrito, anaeróbio estrito e anaeróbio facultativo.",
+        "D": "anaeróbio estrito, aeróbio estrito e anaeróbio facultativo.",
+        "E": "aeróbio estrito, anaeróbio facultativo e anaeróbio estrito."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Biologia – Microbiologia",
+        "Biologia – Metabolismo Energético"
+      ]
+    },
+    {
+      "numeroEnunciado": 98,
+      "enunciado": "As placas que indicam saída de emergência brilham no escuro, pois apresentam substâncias que fosforecem na cor amarelo-esverdeada após exposição à luz ambiente, conforme a figura. Esse fenômeno ocorre pela presença do sulfeto de zinco ($ZnS$), dopado com prata ou cobre, na superfície da placa. Zinc Sulphide Phosphorescence. Disponível em: https://physicsopenlab.org. Acesso em: 8 nov. 2023 (adaptado). O aparecimento do brilho nessas condições ocorre como consequência de",
+      "alternativas": {
+        "A": "colisões interatômicas.",
+        "B": "coloração dos átomos.",
+        "C": "transições eletrônicas.",
+        "D": "reações nucleares.",
+        "E": "reflexão da luz."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Óptica",
+        "Física – Física Moderna"
+      ]
+    },
+    {
+      "numeroEnunciado": 99,
+      "enunciado": "Indústrias farmacêuticas e instituições científicas têm trabalhado no desenvolvimento de diferentes vacinas contra a covid-19. Em algumas dessas vacinas, a principal estrutura antigênica é uma proteína de superfície viral chamada espícula (spike, em inglês). Essa proteína só existe em coronavírus, incluindo o SARS-CoV-2. Ela se liga a receptores de membrana específicos das células humanas por um mecanismo do tipo “chave-fechadura”. Dessa forma, os vírus entram nas células, podendo se multiplicar e acarretar a doença. O que são vacinas? Disponível em: www.cienciaviva.pt. Acesso em: 30 nov. 2021 (adaptado). Nessas vacinas, essa proteína viral induz a",
+      "alternativas": {
+        "A": "produção de anticorpos específicos contra os vírus.",
+        "B": "imunidade passiva contra o desenvolvimento da doença.",
+        "C": "alteração genômica para formação da memória imunológica.",
+        "D": "neutralização direta dos vírus presentes na circulação sanguínea.",
+        "E": "modificação dos receptores de membrana específicos para o vírus."
+      },
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Biologia – Imunologia",
+        "Biologia – Virologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 100,
+      "enunciado": "Em um experimento de laboratório, duas barras metálicas, A e B, são carregadas com cargas opostas e imersas em óleo. Farelo de milho é jogado sobre o óleo e, após um certo tempo, o farelo assume o formato das linhas de campo elétrico entre as barras. A figura representa a vista superior desse experimento. ALMEIDA, M. A. T. Introdução às ciências físicas 2 volume 4: módulo 4. Rio de Janeiro: Fundação CECIERJ, 2007 (adaptado). Ao repetir o experimento colocando um cilindro metálico oco entre as placas, o esquema que representa o formato das linhas de campo assumido pelo farelo é:",
+      "alternativas": null,
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Física – Eletrostática",
+        "Física – Campo Elétrico"
+      ]
+    },
+    {
+      "numeroEnunciado": 101,
+      "enunciado": "Placas solares comuns dependem de dias ensolarados para gerar energia. Mas podemos gerar eletricidade com a ajuda de gotas de chuva, revestindo placas solares com uma fina camada de grafeno. Os íons dissociados a partir da água da chuva ($A^{m+}$ e $B^{n-}$) tornam a combinação grafeno e água da chuva um par perfeito para geração de energia. O processo requer apenas uma camada de grafeno para que grande quantidade de elétrons ($e^-$) se movimente ao longo da superfície. TANG, Q. et al. A Solar Cell that is Triggered by Sun and Rain. Angewandte Chemie International Edition, n. 55, 2016 (adaptado). Ao produzir eletricidade em dias chuvosos, o grafeno",
+      "alternativas": {
+        "A": "oxida os cátions dissolvidos na água da chuva.",
+        "B": "impede a difusão da água através das placas solares.",
+        "C": "diminui a energia de ativação da reação no pseudocapacitor.",
+        "D": "forma um compósito não metálico com os íons na água da chuva.",
+        "E": "gera uma diferença de potencial pela interação dos elétrons com os cátions."
+      },
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Química – Eletroquímica",
+        "Física – Eletricidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 102,
+      "enunciado": "Um estudante comprou uma cafeteira elétrica de 700 W de potência e com capacidade de 0,5 L de água (500 g). Enquanto o café estava em preparação na capacidade máxima da cafeteira, ele marcou que demorou 3 minutos para a cafeteira ferver toda a água ($100 \\ ^\\circ C$) a partir da temperatura ambiente de $20 \\ ^\\circ C$. Em seguida, para avaliar a eficiência da cafeteira, ele calculou esse tempo desprezando quaisquer perdas energéticas. É necessária 1 cal (4,2 J) para elevar em $1 \\ ^\\circ C$ a temperatura de 1 grama de água. Qual a eficiência energética calculada pelo estudante?",
+      "alternativas": {
+        "A": "100%",
+        "B": "75%",
+        "C": "60%",
+        "D": "7,5%",
+        "E": "5,1%"
+      },
+      "alternativaCorreta": "Anulado",
+      "conteudosAbordados": [
+        "Física – Termodinâmica",
+        "Física – Potência"
+      ]
+    },
+    {
+      "numeroEnunciado": 103,
+      "enunciado": "O diagrama P-V a seguir representa o ciclo de Otto para um motor de combustão interna, como os motores a gasolina ou a etanol, utilizados nos automóveis. As etapas representadas no diagrama estão descritas no quadro. Disponível em: www.mspc.eng.br. Acesso em: 24 fev. 2013 (adaptado). A transformação da energia térmica em energia útil ocorre na etapa",
+      "alternativas": {
+        "A": "II.",
+        "B": "III.",
+        "C": "IV.",
+        "D": "V.",
+        "E": "VI."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Termodinâmica",
+        "Física – Ciclos Termodinâmicos"
+      ]
+    },
+    {
+      "numeroEnunciado": 104,
+      "enunciado": "Para os circuitos de maratonas aquáticas realizadas em mares calmos e próximos à praia, é montado um sistema de boias que determinam o trajeto a ser seguido pelos nadadores. Uma das dificuldades desse tipo de circuito é compensar os efeitos da corrente marinha. O diagrama contém o circuito em que deve ser realizada uma volta no sentido anti-horário. As quatro boias estão numeradas de 1 a 4. Existe uma corrente marinha de velocidade $\\vec{U}_C$, cujo módulo é 30 metros por minuto, paralela à praia em toda a área do circuito. Nas arestas mais longas, o nadador precisará nadar na direção apontada pelos vetores $\\vec{U}_n$ dos pontos 1 até 2 e de 3 até 4. Considere que a velocidade do nadador é de 50 metros por minuto, em relação à água, durante todo o circuito. Nessa situação, em quantos minutos o nadador completará a prova?",
+      "alternativas": {
+        "A": "42",
+        "B": "65",
+        "C": "72",
+        "D": "105",
+        "E": "120"
+      },
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Física – Cinemática",
+        "Física – Vetores"
+      ]
+    },
+    {
+      "numeroEnunciado": 105,
+      "enunciado": "O vírus linfotrópico de células T humanas tipo 1 ($HTLV-1$) é um retrovírus do mesmo grupo do vírus da imunodeficiência humana ($HIV$). Ambos são transmitidos da mesma forma e infectam as mesmas células de defesa do organismo, os linfócitos T. A diferença entre eles é que o HTLV-1 estimula o aumento da produção desses linfócitos, enquanto o HIV causa destruição dessas células. ROMANELLI, L. C. F.; CARAMELLI, P.; PROIETTI, A. B. F. C. O vírus linfotrópico de células T humanas tipo 1 (HTLV-1): quando suspeitar da infecção? Revista da Associação Médica Brasileira, v. 56, 2010 (adaptado). Uma possível consequência da infecção por HTLV-1 é o desenvolvimento de",
+      "alternativas": {
+        "A": "aids.",
+        "B": "câncer.",
+        "C": "diabetes.",
+        "D": "hepatite B.",
+        "E": "hemorragia."
+      },
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Biologia – Virologia",
+        "Biologia – Sistema Imunológico",
+        "Biologia – Doenças"
+      ]
+    },
+    {
+      "numeroEnunciado": 106,
+      "enunciado": "Na tirinha, Calvin se divertia em um balanço antes de soltar-se dele e cair ao chão. Em sua fala, ele demonstra ter imaginado que permaneceria em movimento circular. Porém, a força gravitacional, que permanece atuando no garoto, modifica a direção de sua velocidade, fazendo com que ele chegue ao chão da maneira ilustrada no último quadrinho. WATTERSON, B. Disponível em: https://tiras-do-calvin.tumblr.com. Acesso em: 19 nov. 2021 (adaptado). Qual vetor representa a força resultante exercida pelo chão sobre Calvin no exato momento em que ele toca o chão?",
+      "alternativas": null,
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Física – Dinâmica",
+        "Física – Leis de Newton"
+      ]
+    },
+    {
+      "numeroEnunciado": 107,
+      "enunciado": "A fitorremediação é uma técnica que utiliza plantas para a remediação de ambientes contaminados. A descontaminação de solos pode ocorrer por descarte, absorção e metabolização, imobilização, extração ou volatilização do poluente, conforme representado na figura. LUIZ, E. P. Avaliação dos métodos de fitorremediação [...] na remoção de chumbo, cobre e zinco. São Paulo: UFABC, 2016 (adaptado). O método que retira o mercúrio de uma área contaminada, impedindo sua entrada na cadeia alimentar, é a",
+      "alternativas": {
+        "A": "fitoestabilização, ficando o mercúrio disponível sob a superfície das raízes das plantas.",
+        "B": "fitovolatilização, permitindo a retirada do mercúrio por plantas e a sua transferência para uma forma volátil.",
+        "C": "fitodegradação, com a degradação do mercúrio promovida por enzimas, contidas nas raízes, formando espécies menos tóxicas.",
+        "D": "fitoestimulação, com a remoção do mercúrio pela ação de microrganismos presentes nas raízes que absorvem e imobilizam o metal.",
+        "E": "fitoextração, em que as plantas que acumulam o mercúrio são cultivadas nesses locais, e a biomassa rica no metal é retirada após o crescimento."
+      },
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Biologia – Ecologia",
+        "Química – Química Ambiental"
+      ]
+    },
+    {
+      "numeroEnunciado": 108,
+      "enunciado": "Brasil fecha 2020 entre os maiores recicladores de latas de alumínio. A bauxita contém alumina ($Al_2O_3$), que é a matéria-prima para produção do alumínio ($Al$). De forma geral, são necessários 50 kg de bauxita para produzir 10 kg de alumínio. O Brasil fechou 2020 como um dos principais líderes mundiais em reciclagem de latas de alumínio. De acordo com levantamento da Associação Brasileira dos Fabricantes de Latas de Alumínio (Abralatas), o país obteve um índice de reciclagem de 97,4%, de um total de $4,0 \\times 10^5$ toneladas de latas vendidas. Considere que a lata é constituída de alumínio puro. Disponível em: https://agenciabrasil.ebc.com.br. Acesso em: 30 nov. 2021 (adaptado). Levando em conta apenas a reciclagem de latas, qual é o valor mais próximo da massa de bauxita, em tonelada, que deixou de ser extraída da natureza em 2020 no Brasil?",
+      "alternativas": {
+        "A": "$1,0 \\times 10^4$ ton",
+        "B": "$3,9 \\times 10^5$ ton",
+        "C": "$5,0 \\times 10^5$ ton",
+        "D": "$1,9 \\times 10^6$ ton",
+        "E": "$2,0 \\times 10^7$ ton"
+      },
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Química – Estequiometria",
+        "Matemática – Porcentagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 109,
+      "enunciado": "O LED é um dispositivo eletrônico que conduz corrente elétrica em um único sentido, sendo caracterizado por uma tensão e uma corrente máxima de funcionamento, $I_{máx}$. Um LED acende apenas se a corrente que o percorre está no sentido permitido e se a diferença de potencial à qual está submetido é igual ou superior à sua tensão de funcionamento. A figura ilustra o símbolo do LED usado na representação de circuitos. Um estudante de física analisa as propriedades do LED em um circuito simples de corrente contínua. Ele dispõe dos seguintes materiais: uma bateria ideal de 4,5 V; dois LEDs de tensão 3,0 V e $I_{máx} = 1,0 \\ mA$ cada; e dois resistores de $1,5 \\ K\\Omega$ cada. O circuito que o estudante pode montar, para que ambos os LEDs fiquem acesos e cada um seja percorrido por $I_{máx}$, é",
+      "alternativas": null,
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Física – Eletrodinâmica",
+        "Física – Circuitos Elétricos"
+      ]
+    },
+    {
+      "numeroEnunciado": 110,
+      "enunciado": "Uma caixa decorativa utiliza duas pequenas lâmpadas, $L_1$ (6 V – 9 W) e $L_2$ (12 V – 18 W), ligadas em série a uma bateria de tensão $V_{QR}$. Um fio resistivo QR, de 48 centímetros, está ligado em paralelo à bateria. Cinco pontos, A, B, C, D e E, dividem o fio QR em seis segmentos de comprimentos iguais. O circuito também tem um amperímetro com dois terminais. Um dos terminais (P) está ligado ao fio entre as duas lâmpadas. O outro terminal (S) está livre e será ligado ao fio QR. Dependendo do ponto em que esse terminal livre for conectado, ocorrerá a mudança na tensão à qual as lâmpadas são submetidas. Os demais fios do circuito têm resistências elétricas desprezíveis. A figura ilustra esse circuito. Em qual desses pontos o amperímetro deve ser conectado para que as lâmpadas acendam exatamente segundo as especificações de tensão e potência elétricas fornecidas?",
+      "alternativas": {
+        "A": "A",
+        "B": "B",
+        "C": "C",
+        "D": "D",
+        "E": "E"
+      },
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Física – Eletrodinâmica",
+        "Física – Circuitos Elétricos"
+      ]
+    },
+    {
+      "numeroEnunciado": 111,
+      "enunciado": "O biogás é uma alternativa energética muito importante, pois, além de reduzir a dependência por combustíveis fósseis, sua obtenção pode ser realizada a partir de resíduos da produção agroindustrial. Considere que o biogás produzido em um empreendimento de suinocultura contém 70% em volume de metano (massa molar 16 g/mol; volume molar 22 L/mol). Ele será utilizado para geração de energia em substituição ao etanol (massa molar 46 g/mol) em um gerador no qual $1 \\ m^3$ de biogás de origem suína substitui 0,59 L de etanol anidro (densidade 0,78 g/mL). Nessas condições, a massa de metano necessária para substituir 10 mol de etanol na produção de energia é mais próxima de",
+      "alternativas": {
+        "A": "300 g.",
+        "B": "400 g.",
+        "C": "510 g.",
+        "D": "590 g.",
+        "E": "720 g."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Química – Estequiometria",
+        "Química – Gases"
+      ]
+    },
+    {
+      "numeroEnunciado": 112,
+      "enunciado": "A nimesulida é um fármaco pouco solúvel em água, utilizado como anti-inflamatório, analgésico e antitérmico. Essa substância pode ser convertida em uma espécie eletricamente carregada, de maior solubilidade em água, mediante o tratamento com uma base de Brönsted-Lowry, isto é, uma espécie química capaz de capturar um próton ($H^+$). Na figura são apresentados os grupamentos presentes na estrutura química da nimesulida. GONÇALVES, A. A. et al. Contextualizando reações ácido-base de acordo com a teoria protônica de Brönsted-Lowry usando comprimidos de propranolol e nimesulida. Química Nova, n. 3, 2013 (adaptado). Na estrutura desse fármaco, o grupamento capaz de reagir com a base de Brönsted-Lowry é o grupo",
+      "alternativas": {
+        "A": "sulfonamida.",
+        "B": "metila.",
+        "C": "fenila.",
+        "D": "nitro.",
+        "E": "éter."
+      },
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Química – Funções Orgânicas",
+        "Química – Reações Ácido-Base"
+      ]
+    },
+    {
+      "numeroEnunciado": 113,
+      "enunciado": "O desenvolvimento da biotecnologia e da clonagem gênica em procariotos fez com que a produção de proteínas se tornasse mais intensa, rápida e econômica. Para a produção de hormônios, enzimas e proteínas de resistência a drogas, uma variação da técnica de reação em cadeia pela polimerase (PCR, na sigla em inglês) utiliza a enzima transcriptase reversa (RT-PCR), que sintetiza moléculas de DNA complementares a partir de fitas de RNA. Nesse contexto, essa técnica é importante para detectar genes",
+      "alternativas": {
+        "A": "expressos.",
+        "B": "plasmidiais.",
+        "C": "bacterianos.",
+        "D": "dominantes.",
+        "E": "autossômicos."
+      },
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Biologia – Biotecnologia",
+        "Biologia – Genética Molecular"
+      ]
+    },
+    {
+      "numeroEnunciado": 114,
+      "enunciado": "Nos automóveis, é importante garantir que o centro de massa (CM) de cada conjunto roda/pneu coincida com o seu centro geométrico. Esse processo é realizado em uma máquina de balanceamento, na qual o conjunto roda e pneu é colocado para girar a uma velocidade de valor constante. Com base nas oscilações medidas, a máquina indica a posição do centro de massa do conjunto, e pequenas peças de chumbo são fixadas em lugares específicos da roda até que as vibrações diminuam. Durante o treinamento de sua equipe, a fim de corrigir a posição do centro de massa indicada pela máquina, um mecânico apresenta o esquema a seguir, com cinco possíveis pontos da roda para posicionar uma peça de chumbo. Em qual ponto deve ser fixada a peça de chumbo para corrigir a posição do centro de massa desse conjunto roda/pneu?",
+      "alternativas": {
+        "A": "1",
+        "B": "2",
+        "C": "3",
+        "D": "4",
+        "E": "5"
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Mecânica",
+        "Física – Centro de Massa"
+      ]
+    },
+    {
+      "numeroEnunciado": 115,
+      "enunciado": "O soro caseiro serve para combater a desidratação por meio da reposição da água e sais minerais perdidos, por exemplo, por diarreia. Uma receita simples para a sua preparação consiste em utilizar duas colheres grandes (de sopa) de açúcar e duas colheres pequenas (de café) de sal de cozinha, dissolvidos em 2 L de água fervida, obtendo-se uma solução com concentração de íon sódio de $1,4 \\ mg/mL$. Considere as massas molares: $NaCl = 58,5 \\ g/mol$; $Na = 23 \\ g/mol$. Qual é o valor mais próximo da massa, em grama, de cloreto de sódio presente em uma única colher pequena?",
+      "alternativas": {
+        "A": "0,7 g",
+        "B": "1,8 g",
+        "C": "2,8 g",
+        "D": "3,6 g",
+        "E": "7,0 g"
+      },
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Química – Estequiometria",
+        "Química – Soluções"
+      ]
+    },
+    {
+      "numeroEnunciado": 116,
+      "enunciado": "Apesar de os animais representados no cladograma compartilharem um mesmo ancestral, eles se caracterizam por distintos padrões de reprodução ou de nutrição dos embriões e descendentes. DIXSON, A. F. Mammalian Sexuality: The Act of Mating and the Evolution of Reproduction. Disponível em: www.cambridge.org. Acesso em: 2 jul. 2024 (adaptado). Ao longo do processo evolutivo, percebem-se, entre esses animais, perdas e ganhos nos padrões citados que envolvem o(a)",
+      "alternativas": {
+        "A": "aumento no número de descendentes por ninhada.",
+        "B": "mudança no tipo de fecundação de externa para interna.",
+        "C": "redução da versatilidade de reprodução, que se torna unicamente sexuada.",
+        "D": "desenvolvimento embrionário, que passa do meio aquático para o terrestre.",
+        "E": "diminuição da vesícula vitelínica, associada ao desenvolvimento da lactação."
+      },
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Biologia – Evolução",
+        "Biologia – Embriologia Animal"
+      ]
+    },
+    {
+      "numeroEnunciado": 117,
+      "enunciado": "Uma ambulância em alta velocidade com a sirene ligada desloca-se em direção a um radar operado por uma pessoa. O radar emite ondas de rádio com frequência $f_o$ que são refletidas pela dianteira da ambulância, retornando para o detector com frequência $f_r$. A percepção do operador do radar, em relação ao som emitido pela sirene, é de que este se altera à medida que a ambulância se aproxima ou se afasta. Durante a aproximação, como o operador percebe o som da sirene e qual é a relação entre as frequências $f_r$ e $f_o$ medidas pelo radar?",
+      "alternativas": {
+        "A": "Mais grave do que o som emitido e $f_r < f_o$.",
+        "B": "Mais agudo do que o som emitido e $f_r < f_o$.",
+        "C": "Mais agudo do que o som emitido e $f_r = f_o$.",
+        "D": "Mais agudo do que o som emitido e $f_r > f_o$.",
+        "E": "Mais grave do que o som emitido e $f_r > f_o$."
+      },
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Ondulatória",
+        "Física – Efeito Doppler"
+      ]
+    },
+    {
+      "numeroEnunciado": 118,
+      "enunciado": "Mirascópio 3D: produtor de ilusão instantânea. O equipamento ilustrado na figura, de dimensões apresentadas no esquema, é composto por dois espelhos côncavos $E_1$ e $E_2$, apoiados um sobre o outro por suas bordas, de tal forma que o vértice de $E_1$ coincide com o foco de $E_2$ e vice-versa. Na abertura circular de $E_2$, é formada uma imagem tridimensional de um objeto posicionado sobre o vértice de $E_1$. Essa imagem é formada a partir dos raios procedentes do objeto, refletidos por $E_2$ e $E_1$, respectivamente, conforme o esquema. Os observadores julgam visualizar o objeto quando estão, de fato, visualizando sua imagem. O efeito só é possível porque as superfícies de ambos os espelhos são de extrema qualidade. SALZMANN, W. Disponível em: https://wissenstexte.de. Acesso em: 27 jun. 2024 (adaptado). A natureza da imagem formada e a distância vertical entre cada ponto objeto e seu correspondente ponto imagem são",
+      "alternativas": {
+        "A": "real e 5 cm.",
+        "B": "real e 3,8 cm.",
+        "C": "real e 7,6 cm.",
+        "D": "virtual e 7,6 cm.",
+        "E": "virtual e 3,8 cm."
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Óptica",
+        "Física – Espelhos Esféricos"
+      ]
+    },
+    {
+      "numeroEnunciado": 119,
+      "enunciado": "Muitas pessoas ainda se espantam com o fato de um passageiro sair ileso de um acidente de carro enquanto o veículo onde estava teve perda total. Essas pessoas talvez considerem, equivocadamente, que os carros mais seguros são os que têm as estruturas mais rígidas, ou seja, estruturas, que durante uma colisão, apresentam menor deformação. Na verdade, o que ocorre é o contrário. Por isso, a partir de 1958, passaram a ser produzidos carros com partes que se deformam facilmente. DAY, C. Crumple Zones. Disponível em: https://pubs.aip.org. Acesso em: 2 jul. 2024 (adaptado). Assim, além dos cintos de segurança e dos airbags, os carros modernos passaram a contar com o dispositivo de segurança conhecido como crumple zone (região deformável, em inglês), conforme a figura. Momentum and Car safety. GCSE Physics Revision. Disponível em: www.shalom-education.com. Acesso em: 5 jul. 2024 (adaptado). Considerando o carro, seus ocupantes e o muro da figura como um sistema isolado, o crumple zone aumenta a segurança dos passageiros porque, durante uma colisão, a deformação da estrutura do carro",
+      "alternativas": {
+        "A": "aciona os airbags do veículo.",
+        "B": "absorve a energia cinética do sistema.",
+        "C": "consome a quantidade de movimento do sistema.",
+        "D": "cria uma barreira de proteção para seus ocupantes.",
+        "E": "diminui a velocidade do centro de massa do sistema."
+      },
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Física – Dinâmica",
+        "Física – Conservação da Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 120,
+      "enunciado": "Células a combustível microbianas (CCM) são capazes de gerar eletricidade a partir de águas residuárias urbanas e agroindustriais. As CCM são compostas de duas câmaras. Numa delas, onde ocorre o tratamento da matéria orgânica, as bactérias eletrogênicas crescem formando um biofilme e se alimentam dos poluentes presentes no efluente. Ao se alimentarem, essas bactérias geram uma corrente elétrica que percorre o material sobre o qual elas formaram o biofilme. Um fio condutor externo possibilita a migração dessa corrente para uma segunda câmara, promovendo uma reação química. A figura esquematiza uma CCM e as reações envolvidas. $$CH_3COO^- (aq) + 2 \\ H_2O (l) \\to 2 \\ CO_2 (g) + 7 \\ H^+ (aq) + 8 \\ e^-$$ $$4 \\ H^+ (aq) + O_2 (g) + 4 \\ e^- \\to 2 \\ H_2O (l)$$ QUINTO, A. C. Biobaterias geram eletricidade a partir de esgoto sanitário e efluentes agroindustriais. Disponível em: https://jornal.usp.br. Acesso em: 1 dez. 2021 (adaptado). Qual das equações representa a reação global que ocorre durante o funcionamento dessa CCM?",
+      "alternativas": {
+        "A": "$CH_3COO^- (aq) + O_2 (g) \\to 2 \\ CO_2 (g) + 3 \\ H^+ (aq)$",
+        "B": "$CO_2 (g) + O_2 (g) + H^+ (aq) \\to H_2O (l) + CH_3COO^- (aq)$",
+        "C": "$CH_3COO^- (aq) + H^+ (aq) + 2 \\ O_2 (g) \\to 2 \\ CO_2 (g) + 2 \\ H_2O (l)$",
+        "D": "$CH_3COO^- (aq) + 6 \\ H_2O (l) \\to 2 \\ CO_2 (g) + 2 \\ O_2 (g) + 15 \\ H^+ (aq)$",
+        "E": "$2 \\ CO_2 (g) + 11 \\ H^+ (aq) + O_2 (g) \\to CH_3COO^- (aq) + 4 \\ H_2O (l)$"
+      },
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Química – Eletroquímica",
+        "Química – Reações Redox"
+      ]
+    }
+  ]
+}

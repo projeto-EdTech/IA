@@ -1,0 +1,2101 @@
+{
+  "nomeUniversidade": "Pontifícia Universidade Católica de Minas Gerais",
+  "siglaUniversidade": "PUC Minas",
+  "nomeProva": "Vestibular",
+  "ano": 2026,
+  "qtdeQuestoes": 40,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Podemos dizer que há paradoxo da xenofobia no seguinte trecho retirado do texto anterior:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "criação do Fórum de Lideranças Migrantes, Refugiadas e Apátridas (FOMIGRA) em abril deste ano é um marco nesse sentido. A iniciativa promove o diálogo e a participação direta dessas populações na formulação de políticas públicas."
+        },
+        {
+          "letra": "E",
+          "texto": "ntre os anos de 2021 e 2022, as denúncias de xenofobia cresceram 874%, superando as acusações de intolerância religiosa, racismo, LGBTfobia, misoginia e neonazismo registradas no mesmo período."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudoAbordado": "Língua Portuguesa – Interpretação textual"
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Neste texto, foram destacadas as seguintes práticas de xenofobia, EXCETO:",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "eclarações públicas contra determinadas religiões praticadas por pessoas de outra nacionalidade."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudoAbordado": "Língua Portuguesa – Interpretação textual"
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Releia o título do texto: \"Xenofobia: o ódio que divide o tecido social e incita violações de direitos contra povos e culturas\". Em seguida, analise a alternativa que MELHOR explica tal título:",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "onstata-se uma prática atual que nega a própria origem da nação."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudoAbordado": "Língua Portuguesa – Interpretação textual"
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Em relação à semântica do subtítulo \"Interseccionalidades”, verificamos relação DIRETA com ele, no trecho:",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudoAbordado": "Língua Portuguesa – Semântica"
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Sobre o uso de pontuação, estão corretas as justificativas, EXCETO em:",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudoAbordado": "Língua Portuguesa – Pontuação"
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "\"Cientistas japoneses trabalham na criação de um novo tipo de célula: híbrida entre planta e animal. Com células de hamsters, o novo tipo de célula realiza fotossíntese e tem potencial para transformar a engenharia de tecidos orgânicos\".\n(Trecho retirado do Jornal Exame, publicado em novembro de 2024, disponível no link:\nhttps://exame.com/tecnologia/cientistas-japoneses-criam-novo-tipo-de-vida-hibrido-entre-planta-e-animal/)\nSão substâncias consideradas produtos da reação química mencionada no trecho acima:",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudoAbordado": "Biologia – Fotossíntese"
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Um estudo realizado em 25 artigos a respeito da doença celíaca identificou que, além de acometer os órgãos do sistema digestório, essa doença também tem repercussões em vários sistemas, como o reprodutor, o cardiovascular e o endócrino, além de transtornos psicológicos, qualidade de vida e problemas de crescimento.\nFonte: CRUZ, M. P.; SILVA, C. S. F.; PRETTO, A. D. B. (2025). Efeitos da doença celíaca em diferentes sistemas orgânicos. RBONE - Revista Brasileira de Obesidade, Nutrição e Emagrecimento, 19(119), p. 420-437. Disponível em https://www.rbone.com.br/index.php/rbone/article/view/2681. Acesso em 28/08/2025.\nA alternativa que explica o principal motivo desses acometimentos sistêmicos a partir da doença celíaca é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "destruição das microvilosidades intestinais diminui a absorção de nutrientes pelo organismo."
+        },
+        {
+          "letra": "A",
+          "texto": "formação de placas e coágulos na corrente sanguínea dificulta o transporte do oxigênio para os diferentes órgãos do corpo."
+        },
+        {
+          "letra": "A",
+          "texto": "ingestão do açúcar e sua absorção pela corrente sanguínea provocam reações alérgicas em diferentes partes do corpo."
+        },
+        {
+          "letra": "A",
+          "texto": "reação alérgica que ocorre no estômago dificulta a digestão dos alimentos e provoca consequente desnutrição."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudoAbordado": "Biologia – Sistema digestório"
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Diferentes estratégias garantem o sucesso reprodutivo de espécies que ocupam o planeta Terra atualmente.\nAs alternativas abaixo relacionam corretamente estratégias reprodutivas com o sucesso adaptativo de alguns seres vivos, EXCETO:",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudoAbordado": "Biologia – Reprodução animal e vegetal"
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "O Instituto Butantan sediou o IV Encontro Nacional de Vigilância e Controle dos Acidentes por Animais Peçonhentos. Encabeçado pelo Ministério da Saúde, o evento reuniu gestores, pesquisadores e profissionais da saúde de todo o Brasil para discutir e atualizar planos e estratégias intersetoriais, tendo como foco a melhoria da assistência às vítimas de picadas de animais.\nFonte: Pinelli, Natasha. IV Encontro Nacional de Vigilância e Controle dos Acidentes por Animais Peçonhentos.\nDisponível em: https://butantan.gov.br/noticias/butantan-sedia-encontro-nacional-para-discutir-vigilancia-e-reforcar-controle-de-acidentes-por-animais-peconhentos. Acesso em 23/08/2025.\nA partir da leitura do enunciado apresentado e de seus conhecimentos, indique qual desses animais NÃO pode ser considerado peçonhento:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ranhas."
+        },
+        {
+          "letra": "E",
+          "texto": "scorpiões."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudoAbordado": "Biologia – Animais peçonhentos"
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Doenças de transmissão vetorial são bastante preocupantes do ponto de vista da saúde pública. A leishmaniose é uma dessas doenças, e pode ser caracterizada pelo seguinte vetor e agente etiológico:",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "oença transmitida pelo barbeiro _Triatoma infestans_, provocada por um protozoário."
+        },
+        {
+          "letra": "D",
+          "texto": "oença transmitida pelo caramujo _Biomphalaria glabrata_, provocada por uma bactéria."
+        },
+        {
+          "letra": "D",
+          "texto": "oença transmitida pelo mosquito _Aedes aegypti_, provocada por um vírus."
+        },
+        {
+          "letra": "D",
+          "texto": "oença transmitida pelo mosquito-palha ou birigui _Lutzomyia longipalpis_, provocada por um protozoário."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudoAbordado": "Biologia – Doenças parasitárias"
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Considere as seguintes espécies:\n1 - H\\(_2\\)O\n2 - CH\\(_3\\)Cl\n3 - NH\\(_4\\)\\(\\text{+}\\)\nQual (is) dela(s) pode(m) formar ligações de hidrogênio com outras iguais?",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudoAbordado": "Química – Ligações intermoleculares"
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "O diagrama é uma visão microscópica de uma imagem instantânea de um material em equilíbrio. Os círculos representam as moléculas e as setas, as velocidades das moléculas.\nAssinale a alternativa que contém uma substância que pode estar representada pelo diagrama.",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudoAbordado": "Química – Estados da matéria"
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Qual das alternativas a seguir contém espécies com o mesmo número de elétrons?",
+      "alternativas": [
+        {
+          "letra": "B",
+          "texto": "e\\(\\text{2+}\\), Mg\\(\\text{2+}\\) e Ca\\(\\text{2+}\\)"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudoAbordado": "Química – Átomos e íons"
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "Os pontos de ebulição dos halogênios F\\(_2\\), Cl\\(_2\\), Br\\(_2\\) e I\\(_2\\) aumentam nessa ordem. Isso é melhor atribuído às forças",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "oligativas das moléculas."
+        },
+        {
+          "letra": "D",
+          "texto": "as ligações covalentes."
+        },
+        {
+          "letra": "D",
+          "texto": "e dipolo permanente."
+        },
+        {
+          "letra": "D",
+          "texto": "e dispersão de London."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudoAbordado": "Química – Ligações intermoleculares"
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Considere a reação:$$4HBr_{(g)} + O_{2(g)} \\to 2H_2O_{(g)} + 2Br_{2(g)}$$Energia potencial$$158 \\text{ kJ}$$ $$4HBr_{(g)} + O_{2(g)}$$$$434 \\text{ kJ}$$ $$2H_2O_{(g)} + 2Br_{2(g)}$$progresso da reaçãoCalculando o $\\Delta H$ para essa reação, encontra-se o valor, em kJ:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "276."
+        },
+        {
+          "letra": "B",
+          "texto": "276."
+        },
+        {
+          "letra": "C",
+          "texto": "434."
+        },
+        {
+          "letra": "D",
+          "texto": "434."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Física – Termodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "A Astronomia permite compreender como ocorrem diversos fenômenos envolvendo planetas e satélites no Sistema Solar. O planeta Júpiter, por exemplo, é o maior do sistema e possui dezenas de luas naturais, sendo as quatro maiores conhecidas como luas galileanas: Io, Europa, Ganimedes e Calisto. Elas foram observadas por Galileu Galilei em 1610 e orbitam Júpiter em planos quase alinhados com o equador do planeta.https://humanidades.com/br/jupiter/ Acesso em: 24 ago. 2025A lua Io leva aproximadamente 1,8 dias terrestres para completar uma órbita em torno de Júpiter e Ganimedes leva cerca de 7,2 dias terrestres. O movimento de translação das luas em torno do planeta, bem como o de Júpiter em torno do Sol, permite a ocorrência de eclipses solares e lunares.Com base nas informações fornecidas, analise as afirmativas sobre a frequência de eclipses nas luas de Júpiter. Todas estão corretas, EXCETO:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "As luas galileanas, por orbitarem no mesmo plano, favorecem a ocorrência de eclipses regulares entre si."
+        },
+        {
+          "letra": "B",
+          "texto": "Como Ganimedes possui um período orbital maior, promove menos eclipses solares em um mesmo intervalo de tempo que Io."
+        },
+        {
+          "letra": "C",
+          "texto": "Em Júpiter, é possível que ocorra um eclipse solar causado por Io e, simultaneamente, um eclipse lunar causado em Ganimedes."
+        },
+        {
+          "letra": "D",
+          "texto": "Por estar mais próxima de Júpiter, Ganimedes promove mais eclipses do que Io ao longo de um mês terrestre."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Astronomia",
+        "Física – Movimento Orbital"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Durante a Revolução Industrial, diversas invenções impulsionaram o crescimento da indústria e da mineração. Entre essas, destaca-se a máquina de Savery, desenvolvida no final do século XVII e considerada uma das primeiras máquinas a vapor. Seu funcionamento baseava-se na condensação do vapor de água em um recipiente, o que criava vácuo e fazia com que a pressão atmosférica impulsionasse a água de minas para o interior do sistema.Essa máquina operava com vapor aquecido a cerca de $110\\degree C$ e usava água a $20\\degree C$ como fonte fria para condensação. Como toda máquina térmica, parte da energia térmica absorvida da fonte quente era convertida em trabalho útil, e o restante era rejeitado para a fonte fria.Suponha que, em cada ciclo, a máquina receba $2000 \\text{ J}$ de calor da fonte quente, realizando um trabalho de $600\\text{ J}$ a cada $10 \\text{ segundos}$.Dessa forma, considerando o funcionamento da máquina, qual interpretação CORRETA pode ser feita sobre sua eficiência e seu desempenho energético?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A máquina opera com rendimento térmico inferior a $30\\%$ e desenvolve uma potência útil inferior a $40 \\text{ watts}$."
+        },
+        {
+          "letra": "B",
+          "texto": "No caso considerado, a máquina possui rendimento térmico de $30\\%$, o que resulta em uma potência útil de $60 \\text{ watts}$."
+        },
+        {
+          "letra": "C",
+          "texto": "A potência útil desenvolvida pela máquina é de $200 \\text{ watts}$, o que indica que quase toda a energia térmica foi convertida em trabalho."
+        },
+        {
+          "letra": "D",
+          "texto": "O rendimento da máquina é de $60\\%$, pois mais da metade da energia fornecida é transformada em trabalho mecânico."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Física – Termodinâmica",
+        "Física – Máquinas Térmicas",
+        "Física – Rendimento e Potência"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Os fogareiros a gás são equipamentos portáteis que funcionam pela queima de gases combustíveis, como butano ou propano, e são amplamente utilizados em acampamentos e cozinhas externas. A energia térmica gerada pela queima do gás é transferida por convecção e radiação para a base da panela, e assim aquece os alimentos. Contudo, essa transferência não é perfeita: parte da energia térmica se perde para o ambiente. Um modelo típico de fogareiro libera $2.000 \\text{ watts}$ de potência térmica contínua, mas apenas $35\\%$ dessa energia é efetivamente transferida para o alimento, enquanto o restante se perde principalmente por aquecimento do ar ao redor e da estrutura metálica.Durante uma atividade ao ar livre, uma pessoa deseja cozinhar uma porção de arroz que, segundo testes laboratoriais, requer $105 \\text{ kJ}$ de energia para ser completamente cozida. O cozimento será feito com o fogareiro descrito, utilizando uma panela adequada, sem tampa, exposta ao vento moderado.https://br.freepik.com/Com base nessas informações, pode-se inferir que o tempo mínimo de exposição contínua ao fogareiro necessário para cozinhar completamente o alimento, em segundos, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$150\\text{s}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$100\\text{s}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$75\\text{s}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$30\\text{s}$"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Física – Termodinâmica",
+        "Física – Potência e Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "Durante um projeto de implantação de painéis solares em uma região semiárida, engenheiros ambientais precisam avaliar a resistividade elétrica do solo local. Essa informação é essencial para determinar o tipo de aterramento elétrico a ser utilizado na instalação, garantindo segurança e eficiência. Para isso, adotam um método de campo em que fincam dois eletrodos metálicos no solo, separados por uma distância conhecida. Entre esses eletrodos, aplicam uma diferença de potencial e medem a corrente que circula pelo solo, além de estimar a área efetiva da seção transversal pela qual a corrente elétrica se distribui.Em um ensaio de resistividade do terreno de implantação dos painéis, os técnicos aplicam uma tensão de $120 \\text{ V}$ entre dois eletrodos separados por $300 \\text{ metros}$, medem uma corrente de $6 \\text{ mA}$ e estimam uma seção transversal efetiva de $4,5 \\text{ m}^2$. Utilizando esses dados, os engenheiros determinam a resistividade elétrica do solo e comparam com uma tabela de materiais típicos. A partir disso, eles avaliam que o solo local tem características próximas de um dos seguintes materiais:Tabela - Resistividade elétrica de materiais geológicos comunsMaterialResistividade ($\\Omega\\cdot m$)Solo areno-argiloso úmido$150$Basalto compacto$300$Areia seca$600$Argila expandida$800$Com base nas informações do experimento, o solo analisado é mais provavelmente composto por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Areia seca."
+        },
+        {
+          "letra": "B",
+          "texto": "Argila expandida."
+        },
+        {
+          "letra": "C",
+          "texto": "Basalto compacto."
+        },
+        {
+          "letra": "D",
+          "texto": "Solo areno-argiloso úmido."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Eletrodinâmica",
+        "Física – Resistividade Elétrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "Um bloco de massa $m$ está em repouso sobre uma mesa horizontal dentro de um trem que se move com velocidade de módulo constante. Considere que a mesa sempre está em repouso em relação ao trem e que não há atrito entre o bloco e a mesa.Sobre o estado do bloco, é CORRETO afirmar que, durante uma",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pequena aceleração, o bloco se moveria para frente em relação à mesa."
+        },
+        {
+          "letra": "B",
+          "texto": "pequena desaceleração, o bloco não se moveria em relação à mesa."
+        },
+        {
+          "letra": "C",
+          "texto": "trajetória curvilínea, o bloco se movimentaria em relação à mesa."
+        },
+        {
+          "letra": "D",
+          "texto": "trajetória retilínea, o bloco moveria lateralmente em relação à mesa."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Mecânica",
+        "Física – Leis de Newton",
+        "Física – Referenciais Inerciais"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Em um triângulo retângulo, os ângulos internos estão em progressão aritmética. Sabendo que a medida do menor lado desse triângulo é $6 \\text{ centímetros}$, podemos afirmar que o perímetro do triângulo, em centímetros, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$12$"
+        },
+        {
+          "letra": "B",
+          "texto": "$36$"
+        },
+        {
+          "letra": "C",
+          "texto": "$18 + 6\\sqrt{3}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$12 + 6\\sqrt{2}$"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Matemática – Geometria Plana",
+        "Matemática – Triângulos Retângulos",
+        "Matemática – Progressão Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "Uma equipe de engenheiros está desenvolvendo um suporte triangular para equipamentos médicos, utilizando uma chapa metálica em formato de triângulo equilátero. Inicialmente, o triângulo tem lados medindo $17 \\text{ cm}$. Após testes, foi decidido que o novo suporte terá lados com o dobro do comprimento do triângulo anterior.Com base nessa mudança, é CORRETO afirmar que o novo triângulo terá",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "o dobro da área e o dobro do perímetro do triângulo original."
+        },
+        {
+          "letra": "B",
+          "texto": "o dobro do perímetro e quatro vezes a área do triângulo original."
+        },
+        {
+          "letra": "C",
+          "texto": "o quádruplo do perímetro e o dobro da área do triângulo original."
+        },
+        {
+          "letra": "D",
+          "texto": "o triplo do perímetro e o triplo da área do triângulo original."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Matemática – Geometria Plana",
+        "Matemática – Triângulos Equiláteros",
+        "Matemática – Escala",
+        "Matemática – Área e Perímetro"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Durante um experimento em um laboratório farmacêutico, uma pesquisadora analisa a trajetória de uma gota de substância liberada por um dos equipamentos. A gota se move em uma trajetória parabólica e sua altura, em centímetros, é modelada por uma função quadrática da forma:$$h(t) = at^2 + bt + c$$em que $a$, $b$ e $c$ são números reais, $a < 0$ e $t$ dado em segundos.Sabe-se que a altura da gota é $0 \\text{ cm}$ quando $t = 0$ (instante em que o movimento é iniciado) e quando $t = 6 \\text{ segundos}$ (tempo gasto para a gota retornar à superfície da mesa). Sabe-se, também, que a altura máxima atingida pela gota é $9 \\text{ cm}$.Com base nessas informações, podemos afirmar que $a + b + c$ é igual a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$5$"
+        },
+        {
+          "letra": "B",
+          "texto": "$6$"
+        },
+        {
+          "letra": "C",
+          "texto": "$10$"
+        },
+        {
+          "letra": "D",
+          "texto": "$15$"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Matemática – Funções",
+        "Matemática – Função Quadrática",
+        "Matemática – Parábola"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Durante uma aula de matemática, a professora propôs uma discussão sobre os diferentes conjuntos numéricos e o que acontece quando realizamos operações entre números racionais e irracionais. Para estimular o raciocínio dos alunos, ela apresentou as seguintes afirmações:I. A soma de um número racional e um número irracional é sempre um número racional.II. O produto de um número racional com um número irracional é sempre irracional.III. A soma de dois números irracionais é sempre um número irracional.IV. O produto de dois números irracionais pode ser um número racional.V. A diferença entre um número racional e um número irracional é sempre irracional.Com base nas propriedades dos conjuntos numéricos e das operações entre seus elementos, são VERDADEIRAS apenas as afirmações:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I, II e V."
+        },
+        {
+          "letra": "B",
+          "texto": "III e IV."
+        },
+        {
+          "letra": "C",
+          "texto": "III, IV e V."
+        },
+        {
+          "letra": "D",
+          "texto": "IV e V."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Matemática – Conjuntos Numéricos",
+        "Matemática – Números Racionais e Irracionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Um cliente decidiu comprar um televisor em uma loja virtual pelo valor anunciado de $R\\$ 5.000,00$. Ao efetuar o login no site da loja, recebeu automaticamente um desconto de $20\\%$ sobre o valor do produto e o produto foi adicionado em seu carrinho de compras com o desconto aplicado. Ao finalizar a compra, optou por pagar com o cartão de crédito da própria loja, o que lhe garantiu um desconto adicional de $10\\%$ sobre o valor do item no carrinho. O cliente escolheu então dividir o valor final em $5 \\text{ parcelas iguais}$.Após pagar a primeira parcela, decidiu adiantar o pagamento das $4 \\text{ parcelas restantes}$. Pela política de adiantamento de parcelas da operadora do cartão de crédito, recebeu um desconto de $3\\%$ sobre cada uma das quatro parcelas restantes.Com base nessas informações, o cliente pagou, no total, pelo televisor",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$R\\$ 3.350,00"
+        },
+        {
+          "letra": "B",
+          "texto": "$R\\$ 3.421,25"
+        },
+        {
+          "letra": "C",
+          "texto": "$R\\$ 3.492,00"
+        },
+        {
+          "letra": "D",
+          "texto": "$R\\$ 3.513,60"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Matemática – Matemática Financeira",
+        "Matemática – Porcentagem",
+        "Matemática – Descontos"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "READ THE FOLLOWING TEXT AND CHOOSE THE OPTION WHICH BEST COMPLETES EACH QUESTION ACCORDING TO THE TEXT:How language is hiding the real internet from youWhen you go online, it feels like you're accessing all the world's information. But you form social media relationships based on shared language. You search Google with the language you think in. And algorithms built to maximise attention have no reason to recommend what you won't understand. So, most of the internet remains out of sight, on the other side of a language filter – and you're missing far more than content.Most internet activity is concentrated on a small number of large platforms, and from our linguistically isolated perspectives, it's easy to assume that everyone uses them in similar ways. But why should that be true?We expect music, literature and cuisine to vary between cultures, after all, so why not the internet?In a new paper, a team at the University of Massachusetts Amherst's Initiative for Digital Public Infrastructure has uncovered stark differences in how different cultures connect the internet. With more research, it may reshape how we think about the services that dominate the web. We're only just beginning to understand the implications.With the biggest technology companies based in the US, a cultural blind spot has emerged where we often assume that the English internet is representative of the rest of the world. Research about YouTube in particular has a significant English-speaking bia typically written in English, published in English-speaking countries and focused on English-language videos.The internet's leading platforms are more difficult to study than you might think. Computers can blaze through text, but video is harder to analyse at scale. Platforms like YouTube, the world's most popular video service, don't offer tools to create the large representative samples necessary to understand the platform as a whole, or big swaths of it like linguistic communities.As a result, YouTube is often understood through the easily accessible tip of the iceberg: its most popular videos. Between the language bias and this popularity bias, when users, creators, academics, educators, parents, teachers and even policymakers talk about platforms like YouTube, we're typically just talking about the part that's most visible to us – a small, unrepresentative piece of it.(From:https://www.bbc.com/future/article/20250812-how-language-is-hiding-the-real-internet-from-you Access: 08/19/2025. Adapted.)What sentence is correct according to the text?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "All internet activity is concentrated on a small number of large platforms in various languages."
+        },
+        {
+          "letra": "B",
+          "texto": "By studying YouTube, we can easily understand the platform as a whole, noticing big swaths of it."
+        },
+        {
+          "letra": "C",
+          "texto": "More research will make it possible to restructure the way we think about the services that control the web."
+        },
+        {
+          "letra": "D",
+          "texto": "The internet's topmost platforms are not as problematic to study as we would usually consider."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Inglês – Compreensão Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "The use of the word So in the sentence \"So, most of the internet remains out of sight, on the other side of a language filter\" (paragraph 1) indicates that this sentence will bring",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a conclusion to the previous ones."
+        },
+        {
+          "letra": "B",
+          "texto": "a purpose to explain the previous ones."
+        },
+        {
+          "letra": "C",
+          "texto": "additional ideas to the previous ones."
+        },
+        {
+          "letra": "D",
+          "texto": "opposing ideas to the previous ones."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Inglês – Interpretação Textual",
+        "Inglês – Conectores Discursivos"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "By reading the text, we can infer that",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Most people always expect music, literature, cuisine and the internet to vary between cultures."
+        },
+        {
+          "letra": "B",
+          "texto": "Users, creators, academics, educators, parents, teachers and policymakers should study all internet platforms."
+        },
+        {
+          "letra": "C",
+          "texto": "When we talk about internet platforms, we are essentially talking about just a slight piece of it."
+        },
+        {
+          "letra": "D",
+          "texto": "When you go online, you tend to access all the world's information regardless of language and culture."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Inglês – Interpretação Textual",
+        "Inglês – Inferência"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Lea o el poema de la escritora salvadoreña Lourdes Ferrufino y conteste las preguntas 29 y 30.\n\nPregunta de cajón\n\nMe han preguntado incansablemente\nsi las mujeres escribimos\nde otra cosa que no sean nuestros cuerpos,\nnuestros achaques físicos, emocionales o existenciales.\nMe exigen justificar la palabra nacida del dolor\ndel encuentro con los otros y del servicio a LOS OTROS,\nde nuestra elección por nombrar lo invisible\npor repensar nuestros lenguajes y necesidades\npor extrapolar la academia a lo íntimo\npor conectar nuestra experiencia con los saberes\nheredados por las antecesoras del pensamiento\ny la vida dentro de estructuras desfavorecedoras.\n\nVeo cómo sus ojos se tornan blancos\n(cómo quizá lo hicieron al iniciar esta lectura fugaz)\no elogian el arte poética del que a mi lado\nescupió una verdad velada o poca sincera.\nPienso que no soy la más idónea para hilar\nuna respuesta bañada de encanto\ny en virtud de ello\narrancar una sonrisa al púlpito escrutador.\n\nAgradezco la pregunta, como debe decirse\npor convención social, pues, a fin de cuentas\nlos oyentes se están marchando\ny si mi voz resuena en las últimas sombras\ndel auditorio (mujeres, casi siempre)\nmi poema tuvo razón de ser.\n\nDisponible en: https://elescarabajo.com.sv/creacion/poesia/poemas-de-lourdes-ferrufino/. Acceso el: 02 sep. 2025\n\n¿Qué intención tiene el yo lírico con el mensaje que busca trasmitir en el poema?",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "l yo lírico enfatiza la necesidad de que las mujeres justifiquen su escritura solo cuando ésta aborda sufrimientos físicos y emocionales."
+        },
+        {
+          "letra": "E",
+          "texto": "l yo lírico critica la superficialidad de quienes solo valoran la poesía que trata temas universales, ignorando la importancia de la experiencia personal femenina."
+        },
+        {
+          "letra": "E",
+          "texto": "l yo lírico defiende que la poesía de las mujeres debe limitarse al ámbito académico para ser tomada en serio por el público."
+        },
+        {
+          "letra": "E",
+          "texto": "l yo lírico desafía la desvalorización de la palabra femenina que nace del dolor y la experiencia colectiva, resaltando la resistencia y la conexión con un legado heredado."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Espanhol – Interpretação de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Lea o el poema de la escritora salvadoreña Lourdes Ferrufino y conteste las preguntas 29 y 30.\n\nPregunta de cajón\n\nMe han preguntado incansablemente\nsi las mujeres escribimos\nde otra cosa que no sean nuestros cuerpos,\nnuestros achaques físicos, emocionales o existenciales.\nMe exigen justificar la palabra nacida del dolor\ndel encuentro con los otros y del servicio a LOS OTROS,\nde nuestra elección por nombrar lo invisible\npor repensar nuestros lenguajes y necesidades\npor extrapolar la academia a lo íntimo\npor conectar nuestra experiencia con los saberes\nheredados por las antecesoras del pensamiento\ny la vida dentro de estructuras desfavorecedoras.\n\nVeo cómo sus ojos se tornan blancos\n(cómo quizá lo hicieron al iniciar esta lectura fugaz)\no elogian el arte poética del que a mi lado\nescupió una verdad velada o poca sincera.\nPienso que no soy la más idónea para hilar\nuna respuesta bañada de encanto\ny en virtud de ello\narrancar una sonrisa al púlpito escrutador.\n\nAgradezco la pregunta, como debe decirse\npor convención social, pues, a fin de cuentas\nlos oyentes se están marchando\ny si mi voz resuena en las últimas sombras\ndel auditorio (mujeres, casi siempre)\nmi poema tuvo razón de ser.\n\nDisponible en: https://elescarabajo.com.sv/creacion/poesia/poemas-de-lourdes-ferrufino/. Acceso el: 02 sep. 2025\n\n¿Cuál de las siguientes afirmaciones refleja el uso del lenguaje en el poema \"Pregunta de cajón\"?",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "l poema utiliza un lenguaje simple y directo como forma de conectar la experiencia íntima con un discurso colectivo y político."
+        },
+        {
+          "letra": "E",
+          "texto": "l yo lírico emplea un lenguaje neutral y distanciado, centrándose exclusivamente en la construcción académica del conocimiento."
+        },
+        {
+          "letra": "E",
+          "texto": "l lenguaje empleado se limita a lo físico y corporal, omitiendo cualquier referencia a la dimensión social o psicológica."
+        },
+        {
+          "letra": "E",
+          "texto": "l poema usa un lenguaje ornamental y metafórico para suavizar las críticas sociales y asegurar la aceptación del público."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Espanhol – Análise linguística"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Segundo o Censo Demográfico de 2023 (IBGE, 2023), no Brasil, são 1.693.535 pessoas que se declaram indígenas, pertencentes a 305 etnias. Desses indígenas, 36,73% (ou 621,1 mil) residem em terras indígenas e 63,27% (ou 1.1 milhão) estão fora delas. Esses dados são reveladores de que não é mais possível pensar os povos indígenas apenas como parte da população rural ou somente como povos da floresta.\nSobre o que os dados nos revelam, é CORRETO afirmar:",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "História – Povos indígenas no Brasil"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "\"Sobrevivi... posso contar\", é nome do livro lançado em 1994 por Maria da Penha (que deu nome à Lei Maria da Penha) com a narrativa das violências sofridas por ela e pelas três filhas. O apoio por ela recebido, após o livro, levou às ações no Centro pela Justiça e o Direito Internacional e Comitê Latino Americano e do Caribe para Defesa dos Direitos da Mulher que, posteriormente, encaminharam o caso à OEA, que condenou o estado brasileiro por omissão e negligência em 2002 e levou ao estabelecimento da lei que combate a violência doméstica e ampara todas as pessoas que se identifiquem com o sexo feminino, sendo heterossexuais, homossexuais e mulheres transexuais (Lei nº 11.340, de 7 de agosto de 2006).\nSobre o trecho acima e a problematização que ele suscita, ressalta-se a:",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "ificuldade de definir e estabelecer limites sobre sexo biológico e gênero na sociedade contemporânea atual."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Sociologia – Gênero e Violência"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "O início do período regencial ficou marcado, nas Minas, por uma das mais violentas revoltas de escravizados que aconteceu em Curato de São Tomé das Letras (freguesia de Carrancas), em maio de 1833. No dia 13 de maio, Gabriel Francisco de Andrade Junqueira, que tomava conta das terras do pai, foi assassinado por um grupo de escravizados revoltosos enquanto supervisionava o trabalho na roça. O grupo de revoltosos se deslocou para a fazenda Bela Cruz, pertencente também a um membro da mesma família e assassinou com muita violência todos os membros da propriedade, incluindo crianças e um bebê. A revolta foi duramente reprimida.\nOs escravizados participaram de muitas revoltas em espaços e momentos que atravessaram o período regencial. No mesmo contexto, fizeram suas rebeliões motivadas e realizadas numa sociedade brasileira caracterizada pela dominação e pela violência. No caso específico de Carrancas, a revolta acompanhava a disputa que ocorria entre as facções políticas locais e seu final levou ao recrudescimento das punições criminais no país.\nDiante dessas informações e problematizando as rebeliões escravas como a de Carrancas, é CORRETO afirmar que as revoltas revelam:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "capacidade de se organizar dos escravizados no combate à dominação e à violência e de fazer a leitura e interpretar seu tempo e espaço."
+        },
+        {
+          "letra": "A",
+          "texto": "modalidade da luta dos cativos pela liberdade e seu sucesso, poucos meses depois, com a extinção da escravidão pela Lei Áurea."
+        },
+        {
+          "letra": "A",
+          "texto": "selvageria do mundo do escravizado que contrastava com o mundo civilizado dos brancos que foi herdado e construído pelos europeus."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "História – Brasil Império: Período Regencial e Rebeliões Escravas"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "O historiador E. P. Thompson, no livro Costumes em Comum, analisa a cultura popular a partir de costumes bem diferentes que faziam parte do mundo dos trabalhadores ingleses, nos séculos 18 e 19. O aprendizado na cultura popular, feito por meio das narrativas e anedotas e passado de geração a geração, desenha formas mais conservadoras da tradição como costume. As normas dessa cultura popular não eram as mesmas proclamadas pela Igreja ou pelas autoridades — elas eram definidas como pertencimento e como tradição e estabelecidas dentro da própria cultura plebeia, aplicando rituais de desonra contra alguém que transgredisse as regras ou apresentasse uma ação a ser denunciada. Na Inglaterra, a atribuição de uma cultura de formas conservadoras pelos grupos populares, recorrendo aos costumes tradicionais, consistiu numa busca de reforçar a tradição diante das insatisfações e das tensões que marcaram a mudança brusca nas relações pelo estabelecimento da nova ordem moderna e seus impactos.\nDiante do que foi descrito sobre o conflito entre a tradição dos costumes e as tensões advindas da modernidade, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cultura medieval mostrou-se vívida e permanente com a configuração da cultura popular, colocando em xeque as inovações e os padrões trazidos pelas sociedades modernas."
+        },
+        {
+          "letra": "A",
+          "texto": "insubordinação da plebe, em nome dos costumes, se voltava contra as inovações impostas pela nova ordem moderna e proclamada pela Igreja ou pelas autoridades."
+        },
+        {
+          "letra": "A",
+          "texto": "manutenção dos costumes levou à desqualificação dos grupos que viviam nas cidades como produtores de cultura, precisando recorrer às tradições antigas herdadas."
+        },
+        {
+          "letra": "A",
+          "texto": "sociedade capitalista levou à perda de poder dos antigos senhores feudais, e os costumes, na forma conservadora, consistiram numa tentativa de recuperar esse poder."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "História – Idade Moderna: Revolução Industrial e Cultura Popular"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Hoje em dia, ninguém é uma coisa só. Rótulos como indiano, mulher, muçulmano ou americano não passam de pontos de partida que, seguindo-se uma experiência concreta, mesmo que breve, logo ficam para trás. O imperialismo consolidou a mescla de culturas e identidades numa escala global. Mas seu pior e mais paradoxal legado foi permitir que as pessoas acreditassem que eram apenas, sobretudo, exclusivamente brancas, pretas, ocidentais ou orientais. É mais compensador — e mais difícil — pensar sobre os outros em termos concretos, empáticos, contrapontísticos, do que pensar apenas sobre “nós”. Mas isso também significa não tentar dominar os outros, não tentar classificá-los nem os hierarquizar e, sobretudo, não repetir constantemente o quanto \"nossa cultura ou país é melhor (ou não é o melhor, também).\n(SAID, Edward E. Cultura e imperialismo. Trad. Denise BotMann. São Paulo: Companhia de Bolso, 2013. p. 510. Adaptado)\nSobre o imperialismo, a cultura e as identidades, o trecho de Edward Said:",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "História – Imperialismo e Globalização"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "As frentes atmosféricas são zonas de transição entre duas massas de ar com características diferentes. Estudar esse fenômeno é importante para a previsão do tempo, pois ajuda a entender como as massas de ar interagem e como podem afetar as condições atmosféricas em diferentes lugares. Observe a figura a seguir, ela ilustra o choque entre duas massas de ar e a formação da frente fria.\nFonte: Mundo Educação Uol. Tipos de chuva. Disponível em: https://mundoeducacao.uol.com.br/geografia/tipos-chuva.htm/. Acesso em: 09 ago. 2025. Adaptado.\nA partir das informações contidas na ilustração, analise as afirmações que se seguem.\nI. A massa de ar quente, ao se chocar com a massa de ar frio, se eleva, por ser mais densa e concentrada.\nII. O choque das massas de ar produz zona de instabilidade, o que pode ocasionar em ocorrência de precipitação.\nIII. A temperatura na dianteira de uma massa de ar frio apresenta-se mais baixa que no seu interior.\nÉ CORRETO apenas o que se afirma em:",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Geografia – Climatologia e Fenômenos Atmosféricos"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "As cartas topográficas são representações da superfície terrestre que retratam os elementos naturais do relevo, da hidrografia e da cobertura vegetal, e os elementos culturais, como construções, rodovias e vias de acesso.\nOs recortes abaixo são de cartas topográficas de Belo Horizonte elaboradas em escala cartográfica distintas.\nA partir das informações acima e de seu conhecimento sobre o assunto, é CORRETO o que se afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "carta de 1:250.000 é considerada uma carta com escala grande por apresentar maior nível de detalhamento em comparação com a carta de 1:50.000."
+        },
+        {
+          "letra": "A",
+          "texto": "s duas cartas topográficas são da mesma região com a mesma escala cartográfica, os diferentes níveis de detalhamento são atribuídos ao recorte temporal das cartas."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Geografia – Cartografia e Escalas Cartográficas"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Povos e comunidades tradicionais fazem parte da diversidade étnica e cultural da população brasileira e são reconhecidos pelo Governo Brasileiro através do Decreto Federal 6.040/2007.\nFonte: Brasil. Povos e Comunidades Tradicionais. Disponível em: https://www.gov.br/mma/pt-br/assuntos/povos-e-comunidades-tradicionais. Acesso em: 10 ago. 2025. Adaptado.\nA respeito desse assunto, analise as afirmações que se seguem.\nI. Quilombolas são constituídos por comunidades remanescentes dos quilombos, que buscam preservar as tradições culturais de ancestralidade negra e com identidade constituída por lutas pela liberdade e pela manutenção de suas tradições.\nII. Os geraizeiros são considerados uma comunidade tradicional por preservarem a cultura italiana, estando localizados em partes do Sudeste e do Sul do Brasil e por sua origem estar ligada às crises econômicas e políticas na Itália e ao incentivo à migração italiana promovido pelo Brasil após a abolição da escravidão.\nIII. Constituídos majoritariamente por povos guaranis e tupis e, por isso, considerados comunidades homogêneas, os povos indígenas representam os habitantes originários do Brasil antes da chegada dos colonizadores europeus.\nÉ CORRETO apenas o que se afirma em:",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Geografia – População Brasileira e Grupos Sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "No âmbito das relações internacionais, países firmam alianças e parcerias visando à cooperação econômica e ao desenvolvimento mútuo. Nesse sentido, o Brasil é um dos países integrantes do BRICS.\nA respeito desse assunto, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "lém do Brasil, são integrantes permanentes do BRICS, o Canadá, o México e a Argentina, e a Venezuela e a África do Sul são considerados países-parceiros."
+        },
+        {
+          "letra": "C",
+          "texto": "omo o Mercosul, o BRICS se constitui como bloco econômico que visa aumentar o protagonismo dos países em desenvolvimento no cenário global."
+        },
+        {
+          "letra": "E",
+          "texto": "ncontra-se em fase de implantação uma moeda única que deverá facilitar as transações comerciais entre os países membros do BRICS."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Geografia – Geopolítica e Organizações Internacionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Analise o infográfico a seguir que trata sobre a matriz energética brasileira.\nO BRASIL JÁ É VERDE\nMAIS DE 80% DA ELETRICIDADE\nTEM FONTE RENOVÁVEL\nFonte: Época Negócios. MOURA, M. Até 2030, fontes de energia limpa devem substituir as fósseis. Disponível em: https://epocanegocios.globo.com/Tecnologia/noticia/2019/07/ate-2030-fon-tes-de-energia-limpa-devem-substituir-fosseis.html. Acesso em: 10 ago. 2025. Adaptado.\nConsiderando as informações acima e seu conhecimento sobre o assunto, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "demanda energética brasileira ainda é altamente dependente do petróleo, do carvão mineral e do gás natural, todas consideradas fontes renováveis."
+        },
+        {
+          "letra": "A",
+          "texto": "principal fonte de energia do Brasil, embora renovável, provoca impactos ambientais, como alterações nos ecossistemas aquáticos e a redução da biodiversidade local."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Geografia – Fontes de Energia e Impactos Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 91,
+      "enunciado": "O esquema representa um experimento feito com células do protozoário Amoeba proteus. Nele, um grupo de células foi tratado com a droga citocalasina B, enquanto outro grupo não foi tratado, servindo como controle. O formato e o movimento das células tratadas foram comprometidos.\n\nSADAVA, D. et al. Vida: a ciência da biologia volume I: célula e hereditariedade. Porto Alegre: Artmed, 2009 (adaptado).\n\nQual componente celular foi afetado pela droga utilizada no experimento?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Vacúolos."
+        },
+        {
+          "letra": "B",
+          "texto": "Mitocondrias."
+        },
+        {
+          "letra": "C",
+          "texto": "Microfilamentos."
+        },
+        {
+          "letra": "D",
+          "texto": "Material genético."
+        },
+        {
+          "letra": "E",
+          "texto": "Membrana plasmática."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Biologia – Citologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 92,
+      "enunciado": "O magnésio metálico utilizado em ligas leves é produzido em um processo que envolve várias etapas e utiliza água do mar como matéria-prima. A primeira etapa desse processo consiste na reação entre o íon $Mg^{2+}$ e hidróxido de cálcio, $Ca(OH)_2$, obtendo uma mistura que contém hidróxido de magnésio, pouco solúvel, e íons $Ca^{2+}$, de acordo com a equação química:\n\n$Mg^{2+} \\ (aq) + Ca(OH)_2 \\ (aq) \\rightarrow Mg(OH)_2 \\ (s) + Ca^{2+} \\ (aq)$\n\nO método adequado para separar o $Mg(OH)_2$ dessa mistura é a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "filtração."
+        },
+        {
+          "letra": "B",
+          "texto": "catação."
+        },
+        {
+          "letra": "C",
+          "texto": "destilação."
+        },
+        {
+          "letra": "D",
+          "texto": "dissolução."
+        },
+        {
+          "letra": "E",
+          "texto": "evaporação."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Química – Separação de misturas"
+      ]
+    },
+    {
+      "numeroEnunciado": 93,
+      "enunciado": "Moradores do Brooklin, bairro de São Paulo, perdem o sono com um som alto, constante e estridente. O barulho é causado por anfíbios anuros trazidos do Caribe, da espécie Eleutherodactylus jahnstonei, que têm tamanho um pouco maior que o de um grão de feijão e que encontraram na capital um ambiente favorável. Cientistas foram até o local e encontraram esses animais nos jardins das casas.\n\nPererecas-assobiadoras tiram o sono de moradores do Brooklin. Disponível em: http://g1.globo.com. Acesso em: 26 mar. 2015 (adaptado).\n\nAo emitirem o som estridente, esses anfíbios",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "indicam que estão fora de seu hábitat natural."
+        },
+        {
+          "letra": "B",
+          "texto": "alertam para a presença de poluição urbana."
+        },
+        {
+          "letra": "C",
+          "texto": "sinalizam a existência de superpopulação."
+        },
+        {
+          "letra": "D",
+          "texto": "direcionam insetos para sua alimentação."
+        },
+        {
+          "letra": "E",
+          "texto": "atraem fêmeas para o acasalamento."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 94,
+      "enunciado": "A hidroxiapatita, $Ca_5(PO_4)_3OH$, é um mineral constituinte do esmalte dos dentes. Entre as diversas reações que ocorrem no meio bucal, encontram-se em equilíbrio as reações de desmineralização e mineralização da hidroxiapatita em meio aquoso, ilustradas a seguir. A desmineralização está associada à fragilização do esmalte do dente e à formação de cáries.\n\n$$Ca_5(PO_4)_3OH \\ (s) \\stackrel{Desmineralização}{\\rightleftharpoons} 5 \\ Ca^{2+} \\ (aq) + 3 \\ PO_4^{3-} \\ (aq) + H_2O \\ (l)$$ \n$$+ H^+ \\ (aq) \\stackrel{Mineralização}{\\rightleftharpoons}$$\n\nO uso de creme dental pode minimizar a perda da hidroxiapatita. O quadro apresenta o agente de polimento e o pH de alguns cremes dentais comerciais.\n\nConsiderando o equilíbrio químico envolvido, qual creme dental promove a maior desmineralização do esmalte do dente?",
+      "alternativas": null,
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Química – Equilíbrio químico",
+        "Química – pH e pOH"
+      ]
+    },
+    {
+      "numeroEnunciado": 95,
+      "enunciado": "A tirinha ilustra esquimós dentro de um iglu, habitação de formato hemisférico construída durante o inverno a partir de neve ou blocos de gelo. Essa estrutura de construção se justifica pelo fato de esse povo habitar as regiões mais setentrionais da Groenlândia, Canadá e Alasca.\n\nLAERTE. Disponível em: https://artedafisicapibid.blogspot.com. Acesso em: 4 dez. 2021 (adaptado).\n\nNa tirinha, a geladeira é necessária para fazer gelo porque",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "a temperatura interna do iglu é maior que a de solidificação da água."
+        },
+        {
+          "letra": "B",
+          "texto": "a umidade dentro do iglu dificulta o processo de mudança de fase da água."
+        },
+        {
+          "letra": "C",
+          "texto": "o ar dentro do iglu é isolante térmico, dificultando a perda de calor pela água."
+        },
+        {
+          "letra": "D",
+          "texto": "a temperatura uniforme no interior do iglu impede as correntes de convecção."
+        },
+        {
+          "letra": "E",
+          "texto": "a pressão do ar no interior do iglu é baixa, dificultando a solidificação da água."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Física – Termodinâmica",
+        "Física – Calor e Temperatura"
+      ]
+    },
+    {
+      "numeroEnunciado": 96,
+      "enunciado": "Os pesticidas naturais vêm sendo utilizados no controle de pragas e doenças agrícolas como substituintes de pesticidas sintéticos tradicionais, por serem menos nocivos ao ambiente, biodegradáveis e minimizarem custos e riscos relativos à lavoura. Por exemplo, os compostos 1 e 2 estão envolvidos nas respostas de defesa das plantas. Os grupos funcionais presentes nesses compostos são importantes para suas propriedades no controle de pragas.\n\nPINTO-ZEVALLOS, D. M.; ZARBIN, P. H. G. A química na agricultura: perspectivas para o desenvolvimento de tecnologias sustentáveis. Química Nova, n. 10, 2013 (adaptado).\n\nQual é a função orgânica correspondente ao grupo funcional comum presente nesses dois compostos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ácido carboxílico."
+        },
+        {
+          "letra": "B",
+          "texto": "Cetona."
+        },
+        {
+          "letra": "C",
+          "texto": "Alceno."
+        },
+        {
+          "letra": "D",
+          "texto": "Álcool."
+        },
+        {
+          "letra": "E",
+          "texto": "Fenol."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Química – Funções orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 97,
+      "enunciado": "Utilizando-se um mesmo meio nutritivo, três gêneros bacterianos diferentes foram submetidos ao cultivo em tubos de ensaio. Após certo período de crescimento da cultura bacteriana em condições físico-químicas ideais, observou-se que o padrão de distribuição das células (representadas por pontos na figura) ao longo dos tubos era diferente em cada um dos casos.\n\nEm relação ao metabolismo energético, os microrganismos presentes nos tubos 1, 2 e 3 são classificados, respectivamente, como",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "anaeróbio facultativo, anaeróbio estrito e aeróbio estrito."
+        },
+        {
+          "letra": "B",
+          "texto": "anaeróbio facultativo, aeróbio estrito e anaeróbio estrito."
+        },
+        {
+          "letra": "C",
+          "texto": "aeróbio estrito, anaeróbio estrito e anaeróbio facultativo."
+        },
+        {
+          "letra": "D",
+          "texto": "anaeróbio estrito, aeróbio estrito e anaeróbio facultativo."
+        },
+        {
+          "letra": "E",
+          "texto": "aeróbio estrito, anaeróbio facultativo e anaeróbio estrito."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Biologia – Microbiologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 98,
+      "enunciado": "As placas que indicam saída de emergência brilham no escuro, pois apresentam substâncias que fosforecem na cor amarelo-esverdeada após exposição à luz ambiente, conforme a figura.\n\nEsse fenômeno ocorre pela presença do sulfeto de zinco (ZnS), dopado com prata ou cobre, na superfície da placa.\n\nZinc Sulphide Phosphorescence. Disponível em: https://physicsopenlab.org. Acesso em: 8 nov. 2023 (adaptado).\n\nO aparecimento do brilho nessas condições ocorre como consequência de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "colisões interatômicas."
+        },
+        {
+          "letra": "B",
+          "texto": "coloração dos átomos."
+        },
+        {
+          "letra": "C",
+          "texto": "transições eletrônicas."
+        },
+        {
+          "letra": "D",
+          "texto": "reações nucleares."
+        },
+        {
+          "letra": "E",
+          "texto": "reflexão da luz."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Física – Eletromagnetismo",
+        "Química – Eletroquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 99,
+      "enunciado": "Indústrias farmacêuticas e instituições científicas têm trabalhado no desenvolvimento de diferentes vacinas contra a covid-19. Em algumas dessas vacinas, a principal estrutura antigênica é uma proteína de superfície viral chamada espícula (spike, em inglês). Essa proteína só existe em coronavírus, incluindo o SARS-CoV-2. Ela se liga a receptores de membrana específicos das células humanas por um mecanismo do tipo “chave-fechadura”. Dessa forma, os vírus entram nas células, podendo se multiplicar e acarretar a doença.\n\nO que são vacinas? Disponível em: www.cienciaviva.pt. Acesso em: 30 nov. 2021 (adaptado).\n\nNessas vacinas, essa proteína viral induz a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "produção de anticorpos específicos contra os vírus."
+        },
+        {
+          "letra": "B",
+          "texto": "imunidade passiva contra o desenvolvimento da doença."
+        },
+        {
+          "letra": "C",
+          "texto": "alteração genômica para formação da memória imunológica."
+        },
+        {
+          "letra": "D",
+          "texto": "neutralização direta dos vírus presentes na circulação sanguínea."
+        },
+        {
+          "letra": "E",
+          "texto": "modificação dos receptores de membrana específicos para o vírus."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Biologia – Imunologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 100,
+      "enunciado": "Em um experimento de laboratório, duas barras metálicas, A e B, são carregadas com cargas opostas e imersas em óleo. Farelo de milho é jogado sobre o óleo e, após um certo tempo, o farelo assume o formato das linhas de campo elétrico entre as barras. A figura representa a vista superior desse experimento.\n\nALMEIDA, M. A. T. Introdução às ciências físicas 2 volume 4: módulo 4. Rio de Janeiro: Fundação CECIERJ, 2007 (adaptado).\n\nAo repetir o experimento colocando um cilindro metálico oco entre as placas, o esquema que representa o formato das linhas de campo assumido pelo farelo é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        },
+        {
+          "letra": "E",
+          "texto": ""
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Física – Eletrostática"
+      ]
+    },
+    {
+      "numeroEnunciado": 101,
+      "enunciado": "Placas solares comuns dependem de dias ensolarados para gerar energia. Mas podemos gerar eletricidade com a ajuda de gotas de chuva, revestindo placas solares com uma fina camada de grafeno. Os íons dissociados a partir da água da chuva ($A^{m+}$ e $B^{n-}$) tornam a combinação grafeno e água da chuva um par perfeito para geração de energia. O processo requer apenas uma camada de grafeno para que grande quantidade de elétrons ($e^-$) se movimente ao longo da superfície.\n\nTANG, Q. et al. A Solar Cell that is Triggered by Sun and Rain. Angewandte Chemie International Edition, n. 55, 2016 (adaptado).\n\nAo produzir eletricidade em dias chuvosos, o grafeno",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "oxida os cátions dissolvidos na água da chuva."
+        },
+        {
+          "letra": "B",
+          "texto": "impede a difusão da água através das placas solares."
+        },
+        {
+          "letra": "C",
+          "texto": "diminui a energia de ativação da reação no pseudocapacitor."
+        },
+        {
+          "letra": "D",
+          "texto": "forma um compósito não metálico com os íons na água da chuva."
+        },
+        {
+          "letra": "E",
+          "texto": "gera uma diferença de potencial pela interação dos elétrons com os cátions."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Física – Eletricidade e magnetismo",
+        "Química – Eletroquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 103,
+      "enunciado": "O diagrama P-V a seguir representa o ciclo de Otto para um motor de combustão interna, como os motores a gasolina ou a etanol, utilizados nos automóveis.\n\nAs etapas representadas no diagrama estão descritas no quadro.\n\nDisponível em: www.mspc.eng.br. Acesso em: 24 fev. 2013 (adaptado).\n\nA transformação da energia térmica em energia útil ocorre na etapa",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "II."
+        },
+        {
+          "letra": "B",
+          "texto": "III."
+        },
+        {
+          "letra": "C",
+          "texto": "IV."
+        },
+        {
+          "letra": "D",
+          "texto": "V."
+        },
+        {
+          "letra": "E",
+          "texto": "VI."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Física – Termodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 104,
+      "enunciado": "Para os circuitos de maratonas aquáticas realizadas em mares calmos e próximos à praia, é montado um sistema de boias que determinam o trajeto a ser seguido pelos nadadores. Uma das dificuldades desse tipo de circuito é compensar os efeitos da corrente marinha. O diagrama contém o circuito em que deve ser realizada uma volta no sentido anti-horário. As quatro boias estão numeradas de 1 a 4. Existe uma corrente marinha de velocidade $\\vec{U}_c$, cujo módulo é 30 metros por minuto, paralela à praia em toda a área do circuito. Nas arestas mais longas, o nadador precisará nadar na direção apontada pelos vetores $\\vec{U}_n$ dos pontos 1 até 2 e de 3 até 4. Considere que a velocidade do nadador é de 50 metros por minuto, em relação à água, durante todo o circuito.\n\nNessa situação, em quantos minutos o nadador completará a prova?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "42"
+        },
+        {
+          "letra": "B",
+          "texto": "65"
+        },
+        {
+          "letra": "C",
+          "texto": "72"
+        },
+        {
+          "letra": "D",
+          "texto": "105"
+        },
+        {
+          "letra": "E",
+          "texto": "120"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 105,
+      "enunciado": "O vírus linfotrópico de células T humanas tipo 1 (HTLV-1) é um retrovírus do mesmo grupo do vírus da imunodeficiência humana (HIV). Ambos são transmitidos da mesma forma e infectam as mesmas células de defesa do organismo, os linfócitos T. A diferença entre eles é que o HTLV-1 estimula o aumento da produção desses linfócitos, enquanto o HIV causa destruição dessas células.\n\nROMANELLI, L. C. F.; CARAMELLI, P.; PROIETTI, A. B. F. C. O vírus linfotrópico de células T humanas tipo 1 (HTLV-1): quando suspeitar da infecção? Revista da Associação Médica Brasileira, v. 56, 2010 (adaptado).\n\nUma possível consequência da infecção por HTLV-1 é o desenvolvimento de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aids."
+        },
+        {
+          "letra": "B",
+          "texto": "câncer."
+        },
+        {
+          "letra": "C",
+          "texto": "diabetes."
+        },
+        {
+          "letra": "D",
+          "texto": "hepatite B."
+        },
+        {
+          "letra": "E",
+          "texto": "hemorragia."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Biologia – Imunologia",
+        "Biologia – Virologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 106,
+      "enunciado": "Na tirinha, Calvin se divertia em um balanço antes de soltar-se dele e cair ao chão. Em sua fala, ele demonstra ter imaginado que permaneceria em movimento circular. Porém, a força gravitacional, que permanece atuando no garoto, modifica a direção de sua velocidade, fazendo com que ele chegue ao chão da maneira ilustrada no último quadrinho.\n\nWATTERSON, B. Disponível em: https://tiras-do-calvin.tumblr.com. Acesso em: 19 nov. 2021 (adaptado).\n\nQual vetor representa a força resultante exercida pelo chão sobre Calvin no exato momento em que ele toca o chão?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        },
+        {
+          "letra": "E",
+          "texto": ""
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Física – Dinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 107,
+      "enunciado": "A fitorremediação é uma técnica que utiliza plantas para a remediação de ambientes contaminados. A descontaminação de solos pode ocorrer por descarte, absorção e metabolização, imobilização, extração ou volatilização do poluente, conforme representado na figura.\n\nLUIZ, E. P. Avaliação dos métodos de fitorremediação [...] na remoção de chumbo, cobre e zinco. São Paulo: UFABC, 2016 (adaptado).\n\nO método que retira o mercúrio de uma área contaminada, impedindo sua entrada na cadeia alimentar, é a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fitoestabilização, ficando o mercúrio disponível sob a superfície das raízes das plantas."
+        },
+        {
+          "letra": "B",
+          "texto": "fitovolatilização, permitindo a retirada do mercúrio por plantas e a sua transferência para uma forma volátil."
+        },
+        {
+          "letra": "C",
+          "texto": "fitodegradação, com a degradação do mercúrio promovida por enzimas, contidas nas raízes, formando espécies menos tóxicas."
+        },
+        {
+          "letra": "D",
+          "texto": "fitoestimulação, com a remoção do mercúrio pela ação de microrganismos presentes nas raízes que absorvem e imobilizam o metal."
+        },
+        {
+          "letra": "E",
+          "texto": "fitoextração, em que as plantas que acumulam o mercúrio são cultivadas nesses locais, e a biomassa rica no metal é retirada após o crescimento."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Biologia – Biotecnologia",
+        "Química – Química ambiental"
+      ]
+    },
+    {
+      "numeroEnunciado": 108,
+      "enunciado": "Brasil fecha 2020 entre os maiores recicladores de latas de alumínio\n\nA bauxita contém alumina ($Al_2O_3$), que é a matéria-prima para produção do alumínio (Al). De forma geral, são necessários 50 kg de bauxita para produzir 10 kg de alumínio. O Brasil fechou 2020 como um dos principais líderes mundiais em reciclagem de latas de alumínio. De acordo com levantamento da Associação Brasileira dos Fabricantes de Latas de Alumínio (Abralatas), o país obteve um índice de reciclagem de 97,4%, de um total de $4,0 \\times 10^5$ toneladas de latas vendidas. Considere que a lata é constituída de alumínio puro.\n\nDisponível em: https://agenciabrasil.ebc.com.br. Acesso em: 30 nov. 2021 (adaptado).\n\nLevando em conta apenas a reciclagem de latas, qual é o valor mais próximo da massa de bauxita, em tonelada, que deixou de ser extraída da natureza em 2020 no Brasil?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$1,0 \\times 10^4 \\ ton$"
+        },
+        {
+          "letra": "B",
+          "texto": "$3,9 \\times 10^5 \\ ton$"
+        },
+        {
+          "letra": "C",
+          "texto": "$5,0 \\times 10^5 \\ ton$"
+        },
+        {
+          "letra": "D",
+          "texto": "$1,9 \\times 10^6 \\ ton$"
+        },
+        {
+          "letra": "E",
+          "texto": "$2,0 \\times 10^7 \\ ton$"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Química – Estequiometria",
+        "Matemática – Proporcionalidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 109,
+      "enunciado": "O LED é um dispositivo eletrônico que conduz corrente elétrica em um único sentido, sendo caracterizado por uma tensão e uma corrente máxima de funcionamento, $I_{máx}$. Um LED acende apenas se a corrente que o percorre está no sentido permitido e se a diferença de potencial à qual está submetido é igual ou superior à sua tensão de funcionamento. A figura ilustra o símbolo do LED usado na representação de circuitos.\n\nUm estudante de física analisa as propriedades do LED em um circuito simples de corrente contínua. Ele dispõe dos seguintes materiais: uma bateria ideal de 4,5 V; dois LEDs de tensão 3,0 V e $I_{máx} = 1,0 \\ mA$ cada; e dois resistores de $1,5 \\ K\\Omega$ cada.\n\nO circuito que o estudante pode montar, para que ambos os LEDs fiquem acesos e cada um seja percorrido por $I_{máx}$, é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        },
+        {
+          "letra": "E",
+          "texto": ""
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Física – Eletrodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 110,
+      "enunciado": "Uma caixa decorativa utiliza duas pequenas lâmpadas, $L_1 \\ (6 \\ V – 9 \\ W)$ e $L_2 \\ (12 \\ V – 18 \\ W)$, ligadas em série a uma bateria de tensão $V_{QR}$. Um fio resistivo QR, de 48 centímetros, está ligado em paralelo à bateria. Cinco pontos, A, B, C, D e E, dividem o fio QR em seis segmentos de comprimentos iguais. O circuito também tem um amperímetro com dois terminais. Um dos terminais (P) está ligado ao fio entre as duas lâmpadas. O outro terminal (S) está livre e será ligado ao fio QR. Dependendo do ponto em que esse terminal livre for conectado, ocorrerá a mudança na tensão à qual as lâmpadas são submetidas. Os demais fios do circuito têm resistências elétricas desprezíveis. A figura ilustra esse circuito.\n\nEm qual desses pontos o amperímetro deve ser conectado para que as lâmpadas acendam exatamente segundo as especificações de tensão e potência elétricas fornecidas?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A"
+        },
+        {
+          "letra": "B",
+          "texto": "B"
+        },
+        {
+          "letra": "C",
+          "texto": "C"
+        },
+        {
+          "letra": "D",
+          "texto": "D"
+        },
+        {
+          "letra": "E",
+          "texto": "E"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Física – Eletrodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 111,
+      "enunciado": "O biogás é uma alternativa energética muito importante, pois, além de reduzir a dependência por combustíveis fósseis, sua obtenção pode ser realizada a partir de resíduos da produção agroindustrial. Considere que o biogás produzido em um empreendimento de suinocultura contém 70% em volume de metano (massa molar 16 g/mol; volume molar 22 L/mol). Ele será utilizado para geração de energia em substituição ao etanol (massa molar 46 g/mol) em um gerador no qual 1 m³ de biogás de origem suína substitui 0,59 L de etanol anidro (densidade 0,78 g/mL).\n\nNessas condições, a massa de metano necessária para substituir 10 mol de etanol na produção de energia é mais próxima de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "300 g."
+        },
+        {
+          "letra": "B",
+          "texto": "400 g."
+        },
+        {
+          "letra": "C",
+          "texto": "510 g."
+        },
+        {
+          "letra": "D",
+          "texto": "590 g."
+        },
+        {
+          "letra": "E",
+          "texto": "720 g."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Química – Estequiometria",
+        "Química – Química ambiental"
+      ]
+    },
+    {
+      "numeroEnunciado": 112,
+      "enunciado": "A nimesulida é um fármaco pouco solúvel em água, utilizado como anti-inflamatório, analgésico e antitérmico. Essa substância pode ser convertida em uma espécie eletricamente carregada, de maior solubilidade em água, mediante o tratamento com uma base de Brönsted-Lowry, isto é, uma espécie química capaz de capturar um próton ($H^+$). Na figura são apresentados os grupamentos presentes na estrutura química da nimesulida.\n\nGONÇALVES, A. A. et al. Contextualizando reações ácido-base de acordo com a teoria protônica de Brönsted-Lowry usando comprimidos de propranolol e nimesulida. Química Nova, n. 3, 2013 (adaptado).\n\nNa estrutura desse fármaco, o grupamento capaz de reagir com a base de Brönsted-Lowry é o grupo",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "sulfonamida."
+        },
+        {
+          "letra": "B",
+          "texto": "metila."
+        },
+        {
+          "letra": "C",
+          "texto": "fenila."
+        },
+        {
+          "letra": "D",
+          "texto": "nitro."
+        },
+        {
+          "letra": "E",
+          "texto": "éter."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Química – Funções orgânicas",
+        "Química – Reações orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 113,
+      "enunciado": "O desenvolvimento da biotecnologia e da clonagem gênica em procariotos fez com que a produção de proteínas se tornasse mais intensa, rápida e econômica. Para a produção de hormônios, enzimas e proteínas de resistência a drogas, uma variação da técnica de reação em cadeia pela polimerase (PCR, na sigla em inglês) utiliza a enzima transcriptase reversa (RT-PCR), que sintetiza moléculas de DNA complementares a partir de fitas de RNA.\n\nNesse contexto, essa técnica é importante para detectar genes",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "expressos."
+        },
+        {
+          "letra": "B",
+          "texto": "plasmidiais."
+        },
+        {
+          "letra": "C",
+          "texto": "bacterianos."
+        },
+        {
+          "letra": "D",
+          "texto": "dominantes."
+        },
+        {
+          "letra": "E",
+          "texto": "autossômicos."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Biologia – Biotecnologia",
+        "Biologia – Genética"
+      ]
+    },
+    {
+      "numeroEnunciado": 114,
+      "enunciado": "Nos automóveis, é importante garantir que o centro de massa (CM) de cada conjunto roda/pneu coincida com o seu centro geométrico. Esse processo é realizado em uma máquina de balanceamento, na qual o conjunto roda e pneu é colocado para girar a uma velocidade de valor constante. Com base nas oscilações medidas, a máquina indica a posição do centro de massa do conjunto, e pequenas peças de chumbo são fixadas em lugares específicos da roda até que as vibrações diminuam. Durante o treinamento de sua equipe, a fim de corrigir a posição do centro de massa indicada pela máquina, um mecânico apresenta o esquema a seguir, com cinco possíveis pontos da roda para posicionar uma peça de chumbo.\n\nEm qual ponto deve ser fixada a peça de chumbo para corrigir a posição do centro de massa desse conjunto roda/pneu?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        },
+        {
+          "letra": "E",
+          "texto": "5"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Física – Dinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 115,
+      "enunciado": "O soro caseiro serve para combater a desidratação por meio da reposição da água e sais minerais perdidos, por exemplo, por diarreia. Uma receita simples para a sua preparação consiste em utilizar duas colheres grandes (de sopa) de açúcar e duas colheres pequenas (de café) de sal de cozinha, dissolvidos em 2 L de água fervida, obtendo-se uma solução com concentração de íon sódio de 1,4 mg/mL.\n\nConsidere as massas molares: NaCl = 58,5 g/mol; Na = 23 g/mol.\n\nQual é o valor mais próximo da massa, em grama, de cloreto de sódio presente em uma única colher pequena?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,7 g"
+        },
+        {
+          "letra": "B",
+          "texto": "1,8 g"
+        },
+        {
+          "letra": "C",
+          "texto": "2,8 g"
+        },
+        {
+          "letra": "D",
+          "texto": "3,6 g"
+        },
+        {
+          "letra": "E",
+          "texto": "7,0 g"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Química – Soluções"
+      ]
+    },
+    {
+      "numeroEnunciado": 116,
+      "enunciado": "Apesar de os animais representados no cladograma compartilharem um mesmo ancestral, eles se caracterizam por distintos padrões de reprodução ou de nutrição dos embriões e descendentes.\n\nDIXSON, A. F. Mammalian Sexuality: The Act of Mating and the Evolution of Reproduction. Disponível em: www.cambridge.org. Acesso em: 2 jul. 2024 (adaptado).\n\nAo longo do processo evolutivo, percebem-se, entre esses animais, perdas e ganhos nos padrões citados que envolvem o(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aumento no número de descendentes por ninhada."
+        },
+        {
+          "letra": "B",
+          "texto": "mudança no tipo de fecundação de externa para interna."
+        },
+        {
+          "letra": "C",
+          "texto": "redução da versatilidade de reprodução, que se torna unicamente sexuada."
+        },
+        {
+          "letra": "D",
+          "texto": "desenvolvimento embrionário, que passa do meio aquático para o terrestre."
+        },
+        {
+          "letra": "E",
+          "texto": "diminuição da vesícula vitelínica, associada ao desenvolvimento da lactação."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Biologia – Evolução",
+        "Biologia – Embriologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 117,
+      "enunciado": "Uma ambulância em alta velocidade com a sirene ligada desloca-se em direção a um radar operado por uma pessoa. O radar emite ondas de rádio com frequência $f_0$ que são refletidas pela dianteira da ambulância, retornando para o detector com frequência $f$. A percepção do operador do radar, em relação ao som emitido pela sirene, é de que este se altera à medida que a ambulância se aproxima ou se afasta.\n\nDurante a aproximação, como o operador percebe o som da sirene e qual é a relação entre as frequências $f$ e $f_0$ medidas pelo radar?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Mais grave do que o som emitido e $f < f_0$."
+        },
+        {
+          "letra": "B",
+          "texto": "Mais agudo do que o som emitido e $f < f_0$."
+        },
+        {
+          "letra": "C",
+          "texto": "Mais agudo do que o som emitido e $f = f_0$."
+        },
+        {
+          "letra": "D",
+          "texto": "Mais agudo do que o som emitido e $f > f_0$."
+        },
+        {
+          "letra": "E",
+          "texto": "Mais grave do que o som emitido e $f > f_0$."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Física – Ondas"
+      ]
+    },
+    {
+      "numeroEnunciado": 118,
+      "enunciado": "Mirascópio 3D: produtor de ilusão instantânea\n\nO equipamento ilustrado na figura, de dimensões apresentadas no esquema, é composto por dois espelhos côncavos $E_1$ e $E_2$, apoiados um sobre o outro por suas bordas, de tal forma que o vértice de $E_1$ coincide com o foco de $E_2$ e vice-versa. Na abertura circular de $E_2$, é formada uma imagem tridimensional de um objeto posicionado sobre o vértice de $E_1$. Essa imagem é formada a partir dos raios procedentes do objeto, refletidos por $E_2$ e $E_1$, respectivamente, conforme o esquema. Os observadores julgam visualizar o objeto quando estão, de fato, visualizando sua imagem. O efeito só é possível porque as superfícies de ambos os espelhos são de extrema qualidade.\n\nSALZMANN, W. Disponível em: https://wissenstexte.de. Acesso em: 27 jun. 2024 (adaptado).\n\nA natureza da imagem formada e a distância vertical entre cada ponto objeto e seu correspondente ponto imagem são",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "real e 5 cm."
+        },
+        {
+          "letra": "B",
+          "texto": "real e 3,8 cm."
+        },
+        {
+          "letra": "C",
+          "texto": "real e 7,6 cm."
+        },
+        {
+          "letra": "D",
+          "texto": "virtual e 7,6 cm."
+        },
+        {
+          "letra": "E",
+          "texto": "virtual e 3,8 cm."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Física – Óptica"
+      ]
+    },
+    {
+      "numeroEnunciado": 119,
+      "enunciado": "Muitas pessoas ainda se espantam com o fato de um passageiro sair ileso de um acidente de carro enquanto o veículo onde estava teve perda total. Essas pessoas talvez considerem, equivocadamente, que os carros mais seguros são os que têm as estruturas mais rígidas, ou seja, estruturas, que durante uma colisão, apresentam menor deformação. Na verdade, o que ocorre é o contrário. Por isso, a partir de 1958, passaram a ser produzidos carros com partes que se deformam facilmente.\n\nDAY, C. Crumple Zones. Disponível em: https://pubs.aip.org. Acesso em: 2 jul. 2024 (adaptado).\n\nAssim, além dos cintos de segurança e dos airbags, os carros modernos passaram a contar com o dispositivo de segurança conhecido como crumple zone (região deformável, em inglês), conforme a figura.\n\nMomentum and Car safety. GCSE Physics Revision. Disponível em: www.shalom-education.com. Acesso em: 5 jul. 2024 (adaptado).\n\nConsiderando o carro, seus ocupantes e o muro da figura como um sistema isolado, o crumple zone aumenta a segurança dos passageiros porque, durante uma colisão, a deformação da estrutura do carro",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "aciona os airbags do veículo."
+        },
+        {
+          "letra": "B",
+          "texto": "absorve a energia cinética do sistema."
+        },
+        {
+          "letra": "C",
+          "texto": "consome a quantidade de movimento do sistema."
+        },
+        {
+          "letra": "D",
+          "texto": "cria uma barreira de proteção para seus ocupantes."
+        },
+        {
+          "letra": "E",
+          "texto": "diminui a velocidade do centro de massa do sistema."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Física – Dinâmica",
+        "Física – Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 120,
+      "enunciado": "Células a combustível microbianas (CCM) são capazes de gerar eletricidade a partir de águas residuárias urbanas e agroindustriais. As CCM são compostas de duas câmaras. Numa delas, onde ocorre o tratamento da matéria orgânica, as bactérias eletrogênicas crescem formando um biofilme e se alimentam dos poluentes presentes no efluente. Ao se alimentarem, essas bactérias geram uma corrente elétrica que percorre o material sobre o qual elas formaram o biofilme. Um fio condutor externo possibilita a migração dessa corrente para uma segunda câmara, promovendo uma reação química. A figura esquematiza uma CCM e as reações envolvidas.\n\n$CH_3COO^- \\ (aq) + 2 \\ H_2O \\ (l) \\rightarrow 2 \\ CO_2 \\ (g) + 7 \\ H^+ \\ (aq) + 8 \\ e^-$ \n$4 \\ H^+ \\ (aq) + O_2 \\ (g) + 4 \\ e^- \\rightarrow 2 \\ H_2O \\ (l)$\n\nQUINTO, A. C. Biobaterias geram eletricidade a partir de esgoto sanitário e efluentes agroindustriais. Disponível em: https://jornal.usp.br. Acesso em: 1 dez. 2021 (adaptado).\n\nQual das equações representa a reação global que ocorre durante o funcionamento dessa CCM?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$CH_3COO^- \\ (aq) + O_2 \\ (g) \\rightarrow 2 \\ CO_2 \\ (g) + 3 \\ H^+ \\ (aq)$"
+        },
+        {
+          "letra": "B",
+          "texto": "$CO_2 \\ (g) + O_2 \\ (g) + H^+ \\ (aq) \\rightarrow H_2O \\ (l) + CH_3COO^- \\ (aq)$"
+        },
+        {
+          "letra": "C",
+          "texto": "$CH_3COO^- \\ (aq) + H^+ \\ (aq) + 2 \\ O_2 \\ (g) \\rightarrow 2 \\ CO_2 \\ (g) + 2 \\ H_2O \\ (l)$"
+        },
+        {
+          "letra": "D",
+          "texto": "$CH_3COO^- \\ (aq) + 6 \\ H_2O \\ (l) \\rightarrow 2 \\ CO_2 \\ (g) + 2 \\ O_2 \\ (g) + 15 \\ H^+ \\ (aq)$"
+        },
+        {
+          "letra": "E",
+          "texto": "$2 \\ CO_2 \\ (g) + 11 \\ H^+ \\ (aq) + O_2 \\ (g) \\rightarrow CH_3COO^- \\ (aq) + 4 \\ H_2O \\ (l)$"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Química – Eletroquímica",
+        "Química – Reações químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 121,
+      "enunciado": "No senso comum, considera-se, ainda hoje, que compostos orgânicos são substâncias presentes nos seres vivos. Na Química, a expressão “compostos orgânicos” tem um uso histórico de mais de 200 anos, adquirindo diferentes conotações ao longo do desenvolvimento dessa ciência. Atualmente, atribui-se a essa expressão outro significado.\n\nA concepção científica atual define esses compostos como substâncias",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "benéficas à saúde humana."
+        },
+        {
+          "letra": "B",
+          "texto": "capazes de serem biodegradadas."
+        },
+        {
+          "letra": "C",
+          "texto": "formadas a partir de gás carbônico."
+        },
+        {
+          "letra": "D",
+          "texto": "produzidas sem o uso de agrotóxicos."
+        },
+        {
+          "letra": "E",
+          "texto": "contendo carbono como elemento principal."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Química – Química orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 122,
+      "enunciado": "Metabolismo de procariontes\n\nO esquema representa a ação de organismos no ciclo do nitrogênio e no ciclo do carbono. Os números correspondem a algumas etapas dos dois ciclos distintos.\n\nDisponível em: https://pt.khanacademy.org. Acesso em: 27 jun. 2024 (adaptado).\n\nEm qual etapa numerada ocorre uma transformação redox como a que ocorre nos procariontes nitrificantes?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "2"
+        },
+        {
+          "letra": "C",
+          "texto": "3"
+        },
+        {
+          "letra": "D",
+          "texto": "4"
+        },
+        {
+          "letra": "E",
+          "texto": "5"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Biologia – Microbiologia",
+        "Biologia – Ciclos biogeoquímicos"
+      ]
+    },
+    {
+      "numeroEnunciado": 123,
+      "enunciado": "Um dos agentes que mais contribui para a poluição do ar é o automóvel a combustão interna. Em áreas urbanas, isso é demonstrado dramaticamente pela fumaça fotoquímica, resultante da interação entre óxidos de nitrogênio, hidrocarbonetos e luz solar, para formar produtos de oxidação, que causam irritação aos olhos, ao aparelho respiratório e danos às plantas. As condições de operação de motores a combustão, como a razão da mistura ar/combustível no cilindro, influenciam na composição dos gases lançados pelo escapamento na atmosfera. O gráfico ilustra a variação nas composições dos principais gases, dióxido de carbono ($CO_2$), hidrocarbonetos (HC), monóxido de carbono (CO), monóxido de nitrogênio (NO) e oxigênio molecular ($O_2$), emitidos por um motor a gasolina, em diferentes razões ar/combustível, em massa.\n\nRANGEL, M. C.; CARVALHO, M. F. A. Impacto dos catalisadores automotivos no controle da qualidade do ar. Química Nova, v. 26, 2003 (adaptado).\n\nNa condição de razão ar/combustível igual a 18, haverá uma emissão",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "baixa de $O_2$ e alta de NO."
+        },
+        {
+          "letra": "B",
+          "texto": "baixa de NO e alta de HC."
+        },
+        {
+          "letra": "C",
+          "texto": "baixa de CO e alta de $CO_2$."
+        },
+        {
+          "letra": "D",
+          "texto": "baixa de HC e alta de CO."
+        },
+        {
+          "letra": "E",
+          "texto": "baixa de $CO_2$ e alta de HC."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Química – Química ambiental",
+        "Química – Reações químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 124,
+      "enunciado": "A saúde do professor: acústica arquitetônica\n\nDentre os parâmetros acústicos que afetam a inteligibilidade dos sons emitidos em ambientes fechados, destacam-se o ruído de fundo do ambiente e o decréscimo do nível sonoro com a distância da fonte emissora. Assim, sentar-se no fundo da sala de aula pode prejudicar a aprendizagem dos estudantes, por impedir que eles distingam, com precisão, os sons emitidos, diminuindo a inteligibilidade da fala de seus professores. Considere a situação exemplificada pelo infográfico: à distância de 1 metro, o nível sonoro da fala de um professor é de 60 dB e diminui com a distância. Considere, ainda, que o ruído de fundo nessa sala de aula pode chegar a 45 dB e que, para ser compreendida, o nível sonoro da fala do professor deve estar 5 dB acima desse ruído.\n\nDisponível em: www.ufrrj.br. Acesso em: 2 dez. 2021 (adaptado).\n\nPara um valor máximo do ruído de fundo, a maior distância que um estudante pode estar do professor para que ainda consiga compreender sua fala é mais próxima de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3,0 m."
+        },
+        {
+          "letra": "B",
+          "texto": "4,5 m."
+        },
+        {
+          "letra": "C",
+          "texto": "6,5 m."
+        },
+        {
+          "letra": "D",
+          "texto": "8,0 m."
+        },
+        {
+          "letra": "E",
+          "texto": "9,5 m."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Física – Ondas"
+      ]
+    },
+    {
+      "numeroEnunciado": 125,
+      "enunciado": "Uma agricultora, com a intenção de comercializar o milho recém-colhido, testou uma forma de preservar o sabor adocicado do seu produto. O melhor resultado foi obtido quando ela imergiu as espigas em água fervente durante alguns minutos e, em seguida, em água gelada. Com esse procedimento, parte da glicose do milho não foi transformada em amido, mantendo o seu sabor adocicado.\n\nUtilizando esse procedimento, o sabor foi conservado porque houve",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "desnaturação enzimática pela alta temperatura."
+        },
+        {
+          "letra": "B",
+          "texto": "conversão de nutrientes pela redução de temperatura."
+        },
+        {
+          "letra": "C",
+          "texto": "degradação das reservas nutritivas pelo choque térmico."
+        },
+        {
+          "letra": "D",
+          "texto": "impedimento da entrada de oxigênio pela fervura da água."
+        },
+        {
+          "letra": "E",
+          "texto": "desidratação dos grãos por causa da alteração da temperatura."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Biologia – Bioquímica",
+        "Química – Química de alimentos"
+      ]
+    },
+    {
+      "numeroEnunciado": 126,
+      "enunciado": "Aquecedores solares são equipamentos utilizados para o aquecimento de água pelo calor do Sol. São compostos por coletores solares, nos quais ocorre o aquecimento da água, e por um reservatório térmico, em que é armazenada a água quente para ser utilizada posteriormente. A figura ilustra esquematicamente como funciona esse equipamento.\n\n5 dicas de instalação de aquecedor solar. Disponível em: https://instaline.com.br. Acesso em: 3 nov. 2023 (adaptado).\n\nO processo pelo qual ocorre transferência de calor dos coletores solares para o reservatório térmico é a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "difusão."
+        },
+        {
+          "letra": "B",
+          "texto": "absorção."
+        },
+        {
+          "letra": "C",
+          "texto": "condução."
+        },
+        {
+          "letra": "D",
+          "texto": "irradiação."
+        },
+        {
+          "letra": "E",
+          "texto": "convecção."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Física – Calor e Temperatura"
+      ]
+    },
+    {
+      "numeroEnunciado": 127,
+      "enunciado": "As autoridades sanitárias brasileiras têm se preocupado muito nos últimos anos com o aumento da ocorrência de doenças transmitidas por mosquitos, principalmente arboviroses como chikungunya e zika, que se tornaram epidêmicas ou endêmicas em áreas urbanas. Parte de uma análise da relação entre a urbanização e a incidência dessas doenças está representada no fluxograma.\n\nALMEIDA, L. S.; COTA, A. L. S.; RODRIGUES, D. F. Saneamento, arboviroses e determinantes ambientais: impactos na saúde urbana. Ciência & Saúde Coletiva, v. 25, n. 10, 2020 (adaptado).\n\nNesse contexto, como a urbanização está causando riscos à saúde humana?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Disseminando verminoses."
+        },
+        {
+          "letra": "B",
+          "texto": "Causando a eutrofização de lagoas."
+        },
+        {
+          "letra": "C",
+          "texto": "Aumentando a chance de contato com coliformes."
+        },
+        {
+          "letra": "D",
+          "texto": "Diminuindo a população de predadores aquáticos."
+        },
+        {
+          "letra": "E",
+          "texto": "Aproximando as pessoas das áreas de ocorrência de mosquitos."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Biologia – Ecologia",
+        "Biologia – Saúde Pública"
+      ]
+    },
+    {
+      "numeroEnunciado": 128,
+      "enunciado": "Impactos do microplástico\n\nA ação de fatores abióticos aliada à biodeterioração contribuem para a formação de microplásticos, os quais se aderem a outros poluentes orgânicos apolares persistentes, como os derivados de pesticidas lipossolúveis. Há uma proporcionalidade direta entre a solubilidade desses tipos de poluentes e sua concentração nos tecidos dos organismos expostos a eles.\n\nDisponível em: www.ecycle.com.br. Acesso em: 9 dez. 2021 (adaptado).\n\nEm animais vertebrados, essa associação de poluentes será preferencialmente acumulada no tecido",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ósseo."
+        },
+        {
+          "letra": "B",
+          "texto": "nervoso."
+        },
+        {
+          "letra": "C",
+          "texto": "epitelial."
+        },
+        {
+          "letra": "D",
+          "texto": "adiposo."
+        },
+        {
+          "letra": "E",
+          "texto": "sanguíneo."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Biologia – Ecologia",
+        "Química – Química ambiental"
+      ]
+    },
+    {
+      "numeroEnunciado": 129,
+      "enunciado": "Em aeroportos, por razões de segurança, os passageiros devem ter suas bagagens de mão examinadas antes do embarque, passando-as em esteiras para sua inspeção por aparelhos de raios X. Nessas inspeções, os passageiros são orientados a retirar seus computadores portáteis (notebooks ou laptops) de malas, mochilas ou bolsas para passá-los isoladamente pela esteira.\n\nQue explicação física justifica esse procedimento?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os raios X não interagem com os componentes metálicos do computador, o que impede a formação de imagens."
+        },
+        {
+          "letra": "B",
+          "texto": "Os raios X desmagnetizam o disco rígido do computador, quando refratados pelos componentes metálicos das bagagens de mão."
+        },
+        {
+          "letra": "C",
+          "texto": "Os raios X aquecem os materiais metálicos encontrados em bagagens de mão, quando refletidos pelos componentes do computador."
+        },
+        {
+          "letra": "D",
+          "texto": "Os raios X não atravessam os componentes densos do computador, o que impede a visualização de objetos que estão à frente ou atrás deles."
+        },
+        {
+          "letra": "E",
+          "texto": "Os raios X ionizam os materiais metálicos normalmente encontrados em bagagens de mão, quando difratados pelos componentes do computador."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Física – Ondas"
+      ]
+    },
+    {
+      "numeroEnunciado": 130,
+      "enunciado": "Com base em testes realizados em ratos, concluiu-se que os compostos nitrosos são substâncias mutagênicas, ou seja, produzem mutações nas células e possivelmente câncer. Esses compostos podem ser obtidos pela reação entre o nitrito de sódio, que é um conservante adicionado às carnes, e o ácido clorídrico. O ácido nitroso produzido irá reagir com compostos nitrogenados, como as aminas, dando origem aos compostos nitrosos.\n\nEm qual órgão esse processo será iniciado?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Rim."
+        },
+        {
+          "letra": "B",
+          "texto": "Fígado."
+        },
+        {
+          "letra": "C",
+          "texto": "Intestino."
+        },
+        {
+          "letra": "D",
+          "texto": "Pâncreas."
+        },
+        {
+          "letra": "E",
+          "texto": "Estômago."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Biologia – Fisiologia humana",
+        "Química – Reações inorgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 131,
+      "enunciado": "Sistemas agroflorestais (SAFs)\n\nOs sistemas agroflorestais alinham os interesses econômicos aos ecológicos. Esses sistemas podem ser usados na recuperação ambiental de áreas degradadas que se tornaram pouco produtivas, como as utilizadas por muito tempo para pastagem. Para isso, num primeiro momento, as árvores nativas são plantadas em conjunto com culturas agrícolas anuais, como feijão, mandioca, milho e abóbora, que geram renda para os proprietários da terra e incentivam a manutenção do sistema. Em um segundo momento, são introduzidas outras espécies, como trepadeiras e arbustos, de acordo com um arranjo espacial e temporal preestabelecido. Nesse processo, ocorrerão mudanças graduais na estrutura e composição das comunidades vegetais ao longo do tempo, que culminarão no aumento da diversidade do ambiente.\n\nDisponível em: www.embrapa.br. Acesso em: 9 dez. 2021 (adaptado).\n\nO conjunto dessas mudanças graduais é análogo ao processo natural denominado",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "rotação de culturas."
+        },
+        {
+          "letra": "B",
+          "texto": "sucessão ecológica."
+        },
+        {
+          "letra": "C",
+          "texto": "coevolução específica."
+        },
+        {
+          "letra": "D",
+          "texto": "adaptação por seleção."
+        },
+        {
+          "letra": "E",
+          "texto": "convergência adaptativa."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Biologia – Ecologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 132,
+      "enunciado": "As fibras musculares esqueléticas não são todas iguais. As fibras lentas, também conhecidas como fibras vermelhas, apresentam muitas mitocondrias e são bem supridas por vasos sanguíneos. Já as fibras rápidas, ou fibras brancas, apresentam poucas mitocondrias e recebem menor suprimento sanguíneo. Dessa forma, a distribuição das fibras nos músculos esqueléticos do corpo auxilia de forma diferenciada no desempenho físico de um atleta.\n\nSADAVA, D. et al. Vida: a ciência da biologia volume III: plantas e animais. Porto Alegre: Artmed, 2009 (adaptado).\n\nUm atleta que sonha em disputar os Jogos Olímpicos e tem uma maior proporção de fibras brancas que fibras vermelhas teria mais vantagens na realização da prova de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Triatlo."
+        },
+        {
+          "letra": "B",
+          "texto": "Salto em altura."
+        },
+        {
+          "letra": "C",
+          "texto": "Marcha atlética."
+        },
+        {
+          "letra": "D",
+          "texto": "Maratona aquática."
+        },
+        {
+          "letra": "E",
+          "texto": "Ciclismo em estrada."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Biologia – Fisiologia humana"
+      ]
+    },
+    {
+      "numeroEnunciado": 133,
+      "enunciado": "O Cerrado e a Amazônia abrigam grande número de serpentes popularmente conhecidas como cobras-corais. Na Amazônia predominam as corais-verdadeiras, que são peçonhentas, enquanto no Cerrado prevalecem as falsas-corais, que não possuem peçonha. Essas espécies apresentam um padrão de coloração muito semelhante. Essa similaridade traz uma vantagem tanto para as corais falsas como para as verdadeiras.\n\nFRANÇA, F. G. R. [...] serpentes corais em ambientes campestres, savânicos e florestais da América do Sul. Brasília: UnB, 2008 (adaptado).\n\nNas fotografias, são apresentados exemplos dessas serpentes: uma coral-verdadeira e uma falsa-coral.\n\nSILVA, L. C.; COTTA, G. A.; RESENDE, F. C. Cobra-coral: aplicativo educativo para reconhecimento das cobras-corais do estado de Minas Gerais, Brasil. Herpetologia Brasileira, n. 1, 2021 (adaptado).\n\nQual é a vantagem dessa similaridade para as falsas-corais?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Facilita a captura de presas."
+        },
+        {
+          "letra": "B",
+          "texto": "Diminui a competição por recursos."
+        },
+        {
+          "letra": "C",
+          "texto": "Possibilita a geração de indivíduos híbridos."
+        },
+        {
+          "letra": "D",
+          "texto": "Reduz a possibilidade de sofrerem predação."
+        },
+        {
+          "letra": "E",
+          "texto": "Otimiza o encontro de parceiros reprodutivos."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Biologia – Ecologia",
+        "Biologia – Evolução"
+      ]
+    },
+    {
+      "numeroEnunciado": 134,
+      "enunciado": "O exoesqueleto dos crustáceos é formado por quitina e impregnações de sais calcários e, por isso, é mais duro quando comparado com o exoesqueleto de outros artrópodes. Esse revestimento externo confere proteção, mas, por ser duro, limita o crescimento desses animais.\n\nPara superar essa limitação, o exoesqueleto deve ser",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "formado somente na fase adulta do animal."
+        },
+        {
+          "letra": "B",
+          "texto": "fragmentado para expansão nas áreas de articulação."
+        },
+        {
+          "letra": "C",
+          "texto": "modelado continuamente para ajuste ao tamanho do corpo."
+        },
+        {
+          "letra": "D",
+          "texto": "substituído por meio de mudas que ocorrem periodicamente."
+        },
+        {
+          "letra": "E",
+          "texto": "impregnado por pequena quantidade de sais para sua distensão."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Biologia – Zoologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 135,
+      "enunciado": "Um dos exemplos mais conhecidos de herança recessiva ligada ao cromossomo X é o daltonismo. Como em qualquer distúrbio recessivo ligado ao cromossomo X, existem muito mais homens apresentando o fenótipo com esse tipo de daltonismo do que mulheres. Um casal formado por um homem não daltônico e por uma mulher gestante também não daltônica, mas portadora do gene recessivo para esse tipo de daltonismo, está esperando um bebê. Em uma das consultas de pré-natal, o casal recebeu um heredograma que contém todas as possibilidades de genótipo para esse bebê.\n\nConsidere a legenda:\n\nGRIFFITHS, A. et al. Introdução à genética. Rio de Janeiro: Guanabara Koogan, 2016 (adaptado).\n\nQual heredograma foi recebido pelo casal?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        },
+        {
+          "letra": "E",
+          "texto": ""
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Biologia – Genética"
+      ]
+    }
+  ]
+}

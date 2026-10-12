@@ -1,0 +1,520 @@
+{
+  "nomeUniversidade": "Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira",
+  "siglaUniversidade": "INEP",
+  "nomeProva": "Exame Nacional do Ensino Médio",
+  "ano": 2025,
+  "qtdeQuestoes": 90,
+  "questoes": [
+    {
+      "numeroEnunciado": 91,
+      "enunciado": "O fruto do cajueiro é um aquênio repleto de um líquido escuro, quase preto, cáustico e inflamável. Esse líquido da casca da castanha do caju (LCC) representa aproximadamente 25% da massa da castanha e é um subproduto de agronegócio do caju. Quando submetido a altas temperaturas, o ácido anacárdico presente no LCC é convertido a cardanol, que recebe a denominação de LCC técnico, conforme o esquema:\n\nOH\n0\n\nOH\n\nC15H31\n\nΔ\n180 °C\na 200 °C\n\nOH\n\nC15H31\n\nCardanol\n\n+ CO2\n\nÁcido anacárdico\n\nMAZZETTO, S. E.; LOMONACO, D.; MELE, G. Óleo da castanha de caju: oportunidades e desafios no contexto do desenvolvimento e sustentabilidade industrial. Química Nova, n. 3, 2009 (adaptado).\n\nO LCC técnico é produzido por meio de uma reação orgânica do tipo",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "sterificação."
+        },
+        {
+          "letra": "D",
+          "texto": "escarboxilação."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Química – Reações orgânicas",
+        "Química – Processos industriais"
+      ]
+    },
+    {
+      "numeroEnunciado": 92,
+      "enunciado": "A química nuclear é uma importante ferramenta na produção de substâncias utilizadas na área da saúde humana. A radiação emitida pelo cobalto-60 é utilizada na medicina como ferramenta de diagnóstico e no tratamento do câncer. No entanto, esse radioisótopo tem um tempo de armazenamento limitado, pois seu tempo de meia-vida é de 5,3 anos. Considere um frasco com uma amostra contendo 2,00 mg de cobalto-60, armazenado durante um período de 26,5 anos.\n\nA massa de cobalto-60, em miligrama, que restará ao final desse tempo é mais próxima de",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Física – Radioatividade",
+        "Matemática – Funções exponenciais"
+      ]
+    },
+    {
+      "numeroEnunciado": 93,
+      "enunciado": "O esquema apresenta as etapas do processo de biodigestão, uma forma de dar um destino sustentável a excrementos animais e restos de comida produzidos em áreas de criação de gado e porcos confinados.\n\nDisponível em: www.engquimicasantossp.com.br. Acesso em: 11 fev. 2015 (adaptado).\n\nDar destino sustentável às sobras, conforme apresentado na etapa 4, ajuda a evitar a",
+      "alternativas": [
+        {
+          "letra": "B",
+          "texto": "ioacumulação de toxinas em plantas."
+        },
+        {
+          "letra": "E",
+          "texto": "utrofização dos corpos de água."
+        },
+        {
+          "letra": "D",
+          "texto": "estruição da camada de ozônio."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Biologia – Ecologia",
+        "Biologia – Poluição"
+      ]
+    },
+    {
+      "numeroEnunciado": 94,
+      "enunciado": "Golden Rice, ou arroz dourado, é uma variedade de arroz enriquecida em betacaroteno, precursor da vitamina A. Foi desenvolvida para ajudar a combater a doença decorrente da deficiência dessa vitamina. Para a obtenção dessa variedade de arroz, foram utilizados métodos de engenharia genética.\n\nBORÉM, A.; SANTOS, F. R. Entendendo a biotecnologia. Viçosa: UFV, 2008 (adaptado).\n\nEsse alimento contribui para diminuir a carência associada a qual doença?",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "scorbuto."
+        },
+        {
+          "letra": "C",
+          "texto": "egueira noturna."
+        },
+        {
+          "letra": "A",
+          "texto": "nemia perniciosa."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Biologia – Biotecnologia",
+        "Biologia – Nutrição"
+      ]
+    },
+    {
+      "numeroEnunciado": 95,
+      "enunciado": "A figura apresenta a herança genética de uma característica a partir do cruzamento de insetos de uma mesma espécie.\n\nQual alternativa representa a proporção fenotípica da prole resultante do cruzamento entre indivíduos da primeira geração?",
+      "alternativas": null,
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Biologia – Genética",
+        "Biologia – Herança mendeliana"
+      ]
+    },
+    {
+      "numeroEnunciado": 96,
+      "enunciado": "Para transportar uma caixa do primeiro para o segundo piso de uma construção, um trabalhador precisará arrasta-lá sobre um plano inclinado. O trabalhador começa a arrastar a caixa no primeiro piso, exercendo sobre ela uma força de grande intensidade, paralela ao seu deslocamento. Na medida em que a caixa sobe o plano inclinado, ele decide reduzir a força sobre ela, arrastando-a lentamente até chegar ao segundo piso. Considere que a caixa permanece em movimento nos encontros dos pisos com o plano inclinado, e que a rugosidade entre as superfícies permanece a mesma durante todo o percurso.\n\nO comportamento da força de atrito entre a caixa e o chão no plano inclinado é representado em:",
+      "alternativas": null,
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Mecânica",
+        "Física – Forças de atrito"
+      ]
+    },
+    {
+      "numeroEnunciado": 97,
+      "enunciado": "A filtração em carvão é uma das mais antigas formas de purificação de água. O carvão ativado, diferentemente do carvão comum, é útil para ser empregado na remoção de material orgânico, cloro e outros contaminantes. Essa capacidade decorre de suas propriedades de adsorção. A origem do material utilizado para produzir o carvão ativado pode influenciar sua porosidade e, consequentemente, interferir na capacidade do material de remover impurezas. Na figura, é ilustrada esquematicamente a diferença entre as estruturas físicas do carvão comum e do carvão ativado.\n\nCORRÊA, M. A. Cosmetologia: ciência e técnica. São Paulo: Medfarma, 2012 (adaptado).\n\nQual característica do carvão ativado explica a sua maior eficiência nesse processo?",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "ureza."
+        },
+        {
+          "letra": "D",
+          "texto": "ensidade."
+        },
+        {
+          "letra": "C",
+          "texto": "ondutividade."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Química – Adsorção",
+        "Química – Propriedades da matéria"
+      ]
+    },
+    {
+      "numeroEnunciado": 98,
+      "enunciado": "A maioria dos seres vivos tem um relógio biológico (ciclo circadiano), que regula as mudanças metabólicas e comportamentais de acordo com o ciclo de 24 horas de rotação da Terra. Em 2015, um artigo publicado na revista Science Advantage mostrou ser possível a transferência dos genes do relógio circadiano da cianobactéria *Synechococcus elongatus* para o genoma da bactéria *Escherichia coli*, um organismo não circadiano.\n\nCHEN, A. H. et al. Transplantability of a Circardian Lock to Noncircardian Organism. Science Advantage, n. 1, 2015 (adaptado).\n\nEstarão presentes no organismo geneticamente modificado os genes do",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "iclo circadiano de *E. coli*, apenas."
+        },
+        {
+          "letra": "C",
+          "texto": "iclo circadiano de *S. elongatus* e do metabolismo de *E. coli*."
+        },
+        {
+          "letra": "C",
+          "texto": "iclo circadiano de *S. elongatus* e do ciclo circadiano de *E. coli*."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Biologia – Genética",
+        "Biologia – Engenharia genética"
+      ]
+    },
+    {
+      "numeroEnunciado": 99,
+      "enunciado": "Os funcionários de um zoológico observaram um aumento na taxa de mortalidade de aves aquáticas por afogamento. Um grupo de biólogos analisou o comportamento das aves por várias semanas e observou que elas apresentavam dificuldade de flutuação, por causa do encharcamento das penas com água.\n\nO aumento na taxa de mortalidade dessas aves estava associado a uma redução na",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "ilatação do papo."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Biologia – Fisiologia animal",
+        "Biologia – Adaptações"
+      ]
+    },
+    {
+      "numeroEnunciado": 100,
+      "enunciado": "Réguas elétricas são dispositivos que permitem a ligação segura e simultânea de dois ou mais aparelhos eletroeletrônicos à rede elétrica. Uma estudante comprou uma régua com seis tomadas, conforme a figura. Essa régua suporta uma intensidade máxima de corrente elétrica igual a 20 A. Acima desse valor, o fusível de segurança da régua se rompe, inutilizando-a até que um novo fusível seja instalado. Considere as potências nominais de alguns aparelhos eletroeletrônicos apresentadas no quadro.\n\nAparelho | Potência (watt)\n--- | ---\nLuminária de LED | 5\nComputador | 250\nImpressora a laser | 660\nSecador de cabelos | 750\nCafeteira | 900\nCondicionador de ar portátil | 1100\n\nEm um dia quente, a estudante mantém o computador e o condicionador de ar portátil ligados à régua permanentemente. Nessa situação, ela tenta realizar algumas atividades, uma de cada vez, utilizando a mesma régua, na seguinte ordem:\n1º - imprimir um trabalho escolar;\n2º - fazer um café com a cafeteira;\n3º - ligar a luminária;\n4º - secar os cabelos.\n\nSabe-se que a régua foi ligada à tensão elétrica de 110 V, adequada para o funcionamento desses aparelhos.\n\nConsiderando a ordem das tentativas, quantas atividades a estudante conseguiu realizar sem queimar o fusível?",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Eletrodinâmica",
+        "Física – Potência elétrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 101,
+      "enunciado": "TEXTO I\nAs mariposas\nAs mariposa, quando chega o frio\nFica dando volta em volta da lâmpida pra se esquentá. [sic]\nBARBOSA, A. Reviva: Adoniran Barbosa. São Paulo: Som Livre, 2002 (fragmento).\n\nTEXTO II\nAs mariposas se aproximam das lâmpadas atraídas pela luz, pois, sendo basicamente criaturas noturnas, estão adaptadas a seguir o brilho da lua, em um processo conhecido como orientação transversal. Assim, o que o sambista Adoniran Barbosa, no Texto I, descreve não é a causa, mas sim uma das consequências possíveis dessa aproximação. De fato, o calor gerado pelas lâmpadas, sobretudo as incandescentes, pode aquecer as mariposas.\nHERTZBERG, R. Por que as mariposas são tão atraídas por luzes fortes? National Geographic, nov. 2020 (adaptado).\n\nNesse contexto, o processo de transferência de calor para as mariposas que independe da presença de fluidos é a",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "ispersão."
+        },
+        {
+          "letra": "C",
+          "texto": "onvecção."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Termodinâmica",
+        "Física – Condução de calor"
+      ]
+    },
+    {
+      "numeroEnunciado": 102,
+      "enunciado": "Os sapinhos-ponta-de-flecha constituem um grupo de espécies encontradas na América Central e do Sul. Seus venenos são obtidos por meio do consumo de algumas formigas e cupins que se alimentam de plantas que contêm esses venenos. Esses anfíbios são usados para envenenar as flechas das zarabatanas dos caçadores nativos. Quando capturados e criados em condições artificiais, ou quando nascidos em cativeiro, não são tóxicos.\n\nBADIO, B. et al. Epibatidine: Discovery and Definition as a Potent Analgesic and Nicotinic Agonist. Med. Chem. Res., n. 4, 1994 (adaptado).\n\nA perda da capacidade de se obter a toxina nos nascidos em cativeiro é causada pela",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "iferença de umidade entre os ambientes."
+        },
+        {
+          "letra": "A",
+          "texto": "usência de alimentação natural."
+        },
+        {
+          "letra": "A",
+          "texto": "daptação ao novo ambiente."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Biologia – Ecologia",
+        "Biologia – Cadeia alimentar"
+      ]
+    },
+    {
+      "numeroEnunciado": 103,
+      "enunciado": "A produção de vacinas exige uma sequência de procedimentos, além do cumprimento estrito de verificações de segurança. No esquema, estão demonstradas as etapas básicas realizadas para a fabricação de uma vacina utilizando a tecnologia tradicional e o efeito dela no organismo.\n\nO antígeno utilizado na vacina causa um efeito protetor contra o vírus porque",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "glutina o vírus por associação."
+        },
+        {
+          "letra": "C",
+          "texto": "ontém imunoglobulinas de defesa."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Biologia – Imunologia",
+        "Biologia – Vacinas"
+      ]
+    },
+    {
+      "numeroEnunciado": 104,
+      "enunciado": "O bioma Cerrado é caracterizado por apresentar ampla e natural diversidade de espécies vegetais. Nos últimos tempos, o homem vem modificando esse cenário pela inserção de plantas exóticas nesse ambiente. Exemplo disso é o cultivo do capim-gordura, nativo do continente africano e utilizado nesse tipo de ecossistema como forma de pastagem. É importante ressaltar que essa espécie vegetal é capaz de se espalhar por grandes áreas, devido à sua agressividade e poder competitivo.\n\nCARLOS JR., L. A.; BARBOSA, N. P. U.; FERNANDES, G. W. O capim-gordura e as invasões no Cerrado brasileiro. Jornal do Biólogo, mar.-jun. 2008 (adaptado).\n\nEm longo prazo, essa ação do homem pode gerar qual consequência?",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "iversificar nichos ecológicos."
+        },
+        {
+          "letra": "A",
+          "texto": "ssorear as nascentes do bioma."
+        },
+        {
+          "letra": "D",
+          "texto": "ificultar a infiltração de água na terra."
+        },
+        {
+          "letra": "D",
+          "texto": "iminuir as espécies nativas do bioma."
+        },
+        {
+          "letra": "C",
+          "texto": "ontribuir com a redução das queimadas."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Biologia – Ecologia",
+        "Biologia – Biomas brasileiros",
+        "Geografia – Impactos ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 105,
+      "enunciado": "As usinas termonucleares são aquelas que produzem energia elétrica a partir da geração de energia térmica proveniente das reações nucleares. Normalmente, essas usinas funcionam por meio de dois circuitos, denominados circuito primário (vaso de pressão, pressurizador e bomba) e circuito secundário (gerador de vapor, turbina, condensador, tanque de alimentação e bombas), além de um sistema de água de refrigeração, formado por uma bomba ligada a uma fonte hídrica natural.\n\nDurante a operação da usina, se o sistema de água de refrigeração funcionar de forma ineficiente pode causar poluição térmica, comprometendo a vida no ecossistema aquático.\nDisponível em: www.eletronuclear.gov.br. Acesso em: 29 nov. 2021 (adaptado).\n\nPara o ecossistema aquático, a ineficiência do sistema de água de refrigeração tem como consequência a",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "iminuição do pH."
+        },
+        {
+          "letra": "C",
+          "texto": "ontaminação por combustíveis."
+        },
+        {
+          "letra": "D",
+          "texto": "iminuição da solubilidade do gás oxigênio."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Biologia – Ecologia",
+        "Química – Poluição ambiental",
+        "Física – Termodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 106,
+      "enunciado": "No início do século XX, as fórmulas das substâncias eram representadas de modo diferente do atual. A figura apresenta uma fotografia bem antiga (1909) que registra uma aula de química ministrada em um colégio em Santos (SP). Um olhar mais atento permite identificar como os compostos químicos eram representados.\n\n$AzO + O = AzO_2$\n$SO_2 + H_2O = H_2SO_3$\n$2 \\ H_2SO_3 + O_2 = 2 \\ H_2SO_4$\n$2 \\ HCl + MgO_2H^2 = MgCl_2 + 2 \\ H_2O$\n\nO nitrogênio era chamado de azoto e representado pelo símbolo Az. Vê-se na lousa a equação representativa da adição do oxigênio atômico (O) ao monóxido de nitrogênio (AzO) com a formação de dióxido de nitrogênio (AzO²). Analogamente, o nitrato de sódio era representado por NaAzO³.\n\nDisponível em: www.novomilenio.inf.br. Acesso em: 29 ago. 2014 (adaptado).\n\nEm 1909, as representações das substâncias ácido nítrico e cloreto de cálcio, tendo por base essas informações e seguindo a mesma lógica, seriam, respectivamente:",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Química – Nomenclatura",
+        "Química – Ligações químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 107,
+      "enunciado": "O monstro de gila, um lagarto encontrado em um deserto dos Estados Unidos, apresenta adaptações à falta de alimento nesse ambiente. Esse lagarto possui um hormônio que controla os níveis de açúcar em seu próprio sangue. Foi observado que esse hormônio também controla os níveis de açúcar no sangue de pessoas diabéticas.\n\nRUSSELL, C. Ozempic e outros remédios inspirados em veneno de animais. Disponível em: www.bbc.com. Acesso em: 6 dez. 2024 (adaptado).\n\nConsiderando que animais de um mesmo grupo taxonômico podem apresentar características adaptativas semelhantes em ambientes similares, onde seria mais provável encontrar lagartos com essas características no território brasileiro?",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "errado."
+        },
+        {
+          "letra": "C",
+          "texto": "aatinga."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Biologia – Ecologia",
+        "Biologia – Biomas brasileiros",
+        "Biologia – Adaptações"
+      ]
+    },
+    {
+      "numeroEnunciado": 108,
+      "enunciado": "Existe um processo de purificação de água em que são removidos os sais dissolvidos. A água que passa por esse processo é muito utilizada em laboratórios de química, em indústrias (como solvente), em baterias de carros etc. Entretanto, esse tipo de água não é adequado para ingestão, pois pode causar problemas de saúde, como carência iônica e diarreia.\n\nEssa água é chamada de",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "ura."
+        },
+        {
+          "letra": "D",
+          "texto": "estilada."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Química – Tratamento de água",
+        "Química – Separação de misturas"
+      ]
+    },
+    {
+      "numeroEnunciado": 109,
+      "enunciado": "Por que os olhos ficam vermelhos em algumas fotografias?\n\nEm fotos tiradas com câmeras fotográficas antigas, por vezes as pessoas aparecem com os olhos vermelhos. Isso ocorre porque a luz do flash da câmera incide diretamente no globo ocular, sendo refletida por uma região repleta de vasos sanguíneos.\nDisponível em: www.uol.com.br. Acesso em: 14 jun. 2017 (adaptado).\n\nEsse efeito é mais comum à noite ou em lugares pouco iluminados porque, com a pupila",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "ilatada, chega mais luz à retina."
+        },
+        {
+          "letra": "D",
+          "texto": "ilatada, chegam menos luzes azul e verde aos bastonetes."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Biologia – Fisiologia humana",
+        "Física – Óptica"
+      ]
+    },
+    {
+      "numeroEnunciado": 110,
+      "enunciado": "O sashimi (filé de peixe cru) de baiacu é uma iguaria muito apreciada no Japão. Entretanto, sua ingestão pode causar a morte por parada respiratória, pois esse peixe contém uma potente neurotoxina termoestável, a tetrodotoxina, que é produzida e armazenada nas gônadas e vísceras.\n\nQue ação poderia evitar essa intoxicação?",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "riar os peixes em cativeiro."
+        },
+        {
+          "letra": "C",
+          "texto": "onsumir peixes cozidos ou fritos."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Biologia – Toxinologia",
+        "Biologia – Saúde e segurança alimentar"
+      ]
+    },
+    {
+      "numeroEnunciado": 111,
+      "enunciado": "A deficiência da enzima lipase ácida causa uma doença em que o portador apresenta células que não degradam colesterol esterificado nem triglicerídeos, resultando no depósito desses compostos em diversos órgãos, principalmente no fígado.\n\nANDERSON, R. A. et al. In Situ Localization of the Genetic Locus Encoding [...]. Genomics, n. 1, jan. 1993 (adaptado).\n\nEssa doença resulta da insuficiência funcional de qual estrutura celular?",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Biologia – Citologia",
+        "Biologia – Doenças metabólicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 112,
+      "enunciado": "A quantidade de $CO_2$ na atmosfera da Terra aumentou em 50\\%, e a temperatura está agora cerca de $1,2 \\ \\circ C$ mais quente em comparação ao século XIX. O ritmo de aumento da temperatura precisa diminuir se quisermos evitar as piores consequências das mudanças climáticas. Cientistas afirmam que o aquecimento global precisa ser mantido em $1,5 \\ \\circ C$ até o ano 2100. No entanto, a menos que outras ações sejam tomadas, o planeta ainda pode aquecer mais de $2 \\ \\circ C$ até o final deste século. Na prática, os países precisam enfrentar as mudanças climáticas com ações mitigadoras, que reduzam tanto as emissões quanto os níveis de $CO_2$ na atmosfera.\n\nUm guia rápido para entender as mudanças climáticas.\nDisponível em: www.bbc.com. Acesso em: 6 dez. 2021 (adaptado).\n\nQual ação mitigadora auxilia na remoção desse gás presente na atmosfera, reduzindo seus níveis?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mpliar o uso de energia solar."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Biologia – Ecologia",
+        "Química – Impactos ambientais",
+        "Geografia – Meio ambiente"
+      ]
+    },
+    {
+      "numeroEnunciado": 113,
+      "enunciado": "A icterícia é uma doença que acomete recém-nascidos e pode ser tratada com um método de fototerapia conhecido como banho de luz, que consiste na exposição do recém-nascido a uma fonte luminosa equipada com LEDs azuis. Para o monitoramento da dosagem dessa radiação, é utilizada a resposta óptica de um sensor constituído de materiais orgânicos que luminescem quando expostos à luz azul. Com o passar do tempo, essa radiação oxida os materiais do sensor, alterando sua coloração de vermelho-laranja para verde, o que indica o final do tratamento.\n\nO gráfico apresenta o espectro de fotoluminescência do sensor em função do comprimento de onda da luz emitida no início do tratamento, quando o sensor, colado na fralda do bebê (Figura 1), luminesce na região do vermelho-laranja (~600 nm). A Figura 2 apresenta a evolução da coloração do sensor, mostrando que a frequência da luz emitida por ele aumenta em função do tempo de exposição à luz azul.\n\nSILVA, M. M. et al. Fabricação de sensor orgânico flexível para aplicação em terapia com luz azul. Tecnol. Metal. Mater. Miner., n. 3, jul.-set. 2011 (adaptado).\n\nOs espectros de fotoluminescência do sensor no início e no final do tratamento estão esboçados no gráfico:",
+      "alternativas": null,
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Física – Óptica",
+        "Física – Radiação",
+        "Química – Reações de oxidação"
+      ]
+    },
+    {
+      "numeroEnunciado": 114,
+      "enunciado": "A Figura 1 apresenta o esquema de um tubo de imagem em que um filamento, na posição A, libera elétrons por efeito termiônico. Esses elétrons formam um feixe estreito, que é acelerado por campos elétricos em direção à parte interna da tela. Nesse caminho, o feixe de elétrons passa por outro campo elétrico, na região B, atingindo, em seguida, a parte interna da tela do tubo, a qual é recoberta por um material que emite luz ao receber o impacto dos elétrons.\n\nGrupo de Reelaboração do Ensino de Física. Física 3: eletromagnetismo. São Paulo: Edusp, 2000 (adaptado).\n\nNa Figura 2, a carga negativa representa o feixe de elétrons que é acelerado e, posteriormente, atinge um ponto da tela. O campo elétrico na região B apresenta a seguinte configuração:\n\nNessa situação, qual ponto da tela será atingido pelo feixe de elétrons?",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Física – Eletromagnetismo",
+        "Física – Campo elétrico"
+      ]
+    },
+    {
+      "numeroEnunciado": 115,
+      "enunciado": "A tirinha ilustra um processo físico em que uma onda sonora, produzida pela Mônica, causa a quebra das taças de cristal. O fenômeno ondulatório que provoca a quebra das taças só é possível em razão de uma característica da voz produzida pela Mônica naquele momento, que, diferentemente do que sugere a tirinha, não está relacionada à sua intensidade.\n\nDisponível em: https://artedafisicapibid.blogspot.com. Acesso em: 23 nov. 2021 (adaptado).\n\nEsse fenômeno e a característica associada à voz da Mônica são, respectivamente,",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Física – Ondas",
+        "Física – Acústica",
+        "Física – Ressonância"
+      ]
+    },
+    {
+      "numeroEnunciado": 116,
+      "enunciado": "Em uma aula prática de química orgânica, um professor identificou os frascos de várias substâncias apenas por suas fórmulas moleculares. Em seguida, apresentou a representação tridimensional da molécula do borneol, um álcool secundário, conforme a figura. Ele explicou que, quando oxidado, o borneol dá origem à cânfora, uma cetona usada desde a Antiguidade como incenso e no preparo de medicamentos. Finalmente, o professor solicitou que os alunos identificassem o frasco contendo a substância cânfora.\n\nSANTOS, A. P. B. et al. Oxidação do borneol à cânfora com água sanitária: um experimento simples de baixo custo e limpo. Química Nova, n. 6, 2009 (adaptado).\n\nO frasco contendo cânfora apresenta a fórmula molecular:",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Química – Química orgânica",
+        "Química – Nomenclatura e estrutura de compostos orgânicos",
+        "Química – Reações orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 117,
+      "enunciado": "As cangas são ambientes resultantes da atuação, ao longo de milhões de anos, de chuvas, enxurradas, calor e ventos em rochas ricas em ferro. São compostas por até 90\\% de óxidos de ferro e contêm solos muito ácidos, rasos, com reduzidos índices de fertilidade e temperaturas que atingem quase $70 \\ \\circ C$ na superfície. Ao contrário do que se imagina, esse tipo de ambiente abriga comunidades de plantas e animais com elevado número de espécies e distribuição restrita.\n\nCARMO, F. F. et al. Ilhas de ferro estratégicas para a conservação. Disponível em: http://cienciahoje.org.br. Acesso em: 2 dez. 2018 (adaptado).\n\nA seleção adaptativa nesses ambientes favorece a ocorrência de espécies",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "xóticas."
+        },
+        {
+          "letra": "E",
+          "texto": "ndêmicas."
+        },
+        {
+          "letra": "D",
+          "texto": "ominantes."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Biologia – Ecologia",
+        "Biologia – Adaptação e evolução"
+      ]
+    },
+    {
+      "numeroEnunciado": 118,
+      "enunciado": "Para a produção de titânio metálico ou dióxido de titânio puros, é necessário fazer a cloração do minério que contém dióxido de titânio, com o objetivo de separar esse óxido de outras substâncias presentes no minério. A principal reação química de cloração é representada por:\n\n$TiO_2 \\ (s) + 2 \\ Cl_2 \\ (g) \\rightleftharpoons TiCl_4 \\ (g) + O_2 \\ (g) \\quad \\Delta H = +175 \\ kJ/mol$\n\nDepois da cloração, o tetracloreto de titânio é condensado e convertido, novamente, a dióxido de titânio.\n\nApós o sistema atingir o equilíbrio químico, como a formação do $TiCl_4$ pode ser favorecida?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "umentando a pressão total do sistema."
+        },
+        {
+          "letra": "D",
+          "texto": "iminuindo a temperatura do sistema."
+        },
+        {
+          "letra": "A",
+          "texto": "umentando a pressão parcial de $O_2$."
+        },
+        {
+          "letra": "A",
+          "texto": "umentando a pressão parcial de $Cl_2$."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Química – Equilíbrio químico",
+        "Química – Princípio de Le Chatelier",
+        "Química – Termoquímica"
+      ]
+    },
+    {
+      "numeroEnunciado": 119,
+      "enunciado": "A laje de um depósito de bebidas tem $50 \\ m^2$ de área útil de armazenamento e foi projetada para suportar pressões de até $10^4 \\ Pa$. O gerente do estabelecimento pretende armazenar um produto cuja densidade é $1 \\ 250 \\ kg/m^3$. Considere a aceleração da gravidade igual a $10 \\ m/s^2$.\n\nA altura máxima, em metro, de empilhamento do produto que essa laje é capaz de suportar é",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Hidrostática",
+        "Física – Pressão",
+        "Matemática – Grandezas e medidas"
+      ]
+    },
+    {
+      "numeroEnunciado": 120,
+      "enunciado": "Em uma comunidade rural, os moradores utilizam uma bomba-d'água alimentada por 100 V de tensão contínua, podendo variar em até 5 V. Um eletrotécnico pretende instalar placas fotovoltaicas para alimentar essa bomba. As placas são idênticas e cada uma apresenta tensão de operação igual a 34 V com corrente de 7,5 A. Além disso, cada placa apresenta 40 V de tensão elétrica, quando em circuito aberto. Assim, considerando que a placa descrita é um gerador não ideal, em circuito aberto ela pode ser representada conforme a figura:\n\n$$\\varepsilon = 40 \\ V$$\n$$+\\quad r$$\n\nO eletrotécnico construiu um circuito que permite à bomba-d'água operar corretamente com o menor número possível de placas conectadas. Para isso, desenhou um diagrama no qual todas essas placas são representadas como um único gerador não ideal, com a especificação das correspondentes características elétricas.\n\nO diagrama que representa o circuito construído pelo eletrotécnico é:",
+      "alternativas": null,
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Física – Eletrodinâmica",
+        "Física – Circuitos elétricos"
+      ]
+    }
+  ]
+}

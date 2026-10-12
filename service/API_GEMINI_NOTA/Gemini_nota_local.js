@@ -20,10 +20,10 @@ if (!process.env.GEMINI_API_KEY) {
   console.error(
     "\nERRO CRÍTICO: GEMINI_API_KEY não foi encontrada!\n\n" +
       "Por favor, siga estes passos:\n" +
-      "1. Crie um arquivo chamado `.env` na mesma pasta deste script (ou na raiz do projeto 'SimulaVest-IA').\n" +
+      "1. Crie um arquivo chamado `.env` na mesma pasta deste script (ou na raiz do projeto 'Vestibuline-IA').\n" +
       "2. Dentro deste arquivo .env, adicione a seguinte linha (substituindo 'SUA_CHAVE_API_AQUI'):\n" +
       "   GEMINI_API_KEY=SUA_CHAVE_API_AQUI\n\n" +
-      "O script não pode continuar sem a chave.\n"
+      "O script não pode continuar sem a chave.\n",
   );
   process.exit(1); // Encerra o script imediatamente
 }
@@ -144,7 +144,7 @@ async function processCutoffScores(pdfPath) {
   } catch (error) {
     console.error(
       "Erro durante o upload/processamento do PDF:",
-      error?.message || error
+      error?.message || error,
     );
     throw new Error("Falha no upload do arquivo para a API do Gemini.");
   }
@@ -184,7 +184,10 @@ async function processCutoffScores(pdfPath) {
       safetySettings: [
         { category: "HARM_CATEGORY_HARASSMENT", threshold: "BLOCK_NONE" },
         { category: "HARM_CATEGORY_HATE_SPEECH", threshold: "BLOCK_NONE" },
-        { category: "HARM_CATEGORY_SEXUALLY_EXPLICIT", threshold: "BLOCK_NONE" },
+        {
+          category: "HARM_CATEGORY_SEXUALLY_EXPLICIT",
+          threshold: "BLOCK_NONE",
+        },
         {
           category: "HARM_CATEGORY_DANGEROUS_CONTENT",
           threshold: "BLOCK_NONE",
@@ -193,7 +196,9 @@ async function processCutoffScores(pdfPath) {
     });
   } catch (apiError) {
     console.error("Erro da API do Gemini:", apiError?.message || apiError);
-    throw new Error("A API do Gemini retornou um erro durante o processamento.");
+    throw new Error(
+      "A API do Gemini retornou um erro durante o processamento.",
+    );
   }
 
   console.timeEnd("Processamento de Conteúdo Gemini");
@@ -218,7 +223,7 @@ async function processCutoffScores(pdfPath) {
         console.log("functionCall ausente. JSON extraído do texto (fallback).");
       } else {
         throw new Error(
-          "Nenhum objeto JSON ou functionCall encontrado na resposta."
+          "Nenhum objeto JSON ou functionCall encontrado na resposta.",
         );
       }
     }
@@ -230,19 +235,18 @@ async function processCutoffScores(pdfPath) {
       fs.mkdirSync(logsDir, { recursive: true });
     }
     const now = new Date();
-    const timestamp = `${now.getFullYear()}-${String(now.getMonth() + 1).padStart(
-      2,
-      "0"
-    )}-${String(now.getDate()).padStart(2, "0")}_${String(
-      now.getHours()
+    const timestamp = `${now.getFullYear()}-${String(
+      now.getMonth() + 1,
+    ).padStart(2, "0")}-${String(now.getDate()).padStart(2, "0")}_${String(
+      now.getHours(),
     ).padStart(2, "0")}-${String(now.getMinutes()).padStart(2, "0")}-${String(
-      now.getSeconds()
+      now.getSeconds(),
     ).padStart(2, "0")}`;
-    
+
     // Adiciona o nome do arquivo original ao log de erro
-    const safeFileName = pdfFileName.replace(/[^a-z0-9]/gi, '_');
+    const safeFileName = pdfFileName.replace(/[^a-z0-9]/gi, "_");
     const logFileName = `erro_json_parse_${safeFileName}_${timestamp}.txt`;
-    
+
     const logFilePath = path.join(logsDir, logFileName);
     const logContent = `Ocorreu uma falha ao processar o JSON (Notas de Corte) do arquivo: ${pdfFileName}
             Mensagem de Erro: ${e.message}
@@ -273,7 +277,7 @@ async function processCutoffScores(pdfPath) {
     const targetDirectory = path.join(
       process.cwd(),
       "Resultados",
-      vestibularSlug
+      vestibularSlug,
     );
 
     if (!fs.existsSync(targetDirectory)) {
@@ -294,12 +298,11 @@ async function processCutoffScores(pdfPath) {
     console.log(`Arquivo: ${filePath}`);
     console.log(`Cursos extraídos: ${cursosCount}`);
     console.log(`--- Processamento de ${pdfFileName} concluído ---`);
-
   } catch (writeError) {
     console.error(
       `ALERTA: Falha ao salvar o arquivo JSON em /Resultados: ${
         writeError?.message || writeError
-      }`
+      }`,
     );
   }
 
@@ -321,7 +324,7 @@ async function main() {
   if (!fs.existsSync(inputDir)) {
     console.error(`Erro: A pasta de entrada não foi encontrada: ${inputDir}`);
     console.error(
-      "Por favor, crie a pasta 'docs_a_processar' e coloque os PDFs nela."
+      "Por favor, crie a pasta 'docs_a_processar' e coloque os PDFs nela.",
     );
     return;
   }
@@ -344,7 +347,7 @@ async function main() {
   }
 
   console.log(`Encontrados ${filesToProcess.length} PDFs para processar:`);
-  filesToProcess.forEach(file => console.log(` - ${file}`));
+  filesToProcess.forEach((file) => console.log(` - ${file}`));
 
   // Processar cada arquivo em sequência (um após o outro)
   for (const pdfFile of filesToProcess) {
@@ -355,7 +358,7 @@ async function main() {
       await processCutoffScores(pdfPath);
     } catch (error) {
       console.error(
-        `\n!!!!!! ERRO GERAL AO PROCESSAR O ARQUIVO: ${pdfFile} !!!!!!`
+        `\n!!!!!! ERRO GERAL AO PROCESSAR O ARQUIVO: ${pdfFile} !!!!!!`,
       );
       console.error(error?.stack || error?.message || String(error));
       console.error(`Continuando para o próximo arquivo, se houver...`);
@@ -364,7 +367,7 @@ async function main() {
 
   console.log("\nProcessamento em Lote Concluído.");
   console.log(
-    "Todos os JSONs extraídos (com sucesso) foram salvos na pasta /Resultados."
+    "Todos os JSONs extraídos (com sucesso) foram salvos na pasta /Resultados.",
   );
 }
 main();

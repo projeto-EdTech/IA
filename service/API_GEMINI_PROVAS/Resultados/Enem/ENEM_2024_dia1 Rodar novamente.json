@@ -1,0 +1,1865 @@
+{
+  "nomeUniversidade": "Exame Nacional do Ensino Médio",
+  "siglaUniversidade": "ENEM",
+  "nomeProva": "Prova de Linguagens, Códigos e suas Tecnologias e Redação e Ciências Humanas e suas Tecnologias (1º Dia - Caderno 2 Amarelo)",
+  "ano": 2024,
+  "qtdeQuestoes": 90,
+  "questoes": [
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "TEXTO I\nTelemedicina é para todos,\nmas nem todos estão preparados\nA telemedicina, nos últimos anos, tem se destacado\ncomo uma ferramenta valiosa, proporcionando uma gama\nde benefícios que vão desde a ampliação do acesso à\nassistência médica até a otimização dos recursos de todo\no ecossistema de saúde.\nO governo federal propõe a Estratégia de Saúde Digital,\num programa destinado à transformação digital da saúde no\nBrasil. Seu principal objetivo é facilitar a troca de informações\nentre os diversos pontos da Rede de Atenção à Saúde,\npromovendo a interoperabilidade e, assim, possibilitando a\ntransição e a continuidade do cuidado nos setores público e\nprivado. Também está em discussão um projeto de lei que\ndispõe sobre o prontuário eletrônico unificado do cidadão,\no que indica o quanto o tema está em evidência tanto para\nos gestores públicos quanto para os privados.\nContudo, é importante reconhecer que nem todas as\npessoas estão igualmente preparadas para aproveitar\nplenamente os cuidados ofertados pela telemedicina.\nUm dos principais benefícios do atendimento de saúde a\ndistância é a capacidade de superar barreiras geográficas,\nproporcionando acesso a serviços médicos, especialmente\npara pacientes que residem em áreas remotas e/ou carentes\nde certas especialidades médicas, os chamados “vazios\nassistenciais\". A equidade no acesso é uma questão crítica,\numa vez que nem todos têm ao seu alcance dispositivos\ntecnológicos ou uma conexão à internet que seja confiável,\nentre outros problemas de infraestrutura. É um desafio\ntanto para os pacientes quanto para os profissionais de\nsaúde, que, em muitos casos, não contam com estrutura\npara o trabalho remoto nem com letramento digital para\ndesenvolver as funções.\nOLIVEIRA, D. Disponível em: www.correiobraziliense.com.br.\nAcesso em: 21 jan. 2024 (adaptado).\nAo tratar da telemedicina, esse texto ressalta que um dos\nbenefícios dessa tecnologia para a sociedade é o fato de ela",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "disponibilizar prontuário único do cidadão tanto na rede"
+        },
+        {
+          "letra": "B",
+          "texto": "oportunizar o acesso a atendimento médico a pacientes"
+        },
+        {
+          "letra": "C",
+          "texto": "fornecer dispositivos tecnológicos para a realização"
+        },
+        {
+          "letra": "D",
+          "texto": "promover a interação entre diferentes especialidades"
+        },
+        {
+          "letra": "E",
+          "texto": "garantir infraestrutura para o trabalho remoto de"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Sociologia – Impacto social da tecnologia",
+        "Geografia – Acesso a serviços em áreas remotas"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Uma definição possível para o conceito de arte\nafro-brasileira pode ser: produção plástica que é feita por\nnegros, mestiços ou brancos a partir de suas experiências\nsociais com a cultura negra nacional. Exemplos clássicos\ndessa abordagem são Carybé (1911-1997), Mestre Didi\n(1917-2013) e Djanira da Motta e Silva (1914-1979), cujas\nobras emergem e ganham forma em razão do ambiente\nsocial no qual habitaram e viveram. Se Didi era um\ncélebre representante da cultura religiosa nagô baiana e\nbrasileira, iniciado desde o ventre no candomblé, Carybé\nera argentino e, naturalizado brasileiro, envolveu-se de\ntal modo com essa religião que alguns dos orixás dos\nquais conhecemos a imagem visual são produções suas.\nDisponível em: www.premiopipa.com.\nAcesso em: 13 nov. 2021 (adaptado).\nSob a perspectiva da multiculturalidade e de acordo com\no texto, a produção artística afro-brasileira caracteriza-se\npelo(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "estranhamento no modo de apropriação da cultura"
+        },
+        {
+          "letra": "B",
+          "texto": "distanciamento entre as raízes de matriz africana e"
+        },
+        {
+          "letra": "C",
+          "texto": "visão uniformizadora das religiões de matriz africana"
+        },
+        {
+          "letra": "D",
+          "texto": "relação complexa entre as vivências pessoais dos"
+        },
+        {
+          "letra": "E",
+          "texto": "padronização da forma de produção e da temática da"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Arte – Arte afro-brasileira",
+        "História – Cultura e identidade afro-brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Influenciadores negros têm recorrentemente chamado\na atenção para o fato de terem muito menos repercussão\nem suas postagens e nas entregas do seu conteúdo\nquando comparados com os influenciadores brancos,\nmesmo se fotos, contextos e anúncios forem extremamente\nsemelhantes. Segundo o site Negrê, a digital influencer\ne youtuber criadora do projeto digital Preta Pariu iniciou\num experimento em uma plataforma. Após perceber a\ncrescente queda nos índices de alcance digital, a paulista\npublicou fotografias de modelos brancas em seu perfil e\nanalisou as métricas de engajamento. Surpreendentemente,\na ferramenta de estatísticas aferiu um aumento de 6 000%\nem seu alcance.\nDisponível em: https://diplomatique.org.br.\nAcesso em: 21 jan. 2024 (adaptado).\nA apresentação do dado estatístico ao final desse texto\nrevela a intenção de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "demonstrar a repercussão de projetos como o Preta Pariu."
+        },
+        {
+          "letra": "B",
+          "texto": "informar o quantitativo de postagens da comunidade negra."
+        },
+        {
+          "letra": "C",
+          "texto": "potencializar o alcance de textos e imagens em sites"
+        },
+        {
+          "letra": "D",
+          "texto": "exaltar a qualidade das publicações sobre negritude"
+        },
+        {
+          "letra": "E",
+          "texto": "comprovar a relação entre o alcance de conteúdos"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Sociologia – Racismo e mídias sociais",
+        "Língua Portuguesa – Argumentação em textos jornalísticos"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Por trás do universo \"masculino\" das lutas, é cada\nvez mais notório o aumento da participação de mulheres\nnessa prática corporal. Algumas situações reforçam esse\nfenômeno de ocupação em ambientes de lutas: a inclusão\nde mulheres em combates de artes marciais mistas, ou MMA,\na transmissão televisiva de lutas de mulheres e a criação de\nhorários específicos para elas em academias que ensinam\nlutas. Uma pesquisa científica mostrou menor participação e\nmobilização das meninas em comparação com os meninos\nnas aulas de Educação Física. Entre as justificativas discentes\npara essa situação está o fato de que eles relacionam a luta\ncomo uma expressão corporal masculina e, por consequência,\nnão adequada aos interesses femininos. Dessa forma, o ensino\nde lutas nas aulas de Educação Física é atravessado por\ntensões relacionadas às questões de gênero e sexualidade,\no que, por sua vez, pode favorecer a sua exclusão do conteúdo\npróprio da disciplina.\nSO, M. R.; MARTINS, M. Z.; BETTI, M. As relações das meninas\ncom os saberes das lutas nas aulas de Educação Física.\nMotrivivência, n. 56, dez. 2018 (adaptado).\nSegundo o texto, apesar do aumento da participação de\nmulheres em lutas, a realidade na escola ainda é diferente\nem razão do(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "esportivização desse conteúdo."
+        },
+        {
+          "letra": "B",
+          "texto": "masculinização dessa modalidade."
+        },
+        {
+          "letra": "C",
+          "texto": "enfoque desses eventos pela mídia."
+        },
+        {
+          "letra": "D",
+          "texto": "trato pedagógico dessa manifestação."
+        },
+        {
+          "letra": "E",
+          "texto": "marginalização desse tema pela Educação Física."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Sociologia – Gênero e esporte",
+        "Língua Portuguesa – Interpretação textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Volta e meia recebo cartinhas de fãs, e alguns são bem\njovens, contando como meu trabalho com a música mudou\na vida deles. Fico no céu lendo essas coisas e me emociono\nquando escrevem que não são aceitos pelos pais por serem\ndiferentes, e como minhas músicas são uma companhia e\nos libertam nessas horas de solidão.\nSinto que é mais complicado ser jovem hoje, já que nunca\ntivemos essa superpopulação no planeta: haja competitividade,\nculto à beleza, ter filho ou não, estudar, ralar para arranjar\ntrabalho, ser mal remunerado, ser bombardeado com trocentas\ninformações, lavagens cerebrais...\nQueria dar beijinhos e carinhos sem ter fim nessa moçada e\ndizer a ela que a barra é pesada mesmo, mas que a juventude\nestá a seu favor e, de repente, a maré de tempestade muda.\nDiria também um monte de clichê: que vale a pena estudar\nmais, pesquisar mais, ler mais. Diria que não é sinal de saúde\nestar bem-adaptado a uma sociedade doente, que o que é\nnormal para uma aranha é o caos para uma mosca.\nMeninada, sintam-se beijados pela vovó Rita.\nRITA LEE. Outra autobiografia. São Paulo: Globo Livros, 2023.\nComo estratégia para se aproximar de seu leitor, a autora\nusa uma postura de empatia explicitada em",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Volta e meia recebo cartinhas de fãs, e alguns são"
+        },
+        {
+          "letra": "B",
+          "texto": "\"Fico no céu lendo essas coisas\"."
+        },
+        {
+          "letra": "C",
+          "texto": "\"Sinto que é mais complicado ser jovem hoje\"."
+        },
+        {
+          "letra": "D",
+          "texto": "\"Queria dar beijinhos e carinhos sem ter fim nessa moçada\"."
+        },
+        {
+          "letra": "E",
+          "texto": "\"Diria que não é sinal de saúde estar bem-adaptado a"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Estratégias de argumentação",
+        "Sociologia – Juventude na sociedade contemporânea"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Data venia\nConheci Bentinho e Capitu nos meus curiosos e antigos\nquinze anos. E os olhos de água da jovem de Matacavalos\natraíram-me, seduziram-me ao primeiro contato. Aliados ao\nseu jeito de ser, flor e mistério. Mas tomou-me também a\nindignação diante do narrador e seu texto, feito de acusação\ne vilipêndio. Sem qualquer direito de defesa. Sem acesso ao\ndiscurso, usurpado, sutilmente, pela palavra autoritária do\nmarido, algoz, em pele de cordeiro vitimado. Crudelíssimo\ne desumano: não bastasse o que faz com a mulher, chega\na desejar a morte do próprio filho e a festejá-la com\num jantar, sem qualquer remorso. No fundo, uma pobre\nconsciência dilacerada, um homem dividido, que busca\nencontrar-se na memória, e acaba faltando-se a si mesmo.\nRetomei inúmeras vezes a triste história daquele amor em\ndesencanto. Familiarizei-me, ao longo do tempo, com a\ncrítica do texto; poucos, muito poucos, escapam das bem\ntraçadas linhas do libelo condenatório; no mínimo concedem\nà ré o beneplácito da dúvida: convertem-na num enigma\nindecifrável, seu atributo consagrador.\nEis que, diante de mais um retorno ao romance, veio\na iluminação: por que não dar voz plena àquela mulher,\nbrasileira do século XIX, que, apesar de todas as artimanhas\ne do maquiavelismo do companheiro, se converte numa das\nmais fascinantes criaturas do gênio que foi Machado de Assis?\nA empresa era temerária, mas escrever é sempre um\nrisco. Apoiado no espaço de liberdade em que habita a\nLiteratura, arrisquei-me.\nO resultado: este livro em que, além-túmulo, como\nBrás Cubas, a dona dos olhos de ressaca assume, à\nluz do mistério da arte literária e do próprio texto do\nDr. Bento Santiago, seu discurso e sua verdade.\nPROENÇA FILHO, D. Capitu: memórias póstumas.\nRio de Janeiro: Atrium, 1998.\nPara apresentar a apropriação literária que faz da obra de\nMachado de Assis, o autor desse texto",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "relaciona aspectos centrais da obra original e, então,"
+        },
+        {
+          "letra": "B",
+          "texto": "explica os pontos de vista de críticos da literatura e,"
+        },
+        {
+          "letra": "C",
+          "texto": "introduz elementos relevantes da história e, na sequência,"
+        },
+        {
+          "letra": "D",
+          "texto": "justifica as razões pelas quais adotou certa abordagem"
+        },
+        {
+          "letra": "E",
+          "texto": "contextualiza o enredo de forma subjetiva e, na conclusão,"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Crítica literária",
+        "Língua Portuguesa – Intertextualidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "As reações à sétima temporada foram o ápice do último\nestágio em Game of Thrones. De forma alguma, este que\nvos fala seria capaz de argumentar que a série é perfeita,\nmas os defeitos que existem aqui sempre existiram, de uma\nforma ou de outra, durante os sete anos em que ela esteve\nno ar. Os dois roteiristas foram brilhantes em traduzir os\npersonagens intrincados e conflituosos da obra de George\nR. R. Martin, mas nunca souberam exatamente como fazer\njus a eles (e especialmente a elas, as mulheres da trama).\nA verdade é que, com tudo isso e mais Ramin Djawadi\nevocando sentimentos e ambientes improváveis com sua\ntrilha sonora magistral, a série não conseguiria ser ruim nem\nse tentasse, mas continua sendo uma pena que, ao buscar\no seu final com tanta sede e tanta celeridade, Benioff e\nWeiss tenham tirado sua qualidade mais preciosa: o fôlego,\na paciência e o detalhismo que faziam suas palavras se\nlevantarem do papel e ganharem vida.\nDisponível em: https://observatoriodocinema.uol.com.br.\nAcesso em: 29 nov. 2017 (adaptado).\nAinda que faça uma avaliação positiva da série, nessa\nresenha, o autor aponta aspectos negativos da obra ao utilizar",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "marcas de impessoalidade que disfarçam a opinião do"
+        },
+        {
+          "letra": "B",
+          "texto": "expressões adversativas para fazer ressalvas às"
+        },
+        {
+          "letra": "C",
+          "texto": "interlocução com o leitor para corroborar opiniões"
+        },
+        {
+          "letra": "D",
+          "texto": "eufemismos que minimizam as críticas feitas à"
+        },
+        {
+          "letra": "E",
+          "texto": "antíteses que opõem a fragilidade do roteiro à beleza"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Gêneros textuais (Resenha)",
+        "Língua Portuguesa – Estratégias argumentativas"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Vá para o inferno, Gondim. Você acanalhou o troço.\nEstá pernóstico, está safado, está idiota. Há lá ninguém\nque fale dessa forma!\nAzevedo Gondim apagou o sorriso, engoliu em seco,\napanhou os cacos da sua pequenina vaidade e replicou\namuado que um artista não pode escrever como fala.\n— Não pode? - perguntei com assombro. E por quê?\nAzevedo Gondim respondeu que não pode porque\nnão pode.\nFoi assim que sempre se fez. A literatura é a\nliteratura, seu Paulo. A gente discute, briga, trata de\nnegócios naturalmente, mas arranjar palavras com tinta é\noutra coisa. Se eu fosse escrever como falo, ninguém me lia.\nRAMOS, G. São Bernardo. Rio de Janeiro: Record, 2009.\nNesse fragmento, a discussão dos personagens traz à\ncena um debate acerca da escrita que",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "diferencia a produção artística do registro padrão da língua."
+        },
+        {
+          "letra": "B",
+          "texto": "aproxima a literatura de dialetos sociais de pouco prestígio."
+        },
+        {
+          "letra": "C",
+          "texto": "defende a relação entre a fala e o estilo literário de um autor."
+        },
+        {
+          "letra": "D",
+          "texto": "contrapõe o preciosismo linguístico a situações de"
+        },
+        {
+          "letra": "E",
+          "texto": "associa o uso da norma culta à ocorrência de"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Variação linguística",
+        "Língua Portuguesa – Linguagem literária"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Eliseu D'Angelo Visconti (1866-1944) desenvolveu diversas\nobras no Brasil, com grande influência das escolas\neuropeias. Em sua pintura Três meninas no jardim, há",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "culto à fluidez e ao progresso, nos moldes do ideário"
+        },
+        {
+          "letra": "B",
+          "texto": "valorização de formas decompostas, a exemplo do"
+        },
+        {
+          "letra": "C",
+          "texto": "efeitos fugazes de luz e movimento, que remetem à"
+        },
+        {
+          "letra": "D",
+          "texto": "expressão do sonho e do inconsciente, que dialoga"
+        },
+        {
+          "letra": "E",
+          "texto": "tematização de elementos cotidianos, que resgata"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Arte – Impressionismo",
+        "Arte – Pintura brasileira"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Pressão, depressão, estresse e crise de ansiedade.\nOs males da sociedade contemporânea também estão\nno esporte. A tenista Naomi Osaka, do Japão, jogadora\nmais bem paga do mundo e que já ocupou o número 2 do\nranking, retirou-se do torneio de Roland Garros de 2021\nporque não estava conseguindo administrar as crises\nde ansiedade provocadas pelos grandes eventos, por\nser uma estrela aos 23 anos, e pelo peso de parte da\nimprensa. O tenista australiano Nick Kyrgios, de 25 anos,\nrevelou sua \"situação triste e solitária\" enquanto lutava\ncontra a depressão causada pelo ritmo avassalador do\nCircuito Mundial de Tênis. O jogador de basquete americano\nKevin Love também tornou público seu quadro de ansiedade\ne depressão. O mundo do atleta é solitário e distante da\nfamília. O que vemos numa partida não reflete a rotina\ndesgastante. A imprensa denomina atletas como heróis,\ncomo se aquele corpo fosse indestrutível, mas a mente é\no ponto fraco da história.\nDisponível em: www.uol.com.br. Acesso em: 31 out. 2021 (adaptado).\nAs causas do desequilíbrio na saúde mental apontadas\nno texto estão relacionadas às",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "nacionalidades diversificadas dos praticantes."
+        },
+        {
+          "letra": "B",
+          "texto": "modalidades esportivas distintas."
+        },
+        {
+          "letra": "C",
+          "texto": "faixas etárias aproximadas."
+        },
+        {
+          "letra": "D",
+          "texto": "representações heroicas dos atletas."
+        },
+        {
+          "letra": "E",
+          "texto": "pressões constantes dos eventos e da mídia."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Sociologia – Saúde mental e sociedade",
+        "Língua Portuguesa – Compreensão de texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Já ouvi gente falando que o podcast é o renascimento\ndo rádio. O rádio é genial, uma mídia imorredoura,\nmas podcast não tem nada a ver com ele. O formato está\nmais próximo do ensaio literário do que de um programa\nde ondas curtas, médias ou longas.\nPodcasts são antípodas das redes sociais. Enquanto\nelas são dispersivas, levam à evasão e à desinformação,\nos podcasts são uma possibilidade de imersão,\nconcentração, aprendizado. Depois que eles surgiram,\nlavar a louça e me locomover pela cidade viraram um\nprogramaço. Um pós-almoço de domingo e aprendo tudo\nsobre bonobos e gorilas. Um táxi pro aeroporto e chego\nao embarque PhD em reforma tributária.\nPRATA, A. Disponível em: www1.folha.uol.com.br.\nAcesso em: 7 jan. 2024 (adaptado).\nSegundo a argumentação construída nesse texto, o podcast",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "provoca dispersão da atenção em seu público."
+        },
+        {
+          "letra": "B",
+          "texto": "funciona por meio de uma frequência de ondas curtas."
+        },
+        {
+          "letra": "C",
+          "texto": "propicia divulgação de conhecimento para seus usuários."
+        },
+        {
+          "letra": "D",
+          "texto": "tem um formato de interação semelhante ao das redes"
+        },
+        {
+          "letra": "E",
+          "texto": "constitui uma evolução na transmissão de informações"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Gêneros textuais (Crônica)",
+        "Língua Portuguesa – Meios de comunicação"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Evanildo Bechara prepara a sua aposentadoria de pouco\nem pouco, como se a adiasse ao máximo. Aos 95 anos,\no imortal da Academia Brasileira de Letras (ABL) alcançou\num status de astro pop no mundo da filologia e da gramática.\nQuando ainda tinha saúde para viagens mais longas, o filólogo\nlotava plateias em suas palestras na Europa e no Brasil,\nque não raro terminavam com filas para selfies.\nA idade acentuou o lado “cientista” e professoral de\nBechara, que adota um tom técnico na conversa até mesmo\ndiante das perguntas mais pessoais. — \"Qual o seu tipo\npreferido de leitura?\". — \"A minha leitura está dividida em\nduas partes, a científica e a literária, estabelecendo uma\nrelação de causa e efeito entre elas.\" — responde.\nAinda adolescente, Bechara descobriu a lexicologia.\nUm \"novo mundo” se abriu para o pernambucano, que\nse mantém atento às metamorfoses do nosso idioma.\nSeu colega de ABL, o filólogo Ricardo Cavaliere, se lembra\nde quando deu carona para o mestre e este encucou com\nos estrangeirismos do aplicativo de navegação instalado\nno veículo. — \"A vozinha do aplicativo avisou que havia\num radar de velocidade 'reportado' à frente\", lembra\nCavaliere. — \"Esse 'reportado' é uma importação, né?\",",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "situacional, pois o contexto exige o uso da linguagem"
+        },
+        {
+          "letra": "B",
+          "texto": "regional, pois ele traz marcas do falar de seu local de"
+        },
+        {
+          "letra": "C",
+          "texto": "sociocultural, pois sua formação pressupõe o uso de"
+        },
+        {
+          "letra": "D",
+          "texto": "geracional, pois ele emprega termos característicos de"
+        },
+        {
+          "letra": "E",
+          "texto": "ocupacional, pois ele faz uso de termos específicos de"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Variação linguística (ocupacional)",
+        "Língua Portuguesa – Linguagem formal e informal"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Um estudo norte-americano analisou os efeitos\nda pandemia da covid-19 sobre a saúde mental e a\nmanutenção da atividade física, revelando que um fator\nestá diretamente ligado ao outro. De acordo com os dados,\nfamílias de baixa renda foram mais impactadas pelo\nciclo vicioso de falta de motivação e pelo sedentarismo.\nDiante da necessidade de distanciamento social e do\ninício da quarentena, as opções de espaços seguros\npara exercícios físicos diminuíram, o que dificultou que as\npessoas mantivessem seus níveis de atividade. Os dados\nevidenciaram que as pessoas mais ativas tinham melhor\nestado de saúde mental. As pessoas com menor renda\ntiveram mais dificuldade para manter os níveis de atividade\nfísica durante a pandemia, sendo aproximadamente\nduas vezes menos propensas a continuarem no mesmo\nritmo de exercícios de antes da pandemia. Habitantes\nde áreas urbanas mostraram maior probabilidade de\nnão conseguirem manter os níveis de atividade física\nsemelhantes aos de pessoas que vivem em zonas rurais,\nonde há mais oportunidades de sair para espaços abertos.\nDisponível em: https://revistagalileu.globo.com.\nAcesso em: 6 dez. 2021 (adaptado).\nO texto evidencia a perspectiva ampliada de saúde ao\nabordar criticamente a pandemia da covid-19 a partir do(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "busca por espaços para a prática de exercícios físicos."
+        },
+        {
+          "letra": "B",
+          "texto": "necessidade de se manter ativo para ter equilíbrio"
+        },
+        {
+          "letra": "C",
+          "texto": "distanciamento social e sua vinculação com a prática"
+        },
+        {
+          "letra": "D",
+          "texto": "relação entre os determinantes socioeconômicos e a"
+        },
+        {
+          "letra": "E",
+          "texto": "benefício de morar em áreas rurais para preservar a"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Sociologia – Saúde e desigualdade social",
+        "Biologia – Saúde e bem-estar"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Até ali que sabia das misérias do mundo? Nada.\nAquela noite do Castelo, tão simples, tão monótona,\nfora uma revelação! Era bem certo que a lágrima existia,\nque irrompiam soluços de peitos oprimidos, que para\nalguém os dias não tinham cor nem a noite tinha estrelas!\nEla, criada entre beijos, no aroma dos seus jardins, com as\nvontades satisfeitas, o leito fofo, a mesa delicada, sentira\nsempre no coração um desejo sem nome, um desejo ou\numa saudade absurda, a saudade do céu, como dizia o\ndr. Gervásio, e que não era mais que a doida aspiração\nda artista incipiente, que germinava no seu peito fraco.\nE aquela mesma mágoa parecia-lhe agora doce e\nembaladora, comparando-se à outra, a Sancha, da sua\nidade, negra, feia, suja, levada a pontapés, dormindo\nsem lençóis em uma esteira, comendo em pé, apressada,\nos restos parcos e frios de duas velhas, vestida de algodões\nrotos, curvada para um trabalho sem descanso nem paga!\nPor quê? Que direito teriam uns a todas as primícias e\nregalos da vida, se havia outros que nem por uma nesga\nviam a felicidade?\nALMEIDA, J. L. A falência. Disponível em: www.dominiopublico.gov.br.\nAcesso em: 28 dez. 2023.\nNesse fragmento do romance de Júlia Lopes de Almeida,\nescrito no cenário brasileiro pós-abolição, a narradora\nexprime um olhar crítico sobre a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "desvalorização da arte produzida por mulheres."
+        },
+        {
+          "letra": "B",
+          "texto": "mudança das condições de moradia do povo negro."
+        },
+        {
+          "letra": "C",
+          "texto": "ruptura do projeto político de emancipação feminina."
+        },
+        {
+          "letra": "D",
+          "texto": "exploração da força de trabalho da população negra."
+        },
+        {
+          "letra": "E",
+          "texto": "disputa de poder entre brancos e negros no século XIX."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "História – Brasil Império (pós-abolição)",
+        "Língua Portuguesa – Literatura (Romantismo)"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Sempre passo nervoso quando leio minha crônica\nneste jornal e percebo que escapuliu a palavra \"coisa” em\nalguma frase. Acontece que “coisa\" está entre as coisas\nmais deliciosas do mundo.\nO primeiro banho da minha filha foi embalado pela\nminha voz dizendo, ao fundo, “cuidado, ela ainda é uma\ncoisinha tão pequena”. “Viu só que amor? Nunca vi coisa\nassim”. O amor que não dá conta de explicação é “a coisa\"\nem seu esplendor e excelência. \"Alguma coisa acontece\nno meu coração” é a frase mais bonita que alguém já disse\nsobre São Paulo. E quando Caetano, citado aqui pela\nterceira vez pra defender a dimensão poética da coisa,\ndiz \"coisa linda\", nós sabemos que nenhuma palavra\ndefiniria de forma mais profunda e literária o quão bela e\namada uma coisa pode ser.\n\"Coisar” é verbo de quem está com pressa ou tem\nlapsos de memória. É pra quando “mexe qualquer coisa\ndentro doida\". E que coisa magnífica poder se expressar\ntal qual Caetano Veloso. Agora chega, porque \"esse papo\njá tá qualquer coisa” e eu já tô “pra lá de Marrakech\".\nTATI BERNARDI. Disponível em: www1.folha.uol.com.br.\nAcesso em: 3 jan. 2024 (adaptado).\nO recurso utilizado na progressão textual para garantir a\nunidade temática dessa crônica é a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "intertextualidade, marcada pela citação de versos de"
+        },
+        {
+          "letra": "B",
+          "texto": "metalinguagem, marcada pela referência à escrita de"
+        },
+        {
+          "letra": "C",
+          "texto": "reiteração, marcada pela repetição de uma determinada"
+        },
+        {
+          "letra": "D",
+          "texto": "conexão, marcada pela presença dos conectores lógicos"
+        },
+        {
+          "letra": "E",
+          "texto": "pronominalização, marcada pela retomada de \"minha filha”"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Coesão e coerência textual",
+        "Língua Portuguesa – Funções da linguagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "TEXTO I\nO bufarinheiro, conhecido nas cidades por teque-teque,\nchama-se, nos recônditos da Amazônia, “regatão\". Em lugar de\ntransportar nas costas o mundo de miudezas, transporta-o no\nbojo de uma gaiola que desloca duas, três, quatro toneladas,\ndivididas em seções de secos e molhados e é movido por remo\nde faia. Cortando comunidades e matas da Amazônia por rios,\ndentro dessas gaiolas, riscadas de prateleiras, encontram-se\nos artigos mais díspares, que vão da agulha à espingarda,\ndo lenço ao cobertor, da chita à escova de dentes.\nMORAES, R. Na Planície Amazônica. São Paulo:\nEditora Nacional, 1936 (adaptado).\nTEXTO II\nNo século XIX, o comércio dos regatões era feito, então,\ncom base em relações tecidas com quilombolas, pequenos\nprodutores, comerciantes locais e indígenas, constituindo\nrelação comercial alternativa ao abastecimento da população.\nHENRIQUE, M. C.; MORAIS, L. T. Estradas líquidas, comércio sólido:\níndios e regatões na Amazônia (século XIX). Rev. Hist.,\nn. 171, jul.-dez. 2014 (adaptado).\nComo parte do patrimônio cultural da Amazônia, o regatão\nfoi fundamental, no século XIX, para a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "organização de rotas de fuga na floresta tropical."
+        },
+        {
+          "letra": "B",
+          "texto": "criação de postos de trabalho nos seringais nortistas."
+        },
+        {
+          "letra": "C",
+          "texto": "divulgação de receitas de fármacos nas zonas ribeirinhas."
+        },
+        {
+          "letra": "D",
+          "texto": "construção de redes de sociabilidade no interior brasileiro."
+        },
+        {
+          "letra": "E",
+          "texto": "ampliação de ambientes de lazer nos territórios autóctones."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "História – Economia e sociedade no Brasil Imperial",
+        "Geografia – Região Amazônica"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Era uma vez um país, uma cidade, uma praça, algumas\nmães... Las Madres de Plaza de Mayo! Silenciosas, com\nlenços brancos na cabeça, rondavam a Praça de Maio.\nIncansáveis, caminharam por dias, meses, anos. Foram\nchamadas de loucas. Em silêncio, criaram um fato político,\nescancararam as entranhas da repressão, desafiaram o\naparato militar e suas dores ecoaram pelo mundo. Como\nobservou Oliveira, “à luz do dia, sob as janelas do ditador, sob\nchuva, sob sol, no silêncio entrecortado de gritos, faziam ouvir\ncomo que a alucinação de uma litania, que ecoou no país,\nna América Latina e além-mar”. Era impossível ignorá-las,\nestavam lá, sempre em silêncio, mas estavam lá.\nGONÇALVES, R. De antigas e novas loucas: Madres e Mães de Maio\ncontra a violência de Estado. Lutas Sociais, n. 29, jul.-dez. 2012.\nQual problema de âmbito nacional argentino o movimento\nsocial mencionado expôs ao mundo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Violação dos direitos humanos."
+        },
+        {
+          "letra": "B",
+          "texto": "Insegurança da juventude periférica."
+        },
+        {
+          "letra": "C",
+          "texto": "Naturalização da violência doméstica."
+        },
+        {
+          "letra": "D",
+          "texto": "Ampliação das desigualdades sociais."
+        },
+        {
+          "letra": "E",
+          "texto": "Relativização dos princípios democráticos."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "História – Ditaduras na América Latina",
+        "Sociologia – Movimentos sociais e direitos humanos"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "TEXTO I\nDubai, 2000.\nTEXTO II\nDubai, 2020.\nA comparação entre as imagens de satélite indica a\nocorrência de um processo de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "conservação de lugares afetivos."
+        },
+        {
+          "letra": "B",
+          "texto": "aumento de áreas desertificadas."
+        },
+        {
+          "letra": "C",
+          "texto": "redefinição de fronteiras nacionais."
+        },
+        {
+          "letra": "D",
+          "texto": "artificialização do espaço geográfico."
+        },
+        {
+          "letra": "E",
+          "texto": "mudança da dinâmica macroclimática."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Geografia – Urbanização e meio ambiente",
+        "Geografia – Transformações da paisagem"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "TEXTO I\nO empirismo moderno foi, em grande parte,\ncondicionado por dois dogmas. Um deles é a crença em\ncerta divisão fundamental entre verdades analíticas, ou\nfundadas em significados independentemente de questões\nde fato, e verdades sintéticas, ou fundadas em fatos. O outro\ndogma é o reducionismo: a crença de que todo enunciado\nsignificativo é equivalente a algum construto lógico sobre\ntermos que se referem à experiência imediata.\nQUINE, W. V. O. Dois dogmas do empirismo. In: RYLE, G. et al.\nEnsaios. São Paulo: Abril Cultural, 1975.\nTEXTO II\nTeses: 1. Somente os enunciados que possuem conteúdo\nfactual são teoricamente significativos; enunciados que não\npodem, em princípio, estar fundamentados pela experiência\nsão carentes de significado. 2. As ciências empíricas usam\nsomente o conteúdo empírico da realidade. 3. A filosofia usa\num conceito não empírico da realidade.\nCARNAP, R. Pseudoproblemas na filosofia. In: SCHLICK, M.;\nCARNAP, R.; POPPER, K. Coletânea de textos.\nSão Paulo: Abril Cultural, 1975.\nAo comparar os textos, conclui-se que eles apresentam\nposicionamentos filosóficos divergentes com relação ao",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "estatuto epistemológico da linguagem."
+        },
+        {
+          "letra": "B",
+          "texto": "alicerce estruturante da moralidade."
+        },
+        {
+          "letra": "C",
+          "texto": "conteúdo essencial da metafísica."
+        },
+        {
+          "letra": "D",
+          "texto": "princípio constitutivo da ontologia."
+        },
+        {
+          "letra": "E",
+          "texto": "domínio reflexivo da estética."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Filosofia – Epistemologia",
+        "Filosofia – Linguagem e conhecimento"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Uma das principais atividades provocadas pela arte,\na reflexão, é abandonada pela indústria cultural. A indústria\ncultural seria como uma isca que ilude os indivíduos,\ncom o sonho de que eles são livres, originais, únicos e\nespeciais quando, na verdade, os trata como servos\ne partes de uma massa homogênea.\nFONTES, B.; MAGALHÃES, R. O que é indústria cultural? In:\nBODART, C. N. (Org.). Conceitos e categorias do ensino de\nsociologia. Maceió: Café com Sociologia, 2021 (adaptado).\nAo analisar as consequências da dinâmica apresentada no\ntexto, as autoras destacam a importância do conceito como:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ferramenta de luta coletiva."
+        },
+        {
+          "letra": "B",
+          "texto": "Mecanismo de controle social."
+        },
+        {
+          "letra": "C",
+          "texto": "Instituição de interesse público."
+        },
+        {
+          "letra": "D",
+          "texto": "Organização da iniciativa privada."
+        },
+        {
+          "letra": "E",
+          "texto": "Instrumento de manipulação estatal."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Sociologia – Indústria cultural",
+        "Sociologia – Crítica à cultura de massas"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "TEXTO I\nNeta de Tomásia, uma escravizada alforriada, Chiquinha\nGonzaga foi uma das primeiras mulheres a se destacar na\nmúsica popular brasileira. Entre suas obras mais famosas\nestão a marcha Ó abre alas, sucesso nos blocos de Carnaval\naté hoje, e o tango Gaúcho, além de inúmeras peças musicais\npara teatro e óperas. Chiquinha também teve uma atuação em\ndefesa dos direitos das mulheres e pelo fim da escravatura.\nDisponível em: www.uol.com.br. Acesso em: 7 out. 2023 (adaptado).\nTEXTO II\nDepois da estreia de sua peça Gonzaga, em 1867,\nque tem como um de seus núcleos dramáticos dois\nescravizados, pai e filha, separados há muitos anos,\nCastro Alves escreve talvez o maior conjunto de poemas\nantiescravistas do Romantismo brasileiro, publicados em\n1883 no livro Os escravos, doze anos após a sua morte.\nOs textos Vozes d’África e Navio negreiro, por exemplo,\npublicados em folhetos, já em 1878, tiveram enorme\nrepercussão desde a sua circulação, a ponto de Afrânio\nCoutinho (um importante crítico brasileiro) afirmar ter sido\nCastro Alves, no que diz respeito à poesia antiescravista,\num dos primeiros que o Brasil ouviu.\nDisponível em: www.uol.com.br. Acesso em: 8 out. 2023 (adaptado).\nOs textos indicam a participação de artistas e intelectuais\nbrasileiros em defesa do(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ação integralista."
+        },
+        {
+          "letra": "B",
+          "texto": "literatura realista."
+        },
+        {
+          "letra": "C",
+          "texto": "movimento abolicionista."
+        },
+        {
+          "letra": "D",
+          "texto": "política indigenista."
+        },
+        {
+          "letra": "E",
+          "texto": "nacionalismo desenvolvimentista."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "História – Abolicionismo no Brasil",
+        "Língua Portuguesa – Romantismo brasileiro"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Como conclusão provisória, parece então que a\nglobalização tem, sim, o efeito de contestar e deslocar\nas identidades centradas e \"fechadas\" de uma cultura\nnacional. Ela tem um efeito pluralizante sobre as identidades,\nproduzindo uma variedade de possibilidades e novas posições\nde identificação, e tornando as identidades mais posicionais,\nmais políticas, mais plurais e diversas; menos fixas, unificadas\nou trans-históricas.\nHALL, S. A identidade cultural na pós-modernidade.\nRio de Janeiro: DP&A, 2011.\nDe acordo com o texto, o processo apresentado contribuiu\npara",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "elevar a renda da população."
+        },
+        {
+          "letra": "B",
+          "texto": "abandonar os valores morais."
+        },
+        {
+          "letra": "C",
+          "texto": "estabelecer a igualdade racial."
+        },
+        {
+          "letra": "D",
+          "texto": "fortalecer as pautas das minorias."
+        },
+        {
+          "letra": "E",
+          "texto": "inverter os fluxos das migrações."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Sociologia – Globalização e identidade cultural",
+        "Filosofia – Pós-modernidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "TEXTO I\nUm terremoto de magnitude 5,9 atingiu a cidade de\nValparaíso, na costa chilena. O terremoto ocorreu a uma\nprofundidade de 112 quilômetros.\nTerremoto de magnitude 5,9 atinge Valparaíso, no Chile.\nDisponível em: www.cnnbrasil.com.br.\nAcesso em: 6 nov. 2021 (adaptado).\nTEXTO II\nUm tremor de terra de magnitude 4,8 foi registrado\nno município de Atalaia do Norte, no interior do estado do\nAmazonas. O abalo é de magnitude considerada mediana\npara os níveis do Brasil. Os eventos dessa região costumam\nser resultado das atividades da placa de Nazca.\nTremor de terra de magnitude 4,8 é registrado no interior do\nAmazonas. Disponível em: https://g1.globo.com.\nAcesso em: 6 nov. 2021 (adaptado).\nTEXTO III\nMoradores usaram as redes sociais para relatar tremores\nde terra no interior de São Paulo. As atividades foram\nregistradas nas cidades de Júlio Mesquita e Guaimbê e\ntiveram magnitude 3,0 na escala Richter, o que é considerado\npequeno e sem previsão de danos.\nMoradores do interior de SP relatam tremores de terra.\nDisponível em: https://noticias.r7.com.\nAcesso em: 6 nov. 2021 (adaptado).\nAs diferenças entre os eventos geológicos relatados\ndecorrem de distintas posições geográficas das cidades\nem relação a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Planícies costeiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Bacias continentais."
+        },
+        {
+          "letra": "C",
+          "texto": "Zonas de subducção."
+        },
+        {
+          "letra": "D",
+          "texto": "Áreas de denudação."
+        },
+        {
+          "letra": "E",
+          "texto": "Vertentes escarpadas."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Geografia – Geologia e tectonismo",
+        "Geografia – Placas tectônicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Tal qual num exército, não se compreende um efetivo\ncomposto apenas de oficiais. Também na saúde pública,\nos funcionários técnicos graduados necessitam ser\nassistidos por auxiliares em número suficiente e com\npreparo adequado, constituído pelas enfermeiras de saúde\npública, educadoras ou visitadoras sanitárias, técnicos de\nlaboratório, inspetores ou guardas etc., para não falarmos\nno pessoal burocrático, não especializado.\nPAULA SOUZA, G. H.; VIEIRA, F. B. Centro de saúde \"eixo\" de\norganização sanitária. Boletim do Instituto de Higiene\nde São Paulo, n. 59 (adaptado).\nO texto dos sanitaristas atuantes nas décadas de 1920 e\n1930 veicula uma mensagem caracterizada pela",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "higienização moral."
+        },
+        {
+          "letra": "B",
+          "texto": "imposição eugênica."
+        },
+        {
+          "letra": "C",
+          "texto": "assimilação cultural."
+        },
+        {
+          "letra": "D",
+          "texto": "hegemonização identitária."
+        },
+        {
+          "letra": "E",
+          "texto": "hierarquização profissional."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "História – Saúde pública no Brasil (Primeira República)",
+        "Sociologia – Divisão social do trabalho"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "O rompimento da barragem de Fundão levou muito\nconsigo. A lama soterrou sonhos e modificou de forma\npermanente centenas de vidas nascidas e criadas em\nBento Rodrigues e Paracatu, em Mariana (MG). Mas não\nsomente. Ao se estender ao longo do rio, outras famílias e\nhistórias foram atingidas de formas diferentes. Ao fugirem\ndos rejeitos que rapidamente tomaram as localidades,\ndeixaram para trás os resquícios da vida que tiveram até\no 5 de novembro de 2015. Nada jamais seria igual.\nSANTOS, P. Histórias soterradas. Curinga,\nn. 19, nov. 2016 (adaptado).\nConforme o texto, o evento gerou o seguinte impacto na\nrelação entre as pessoas e o seu espaço vivido:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Flexibilização de parâmetros ambientais."
+        },
+        {
+          "letra": "B",
+          "texto": "Consolidação de identidades regionais."
+        },
+        {
+          "letra": "C",
+          "texto": "Fragilização de vínculos afetivos."
+        },
+        {
+          "letra": "D",
+          "texto": "Supressão de práticas exploratórias."
+        },
+        {
+          "letra": "E",
+          "texto": "Recuperação de tradições ancestrais."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Geografia – Desastres ambientais",
+        "Sociologia – Impactos sociais de desastres"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "Com a proximidade do final do século XIX, amplificam-se\nas expectativas com relação ao século seguinte. Se muitas\neram as utopias, talvez uma das mais evidentes tenha se\nconcentrado nas potencialidades da nova ciência, com suas\ninvenções e projetos. Não é por mera coincidência que\na agenda do país tenha sido tomada pela introdução de\numa série de inventos. De forma acelerada, entraram no\nBrasil a luz elétrica e, com ela, o telégrafo, o telefone,\no cinematógrafo. Na área dos transportes, o trem a vapor é\nsubstituído pelo elétrico, que assiste à entrada do automóvel\ne até do aeroplano.\nCOSTA, A. M.; SCHWARCZ, L. M. 1890-1914, no tempo das certezas.\nSão Paulo: Cia. das Letras, 2000 (adaptado).\nNo Brasil, os eventos descritos ganharam conotação\npolítica ao serem vinculados à",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "expansão estratégica do imperialismo."
+        },
+        {
+          "letra": "B",
+          "texto": "ascensão gradual do mercantilismo."
+        },
+        {
+          "letra": "C",
+          "texto": "laicidade da educação."
+        },
+        {
+          "letra": "D",
+          "texto": "retomada do absolutismo."
+        },
+        {
+          "letra": "E",
+          "texto": "visão republicana de nação."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "História – Primeira República (Brasil)",
+        "Sociologia – Modernização e progresso"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "TEXTO I\nAristóteles entendia que a felicidade era diretamente\nligada ao respeito pela própria natureza e, de certa maneira,\na uma vida que tivesse na natureza de si mesma uma\nreferência inabalável. Isso lhe permitiu formular o conceito\nde excelência. O que seria excelência? Seria, justamente,\nao longo da vida, tirar de si mesmo, em forma de performance,\nde conduta, de comportamento, de disposição, o que a natureza\npermitiria de melhor.\nCOEN, M.; BARROS FILHO, C. A monja e o professor: reflexões\nsobre ética, preceitos e valores. Rio de Janeiro: Best Seller, 2018.\nTEXTO II\nA noção de eudaimonia é central para a ética aristotélica.\nA eudaimonia é uma atividade e não um estado psicológico,\npois é definida na Ética a Nicômaco como uma atividade\nda alma com base na virtude moral. A virtude moral é\ndefinida em termos de uma disposição diretamente ligada\nà deliberação, o que o leva a estudar a virtude intelectual\nque opera em seu interior, isto é, a prudência. A estrutura\nconceitual da ética aristotélica responde a uma tentativa de\nelucidar conceitualmente em que consiste isto, agir bem, ou,\nna linguagem aristotélica, o que significa ser feliz.\nZINGANO, M. Eudaimonia, razão e contemplação na ética aristotélica.\nAnalytica, n. 1, 2017 (adaptado).\nOs textos indicam que a prática de ações virtuosas,\nsempre efetivada na pólis, ocorre por meio do(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "teoria das formas essenciais."
+        },
+        {
+          "letra": "B",
+          "texto": "identificação dos princípios racionais."
+        },
+        {
+          "letra": "C",
+          "texto": "desenvolvimento das técnicas retóricas."
+        },
+        {
+          "letra": "D",
+          "texto": "aperfeiçoamento das condutas humanas."
+        },
+        {
+          "letra": "E",
+          "texto": "conhecimento das epistemes verdadeiras."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Filosofia – Ética aristotélica",
+        "Filosofia – Eudaimonia"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "As instituições que a Idade Média nos legou são de\num valor maior e mais imperecível do que suas catedrais.\nE a universidade é nitidamente uma instituição medieval -\ntanto quanto a monarquia constitucional, ou os parlamentos,\nou o julgamento por meio do júri. As universidades e os\nprodutos imediatos das suas atividades constituem a grande\nrealização da Idade Média na esfera intelectual.\nRASHDALL, H. apud OLIVEIRA, T. Origem e memória das\nuniversidades medievais. Varia História, n. 37, jan.-jun. 2007.\nDe acordo com o texto, o legado das universidades medievais\ntorna-se um relevante patrimônio histórico-cultural por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "adotar currículo e método padronizado."
+        },
+        {
+          "letra": "B",
+          "texto": "rejeitar ideologias e costumes orientais."
+        },
+        {
+          "letra": "C",
+          "texto": "possuir organização e função mercantil."
+        },
+        {
+          "letra": "D",
+          "texto": "transmitir técnicas e valores ecumênicos."
+        },
+        {
+          "letra": "E",
+          "texto": "agregar tradição e conhecimento científico."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "História – Idade Média (Universidades)",
+        "Sociologia – Instituições sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "Há experiências de lutas sociais de reapropriação\ncultural da natureza que são movimentos emblemáticos,\ncomo a dos seringueiros no Brasil, que da luta sindical\npara a comercialização da borracha chegaram a inventar\no conceito de reserva extrativista e estão avançando para\num novo modo de produção, uma nova racionalidade\nprodutiva, mostrando que é possível viver bem, e não apenas\nsobreviver, em harmonia com a natureza que habitam.\nO novo planeta que podemos imaginar é feito desses\nterritórios produtivos que não são apenas economias de\nautossubsistência mas economias que potencializam\na produtividade ecológica de seus territórios.\nLEFF, E. Discursos sustentáveis. São Paulo: Cortez, 2010 (adaptado).\nO texto expõe a possibilidade de uma nova racionalidade\nprodutiva por meio de uma gestão territorial que se baseia na",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "integração de mercados regidos por pressões regionais."
+        },
+        {
+          "letra": "B",
+          "texto": "conexão de valores fundamentados por decisões locais."
+        },
+        {
+          "letra": "C",
+          "texto": "unificação de preços delimitados por demandas nacionais."
+        },
+        {
+          "letra": "D",
+          "texto": "normatização de regras construídas por instituições"
+        },
+        {
+          "letra": "E",
+          "texto": "valorização de tradições orientadas por determinações"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Geografia – Desenvolvimento sustentável",
+        "Sociologia – Movimentos sociais e meio ambiente"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Eu sentia falta do futuro. É claro que eu sabia,\nmuito mesmo antes da recorrência dele, que nunca\nenvelheceria. Era muito provável que eu nunca mais\nfosse ver o oceano de uma altura de trinta mil pés de\nnovo, uma distância tão grande que não dá nem para\ndistinguir as ondas, nem nenhum barco, de um jeito que\nfaz o oceano parecer um enorme e infinito monólito.\nEu poderia imaginá-lo. Eu poderia me lembrar dele.\nMas não poderia vê-lo de novo, e me ocorreu que a ambição\nvoraz dos seres humanos nunca é saciada quando os sonhos\nsão realizados, porque há sempre a sensação de que tudo\npoderia ter sido feito melhor e ser feito outra vez.\nGREEN, J. A culpa é das estrelas. Rio de Janeiro: Intrínseca, 2012.\nO texto apresenta uma reflexão da personagem acerca de\num problema característico da filosofia contemporânea,\nque trata da(s)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "implicações éticas."
+        },
+        {
+          "letra": "B",
+          "texto": "finitude humana."
+        },
+        {
+          "letra": "C",
+          "texto": "limitações da linguagem."
+        },
+        {
+          "letra": "D",
+          "texto": "pressuposição existencial."
+        },
+        {
+          "letra": "E",
+          "texto": "objetividade do conhecimento."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Filosofia – Existencialismo",
+        "Filosofia – Condição humana"
+      ]
+    },
+    {
+      "numeroEnunciado": 61,
+      "enunciado": "TEXTO I:\nO bufarinheiro, conhecido nas cidades por teque-teque, chama-se, nos recônditos da Amazônia, “regatão\". Em lugar de transportar nas costas o mundo de miudezas, transporta-o no bojo de uma gaiola que desloca duas, três, quatro toneladas, divididas em seções de secos e molhados e é movido por remo de faia. Cortando comunidades e matas da Amazônia por rios, dentro dessas gaiolas, riscadas de prateleiras, encontram-se os artigos mais díspares, que vão da agulha à espingarda, do lenço ao cobertor, da chita à escova de dentes.\n\nMORAES, R. Na Planície Amazônica. São Paulo: Editora Nacional, 1936 (adaptado).\n\nTEXTO II:\nNo século XIX, o comércio dos regatões era feito, então, com base em relações tecidas com quilombolas, pequenos produtores, comerciantes locais e indígenas, constituindo relação comercial alternativa ao abastecimento da população.\n\nHENRIQUE, M. C.; MORAIS, L. T. Estradas líquidas, comércio sólido: índios e regatões na Amazônia (século XIX). Rev. Hist., n. 171, jul.-dez. 2014 (adaptado).\n\nComo parte do patrimônio cultural da Amazônia, o regatão foi fundamental, no século XIX, para a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "organização de rotas de fuga na floresta tropical."
+        },
+        {
+          "letra": "B",
+          "texto": "criação de postos de trabalho nos seringais nortistas."
+        },
+        {
+          "letra": "C",
+          "texto": "divulgação de receitas de fármacos nas zonas ribeirinhas."
+        },
+        {
+          "letra": "D",
+          "texto": "construção de redes de sociabilidade no interior brasileiro."
+        },
+        {
+          "letra": "E",
+          "texto": "ampliação de ambientes de lazer nos territórios autóctones."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "História – Brasil Colônia e Império",
+        "Geografia – Economia Regional"
+      ]
+    },
+    {
+      "numeroEnunciado": 62,
+      "enunciado": "A valsa vienense é a mais antiga das danças de salão tradicional. É dançada desde a Idade Média, quando os pares davam voltas pelo salão realizando giros em torno de si mesmos em postura fechada. Pelo fato de ser dançada aos pares em contato íntimo, a valsa encantava a sociedade medieval, como também sofria proibições por infringir os “bons costumes”. Originária das danças campestres e folclóricas, no século XVI, a aristocracia francesa abandonou a valsa por sua estreita relação com a cultura plebeia, retomando-a posteriormente.\n\nFRANCO, N.; FERREIRA, N. Evolução da dança no contexto histórico: aproximações iniciais com o tema. Repertório, n. 26, 2016 (adaptado).\n\nA expressão cultural descrita no texto foi rejeitada no início da Idade Moderna por congregar",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "traços advindos da feitiçaria nórdica."
+        },
+        {
+          "letra": "B",
+          "texto": "práticas inspiradas em rituais pagãos."
+        },
+        {
+          "letra": "C",
+          "texto": "regras decorrentes do período renascentista."
+        },
+        {
+          "letra": "D",
+          "texto": "compassos produzidos em territórios colonizados."
+        },
+        {
+          "letra": "E",
+          "texto": "elementos provenientes de segmentos populares."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "História – Cultura e Sociedade na Idade Média e Moderna",
+        "Arte – Dança"
+      ]
+    },
+    {
+      "numeroEnunciado": 63,
+      "enunciado": "O Black Lives Matter vai para além do nacionalismo estreito que pode prevalecer no seio das comunidades negras, que se limita a apelar aos negros a amar os negros, viver como os negros e comprar produtos dos negros, e mantém à frente do movimento homens negros heterossexuais. Black Lives Matter estima as vidas dos negros e negras homossexuais e transexuais, pessoas incapacitadas, negros sem documentos ou com antecedentes criminais, mulheres e as vidas de todos os negros de todo o espectro de gêneros.\n\nLA BOTZ, D. O movimento Black Lives Matter organiza-se e procura definir-se politicamente. Disponível em: www.ufes.br. Acesso em: 4 out. 2021 (adaptado).\n\nA reivindicação do movimento norte-americano apresentada no texto consiste na necessidade de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "manter a conquista de direitos sociais."
+        },
+        {
+          "letra": "B",
+          "texto": "integrar a diversidade do grupo identitário."
+        },
+        {
+          "letra": "C",
+          "texto": "priorizar a preservação de culturas africanas."
+        },
+        {
+          "letra": "D",
+          "texto": "defender a adoção de valores supremacistas."
+        },
+        {
+          "letra": "E",
+          "texto": "permitir a permanência do modelo androcêntrico."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Sociologia – Movimentos Sociais",
+        "História – Direitos Civis"
+      ]
+    },
+    {
+      "numeroEnunciado": 64,
+      "enunciado": "A desproporção de velocidade e tempo de duração nos tipos de inundação destacados é condicionada pela",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "variabilidade solar anual."
+        },
+        {
+          "letra": "B",
+          "texto": "temperatura média mensal."
+        },
+        {
+          "letra": "C",
+          "texto": "declividade do relevo local."
+        },
+        {
+          "letra": "D",
+          "texto": "dinâmica tectônica regional."
+        },
+        {
+          "letra": "E",
+          "texto": "gradação da turbidez fluvial."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Geografia – Geomorfologia e Hidrografia",
+        "Física – Mecânica dos Fluidos"
+      ]
+    },
+    {
+      "numeroEnunciado": 65,
+      "enunciado": "Os grupos dominantes são beneficiados em termos de credibilidade e podem, com isso, controlar falas de membros de outros grupos, descredibilizando seus testemunhos com base em concepções compartilhadas de preconceito de identidade (gênero e raça). Algumas formas de preconceito tornam as declarações das pessoas menos importantes devido ao seu pertencimento a determinado grupo social. Assim, um falante recebe menos credibilidade devido ao preconceito do ouvinte.\n\nKUHNEN, T. Resenha de The Power and Ethics of Knowing, de Miranda Fricker. Revista Princípios, n. 33, 2013.\n\nCom base na reflexão suscitada no texto, o preconceito de identidade é responsável por um tipo de injustiça",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "estética, que normatiza os padrões corporais."
+        },
+        {
+          "letra": "B",
+          "texto": "sensorial, que privilegia as habilidades visuais."
+        },
+        {
+          "letra": "C",
+          "texto": "afetiva, que impede as expressões emocionais."
+        },
+        {
+          "letra": "D",
+          "texto": "epistêmica, que prejudica as trocas informacionais."
+        },
+        {
+          "letra": "E",
+          "texto": "econômica, que perpetua as desigualdades materiais."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Sociologia – Desigualdades e Preconceito",
+        "Filosofia – Epistemologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 66,
+      "enunciado": "A alma funciona no meu corpo de maneira maravilhosa. Nele se aloja, certamente, mas sabe bem dele escapar: escapa para ver as coisas através da janela dos meus olhos, escapa para sonhar quando durmo, para sobreviver quando morro. Minha alma durará muito tempo e mais que muito tempo, quando meu corpo vier a apodrecer. Viva minha alma! É meu corpo luminoso, purificado, virtuoso, ágil, móvel, tépido, viçoso; é meu corpo liso, castrado, arredondado como uma bolha de sabão.\n\nFOUCAULT, M. O corpo utópico, as heterotopias. São Paulo: Edições N-1, 2013.\n\nEsse texto reforça uma concepção metafísica clássica que remete a um(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "pressuposto lógico."
+        },
+        {
+          "letra": "B",
+          "texto": "pensamento dicotômico."
+        },
+        {
+          "letra": "C",
+          "texto": "contemplação da natureza."
+        },
+        {
+          "letra": "D",
+          "texto": "raciocínio argumentativo."
+        },
+        {
+          "letra": "E",
+          "texto": "crítica à individualidade."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Filosofia – Metafísica e Filosofia da Mente"
+      ]
+    },
+    {
+      "numeroEnunciado": 67,
+      "enunciado": "No primeiro dia, foi colocada uma panela de barro no centro do barracão, a qual representava o espírito do morto presente na sala. Aqueles que dançavam depositavam moedas ao passarem junto dela e, ao seu redor, milho branco, mel, água, acaçás, cachaça. No segundo dia, os ogãs, antes de iniciar a cerimônia, caminharam pelo corredor formado pelas casas, batendo com longas varas de bambus nos seus beirais, até alcançarem o portão de entrada. No terceiro dia, quatro pessoas, as mais influentes do culto, carregaram um lençol, que aparentemente continha um corpo em seu interior. No entanto, esse corpo era formado por folhas verdes de plantas, que foram derramadas sobre uma pessoa.\n\nMANZOCHI, H. M. Axexe, um rito de passagem. Revista do Museu de Arqueologia e Etnologia, n. 5, 1995 (adaptado).\n\nO ritual brasileiro apresentado no texto representa, para seus adeptos, a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "manutenção de uma memória coletiva."
+        },
+        {
+          "letra": "B",
+          "texto": "contestação de uma identidade étnica."
+        },
+        {
+          "letra": "C",
+          "texto": "imolação de uma divindade africana."
+        },
+        {
+          "letra": "D",
+          "texto": "legitimação de uma prática pagã."
+        },
+        {
+          "letra": "E",
+          "texto": "promissão de uma revolta social."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Sociologia – Religião e Cultura",
+        "História – Culturas Afro-Brasileiras"
+      ]
+    },
+    {
+      "numeroEnunciado": 68,
+      "enunciado": "Espaços públicos não são produtos dados e acabados, uma instituição que, uma vez estabelecida, traria a paz da consensualidade e a perfeita igualdade. São os lugares em que os problemas aparecem e se transformam em debates, em diálogo e em possibilidade de ajuste e compromissos. Por isso, não anulam os conflitos, ao contrário, são canais de comunicação e de visibilidade de oposições.\n\nGOMES, P. C. C. Espaço público, espaços públicos. Geographia, n. 44, set.-dez. 2018 (adaptado).\n\nAs características descritas no texto exibem a importância dos espaços públicos para a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "prática do lazer."
+        },
+        {
+          "letra": "B",
+          "texto": "vigilância da sociedade."
+        },
+        {
+          "letra": "C",
+          "texto": "erradicação da violência."
+        },
+        {
+          "letra": "D",
+          "texto": "construção da democracia."
+        },
+        {
+          "letra": "E",
+          "texto": "diversificação do trabalho."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Sociologia – Espaço Público e Cidadania",
+        "Geografia – Geografia Urbana"
+      ]
+    },
+    {
+      "numeroEnunciado": 69,
+      "enunciado": "A democracia responde a esta pergunta: quem deve exercer o poder público? A resposta é: o exercício do poder público corresponde à coletividade dos cidadãos. Contudo, nessa pergunta não se fala sobre qual extensão deva ter o poder público. Trata-se somente de determinar o sujeito a quem o mando compete. A democracia propõe que mandemos todos; quer dizer, que todos intervenham nos fatos sociais.\n\nORTEGA Y GASSET, J. apud MAIA, E. C. Mario Vargas Llosa e o indivíduo para além da tribo. Disponível em: www.estadodaarte.estadao.com.br. Acesso em: 10 out. 2021 (adaptado).\n\nO que sustenta o exercício do poder, conforme a configuração apresentada no texto escrito na década de 1920?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Soberania popular."
+        },
+        {
+          "letra": "B",
+          "texto": "Divisão de classes."
+        },
+        {
+          "letra": "C",
+          "texto": "Acúmulo de capital."
+        },
+        {
+          "letra": "D",
+          "texto": "Defesa da propriedade."
+        },
+        {
+          "letra": "E",
+          "texto": "Centralização administrativa."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Filosofia – Teoria Política",
+        "Sociologia – Cidadania e Democracia"
+      ]
+    },
+    {
+      "numeroEnunciado": 70,
+      "enunciado": "A mudança do clima nas cidades brasileiras é um desafio de adaptação e equidade. Inundações, alagamentos e ondas de calor são cada vez mais frequentes e intensas. Cidades precisam se adaptar com urgência, a começar pelas áreas e populações mais vulneráveis. Implementar soluções baseadas na natureza de forma sistêmica pode contribuir para a redução de desastres relacionados às mudanças do clima e ainda gerar múltiplos benefícios para a economia, o ambiente e as pessoas.\n\nEVERS, H. et al. Soluções baseadas na natureza para adaptação em cidades. Disponível em: www.wribrasil.org.br. Acesso em: 19 out. 2023 (adaptado).\n\nQual medida atenua os problemas abordados no texto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Criação de faixas sinalizadoras."
+        },
+        {
+          "letra": "B",
+          "texto": "Incineração de resíduos sólidos."
+        },
+        {
+          "letra": "C",
+          "texto": "Implantação de parques públicos."
+        },
+        {
+          "letra": "D",
+          "texto": "Verticalização de espaços centrais."
+        },
+        {
+          "letra": "E",
+          "texto": "Construção de estacionamentos privados."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Geografia – Questões Ambientais e Urbanização"
+      ]
+    },
+    {
+      "numeroEnunciado": 71,
+      "enunciado": "O Conselho de Segurança da Organização das Nações Unidas (ONU) é, junto com a Assembleia-Geral, um dos principais órgãos de tomada de decisão dentro da entidade. O Conselho lida com questões de segurança e paz internacionais, além de recomendar a admissão de novos membros à Assembleia-Geral e aprovar mudanças na Carta das Nações Unidas. Cinco dos quinze membros são permanentes e podem vetar resoluções, o que ocorreu 261 vezes até 2020.\n\nGOMES, L.; PRETTO, N. O funcionamento do Conselho de Segurança das Nações Unidas. Disponível em: www.nexojornal.com.br. Acesso em: 10 nov. 2021 (adaptado).\n\nA composição e o funcionamento do organismo internacional apresentados revelam a seguinte característica das relações internacionais entre os países-membros:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Igualdade militar."
+        },
+        {
+          "letra": "B",
+          "texto": "Assimetria política."
+        },
+        {
+          "letra": "C",
+          "texto": "Consenso multipolar."
+        },
+        {
+          "letra": "D",
+          "texto": "Equilíbrio estratégico."
+        },
+        {
+          "letra": "E",
+          "texto": "Soberania compartilhada."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "História – Geopolítica e Organizações Internacionais",
+        "Sociologia – Relações Internacionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 72,
+      "enunciado": "Uma fábrica na qual os operários fossem, efetiva e integralmente, simples peças de máquinas executando cegamente as ordens da direção pararia em quinze minutos. O capitalismo só pode funcionar com a contribuição constante da atividade propriamente humana de seus subjugados que, ao mesmo tempo, tenta reduzir e desumanizar o mais possível.\n\nCASTORIADIS, C. A instituição imaginária da sociedade. Rio de Janeiro: Paz e Terra, 1982.\n\nO texto apresenta uma contradição interna do capitalismo caracterizada pela",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "obsolescência associada ao uso da tecnologia."
+        },
+        {
+          "letra": "B",
+          "texto": "orientação voltada à administração de conflitos."
+        },
+        {
+          "letra": "C",
+          "texto": "alienação decorrente da organização do trabalho."
+        },
+        {
+          "letra": "D",
+          "texto": "isonomia remanescente da geração de riquezas."
+        },
+        {
+          "letra": "E",
+          "texto": "produtividade vinculada ao fortalecimento da autonomia."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Sociologia – Capitalismo e Trabalho",
+        "Filosofia – Crítica Social"
+      ]
+    },
+    {
+      "numeroEnunciado": 73,
+      "enunciado": "TEXTO I:\n\"As novelas brasileiras foram as primeiras a aparecer na TV russa ainda na época de Gorbachov, nos anos 1980. Elas causaram sensação. Houve casos anedóticos, como quando o Parlamento da Federação Russa terminou a sessão mais cedo para ver o último capítulo de Escrava Isaura”, conta o russo Anatoli Sostanov, consultor na área de TV internacional e ex-diretor da emissora estatal russa Canal.\n\nCARVALHO, G. Xilogravura: os percursos da criação popular. Revista do Instituto de Estudos Brasileiros, n. 39, 1986 (adaptado).\n\nTEXTO II:\nAs novelas de maior impacto em Angola foram as produções brasileiras. Fizeram tanto sucesso que um mercado popular, na época era o maior a céu aberto na África, chegou a receber o nome de Roque Santeiro, novela brasileira exibida naquele país na década de 1980. A influência das produções brasileiras fez com que os angolanos conhecessem o Brasil por meio das novelas. Além de entreter, os folhetins brasileiros até hoje ditam a moda em Angola. Figurinos e acessórios de personagens se transformam em uma verdadeira febre e influenciam o comportamento.\n\nDisponível em: https://tvbrasil.ebc.com.br. Acesso em: 16 out. 2021 (adaptado).\n\nEmbora situados em continentes diferentes com práticas sociais distintas, Rússia e Angola se aproximam, conforme os textos I e II, no aspecto",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cultural, ao subjetivarem costumes da teledramaturgia estrangeira."
+        },
+        {
+          "letra": "B",
+          "texto": "econômico, ao importarem confecções de estilistas famosos."
+        },
+        {
+          "letra": "C",
+          "texto": "geográfico, ao encurtarem distâncias de caráter ideológico."
+        },
+        {
+          "letra": "D",
+          "texto": "antropológico, ao adaptarem valores de povos tradicionais."
+        },
+        {
+          "letra": "E",
+          "texto": "político, ao adotarem sistemas de governos democráticos."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Geografia – Globalização Cultural",
+        "Sociologia – Cultura de Massa"
+      ]
+    },
+    {
+      "numeroEnunciado": 74,
+      "enunciado": "No Brasil, os remanescentes de antigos quilombos, “mocambos”, “comunidades negras rurais\", \"quilombos contemporâneos”, “comunidades quilombolas” ou “terras de preto\" referem-se a um mesmo patrimônio territorial e cultural inestimável, que só recentemente passaram a ter atenção do Estado e ser do interesse de algumas autoridades e organismos oficiais.\n\nANJOS, R. S. A. Cartografia e quilombos: territórios étnicos africanos no Brasil. Africana Studia, n. 9, 2007.\n\nNa esfera de ação do Estado, com a Constituição de 1988, os espaços mencionados tornaram-se objeto de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "iniciativas de planejamento familiar."
+        },
+        {
+          "letra": "B",
+          "texto": "projetos de reorientação religiosa."
+        },
+        {
+          "letra": "C",
+          "texto": "programas de moradias sustentáveis."
+        },
+        {
+          "letra": "D",
+          "texto": "políticas de inserção social."
+        },
+        {
+          "letra": "E",
+          "texto": "medidas de homogeneização educacional."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "História – História Afro-Brasileira",
+        "Sociologia – Direitos e Cidadania"
+      ]
+    },
+    {
+      "numeroEnunciado": 75,
+      "enunciado": "Bertrand Russell conta a história de um peru que descobrira, em sua primeira manhã na fazenda de perus, que fora alimentado às 9 da manhã. Contudo, ele não tirou conclusões apressadas. Esperou até recolher um grande número de observações do fato de que era alimentado às 9 da manhã e fez essas observações sob uma ampla variedade de circunstâncias, às quartas e quintas-feiras, em dias quentes e dias frios, em dias chuvosos e dias secos. A cada dia acrescentava uma outra proposição de observação à sua lista. Finalmente, sua consciência ficou satisfeita e ele concluiu. \"Eu sou alimentado sempre às 9 da manhã”.\n\nCHALMERS, A. O que é ciência, afinal? São Paulo: Brasiliense, 1993 (adaptado).\n\nQual tipo de raciocínio corresponde ao padrão de pensamento exibido pelo personagem do texto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Prático, porque recolhe evidências e recomenda ações."
+        },
+        {
+          "letra": "B",
+          "texto": "Absoluto, porque busca confirmações e bloqueia refutações."
+        },
+        {
+          "letra": "C",
+          "texto": "Indutivo, porque observa eventos particulares e infere leis universais."
+        },
+        {
+          "letra": "D",
+          "texto": "Demonstrativo, porque encadeia premissas e extrai conclusões indubitáveis."
+        },
+        {
+          "letra": "E",
+          "texto": "Analógico, porque compara diferentes situações e detecta elementos semelhantes."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Filosofia – Lógica e Epistemologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 76,
+      "enunciado": "A finalidade mais marcante em toda a história dos mapas, desde o seu início, teria sido a de estarem sempre voltados à prática, principalmente a serviço da dominação, do poder. Sempre registraram o que mais interessava a uma minoria, fato este que acabou estimulando o incessante aperfeiçoamento deles.\n\nMARTINELLI, M. Mapas da geografia e cartografia temática. São Paulo: Contexto, 2011 (adaptado).\n\nNo texto, a cartografia é apresentada como um instrumento usado essencialmente para a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "preservação de espaços naturais."
+        },
+        {
+          "letra": "B",
+          "texto": "emancipação de sujeitos marginais."
+        },
+        {
+          "letra": "C",
+          "texto": "revalorização de culturas reprimidas."
+        },
+        {
+          "letra": "D",
+          "texto": "inversão de hierarquias estabelecidas."
+        },
+        {
+          "letra": "E",
+          "texto": "sustentação de hegemonias territoriais."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Geografia – Cartografia e Poder",
+        "História – Relações de Poder"
+      ]
+    },
+    {
+      "numeroEnunciado": 77,
+      "enunciado": "A regra de ouro, popularmente conhecida pelo provérbio \"Trate os outros como gostaria de ser tratado\", é um dos princípios morais mais onipresentes. A noção subjacente, que apela para o senso ético mais básico, se expressa de uma forma ou de outra em praticamente todas as tradições religiosas, e poucos filósofos morais deixaram de invocar a regra ou pelo menos de tecer comentários a respeito da relação com seus próprios princípios.\n\nDUPRÉ, B. 50 grandes ideias da humanidade. São Paulo: Planeta do Brasil, 2016.\n\nO princípio ético apresentado no texto, como elemento estruturante da vida em sociedade, se traduz pela seguinte formulação teórica:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Doutrina teleológica."
+        },
+        {
+          "letra": "B",
+          "texto": "Imperativo categórico."
+        },
+        {
+          "letra": "C",
+          "texto": "Pensamento utilitarista."
+        },
+        {
+          "letra": "D",
+          "texto": "Secularização inautêntica."
+        },
+        {
+          "letra": "E",
+          "texto": "Raciocínio consequencialista."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Filosofia – Ética e Moral"
+      ]
+    },
+    {
+      "numeroEnunciado": 78,
+      "enunciado": "O que alicerça, portanto, o acolhimento de refugiados pelos Estados gira em torno da fronteira erguida entre inclusão e exclusão, admissão e rejeição, desejáveis e indesejáveis; ao mesmo tempo, enseja vulnerabilidade, indefinição e incerteza a esses migrantes internacionais forçados.\n\nMOREIRA, J. B. Refugiados no Brasil. REMHU, n. 43, jul.-dez. 2014.\n\nA eliminação, para os refugiados, do tipo de fronteira descrita no texto necessita de políticas públicas de",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "planejamento familiar."
+        },
+        {
+          "letra": "B",
+          "texto": "segregação territorial."
+        },
+        {
+          "letra": "C",
+          "texto": "homogeneização cultural."
+        },
+        {
+          "letra": "D",
+          "texto": "diferenciação étnico-racial."
+        },
+        {
+          "letra": "E",
+          "texto": "integração socioeconômica."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Geografia – Migrações e Refugiados",
+        "Sociologia – Políticas Sociais"
+      ]
+    },
+    {
+      "numeroEnunciado": 79,
+      "enunciado": "O que as capas da revista Travel in Brazil, publicadas entre 1941 e 1944 pelo Departamento de Imprensa e Propaganda (DIP), evidenciam?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Estereótipos da cultura nacional."
+        },
+        {
+          "letra": "B",
+          "texto": "Exploração da população pobre."
+        },
+        {
+          "letra": "C",
+          "texto": "Preconceitos de ordem racial."
+        },
+        {
+          "letra": "D",
+          "texto": "Política de censura midiática."
+        },
+        {
+          "letra": "E",
+          "texto": "Projeto de país industrial."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "História – Era Vargas e Propaganda",
+        "Arte – Representação da Cultura"
+      ]
+    },
+    {
+      "numeroEnunciado": 80,
+      "enunciado": "As capas dos folhetos de cordel, já então ilustradas por postais fotográficos, desenhos ou fotogramas de filmes, demoravam mais de uma semana para serem transformadas em clichês em Recife ou Fortaleza, o que levou a que santeiros e artesãos locais fossem requisitados para cortar na umburana – madeira preferida para o taco xilográfico pela facilidade do talhe e abundância – princesas, dragões, cangaceiros.\n\nCARVALHO, G. Xilogravura: os percursos da criação popular. Revista do Instituto de Estudos Brasileiros, n. 39, 1986 (adaptado).\n\nNo início do século XX, a incorporação da técnica de produção descrita no texto promoveu uma renovação da",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "manifestação jornalística."
+        },
+        {
+          "letra": "B",
+          "texto": "narrativa literária."
+        },
+        {
+          "letra": "C",
+          "texto": "indústria regional."
+        },
+        {
+          "letra": "D",
+          "texto": "estética editorial."
+        },
+        {
+          "letra": "E",
+          "texto": "cultura erudita."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Arte – Xilogravura e Cultura Popular",
+        "História – Cultura Brasileira (Século XX)"
+      ]
+    },
+    {
+      "numeroEnunciado": 81,
+      "enunciado": "O Círio de Nazaré é uma festa que ocorre, anualmente, na cidade de Belém do Pará, no segundo domingo do mês de outubro. Sua estrutura ritualística tem origem no catolicismo devocional que surge em Portugal por volta do século XV. Até 1789, a festa em louvor a Nossa Senhora de Nazaré, em Belém, era marcada pelas ladainhas e novenas. Em 1790, a Igreja Católica autorizou a realização de festa em homenagem à Virgem. A primeira procissão ocorreu em 1793. Existindo há mais de duzentos anos, a Festa congrega um extenso mosaico de elementos integrados em diferentes planos e graus de intensidade.\n\nALMEIDA, I. M. A. Revisitando o Círio de Nazaré a partir da lente sociológica de Eidorfe Moreira. Boletim do Museu Paraense Emílio Goeldi, n. 3, set.-dez. 2015 (adaptado).\n\nO reconhecimento da festa descrita no texto, como patrimônio histórico, encontra sustentação no(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "instituição de políticas públicas de âmbito local."
+        },
+        {
+          "letra": "B",
+          "texto": "registro de bens culturais de natureza imaterial."
+        },
+        {
+          "letra": "C",
+          "texto": "tombamento de sítios arqueológicos de propriedade privada."
+        },
+        {
+          "letra": "D",
+          "texto": "salvaguarda de elementos sacros de expressão regional."
+        },
+        {
+          "letra": "E",
+          "texto": "categorização de manifestações cristãs de caráter oficial."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "História – Cultura e Religião no Brasil",
+        "Sociologia – Patrimônio Cultural"
+      ]
+    },
+    {
+      "numeroEnunciado": 82,
+      "enunciado": "Os salões permitiam aos escritores da época do Iluminismo adentrar no universo dos poderosos. Figuras como as de Voltaire e Duclos exortavam seus \"irmãos\" a aproveitarem da mobilidade que era oferecida pela ordem social do Antigo Regime, juntando-se à elite. Nos últimos decênios do Ancien Régime, ele foi se tornando cada vez mais o reduto dos filósofos do Alto Iluminismo, que deixavam os cafés para os tipos inferiores de literário. Com efeito, os cafés se constituíram na antítese lógica dos salões. Eles eram abertos a todos, a um passo da rua. Como é possível constatar, salões e cafés constituem interessantes instituições do espaço público literário através das quais é possível vislumbrar as bases sociais nas quais se assentavam o Alto e o Baixo Iluminismo.\n\nHABERMAS, J. Mudança estrutural da esfera pública: investigações quanto a uma categoria da sociedade burguesa. Rio de Janeiro: Tempo Brasileiro, 1984 (adaptado).\n\nNo período iluminista, os espaços sociais mencionados contribuíram para",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "segregar pensadores e aumentar a circulação de ideias."
+        },
+        {
+          "letra": "B",
+          "texto": "apoiar revolucionários e perseguir a nobreza local."
+        },
+        {
+          "letra": "C",
+          "texto": "rejeitar poetisas e proibir a entrada de mulheres."
+        },
+        {
+          "letra": "D",
+          "texto": "censurar cronistas e coibir o patrocínio editorial."
+        },
+        {
+          "letra": "E",
+          "texto": "integrar artistas e ampliar o comércio urbano."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "História – Iluminismo e Sociedade",
+        "Sociologia – Esfera Pública"
+      ]
+    },
+    {
+      "numeroEnunciado": 83,
+      "enunciado": "Resumamos os principais caracteres de um rizoma: diferentemente das árvores ou de suas raízes, o rizoma conecta um ponto qualquer com outro ponto qualquer e cada um de seus traços não remete necessariamente a traços de mesma natureza. Contra os sistemas centrados (e mesmo policentrados), de comunicação hierárquica e ligações preestabelecidas, o rizoma é um sistema a-centrado não hierárquico e não significante, sem general, sem memória organizadora ou autômato central, unicamente definido por uma circulação de estados.\n\nDELEUZE, G.; GUATTARI, F. Mil platôs. São Paulo: Editora 34, 1995 (adaptado).\n\nQual elemento da cultura contemporânea se relaciona às características do conceito de rizoma, conforme descrito no texto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Estrutura fixa."
+        },
+        {
+          "letra": "B",
+          "texto": "Lógica binária."
+        },
+        {
+          "letra": "C",
+          "texto": "Controle homogêneo."
+        },
+        {
+          "letra": "D",
+          "texto": "Uniformidade de opiniões."
+        },
+        {
+          "letra": "E",
+          "texto": "Pluralidade de interações."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Filosofia – Teoria Contemporânea",
+        "Sociologia – Teoria Social"
+      ]
+    },
+    {
+      "numeroEnunciado": 84,
+      "enunciado": "Em 1960, a primeira pílula anticoncepcional foi comercializada nos EUA, e, em poucos anos, o método contraceptivo se difundiu pelo mundo, inclusive no Brasil. Em nosso país, a chegada das pílulas anticoncepcionais foi simultânea às discussões neomalthusianas sobre a crise demográfica, à aceleração dos processos de modernização e ao boom da indústria farmacêutica multinacional.\n\nDIAS, T. M. et al. A pílula da oportunidade: discursos sobre as pílulas anticoncepcionais em A Gazeta da Farmácia, 1960-1981. História, Ciências, Saúde Manguinhos, n. 3, jul.-set. 2018 (adaptado).\n\nQual foi o efeito social resultante do avanço tecnológico mencionado no texto?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "O afastamento da autoridade médica na regulação da fecundidade."
+        },
+        {
+          "letra": "B",
+          "texto": "A superação do discurso da moralidade pela ação da mídia estatal."
+        },
+        {
+          "letra": "C",
+          "texto": "A ampliação do debate público sobre o planejamento familiar."
+        },
+        {
+          "letra": "D",
+          "texto": "A centralização da pesquisa científica pelo sistema privado de saúde."
+        },
+        {
+          "letra": "E",
+          "texto": "O enrijecimento das doutrinas religiosas sobre a organização da vida doméstica."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Sociologia – Gênero e Saúde",
+        "História – Sociedade e Tecnologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 85,
+      "enunciado": "A internet fortalece o engajamento e a visibilidade de populações tradicionais e indígenas por meio de redes sociais, rádios e veículos de mídia digital. Ela também promove a criação e o fortalecimento de mercados e a inovação nos sistemas de financiamento, integrando pequenos agricultores e produtores da comunidade florestal a cadeias de abastecimento maiores.\n\nGROTTERA, C.; CASTRO, L. M.; BRITO, M. C. Como a tecnologia pode ser uma aliada na conservação ambiental. Nexo Jornal, 14 ago. 2021.\n\nA adoção da tecnologia mencionada amplia a rentabilidade das comunidades citadas, ao possibilitar o(a):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Valorização da economia local."
+        },
+        {
+          "letra": "B",
+          "texto": "Elaboração de projetos culturais."
+        },
+        {
+          "letra": "C",
+          "texto": "Estabelecimento de regras comerciais."
+        },
+        {
+          "letra": "D",
+          "texto": "Incremento da infraestrutura educacional."
+        },
+        {
+          "letra": "E",
+          "texto": "Homogeneização da qualificação profissional."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Geografia – Tecnologia e Desenvolvimento Sustentável",
+        "Sociologia – Comunidades Tradicionais"
+      ]
+    },
+    {
+      "numeroEnunciado": 86,
+      "enunciado": "TEXTO I:\nUma única árvore joga entre 300 e 1000 litros de água por dia para a atmosfera. Considerando a demanda mínima que uma pessoa consome de água, ou seja, 120 litros por dia, uma única árvore pode ser capaz de produzir água para até oito pessoas.\n\nMAGNO, C. Estudiosos explicam o motivo de chover tanto em Belém. Disponível em: www.diarioonline.com.br. Acesso em: 6 nov. 2021.\n\nTEXTO II:\nA Amazônia perdeu diariamente uma área de floresta maior do que 4 mil campos de futebol apenas em setembro de 2021. Em todo o mês, foram devastados 1224 km², o que corresponde ao tamanho da cidade do Rio de Janeiro e é a pior marca para setembro em 10 anos. Os dados são do Sistema de Alerta de Desmatamento (SAD) do Instituto do Homem e Meio Ambiente da Amazônia (Imazon), que monitora a floresta por meio de imagens de satélites.\n\nFREITAS, A. Desmatamento na Amazônia em setembro foi o maior para o período em 10 anos. Disponível em: www.cnnbrasil.com.br. Acesso em: 6 nov. 2021.\n\nPara a região amazônica, a relação entre as informações dos textos indica uma redução do(a)",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "circulação de ventos alísios."
+        },
+        {
+          "letra": "B",
+          "texto": "aquecimento dos solos locais."
+        },
+        {
+          "letra": "C",
+          "texto": "média de temperatura oceânica."
+        },
+        {
+          "letra": "D",
+          "texto": "índice de refletividade superficial."
+        },
+        {
+          "letra": "E",
+          "texto": "intensidade de chuvas convectivas."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Geografia – Biomas Brasileiros e Clima",
+        "Biologia – Ecologia e Impactos Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 87,
+      "enunciado": "Atribuo a causa desse florescimento estéril a um sistema de educação falso, extraído de livros sobre o assunto escrito por homens que, ao considerar as mulheres mais como fêmeas do que como criaturas humanas, estão mais ansiosos em torná-las damas sedutoras do que esposas afetuosas e mães racionais. O entendimento do sexo feminino tem sido tão distorcido por essa homenagem ilusória de que as mulheres civilizadas de nosso século, com raras exceções, anseiam apenas inspirar amor, quando deveriam nutrir uma ambição mais nobre e exigir respeito por suas capacidades e virtudes.\n\nWOLLSTONECRAFT, M. Reivindicação dos direitos da mulher. São Paulo: Boitempo, 2016.\n\nNesse texto, escrito no século XVIII, a autora reivindica para as mulheres a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "recuperação de sua participação política."
+        },
+        {
+          "letra": "B",
+          "texto": "equiparação de ganhos salariais."
+        },
+        {
+          "letra": "C",
+          "texto": "valorização de seu papel social."
+        },
+        {
+          "letra": "D",
+          "texto": "distinção de padrões biológicos."
+        },
+        {
+          "letra": "E",
+          "texto": "ocupação de cargos públicos."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "História – Iluminismo e Feminismo",
+        "Sociologia – Gênero e Educação"
+      ]
+    },
+    {
+      "numeroEnunciado": 88,
+      "enunciado": "Cada objeto é, em si mesmo, um sistema funcionando sistemicamente. Um grande supermercado ou shopping center seria incapaz de existir se não fossem servidos por vias rápidas, estacionamentos adequados e acessíveis, sistemas de transportes públicos com horários regulares e conhecidos e se, no seu próprio interior, as atividades não estivessem subordinadas a uma coordenação. Esse é o caso dos armazéns, dos silos etc. Os portos, a rede rodoviária de um país e, sobretudo, a rede ferroviária são exemplos de objetos complexos e sistêmicos.\n\nSANTOS, M. A natureza do espaço: técnica, tempo, razão e emoção. São Paulo: Hucitec, 1996 (adaptado).\n\nDe acordo com o texto, o território torna-se cada vez mais dotado de objetos com a finalidade de intensificar a",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "desindustrialização da economia."
+        },
+        {
+          "letra": "B",
+          "texto": "desregulamentação do mercado."
+        },
+        {
+          "letra": "C",
+          "texto": "concentração da produção."
+        },
+        {
+          "letra": "D",
+          "texto": "distribuição de renda."
+        },
+        {
+          "letra": "E",
+          "texto": "dinamização dos fluxos."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Geografia – Geografia Econômica e Transportes",
+        "Sociologia – Infraestrutura e Desenvolvimento"
+      ]
+    },
+    {
+      "numeroEnunciado": 89,
+      "enunciado": "A 26ª Conferência do Clima das Nações Unidas foi realizada com a perspectiva de que os países tornassem ainda mais ambiciosos os compromissos assumidos no enfrentamento das mudanças climáticas, de modo a evitar que a temperatura global se eleve acima de $1,5 \\degree C$, marca que já vinha sendo discutida desde o Acordo de Paris, de 2015. A pressão do setor empresarial, que se posicionou de maneira contundente nesta COP-26, gerou impacto positivo. O Conselho Empresarial Brasileiro para o Desenvolvimento Sustentável (CEBDS) capitaneou, por meio do movimento Empresários pelo Clima, a adesão de 119 CEOs de importantes empresas e 14 instituições do setor privado, de setores tão diversos como agronegócio, alimentício, aviação, elétrico, farmacêutico, finanças, infraestrutura, logística, papel e celulose, petroquímico, saúde, tecnologia, telefonia e varejo. O Brasil deixa a conferência com o compromisso de fazer valer sua meta e reduzir 50% dos gases de efeito estufa até 2030 em relação aos níveis de 2005 — anteriormente, a meta de redução era de 43%. GROSSI, M. A mais plural das COPs e a lição de casa para o Brasil. Disponível em: www.nexojornal.com.br. Acesso em: 24 nov. 2021 (adaptado). Conforme o texto, o compromisso assumido pelo Brasil foi resultado dos tensionamentos promovidos por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "povos ribeirinhos e segmentos culturais."
+        },
+        {
+          "letra": "B",
+          "texto": "blocos econômicos e instituições militares."
+        },
+        {
+          "letra": "C",
+          "texto": "grupos científicos e universidades públicas."
+        },
+        {
+          "letra": "D",
+          "texto": "organismos supranacionais e sociedade civil."
+        },
+        {
+          "letra": "E",
+          "texto": "agentes governamentais e demanda turística."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Geografia – Questões Ambientais e Geopolítica",
+        "Sociologia – Globalização e Meio Ambiente"
+      ]
+    },
+    {
+      "numeroEnunciado": 90,
+      "enunciado": "A pessoa com deficiência de qualquer modalidade – seja visual, auditiva, física ou mental – encontra-se em uma posição de grande vulnerabilidade em relação às pessoas sem deficiência, sendo frequentemente marcante a assimetria das relações de poder na interação entre ambas. Tal assimetria de relação hierárquica é multiplicada conforme a severidade de cada caso, sendo ampliada se a pessoa com necessidades especiais pertencer a um outro grupo de risco, por exemplo, se for mulher ou criança.\n\nPASIAN, M. S. A negligência parental e a relação com a deficiência: o que mostra a pesquisa nacional. Revista Educação Especial, n. 53, set.-dez. 2015 (adaptado).\n\nA realidade abordada no texto indica a necessidade de se promover uma ética interpessoal centrada no",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cuidado, proteção e valorização dos indivíduos."
+        },
+        {
+          "letra": "B",
+          "texto": "entendimento, perdão e tolerância dos responsáveis."
+        },
+        {
+          "letra": "C",
+          "texto": "cerceamento, arregimentação e controle de entidades."
+        },
+        {
+          "letra": "D",
+          "texto": "regramento, legislação e responsabilização de culpados."
+        },
+        {
+          "letra": "E",
+          "texto": "ensimesmamento, interiorização e indulgência dos agentes."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Sociologia – Direitos Humanos e Inclusão",
+        "Filosofia – Ética e Diversidade"
+      ]
+    }
+  ]
+}

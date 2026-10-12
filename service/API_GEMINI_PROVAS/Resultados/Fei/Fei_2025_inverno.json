@@ -1,0 +1,1814 @@
+{
+  "nomeUniversidade": "Centro Universitário FEI",
+  "siglaUniversidade": "FEI",
+  "nomeProva": "Processo Seletivo de Engenharia, Ciência da Computação, Ciência de Dados e Inteligência Artificial",
+  "ano": 2025,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": "1",
+      "enunciadoCompleto": "O turismo sustentável diz respeito a práticas responsáveis de viagem e é hoje uma forte tendência não só no Brasil, mas no mundo. Com base nesse conceito, avalie a descrição dos tipos de turismo a seguir:\n\nI. Turismo emocional: valoriza experiências e conexões humanas.\nII. Turismo comunitário: participação e apoio direto dos grandes centros urbanos.\nIII. Turismo enogastronômico: exploração da cultura gastronômica mundial.\nIV. Turismo de proximidade: redução de deslocamentos com vistas à beleza local.\n\nÉ possível afirmar que estão corretas as afirmativas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "II e III."
+        },
+        {
+          "letra": "C",
+          "texto": "I e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "II, III e IV."
+        },
+        {
+          "letra": "E",
+          "texto": "I, II e IV."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Compreensão de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": "2",
+      "enunciadoCompleto": "A argumentação do texto é construída tanto pela presença de dados ___________ que cria uma espécie de linha do tempo, quanto pela ___________ mais contextualizada do conceito.\n\nQual das alternativas a seguir preenche adequadamente as lacunas do enunciado anterior?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "históricos / exemplificação."
+        },
+        {
+          "letra": "B",
+          "texto": "numéricos / comparação."
+        },
+        {
+          "letra": "C",
+          "texto": "quantitativos / exposição."
+        },
+        {
+          "letra": "D",
+          "texto": "qualitativos / descrição."
+        },
+        {
+          "letra": "E",
+          "texto": "opinativos / inter-relação."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Tipologia Textual",
+        "Língua Portuguesa – Coesão e Coerência"
+      ]
+    },
+    {
+      "numeroEnunciado": "3",
+      "enunciadoCompleto": "Ao escrever, fazemos uso de gêneros discursivos diversos, os quais atendem a uma finalidade social específica. Com base no que foi lido, é possível afirmar que o texto é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "uma notícia, que pretende garantir a existência de guias sustentáveis."
+        },
+        {
+          "letra": "B",
+          "texto": "um conto de ficção científica, que mostra como é um futuro sustentável."
+        },
+        {
+          "letra": "C",
+          "texto": "uma crônica, que provoca uma reflexão sobre a sustentabilidade local."
+        },
+        {
+          "letra": "D",
+          "texto": "um artigo científico, que evidencia o resultado de pesquisas recentes."
+        },
+        {
+          "letra": "E",
+          "texto": "uma reportagem, que objetiva estimular a prática sustentável do turismo."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Gêneros Textuais",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": "4",
+      "enunciadoCompleto": "Na língua portuguesa, as conjunções têm papel fundamental na construção de sentidos, pois relacionam as partes do texto, garantindo uma maior clareza entre as ideias. Releia o enunciado a seguir, retirado do parágrafo 7:\n\n\"Viajar de avião por longas distâncias causa um impacto considerável em nossa atmosfera; portanto, podemos optar por destinos próximos (...)\".\n\nA conjunção destacada evidencia, entre as orações, uma relação de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "explicação de ideias, como ocorre em “Viajei, porque quero descansar.\""
+        },
+        {
+          "letra": "B",
+          "texto": "alternância de ideias, como ocorre em “Não sei se passeio ou durmo um pouco.”"
+        },
+        {
+          "letra": "C",
+          "texto": "adição de ideias, como ocorre em “Além de correr toda manhã, quero nadar.\""
+        },
+        {
+          "letra": "D",
+          "texto": "conclusão de ideias, como ocorre em “Estudei bastante, logo serei aprovado.\""
+        },
+        {
+          "letra": "E",
+          "texto": "oposição de ideias, como ocorre em “Preciso trabalhar, porém estou com sono.”"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Sintaxe (Conjunções)",
+        "Língua Portuguesa – Coesão Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": "5",
+      "enunciadoCompleto": "A propaganda geralmente é produzida com uma linguagem verbo-visual, isto é, imagens e textos se inter-relacionam para construir o sentido pretendido. Considere as afirmações a seguir:\n\nI. A faixa de pedestre dialoga com a frase \"(...) responsabilidade salva vidas”.\nII. As imagens de carros, ônibus e bicicleta dialogam com a palavra “veículos”.\nIII. A indicação de distância entre ciclista e carros reforça a ideia de \"respeito\".\nIV. A presença de uma faixa de ônibus relaciona-se com o conceito de \"trânsito”.\n\nCom base no texto, é possível afirmar que estão corretas as afirmativas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I e II."
+        },
+        {
+          "letra": "B",
+          "texto": "I e III."
+        },
+        {
+          "letra": "C",
+          "texto": "I e IV."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III."
+        },
+        {
+          "letra": "E",
+          "texto": "II e IV."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Gêneros Textuais (Propaganda)"
+      ]
+    },
+    {
+      "numeroEnunciado": "6",
+      "enunciadoCompleto": "O slogan é uma parte da propaganda que gera uma imagem positiva, causando no leitor o interesse por aderir a uma ideia. Ele costuma ser uma frase de efeito que dialoga com o texto principal da campanha. No texto lido, é possível dizer que o slogan é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"No trânsito, sua responsabilidade salva vidas.”"
+        },
+        {
+          "letra": "B",
+          "texto": "\"Bicicleta também é veículo. Respeite o ciclista.\""
+        },
+        {
+          "letra": "C",
+          "texto": "\"Bicicleta também é veículo.\""
+        },
+        {
+          "letra": "D",
+          "texto": "\"Respeite o ciclista.\""
+        },
+        {
+          "letra": "E",
+          "texto": "\"Semana do ciclista.\""
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Gêneros Textuais (Propaganda)",
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": "7",
+      "enunciadoCompleto": "Os verbos podem ser utilizados em três modos distintos: indicativo, subjuntivo e imperativo. Cada um desses modos verbais pode revelar diferentes intencionalidades.\n\nEm \"Respeite o ciclista\", o verbo destacado:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "está no modo indicativo e evidencia certeza."
+        },
+        {
+          "letra": "B",
+          "texto": "está no modo imperativo e evidencia crítica."
+        },
+        {
+          "letra": "C",
+          "texto": "está no modo subjuntivo e evidencia dúvida."
+        },
+        {
+          "letra": "D",
+          "texto": "está no modo indicativo e evidencia incerteza."
+        },
+        {
+          "letra": "E",
+          "texto": "está no modo imperativo e evidencia orientação."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Morfologia (Verbos)",
+        "Língua Portuguesa – Gramática"
+      ]
+    },
+    {
+      "numeroEnunciado": "8",
+      "enunciadoCompleto": "Em relação à temática é possível afirmar que os textos 3 e 4:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "São iguais, pois ambos evidenciam o desejo de deixar a terra natal."
+        },
+        {
+          "letra": "B",
+          "texto": "São parecidos, visto que ambos expressam os horrores da terra natal."
+        },
+        {
+          "letra": "C",
+          "texto": "São semelhantes, já que ambos expressam a saudade da terra natal."
+        },
+        {
+          "letra": "D",
+          "texto": "São diferentes: o primeiro expressa a saudade, já o segundo, o amor."
+        },
+        {
+          "letra": "E",
+          "texto": "São diferentes: o primeiro expressa o amor, já o segundo, a saudade."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Análise Literária"
+      ]
+    },
+    {
+      "numeroEnunciado": "9",
+      "enunciadoCompleto": "A intertextualidade é a retomada de um texto, evidenciando a relação entre eles. Para identificá-la, é possível perceber alguma marca linguística que comprova esse diálogo.\n\nNos poemas lidos, é possível dizer que a intertextualidade se comprova:\n\nI. pela retomada do canto do sabiá.\nII. pelas palavras ligadas à natureza.\nIII. pelo diálogo com uma divindade.\n\nÉ correto o que se afirma em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apenas I."
+        },
+        {
+          "letra": "B",
+          "texto": "apenas II."
+        },
+        {
+          "letra": "C",
+          "texto": "apenas III."
+        },
+        {
+          "letra": "D",
+          "texto": "apenas I e II."
+        },
+        {
+          "letra": "E",
+          "texto": "apenas II e III."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Intertextualidade",
+        "Língua Portuguesa – Análise Literária"
+      ]
+    },
+    {
+      "numeroEnunciado": "10",
+      "enunciadoCompleto": "A metáfora é uma figura de linguagem em que se evidencia uma comparação indireta, a partir da qual é possível relacionar, de modo implícito, seres que, em um primeiro momento, não teriam relação entre si.\n\nNo texto 3, ocorre metáfora em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"morrer na flor dos anos\"."
+        },
+        {
+          "letra": "B",
+          "texto": "\"Eu quero ouvir na laranjeira\"."
+        },
+        {
+          "letra": "C",
+          "texto": "\"tu bem vês que eu morro\"."
+        },
+        {
+          "letra": "D",
+          "texto": "\"Faz que eu viva, Senhor!”"
+        },
+        {
+          "letra": "E",
+          "texto": "\"Os gozos do meu lar\"."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Figuras de Linguagem",
+        "Língua Portuguesa – Análise Literária"
+      ]
+    },
+    {
+      "numeroEnunciado": "11",
+      "enunciadoCompleto": "Dadas as funções $f: [0,+\\infty[ \\rightarrow [-4,+\\infty[ / f (x)= x^2- 4$ e $g: [-4,+\\infty[ \\rightarrow [0,+\\infty[ /g (x)=\\sqrt{4+x}$, é correto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "g(f(3)) = 4"
+        },
+        {
+          "letra": "B",
+          "texto": "g(f(1)) = 2"
+        },
+        {
+          "letra": "C",
+          "texto": "f(g(5)) = 5"
+        },
+        {
+          "letra": "D",
+          "texto": "g(g(0)) = 4"
+        },
+        {
+          "letra": "E",
+          "texto": "f(f(1)) = 8"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Matemática – Funções",
+        "Matemática – Composição de Funções"
+      ]
+    },
+    {
+      "numeroEnunciado": "12",
+      "enunciadoCompleto": "Em um colégio, há 8 professores no conselho pedagógico: Ana, Beatriz, Carlos, Daniel, Eduardo, Fernanda, Guilherme e Helena. Deve-se formar uma comissão com 4 professores para representar a escola em um evento educacional. O quociente entre o número de comissões que não incluem o professor Carlos e o número total de comissões possíveis, na forma de uma fração irredutível, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{3}{7}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{4}{5}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{5}{6}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{3}{4}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{1}{2}$"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Matemática – Análise Combinatória",
+        "Matemática – Probabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": "13",
+      "enunciadoCompleto": "Um cone circular reto possui altura de 4 cm e sua área lateral é o dobro da área da base. Podemos afirmar que o volume desse cone, em centímetros cúbicos, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{16}{3} \\pi$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{32}{3} \\pi$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{64}{3} \\pi$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{5}{9} \\pi$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{32}{9} \\pi$"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Matemática – Geometria Espacial (Cones)",
+        "Matemática – Cálculo de Volume"
+      ]
+    },
+    {
+      "numeroEnunciado": "14",
+      "enunciadoCompleto": "Ao analisar uma amostra, um pesquisador seleciona dados que se encontram nos formatos A e B, e percebe que a razão do número de dados no formato A para o número de dados no formato B é igual a 0,6. Se na amostra há 360 dados no total, pode-se afirmar que os números de dados dos formatos A e B são, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "130 e 230"
+        },
+        {
+          "letra": "B",
+          "texto": "135 e 225"
+        },
+        {
+          "letra": "C",
+          "texto": "125 e 235"
+        },
+        {
+          "letra": "D",
+          "texto": "120 e 240"
+        },
+        {
+          "letra": "E",
+          "texto": "140 e 220"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Matemática – Razão e Proporção",
+        "Matemática – Problemas com Frações"
+      ]
+    },
+    {
+      "numeroEnunciado": "15",
+      "enunciadoCompleto": "Os valores para a e b, de modo que os polinômios $P(x)=x^3+x^2+ax+b$ e $Q(x)=x^2-x$ tenham duas raízes comuns a ambos e diferentes entre si, são, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 e 0"
+        },
+        {
+          "letra": "B",
+          "texto": "3 e 2"
+        },
+        {
+          "letra": "C",
+          "texto": "3 e 2"
+        },
+        {
+          "letra": "D",
+          "texto": "2 e 3"
+        },
+        {
+          "letra": "E",
+          "texto": "3 e 0"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Matemática – Polinômios",
+        "Matemática – Raízes de Polinômios"
+      ]
+    },
+    {
+      "numeroEnunciado": "16",
+      "enunciadoCompleto": "Considere o $\\Delta ABC$ com os lados de medidas: AB = 4 cm, BC = 5 cm e AC = 6 cm. Considere outro triângulo que seja SEMELHANTE ao $\\Delta ABC$, com perímetro medindo 45 cm. Nessas condições, é correto afirmar que o maior lado do triângulo semelhante ao $\\Delta ABC$ mede, em centímetros:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "18"
+        },
+        {
+          "letra": "B",
+          "texto": "17"
+        },
+        {
+          "letra": "C",
+          "texto": "16"
+        },
+        {
+          "letra": "D",
+          "texto": "15"
+        },
+        {
+          "letra": "E",
+          "texto": "14"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Matemática – Geometria Plana (Triângulos)",
+        "Matemática – Semelhança de Triângulos"
+      ]
+    },
+    {
+      "numeroEnunciado": "17",
+      "enunciadoCompleto": "Em uma empresa, 70% dos funcionários trabalham no setor de vendas e 30% trabalham no setor de marketing. Sabe-se que 40% dos funcionários do setor de vendas e 50% dos funcionários do setor de marketing possuem carro próprio. Se um funcionário é escolhido aleatoriamente e possui carro próprio, a probabilidade de que trabalhe no setor de vendas é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{7}{10}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{7}{25}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{4}{25}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{3}{43}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{28}{43}$"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Matemática – Probabilidade",
+        "Matemática – Probabilidade Condicional"
+      ]
+    },
+    {
+      "numeroEnunciado": "18",
+      "enunciadoCompleto": "A figura representa um triângulo ABC, com lado b oposto ao ângulo B, lado a oposto ao ângulo A e lado c oposto ao ângulo C. Sabe-se que o ângulo C é igual a 45° e as medidas dos lados a e b são a = 4 cm, b = $3\\sqrt{2}$ cm. A medida do lado c, em centímetros, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$3\\sqrt{5}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\sqrt{10}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\sqrt{15}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$2\\sqrt{5}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\sqrt{7}$"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Matemática – Geometria Plana (Triângulos)",
+        "Matemática – Lei dos Cossenos"
+      ]
+    },
+    {
+      "numeroEnunciado": "19",
+      "enunciadoCompleto": "Em uma Progressão Aritmética (P.A) de razão positiva, sabe-se que a soma dos cinco termos que a compõe é 25 e a soma do quadrado do terceiro termo com o quadrado do quarto termo é igual a 74. Assim, o termo central e a razão dessa progressão aritmética valem, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 e 2"
+        },
+        {
+          "letra": "B",
+          "texto": "5 e 3"
+        },
+        {
+          "letra": "C",
+          "texto": "6 e 3"
+        },
+        {
+          "letra": "D",
+          "texto": "5 e 2"
+        },
+        {
+          "letra": "E",
+          "texto": "7 e 4"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Matemática – Sequências Numéricas (P.A.)",
+        "Matemática – Progressão Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": "20",
+      "enunciadoCompleto": "Uma lanchonete vende três tipos de sanduíches: X-Burguer, X-Salada e X-Bacon. Ao final do dia foram vendidos 120 sanduíches no total. Os preços de venda são: X-Burguer: R$ 10,00; X-Salada: R$ 12,00 e X-Bacon: R$ 15,00. A receita total foi de R$ 1.350,00. Sabe-se, também, que o número de X-Burguers vendidos foi igual à soma do total de vendas dos outros dois tipos de sanduíches. Assim, o número de sanduíches de X-Bacon vendidos foi de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "60"
+        },
+        {
+          "letra": "B",
+          "texto": "50"
+        },
+        {
+          "letra": "C",
+          "texto": "40"
+        },
+        {
+          "letra": "D",
+          "texto": "20"
+        },
+        {
+          "letra": "E",
+          "texto": "10"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Matemática – Sistemas de Equações",
+        "Matemática – Problemas Algébricos"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Instruções: Se for necessário, use a aceleração da gravidade $g = 10 \\text{ m/s}^2$. 1ª Questão. Com o avanço da inteligência artificial (IA), tarefas computacionalmente intensivas, como a geração massiva de imagens e textos, têm exigido uma infraestrutura energética considerável. Em 2025, foi noticiado que uma série de imagens criadas por IA, inspiradas no estilo dos estúdios Ghibli, consumiu em poucas horas o equivalente à energia elétrica utilizada por uma pequena cidade brasileira no mesmo intervalo de tempo. Suponha que o conjunto de servidores responsáveis por esse processamento operou com uma potência elétrica constante de 2,25 megawatts (MW) durante 18 horas. Qual é o consumo de energia elétrica consumida por esse sistema em quilowatt-hora (kWh)?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4.500 kWh"
+        },
+        {
+          "letra": "B",
+          "texto": "18.000 kWh"
+        },
+        {
+          "letra": "C",
+          "texto": "25.000 kWh"
+        },
+        {
+          "letra": "D",
+          "texto": "40.500 kWh"
+        },
+        {
+          "letra": "E",
+          "texto": "180.000 kWh"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Potência e Energia Elétrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "2ª Questão. Estima-se que o conjunto de servidores responsáveis pelo processo de treinamento do modelo GPT-3 consumiu cerca de $1,6 \\times 10^6$ kWh de eletricidade. Sabe-se que a matriz energética do Brasil, que ainda depende de fontes não renováveis, gera 0,1 kg de $CO_2$ por kWh. Qual a quantidade de emissão de $CO_2$ gerada durante o treinamento do modelo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "60 toneladas"
+        },
+        {
+          "letra": "B",
+          "texto": "160 toneladas"
+        },
+        {
+          "letra": "C",
+          "texto": "600 toneladas"
+        },
+        {
+          "letra": "D",
+          "texto": "900 toneladas"
+        },
+        {
+          "letra": "E",
+          "texto": "1300 toneladas"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Física – Energia e Meio Ambiente"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "3ª Questão. Em março de 2025, dois astronautas retornaram à Terra após uma missão de aproximadamente nove meses a bordo de uma estação espacial. Durante esse período, os astronautas estiveram submetidos a condições de microgravidade. Considerando o momento de reentrada da cápsula na atmosfera terrestre e o subsequente pouso assistido por paraquedas, analise as afirmações a seguir e assinale a alternativa correta: I. Durante a reentrada na atmosfera, a cápsula sofre uma força de resistência do ar que atua no mesmo sentido do seu movimento. Essa força reduz a velocidade da cápsula, produzindo uma desaceleração. II. Durante a reentrada na atmosfera, a resistência do ar gera intenso aquecimento da cápsula, exigindo o uso de escudos térmicos para proteger os astronautas. III. Quando a cápsula começa a descer em direção à Terra, a energia térmica se transforma em energia potencial gravitacional, fazendo com que a velocidade da cápsula aumente cada vez mais.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas as afirmações I e III são verdadeiras"
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas as afirmações II e III são verdadeiras"
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas a afirmação II é verdadeira"
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas a afirmação III é verdadeira"
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as afirmações são verdadeiras"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Aerodinâmica e Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "4ª Questão. Quando um estímulo, como um toque, é aplicado na região do pé de uma pessoa, um impulso nervoso é gerado e se propaga até o cérebro para ser processado. Suponha que a distância entre o pé e o cérebro de uma pessoa seja de 1,80 m, e que a velocidade média de propagação do impulso nervoso seja de 30 m/s. Qual é o tempo necessário para que o impulso nervoso percorra essa distância e atinja o cérebro?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,06 s"
+        },
+        {
+          "letra": "B",
+          "texto": "0,07 s"
+        },
+        {
+          "letra": "C",
+          "texto": "0,08 s"
+        },
+        {
+          "letra": "D",
+          "texto": "0,09 s"
+        },
+        {
+          "letra": "E",
+          "texto": "0,10 s"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "5ª Questão. No gráfico a seguir temos a velocidade em função do tempo para um corpo deslocando-se em uma trajetória retilínea. Com base na análise do gráfico e nos conceitos de cinemática, força e energia mecânica, analise as afirmações a seguir e assinale a alternativa correta: I. O módulo da força atuando sobre o corpo no intervalo de tempo entre 0 s e 5 s é maior que o módulo da força atuando no intervalo de tempo entre 15 s e 20 s. II. No intervalo de tempo entre 5 s e 10 s, a energia cinética do corpo se anula em algum instante. III. No intervalo de tempo entre 10 s e 15 s a aceleração do corpo é nula. IV. A força aplicada sobre o corpo é oposta ao movimento durante o intervalo de tempo entre 5 s e 7 s.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas as afirmações I, II e III são verdadeiras"
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas as afirmações II, III e IV são verdadeiras"
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas a afirmação III é verdadeira"
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas a afirmação II é verdadeira"
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as afirmações são verdadeiras"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Cinemática",
+        "Física – Dinâmica",
+        "Física – Energia Mecânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "6ª Questão. A figura a seguir mostra o movimento de um elétron em uma região do espaço onde atuam um campo elétrico $\\vec{E}$ e um campo magnético $\\vec{B}$, ambos uniformes. Qual das alternativas a seguir representa corretamente a direção e o sentido das forças elétrica e magnética que atuam sobre o elétron?",
+      "alternativas": null,
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Física – Eletromagnetismo",
+        "Física – Força Magnética",
+        "Física – Força Elétrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "7ª Questão. Em uma aula de Laboratório de Física, a bancada experimental era composta por um sistema acoplado formado pelos blocos A e B que estão ligados por um fio ideal, conforme mostra a figura 1 a seguir. O bloco A está sobre um trilho de ar que remove por completo qualquer força dissipativa, enquanto o bloco B está suspenso. Ao longo do trilho de ar são posicionados sensores que permitem coletar medidas da velocidade ao longo do tempo, que possibilitou a montagem do gráfico a seguir (figura 2). Considerando a massa do bloco B igual a 0,2 kg, qual é a massa do bloco A?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,13 kg"
+        },
+        {
+          "letra": "B",
+          "texto": "1,20 kg"
+        },
+        {
+          "letra": "C",
+          "texto": "1,37 kg"
+        },
+        {
+          "letra": "D",
+          "texto": "1,42 kg"
+        },
+        {
+          "letra": "E",
+          "texto": "1,55 kg"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Leis de Newton",
+        "Física – Cinemática",
+        "Física – Dinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "8ª Questão. Em um circuito elétrico, três resistores $R_1 = 0,5 \\Omega$, $R_2 = 1,5 \\Omega$ e $R_3 = 1,2 \\Omega$ estão associados em série. Qual é a resistência equivalente do circuito?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$0,29 \\Omega$"
+        },
+        {
+          "letra": "B",
+          "texto": "$0,66 \\Omega$"
+        },
+        {
+          "letra": "C",
+          "texto": "$3,20 \\Omega$"
+        },
+        {
+          "letra": "D",
+          "texto": "$3,50 \\Omega$"
+        },
+        {
+          "letra": "E",
+          "texto": "$4,00 \\Omega$"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Eletrodinâmica",
+        "Física – Resistores em Série"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "9ª Questão. Durante a montagem do projeto de Laboratório de Física, estudantes constroem uma catapulta utilizando uma pequena mola presa a uma base de madeira. Ao comprimir a mola, colocam sobre ela uma esfera para observar seu lançamento. Um dos alunos mede que, ao comprimir a mola 10 cm, a esfera é lançada a uma certa distância. Sabendo que a mola tem constante elástica de 200 N/m e que não há perdas por atrito ou resistência do ar, qual é o valor da energia potencial elástica armazenada na mola?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 J"
+        },
+        {
+          "letra": "B",
+          "texto": "10 J"
+        },
+        {
+          "letra": "C",
+          "texto": "100 J"
+        },
+        {
+          "letra": "D",
+          "texto": "1 000 J"
+        },
+        {
+          "letra": "E",
+          "texto": "10 000 J"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Física – Energia Potencial Elástica",
+        "Física – Leis de Hooke"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "10ª Questão. Um ciclista desce uma ladeira pedalando e atinge grande velocidade. Em seguida, para reduzir a velocidade, ele para de pedalar e aciona os freios. Nesse momento, a força de atrito entre as pastilhas de freio e a roda passa a realizar trabalho sobre o sistema. Sobre a transformação de energia durante a frenagem, assinale a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A energia potencial gravitacional do ciclista aumenta devido à ação dos freios."
+        },
+        {
+          "letra": "B",
+          "texto": "Toda a energia cinética é convertida em energia potencial gravitacional."
+        },
+        {
+          "letra": "C",
+          "texto": "O atrito dos freios transforma energia térmica em energia cinética."
+        },
+        {
+          "letra": "D",
+          "texto": "O trabalho da força de atrito reduz a energia cinética e gera calor."
+        },
+        {
+          "letra": "E",
+          "texto": "O sistema ciclista-bicicleta passa a ganhar energia do ambiente."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Conservação de Energia",
+        "Física – Trabalho e Energia",
+        "Física – Atrito"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "QUÍMICA 1ª Questão. Um recipiente de volume constante contém 2 mols de um gás sob pressão de 1 atm e temperatura de $27 \\text{ °C}$. Este sistema sofre aquecimento até a temperatura de $177 \\text{ °C}$, mantendo-se o número de mols de gás fixo. A pressão final do sistema será igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,5 atm"
+        },
+        {
+          "letra": "B",
+          "texto": "2,4 atm"
+        },
+        {
+          "letra": "C",
+          "texto": "3,0 atm"
+        },
+        {
+          "letra": "D",
+          "texto": "4,7 atm"
+        },
+        {
+          "letra": "E",
+          "texto": "6,5 atm"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Química – Gases",
+        "Química – Termodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "2ª Questão. Qual das configurações eletrônicas a seguir corresponde à do ânion cloreto ($Cl^-$)? Dado: número atômico do Cl igual a 17",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$1s^2 1p^6 2s^2 2p^6 3s^1$"
+        },
+        {
+          "letra": "B",
+          "texto": "$1s^2 1p^6 2s^2 2p^6 3s^2$"
+        },
+        {
+          "letra": "C",
+          "texto": "$1s^2 2s^2 2p^6 3s^1 3p^6$"
+        },
+        {
+          "letra": "D",
+          "texto": "$1s^2 2s^2 2p^6 3s^2 3p^5$"
+        },
+        {
+          "letra": "E",
+          "texto": "$1s^2 2s^2 2p^6 3s^2 3p^6$"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Química – Estrutura Atômica",
+        "Química – Configuração Eletrônica"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "3ª Questão. Um técnico de laboratório prepara uma solução pesando 100 g de hidróxido de sódio (NaOH) e o diluindo em 500 g de água destilada. A molalidade desta solução será igual a: PA: H = 1; O = 16; Na = 23",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 mol/kg"
+        },
+        {
+          "letra": "B",
+          "texto": "2 mol/kg"
+        },
+        {
+          "letra": "C",
+          "texto": "3 mol/kg"
+        },
+        {
+          "letra": "D",
+          "texto": "4 mol/kg"
+        },
+        {
+          "letra": "E",
+          "texto": "5 mol/kg"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Química – Soluções",
+        "Química – Concentração de Soluções"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "4ª Questão. A combustão de propano ($C_3H_8$) ocorre de acordo com a reação não balanceada a seguir: $$C_3H_8 + O_2 \\rightarrow CO_2 + H_2O$$ Considere a queima completa de 112 L de propano, medidos nas condições normais de temperatura e pressão ($P = 1 \\text{ atm}$ e $T = 0 \\text{ °C}$). Nesse cenário, a massa de dióxido de carbono ($CO_2$) produzida será igual a: PA: H = 1; C = 12; O = 16",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "220 g"
+        },
+        {
+          "letra": "B",
+          "texto": "440 g"
+        },
+        {
+          "letra": "C",
+          "texto": "660 g"
+        },
+        {
+          "letra": "D",
+          "texto": "880 g"
+        },
+        {
+          "letra": "E",
+          "texto": "920 g"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Química – Estequiometria",
+        "Química – Gases Ideais",
+        "Química – Reações de Combustão"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "5ª Questão. A função orgânica que não apresenta átomo de oxigênio em sua molécula é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Álcool"
+        },
+        {
+          "letra": "B",
+          "texto": "Aldeído"
+        },
+        {
+          "letra": "C",
+          "texto": "Amina"
+        },
+        {
+          "letra": "D",
+          "texto": "Amida"
+        },
+        {
+          "letra": "E",
+          "texto": "Ácido carboxílico"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Química – Química Orgânica",
+        "Química – Funções Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "6ª Questão. A reação entre um ácido carboxílico e uma amina irá formar como produtos:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente aminas"
+        },
+        {
+          "letra": "B",
+          "texto": "Uma amida e água"
+        },
+        {
+          "letra": "C",
+          "texto": "Uma amina e água"
+        },
+        {
+          "letra": "D",
+          "texto": "Uma amina e uma amida"
+        },
+        {
+          "letra": "E",
+          "texto": "Um aldeído e uma cetona"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Química – Química Orgânica",
+        "Química – Reações Orgânicas",
+        "Química – Aminas e Ácidos Carboxílicos"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "7ª Questão. A pilha eletroquímica formada pelos metais zinco e cobre pode ser escrita como $Zn / ZnSO_4 // CuSO_4 / Cu$. Sabendo-se que o zinco apresenta menor potencial de redução em relação ao cobre, foram formuladas as seguintes afirmações: I - O zinco é o polo positivo da pilha. II - O cobre irá sofrer corrosão. III - O sentido da corrente elétrica convencional é do zinco para o cobre. IV – O zinco é o cátodo nessa pilha. Escolha a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Nenhuma das afirmações é verdadeira"
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas as afirmações I, II e III são verdadeiras"
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas as afirmações II, III e IV são verdadeiras"
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas as afirmações I, III e IV são verdadeiras"
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as afirmações são verdadeiras"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Química – Eletroquímica",
+        "Química – Pilhas"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "8ª Questão. Para a reação de equilíbrio hipotética $2 A + 3 B \\rightleftharpoons 2 C$ onde A, B e C são componentes gasosos, pode-se calcular a constante de equilíbrio $K_c$ por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{2 [C]}{2 [A]+3[B]}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{2 [C]}{6 [A].[B]}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{[C]}{[A].[B]}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{[C]^2}{[A].[B]}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{[C]^2}{[A]^2.[B]^3}$"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Química – Equilíbrio Químico",
+        "Química – Constante de Equilíbrio (Kc)"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "9ª Questão. As nomenclaturas corretas para os componentes $Al_2(SO_4)_3$, $H_2SO_4$ e $KOH$ serão, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Sulfito de alumínio, ácido sulfúrico e hidróxido de potássio"
+        },
+        {
+          "letra": "B",
+          "texto": "Sulfato de alumínio, ácido sulfuroso e hidróxido de potássio"
+        },
+        {
+          "letra": "C",
+          "texto": "Sulfato de alumínio, ácido sulfúrico e hidróxido de potássio"
+        },
+        {
+          "letra": "D",
+          "texto": "Sulfato de alumínio, ácido sulfúrico e hidróxido de cálcio"
+        },
+        {
+          "letra": "E",
+          "texto": "Sulfito de alumínio, ácido sulfúrico e hidróxido de cálcio"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Química – Nomenclatura de Compostos Inorgânicos",
+        "Química – Sais",
+        "Química – Ácidos",
+        "Química – Bases"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "10ª Questão. Uma mistura contendo água, etanol e óleo, em iguais proporções mássicas, apresenta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5 fases"
+        },
+        {
+          "letra": "B",
+          "texto": "4 fases"
+        },
+        {
+          "letra": "C",
+          "texto": "3 fases"
+        },
+        {
+          "letra": "D",
+          "texto": "2 fases"
+        },
+        {
+          "letra": "E",
+          "texto": "1 fase"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Química – Misturas",
+        "Química – Propriedades Físicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Dadas as funções $f: [0,+\\infty[ \\to [-4,+\\infty[ / f(x)= x^2- 4$ e $g: [-4,+\\infty[ \\to [0,+\\infty[ /g (x)=\\sqrt{4+x}$, é correto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$g(f(3)) = 4$"
+        },
+        {
+          "letra": "B",
+          "texto": "$g(f(1)) = 2$"
+        },
+        {
+          "letra": "C",
+          "texto": "$f(g(5)) = 5$"
+        },
+        {
+          "letra": "D",
+          "texto": "$g(g(0)) = 4$"
+        },
+        {
+          "letra": "E",
+          "texto": "$f(f(1)) = 8$"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Matemática – Funções Compostas"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Em um colégio, há 8 professores no conselho pedagógico: Ana, Beatriz, Carlos, Daniel, Eduardo, Fernanda, Guilherme e Helena. Deve-se formar uma comissão com 4 professores para representar a escola em um evento educacional. O quociente entre o número de comissões que não incluem o professor Carlos e o número total de comissões possíveis, na forma de uma fração irredutível, é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{3}{7}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{4}{5}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{5}{6}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{3}{4}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{1}{2}$"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Um cone circular reto possui altura de 4 cm e sua área lateral é o dobro da área da base. Podemos afirmar que o volume desse cone, em centímetros cúbicos, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{16}{3} \\pi$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{32}{3} \\pi$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{64}{3} \\pi$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{5}{9} \\pi$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{32}{9} \\pi$"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Ao analisar uma amostra, um pesquisador seleciona dados que se encontram nos formatos A e B, e percebe que a razão do número de dados no formato A para o número de dados no formato B é igual a 0,6. Se na amostra há 360 dados no total, pode-se afirmar que os números de dados dos formatos A e B são, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "130 e 230"
+        },
+        {
+          "letra": "B",
+          "texto": "135 e 225"
+        },
+        {
+          "letra": "C",
+          "texto": "125 e 235"
+        },
+        {
+          "letra": "D",
+          "texto": "120 e 240"
+        },
+        {
+          "letra": "E",
+          "texto": "140 e 220"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Matemática – Razão e Proporção"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Os valores para $a$ e $b$, de modo que os polinômios $P(x)=x^3+x^2+ax+b$ e $Q(x)=x^2-x$ tenham duas raízes comuns a ambos e diferentes entre si, são, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2 e 0"
+        },
+        {
+          "letra": "B",
+          "texto": "3 e 2"
+        },
+        {
+          "letra": "C",
+          "texto": "3 e 2"
+        },
+        {
+          "letra": "D",
+          "texto": "2 e 3"
+        },
+        {
+          "letra": "E",
+          "texto": "3 e 0"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Matemática – Polinômios"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Considere o $\\triangle ABC$ com os lados de medidas: $AB = 4$ cm, $BC = 5$ cm e $AC = 6$ cm. Considere outro triângulo que seja SEMELHANTE ao $\\triangle ABC$, com perímetro medindo 45 cm. Nessas condições, é correto afirmar que o maior lado do triângulo semelhante ao $\\triangle ABC$ mede, em centímetros:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "18"
+        },
+        {
+          "letra": "B",
+          "texto": "17"
+        },
+        {
+          "letra": "C",
+          "texto": "16"
+        },
+        {
+          "letra": "D",
+          "texto": "15"
+        },
+        {
+          "letra": "E",
+          "texto": "14"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Matemática – Semelhança de Triângulos"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Em uma empresa, 70% dos funcionários trabalham no setor de vendas e 30% trabalham no setor de marketing. Sabe-se que 40% dos funcionários do setor de vendas e 50% dos funcionários do setor de marketing possuem carro próprio. Se um funcionário é escolhido aleatoriamente e possui carro próprio, a probabilidade de que trabalhe no setor de vendas é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{7}{10}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{7}{25}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{4}{25}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{3}{43}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{28}{43}$"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Matemática – Probabilidade Condicional"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "A figura representa um triângulo ABC, com lado b oposto ao ângulo B, lado a oposto ao ângulo A e lado c oposto ao ângulo C. Sabe-se que o ângulo C é igual a $45^\\circ$ e as medidas dos lados a e b são $a = 4$ cm, $b = 3\\sqrt{2}$ cm. A medida do lado c, em centímetros, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$3\\sqrt{5}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\sqrt{10}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\sqrt{15}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$2\\sqrt{5}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\sqrt{7}$"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Matemática – Lei dos Cossenos"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Em uma Progressão Aritmética (P.A) de razão positiva, sabe-se que a soma dos cinco termos que a compõe é 25 e a soma do quadrado do terceiro termo com o quadrado do quarto termo é igual a 74. Assim, o termo central e a razão dessa progressão aritmética valem, respectivamente:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3 e 2"
+        },
+        {
+          "letra": "B",
+          "texto": "5 e 3"
+        },
+        {
+          "letra": "C",
+          "texto": "6 e 3"
+        },
+        {
+          "letra": "D",
+          "texto": "5 e 2"
+        },
+        {
+          "letra": "E",
+          "texto": "7 e 4"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Matemática – Progressão Aritmética (PA)"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Uma lanchonete vende três tipos de sanduíches: X-Burguer, X-Salada e X-Bacon. Ao final do dia foram vendidos 120 sanduíches no total. Os preços de venda são: X-Burguer: R$ 10,00; X-Salada: R$ 12,00 e X-Bacon: R$ 15,00. A receita total foi de R$ 1.350,00. Sabe-se, também, que o número de X-Burguers vendidos foi igual à soma do total de vendas dos outros dois tipos de sanduíches. Assim, o número de sanduíches de X-Bacon vendidos foi de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "60"
+        },
+        {
+          "letra": "B",
+          "texto": "50"
+        },
+        {
+          "letra": "C",
+          "texto": "40"
+        },
+        {
+          "letra": "D",
+          "texto": "20"
+        },
+        {
+          "letra": "E",
+          "texto": "10"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Matemática – Sistemas de Equações Lineares"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Instruções: Se for necessário, use a aceleração da gravidade $g = 10$ m/s$^2$. \n\nCom o avanço da inteligência artificial (IA), tarefas computacionalmente intensivas, como a geração massiva de imagens e textos, têm exigido uma infraestrutura energética considerável. Em 2025, foi noticiado que uma série de imagens criadas por IA, inspiradas no estilo dos estúdios Ghibli, consumiu em poucas horas o equivalente à energia elétrica utilizada por uma pequena cidade brasileira no mesmo intervalo de tempo. Suponha que o conjunto de servidores responsáveis por esse processamento operou com uma potência elétrica constante de 2,25 megawatts (MW) durante 18 horas. Qual é o consumo de energia elétrica consumida por esse sistema em quilowatt-hora (kWh)?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "4.500 kWh"
+        },
+        {
+          "letra": "B",
+          "texto": "18.000 kWh"
+        },
+        {
+          "letra": "C",
+          "texto": "25.000 kWh"
+        },
+        {
+          "letra": "D",
+          "texto": "40.500 kWh"
+        },
+        {
+          "letra": "E",
+          "texto": "180.000 kWh"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Física – Eletrodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "Estima-se que o conjunto de servidores responsáveis pelo processo de treinamento do modelo GPT-3 consumiu cerca de $1,6 \\times 10^6$ kWh de eletricidade. Sabe-se que a matriz energética do Brasil, que ainda depende de fontes não renováveis, gera 0,1 kg de $CO_2$ por kWh. Qual a quantidade de emissão de $CO_2$ gerada durante o treinamento do modelo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "60 toneladas"
+        },
+        {
+          "letra": "B",
+          "texto": "160 toneladas"
+        },
+        {
+          "letra": "C",
+          "texto": "600 toneladas"
+        },
+        {
+          "letra": "D",
+          "texto": "900 toneladas"
+        },
+        {
+          "letra": "E",
+          "texto": "1300 toneladas"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Física – Conversão de Unidades e Impacto Ambiental"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Em março de 2025, dois astronautas retornaram à Terra após uma missão de aproximadamente nove meses a bordo de uma estação espacial. Durante esse período, os astronautas estiveram submetidos a condições de microgravidade. Considerando o momento de reentrada da cápsula na atmosfera terrestre e o subsequente pouso assistido por paraquedas, analise as afirmações a seguir e assinale a alternativa correta:\n\nI. Durante a reentrada na atmosfera, a cápsula sofre uma força de resistência do ar que atua no mesmo sentido do seu movimento. Essa força reduz a velocidade da cápsula, produzindo uma desaceleração.\nII. Durante a reentrada na atmosfera, a resistência do ar gera intenso aquecimento da cápsula, exigindo o uso de escudos térmicos para proteger os astronautas.\nIII. Quando a cápsula começa a descer em direção à Terra, a energia térmica se transforma em energia potencial gravitacional, fazendo com que a velocidade da cápsula aumente cada vez mais.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas as afirmações I e III são verdadeiras"
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas as afirmações II e III são verdadeiras"
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas a afirmação II é verdadeira"
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas a afirmação III é verdadeira"
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as afirmações são verdadeiras"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Física – Mecânica: Forças e Energia"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Quando um estímulo, como um toque, é aplicado na região do pé de uma pessoa, um impulso nervoso é gerado e se propaga até o cérebro para ser processado. Suponha que a distância entre o pé e o cérebro de uma pessoa seja de 1,80 m, e que a velocidade média de propagação do impulso nervoso seja de 30 m/s. Qual é o tempo necessário para que o impulso nervoso percorra essa distância e atinja o cérebro?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,06 s"
+        },
+        {
+          "letra": "B",
+          "texto": "0,07 s"
+        },
+        {
+          "letra": "C",
+          "texto": "0,08 s"
+        },
+        {
+          "letra": "D",
+          "texto": "0,09 s"
+        },
+        {
+          "letra": "E",
+          "texto": "0,10 s"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "No gráfico a seguir temos a velocidade em função do tempo para um corpo deslocando-se em uma trajetória retilínea. Com base na análise do gráfico e nos conceitos de cinemática, força e energia mecânica, analise as afirmações a seguir e assinale a alternativa correta:\n\nI. O módulo da força atuando sobre o corpo no intervalo de tempo entre 0 s e 5 s é maior que o módulo da força atuando no intervalo de tempo entre 15 s e 20 s.\nII. No intervalo de tempo entre 5 s e 10 s, a energia cinética do corpo se anula em algum instante.\nIII. No intervalo de tempo entre 10 s e 15 s a aceleração do corpo é nula.\nIV. A força aplicada sobre o corpo é oposta ao movimento durante o intervalo de tempo entre 5 s e 7 s.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas as afirmações I, II e III são verdadeiras"
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas as afirmações II, III e IV são verdadeiras"
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas a afirmação III é verdadeira"
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas a afirmação II é verdadeira"
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as afirmações são verdadeiras"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudos": [
+        "Física – Gráficos da Cinemática",
+        "Física – Dinâmica",
+        "Física – Energia Mecânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "A figura a seguir mostra o movimento de um elétron em uma região do espaço onde atuam um campo elétrico $\\vec{E}$ e um campo magnético $\\vec{B}$, ambos uniformes. Qual das alternativas a seguir representa corretamente a direção e o sentido das forças elétrica e magnética que atuam sobre o elétron?",
+      "alternativas": null,
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Física – Eletromagnetismo"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Em uma aula de Laboratório de Física, a bancada experimental era composta por um sistema acoplado formado pelos blocos A e B que estão ligados por um fio ideal, conforme mostra a figura 1 a seguir. O bloco A está sobre um trilho de ar que remove por completo qualquer força dissipativa, enquanto o bloco B está suspenso. Ao longo do trilho de ar são posicionados sensores que permitem coletar medidas da velocidade ao longo do tempo, que possibilitou a montagem do gráfico a seguir (figura 2). Considerando a massa do bloco B igual a 0,2 kg, qual é a massa do bloco A?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,13 kg"
+        },
+        {
+          "letra": "B",
+          "texto": "1,20 kg"
+        },
+        {
+          "letra": "C",
+          "texto": "1,37 kg"
+        },
+        {
+          "letra": "D",
+          "texto": "1,42 kg"
+        },
+        {
+          "letra": "E",
+          "texto": "1,55 kg"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Física – Leis de Newton",
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "Em um circuito elétrico, três resistores $R_1 = 0,5 \\ \\Omega$, $R_2 = 1,5 \\ \\Omega$ e $R_3 = 1,2 \\ \\Omega$ estão associados em série. Qual é a resistência equivalente do circuito?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$0,29 \\ \\Omega$"
+        },
+        {
+          "letra": "B",
+          "texto": "$0,66 \\ \\Omega$"
+        },
+        {
+          "letra": "C",
+          "texto": "$3,20 \\ \\Omega$"
+        },
+        {
+          "letra": "D",
+          "texto": "$3,50 \\ \\Omega$"
+        },
+        {
+          "letra": "E",
+          "texto": "$4,00 \\ \\Omega$"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Física – Eletrodinâmica: Resistores em Série"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "Durante a montagem do projeto de Laboratório de Física, estudantes constroem uma catapulta utilizando uma pequena mola presa a uma base de madeira. Ao comprimir a mola, colocam sobre ela uma esfera para observar seu lançamento. Um dos alunos mede que, ao comprimir a mola 10 cm, a esfera é lançada a uma certa distância. Sabendo que a mola tem constante elástica de 200 N/m e que não há perdas por atrito ou resistência do ar, qual é o valor da energia potencial elástica armazenada na mola?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1 J"
+        },
+        {
+          "letra": "B",
+          "texto": "10 J"
+        },
+        {
+          "letra": "C",
+          "texto": "100 J"
+        },
+        {
+          "letra": "D",
+          "texto": "1 000 J"
+        },
+        {
+          "letra": "E",
+          "texto": "10 000 J"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Física – Energia Potencial Elástica"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Um ciclista desce uma ladeira pedalando e atinge grande velocidade. Em seguida, para reduzir a velocidade, ele para de pedalar e aciona os freios. Nesse momento, a força de atrito entre as pastilhas de freio e a roda passa a realizar trabalho sobre o sistema. Sobre a transformação de energia durante a frenagem, assinale a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A energia potencial gravitacional do ciclista aumenta devido à ação dos freios."
+        },
+        {
+          "letra": "B",
+          "texto": "Toda a energia cinética é convertida em energia potencial gravitacional."
+        },
+        {
+          "letra": "C",
+          "texto": "O atrito dos freios transforma energia térmica em energia cinética."
+        },
+        {
+          "letra": "D",
+          "texto": "O trabalho da força de atrito reduz a energia cinética e gera calor."
+        },
+        {
+          "letra": "E",
+          "texto": "O sistema ciclista-bicicleta passa a ganhar energia do ambiente."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Física – Trabalho e Energia"
+      ]
+    }
+  ]
+}

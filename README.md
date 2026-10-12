@@ -1,1 +1,1 @@
-# SimulaVest-IA
+# Vestibuline-IA

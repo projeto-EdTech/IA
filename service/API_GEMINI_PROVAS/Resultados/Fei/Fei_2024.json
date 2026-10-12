@@ -1,0 +1,1512 @@
+{
+  "nomeUniversidade": "Centro Universitário FEI",
+  "siglaUniversidade": "FEI",
+  "nomeProva": "Processo Seletivo 1°2024",
+  "ano": 2023,
+  "qtdeQuestoes": 60,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Leia o texto abaixo para responder às questões de 01 a 04.\nTexto 1 - Excerto de Vida para Consumo a transformação das pessoas em mercadoria, do sociólogo e filósofo polonês Zygmund Bauman.\n1 O consumismo dirigido para o mercado tem uma receita para enfrentar esse tipo de inconveniência: a troca de uma mercadoria defeituosa, ou apenas imperfeita e não plenamente satisfatória, por uma nova e aperfeiçoada. A receita tende a ser representada como um estratagema a que os consumidores experientes recorrem automaticamente de 5 modo quase irrefletido, a partir de um hábito aprendido e interiorizado. Afinal de contas, nos mercados de consumidores-mercadorias, a necessidade de substituir objetos de consumo \"defasados\", menos que plenamente satisfatórios e/ou não mais desejados está inscrita no design dos produtos e nas campanhas publicitárias calculadas para o crescimento constante das vendas. A curta expectativa de vida de um produto na prática e na utilidade proclamada está incluída na estratégia de marketing e no cálculo de lucros: tende a ser preconcebida, prescrita e instilada nas práticas dos consumidores mediante a apoteose das novas ofertas (de hoje) e a difamação das antigas (de ontem).\n10 (Fonte: BAUMAN, Zygmunt. Vida para consumo: a transformação das pessoas em mercadoria. Rio de Janeiro: Zahar, 2022, p. 31)\n\n1ª Questão. Ao descrever o consumo dirigido para o mercado, o sociólogo Bauman alude a um fenômeno também conhecido como “obsolescência programada\". Leia as afirmações abaixo sobre este fenômeno.\nI - O consumismo direcionado para o mercado desencoraja a substituição rápida de produtos por versões mais novas, minimizando a influência da publicidade e suas estratégias de obsolescência.\nII - Somente os consumidores inexperientes são afetados pela rápida obsolescência dos produtos, pois são os únicos que não refletem sobre seus hábitos de consumo.\nIII - O consumismo orientado para o mercado promove a substituição rápida de produtos por versões mais novas, impulsionada por publicidade e design que promovem a obsolescência.\nIV - A tática de limitar a longevidade dos produtos tem como objetivo impulsionar o mercado e os lucros ao destacar as novidades e depreciar o \"antigo\".\nEscolha a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente a afirmação I é verdadeira."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmações II e IV são verdadeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmações III e IV são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "Todas as afirmações são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as afirmações são falsas."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "MATEMÁTICA\n1ª Questão. Uma pessoa fez uma viagem de carro, percorrendo 6300 quilômetros em 6 dias. A partir do segundo dia, a distância percorrida a cada dia foi o dobro da distância percorrida no dia anterior. Neste caso, no terceiro dia ela percorreu, em quilômetros, uma distância igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1050"
+        },
+        {
+          "letra": "B",
+          "texto": "890"
+        },
+        {
+          "letra": "C",
+          "texto": "400"
+        },
+        {
+          "letra": "D",
+          "texto": "80"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Matemática – Progressão Geométrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "FÍSICA\nInstruções: Se for necessário, use a aceleração da gravidade $g = 10 \\text{ m/s}^2$, $\\text{sen}(30^{\\circ}) = 0,50$, $\\cos(30^{\\circ}) = 0,87$, $\\text{sen}(60^{\\circ}) = 0,87$ e $\\cos(60^{\\circ}) = 0,50$.\n\n1ª Questão. Em novembro de 2022 foram adicionados novos prefixos ao Sistema Internacional de Unidades (SI). Os novos prefixos ronna (R) e quetta (Q) expressam os fatores multiplicativos $10^{27}$ e $10^{30}$, respectivamente. Simetricamente, o ronto (r) e o quecto (q) expressam os fatores multiplicativos $10^{-27}$ e $10^{-30}$. Sabe-se que a massa do planeta Terra é de $5,97 \\times 10^{24} \\text{ kg}$ e que a massa do planeta Júpiter é de $1,90 \\times 10^{27} \\text{ kg}$. Assinale a alternativa que expressa corretamente as massas dos dois planetas utilizando os novos prefixos criados:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "5,97 rg e 1,90 qg"
+        },
+        {
+          "letra": "B",
+          "texto": "5,97 Rg e 1,90 Qg"
+        },
+        {
+          "letra": "C",
+          "texto": "5,97 Qg e 1,90 Rg"
+        },
+        {
+          "letra": "D",
+          "texto": "5,97 qg e 1,90 rg"
+        },
+        {
+          "letra": "E",
+          "texto": "5,97 Rg e 1,90 rg"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Física – Grandezas e Unidades",
+        "Física – Notação Científica"
+      ]
+    },
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "QUÍMICA\n1ª Questão. Sejam os isótopos do carbono:\n$^{6}C^{12}$ $^{6}C^{14}$\nO número de nêutrons presentes no núcleo do isótopo do átomo de carbono 14 é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2"
+        },
+        {
+          "letra": "B",
+          "texto": "6"
+        },
+        {
+          "letra": "C",
+          "texto": "8"
+        },
+        {
+          "letra": "D",
+          "texto": "12"
+        },
+        {
+          "letra": "E",
+          "texto": "14"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Química – Estrutura Atômica",
+        "Química – Isótopos"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Leia o texto abaixo para responder às questões de 01 a 04.\nTexto 1 - Excerto de Vida para Consumo a transformação das pessoas em mercadoria, do sociólogo e filósofo polonês Zygmund Bauman.\n1 O consumismo dirigido para o mercado tem uma receita para enfrentar esse tipo de inconveniência: a troca de uma mercadoria defeituosa, ou apenas imperfeita e não plenamente satisfatória, por uma nova e aperfeiçoada. A receita tende a ser representada como um estratagema a que os consumidores experientes recorrem automaticamente de 5 modo quase irrefletido, a partir de um hábito aprendido e interiorizado. Afinal de contas, nos mercados de consumidores-mercadorias, a necessidade de substituir objetos de consumo \"defasados\", menos que plenamente satisfatórios e/ou não mais desejados está inscrita no design dos produtos e nas campanhas publicitárias calculadas para o crescimento constante das vendas. A curta expectativa de vida de um produto na prática e na utilidade proclamada está incluída na estratégia de marketing e no cálculo de lucros: tende a ser preconcebida, prescrita e instilada nas práticas dos consumidores mediante a apoteose das novas ofertas (de hoje) e a difamação das antigas (de ontem).\n10 (Fonte: BAUMAN, Zygmunt. Vida para consumo: a transformação das pessoas em mercadoria. Rio de Janeiro: Zahar, 2022, p. 31)\n\n2ª Questão. No livro citado, o parágrafo subsequente ao Texto 1 se inicia da seguinte forma:\n\"Entre as maneiras com que o consumidor enfrenta a insatisfação, a principal é ______________. A sociedade de consumidores desvaloriza a durabilidade, igualando 'velho' a 'defasado', impróprio para continuar sendo utilizado e destinado à lata de lixo\".\nQual das opções a seguir melhor preenche a lacuna da citação acima?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Preservar os objetos que a causam."
+        },
+        {
+          "letra": "B",
+          "texto": "Defender a longevidade dos produtos."
+        },
+        {
+          "letra": "C",
+          "texto": "Promover a conservação das mercadorias a longo prazo."
+        },
+        {
+          "letra": "D",
+          "texto": "Ignorar as campanhas publicitárias."
+        },
+        {
+          "letra": "E",
+          "texto": "Descartar os objetos que a causam."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "MATEMÁTICA\n2ª Questão. A dona de uma loja de roupas comprou 50 camisetas de dois tamanhos diferentes: médio e grande. Nessa compra, ela gastou R$ 2115,00. Cada camiseta de tamanho médio custou R$ 40,00 e cada camiseta de tamanho grande custou R$ 45,00. A diferença entre as quantidades de camisetas de tamanhos médio e grande (nessa ordem), adquiridas pela dona da loja, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "13"
+        },
+        {
+          "letra": "B",
+          "texto": "11"
+        },
+        {
+          "letra": "C",
+          "texto": "8"
+        },
+        {
+          "letra": "D",
+          "texto": "6"
+        },
+        {
+          "letra": "E",
+          "texto": "4"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Matemática – Sistemas de Equações Lineares"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "FÍSICA\nInstruções: Se for necessário, use a aceleração da gravidade $g = 10 \\text{ m/s}^2$, $\\text{sen}(30^{\\circ}) = 0,50$, $\\cos(30^{\\circ}) = 0,87$, $\\text{sen}(60^{\\circ}) = 0,87$ e $\\cos(60^{\\circ}) = 0,50$.\n\n2ª Questão. A Índia foi o primeiro país a pousar no polo sul da Lua em missão histórica em agosto de 2023. Trata-se de uma área inexplorada que possui regiões permanentemente sombreadas onde os cientistas querem estudar a presença de água. Em um experimento na Terra, uma pedra é lançada horizontalmente a partir do topo de um morro com altura de 20 m, alcançando a distância horizontal de 40 m em relação à posição de lançamento. Considere que a aceleração da gravidade na Lua é um sexto da aceleração da gravidade na Terra. Se a pedra for lançada nas mesmas condições descritas anteriormente do topo de um morro na Lua, qual será a distância horizontal alcançada?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "40 m"
+        },
+        {
+          "letra": "B",
+          "texto": "$40 \\sqrt{2}$ m"
+        },
+        {
+          "letra": "C",
+          "texto": "$40 \\sqrt{6}$ m"
+        },
+        {
+          "letra": "D",
+          "texto": "$46 \\sqrt{2}$ m"
+        },
+        {
+          "letra": "E",
+          "texto": "$46 \\sqrt{6}$ m"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Lançamento Horizontal",
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "QUÍMICA\n2ª Questão. Quais os tipos de ligações presentes entre os átomos da molécula de amônia ($\\text{NH}_3$)?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente ligações iônicas"
+        },
+        {
+          "letra": "B",
+          "texto": "Somente ligações covalentes"
+        },
+        {
+          "letra": "C",
+          "texto": "Somente ligações metálicas"
+        },
+        {
+          "letra": "D",
+          "texto": "Ligações covalentes e iônicas"
+        },
+        {
+          "letra": "E",
+          "texto": "Ligações iônicas e metálicas"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Química – Ligações Químicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Leia o texto abaixo para responder às questões de 01 a 04.\nTexto 1 - Excerto de Vida para Consumo a transformação das pessoas em mercadoria, do sociólogo e filósofo polonês Zygmund Bauman.\n1 O consumismo dirigido para o mercado tem uma receita para enfrentar esse tipo de inconveniência: a troca de uma mercadoria defeituosa, ou apenas imperfeita e não plenamente satisfatória, por uma nova e aperfeiçoada. A receita tende a ser representada como um estratagema a que os consumidores experientes recorrem automaticamente de 5 modo quase irrefletido, a partir de um hábito aprendido e interiorizado. Afinal de contas, nos mercados de consumidores-mercadorias, a necessidade de substituir objetos de consumo \"defasados\", menos que plenamente satisfatórios e/ou não mais desejados está inscrita no design dos produtos e nas campanhas publicitárias calculadas para o crescimento constante das vendas. A curta expectativa de vida de um produto na prática e na utilidade proclamada está incluída na estratégia de marketing e no cálculo de lucros: tende a ser preconcebida, prescrita e instilada nas práticas dos consumidores mediante a apoteose das novas ofertas (de hoje) e a difamação das antigas (de ontem).\n10 (Fonte: BAUMAN, Zygmunt. Vida para consumo: a transformação das pessoas em mercadoria. Rio de Janeiro: Zahar, 2022, p. 31)\n\n3ª Questão. Das narrativas breves expostas a seguir, qual melhor retrataria e exemplificaria na prática o conceito de defasagem postulado por Zygmunt Bauman e explorado nas questões anteriores?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Eu nunca troquei de aparelho celular. Tenho o mesmo aparelho há 10 anos e não dá nenhum problema. Me serve para o que eu preciso: fazer ligações.”"
+        },
+        {
+          "letra": "B",
+          "texto": "\"Sempre que surge uma nova versão da minha marca favorita de eletrônicos, eu troco de celular e computador. Quero sempre a última versão, nova e atualizada.\""
+        },
+        {
+          "letra": "C",
+          "texto": "\"Aqui em casa nós só compramos um novo produto quando o antigo para de funcionar completamente. Se há possibilidade de reparação, por ela optaremos.\""
+        },
+        {
+          "letra": "D",
+          "texto": "\"Eu adoro produtos novos, mas só compro quando há realmente uma necessidade, ou seja, se o meu aparelho atual quebrar e não houver reparo.\""
+        },
+        {
+          "letra": "E",
+          "texto": "\"Meus filhos sempre me pedem a nova versão dos videogames que vão sendo lançados no mercado, mas a minha resposta é negativa. Se não há necessidade, não há compra.\""
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "MATEMÁTICA\n3ª Questão. Considere a função $f: \\mathbb{R} \\rightarrow \\mathbb{R} / f(x)= - x^2+x-\\frac{3}{16}$. Classifique as afirmações abaixo em verdadeiras (V) ou falsas (F).\nI. As raízes de $f(x)$ são 1 e 3\nII. O gráfico de $f$ é uma parábola de concavidade para baixo\nIII. O vértice do gráfico de $f$ é o ponto $V=(\\frac{1}{2}, \\frac{1}{16})$\nIV. O gráfico de $f$ intercepta o eixo y no ponto $(0,\\frac{3}{16})$\nA alternativa que apresenta a classificação das afirmações na ordem correta é:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "VVFF"
+        },
+        {
+          "letra": "B",
+          "texto": "FVVV"
+        },
+        {
+          "letra": "C",
+          "texto": "FVVF"
+        },
+        {
+          "letra": "D",
+          "texto": "VVVF"
+        },
+        {
+          "letra": "E",
+          "texto": "FVFF"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Matemática – Funções Quadráticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "FÍSICA\nInstruções: Se for necessário, use a aceleração da gravidade $g = 10 \\text{ m/s}^2$, $\\text{sen}(30^{\\circ}) = 0,50$, $\\cos(30^{\\circ}) = 0,87$, $\\text{sen}(60^{\\circ}) = 0,87$ e $\\cos(60^{\\circ}) = 0,50$.\n\n3ª Questão. Ao decorar a sua cozinha, um engenheiro opta por colocar um pequeno vaso com planta preso por um ímã na porta de sua geladeira. O vaso com planta possui massa de 100 g e o valor do coeficiente de atrito estático entre o ímã e a porta da geladeira é de 0,50. Qual deve ser o menor valor da força magnética para que o vaso fique em equilíbrio?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2,0 N"
+        },
+        {
+          "letra": "B",
+          "texto": "30 N"
+        },
+        {
+          "letra": "C",
+          "texto": "0,50 kN"
+        },
+        {
+          "letra": "D",
+          "texto": "1,00 kN"
+        },
+        {
+          "letra": "E",
+          "texto": "2,00 kN"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Física – Estática",
+        "Física – Força de Atrito",
+        "Física – Força Normal",
+        "Física – Força Peso"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "QUÍMICA\n3ª Questão. A reação entre um ácido carboxílico e um amina forma:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Um sabão"
+        },
+        {
+          "letra": "B",
+          "texto": "Um sal"
+        },
+        {
+          "letra": "C",
+          "texto": "Uma amina secundária"
+        },
+        {
+          "letra": "D",
+          "texto": "Uma amina terciária"
+        },
+        {
+          "letra": "E",
+          "texto": "Uma amida"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Química – Funções Orgânicas",
+        "Química – Reações Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Leia o texto abaixo para responder às questões de 01 a 04.\nTexto 1 - Excerto de Vida para Consumo a transformação das pessoas em mercadoria, do sociólogo e filósofo polonês Zygmund Bauman.\n1 O consumismo dirigido para o mercado tem uma receita para enfrentar esse tipo de inconveniência: a troca de uma mercadoria defeituosa, ou apenas imperfeita e não plenamente satisfatória, por uma nova e aperfeiçoada. A receita tende a ser representada como um estratagema a que os consumidores experientes recorrem automaticamente de 5 modo quase irrefletido, a partir de um hábito aprendido e interiorizado. Afinal de contas, nos mercados de consumidores-mercadorias, a necessidade de substituir objetos de consumo \"defasados\", menos que plenamente satisfatórios e/ou não mais desejados está inscrita no design dos produtos e nas campanhas publicitárias calculadas para o crescimento constante das vendas. A curta expectativa de vida de um produto na prática e na utilidade proclamada está incluída na estratégia de marketing e no cálculo de lucros: tende a ser preconcebida, prescrita e instilada nas práticas dos consumidores mediante a apoteose das novas ofertas (de hoje) e a difamação das antigas (de ontem).\n10 (Fonte: BAUMAN, Zygmunt. Vida para consumo: a transformação das pessoas em mercadoria. Rio de Janeiro: Zahar, 2022, p. 31)\n\n4ª Questão. A palavra instilada, em destaque ao final do texto, pode ser substituída sem prejuízo de sentido por todas as opções ao lado, exceto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Inculcar"
+        },
+        {
+          "letra": "B",
+          "texto": "Aconselhar"
+        },
+        {
+          "letra": "C",
+          "texto": "Incutir"
+        },
+        {
+          "letra": "D",
+          "texto": "Retirar"
+        },
+        {
+          "letra": "E",
+          "texto": "Introduzir"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Vocabulário",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "MATEMÁTICA\n4ª Questão. Seja a circunferência de equação $x^2+y^2+2x-6y-3=0$. A equação da reta r, tangente a essa circunferência em P(2,1), é dada por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2x+3y-7=0"
+        },
+        {
+          "letra": "B",
+          "texto": "3x-2y-4=0"
+        },
+        {
+          "letra": "C",
+          "texto": "2x-3y-1=0"
+        },
+        {
+          "letra": "D",
+          "texto": "3x+2y-8=0"
+        },
+        {
+          "letra": "E",
+          "texto": "5x-y-9=0"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "FÍSICA\nInstruções: Se for necessário, use a aceleração da gravidade $g = 10 \\text{ m/s}^2$, $\\text{sen}(30^{\\circ}) = 0,50$, $\\cos(30^{\\circ}) = 0,87$, $\\text{sen}(60^{\\circ}) = 0,87$ e $\\cos(60^{\\circ}) = 0,50$.\n\n4ª Questão. Recentemente o estado do Rio Grande do Sul sofreu com a passagem de um ciclone extratropical, um fenômeno da natureza caracterizado por fortes tempestades causadas pelas massas de ar que giram ao redor de um centro de baixa pressão. Nesse caso, a intensidade dos ventos, que podem chegar até $200 \\text{ km/h}$ e variar de sentido, é essencial para a formação dos ciclones. Analise as afirmações a seguir e assinale a alternativa correta:\nI. Em um ciclone, o ar quente e mais denso eleva-se para as camadas superiores da atmosfera. Já o ar frio e menos denso rebaixa-se para a superfície.\nII. Os processos de convecção e de condução de calor são igualmente responsáveis pela formação do ciclone.\nIII. Um galho de árvore com massa de $2,0 \\text{ kg}$ foi levantado com a força dos ventos do ciclone e atingiu uma velocidade de $54 \\text{ km/h}$. A energia cinética do galho de árvore foi de $225 \\text{ J}$.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas as afirmações I e III são verdadeiras"
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas as afirmações II e III são verdadeiras"
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas a afirmação I é verdadeira"
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas a afirmação III é verdadeira"
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as afirmações são verdadeiras"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Termodinâmica",
+        "Física – Energia Cinética",
+        "Física – Fenômenos Climáticos"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "QUÍMICA\n4ª Questão. Qual das funções orgânicas a seguir apresenta somente um átomo de oxigênio na estrutura de seus compostos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Alcenos"
+        },
+        {
+          "letra": "B",
+          "texto": "Ésteres"
+        },
+        {
+          "letra": "C",
+          "texto": "Aminas"
+        },
+        {
+          "letra": "D",
+          "texto": "Éteres"
+        },
+        {
+          "letra": "E",
+          "texto": "Ácidos carboxílicos"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Química – Funções Orgânicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Leia o texto abaixo para responder às questões de 05 a 10.\nTexto 2 - Trecho do conto de ficção científica \"O professor”, do escritor português António Ladeira.\nDizia-se muitas coisas do professor e do programa-piloto. Por exemplo, dizia-se que o professor ia pedir a todos os alunos que usassem lápis e papel. Eu nunca tinha usado um lápis. Nem papel. Já tinha visto um lápis. A minha mãe guardava um no fundo de uma gaveta, mas não deixava que eu ou os meus irmãos brincássemos com ele. Nem sequer o meu pai estava autorizado a usá-lo. A minha mãe dizia que era uma recordação, que era uma antiguidade, que tinha pertencido à avó dela, que já não se vendia lápis nas lojas, que não se via em lugar nenhum e que, por essa razão, ninguém estava autorizado a utilizar o lápis lá em casa. Muito menos a apontar o lápis.\nCom papel também não tinha experiência. Uma vez vi uma folha de papel a voar no ar, num filme. Era uma folha grande e grossa. Do tamanho de um rapaz da minha idade. Por acaso até foi um rapaz da minha idade que apanhou a folha que voava. Deu um salto, agarrou-a no ar, dobrou-a, guardou-a na mochila e pôs-se a andar pela rua fora, todo contente.\nO meu amigo Jaime tinha, não uma folha de papel, mas um caderno escondido no sótão de casa. Nem a mãe dele sabia desse caderno. O meu amigo Jaime dizia que escrever em papel era «para sempre». Por isso era preciso cuidado, era preciso pensarmos bem no que queríamos escrever antes de escrevermos palavras que ficariam no papel «para sempre». O Jaime um dia retirou o que tinha dito. Disse que tinha exagerado: «para sempre» era muito tempo, afinal, não era «para sempre». Mas disse que se escrevêssemos uma palavra a lápis, no papel, podíamos apertar todas as teclas que quiséssemos imaginar (o papel não tem teclas reais, apenas as teclas que quisermos imaginar) que as palavras não se apagavam. Podíamos sacudir o papel à vontade, ou até espezinhar o papel, que as palavras não desapareciam. O meu amigo Jaime também dizia, meio a brincar, meio a sério, que podíamos passar anos sem carregar a bateria do papel porque ela não descarregava. «E por quê?», perguntava o meu amigo Jaime, começando a rebentar o riso. «Porque o papel não precisa de bateria!» O meu amigo Jaime ria-se muito depois de dizer estas coisas. O que mais gostei de ouvir o Jaime dizer - embora não acreditasse em tudo o que dizia – foi isto: podíamos guardar um papel numa gaveta que, dez anos depois, ainda se podia ler o que lá estivesse escrito. Dez anos depois! Que podíamos enterrar um papel na terra e que se o desenterrássemos quinze anos depois, ou vinte anos depois, as palavras ainda lá estariam. Nisso acreditei. E a partir desse dia passei a querer muito aprender a escrever em papel. Com um lápis.\n(Fonte: Conto publicado no livro Os Monociclistas e outras histórias do ano 2045, Ed. On y Va, 2018. Versão adaptada).\n\n5ª Questão. A representação da distopia tem abrigo seguro em obras de ficção científica. Cada uma das afirmações seguintes apresenta um motivo pelo qual o mundo retratado pelo conto \"O Professor”, de António Ladeira, poderia ser considerado um mundo distópico.\nI - Por instigar a criação de uma ficção completamente isolada da realidade do leitor.\nII - Por promover a reflexão crítica dos leitores sobre as escolhas que fazemos no presente, em vista de suas possíveis consequências futuras.\nIII - Por conscientizar os leitores sobre questões sociais e trazer à luz temas relevantes.\nIV - Por impor ideologias e limitar a capacidade imaginativa do leitor.\nV - Não pode ser considerado uma distopia, pois retrata a sociedade contemporânea tal qual é.\nEscolha a alternativa correta.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Somente as afirmações II e III são verdadeiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Somente as afirmações I e IV são verdadeiras."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente a afirmação IV é verdadeira."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente a afirmação V é verdadeira."
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as afirmações são verdadeiras."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Gêneros Textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "MATEMÁTICA\n5ª Questão. Uma empresa produz o equipamento X em duas fábricas distintas, A e B, e armazena todas as unidades produzidas em um depósito central. Sabe-se que a produção de A é o triplo da de B e que as proporções de produtos com defeito são 3% em A e 5% em B. Se um funcionário retirou aleatoriamente uma unidade do equipamento X do depósito e constatou que o equipamento tinha defeito, então a probabilidade de ter sido produzido na fábrica A é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{9}{14}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{9}{400}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{3}{10}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{3}{4}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{8}{11}$"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Matemática – Probabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "FÍSICA\nInstruções: Se for necessário, use a aceleração da gravidade $g = 10 \\text{ m/s}^2$, $\\text{sen}(30^{\\circ}) = 0,50$, $\\cos(30^{\\circ}) = 0,87$, $\\text{sen}(60^{\\circ}) = 0,87$ e $\\cos(60^{\\circ}) = 0,50$.\n\n5ª Questão. Uma partícula I de massa $0,3 \\text{ kg}$ move-se sobre um plano horizontal até colidir com a partícula II, que está inicialmente em repouso. O gráfico da velocidade em função do tempo, mostrado abaixo, descreve as velocidades de ambas as partículas imediatamente antes, durante e após a colisão. Considere que não existem forças externas atuando sobre o sistema formado pelas partículas I e II. Qual é a massa da partícula II?\n*Ignore o gráfico para alternativas, ele é uma imagem.*",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "0,10 kg"
+        },
+        {
+          "letra": "B",
+          "texto": "0,30 kg"
+        },
+        {
+          "letra": "C",
+          "texto": "0,35 kg"
+        },
+        {
+          "letra": "D",
+          "texto": "0,55 kg"
+        },
+        {
+          "letra": "E",
+          "texto": "0,62 kg"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Física – Quantidade de Movimento",
+        "Física – Colisões"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "QUÍMICA\n5ª Questão. Em um reator foram carregados $200 \\text{ g}$ de carbonato de cálcio. O reator foi aquecido, ocorrendo a decomposição completa de carbonato de cálcio em óxido de cálcio e dióxido de carbono. O volume de dióxido de carbono produzido na pressão de $1 \\text{ atm}$ e temperatura de $227 \\text{ °C}$ foi de:\nDados: Ca = 40; C = 12; O = 16\n$R = 0,082 \\text{ atm.L.K}^{-1}.\\text{mol}^{-1}$",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$22,4 \\text{ L}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$44,8 \\text{ L}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$82,0 \\text{ L}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$112,0 \\text{ L}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$246,4 \\text{ L}$"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Química – Estequiometria",
+        "Química – Gases Ideais"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Leia o texto abaixo para responder às questões de 05 a 10.\nTexto 2 - Trecho do conto de ficção científica \"O professor”, do escritor português António Ladeira.\nDizia-se muitas coisas do professor e do programa-piloto. Por exemplo, dizia-se que o professor ia pedir a todos os alunos que usassem lápis e papel. Eu nunca tinha usado um lápis. Nem papel. Já tinha visto um lápis. A minha mãe guardava um no fundo de uma gaveta, mas não deixava que eu ou os meus irmãos brincássemos com ele. Nem sequer o meu pai estava autorizado a usá-lo. A minha mãe dizia que era uma recordação, que era uma antiguidade, que tinha pertencido à avó dela, que já não se vendia lápis nas lojas, que não se via em lugar nenhum e que, por essa razão, ninguém estava autorizado a utilizar o lápis lá em casa. Muito menos a apontar o lápis.\nCom papel também não tinha experiência. Uma vez vi uma folha de papel a voar no ar, num filme. Era uma folha grande e grossa. Do tamanho de um rapaz da minha idade. Por acaso até foi um rapaz da minha idade que apanhou a folha que voava. Deu um salto, agarrou-a no ar, dobrou-a, guardou-a na mochila e pôs-se a andar pela rua fora, todo contente.\nO meu amigo Jaime tinha, não uma folha de papel, mas um caderno escondido no sótão de casa. Nem a mãe dele sabia desse caderno. O meu amigo Jaime dizia que escrever em papel era «para sempre». Por isso era preciso cuidado, era preciso pensarmos bem no que queríamos escrever antes de escrevermos palavras que ficariam no papel «para sempre». O Jaime um dia retirou o que tinha dito. Disse que tinha exagerado: «para sempre» era muito tempo, afinal, não era «para sempre». Mas disse que se escrevêssemos uma palavra a lápis, no papel, podíamos apertar todas as teclas que quiséssemos imaginar (o papel não tem teclas reais, apenas as teclas que quisermos imaginar) que as palavras não se apagavam. Podíamos sacudir o papel à vontade, ou até espezinhar o papel, que as palavras não desapareciam. O meu amigo Jaime também dizia, meio a brincar, meio a sério, que podíamos passar anos sem carregar a bateria do papel porque ela não descarregava. «E por quê?», perguntava o meu amigo Jaime, começando a rebentar o riso. «Porque o papel não precisa de bateria!» O meu amigo Jaime ria-se muito depois de dizer estas coisas. O que mais gostei de ouvir o Jaime dizer - embora não acreditasse em tudo o que dizia – foi isto: podíamos guardar um papel numa gaveta que, dez anos depois, ainda se podia ler o que lá estivesse escrito. Dez anos depois! Que podíamos enterrar um papel na terra e que se o desenterrássemos quinze anos depois, ou vinte anos depois, as palavras ainda lá estariam. Nisso acreditei. E a partir desse dia passei a querer muito aprender a escrever em papel. Com um lápis.\n(Fonte: Conto publicado no livro Os Monociclistas e outras histórias do ano 2045, Ed. On y Va, 2018. Versão adaptada).\n\n6ª Questão. O narrador aborda os objetos-relíquias, caracterizando-os. Ao longo do texto, em especial no último parágrafo, o narrador descreve a escrita em papel como algo duradouro. Todas as passagens a seguir corroboram essa afirmação, exceto:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "\"Por isso era preciso cuidado, era preciso pensarmos bem no que queríamos escrever antes de escrevermos.\""
+        },
+        {
+          "letra": "B",
+          "texto": "\"Podíamos guardar um papel numa gaveta que, dez anos depois, ainda se podia ler o que lá estivesse escrito.\""
+        },
+        {
+          "letra": "C",
+          "texto": "\"Não se via em lugar nenhum e que, por essa razão, ninguém estava autorizado a utilizar o lápis lá em casa.\""
+        },
+        {
+          "letra": "D",
+          "texto": "\"Jaime também dizia, meio a brincar, meio a sério, que podíamos passar anos sem carregar a bateria do papel porque ela não descarregava.”"
+        },
+        {
+          "letra": "E",
+          "texto": "\"Se escrevêssemos uma palavra a lápis, no papel, podíamos carregar em todas as teclas que quiséssemos imaginar [...] que as palavras não se apagavam.”"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "MATEMÁTICA\n6ª Questão. Dado o número complexo $z=2-3i$, sendo $i$ a unidade imaginária, o módulo de $z^{-1}$ é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{\\sqrt{13}}{13}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{\\sqrt{5}}{13}$"
+        },
+        {
+          "letra": "C",
+          "texto": "13"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\sqrt{13}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{1}{13}$"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Matemática – Números Complexos"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "FÍSICA\nInstruções: Se for necessário, use a aceleração da gravidade $g = 10 \\text{ m/s}^2$, $\\text{sen}(30^{\\circ}) = 0,50$, $\\cos(30^{\\circ}) = 0,87$, $\\text{sen}(60^{\\circ}) = 0,87$ e $\\cos(60^{\\circ}) = 0,50$.\n\n6ª Questão. A Etiqueta Nacional de Conservação de Energia (ENCE) emitida pelo Inmetro informa ao consumidor o nível de eficiência energética de um produto. No caso de um chuveiro elétrico, a ENCE especifica uma potência nominal de $5500 \\text{ W}$ para uma tensão elétrica de $127 \\text{ V}$. Considere que o custo do kWh é de R$ 0,66 e que uma residência utilize o chuveiro por duas horas semanais. Qual é o custo mensal do uso desse chuveiro? Por simplicidade, admita que o mês possui exatamente quatro semanas.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "R$ 3,63"
+        },
+        {
+          "letra": "B",
+          "texto": "R$ 7,26"
+        },
+        {
+          "letra": "C",
+          "texto": "R$ 15,43"
+        },
+        {
+          "letra": "D",
+          "texto": "R$ 22,88"
+        },
+        {
+          "letra": "E",
+          "texto": "R$ 29,04"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Eletrodinâmica",
+        "Física – Energia Elétrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Leia o texto abaixo para responder às questões de 05 a 10.\nTexto 2 - Trecho do conto de ficção científica \"O professor”, do escritor português António Ladeira.\nDizia-se muitas coisas do professor e do programa-piloto. Por exemplo, dizia-se que o professor ia pedir a todos os alunos que usassem lápis e papel. Eu nunca tinha usado um lápis. Nem papel. Já tinha visto um lápis. A minha mãe guardava um no fundo de uma gaveta, mas não deixava que eu ou os meus irmãos brincássemos com ele. Nem sequer o meu pai estava autorizado a usá-lo. A minha mãe dizia que era uma recordação, que era uma antiguidade, que tinha pertencido à avó dela, que já não se vendia lápis nas lojas, que não se via em lugar nenhum e que, por essa razão, ninguém estava autorizado a utilizar o lápis lá em casa. Muito menos a apontar o lápis.\nCom papel também não tinha experiência. Uma vez vi uma folha de papel a voar no ar, num filme. Era uma folha grande e grossa. Do tamanho de um rapaz da minha idade. Por acaso até foi um rapaz da minha idade que apanhou a folha que voava. Deu um salto, agarrou-a no ar, dobrou-a, guardou-a na mochila e pôs-se a andar pela rua fora, todo contente.\nO meu amigo Jaime tinha, não uma folha de papel, mas um caderno escondido no sótão de casa. Nem a mãe dele sabia desse caderno. O meu amigo Jaime dizia que escrever em papel era «para sempre». Por isso era preciso cuidado, era preciso pensarmos bem no que queríamos escrever antes de escrevermos palavras que ficariam no papel «para sempre». O Jaime um dia retirou o que tinha dito. Disse que tinha exagerado: «para sempre» era muito tempo, afinal, não era «para sempre». Mas disse que se escrevêssemos uma palavra a lápis, no papel, podíamos apertar todas as teclas que quiséssemos imaginar (o papel não tem teclas reais, apenas as teclas que quisermos imaginar) que as palavras não se apagavam. Podíamos sacudir o papel à vontade, ou até espezinhar o papel, que as palavras não desapareciam. O meu amigo Jaime também dizia, meio a brincar, meio a sério, que podíamos passar anos sem carregar a bateria do papel porque ela não descarregava. «E por quê?», perguntava o meu amigo Jaime, começando a rebentar o riso. «Porque o papel não precisa de bateria!» O meu amigo Jaime ria-se muito depois de dizer estas coisas. O que mais gostei de ouvir o Jaime dizer - embora não acreditasse em tudo o que dizia – foi isto: podíamos guardar um papel numa gaveta que, dez anos depois, ainda se podia ler o que lá estivesse escrito. Dez anos depois! Que podíamos enterrar um papel na terra e que se o desenterrássemos quinze anos depois, ou vinte anos depois, as palavras ainda lá estariam. Nisso acreditei. E a partir desse dia passei a querer muito aprender a escrever em papel. Com um lápis.\n(Fonte: Conto publicado no livro Os Monociclistas e outras histórias do ano 2045, Ed. On y Va, 2018. Versão adaptada).\n\n7ª Questão. O texto se encerra com o desejo explícito do narrador de “aprender a escrever em papel com um lápis”. Com base em todos os argumentos listados que permitiram ao narrador tal conclusão, qual sentimento melhor sintetizaria o ímpeto do protagonista?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Indiferença"
+        },
+        {
+          "letra": "B",
+          "texto": "Curiosidade"
+        },
+        {
+          "letra": "C",
+          "texto": "Circunspeção"
+        },
+        {
+          "letra": "D",
+          "texto": "Intromissão"
+        },
+        {
+          "letra": "E",
+          "texto": "Irrelevância"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "MATEMÁTICA\n7ª Questão. Uma família, composta por cinco pessoas (o casal Maria e Carlos e seus três filhos), deseja tirar uma fotografia em que os cinco estejam presentes um ao lado do outro. A quantidade total de configurações diferentes em que o casal apareceria lado a lado na fotografia é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "6"
+        },
+        {
+          "letra": "B",
+          "texto": "12"
+        },
+        {
+          "letra": "C",
+          "texto": "18"
+        },
+        {
+          "letra": "D",
+          "texto": "24"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "FÍSICA\nInstruções: Se for necessário, use a aceleração da gravidade $g = 10 \\text{ m/s}^2$, $\\text{sen}(30^{\\circ}) = 0,50$, $\\cos(30^{\\circ}) = 0,87$, $\\text{sen}(60^{\\circ}) = 0,87$ e $\\cos(60^{\\circ}) = 0,50$.\n\n7ª Questão. Nas linhas de transmissão de alta tensão, observa-se que os fios condutores que ficam entre duas torres consecutivas não ficam estendidos. Em geral, os cabos apresentam uma curvatura extra proposital. O objetivo é levar em conta a dilatação térmica do material, evitando o rompimento dos cabos em dias muito frios. Considere uma linha de transmissão de alta tensão localizada na região sul do Brasil, mais especificamente em áreas rurais, que possui uma grande variação de temperatura ao longo do ano, variando de $5 \\text{ °C}$ negativos até $40 \\text{ °C}$. Neste intervalo de temperatura, o cabo dilata $45 \\text{ cm}$. Sabendo que o coeficiente de dilatação térmica linear do material que constitui o cabo é de $20 \\times 10^{-6} \\text{ °C}^{-1}$, qual é o comprimento do cabo a temperatura de $-5 \\text{ °C}$?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "500 m"
+        },
+        {
+          "letra": "B",
+          "texto": "576 m"
+        },
+        {
+          "letra": "C",
+          "texto": "643 m"
+        },
+        {
+          "letra": "D",
+          "texto": "654 m"
+        },
+        {
+          "letra": "E",
+          "texto": "765 m"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Física – Dilatação Térmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Leia o texto abaixo para responder às questões de 05 a 10.\nTexto 2 - Trecho do conto de ficção científica \"O professor”, do escritor português António Ladeira.\nDizia-se muitas coisas do professor e do programa-piloto. Por exemplo, dizia-se que o professor ia pedir a todos os alunos que usassem lápis e papel. Eu nunca tinha usado um lápis. Nem papel. Já tinha visto um lápis. A minha mãe guardava um no fundo de uma gaveta, mas não deixava que eu ou os meus irmãos brincássemos com ele. Nem sequer o meu pai estava autorizado a usá-lo. A minha mãe dizia que era uma recordação, que era uma antiguidade, que tinha pertencido à avó dela, que já não se vendia lápis nas lojas, que não se via em lugar nenhum e que, por essa razão, ninguém estava autorizado a utilizar o lápis lá em casa. Muito menos a apontar o lápis.\nCom papel também não tinha experiência. Uma vez vi uma folha de papel a voar no ar, num filme. Era uma folha grande e grossa. Do tamanho de um rapaz da minha idade. Por acaso até foi um rapaz da minha idade que apanhou a folha que voava. Deu um salto, agarrou-a no ar, dobrou-a, guardou-a na mochila e pôs-se a andar pela rua fora, todo contente.\nO meu amigo Jaime tinha, não uma folha de papel, mas um caderno escondido no sótão de casa. Nem a mãe dele sabia desse caderno. O meu amigo Jaime dizia que escrever em papel era «para sempre». Por isso era preciso cuidado, era preciso pensarmos bem no que queríamos escrever antes de escrevermos palavras que ficariam no papel «para sempre». O Jaime um dia retirou o que tinha dito. Disse que tinha exagerado: «para sempre» era muito tempo, afinal, não era «para sempre». Mas disse que se escrevêssemos uma palavra a lápis, no papel, podíamos apertar todas as teclas que quiséssemos imaginar (o papel não tem teclas reais, apenas as teclas que quisermos imaginar) que as palavras não se apagavam. Podíamos sacudir o papel à vontade, ou até espezinhar o papel, que as palavras não desapareciam. O meu amigo Jaime também dizia, meio a brincar, meio a sério, que podíamos passar anos sem carregar a bateria do papel porque ela não descarregava. «E por quê?», perguntava o meu amigo Jaime, começando a rebentar o riso. «Porque o papel não precisa de bateria!» O meu amigo Jaime ria-se muito depois de dizer estas coisas. O que mais gostei de ouvir o Jaime dizer - embora não acreditasse em tudo o que dizia – foi isto: podíamos guardar um papel numa gaveta que, dez anos depois, ainda se podia ler o que lá estivesse escrito. Dez anos depois! Que podíamos enterrar um papel na terra e que se o desenterrássemos quinze anos depois, ou vinte anos depois, as palavras ainda lá estariam. Nisso acreditei. E a partir desse dia passei a querer muito aprender a escrever em papel. Com um lápis.\n(Fonte: Conto publicado no livro Os Monociclistas e outras histórias do ano 2045, Ed. On y Va, 2018. Versão adaptada).\n\n8ª Questão. Ao longo do último parágrafo, o autor traz a expressão «para sempre» em destaque pelo uso de aspas angulares. A escolha repetitiva por esse recurso ao dizer essa expressão tem como objetivo:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Indicar que é uma escolha pessoal do autor português."
+        },
+        {
+          "letra": "B",
+          "texto": "Enfatizar que a expressão carrega um sentido especial e específico para o texto."
+        },
+        {
+          "letra": "C",
+          "texto": "Apontar que a expressão é falsa e deve ser desconsiderada."
+        },
+        {
+          "letra": "D",
+          "texto": "Demarcar uma expressão estrangeira, portanto estranha ao leitor."
+        },
+        {
+          "letra": "E",
+          "texto": "Destacar exclusivamente a citação direta do seu amigo Jaime."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Estilística",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "MATEMÁTICA\n8ª Questão. Seja a matriz $M = \\begin{bmatrix} (\\log x)^2 & \\log x \\\\ 4 & 2 \\end{bmatrix}$, com $x>0$. O produto das soluções da equação $\\det(M)=0$, sendo $\\det(M)$ o determinante da matriz M, é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\sqrt{10}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$2\\sqrt{10}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$3\\sqrt{10}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$4\\sqrt{10}$"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Matemática – Matrizes e Determinantes",
+        "Matemática – Funções Logarítmicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "FÍSICA\nInstruções: Se for necessário, use a aceleração da gravidade $g = 10 \\text{ m/s}^2$, $\\text{sen}(30^{\\circ}) = 0,50$, $\\cos(30^{\\circ}) = 0,87$, $\\text{sen}(60^{\\circ}) = 0,87$ e $\\cos(60^{\\circ}) = 0,50$.\n\n8ª Questão. Considere um sistema formado por uma bola de massa igual a $100 \\text{ g}$, presa a uma mola de constante elástica igual a $100 \\text{ N/m}$, cuja extremidade está fixada em um ponto P em uma mesa horizontal sem atrito. O sistema gira em torno do ponto P executando uma trajetória circular com raio de $0,25 \\text{ m}$. Qual é a deformação da mola se o movimento circular é realizado com velocidade constante de $5,0 \\text{ m/s}$?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "2,0 cm"
+        },
+        {
+          "letra": "B",
+          "texto": "5,0 cm"
+        },
+        {
+          "letra": "C",
+          "texto": "10 cm"
+        },
+        {
+          "letra": "D",
+          "texto": "15 cm"
+        },
+        {
+          "letra": "E",
+          "texto": "18 cm"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Física – Dinâmica do Movimento Circular",
+        "Física – Leis de Newton",
+        "Física – Lei de Hooke"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "Leia o texto abaixo para responder às questões de 05 a 10.\nTexto 2 - Trecho do conto de ficção científica \"O professor”, do escritor português António Ladeira.\nDizia-se muitas coisas do professor e do programa-piloto. Por exemplo, dizia-se que o professor ia pedir a todos os alunos que usassem lápis e papel. Eu nunca tinha usado um lápis. Nem papel. Já tinha visto um lápis. A minha mãe guardava um no fundo de uma gaveta, mas não deixava que eu ou os meus irmãos brincássemos com ele. Nem sequer o meu pai estava autorizado a usá-lo. A minha mãe dizia que era uma recordação, que era uma antiguidade, que tinha pertencido à avó dela, que já não se vendia lápis nas lojas, que não se via em lugar nenhum e que, por essa razão, ninguém estava autorizado a utilizar o lápis lá em casa. Muito menos a apontar o lápis.\nCom papel também não tinha experiência. Uma vez vi uma folha de papel a voar no ar, num filme. Era uma folha grande e grossa. Do tamanho de um rapaz da minha idade. Por acaso até foi um rapaz da minha idade que apanhou a folha que voava. Deu um salto, agarrou-a no ar, dobrou-a, guardou-a na mochila e pôs-se a andar pela rua fora, todo contente.\nO meu amigo Jaime tinha, não uma folha de papel, mas um caderno escondido no sótão de casa. Nem a mãe dele sabia desse caderno. O meu amigo Jaime dizia que escrever em papel era «para sempre». Por isso era preciso cuidado, era preciso pensarmos bem no que queríamos escrever antes de escrevermos palavras que ficariam no papel «para sempre». O Jaime um dia retirou o que tinha dito. Disse que tinha exagerado: «para sempre» era muito tempo, afinal, não era «para sempre». Mas disse que se escrevêssemos uma palavra a lápis, no papel, podíamos apertar todas as teclas que quiséssemos imaginar (o papel não tem teclas reais, apenas as teclas que quisermos imaginar) que as palavras não se apagavam. Podíamos sacudir o papel à vontade, ou até espezinhar o papel, que as palavras não desapareciam. O meu amigo Jaime também dizia, meio a brincar, meio a sério, que podíamos passar anos sem carregar a bateria do papel porque ela não descarregava. «E por quê?», perguntava o meu amigo Jaime, começando a rebentar o riso. «Porque o papel não precisa de bateria!» O meu amigo Jaime ria-se muito depois de dizer estas coisas. O que mais gostei de ouvir o Jaime dizer - embora não acreditasse em tudo o que dizia – foi isto: podíamos guardar um papel numa gaveta que, dez anos depois, ainda se podia ler o que lá estivesse escrito. Dez anos depois! Que podíamos enterrar um papel na terra e que se o desenterrássemos quinze anos depois, ou vinte anos depois, as palavras ainda lá estariam. Nisso acreditei. E a partir desse dia passei a querer muito aprender a escrever em papel. Com um lápis.\n(Fonte: Conto publicado no livro Os Monociclistas e outras histórias do ano 2045, Ed. On y Va, 2018. Versão adaptada).\n\n9ª Questão. Lápis e papel são os objetos-protagonistas no texto. O modo como o narrador se aproxima deles para tecer a sua reflexão os aproxima, organizando-os e inserindo-os em uma categoria comum. Dentre as opções a seguir, qual seria a melhor ideia para os objetos mencionados?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Trivialidade"
+        },
+        {
+          "letra": "B",
+          "texto": "Habitualidade"
+        },
+        {
+          "letra": "C",
+          "texto": "Necessidade"
+        },
+        {
+          "letra": "D",
+          "texto": "Modernidade"
+        },
+        {
+          "letra": "E",
+          "texto": "Preciosidade"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "MATEMÁTICA\n9ª Questão. Considere uma pirâmide de $60 \\text{ cm}^2$ de área da base e $10 \\text{ cm}$ de altura. Um prisma com área da base igual a $40 \\text{ cm}^2$ tem o mesmo volume desta pirâmide. É correto afirmar que a altura do prisma é, em centímetros, igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "10"
+        },
+        {
+          "letra": "B",
+          "texto": "8"
+        },
+        {
+          "letra": "C",
+          "texto": "6"
+        },
+        {
+          "letra": "D",
+          "texto": "5"
+        },
+        {
+          "letra": "E",
+          "texto": "2"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "FÍSICA\nInstruções: Se for necessário, use a aceleração da gravidade $g = 10 \\text{ m/s}^2$, $\\text{sen}(30^{\\circ}) = 0,50$, $\\cos(30^{\\circ}) = 0,87$, $\\text{sen}(60^{\\circ}) = 0,87$ e $\\cos(60^{\\circ}) = 0,50$.\n\n9ª Questão. O acidente com o submersível Titan, que tinha como objetivo levar turistas até o local em que estariam os destroços do Titanic, foi amplamente divulgado na mídia. Os destroços do acidente foram encontrados a cerca de $3800 \\text{ m}$ abaixo da superfície do oceano. Analise as afirmações a seguir e assinale a alternativa correta:\nI. Pelos princípios da hidrostática, a pressão que atua sobre um corpo dentro de um líquido aumenta com a profundidade.\nII. A pressão é uma grandeza física vetorial medida em Pa.\nIII. Um submersível é uma embarcação que consegue emergir ou submergir provocando uma desigualdade entre a força peso e a força empuxo que atuam sobre ele.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apenas a afirmação I é verdadeira"
+        },
+        {
+          "letra": "B",
+          "texto": "Apenas a afirmação II é verdadeira"
+        },
+        {
+          "letra": "C",
+          "texto": "Apenas as afirmações II e III são verdadeiras"
+        },
+        {
+          "letra": "D",
+          "texto": "Apenas as afirmações I e III são verdadeiras"
+        },
+        {
+          "letra": "E",
+          "texto": "Todas as afirmações são verdadeiras"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Hidrostática",
+        "Física – Pressão",
+        "Física – Empuxo"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "Leia o texto abaixo para responder às questões de 05 a 10.\nTexto 2 - Trecho do conto de ficção científica \"O professor”, do escritor português António Ladeira.\nDizia-se muitas coisas do professor e do programa-piloto. Por exemplo, dizia-se que o professor ia pedir a todos os alunos que usassem lápis e papel. Eu nunca tinha usado um lápis. Nem papel. Já tinha visto um lápis. A minha mãe guardava um no fundo de uma gaveta, mas não deixava que eu ou os meus irmãos brincássemos com ele. Nem sequer o meu pai estava autorizado a usá-lo. A minha mãe dizia que era uma recordação, que era uma antiguidade, que tinha pertencido à avó dela, que já não se vendia lápis nas lojas, que não se via em lugar nenhum e que, por essa razão, ninguém estava autorizado a utilizar o lápis lá em casa. Muito menos a apontar o lápis.\nCom papel também não tinha experiência. Uma vez vi uma folha de papel a voar no ar, num filme. Era uma folha grande e grossa. Do tamanho de um rapaz da minha idade. Por acaso até foi um rapaz da minha idade que apanhou a folha que voava. Deu um salto, agarrou-a no ar, dobrou-a, guardou-a na mochila e pôs-se a andar pela rua fora, todo contente.\nO meu amigo Jaime tinha, não uma folha de papel, mas um caderno escondido no sótão de casa. Nem a mãe dele sabia desse caderno. O meu amigo Jaime dizia que escrever em papel era «para sempre». Por isso era preciso cuidado, era preciso pensarmos bem no que queríamos escrever antes de escrevermos palavras que ficariam no papel «para sempre». O Jaime um dia retirou o que tinha dito. Disse que tinha exagerado: «para sempre» era muito tempo, afinal, não era «para sempre». Mas disse que se escrevêssemos uma palavra a lápis, no papel, podíamos apertar todas as teclas que quiséssemos imaginar (o papel não tem teclas reais, apenas as teclas que quisermos imaginar) que as palavras não se apagavam. Podíamos sacudir o papel à vontade, ou até espezinhar o papel, que as palavras não desapareciam. O meu amigo Jaime também dizia, meio a brincar, meio a sério, que podíamos passar anos sem carregar a bateria do papel porque ela não descarregava. «E por quê?», perguntava o meu amigo Jaime, começando a rebentar o riso. «Porque o papel não precisa de bateria!» O meu amigo Jaime ria-se muito depois de dizer estas coisas. O que mais gostei de ouvir o Jaime dizer - embora não acreditasse em tudo o que dizia – foi isto: podíamos guardar um papel numa gaveta que, dez anos depois, ainda se podia ler o que lá estivesse escrito. Dez anos depois! Que podíamos enterrar um papel na terra e que se o desenterrássemos quinze anos depois, ou vinte anos depois, as palavras ainda lá estariam. Nisso acreditei. E a partir desse dia passei a querer muito aprender a escrever em papel. Com um lápis.\n(Fonte: Conto publicado no livro Os Monociclistas e outras histórias do ano 2045, Ed. On y Va, 2018. Versão adaptada).\n\n10ª Questão. No último parágrafo, o autor utiliza o verbo \"espezinhar\" ao enumerar as várias ações às quais podemos submeter um papel sem destruí-lo completamente. Poderíamos, portanto, substituir sem prejuízo de sentido o verbo “espezinhar\" por qual outro dentre as opções a seguir?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Apreciar"
+        },
+        {
+          "letra": "B",
+          "texto": "Aprimorar"
+        },
+        {
+          "letra": "C",
+          "texto": "Decantar"
+        },
+        {
+          "letra": "D",
+          "texto": "Estragar"
+        },
+        {
+          "letra": "E",
+          "texto": "Humilhar"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Vocabulário",
+        "Língua Portuguesa – Semântica"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "MATEMÁTICA\n10ª Questão. O número de soluções da equação $2\\text{sen}^2x-3\\text{sen}x+1=0$, sendo $x \\in [0;3\\pi]$ é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "3"
+        },
+        {
+          "letra": "B",
+          "texto": "4"
+        },
+        {
+          "letra": "C",
+          "texto": "5"
+        },
+        {
+          "letra": "D",
+          "texto": "6"
+        },
+        {
+          "letra": "E",
+          "texto": "7"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Matemática – Equações Trigonométricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "FÍSICA\nInstruções: Se for necessário, use a aceleração da gravidade $g = 10 \\text{ m/s}^2$, $\\text{sen}(30^{\\circ}) = 0,50$, $\\cos(30^{\\circ}) = 0,87$, $\\text{sen}(60^{\\circ}) = 0,87$ e $\\cos(60^{\\circ}) = 0,50$.\n\n10ª Questão. Um raio de luz monocromática se propaga no ar (meio 1), incidindo obliquamente sobre um meio 2 com índice de refração n. Sabe-se que o ângulo de incidência é de $60^{\\circ}$ com a normal, conforme mostra a figura. O raio de luz é parcialmente refletido e refratado, formando um ângulo de $90^{\\circ}$ entre eles. Qual é o índice de refração n do meio onde ocorre a refração?\n*Ignore a imagem.*",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,18"
+        },
+        {
+          "letra": "B",
+          "texto": "1,26"
+        },
+        {
+          "letra": "C",
+          "texto": "1,35"
+        },
+        {
+          "letra": "D",
+          "texto": "1,65"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Física – Óptica Geométrica",
+        "Física – Refração da Luz",
+        "Física – Lei de Snell-Descartes"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Instruções: Se for necessário, use a aceleração da gravidade $g = 10 \\text{ m/s}^2$, $\\text{sen}(30^{\\circ}) = 0,50$, $\\text{cos}(30^{\\circ}) = 0,87$, $\\text{sen}(60^{\\circ}) = 0,87$ e $\\text{cos}(60^{\\circ}) = 0,50$. Em novembro de 2022 foram adicionados novos prefixos ao Sistema Internacional de Unidades (SI). Os novos prefixos ronna (R) e quetta (Q) expressam os fatores multiplicativos $10^{27}$ e $10^{30}$, respectivamente. Simetricamente, o ronto (r) e o quecto (q) expressam os fatores multiplicativos $10^{-27}$ e $10^{-30}$. Sabe-se que a massa do planeta Terra é de $5,97 \\times 10^{24}$ kg e que a massa do planeta Júpiter é de $1,90 \\times 10^{27}$ kg. Assinale a alternativa que expressa corretamente as massas dos dois planetas utilizando os novos prefixos criados:",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": "Física – Sistema Internacional de Unidades e Prefixos"
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "A Índia foi o primeiro país a pousar no polo sul da Lua em missão histórica em agosto de 2023. Trata-se de uma área inexplorada que possui regiões permanentemente sombreadas onde os cientistas querem estudar a presença de água. Em um experimento na Terra, uma pedra é lançada horizontalmente a partir do topo de um morro com altura de 20 m, alcançando a distância horizontal de 40 m em relação à posição de lançamento. Considere que a aceleração da gravidade na Lua é um sexto da aceleração da gravidade na Terra. Se a pedra for lançada nas mesmas condições descritas anteriormente do topo de um morro na Lua, qual será a distância horizontal alcançada?",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": "Física – Lançamento Horizontal e Gravidade"
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "Ao decorar a sua cozinha, um engenheiro opta por colocar um pequeno vaso com planta preso por um ímã na porta de sua geladeira. O vaso com planta possui massa de 100 g e o valor do coeficiente de atrito estático entre o ímã e a porta da geladeira é de 0,50. Qual deve ser o menor valor da força magnética para que o vaso fique em equilíbrio?",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": "Física – Força de Atrito e Força Magnética"
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "Recentemente o estado do Rio Grande do Sul sofreu com a passagem de um ciclone extratropical, um fenômeno da natureza caracterizado por fortes tempestades causadas pelas massas de ar que giram ao redor de um centro de baixa pressão. Nesse caso, a intensidade dos ventos, que podem chegar até 200 km/h e variar de sentido, é essencial para a formação dos ciclones. Analise as afirmações a seguir e assinale a alternativa correta: I. Em um ciclone, o ar quente e mais denso eleva-se para as camadas superiores da atmosfera. Já o ar frio e menos denso rebaixa-se para a superfície. II. Os processos de convecção e de condução de calor são igualmente responsáveis pela formação do ciclone. III. Um galho de árvore com massa de 2,0 kg foi levantado com a força dos ventos do ciclone e atingiu uma velocidade de 54 km/h. A energia cinética do galho de árvore foi de 225 J.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "penas as afirmações I e III são verdadeiras"
+        },
+        {
+          "letra": "A",
+          "texto": "penas as afirmações II e III são verdadeiras"
+        },
+        {
+          "letra": "A",
+          "texto": "penas a afirmação I é verdadeira"
+        },
+        {
+          "letra": "A",
+          "texto": "penas a afirmação III é verdadeira"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": "Física – Termodinâmica e Energia Cinética"
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Uma partícula I de massa 0,3 kg move-se sobre um plano horizontal até colidir com a partícula II, que está inicialmente em repouso. O gráfico da velocidade em função do tempo, mostrado abaixo, descreve as velocidades de ambas as partículas imediatamente antes, durante e após a colisão. Considere que não existem forças externas atuando sobre o sistema formado pelas partículas I e II. Qual é a massa da partícula II?",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": "Física – Quantidade de Movimento e Colisões"
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "A Etiqueta Nacional de Conservação de Energia (ENCE) emitida pelo Inmetro informa ao consumidor o nível de eficiência energética de um produto. No caso de um chuveiro elétrico, a ENCE especifica uma potência nominal de 5500 W para uma tensão elétrica de 127 V. Considere que o custo do kWh é de R$ 0,66 e que uma residência utilize o chuveiro por duas horas semanais. Qual é o custo mensal do uso desse chuveiro? Por simplicidade, admita que o mês possui exatamente quatro semanas.",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": "Física – Eletrodinâmica e Consumo de Energia"
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "Nas linhas de transmissão de alta tensão, observa-se que os fios condutores que ficam entre duas torres consecutivas não ficam estendidos. Em geral, os cabos apresentam uma curvatura extra proposital. O objetivo é levar em conta a dilatação térmica do material, evitando o rompimento dos cabos em dias muito frios. Considere uma linha de transmissão de alta tensão localizada na região sul do Brasil, mais especificamente em áreas rurais, que possui uma grande variação de temperatura ao longo do ano, variando de $5 \\text{ }^\\circ\\text{C}$ negativos até $40 \\text{ }^\\circ\\text{C}$. Neste intervalo de temperatura, o cabo dilata 45 cm. Sabendo que o coeficiente de dilatação térmica linear do material que constitui o cabo é de $20 \\times 10^{-6} \\text{ }^\\circ\\text{C}^{-1}$, qual é o comprimento do cabo a temperatura de $ -5 \\text{ }^\\circ\\text{C}$?",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": "Física – Termometria e Dilatação Térmica"
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Considere um sistema formado por uma bola de massa igual a 100 g, presa a uma mola de constante elástica igual a 100 N/m, cuja extremidade está fixada em um ponto P em uma mesa horizontal sem atrito. O sistema gira em torno do ponto P executando uma trajetória circular com raio de 0,25 m. Qual é a deformação da mola se o movimento circular é realizado com velocidade constante de 5,0 m/s?",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": "Física – Dinâmica do Movimento Circular e Lei de Hooke"
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "O acidente com o submersível Titan, que tinha como objetivo levar turistas até o local em que estariam os destroços do Titanic, foi amplamente divulgado na mídia. Os destroços do acidente foram encontrados a cerca de 3800 m abaixo da superfície do oceano. Analise as afirmações a seguir e assinale a alternativa correta: I. Pelos princípios da hidrostática, a pressão que atua sobre um corpo dentro de um líquido aumenta com a profundidade. II. A pressão é uma grandeza física vetorial medida em Pa. III. Um submersível é uma embarcação que consegue emergir ou submergir provocando uma desigualdade entre a força peso e a força empuxo que atuam sobre ele.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "penas a afirmação I é verdadeira"
+        },
+        {
+          "letra": "A",
+          "texto": "penas a afirmação II é verdadeira"
+        },
+        {
+          "letra": "A",
+          "texto": "penas as afirmações II e III são verdadeiras"
+        },
+        {
+          "letra": "A",
+          "texto": "penas as afirmações I e III são verdadeiras"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": "Física – Hidrostática e Empuxo"
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Um raio de luz monocromática se propaga no ar (meio 1), incidindo obliquamente sobre um meio 2 com índice de refração $n$. Sabe-se que o ângulo de incidência é de $60^{\\circ}$ com a normal, conforme mostra a figura. O raio de luz é parcialmente refletido e refratado, formando um ângulo de $90^{\\circ}$ entre eles. Qual é o índice de refração $n$ do meio onde ocorre a refração?",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": "Física – Óptica Geométrica e Refração da Luz"
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Sejam os isótopos do carbono: $_{6}\\text{C}^{12}$ $_{6}\\text{C}^{14}$. O número de nêutrons presentes no núcleo do isótopo do átomo de carbono 14 é igual a:",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": "Química – Estrutura Atômica e Isótopos"
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "Quais os tipos de ligações presentes entre os átomos da molécula de amônia ($\\text{NH}_3$)? ",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": "Química – Ligações Químicas"
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "A reação entre um ácido carboxílico e um amina forma:",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": "Química – Reações Orgânicas e Funções Nitrogenadas"
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Qual das funções orgânicas a seguir apresenta somente um átomo de oxigênio na estrutura de seus compostos?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "lcenos"
+        },
+        {
+          "letra": "A",
+          "texto": "minas"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": "Química – Funções Orgânicas Oxigenadas"
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Em um reator foram carregados 200 g de carbonato de cálcio. O reator foi aquecido, ocorrendo a decomposição completa de carbonato de cálcio em óxido de cálcio e dióxido de carbono. O volume de dióxido de carbono produzido na pressão de 1 atm e temperatura de $227 \\text{ }^\\circ\\text{C}$ foi de: Dados: $\\text{Ca} = 40$; $\\text{C} = 12$; $\\text{O} = 16$ $\\text{R} = 0,082 \\text{ atm} \\cdot \\text{L} \\cdot \\text{K}^{-1} \\cdot \\text{mol}^{-1}$",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": "Química – Estequiometria e Gases Ideais"
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Considere a reação de oxirredução não balanceada: $\\text{Cl}_2 + \\text{KOH} \\rightarrow \\text{KCI} + \\text{KCIO}_3 + \\text{H}_2\\text{O}$. Após o balanceamento desta reação, a soma dos coeficientes mínimos inteiros será igual a:",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": "Química – Reações de Oxirredução e Balanceamento"
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "Diluiu-se com água uma solução de $\\text{NaOH}$ a 12 molar para se preparar 1 L de solução de $\\text{NaOH}$ a 3 molar. O volume de água utilizado na diluição da solução concentrada foi:",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": "Química – Soluções e Diluição"
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "O sistema representado pela reação gasosa hipotética: $\\text{A} + \\text{B} \\rightleftharpoons 2 \\text{ C}$. apresenta as seguintes concentrações após o sistema atingir o equilíbrio: $[\\text{A}] = 1 \\text{ mol/L } [\\text{ B }] = 2 \\text{ mol/L } [\\text{C}] = 4 \\text{ mol/L}$. A constante de equilíbrio, $\\text{K}_c$, deste sistema será igual a:",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": "Química – Equilíbrio Químico"
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "A pilha formada pelos metais zinco e cobre pode ser escrita como $\\text{Zn} / \\text{Zn}^{2+} \\text{ // } \\text{Cu}^{2+} / \\text{Cu}$. Sabendo-se que o zinco apresenta menor potencial de redução do que o cobre, assinale a alternativa correta:",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": "Química – Eletroquímica e Pilhas"
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "Quanto à variação de entalpia ($\\Delta\\text{H}$) de uma reação, pode-se afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "reação é exotérmica quando libera calor e o $\\Delta\\text{H}$ é negativo"
+        },
+        {
+          "letra": "A",
+          "texto": "reação é exotérmica quando recebe calor e o $\\Delta\\text{H}$ é negativo"
+        },
+        {
+          "letra": "A",
+          "texto": "reação é exotérmica quando libera calor e o $\\Delta\\text{H}$ é positivo"
+        },
+        {
+          "letra": "A",
+          "texto": "reação é exotérmica quando recebe calor e o $\\Delta\\text{H}$ é positivo"
+        },
+        {
+          "letra": "A",
+          "texto": "reação é endotérmica quando libera calor e o $\\Delta\\text{H}$ é positivo"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": "Química – Termoquímica e Entalpia"
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "Uma pessoa fez uma viagem de carro, percorrendo 6300 quilômetros em 6 dias. A partir do segundo dia, a distância percorrida a cada dia foi o dobro da distância percorrida no dia anterior. Neste caso, no terceiro dia ela percorreu, em quilômetros, uma distância igual a:",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Matemática – Sequências Numéricas",
+        "Matemática – Resolução de Problemas"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "A dona de uma loja de roupas comprou 50 camisetas de dois tamanhos diferentes: médio e grande. Nessa compra, ela gastou R$ 2115,00. Cada camiseta de tamanho médio custou R$ 40,00 e cada camiseta de tamanho grande custou R$ 45,00. A diferença entre as quantidades de camisetas de tamanhos médio e grande (nessa ordem), adquiridas pela dona da loja, é igual a:",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Matemática – Sistemas de Equações Lineares",
+        "Matemática – Resolução de Problemas"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "Considere a função $f: \\mathbb{R} \\rightarrow \\mathbb{R} / f(x)= – x^2+x-\\frac{3}{16}$. Classifique as afirmações abaixo em verdadeiras (V) ou falsas (F).\n\nI. As raízes de f(x) são 1 e 3\nII. O gráfico de f é uma parábola de concavidade para baixo\nIII. O vértice do gráfico de f é o ponto $V=(-\\frac{1}{2}, \\frac{1}{16})$\nIV. O gráfico de f intercepta o eixo y no ponto $(0, \\frac{3}{16})$\n\nA alternativa que apresenta a classificação das afirmações na ordem correta é:",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Matemática – Função Quadrática",
+        "Matemática – Gráficos de Funções"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "Seja a circunferência de equação $x^2+y^2+2x-6y-3=0$. A equação da reta r, tangente a essa circunferência em P(2,1), é dada por:",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Uma empresa produz o equipamento X em duas fábricas distintas, A e B, e armazena todas as unidades produzidas em um depósito central. Sabe-se que a produção de A é o triplo da de B e que as proporções de produtos com defeito são 3% em A e 5% em B. Se um funcionário retirou aleatoriamente uma unidade do equipamento X do depósito e constatou que o equipamento tinha defeito, então a probabilidade de ter sido produzido na fábrica A é igual a:",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Matemática – Probabilidade Condicional",
+        "Matemática – Probabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "Dado o número complexo z=2-3i, sendo i a unidade imaginária, o módulo de $z^{-1}$ é igual a:",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Matemática – Números Complexos"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Uma família, composta por cinco pessoas (o casal Maria e Carlos e seus três filhos), deseja tirar uma fotografia em que os cinco estejam presentes um ao lado do outro. A quantidade total de configurações diferentes em que o casal apareceria lado a lado na fotografia é igual a:",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Matemática – Análise Combinatória"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "Seja a matriz $M = \\begin{bmatrix} (\\log x)^2 & \\log x \\\\ 2 & 4 \\end{bmatrix}$, com $x>0$. O produto das soluções da equação $\\det(M)=0$, sendo $\\det(M)$ o determinante da matriz M, é igual a:",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Matemática – Matrizes",
+        "Matemática – Determinantes",
+        "Matemática – Logaritmos"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Considere uma pirâmide de 60 cm² de área da base e 10 cm de altura. Um prisma com área da base igual a 40 cm² tem o mesmo volume desta pirâmide. É correto afirmar que a altura do prisma é, em centímetros, igual a:",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Matemática – Geometria Espacial"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "O número de soluções da equação $2\\text{sen}^2x-3\\text{sen}x+1=0$, sendo $x \\in [0;3\\pi]$ é igual a:",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Matemática – Equações Trigonométricas"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Instruções: Se for necessário, use a aceleração da gravidade $g = 10 \\text{ m/s}^2$, $\\text{sen}(30^{\\circ}) = 0,50$, $\\text{cos}(30^{\\circ}) = 0,87$, $\\text{sen}(60^{\\circ}) = 0,87$ e $\\text{cos}(60^{\\circ}) = 0,50$.\n\nEm novembro de 2022 foram adicionados novos prefixos ao Sistema Internacional de Unidades (SI). Os novos prefixos ronna (R) e quetta (Q) expressam os fatores multiplicativos $10^{27}$ e $10^{30}$, respectivamente. Simetricamente, o ronto (r) e o quecto (q) expressam os fatores multiplicativos $10^{-27}$ e $10^{-30}$. Sabe-se que a massa do planeta Terra é de $5,97 \\times 10^{24}$ kg e que a massa do planeta Júpiter é de $1,90 \\times 10^{27}$ kg. Assinale a alternativa que expressa corretamente as massas dos dois planetas utilizando os novos prefixos criados:",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Física – Unidades de Medida",
+        "Física – Sistema Internacional de Unidades (SI)"
+      ]
+    },
+    {
+      "numeroEnunciado": 52,
+      "enunciado": "A Índia foi o primeiro país a pousar no polo sul da Lua em missão histórica em agosto de 2023. Trata-se de uma área inexplorada que possui regiões permanentemente sombreadas onde os cientistas querem estudar a presença de água. Em um experimento na Terra, uma pedra é lançada horizontalmente a partir do topo de um morro com altura de 20 m, alcançando a distância horizontal de 40 m em relação à posição de lançamento. Considere que a aceleração da gravidade na Lua é um sexto da aceleração da gravidade na Terra. Se a pedra for lançada nas mesmas condições descritas anteriormente do topo de um morro na Lua, qual será a distância horizontal alcançada?",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Cinemática",
+        "Física – Lançamento Horizontal"
+      ]
+    },
+    {
+      "numeroEnunciado": 53,
+      "enunciado": "Ao decorar a sua cozinha, um engenheiro opta por colocar um pequeno vaso com planta preso por um ímã na porta de sua geladeira. O vaso com planta possui massa de 100 g e o valor do coeficiente de atrito estático entre o ímã e a porta da geladeira é de 0,50. Qual deve ser o menor valor da força magnética para que o vaso fique em equilíbrio?",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Física – Dinâmica",
+        "Física – Força de Atrito",
+        "Física – Leis de Newton"
+      ]
+    },
+    {
+      "numeroEnunciado": 54,
+      "enunciado": "Recentemente o estado do Rio Grande do Sul sofreu com a passagem de um ciclone extratropical, um fenômeno da natureza caracterizado por fortes tempestades causadas pelas massas de ar que giram ao redor de um centro de baixa pressão. Nesse caso, a intensidade dos ventos, que podem chegar até 200 km/h e variar de sentido, é essencial para a formação dos ciclones. Analise as afirmações a seguir e assinale a alternativa correta:\n\nI. Em um ciclone, o ar quente e mais denso eleva-se para as camadas superiores da atmosfera. Já o ar frio e menos denso rebaixa-se para a superfície.\nII. Os processos de convecção e de condução de calor são igualmente responsáveis pela formação do ciclone.\nIII. Um galho de árvore com massa de 2,0 kg foi levantado com a força dos ventos do ciclone e atingiu uma velocidade de 54 km/h. A energia cinética do galho de árvore foi de 225 J.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "penas as afirmações I e III são verdadeiras"
+        },
+        {
+          "letra": "A",
+          "texto": "penas as afirmações II e III são verdadeiras"
+        },
+        {
+          "letra": "A",
+          "texto": "penas a afirmação I é verdadeira"
+        },
+        {
+          "letra": "A",
+          "texto": "penas a afirmação III é verdadeira"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Termodinâmica",
+        "Física – Energia Cinética",
+        "Física – Fenômenos Climáticos"
+      ]
+    },
+    {
+      "numeroEnunciado": 55,
+      "enunciado": "Uma partícula I de massa 0,3 kg move-se sobre um plano horizontal até colidir com a partícula II, que está inicialmente em repouso. O gráfico da velocidade em função do tempo, mostrado abaixo, descreve as velocidades de ambas as partículas imediatamente antes, durante e após a colisão. Considere que não existem forças externas atuando sobre o sistema formado pelas partículas I e II. Qual é a massa da partícula II?\n\n$$ \\text{v(m/s)} $$\n$$ 1,0 - + -- + -- + -- + -- + -- + -- + -- + -- + -- + -- $$\n$$ 0,8 - | $$\n$$ 0,6 - | $$\n$$ 0,4 - | $$\n$$ 0,2 - | $$\n$$ \\text{Partícula II} $$\n$$ \\text{Partícula I} $$\n$$ \\text{t(s)} $$\n$$ 2 \\quad 4 \\quad 6 \\quad 8 \\quad 10 $$\n(No gráfico: Partícula I inicia em v=1.0, colide em t=4s, depois vai para v=0.2. Partícula II inicia em v=0, colide em t=4s, depois vai para v=0.8.)",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Quantidade de Movimento",
+        "Física – Colisões"
+      ]
+    },
+    {
+      "numeroEnunciado": 56,
+      "enunciado": "A Etiqueta Nacional de Conservação de Energia (ENCE) emitida pelo Inmetro informa ao consumidor o nível de eficiência energética de um produto. No caso de um chuveiro elétrico, a ENCE especifica uma potência nominal de 5500 W para uma tensão elétrica de 127 V. Considere que o custo do kWh é de R$ 0,66 e que uma residência utilize o chuveiro por duas horas semanais. Qual é o custo mensal do uso desse chuveiro? Por simplicidade, admita que o mês possui exatamente quatro semanas.",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Física – Eletrodinâmica",
+        "Física – Consumo de Energia Elétrica"
+      ]
+    },
+    {
+      "numeroEnunciado": 57,
+      "enunciado": "Nas linhas de transmissão de alta tensão, observa-se que os fios condutores que ficam entre duas torres consecutivas não ficam estendidos. Em geral, os cabos apresentam uma curvatura extra proposital. O objetivo é levar em conta a dilatação térmica do material, evitando o rompimento dos cabos em dias muito frios. Considere uma linha de transmissão de alta tensão localizada na região sul do Brasil, mais especificamente em áreas rurais, que possui uma grande variação de temperatura ao longo do ano, variando de $5 \\text{ }^{\\circ}\\text{C}$ negativos até $40 \\text{ }^{\\circ}\\text{C}$. Neste intervalo de temperatura, o cabo dilata 45 cm. Sabendo que o coeficiente de dilatação térmica linear do material que constitui o cabo é de $20 \\times 10^{-6} \\text{ }^{\\circ}\\text{C}^{-1}$, qual é o comprimento do cabo a temperatura de $–5 \\text{ }^{\\circ}\\text{C}$?",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Física – Termologia",
+        "Física – Dilatação Térmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 58,
+      "enunciado": "Considere um sistema formado por uma bola de massa igual a 100 g, presa a uma mola de constante elástica igual a 100 N/m, cuja extremidade está fixada em um ponto P em uma mesa horizontal sem atrito. O sistema gira em torno do ponto P executando uma trajetória circular com raio de 0,25 m. Qual é a deformação da mola se o movimento circular é realizado com velocidade constante de 5,0 m/s?",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Física – Dinâmica",
+        "Física – Movimento Circular",
+        "Física – Força Elástica"
+      ]
+    },
+    {
+      "numeroEnunciado": 59,
+      "enunciado": "O acidente com o submersível Titan, que tinha como objetivo levar turistas até o local em que estariam os destroços do Titanic, foi amplamente divulgado na mídia. Os destroços do acidente foram encontrados a cerca de 3800 m abaixo da superfície do oceano. Analise as afirmações a seguir e assinale a alternativa correta:\n\nI. Pelos princípios da hidrostática, a pressão que atua sobre um corpo dentro de um líquido aumenta com a profundidade.\nII. A pressão é uma grandeza física vetorial medida em Pa.\nIII. Um submersível é uma embarcação que consegue emergir ou submergir provocando uma desigualdade entre a força peso e a força empuxo que atuam sobre ele.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "penas a afirmação I é verdadeira"
+        },
+        {
+          "letra": "A",
+          "texto": "penas a afirmação II é verdadeira"
+        },
+        {
+          "letra": "A",
+          "texto": "penas as afirmações II e III são verdadeiras"
+        },
+        {
+          "letra": "A",
+          "texto": "penas as afirmações I e III são verdadeiras"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Hidrostática",
+        "Física – Pressão",
+        "Física – Empuxo"
+      ]
+    },
+    {
+      "numeroEnunciado": 60,
+      "enunciado": "Um raio de luz monocromática se propaga no ar (meio 1), incidindo obliquamente sobre um meio 2 com índice de refração n. Sabe-se que o ângulo de incidência é de $60^{\\circ}$ com a normal, conforme mostra a figura. O raio de luz é parcialmente refletido e refratado, formando um ângulo de $90^{\\circ}$ entre eles. Qual é o índice de refração n do meio onde ocorre a refração?\n\n(Diagrama mostrando um raio incidente a $60^{\\circ}$ da normal, um raio refletido e um raio refratado, com um ângulo de $90^{\\circ}$ entre o raio refletido e o raio refratado.)",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Física – Óptica Geométrica",
+        "Física – Refração da Luz",
+        "Física – Lei de Snell"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1047 @@
+{
+  "nomeUniversidade": "Centro Universitário FEI",
+  "siglaUniversidade": "FEI",
+  "nomeProva": "Processo Seletivo FEI - Prova de Engenharia, Ciência da Computação, Ciência de Dados e Inteligência Artificial",
+  "ano": 2024,
+  "qtdeQuestoes": 51,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "No mito grego original, Sísifo, ao ludibriar os deuses, é condenado por eles ao trabalho de rolar uma enorme pedra montanha acima apenas para vê-la rolar abaixo e, assim, repetir esta árdua tarefa por toda a eternidade.\nPortanto, a expressão que perdura desde a Grécia antiga, \"trabalho de Sísifo\" tem como principais temas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Repetição e gratificação."
+        },
+        {
+          "letra": "B",
+          "texto": "Esporadicidade e coragem."
+        },
+        {
+          "letra": "C",
+          "texto": "Progresso e sucesso."
+        },
+        {
+          "letra": "D",
+          "texto": "Repetição e monotonia."
+        },
+        {
+          "letra": "E",
+          "texto": "Perseverança e independência."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Filosofia – Mito de Sísifo"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Albert Camus se utiliza do mito de Sísifo como referencial simbólico para estabelecer uma crítica às relações de trabalho. Leia as afirmações a seguir sobre aspectos que podem ser pertinentes a esta crítica:\nI. Assim como Sísifo é condenado a repetir a mesma tarefa sem fim, muitos trabalhadores experimentam uma rotina monótona em seus empregos, realizando as mesmas tarefas diariamente, sem uma sensação de evolução significativa.\nII. Sísifo não tem reconhecimento por seu trabalho árduo, já que sua pedra continua rolando de volta dia após dia. Da mesma forma, muitos trabalhadores podem se sentir subvalorizados e não reconhecidos por seus esforços e contribuições.\nIII. A incessante mudança na ocupação de Sísifo pode conduzir ao contentamento, sensação que igualmente pode ser vivenciada por funcionários que encontram oportunidades de desafios estimulantes.\nIV. A repetição interminável da tarefa de Sísifo pode levar à frustração, sentimento que também pode ser experimentado por trabalhadores que enfrentam obstáculos constantes ou percebem a falta de oportunidades de progresso em suas carreiras.\nEscolha a alternativa correta a respeito do referencial simbólico escolhido por Camus:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Todas as afirmações são verdadeiras."
+        },
+        {
+          "letra": "B",
+          "texto": "Nenhuma das afirmações é verdadeira."
+        },
+        {
+          "letra": "C",
+          "texto": "Somente as afirmações I e II são verdadeiras."
+        },
+        {
+          "letra": "D",
+          "texto": "Somente as afirmações I, II e IV são verdadeiras."
+        },
+        {
+          "letra": "E",
+          "texto": "Somente a afirmação III é verdadeira."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Filosofia – Existencialismo",
+        "Sociologia – Relações de Trabalho"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Uma nova e atualizada interpretação do mito grego, publicada em 11 de dezembro de 2023, foi apresentada na charge do artista Paulo Ciência (Imagem 1). Nessa releitura, são mantidos aspectos fundamentais da narrativa original, porém acrescentando elementos da sociedade contemporânea aos quais direciona a sua crítica.\nSobre este diálogo atual do mito com a dinâmica dos likes nas redes sociais, representado na charge, pode-se afirmar que todas as interpretações abaixo são pertinentes para interpretá-lo, exceto uma. Identifique-a.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Assim como Sísifo é condenado a rolar a pedra montanha acima repetidamente, muitas pessoas se veem presas em um ciclo incessante e interminável de busca por validação nas redes sociais."
+        },
+        {
+          "letra": "B",
+          "texto": "Da mesma forma que Sísifo pode sentir uma ilusão temporária de realização ao chegar ao topo da montanha, os usuários das redes sociais muitas vezes experimentam uma sensação efêmera de conquista ao receberem reconhecimento online."
+        },
+        {
+          "letra": "C",
+          "texto": "Sísifo é forçado a repetir sua tarefa mesmo sabendo que é em vão, assim como muitas pessoas se sentem pressionadas a manter uma imagem idealizada de si mesmas nas redes sociais."
+        },
+        {
+          "letra": "D",
+          "texto": "Assim como Sísifo depende da tarefa de rolar a pedra para dar sentido à sua existência, muitas pessoas desenvolvem uma dependência emocional das redes sociais, buscando nelas uma fonte de validação, entretenimento e conexão social."
+        },
+        {
+          "letra": "E",
+          "texto": "Do mesmo modo com que Sísifo sente satisfação em realizar sua árdua tarefa, os usuários das redes experimentam consistentemente e sem esforços sentimentos de realização, autoestima elevada e felicidade."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Sociologia – Redes Sociais e Comportamento"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Considerando o contexto no qual está inserida a palavra desprezo, em destaque ao final do Texto 1, poderíamos substituí-la sem prejuízo de valor por:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Indiferença."
+        },
+        {
+          "letra": "B",
+          "texto": "Dileção."
+        },
+        {
+          "letra": "C",
+          "texto": "Respeito."
+        },
+        {
+          "letra": "D",
+          "texto": "Frustração."
+        },
+        {
+          "letra": "E",
+          "texto": "Decepção."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Vocabulário"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "A frase \"A clarividência que deveria ser o seu tormento consuma, ao mesmo tempo, sua vitória\", em destaque ao final do Texto 1, poderia ser substituída, sem prejuízo de valor, por todas as alternativas expostas abaixo, exceto uma. Identifique-a.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A perspicácia, que deveria ser o seu sofrimento, coroa a sua conquista."
+        },
+        {
+          "letra": "B",
+          "texto": "A lucidez, que supostamente seria sua aflição, também consolida seu triunfo."
+        },
+        {
+          "letra": "C",
+          "texto": "A sabedoria, que era para ser sua angústia, também sela seu sucesso."
+        },
+        {
+          "letra": "D",
+          "texto": "A cegueira, que deveria ser o seu sofrimento, afirma, agora, sua vitória."
+        },
+        {
+          "letra": "E",
+          "texto": "A clareza, que devia ser seu suplício, torna-se, simultaneamente, sua realização."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Reescrita de Frases"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Todas as características do livro A metamorfose de Franz Kafka listadas abaixo nos permitem associá-lo à literatura fantástica, exceto:\n(A) A presença de elementos sobrenaturais que desafiam a lógica e a realidade concreta do leitor.\n(B) O enredo envolve situações inexplicáveis e surreais, criando um ambiente de estranheza e mistério.\n(C) Os personagens experimentam transformações físicas inexplicáveis, por vezes desafiando as leis da natureza.\n(D) A obra explora o absurdo da existência humana por meio de eventos e situações que transcendem a realidade cotidiana.\n(E) Os elementos retratam a realidade de forma descritiva e verossímil, mantendo-se fiel à experiência humana.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A presença de elementos sobrenaturais que desafiam a lógica e a realidade concreta do leitor."
+        },
+        {
+          "letra": "B",
+          "texto": "O enredo envolve situações inexplicáveis e surreais, criando um ambiente de estranheza e mistério."
+        },
+        {
+          "letra": "C",
+          "texto": "Os personagens experimentam transformações físicas inexplicáveis, por vezes desafiando as leis da natureza."
+        },
+        {
+          "letra": "D",
+          "texto": "A obra explora o absurdo da existência humana por meio de eventos e situações que transcendem a realidade cotidiana."
+        },
+        {
+          "letra": "E",
+          "texto": "Os elementos retratam a realidade de forma descritiva e verossímil, mantendo-se fiel à experiência humana."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Literatura",
+        "Língua Portuguesa – Gêneros Literários (Literatura Fantástica)"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "Na obra A Metamorfose, de Franz Kafka, já no início do livro, Texto 2, vemos a complexa relação do protagonista com o seu trabalho, especialmente com o seu chefe.\nQual das alternativas a seguir melhor resume o sentimento do protagonista em relação ao seu trabalho?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Gregor tem uma relação positiva com seu chefe e desfruta de um ambiente de trabalho caloroso e acolhedor."
+        },
+        {
+          "letra": "B",
+          "texto": "Ele sente que seu chefe é compreensivo e solidário, proporcionando-lhe um ambiente de trabalho agradável."
+        },
+        {
+          "letra": "C",
+          "texto": "Ele expressa ressentimento em relação à atitude autoritária de seu chefe e à falta de apoio no ambiente de trabalho."
+        },
+        {
+          "letra": "D",
+          "texto": "Ele se sente indiferente em relação ao comportamento de seu chefe e ao ambiente de trabalho em geral, não expressando descontentamento."
+        },
+        {
+          "letra": "E",
+          "texto": "Ele considera seu chefe um modelo a ser seguido e está motivado a trabalhar arduamente para impressioná-lo."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Literatura"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Como é comum nas histórias em quadrinhos, há sempre a surpresa de um elemento que rompe com a expectativa do leitor. No quadrinho apresentado na Imagem 2, há um fragmento linguístico que rompe não só com a expectativa do leitor, mas também com a narrativa original da qual deriva. Identifique-o.",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Monstruoso humano."
+        },
+        {
+          "letra": "B",
+          "texto": "Meu corpo pedia açúcar."
+        },
+        {
+          "letra": "C",
+          "texto": "Estranho despertar."
+        },
+        {
+          "letra": "D",
+          "texto": "Sonhos inquietos."
+        },
+        {
+          "letra": "E",
+          "texto": "Boca seca."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação de Texto",
+        "Língua Portuguesa – Gêneros Textuais (História em Quadrinhos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "No último parágrafo, em destaque, o autor utiliza das formas verbais teria pedido, teria me postado e (teria) dito. Que tempo verbal é esse e qual foi a intenção do autor em utilizá-lo no contexto em que está inserido?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Futuro do pretérito composto do indicativo. O autor utiliza esse tempo verbal para expressar uma condição hipotética no passado, indicando o que teria acontecido se certas condições fossem diferentes."
+        },
+        {
+          "letra": "B",
+          "texto": "Pretérito perfeito do indicativo. O autor emprega esse tempo verbal para indicar uma ação pontual no passado que realmente ocorreu."
+        },
+        {
+          "letra": "C",
+          "texto": "Futuro do presente do indicativo. O autor escolhe esse tempo verbal para expressar ações que são consideradas possíveis e prováveis de acontecerem no passado."
+        },
+        {
+          "letra": "D",
+          "texto": "Pretérito perfeito do subjuntivo. O autor utiliza esse tempo verbal para expressar uma condição irreal no passado, que ele não deseja que se realize."
+        },
+        {
+          "letra": "E",
+          "texto": "Futuro do pretérito do indicativo. O autor opta por esse tempo verbal para expressar seus planos concretos de um futuro planejado."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Gramática",
+        "Língua Portuguesa – Morfossintaxe (Tempos Verbais)"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "No último parágrafo, em destaque, o autor utiliza a expressão “ele iria cair da sua banca” ao descrever seu desejo de verbalizar e encerrar as relações profissionais estabelecidas com seu chefe até ali. Poderíamos substituir sem prejuízo de sentido tal expressão por qual outra do português brasileiro?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Ele iria cair do cavalo."
+        },
+        {
+          "letra": "B",
+          "texto": "Ele iria ficar nas nuvens."
+        },
+        {
+          "letra": "C",
+          "texto": "Ele iria botar o pé na estrada."
+        },
+        {
+          "letra": "D",
+          "texto": "Ele iria fazer vista grossa."
+        },
+        {
+          "letra": "E",
+          "texto": "Ele iria jogar verde para colher maduro."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Expressões Idiomáticas"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "Para a limpeza de uma casa, foram adquiridas, no total, treze unidades de dois produtos: A e B. O custo total para a aquisição dos produtos foi de R$ 150,00, sendo que cada unidade do produto A custou R$ 15,00 e cada unidade do produto B custou R$ 10,00.\nNestas condições, é correto afirmar que foram adquiridas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "8 unidades do produto B."
+        },
+        {
+          "letra": "B",
+          "texto": "7 unidades do produto A."
+        },
+        {
+          "letra": "C",
+          "texto": "6 unidades do produto В."
+        },
+        {
+          "letra": "D",
+          "texto": "quantidades iguais dos dois produtos."
+        },
+        {
+          "letra": "E",
+          "texto": "4 unidades do produto A."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Matemática – Sistemas de Equações Lineares",
+        "Matemática – Problemas de Primeiro Grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "Sete pontos equidistantes são marcados sobre o cateto AB do triângulo retângulo ABC. Sete linhas paralelas ao outro cateto AC são traçadas, cada uma delas passando por um dos sete pontos equidistantes marcados anteriormente sobre o cateto AB. Considere os segmentos com origem nos pontos equidistantes marcados no cateto AB e com extremidade nos pontos de intersecção da linha com a hipotenusa BC. Se o cateto AC medir 10 cm, a soma das medidas dos sete segmentos paralelos traçados será, em centímetros, igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "15"
+        },
+        {
+          "letra": "B",
+          "texto": "20"
+        },
+        {
+          "letra": "C",
+          "texto": "25"
+        },
+        {
+          "letra": "D",
+          "texto": "30"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Matemática – Geometria Plana",
+        "Matemática – Semelhança de Triângulos",
+        "Matemática – Progressão Aritmética"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Leia as quatro afirmações abaixo:\nI. A forma fatorada para a expressão $x^2 - \\frac{1}{2}x - \\frac{1}{2}$ é dada por $(x-1) \\cdot (x+\\frac{1}{2})$\nII. O vértice de máximo ou de mínimo do gráfico de uma função de segundo grau é igual ao valor de $\\Delta=b^2-4ac$\nIII. As raízes reais para a equação $x^2 – 2x=0$ são $x=1$ ou $x=3$\nIV. O gráfico da função de 2º grau na forma $f(x)=ax^2+bx+c$, com $a \\neq 0$, intercepta o eixo y no ponto $(0,c)$\nAssinale a alternativa que ordena corretamente as classificações de cada afirmação como verdadeira (V) ou falsa (F):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "V F F V"
+        },
+        {
+          "letra": "B",
+          "texto": "F V V V"
+        },
+        {
+          "letra": "C",
+          "texto": "F V V F"
+        },
+        {
+          "letra": "D",
+          "texto": "V V V F"
+        },
+        {
+          "letra": "E",
+          "texto": "F V F F"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Matemática – Álgebra",
+        "Matemática – Funções Quadráticas",
+        "Matemática – Equações do 2º Grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "A câmara de vereadores de uma pequena cidade é composta por sete vereadores, a saber: Antônio, Bianca, Carlos, Dionísio, Elisabete, Fernando e Gabriela. Uma delegação com três vereadores deve ser formada para representar a cidade numa solenidade. A razão entre o número de delegações sem o vereador Fernando e o número total de delegações possíveis é expresso pela fração irredutível:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{2}{3}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{4}{7}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{3}{8}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{2}{5}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{1}{9}$"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Matemática – Análise Combinatória",
+        "Matemática – Probabilidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciado": "Com base no conjunto solução do sistema de equações lineares:\n$$\\begin{cases}\nx_1+x_2+x_3=1 \\\\\n2x_1-x_2+x_3=0 \\\\\nx_1+2x_2-x_3=0\n\\end{cases}$$\né correto afirmar que o resultado da soma $x_1 + x_2$ é igual a:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$\\frac{2}{7}$"
+        },
+        {
+          "letra": "B",
+          "texto": "$\\frac{8}{3}$"
+        },
+        {
+          "letra": "C",
+          "texto": "$\\frac{6}{7}$"
+        },
+        {
+          "letra": "D",
+          "texto": "$\\frac{5}{7}$"
+        },
+        {
+          "letra": "E",
+          "texto": "$\\frac{1}{3}$"
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Matemática – Sistemas de Equações Lineares",
+        "Matemática – Álgebra Linear"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciado": "Leia as quatro afirmações abaixo:\nI. Uma reta e um plano que têm ponto comum são necessariamente concorrentes.\nII. Uma reta e um plano concorrentes têm um único ponto comum.\nIII. Se uma reta não está contida num plano e é paralela a uma reta do plano, então ela é paralela ao plano.\nIV. Se um plano contém duas retas concorrentes, ambas paralelas a um outro plano, então estes planos são paralelos.\nAssinale a alternativa que ordena corretamente as classificações de cada afirmação como verdadeira (V) ou falsa (F):",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "VFFF"
+        },
+        {
+          "letra": "B",
+          "texto": "VVFF"
+        },
+        {
+          "letra": "C",
+          "texto": "F V V F"
+        },
+        {
+          "letra": "D",
+          "texto": "V V V V"
+        },
+        {
+          "letra": "E",
+          "texto": "F V V V"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Matemática – Geometria Espacial (Reta e Plano)",
+        "Matemática – Geometria Analítica"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciado": "Considere as funções $f(x)= \\log_{10}(x+1)$ e $g(x)=10^{x}-1$.\nÉ incorreto afirmar que:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "$f^{-1} (x) = g(x)$"
+        },
+        {
+          "letra": "B",
+          "texto": "$f(g(x)) = x$"
+        },
+        {
+          "letra": "C",
+          "texto": "$f(g(1)) = 0$"
+        },
+        {
+          "letra": "D",
+          "texto": "$g(f(2)) = 2$"
+        },
+        {
+          "letra": "E",
+          "texto": "$g(f(g(1))) = 9$"
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Matemática – Funções",
+        "Matemática – Funções Inversas",
+        "Matemática – Funções Logarítmicas",
+        "Matemática – Funções Exponenciais"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciado": "Considere um cilindro de revolução de altura 3 cm, com a área lateral igual à área da base. Podemos afirmar que o volume do referido cilindro, em centímetros cúbicos, é igual a:",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudo": "Matemática – Geometria Espacial"
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciado": "O número complexo $z=\\sqrt{2}\\cdot (\\cos\\frac{3\\pi}{4}+i\\cdot\\sen\\frac{3\\pi}{4})$, escrito na forma algébrica, é igual a:",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudo": "Matemática – Números Complexos"
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciado": "O boletim de notas de um estudante do ensino médio, ao longo de um ano letivo, está representado na tabela A. A tabela B, apresenta os pesos que devem ser aplicados às notas obtidas, respectivamente, em cada bimestre e em todas as disciplinas.\n\nTabela A: Notas Bimestrais\n| | 1º bimestre | 2º bimestre | 3º bimestre | 4º bimestre |\n| :----------- | :---------- | :---------- | :---------- | :---------- |\n| Português | 4 | 4 | 5 | 5 |\n| Matemática | 7 | 7 | 6 | 5 |\n| História | 9 | 8 | 5 | 3 |\n\nTabela B: Distribuição do peso para notas\n| | Peso |\n| :----------- | :--- |\n| 1º bimestre | 2 |\n| 2º bimestre | 2 |\n| 3º bimestre | 3 |\n| 4º bimestre | 3 |\n\nConsiderando as tabelas A e B acima como matrizes, sendo $A_{3x4}$ e $B_{4x1}$, assinale a afirmação incorreta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "matriz resultante do produto da A pela B, nesta ordem, é uma matriz com três linhas e uma coluna."
+        },
+        {
+          "letra": "A",
+          "texto": "pontuação total em Matemática é 61."
+        },
+        {
+          "letra": "A",
+          "texto": "pontuação total em Português é 46."
+        },
+        {
+          "letra": "A",
+          "texto": "pontuação total em História é 58."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudo": "Matemática – Matrizes"
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciado": "Instruções: Se for necessário, use a aceleração da gravidade $g = 10\\ m/s^2$, $\\sen(30\\degree) = 0,50$, $\\cos(30\\degree) = 0,87$, $\\sen(60\\degree) = 0,87$ e $\\cos(60\\degree) = 0,50$. O disco rígido, também conhecido como HD (Hard Disk), é um dispositivo de armazenamento de dados presente em computadores e outros dispositivos eletrônicos. Ele é responsável por guardar permanentemente as informações do sistema operacional, programas, arquivos e documentos em uma mídia magnética. Durante seu funcionamento, um modelo comum de disco rígido gira a 7200 rpm (rotações por minuto). Qual é a sua frequência de operação?",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudo": "Física – Cinemática Circular"
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciado": "A frequente previsão de furacões atingindo a costa de um determinado país está intimamente ligada às variações na pressão atmosférica. No interior de um furacão de categoria 5, caracterizado por ventos superiores a 250 km/h, a pressão atmosférica máxima é 920 mbar (milibares). Considerando que 1 bar equivale a $10^5$ Pa (pascal), qual seria a pressão atmosférica máxima no interior de um furacão de categoria 5 em Pa?",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudo": "Física – Hidrostática"
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciado": "A figura abaixo representa as trajetórias das quedas dos corpos A e B de mesma massa sob influência do campo gravitacional terrestre. O corpo A inicia seu movimento a partir do repouso no ponto I, enquanto o corpo B inicia seu movimento no ponto II com uma velocidade inicial paralela ao eixo x. Considere que o movimento ocorre sem a resistência do ar, utilizando o referencial xy indicado na figura. Analise as afirmações a seguir:\n\nI. Os dois corpos caem com acelerações iguais.\nII. A aceleração de cada corpo é paralela ao eixo y.\nIII. A variação da energia potencial gravitacional foi a mesma para ambos os corpos ao longo da queda.\n\nEscolha a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "penas as afirmações I e III são verdadeiras"
+        },
+        {
+          "letra": "A",
+          "texto": "penas as afirmações II e III são verdadeiras"
+        },
+        {
+          "letra": "A",
+          "texto": "penas a afirmação I é verdadeira"
+        },
+        {
+          "letra": "A",
+          "texto": "penas a afirmação III é verdadeira"
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudo": "Física – Cinemática e Dinâmica"
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciado": "A figura abaixo mostra um sistema composto por dois blocos, A e B, interligados por uma corda ideal que passa por uma roldana ideal. As massas dos blocos são $m_A = 3,0\\ kg$ e $m_B = 2,0\\ kg$. Ambos os blocos são soltos a partir de uma altura de 0,20 m em relação ao chão e não existem forças dissipativas atuando no sistema. Qual é a velocidade dos blocos quando o bloco A toca o solo?",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudo": "Física – Dinâmica e Conservação de Energia"
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciado": "Há dois mols de um gás ideal a uma temperatura de $127 \\degree C$ no interior de um recipiente com volume de $0,2\\ m^3$. Sabendo-se que a constante universal dos gases vale $8,31\\ J / (mol\\cdot K)$, qual é a pressão do gás dentro do recipiente?",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudo": "Física – Termodinâmica"
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciado": "Os carros A e B percorrem uma trajetória retilínea que passa pela origem no instante $t = 0\\ s$. O carro A mantém uma velocidade constante de $72\\ km/h$, enquanto o carro B parte do repouso e mantém aceleração constante de $4\\ m/s^2$. Considerando que ambos os carros se deslocam no mesmo sentido, em qual instante o carro B alcançará o carro A?",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudo": "Física – Cinemática"
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciado": "O gráfico abaixo ilustra a variação de temperatura e a transformação de fase sofridas por 5,0 g de um material que se encontra inicialmente na fase sólida à medida que o calor Q é absorvido pelo material. Quais são, nesta ordem, os valores do calor específico do material na fase líquida e do calor latente de fusão?",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudo": "Física – Termologia"
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciado": "Três recipientes iguais contêm o mesmo volume de líquidos. O recipiente 1 contém dois líquidos não miscíveis na mesma proporção. O recipiente 2 contém o mesmo líquido que estava na parte superior do recipiente 1. Já o recipiente 3 contém o mesmo líquido que estava na parte inferior do recipiente 1. Analise as afirmações a seguir:\n\nI. Os pesos dos líquidos nos três recipientes são iguais, já que todos os recipientes possuem o mesmo volume.\nII. A densidade do líquido no recipiente 2 é menor do que a densidade do líquido no recipiente 3.\nIII. No fundo do recipiente 1, um corpo fica sujeito a uma pressão maior do que no fundo do recipiente 3.\n\nEscolha a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "penas as afirmações I e III são verdadeiras"
+        },
+        {
+          "letra": "A",
+          "texto": "penas as afirmações II e III são verdadeiras"
+        },
+        {
+          "letra": "A",
+          "texto": "penas a afirmação I é verdadeira"
+        },
+        {
+          "letra": "A",
+          "texto": "penas a afirmação II é verdadeira"
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudo": "Física – Hidrostática"
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Em um jogo de vôlei de praia, quando uma jogadora bloqueia uma cortada, a bola retorna com a mesma velocidade com que atingiu as mãos da jogadora. Sabe-se que a massa da bola é de 300 g e que sua velocidade ao atingir as mãos da jogadora é de $25\\ m/s$. Qual é a força média que a jogadora imprime à bola, considerando que a duração do impacto entre suas mãos e a bola é de $0,1\\ s$?",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudo": "Física – Dinâmica"
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "Leia as afirmações a seguir sobre ondas e escolha a alternativa incorreta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "s ondas sonoras são longitudinais."
+        },
+        {
+          "letra": "A",
+          "texto": "velocidade de propagação de uma onda depende do meio de propagação."
+        },
+        {
+          "letra": "A",
+          "texto": "velocidade do som no ar independe da frequência."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudo": "Física – Ondulatória"
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "Para se reduzir o volume de um gás ideal a um quarto do seu volume inicial, sob temperatura constante, deve-se:",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "obrar a pressão inicial"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudo": "Química – Gases"
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "O sódio (Na) é um elemento químico que pertence à família 1A (metais alcalinos), possui número atômico 11 e número de massa 23. Portanto, o átomo de sódio, no seu estado fundamental, apresenta:",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudo": "Química – Estrutura Atômica e Tabela Periódica"
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "Para a reação de equilíbrio hipotética A + B $\\rightleftharpoons$ 2 C, onde A, B e C são componentes gasosos, pode-se calcular a constante de equilíbrio Kc por:",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudo": "Química – Equilíbrio Químico"
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "Sabendo-se que:\nC (s) + O$_2$ (g) $\\rightarrow$ CO$_2$ (g) $\\Delta H_{\\text{reação}} = - 392\\ kJ$\nH$_2$ (g) + 1/2 O$_2$ (g) $\\rightarrow$ H$_2$O (l) $\\Delta H_{\\text{reação}} = - 286\\ kJ$\nCH$_4$ (g) + 2 O$_2$ (g) $\\rightarrow$ CO$_2$ (g) + 2 H$_2$O (l) $\\Delta H_{\\text{reação}} = - 890\\ kJ$\nA variação de entalpia para a reação C (s) + 2 H$_2$ (g) $\\rightarrow$ CH$_4$ (g) será igual a:",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudo": "Química – Termoquímica"
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "Escolha a alternativa que apresenta, respectivamente, as fórmulas para o etanal e para a metil etil amina:",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "2H4O e C3H9N"
+        },
+        {
+          "letra": "C",
+          "texto": "2H5O e C2H7N"
+        },
+        {
+          "letra": "C",
+          "texto": "2H6N e C2H7O"
+        },
+        {
+          "letra": "C",
+          "texto": "2H6O e C3H7N"
+        },
+        {
+          "letra": "C",
+          "texto": "2H4O e C3H9O"
+        }
+      ],
+      "alternativaCorreta": null,
+      "conteudosAbordados": [
+        "Química – Química Orgânica",
+        "Química – Funções Orgânicas",
+        "Química – Nomenclatura Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "Qual a massa de solvente que deve ser adicionada para preparar 680 g de uma solução aquosa de NaCl saturada a 20°C? Sabe-se que o coeficiente de solubilidade do NaCl a 20°C é igual a 36 g / 100 g H2O.",
+      "alternativas": [],
+      "alternativaCorreta": null,
+      "conteudosAbordados": [
+        "Química – Soluções",
+        "Química – Solubilidade",
+        "Química – Concentração das Soluções"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "A reação a seguir, já balanceada, representa a combustão completa de metano. $$CH_4 + 2 O_2 \\rightarrow CO_2 + 2 H_2O$$ Considere a queima de 112 L de metano, medidos nas condições normais de temperatura e pressão (P = 1 atm e T = 273 K). Serão obtidos: PA: H = 1; C = 12; O = 16",
+      "alternativas": [],
+      "alternativaCorreta": null,
+      "conteudosAbordados": [
+        "Química – Estequiometria",
+        "Química – Leis Ponderais",
+        "Química – Gases Ideais"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "Em uma amostra de carne de pescado, foram detectadas 20 ppm de mercúrio em base mássica. Sabendo-se que a massa total de carne de pescado analisada foi de 5 kg, a massa de mercúrio presente na amostra é igual a:",
+      "alternativas": [],
+      "alternativaCorreta": null,
+      "conteudosAbordados": [
+        "Química – Soluções",
+        "Química – Concentração em ppm"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "Os pensadores iluministas eram contrários ao domínio da Igreja Católica e da monarquia absolutista, defendendo o uso da ciência e da razão, assim como maior liberdade nos campos da política e da economia. Escolha a alternativa incorreta sobre os ideais dos principais iluministas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "dam Smith defendia o absolutismo e a ideia de que o Estado deveria controlar e organizar a economia, pois só assim as diferenças existentes nas sociedades poderiam ser eliminadas."
+        }
+      ],
+      "alternativaCorreta": null,
+      "conteudosAbordados": [
+        "História – Iluminismo",
+        "História – Pensadores Iluministas",
+        "História – Ideias Políticas do Século XVIII",
+        "História – Liberalismo Econômico"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "A República Velha, também chamada de República Oligárquica, caracterizava-se pelo domínio dos pequenos grupos sociais (associados com a agricultura e pecuária) que detinham grande poderio econômico e político. Havia grande desigualdade social e a maioria da população vivia em condições de pobreza, fato que provocou inúmeros conflitos e revoltas. Indique a única alternativa incorreta sobre os movimentos sociais que ocorreram durante o período em destaque:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Guerra de Canudos foi um dos principais conflitos que marcaram o período. Aconteceu de novembro de 1896 a outubro de 1897 no sertão da Bahia, em uma fazenda improdutiva ocupada por Antônio Conselheiro e seus mais de 20 mil seguidores."
+        },
+        {
+          "letra": "A",
+          "texto": "Revolução Federalista ocorreu no Sul do Brasil entre 1893 e 1895 e teve como causa o confronto entre a oligarquia agropecuarista e os trabalhadores rurais, que desejavam igualdade e melhores condições de vida."
+        },
+        {
+          "letra": "A",
+          "texto": "Revolta das Vacinas foi um motim popular ocorrido em 1904 na cidade do Rio de Janeiro, então capital do Brasil. Foi uma reação imediata a lei que determinava a obrigatoriedade da vacinação contra a varíola."
+        },
+        {
+          "letra": "A",
+          "texto": "Guerra do Contestado foi um conflito ocorrido entre os anos de 1912 e 1916, causado pela disputa de limites entre Paraná e Santa Catarina e a expulsão de posseiros para a construção de uma estrada de ferro ligando São Paulo ao Rio Grande do Sul."
+        }
+      ],
+      "alternativaCorreta": null,
+      "conteudosAbordados": [
+        "História – República Velha",
+        "História – Movimentos Sociais",
+        "História – Conflitos no Brasil Imperial e Republicano"
+      ]
+    },
+    {
+      "numeroEnunciado": 41,
+      "enunciado": "A Revolução Russa foi a concretização de uma série de revoltas pelas quais a Rússia passava desde 1905 e que tiveram várias consequências, como o fim do czarismo (monarquia) e a tomada de poder pelos socialistas. Analise as afirmações sobre o tema: I - No processo revolucionário, o governo liderado por Vladimir Lênin foi o responsável pelas \"Teses de Abril\", que tinham como base os pilares: \"Paz, Terra e Pão\", isto é, a saída da Rússia da guerra, a promoção da reforma agrária e o fim da fome. II - O Domingo Sangrento foi um massacre da população russa, após ter realizado uma passeata em São Petersburgo, em janeiro de 1905. A manifestação era pacífica e pedia melhorias para a vida dos trabalhadores e mais abertura política para o país. III - Josef Stalin foi o primeiro e o mais importante líder da revolução, tendo sido o mentor e executor da Revolução Russa de 1917. Escolha a alternativa correta:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "penas as afirmações I e II são verdadeiras."
+        },
+        {
+          "letra": "A",
+          "texto": "penas as afirmações I e III são verdadeiras."
+        },
+        {
+          "letra": "A",
+          "texto": "penas as afirmações II e III são verdadeiras."
+        }
+      ],
+      "alternativaCorreta": null,
+      "conteudosAbordados": [
+        "História – Revolução Russa",
+        "História – Vladimir Lênin",
+        "História – Causas e Consequências da Revolução Russa"
+      ]
+    },
+    {
+      "numeroEnunciado": 42,
+      "enunciado": "Os processos de independência na América foram marcados pela diversidade política, cultural, de modos de exploração econômica e de conformações territoriais. Os movimentos de independência começaram a partir do século XVIII e estenderam-se até o século XIX. Escolha a alternativa incorreta sobre os processos de independência do continente americano:",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "ntre os mais interessados na independência da América espanhola estavam os criollos, integrantes da elite econômica que não participavam do poder político por não terem nascido na Espanha."
+        },
+        {
+          "letra": "A",
+          "texto": "s lutas pela Independência do Brasil foram marcadas por revoltas locais, motins e guerras separatistas. A batalha do Jenipapo é considerada um dos conflitos mais sangrentos na história da Independência brasileira."
+        },
+        {
+          "letra": "A",
+          "texto": "revolução haitiana conduziu a colônia francesa de São Domingos à independência e foi motivada pela exploração e violência do sistema colonial escravista francês naquela região."
+        }
+      ],
+      "alternativaCorreta": null,
+      "conteudosAbordados": [
+        "História – Independências na América",
+        "História – Criollos",
+        "História – Independência do Brasil",
+        "História – Revolução Haitiana",
+        "História – Independência dos EUA"
+      ]
+    },
+    {
+      "numeroEnunciado": 43,
+      "enunciado": "A cada novo governo, repetem-se promessas de dias melhores. Uma fórmula usada frequentemente é a criação de \"Planos de Recuperação Econômica”. Escolha a alternativa incorreta sobre os “Planos de Recuperação Econômica” que já foram lançados em algum momento da história política do Brasil:",
+      "alternativas": [],
+      "alternativaCorreta": null,
+      "conteudosAbordados": [
+        "História – Brasil Contemporâneo",
+        "História – Planos Econômicos no Brasil",
+        "História – Era Vargas"
+      ]
+    },
+    {
+      "numeroEnunciado": 44,
+      "enunciado": "A imagem abaixo mostra o presidente do Brasil Luís Inácio Lula da Silva recebendo o presidente francês Emmanuel Macron. As fotos buscam mostrar uma boa relação entre os líderes em meio à tensão na relação entre os dois países, tendo sido tema para \"memes\" que satirizaram essa harmonia, comparando os dois presidentes com personagens de filmes românticos. Lula e Macron visitam a Ilha do Combú, perto de Belém, no Pará 26/03/2024 REUTERS/Ueslei Marcelino Fonte: https://br.investing.com/news/politics/macron-pode-constatar-pessoalmente-compromisso-do-brasil-com-meio-ambiente-diz-lula-1226385 Escolha a alternativa que indica corretamente o motivo dessa tensão:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "tensão ocorre pela obstrução da França às negociações para um acordo econômico entre União Europeia e Mercosul."
+        },
+        {
+          "letra": "A",
+          "texto": "tensão é causada pelo apoio brasileiro à reivindicação que o governo venezuelano de Nicolás Maduro faz sobre a região de Essequibo, o que fere a soberania francesa sobre a Guiana."
+        },
+        {
+          "letra": "A",
+          "texto": "tensão ocorre pelo fato de a França, que conta com poder de veto no Conselho de Segurança da ONU, não apoiar a proposta do Brasil de reforma do Conselho."
+        },
+        {
+          "letra": "A",
+          "texto": "tensão ocorre pelo fato de o governo francês criticar o atual governo brasileiro devido a sua atuação desastrosa no combate ao desmatamento na Amazônia, que aumentou nos últimos dois anos."
+        },
+        {
+          "letra": "A",
+          "texto": "tensão ocorre pela disputa territorial pela Guiana Francesa, uma vez que o Brasil reivindica este território ultramarino francês na América do Sul."
+        }
+      ],
+      "alternativaCorreta": null,
+      "conteudosAbordados": [
+        "Geografia – Geopolítica",
+        "Geografia – Relações Internacionais",
+        "Geografia – Questões Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 45,
+      "enunciado": "Trata-se do único bioma que está integralmente no território brasileiro:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "mazônia"
+        },
+        {
+          "letra": "C",
+          "texto": "aatinga"
+        }
+      ],
+      "alternativaCorreta": null,
+      "conteudosAbordados": [
+        "Geografia – Biogeografia",
+        "Geografia – Biomas Brasileiros"
+      ]
+    },
+    {
+      "numeroEnunciado": 46,
+      "enunciado": "O mundo passa por uma transição energética e um dos símbolos desta transição é o início da fabricação de automóveis 100% elétricos em países como o Brasil. Em teoria, a retirada de automóveis movidos a gasolina, diesel e até mesmo etanol diminuiria a emissão de gases do efeito estufa, reduzindo também a poluição nas grandes cidades. Porém, se faz necessária uma fonte de energia que gere eletricidade para carregar as baterias dos novos carros elétricos. Atualmente a principal fonte de energia elétrica que responde por cerca de 60% da eletricidade gerada no Brasil vem das:",
+      "alternativas": [],
+      "alternativaCorreta": null,
+      "conteudosAbordados": [
+        "Geografia – Fontes de Energia",
+        "Geografia – Matriz Energética Brasileira",
+        "Geografia – Transição Energética"
+      ]
+    },
+    {
+      "numeroEnunciado": 47,
+      "enunciado": "Dois anos após o início da guerra entre Rússia e Ucrânia, a economia russa apresenta índices de crescimento superiores aos das grandes economias europeias. Isso frustrou as previsões dos EUA de que as sanções impostas ao Kremlin no início do conflito sufocariam a economia russa, obrigando as tropas russas a se retirarem da Ucrânia. Escolha a alternativa que explica corretamente o bom desempenho da economia russa em tempos de guerra:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Rússia não encontrou dificuldades na guerra porque seu poderio bélico é muito superior ao ucraniano, que não conta com ajuda de potências ocidentais. Por isso, os gastos militares russos são relativamente pequenos, não afetando sua economia."
+        },
+        {
+          "letra": "A",
+          "texto": "economia russa está exclusivamente voltada à guerra, que permite que toda a cadeia produtiva seja lucrativa enquanto o conflito durar."
+        },
+        {
+          "letra": "A",
+          "texto": "Alemanha não reduziu o consumo de gás natural russo, o que financia a economia russa."
+        },
+        {
+          "letra": "A",
+          "texto": "Rússia é um país gigantesco, com mais de 17 milhões de km², o que a torna independente da economia global devido à abundância de recursos naturais em seu território."
+        }
+      ],
+      "alternativaCorreta": null,
+      "conteudosAbordados": [
+        "Geografia – Geopolítica",
+        "Geografia – Conflitos Internacionais",
+        "Geografia – Economia Global"
+      ]
+    },
+    {
+      "numeroEnunciado": 48,
+      "enunciado": "O governo brasileiro pretende reindustrializar o país. A partir dos anos 1990, o Brasil vem passando por uma desindustrialização, o que leva a um atraso tecnológico e à hipertrofia do setor terciário. Escolha a alternativa que explica corretamente o conceito \"hipertrofia do setor terciário\".",
+      "alternativas": [],
+      "alternativaCorreta": null,
+      "conteudosAbordados": [
+        "Geografia – Economia Brasileira",
+        "Geografia – Setores da Economia",
+        "Geografia – Desindustrialização"
+      ]
+    },
+    {
+      "numeroEnunciado": 49,
+      "enunciado": "Texto de apoio: HOW I LOST AND FOUND MY SCIENTIFIC CREATIVITY 14 MAR 2024 BY JEFFREY MCDONNELL As a Ph.D. student, I spent many days and nights standing on a steep forested slope in the rain, measuring how water drops move into the soil. I loved the outdoors, and it was more like play than work. My ideas seemed to flow like the stream I was trying to understand. But when I became a professor, I was inundated with responsibilities and my creative stream slowed to a trickle. When I started my first faculty position, I no longer had the freedom to focus solely on research. I was consumed by pressing demands—staying one class ahead in my teaching, completing reviews for journals, the constant drum beat of proposal writing. As my lab grew, I became more of a research manager than a researcher. A decade later, I moved to a new university. I was able to return to the topic I studied for my Ph.D. research. I took on graduate students and postdocs who were interested in \"my\" questions. During meetings with them, I learned how to be a sounding board as they considered new ideas and new ways of looking at our science. Creativity crept back into my work life, but I hadn't yet found a way to spur my own deep thinking. I was at best a creativity manager. After accepting a position that allowed me to move from the United States back to my home country—Canada—I had a few months between jobs, which meant I could accompany my wife to South Carolina on an assignment for her work. I was free as a bird. And that's when my first real post-Ph.D. eureka moment struck—of all places, while I was at a gym walking on a treadmill, watching the rain fall onto a lawn outside. I was able to visualize similar processes that I had been trying to understand belowground for decades. But it was exhilarating because it was a type of thought I worried had permanently dried up. It was clear I needed to slow down and experience the rain more often! https://www.science.org/content/article/how-i-lost-and-found-my-scientific-creativity. Acesso em 18 mar. 2024. (Adaptado) How did Jeffrey McDonnell see his creativity drop?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "fter graduating from university, his family required his constant presence."
+        },
+        {
+          "letra": "A",
+          "texto": "fter defending his doctoral thesis, he became a busy bank manager."
+        },
+        {
+          "letra": "A",
+          "texto": "fter he opened his own college, he had too many responsibilities."
+        }
+      ],
+      "alternativaCorreta": null,
+      "conteudosAbordados": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 50,
+      "enunciado": "Mark the alternative which conveys the same idea as the sentence “I no longer had the freedom to focus solely on research”.",
+      "alternativas": [],
+      "alternativaCorreta": null,
+      "conteudosAbordados": [
+        "Inglês – Interpretação de Texto",
+        "Inglês – Gramática"
+      ]
+    },
+    {
+      "numeroEnunciado": 51,
+      "enunciado": "Algumas das atividades de um professor universitário mencionadas no texto são:",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "screver artigos científicos e fazer reuniões com pais de alunos."
+        },
+        {
+          "letra": "E",
+          "texto": "screver relatórios para a reitoria e corrigir provas."
+        }
+      ],
+      "alternativaCorreta": null,
+      "conteudosAbordados": [
+        "Inglês – Interpretação de Texto",
+        "Inglês – Vocabulário"
+      ]
+    }
+  ]
+}

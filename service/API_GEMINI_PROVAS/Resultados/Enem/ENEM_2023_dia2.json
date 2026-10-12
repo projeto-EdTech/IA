@@ -1,0 +1,444 @@
+{
+  "nomeUniversidade": "Exame Nacional do Ensino Médio",
+  "siglaUniversidade": "ENEM",
+  "nomeProva": "Exame Nacional do Ensino Médio",
+  "ano": 2023,
+  "qtdeQuestoes": 90,
+  "questoes": [
+    {
+      "numeroEnunciado": 91,
+      "enunciado": "Na tirinha de Mauricio de Sousa, os personagens Cebolinha e Cascão fazem uma brincadeira utilizando duas latas e um barbante. Ao perceberem que o som pode ser transmitido através do barbante, resolvem alterar o comprimento do barbante para ficar cada vez mais extenso. As demais condições permaneceram inalteradas durante a brincadeira. SOUSA, M. Disponível em: www.monica.com.br. Acesso em: 2 out. 2012 (adaptado). Na prática, à medida que se aumenta o comprimento do barbante, ocorre a redução de qual característica da onda sonora?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "ltura."
+        },
+        {
+          "letra": "A",
+          "texto": "mplitude."
+        },
+        {
+          "letra": "C",
+          "texto": "omprimento de onda."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Ondas Sonoras"
+      ]
+    },
+    {
+      "numeroEnunciado": 92,
+      "enunciado": "Informações digitais – dados – são gravadas em discos ópticos, como CD e DVD, na forma de cavidades microscópicas. A gravação e a leitura óptica dessas informações são realizadas por um laser (fonte de luz monocromática). Quanto menores as dimensões dessas cavidades, mais dados são armazenados na mesma área do disco. O fator limitante para a leitura de dados é o espalhamento da luz pelo efeito de difração, fenômeno que ocorre quando a luz atravessa um obstáculo com dimensões da ordem de seu comprimento de onda. Essa limitação motivou o desenvolvimento de lasers com emissão em menores comprimentos de onda, possibilitando armazenar e ler dados em cavidades cada vez menores. Em qual região espectral se situa o comprimento de onda do laser que otimiza o armazenamento e a leitura de dados em discos de uma mesma área?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "zul."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Física – Óptica (Luz e Espectro Eletromagnético)"
+      ]
+    },
+    {
+      "numeroEnunciado": 93,
+      "enunciado": "O bluetooth é uma tecnologia de comunicação sem fio, de curto alcance, presente em diferentes dispositivos eletrônicos de consumo. Ela permite que aparelhos eletrônicos diferentes se conectem e troquem dados entre si. No padrão bluetooth, denominado de Classe 2, as antenas transmitem sinais de potência igual a $2,4 \\text{ mW}$ e possibilitam conectar dois dispositivos distanciados até $10 \\text{ m}$. Considere que essas antenas se comportam como fontes puntiformes que emitem ondas eletromagnéticas esféricas e que a intensidade do sinal é calculada pela potência por unidade de área. Considere $3$ como valor aproximado para $\\pi$. Para que o sinal de bluetooth seja detectado pelas antenas, o valor mínimo de sua intensidade, em $\\frac{\\text{W}}{\\text{m}^2}$, é mais próximo de",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Física – Eletromagnetismo (Ondas Eletromagnéticas)",
+        "Física – Potência e Intensidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 94,
+      "enunciado": "Os solos amazônicos, ricos em silicato, não são apropriados para o cultivo por serem incapazes de reter nutrientes. Contudo, descobertas arqueológicas têm demonstrado que os antigos habitantes da Amazônia dominavam a técnica de preparo de um insumo agrícola natural, denominado terra preta. Esse insumo era constituído principalmente de uma espécie de biocarvão (biochar) obtido da queima de matéria orgânica, como troncos de árvores, pedaços de ossos e esterco, capaz de manter um solo fértil por anos. Admite-se que o efeito do biocarvão na fertilização do solo estava, em parte, relacionado à presença de grupos orgânicos do tipo carboxilato em sua superfície, carregados negativamente ($-\\text{COO}^-$). Esses grupos atraem íons positivos necessários como nutrientes, tais quais os provenientes do potássio (K), do cálcio (Ca) e do magnésio (Mg), além de micronutrientes, como zinco (Zn) e ferro (Fe). Essa ligação no solo fertilizado é predominantemente iônica, conforme ilustra a figura, em que $\\text{M}^{n+}$ representa os cátions metálicos. De acordo com a escala de Pauling, a eletronegatividade do elemento oxigênio é igual a $3,44$. O quadro apresenta os valores de eletronegatividade desses cinco elementos metálicos.\nElemento metálico | Eletronegatividade\n---|---\nK | $0,82$\nCa | $1,00$\nMg | $1,31$\nZn | $1,65$\nFe | $1,83$\nMICHALOVIC, M. Ancient Soil Chemists of the Amazon. ChemMatters, fev. 2009 (adaptado). O cátion que resultará em uma interação de maior caráter iônico com o ânion carboxilato será aquele proveniente do elemento",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "álcio."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Química – Ligações Químicas",
+        "Química – Eletronegatividade",
+        "Química – Química Ambiental"
+      ]
+    },
+    {
+      "numeroEnunciado": 95,
+      "enunciado": "Em uma indústria alimentícia, para produção de doce de leite, utiliza-se um tacho de parede oca com uma entrada para vapor de água a $120 \\text{ }^\\circ\\text{C}$ e uma saída para água líquida em equilíbrio com o vapor a $100 \\text{ }^\\circ\\text{C}$. Ao passar pela parte oca do tacho, o vapor de água transforma-se em líquido, liberando energia. A parede transfere essa energia para o interior do tacho, resultando na evaporação de água e consequente concentração do produto. No processo de concentração do produto, é utilizada energia proveniente",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "o calor sensível e do calor latente de vaporização."
+        },
+        {
+          "letra": "D",
+          "texto": "o calor sensível e do calor latente de condensação."
+        },
+        {
+          "letra": "D",
+          "texto": "o calor latente de condensação e do calor latente de vaporização."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Termodinâmica (Transferência de Calor, Calor Latente)"
+      ]
+    },
+    {
+      "numeroEnunciado": 96,
+      "enunciado": "A gasolina é uma mistura de hidrocarbonetos de cadeias saturadas contendo de 8 a 12 átomos de carbono. Além disso, a gasolina de alto desempenho deve conter elevados teores de hidrocarbonetos de cadeias ramificadas, de forma a resistir à compressão e entrar em ignição apenas quando a vela aciona uma centelha elétrica no motor. No quadro, estão apresentados compostos que podem ser utilizados como combustíveis.\nComposto | Nomenclatura\n---|---\nI | $n$-decano\nII | $n$-heptano\nIII | $2,2,4$-trimetilpentano\nIV | $3$-etil-$4$-metilex-$1$-eno\nV | $3$-etil-$2$-metilpentan-$1$-ol\nEntre esses compostos, aquele que conferirá maior desempenho como combustível é o",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Química – Química Orgânica (Hidrocarbonetos, Isomeria)"
+      ]
+    },
+    {
+      "numeroEnunciado": 97,
+      "enunciado": "De acordo com a Constituição Federal, é competência dos municípios o gerenciamento dos serviços de limpeza e coleta dos resíduos urbanos (lixo). No entanto, há relatos de que parte desse lixo acaba sendo incinerado, liberando substâncias tóxicas para o ambiente e causando acidentes por explosões, principalmente quando ocorre a incineração de frascos de aerossóis (por exemplo: desodorantes, inseticidas e repelentes). A temperatura elevada provoca a vaporização de todo o conteúdo dentro desse tipo de frasco, aumentando a pressão em seu interior até culminar na explosão da embalagem. ZVEIBIL, V. Z. et al. Cartilha de limpeza urbana. Disponível em: www.ibam.org.br. Acesso em: 6 jul. 2015 (adaptado). Suponha um frasco metálico de um aerossol de capacidade igual a $100 \\text{ mL}$, contendo $0,1 \\text{ mol}$ de produtos gasosos à temperatura de $650 \\text{ }^\\circ\\text{C}$, no momento da explosão. Considere: $\\text{R} = 0,082 \\frac{\\text{L} \\cdot \\text{atm}}{\\text{mol} \\cdot \\text{K}}$. A pressão, em atm, dentro do frasco, no momento da explosão, é mais próxima de",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Química – Gases (Gases Ideais)",
+        "Física – Termodinâmica"
+      ]
+    },
+    {
+      "numeroEnunciado": 98,
+      "enunciado": "O circuito com três lâmpadas incandescentes idênticas, representado na figura, consiste em uma associação mista de resistores. Cada lâmpada ($\\text{L}_1$, $\\text{L}_2$ e $\\text{L}_3$) é associada, em paralelo, a um resistor de resistência R, formando um conjunto. Esses conjuntos são associados em série, tendo todas as lâmpadas o mesmo brilho quando ligadas à fonte de energia. Após vários dias em uso, apenas a lâmpada $\\text{L}_2$ queima, enquanto as demais permanecem acesas. Em relação à situação em que todas as lâmpadas funcionam, após a queima de $\\text{L}_2$, os brilhos das lâmpadas serão",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Eletrodinâmica (Circuitos Elétricos, Resistência)"
+      ]
+    },
+    {
+      "numeroEnunciado": 99,
+      "enunciado": "A tecnologia de vacinas de RNA mensageiro (RNAm) é investigada há anos. Avanços científicos em genética molecular permitiram desenvolver uma vacina para controle da pandemia da covid-19 causada pelo vírus de RNA SARS-CoV-2. A vacina de RNAm tem sequências de genes do vírus. Entretanto, por ser muito instável, o RNAm deve ser recoberto por uma capa de lipídios que evita sua degradação e favorece sua ação. Dessa forma, o RNAm desempenhará sua função específica atuando no mesmo compartimento celular de sempre. Disponível em: https://sbim.org.br. Acesso em: 29 nov. 2021 (adaptado). A imunização produzida por esse tipo de vacina é alcançada por meio da",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "stimulação de leucócitos induzida pela capa lipídica contendo RNAm."
+        },
+        {
+          "letra": "A",
+          "texto": "tuação do RNAm como sequestrador do vírus para o meio extracelular."
+        },
+        {
+          "letra": "C",
+          "texto": "ompetição entre o RNAm vacinal e o RNA viral pelos sítios dos ribossomos."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Biologia – Genética Molecular",
+        "Biologia – Imunologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 100,
+      "enunciado": "Na fertilização in vitro, espermatozoides são adicionados aos gametas femininos retirados de uma mulher. Após o período de incubação, a fecundação é favorecida pela ação de enzimas. Em um procedimento realizado, observou-se que nenhum dos gametas femininos foi fertilizado e, posteriormente, verificou-se que havia sido adicionado, equivocadamente, um coquetel de inibidores das enzimas do acrossomo, no lugar de um dos nutrientes constituintes do meio de cultura. O coquetel de inibidores impediu o(a)",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Biologia – Reprodução Humana",
+        "Biologia – Fisiologia Celular"
+      ]
+    },
+    {
+      "numeroEnunciado": 101,
+      "enunciado": "O fogão por indução funciona a partir do surgimento de uma corrente elétrica induzida no fundo da panela, com consequente transformação de energia elétrica em calor por efeito Joule. A principal vantagem desses fogões é a eficiência energética, que é substancialmente maior que a dos fogões convencionais. A corrente elétrica mencionada é induzida por",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "ondução."
+        },
+        {
+          "letra": "C",
+          "texto": "ampo elétrico variável."
+        },
+        {
+          "letra": "C",
+          "texto": "ampo magnético variável."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Eletromagnetismo (Indução Eletromagnética, Efeito Joule)"
+      ]
+    },
+    {
+      "numeroEnunciado": 102,
+      "enunciado": "Uma academia decide trocar gradualmente seus aparelhos de musculação. Agora, os frequentadores que utilizam os aparelhos do tipo 1 podem também utilizar os aparelhos do tipo 2, representados na figura, para elevar cargas correspondentes às massas $\\text{M}_1$ e $\\text{M}_2$, com velocidade constante. A fim de que o exercício seja realizado com a mesma força $\\vec{F}$, os usuários devem ser orientados a respeito da relação entre as cargas nos dois tipos de aparelhos, já que as polias fixas apenas mudam a direção das forças, enquanto a polia móvel divide as forças. Em ambos os aparelhos, considere as cordas inextensíveis, as massas das polias e das cordas desprezíveis e que não há dissipação de energia. Para essa academia, qual deve ser a razão $\\frac{\\text{M}_2}{\\text{M}_1}$ informada aos usuários?",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Mecânica (Máquinas Simples, Força, Polias)"
+      ]
+    },
+    {
+      "numeroEnunciado": 103,
+      "enunciado": "Um garoto comprou vários abacates na feira, mas descobriu que eles não estavam maduros o suficiente para serem consumidos. Sua mãe recomendou que ele colocasse os abacates em um recipiente fechado, pois isso aceleraria seu amadurecimento. Com certa dúvida, o garoto realizou esta experiência: colocou alguns abacates no recipiente e deixou os demais em uma fruteira aberta. Surpreendendo-se, ele percebeu que os frutos que estavam no recipiente fechado amadureceram mais rapidamente. A aceleração desse processo é causada por",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "cúmulo de gás etileno."
+        },
+        {
+          "letra": "A",
+          "texto": "umento da concentração de $\\text{CO}_2$."
+        },
+        {
+          "letra": "D",
+          "texto": "iminuição da intensidade luminosa."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Biologia – Fisiologia Vegetal (Hormônios Vegetais)"
+      ]
+    },
+    {
+      "numeroEnunciado": 104,
+      "enunciado": "Há muito tempo são conhecidas espécies de lesmas-do-mar com uma capacidade ímpar: guardar parte da maquinaria das células das algas que consomem – os cloroplastos – e mantê-los funcionais dentro das suas próprias células, obtendo assim parte do seu alimento. Investigadores portugueses descobriram que essas lesmas-do-mar podem ser mais eficientes nesse processo do que as próprias algas que consomem. Disponível em: www.cienciahoje.pt. Acesso em: 10 fev. 2015 (adaptado). Essa adaptação confere a esse organismo a capacidade de obter primariamente",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "arboidratos."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Biologia – Ecologia (Relações Ecológicas)",
+        "Biologia – Fisiologia Animal",
+        "Biologia – Citologia (Cloroplastos, Fotossíntese)"
+      ]
+    },
+    {
+      "numeroEnunciado": 105,
+      "enunciado": "A leishmaniose visceral é uma zoonose causada por um protozoário do gênero Leishmania que é encontrado em diversos tecidos. Ela é transmitida ao homem de forma indireta, por vetores do ambiente doméstico. O cão é considerado um importante hospedeiro desse protozoário, podendo ou não apresentar os sintomas da doença, como perda de peso, anemia, ferimentos na pele, diarreia, conjuntivite e insuficiência renal. Em uma região que sofre com alta incidência dessa doença, uma campanha do centro de zoonoses buscou verificar a presença desse protozoário nos cães para tentar controlar a doença. Em qual material biológico dos cães a presença desse protozoário representa risco de transmissão dessa zoonose?",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Biologia – Parasitologia",
+        "Biologia – Saúde Pública"
+      ]
+    },
+    {
+      "numeroEnunciado": 106,
+      "enunciado": "Um professor lança uma esfera verticalmente para cima, a qual retorna, depois de alguns segundos, ao ponto de lançamento. Em seguida, lista em um quadro todas as possibilidades para as grandezas cinemáticas.\nGrandeza cinemática | Módulo | Sentido\n---|---|---\nVelocidade | $v \\ne 0$ | Para cima\n| | Para baixo\n| $v = 0$ | Indefinido*\nAceleração | $a \\ne 0$ | Para cima\n| | Para baixo\n| $a = 0$ | Indefinido*\n*Grandezas com módulo nulo não têm sentido definido.\nEle solicita aos alunos que analisem as grandezas cinemáticas no instante em que a esfera atinge a altura máxima, escolhendo uma combinação para os módulos e sentidos da velocidade e da aceleração. A escolha que corresponde à combinação correta é",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Mecânica (Cinemática, Lançamento Vertical)"
+      ]
+    },
+    {
+      "numeroEnunciado": 107,
+      "enunciado": "Muitas mulheres sofrem com desconfortos nos dias que antecedem a menstruação, a chamada tensão pré-menstrual. Entre outros sintomas, podem ocorrer alterações de humor. Atualmente, acredita-se que os sintomas são resultado da queda na concentração do neurotransmissor serotonina, que, por sua vez, está relacionado com a diminuição na produção dos hormônios ovarianos estrógeno e progesterona, observada nessa fase do ciclo feminino. DIMMOCK, P. W. et al. Efficacy of Selective Serotonin-Reuptake Inhibitors in Premenstrual Syndrome: a Systematic Review. The Lancet, n. 9 236, 2000 (adaptado). A redução da produção desses hormônios nessa fase está relacionada com o(a)",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "iminuição na produção de ocitocina."
+        },
+        {
+          "letra": "A",
+          "texto": "umento nos níveis dos hormônios LH e FSH."
+        },
+        {
+          "letra": "E",
+          "texto": "levação nos níveis sorológicos de adrenalina."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Biologia – Fisiologia Humana (Sistema Endócrino, Ciclo Menstrual)"
+      ]
+    },
+    {
+      "numeroEnunciado": 108,
+      "enunciado": "As cetonas fazem parte de famílias olfativas encontradas em muitos alimentos. A molécula de hexan-3-ona é um exemplo desses compostos voláteis responsáveis pelo aroma, podendo ser obtida por processos energéticos realizados em meio ácido, na presença de oxidantes como o permanganato de potássio. Para se produzir esse composto volátil em laboratório, deve-se oxidar a molécula de",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Química – Química Orgânica (Funções Oxigenadas, Reações de Oxidação)"
+      ]
+    },
+    {
+      "numeroEnunciado": 109,
+      "enunciado": "Durante a evolução das plantas, ocorreu uma transição do ambiente aquático para o ambiente terrestre graças ao surgimento de algumas estruturas que as tornaram independentes da água. Esse fato permitiu maior dispersão desse grupo de seres vivos, sendo possível observá-los em diferentes ambientes na atualidade. Qual estrutura possibilitou a independência da água para a fecundação dos seres vivos citados acima?",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "sporo."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Biologia – Botânica (Reprodução Vegetal, Evolução das Plantas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 110,
+      "enunciado": "O vidro contendo alumínio em sua composição é um excelente material para acondicionar medicamentos e suplementos, porque pode ser esterilizado por aquecimento. No entanto, quando o medicamento ou suplemento contém substâncias que se ligam fortemente ao íon desse metal, a dissolução do alumínio é promovida em função do deslocamento do equilíbrio químico estabelecido entre a espécie imobilizada no vidro e a espécie em solução. Por essa razão, recomenda-se que suplementos de nutrição de recém-nascidos contendo gluconato de cálcio sejam acondicionados em embalagens plásticas, e não nesse tipo de vidro. Atualização da recomendação da Sociedade Portuguesa de Neonatologia. Disponível em: www.spneonatologia.pt. Acesso em: 22 out. 2021 (adaptado). Caso esse suplemento seja acondicionado em embalagem desse tipo de vidro, o risco de contaminação por alumínio será maior se o(a)",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "oncentração de gluconato de cálcio for alta."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Química – Equilíbrio Químico",
+        "Química – Reações Químicas",
+        "Química – Química Geral"
+      ]
+    },
+    {
+      "numeroEnunciado": 111,
+      "enunciado": "Barbatimão é o nome popular de uma árvore cuja casca é utilizada para fins medicinais. Essa casca é constituída principalmente de dois tecidos vegetais: periderme e floema. A extração da casca tem levado à morte muitos indivíduos dessa espécie, quando o corte retira um anel completo ao longo da circunferência do tronco. Aqueles que têm parte da casca retirada sem completar essa circunferência podem sobreviver. A morte desses indivíduos, decorrente da retirada do anel completo da casca, é provocada pela interrupção da",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Biologia – Botânica (Anatomia Vegetal, Fisiologia Vegetal)"
+      ]
+    },
+    {
+      "numeroEnunciado": 112,
+      "enunciado": "O descarte de detergentes comuns nos esgotos domésticos ocasiona a formação de uma camada de espuma que impede a entrada de oxigênio na água. Os microrganismos que vivem nessas águas não são capazes de quebrar moléculas ramificadas, ocorrendo assim um desequilíbrio ambiental nos rios. A fórmula a seguir representa a estrutura química de um tensoativo presente na composição de um detergente não biodegradável.\n$$ \\text{Tensoativo não biodegradável} $$\nQual modificação química na estrutura desse tensoativo o tornaria um detergente biodegradável?",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "liminar as insaturações do anel aromático."
+        },
+        {
+          "letra": "A",
+          "texto": "lterar o grupo aniônico por um grupo catiônico."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Química – Química Orgânica (Detergentes, Poluição)",
+        "Química – Química Ambiental"
+      ]
+    },
+    {
+      "numeroEnunciado": 113,
+      "enunciado": "O ensaio de micronúcleos é um teste de avaliação de genotoxicidade que associa a presença de micronúcleos (pequenos núcleos que aparecem próximo aos núcleos das células) com lesões genéticas. Os micronúcleos são fragmentos de DNA encapsulados, provenientes do fuso mitótico durante a divisão celular. DIAS, V. M. Micronúcleos em células tumorais: biologia e implicações para a tumorigênese. Dissertação de Mestrado. USP, 2006 (adaptado). Os micronúcleos se originam dos(as)",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "romossomos."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Biologia – Citologia (Divisão Celular, Cromossomos)",
+        "Biologia – Genética"
+      ]
+    },
+    {
+      "numeroEnunciado": 114,
+      "enunciado": "O petróleo é uma matéria-prima muito valiosa e métodos geofísicos são úteis na sua prospecção. É possível identificar a composição de materiais estratificados medindo-se a velocidade de propagação do som (onda mecânica) através deles. Considere que uma camada de $450 \\text{ m}$ de um líquido se encontra presa no subsolo entre duas camadas rochosas, conforme o esquema. Um pulso acústico (que gera uma vibração mecânica) é emitido a partir da superfície do solo, onde são posteriormente recebidas duas vibrações refletidas (ecos). A primeira corresponde à reflexão do pulso na interface superior do líquido com a camada rochosa. A segunda vibração deve-se à reflexão do pulso na interface inferior. O tempo entre a emissão do pulso e a chegada do primeiro eco é de $0,5 \\text{ s}$. O segundo eco chega $1,1 \\text{ s}$ após a emissão do pulso. A velocidade do som na camada líquida, em metro por segundo, é",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Ondas (Ondas Sonoras, Reflexão)",
+        "Física – Cinemática"
+      ]
+    },
+    {
+      "numeroEnunciado": 115,
+      "enunciado": "É comum em viagens de avião sermos solicitados a desligar aparelhos cujo funcionamento envolva a emissão ou a recepção de ondas eletromagnéticas, como celulares. A justificativa dada para esse procedimento é, entre outras coisas, a necessidade de eliminar fontes de sinais eletromagnéticos que possam interferir nas comunicações, via rádio, dos pilotos com a torre de controle. Essa interferência poderá ocorrer somente se as ondas emitidas pelo celular e as recebidas pelo rádio do avião",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Ondas (Ondas Eletromagnéticas, Interferência)"
+      ]
+    },
+    {
+      "numeroEnunciado": 116,
+      "enunciado": "O Aldrin é um inseticida agrícola organoclorado sintético de baixa polaridade, cuja estrutura molecular simétrica, de fórmula $\\text{C}_{12}\\text{H}_8\\text{Cl}_6$, está representada na figura. Introduzido na agricultura a partir da década de 1950, esse composto apresenta alta persistência no meio ambiente e acumulação nos organismos, sendo danoso para a saúde. VIEGAS JÚNIOR, C. Terpenos com atividade inseticida: uma alternativa para o controle químico de insetos. Química Nova, v. 26, n. 3, 2003 (adaptado). Um pesquisador coletou fluidos biológicos de indivíduos de uma população contaminada por esse inseticida agrícola. Ele analisou amostras de saliva, sangue, lágrima, urina e leite quanto à presença dessa substância. Em qual dos fluidos o pesquisador provavelmente encontrou a maior concentração dessa substância?",
+      "alternativas": [],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Biologia – Ecologia (Cadeias Alimentares, Bioacumulação)",
+        "Química – Química Ambiental",
+        "Química – Química Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 117,
+      "enunciado": "Uma cafeteria adotou copos fabricados a partir de uma composição de 50% de plástico reciclado não biodegradável e 50% de casca de café. O copo é reutilizável e retornável, pois o material, semelhante a uma cerâmica, suporta a lavagem. Embora ele seja comercializado por um preço considerado alto quando comparado ao de um copo de plástico descartável, essa cafeteria possibilita aos clientes retornarem o copo sujo e levarem o café quente servido em outro copo já limpo e higienizado. O material desse copo oferece também o conforto de não esquentar na parte externa. Cafeteria adota copo reutilizável feito com casca de café. Disponível em: www.gazetadopovo.com.br. Acesso em: 5 dez. 2019 (adaptado). Quais duas vantagens esse copo apresenta em comparação ao copo descartável?",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Termologia (Condução de Calor)",
+        "Química – Química Ambiental (Sustentabilidade, Polímeros)"
+      ]
+    },
+    {
+      "numeroEnunciado": 118,
+      "enunciado": "O consumo exagerado de refrigerantes é preocupante, pois contribui para o aumento de casos de obesidade e diabetes. Considere dois refrigerantes enlatados, um comum e um diet, e que ambos possuam a mesma quantidade de aditivos, exceto pela presença de açúcar. O refrigerante comum contém basicamente água carbonatada e grande quantidade de açúcar; já o refrigerante diet tem água carbonatada e adoçantes, cujas massas são muito pequenas. CAVAGIS, A. D. M.; PEREIRA, E. A.; OLIVEIRA, L. C. Um método simples para avaliar o teor de sacarose e $\\text{CO}_2$ em refrigerantes. Química Nova na Escola, n. 3, ago. 2014 (adaptado). Entre as duas versões apresentadas, o refrigerante comum possui",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Química – Soluções (Densidade, Concentração)",
+        "Química – Propriedades Físicas"
+      ]
+    },
+    {
+      "numeroEnunciado": 119,
+      "enunciado": "O manual de um automóvel alerta sobre os cuidados em relação à pressão do ar no interior dos pneus. Recomenda-se que a pressão seja verificada com os pneus frios (à temperatura ambiente). Um motorista, desatento a essa informação, realizou uma viagem longa sobre o asfalto quente e, em seguida, verificou que a pressão $\\text{P}_0$ no interior dos pneus não era a recomendada pelo fabricante. Na ocasião, a temperatura dos pneus era $\\text{T}_0$. Após um longo período em repouso, os pneus do carro atingiram a temperatura ambiente $\\text{T}$. Durante o resfriamento, não há alteração no volume dos pneus e na quantidade de ar no seu interior. Considere o ar dos pneus um gás perfeito (também denominado gás ideal). Durante o processo de resfriamento, os valores de pressão em relação à temperatura ($\\text{P} \\times \\text{T}$) são representados pelo gráfico:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        },
+        {
+          "letra": "E",
+          "texto": ""
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Física – Termodinâmica (Gases Ideais, Transformações Gasosas)"
+      ]
+    },
+    {
+      "numeroEnunciado": 120,
+      "enunciado": "A síndrome de Down é uma alteração genética associada à trissomia do cromossomo 21, ou seja, o indivíduo possui três cromossomos 21 e não um par, como é normal. Isso ocorre pela união de um gameta contendo um cromossomo 21 com um gameta possuidor de dois cromossomos 21. Embora, normalmente, as mulheres com a síndrome sejam estéreis, em 2008, no interior de São Paulo, uma delas deu à luz a uma menina sem a síndrome de Down. MORENO, T. Três anos após dar à luz, mãe portadora de síndrome de Down revela detalhes de seu dia a dia. Disponível em: www.band.uol.com.br. Acesso em: 31 out. 2013 (adaptado). Sabendo disso, um jovem casal, ambos com essa síndrome, procura um médico especialista para aconselhamento genético porque querem ter um bebê. O médico informa ao casal que, com relação ao cromossomo 21, os zigotos formados serão",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "penas normais ou tetrassômicos."
+        },
+        {
+          "letra": "A",
+          "texto": "penas trissômicos ou tetrassômicos."
+        }
+      ],
+      "alternativaCorreta": "E",
+      "conteudosAbordados": [
+        "Biologia – Genética (Cariótipo, Síndrome de Down, Meiose)"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,694 @@
+{
+  "nomeUniversidade": "Pontifícia Universidade Católica de Minas Gerais",
+  "siglaUniversidade": "PUC Minas",
+  "nomeProva": "Vestibular",
+  "ano": 2025,
+  "qtdeQuestoes": 40,
+  "questoes": [
+    {
+      "numeroEnunciado": 1,
+      "enunciado": "Um título “O FALANTE É O MELHOR GRAMÁTICO QUE EXISTE” sugere o tema ou o sentido do texto que introduz, talvez desperte o interesse do leitor para o assunto tratado e estabelece relações com informações textuais e contextuais. Tendo isso em mente, podemos afirmar que o excerto que mais se aproxima do título é:",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Interpretação Textual",
+        "Língua Portuguesa – Gêneros Textuais"
+      ]
+    },
+    {
+      "numeroEnunciado": 2,
+      "enunciado": "Em relação ao texto lido, qual alternativa abaixo apresenta estratégia que concorre para que o texto seja convincente e persuasivo?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "utilização de dados estatísticos, que revelam objetividade na argumentação."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Estratégias Argumentativas",
+        "Língua Portuguesa – Persuasão"
+      ]
+    },
+    {
+      "numeroEnunciado": 3,
+      "enunciado": "Releia este trecho:\nOutra estratégia muito usada pelos tradicionalistas é a defesa da preservação de distinções que os falantes estão deixando de lado e que, supostamente, seriam fundamentais para manter a clareza do que se quer dizer. Por exemplo, é muito comum a gente encontrar tentativas de mostrar que as expressões ao invés de e em vez de não são equivalentes porque cada uma delas transmite noções distintas. Você sabia? Eu também não. Ο mesmo vale para desapercebido/ despercebido, servir alguém/ servir a alguém, visar alguma coisa/ visar a alguma coisa, falar com alguém/ falar a alguém e por aí vai.\nEm relação às estruturas destacadas no excerto anterior, podemos dizer que a variação linguística se refere a:",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "oncordância nominal."
+        },
+        {
+          "letra": "C",
+          "texto": "oncordância verbal."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Variação Linguística",
+        "Língua Portuguesa – Regência"
+      ]
+    },
+    {
+      "numeroEnunciado": 4,
+      "enunciado": "Ainda em relação ao texto de Bagno, podemos dizer que o tipo textual predominante é:",
+      "alternativas": [
+        {
+          "letra": "D",
+          "texto": "escritivo, pois o texto apresenta informações sobre o tema variação linguística, demonstrando conhecimentos do funcionamento da língua, organizados em uma estrutura lógica, que contribui para a compreensão do leitor. O autor traz descrição de formas de falar e escrever do ponto de vista dos conservadores e dos pesquisadores."
+        },
+        {
+          "letra": "D",
+          "texto": "issertativo, já que o autor se propõe a apresentar um determinado tema, o de que as mudanças e variações que ocorrem na língua derivam do conhecimento poderoso que os falantes têm de como ela funciona. Além disso, o autor posiciona-se sobre o tema, baseado em uma argumentação consistente."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Tipologia Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 5,
+      "enunciado": "Considere as palavras destacadas em cada período e analise se a explicação para o efeito de sentido no texto está correta:\nI)\nOra, \\textbf{se} essas diferenças realmente existissem, e \\textbf{se} fossem mesmo essenciais para a clareza da comunicação, os falantes seriam os primeiríssimos a querer conservá-las, já que são eles os maiores interessados em se fazer entender. \\textbf{Explicação}: o uso de 'se' duplamente reforça a ideia de hipótese.\nII)\nEu costumo dizer que a grande tarefa da ciência linguística é descobrir e explicitar aquilo que os falantes \\textbf{sabem, mas não sabem que sabem}. \\textbf{Explicação}: o uso de 'mas', neste período, introduz uma explicação.\nIII)\nNinguém conhece melhor o funcionamento da língua do que o próprio falante nativo, \\textbf{mesmo que ele não saiba explicar} esse funcionamento em termos teóricos. \\textbf{Explicação}: o uso de 'mesmo que' apresenta uma ressalva, indicando que uma situação poderia impedir a outra, mas não o faz.\nIV)\nEles alegam, \\textbf{por exemplo}, que a gente não pode dizer; \"Vou enviar o documento \\textit{através} do Paulo\", porque isso significa que seria preciso abrir um buraco na barriga do Paulo para que o documento pudesse atravessá-lo de um lado a outro, já que, dizem eles, esse é o sentido correto da palavra \\textit{através}. \\textbf{Explicação}: o uso de 'por exemplo' introduz enunciado que visa a esclarecer a informação da sequência anterior.\nEstão CORRETAS as assertivas:",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Língua Portuguesa – Semântica",
+        "Língua Portuguesa – Conectivos",
+        "Língua Portuguesa – Interpretação Textual"
+      ]
+    },
+    {
+      "numeroEnunciado": 6,
+      "enunciado": "Leia com atenção o texto a seguir:\nPlantio de mudas - Entenda como a doação de sacos de arroz ajuda em projeto ambiental da Funed\nA Fundação Ezequiel Dias (Funed), há dois anos realiza um projeto de plantio de mudas em áreas degradadas da Fazenda Experimental São Judas Tadeu, em Betim. Para que haja um melhor aproveitamento dessas mudas, elas precisam ser previamente selecionadas, sendo priorizadas aquelas com potencial para alimentar os animais que atualmente vivem na Fazenda e em seu entorno, bem como os que ainda não são residentes da região por falta de disponibilidade de alimento. Essas árvores também ajudarão no sombreamento para os cavalos nos dias quentes e abrigo nos dias chuvosos.\nSão milhares de mudas de 30 espécies distintas produzidas na Fazenda e, desse montante, 350 já foram plantadas. Segundo o servidor do Serviço de Gestão Ambiental (SGAmb) da Funed, João Carlos Teodoro, que está à frente do projeto de plantio de mudas na Fazenda, serão necessárias dezenas de milhares de mudas para fazer a recomposição completa. “Com esse início promissor, já se cria muita expectativa com o futuro do projeto. Esperamos que os animais ausentes retornem e os que lá vivem encontrem condições adequadas às suas necessidades de alimento e abrigos para seus ninhos. Com a introdução das novas árvores, os animais silvestres encontrão seus abrigos e alimento e, os cavalos, as tão esperadas sombras nos dias mais quentes”, completa.\nPara que esse projeto pudesse fluir e se desenvolver com maior facilidade, em março deste ano foi firmada uma parceria com a Nutrindus, empresa que atualmente fornece alimento para os servidores da Funed. João Carlos sugeriu essa união quando surgiu a necessidade de adquirir sacos maiores para o plantio das mudas. \"Antes da parceria, as sementes eram inseridas em sacos para germinação de um litro, o que limita o crescimento da planta, fazendo com que a muda fique mais propensa à predação de formigas. Assim, surgiu a necessidade de aquisição de sacos maiores para que as mudas tivessem um desenvolvimento melhor, sofrendo menos com a predação de insetos, principalmente formigas e cupins, e obtendo uma expectativa de vida maior\", afirma.\nA ideia foi aproveitar os sacos de arroz de cinco litros disponibilizados pela Nutrindus que, antes da parceria, iam parar no lixo. \"Para nós, é algo tão simples. As embalagens que seriam descartadas, agora possuem uma utilidade e são usadas para ajudar o meio ambiente\", comenta Fernanda Sena, funcionária da Nutrindus. De resíduo, as embalagens passaram a ser uma solução ambiental e econômica. Isso porque as embalagens possuem maior capacidade de volume de substrato, maior resistência e são mais saudáveis para o meio ambiente, quando comparadas aos saquinhos que eram utilizados no processo.\nAtualmente, 500 embalagens já foram doadas para o projeto e, com a continuidade desse, espera-se plantar o maior número de mudas possível, para fazer a recomposição completa das áreas degradadas da Floresta e atrair um maior número de animais que possam se beneficiar das árvores frutíferas. Vale ressaltar que, além das vantagens já mencionadas, a Funed deixa de ter custo com as embalagens, as mudas ganham mais chances de sobrevivência e o meio ambiente ganha com a reutilização dessas embalagens plásticas, entrando no conceito de economia circular.\n\"A reutilização das embalagens é extremamente importante para conter a degradação ambiental, haja vista que qualquer tipo de plástico, apesar de ser um produto amplamente difundido nos hábitos de consumo humanos, é um grande vilão do meio ambiente”, finaliza João Carlos, nos lembrando da importância dos cuidados com os recursos naturais.\nTexto: Lucas Luckeroth, sob supervisão de Ana Paula Brum. Colaboração de Isadora Valentine Andrade de Assis, estagiária do SGAmb - Publicado em: 22 de agosto de 2024 18:13\nDisponível em http://www.funed.mg.gov.br/2024/08/destaque/plantio-de-mudas-entenda-como-a-doacao-de-sacos-de-arroz-ajuda-em-projeto-ambiental-da-funed/ . Acesso em 30 ago. 2024.\nA partir da leitura do texto e de seus conhecimentos em Ciências Biológicas, assinale a afirmativa INCORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "partir do plantio de mudas na Fazenda Experimental São Judas Tadeu, animais ausentes podem voltar e ocupar novamente aquele espaço."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Biologia – Sustentabilidade",
+        "Biologia – Ecologia",
+        "Biologia – Conservação Ambiental"
+      ]
+    },
+    {
+      "numeroEnunciado": 7,
+      "enunciado": "A agricultura regenerativa envolve práticas que aliam a produção de alimentos à conservação e à recuperação do solo e da biodiversidade. Considere as seguintes ações:\nI- Controle biológico de pragas\nII- Melhoramento genético\nIII- Rotação de culturas\nIV- Cultivo associado\nAssinale a alternativa que indica as ações que estão associadas à agricultura regenerativa:",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Biologia – Sustentabilidade",
+        "Biologia – Agronomia",
+        "Biologia – Conservação do Solo"
+      ]
+    },
+    {
+      "numeroEnunciado": 8,
+      "enunciado": "Leia com atenção o texto a seguir\nCoqueluche: o que você precisa saber\nA coqueluche vem gerando preocupação em autoridades brasileiras e internacionais, especialmente por conta das Olimpíadas, em Paris. Uma reportagem da BBC Brasil (08/07/2024) afirma que somente nos três primeiros meses de 2024 foram registrados mais de 32 mil casos na União Europeia, de acordo com o Centro Europeu de Controle e Prevenção das Doenças (ECDC), frente aos cerca de 25 mil em 2023. Ainda segundo a reportagem, a agência de saúde francesa Santé Publique emitiu um relatório afirmando que os indicadores de vigilância confirmam uma situação epidêmica no território.\nDisponível em: https://radis.ensp.fiocruz.br/reportagem/doencas-respiratorias/coqueluche-o-que-voce-precisa-saber/. Acesso em: 10 ago. 2024.\nA partir da leitura do texto e de seus conhecimentos, assinale a afirmativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "coqueluche é uma doença infecciosa aguda, de alta transmissibilidade, causada pela bactéria \\textit{Rickettsia rickettsii}, um patógeno específico de humanos."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Biologia – Saúde",
+        "Biologia – Doenças",
+        "Biologia – Epidemiologia"
+      ]
+    },
+    {
+      "numeroEnunciado": 9,
+      "enunciado": "A Educação para o Consumo Sustentável é uma maneira bastante adequada de pensarmos a continuidade da vida na Terra com mais qualidade e bem-estar.\nTodas as afirmativas indicam ações que estão em consonância com a Educação para o Consumo Sustentável, EXCETO:",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "onservar e preservar os biomas, mantendo a integridade da fauna e da flora de tais territórios."
+        },
+        {
+          "letra": "E",
+          "texto": "conomizar energia sempre que for possível, evitando o desperdício."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Biologia – Sustentabilidade",
+        "Biologia – Ecologia",
+        "Biologia – Consumo Consciente"
+      ]
+    },
+    {
+      "numeroEnunciado": 10,
+      "enunciado": "As vitaminas são grupos de moléculas requeridas pelas células vivas e que se caracterizam por serem necessárias em quantidades pequenas. No entanto, a deficiência de algumas vitaminas pode causar problemas de saúde.\nAssinale a afirmativa INCORRETA acerca das vitaminas:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "deficiência de vitamina A pode causar cegueira noturna, pele seca e escamosa."
+        },
+        {
+          "letra": "A",
+          "texto": "vitamina C pode ser encontrada nas frutas cítricas, no tomate e nas hortaliças verdes com folhagem."
+        },
+        {
+          "letra": "A",
+          "texto": "vitamina K está associada ao raquitismo, que pode ser entendido como a formação deficiente dos ossos."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Biologia – Bioquímica",
+        "Biologia – Nutrição",
+        "Biologia – Vitaminas"
+      ]
+    },
+    {
+      "numeroEnunciado": 11,
+      "enunciado": "As substâncias X (cujas moléculas são representadas por retângulos) e Y (cujas moléculas são representadas por círculos) foram misturadas por um certo tempo. Após repouso, a mistura foi representada esquematicamente abaixo.\nQual é a MELHOR descrição dessa mistura?",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Química – Misturas",
+        "Química – Estados Físicos da Matéria",
+        "Química – Densidade"
+      ]
+    },
+    {
+      "numeroEnunciado": 12,
+      "enunciado": "As duas moléculas apresentadas a seguir são:",
+      "alternativas": [
+        {
+          "letra": "E",
+          "texto": "nantiomeras."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Química – Isomeria",
+        "Química – Química Orgânica"
+      ]
+    },
+    {
+      "numeroEnunciado": 13,
+      "enunciado": "Qual dos compostos a seguir possui o MAIOR ponto de ebulição?",
+      "alternativas": null,
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Química – Química Orgânica",
+        "Química – Forças Intermoleculares",
+        "Química – Ponto de Ebulição"
+      ]
+    },
+    {
+      "numeroEnunciado": 14,
+      "enunciado": "O nitrogênio sofre oxidação em:",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Química – Reações de Oxidação e Redução",
+        "Química – Balanceamento de Reações"
+      ]
+    },
+    {
+      "numeroEnunciado": 15,
+      "enunciadoCompleto": "Em qual das alternativas a seguir NÃO aparece uma espécie iônica?",
+      "alternativas": [
+        {
+          "letra": "C",
+          "texto": "F₄, HF, $NH_4Cl$"
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Química – Ligações Químicas e Forças Intermoleculares"
+      ]
+    },
+    {
+      "numeroEnunciado": 16,
+      "enunciadoCompleto": "Quando observamos uma estrela a partir da superfície da Terra, a posição em que a percebemos geralmente não corresponde à sua posição real. Isso ocorre porque a luz dessa estrela muda de direção quando sofre refração ao passar do vácuo interestelar para a atmosfera terrestre.\nConsidere uma estrela que aparece no horizonte às 15h, passa pelo zênite (o ponto mais alto do céu) às 21h, e se põe no horizonte às 3h.\nA que horas a posição aparente dessa estrela corresponderá à sua posição real?",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Óptica Geométrica (Refração da Luz)"
+      ]
+    },
+    {
+      "numeroEnunciado": 17,
+      "enunciadoCompleto": "O diretor de uma escola decidiu escolher um ar-condicionado que consiga resfriar um auditório de $30^\\circ C$ para $20^\\circ C$ em 18 minutos.\nFaça as seguintes considerações:\n• A potência dos ares-condicionados é medida em BTU e um aparelho de 12.000 BTU pode congelar completamente uma tonelada de água, com temperatura inicial de $0^\\circ C$, em um intervalo de 24 horas.\n• A taxa de resfriamento do ar é igual à taxa de congelamento da água a $0^\\circ C$, ou seja, a potência de um aparelho de ar-condicionado é equivalente para os dois meios.\n• Não há troca de ar nem de calor com o ambiente externo durante o uso do ar-condicionado.\nDados:\n• calor latente da água: $L = 336 \\ kJ/kg$;\n• calor específico do ar: $c = 1 \\ kJ/kg \\cdot ^\\circ C$;\n• densidade do ar: $d = 1,2 \\ kg/m^3$.\nQual das alternativas abaixo representa a potência necessária para atingir o objetivo do diretor?",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Física – Termodinâmica (Calor e Potência)"
+      ]
+    },
+    {
+      "numeroEnunciado": 18,
+      "enunciadoCompleto": "Carregadores sem fio para smartphones utilizam indução eletromagnética para recarregar o dispositivo, eliminando a necessidade de cabos entre o carregador e o aparelho. O carregador consiste em uma bobina por onde passa uma corrente elétrica alternada, que realiza a recarga de uma bateria que é aproximada dele.\nQual das alternativas abaixo explica como o carregador de indução carrega a bateria?",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Eletromagnetismo (Indução Eletromagnética)"
+      ]
+    },
+    {
+      "numeroEnunciado": 19,
+      "enunciadoCompleto": "A figura abaixo representa quatro planetas de massa $M$ ou $2M$ com suas respectivas luas de massa $m$ ou $2m$. Cada planeta e sua lua se atraem gravitacionalmente, e estão longe o bastante dos outros planetas e luas. Sabe-se que a distância entre os centros dos astros (planeta e sua respectiva lua) é $d$ ou $2d$, conforme indicado na figura.\nPodemos afirmar que a configuração que apresenta o menor valor para a força de atração gravitacional é",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": ""
+        },
+        {
+          "letra": "B",
+          "texto": ""
+        },
+        {
+          "letra": "C",
+          "texto": ""
+        },
+        {
+          "letra": "D",
+          "texto": ""
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Física – Gravitação Universal (Lei da Gravitação Universal)"
+      ]
+    },
+    {
+      "numeroEnunciado": 20,
+      "enunciadoCompleto": "Johannes Kepler (1571-1630) foi um astrônomo, astrólogo e matemático alemão, conhecido principalmente por suas leis do movimento planetário, que desempenharam um papel crucial no desenvolvimento da astronomia moderna. Dentre outras coisas, ele constatou que os planetas descrevem órbitas elípticas em torno do Sol, e não circulares, como se acreditava até então.\nConsidere um planeta em uma órbita elíptica ABCD em torno do Sol S. Sabe-se que a área do setor circular ASB e CSD são iguais e que a distância percorrida pelo planeta no trecho AB é metade da distância percorrida no trecho CD.\nDessa forma, podemos afirmar que a razão entre os intervalos de tempo para varrer a área do setor circular ASB e CSD é igual a",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Física – Gravitação Universal (Leis de Kepler)"
+      ]
+    },
+    {
+      "numeroEnunciado": 21,
+      "enunciadoCompleto": "De acordo com a Lei de Resfriamento de Newton, a taxa de variação da temperatura de um corpo é proporcional à diferença entre sua temperatura e a temperatura ambiente.\nMatematicamente, a temperatura de um corpo em um instante $t$ é dada por $T(t) = T_a + C \\cdot B^t$, sendo $T_a$ a temperatura ambiente e $B$ e $C$ constantes.\nConsidere que um corpo se encontra em uma sala com temperatura ambiente constante igual a $32^\\circ C$. Considere ainda que, às 12 horas, a temperadora do corpo é $36^\\circ C$ e que, após 1 minuto, sua temperatura cai para $34^\\circ C$.\nNessas condições, é CORRETO afirmar que a temperatura do corpo será $33^\\circ C$ às",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Matemática – Funções Exponenciais",
+        "Matemática – Equações"
+      ]
+    },
+    {
+      "numeroEnunciado": 22,
+      "enunciadoCompleto": "Um condomínio construirá um pátio quadrado, como mostrado na figura abaixo.\nNa pavimentação, serão utilizados dois materiais distintos: na parte interna (que corresponde a um quadrado de lado medindo $x$ metros), será utilizada uma pavimentação em paralelepípedo, que tem custo de R$ 60,00 o metro quadrado. Já no restante do pátio será utilizada pavimentação asfáltica, que custa R$ 20,00 o metro quadrado. Sabendo que o custo com a pavimentação asfáltica foi igual ao custo com a pavimentação em paralelepípedo, é CORRETO afirmar que o quadrado interno perímetro medindo",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Matemática – Geometria Plana (Áreas e Perímetros)",
+        "Matemática – Equações do 1º grau"
+      ]
+    },
+    {
+      "numeroEnunciado": 23,
+      "enunciadoCompleto": "Para a construção de um muro, uma empreiteira utilizará 1.200 quilos de cimento, embalados em sacos de 50 kg. Seu fornecedor cobrará uma taxa de entrega no valor de R$ 200,00, além R$ 25,00 por cada saco.\nNessas condições, é CORRETO afirmar que o custo total da compra é de:",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Matemática – Aritmética (Cálculo de Custos)"
+      ]
+    },
+    {
+      "numeroEnunciado": 24,
+      "enunciadoCompleto": "Dois amigos estão treinando corrida em uma pista de 800 metros de comprimento, com o formato abaixo.\nUm deles leva 5 minutos para dar uma volta completa na pista, enquanto o outro necessita de um minuto a mais. Se os dois iniciarem a corrida juntos e percorrerem a pista no mesmo sentido, quantos metros o mais rápido terá percorrido quando se encontrarem novamente?",
+      "alternativas": [],
+      "alternativaCorreta": "C",
+      "conteudosAbordados": [
+        "Matemática – Mínimo Múltiplo Comum (MMC)",
+        "Matemática – Relações entre grandezas"
+      ]
+    },
+    {
+      "numeroEnunciado": 25,
+      "enunciadoCompleto": "Um investidor planejava aplicar R$ 2.000,00 em um investimento que rende 12% ao ano. Contudo, suas despesas mensais permitiram a aplicação de apenas R$ 1.500,00. Para ter o mesmo rendimento anual planejado inicialmente, o investidor necessitaria de um investimento com rendimento anual de",
+      "alternativas": [],
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Matemática – Porcentagem",
+        "Matemática – Juros Simples/Compostos (Contexto de Rendimento)"
+      ]
+    },
+    {
+      "numeroEnunciado": 26,
+      "enunciadoCompleto": "Lee la noticia a continuación y contesta las preguntas 26 a 28.\nPara no tentarse: productos ultraprocesados, más lejos de las cajas de supermercados\nEl Concejo aprobó una ordenanza que dispone que en las góndolas cercanas a los puestos de cobro haya productos más saludables\n6 de septiembre 2024\nEl Concejo aprobó en su sesión de este jueves una ordenanza que establece un ordenamiento en la exhibición de golosinas y caramelos, o cualquier producto ultra azucarado frente a las líneas de caja de los supermercados. La nueva normativa exige que haya una distancia mínima entre los puestos de cobro y los productos con alta saturación de azúcares, grasas y sodios.\n\"La ordenanza limita la exhibición de los denominados alimentos ultra procesados en radio de tres metros de las líneas de cajas en los grandes comercios. El objetivo es promover hábitos de consumos más saludables. A quién no le pasó que, haciendo una cola para pagar manotea alguno de estos productos que sin dudas no son buenos para la salud”, señaló la edila Julia Irigoitía, integrante del bloque justicialista y autora de la iniciativa.\nLa legisladora peronista consideró, entre los argumentos de la normativa, que en muchas ocasiones el consumidor \"puede ser inducido a la compra de esos productos durante el tiempo muerto que tiene mientras espera el turno para pagar en caja. En esos momentos, naturalmente uno se pone a ver alrededor y lo primero que tiene a la vista son ese tipo de artículos con alta probabilidades de que se tomen y consuman\".\n\"Queremos invertir la motivación, trocando elementos que tengan contenidos más saludables como los frutos secos, frutas, alimentos aptos para celíacos, es decir cambiar un poco la mirada\", destacó Irigoitía.\nEn declaraciones al programa “Todos en La Ocho\", de LT8, la concejala señaló que al momento de diseñar esta ordenanza se realizaron reuniones con referentes de la Cámara de Supermercados de Rosario, pero remarcó que \"la intención es que esta normativa cuente con campañas de difusión por parte de la Municipalidad\". Habrá 90 días para que esto se ponga en práctica.\n[...].\nDesde hace unos años rige en nuestro país la ley 27.642 de etiquetado frontal, que propone brindar a los usuarios información sobre el contenido de los alimentos, mediante los polígonos negros que aparecen en los envases, sobre azúcares, grasas saturadas y esto afecta en la salud, y el motivo de esa ley tuvo que ver en avanzar en hábitos más saludables.\nPARA no tentarse: productos ultraprocesados, más lejos de las cajas de supermercados.\nIn: La Capital, 06 sep. 2024. Disponible en: https://www.lacapital.com.ar/la-ciudad/para-no-tentarse-productos-ultraprocesados-mas-lejos-las-cajas-supermercados-n10152137.html. Acceso el: 14 sep. 2024.\nLas noticias en general suelen contestar las siguientes preguntas sobre el hecho noticiado: qué, dónde, cuándo, quién, cómo y porqué.\nMarca la afirmación en la que se contesta esas preguntas sobre la noticia leída anteriormente.",
+      "alternativas": [],
+      "alternativaCorreta": "D",
+      "conteudosAbordados": [
+        "Espanhol – Compreensão e Interpretação de Textos"
+      ]
+    },
+    {
+      "numeroEnunciado": 27,
+      "enunciadoCompleto": "¿Qué efecto psicológico tienen la posición de los productos cerca de los puestos de cobro?",
+      "alternativas": [],
+      "alternativaCorreta": "A",
+      "conteudosAbordados": [
+        "Espanhol – Compreensão e Interpretação de Textos"
+      ]
+    },
+    {
+      "numeroEnunciado": 28,
+      "enunciadoCompleto": "¿Qué imagen MEJOR se relaciona con el contenido del último párrafo?",
+      "alternativas": null,
+      "alternativaCorreta": "B",
+      "conteudosAbordados": [
+        "Espanhol – Compreensão e Interpretação de Textos"
+      ]
+    },
+    {
+      "numeroEnunciado": 29,
+      "enunciado": "Lee un fragmento extraído de la novela Sombra, de Arturo Martínez Galindo, y contesta las preguntas 29 y 30.\n\nII\nMi jefe, aquel espléndido señor que hoy sólo vive en el recuerdo de los que lo quisimos, estaba entonces\nmuy enfermo. Hubo necesidad de trasladarlo a Baltimore. Baltimore: gran puerto, gran ciudad, ciudad histórica, llena\nde fábricas, humosa, atareada. Washington es a Baltimore lo que un señorito es a un obrero; Washington no sería\nun pobre marco para George Brummell; en Baltimore puede comprenderse a Lenin y hasta dan deseos en ella de\ncantar La internacional.\nAmbas ciudades son vecinas; las separan cuarenta millas, pero las unen los rápidos trenes y una carretera\ncomo sólo las saben construir los yanquis. Cosa de una hora el ir. En Baltimore se venden los mejores mariscos del\nAtlántico, y tienen un buen hospital: el mejor de América, dicen allá.\nEsta ciudad tenía para mí el sagrado prestigio de conservar los restos de Edgar Allan Poe. Ahí en el patio\nde la iglesita de Westminster duerme el inmenso bardo, y ahí en una de sus calles antiguas, envenenado y delirante,\nrodó definitivamente como una piltrafa. Bajo su humilde mausoleo, sus huesos inmóviles encontraron por fin El\nDorado, que él buscó inútilmente sobre la tierra inhóspita e indiferente. Y a su lado duerme también Virginia. [...]\nEste año he ido tantas veces a Baltimore y siempre he arrojado diez minutos de mi vida sobre esa tumba\nignorada donde el poeta duerme con su Virginia. Una ocasión en que fui con Edna, Dorothy y Manuel, éste, que\nestaba muy borracho, al no más llegar a la tumba, nuestra tumba, se inclinó a llorar sobre ella desesperadamente.\nNos costó trabajo arrancarle de allí, y un policía que se acercó a nosotros, intrigado sin duda por aquellos sollozos\nen un lugar donde nadie ha sollozado, con un candor y una ignorancia made in usa, nos interrogó solícito:\n-¿Algún pariente?\n\nGALINDO, Arturo Martínez. Sombra. Disponible en: https://www.lanovelacorta.com/novelas-en-la-\nfrontera/sombra.pdf. Acceso el: 13 sep. 2024.\n\nCUESTIÓN 29\nConsiderando las nociones de tiempo y espacio en la narrativa, marca la opción ADECUADA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "El autor, en la narrativa, habla sobre el pasado desde la ciudad en que vive en el presente."
+        },
+        {
+          "letra": "B",
+          "texto": "El autor, en la narrativa, habla sobre el tiempo presente y su relación con el tiempo pasado y con las localidades que hicieron parte de su historia, pero que ya no hacen más."
+        },
+        {
+          "letra": "C",
+          "texto": "En la narrativa, el narrador alterna entre el tiempo pasado y el tiempo presente y entre dos localidades cercanas."
+        },
+        {
+          "letra": "D",
+          "texto": "En la narrativa, los hechos se desarrollan en el pasado, en la ciudad donde el narrador vivió su juventud."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 30,
+      "enunciado": "CUESTIÓN 30\n¿Qué crítica hace el narrador hacia los estadunidenses?",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "De acuerdo con el narrador, la policía estadunidense no tiene empatía hacia los parientes de grandes personalidades artísticas."
+        },
+        {
+          "letra": "B",
+          "texto": "De acuerdo con el narrador, los estadunidenses no valoran a los grandes nombres de la historia de sus ciudades."
+        },
+        {
+          "letra": "C",
+          "texto": "Según el narrador, los estadunidenses son incultos, desconociendo, incluso, grandes nombres de su literatura."
+        },
+        {
+          "letra": "D",
+          "texto": "Según el narrador, los estadunidenses son ignorantes porque no conocen los principales puntos turísticos de su país."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Inglês – Interpretação de Texto"
+      ]
+    },
+    {
+      "numeroEnunciado": 31,
+      "enunciado": "PROVA DE HISTÓRIA\nQUESTÃO 31\nNa História das relações de gênero, mulheres e homens assumiram papéis sociais. No período medieval, não eram\nas mulheres, mas seus maridos, que responderiam pelas próprias falhas. No entanto, no campo econômico e\nenquanto a família existiu como unidade de produção, as mulheres desempenhavam um papel fundamental e\ntrabalharam ativamente para a execução de tarefas domésticas e também no campo, nas manufaturas, nas minas,\nnas lojas, nos mercados e nas oficinas (fiavam e fermentavam cerveja).\nRefletindo sobre o papel das mulheres e as relações de trabalho, é CORRETO afirmar:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A individualização advinda com o capitalismo desvalorizou as capacidades femininas frente às masculinas, marginalizando o trabalho das mulheres."
+        },
+        {
+          "letra": "B",
+          "texto": "As mulheres na Idade Média não tinham direitos e foi a emergência deles que definiu que precisavam ser protegidas e restringidas ao âmbito doméstico."
+        },
+        {
+          "letra": "C",
+          "texto": "O trabalho, como inaugurado no capitalismo, foi adverso à mulher, pois separou os espaços público e privado, proibindo sua atuação pública."
+        },
+        {
+          "letra": "D",
+          "texto": "Os papéis domésticos atribuídos às mulheres são justificados pela tradição com relação aos afazeres no lar, restritos a elas ao longo do tempo."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "História – História Medieval",
+        "História – História Social e de Gênero"
+      ]
+    },
+    {
+      "numeroEnunciado": 32,
+      "enunciado": "QUESTÃO 32\nDurante o século XIX, o Brasil recebeu muitos viajantes estrangeiros, dentre os quais se destaca o botânico Sain\nHilaire, que fez expedições pelo Brasil e pela Província de Minas Gerais. Observem como ele descreveu um trecho\npercorrido na Comarca de Paracatu:\n\nA Comarca de Paracatu não passa, pois, de um imenso deserto. Entretanto, não visitei o lado da comarca\ncompreendida entre o São Francisco e a cadeia que, do lado oeste, fornece afluentes a esse rio. É de supor, porém,\nque esse trecho do sertão seja ainda menos civilizado do que o que eu havia percorrido na margem direita do São\nFrancisco, já que se acha muito afastado do que se pode considerar como os centros civilizados da Província de\nMinas. [...] Creio poder afirmar, entretanto, que os habitantes da região que atravessei para chegar a essa cidade\n[Paracatu] são constituídos pela escória da Província de Minas.\n(Citado por MIRANDA, L. F. A. de. O deserto dos mestiços: o sertão e seus habitantes nos relatos de viagem do\ninício do século XIX. História (São Paulo), v. 28, n. 2, p. 621-644, 2009. Adaptado).\nA partir do relato do viajante, é possível separar o Sertão das áreas de rio ou de outros centros urbanos, assim como\nperceber seus valores advindos do modelo europeu e de seu tempo (o século XIX).\nNo trecho, Saint Hilaire associou o Sertão de Paracatu:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "à ausência de vida civilizada que, para além do território, incluía os moradores que não tiveram a vivência ou o acesso a ela."
+        },
+        {
+          "letra": "B",
+          "texto": "à carência de vegetação que permitiria o desenvolvimento econômico e, consequentemente, o processo de urbanização."
+        },
+        {
+          "letra": "C",
+          "texto": "à pobreza em contraste com as áreas centrais da província que, dificultadas pelo acesso, foram percebidas como distantes."
+        },
+        {
+          "letra": "D",
+          "texto": "ao exotismo dos sertanejos que despertaram a atenção do viajante aqui valorizados como algo curioso e a descobrir."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "História – Brasil Império",
+        "História – Viagens e Descrições no Século XIX"
+      ]
+    },
+    {
+      "numeroEnunciado": 33,
+      "enunciado": "QUESTÃO 33\nObserve o anúncio de escravo fugido, de 1880:\n\nJuiz de Fora, Escravo fugido\nAcha-se fugido desde 1º de março do corrente, o escravo Theodoro, pardo, baixo, cabelos corridos e de boa figura,\nbem-feito de corpo, bons dentes e começando a barbar e tendo mais ou menos 22 anos, pajem de serviços\ndomésticos acostumado a lidar com animais, copeiro, entende do ofício de carpinteiro, sabe lidar com máquinas de\ncorte, lê números e faz conta de memória, sabe música, canta e toca flauta e violão e leva-o corpo só roupa de\nserviço...\"\n(Correio Paulistano, 6 de maio de 1880. Citado por SCHWARCZ, Lilia Moritz. Retrato em Branco e Negro: jornais,\nescravos e cidadãos em São Paulo no final do século XIX. 2. ed. São Paulo: Companhia das Letras, 2017. p. 168).\nO ato de anunciar a fuga de escravos era comum nos jornais em circulação e nos permite aferir um pouco mais da\nrelação social entre escravizados e seus senhores nos fins do século XIX.\nObservando o anúncio de 1880, podemos afirmar que as relações entre senhor e escravizado são identificadas no\nato de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "apontar a importância do escravizado no trabalho como foco para trazê-lo de volta, sem detalhar sobre aspectos singulares."
+        },
+        {
+          "letra": "B",
+          "texto": "comparar o cativo doméstico com o cativo para o trabalho agrícola como alguém melhor e de melhor aparência."
+        },
+        {
+          "letra": "C",
+          "texto": "definir aspectos físicos, vestimenta e objetos, facilitando a identificação e caracterizando o escravo como propriedade."
+        },
+        {
+          "letra": "D",
+          "texto": "descrever as qualificações especiais do cativo, indicando o conhecimento e a proximidade que permeavam essas relações."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "História – Escravidão no Brasil",
+        "História – Sociedade e Cotidiano no Século XIX"
+      ]
+    },
+    {
+      "numeroEnunciado": 34,
+      "enunciado": "QUESTÃO 34\nLeia o trecho abaixo sobre a criação dos cabelereiros de moda:\n\nOs primeiros barbeiros eram homens da medicina, ancestrais dos modernos cirurgiões. Então, em 1659, um edito\nreal criou a profissão de \"barbeiro-especialista em perucas\", um novo estilo de barbeiro que cuidava exclusivamente\nde barbas e cabelos masculinos, começou a abrir lojas em Paris, onde trabalhava para uma clientela exclusivamente\nmasculina. As mulheres ainda deixavam os cabelos aos cuidados de suas damas de companhia. Ninguém poderia\nimaginar que logo surgiria uma profissão dedicada aos cabelos femininos, muito menos que seria permitido aos\nhomens um gesto tão íntimo como tocar os cabelos de uma mulher. Então, de uma só tacada, monsieur Champagne\neliminou séculos de preconceito e tornou-se o primeiro cabelereiro da moda. [...] A revolução na forma de pentear\nos cabelos femininos introduzida por Champagne foi o primeiro passo importante para o nascimento do principal\nfenômeno francês: a alta-costura. [...] Uma nova palavra foi criada para descrever a profissão de Champagne:\ncoiffeur (cabeleireiro/penteado), termo ainda utilizado na França, os primeiros artistas do cabelo: a eles coube não\napenas deixar o visual de suas clientes tão fabuloso quanto possível, mas também imaginar novas maneiras de\ncombinar todos os tipos de cabelo e tecidos. Sempre que uma mulher aparecia com um novo penteado, este era\nprontamente batizado, e as outras mulheres – inicialmente em Paris e depois por toda a Europa – se apressavam\nem copiá-lo.\n(DEJEAN, Joan E. A Essência do Estilo: como os franceses inventaram a alta-costura, a gastronomia, os cafés\nchiques, o estilo, a sofisticação e o glamour. Rio de Janeiro: Civilização Brasileira, 2010. p.31-35. Adaptado).\nA sofisticação como marca francesa passou a ser relevante durante o reinado de Luís XIV, um reinado influenciado\npela tentativa de fazer do próprio rei uma lenda e uma marca e que passou a ser importante fonte de riqueza\neconômica para a França, pois controlava o comércio de luxo.\nNo trecho acima, é abordada a História dos cabeleireiros na alta moda que o período legou ao mundo.\nRefletindo sobre a moda e a relação com o contexto, marque a afirmativa CORRETA:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A moda movimentou a economia francesa que não tinha opção de crescimento com a perda de colônias na América e na África e a ausência de técnicas sofisticadas para o desenvolvimento industrial."
+        },
+        {
+          "letra": "B",
+          "texto": "A moda veio para o mundo feminino e ali se firmou. Aos homens faltavam inovações e tendências que não refletiram o movimento moderno. Na falta de inventividade para os homens, se forjaram as perucas."
+        },
+        {
+          "letra": "C",
+          "texto": "A relação entre os inventivos artistas, artesãos e artífices franceses e a política de concessão e incentivo real moldou a imagem da França, garantindo a reputação de elegância que ainda a acompanha."
+        },
+        {
+          "letra": "D",
+          "texto": "A vivência na moda foi uma revolução social na França do século XVII que inventava a igualdade de uma sociedade em crise, levando a todas as mulheres da França a se vestir e se pentear com alta-costura."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "História – Idade Moderna",
+        "História – Absolutismo Francês e Luís XIV",
+        "História – Cultura e Sociedade"
+      ]
+    },
+    {
+      "numeroEnunciado": 35,
+      "enunciado": "QUESTÃO 35\nLeia com atenção:\n\nUma reflexão mais aprofundada dos últimos 60 anos leva-me a concluir que o que quase terminou com os processos\nde independência do século XX foi uma forma específica de colonialismo, e não o colonialismo como modo de\ndominação. A forma que quase terminou foi o que se pode designar por colonialismo histórico caracterizado pela\nocupação territorial estrangeira. Mas o modo de dominação colonial continuou sob outras formas e, se as\nconsiderarmos como tal, o colonialismo está talvez hoje tão vigente e violento como no passado. [...] As novas\nformas de colonialismo são mais insidiosas porque ocorrem no âmago de relações sociais, econômicas e políticas\ndominadas pelas ideologias do antirracismo, dos direitos humanos universais, da igualdade de todos perante a lei,\nda não discriminação, da igual dignidade dos filhos e filhas de qualquer deus ou deusa. [...] Floresce em apartheids\nsociais não institucionais, mesmo que sistemáticos. Tanto ocorre nas ruas como nas casas, nas prisões e nas\nuniversidades como nos supermercados e nos batalhões de polícia. Disfarça-se facilmente de outras formas de\ndominação, tais como diferenças de classe e de sexo ou sexualidade, mesmo sendo sempre um componente\nconstitutivo delas.\n(SANTOS, Boaventura de Souza. Boaventura: O Colonialismo e o Século XXI. In. Outras Palavras. Publicado em:\n02/04/2018 às 20:18 - Atualizado em: 15/01/2019 às 18:02. Disponível em:\nhttps://outraspalavras.net/geopoliticaeguerra/boaventura-o-colonialismo-e-o-seculo-xxi/. Adaptado).\nO sociólogo Boaventura de Souza Santos traz uma discussão atual sobre o colonialismo no século XXI.\nA ideia central do autor está CORRETAMENTE expressa na afirmativa:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Os diferenciadores étnicos, culturais, sociais, de gênero, de religião, de pensamento, físicas entre outras são aspectos da humanidade e encontram-se na atualidade rompendo com as antigas formas de colonização."
+        },
+        {
+          "letra": "B",
+          "texto": "Os movimentos econômicos e políticos capitalistas impediram o fim do colonialismo ao manter subjugados os países pela dependência econômica, impedindo a adoção de formas de emancipação e independência."
+        },
+        {
+          "letra": "C",
+          "texto": "Os padrões hegemônicos que permaneceram, apesar do fim do colonialismo histórico e territorial, constituem-se em formas de dominação que acontecem nas relações sociais marcadas pela desigualdade e discriminação."
+        },
+        {
+          "letra": "D",
+          "texto": "Os referenciais políticos definem formas de pertencimento e de exclusão. Os grupos que romperam seus vínculos coloniais e estabeleceram formas decoloniais também romperam com ideologias dos direitos humanos."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Sociologia – Colonialismo e Pós-colonialismo",
+        "Sociologia – Desigualdade Social e Discriminação"
+      ]
+    },
+    {
+      "numeroEnunciado": 36,
+      "enunciado": "PROVA DE GEOGRAFIA\nQUESTÃO 36\nO Rio Sena é um curso d'água localizado na França, sendo um dos cartões-postais da cidade de Paris. Estende-se\npor, aproximadamente, 775 quilômetros desde a comuna de Source-Seine até a sua foz, no Canal da Mancha, na\ncomuna de Les Havres, Normandia, conforme ilustra a imagem abaixo. O rio foi fundamental para a constituição\nhistórica da capital francesa e exerce até hoje importância econômica e cultural no país. No entanto, enfrenta um\ngrave problema ambiental, que é a poluição hídrica, conforme foi vivenciado por atletas e turistas durante as\ncompetições do triatlo e da maratona aquática nas Olimpíadas de Paris que aconteceram em agosto de 2024.\n\nFonte: Brasil Escola. Rio Sena. Disponível em:\nhttps://brasilescola.uol.com.br/geografia/rio-sena.htm. Acesso em: 21 ago. 2024. Adaptado.\nConsiderando as informações acima e seu conhecimento sobre o assunto, é CORRETO o que se afirma em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "Assim como o Rio Sena, em Paris, rios urbanos enfrentam sérios problemas de poluição devido à forma como vêm sendo historicamente tratados."
+        },
+        {
+          "letra": "B",
+          "texto": "É função dos rios em ambientes urbanos conduzir os dejetos humanos, como também utilizá-los para a navegação e a prática de esportes aquáticos e atividades recreativas."
+        },
+        {
+          "letra": "C",
+          "texto": "Grandes eventos mundiais, como a Copa do Mundo de Futebol e os Jogos Olímpicos, ajudam a agravar ainda mais os contaminantes nas águas dos rios."
+        },
+        {
+          "letra": "D",
+          "texto": "Paris adotou, desde sua origem, um modelo de planejamento que utiliza o rio que perpassa a cidade para promover o bem-estar da população."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Geografia – Hidrografia",
+        "Geografia – Geografia Urbana",
+        "Geografia – Questões Ambientais"
+      ]
+    },
+    {
+      "numeroEnunciado": 37,
+      "enunciado": "QUESTÃO 37\nConsidere as informações contidas no texto da questão anterior, que afirma que o Rio Sena possui 775 quilômetros\naproximadamente, e que a escala cartográfica é a relação entre a medida de um determinado objeto ou lugar\nrepresentado em um mapa e sua medida real.\nEm um mapa em que 1 cm corresponde a 50 km, é CORRETO afirmar que a medida do Rio Sena, nesta mesma\nrepresentação cartográfica, terá a dimensão de:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "1,55 cm."
+        },
+        {
+          "letra": "B",
+          "texto": "3,88 cm."
+        },
+        {
+          "letra": "C",
+          "texto": "15,5 cm."
+        },
+        {
+          "letra": "D",
+          "texto": "38,70 cm."
+        }
+      ],
+      "alternativaCorreta": "C",
+      "conteudos": [
+        "Geografia – Cartografia e Escala",
+        "Matemática – Proporção e Razão"
+      ]
+    },
+    {
+      "numeroEnunciado": 38,
+      "enunciado": "QUESTÃO 38\nA Guerra na Ucrânia é um conflito no leste europeu marcado pelo acirramento das tensões entre a Rússia e a\nUcrânia. Em 24 de fevereiro de 2022, as tropas russas invadiram a Ucrânia, promovendo ataques a cidades\npróximas da capital, Kiev, dando início ao conflito que se entende até os dias atuais.\nFonte: O Globo. Guerra na Ucrânia. Disponível em: https://oglobo.globo.com/tudo-sobre/assunto/guerra-na-\nucrania/. Acesso em: 23 ago. 2024. Adaptado.\nA respeito desse assunto, é CORRETO o que se afirma em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "A possibilidade de a Ucrânia ingressar na Otan é uma das causas do conflito, o que resultará em uma aproximação em relação ao Ocidente e na perda de influência russa."
+        },
+        {
+          "letra": "B",
+          "texto": "Ao longo desses anos de guerra, os demais países europeus assistiram ao conflito passivamente, sem posicionarem favoráveis ou contrários a nenhum dos dois países."
+        },
+        {
+          "letra": "C",
+          "texto": "Apesar de fazerem fronteiras, a Ucrânia não possui vínculo histórico com a Rússia, o que não legitima a invasão imposta pelo Kremlin."
+        },
+        {
+          "letra": "D",
+          "texto": "Mesmo sem intervir no conflito, a Organização das Nações Unidas (ONU) vem promovendo ajuda humanitária a civis somente em território russo."
+        }
+      ],
+      "alternativaCorreta": "A",
+      "conteudos": [
+        "Geografia – Geopolítica",
+        "Geografia – Conflitos Mundiais"
+      ]
+    },
+    {
+      "numeroEnunciado": 39,
+      "enunciado": "QUESTÃO 39\nVereda é um ecossistema singular do bioma Cerrado, constituído por solos hidromórficos que geram um ambiente\nalagado composto por gramíneas e com predomínio de buritis. Por lei, essa paisagem configura-se como Área de\nPreservação Permanente (APP) e inspirou João Guimarães Rosa a escrever sua obra-prima \"Grande sertão:\nVeredas\". Entretanto, esse ambiente é frágil e vem passando por ameaças, conforme ilustra o infográfico a seguir.\n\nFonte: PARREIRAS, M.; RIBEIRO, L. Reflorestamento? Energia limpa? Como a \"indústria\nverde\" impacta o Cerrado. Estado de Minas. Disponível em:\nhttps://www.em.com.br/gerais/2024/07/6899182-reflorestamento-energia-limpa-como-a-\nindustria-verde-impacta-o-cerrado.html. Acesso em: 21 ago. 2024. Adaptado.\nA partir das informações contidas na ilustração, analise as afirmações que se seguem.\n\nI. Por ser considerado berçário de rios, as veredas vêm perdendo área para atividades ligadas ao agronegócio e à expansão urbana.\nII. 2023 é considerado um dos anos com maiores registros de desmatamento, ficando abaixo somente dos anos de 2017 e 2022, na comparação da série histórica.\nIII. Veredas estão distribuídas por todo o estado de Minas Gerais, o que justifica as elevadas taxas de desmatamento e os impactos nesse ecossistema.\n\nÉ CORRETO apenas o que se afirma em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I."
+        },
+        {
+          "letra": "B",
+          "texto": "II."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III."
+        }
+      ],
+      "alternativaCorreta": "B",
+      "conteudos": [
+        "Geografia – Biomas Brasileiros",
+        "Geografia – Impactos Ambientais",
+        "Geografia – Cerrado"
+      ]
+    },
+    {
+      "numeroEnunciado": 40,
+      "enunciado": "QUESTÃO 40\nDados do Censo Demográfico de 2022 demonstraram que a capital mineira possui mais de 2.315.000 habitantes e\numa densidade demográfica de 6.988 hab./km², sendo a 6ª cidade mais populosa do Brasil. A apropriação do sítio\ndo antigo Arraial de Curral del Rey para a capital Belo Horizonte foi rápida (conforme ilustra a figura a seguir), tendo\ncomo responsável pelas profundas alterações na paisagem a Comissão Construtora da Nova Capital (CCNC). A\ncomissão organizou o território para a edificação de uma cidade que tinha como principal finalidade abrigar o poder\npolítico e administrativo do estado de Minas Gerais a partir das ideias racionalistas vigentes na sociedade,\nimpulsionadas pela empolgação republicana que tomava conta do Brasil no último quartel do século XIX.\n\nFERNANDES, A. S.; ASSUNÇÃO, G. B; BORSAGLI, A. Contribuições da geografia para\na gestão sustentável das águas na cidade de Belo Horizonte, Minas Gerais, Brasil. In:\nCongresso para o Planeamento Urbano, Regional, integrado e Sustentável (PLURIS'24),\n2024, Guimarães, Portugal. Anais [...]. Guimarães, Portugal. PLURIS'24, 2024.\nA partir das informações sobre a expansão de Belo Horizonte e de seus conhecimentos sobre o assunto, analise as\nafirmações que se seguem.\n\nI. A expansão urbana de Belo Horizonte foi lenta e gradual, sendo alavancada somente na primeira década do século XIX, com o surgimento dos transportes de circulação de massa, como o metrô e o BRT, este último mais conhecido como Move na capital mineira.\nII. O limite planejado para a expansão urbana pela Comissão Construtora da Nova Capital foi superado logo nas primeiras décadas de existência de Belo Horizonte. Além disso, ao final da década de 1990, já havia o processo de conurbação com seus municípios vizinhos.\nIII. O território de Belo Horizonte é considerado urbano, tendo uma alta concentração populacional e uma elevada taxa de impermeabilização, o que produz reflexos socioambientais, como o déficit habitacional e os problemas ligados às enchentes.\n\nÉ CORRETO apenas o que se afirma em:",
+      "alternativas": [
+        {
+          "letra": "A",
+          "texto": "I."
+        },
+        {
+          "letra": "B",
+          "texto": "II."
+        },
+        {
+          "letra": "C",
+          "texto": "I e III."
+        },
+        {
+          "letra": "D",
+          "texto": "II e III."
+        }
+      ],
+      "alternativaCorreta": "D",
+      "conteudos": [
+        "Geografia – Geografia Urbana",
+        "Geografia – Urbanização no Brasil",
+        "Geografia – Impactos Socioambientais Urbanos"
+      ]
+    }
+  ]
+}
